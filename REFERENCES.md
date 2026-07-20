@@ -91,6 +91,10 @@ Dictionary*, Oxford 1899. Cited s.v.
 <a id="burrow2001"></a>**burrow2001** — T. Burrow, *The Sanskrit Language*, rev. ed., Motilal
 Banarsidass 2001. Historical development, PIE connections.
 
+<a id="census2011"></a>**census2011** — Census of India 2011, Language tables (Paper 1 of
+2018): 24,821 persons returned Sanskrit as mother tongue. Cited for present-day speaker
+self-reports; used with "small but real living community" framing.
+
 <a id="jamison2014"></a>**jamison2014** — S. Jamison & J. Brereton, *The Rigveda: The Earliest
 Religious Poetry of India*, Oxford 2014. Introduction cited for Ṛgveda dating (c. 1500–1200 BCE).
 

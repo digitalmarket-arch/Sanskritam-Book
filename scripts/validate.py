@@ -57,16 +57,26 @@ SECTION_NAMES = [
 
 # IAST-only alphabet for deciding whether a parenthesized string is a
 # transliteration (checked) or an English/Hindi gloss (skipped).
+# Lowercase only on purpose: uppercase marks quiz options "(H)", tags, prose.
 IAST_CHARS = set("abcdefghijklmnopqrstuvyāīūṛṝḷḹṃḥśṣñṅṇṭḍ'̐- ")
+
+# Bare signs/mātrās shown metalinguistically ("अं (ṃ)", "ा (ā)") — display
+# contexts, not word transliterations; excluded from the pair check.
+SIGN_TOKENS = {"अं", "अः", "ं", "ः", "ँ", "ऽ", "्",
+               "ा", "ि", "ी", "ु", "ू", "ृ", "ॄ", "ॢ", "ॣ", "े", "ै", "ो", "ौ"}
 
 # Full IPA inventory of STYLE_GUIDE §2 (plus structural marks).
 IPA_CHARS = set(
     "ɐɑaeiourl̩ːkgŋʰʱɡ"
-    "t̪dnɲʈɖɳcjpbmɾʋɕʂshɦ"
+    "t̪dnɲʈɖɳcjpbmɾʋɕʑʂshɦ"
     "͡ ̯̃"
     "wəɪʊʌæɛ"  # appear in contrast/anchor notes about English sounds
     ".ˈˌ()"
 )
+
+# A /…/ span is treated as IPA only if it contains at least one distinctively
+# IPA character — otherwise it is prose ("and/or", file paths, Hindi text).
+IPA_SIGNATURE = set("ɐɑːɾʋɕʑʂɦʈɖɳɲŋʱ̪̩̯̃͡əɪʊʌæɛˈˌ")
 
 DENYLIST = [
     (re.compile(r"\b(Amrit|Arth|Gyan|Dhyaan|Shlok|Kripya)\b"), "1.x-style romanization"),
@@ -74,7 +84,7 @@ DENYLIST = [
 ]
 
 H2_RE = re.compile(r"^## (\d+)\. (.+?)\s*$", re.MULTILINE)
-DEVA_LATIN_RE = re.compile(r"([ऀ-ॿ][ऀ-ॿ‌‍]*)\s*\(([^()]{1,60})\)")
+DEVA_LATIN_RE = re.compile(r"([ऀ-ॿ][ऀ-ॿ‌‍]*(?:[ ][ऀ-ॿ][ऀ-ॿ‌‍]*)*)\s*\(([^()]{1,60})\)")
 IPA_SLASH_RE = re.compile(r"/([^/\s][^/]{0,30})/")
 REF_RE = re.compile(r"\[REF:([a-z0-9-]+)(?:\s+[^\]]+)?\]")
 
@@ -118,7 +128,7 @@ def id_to_path_parts(lesson_id: str) -> tuple[str, str, str]:
 
 
 def looks_like_iast(s: str) -> bool:
-    t = unicodedata.normalize("NFC", s.strip().lower())
+    t = unicodedata.normalize("NFC", s.strip())
     if not t or any(c.isdigit() for c in t):
         return False
     return all(unicodedata.normalize("NFC", c) in IAST_CHARS for c in t)
@@ -219,23 +229,39 @@ def validate_lesson(path: Path, rep: Report, all_ids: set[str], ref_keys: set[st
             if ref not in all_ids:
                 rep.error(path, f"{field} references unknown lesson id '{ref}'")
 
-    # 5. Devanagari↔IAST diff
+    # 5. Devanagari↔IAST diff — heuristics keep glosses/option-markers out:
+    #    skip bare signs, uppercase/tagged/one-letter Latin, multi-word Latin
+    #    against single-word Devanagari, and ASCII-only Latin whose first
+    #    letter disagrees with the expected transliteration (a gloss, not IAST).
     for deva, latin in DEVA_LATIN_RE.findall(body):
-        if not looks_like_iast(latin):
+        d, lat = deva.strip(), latin.strip()
+        if d in SIGN_TOKENS or not looks_like_iast(lat):
             continue
-        expect = norm_translit(to_iast(deva))
-        actual = norm_translit(latin)
+        if " " in lat and " " not in d:
+            continue
+        expect_full = to_iast(d)
+        if lat.isascii():
+            if len(lat) < 2 or " " in lat:
+                continue
+            if not expect_full or lat[0] != expect_full[0]:
+                continue
+        expect = norm_translit(expect_full)
+        actual = norm_translit(lat)
         if expect != actual:
-            rep.error(path, f"transliteration mismatch: {deva} → expected '{to_iast(deva)}', file has '{latin.strip()}'")
+            rep.error(path, f"transliteration mismatch: {d} → expected '{expect_full}', file has '{lat}'")
 
     # 6. denylist
     for rx, label in DENYLIST:
         for hit in rx.findall(body):
             rep.error(path, f"denylist ({label}): '{hit if isinstance(hit, str) else hit[0]}'")
 
-    # 7. IPA charset
+    # 7. IPA charset — only spans that actually look like IPA (contain a
+    #    distinctive IPA character); prose "and/or", paths, Hindi text pass by.
     for ipa in IPA_SLASH_RE.findall(body):
-        bad = {c for c in unicodedata.normalize("NFC", ipa) if c not in IPA_CHARS}
+        norm = unicodedata.normalize("NFC", ipa)
+        if not any(c in IPA_SIGNATURE for c in norm):
+            continue
+        bad = {c for c in norm if c not in IPA_CHARS}
         if bad:
             rep.warn(path, f"IPA string /{ipa}/ uses chars outside STYLE_GUIDE inventory: {sorted(bad)}")
 

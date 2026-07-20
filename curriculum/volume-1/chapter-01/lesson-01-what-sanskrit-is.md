@@ -37,10 +37,10 @@ media:
   worksheets: []
   quizzes: []
 tags: [orientation, history, registers]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-20"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -100,8 +100,9 @@ generation after generation; §17 tells that story. And today, Sanskrit is not a
 > (Constitution of India, Eighth Schedule).
 
 It is a small but real living community: in the 2011 Census of India some 25,000 people reported Sanskrit as
-their mother tongue; All India Radio broadcasts daily Sanskrit news bulletins; spoken-Sanskrit movements such
-as Saṃskṛta Bhāratī run conversation camps worldwide. Modest numbers, honestly stated — a language you can hear on the radio this evening.
+their mother tongue [REF:census2011]; All India Radio broadcasts daily Sanskrit news bulletins; spoken-Sanskrit
+movements such as Saṃskṛta Bhāratī run conversation camps worldwide. Modest numbers, honestly stated — a
+language you can hear on the radio this evening.
 
 ## 5. Scientific Explanation
 

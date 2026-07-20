@@ -7,7 +7,7 @@ title:
   en: "Sounds & Script"
 volume: 1
 cefr_range: pre-A1–A1
-status: draft
+status: reviewed
 created: 2026-07-20
 updated: 2026-07-20
 ---

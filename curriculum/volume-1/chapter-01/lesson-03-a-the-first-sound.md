@@ -40,10 +40,10 @@ media:
     - "planned:assets/worksheets/volume-1/v1c01l03-tracing.pdf"
   quizzes: []
 tags: [phonetics, vowels, devanagari, writing]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-20"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -53,7 +53,7 @@ updated: 2026-07-20
 Open any page of Sanskrit — a verse, a dictionary column, a newspaper line — and look for one
 letter: अ. It is everywhere. Count the vowels in any passage and *a* (together with its long
 partner *ā*) wins by a wide margin: it is the most frequent vowel of the language
-[REF:whitney1889 §22]. Every unmarked consonant on the page is silently carrying it too.
+[REF:whitney1889 §§19–22]. Every unmarked consonant on the page is silently carrying it too.
 Learn this one sound well, and a good part of everything you will ever say in Sanskrit is
 already right. Today you also write your first three letters — by tonight, you will have
 read Devanagari aloud for the first time in your life.
@@ -135,7 +135,7 @@ by these three settings: height (open ↔ close), backness (front ↔ back), and
 > voice switched on. [REF:ladefoged2015] [REF:ohala1994]
 
 > **[FACT · तथ्यम्]** *a* (together with long *ā*) is by a wide margin the most frequent vowel
-> in Sanskrit text. [REF:whitney1889 §22]
+> in Sanskrit text. [REF:whitney1889 §§19–22]
 
 The two facts are connected, and they explain the script. Because /ɐ/ needs almost no
 articulation — no tongue raising, no lip work — every consonant releases into it naturally:
@@ -336,7 +336,8 @@ letters coming in later lessons — so they are ear-vocabulary: learn the sound 
 now, unlock the spelling later. You can already spot today's letters inside them.
 
 - **अमृत** (amṛta) /ɐmr̩t̪ɐ/ "nectar, immortality" — अमृत। Spot अ at the start and म inside.
-  Note the IAST: *amṛta* — never Hindi-style "Amrit"; both *a*-vowels are spoken.
+  Note the IAST: *amṛta* — never the schwa-dropped Hindi-style spelling; both *a*-vowels are
+  spoken, and the ṛ is the syllabic vowel from lesson 2's chart, not "ri".
 - **अग्नि** (agni) /ɐgn̪i/ "fire" — अग्नि, आग। The अ opens the word.
 - **अर्थ** (artha) /ɐɾt̪ʰɐ/ "meaning, purpose" — अर्थ, मतलब। Final *a* fully pronounced.
 - **अहम्** (aham) /ɐɦɐm/ "I" — मैं। Two अs and a म — you can nearly read it already; the ह
@@ -732,7 +733,7 @@ narrator reads them as IPA, not as English spelling.
 - **Glossary flags:** "अन्तर्निहित स्वर (inherent vowel)" used in §7/§15 — candidate for
   GLOSSARY.md addition with first-taught v1.c01.l03; ह्रस्व/दीर्घ deliberately NOT named here
   (GLOSSARY first-taught v1.c01.l04) — §9 length preview stays terminology-free.
-- **Verification flags for Pass C:** [REF:whitney1889 §22] frequency locus — confirm §
+- **Verification flags for Pass C:** [REF:whitney1889 §§19–22] frequency locus — confirm §
   number per research-notes open question; [REF:ashtadhyayi 8.4.68] saṃvṛta interpretation
   — verify against Kāśikā/Cardona as logged.
 - **Count note for Pass D:** front matter `vocabulary_count: 6` (per chapter plan: 4 words +

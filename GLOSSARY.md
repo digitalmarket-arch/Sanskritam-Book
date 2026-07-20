@@ -9,7 +9,7 @@ Sorted by IAST.
 
 | देवनागरी | IAST | English | हिन्दी | First taught |
 |---|---|---|---|---|
-| अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c02 |
+| अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |
 | दीर्घ | dīrgha | long (vowel) | दीर्घ (लम्बा स्वर) | v1.c01.l04 |
 | ह्रस्व | hrasva | short (vowel) | ह्रस्व (छोटा स्वर) | v1.c01.l04 |
 | कण्ठ्य | kaṇṭhya | velar / guttural | कण्ठ्य (कण्ठ से उच्चरित) | v1.c01.l02 |

@@ -42,10 +42,10 @@ media:
     - "planned:assets/worksheets/volume-1/v1c01l04-tracing-matra.pdf"
   quizzes: []
 tags: [phonetics, vowels, matra, devanagari, writing, minimal-pairs]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-20"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -133,7 +133,7 @@ teaches both, on purpose, together.
 
 > **[FACT · तथ्यम्]** आ = /ɑː/ — an open back unrounded vowel, held long: jaw low, tongue low
 > with the back slightly raised, lips neutral. Its duration is roughly twice that of hrasva
-> अ /ɐ/. [REF:whitney1889 §22]
+> अ /ɐ/. [REF:whitney1889 §§19–22]
 
 > **[FACT · तथ्यम्]** Phonemic vowel length — duration alone distinguishing words — is common
 > in the world's languages: Japanese, Finnish, Czech, Arabic and classical Latin all use it,

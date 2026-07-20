@@ -45,7 +45,7 @@ claims, NASA legend, Einstein quote.
 |---|---|---|---|---|
 | 3.1 | अ = /ɐ/, a short near-open central vowel; tongue at rest, no lip rounding. | FACT | STYLE_GUIDE §2.1 decision; [REF:ohala1994] (Hindi /ə~ɐ/ baseline), [REF:ladefoged2015] | Course contract value. |
 | 3.2 | The traditional description: short a is saṃvṛta "closed", vs the open (vivṛta) ā — encoded in the famous final sūtra of the Aṣṭādhyāyī, अ अ (8.4.68). | TRADITION | [REF:ashtadhyayi 8.4.68], [REF:cardona1997] | Beautiful, verified detail: the grammar's last act is to restore the real pronunciation of a. |
-| 3.3 | a (with ā) is by a wide margin the most frequent vowel in Sanskrit text. | FACT | [REF:whitney1889 §22] | Whitney's frequency observation; phrased qualitatively. |
+| 3.3 | a (with ā) is by a wide margin the most frequent vowel in Sanskrit text. | FACT | [REF:whitney1889 §§19–22] | Whitney's frequency observation; phrased qualitatively. |
 | 3.4 | Every consonant letter in Devanagari, unmarked, is read with अ (the inherent vowel). | FACT | [REF:masica1991 ch.6] | The script rule taught in L3 §15. |
 | 3.5 | English speakers' typical errors: replacing /ɐ/ with /æ/ (cat) or /ɑ/ (father, too long/back); Hindi speakers': deleting final -a (dharm for dharma) per Hindi phonology. | FACT | [REF:ohala1994] (schwa deletion in Hindi); [REF:ladefoged2015] | Feeds §12 Common Mistakes + quiz distractors. |
 | 3.6 | Example words beginning with अ, attested: अमृत "nectar, immortality", अग्नि "fire", अर्थ "meaning, purpose", अहम् "I". | FACT | [REF:apte1890 s.v.] | Displayed with audio; only अ क म त ल are *readable* at this point — the rest are 🔊 listen-only per EDITORIAL_GUIDELINES §14 rule. |
@@ -56,7 +56,7 @@ claims, NASA legend, Einstein quote.
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 4.1 | आ = /ɑː/, long open back unrounded; duration ≈ 2× hrasva अ. | FACT | STYLE_GUIDE §2.1; [REF:whitney1889 §22], [REF:ladefoged2015] | Traditional measure: hrasva = 1 mātrā, dīrgha = 2 (Śikṣā/prātiśākhya doctrine). |
+| 4.1 | आ = /ɑː/, long open back unrounded; duration ≈ 2× hrasva अ. | FACT | STYLE_GUIDE §2.1; [REF:whitney1889 §§19–22], [REF:ladefoged2015] | Traditional measure: hrasva = 1 mātrā, dīrgha = 2 (Śikṣā/prātiśākhya doctrine). |
 | 4.2 | Length is phonemic — minimal pairs exist. Verified pairs usable in Ch 1: कल "indistinct/sweet (of sound)" vs काल "time"; तल "surface, bottom" vs ताल "rhythm; palmyra"; मल "dirt, impurity" vs माला "garland" (near-pair, differs in final ā too). | FACT | [REF:apte1890 s.v. कल, काल, तल, ताल, मल, माला] | Use कल/काल and तल/ताल as the true minimal pairs. |
 | 4.3 | The mātrā ा (ā-kāra sign) attaches to the right of a consonant: क + आ = का. Independent letter आ is used word-initially; the mātrā is used after consonants. | FACT | [REF:masica1991 ch.6] | THE flagship fix (IR-007). |
 | 4.4 | Readable words after L4 (glyph set अ आ क म त ल + ा), all attested: मम "my", माता "mother", लता "vine", माला "garland", कला "art", कमल "lotus", तल "surface", काल "time", ताल "rhythm", अमल "spotless", कमला "Lakṣmī; splendid woman", मत "thought, opinion". | FACT | [REF:apte1890 s.v. each], [REF:monierwilliams1899] | 12 real words readable by end of Ch 1 — exceeds the 8-word can-do. |

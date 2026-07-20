@@ -37,10 +37,10 @@ media:
   worksheets: []
   quizzes: []
 tags: [phonetics, varnamala, ipa]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-20"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -147,7 +147,7 @@ only need the *shape* of the table.
 |---|---|---|---|---|---|---|
 | क-वर्ग | कण्ठ्य (kaṇṭhya) velar — back of tongue + soft palate | क /k/ | ख /kʰ/ | ग /g/ | घ /gʱ/ | ङ /ŋ/ |
 | च-वर्ग | तालव्य (tālavya) palatal — tongue body + hard palate | च /t͡ɕ/ | छ /t͡ɕʰ/ | ज /d͡ʑ/ | झ /d͡ʑʱ/ | ञ /ɲ/ |
-| ट-वर्ग | मूर्धन्य (mūrdhanya) retroflex — tongue tip curled behind the teeth | ट /ʈ/ | ठ /ʈʰ/ | ड /ɖ/ | ढ /ɖʱ/ | ण /ɳ/ |
+| ट-वर्ग | मूर्धन्य (mūrdhanya) retroflex — tongue tip curled back toward the roof of the mouth | ट /ʈ/ | ठ /ʈʰ/ | ड /ɖ/ | ढ /ɖʱ/ | ण /ɳ/ |
 | त-वर्ग | दन्त्य (dantya) dental — tongue tip on the teeth | त /t̪/ | थ /t̪ʰ/ | द /d̪/ | ध /d̪ʱ/ | न /n̪/ |
 | प-वर्ग | ओष्ठ्य (oṣṭhya) labial — the two lips | प /p/ | फ /pʰ/ | ब /b/ | भ /bʱ/ | म /m/ |
 
