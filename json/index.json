@@ -1,0 +1,100 @@
+{
+  "generated_by": "scripts/export_json.py",
+  "lessons": [
+    {
+      "id": "v1.c01.l01",
+      "title": {
+        "sa": "संस्कृतस्य लोकः",
+        "sa_iast": "saṃskṛtasya lokaḥ",
+        "hi": "संस्कृत की दुनिया",
+        "en": "What Sanskrit Is"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [],
+      "review_of": [],
+      "path": "curriculum/volume-1/chapter-01/lesson-01-what-sanskrit-is.md",
+      "json": "json/volume-1/v1.c01.l01.json"
+    },
+    {
+      "id": "v1.c01.l02",
+      "title": {
+        "sa": "ध्वनिमानचित्रम्",
+        "sa_iast": "dhvanimānacitram",
+        "hi": "ध्वनियों का नक्शा",
+        "en": "The Sound Map"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c01.l01"
+      ],
+      "review_of": [
+        "v1.c01.l01"
+      ],
+      "path": "curriculum/volume-1/chapter-01/lesson-02-the-sound-map.md",
+      "json": "json/volume-1/v1.c01.l02.json"
+    },
+    {
+      "id": "v1.c01.l03",
+      "title": {
+        "sa": "अकारः",
+        "sa_iast": "akāraḥ",
+        "hi": "अ की ध्वनि",
+        "en": "A — The First Sound"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c01.l02"
+      ],
+      "review_of": [
+        "v1.c01.l01",
+        "v1.c01.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-01/lesson-03-a-the-first-sound.md",
+      "json": "json/volume-1/v1.c01.l03.json"
+    },
+    {
+      "id": "v1.c01.l04",
+      "title": {
+        "sa": "आकारः",
+        "sa_iast": "ākāraḥ",
+        "hi": "आ — लम्बाई का महत्व",
+        "en": "Ā — Length Matters"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c01.l03"
+      ],
+      "review_of": [
+        "v1.c01.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-01/lesson-04-aa-length-matters.md",
+      "json": "json/volume-1/v1.c01.l04.json"
+    },
+    {
+      "id": "v1.c01.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "दोहराव और मूल्यांकन",
+        "en": "Review & Assessment"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c01.l04"
+      ],
+      "review_of": [
+        "v1.c01.l01",
+        "v1.c01.l02",
+        "v1.c01.l03",
+        "v1.c01.l04"
+      ],
+      "path": "curriculum/volume-1/chapter-01/lesson-05-review-and-assessment.md",
+      "json": "json/volume-1/v1.c01.l05.json"
+    }
+  ]
+}

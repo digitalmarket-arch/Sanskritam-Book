@@ -1,0 +1,362 @@
+{
+  "frontmatter": {
+    "id": "v1.c01.l03",
+    "schema_version": 1,
+    "title": {
+      "sa": "अकारः",
+      "sa_iast": "akāraḥ",
+      "hi": "अ की ध्वनि",
+      "en": "A — The First Sound"
+    },
+    "volume": 1,
+    "chapter": 1,
+    "lesson": 3,
+    "lesson_type": "sound",
+    "cefr": "pre-A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v1.c01.l02"
+    ],
+    "review_of": [
+      "v1.c01.l01",
+      "v1.c01.l02"
+    ],
+    "objectives": [
+      {
+        "en": "Produce the vowel अ /ɐ/ accurately, in isolation and inside syllables.",
+        "hi": "स्वर अ /ɐ/ का शुद्ध उच्चारण करें — अकेले भी और अक्षरों (कम, मक जैसे) के भीतर भी।"
+      },
+      {
+        "en": "Write the letters अ, क and म with correct stroke order.",
+        "hi": "वर्ण अ, क और म को सही रेखा-क्रम (stroke order) से लिखें।"
+      },
+      {
+        "en": "State the inherent-vowel rule and apply it: क alone reads ka, not k.",
+        "hi": "अन्तर्निहित स्वर का नियम बताएँ और लागू करें — अकेला क 'ka' पढ़ा जाता है, 'k' नहीं।"
+      },
+      {
+        "en": "Read the practice syllables of the taught set (अक, अम, कम, मक, कमक) aloud from print.",
+        "hi": "सीखे हुए वर्णों से बने अभ्यास-अक्षर (अक, अम, कम, मक, कमक) छपे रूप से ऊँची आवाज़ में पढ़ें।"
+      }
+    ],
+    "new_letters": [
+      "अ",
+      "क",
+      "म"
+    ],
+    "new_matras": [],
+    "vocabulary_count": 6,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-1/v1c01l03-a-lettercard.svg",
+        "planned:assets/images/volume-1/v1c01l03-stroke-order-a-ka-ma.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c01l03-a-drill.mp3",
+        "planned:assets/audio/volume-1/v1c01l03-syllable-drill.mp3"
+      ],
+      "diagrams": [
+        "planned:assets/diagrams/volume-1/v1c01l03-mouth-position-a.svg"
+      ],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c01l03-tracing.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "phonetics",
+      "vowels",
+      "devanagari",
+      "writing"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-20"
+    ],
+    "created": "2026-07-20",
+    "updated": "2026-07-20"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Open any page of Sanskrit — a verse, a dictionary column, a newspaper line — and look for one\nletter: अ. It is everywhere. Count the vowels in any passage and *a* (together with its long\npartner *ā*) wins by a wide margin: it is the most frequent vowel of the language\n[REF:whitney1889 §§19–22]. Every unmarked consonant on the page is silently carrying it too.\nLearn this one sound well, and a good part of everything you will ever say in Sanskrit is\nalready right. Today you also write your first three letters — by tonight, you will have\nread Devanagari aloud for the first time in your life."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Produce the vowel अ /ɐ/ accurately, in isolation and inside syllables. | स्वर अ /ɐ/ का शुद्ध उच्चारण करें — अकेले भी और अक्षरों (कम, मक जैसे) के भीतर भी। |\n| 2 | Write the letters अ, क and म with correct stroke order. | वर्ण अ, क और म को सही रेखा-क्रम से लिखें। |\n| 3 | State the inherent-vowel rule and apply it: क alone reads *ka*, not *k*. | अन्तर्निहित स्वर का नियम बताएँ और लागू करें — अकेला क 'ka' पढ़ा जाता है, 'k' नहीं। |\n| 4 | Read the practice syllables of the taught set (अक, अम, कम, मक, कमक) aloud from print. | सीखे हुए वर्णों से बने अभ्यास-अक्षर छपे रूप से ऊँची आवाज़ में पढ़ें। |\n\nObjective 1 is practiced in §18 (exercises 2, 4); objective 2 in §18 (exercise 1) and §19\n(Q6); objective 3 in §18 (exercise 6) and §19 (Q1–2); objective 4 in §18 (exercises 2, 3)\nand §19 (Q8)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठों की पुनरावृत्ति — answer from memory *before* looking anything up.\n\n1. Name the five places of articulation in order, back of the mouth to the front (Sanskrit or\n   English names).\n2. Within one varga row, what is the fixed order of the five manners?\n3. What does a symbol between slashes — like /k/ — refer to, and how is it different from a\n   symbol in [brackets]?\n4. Lesson 2 previewed a script rule: Devanagari is an *abugida*. From memory — what did the\n   preview say the letter क reads as, and why? (Today that preview becomes the real lesson.)\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. कण्ठ्य velar → तालव्य palatal → मूर्धन्य retroflex → दन्त्य dental → ओष्ठ्य labial.\n2. Voiceless → voiceless aspirated → voiced → voiced breathy → nasal.\n3. /k/ names a phoneme, a sound category of the language; [brackets] record phonetic detail —\n   what actually comes out of a mouth.\n4. क reads *ka*, not *k* — every unmarked consonant letter carries an inherent अ. Lesson 2\n   only announced this; today we learn and use it.\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — the tradition did not merely use अ; it thought hard about it, and saved\nits best line about it for last.\n\n> **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī (\"Eight Chapters\"), composed around the 4th\n> century BCE (estimates vary), describes Sanskrit in roughly 4,000 short rules and\n> effectively fixed the classical norm of the language. [REF:cardona1997]\n\nInside that grammar hides a famous detail about today's sound. To make his rules elegant,\nPāṇini needed short *a* and long *ā* to count as the \"same\" vowel — so, within the grammar,\nhe treated short *a* as if it were pronounced open, the way *ā* is. A useful fiction, but a\nfiction. And he knew it.\n\n> **[TRADITION · परम्परा]** The very last sūtra of the Aṣṭādhyāyī — 8.4.68, in its entirety:\n> **अ अ** (a a) — undoes the fiction. In the traditional interpretation it says: the open\n> (vivṛta) *a* used inside the grammar is now replaced by the real closed (saṃvṛta) *a* of\n> actual speech. The grammar's final act, after thousands of rules, is to hand the sound अ\n> back to the speakers — pronounced the way people really say it.\n> [REF:ashtadhyayi 8.4.68] [REF:cardona1997]\n\nSit with that for a second: a grammarian some 2,400 years ago not only heard the fine\ndifference between an open and a closed *a* — he built his book so that its closing gesture\nrestores the true pronunciation. That closed, relaxed *a* is exactly the sound you learn\ntoday."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — what your mouth actually does for /ɐ/.\n\nVowels have no closure anywhere — the air flows freely, and what shapes the sound is *where\nthe tongue sits*, *how open the jaw is*, and *what the lips do*. Phoneticians map every vowel\nby these three settings: height (open ↔ close), backness (front ↔ back), and lip rounding.\n\n> **[FACT · तथ्यम्]** अ /ɐ/ is a short near-open central unrounded vowel: the jaw slightly\n> open, the tongue resting in the middle of the mouth — neither raised nor pushed forward or\n> back — and the lips neutral. It is close to a \"rest position\" of the vocal tract with the\n> voice switched on. [REF:ladefoged2015] [REF:ohala1994]\n\n> **[FACT · तथ्यम्]** *a* (together with long *ā*) is by a wide margin the most frequent vowel\n> in Sanskrit text. [REF:whitney1889 §§19–22]\n\nThe two facts are connected, and they explain the script. Because /ɐ/ needs almost no\narticulation — no tongue raising, no lip work — every consonant releases into it naturally:\nclose the lips for म, let go, and *ma* happens by itself. A maximally cheap, maximally\nfrequent vowel is exactly the vowel you would build *into* the consonant letters rather than\nwrite again and again. That is precisely what Devanagari does (§15). The design is not\nmystical; it is economical."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit (🔊 recorded in the\nChapter 1 drill pack; you can already *read* the first word of each line).\n\nअ इति प्रथमः स्वरः।\n(a iti prathamaḥ svaraḥ.) \"*a* is the first vowel.\" — अ पहला स्वर है।\n\nअत्र अ अस्ति।\n(atra a asti.) \"Here is *a*.\" — यहाँ अ है।\n\nTwo familiar pieces: इति (iti), the little quoting word from lesson 2's dialogue, and स्वर\n(svara) \"vowel\" from the sound map. One new word to keep: प्रथम (prathama) \"first\" — अ is\nप्रथमः स्वरः, the first vowel of the varṇamālā."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nआज का स्वर आपके लिए नया नहीं है — हिन्दी बोलने वाले सुबह से शाम तक अ का उच्चारण करते हैं। सच\nपूछिए तो हिन्दी की अ और संस्कृत की अ की आवाज़ लगभग एक ही है। फिर इस पाठ में नया क्या है? नया\nहै अ का *पूरा अधिकार* — संस्कृत में लिखी हुई हर अ बोली जाती है। हर एक। शब्द के अन्त वाली भी।\n\nध्यान से देखिए — हिन्दी में हम लिखते हैं धर्म, पर बोलते हैं \"धर्म्\" — अन्त की अ चुपचाप गिर जाती\nहै। कमल लिखते हैं, बोलते हैं \"कमल्\"। यह कोई ग़लती नहीं, हिन्दी की अपनी स्वाभाविक ध्वनि-आदत है —\nभाषाविज्ञान में इसे अ-लोप (schwa deletion) कहते हैं। पर संस्कृत बोलते समय यह आदत उतारकर रखनी\nहोगी: संस्कृत का धर्म पूरा *dharma* है — धर्-म, अन्त की अ खुलकर सुनाई देती है। कमल तीन पूरे\nअक्षर है — क-म-ल — और तीनों में अ बोली जाती है। उँगलियों पर गिनकर बोलिए: क (एक), म (दो), ल\n(तीन)। हिन्दी बोलने वालों के लिए यही इस पाठ की सबसे बड़ी बात है — बाक़ी सब आपको पहले से आता है।\n\nदूसरी बात — व्यञ्जन के भीतर बैठी हुई अ। जब आप क लिखते हैं, तो वह केवल क् नहीं है — उसके भीतर\nअ पहले से मौजूद है: क = क् + अ। इसीलिए अकेले क को \"ka\" पढ़ते हैं, \"k\" नहीं। पिछले पाठ का शब्द\nयाद कीजिए — देवनागरी एक *abugida* है: व्यञ्जन अपने साथ अ लेकर चलता है। इसीलिए कम में कहीं अ\nलिखी नहीं दिखती, फिर भी दो बार बोली जाती है — क-म (ka-ma)। यह नियम आज से आपकी हर पढ़ाई की\nनींव है; इसका नाम रख लीजिए — अन्तर्निहित स्वर (भीतर बैठा हुआ स्वर)।\n\nऔर उच्चारण कैसे करें? जबड़ा बस एक उँगली जितना खुले, जीभ आराम से बीच में पड़ी रहे, होंठ न गोल न\nफैले — और आवाज़ बाहर आने दीजिए। यही अ है — सबसे कम मेहनत वाला स्वर। कल इसकी बड़ी बहन आ\nआएगी — तब स्वर की लम्बाई का खेल शुरू होगा, और आप अपने पहले असली शब्द पढ़ेंगे।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "Three jobs today: the sound, the rule, the letters.\n\n### The sound: /ɐ/, the low-effort vowel\n\nSanskrit अ is a short, full vowel made with the mouth almost at rest: jaw slightly open,\ntongue central and relaxed, lips doing nothing. In IPA it is /ɐ/ — near-open, central,\nunrounded.\n\nEnglish gets you close but not home, and honesty about anchors is course policy:\n\n- **Closest anchor: the vowel of \"cup\", \"but\" — English /ʌ/.** Good neighborhood, but English\n  /ʌ/ sits slightly more open and further back than अ. Start from \"cup\" and relax everything\n  toward the center.\n- **Second anchor: the first vowel of \"about\" — the schwa /ə/.** Central like अ, but a schwa\n  is a *reduced*, weak, unstressed vowel — a mumble. अ is never a mumble: it is a full,\n  steady vowel that can carry a syllable in any position, stressed or not.\n\nIf you speak Hindi, your anchor is better than any English word: the Hindi inherent vowel is\nessentially the same sound — your one adjustment is pronouncing it in *every* written\nposition, including word-finally (§12, mistake 3).\n\n### The rule: every consonant comes with अ inside\n\nThe single most important fact about reading Devanagari:\n\n**An unmarked consonant letter is read as the consonant + अ.** क alone is *ka*, never *k*.\nम alone is *ma*. This inherent vowel is invisible — nothing extra is written — and it is\nalways there unless something explicitly replaces or removes it.\n\nThis is why lesson 2's grid read *ka kha ga* rather than *k kh g*, and it is why you can\nalready read strings with no vowel letter in sight: कम = *ka* + *ma* = *kama*. मक = *maka*.\nWhat if you need a bare consonant with no vowel? There is a silencing stroke (virāma ्) —\nfull mechanics in Chapter 5; you do not need it yet. And other vowels replacing अ? That is\nthe mātrā system — it starts tomorrow with आ.\n\n### The letters: अ, क, म\n\n- **अ** — the independent vowel letter. Used when the sound *a* stands on its own, with no\n  consonant in front of it: at the start of अक (*aka*) or of अमृत (amṛta) \"nectar\". Inside\n  कम no अ is written — the consonants carry it.\n- **क** (*ka*) /k/ and **म** (*ma*) /m/ — your two helper consonants, both from lesson 2's\n  map: क velar, म labial nasal. In Chapter 1 they are glyph + sound only, here so that you\n  can build real syllables; their full varga treatment comes in Chapter 3.\n\nOne more preview: अ is a *short* vowel — one beat. Tomorrow's आ is the same mouth further\nopen, held for two beats, and the difference changes word meanings. Keep अ crisp today and\ntomorrow's contrast will come free."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — three drills, in order. Audio: 🔊 `assets/audio/volume-1/v1c01l03-a-drill.mp3`\n(isolation) and 🔊 `assets/audio/volume-1/v1c01l03-syllable-drill.mp3` (syllables).\n\n**Drill 1 — isolation.** Play the model. Echo each token exactly — short, steady, no glide:\nअ · अ · अ · अ · अ. Five rounds. Checkpoints: jaw one finger open, lips slack, the sound\nidentical from first to last. If your vowel drifts toward \"cup\" or stretches long, stop and\nreset from a silent rest position.\n\n**Drill 2 — the syllable ladder.** The inherent vowel in action, easiest to hardest:\n\n| Step | Devanagari | IAST | IPA |\n|---|---|---|---|\n| 1 | क | ka | /kɐ/ |\n| 2 | म | ma | /mɐ/ |\n| 3 | कम | kama | /kɐmɐ/ |\n| 4 | मक | maka | /mɐkɐ/ |\n| 5 | अक | aka | /ɐkɐ/ |\n| 6 | अम | ama | /ɐmɐ/ |\n| 7 | कमक | kamaka | /kɐmɐkɐ/ |\n\nListen–repeat twice slowly, once at speaking speed. These are practice syllables, not\ndictionary words (§13) — their job is pure: every vowel in the ladder is the same short /ɐ/.\n\n**Drill 3 — the equality check.** English habit is to stress one syllable and shrink the\nrest: *kama* becomes \"KAH-muh\". Sanskrit gives both vowels full value: क-म, two equal short\nbeats. Tap the table once per syllable as you say कम, मक, कमक — every tap identical. This\ntap-habit will carry you all the way through the course.\n\n**Length preview (ears only):** at the end of the isolation track the model says अ, then\nholds the long आ — one beat, then two. Just listen; producing आ is tomorrow's lesson, where\nthe tradition's terms for short and long arrive properly."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "The course value (STYLE_GUIDE §2): अ = **/ɐ/** — short near-open central unrounded vowel.\n\nNarrow notes:\n\n- **Word-final position:** in careful Sanskrit pronunciation, a final *a* keeps its full\n  quality — dharma is [d̪ʱɐɾmɐ], ending in a real [ɐ]. This is exactly where Hindi habit\n  differs (Hindi deletes it: [d̪ʱɐɾm]), so the transcription is worth staring at: that final\n  [ɐ] is not optional. [REF:ohala1994]\n- **Nasal contexts:** next to nasal sounds you may hear a nasalized [ɐ̃]. Preview only — the\n  anusvāra and its rules come later in Volume 1; nothing to produce yet.\n- Reminder from lesson 2: /ɐ/ in slashes is the phoneme — the category; [ɐ] in brackets is\n  phonetic detail. Today they conveniently look the same."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — walkthrough of the diagram (planned:\n`assets/diagrams/volume-1/v1c01l03-mouth-position-a.svg`): a head in cross-section, tongue\nlying flat, jaw slightly dropped, lips neutral.\n\nSettings for /ɐ/:\n\n1. **Jaw:** open about one finger's width — slip your index finger sideways between your\n   front teeth; that is the whole opening.\n2. **Tongue:** completely at rest, lying flat in the middle of the mouth, tip relaxed behind\n   the lower front teeth. If you can feel your tongue *doing* something, it is doing too much.\n3. **Lips:** neutral — not rounded, not spread into a smile. Slack.\n\n**Mirror check:** say अ five times watching your lips. They should not move at all — no\nrounding (that drifts you toward an o-like sound), no spreading. **Hand-under-jaw check:**\nrest the back of your hand under your chin and alternate silence → अ → silence. You should\nfeel one small, constant drop — the same each time. **The म-gate:** hum a long म /m/, then\nopen the jaw one finger while the voice continues — the sound that falls out is अ. This is\nthe cleanest way to find the vowel, because it starts from genuine rest."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — four real errors, each with a fix. These feed the quiz distractors.\n\n1. **The \"cat\" substitution — /æ/** (English speakers). The vowel of *cat* is a front vowel;\n   अ is central. The result sounds distinctly foreign and collides with no Sanskrit vowel —\n   it is simply outside the system. *Fix:* the म-gate (§11): hum म, drop the jaw one finger,\n   let the vowel fall out — the tongue never moves forward. Record and compare against the\n   drill audio.\n2. **Over-lengthening toward /ɑː/ — \"father\"** (English speakers). Long open [ɑː] is\n   tomorrow's letter आ. Stretch your अ and you erase the length contrast before you have even\n   learned it — and length changes meanings in Sanskrit. *Fix:* the tap drill (§9, drill 3):\n   one tap, one short beat, done.\n3. **Deleting the final a — \"dharm\", \"kamal\"** (Hindi speakers). Hindi phonology regularly\n   drops this vowel; Sanskrit never does — *dharma*, *kamala*, every *a* spoken.\n   [REF:ohala1994] *Fix:* finger-count the syllables as you speak — dhar-ma (2), ka-ma-la\n   (3) — and exaggerate the final vowel for a week; it will settle to natural size by itself.\n4. **Rounding the lips.** Even slight rounding pulls the vowel toward an o-like color.\n   *Fix:* mirror (§11): say the ladder watching only your lips; touch a fingertip to each\n   lip-corner — the corners must not move inward."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — with an honest line drawn through the middle.\n\n### Real words (🔊 listen-only for now)\n\nThese are attested Sanskrit words beginning with अ. You cannot *read* them yet — they use\nletters coming in later lessons — so they are ear-vocabulary: learn the sound and meaning\nnow, unlock the spelling later. You can already spot today's letters inside them.\n\n- **अमृत** (amṛta) /ɐmr̩t̪ɐ/ \"nectar, immortality\" — अमृत। Spot अ at the start and म inside.\n  Note the IAST: *amṛta* — never the schwa-dropped Hindi-style spelling; both *a*-vowels are\n  spoken, and the ṛ is the syllabic vowel from lesson 2's chart, not \"ri\".\n- **अग्नि** (agni) /ɐgn̪i/ \"fire\" — अग्नि, आग। The अ opens the word.\n- **अर्थ** (artha) /ɐɾt̪ʰɐ/ \"meaning, purpose\" — अर्थ, मतलब। Final *a* fully pronounced.\n- **अहम्** (aham) /ɐɦɐm/ \"I\" — मैं। Two अs and a म — you can nearly read it already; the ह\n  and the final silencing stroke arrive in later lessons.\n\n### Practice syllables (readable today — but not words)\n\nअक (aka) · अम (ama) · कम (kama) · मक (maka) · कमक (kamaka)\n\nFull honesty: these are **drill units**, not dictionary words. They exist so that your first\nreading uses only letters you have actually learned. Real readable words — मम \"my\", माता\n\"mother\", कमल \"lotus\" and more — arrive tomorrow, the moment आ and two more consonants join\nthe set. One lesson of patience buys you twelve real words by the end of the chapter."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — four ear-words (🔊) and today's three letters as writing-practice units.\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| अमृत | amṛta | /ɐmr̩t̪ɐ/ | nectar, immortality | अमृत | 🔊 audio-only until its letters arrive |\n| अग्नि | agni | /ɐgn̪i/ | fire | अग्नि, आग | 🔊 audio-only until its letters arrive |\n| अर्थ | artha | /ɐɾt̪ʰɐ/ | meaning, purpose | अर्थ, मतलब | 🔊 audio-only until its letters arrive |\n| अहम् | aham | /ɐɦɐm/ | I | मैं | 🔊 audio-only until its letters arrive |\n| अ | a | /ɐ/ | the vowel a | अ (वर्ण) | letter, not a word — writing practice |\n| क | ka | /kɐ/ | the consonant ka | क (वर्ण) | letter, not a word — helper consonant, full treatment v1.c03 |\n| म | ma | /mɐ/ | the consonant ma | म (वर्ण) | letter, not a word — helper consonant, full treatment v1.c03 |"
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in Volume 1 \"grammar\" is often a **script rule**; today's is the biggest one in\nthe whole writing system.\n\n### The inherent vowel\n\n> **[FACT · तथ्यम्]** Devanagari is an abugida: every consonant letter, unmarked, is read as\n> consonant + अ. क = *ka*, म = *ma*, कम = *kama*. Other vowels attach to consonants as signs\n> (mātrās — from lesson 4), and a silencing stroke (virāma ् — Chapter 5) removes the\n> inherent vowel when a bare consonant is needed. [REF:masica1991 ch.6]\n\nWhen do you write the letter अ itself? Only when the vowel stands **without a consonant in\nfront of it** — typically at the start of a word or syllable: अक (*aka*), अमृत (*amṛta*).\nAfter a consonant, *a* is never written — it is already there. So कम (*kama*) contains two\nspoken *a*s and zero written ones. Read क as \"consonant क् plus free अ\" and every string in\nthis lesson decodes itself.\n\n### Writing अ, क, म — stroke order\n\nOne common classroom convention follows, and an honest note with it: stroke-order traditions\nfor Devanagari vary between schools — there is no single canonical order. This course teaches\none consistent convention; the stroke-order diagram\n(`assets/images/volume-1/v1c01l03-stroke-order-a-ka-ma.svg`) is the authority, and the rules\nthat generalize are: **body first, stem next, headline (शिरोरेखा) last; left before right,\ntop before bottom.**\n\n**अ — 3 strokes.**\n1. The left half: one continuous motion — start near the top, draw the upper curve down to\n   the middle, flow into the lower loop, and finish with the short arm pointing right at\n   mid-height. (This double curve is the hard part; see §22.)\n2. The stem: vertical bar, top to bottom, meeting the mid-height arm.\n3. The headline: one horizontal line across the top, left to right.\n\n**क — 3 strokes.**\n1. The bowl and knot: from the stem-line at mid-height, curve left, down and around, coming\n   back to cross your starting point — the little knot closes the loop.\n2. The stem: vertical bar, top to bottom, through the crossing.\n3. The headline, last.\n\n**म — 3 strokes.**\n1. The body: start at the top, descend into the small loop at the lower left, then sweep\n   right along the base and up to meet the stem-line.\n2. The stem: vertical bar, top to bottom.\n3. The headline, last.\n\nWrite big at first — half a page per letter. Precision scales down; it never scales up."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — the smallest dialogue in the whole course, and the most important one: your first\npublic act of reading. 🔊 audio recorded in the Chapter 1 drill pack (§27). The teacher\npoints at a letter on the board.\n\n— शिष्यः: अ!\n(a!) \"a!\" — अ!\n\n— गुरुः: आम्!\n(ām!) \"Yes!\" — हाँ!\n\nThat is the entire exchange. आम् (ām) \"yes\" is ear-vocabulary — it begins with tomorrow's\nletter आ, so today you say it and hear it without reading it. By tomorrow evening you will\nread both sides of this dialogue."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — why a tradition would bow to its easiest sound.\n\nSanskrit literature saves one of its most famous self-descriptions for अ. In the Bhagavad\nGītā, in the chapter where Kṛṣṇa names the foremost of every class of things — of mountains,\nof rivers, of seasons — he comes to speech itself:\n\n> **[SYMBOL · प्रतीकम्]** अक्षराणाम् अकारोऽस्मि (akṣarāṇām akāro 'smi) — \"Of syllables I am\n> the *a*.\" [REF:bhagavadgita 10.33] This is the tradition's poetry about अ — a statement of\n> the sound's primacy and pervasiveness, honored here as literature. It is not a phonological\n> claim, and it will never appear in a quiz.\n\nWhy *this* sound, of all sixty-odd? Notice what you learned today and the choice explains\nitself. अ is the vowel your mouth makes from rest — no reaching, no rounding, no effort. It\nis the most frequent vowel of the language. It hides inside every unmarked consonant letter,\nso it is silently present across every line of text, the way — a poet might say — something\nfundamental is silently present in everything. The tradition looked at its own sound system,\nfound the humblest and most pervasive member, and gave it the seat of honor. You do not need\nthe metaphysics to feel the aptness. And Pāṇini, working centuries earlier with a scientist's\ntemperament rather than a poet's, gave अ a different kind of honor: he ended his entire\ngrammar by restoring its true pronunciation (§4). Two very different minds, one conclusion:\nthis little sound matters."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — do these in order; 1, 2, 3 and 6 are production tasks.\n\n**अभ्यासः 1 · लेखनम् (writing/tracing).** Print the worksheet\n(`assets/worksheets/volume-1/v1c01l03-tracing.pdf`). For each of अ, क, म: trace the guided\noutlines 5 times following the numbered strokes (body → stem → headline), then write it 5\ntimes freehand. Circle your best freehand attempt of each letter — self-judging is part of\nthe exercise.\n\n**अभ्यासः 2 · उच्चारणम् (speak & record).** Record yourself: the isolation drill (अ ×5), then\nthe full syllable ladder (§9) — two slow rounds, one at speaking speed. Play your recording\nagainst the model audio. Checklist, in writing: Are all vowels equally short? Any\n\"KAH-muh\"-style stress shrinking? Lips still at the corners?\n\n**अभ्यासः 3 · श्रुतलेखः (dictation).** Play the dictation section of the syllable-drill audio\n(🔊), or have a partner read 10 items from the set {अ, क, म, अक, अम, कम, मक, कमक} in random\norder. Write each one in Devanagari. Check against the transcript; 8/10 is a pass. Wrong\nitems go on tomorrow's warm-up list.\n\n**अभ्यासः 4 · दर्पणाभ्यासः (mirror check, written answers).** In front of a mirror, say अ five\ntimes, then run the म-gate (hum म, open to अ). Answer in writing: Did the jaw drop about one\nfinger? Did the lips move at all? Where was your tongue-tip? One sentence: what did you\ncorrect?\n\n**अभ्यासः 5 · अन्वेषणम् (letter hunt, written answers).** (a) In this line of letters, circle\nevery अ — and do not circle आ, tomorrow's letter with the extra right-hand bar:\nम आ क अ म ल अ क आ त अ म. (b) In the 🔊 words अमृत, अग्नि, अर्थ, अहम्, underline every letter\nyou have already learned (अ, क, म). Count your finds and write the totals.\n\n**अभ्यासः 6 · लिप्यन्तरणम् (transliteration, written answers).** Apply the inherent-vowel rule\nboth ways. Write in IAST: अ, कम, मक, अक, अम, कमक. Write in Devanagari: ka, ama, maka,\nkamaka. No mātrās exist yet in your world, so every syllable is consonant + built-in *a* —\nif you find yourself wanting to write an अ after a consonant, stop and re-read §15."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. By the inherent-vowel rule, the letter क standing alone reads: (a) *k* (b) *ka* (c) *kā*\n   (d) *ak*\n2. The string मक reads: (a) *mak* (b) *mka* (c) *maka* (d) *māka*\n3. The IPA value of अ in this course is: (a) /æ/ (b) /ɑː/ (c) /ə/ (d) /ɐ/\n4. An English speaker pronounces अ like the vowel of *cat*. What exactly is wrong? (a)\n   Nothing — it is the same vowel. (b) The *cat* vowel /æ/ is a front vowel; अ /ɐ/ is central\n   — the tongue should stay at rest. (c) The *cat* vowel is too short. (d) अ requires rounded\n   lips.\n5. A learner says \"dharm\" for धर्म (dharma). Which mistake is this? (a) the English /æ/\n   substitution (b) Hindi-style deletion of the final *a* (c) lip rounding (d)\n   over-lengthening to /ɑː/\n6. In the convention taught in this lesson, which stroke of अ comes last? (a) the left curves\n   (b) the vertical stem (c) the headline (d) the mid-height arm\n7. In careful Sanskrit pronunciation, the final *a* of *dharma* is: (a) silent, as in Hindi\n   (b) pronounced as a full short /ɐ/ (c) lengthened to /ɑː/ (d) optional, speaker's choice\n8. Which of these was presented in this lesson as a real attested word (not a practice\n   syllable)? (a) कम (b) मक (c) अमृत (d) कमक\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) *ka* — every unmarked consonant letter carries the inherent अ.\n2. (c) *maka* — two consonants, two free inherent vowels. (\"mak\" is the Hindi-deletion error;\n   \"māka\" the over-length error.)\n3. (d) /ɐ/ — near-open central unrounded. (/æ/ and /ɑː/ are §12's substitution errors; /ə/\n   is the reduced English schwa, only an approximate anchor.)\n4. (b) /æ/ is front; अ /ɐ/ is central, tongue at rest.\n5. (b) Hindi-style final-*a* deletion — natural in Hindi, never in Sanskrit.\n6. (c) the headline — body first, stem next, headline last (this course's convention;\n   traditions vary).\n7. (b) a full short /ɐ/ — word-final *a* keeps complete quality in careful Sanskrit.\n8. (c) अमृत (amṛta) \"nectar\" — कम, मक and कमक are drill syllables, not dictionary words.\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The sound:** अ = /ɐ/ — jaw one finger, tongue at rest, lips neutral; short and full,\n> never *cat* /æ/, never long /ɑː/, never a mumbled schwa. **The rule:** every unmarked\n> consonant carries अ — क = *ka*, कम = *kama*; the letter अ is written only where no\n> consonant precedes the vowel. **Final *a* is always spoken:** *dharma*, never \"dharm\".\n> **The letters:** अ क म — body, then stem, then headline. **Pāṇini's last word:** sūtra\n> 8.4.68 restores the real closed *a* — the grammar ends by giving the sound back to speech.\n\nSpaced review:\n\n- **In 1 day:** write अ, क, म from memory, 5 each, without the worksheet; read the syllable\n  ladder aloud once; re-answer quiz Q1 and Q5 from memory.\n- **In 1 week:** redo the dictation exercise (§18.3) with fresh randomization — the pass bar\n  rises to 9/10; say अमृत, अग्नि, अर्थ, अहम् from memory with full final vowels.\n- **From lesson 2:** keep the tongue walk (क च ट त प) warm — it returns in every letter\n  lesson, and क now has a resident on the map."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 25 minutes total.\n\n1. **(10 min)** Finish exercises 1 and 2 if not completed in class: the full tracing\n   worksheet and your recorded ladder.\n2. **(5 min)** Play the four 🔊 words (अमृत, अग्नि, अर्थ, अहम्) three times each, echoing with\n   exaggerated final vowels — *amṛta*, *artha*, full endings.\n3. **(10 min, real world)** Find the letter अ five times in the world around you — a Hindi\n   newspaper, a shop sign, a food packet, a screenshot. Copy down each word you found it in.\n   Then the bonus that teaches you the most: explain to one other person why क is read \"ka\"\n   and not \"k\". If you can teach the inherent vowel, you own it."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**Timing plan (45 min):** §3 retrieval (5) → hook + frequency fact (3) → sound work:\nisolation drill, म-gate, mirror (8) → inherent-vowel rule built on the board (6) → writing\nblock: board demo, air-writing, tracing start (12) → syllable ladder + mini-dictation (6) →\nhomework + preview of आ (5).\n\n**Pacing — this is the first writing lesson.** Resist the urge to move fast: production\nquality on three glyphs beats six sloppy ones, and habits set today are nearly permanent.\nWork in short bursts — 3–4 minutes of writing, then a sound drill, then back to writing.\nHands tire; ears do not.\n\n**Board demonstration order:** draw each glyph huge, narrating strokes aloud (\"body… stem…\nheadline\") with numbered arrows chalked beside each stroke. Have the class air-write with\nfull-arm movements *before* pencils touch paper — big muscles learn the shape first, then\ndelegate to fingers. Then worksheet tracing while you walk the room watching stroke order,\nnot letter beauty. Wrong order with a pretty result still gets corrected now — it will not\nsurvive contact with faster writing later.\n\n**Left-handed writers:** never force the right hand. Have them tilt the paper clockwise\n(20–30°) and keep the hand *below* the writing line so the headline stroke stays visible and\nunsmudged; seat them on the left end of shared desks. If you are right-handed, demonstrate\nstrokes with the numbered diagram rather than insisting they mirror your hand.\n\n**What students find hard:** (1) The double curve of अ — the loop collapses or reverses.\nIsolate it: practice only the left half, margin-sized rows, big to small, before rejoining\nthe stem. (2) English speakers defaulting to \"cup\"/\"cat\" vowels — return to the म-gate; it\nfixes the tongue position without talking about the tongue. (3) Hindi and heritage learners'\nfinal-*a* deletion — expect it to resurface for weeks; keep the finger-counting fix light\nand routine, never a reprimand. It is a language habit, not carelessness.\n\n**Differentiation — learners who already write Devanagari:** their writing needs no drill,\nbut their stroke *narration* usually does — put them on explaining strokes aloud and on\ncoaching a beginner's stroke order (they may point, not grab pencils). Their genuine\nchallenge in this lesson is the full final vowel; give them अमृत/अर्थ echo work and the\ndharma/dharm contrast as their stretch task."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-1/v1c01l03-a-lettercard.svg`**\n\n> Clean educational letter card, portrait, warm off-white background. Dominant element: the\n> Devanagari letter अ, very large, centered, in Noto Serif Devanagari, near-black ink color.\n> Below it on one line: \"a · /ɐ/\" in a humanist sans. Beneath that, a single caption line:\n> \"the first vowel — jaw one finger, tongue at rest, lips neutral\". Top-right corner: a small\n> speaker icon with the four ear-words in small type: अमृत amṛta · अग्नि agni · अर्थ artha ·\n> अहम् aham. Minimal, high contrast, print-friendly, works in monochrome. No decorative\n> deities or religious imagery — typographic only.\n\n**Asset 2 — `planned:assets/images/volume-1/v1c01l03-stroke-order-a-ka-ma.svg`**\n\n> Educational stroke-order chart, three horizontal panels labeled अ, क, म. Each panel shows\n> the letter three times left to right: (1) stroke 1 in solid black with a numbered\n> directional arrow, remaining strokes ghosted light gray; (2) strokes 1–2 solid with arrow\n> on stroke 2; (3) complete letter with arrow on the final headline stroke. Convention:\n> body → stem → headline; arrows show direction of pen travel; strokes numbered 1, 2, 3 in\n> small circles. Footer note in small type: \"One common convention — traditions vary.\"\n> Devanagari in Noto Sans Devanagari, guide baselines and headline rule shown as faint dotted\n> lines, A4 print resolution, monochrome-safe.\n\n**Asset 3 — `planned:assets/diagrams/volume-1/v1c01l03-mouth-position-a.svg`**\n\n> Educational vector diagram, sagittal cross-section of a human head facing left, minimal\n> line-art matching v1c01l02-vocal-tract.svg in style. Configuration for the vowel /ɐ/:\n> tongue lying flat and central (highlighted with a soft fill), jaw slightly open with a\n> \"one finger\" width indicator between the front teeth, lips neutral (annotated \"no rounding,\n> no spreading\"). Inset top-right: a simplified vowel quadrilateral with a solid dot at\n> near-open central labeled \"अ /ɐ/\" and three hollow reference dots labeled \"English cat /æ/\"\n> (front), \"English cup /ʌ/\" (lower right), \"आ /ɑː/ — next lesson\" (open back). Labels in\n> IAST + IPA, Devanagari in Noto Sans Devanagari, print-friendly, works in monochrome.\n\n**Asset 4 — `planned:assets/worksheets/volume-1/v1c01l03-tracing.pdf` (layout spec)**\n\n> A4 tracing worksheet, 3 sections (अ, क, म). Each section: one large model letter with\n> numbered stroke arrows (reuse Asset 2 panels), one row of 5 dotted-outline letters for\n> tracing on ruled guides with headline rule, one empty ruled row of 5 boxes for freehand\n> copies, and a small \"circle your best\" instruction in English + Hindi (अपना सबसे अच्छा\n> अक्षर घेरिए). Footer: dictation grid of 10 empty boxes for exercise §18.3. Generous sizing\n> — letters at least 30 mm tall. Monochrome, printer-safe."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, screencast-plus-presenter style, matching the lesson 2 video's look.\n\n1. **Hook (0:00–0:35):** a page of Sanskrit text; every अ lights up one by one until the page\n   glows with them. Caption: \"One vowel is everywhere.\"\n2. **The sound (0:35–1:30):** mouth-position diagram animates: jaw drops one finger-width,\n   tongue stays flat, lips still. Presenter demonstrates the म-gate (hum → open → अ). The\n   vowel-space inset shows /ɐ/ centered, with /æ/ and /ʌ/ dots flashing red as \"near misses\".\n3. **The rule (1:30–2:45):** the letter क on screen; क् and अ slide together and fuse into क\n   with the caption \"ka — the vowel is built in\". Then कम assembles and reads itself aloud:\n   *ka-ma*. Counter shows \"written vowels: 0 · spoken vowels: 2\".\n4. **Writing (2:45–4:00):** stroke-order panels animate for अ, क, म — pen-tip light traces\n   body → stem → headline, stroke numbers popping in. Presenter air-writes along.\n5. **Ear-words + honesty beat (4:00–5:00):** the four 🔊 words appear with audio and meaning;\n   taught letters highlight inside them. Split card: \"drill syllables you can read\" (अक, कम,\n   मक…) vs \"real words you can hear\" (अमृत, अग्नि…). Caption: \"Tomorrow they merge.\"\n6. **Pāṇini's last word + recap (5:00–6:00):** a scroll of sūtras speeds past; it halts on\n   the final line \"अ अ\" which glows. One-line telling of the saṃvṛta restoration. Recap\n   card: /ɐ/ · क = ka · dharma not dharm · अ क म. End card: \"Next: आ — length changes\n   meaning.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** Open any page of Sanskrit and count the vowels. One of them wins — everywhere,\n  every line. Today's whole lesson is that one sound: a [ɐ].\n- **00:35** Here is the entire technique. Jaw open one finger. Tongue — at rest, doing\n  nothing. Lips — neutral. Switch on your voice: a [ɐ].\n- **00:55** Not the English \"cup\" — that vowel sits too far back and too open. Not the mumbled\n  first syllable of \"about\" — a schwa is weak; this vowel is full: a [ɐ], short and steady.\n- **01:15** Can't find it? Hum ma [mɐ]... hold the hum... now open one finger. Whatever fell\n  out of your mouth just then — that is a [ɐ].\n- **01:30** Now the rule that unlocks the whole script. This letter is ka [kɐ]. Not k — ka\n  [kɐ]. Every consonant letter in Devanagari carries this vowel inside it, invisibly, for\n  free.\n- **02:00** So watch: two consonant letters, no vowel written anywhere — and it reads kama\n  [kɐmɐ]. Two written letters, two spoken vowels. That is the inherent vowel — the script's\n  best trick.\n- **02:45** Time to write. The letter a [ɐ] — the curves first, then the vertical stem, then\n  the headline across the top. Body… stem… headline. Every letter today obeys that order.\n- **03:20** ka [kɐ] — the bowl, around and through for the little knot… stem… headline. ma\n  [mɐ] — down into the loop, sweep to the stem… and the headline. Three letters. Yours now.\n- **04:00** Four real words for your ears — you will read them soon. amṛta [ɐmr̩t̪ɐ] —\n  nectar. agni [ɐgn̪i] — fire. artha [ɐɾt̪ʰɐ] — meaning. aham [ɐɦɐm] — I.\n- **04:30** Hear those endings? amṛta [ɐmr̩t̪ɐ]. artha [ɐɾt̪ʰɐ]. In Sanskrit the final a is\n  always spoken. Hindi says dharm [d̪ʱɐɾm] — Sanskrit says dharma [d̪ʱɐɾmɐ]. Full stop, full\n  vowel.\n- **05:00** One last thing. Pāṇini's grammar — four thousand rules — ends with a two-letter\n  sūtra: a, a [ɐ ɐ]. Its job? To restore the true, closed pronunciation of this vowel for\n  real speech. The grammar's final act is the sound you just learned.\n- **05:40** Tomorrow: the same mouth, held open twice as long — ā [ɑː] — and your first real\n  words in Devanagari. Namaste [n̪ɐmɐst̪eː]."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:06):** presenter, close-up: \"You've been saying 'a' your whole life. Sanskrit\n  has a note for you.\" (On-screen: giant अ.)\n- **Demo (0:06–0:30):** rapid-fire, captioned. \"Not 'cat'. Not 'cup'. Do this instead — hum:\n  mmm… open one finger: अ. Tongue does *nothing*.\" Then the trick: \"Now the script hack —\n  this is ka [kɐ], not k. Every consonant comes with the vowel built in. Two letters —\" (कम\n  appears) \"— reads kama. Zero vowels written. Two spoken.\"\n- **Payoff (0:30–0:42):** \"And the endings? Hindi says dharm. Sanskrit says dhar-MA — every\n  final a lives. Learn one lazy little vowel, and a good part of every Sanskrit word is\n  already yours.\"\n- **CTA (0:42–0:50):** \"Lesson 3 of Sanskritam. Tomorrow: आ — where holding a vowel twice as\n  long changes the meaning of the word. Follow along.\" (End card: अकारः — The First Sound.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-1/v1c01l03-a-lettercard.svg` — §8, §23 prompt 1\n  - `assets/images/volume-1/v1c01l03-stroke-order-a-ka-ma.svg` — §15, §18.1, §23 prompt 2\n  - `assets/diagrams/volume-1/v1c01l03-mouth-position-a.svg` — §11, §23 prompt 3\n  - `assets/audio/volume-1/v1c01l03-a-drill.mp3` — §9 drill 1, length preview tail; §18.2\n  - `assets/audio/volume-1/v1c01l03-syllable-drill.mp3` — §9 drills 2–3, §18.2–3 (must\n    include a randomized dictation section with transcript)\n  - `assets/worksheets/volume-1/v1c01l03-tracing.pdf` — §18.1, layout spec in §23 asset 4\n  - §6 lines and §16 dialogue audio are NOT in this manifest — record into the Chapter 1\n    drill pack (chapter.md assets manifest) and back-link here when they exist.\n- **Related lessons:** reviews v1.c01.l01 (registers, loan/cognate stay warm via §17) and\n  v1.c01.l02 (places, grid, IPA notation, abugida preview → §15 full rule); feeds v1.c01.l04\n  (आ, ā-mātrā, letters त ल, first readable words incl. कमल, माता), v1.c01.l05 (dictation and\n  reading-aloud tasks reused in assessment); क and म get full varga treatment in v1.c03;\n  virāma mechanics in v1.c05; ऋ/ृ (needed to read अमृत) in v1.c02.\n- **Glossary flags:** \"अन्तर्निहित स्वर (inherent vowel)\" used in §7/§15 — candidate for\n  GLOSSARY.md addition with first-taught v1.c01.l03; ह्रस्व/दीर्घ deliberately NOT named here\n  (GLOSSARY first-taught v1.c01.l04) — §9 length preview stays terminology-free.\n- **Verification flags for Pass C:** [REF:whitney1889 §§19–22] frequency locus — confirm §\n  number per research-notes open question; [REF:ashtadhyayi 8.4.68] saṃvṛta interpretation\n  — verify against Kāśikā/Cardona as logged.\n- **Count note for Pass D:** front matter `vocabulary_count: 6` (per chapter plan: 4 words +\n  helper letters क, म); the §14 table prints 7 rows because the target letter अ is also\n  listed as a writing-practice unit — reconcile counting rule project-wide.\n- **Export notes:** 🔊 markers in §13–14 map to `audio_only: true` in JSON export; §19 key\n  stays inside `<details>` in all renders; IPA strings contain combining characters (t̪, d̪ʱ,\n  r̩, ɐ̃) — NFC-normalize Devanagari fields only (STYLE_GUIDE §3), never IPA; §9 ladder table\n  and §14 table are narrow — no special mobile handling needed; stroke-order text in §15\n  must ship together with the diagram asset (text alone is not authoritative — conventions\n  vary).\n- **Register audit:** FACT ×3 (§5 ×2, §15) · HISTORY ×1 (§4) · TRADITION ×1 (§4) · SYMBOL ×1\n  (§17, never assessed) — quiz Q1–8 all FACT-register content."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "अमृत",
+      "iast": "amṛta",
+      "ipa": "/ɐmr̩t̪ɐ/",
+      "en": "nectar, immortality",
+      "hi": "अमृत",
+      "notes": "🔊 audio-only until its letters arrive"
+    },
+    {
+      "deva": "अग्नि",
+      "iast": "agni",
+      "ipa": "/ɐgn̪i/",
+      "en": "fire",
+      "hi": "अग्नि, आग",
+      "notes": "🔊 audio-only until its letters arrive"
+    },
+    {
+      "deva": "अर्थ",
+      "iast": "artha",
+      "ipa": "/ɐɾt̪ʰɐ/",
+      "en": "meaning, purpose",
+      "hi": "अर्थ, मतलब",
+      "notes": "🔊 audio-only until its letters arrive"
+    },
+    {
+      "deva": "अहम्",
+      "iast": "aham",
+      "ipa": "/ɐɦɐm/",
+      "en": "I",
+      "hi": "मैं",
+      "notes": "🔊 audio-only until its letters arrive"
+    },
+    {
+      "deva": "अ",
+      "iast": "a",
+      "ipa": "/ɐ/",
+      "en": "the vowel a",
+      "hi": "अ (वर्ण)",
+      "notes": "letter, not a word — writing practice"
+    },
+    {
+      "deva": "क",
+      "iast": "ka",
+      "ipa": "/kɐ/",
+      "en": "the consonant ka",
+      "hi": "क (वर्ण)",
+      "notes": "letter, not a word — helper consonant, full treatment v1.c03"
+    },
+    {
+      "deva": "म",
+      "iast": "ma",
+      "ipa": "/mɐ/",
+      "en": "the consonant ma",
+      "hi": "म (वर्ण)",
+      "notes": "letter, not a word — helper consonant, full treatment v1.c03"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. By the inherent-vowel rule, the letter क standing alone reads: (a) *k* (b) *ka* (c) *kā*\n   (d) *ak*\n2. The string मक reads: (a) *mak* (b) *mka* (c) *maka* (d) *māka*\n3. The IPA value of अ in this course is: (a) /æ/ (b) /ɑː/ (c) /ə/ (d) /ɐ/\n4. An English speaker pronounces अ like the vowel of *cat*. What exactly is wrong? (a)\n   Nothing — it is the same vowel. (b) The *cat* vowel /æ/ is a front vowel; अ /ɐ/ is central\n   — the tongue should stay at rest. (c) The *cat* vowel is too short. (d) अ requires rounded\n   lips.\n5. A learner says \"dharm\" for धर्म (dharma). Which mistake is this? (a) the English /æ/\n   substitution (b) Hindi-style deletion of the final *a* (c) lip rounding (d)\n   over-lengthening to /ɑː/\n6. In the convention taught in this lesson, which stroke of अ comes last? (a) the left curves\n   (b) the vertical stem (c) the headline (d) the mid-height arm\n7. In careful Sanskrit pronunciation, the final *a* of *dharma* is: (a) silent, as in Hindi\n   (b) pronounced as a full short /ɐ/ (c) lengthened to /ɑː/ (d) optional, speaker's choice\n8. Which of these was presented in this lesson as a real attested word (not a practice\n   syllable)? (a) कम (b) मक (c) अमृत (d) कमक",
+    "answer_key_markdown": "1. (b) *ka* — every unmarked consonant letter carries the inherent अ.\n2. (c) *maka* — two consonants, two free inherent vowels. (\"mak\" is the Hindi-deletion error;\n   \"māka\" the over-length error.)\n3. (d) /ɐ/ — near-open central unrounded. (/æ/ and /ɑː/ are §12's substitution errors; /ə/\n   is the reduced English schwa, only an approximate anchor.)\n4. (b) /æ/ is front; अ /ɐ/ is central, tongue at rest.\n5. (b) Hindi-style final-*a* deletion — natural in Hindi, never in Sanskrit.\n6. (c) the headline — body first, stem next, headline last (this course's convention;\n   traditions vary).\n7. (b) a full short /ɐ/ — word-final *a* keeps complete quality in careful Sanskrit.\n8. (c) अमृत (amṛta) \"nectar\" — कम, मक and कमक are drill syllables, not dictionary words."
+  },
+  "registers": [
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "Pāṇini's Aṣṭādhyāyī (\"Eight Chapters\"), composed around the 4th century BCE (estimates vary), describes Sanskrit in roughly 4,000 short rules and effectively fixed the classical norm of the language. [REF:cardona1997]",
+      "refs": [
+        "cardona1997"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 4,
+      "text": "The very last sūtra of the Aṣṭādhyāyī — 8.4.68, in its entirety: **अ अ** (a a) — undoes the fiction. In the traditional interpretation it says: the open (vivṛta) *a* used inside the grammar is now replaced by the real closed (saṃvṛta) *a* of actual speech. The grammar's final act, after thousands of rules, is to hand the sound अ back to the speakers — pronounced the way people really say it. [REF:ashtadhyayi 8.4.68] [REF:cardona1997]",
+      "refs": [
+        "ashtadhyayi 8.4.68",
+        "cardona1997"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "अ /ɐ/ is a short near-open central unrounded vowel: the jaw slightly open, the tongue resting in the middle of the mouth — neither raised nor pushed forward or back — and the lips neutral. It is close to a \"rest position\" of the vocal tract with the voice switched on. [REF:ladefoged2015] [REF:ohala1994]",
+      "refs": [
+        "ladefoged2015",
+        "ohala1994"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "*a* (together with long *ā*) is by a wide margin the most frequent vowel in Sanskrit text. [REF:whitney1889 §§19–22]",
+      "refs": [
+        "whitney1889 §§19–22"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "Devanagari is an abugida: every consonant letter, unmarked, is read as consonant + अ. क = *ka*, म = *ma*, कम = *kama*. Other vowels attach to consonants as signs (mātrās — from lesson 4), and a silencing stroke (virāma ् — Chapter 5) removes the inherent vowel when a bare consonant is needed. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "SYMBOL",
+      "section_index": 17,
+      "text": "अक्षराणाम् अकारोऽस्मि (akṣarāṇām akāro 'smi) — \"Of syllables I am the *a*.\" [REF:bhagavadgita 10.33] This is the tradition's poetry about अ — a statement of the sound's primacy and pervasiveness, honored here as literature. It is not a phonological claim, and it will never appear in a quiz.",
+      "refs": [
+        "bhagavadgita 10.33"
+      ]
+    }
+  ]
+}
