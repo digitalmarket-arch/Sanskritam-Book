@@ -1,0 +1,22 @@
+# Sanskritam 2.0 continuous validation.
+# Stored under automation/ci/ per the repository layout; copy to
+# .github/workflows/validate.yml to activate.
+name: validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r scripts/requirements.txt
+      - name: Validate lessons
+        run: python3 scripts/validate.py curriculum/
+      - name: Verify JSON exports are current
+        run: python3 scripts/export_json.py --check

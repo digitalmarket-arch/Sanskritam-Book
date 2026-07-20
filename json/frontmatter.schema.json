@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sanskritam.example/schemas/frontmatter.schema.json",
+  "title": "Sanskritam 2.0 lesson front matter",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "schema_version", "title", "volume", "chapter", "lesson", "lesson_type",
+    "cefr", "duration_minutes", "self_study_minutes", "prerequisites", "review_of",
+    "objectives", "new_letters", "new_matras", "vocabulary_count", "media", "tags",
+    "status", "version", "authors", "reviewers", "created", "updated"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^v[1-5]\\.c\\d{2}\\.l\\d{2}$" },
+    "schema_version": { "type": "integer", "const": 1 },
+    "title": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sa", "sa_iast", "hi", "en"],
+      "properties": {
+        "sa": { "type": "string", "minLength": 1 },
+        "sa_iast": { "type": "string", "minLength": 1 },
+        "hi": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    },
+    "volume": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "chapter": { "type": "integer", "minimum": 1, "maximum": 99 },
+    "lesson": { "type": "integer", "minimum": 1, "maximum": 99 },
+    "lesson_type": {
+      "type": "string",
+      "enum": ["orientation", "sound", "script", "vocabulary", "grammar",
+               "conversation", "reading", "review", "capstone"]
+    },
+    "cefr": { "type": "string", "enum": ["pre-A1", "A1", "A2", "B1", "B2", "C1"] },
+    "duration_minutes": { "type": "integer", "minimum": 10, "maximum": 120 },
+    "self_study_minutes": { "type": "integer", "minimum": 5, "maximum": 120 },
+    "prerequisites": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^v[1-5]\\.c\\d{2}\\.l\\d{2}$" }
+    },
+    "review_of": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^v[1-5]\\.c\\d{2}\\.l\\d{2}$" }
+    },
+    "objectives": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["en", "hi"],
+        "properties": {
+          "en": { "type": "string", "minLength": 1 },
+          "hi": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "new_letters": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "new_matras": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "vocabulary_count": { "type": "integer", "minimum": 0 },
+    "media": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["images", "audio", "diagrams", "worksheets", "quizzes"],
+      "properties": {
+        "images": { "$ref": "#/$defs/mediaList" },
+        "audio": { "$ref": "#/$defs/mediaList" },
+        "diagrams": { "$ref": "#/$defs/mediaList" },
+        "worksheets": { "$ref": "#/$defs/mediaList" },
+        "quizzes": { "$ref": "#/$defs/mediaList" }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "status": { "type": "string", "enum": ["draft", "in_review", "reviewed", "published"] },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "authors": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "reviewers": { "type": "array", "items": { "type": "string" } },
+    "created": { "type": "string", "format": "date" },
+    "updated": { "type": "string", "format": "date" }
+  },
+  "$defs": {
+    "mediaList": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^(planned:)?assets/(images|audio|diagrams|worksheets|quizzes)/.+" }
+    }
+  }
+}
