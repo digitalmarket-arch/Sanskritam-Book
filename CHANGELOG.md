@@ -4,7 +4,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.1.0] — 2026-07-20
+
+First production milestone: project bootstrap + Volume 1 Chapter 1 reviewed.
 
 ### Added
 - Project bootstrap: repository scaffold, governance documents (README, STYLE_GUIDE,

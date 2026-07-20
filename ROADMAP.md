@@ -15,7 +15,7 @@ closing the largest gap of the 1.x curriculum.
 
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
-| 1 | प्रवेशः — Entering Sanskrit Sound | 5 | 🟦 drafting |
+| 1 | प्रवेशः — Entering Sanskrit Sound | 5 | ✅ reviewed |
 | 2 | स्वराः — The Vowels | 7 | ⬜ |
 | 3 | स्पर्शाः — The Stop Consonants | 6 | ⬜ |
 | 4 | अन्तःस्थाः ऊष्माणश्च — Semivowels & Sibilants | 4 | ⬜ |
@@ -98,8 +98,11 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
 
 ## Current status
 
-- **2026-07-20** — Project bootstrapped: governance docs, improvement report vs the 1.x PDF,
-  Volume 1 Chapter 1 in production. Next: v1.c01 review pass, then Chapter 2 research notes.
+- **2026-07-20** — Project bootstrapped: governance docs, improvement report vs the 1.x PDF.
+- **2026-07-20** — **v1.c01 प्रवेशः complete and reviewed**: 5 lessons in the full 27-section
+  format, peer-review passes A–D logged, validator green, JSON exports current. Next:
+  research notes for v1.c02 (स्वराः — The Vowels), then its 7 lessons; asset production for
+  Chapter 1's `planned:` media can start in parallel from the lessons' §23–26 prompts.
 
 ## Content preservation map (from the 1.x curriculum)
 
