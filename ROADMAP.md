@@ -16,7 +16,7 @@ closing the largest gap of the 1.x curriculum.
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
 | 1 | प्रवेशः — Entering Sanskrit Sound | 5 | ✅ reviewed |
-| 2 | स्वराः — The Vowels | 7 | ⬜ |
+| 2 | स्वराः — The Vowels | 7 | ✅ reviewed |
 | 3 | स्पर्शाः — The Stop Consonants | 6 | ⬜ |
 | 4 | अन्तःस्थाः ऊष्माणश्च — Semivowels & Sibilants | 4 | ⬜ |
 | 5 | संयोगः — Virāma & Conjuncts | 5 | ⬜ |
@@ -100,9 +100,13 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
 
 - **2026-07-20** — Project bootstrapped: governance docs, improvement report vs the 1.x PDF.
 - **2026-07-20** — **v1.c01 प्रवेशः complete and reviewed**: 5 lessons in the full 27-section
-  format, peer-review passes A–D logged, validator green, JSON exports current. Next:
-  research notes for v1.c02 (स्वराः — The Vowels), then its 7 lessons; asset production for
-  Chapter 1's `planned:` media can start in parallel from the lessons' §23–26 prompts.
+  format, peer-review passes A–D logged, validator green, JSON exports current.
+- **2026-07-21** — **v1.c02 स्वराः complete and reviewed**: 7 lessons — the full 13-vowel
+  inventory with every mātrā taught same-day, the honest /r̩/ lesson, the ॐ
+  fact/tradition/symbol showcase, ayogavāha, and a 42-word cumulative assessment. Validator
+  green on all 12 lessons; exports current. Next: research notes for v1.c03 (स्पर्शाः — the
+  stop consonants); asset production for Chapters 1–2 `planned:` media can run in parallel
+  from the lessons' §23–26 prompts.
 
 ## Content preservation map (from the 1.x curriculum)
 

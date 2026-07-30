@@ -1,0 +1,380 @@
+{
+  "frontmatter": {
+    "id": "v1.c02.l01",
+    "schema_version": 1,
+    "title": {
+      "sa": "इकारः ईकारश्च",
+      "sa_iast": "ikāraḥ īkāraś ca",
+      "hi": "इ और ई",
+      "en": "I & Ī — The Front Vowels"
+    },
+    "volume": 1,
+    "chapter": 2,
+    "lesson": 1,
+    "lesson_type": "sound",
+    "cefr": "pre-A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v1.c01.l05"
+    ],
+    "review_of": [
+      "v1.c01.l03",
+      "v1.c01.l04"
+    ],
+    "objectives": [
+      {
+        "en": "Produce इ /i/ and ई /iː/ with 2:1 length discipline and distinguish them by ear.",
+        "hi": "इ /i/ और ई /iː/ को 2:1 के लम्बाई-अनुशासन से बोलें और सुनकर अलग पहचानें।"
+      },
+      {
+        "en": "Write इ, ई and the mātrās ि, ी correctly, including the left-hook rule.",
+        "hi": "इ, ई और मात्राएँ ि, ी सही लिखें — बाईं ओर लगने वाले हुक के नियम के साथ।"
+      },
+      {
+        "en": "Apply the mātrā-position rule (कि, की) to every taught consonant.",
+        "hi": "मात्रा-स्थान का नियम (कि, की) हर सीखे हुए व्यञ्जन पर लागू करें।"
+      },
+      {
+        "en": "Read the 8 new words aloud with correct vowel length.",
+        "hi": "आठ नए शब्द सही स्वर-लम्बाई के साथ ज़ोर से पढ़ें।"
+      }
+    ],
+    "new_letters": [
+      "इ",
+      "ई"
+    ],
+    "new_matras": [
+      "ि",
+      "ी"
+    ],
+    "vocabulary_count": 8,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-1/v1c02l01-i-ii-lettercards.svg",
+        "planned:assets/images/volume-1/v1c02l01-stroke-order.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c02l01-i-drill.mp3",
+        "planned:assets/audio/volume-1/v1c02l01-word-list.mp3"
+      ],
+      "diagrams": [
+        "planned:assets/diagrams/volume-1/v1c02l01-mouth-position-i.svg",
+        "planned:assets/diagrams/volume-1/v1c02l01-matra-geography.svg"
+      ],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c02l01-tracing.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "phonetics",
+      "vowels",
+      "matra",
+      "devanagari"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-21"
+    ],
+    "created": "2026-07-21",
+    "updated": "2026-07-21"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "For four lessons the script has been perfectly obedient: signs march left to right in the\norder you speak them. Today it plays its one famous trick. To write *ki*, Devanagari writes\nthe vowel **first**: कि — the hook you see on the left is the *i*, standing *before* the क\nit is spoken *after*. The script writes time travel: your eye meets a vowel your ear has not\nreached yet. Today your ear learns two new vowels, इ and ई; your hand learns to write the\ntrick without blinking — and the little word इति (iti), which you have been *saying* since\nlesson 2, finally lands on the page as something you *read*."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Produce इ /i/ and ई /iː/ with 2:1 length discipline and distinguish them by ear. | इ /i/ और ई /iː/ को 2:1 के लम्बाई-अनुशासन से बोलें और सुनकर अलग पहचानें। |\n| 2 | Write इ, ई and the mātrās ि, ी correctly, including the left-hook rule. | इ, ई और मात्राएँ ि, ी सही लिखें — बाईं ओर लगने वाले हुक के नियम के साथ। |\n| 3 | Apply the mātrā-position rule (कि, की) to every taught consonant. | मात्रा-स्थान का नियम (कि, की) हर सीखे हुए व्यञ्जन पर लागू करें। |\n| 4 | Read the 8 new words aloud with correct vowel length. | आठ नए शब्द सही स्वर-लम्बाई के साथ ज़ोर से पढ़ें। |\n\nObjective 1 is drilled in §9 and §18 (exercises 4–5) and tested in §19 (Q3, Q6); objective 2\nin §18 (exercise 2) and §19 (Q2); objective 3 in §18 (exercises 1, 6) and §19 (Q1, Q4, Q8);\nobjective 4 in §18 (exercises 3, 5) and §19 (Q7)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठ की पुनरावृत्तिः — answer from memory *before* checking. This section is also a\npromise kept: Chapter 1's assessment (v1.c01.l05 §20) scheduled its +1-week re-runs \"inside\nChapter 2's calendar\" — the read-aloud and timed-writing re-runs sit in today's homework (§21).\n\n1. Every unmarked consonant letter carries a built-in vowel. Which vowel, and what is the\n   rule called?\n2. State the mātrā rule of lesson 4: when do you write आ, and when ा?\n3. कल vs काल — what changes in the mouth, and what changes in the meaning?\n4. **Write from memory:** का मा ता ला — then the words माता and माला.\n5. **Read aloud:** मम — कमल — ताल. Every final vowel at full value.\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. अ /ɐ/ — the inherent vowel: every unmarked consonant reads with it (l03 §15).\n2. आ word-initially as a full letter; ा after a consonant, replacing the inherent अ (l04 §15).\n3. The first vowel's length (and quality): कल (kala) \"a sweet, indistinct sound\" vs काल\n   (kāla) \"time\" (l04 §13).\n4. Mātrā complete, always on the right; माता = मा + ता, माला = मा + ला.\n5. मम (mama), कमल (kamala), ताल (tāla) — no dropped finals, two beats on ताल's first vowel.\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — one small placement, no long history today.\n\nYou met the fourteen beats of Śiva's drum in lesson 2's story — and the fourteen sūtras the\ntradition hears in them, the sound-catalogue prefixed to Pāṇini's grammar. Today's vowels\nlive in the catalogue's very first line.\n\n> **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī (composed around the 4th century BCE —\n> estimates vary) is organized around a fourteen-sūtra catalogue of sounds that its rules\n> reference throughout. [REF:cardona1997]\n\n> **[TRADITION · परम्परा]** The first of those fourteen sūtras reads अइउण् (aiuṇ): the vowels\n> a, i, u, closed by a marker sound. In the tradition's ordering, इ stands in the opening\n> beat of the whole system — grouped with अ and उ before every other sound.\n> [REF:maheshvarasutras 1]\n\nThe grouping is no accident of poetry: अ, इ and उ sketch the far corners of the mouth's vowel\nspace — low-central, high-front, high-back. How Pāṇini *uses* the ordering — naming whole\nspans of sounds with two-letter abbreviations — gets its full treatment in Volume 4. For\ntoday, enjoy the placement: by the tradition's own count, इ is the second vowel of the\nlanguage."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — what /i/ and /iː/ are, and why this pair has no safety net.\n\n> **[FACT · तथ्यम्]** इ = /i/ — a close front unrounded vowel: the tongue high and forward,\n> close to the hard palate, lips unrounded. ई = /iː/ — the same vowel held roughly twice as\n> long: dīrgha = 2 × hrasva in duration, with no change of quality. [REF:ladefoged2015]\n\n> **[FACT · तथ्यम्]** The vowel of English *bit* is not इ: it is lax /ɪ/ — lower and more\n> central than /i/. English *feet* comes close to ई in quality, though many accents glide it\n> slightly. Hindi speakers transfer इ/ई largely correctly, but often blur the length contrast\n> in fast speech. [REF:ladefoged2015], [REF:ohala1994]\n\nTwo consequences for the learner:\n\n**The tongue finally travels.** अ is the mouth at rest; आ opens the jaw but leaves the tongue\nlying low. इ is the first vowel of the course that sends the tongue on a real journey — up\nand forward, its sides brushing the upper side teeth. From today, vowels are *places*: by\nlesson 5 of this chapter you will have visited every corner of the vowel space.\n\n**No safety net.** Lesson 4's pair अ/आ differed in length *and* quality — sloppy length still\nleft listeners a clue. इ and ई are identical in quality, so duration alone carries the\ncontrast: इति (iti) \"thus\" vs ईति (īti) \"calamity\" hangs on one beat of breath and nothing\nelse (§13). This is the purest length pair you have met, and the reason lesson 4's 2:1\ncounting discipline now graduates from good habit to sole lifeline."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit, in frames you already\nown from lesson 4.\n\nइ इति ह्रस्वः स्वरः।\n(i iti hrasvaḥ svaraḥ.) \"*i* is a short vowel.\" — इ ह्रस्व स्वर है।\n\nई इति दीर्घः स्वरः।\n(ī iti dīrghaḥ svaraḥ.) \"*ī* is a long vowel.\" — ई दीर्घ स्वर है।\n\nलीला अत्र अस्ति।\n(līlā atra asti.) \"Līlā is here.\" — लीला यहाँ है।\n\nNow look at the little quoting word doing the work in the first two lines: इति (iti) \"thus\" —\nit wraps whatever precedes it in spoken quotation marks. You have said it since lesson 2\n(म इति वर्णः); from today you can *read* it: इ + ति. And the lesson's Sanskrit title, इकारः\nईकारश्च (ikāraḥ īkāraś ca) \"the sound i and the sound ī\": the tradition names a sound by\nadding कार (kāra), and च (ca) means \"and\". The seam in ईकारश्च — where *ḥ* and *ca* fuse into\n*ś ca* — is a joining rule (sandhi), treated properly in Volume 3."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nफिर वही अच्छी ख़बर, नए पाठ में — आज के दोनों स्वर और दोनों मात्राएँ आपकी पुरानी पहचान हैं: इ,\nई, ि, ी। बचपन का सूत्र भी याद ही होगा — छोटी इ की मात्रा पहले (बाएँ), बड़ी ई की बाद में\n(दाएँ)। तो आपके लिए आज का पाठ लिखना सीखने का नहीं, दो अनुशासन चढ़ाने का है।\n\nपहला अनुशासन — लम्बाई की नाप। अच्छी बात यह कि इ/ई का अर्थ-भेद हिन्दी में भी ज़िन्दा है: दिन\nऔर दीन अलग शब्द हैं — आपका कान यह भेद पहले से जानता है। कठिनाई यह कि तेज़ बोलचाल में हम\nप्रायः ढीले पड़ जाते हैं और सन्दर्भ से काम चला लेते हैं। संस्कृत में, ख़ासकर पाठ और श्रुतलेखन\nमें, यह छूट नहीं: यहाँ इति का अर्थ \"इस प्रकार\" है और सिर्फ़ एक मात्रा लम्बा ईति का अर्थ\n\"विपत्ति\"। गिनती वही पुरानी — ह्रस्व पर एक, दीर्घ पर ठीक दो। और ध्यान रहे: अ/आ वाली सुविधा\nयहाँ नहीं है — वहाँ ध्वनि का रंग भी बदलता था, यहाँ केवल अवधि।\n\nदूसरा अनुशासन — बाएँ वाले हुक का होश। आप बरसों से ि को व्यञ्जन से पहले लिखते आ रहे हैं, पर\nकभी रुककर देखा है कि यह कितनी अनोखी व्यवस्था है? काग़ज़ पर चिह्न पहले खड़ा है, बोली में ध्वनि\nबाद में आती है। आज कक्षा में अंग्रेज़ी-भाषी साथियों के लिए यही सबसे बड़ा झटका होगा — उनकी मदद\nकीजिए, और समझाते-समझाते नियम अपने भीतर भी पक्का कीजिए: हुक लिखने में पहले, बोलने में बाद में।\n(मज़ेदार बात — फ़ोन पर टाइप करते समय क्रम बोलने वाला ही है: पहले क, फिर ि; स्क्रीन ख़ुद हुक को\nबाएँ घुमा देती है।)\n\nऔर एक ईमानदार चेतावनी: जल्दबाज़ी की लिखाई में कि/की की अदला-बदली हिन्दी लिखने वालों की\nजानी-पहचानी चूक है। संस्कृत का श्रुतलेखन इसे तुरन्त पकड़ लेगा, क्योंकि यहाँ मति और मित, इति\nऔर ईति अलग-अलग शब्द हैं। आज का अभ्यास आपकी हिन्दी वर्तनी भी चमका देगा — मुफ़्त में। और आज की\nसूची का ख़ास मेहमान: इति — वही छोटा शब्द जो आप पाठ 2 से सुनते आ रहे हैं। आज से यह पढ़ा भी\nजाएगा।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "Two things happen today: two new **sounds** (the front vowels /i/ and /iː/) and one new\n**writing fact** — the script's only left-standing vowel sign, and with it the full logic of\nwhere mātrās live.\n\n### Part one — the sounds: इ /i/ and ई /iː/\n\n|  | इ (i) | ई (ī) |\n|---|---|---|\n| IPA | /i/ | /iː/ |\n| Duration | 1 beat (hrasva) | 2 beats (dīrgha) |\n| Tongue | high and forward, near the palate | identical |\n| Jaw | nearly closed | identical |\n| Lips | unrounded, slightly spread | identical |\n| English anchor | none exact — *bit* is lax /ɪ/, a different vowel | the *ee* of *feet* — kept pure, no glide |\n\nRead the middle column against the right one: *identical, identical, identical*. Everything\nabout ई except its duration is इ. One mouth shape to learn, not two — and a pair harder to\nhear, because duration alone must do the work (§5).\n\n### Part two — the left-hook rule\n\nHow do you write *ki*? Lesson 4's habit says: finish क, add the vowel sign to the right.\nToday the script breaks the habit exactly once:\n\n> **[FACT · तथ्यम्]** The short-i mātrā ि is written to the **left** of its consonant —\n> earlier in the written line than the consonant it belongs to — although the vowel is\n> spoken **after** that consonant: क + इ = कि (ki). The long-ī mātrā ी attaches to the\n> right, like ा: क + ई = की (kī). [REF:masica1991 ch.6]\n\nSo in कि, writing order and speaking order part ways: the eye meets the hook first, the\nmouth says it second. The rule to chant: **written before, spoken after.** A modern footnote\nHindi typists know: on a keyboard you *type* क first and ि second — logical order — and the\ndisplay swings the hook to the left for you.\n\n### Part three — mātrā geography: the consonant is a house\n\nThink of every consonant letter as a house. Mātrās are lodgers, and each has a fixed room:\n\n| Room | Signs | Example | Status |\n|---|---|---|---|\n| right | ा ी | का की | ा owned since l04; ी moves in today |\n| left | ि | कि | today — the script's one left-dweller |\n| below | ु ू ृ | कु | preview — lessons 2–3 of this chapter |\n| above | े ै | के | preview — lesson 4 |\n| right + above | ो ौ | को | preview — lesson 5 |\n\nThe room never depends on the sound — it is fixed by the script, sign by sign (§15). By the\nend of this chapter the whole house is occupied.\n\n### Part four — worked readings, block by block\n\n- **तिल** (tila) \"sesame\": first block ति — hook seen first, but read consonant-then-vowel:\n  *t* + *i* = *ti*; then ल = *la* → ti-la /t̪ilɐ/.\n- **मति** (mati) \"thought\": म = *ma*; then the mid-word hook — it belongs **not** to the म\n  on its left but to the त on its right: ति = *ti* → ma-ti /mɐt̪i/.\n- **कील** (kīla) \"pin\": की = *k* + *ī* (bar right, canopy curling back left) = *kī*; ल =\n  *la* → kī-la /kiːlɐ/.\n- **लीला** (līlā) \"play\": ली + ला → lī-lā /liːlɑː/ — both vowels long, four beats total.\n- **इति** (iti) \"thus\": the word *begins* with the vowel, so the independent letter इ opens\n  it; then ति → i-ti /it̪i/.\n\nNow the trap, laid bare: **मति** (mati) and **मित** (mita) are built from the same three\nshapes — म, the hook, त. What differs is which consonant the hook stands before. The hook\nalways belongs to the consonant on its **right**. Misread that, and \"thought\" becomes\n\"measured\" (§12, mistake 4)."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — three drills, in order. Audio: 🔊\n`planned:assets/audio/volume-1/v1c02l01-i-drill.mp3` (drills 1–2 plus the random-order\nround) and `planned:assets/audio/volume-1/v1c02l01-word-list.mp3` (drill 3).\n\n**Drill 1 — the length ladder, new floor.** Metronome at 60 (or tap the table). On one\nbreath: इ (one beat) — ई (two beats) — इ — ई — इ — ई. Keep the smile-tension constant: the\nonly thing allowed to change is duration. Then reverse, starting from ई. Three rounds.\n\n**Drill 2 — the syllable grid.** Read across each row, then down each column, one beat left,\ntwo beats right:\n\n| कि /ki/ | की /kiː/ |\n|---|---|\n| मि /mi/ | मी /miː/ |\n| ति /t̪i/ | ती /t̪iː/ |\n| लि /li/ | ली /liː/ |\n\nThen the random-order round from the audio: it says one syllable; you say its partner.\n\n**Drill 3 — the no-net pair, then words.** Say इति — ईति three times, slowly, counting\nbeats: i-ti, ī-ti. Nothing but duration separates \"thus\" from \"calamity\" — make the\ndifference audible to a stranger. Then read the §14 list against the model audio: every\ndīrgha two full beats, every final vowel alive.\n\nRecitation note: traditional recitation counts mātrās in exactly this way — the drill is the\ntradition's own discipline, borrowed whole. When in doubt, slow down and count."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "The new values: इ = **/i/** — close front unrounded vowel; ई = **/iː/** — the same symbol\nplus the length mark ː you met in lesson 4.\n\n**A one-dimensional pair.** Compare the course's two length pairs so far:\n\n1. अ /ɐ/ → आ /ɑː/ — the symbol *changes and* gains ː: quality and quantity both move.\n2. इ /i/ → ई /iː/ — the symbol stays; only ː is added. Duration is the entire contrast.\n\n**Narrow note — tense vs lax.** English *bit* is [ɪ]: tongue lower, more central, muscles\nlaxer. Sanskrit इ is /i/ — as tense and high as the *ee* of *feet* — merely short. \"Short\"\nrefers to time, never to a slackening of the mouth: a shortened *feet*-vowel is correct; a\nSanskrit-length *bit*-vowel is not.\n\nPhonemic slashes, as always: /i/ and /iː/ name the categories that distinguish इति from ईति —\nmeaning-bearing units, which is exactly what the slashes claim."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — walkthrough of the diagram (planned:\n`assets/diagrams/volume-1/v1c02l01-mouth-position-i.svg` — sagittal view of /i/ with an inset\nof अ at rest for contrast).\n\nTo find इ /i/:\n\n1. **Tongue:** raise the body of the tongue high and forward, toward the hard palate — sides\n   pressing lightly against the upper side teeth, tip resting low behind the lower teeth.\n   Compared with अ, this is the tongue's first real journey from rest.\n2. **Jaw:** nearly closed — a pencil's width. (Lesson 4 asked for two fingers; today one.)\n3. **Lips:** unrounded, corners slightly spread — a hint of a smile, not a grin.\n4. **Hold it:** say ई for a slow two-count. The quality must not bend at the end — no glide,\n   no drift toward *y*.\n\n**Mirror + hand check.** Say अ — इ — अ — इ before a mirror: you should *see* the jaw close\nand the mouth-corners spread for every इ. Then the back of the hand under the chin for इ —\nई: the chin barely moves, but the hold lasts twice as long on ई. Ten alternations."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **The lax substitute (English speakers).** *Bit*, *sit*, *hit* train the mouth to relax\n   into /ɪ/ whenever a vowel is short — so इ slumps into [ɪ] and stops matching ई in quality.\n   *Fix:* build इ *from* ई: say a pure long ई, then cut its duration in half without moving\n   anything. The smile-corners in the mirror are your gauge.\n2. **Length blur in fast speech (Hindi speakers, and everyone at speed).** Careful इ/ई\n   collapses toward a middle duration once the sentence speeds up — Hindi lets context absorb\n   the damage; Sanskrit recitation and dictation do not. *Fix:* the metronome ladder (§9) at\n   rising tempo — the ratio, not the speed, is the invariant. Remember the stakes: इति/ईति.\n3. **The hook written on the wrong side.** A learner hears *ki*, finishes क, and — lesson-4\n   habit firing — plants the sign on the right, producing की (kī). *Fix:* the chant\n   **\"written before, spoken after\"**, plus a geometry check: each canopy curls *toward its\n   own consonant* — ि's arc reaches right, ी's arc reaches back left. A canopy pointing away\n   from its letter is on the wrong side.\n4. **Reading the hook onto the wrong consonant.** Mid-word, the eye attaches ि to the letter\n   it *follows* visually instead of the one it *precedes*: मति (mati) misread as मित (mita) —\n   both real words, so nothing looks wrong. *Fix:* the hook belongs to the consonant on its\n   **right**, always. Scan rule: see a hook → hold it → attach it to the *next* consonant."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — worked in all four layers: the no-net pair, the Chapter 1 callback, the moving\nhook.\n\n### The pair with no safety net\n\n**इति** (iti) \"thus; end of quote\" — इस प्रकार · /it̪i/\n**ईति** (īti) \"plague, calamity\" — विपत्ति · /iːt̪i/\n[REF:apte1890 s.v. इति, ईति]\n\nइति is Sanskrit's spoken quotation mark — it closes speech, thought, and entire books. You\nhave used it in every lesson since म इति वर्णः. Add one beat of vowel and you have ईति —\ncrop-destroying calamity. Unlike कल/काल, no quality change backs you up: one beat of breath\n*is* the entire difference. (ईति is rare — meet it, hear it, let it stand guard over your\nlength discipline; it is not on your active list.)\n\n### The Chapter 1 callback\n\n**मत** (mata) \"thought, opinion\" — मत, विचार · /mɐt̪ɐ/\n**मति** (mati) \"thought, mind, intellect\" — मति, बुद्धि · /mɐt̪i/\n[REF:apte1890 s.v. मत, मति]\n\nChapter 1 gave you मत; swap its final vowel and you have today's मति — a close kin in\nmeaning, one hook apart in writing. Sanskrit families often cluster like this.\n\n### The moving hook\n\n**मति** (mati) \"thought\" · /mɐt̪i/ — **मित** (mita) \"measured, moderate\" · /mit̪ɐ/\n[REF:apte1890 s.v. मति, मित]\n\nSame three shapes on the page: म, hook, त. In मति the hook stands before त (ma-ti); in मित\nit stands before म — mi-ta. One reading habit — *the hook belongs to the consonant on its\nright* — is all that separates the two. This pair is the reading test of the whole lesson."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — eight new words, every one readable with your four consonants, the vowels you\nown, and today's two mātrās. Audio: 🔊\n`planned:assets/audio/volume-1/v1c02l01-word-list.mp3` (model reading, each word twice).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| इति | iti | /it̪i/ | thus; end of quote | इस प्रकार | said since lesson 2 — read from today |\n| तिल | tila | /t̪ilɐ/ | sesame | तिल | the seed in §17 |\n| मति | mati | /mɐt̪i/ | thought, mind | मति, बुद्धि | kin of Ch 1's मत; not मित! |\n| कति | kati | /kɐt̪i/ | how many? | कितने | question word — works in §16 |\n| कील | kīla | /kiːlɐ/ | pin, wedge | कील, खूँटी | long ī — two full beats |\n| लीला | līlā | /liːlɑː/ | play, sport | लीला, खेल | both vowels long; the girl in §17 |\n| ममता | mamatā | /mɐmɐt̪ɑː/ | mine-ness, attachment | ममता | built on मम — readable since Ch 1 |\n| मित | mita | /mit̪ɐ/ | measured, moderate | नपा-तुला, थोड़ा | not मति! (§13) |\n\nReading protocol: block by block first (म-ति), then the whole word at natural speed, then\ncheck against the audio. Hooks to the correct consonant, every dīrgha two beats, every final\nvowel alive."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in Volume 1 this is a **script rule**, and today's completes the map begun in\nlesson 4.\n\n### The left-hook rule, formally\n\n> **[FACT · तथ्यम्]** In Devanagari, the dependent sign of इ — the mātrā ि — is positioned to\n> the left of the consonant it modifies, preceding it in visual order while following it in\n> pronunciation: क + इ = कि (ki), read *k* then *i*. The sign of ई — the mātrā ी — follows\n> the consonant on the right: क + ई = की (kī). Word-initially the independent letters इ and\n> ई are written, as in इति (iti). [REF:masica1991 ch.6]\n\nDecision procedure, extended from lesson 4: *vowel starts the word?* → independent letter\n(इ, ई). *Vowel follows a consonant?* → mātrā — ि standing left, ी standing right.\n\n### Mātrā geography, formally\n\n> **[FACT · तथ्यम्]** A mātrā's position is fixed by the script, sign by sign — not by any\n> property of the vowel's sound: some signs stand right (ा ी), one stands left (ि), others\n> below (ु ू ृ) or above (े ै), and two combine right with above (ो ौ).\n> [REF:masica1991 ch.6]\n\nThe diagram `planned:assets/diagrams/volume-1/v1c02l01-matra-geography.svg` draws this as\nthe consonant-house of §8 with all five rooms labeled; this chapter fills them one lesson at\na time. Memorize position with the sign, as part of what the sign *is*.\n\n### Stroke order — इ, ई, ि, ी\n\nOne common convention, described here; teaching traditions vary in details, and your\nteacher's consistent habit is fine. (Card:\n`planned:assets/images/volume-1/v1c02l01-stroke-order.svg`; tracing:\n`planned:assets/worksheets/volume-1/v1c02l01-tracing.pdf`.)\n\n- **इ** — the body's double curve first, drawn top to bottom in one flowing movement, then\n  the headline. Keep the curves round — a boxy इ collapses into scribble.\n- **ई** — write इ, then its extra closing curl on the right, tucked up against the headline;\n  headline last. The long twin wears one more curl — let the shape say \"more\".\n- **ि** — complete the consonant first. Then the vertical bar to its **left**, and the\n  canopy: an arc from the bar's top, rightward over the headline, landing on the consonant.\n- **ी** — complete the consonant. Then the vertical bar to its **right** — same bar as ा —\n  and the canopy arcing back **leftward** over the top to touch the consonant.\n\nThe §12 check bears repeating while you write: each canopy curls toward its own consonant.\nAnd the chant, updated for the left-dweller: *letter first — then the hook, on its own side.*"
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — tiny and honest; today's question word कति does the work. 🔊 recorded into the\nChapter 2 drill pack (§27). In the kitchen: लीला has spotted the sesame jar.\n\n— लीला — **माता**, **तिल**? (mātā, tila?) \"Mother — sesame?\" — माता, तिल (मिलेंगे)?\n\n— माता — आम्, **तिल**। (ām, tila.) \"Yes — sesame.\" — हाँ, तिल।\n\n— लीला — **कति**? (kati?) \"How many?\" — कितने?\n\n— माता — *(a small handful)* **मित**, **मित**! (mita, mita!) \"A measured few!\" — बस थोड़े-से!\n\nEverything bold you read yourself; the glue word आम् (ām) \"yes\" — हाँ 🔊 stays ear-only. Note\nthe honest gap: कति asks \"how many?\", but the number words that *answer* it begin arriving in\nlesson 4 of this chapter (एक \"one\") — until then, कति is answered the way children answer it\neverywhere: with fingers."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — तिलकथा · The Sesame Story. Five lines, almost entirely readable. Words you can read\nare **bold**; glue words are glossed 🔊 below. Each line: Devanagari, IAST, English, Hindi.\n\n1. **लीला** अत्र अस्ति।\n   (līlā atra asti.) \"Līlā is here.\" — लीला यहाँ है।\n2. **माता** — **लीला**, पश्य! **तिल**!\n   (mātā — līlā, paśya! tila!) \"Mother: Līlā, look! Sesame!\" — माता — लीला, देखो! तिल!\n3. **लीला** — **कति**?\n   (līlā — kati?) \"Līlā: How many?\" — लीला — कितने?\n4. **माता** — **मित**, **मित**! पश्य — **कील**!\n   (mātā — mita, mita! paśya — kīla!) \"Mother: A measured few! And look out — a pin!\" —\n   माता — थोड़े-से! और देखो — कील! *(a stray pin lies beside the seeds; mother flicks it away)*\n5. **माता** — **मम** **लीला**! **मम** **ममता**!\n   (mātā — mama līlā! mama mamatā!) \"Mother: My Līlā! My darling!\" — माता — मेरी लीला! मेरी ममता!\n\nGlue words 🔊: अत्र (atra) \"here\" — यहाँ; अस्ति (asti) \"is\" — है; पश्य (paśya) \"look!\" —\nदेखो — Chapter 1 ear-words, unchanged. Two pleasures to notice: the girl's name लीला *is* the\nword लीला \"play\" — she is named for what children do — and line 5's ममता is Chapter 1's मम\ngrown into a noun: \"my-ness\", the possessive warmth of a mother. Read the story aloud twice:\nonce block by block, once at story speed."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 2, 3 and 5 are production tasks. Do them in order.\n\n**अभ्यासः 1 · मात्रा-परिवर्तनम् (mātrā transformation, writing).** In your notebook write\nक म त ल in a column. Next to each, three transformations: क → का → कि → की, and so on for\nall four consonants — sixteen blocks. Then read the grid aloud: one beat, two, one, two.\nWatch your own hand at the third column: the hook goes *left*.\n\n**अभ्यासः 2 · लेखनम् (tracing & writing).** Print or open the tracing worksheet ✍\n(`planned:assets/worksheets/volume-1/v1c02l01-tracing.pdf`): trace इ and ई five times each\nfollowing the stroke arrows, then the syllable row कि की मि मी ति ती लि ली. Final row: write\nइति, मति and कील unaided — then check each hook's side and each canopy's direction (§15).\n\n**अभ्यासः 3 · श्रुतलेखनम् (dictation, audio).** Play\n`planned:assets/audio/volume-1/v1c02l01-word-list.mp3` 🔊 with the book closed: eight words,\neach read twice. Pause after each and write it in Devanagari. Self-check against §14, three\nquestions per word: hook on the correct side? every ई wearing its extra curl? any dīrgha\nshortened? 7/8 is a pass; re-take tomorrow either way (§20).\n\n**अभ्यासः 4 · श्रवणभेदः (minimal-length discrimination, written answers).** Play the\nrandom-order round of `planned:assets/audio/volume-1/v1c02l01-i-drill.mp3` 🔊: ten items,\neach one syllable from the §9 grid or one of इति/ईति. Write H (hrasva) or D (dīrgha) — for\ntwo-syllable items, judge the *first* vowel. 8/10 is a pass; below that, redo §9 drill 1 and\nretry tomorrow — discrimination improves with sleep between sessions.\n\n**अभ्यासः 5 · वाचनम् (read aloud & record).** Record yourself reading the full 8-word list\n(§14) in order, then compare word by word against the model audio 🔊. Checklist: did मति and\nमित come out as *different words*? Is every ई and ी genuinely two beats? Did लीला get four\nbeats of vowel? Re-record only the words where you and the model differ.\n\n**अभ्यासः 6 · दोषान्वेषणम् (left-hook error hunt, written corrections).** Each item gives\nthe *intended* word in IAST and what a learner actually wrote. Name what went wrong and\nwrite the correct form:\n\n1. intended *tila* — written **तील**\n2. intended *mati* — written **मित**\n3. intended *kīla* — written **किल**\n4. intended *iti* — written **ईति**\n5. intended *līlā* — written **लिला**\n\n(Check your fixes against §14. Items 2 and 4 are the sneakiest: the \"error\" produced a real\nword — exactly why §12's mistakes 2 and 4 matter.)"
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. क + इ = ? (a) की (b) कि (c) इक (d) क\n2. In कि, the vowel sign stands ______ the consonant and is spoken ______ it:\n   (a) after / before (b) before / after (c) before / before (d) after / after\n3. One of इति and ईति means \"thus\", the other \"calamity\". Write each word with its meaning.\n4. मति and मित are written with the same three shapes. What decides which word you read?\n   (a) the headline's length (b) which consonant the hook stands before (c) sentence context\n   only (d) the order the strokes were written in\n5. The vowel of English *bit* differs from Sanskrit इ in: (a) duration only (b) quality —\n   it is lax, lower and more central (c) lip rounding (d) nothing; they are identical\n6. इ and ई differ in: (a) quality and length, like अ and आ (b) duration only (c) tongue\n   position only (d) lip rounding\n7. Reading check — write the English meaning of each: (a) तिल (b) लीला (c) कति\n8. Find the error: a learner wants to write कील (kīla) \"pin\" but writes **किल**. What does\n   the written form actually read as, and what exactly needs to change?\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) कि — the i-mātrā stands to the left; (a) की is *kī*, (c) इक reads *ika*. → §8, §15.\n2. (b) before / after — written before, spoken after: the left-hook rule. → §8, §15.\n3. इति (iti) \"thus\"; ईति (īti) \"calamity\" — duration alone separates them. → §13.\n4. (b) which consonant the hook stands before — the hook belongs to the consonant on its\n   right: मति = म + ति, मित = मि + त. → §8, §12 mistake 4.\n5. (b) quality — English *bit* has lax /ɪ/; इ is tense /i/, merely short. → §5, §10.\n6. (b) duration only — the course's first pure length pair; अ/आ differed in quality too. → §10.\n7. (a) तिल = \"sesame\"; (b) लीला = \"play\"; (c) कति = \"how many?\". → §14.\n8. किल reads *kila* — the short ि stands where long ी belongs. Replace the left-standing\n   hook with the right-standing ी: कील. → §15, §18 exercise 6.\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The sounds:** इ /i/ · ई /iː/ — tongue high and forward, lips spread, one shape, and the\n> *only* difference is duration: 2:1, no quality safety net. **The rule:** ि stands **left**\n> of its consonant, spoken after it — written before, spoken after; ी stands right, like ा.\n> **The geography:** the consonant is a house — right (ा ी), left (ि), below and above still\n> to come. **The proof:** इति ≠ ईति, मति ≠ मित. **The prize:** 8 new words — इति, तिल, मति,\n> कति, कील, लीला, ममता, मित.\n\nSpaced review [REF:cepeda2006]:\n\n- **In 1 day:** re-take the dictation (exercise 3) cold, and write कि की मि मी ति ती लि ली\n  from memory — count corrected hooks.\n- **In 1 week:** read the §14 list aloud at speed with full length discipline; re-run the\n  इति/ईति discrimination; re-answer quiz Q1–2 and Q4 without looking.\n- **Carried forward:** lesson 2 of this chapter (उ/ऊ) opens by re-summoning today's grid —\n  the mātrās move to the room *below* the house."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 2 and 3 if not completed in class: tracing sheet, first\n   dictation pass.\n2. **(5 min)** The length ladder (§9 drill 1), three rounds, metronome at 60.\n3. **(5 min, Chapter 1 debt)** The +1-week re-run promised by v1.c01.l05 §20: read the\n   Chapter 1 twelve-word list aloud once at speed, and re-do its timed writing (3 minutes,\n   from memory). Log both scores next to your Chapter 1 notes.\n4. **(7 min, real world)** Hunt the left hook: in any Hindi text around you — newspaper,\n   sign, chat — find and list ten words containing ि. For each, notice: the hook stands\n   *before* a consonant your voice says *first*. Ten small confirmations of today's rule.\n5. **(3 min, teach-back)** Show one person the time-travel trick with कि — and if you can\n   explain why मति and मित are different words, the rule is yours for good.\n\nTomorrow, before anything else: the 1-day re-dictation (§20)."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**The reveal is the lesson.** Write क on the board, say \"now watch me write *ki*\" — and put\nthe hook down *to the left*, slowly, in silence. Let the room react before you explain.\nStudents who merely get told the rule re-derive it wrong within a week; students who *felt*\nthe surprise don't.\n\n**Timing plan (45 min):** §3 retrieval, written (5) → hook reveal on the board (4) → sound\nwork: mirror, smile-check, length ladder (8) → left-hook rule + worked readings तिल मति कील\nलीला इति, then the मति/मित trap (10) → syllable grid + word list in pairs (8) → exercises 1\nand 6 (7) → homework briefing incl. the Chapter 1 +1-week re-run (3).\n\n**Board work:** keep the consonant-house from §8 on the side board all lesson — one big क\nwith five labeled rooms; move sign-cards into rooms as they come up. Under it, a permanent\nstrip: क का कि की. Decompose every new word beneath it with akṣara ticks (म|ति vs मि|त).\n\n**The two classic errors, and where to catch them:** (1) the hook planted right (की for\nintended कि) — catch it during exercise 2 by watching pens, not worksheets: the error lives\nin the writing sequence. The canopy check helps visual learners: \"does your arc reach toward\nits letter?\" (2) mid-word hooks read onto the wrong consonant — catch it in dictation by\n*deliberately* including both मति and मित in one pass, then having students swap slates and\nhunt each other's hooks.\n\n**Dictation logistics:** natural speed, no exaggerated lengths; collect error types\nseparately — wrong-side hook, missing curl on ी, length blur — each has a different fix\n(§15, §15, §9 respectively).\n\n**Differentiation — Hindi-literate learners:** the script mechanics are automatic; do not\nlet them idle. Their genuine work is recitation-grade 2:1 length (दिन/दीन shows they own the\ncontrast; fast speech is where they leak) and the known weak spot of careless कि/की swaps in\nfast writing. Deputize them as hook-police for exercise 6 and recorders in pair reading;\npair them with script-beginners under the Chapter 1 rule: guide the hand with words, never\ntake the pen.\n\n**What students find hard:** *believing* the reordering (the reveal handles this); mid-word\nhooks at reading speed (मति/मित — normalize slow block-by-block reading for another week);\nand, for English speakers, keeping short इ tense — the \"cut ई in half\" trick from §12 works\nbetter than any tongue-position description."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-1/v1c02l01-i-ii-lettercards.svg`**\n\n> Clean educational letter-card pair, warm off-white background. Left card: giant Devanagari\n> इ (Noto Serif Devanagari, ink-black), below it \"i\" (IAST, serif italic) and \"/i/\"\n> (monospace-feel sans); badge \"ह्रस्वः · hrasva · 1 beat\", one beat-dot. Right card: giant\n> ई with \"ī\" and \"/iː/\"; badge \"दीर्घः · dīrgha · 2 beats\", two joined beat-dots. Between\n> the cards, a clock icon: same mouth, more time. Minimal, high contrast, print-friendly.\n\n**Asset 2 — `planned:assets/images/volume-1/v1c02l01-stroke-order.svg`**\n\n> Stroke-order chart, four rows: इ, ई, ि (on carrier क), ी (on carrier क), Noto Serif\n> Devanagari outlines, each form drawn progressively 4 times with numbered arrows: body\n> curves first, extra curl for ई, headline last; in the mātrā rows the क is complete first\n> in gray, then bar + canopy in a highlight color — ि's bar LEFT with canopy arcing right,\n> ी's bar RIGHT with canopy arcing left. Footer: कि की मि मी, caption \"written before,\n> spoken after — the canopy curls toward its consonant\". Workbook-clean, two colors.\n\n**Asset 3 — `planned:assets/diagrams/volume-1/v1c02l01-mouth-position-i.svg`**\n\n> Vector sagittal head cross-section facing left, minimal line art, labeled \"इ /i/\": tongue\n> body high and forward toward the hard palate (arrow \"up + forward\"), tip low behind lower\n> teeth, jaw nearly closed (\"pencil width\" marker), lip corners slightly spread (small smile\n> icon; crossed-out rounded-lips icon). Corner inset: gray head of अ /ɐ/ at rest, dashed\n> arrow to the new position captioned \"the tongue's first journey\". Beat diagram below: one\n> dot = इ, two joined dots = ई, caption \"same shape — twice the time\". IPA in slashes\n> exactly as given; monochrome-safe.\n\n**Asset 4 — `planned:assets/diagrams/volume-1/v1c02l01-matra-geography.svg`**\n\n> Infographic \"mātrā geography\": a large क drawn as a simple house (headline = roof beam)\n> with five labeled rooms: RIGHT holding ा ी (solid, \"since l04 / new today\"), LEFT holding\n> ि (solid, starred \"the one left-dweller — new today\"), BELOW with ु ू ृ, ABOVE with े ै,\n> RIGHT+ABOVE with ो ौ — the last three dashed \"coming soon\", lesson numbers l02–l05.\n> Assembled examples beneath: का कि की. Caption: \"position is fixed by the script, sign by\n> sign\". Clean two-color style, Noto Serif Devanagari.\n\n**Asset 5 — `planned:assets/worksheets/volume-1/v1c02l01-tracing.pdf`**\n\n> A4 tracing worksheet, portrait, Devanagari headline row guides. Rows 1–2: इ and ई — one\n> solid model, five dotted outlines each, stroke-order arrows matching Asset 2. Rows 3–4:\n> कि की मि मी ति ती लि ली dotted, consonants solid light gray, mātrā strokes dotted in\n> highlight color, numbered last. Row 5: इति, मति, कील dotted once, then empty guided boxes\n> for freehand. Footer: \"written before, spoken after\" + \"the arc curls toward its letter\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:40):** typewriter spells English *it* — i, then t, spoken order. Cut to\n   Devanagari building *ki*: क appears, इ flies in, shrinks into ि — and jumps LEFT. Freeze;\n   caption \"written before, spoken after\". Title card: इकारः ईकारश्च — the front vowels.\n2. **The sounds (0:40–1:50):** sagittal head (Asset 3): tongue animates from rest (अ) up and\n   forward to /i/; presenter does the mirror smile-check; metronome ladder इ (one tick) — ई\n   (two ticks).\n3. **The left-hook rule (1:50–3:10):** the consonant-house (Asset 4) animates: ा recap on\n   the right, ी moves in beside it, ि takes the left room; dashed rooms teased for lessons\n   2–5. Rule caption throughout.\n4. **Reading proof (3:10–4:20):** blocks assemble letter by letter: तिल; then मति vs मित\n   swapping their hook with a whoosh — captions \"thought\"/\"measured\" flip. Then इति builds\n   from independent इ; caption: \"you've said it since lesson 2 — now you read it.\"\n5. **Word wall (4:20–5:20):** the 8 cards fly in (Devanagari + IAST + gloss); इति/ईति pulse\n   as a pair with beat-dots 1 vs 2; model voice reads each word twice.\n6. **Recap + CTA (5:20–6:00):** the grid कि की मि मी ति ती लि ली read once; consonant-house\n   with two rooms lit. End card: \"Next: उ and ऊ — the vowels move into the basement.\"\n   Dictation homework reminder overlay."
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** In English you write what you say, in the order you say it: i… t… *it*. Sanskrit\n  is about to break that habit — beautifully.\n- **00:15** To write ki [ki], Devanagari writes the vowel first. That hook on the left? You\n  see it before the क — but you say it after. Written before, spoken after.\n- **00:35** First, the sounds. Smile — just slightly. Tongue high, pushed forward. i [i].\n  Hold it twice as long: ī [iː]. Same shape. More time.\n- **01:00** Careful — English *bit* is a different vowel: lax, sunken [ɪ]. Build your short\n  i [i] from the long one: say ī [iː], then cut it in half. Nothing moves but the clock.\n- **01:35** And unlike a [ɐ] and ā [ɑː], this pair gives you no second clue. Duration is\n  everything: iti [it̪i], \"thus\" — īti [iːt̪i], \"calamity\". One beat of breath apart.\n- **01:55** Now the writing. The consonant is a house. The ā-stroke lives on the right — you\n  knew that. Long ī moves in beside it: की [kiː]. But short i takes the room on the LEFT:\n  कि [ki].\n- **02:30** Watch the danger: same three shapes — म, hook, त. Hook before the त: mati\n  [mɐt̪i], thought. Hook before the... look again — hook after the म means it belongs to त.\n  Hook standing before म: mita [mit̪ɐ], measured. The hook always belongs to the consonant\n  on its right.\n- **03:10** Read with me. त plus the hook — ति [t̪i]. Add ल: tila [t̪ilɐ]. Sesame. की [kiː]\n  — ल — kīla [kiːlɐ], a pin. लीला — līlā [liːlɑː], play: four beats of vowel. Count them.\n- **03:50** And this one: इ, the letter itself, then ति — iti [it̪i]. Thus. You have said\n  this little word since lesson two. Today you read it.\n- **04:20** Eight words, yours now. iti [it̪i], thus. tila [t̪ilɐ], sesame. mati [mɐt̪i],\n  thought. kati [kɐt̪i], how many. kīla [kiːlɐ], pin. līlā [liːlɑː], play. mamatā\n  [mɐmɐt̪ɑː], a mother's my-ness. mita [mit̪ɐ], measured.\n- **05:00** The dangerous pairs once more: mati [mɐt̪i] — mita [mit̪ɐ]. iti [it̪i] — īti\n  [iːt̪i]. If those sound like four different words, today worked.\n- **05:30** Dictation tomorrow, the full list next week — the gap is the method. Next\n  lesson, the vowels move into the basement: u [u] and ū [uː]. Until then: written before,\n  spoken after."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "35–45 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** extreme close-up, a pen writes क. Presenter: \"Watch this script\n  write time travel.\" The pen adds the hook — on the LEFT. Caption: कि = ki.\n- **Demo (0:07–0:28):** \"That hook is the vowel *i*. You SEE it first — you SAY it second.\n  Written before, spoken after.\" Quick cut: \"And it's load-bearing —\" on-screen swap: मति\n  *mati* \"thought\" ⇄ मित *mita* \"measured\". \"Same three shapes. The hook picks the word.\"\n- **Payoff (0:28–0:38):** इति assembles on screen. \"This is *iti* — Sanskrit's quotation\n  mark, the word that ends entire books. Readable on day six of learning the script.\"\n- **CTA (0:38–0:45):** \"Sanskritam, Chapter 2. Next: the vowels move into the basement.\n  Follow along.\" (End card: इकारः ईकारश्च — I & Ī.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-1/v1c02l01-i-ii-lettercards.svg` — §8/§10 front cards; §23 prompt 1\n  - `assets/images/volume-1/v1c02l01-stroke-order.svg` — §15 stroke order; §23 prompt 2\n  - `assets/diagrams/volume-1/v1c02l01-mouth-position-i.svg` — §11 walkthrough; §23 prompt 3\n  - `assets/diagrams/volume-1/v1c02l01-matra-geography.svg` — §8/§15 house diagram; §23\n    prompt 4 — the chapter's reusable master diagram: lessons 2–5 relight its dashed rooms\n  - `assets/audio/volume-1/v1c02l01-i-drill.mp3` — §9 drills 1–2, §18 exercise 4\n  - `assets/audio/volume-1/v1c02l01-word-list.mp3` — §14 model reading, §18 exercises 3, 5\n  - `assets/worksheets/volume-1/v1c02l01-tracing.pdf` — §18 exercise 2; §23 prompt 5\n  - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 2\n    drill pack (chapter.md assets manifest) and back-link here when they exist.\n- **Related lessons:** reviews v1.c01.l03 (inherent vowel) and v1.c01.l04 (mātrā rule,\n  length discipline); §3 + §21 discharge the +1-week re-runs promised in v1.c01.l05 §20;\n  feeds v1.c02.l02 (उ/ऊ — below-position mātrās) through v1.c02.l05 (composite positions);\n  इति/ईति and मति/मित discrimination re-tested in the chapter review v1.c02.l07; कति gets\n  its answers when number words begin in v1.c02.l04 (एक); ईति is recognition-only per\n  research note (vol1-ch2-vowels.md §4); sandhi note in §6 (ईकारश्च) resolves in Volume 3;\n  the pratyāhāra system (§4) in Volume 4.\n- **Glossary:** uses मात्रा, ह्रस्व, दीर्घ (first-taught v1.c01.l04 — consistent) and वर्ण\n  (v1.c01.l02). No new glossary terms claimed; the कार naming convention (इकारः \"the sound\n  i\") is used informally here — consider a GLOSSARY entry in the post-chapter loop.\n- **Export notes:** all §14 words readable → no `audio_only` flags in this lesson's\n  vocabulary JSON; 🔊 marks appear only on glue words in §16–§17 (आम्, अत्र, अस्ति, पश्य)\n  and map to `audio_only: true`; standalone mātrās ि ी render with a dotted-circle carrier\n  in some fonts — same exporter handling as l04's ा note; NFC applies to Devanagari fields\n  only, never to IPA strings; §19 key stays inside `<details>` in all renders; §17 bold\n  markers = `readable: true` spans; flag the मति/मित and इति/ईति pairs for the app's\n  discrimination game.\n- **Register audit:** FACT ×5 (§5 ×2, §8, §15 ×2) · HISTORY ×1 (§4, cited) · TRADITION ×1\n  (§4, source named) · SYMBOL ×0 — no symbolic claims made, nothing symbolic assessed; quiz\n  assesses FACT only."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "इति",
+      "iast": "iti",
+      "ipa": "/it̪i/",
+      "en": "thus; end of quote",
+      "hi": "इस प्रकार",
+      "notes": "said since lesson 2 — read from today"
+    },
+    {
+      "deva": "तिल",
+      "iast": "tila",
+      "ipa": "/t̪ilɐ/",
+      "en": "sesame",
+      "hi": "तिल",
+      "notes": "the seed in §17"
+    },
+    {
+      "deva": "मति",
+      "iast": "mati",
+      "ipa": "/mɐt̪i/",
+      "en": "thought, mind",
+      "hi": "मति, बुद्धि",
+      "notes": "kin of Ch 1's मत; not मित!"
+    },
+    {
+      "deva": "कति",
+      "iast": "kati",
+      "ipa": "/kɐt̪i/",
+      "en": "how many?",
+      "hi": "कितने",
+      "notes": "question word — works in §16"
+    },
+    {
+      "deva": "कील",
+      "iast": "kīla",
+      "ipa": "/kiːlɐ/",
+      "en": "pin, wedge",
+      "hi": "कील, खूँटी",
+      "notes": "long ī — two full beats"
+    },
+    {
+      "deva": "लीला",
+      "iast": "līlā",
+      "ipa": "/liːlɑː/",
+      "en": "play, sport",
+      "hi": "लीला, खेल",
+      "notes": "both vowels long; the girl in §17"
+    },
+    {
+      "deva": "ममता",
+      "iast": "mamatā",
+      "ipa": "/mɐmɐt̪ɑː/",
+      "en": "mine-ness, attachment",
+      "hi": "ममता",
+      "notes": "built on मम — readable since Ch 1"
+    },
+    {
+      "deva": "मित",
+      "iast": "mita",
+      "ipa": "/mit̪ɐ/",
+      "en": "measured, moderate",
+      "hi": "नपा-तुला, थोड़ा",
+      "notes": "not मति! (§13)"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. क + इ = ? (a) की (b) कि (c) इक (d) क\n2. In कि, the vowel sign stands ______ the consonant and is spoken ______ it:\n   (a) after / before (b) before / after (c) before / before (d) after / after\n3. One of इति and ईति means \"thus\", the other \"calamity\". Write each word with its meaning.\n4. मति and मित are written with the same three shapes. What decides which word you read?\n   (a) the headline's length (b) which consonant the hook stands before (c) sentence context\n   only (d) the order the strokes were written in\n5. The vowel of English *bit* differs from Sanskrit इ in: (a) duration only (b) quality —\n   it is lax, lower and more central (c) lip rounding (d) nothing; they are identical\n6. इ and ई differ in: (a) quality and length, like अ and आ (b) duration only (c) tongue\n   position only (d) lip rounding\n7. Reading check — write the English meaning of each: (a) तिल (b) लीला (c) कति\n8. Find the error: a learner wants to write कील (kīla) \"pin\" but writes **किल**. What does\n   the written form actually read as, and what exactly needs to change?",
+    "answer_key_markdown": "1. (b) कि — the i-mātrā stands to the left; (a) की is *kī*, (c) इक reads *ika*. → §8, §15.\n2. (b) before / after — written before, spoken after: the left-hook rule. → §8, §15.\n3. इति (iti) \"thus\"; ईति (īti) \"calamity\" — duration alone separates them. → §13.\n4. (b) which consonant the hook stands before — the hook belongs to the consonant on its\n   right: मति = म + ति, मित = मि + त. → §8, §12 mistake 4.\n5. (b) quality — English *bit* has lax /ɪ/; इ is tense /i/, merely short. → §5, §10.\n6. (b) duration only — the course's first pure length pair; अ/आ differed in quality too. → §10.\n7. (a) तिल = \"sesame\"; (b) लीला = \"play\"; (c) कति = \"how many?\". → §14.\n8. किल reads *kila* — the short ि stands where long ी belongs. Replace the left-standing\n   hook with the right-standing ी: कील. → §15, §18 exercise 6."
+  },
+  "registers": [
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "Pāṇini's Aṣṭādhyāyī (composed around the 4th century BCE — estimates vary) is organized around a fourteen-sūtra catalogue of sounds that its rules reference throughout. [REF:cardona1997]",
+      "refs": [
+        "cardona1997"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 4,
+      "text": "The first of those fourteen sūtras reads अइउण् (aiuṇ): the vowels a, i, u, closed by a marker sound. In the tradition's ordering, इ stands in the opening beat of the whole system — grouped with अ and उ before every other sound. [REF:maheshvarasutras 1]",
+      "refs": [
+        "maheshvarasutras 1"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "इ = /i/ — a close front unrounded vowel: the tongue high and forward, close to the hard palate, lips unrounded. ई = /iː/ — the same vowel held roughly twice as long: dīrgha = 2 × hrasva in duration, with no change of quality. [REF:ladefoged2015]",
+      "refs": [
+        "ladefoged2015"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "The vowel of English *bit* is not इ: it is lax /ɪ/ — lower and more central than /i/. English *feet* comes close to ई in quality, though many accents glide it slightly. Hindi speakers transfer इ/ई largely correctly, but often blur the length contrast in fast speech. [REF:ladefoged2015], [REF:ohala1994]",
+      "refs": [
+        "ladefoged2015",
+        "ohala1994"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 8,
+      "text": "The short-i mātrā ि is written to the **left** of its consonant — earlier in the written line than the consonant it belongs to — although the vowel is spoken **after** that consonant: क + इ = कि (ki). The long-ī mātrā ी attaches to the right, like ा: क + ई = की (kī). [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "In Devanagari, the dependent sign of इ — the mātrā ि — is positioned to the left of the consonant it modifies, preceding it in visual order while following it in pronunciation: क + इ = कि (ki), read *k* then *i*. The sign of ई — the mātrā ी — follows the consonant on the right: क + ई = की (kī). Word-initially the independent letters इ and ई are written, as in इति (iti). [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "A mātrā's position is fixed by the script, sign by sign — not by any property of the vowel's sound: some signs stand right (ा ी), one stands left (ि), others below (ु ू ृ) or above (े ै), and two combine right with above (ो ौ). [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    }
+  ]
+}

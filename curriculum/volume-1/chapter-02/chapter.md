@@ -8,7 +8,7 @@ title:
 volume: 1
 chapter: 2
 cefr: pre-A1
-status: draft
+status: reviewed
 created: 2026-07-21
 updated: 2026-07-21
 ---

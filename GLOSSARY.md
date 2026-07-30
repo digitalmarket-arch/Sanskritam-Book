@@ -9,6 +9,7 @@ Sorted by IAST.
 
 | देवनागरी | IAST | English | हिन्दी | First taught |
 |---|---|---|---|---|
+| अनुस्वार | anusvāra | the nasal sign ं | अनुस्वार | v1.c02.l06 |
 | अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |
 | दीर्घ | dīrgha | long (vowel) | दीर्घ (लम्बा स्वर) | v1.c01.l04 |
 | ह्रस्व | hrasva | short (vowel) | ह्रस्व (छोटा स्वर) | v1.c01.l04 |
@@ -20,7 +21,9 @@ Sorted by IAST.
 | तालव्य | tālavya | palatal | तालव्य (तालु से उच्चरित) | v1.c01.l02 |
 | दन्त्य | dantya | dental | दन्त्य (दाँतों से उच्चरित) | v1.c01.l02 |
 | मूर्धन्य | mūrdhanya | retroflex | मूर्धन्य | v1.c01.l02 |
+| सन्ध्यक्षर | sandhyakṣara | junction vowel (e ai o au) | सन्ध्यक्षर (संयुक्त स्वर) | v1.c02.l04 |
 | वर्ण | varṇa | speech sound; letter | वर्ण (ध्वनि/अक्षर) | v1.c01.l02 |
+| विसर्ग | visarga | the breath sign ः | विसर्ग | v1.c02.l06 |
 | वर्णमाला | varṇamālā | the Sanskrit sound inventory ("garland of sounds") | वर्णमाला | v1.c01.l02 |
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |
 

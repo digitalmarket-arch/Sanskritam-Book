@@ -1,0 +1,362 @@
+{
+  "frontmatter": {
+    "id": "v1.c02.l06",
+    "schema_version": 1,
+    "title": {
+      "sa": "अयोगवाहौ",
+      "sa_iast": "ayogavāhau",
+      "hi": "अनुस्वार और विसर्ग",
+      "en": "Anusvāra & Visarga — The Dependent Sounds"
+    },
+    "volume": 1,
+    "chapter": 2,
+    "lesson": 6,
+    "lesson_type": "sound",
+    "cefr": "pre-A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v1.c02.l05"
+    ],
+    "review_of": [
+      "v1.c01.l02",
+      "v1.c02.l05"
+    ],
+    "objectives": [
+      {
+        "en": "Read and write the signs ं (anusvāra) and ः (visarga) on any taught akṣara.",
+        "hi": "सीखे हुए किसी भी अक्षर पर अनुस्वार ( ं ) और विसर्ग ( ः ) पढ़ें और लिखें।"
+      },
+      {
+        "en": "Pronounce anusvāra before a stop as that stop's varga-nasal: अंक with [ŋ].",
+        "hi": "स्पर्श व्यञ्जन से पहले अनुस्वार को उसी वर्ग के अनुनासिक की तरह बोलें — अंक में [ŋ]।"
+      },
+      {
+        "en": "Produce visarga as a voiceless /h/ — a breath after the vowel, never voiced, never dropped.",
+        "hi": "विसर्ग को अघोष /h/ की तरह बोलें — स्वर के बाद साँस की हल्की फूँक; न घोष लगाएँ, न छोड़ें।"
+      },
+      {
+        "en": "Read the lesson's 7 words aloud, including ततः, कुतः and कः.",
+        "hi": "पाठ के सातों शब्द ज़ोर से पढ़ें — ततः, कुतः और कः के साथ।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [
+      "ं",
+      "ः"
+    ],
+    "vocabulary_count": 7,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-1/v1c02l06-signs-lettercard.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c02l06-signs-drill.mp3",
+        "planned:assets/audio/volume-1/v1c02l06-word-list.mp3"
+      ],
+      "diagrams": [
+        "planned:assets/diagrams/volume-1/v1c02l06-homorganic-map.svg"
+      ],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c02l06-tracing.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "phonetics",
+      "ayogavaha",
+      "devanagari"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-21"
+    ],
+    "created": "2026-07-21",
+    "updated": "2026-07-21"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "A dot. A colon. That is today's entire cast — and yet these two are probably the most *seen*\nmarks in all of Sanskrit: open any verse, any prayer, any page, and within seconds a ं is\nfloating over one syllable and a ः is closing another. रामः earns its ः today; संस्कृतम् its\nं. Neither is a vowel. Neither is a consonant. The tradition gave them their own category and\ntheir own name — \"the ones that ride along\" — and lesson 2 of this course promised you the\nfull story. Today the promise is paid: the smallest signs in the script, with the biggest\nattendance record in the language, become yours."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Read and write the signs ं (anusvāra) and ः (visarga) on any taught akṣara. | सीखे हुए किसी भी अक्षर पर अनुस्वार ( ं ) और विसर्ग ( ः ) पढ़ें और लिखें। |\n| 2 | Pronounce anusvāra before a stop as that stop's varga-nasal: अंक with [ŋ]. | स्पर्श व्यञ्जन से पहले अनुस्वार को उसी वर्ग के अनुनासिक की तरह बोलें — अंक में [ŋ]। |\n| 3 | Produce visarga as a voiceless /h/ — a breath after the vowel, never voiced, never dropped. | विसर्ग को अघोष /h/ की तरह बोलें — स्वर के बाद साँस की हल्की फूँक; न घोष लगाएँ, न छोड़ें। |\n| 4 | Read the lesson's 7 words aloud, including ततः, कुतः and कः. | पाठ के सातों शब्द ज़ोर से पढ़ें — ततः, कुतः और कः के साथ। |\n\nObjective 1 is drilled in §15 and §18 (exercises 1–3) and tested in §19 (Q6); objective 2 in\n§9 (drill 1) and §18 (exercise 4), tested in §19 (Q3–4); objective 3 in §9 (drills 2–3) and\n§18 (exercise 5), tested in §19 (Q5); objective 4 in §14 and §18 (exercises 3, 6), tested in\n§19 (Q8)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठ की पुनरावृत्ति — answer from memory *before* looking anything up.\n\n1. **Read aloud** (lesson 5's ladder): को कौ — लो लौ; then लोक (loka) and लौकिक (laukika).\n   Keep the ओ a pure long vowel — no English glide.\n2. ॐ — what is its careful phonetic reading, and to which register does the a-u-m analysis\n   belong?\n3. From lesson 2 of Chapter 1, the honest count: 13 + ? + ?. And what is the last group called?\n4. The name ayogavāha was glossed there as \"dependent sounds\", full treatment promised later.\n   What is the one thing you already know these two sounds cannot do?\n5. **Write from memory:** क wearing each of lesson 5's mātrās — को and कौ.\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. को /koː/, कौ /kɐu̯/, लो /loː/, लौ /lɐu̯/; लोक \"world\", लौकिक \"worldly\" — lesson 5's\n   derivation pair. ओ is /oː/ — always long, never a glide.\n2. Careful recitation of ॐ is [oːm], a pure long vowel + m — FACT. The a-u-m decomposition is\n   the tradition's own analysis (the Māṇḍūkya framework) — TRADITION.\n3. 13 vowels + 33 consonants + 2 ayogavāha.\n4. They cannot stand alone — they only ever occur leaning on a vowel. (Today: everything else.)\n5. को and कौ — compare shapes with lesson 5 §15: ो = ा + े, ौ = ा + ै.\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — the two sounds that refused the boxes.\n\nEvery good classification system eventually meets items that will not fit its boxes. The\nancient grammarians sorted speech into स्वर (svara) — vowels, sounds that can stand alone —\nand व्यञ्जन (vyañjana) — consonants, sounds that need a vowel to be pronounceable. Then two\nleftovers remained on the table: a nasal after-hum and a breath after-puff. Each needs a vowel\n*in front of it*: you cannot begin a word with either, cannot sing either on its own, cannot\neven say either without first saying some vowel for it to lean on. A vowel they are not; but\nthey are not consonants of the ordinary kind either — no closure, no place of their own.\n\n> **[HISTORY · इतिहासः]** The Sanskrit grammatical tradition treats anusvāra and visarga as a\n> class apart from both vowels and consonants, and the standard Western grammars follow it:\n> Whitney describes both as sounds that occur only after a vowel and never independently, and\n> documents the tradition's long discussion of their exact status. [REF:whitney1889 §§67–73]\n\n> **[TRADITION · परम्परा]** The grammarians' own name for the pair says it all: अयोगवाह\n> (ayogavāha) is traditionally glossed \"carried along without connection\" — sounds *carried*\n> by the vowel they follow, holding no independent place of their own in the sound-lists.\n> They ride; they do not stand.\n\nNotice the honesty of the move. A lazier tradition would have stuffed the two into the vowel\nlist and moved on — and indeed the schoolroom count \"14 vowels\" does exactly that, as we saw\nin Chapter 1. The grammarians refused. When something genuinely belongs to no existing\ncategory, you *say so* and make a new one. That refusal, made over two thousand years ago, is\nwhy this course could promise you in lesson 2 an honest count — 13 + 33 + 2 — and why today's\nlesson exists as the proper home of the \"+ 2\". With it, Chapter 2's inventory work is\ncomplete: every vowel owned, and now both of its riders."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — a chameleon nasal and a voiceless breath.\n\n> **[FACT · तथ्यम्]** Anusvāra (ṃ) marks a nasal element after a vowel. Before a stop\n> consonant it is pronounced as the nasal of that stop's varga — *homorganic*, \"same place of\n> articulation\": अंक = [ɐŋkɐ], with the velar nasal [ŋ], because क is velar. Where no stop\n> follows, it is a nasal hum — nasalization of the vowel, or a nasal continuant.\n> [REF:whitney1889 §§70–71]\n\n> **[FACT · तथ्यम्]** Visarga (ḥ) is a voiceless /h/ — a breath released after the vowel while\n> the mouth still holds the vowel's shape. It is extremely frequent word-finally — the रामः\n> pattern you have heard since lesson 1. [REF:whitney1889 §67]\n\n**The chameleon is not exotic — your English does it too.** Say *ink* slowly: it is spelled\nwith n, but what you actually say is [ɪŋk] — the nasal slides back to the velar position\nbecause k lives there. Latin did it so consistently that English spelling froze the results:\n*in-* + *possible* = **im**possible, the nasal moving to the lips because p lives at the\nlips. Nasal place assimilation is one of the most ordinary processes in the world's languages\n[REF:ladefoged2015]. What Sanskrit adds is not the habit but the *bookkeeping*: the varṇamālā\ngrid from lesson 2 of Chapter 1 tells you exactly which nasal, every time. Find the following\nstop's row; the dot is that row's fifth cell. अंक: the following stop क sits in the क-वर्ग,\nthe velar row; that row's nasal is ङ /ŋ/; therefore [ɐŋkɐ]. This is the first time the grid\n*computes an answer for you* — it will not be the last.\n\n**The breath sign is the mouth doing nothing, honestly.** For visarga, the vocal folds stop\nbuzzing and simply let air through — a whisper's texture, lasting a beat after the vowel.\nBecause the tongue and lips are still parked in the previous vowel's position, the breath\ntakes on that vowel's color — which explains a habit you will hear in recitation:\n\n> **[TRADITION · परम्परा]** Traditional recitation practice often gives a word-final visarga\n> a soft echo of the preceding vowel: रामः recited as [rɑːmɐhɐ], the echo copying whatever\n> vowel came before. This echo is a recitation style, honored as such — in plain speech the\n> visarga is the breath alone."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit.\n\nअं इति अनुस्वारः।\n(aṃ iti anusvāraḥ.) \"*aṃ* is the anusvāra.\" — अं अनुस्वार है।\n\nअः इति विसर्गः।\n(aḥ iti visargaḥ.) \"*aḥ* is the visarga.\" — अः विसर्ग है।\n\nततः किम्?\n(tataḥ kim?) \"Then what?\" — फिर क्या?\n\nThat last line is a complete Sanskrit exchange in two words — the question every listener\nasks every storyteller, and you can already read its first word. (किम् 🔊 stays an ear-word:\nits final म् needs the virāma, Chapter 5.) The traditional names arriving today: अनुस्वार\n(anusvāra) — literally \"the after-sound\", it sounds *after* the vowel; विसर्ग (visarga) — \"the\nrelease\", a letting-go of breath [REF:monierwilliams1899 s.v. विसर्ग]. And a bonus hidden in\nthis lesson's title: अयोगवाहौ (ayogavāhau) ends in -au, the dual ending — \"the *two*\nayogavāha\" — written with the ौ you learned yesterday. Sanskrit has a whole grammatical\nnumber for exactly two things; the full story is Volume 3's."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nआज की सबसे अच्छी ख़बर — आधा पाठ आप पहले से जानते हैं। ऊपर वाला बिंदु ( ं ) हिन्दी में हर जगह\nहै: अंक, गंगा, संसार, अंदर। और ध्यान दीजिए — आपकी जीभ आज का नियम पहले से जानती है। गंगा\nबोलिए और बिंदु पर एक पल रुकिए: जो ध्वनि निकल रही है, वह ङ है — क-वर्ग का अनुनासिक — क्योंकि\nआगे ग खड़ा है। अब अंदर बोलिए: वही बिंदु अब न बन गया, क्योंकि आगे द है। यही आज का नियम है —\nअगला व्यञ्जन जिस वर्ग का, अनुस्वार उसी वर्ग का अनुनासिक। आपका मुँह यह बरसों से कर रहा है;\nआज सिर्फ़ उस आदत को नाम और नक्शा मिल रहा है।\n\nअसली मेहनत विसर्ग ( ः ) पर है, क्योंकि हिन्दी में विसर्ग है ही नहीं। देखा आपने उसे ज़रूर है —\nनमः में, ॐ शान्तिः शान्तिः शान्तिः में — पर हिन्दी की आदत उसे या तो चुपचाप छोड़ देती है, या\nपूरा \"ह\" बनाकर घोष कर देती है। दोनों ग़लत हैं। विसर्ग स्वर के बाद साँस की एक हल्की, बेआवाज़\nफूँक है — न कम, न ज़्यादा। अभ्यास कीजिए: हथेली होंठों से दो उँगल दूर रखिए और कः बोलिए —\nहथेली पर हवा का झोंका लगे, पर गले पर रखी दूसरी हथेली में कोई कम्पन न आए। यही 'साँस-परीक्षा'\nआज के हर शब्द पर चलेगी: ततः, अतः, इतः, कुतः, मतिः।\n\nएक ईमानदार बारीक़ी और — हिन्दी का बिंदु दो अलग-अलग काम करता है। कहीं वह सचमुच अनुस्वार है\n(अंक, गंगा), और कहीं वह चन्द्रबिन्दु ( ँ ) की जगह लिखा गया है — यानी स्वर का नाक से बोला\nजाना: चाँद को अक्सर चांद लिखा जाता है, हँसी को हंसी। संस्कृत इन दोनों को अलग-अलग रखती है,\nइसलिए संस्कृत पढ़ते समय बिंदु देखकर हिन्दी का अन्दाज़ा मत लगाइए — नियम से पढ़िए: आगे स्पर्श\nव्यञ्जन है, तो उसी वर्ग का अनुनासिक; नहीं है, तो नाक से गूँजता स्वर।\n\nऔर गिनती वाली बात याद है? पहले अध्याय में हमने तय किया था — 13 स्वर + 33 व्यञ्जन + 2\nअयोगवाह। बचपन की \"चौदह स्वर\" वाली गिनती सुविधा थी, ध्वनि-विज्ञान नहीं। आज वे \"+ 2\" पूरे\nसम्मान के साथ अपनी जगह पर आ गए: न स्वर, न व्यञ्जन — स्वर के सहारे चलने वाली दो ध्वनियाँ।\nशब्द भी आधे-पहचाने निकलेंगे: अतः आज भी औपचारिक हिन्दी में \"इसलिए\" के अर्थ में ज़िन्दा है,\nऔर अंक तो रोज़ का शब्द है। नया अनुशासन बस एक है — विसर्ग की साँस। वही आज की असली कमाई है।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "Two small signs, one shared category, and — for the first time — a rule the grid computes for\nyou. Take the signs one at a time, then put them to work on six new words.\n\n### The two signs, mechanically\n\n**Anusvāra ं** is a dot above the headline. It adds a nasal element *after* the akṣara's\nvowel: क (ka) → कं (kaṃ), अ (a) → अं (aṃ). **Visarga ः** is a pair of small circles after the\nakṣara, on the line. It adds a voiceless breath *after* the vowel: क (ka) → कः (kaḥ), अ (a) →\nअः (aḥ). In IAST they are ṃ and ḥ — the same letters m and h wearing an underdot, exactly the\n\"dependent\" idea in Roman dress. Both signs are written last, after the consonant and any\nmātrā; both are read last, after the vowel (§15). And both belong to neither of the big\ncategories — if you once learned \"14 vowels\" at school, Chapter 1 already retired that count:\nthe honest inventory is 13 + 33 + 2, and these are the 2.\n\n### The dot reads the grid\n\nThe anusvāra has no fixed sound of its own. Before a stop consonant, it becomes the nasal of\nthat stop's row — the grid's fifth column, delivered to your door:\n\n| The next stop's row | The dot becomes | Where |\n|---|---|---|\n| क-वर्ग · velar | ङ (ṅa) — [ŋ] | back of tongue + soft palate |\n| च-वर्ग (palatal) | ञ (ña) — [ɲ] | tongue body + hard palate |\n| ट-वर्ग (retroflex) | ण (ṇa) — [ɳ] | tongue tip curled back |\n| त-वर्ग (dental) | न (na) — [n̪] | tongue tip on the teeth |\n| प-वर्ग (labial) | म (ma) — [m] | the two lips |\n| *no stop follows* | a nasal hum — [◌̃] or [m] | air through the nose, vowel color kept |\n\nWorked example, with the only stop you can read: **अंक** — अ, then the dot, then क. The क is\nvelar, so the dot is the velar nasal: [ɐŋkɐ]. Your tongue's back is already lifting toward\nthe क position while your nose is still humming — that overlap *is* the homorganic nasal. The\nmiddle rows of the table are previews; their example words arrive with their consonants in\nChapters 3–4. The last row you already own by ear: in संस्कृतम् (saṃskṛtam) the dot stands\nbefore स — not a stop — so it stays a pure nasal hum: [sɐ̃skr̩t̪ɐm], no lip closure, no\ntongue contact.\n\n### The breath sign — voiceless, never dropped\n\nVisarga is /h/ — the *voiceless* breath. Two disciplines, one for each native-language habit:\nit is never voiced into a full \"ha\" syllable (the vocal folds stay off — whisper-texture\nonly), and it is never silently dropped (the breath must actually arrive; a palm held before\nthe lips should feel it). The recitation echo — रामः as [rɑːmɐhɐ] — is a tradition-register\nstyle for chanting (§5), not a license to add syllables in plain speech.\n\n### The spelling twins: अंक and अङ्क\n\n> **[FACT · तथ्यम्]** Classical orthography often writes the homorganic nasal explicitly, as\n> a conjunct with the varga's own nasal letter: अङ्क, with a visible ङ. The anusvāra spelling\n> अंक is the common modern convention. Both spellings are read identically — [ɐŋkɐ].\n> [REF:whitney1889 §73], [REF:masica1991 ch.6]\n\nSo when a printed text shows you अङ्क where this course writes अंक, nothing has changed but\nink: the dot was always *shorthand* for that row-nasal, and classical typesetting simply says\nthe quiet part out loud. In IAST the two spellings are distinguished — the explicit form is\nwritten aṅka, the dot form aṃka — one sound, two written costumes. How consonants stack into\nconjuncts like ङ्क is Chapter 5's machinery; today you only need to recognize the twins as\ntwins.\n\n### Worked readings — the payoff\n\nBlock by block, exactly as you learned in Chapter 1:\n\n- **ततः** = त + तः → ta-ta-ḥ — /t̪ɐt̪ɐh/ \"then, thereafter\". Your first sentence-connector.\n- **अतः** = अ + तः → a-ta-ḥ — /ɐt̪ɐh/ \"hence\".\n- **इतः** = इ + तः → i-ta-ḥ — /it̪ɐh/ \"from here\".\n- **कुतः** = कु + तः → ku-ta-ḥ — /kut̪ɐh/ \"from where?\".\n- **कः** = one block — /kɐh/ \"who? which?\" — the star of §16.\n- **मतिः** = म + ति + ः → ma-ti-ḥ — /mɐt̪ih/ — lesson 1's मति wearing its dictionary ending (§13).\n\nSix words, one shared skill: full vowel, then the rider — hum or breath — and stop."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — three drills, in order. Audio: 🔊\n`planned:assets/audio/volume-1/v1c02l06-signs-drill.mp3` (drills 1–2 + dictation track) and\n`planned:assets/audio/volume-1/v1c02l06-word-list.mp3` (drill 3).\n\n**Drill 1 — the nasal-hum ladder (anusvāra).** (1) Say English *ink* very slowly and freeze\njust before the k: hold that nasal. That is [ŋ] — nose buzzing, back of tongue up, lips open.\n(2) Now build the word: अ… slide into the hum… release into क: अं-क, अंक [ɐŋkɐ]. Five times,\nslow to natural. (3) Control test: try it *wrong* once on purpose — close your lips into [m]\nbefore the क — and feel the clumsy jump from lips back to soft palate. The grid's answer\nremoves the jump: the hum happens *where the next sound already is*. (4) Finish with the hum\ncase: संस्कृतम् — dot before स, so no contact at all, just the nasal color on the vowel.\n\n**Drill 2 — the visarga breath (palm test).** Hold a palm two finger-widths from your lips,\nthe other hand on your throat. (1) Whisper English *ha* — that airy texture, voiceless, is\nthe target. (2) अः — full vowel, then the breath: puff on the palm, zero buzz on the throat.\n(3) The word-final series, one breath each: कः — ततः — अतः — इतः — कुतः — मतिः. Every word\nmust pass both checks: air on the palm (not dropped), no buzz after the vowel (not voiced).\n\n**Drill 3 — the question-word rhythm.** With the word-list audio, chant the family in call\nand response: कः? कुतः? — इतः! ततः? — अतः! (\"Who? From where? — From here! Then? — Hence!\")\nSteady beat, visarga breath landing cleanly on every beat-end. Then read the full §14 list\ntwice — once slowly, block by block; once at speaking speed. Last on the audio, clearly\nlabeled, comes the recitation style: रामः with its echo [rɑːmɐhɐ]. Imitate it once, enjoy it,\nand put it back on its shelf — it belongs to chanting, not to plain speech."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "Today's signs break a pattern the course has followed so far: they get no single symbol.\n\n**Anusvāra — transcribe contextually** (the course rule, from the STYLE_GUIDE table): [ŋ]\nbefore the क-row, [ɲ] [ɳ] [n̪] [m] before their rows, and a nasalized vowel [◌̃] (or [m])\nwhere no stop follows. This is why today's transcriptions appear in **brackets** — [ɐŋkɐ] —\nrather than slashes: brackets record what actually comes out of the mouth, and with the dot,\n*context decides* what comes out. The slash-vs-bracket distinction from Chapter 1 is finally\nearning its keep.\n\n**Visarga = /h/** — a voiceless glottal fricative: open vocal folds, pure breath. One preview\nworth flagging now: the letter ह, waiting in Chapter 4, is /ɦ/ — the *voiced* glottal\nfricative. Same place, opposite switch: ः whispers, ह buzzes. Hold that contrast; it will\nkeep your visarga honest when ह arrives.\n\n**Narrow note.** The recitation echo writes itself naturally in brackets: रामः plain is\n[rɑːmɐh], recited [rɑːmɐhɐ] — the added [ɐ] is the tradition's ornament (§5), never part of\nthe word."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — walkthrough of the diagram (planned:\n`assets/diagrams/volume-1/v1c02l06-homorganic-map.svg` — the stop grid with the dot feeding\neach row's nasal, plus a breath panel for visarga).\n\n**Anusvāra has no address of its own — it borrows the next sound's.** What is constant is the\n*velum*: the soft palate lowers, opening the door to the nose. Checks:\n\n1. **Nose buzz:** rest a finger lightly on the side of your nose and hum मं — feel the\n   vibration. Every anusvāra must buzz there.\n2. **Borrowed address:** say अंक in slow motion and freeze mid-hum. Where is your tongue? The\n   back should already be rising to the क position — nose buzzing *and* tongue in place. If\n   your lips are touching, you have defaulted to [m]: reopen them and re-run §9 drill 1.\n\n**Visarga is the open door.** Tongue and lips stay exactly where the vowel left them; the\nvocal folds stop buzzing and simply release breath. Checks:\n\n1. **Palm:** two finger-widths from the lips — every visarga lands a small puff there.\n2. **Throat:** fingers on the larynx — buzzing through the vowel, *silence* during the\n   breath. If the buzz continues, you are saying a voiced \"ha\" (§12, mistake 1).\n3. **Mirror (optional, satisfying):** breathe कः onto a mirror held close — the visarga is\n   the little circle of fog."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **Voicing the visarga into a full \"ha\" syllable.** रामः becomes \"rāma-ha\", ततः becomes\n   \"tata-ha\" — the vocal folds keep buzzing and a whole extra voiced syllable appears. *Fix:*\n   the throat-hand test (§11): buzz through the vowel, silence during the breath. Whisper the\n   ending until the habit sets, then restore normal volume to the rest of the word.\n2. **Dropping the visarga entirely (Hindi habit).** Hindi has no visarga, so the eye skips\n   it: ततः read as तत, मतिः as मति. In Sanskrit that deletes real information — the ḥ is part\n   of the word. *Fix:* the palm test on every word-final ः; dictation (§18, exercise 3) will\n   catch what the palm misses.\n3. **Reading every anusvāra as [m] (romanization habit).** IAST ṃ looks like m, so learners\n   close their lips wherever they see it: अंक becomes [ɐmkɐ], with a clumsy lip-to-velum jump.\n   *Fix:* ṃ is an instruction, not a letter: \"nasal — place decided by what follows.\" Before\n   क the lips must stay open; run §9 drill 1's deliberate-error step and feel the difference.\n4. **Echoing everywhere.** After hearing recitation style, learners add the echo-vowel in\n   plain speech: every ततः becomes [t̪ɐt̪ɐhɐ], every word grows a syllable. *Fix:* two modes,\n   clearly labeled — plain speech = breath only; recitation = echo, on purpose, as tradition\n   (§5). Practice both *separately* so they never blend."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three word-families, worked in all four layers.\n\n### The connector family — your first story-glue\n\n**ततः** (tataḥ) \"then, thereafter\" — तब, उसके बाद · /t̪ɐt̪ɐh/\n**अतः** (ataḥ) \"hence, therefore\" — अतः, इसलिए · /ɐt̪ɐh/\n**इतः** (itaḥ) \"from here\" — यहाँ से · /it̪ɐh/\n[REF:apte1890 s.v. ततः, अतः, इतः]\n\nUntil today, every word you could read was a *thing* — a mother, a garland, a lotus. These\nthree are different: they connect **sentences**. ततः moves a story through time (\"then…\"),\nअतः through logic (\"hence…\"), इतः through space (\"from here…\"). Look at their skeletons: all\nthree end in the same तः piece, hung on a different pointer — a family resemblance you can\nsimply see on the page. (The suffix story behind it is Volume 4's; the *use* is yours today —\n§17 runs on it.) A bonus for Hindi readers: अतः survives, unchanged, in formal Hindi prose.\n\n### The question pair\n\n**कः** (kaḥ) \"who? which?\" — कौन · /kɐh/\n**कुतः** (kutaḥ) \"from where?\" — कहाँ से · /kut̪ɐh/\n[REF:apte1890 s.v. कः, कुतः]\n\nकः is the question word you have been *hearing* since Chapter 1's classroom dialogue — एषः कः\nवर्णः? \"which letter is this?\" — and today its key word finally moves from your ear to your\neye (§16). कुतः is its \"from where?\" sibling — and notice it answers rhyme-perfectly with\nइतः: कुतः? इतः! \"From where? From here!\"\n\n### मति puts on its dictionary coat\n\n**मतिः** (matiḥ) \"thought, mind\" — मति, बुद्धि · /mɐt̪ih/ [REF:apte1890 s.v. मतिः]\n\nIn lesson 1 of this chapter you read मति (mati). Dictionaries and word lists, though, cite\nthe word as मतिः — the *citation form*, the ending a Sanskrit noun wears when it stands alone\nand names itself. That same naming ः is the one you have heard closing रामः, वर्णः and\nअभ्यासः since lesson 1 — it was never decoration. One honest line and no more: a noun's\nending changes with its job in the sentence, and the full system — declension — is Volume 3's\nstory. For now, when a word list shows ः, read it, breathe it, and know it marks the word in\nits Sunday best."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — seven words; every one readable with your own letters and today's two signs.\nAudio: 🔊 `planned:assets/audio/volume-1/v1c02l06-word-list.mp3` (model reading, each word\ntwice — plain style; recitation style appended and labeled).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| कः | kaḥ | /kɐh/ | who? which? | कौन | the एषः कः वर्णः question word — §16 |\n| ततः | tataḥ | /t̪ɐt̪ɐh/ | then, thereafter | तब, उसके बाद | first sentence-connector — §17 runs on it |\n| अतः | ataḥ | /ɐt̪ɐh/ | hence, therefore | अतः, इसलिए | alive in formal Hindi too |\n| इतः | itaḥ | /it̪ɐh/ | from here | यहाँ से | answers कुतः |\n| कुतः | kutaḥ | /kut̪ɐh/ | from where? | कहाँ से | question sibling of कः |\n| मतिः | matiḥ | /mɐt̪ih/ | thought, mind (citation form) | मति, बुद्धि | lesson 1's मति in its dictionary coat — §13 |\n| अंक | aṃka | /ɐŋkɐ/ | mark, number; lap | अंक, संख्या | classical spelling अङ्क — §8; the [ŋ] showcase |\n\nReading protocol: block by block first (कु-तः), then whole word at natural speed, then check\nagainst the audio. Full vowel first, then the rider: hum with the nose, breathe with the\npalm. Every visarga must pass the palm test; no echoes in plain style."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in Volume 1 this is a **script rule**, and today's is about the riders.\n\n### Where the signs live\n\n> **[FACT · तथ्यम्]** Anusvāra and visarga attach to the **akṣara as a whole**, not to the\n> bare consonant: they are written after the consonant and its mātrā are complete, and read\n> after the akṣara's vowel. कं reads ka-ṃ; कः reads ka-ḥ; मतिः reads ma-ti-ḥ, the ः riding\n> the finished ति. [REF:masica1991 ch.6]\n\n- **ं** — one dot, floating **above the headline**, over the right shoulder of its akṣara.\n- **ः** — two small circles, stacked like a colon, **after** the akṣara on the line — close\n  companions, never touching the letter.\n\nStroke order is the easiest of the course — a dot and two circles — but *placement* and\n*sequence* are strict. Extend Chapter 1's writing chant: **\"letter, length, then the\nriders.\"** Consonant first, mātrā second, sign last: क → का → कां; त → तः. A dot written\nbefore the mātrā, or circles squeezed under the headline, are the errors the tracing sheet\n(§18, exercise 2) exists to catch.\n\n### What the signs are not\n\nThey are **not vowels**, and they are not counted as such — the inventory remains 13 + 33 + 2\n(§4, §8). They behave like mātrās in one way only: they are dependent marks that ride a\nfinished akṣara. But a mātrā *replaces* the vowel; the riders *follow* it. का swaps the अ for\nआ — कं keeps the अ and adds a hum after it. Keep the categories clean and the script stays\nmechanical: every sign in देवनागरी now has exactly one job you can name.\n\n### One honest preview\n\nYou now know two signs that modify an akṣara from outside. Chapter 5 introduces the last\nfamily of script machinery — the virāma and consonant conjuncts like the ङ्क inside अङ्क —\nand with it, the full spelling system. Nothing after that is new mechanics; it is all new\nletters in old slots."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — the Chapter 1 classroom exchange, upgraded: its question word is now *readable*.\nBold = you can read it yourself. 🔊 audio recorded into the Chapter 2 drill pack (§27). The\nteacher points at a letter on the board.\n\n— एषः **कः** वर्णः?\n(eṣaḥ kaḥ varṇaḥ?) \"Which letter is this?\" — यह कौन-सा वर्ण है?\n\n— **कः** **इति** वर्णः।\n(kaḥ iti varṇaḥ.) \"The letter *ka*.\" — यह वर्ण 'क' है।\n\n— **ततः** किम्?\n(tataḥ kim?) \"Then what?\" — फिर क्या?\n\n— **ततः** अभ्यासः!\n(tataḥ abhyāsaḥ!) \"Then — practice!\" — फिर अभ्यास!\n\nGlue words, glossed and audio-only for now: एषः (eṣaḥ) \"this\" — यह 🔊 (ष arrives in Chapter\n4); वर्णः (varṇaḥ) \"letter, sound\" — वर्ण 🔊 (र and ण still to come — but its final ः is\nyours now); किम् (kim) \"what?\" — क्या 🔊 (final म् needs the virāma, Chapter 5); अभ्यासः\n(abhyāsaḥ) \"practice\" — अभ्यास 🔊, an ear-friend since lesson 1. One delicious detail before\nyou go: the same कः is doing two different jobs here. In the question it is the word \"which?\";\nin the answer it is the letter क wearing its naming-ः (§13). Sanskrit heard the pun long\nbefore you did — enjoy it."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — ततः किम्? · Then What? The garland story from Chapter 1 continues — and for the first\ntime, a story *moves*, because you can read its connectors. Bold = readable; glue words are\nglossed 🔊 below. Each line: Devanagari, IAST, English, Hindi.\n\n1. **कमला** अत्र अस्ति। **मम** **माला**!\n   (kamalā atra asti. mama mālā!) \"Kamalā is here. — My garland!\" — कमला यहाँ है। — मेरी माला!\n2. **माता** — **कुतः** **माला**, **कमला**?\n   (mātā — kutaḥ mālā, kamalā?) \"Mother: From where — the garland, Kamalā?\" —\n   माँ — माला कहाँ से, कमला?\n3. **कमला** — **इतः**!\n   (kamalā — itaḥ!) \"Kamalā: From here!\" — कमला — यहाँ से!\n4. **माता** — **ततः**?\n   (mātā — tataḥ?) \"Mother: And then?\" — माँ — फिर?\n5. **कमला** — **ततः** **मम** **कमल**-**माला**!\n   (kamalā — tataḥ mama kamala-mālā!) \"Kamalā: Then — my lotus-garland!\" —\n   कमला — फिर मेरी कमल-माला!\n6. **माता** — आम्, **अतः** तव **माला**।\n   (mātā — ām, ataḥ tava mālā.) \"Mother: Yes — hence, your garland.\" —\n   माँ — हाँ, इसलिए तुम्हारी माला।\n\nGlue words 🔊 (all established in Chapter 1): अत्र (atra) \"here\" — यहाँ; अस्ति (asti) \"is\" —\nहै; आम् (ām) \"yes\" — हाँ; तव (tava) \"your\" — तुम्हारा. Everything else you read yourself.\nNotice what changed since Chapter 1: that version of the story could only *point* — this one\nhas time (ततः), space (इतः, कुतः) and even logic (अतः). Four little words turned a scene\ninto a sequence. From now on, every course story runs on this glue — and you own it. Read the\nstory aloud twice: once block by block, once at story speed, every visarga passing the palm\ntest."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 2, 3 and 5 are production tasks. Do them in order.\n\n**अभ्यासः 1 · लेखनम् (sign writing).** In your notebook write the four consonants क म त ल in\na column. Next to each, write its dot-form and its breath-form: कं कः, मं मः, तं तः, लं लः.\nChant the sequence as you write: \"letter, length, then the riders.\" Then write the seven §14\nwords unaided. Read both columns aloud — hum on the dots, palm test on the breaths.\n\n**अभ्यासः 2 · अनुलेखनम् (tracing).** Print or open the tracing worksheet ✍\n(`planned:assets/worksheets/volume-1/v1c02l06-tracing.pdf`): trace अं and अः with the\nplacement guides (dot above the headline; circles after, on the line), then the कं/कः series,\nthen the word row. Watch your own pen order — sign always last (§15).\n\n**अभ्यासः 3 · श्रुतलेखनम् (dictation, audio).** Play the dictation track of\n`planned:assets/audio/volume-1/v1c02l06-signs-drill.mp3` 🔊: eight items — the seven words of\n§14 plus one repeat — each read twice with a writing pause. Write each in Devanagari.\nSelf-check against §14, sign by sign: is every dot *above*? Every ः present? 7/8 is a pass;\nre-take tomorrow either way (§20).\n\n**अभ्यासः 4 · तर्कः (homorganic reasoning, written).** Using the lesson 2 grid and §8's\ntable, answer in two or three written sentences: in अंक, *why* is the dot pronounced [ŋ] and\nnot [m] or [n̪]? Your answer must mention the varga of क and the grid's fifth column. Bonus\nprediction: a word you cannot read yet has the dot before a प-row letter — which nasal will\nyour mouth make there, and why?\n\n**अभ्यासः 5 · उच्चारणम् (record the breath).** Record yourself reading the visarga series —\nकः, ततः, अतः, इतः, कुतः, मतिः — in plain style, then रामः once in recitation style with the\necho, announced as such. Play it back against the model audio 🔊. Checklist: puff audible on\nevery ḥ? No voiced \"ha\"? No echo in the plain set? Re-record only the words that fail.\n\n**अभ्यासः 6 · कथाक्रमः (story sequencing, written).** Here are four story lines, shuffled:\n(a) **ततः** **मम** **माला**! (b) **कुतः** **माला**? (c) **कमला** अत्र अस्ति। (d) **इतः**!\nWrite the letters in story order, then read your rebuilt story aloud. (Check yourself against\n§17 — and notice it is the *connectors* that told you the order.)"
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. Categorically, अं and अः are: (a) the 14th and 15th vowels (b) consonants of the क-वर्ग\n   (c) ayogavāha — dependent sounds, neither vowel nor consonant (d) mātrās\n2. Why are they not counted among the vowels? Answer in one sentence.\n3. \"Homorganic\" means: (a) produced at the same place of articulation as the neighboring\n   sound (b) having the same length (c) voiced in the same way (d) written with the same sign\n4. In अंक the anusvāra is pronounced [ŋ] because: (a) the dot is always [ŋ] (b) क is a velar,\n   so the nasal takes the velar place — the क-row's own fifth cell (c) the dot copies the\n   *previous* sound (d) [ŋ] is easier to say\n5. Visarga is: (a) a voiced sound like a full \"ha\" syllable (b) a voiceless /h/ — a breath\n   after the vowel (c) silent, a purely written mark (d) a nasal hum\n6. कं is read in which order? (a) ṃ then k then a (b) k then ṃ then a (c) k then a then ṃ\n   (d) k then a — the dot is not read\n7. अङ्क and अंक are: (a) two different words (b) two spellings of the same word, read\n   identically (c) singular and plural (d) Sanskrit vs Hindi spellings of different sounds\n8. Reading check — write the English meaning of each: (a) ततः (b) कुतः (c) कः\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (c) ayogavāha — dependent sounds (§4, §8).\n2. Because they cannot stand alone — they only ever occur leaning on a vowel that precedes\n   them (a vowel, by definition, can stand alone).\n3. (a) same place of articulation as the neighboring sound — here, the nasal matching the\n   following stop's varga.\n4. (b) क is velar, so the dot becomes the velar nasal ङ [ŋ] — read the row, take its fifth\n   cell. (Distractor (a) is §12 mistake 3 in disguise.)\n5. (b) a voiceless /h/ breath. ((a) and (c) are §12 mistakes 1 and 2.)\n6. (c) k then a then ṃ — the signs are read after the akṣara's vowel (§15).\n7. (b) two spellings of the same word, read identically — [ɐŋkɐ] (§8).\n8. (a) ततः = \"then, thereafter\"; (b) कुतः = \"from where?\"; (c) कः = \"who? which?\".\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The category:** अं and अः are ayogavāha — dependent sounds; the honest count stays\n> 13 + 33 + 2. **The dot:** before a stop, read the grid — the dot is that row's nasal\n> (अंक → [ŋ]); no stop, nasal hum. **The breath:** ः = voiceless /h/ — palm feels it, throat\n> never buzzes on it, plain speech never echoes it. **The order:** letter, length, then the\n> riders — कं = k-a-ṃ, मतिः = m-a-t-i-ḥ. **The twins:** अङ्क = अंक, one reading. **The\n> prize:** कः, कुतः, ततः, अतः, इतः, मतिः, अंक — question words, your first sentence-\n> connectors, and every dictionary's naming-ending, all in one day.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-take the dictation (exercise 3) cold; write the कं/कः series from memory;\n  palm-test every final ः as you read §14 once.\n- **In 1 week:** lesson 7 — the chapter assessment — retests every vowel *and* both riders,\n  and re-runs the 13 + 33 + 2 can-do from Chapter 1. Re-read §14 and the story aloud the\n  evening before.\n- **From lesson 7 onward:** ततः and अतः appear in every course story from now on; every\n  appearance is a free review — notice them."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 2 and 3 if not completed in class: the tracing sheet and the\n   first dictation pass.\n2. **(5 min)** The palm-test series (§9 drill 2), twice through, once at a whisper and once\n   at full voice — the visarga itself stays a whisper in both.\n3. **(10 min, real world)** Sign-hunt: find ं and ः out in the world — नमः or शान्तिः on a\n   temple board, a yoga studio's ॐ poster, dots in a Hindi headline. Collect five. For each\n   Hindi dot, run today's rule: is the next letter a stop? Which varga? Which nasal is your\n   mouth actually making there? Bring your five finds to class.\n4. **(5 min, teach-back)** Teach someone the अंक trick: why the dot before क must sound like\n   the ङ of the क-row. If you can also show them the palm test on कः, both signs are yours.\n\nTomorrow, before anything else: the 1-day re-dictation (§20) — the gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**This lesson closes a promise, and the class should feel it.** Lesson 2 of Chapter 1 parked\nअं and अः in a labeled box \"full treatment in Chapter 2\"; open today by pointing at that very\nbox. Students who fought the \"not 14 vowels\" correction back then tend to convert here — the\nhomorganic rule is the *reason* the category exists, and deriving it feels like winning an\nargument with your own textbook. Let them win it.\n\n**Timing plan (45 min):** §3 retrieval, written (5) → hook: a projected verse page, students\ncircle every ं and ः they can spot (4) → visarga work: palm + throat tests, the voiceless/\ndropped/voiced three-way contrast (9) → anusvāra: *ink*-freeze demo, the grid computes अंक on\nthe board (10) → word list + connector family reading in pairs (7) → exercises 1 and 4 (7) →\nhomework briefing, incl. the 1-day re-dictation (3).\n\n**Board work:** keep the 5-row grid skeleton from Chapter 1 on the side board with only the\nnasal column filled in (ङ ञ ण न म). Park a large ं above it. Every time the class meets the\ndot, one student walks it to the correct row-cell. अंक gets solved there publicly; the §18\nexercise 4 bonus (प-row prediction) gets solved there tomorrow.\n\n**Dictation logistics:** read plain style, no echoes, natural speed, each word twice with a\n10-second gap. Collect error *types*, not just scores: dropped ः, voiced ः, dot on the wrong\nside or below the line, and [m]-for-[ŋ] in अंक each want different remediation (palm test,\nthroat test, tracing sheet, grid walk respectively).\n\n**Differentiation — Hindi-literate learners:** the anusvāra costs them nothing (say गंगा and\nअंदर, name what their tongue already does); their entire workout is the visarga, plus *not*\nimporting the Hindi dot-for-candrabindu habit into Sanskrit reading. Give them the recorder\nrole in pair work — judging a partner's palm test sharpens their own breath. English-habit\nlearners run the opposite ledger: the breath-h is easy (English *h* is close, just keep it\nvoiceless), and the homorganic idea is secretly native (*ink*!), but the IAST ṃ = \"always m\"\ntrap (§12, mistake 3) is theirs — drill the deliberate-error step of §9 drill 1.\n\n**What students find hard:** hearing [ŋ] vs [m] before क (production first — the *feel* of\nopen lips is easier than the ear, and the ear follows); keeping the recitation echo out of\nplain speech once they have heard it (name the two modes every time, \"plain\" vs \"chant\");\nand believing the two circles of ः are a sound at all — the palm test is the converter, use\nit early and often."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-1/v1c02l06-signs-lettercard.svg`**\n\n> Clean educational letter card, warm off-white background, two equal panels. Left panel:\n> large अं in Noto Serif Devanagari, ink-black, with the dot rendered in an accent color and\n> a fine leader line labeling it \"anusvāra · अनुस्वार — ṃ\"; small example word अंक beneath\n> with IPA \"[ɐŋkɐ]\". Right panel: large अः with the two circles in the accent color, leader\n> line \"visarga · विसर्ग — ḥ\"; small example word कः beneath with IPA \"[kɐh]\" and a tiny\n> breath-puff icon. Banner across the top: \"अयोगवाह · ayogavāha — dependent sounds: not\n> vowels, not consonants\". Footer strip: \"13 + 33 + 2\". Minimal, high contrast,\n> print-friendly, no decorative clutter.\n\n**Asset 2 — `planned:assets/diagrams/volume-1/v1c02l06-homorganic-map.svg`**\n\n> Conceptual diagram \"the dot reads the grid\", two zones. Main zone: the five varga rows as\n> a muted grid silhouette, row labels क-वर्ग च-वर्ग ट-वर्ग त-वर्ग प-वर्ग, with only the fifth\n> (nasal) column printed in full: ङ ञ ण न म with IPA [ŋ] [ɲ] [ɳ] [n̪] [m]. Above the grid, a\n> single large dot ं with five arrows dropping into the five nasal cells, each arrow captioned\n> \"before this row\". Side zone, worked example: अ + ं + क assembling into अंक, the dot\n> visibly landing on the ङ cell, caption \"अंक = [ɐŋkɐ] — the dot becomes the row's nasal\";\n> beneath it a footer case \"no stop next → nasal hum [◌̃]\" with संस्कृतम् as the example. A\n> small corner panel for visarga: an open vocal-folds icon and breath lines, caption\n> \"ः = voiceless /h/ — breath, no buzz\". Two-color infographic style, Devanagari in Noto\n> Serif Devanagari, IPA exactly as given. Monochrome-safe.\n\n**Asset 3 — `planned:assets/worksheets/volume-1/v1c02l06-tracing.pdf`**\n\n> A4 tracing worksheet, portrait, Devanagari headline guides. Rows 1–2: अं and अः — one solid\n> model each with placement callouts (dot floats above the headline; two circles sit after\n> the letter, on the line), then five dotted outlines each. Rows 3–4: कं कः तं तः मं मः लं लः\n> dotted, sign strokes printed in light gray and numbered last. Rows 5–6: the word list ततः\n> अतः इतः कुतः कः मतिः अंक dotted once, then empty guided boxes for freehand. Footer: the\n> chant \"letter, length, then the riders\" + a small palm icon reminder: \"every ः must pass\n> the palm test\". Generous spacing for child and adult hands alike."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:40):** a page of Sanskrit verse fades in; every ं and ः lights up in accent\n   color until the page glitters. Caption: \"The two most-seen marks in Sanskrit. Neither is a\n   vowel.\" Title card: अयोगवाहौ — The Dependent Sounds.\n2. **The category (0:40–1:30):** callback animation from the Chapter 1 sound-map video: 13\n   vowel cards, 33 consonant cards, and the two signs sliding into their own labeled box —\n   this time the box opens.\n3. **Visarga (1:30–2:50):** presenter does the palm + throat test to camera on कः, ततः; split\n   waveform shows voicing bar dying during the breath. Wrong-way demos: dropped ḥ, voiced\n   \"ha\", each X-marked. Recitation echo of रामः played last, tagged परम्परा · tradition.\n4. **Anusvāra (2:50–4:10):** the *ink*-freeze demo; then the homorganic map animates — the\n   dot travels down into the ङ cell as अंक assembles, IPA [ɐŋkɐ] appearing syllable by\n   syllable; संस्कृतम् shown as the no-stop hum case.\n5. **The words (4:10–5:20):** the seven word-cards fly in (Devanagari + IAST + gloss); the\n   question-word chant कः? कुतः? — इतः! plays call-and-response; the §17 story runs as\n   animated speech bubbles with ततः pulsing at each turn.\n6. **Recap + CTA (5:20–6:00):** the revision box as a poster; presenter reads ततः किम् and\n   answers it: end card \"Next: पुनरावृत्तिः — the whole vowel system, tested.\" Dictation\n   homework reminder overlay."
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** A dot. A colon. Open any page of Sanskrit ever written, and there they are —\n  everywhere. Today you learn the two most-seen marks in the language.\n- **00:15** Neither is a vowel. Neither is a consonant. The tradition called them ayogavāha\n  [ɐjoːgɐʋɑːɦɐ] — the ones that ride along. They cannot stand alone; they lean on a vowel.\n- **00:40** Remember the honest count from Chapter 1? Thirteen vowels. Thirty-three\n  consonants. Plus two. Today, the two.\n- **01:30** First, the breath. aḥ [ɐh]. Hold your palm in front of your lips: kaḥ [kɐh] — feel\n  the puff? Now fingers on your throat: the buzz must stop before the breath. No buzz, no\n  drop — just breath.\n- **02:10** Don't turn it into \"ha\" — that's a whole extra syllable. And don't skip it — that\n  breath is part of the word. tataḥ [t̪ɐt̪ɐh]. mattiḥ — no — slowly: matiḥ [mɐt̪ih].\n- **02:35** In chanting, you'll hear an echo: rāmaḥ becomes [rɑːmɐhɐ]. Beautiful — and it\n  belongs to recitation. Plain speech: breath only.\n- **02:50** Now the dot — the cleverest lazy sound in the language. Say English *ink* slowly\n  and freeze before the k. That nasal, deep in the back? Your tongue put it there because k\n  lives there.\n- **03:20** Sanskrit writes that whole idea as one dot. aṃka [ɐŋkɐ] — the dot sits before ka\n  [kɐ], a velar — so the dot becomes the velar nasal. Before the dental row it would be a\n  dental nasal. The grid decides. You just read the row.\n- **03:50** And when no stop follows — saṃskṛtam [sɐ̃skr̩t̪ɐm] — the dot is a hum through the\n  nose. No contact anywhere. Your own language's name has been teaching you this all along.\n- **04:10** Seven words today, and they change what you can do. kaḥ [kɐh] — who? kutaḥ\n  [kut̪ɐh] — from where? itaḥ [it̪ɐh] — from here! tataḥ [t̪ɐt̪ɐh] — then. ataḥ [ɐt̪ɐh] —\n  hence. matiḥ [mɐt̪ih] — thought, in its dictionary coat. aṃka [ɐŋkɐ] — a number, a mark.\n- **04:45** Question words. Story connectors. For the first time, your Sanskrit can *move*:\n  then this, hence that. Listen to the story — every \"then\" is yours now.\n- **05:20** So: the dot reads the grid. The breath passes the palm test. And the count — say\n  it with me — thirteen, thirty-three, plus two.\n- **05:45** Next lesson, the whole vowel system stands for inspection — every vowel, every\n  mātrā, both riders. Bring the breath. tataḥ kim [t̪ɐt̪ɐh kim]? Then — the exam."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** presenter holds up two fingers: \"A dot and a colon are in almost\n  every Sanskrit sentence ever written — and neither one is a real letter.\" (On-screen: a\n  verse page, every ं ः lighting up.)\n- **Demo (0:07–0:32):** \"Watch the dot work. Say *ink* — freeze before the k. Feel that nasal\n  in the back? Sanskrit writes it as one dot: अंक — aṃka [ɐŋkɐ]. Before k it's a back-nasal;\n  before the teeth row it goes dental. The dot copies its neighbor. Laziest sign in the\n  script — and it's never wrong. Now the colon: palm up —\" (palm before lips) \"kaḥ [kɐh].\n  That puff of breath is a sound. No voice, no skipping. Just breath.\"\n- **Payoff (0:32–0:43):** word cards snap in: कः — कुतः — इतः — ततः. \"Who? From where? From\n  here! Then… — that's a conversation, and you can read every word of it after one lesson.\"\n- **CTA (0:43–0:50):** \"This is Sanskritam, Chapter 2 — the vowel system is now complete.\n  Next: the exam. Follow and take it with us.\" (End card: अयोगवाहौ — Anusvāra & Visarga.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-1/v1c02l06-signs-lettercard.svg` — §8/§10 front card, §23 prompt 1\n  - `assets/diagrams/volume-1/v1c02l06-homorganic-map.svg` — §8 table, §11 walkthrough, §23 prompt 2\n  - `assets/audio/volume-1/v1c02l06-signs-drill.mp3` — §9 drills 1–2 + dictation track (§18 exercise 3, §20/§21 re-dictations)\n  - `assets/audio/volume-1/v1c02l06-word-list.mp3` — §9 drill 3, §14 model reading, §18 exercise 5; plain style first, recitation style appended and labeled TRADITION\n  - `assets/worksheets/volume-1/v1c02l06-tracing.pdf` — §18 exercise 2, §23 prompt 3\n  - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 2\n    drill pack (chapter.md assets manifest) and back-link here when they exist.\n- **Related lessons:** delivers the full ayogavāha treatment promised in v1.c01.l02 (and\n  corrects the predecessor curriculum's miscategorization of अं/अः as vowels — improvement\n  report IR-008); reviews v1.c02.l05 (ओ औ, ॐ) and v1.c01.l02 (grid, counts); feeds\n  v1.c02.l07 (chapter assessment re-tests the 13+33+2 can-do and both signs); conjunct\n  mechanics incl. अङ्क-type spellings arrive v1.c05; declension behind the मतिः citation form\n  in Volume 3; the -तः adverb family in Volume 4. Prerequisite/review ids v1.c02.l01–l05 are\n  drafted in parallel with this lesson — the validator's reference check resolves once they land.\n- **Glossary:** अयोगवाह exists in GLOSSARY.md (first-taught v1.c01.l02 — consistent).\n  **अनुस्वार (anusvāra) and विसर्ग (visarga) are introduced here (§6, §8) but missing from\n  GLOSSARY.md — add in the post-chapter loop with first-taught v1.c02.l06.**\n- **Export notes:** bare signs ं and ः render with a dotted-circle carrier (◌ं, ◌ः) in some\n  fonts — exporter should use bare signs in code-voice contexts and accept the carrier\n  elsewhere; anusvāra transcriptions are bracketed contextual values ([ɐŋkɐ], [◌̃]) by design —\n  do not \"normalize\" them to a single phoneme slash-form; IPA strings contain combining\n  characters (t̪, r̩, ◌̃) — NFC normalization applies to Devanagari fields only (STYLE_GUIDE\n  §3), never to IPA; §19 key stays inside `<details>` in all renders; §17 bold markers =\n  \"readable now\" flags — preserve in export as `readable: true` spans; 🔊 marks in §14/§16/§17\n  map to `audio_only: true`.\n- **Register audit:** FACT ×4 (§5 ×2, §8, §15) · HISTORY ×1 (§4) · TRADITION ×2 (§4 name\n  gloss, §5 recitation echo) · SYMBOL ×0 (नमः/शान्तिः/ॐ appear only as real-world sign-hunt\n  objects and familiar phrases, with no symbolic claims made and nothing symbolic assessed)."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "कः",
+      "iast": "kaḥ",
+      "ipa": "/kɐh/",
+      "en": "who? which?",
+      "hi": "कौन",
+      "notes": "the एषः कः वर्णः question word — §16"
+    },
+    {
+      "deva": "ततः",
+      "iast": "tataḥ",
+      "ipa": "/t̪ɐt̪ɐh/",
+      "en": "then, thereafter",
+      "hi": "तब, उसके बाद",
+      "notes": "first sentence-connector — §17 runs on it"
+    },
+    {
+      "deva": "अतः",
+      "iast": "ataḥ",
+      "ipa": "/ɐt̪ɐh/",
+      "en": "hence, therefore",
+      "hi": "अतः, इसलिए",
+      "notes": "alive in formal Hindi too"
+    },
+    {
+      "deva": "इतः",
+      "iast": "itaḥ",
+      "ipa": "/it̪ɐh/",
+      "en": "from here",
+      "hi": "यहाँ से",
+      "notes": "answers कुतः"
+    },
+    {
+      "deva": "कुतः",
+      "iast": "kutaḥ",
+      "ipa": "/kut̪ɐh/",
+      "en": "from where?",
+      "hi": "कहाँ से",
+      "notes": "question sibling of कः"
+    },
+    {
+      "deva": "मतिः",
+      "iast": "matiḥ",
+      "ipa": "/mɐt̪ih/",
+      "en": "thought, mind (citation form)",
+      "hi": "मति, बुद्धि",
+      "notes": "lesson 1's मति in its dictionary coat — §13"
+    },
+    {
+      "deva": "अंक",
+      "iast": "aṃka",
+      "ipa": "/ɐŋkɐ/",
+      "en": "mark, number; lap",
+      "hi": "अंक, संख्या",
+      "notes": "classical spelling अङ्क — §8; the [ŋ] showcase"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. Categorically, अं and अः are: (a) the 14th and 15th vowels (b) consonants of the क-वर्ग\n   (c) ayogavāha — dependent sounds, neither vowel nor consonant (d) mātrās\n2. Why are they not counted among the vowels? Answer in one sentence.\n3. \"Homorganic\" means: (a) produced at the same place of articulation as the neighboring\n   sound (b) having the same length (c) voiced in the same way (d) written with the same sign\n4. In अंक the anusvāra is pronounced [ŋ] because: (a) the dot is always [ŋ] (b) क is a velar,\n   so the nasal takes the velar place — the क-row's own fifth cell (c) the dot copies the\n   *previous* sound (d) [ŋ] is easier to say\n5. Visarga is: (a) a voiced sound like a full \"ha\" syllable (b) a voiceless /h/ — a breath\n   after the vowel (c) silent, a purely written mark (d) a nasal hum\n6. कं is read in which order? (a) ṃ then k then a (b) k then ṃ then a (c) k then a then ṃ\n   (d) k then a — the dot is not read\n7. अङ्क and अंक are: (a) two different words (b) two spellings of the same word, read\n   identically (c) singular and plural (d) Sanskrit vs Hindi spellings of different sounds\n8. Reading check — write the English meaning of each: (a) ततः (b) कुतः (c) कः",
+    "answer_key_markdown": "1. (c) ayogavāha — dependent sounds (§4, §8).\n2. Because they cannot stand alone — they only ever occur leaning on a vowel that precedes\n   them (a vowel, by definition, can stand alone).\n3. (a) same place of articulation as the neighboring sound — here, the nasal matching the\n   following stop's varga.\n4. (b) क is velar, so the dot becomes the velar nasal ङ [ŋ] — read the row, take its fifth\n   cell. (Distractor (a) is §12 mistake 3 in disguise.)\n5. (b) a voiceless /h/ breath. ((a) and (c) are §12 mistakes 1 and 2.)\n6. (c) k then a then ṃ — the signs are read after the akṣara's vowel (§15).\n7. (b) two spellings of the same word, read identically — [ɐŋkɐ] (§8).\n8. (a) ततः = \"then, thereafter\"; (b) कुतः = \"from where?\"; (c) कः = \"who? which?\"."
+  },
+  "registers": [
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "The Sanskrit grammatical tradition treats anusvāra and visarga as a class apart from both vowels and consonants, and the standard Western grammars follow it: Whitney describes both as sounds that occur only after a vowel and never independently, and documents the tradition's long discussion of their exact status. [REF:whitney1889 §§67–73]",
+      "refs": [
+        "whitney1889 §§67–73"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 4,
+      "text": "The grammarians' own name for the pair says it all: अयोगवाह (ayogavāha) is traditionally glossed \"carried along without connection\" — sounds *carried* by the vowel they follow, holding no independent place of their own in the sound-lists. They ride; they do not stand.",
+      "refs": []
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Anusvāra (ṃ) marks a nasal element after a vowel. Before a stop consonant it is pronounced as the nasal of that stop's varga — *homorganic*, \"same place of articulation\": अंक = [ɐŋkɐ], with the velar nasal [ŋ], because क is velar. Where no stop follows, it is a nasal hum — nasalization of the vowel, or a nasal continuant. [REF:whitney1889 §§70–71]",
+      "refs": [
+        "whitney1889 §§70–71"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Visarga (ḥ) is a voiceless /h/ — a breath released after the vowel while the mouth still holds the vowel's shape. It is extremely frequent word-finally — the रामः pattern you have heard since lesson 1. [REF:whitney1889 §67]",
+      "refs": [
+        "whitney1889 §67"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 5,
+      "text": "Traditional recitation practice often gives a word-final visarga a soft echo of the preceding vowel: रामः recited as [rɑːmɐhɐ], the echo copying whatever vowel came before. This echo is a recitation style, honored as such — in plain speech the visarga is the breath alone.",
+      "refs": []
+    },
+    {
+      "type": "FACT",
+      "section_index": 8,
+      "text": "Classical orthography often writes the homorganic nasal explicitly, as a conjunct with the varga's own nasal letter: अङ्क, with a visible ङ. The anusvāra spelling अंक is the common modern convention. Both spellings are read identically — [ɐŋkɐ]. [REF:whitney1889 §73], [REF:masica1991 ch.6]",
+      "refs": [
+        "whitney1889 §73",
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "Anusvāra and visarga attach to the **akṣara as a whole**, not to the bare consonant: they are written after the consonant and its mātrā are complete, and read after the akṣara's vowel. कं reads ka-ṃ; कः reads ka-ḥ; मतिः reads ma-ti-ḥ, the ः riding the finished ति. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    }
+  ]
+}

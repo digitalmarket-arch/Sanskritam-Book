@@ -38,10 +38,10 @@ media:
     - "planned:assets/quizzes/volume-1/v1c02l07-chapter-quiz.md"
     - "planned:assets/quizzes/volume-1/v1c02l07-chapter-quiz-key.md"
 tags: [review, assessment, production]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-21"]
 created: 2026-07-21
 updated: 2026-07-21
 ---

@@ -95,6 +95,150 @@
       ],
       "path": "curriculum/volume-1/chapter-01/lesson-05-review-and-assessment.md",
       "json": "json/volume-1/v1.c01.l05.json"
+    },
+    {
+      "id": "v1.c02.l01",
+      "title": {
+        "sa": "इकारः ईकारश्च",
+        "sa_iast": "ikāraḥ īkāraś ca",
+        "hi": "इ और ई",
+        "en": "I & Ī — The Front Vowels"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c01.l05"
+      ],
+      "review_of": [
+        "v1.c01.l03",
+        "v1.c01.l04"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-01-i-and-ii.md",
+      "json": "json/volume-1/v1.c02.l01.json"
+    },
+    {
+      "id": "v1.c02.l02",
+      "title": {
+        "sa": "उकारः ऊकारश्च",
+        "sa_iast": "ukāraḥ ūkāraś ca",
+        "hi": "उ और ऊ",
+        "en": "U & Ū — The Rounded Vowels"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c02.l01"
+      ],
+      "review_of": [
+        "v1.c02.l01",
+        "v1.c01.l04"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-02-u-and-uu.md",
+      "json": "json/volume-1/v1.c02.l02.json"
+    },
+    {
+      "id": "v1.c02.l03",
+      "title": {
+        "sa": "ऋकारः",
+        "sa_iast": "ṛkāraḥ",
+        "hi": "ऋ की ध्वनि",
+        "en": "Ṛ — The Vowel That Is an R"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c02.l02"
+      ],
+      "review_of": [
+        "v1.c02.l01",
+        "v1.c02.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-03-the-vowel-r.md",
+      "json": "json/volume-1/v1.c02.l03.json"
+    },
+    {
+      "id": "v1.c02.l04",
+      "title": {
+        "sa": "एकारः ऐकारश्च",
+        "sa_iast": "ekāraḥ aikāraś ca",
+        "hi": "ए और ऐ",
+        "en": "E & Ai — Pure and Compound"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c02.l03"
+      ],
+      "review_of": [
+        "v1.c02.l02",
+        "v1.c02.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-04-e-and-ai.md",
+      "json": "json/volume-1/v1.c02.l04.json"
+    },
+    {
+      "id": "v1.c02.l05",
+      "title": {
+        "sa": "ओकारः औकारश्च",
+        "sa_iast": "okāraḥ aukāraś ca",
+        "hi": "ओ और औ — तथा ॐ",
+        "en": "O & Au — and Om"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c02.l04"
+      ],
+      "review_of": [
+        "v1.c02.l03",
+        "v1.c02.l04"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-05-o-and-au.md",
+      "json": "json/volume-1/v1.c02.l05.json"
+    },
+    {
+      "id": "v1.c02.l06",
+      "title": {
+        "sa": "अयोगवाहौ",
+        "sa_iast": "ayogavāhau",
+        "hi": "अनुस्वार और विसर्ग",
+        "en": "Anusvāra & Visarga — The Dependent Sounds"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c02.l05"
+      ],
+      "review_of": [
+        "v1.c01.l02",
+        "v1.c02.l05"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-06-anusvara-and-visarga.md",
+      "json": "json/volume-1/v1.c02.l06.json"
+    },
+    {
+      "id": "v1.c02.l07",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "दोहराव और मूल्यांकन",
+        "en": "Review & Assessment — The Complete Vowel System"
+      },
+      "status": "reviewed",
+      "cefr": "pre-A1",
+      "prerequisites": [
+        "v1.c02.l06"
+      ],
+      "review_of": [
+        "v1.c02.l01",
+        "v1.c02.l02",
+        "v1.c02.l03",
+        "v1.c02.l04",
+        "v1.c02.l05",
+        "v1.c02.l06"
+      ],
+      "path": "curriculum/volume-1/chapter-02/lesson-07-review-and-assessment.md",
+      "json": "json/volume-1/v1.c02.l07.json"
     }
   ]
 }
