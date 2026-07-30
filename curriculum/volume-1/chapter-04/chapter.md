@@ -8,7 +8,7 @@ title:
 volume: 1
 chapter: 4
 cefr: A1
-status: draft
+status: reviewed
 created: 2026-07-30
 updated: 2026-07-30
 ---

@@ -361,6 +361,89 @@
       ],
       "path": "curriculum/volume-1/chapter-03/lesson-06-review-and-assessment.md",
       "json": "json/volume-1/v1.c03.l06.json"
+    },
+    {
+      "id": "v1.c04.l01",
+      "title": {
+        "sa": "अन्तःस्थाः",
+        "sa_iast": "antaḥsthāḥ",
+        "hi": "अन्तःस्थ — य र ल व",
+        "en": "The In-Between Sounds"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c03.l06"
+      ],
+      "review_of": [
+        "v1.c02.l03",
+        "v1.c03.l06"
+      ],
+      "path": "curriculum/volume-1/chapter-04/lesson-01-antahstha.md",
+      "json": "json/volume-1/v1.c04.l01.json"
+    },
+    {
+      "id": "v1.c04.l02",
+      "title": {
+        "sa": "ऊष्माणः",
+        "sa_iast": "ūṣmāṇaḥ",
+        "hi": "ऊष्म — श ष स",
+        "en": "The Three Sibilants"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c04.l01"
+      ],
+      "review_of": [
+        "v1.c04.l01",
+        "v1.c03.l02",
+        "v1.c03.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-04/lesson-02-ushman-sibilants.md",
+      "json": "json/volume-1/v1.c04.l02.json"
+    },
+    {
+      "id": "v1.c04.l03",
+      "title": {
+        "sa": "हकारः",
+        "sa_iast": "hakāraḥ",
+        "hi": "ह — और सम्पूर्ण वर्णमाला",
+        "en": "H and the Complete Alphabet"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c04.l02"
+      ],
+      "review_of": [
+        "v1.c04.l01",
+        "v1.c04.l02",
+        "v1.c02.l06"
+      ],
+      "path": "curriculum/volume-1/chapter-04/lesson-03-ha-and-completion.md",
+      "json": "json/volume-1/v1.c04.l03.json"
+    },
+    {
+      "id": "v1.c04.l04",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "दोहराव — वर्णमाला परीक्षा",
+        "en": "The Alphabet Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c04.l03"
+      ],
+      "review_of": [
+        "v1.c04.l01",
+        "v1.c04.l02",
+        "v1.c04.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-04/lesson-04-review-and-assessment.md",
+      "json": "json/volume-1/v1.c04.l04.json"
     }
   ]
 }

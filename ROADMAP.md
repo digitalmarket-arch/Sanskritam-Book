@@ -18,7 +18,7 @@ closing the largest gap of the 1.x curriculum.
 | 1 | प्रवेशः — Entering Sanskrit Sound | 5 | ✅ reviewed |
 | 2 | स्वराः — The Vowels | 7 | ✅ reviewed |
 | 3 | स्पर्शाः — The Stop Consonants | 6 | ✅ reviewed |
-| 4 | अन्तःस्थाः ऊष्माणश्च — Semivowels & Sibilants | 4 | ⬜ |
+| 4 | अन्तःस्थाः ऊष्माणश्च — Semivowels & Sibilants | 4 | ✅ reviewed |
 | 5 | संयोगः — Virāma & Conjuncts | 5 | ⬜ |
 | 6 | पठनम् — Reading Bootcamp | 4 | ⬜ |
 
@@ -108,9 +108,13 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
 - **2026-07-30** — **v1.c03 स्पर्शाः complete and reviewed**: 6 lessons — all 25 stops with
   every varga member treated equally (IR-042 closed), the reusable manner row with physical
   checks, the first readable verb and sentences (pause-form convention), grid-mastery
-  assessment. 18 lessons total, validator green, exports current. Next: research notes for
-  v1.c04 (अन्तःस्थाः ऊष्माणश्च — semivowels & sibilants, the last 8 letters); asset
-  production for Chapters 1–3 `planned:` media can run in parallel from §23–26 prompts.
+  assessment. 18 lessons total, validator green, exports current.
+- **2026-07-30** — **v1.c04 अन्तःस्थाः ऊष्माणश्च complete and reviewed**: 4 lessons — the
+  last 8 consonants, the ś/ṣ flagship contrast (IR-012 closed in-curriculum), the complete
+  varṇamālā with the Alphabet Exam, ~140 cumulative readable words incl. राम, भाषा,
+  हिमालय. 22 lessons total, validator green, exports current. Next: v1.c05 (संयोगः — virāma
+  & conjuncts, where नमस्ते becomes writable), then v1.c06 (reading bootcamp) completes
+  Volume 1. Asset production for Chapters 1–4 `planned:` media can run in parallel.
 
 ## Content preservation map (from the 1.x curriculum)
 

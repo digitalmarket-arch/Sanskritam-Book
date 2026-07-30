@@ -23,6 +23,8 @@ Sorted by IAST.
 | महाप्राण | mahāprāṇa | aspirated ("great breath") | महाप्राण | v1.c03.l01 |
 | अल्पप्राण | alpaprāṇa | unaspirated ("small breath") | अल्पप्राण | v1.c03.l01 |
 | अनुनासिक | anunāsika | nasal | अनुनासिक | v1.c03.l01 |
+| अन्तःस्थ | antaḥstha | semivowel ("standing between") | अन्तःस्थ | v1.c04.l01 |
+| ऊष्मन् | ūṣman | sibilant-class sound ("heat, steam") | ऊष्म वर्ण | v1.c04.l02 |
 | स्वर | svara | vowel | स्वर | v1.c01.l02 |
 | तालव्य | tālavya | palatal | तालव्य (तालु से उच्चरित) | v1.c01.l02 |
 | दन्त्य | dantya | dental | दन्त्य (दाँतों से उच्चरित) | v1.c01.l02 |

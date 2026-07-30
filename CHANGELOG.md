@@ -4,6 +4,22 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.4.0] — 2026-07-30
+
+Volume 1 Chapter 4 — अन्तःस्थाः ऊष्माणश्च (Semivowels & Sibilants) complete and reviewed.
+The varṇamālā is complete.
+
+### Added
+- v1.c04 research notes and chapter frame (the completion arc, register policy for
+  religiously resonant name-words).
+- Four lessons: the antaḥsthā with the व middle-ground and the volume's largest vocabulary
+  unlock; the ś/ṣ flagship contrast via tongue-position transfer (closes IR-012); ह and the
+  complete-alphabet moment; the Alphabet Exam.
+- GLOSSARY: अन्तःस्थ, ऊष्मन्.
+
+### Changed
+- JSON exports regenerated for all 22 lessons; verification log extended.
+
 ## [0.3.0] — 2026-07-30
 
 Volume 1 Chapter 3 — स्पर्शाः (The Stop Consonants) complete and reviewed.
