@@ -239,6 +239,128 @@
       ],
       "path": "curriculum/volume-1/chapter-02/lesson-07-review-and-assessment.md",
       "json": "json/volume-1/v1.c02.l07.json"
+    },
+    {
+      "id": "v1.c03.l01",
+      "title": {
+        "sa": "क-वर्गः",
+        "sa_iast": "ka-vargaḥ",
+        "hi": "क-वर्ग — कण्ठ्य पंक्ति",
+        "en": "The Velar Row"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c02.l07"
+      ],
+      "review_of": [
+        "v1.c01.l02",
+        "v1.c02.l06"
+      ],
+      "path": "curriculum/volume-1/chapter-03/lesson-01-ka-varga.md",
+      "json": "json/volume-1/v1.c03.l01.json"
+    },
+    {
+      "id": "v1.c03.l02",
+      "title": {
+        "sa": "च-वर्गः",
+        "sa_iast": "ca-vargaḥ",
+        "hi": "च-वर्ग — तालव्य पंक्ति",
+        "en": "The Palatal Row"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c03.l01"
+      ],
+      "review_of": [
+        "v1.c03.l01"
+      ],
+      "path": "curriculum/volume-1/chapter-03/lesson-02-ca-varga.md",
+      "json": "json/volume-1/v1.c03.l02.json"
+    },
+    {
+      "id": "v1.c03.l03",
+      "title": {
+        "sa": "ट-वर्गः",
+        "sa_iast": "ṭa-vargaḥ",
+        "hi": "ट-वर्ग — मूर्धन्य पंक्ति",
+        "en": "The Retroflex Row"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c03.l02"
+      ],
+      "review_of": [
+        "v1.c03.l01",
+        "v1.c03.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-03/lesson-03-ta-varga-retroflex.md",
+      "json": "json/volume-1/v1.c03.l03.json"
+    },
+    {
+      "id": "v1.c03.l04",
+      "title": {
+        "sa": "त-वर्गः",
+        "sa_iast": "ta-vargaḥ",
+        "hi": "त-वर्ग — दन्त्य पंक्ति",
+        "en": "The Dental Row"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c03.l03"
+      ],
+      "review_of": [
+        "v1.c03.l03",
+        "v1.c01.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-03/lesson-04-ta-varga-dental.md",
+      "json": "json/volume-1/v1.c03.l04.json"
+    },
+    {
+      "id": "v1.c03.l05",
+      "title": {
+        "sa": "प-वर्गः",
+        "sa_iast": "pa-vargaḥ",
+        "hi": "प-वर्ग — ओष्ठ्य पंक्ति",
+        "en": "The Labial Row"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c03.l04"
+      ],
+      "review_of": [
+        "v1.c03.l04",
+        "v1.c01.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-03/lesson-05-pa-varga.md",
+      "json": "json/volume-1/v1.c03.l05.json"
+    },
+    {
+      "id": "v1.c03.l06",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "दोहराव और मूल्यांकन",
+        "en": "Review & Assessment — The Complete Grid"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c03.l05"
+      ],
+      "review_of": [
+        "v1.c03.l01",
+        "v1.c03.l02",
+        "v1.c03.l03",
+        "v1.c03.l04",
+        "v1.c03.l05"
+      ],
+      "path": "curriculum/volume-1/chapter-03/lesson-06-review-and-assessment.md",
+      "json": "json/volume-1/v1.c03.l06.json"
     }
   ]
 }

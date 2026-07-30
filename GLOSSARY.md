@@ -17,6 +17,12 @@ Sorted by IAST.
 | मात्रा | mātrā | vowel sign; also: duration unit | मात्रा | v1.c01.l04 |
 | ओष्ठ्य | oṣṭhya | labial | ओष्ठ्य (होठों से उच्चरित) | v1.c01.l02 |
 | संस्कृतम् | saṃskṛtam | Sanskrit ("refined, perfected") | संस्कृत | v1.c01.l01 |
+| स्पर्श | sparśa | stop consonant ("contact" sound) | स्पर्श व्यञ्जन | v1.c03.l01 |
+| अघोष | aghoṣa | voiceless | अघोष | v1.c03.l01 |
+| घोष | ghoṣa | voiced | घोष (सघोष) | v1.c03.l01 |
+| महाप्राण | mahāprāṇa | aspirated ("great breath") | महाप्राण | v1.c03.l01 |
+| अल्पप्राण | alpaprāṇa | unaspirated ("small breath") | अल्पप्राण | v1.c03.l01 |
+| अनुनासिक | anunāsika | nasal | अनुनासिक | v1.c03.l01 |
 | स्वर | svara | vowel | स्वर | v1.c01.l02 |
 | तालव्य | tālavya | palatal | तालव्य (तालु से उच्चरित) | v1.c01.l02 |
 | दन्त्य | dantya | dental | दन्त्य (दाँतों से उच्चरित) | v1.c01.l02 |

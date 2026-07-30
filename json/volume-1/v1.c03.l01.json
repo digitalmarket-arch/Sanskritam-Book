@@ -1,0 +1,396 @@
+{
+  "frontmatter": {
+    "id": "v1.c03.l01",
+    "schema_version": 1,
+    "title": {
+      "sa": "क-वर्गः",
+      "sa_iast": "ka-vargaḥ",
+      "hi": "क-वर्ग — कण्ठ्य पंक्ति",
+      "en": "The Velar Row"
+    },
+    "volume": 1,
+    "chapter": 3,
+    "lesson": 1,
+    "lesson_type": "sound",
+    "cefr": "A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 35,
+    "prerequisites": [
+      "v1.c02.l07"
+    ],
+    "review_of": [
+      "v1.c01.l02",
+      "v1.c02.l06"
+    ],
+    "objectives": [
+      {
+        "en": "Produce all five velar stops with correct manner, passing the tissue test for aspiration and the breathy check for घ.",
+        "hi": "पाँचों कण्ठ्य स्पर्श सही प्रयत्न से बोलें — ख की टिशू-परीक्षा और घ की साँस-जाँच पास करते हुए।"
+      },
+      {
+        "en": "Write ख, ग, घ, ङ with correct stroke order and read ka-row syllables with any taught mātrā.",
+        "hi": "ख, ग, घ, ङ सही रेखा-क्रम से लिखें और क-पंक्ति के अक्षर किसी भी मात्रा के साथ पढ़ें।"
+      },
+      {
+        "en": "State the five slots of the manner row and apply them to the velar place.",
+        "hi": "प्रयत्न-पंक्ति के पाँचों खाने क्रम से बताएँ और उन्हें कण्ठ्य स्थान पर लागू करें।"
+      },
+      {
+        "en": "Read the lesson's ten words aloud with full final vowels.",
+        "hi": "पाठ के दसों शब्द पूरे अन्तिम स्वर के साथ ज़ोर से पढ़ें।"
+      }
+    ],
+    "new_letters": [
+      "ख",
+      "ग",
+      "घ",
+      "ङ"
+    ],
+    "new_matras": [],
+    "vocabulary_count": 10,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-1/v1c03l01-ka-varga-cards.svg",
+        "planned:assets/images/volume-1/v1c03l01-stroke-order.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c03l01-varga-drill.mp3",
+        "planned:assets/audio/volume-1/v1c03l01-word-list.mp3",
+        "planned:assets/audio/volume-1/v1c03l01-pair-test.mp3"
+      ],
+      "diagrams": [
+        "planned:assets/diagrams/volume-1/v1c03l01-manner-row.svg"
+      ],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c03l01-tracing.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "phonetics",
+      "consonants",
+      "varga",
+      "devanagari"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-30"
+    ],
+    "created": "2026-07-21",
+    "updated": "2026-07-21"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Since lesson 2 of Chapter 1 a five-by-five grid has been sitting in your notebook with a\nlabel on it: *preview*. Today the label comes off. By tonight the first row is yours — क ख\nग घ ङ, five letters, one place in the mouth — and with it something worth far more than one\nrow: the row's *pattern*. Voiceless, aspirated, voiced, breathy, nasal — learn that walk\nonce today and the other four rows come almost free, because every row repeats it exactly.\nYou will verify each step with laboratory equipment you already own: a tissue, a palm on\nthe throat, two fingers on the nose. And one old friend graduates — क, your helper since\nChapter 1, finally goes home to the family it has been keeping quiet about."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Produce all five velar stops with correct manner, passing the tissue test for aspiration and the breathy check for घ. | पाँचों कण्ठ्य स्पर्श सही प्रयत्न से बोलें — ख की टिशू-परीक्षा और घ की साँस-जाँच पास करते हुए। |\n| 2 | Write ख, ग, घ, ङ with correct stroke order and read ka-row syllables with any taught mātrā. | ख, ग, घ, ङ सही रेखा-क्रम से लिखें और क-पंक्ति के अक्षर किसी भी मात्रा के साथ पढ़ें। |\n| 3 | State the five slots of the manner row and apply them to the velar place. | प्रयत्न-पंक्ति के पाँचों खाने क्रम से बताएँ और उन्हें कण्ठ्य स्थान पर लागू करें। |\n| 4 | Read the lesson's ten words aloud with full final vowels. | पाठ के दसों शब्द पूरे अन्तिम स्वर के साथ ज़ोर से पढ़ें। |\n\nObjective 1 is drilled in §9/§11 and tested in §18 (exercises 1–2) and §19 (Q2–4);\nobjective 2 in §18 (exercises 3–4) and §19 (Q1, Q7); objective 3 in §18 (exercise 2) and\n§19 (Q1, Q5); objective 4 in §18 (exercises 1, 6) and §19 (Q6, Q8)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पुनरावृत्तिः — answer from memory *before* looking anything up.\n\n1. **The map (v1.c01.l02):** name the five places of articulation, back of the mouth to\n   the front.\n2. **The axes:** the grid's rows are places. What are its five *columns* — the walk every\n   row repeats?\n3. **The dot (v1.c02.l06):** why is अंक pronounced [ɐŋkɐ] and not [ɐmkɐ]? Name the\n   principle, and the letter that is \"the क-row's fifth cell\".\n4. अंक and अङ्क — what is the relationship? (Watch this one: the letter inside the second\n   spelling gets its own card today.)\n5. **Chapter 2 interval item:** from a partner's dictation or from memory, write the three\n   blocks कृ — के — को, then check every mātrā's position.\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. कण्ठ्य velar, तालव्य palatal, मूर्धन्य retroflex, दन्त्य dental, ओष्ठ्य labial — the\n   tongue's walk from throat to lips.\n2. Voiceless, voiceless aspirated, voiced, voiced breathy, nasal — today's entire subject.\n3. The homorganic principle: before a stop, the anusvāra becomes that stop's row-nasal.\n   क is velar, so the dot is the velar nasal — ङ [ŋ].\n4. Two spellings of one word, read identically [ɐŋkɐ]: अङ्क writes the row-nasal letter\n   out in full; अंक abbreviates it to the dot.\n5. कृ hangs its sign below, के wears one stroke above, को combines the right-side stem\n   with the stroke above — below, above, composite (task E territory in v1.c02.l07).\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिकः सन्दर्भः — the row you fill today has a name, and the name is old.\n\n> **[TRADITION · परम्परा]** The tradition calls each row of stops a वर्ग (varga) \"group,\n> class\", named after its first member: क-वर्ग \"the k-group\", च-वर्ग, and so on. The\n> Pāṇinīya Śikṣā files today's five under कण्ठ्य (kaṇṭhya) — articulated at the throat —\n> the label you met on the sound map. [REF:paniniyashiksha 13]\n\n> **[HISTORY · इतिहासः]** The varga arrangement is not a modern teaching aid: Pāṇini's\n> grammar (c. 4th century BCE on the scholarly estimate) already treats each row as a\n> unit — it can name a whole varga in one syllable, कु (ku) standing for क and its four\n> row-mates. [REF:cardona1997]\n\nNotice what kind of mind builds a system like that. Five slots per row, every row complete —\neven when everyday language barely needs one member. ङ, as you will see, occurs almost\nnowhere on its own; the grammarians gave it a letter and a seat anyway, because the pattern\ndemanded it. That love of symmetry is not pedantry — it is what makes the grid *learnable*:\nbecause no row has holes, what you master today transfers whole to the next four lessons."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिकं विवरणम् — one place, five manners, three tests you can feel.\n\n> **[FACT · तथ्यम्]** Every varga fills the same five manner slots, in the same order:\n> voiceless → voiceless aspirated → voiced → voiced breathy → nasal. For the velar row the\n> values are /k kʰ g gʱ ŋ/ — all five made with the back of the tongue against the soft\n> palate. [REF:whitney1889 §§39–50] [REF:ladefoged2015]\n\nThe place never changes inside a row; what changes is everything around the closure —\nthree switches, each with a physical test:\n\n> **[FACT · तथ्यम्]** Aspiration is a puff of voiceless breath after the stop is released,\n> before the vowel's voice begins. Breathy voice — the \"voiced aspirates\" like घ — is\n> different: the vocal folds keep vibrating while extra air flows through, a murmured\n> release. Both are measurable at your lips. [REF:ladefoged2015]\n\n**The tissue test (switch 1 — the puff).** Hold a tissue a few centimeters from your\nmouth: क barely moves it; ख throws it. That flutter is the entire difference between slots\n1 and 2 — and between real word pairs, so this is a meaning check, not a party trick.\n\n**The throat-hand test (switch 2 — the voice).** Lay a hand flat on your throat. ग buzzes\nfrom the first instant; क stays silent until the vowel arrives. घ buzzes *and* breathes at\nonce — the hand feels the buzz while the tissue feels warm airflow riding on it.\n\n**The nose-pinch test (switch 3 — the nose).** For ङ the mouth stays sealed at the\nक-position and air reroutes through the nose. Hum a long ङ and pinch your nostrils: the\nsound must die instantly. If it survives, it was not a nasal.\n\n**The trap for English-habit speakers.** English aspirates its voiceless stops\nautomatically at the start of a word: the k of *kite* is [kʰ], not [k]. The plain [k]\nhides after s — say *sky* slowly and listen: no puff. English speakers do not need to\n*learn* ख; they need to learn to *stop* saying it where क belongs [REF:ladefoged2015]. In\nEnglish the puff is an accident of position; in Sanskrit it is a decision — क and ख make\ndifferent words.\n\nWhy spend a whole lesson on one row? Because 5 places × 5 manners = 25 stops, and the five\nmanners are the *same five* everywhere. Today's row is the expensive one; rows two through\nfive reuse the walk and cost a fraction each. That is the chapter's engine — and the\ntradition's own design (§4)."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतेन विवरणम् — the lesson's idea in the simplest possible Sanskrit.\n\nक ख ग घ ङ इति क-वर्गः।\n(ka kha ga gha ṅa iti ka-vargaḥ.) \"ka, kha, ga, gha, ṅa — that is the ka-varga.\" —\nक ख ग घ ङ — यही क-वर्ग है।\n\nखगः अत्र अस्ति।\n(khagaḥ atra asti.) \"The bird is here.\" — पक्षी यहाँ है।\n\nमेघः अत्र अस्ति।\n(meghaḥ atra asti.) \"The cloud is here.\" — बादल यहाँ है।\n\nTwo things to savor. First, इति is again doing its quoting job — lining up the five letters\nand naming them, exactly as the tradition uses it. Second, look at खगः and मेघः: the whole\nwords, *tails included*, are yours — the ः is the visarga from v1.c02.l06. Last chapter the\naudio had to breathe every -ḥ for you; now you read it yourself. (The term वर्ग itself\nneeds व and र — Chapter 4 letters — so hear it 🔊 for now.) New traditional terms arriving\ntoday, glossed in §8/§15: स्पर्श (sparśa) \"stop consonant\", अल्पप्राण (alpaprāṇa)\n\"light-breath\", महाप्राण (mahāprāṇa) \"big-breath\", घोष (ghoṣa) \"voiced\", अघोष (aghoṣa)\n\"voiceless\", अनुनासिक (anunāsika) \"nasal\"."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nपहले वही जानी-पहचानी अच्छी ख़बर, आज ज़रा बड़े पैमाने पर: आज की पाँचों ध्वनियाँ आपकी अपनी\nहैं। क, ख, ग, घ में हिन्दी-भाषी के लिए सीखने जैसा कुछ नहीं — यही आवाज़ें आप कल, खेत, गाना\nऔर घर में रोज़ बोलते हैं। और पाँचवीं भी अजनबी नहीं: गंगा बोलिए और बिंदु पर एक पल रुकिए —\nनाक में जो गूँज रही है, वही ङ है। पिछले अध्याय के अनुस्वार-पाठ में आपने यह हिसाब खुद लगाया\nथा; आज उस आवाज़ को उसका अपना अक्षर मिल रहा है। तो मेहनत किस बात की? तीन बातों की।\n\nपहली — ङ का अकेला रूप। हिन्दी में यह अक्षर लगभग हमेशा संयुक्त रूप में दिखता है — वाङ्मय\nजैसे गिने-चुने शब्दों में — और बाक़ी जगह उसका काम बिंदु से चला लिया जाता है। इसलिए आँख उसे\nअकेला खड़ा देखकर ठिठकती है, और हाथ को तो शायद उसे कभी लिखना ही नहीं पड़ा। आज उसका\nकटोरे-और-बिंदु वाला रूप उतनी ही बार लिखिए जितनी बार बाक़ी तीन अक्षर — बराबरी का कार्ड,\nबराबरी की स्याही (§15)। एक बारीक़ी याद रखिए: ङ का बिंदु अक्षर के शरीर का हिस्सा है,\nअनुस्वार नहीं।\n\nदूसरी — अन्तिम अ, हमेशा की तरह। हिन्दी की ज़बान खग देखते ही \"khag\" कहना चाहेगी; संस्कृत\nमें वह ख-ग है — दो अक्षर, दोनों पूरे। मुख मु-ख है, \"mukh\" नहीं; मेघ मे-घ है, \"megh\" नहीं।\nश्रुतलेखन यह चूक मिनटों में पकड़ लेता है, इसलिए आज का श्रुतलेख (§18) ज़रूर कीजिए।\n\nतीसरी — नुक़्ते की आदत, उलटी दिशा में। हिन्दी में ख़बर का ख़ और ग़ज़ल का ग़ फ़ारसी-अरबी से\nआए मेहमान हैं — गले में रगड़कर बोली जाने वाली ध्वनियाँ। संस्कृत में ये हैं ही नहीं: संस्कृत\nका हर ख पूरा बन्द होकर फूँक के साथ खुलने वाला स्पर्श है, और हर ग साफ़ ग — कोई रगड़ नहीं,\nकोई नुक़्ता नहीं। पढ़ते समय इस आदत को दरवाज़े पर ही रोक दीजिए।\n\nऔर चलते-चलते एक उपहार: आज का खग हिन्दी में आज भी उड़ता है — \"खग जाने खग ही की भाषा\" वाली\nकहावत उसी की है। आज से यह पक्षी आपकी भाषा भी बोलता है।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "One place, five letters, and the pattern that carries the whole chapter. Today every letter\ngets a full card — corner letters and quiet ones alike; in this course no member of a varga\nis furniture. All five share one address: back of tongue, soft palate (§11). Down the\ncards, exactly one thing changes per step — no puff → puff → voice → voice with breath →\nnose. Say the row once before studying any card: क ख ग घ ङ (ka kha ga gha ṅa). That\nrecital *is* the lesson; everything else is quality control.\n\n### Card 1 — क (ka) /k/ · slot 1: अघोष (aghoṣa) voiceless, अल्पप्राण (alpaprāṇa) unaspirated\n\nYour oldest consonant — bowl, knot, stem, headline, unchanged since v1.c01.l03. New today\nis its *address*: slot 1, the plain member — no puff (tissue still), no voice (throat\nsilent until the vowel). English anchor: the k of *sky* — never the k of *kite*, which is\naspirated (§5). Hindi anchor: the क of कल. Word: कमल (kamala) \"lotus\" — an old friend, now\nwith family arriving. Helper no more: promoted.\n\n### Card 2 — ख (kha) /kʰ/ · slot 2: अघोष महाप्राण (aghoṣa mahāprāṇa) voiceless aspirated\n\nक plus a deliberate puff — the tissue-thrower. The glyph is the row's most complex: two\nrooms under one roof — a small loop-room on the left, a bowl-and-stem room on the right\n(strokes in §15). English anchor: the k of *kite*, imprecision stated — the English puff is\nan unconscious habit and often lighter; the Sanskrit one is a chosen, muscular burst. Hindi\nanchor: the ख of खेत — never the nuqta ख़ (§12). Word: खग (khaga) \"bird\" — both letters\nborn today, and an etymology waiting in §13.\n\n### Card 3 — ग (ga) /g/ · slot 3: घोष (ghoṣa) voiced\n\nSame closure, voice switched on: the throat-hand buzzes from the first instant. The glyph\nis a single gesture — rounded shoulder, swing right, rise into the stem. English anchor:\nthe g of *go*, close but lazy — English often lets the buzz start late; ग hums from the\nvery beginning. Hindi anchor: the ग of गाना — never ग़ (§12). Word: गीत (gīta) \"song\".\n\n### Card 4 — घ (gha) /gʱ/ · slot 4: घोष महाप्राण voiced breathy\n\nThe row's connoisseur sound: voice *and* breath at once — a g released through a sigh,\n\"murmured\". Hand on throat: buzz; tissue at lips: warm air riding the buzz. English has no\nanchor — the g-h seam of *doghouse* is the nearest wreck: two sounds at a syllable border,\nnot one breathy release; use it to locate the target, then close the seam. Hindi anchor:\nthe घ of घर — exact. Word: मेघ (megha) \"cloud\". If घ collapses into ग, §12 has the repair.\n\n### Card 5 — ङ (ṅa) /ŋ/ · slot 5: अनुनासिक (anunāsika) nasal\n\nThe sound of English *sing* — the hum you computed in अंक last chapter — now with its own\nletter: an open bowl with a dot riding its tail, and the dot is part of the letter, not an\nanusvāra (§15). The recital gives it a full voice: in the row you say the syllable ṅa like\nevery other member. And the honest card-note:\n\n> **[FACT · तथ्यम्]** ङ occurs almost exclusively next to its own varga stops — as in अङ्क\n> (aṅka) — or, rarely, at the end of a word. Sanskrit words do not begin with it. Equal\n> treatment does not mean equal frequency: the letter earns its seat by completing the\n> system (§4) and by naming the sound your nose already makes. [REF:whitney1889]\n> [REF:apte1890]\n\nSo ङ's practice today is recognition-plus: recite it, write it, and *spot* it inside\nअङ्क — the twin of अंक (aṃka), closing lesson 6's promise. How consonants physically stack\ninto conjuncts like ङ्क is Chapter 5's machinery.\n\n### Worked readings — the payoff\n\nBlock by block, as always — every mātrā you own snaps straight onto the new letters:\n\n- **मुख** = मु + ख → mu-kha — /mukʰɐ/ \"mouth, face\" — below-sign on the old letter.\n- **मेघ** = मे + घ → me-gha — /meːgʱɐ/ \"cloud\" — the e-stroke above, then breathy घ.\n- **गीत** = गी + त → gī-ta — /giːt̪ɐ/ \"song\" — long ई sign on a day-old letter.\n- **घृत** = घृ + त → ghṛ-ta — /gʱr̩t̪ɐ/ \"ghee\" — ृ hangs below brand-new घ exactly as it\n  hung below क in कृत. The compass transfers; that is why objective 2 works on day one.\n\nTen words in §14 — every one fully readable, wearing mātrās from every corner of the\ncompass."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — three drills, in order. Audio: 🔊\n`planned:assets/audio/volume-1/v1c03l01-varga-drill.mp3` (drills 1–2) and\n`planned:assets/audio/volume-1/v1c03l01-word-list.mp3` (drill 3).\n\n**Drill 1 — the manner walk (वर्ग recital).** Metronome at 60 or tap the table. One letter\nper beat, hand resting on your throat: क — ख — ग — घ — ङ. Feel the stations pass: silent,\nsilent-with-puff, buzz, buzz-with-breath, buzz-through-the-nose. Five rounds, then one\nreversed — ङ घ ग ख क — coming home from the nose to silence. This recital opens every\nChapter 3 lesson from now on; by lesson 5 you will run five rows in under a minute.\n\n**Drill 2 — the test circuit.** Tissue in one hand, other hand on your throat. (1) क क क —\ntissue still, throat silent. (2) ख ख ख — tissue jumps every time; if it only trembles,\ndouble the puff — overshoot first, calibrate later. (3) ग ग ग — tissue still, throat\nbuzzing from the first instant. (4) घ घ घ — buzz *plus* warm airflow; think \"g through a\nsigh\". (5) Long ङ hum — pinch your nose: the sound must cut off dead. Three circuits; the\naudio models each station.\n\n**Drill 3 — the syllable grid, then words.** The new letters take every mātrā you own.\nRead across, then down; long vowels get their two beats:\n\n| का /kɑː/ | कि /ki/ | कु /ku/ | के /keː/ | को /koː/ |\n|---|---|---|---|---|\n| खा /kʰɑː/ | खि /kʰi/ | खु /kʰu/ | खे /kʰeː/ | खो /kʰoː/ |\n| गा /gɑː/ | गि /gi/ | गु /gu/ | गे /geː/ | गो /goː/ |\n| घा /gʱɑː/ | घि /gʱi/ | घु /gʱu/ | घे /gʱeː/ | घो /gʱoː/ |\n\nThen the shuffled line, one breath: कि — खु — गे — घो — का — घृ — गी — खे — घु — खो. For\nङ, recognition duty: find it in अङ्क, then give it its recital voice /ŋɐ/. Finish with the\n§14 words — block by block first, then whole. Precision first, speed never."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "The new row: **/k kʰ g gʱ ŋ/**. Two diacritics do the bookkeeping: superscript ʰ marks\naspiration — ख's voiceless puff; superscript ʱ marks breathy voice — घ's murmured release\n(the raised-h shape is deliberate kinship, but it marks voiced breath, not a separate\nh-sound). /ŋ/ is a single symbol for a single sound — the *sing* nasal — not \"n + g\".\n\n**Narrow note — what the puff really is.** Phonetically, aspiration is a *delay*: after क\nthe folds start vibrating for the vowel almost immediately; after ख there is a stretch of\nvoiceless airflow first, and only then the vowel's voice [REF:ladefoged2015]. That is why\nthe tissue test works: it makes the delay visible.\n\nPhonemic slashes, as established in Chapter 1: /k/, /kʰ/, /g/, /gʱ/, /ŋ/ are five separate\nphonemes — meaning-bearing categories, not flavors of one k. The pair test (§18) exists\nbecause one puff must never blur in your mouth."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — one position, five events. Walkthrough of the row panel on the manner-row\ndiagram (planned: `assets/diagrams/volume-1/v1c03l01-manner-row.svg` — sagittal view of\nthe velar closure plus the five-slot strip this whole chapter reuses).\n\n1. **Find the place.** Say a long ङ hum — or freeze mid-*ink* just before the k, as in\n   v1.c02.l06. The back of your tongue is sealed against the soft palate: that seal is\n   home base for all five letters. Tongue-tip idle and low behind the lower teeth.\n2. **The release.** From that seal, let go into अ: that is क. Nothing else moves.\n3. **Five events, one address:** क = seal, silent release. ख = seal, release, *puff*. ग =\n   seal with the voice already on. घ = voiced release through extra breath. ङ = seal held,\n   velum lowered, air out through the nose.\n4. **A warning about the mirror.** For the first time in this course the mirror is nearly\n   useless: the velar closure happens behind everything it can see. Do not watch — *feel*\n   (the seal, the buzz) and *measure* (tissue, throat-hand, nose-pinch). The §5 tests are\n   this lesson's mirror."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **Aspirating क (English habit).** The *kite*-reflex puts a puff on every initial k, so\n   क drifts into ख and word pairs threaten to merge. *Fix:* steal the k of *sky* — say\n   *sky*, delete the s, keep the k exactly as it was. Tissue check: on क it must not move.\n2. **Under-breathing घ so it collapses into ग.** The murmured release feels excessive to\n   English habits and gets politely trimmed — मेघ turns into a nonword. *Fix:* build घ as\n   ग + sigh in a single gesture — throat-hand for the buzz, tissue for the warm airflow;\n   both must report at once. Then मेघ, घृत, लघु slowly, refusing to trim.\n3. **Turning ख into the scrape [x] (nuqta habit).** Urdu-influenced pronunciation gives\n   ख़बर a velar *fricative* — a scrape, not a stop. Imported into Sanskrit it dissolves\n   ख's clean closure. *Fix:* full stop first — complete silence while the tongue seals —\n   then one clean puff; no friction anywhere. The same discipline keeps ग from sliding\n   toward ग़ [ɣ]: Sanskrit has no nuqta sounds at all.\n4. **Deleting the final अ (Hindi habit).** खग read as \"khag\", मुख as \"mukh\". In Sanskrit\n   every written अ is spoken. *Fix:* count akṣaras on your fingers as you read — ख-ग is\n   two taps, always. Dictation (§18) is the enforcement.\n5. **घ's lookalike problem — a preview.** In lesson 4 a near-twin arrives: ध. Learners who\n   meet both with a vague memory of each confuse them forever after. *Fix, available\n   today:* overlearn घ *now* — trace it, air-write it, write it large ten times — so that\n   when the lookalike arrives, the lesson-4 contrast drill has something solid to push\n   against."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — one etymology worth the whole lesson, one family with a false triplet, and a\nword with a future.\n\n### खग — the sky-goer\n\n**खग** (khaga) \"bird\" — पक्षी, खग · /kʰɐgɐ/\n\n> **[FACT · तथ्यम्]** खग is built from two bound elements: ख (kha) \"sky, open space\" and\n> ग (ga) \"going\" — literally \"the sky-goer\". This is a real derivation recorded in the\n> classical dictionaries, not folk etymology. [REF:apte1890 s.v. खग]\n\nSavor the coincidence: the two newest letters in your hand spell \"sky\" + \"go\", and the\nword takes off. How such elements attach is Volume 2's compound machinery; today, enjoy\nthe view.\n\n### गत, गति — and the triplet that isn't\n\n**गत** (gata) \"gone\" — बीता हुआ, गत · /gɐt̪ɐ/\n**गति** (gati) \"motion, way\" — गति, चाल · /gɐt̪i/\n**गीत** (gīta) \"song\" — गीत, गाना · /giːt̪ɐ/\n\nगत and गति are true siblings — both grown from a root meaning \"go\" (roots are Volume 2's\nstory; today, one honest preview line and no machinery). गीत *looks* like their long-vowel\ntriplet — but it is no relation: it grows from a different root, \"sing\" [REF:apte1890\ns.v. गत, गति, गीत]. Rhyme is not kinship — the discipline that keeps cognates and\nborrowings apart in this course applies inside Sanskrit too. File the look-alike now and\nit never fools you again.\n\n### मुख — a word with appointments\n\n**मुख** (mukha) \"mouth, face\" — मुँह, चेहरा · /mukʰɐ/\n\nA body word today; a building block soon. When compounds arrive in Volume 2, मुख will be\neverywhere — Sanskrit loves naming things by their face. And a small poetry in the timing:\nthe word for \"mouth\" becomes readable in the very lesson your mouth learns its own back\nwall."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — ten words, all fully readable, no 🔊 crutches: the consonant era opens with a\nclean sweep. Audio: 🔊 `planned:assets/audio/volume-1/v1c03l01-word-list.mp3` (model\nreading, each word twice).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| खग | khaga | /kʰɐgɐ/ | bird | पक्षी, खग | ख + ग, both born today; etymology in §13 |\n| गत | gata | /gɐt̪ɐ/ | gone, past | बीता हुआ, गत | sibling of गति (§13) |\n| गति | gati | /gɐt̪i/ | motion, way | गति, चाल | short इ finishes it |\n| गीत | gīta | /giːt̪ɐ/ | song | गीत, गाना | long ई; *not* related to गत (§13) |\n| मुख | mukha | /mukʰɐ/ | mouth, face | मुँह, चेहरा | ख after the below-sign मु |\n| लेख | lekha | /leːkʰɐ/ | writing, document | लेख, लिखावट | े above ल, then ख |\n| लघु | laghu | /lɐgʱu/ | light, small | हल्का, छोटा | घ mid-word — keep it breathy |\n| मेघ | megha | /meːgʱɐ/ | cloud | बादल, मेघ | full /ɐ/ after the final घ |\n| घृत | ghṛta | /gʱr̩t̪ɐ/ | ghee, clarified butter | घी | ृ hangs below new घ |\n| खल | khala | /kʰɐlɐ/ | wicked person | दुष्ट, खल | ख's puff opens it |\n\nReading protocol, as always: block by block first (ख-ग), then the whole word at natural\nspeed, then check against the audio. Every long vowel two beats; every final अ fully\npronounced — खग is *khaga*, never \"khag\". One habit to start today: after each word, name\nits new letter's slot (\"मेघ — घ, slot four, breathy\"). The grid sticks fastest when every\nword files itself."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in Volume 1 this is a **script rule**: four new letters, and the row you can\nnow literally fill in.\n\n### Stroke order — ख ग घ ङ\n\nThe convention from v1.c01.l03 continues — body first, stem next, headline (शिरोरेखा)\nlast; left before right, top before bottom. Traditions vary between schools; the stroke\ncard is the authority. (Card: `planned:assets/images/volume-1/v1c03l01-stroke-order.svg`;\ntracing: `planned:assets/worksheets/volume-1/v1c03l01-tracing.pdf`.)\n\n- **ख — two rooms, one roof.** (1) The left room: a small loop hanging from the future\n  headline, drawn down and closed at the base. (2) The right room: from the top, a bowl\n  curving down-left then sweeping right and up into the vertical stem. (3) The headline\n  across both rooms. The two parts must *touch* under the roof — a ख in two islands reads\n  as scribble.\n- **ग — one gesture and a stem.** (1) From the top, a rounded shoulder curving down-left,\n  swinging along the base and rising to the stem-line. (2) The stem. (3) The headline.\n- **घ — the hook into the bowl.** (1) One flowing stroke: a shallow hook from the top,\n  dropping into the round-bottomed bowl, curling closed, rising into the right-hand stem.\n  (2) The headline, full width. Watch the *round bottom* — the lesson-4 lookalike ध will\n  test you on it. Write घ big, ten times, today.\n- **ङ — the open bowl and its dot.** (1) From headline height, a wide cup opening upward,\n  left to right, ending in a small upward tail at the right. (2) The dot, snug above the\n  tail. (3) The headline.\n\n> **[FACT · तथ्यम्]** The dot of ङ is a body part of the letter — ink that belongs to the\n> glyph itself. It is not an anusvāra: the anusvāra dot rides *above the headline* of a\n> whole akṣara (अं), while ङ's dot sits inside the letter's own frame. Two dots, two\n> jobs — position tells them apart. [REF:masica1991 ch.6]\n\n### The row as a thing you fill in\n\nToday the varṇamālā grid from v1.c01.l02 stops being a poster and becomes a worksheet.\nDraw this table in your notebook — five columns labeled, first row filled, four waiting\n(this is exactly what the manner-row diagram shows; lessons 2–5 reuse it):\n\n| वर्ग | स्थान · place | 1 अघोष | 2 अघोष महाप्राण | 3 घोष | 4 घोष महाप्राण | 5 अनुनासिक |\n|---|---|---|---|---|---|---|\n| क-वर्ग | कण्ठ्य velar | **क** | **ख** | **ग** | **घ** | **ङ** |\n| च-वर्ग | तालव्य palatal | · | · | · | · | lesson 2 |\n| ट-वर्ग | मूर्धन्य retroflex | · | · | · | · | lesson 3 |\n| त-वर्ग | दन्त्य dental | · | · | · | · | lesson 4 |\n| प-वर्ग | ओष्ठ्य labial | · | · | · | · | lesson 5 |\n\nThe column labels are today's five technical terms, and they are transparent: अल्पप्राण\n\"little breath\", महाप्राण \"big breath\", घोष \"voiced, sounding\", अघोष \"unvoiced\", अनुनासिक\n\"through the nose\". Sanskrit's grammar-language *describes what your mouth does* — you\nverified every label by hand in §5."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — at the window, morning. Something lands on the vine. 🔊 audio recorded into\nthe Chapter 3 drill pack (§27).\n\n— पश्य! खग!\n(paśya! khaga!) \"Look! A bird!\" — देखो! पक्षी!\n\n— खग? कुतः?\n(khaga? kutaḥ?) \"A bird? From where?\" — पक्षी? कहाँ से?\n\n— अत्र! आम्, खग!\n(atra! ām, khaga!) \"Here! Yes — a bird!\" — यहाँ! हाँ, पक्षी!\n\n— कति खग?\n(kati khaga?) \"How many birds?\" — कितने पक्षी?\n\n— एक खग। एक खग, एक गीत!\n(eka khaga. eka khaga, eka gīta!) \"One bird. One bird, one song!\" — एक पक्षी। एक पक्षी,\nएक गाना!\n\nGlue words, all veterans: पश्य (paśya) \"look!\" — देखो 🔊 and आम् (ām) \"yes\" — हाँ 🔊; but\nकुतः, कति and एक you *read*. The counting style is Chapter 2's honest convention (bare\nstems, as in v1.c02.l04): fully inflected Sanskrit would ask कति खगाः? and answer एकः\nखगः। — endings you can already read aloud, whose grammar arrives in Volume 3."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — मेघः खगः गीतम् · The Cloud, the Bird, the Song. Six lines from the §14 words and\nthe running cast. Words you can read in full are **bold**; glue words and grammar tails\nare glossed below. Each line: Devanagari, IAST, English, Hindi.\n\n1. **कमला** अत्र अस्ति। **माता** अत्र अस्ति।\n   (kamalā atra asti. mātā atra asti.) \"Kamalā is here. Mother is here.\" — कमला यहाँ है।\n   माता यहाँ है।\n2. **कमला** — पश्य! **एक** **मेघ**!\n   (kamalā — paśya! eka megha!) \"Kamalā: Look! A cloud!\" — कमला — देखो! एक बादल!\n3. **माता** — आम्, **मेघः**। **ततः**?\n   (mātā — ām, meghaḥ. tataḥ?) \"Mother: Yes, a cloud. And then?\" — माता — हाँ, बादल। फिर?\n4. **कमला** — पश्य, पश्य! **लता**… **खगः**!\n   (kamalā — paśya, paśya! latā… khagaḥ!) \"Kamalā: Look, look! The vine… a bird!\" —\n   कमला — देखो, देखो! लता… पक्षी!\n5. **ततः** — गीतम्!\n   (tataḥ — gītam!) \"Then — a song!\" — फिर — गाना!\n6. **कमला** — **मम** **खगः**! **मम** गीतम्! — **माता** — **ततः** **मम** **मेघः**!\n   (kamalā — mama khagaḥ! mama gītam! — mātā — tataḥ mama meghaḥ!) \"Kamalā: My bird! My\n   song! — Mother: Then the cloud is mine!\" — कमला — मेरा पक्षी! मेरा गाना! — माता — तो\n   बादल मेरा!\n\nGlue words 🔊, the established set: अत्र (atra) \"here\" — यहाँ; अस्ति (asti) \"is\" — है;\nपश्य (paśya) \"look!\" — देखो; आम् (ām) \"yes\" — हाँ. **ततः** needs no crutch — your first\nconnector, readable since v1.c02.l06, now doing story work. And watch the tails shrink:\nlast chapter उलूकः needed the audio to breathe its -ḥ; today **खगः** and **मेघः** are\nbold — read whole. Only the -म् of गीतम् still waits (a noun ending, Volume 3; its\nsilencing stroke is Chapter 5's) — read गीत and let the audio close the door. The mother's\nlast line is the course's oldest joke: everything कमला sees is मम — so माता, at last,\nclaims the weather."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 2, 3, 4 and 6 are production tasks. Do them in order.\n\n**अभ्यासः 1 · वाचनम् (recital & word list — read aloud, record).** Record yourself:\n(a) the manner walk क ख ग घ ङ three times, hand on throat; (b) the full §14 list, block by\nblock, then at natural speed. Compare with the model audio 🔊 word by word. Checklist:\ntissue-still क? tissue-thrown ख? buzz-from-the-start ग? breath riding the buzz in घ, मेघ,\nलघु? Every final अ alive? Re-record only what differs from the model.\n\n**अभ्यासः 2 · परीक्षणम् (the three tests — written observations).** Run the §9 test\ncircuit and *log it*: one row per letter, three columns — tissue (still / thrown / warm\nairflow), throat-hand (silent / buzz), nose-pinch (dies / survives). Fill all five rows\nfrom your own mouth, not from memory of §5. Then one written sentence: which slot does\neach result assign, and does it match the row? This log is your §19 prep — the quiz asks\nwhat the tests *show*.\n\n**अभ्यासः 3 · श्रुतलेखनम् (dictation).** Have a partner dictate — or play the word-list\naudio 🔊, pausing per item — first the four letters shuffled (ग ङ ख घ), then six words:\nखग, मुख, मेघ, गति, घृत, लेख. Write everything in Devanagari. Self-check against §14/§15:\nright letter (not its row-mate)? every mātrā in position? final vowel present when you\nread it back? 8/10 is a pass; re-take tomorrow either way (§20).\n\n**अभ्यासः 4 · लेखनम् (tracing & writing).** Print or open the tracing worksheet ✍\n(`planned:assets/worksheets/volume-1/v1c03l01-tracing.pdf`): trace ख ग घ ङ five times\neach following the stroke arrows — ख's rooms touching, घ's bottom round, ङ's dot last and\nsnug. Then the syllable row खा खि खु खे खो and its ग/घ twins. Final row: write खग, गीत,\nमेघ, घृत unaided, then ङ once more, large, from memory.\n\n**अभ्यासः 5 · श्रवणभेदः (minimal-pair listening).** Play the pair test 🔊\n(`planned:assets/audio/volume-1/v1c03l01-pair-test.mp3`): twelve one-syllable items —\nक-type or ख-type (1–6: का/खा, कि/खि, कु/खु), ग-type or घ-type (7–12: गा/घा, गी/घी,\nगु/घु), random order. Write what you heard (Devanagari or IAST). 10/12 is a pass; below\nthat, re-run the §9 circuit and retest tomorrow — aspiration discrimination sharpens\nafter sleep.\n\n**अभ्यासः 6 · शब्दनिर्माणम् (word building).** Tiles: ख ग घ क म त ल plus the mātrās\nा ि ी ु ू ृ े ो. Using only these (reuse allowed), build at least five real words from\nthis lesson or Chapters 1–2, and write them down. Bonus: one word using two new letters at\nonce (§14 has it), one with a below-mātrā on a new letter, and the longest word you can\nbuild. Read your list aloud, slot-naming each new letter as in §14. (A tile-word not on\nany course list needs a teacher's confirmation before you trust it.)"
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The five slots of the manner row, in order, are: (a) voiceless, voiced, nasal,\n   aspirated, breathy (b) voiceless, voiceless aspirated, voiced, voiced breathy, nasal\n   (c) nasal, voiced, voiceless, breathy, aspirated (d) voiced, voiceless, aspirated,\n   breathy, nasal\n2. In the tissue test, the tissue is thrown by: (a) क, because it is voiceless (b) ख,\n   because of its aspiration (c) ग, because of its voicing (d) ङ, because of the nose\n3. The k of English *kite* is closest to: (a) क (b) ख (c) ग (d) घ — and the k of *sky* is\n   closest to which?\n4. घ differs from ग in that घ: (a) is voiceless (b) is nasal (c) adds breathy voice — a\n   murmured release (d) is a fricative scrape\n5. ङ is the nasal of English *sing*. Where does it typically occur in Sanskrit? (a) at\n   the start of many common words (b) almost exclusively next to its own varga stops, as\n   in अङ्क (c) only in vowel signs (d) nowhere — it is silent\n6. Which word means \"cloud\"? (a) मुख (b) खग (c) मेघ (d) गीत\n7. Find the error: a learner wants to write मेघ \"cloud\" but writes **मेख**. Which slot of\n   the row did the pen land on, and why is the written form not the word?\n8. Reading check — write the English meaning of each: (a) गति (b) घृत (c) खल\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) voiceless, voiceless aspirated, voiced, voiced breathy, nasal (§5).\n2. (b) ख — aspiration is the puff after release; क barely moves the tissue (§5).\n3. (b) ख — English aspirates initial voiceless stops, so *kite* carries the puff; the k\n   of *sky*, hiding after s, is plain क (§5, §12).\n4. (c) breathy voice: the folds keep vibrating while extra air flows through — voice and\n   breath at once ((d) is the nuqta trap, §12 mistake 3) (§5, §8).\n5. (b) next to its own varga stops (अङ्क) or rarely word-final; no Sanskrit word begins\n   with it — the honest card-note (§8).\n6. (c) मेघ /meːgʱɐ/. (मुख \"mouth\", खग \"bird\", गीत \"song\" — §14.)\n7. The pen landed on slot 2 — ख, voiceless aspirated — instead of slot 4, घ, voiced\n   breathy. मेख swaps the manner while keeping the place, so it spells a different\n   (non-)word: the slots are meaning-bearing, which is the whole point of the tests\n   (§5, §12 mistakes 2–3, §15).\n8. (a) गति = \"motion, way\"; (b) घृत = \"ghee\"; (c) खल = \"wicked person\" (§14).\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The row:** क ख ग घ ङ — one address (back of tongue + soft palate), five manners:\n> voiceless → +puff → +voice → +breath → +nose; IPA /k kʰ g gʱ ŋ/. **The tests:** tissue\n> (still for क, thrown by ख, warm for घ), throat-hand (ग and घ buzz), nose-pinch (ङ dies).\n> **The trap:** English *kite*-k is ख; steal क from *sky*. **The honesty:** ङ lives next\n> to its own stops (अङ्क = अंक), and its dot is part of the letter. **The transfer:** the\n> five slots are the same in every row — you just paid the whole chapter's tuition.\n> **The prize:** ten new words, खग to खल, every one fully readable.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-take the dictation (exercise 3) cold; write ख ग घ ङ from memory and\n  check against the stroke card; one test-circuit pass.\n- **In 1 week:** re-read §14 aloud at speed; re-take the pair test (exercise 5); fill the\n  §15 row table from memory, labels included. Chapter 2's own +1-week re-runs\n  (v1.c02.l07 §20) fall due around now — do them while today's drills are warm.\n- **From lesson 2:** every Chapter 3 lesson opens with the previous varga's recital — the\n  manner walk you learned today is the key that opens च-वर्ग tomorrow."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 35 minutes total.\n\n1. **(10 min)** Finish exercises 3 and 4 if not completed in class: the dictation pass\n   and the tracing sheet.\n2. **(5 min)** The manner walk (§9 drill 1), five rounds at the metronome, hand on\n   throat — last round with the tissue up.\n3. **(10 min, real world)** Letter safari: any Hindi text around you — newspaper, sign,\n   packet — and collect ten words containing ख, ग or घ. Copy them; circle the letter. If\n   you catch a ख़ or ग़ with its nuqta dot, copy it too and mark it \"loan sound — not\n   Sanskrit\" (§7, §12). Extra credit for spotting a ङ in the wild — report where.\n4. **(10 min, teach-back)** Teach someone the tissue test with क/ख and the nose-pinch\n   with a long ङ hum. If you can explain *why* मेख is not मेघ (§19 Q7), the row is yours.\n\nTomorrow, before anything else: the 1-day re-dictation (§20). The gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**This is the chapter's expensive lesson — spend the money on the row, not the letters.**\nThe four glyphs are cheap for Hindi-literate learners and manageable for everyone; the\nfive-slot pattern with its physical tests is the asset that pays out four more times. If\ntiming collapses, cut letter-card minutes, never test-circuit minutes.\n\n**Timing plan (45 min):** §3 retrieval, written (5) → hook: the Chapter 1 grid poster,\nfirst row uncovered + the *kite*/*sky* tissue demo (5) → manner row with the full test\ncircuit, whole class equipped with tissues (12) → letter cards + stroke work on ख ग घ ङ\n(10) → syllable grid + word list in pairs, slot-naming aloud (8) → exercises 2 and 5 (3) →\nhomework briefing incl. the 1-day re-dictation (2).\n\n**Board work:** draw the empty 5×5 grid with manner labels *once*, large, and leave it up\nall chapter — this lesson fills row one live; each following lesson fills the next. The\ngrid growing week by week is the syllabus made visible. When a student mis-produces, point\nat the slot, not the letter: \"that was slot 2 — you wanted slot 4.\"\n\n**The tissue moment is the lesson's theater.** Thirty tissues fluttering on ख at once\nconverts more skeptics than any diagram; do *kite*/*sky* yourself first, exaggerated.\nEnglish-habit learners will resist believing their *kite*-k is \"already ख\" — let the\ntissue argue, not you. घ vs ग is the hard ear: expect under-breathed घ (mistake 2) and\nchance-level घ/ग hearing at first. Production leads perception — get the hand-plus-tissue\ndouble check working and the ear follows within days; normalize the overnight jump.\n\n**Differentiation — Hindi-literate learners:** sounds are free; writing nearly free. Their\nreal work: the standalone ङ (equal card, equal ink), the full final vowel (खग, मुख, मेघ\nread back with two beats), and the nuqta firewall (§7). Deploy them as test-station\ncoaches — a Hindi speaker running an English speaker through the circuit teaches both —\nand hold coaches to recitation-grade final vowels in exercise 1, where fluency lets them\ncoast.\n\n**Dictation logistics:** plain style, natural speed, each item twice, 10-second gap.\nCollect error *types*: क/ख swaps, ग/घ swaps, missing mātrā, ङ drawn dotless — each gets a\ndifferent remediation (circuit stations 1–2, stations 3–4, compass review, stroke card).\n\n**What students find hard:** believing the mirror is useless here (§11 — hand it to the\ntests early); saying ङ *alone* (the recital syllable ṅa feels naked — model it, laugh\nonce, move on); and trusting that overshooting ख's puff is correct practice. It is:\ncalibrating down is easy, up is hard."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-1/v1c03l01-ka-varga-cards.svg`**\n\n> Clean educational letter-card sheet, warm off-white background, five equal cards in one\n> row — equal size, equal weight, no card demoted. Each card: giant Devanagari letter\n> (क ख ग घ ङ) in Noto Serif Devanagari, ink-black; beneath it IAST (\"ka\" … \"ṅa\") in\n> humanist serif italic and IPA (\"/k/\", \"/kʰ/\", \"/g/\", \"/gʱ/\", \"/ŋ/\") in monospace-feel\n> sans; slot badge top-right (\"1 · अघोष\" through \"5 · अनुनासिक\"); one example word at the\n> foot (कमल, खग, गीत, मेघ, अङ्क — the ङ card highlights its ङ inside अङ्क in an accent\n> color). Small test icons per card: still tissue (क), flying tissue (ख), buzzing throat\n> (ग), throat + breath puff (घ), nose with airflow (ङ). ङ card footer: \"recognition:\n> rare alone — completes the row\". Minimal, high contrast, print-friendly.\n\n**Asset 2 — `planned:assets/images/volume-1/v1c03l01-stroke-order.svg`**\n\n> Educational stroke-order chart, Noto Serif Devanagari outlines. Four rows for ख ग घ ङ,\n> each letter shown 4 times left to right, progressively drawn, numbered arrows: ख — left\n> loop-room, right bowl-and-stem room, headline last, caption \"two rooms must touch\"; ग —\n> shoulder curve, stem, headline; घ — hook into round-bottomed bowl, stem-rise, headline,\n> caption \"round bottom\"; ङ — open cup, tail, dot placed last in an accent color, caption\n> \"the dot is part of the letter\". Footer row: खा खि खु खे खो with mātrās in the accent\n> color. Faint grid guides and headline. Workbook-clean, two colors only.\n\n**Asset 3 — `planned:assets/diagrams/volume-1/v1c03l01-manner-row.svg`**\n\n> Educational vector diagram, two panels, minimal line art, designed for REUSE in lessons\n> 2–5. Left panel: sagittal head cross-section facing left, back of tongue sealed against\n> the soft palate, arrow at the closure point, caption \"कण्ठ्य · velar — one address for\n> all five\". Right panel: a horizontal five-slot strip labeled 1 अघोष / 2 अघोष महाप्राण /\n> 3 घोष / 4 घोष महाप्राण / 5 अनुनासिक with English glosses (voiceless / + puff / + voice /\n> + breath / + nose) and three tiny test icons beneath (tissue, hand on throat, pinched\n> nose); the five cells filled with क ख ग घ ङ, layered separately so later lessons swap in\n> their own row. IPA row \"/k kʰ g gʱ ŋ/\" along the bottom. Monochrome-safe.\n\n**Asset 4 — `planned:assets/worksheets/volume-1/v1c03l01-tracing.pdf`**\n\n> A4 tracing worksheet, portrait, row guides with Devanagari headline. Rows 1–4: ख ग घ ङ —\n> one solid model each, five dotted outlines, numbered stroke arrows matching Asset 2,\n> ङ's dot printed light gray and numbered last. Row 5: खा खि खु खे खो dotted. Row 6: गा\n> गी गु गे गो and घा घृ घे घो dotted, smaller. Row 7: खग, गीत, मेघ, घृत dotted once, then\n> empty guided boxes for freehand. Footer chants: \"two rooms, one roof\" (ख), \"round\n> bottom\" (घ), \"dot last\" (ङ). Generous spacing for child and adult hands."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:40):** the Chapter 1 grid as a dim 5×5 blueprint; the first row ignites\n   cell by cell — क ख ग घ ङ. Cut to close-up: a tissue before the presenter's lips.\n   \"kite\" — it flies. \"sky\" — it hangs still. Title card: क-वर्गः — The Velar Row.\n2. **The test circuit (0:40–2:10):** presenter runs all five letters with tissue + hand\n   on throat + nose-pinch; split screen adds the sagittal view (Asset 3) with the velar\n   seal highlighted; a five-slot strip fills at the bottom as each letter passes its test.\n3. **Five cards, equal ink (2:10–3:20):** the five cards (Asset 1) slide in, each with\n   stroke order animating (Asset 2 arrows); ङ's card lingers: the dot docks last, then\n   अङ्क appears beside अंक — \"the letter behind last chapter's dot\".\n4. **The syllable machine (3:20–4:10):** mātrās snap onto ख ग घ: खा खि खु खे खो… then\n   words assemble block by block: खग, मुख, मेघ, घृत — slot badges flashing.\n5. **The window scene (4:10–5:20):** simple 2D art: Kamalā and mother at a window — a\n   cloud, a vine, a bird that bursts into song. The six story lines appear as captions\n   with audio; readable words highlight, खगः and मेघः glowing *with* their tails; गीतम्'s\n   -म् glows dimly with a \"Chapter 5\" footnote.\n6. **Recap + CTA (5:20–6:00):** the grid poster, row one solid, rows two to five dim.\n   \"One row down. Same five slots, four more addresses.\" End card: \"Next: च-वर्गः — and\n   your first readable verb.\" Dictation homework reminder overlay."
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** This grid has been waiting since Chapter 1. Today, the first row lights up.\n- **00:12** But first, a trick with a tissue. *Kite.* It flies. *Sky.* Nothing. Same\n  letter k, says English. Two different letters, says Sanskrit.\n- **00:30** ka [kɐ] — kha [kʰɐ] — ga [gɐ] — gha [gʱɐ] — ṅa [ŋɐ]. Five letters, one home:\n  the back of your tongue on the soft palate.\n- **00:45** Slot one: ka [kɐ]. No puff — the tissue must not move. Steal it from *sky*.\n- **01:00** Slot two: kha [kʰɐ]. Same stop, plus a burst of breath. Throw the tissue.\n- **01:15** Slot three: ga [gɐ]. Hand on your throat — the buzz starts immediately.\n- **01:30** Slot four: gha [gʱɐ]. Voice AND breath together — a g through a sigh. Warm\n  air on the tissue while the throat hums.\n- **01:50** Slot five: ṅa [ŋɐ] — the *sing* sound. Hum it… now pinch your nose. Silence?\n  Good. That sound lives in your nose.\n- **02:10** Five letters, five cards — equal ink for all five.\n- **03:00** The fifth card is honest: ṅa [ŋɐ] almost never walks alone. You met it hiding\n  in aṅka [ɐŋkɐ] last chapter, behind the dot. Today you know its face.\n- **03:20** Now the compass: every mātrā snaps straight on. khā [kʰɑː], khi [kʰi], khu\n  [kʰu], khe [kʰeː], kho [kʰoː]…\n- **03:40** Ten new words. khaga [kʰɐgɐ] — the bird: literally, \"sky-goer\". mukha\n  [mukʰɐ] — the mouth. megha [meːgʱɐ] — the cloud. ghṛta [gʱr̩t̪ɐ] — ghee. gīta\n  [giːt̪ɐ] — a song.\n- **04:10** At the window: a cloud… a vine… a bird. paśya! khagaḥ [kʰɐgɐh]! And then —\n  a song.\n- **04:45** mama khagaḥ [kʰɐgɐh]! mama gītam [giːt̪ɐm]!… and mother, at last, claims the\n  cloud: mama meghaḥ [meːgʱɐh] — breath on the gha, always.\n- **05:20** Before you go: the row once more, hand on throat. ka, kha, ga, gha, ṅa.\n  Silent — puff — buzz — breath — nose.\n- **05:40** Learn this walk once; four more rows repeat it free of charge. Next: the\n  palatal row — and your first readable verb. Take the tissue with you."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:08):** extreme close-up, tissue before lips. \"English says *kite* and\n  *sky* have the same k. Your tissue disagrees.\" *Kite* — it flies. *Sky* — dead still.\n- **Demo (0:08–0:32):** presenter, hand on throat: \"Sanskrit gives each of those a\n  letter — and three more from the same spot. ka — no puff. kha — puff. ga — buzz. gha —\n  buzz plus breath. ṅa — all nose.\" (On-screen: क ख ग घ ङ lighting up a five-slot strip,\n  tissue and throat icons flashing.)\n- **Payoff (0:32–0:44):** rapid word-wall: खग, मुख, मेघ, गीत, घृत — \"Ten words today,\n  including khaga — the bird. Literally: the sky-goer.\" A bird silhouette lifts off the\n  card.\n- **CTA (0:44–0:50):** \"One row down, four to go — same pattern, free of charge. This is\n  Sanskritam. Follow for the next row.\" (End card: क-वर्गः — The Velar Row.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-1/v1c03l01-ka-varga-cards.svg` — §23 prompt 1; five equal cards for §8\n  - `assets/images/volume-1/v1c03l01-stroke-order.svg` — §15 stroke order, §23 prompt 2\n  - `assets/diagrams/volume-1/v1c03l01-manner-row.svg` — §5/§11/§15 walkthroughs, §23\n    prompt 3. **REUSED by v1.c03.l02–l05**: the five-slot strip is layered so each lesson\n    swaps in its own row; do not fork the file, extend it.\n  - `assets/audio/volume-1/v1c03l01-varga-drill.mp3` — §9 drills 1–2, §18 exercise 1, §21 homework 2\n  - `assets/audio/volume-1/v1c03l01-word-list.mp3` — §14 model reading, §9 drill 3, §18 exercises 1, 3\n  - `assets/audio/volume-1/v1c03l01-pair-test.mp3` — §18 exercise 5, §20 1-week retest\n  - `assets/worksheets/volume-1/v1c03l01-tracing.pdf` — §18 exercise 4, §23 prompt 4\n  - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 3\n    drill pack (chapter.md assets manifest) and back-link here when they exist.\n- **Related lessons:** reviews v1.c01.l02 (the grid, five places — its preview row becomes\n  real here) and v1.c02.l06 (homorganic rule; अङ्क/अंक twins resolved — the dot's letter\n  now has a card); the क helper promotion closes the promise of v1.c01.l03 §14. Feeds\n  v1.c03.l02–l05 (manner row reapplied per place; recital opens each), v1.c03.l06\n  (blank-grid assessment), Chapter 5 (conjunct ङ्क readable; गीतम्'s -म् writable),\n  Volume 2 (खग-type compounds; the गत/गति root preview), Volume 3 (कति खगाः / एकः खगः\n  inflection promised in §16).\n- **Glossary:** reuses कण्ठ्य, वर्ण, स्वर, व्यञ्जन, मात्रा, अनुस्वार, विसर्ग per\n  GLOSSARY.md. **New glossary candidates** (add in the post-chapter loop): वर्ग, स्पर्श,\n  प्रयत्न, अल्पप्राण, महाप्राण, घोष, अघोष, अनुनासिक.\n- **Export notes:** अङ्क appears display-only (conjunct recognition; reading deferred to\n  Chapter 5) — flag `display_only: true` alongside the 🔊 `audio_only` convention; 🔊\n  marks sit on glue words in §16–§17 (पश्य, आम्, अत्र, अस्ति) and on वर्ग in §6, mapping\n  to `audio_only: true`; गीतम् stays ordinary text with the §17 note as its flag; IPA\n  strings contain combining characters (t̪, r̩) — NFC normalization applies to Devanagari\n  fields only, never to IPA; §17 bold markers = \"readable now\" spans — this lesson\n  deliberately bolds खगः/मेघः *with* tails as the visible progress beat; preserve as\n  `readable: true`; §19 key stays inside `<details>` in all renders.\n- **Register audit:** FACT ×5 (§5 ×2, §8, §13, §15 — Whitney/Ladefoged/Apte/Masica\n  cited) · HISTORY ×1 (§4, cited to cardona1997) · TRADITION ×1 (§4, Pāṇinīya Śikṣā named\n  with locus) · SYMBOL ×0 (no deity, cakra, or energy associations invoked). Quiz\n  assesses FACT content only."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "खग",
+      "iast": "khaga",
+      "ipa": "/kʰɐgɐ/",
+      "en": "bird",
+      "hi": "पक्षी, खग",
+      "notes": "ख + ग, both born today; etymology in §13"
+    },
+    {
+      "deva": "गत",
+      "iast": "gata",
+      "ipa": "/gɐt̪ɐ/",
+      "en": "gone, past",
+      "hi": "बीता हुआ, गत",
+      "notes": "sibling of गति (§13)"
+    },
+    {
+      "deva": "गति",
+      "iast": "gati",
+      "ipa": "/gɐt̪i/",
+      "en": "motion, way",
+      "hi": "गति, चाल",
+      "notes": "short इ finishes it"
+    },
+    {
+      "deva": "गीत",
+      "iast": "gīta",
+      "ipa": "/giːt̪ɐ/",
+      "en": "song",
+      "hi": "गीत, गाना",
+      "notes": "long ई; *not* related to गत (§13)"
+    },
+    {
+      "deva": "मुख",
+      "iast": "mukha",
+      "ipa": "/mukʰɐ/",
+      "en": "mouth, face",
+      "hi": "मुँह, चेहरा",
+      "notes": "ख after the below-sign मु"
+    },
+    {
+      "deva": "लेख",
+      "iast": "lekha",
+      "ipa": "/leːkʰɐ/",
+      "en": "writing, document",
+      "hi": "लेख, लिखावट",
+      "notes": "े above ल, then ख"
+    },
+    {
+      "deva": "लघु",
+      "iast": "laghu",
+      "ipa": "/lɐgʱu/",
+      "en": "light, small",
+      "hi": "हल्का, छोटा",
+      "notes": "घ mid-word — keep it breathy"
+    },
+    {
+      "deva": "मेघ",
+      "iast": "megha",
+      "ipa": "/meːgʱɐ/",
+      "en": "cloud",
+      "hi": "बादल, मेघ",
+      "notes": "full /ɐ/ after the final घ"
+    },
+    {
+      "deva": "घृत",
+      "iast": "ghṛta",
+      "ipa": "/gʱr̩t̪ɐ/",
+      "en": "ghee, clarified butter",
+      "hi": "घी",
+      "notes": "ृ hangs below new घ"
+    },
+    {
+      "deva": "खल",
+      "iast": "khala",
+      "ipa": "/kʰɐlɐ/",
+      "en": "wicked person",
+      "hi": "दुष्ट, खल",
+      "notes": "ख's puff opens it"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The five slots of the manner row, in order, are: (a) voiceless, voiced, nasal,\n   aspirated, breathy (b) voiceless, voiceless aspirated, voiced, voiced breathy, nasal\n   (c) nasal, voiced, voiceless, breathy, aspirated (d) voiced, voiceless, aspirated,\n   breathy, nasal\n2. In the tissue test, the tissue is thrown by: (a) क, because it is voiceless (b) ख,\n   because of its aspiration (c) ग, because of its voicing (d) ङ, because of the nose\n3. The k of English *kite* is closest to: (a) क (b) ख (c) ग (d) घ — and the k of *sky* is\n   closest to which?\n4. घ differs from ग in that घ: (a) is voiceless (b) is nasal (c) adds breathy voice — a\n   murmured release (d) is a fricative scrape\n5. ङ is the nasal of English *sing*. Where does it typically occur in Sanskrit? (a) at\n   the start of many common words (b) almost exclusively next to its own varga stops, as\n   in अङ्क (c) only in vowel signs (d) nowhere — it is silent\n6. Which word means \"cloud\"? (a) मुख (b) खग (c) मेघ (d) गीत\n7. Find the error: a learner wants to write मेघ \"cloud\" but writes **मेख**. Which slot of\n   the row did the pen land on, and why is the written form not the word?\n8. Reading check — write the English meaning of each: (a) गति (b) घृत (c) खल",
+    "answer_key_markdown": "1. (b) voiceless, voiceless aspirated, voiced, voiced breathy, nasal (§5).\n2. (b) ख — aspiration is the puff after release; क barely moves the tissue (§5).\n3. (b) ख — English aspirates initial voiceless stops, so *kite* carries the puff; the k\n   of *sky*, hiding after s, is plain क (§5, §12).\n4. (c) breathy voice: the folds keep vibrating while extra air flows through — voice and\n   breath at once ((d) is the nuqta trap, §12 mistake 3) (§5, §8).\n5. (b) next to its own varga stops (अङ्क) or rarely word-final; no Sanskrit word begins\n   with it — the honest card-note (§8).\n6. (c) मेघ /meːgʱɐ/. (मुख \"mouth\", खग \"bird\", गीत \"song\" — §14.)\n7. The pen landed on slot 2 — ख, voiceless aspirated — instead of slot 4, घ, voiced\n   breathy. मेख swaps the manner while keeping the place, so it spells a different\n   (non-)word: the slots are meaning-bearing, which is the whole point of the tests\n   (§5, §12 mistakes 2–3, §15).\n8. (a) गति = \"motion, way\"; (b) घृत = \"ghee\"; (c) खल = \"wicked person\" (§14)."
+  },
+  "registers": [
+    {
+      "type": "TRADITION",
+      "section_index": 4,
+      "text": "The tradition calls each row of stops a वर्ग (varga) \"group, class\", named after its first member: क-वर्ग \"the k-group\", च-वर्ग, and so on. The Pāṇinīya Śikṣā files today's five under कण्ठ्य (kaṇṭhya) — articulated at the throat — the label you met on the sound map. [REF:paniniyashiksha 13]",
+      "refs": [
+        "paniniyashiksha 13"
+      ]
+    },
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "The varga arrangement is not a modern teaching aid: Pāṇini's grammar (c. 4th century BCE on the scholarly estimate) already treats each row as a unit — it can name a whole varga in one syllable, कु (ku) standing for क and its four row-mates. [REF:cardona1997]",
+      "refs": [
+        "cardona1997"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Every varga fills the same five manner slots, in the same order: voiceless → voiceless aspirated → voiced → voiced breathy → nasal. For the velar row the values are /k kʰ g gʱ ŋ/ — all five made with the back of the tongue against the soft palate. [REF:whitney1889 §§39–50] [REF:ladefoged2015]",
+      "refs": [
+        "whitney1889 §§39–50",
+        "ladefoged2015"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Aspiration is a puff of voiceless breath after the stop is released, before the vowel's voice begins. Breathy voice — the \"voiced aspirates\" like घ — is different: the vocal folds keep vibrating while extra air flows through, a murmured release. Both are measurable at your lips. [REF:ladefoged2015]",
+      "refs": [
+        "ladefoged2015"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 8,
+      "text": "ङ occurs almost exclusively next to its own varga stops — as in अङ्क (aṅka) — or, rarely, at the end of a word. Sanskrit words do not begin with it. Equal treatment does not mean equal frequency: the letter earns its seat by completing the system (§4) and by naming the sound your nose already makes. [REF:whitney1889] [REF:apte1890]",
+      "refs": [
+        "whitney1889",
+        "apte1890"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "खग is built from two bound elements: ख (kha) \"sky, open space\" and ग (ga) \"going\" — literally \"the sky-goer\". This is a real derivation recorded in the classical dictionaries, not folk etymology. [REF:apte1890 s.v. खग]",
+      "refs": [
+        "apte1890 s.v. खग"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "The dot of ङ is a body part of the letter — ink that belongs to the glyph itself. It is not an anusvāra: the anusvāra dot rides *above the headline* of a whole akṣara (अं), while ङ's dot sits inside the letter's own frame. Two dots, two jobs — position tells them apart. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    }
+  ]
+}

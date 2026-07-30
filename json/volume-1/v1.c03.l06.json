@@ -1,0 +1,820 @@
+{
+  "frontmatter": {
+    "id": "v1.c03.l06",
+    "schema_version": 1,
+    "title": {
+      "sa": "पुनरावृत्तिः",
+      "sa_iast": "punarāvṛttiḥ",
+      "hi": "दोहराव और मूल्यांकन",
+      "en": "Review & Assessment — The Complete Grid"
+    },
+    "volume": 1,
+    "chapter": 3,
+    "lesson": 6,
+    "lesson_type": "review",
+    "cefr": "A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 45,
+    "prerequisites": [
+      "v1.c03.l05"
+    ],
+    "review_of": [
+      "v1.c03.l01",
+      "v1.c03.l02",
+      "v1.c03.l03",
+      "v1.c03.l04",
+      "v1.c03.l05"
+    ],
+    "objectives": [
+      {
+        "en": "Demonstrate every Chapter 3 can-do: fill the blank grid from memory, write cross-varga dictation, discriminate the four hard contrasts by ear, and read the milestone sentences aloud.",
+        "hi": "अध्याय 3 की हर can-do क्षमता दिखाएँ — ख़ाली तालिका स्मृति से भरें, वर्गों के आर-पार श्रुतलेखन लिखें, चारों कठिन भेद सुनकर पहचानें, और मील-पत्थर वाक्य पढ़ें।"
+      },
+      {
+        "en": "Sort a fresh set of claims into the four registers (fact, history, tradition, symbol) correctly.",
+        "hi": "नए कथनों को चारों श्रेणियों (तथ्य, इतिहास, परम्परा, प्रतीक) में सही-सही बाँटें।"
+      },
+      {
+        "en": "Self-assess with the rubric and name one personal weak point with its fix location.",
+        "hi": "मूल्यांकन-तालिका से आत्म-परीक्षण करें और अपनी एक कमज़ोरी तथा उसका उपचार-स्थान बताएँ।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 0,
+    "media": {
+      "images": [],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c03l06-dictation-set.mp3",
+        "planned:assets/audio/volume-1/v1c03l06-contrast-test.mp3",
+        "planned:assets/audio/volume-1/v1c03l06-sentence-set.mp3"
+      ],
+      "diagrams": [
+        "planned:assets/diagrams/volume-1/v1c03l06-blank-grid.svg"
+      ],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c03l06-writing-assessment.pdf"
+      ],
+      "quizzes": [
+        "planned:assets/quizzes/volume-1/v1c03l06-chapter-quiz.md",
+        "planned:assets/quizzes/volume-1/v1c03l06-chapter-quiz-key.md"
+      ]
+    },
+    "tags": [
+      "review",
+      "assessment",
+      "production"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-30"
+    ],
+    "created": "2026-07-21",
+    "updated": "2026-07-21"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Five lessons ago the 5×5 grid of stops was a preview on a map — the course's second lesson\nshowed it to you and promised it would one day be yours. Today it is: twenty-five letters,\nfive places, five manners, every cell earned letter by letter. The readable word list has\ncrossed ninety-five — मम to भोजन — and, for the first time in this course, you have read\ncomplete Sanskrit sentences: बालकः चलति। कोकिलः कूजति। Nothing new enters this lesson.\nToday you prove the grid."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Demonstrate every Chapter 3 can-do: fill the blank grid from memory, write cross-varga dictation, discriminate the four hard contrasts, read the milestone sentences. | अध्याय 3 की हर can-do क्षमता प्रदर्शित करें — तालिका, श्रुतलेखन, श्रवण-भेद, वाक्य-वाचन। |\n| 2 | Sort fresh claims into the four registers correctly. | नए कथनों को चारों श्रेणियों में सही बाँटें। |\n| 3 | Self-assess with the rubric and name one weak point with its fix location. | आत्म-परीक्षण करके एक कमज़ोरी और उसका उपाय बताएँ। |\n\nObjective 1 is assessed in §18 tasks A–C and E; objective 2 in task D; objective 3 in §20–§21."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पुनरावृत्तिः — five stations, one per varga, plus Station 0. Answer from memory *before*\nchecking [REF:roediger2006].\n\n### Station 0 — Chapter 2's one-week interval\n\nThe spacing schedule from v1.c02.l07 §20 comes due today [REF:cepeda2006]: a compressed\nre-run of its tasks C and E. Four items, two minutes; log the scores next to the old ones.\n\n1. Read aloud, cold: कील · अमृत · तैल · कौतुक · ततः · कुतः — length, the r-vowel, glides,\n   visargas.\n2. Say the five mātrā zones around a consonant from memory (right, left, below, above,\n   composite) — task E's map, no sheet.\n3. Write from self-dictation, then check: कृ के कै को कौ कं कः.\n4. Bridge item: read मुख and मूक aloud — Chapter 2's length contrast living inside a\n   Chapter 3 aspiration word.\n\n### Station 1 — क-वर्गः (lesson 1)\n\n1. Recite the manner row — the five slots in order — and fill it with the क-वर्ग letters.\n2. The tissue test: what does it measure? Which of क and ख throws the tissue — and what\n   does घ do to it that ग does not?\n3. Write from memory: ख ग घ ङ; then read aloud: खग, मेघ, लघु.\n4. Honesty check: where does ङ actually occur, and how does it relate to the अंक spelling\n   from Chapter 2?\n\n*Check against l01 §5, §9, §14, §8.*\n\n### Station 2 — च-वर्गः (lesson 2)\n\n1. Why is this row taught as affricates? What must English \"ch\" lose to become च?\n2. चलति — read it, gloss it, and say why it is a course milestone. What honestly waits for\n   Volume 2?\n3. The ज़-trap: what is the status of [z] in Sanskrit, and what is ज always?\n4. Read aloud: जल, छल, कूजति — and name the Chapter 2 bird who returned to use that verb.\n\n*Check against l02 §5, §14, §12, §13.*\n\n### Station 3 — ट-वर्गः (lesson 3)\n\n1. Describe the tongue for ट: where does the tip go, and how does it leave?\n2. Read aloud: घट, गुण, गूढ — one plain, one nasal, one breathy retroflex.\n3. Rare-letter honesty: which letters of this row begin few native words, and where do\n   they earn their keep?\n4. Retroflexes outside India: name one European language that has them — and which banned\n   1.x claim does that fact retire?\n\n*Check against l03 §9, §14, §12, §5.*\n\n### Station 4 — त-वर्गः (lesson 4)\n\n1. The fingertip-on-teeth check: which letters must touch it, and why does English t/d\n   fail for both त AND ट?\n2. Drill aloud: त-ट, ता-टा, द-ड. What kind of difference is this — can it change a word's\n   meaning?\n3. नमः — read it, gloss it, and state exactly what still blocks नमस्ते in full.\n4. Read the discrimination set: धन, दिन, दान — then कथा and नदी.\n\n*Check against l04 §11, §9, §15, §14.*\n\n### Station 5 — प-वर्गः (lesson 5)\n\n1. The फ-puff: what is फ, and what is it NOT? Which check exposes the [f] habit?\n2. Read the milestone sentences: बालकः चलति। कपिः चलति। कोकिलः कूजति।\n3. State the pause-form convention: how does Volume 1 read sentences, and what is honestly\n   deferred?\n4. म closed a circle that began in the course's third lesson — what circle? (Two answers:\n   the helper letters, and ॐ.)\n\n*Check against l05 §9, §13, §15, §17.*\n\nScore yourself: 20+ of 24 prompts clean → proceed to the assessment. Below that, re-study\nthe weakest station today and assess tomorrow — the extra spacing helps [REF:cepeda2006]."
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिकः सन्दर्भः — one paragraph, as in every review lesson.\n\nThe tradition that carried these twenty-five sounds across three millennia did it with\nexactly this tool — scheduled, structured repetition, recited in varga order, tested from\nmemory — and memory science confirms the mechanism:\n\n> **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same\n> practice massed together. [REF:cepeda2006]\n\nChapter 3's material re-surfaces on schedule from here to the Volume 1 exam. Today is its\nfirst interval; Chapter 2's second interval (Station 0) just ran inside it."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिकं विवरणम् — this time, a word about *leverage*.\n\n> **[FACT · तथ्यम्]** Retrieval practice strengthens memory more than re-reading — the\n> testing effect. [REF:roediger2006]\n\nThere is a second reason today matters more than an ordinary review. The grid is not a\nlist of twenty-five facts; it is an engine with two axes, and both keep working after this\nchapter. Chapter 4 has only eight letters left — the semivowels य र ल व and the sibilant\nrow श ष स plus ह — and every one of them will be taught by *location on the place-axis you\ncertify today*: श sits at the palatal station, ष at the retroflex, स at the dental.\nChapter 5's conjuncts are grid-pairs — two letters you already own, welded, like the स्त\ninside नमस्ते. Certify place and manner now and both chapters become cheap. Let an error\nsurvive today — a [z]-flavored ज, an alveolar त — and it gets rehearsed into every\nsyllable and every conjunct that follows, at ten times the repair cost."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतेन विवरणम् — glossed, and fully readable: every letter below is yours.\n\n> **ततः बालकः चलति।**\n> (tataḥ bālakaḥ calati.) — \"Then the boy walks.\" — फिर बालक चलता है।\n\n> **नमः!**\n> (namaḥ!) — \"Homage — a greeting.\" — प्रणाम!\n\nततः is Chapter 2's connector; बालकः and चलति arrived in this chapter; नमः is lesson 4's\ngift. Read the sentence in pause form — each word complete, as l05 §15 established."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी में समझिए\n\nअध्याय 2 की परीक्षा का तरीक़ा याद है? वही क्रम — पहले बिना देखे, फिर मिलान, फिर ईमानदार\nमूल्यांकन, और अन्त में एक कमज़ोरी की पहचान। पर आज एक बात पहले कह देनी चाहिए: पच्चीसों\nस्पर्श व्यंजन आपकी हिन्दी में पहले से जीवित हैं — क से म तक की यह पूरी तालिका आप रोज़\nबोलते हैं। इसलिए आपकी असली जाँच केन्द्र में नहीं, किनारों पर है:\n\n1. **नुक़्ते का अनुशासन।** हिन्दी के ज़ [z] और फ़ [f] फ़ारसी-अरबी की देन हैं — संस्कृत में\n   वे हैं ही नहीं। संस्कृत का ज हमेशा वही है जो \"जल\" में है, और फ हमेशा फूँक वाला [pʰ] —\n   \"फल\" कहते हुए होंठ पूरे बन्द हों और टिशू उड़े। कार्य A के प्रश्न 9–12 इसी की परीक्षा हैं।\n2. **ड़ का बहिष्कार।** हिन्दी में दो स्वरों के बीच ड प्रायः ड़ बन जाता है — गुड़, सड़क।\n   संस्कृत में ड़ है ही नहीं: गुड को गुड ही पढ़िए — जीभ मुड़कर छत को छुए और रुके,\n   फड़फड़ाए नहीं।\n3. **पूरा अन्तिम स्वर — हमेशा की तरह।** धन *dhana* है, \"धन्\" नहीं; फल *phala*। वाक्य पढ़ते\n   समय भी यही नियम: बालकः चलति — हर शब्द पूरा, ठहराव-रूप में, विसर्ग समेत।\n\nबाक़ी — महाप्राण, मूर्धन्य, अनुनासिक — सब आपकी जन्मभूमि है, और आज वह बढ़त खुलकर दिखेगी।\nजहाँ हिन्दी मदद करती है, उसका पूरा लाभ लीजिए; जहाँ वह अलग राह लेती है, वहाँ सजग रहिए।\nयही द्विभाषी सीखने वाले की असली कला है।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "The assessment architecture, scaled up from Chapter 2's.\n\n| Task | Skill | Format | Pass line |\n|---|---|---|---|\n| A | Hearing contrasts | 12 audio items: क/ख aspiration, त/ट and द/ड place, ज/[z] and फ/[f] traps | 10/12 |\n| B | Writing | 10-word cross-varga dictation from the cumulative list | 8/10 fully correct |\n| C | Reading aloud | 15 words + the three milestone sentences, recorded, self-scored | 12/15 clean + all sentences |\n| D | Register thinking | 9 fresh claim cards, four boxes + reject | 7/9 with reasoning |\n| E | The grid | Blank 5×5 grid: 25 letters + manner labels, from memory, 5 minutes | complete and correct |\n\nThe §19 quiz (10 questions) complements the tasks: §18 proves you can *do*; §19 proves you\nknow *what is so*. Pass = every task at partial-or-better (rubric in §22) and quiz 7+/10.\nOne weak task → targeted retake tomorrow, guided by the remediation table. This gate opens\nChapter 4 — the last eight letters, semivowels and sibilants, each of which will be placed\non the very grid you are certifying today."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — the complete stop grid one last time, as your scoring reference for task C.\nValues are the course contract (STYLE_GUIDE §2). Columns, left to right, are the manner\nrow: voiceless · voiceless aspirated · voiced · voiced breathy · nasal — the same five\nslots in every varga.\n\n| वर्गः | स्थानम् · Place | Letters | IPA row |\n|---|---|---|---|\n| क-वर्ग | कण्ठ्य · velar | क ख ग घ ङ | /k kʰ g gʱ ŋ/ |\n| च-वर्ग | तालव्य · palatal | च छ ज झ ञ | /t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/ |\n| ट-वर्ग | मूर्धन्य · retroflex | ट ठ ड ढ ण | /ʈ ʈʰ ɖ ɖʱ ɳ/ |\n| त-वर्ग | दन्त्य · dental | त थ द ध न | /t̪ t̪ʰ d̪ d̪ʱ n̪/ |\n| प-वर्ग | ओष्ठ्य · labial | प फ ब भ म | /p pʰ b bʱ m/ |\n\nRow-by-row self-diagnosis before you record:\n\n- **क-वर्ग:** aspiration discipline — \"sky\"-k for क, never \"kite\"-k; ख must throw the\n  tissue → l01 §9.\n- **च-वर्ग:** kill the English lip-rounding; no [z] anywhere → l02 §9, §12.\n- **ट-वर्ग:** the curl — tip back to the roof, crisp release → l03 §9.\n- **त-वर्ग:** tip ON the teeth, not the ridge → l04 §9, §11.\n- **प-वर्ग:** फ is a puffed stop, never [f]; भ hums and breathes at once → l05 §9.\n\nWarm-up: one row top to bottom (क ख ग घ ङ), one voiceless column throat-to-lips\n(क च ट त प), tissue up — then record."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new values. Self-scoring reminders: each aspirate letter is ONE sound, not stop-plus-h\n(ख /kʰ/, one beat); breathy voice must be transcribed and heard (मेघ /meːgʱɐ/ — drop the\nʱ and you have written a different letter); affricates keep the tie-bar (जल /d͡ʑɐlɐ/,\nnever [z]); retroflex and dental are different symbol sets (घट /gʱɐʈɐ/ vs कथा /kɐt̪ʰɑː/);\nफल is /pʰɐlɐ/ — no [f] exists in the inventory; and the milestone sentences in pause form:\nबालकः चलति /bɑːlɐkɐh t͡ɕɐlɐt̪i/, final visarga voiceless."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थितिः — the four physical checks. These are the scoring rubric for task C: every\nreading error should be caught by one of them.\n\n- **Tissue (aspiration):** tissue before the lips. क barely stirs it; ख throws it. Same\n  test separates त/थ, ट/ठ, च/छ, प/फ → l01 §9.\n- **Throat-hand (voicing):** fingers flat on the larynx. ग hums from the first instant;\n  क starts silent. घ hums AND moves the tissue — murmured breath on a voiced sound → l01 §11.\n- **Nose-pinch (nasality):** pinch the nose shut. ङ ञ ण न म die instantly; the other\n  twenty letters sail through → each varga lesson's §11.\n- **Fingertip-on-teeth (place):** fingertip on the upper front teeth. त थ द ध न tap it;\n  ट ठ ड ढ ण curl away to the roof. English t/d hit the ridge behind it — touching neither\n  → l04 §11."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्याः भ्रान्तयः — the chapter's error museum, eight entries, each with its fix\nlocation. Task failures almost always land in one of these rows.\n\n| # | Error | Surfaces in | Fix |\n|---|---|---|---|\n| 1 | Aspirating क त प (the English \"kite\" habit) | A, C | l01 §12 sky-drill |\n| 2 | घ झ ढ ध भ under-breathed — plain g/j/d/b instead of murmur | A, B, C | l01 §9 tissue-plus-hum; l05 §9 |\n| 3 | ज pronounced [z] (nuqta habit) | A, C | l02 §12 |\n| 4 | फ pronounced [f] (फ़ habit) | A, C | l05 §12 |\n| 5 | Alveolar backsliding — English t/d for both त and ट | A, C | l04 §11 fingertip check |\n| 6 | ण/न collapse — every nasal made dental | B, C | l03 §9; l04 §9 |\n| 7 | ड़-flap intrusion — गुड read like Hindi गुड़ | C | l03 §12 |\n| 8 | ध/घ shape confusion in writing | B, E | l01 §15; l04 §15 stroke notes |"
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — two worked model answers before you start.\n\n**Model dictation item (task B).** Audio says *bhojana*. You hear: an initial stop that\nhums AND breathes — voiced breathy, labial row, fourth slot: भ. Then the ओ vowel — mātrā\nो. Then the affricate ज — never [z] — then dental न. Build it block-by-block: भ + ो = भो,\nthen ज, then न → **भोजन**. Common wrong answers: बोजन (breath dropped — §12 row 2), भोझन\n(aspiration imagined on the ज — row 1's mirror image).\n\n**Model register sort (task D).** Card: \"खग means 'sky-goer' — ख as 'sky', ग as 'going'.\"\nIt *sounds* like poetry, so the reflex says SYMBOL — but check it: both elements are real\nlexical items, the derivation is recorded in the dictionaries, the claim is checkable\n[REF:apte1890 s.v. खग]. **FACT box.** Now the trap version: \"ख is the sound of open space\nitself, and every word containing it carries sky-energy.\" That is sound-symbolism stated\nas a property of the sound — as worldview it could live in SYMBOL; as phonology it is\n**rejected**. Same letter, two claims — telling them apart is the whole skill."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — no new words; the **cumulative readable list**, Chapters 1–3 complete: 54 words\ncarried from Chapters 1–2 (compressed below; full rows in v1.c02.l07 §14) plus 60 from\nthis chapter — **114 readable words**, comfortably past the ~95 the chapter overview\npromised. This table is the source for tasks B and C. Reading protocol as always: block by\nblock, then whole word, every vowel at full value, pause form.\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| मम · माता · लता · माला · कला · कमल | mama · mātā · latā · mālā · kalā · kamala | — | my · mother · vine · garland · art · lotus | — | ch1–2 review set 1 |\n| तल · काल · ताल · अमल · कमला · मत | tala · kāla · tāla · amala · kamalā · mata | — | surface · time · rhythm · spotless · Lakṣmī · opinion | — | ch1–2 review set 2 |\n| इति · तिल · मति · कति · कील · लीला · ममता · मित | iti · tila · mati · kati · kīla · līlā · mamatā · mita | — | thus · sesame · thought · how many · pin · play · affection · measured | — | ch1–2 review set 3 |\n| कुल · तुला · मूल · कूल · मूक · मुकुल · उलूक · उत | kula · tulā · mūla · kūla · mūka · mukula · ulūka · uta | — | family · scales · root · bank · mute · bud · owl · and/or | — | ch1–2 review set 4 |\n| ऋत · ऋतु · कृत · मृत · मातृ · अमृत | ṛta · ṛtu · kṛta · mṛta · mātṛ · amṛta | — | order · season · done · dead · mother-stem · deathless | — | ch1–2 review set 5 |\n| एक · एकता · केतु · केलि · एला · तैल | eka · ekatā · ketu · keli · elā · taila | — | one · unity · banner · play · cardamom · oil | — | ch1–2 review set 6 |\n| लोक · कोमल · कोकिल · लोल · कौतुक · लौकिक · ॐ | loka · komala · kokila · lola · kautuka · laukika · oṃ | — | world · soft · cuckoo · swaying · curiosity · worldly · om | — | ch1–2 review set 7 — कोकिल: sentence cast |\n| कः · ततः · अतः · इतः · कुतः · मतिः · अंक | kaḥ · tataḥ · ataḥ · itaḥ · kutaḥ · matiḥ · aṃka | — | who · then · hence · from here · whence · thought · number | — | ch1–2 review set 8 — the connector family |\n| खग | khaga | /kʰɐgɐ/ | bird, sky-goer | पक्षी | l01 · the etymology gem: ख \"sky\" + ग \"going\" |\n| गत | gata | /gɐt̪ɐ/ | gone | गया हुआ | l01 |\n| गति | gati | /gɐt̪i/ | motion, way | गति, चाल | l01 |\n| गीत | gīta | /giːt̪ɐ/ | song | गीत | l01 |\n| मुख | mukha | /mukʰɐ/ | mouth, face | मुँह, चेहरा | l01 |\n| लेख | lekha | /leːkʰɐ/ | writing | लेख | l01 |\n| लघु | laghu | /lɐgʱu/ | light, small | छोटा, हलका | l01 |\n| मेघ | megha | /meːgʱɐ/ | cloud | बादल | l01 |\n| घृत | ghṛta | /gʱr̩t̪ɐ/ | ghee | घी | l01 |\n| खल | khala | /kʰɐlɐ/ | wicked (person) | दुष्ट | l01 |\n| चल | cala | /t͡ɕɐlɐ/ | moving, unsteady | चंचल | l02 |\n| चलति | calati | /t͡ɕɐlɐt̪i/ | moves | चलता है | l02 · **FIRST VERB** — the sentence engine |\n| अचल | acala | /ɐt͡ɕɐlɐ/ | unmoving; mountain | अचल, पर्वत | l02 |\n| छल | chala | /t͡ɕʰɐlɐ/ | deceit, guise | छल | l02 |\n| जल | jala | /d͡ʑɐlɐ/ | water | जल, पानी | l02 · trap word: ज = affricate |\n| जलज | jalaja | /d͡ʑɐlɐd͡ʑɐ/ | water-born, lotus | कमल | l02 |\n| जित | jita | /d͡ʑit̪ɐ/ | conquered | जीता हुआ | l02 |\n| कूजति | kūjati | /kuːd͡ʑɐt̪i/ | coos, warbles | कूकती है | l02 · verb 2 — कोकिलः कूजति |\n| घट | ghaṭa | /gʱɐʈɐ/ | pot | घड़ा | l03 · task D's logic-example card |\n| तट | taṭa | /t̪ɐʈɐ/ | shore, bank | किनारा | l03 · कूल synonym |\n| कटु | kaṭu | /kɐʈu/ | pungent, bitter | कड़वा | l03 |\n| जटा | jaṭā | /d͡ʑɐʈɑː/ | matted hair | जटा | l03 |\n| कूट | kūṭa | /kuːʈɐ/ | peak; trick | चोटी; धोखा | l03 |\n| गुण | guṇa | /guɳɐ/ | quality, strand | गुण | l03 · where ण earns its keep |\n| गण | gaṇa | /gɐɳɐ/ | group, troop | गण, समूह | l03 |\n| कण | kaṇa | /kɐɳɐ/ | particle, grain | कण | l03 |\n| तृण | tṛṇa | /t̪r̩ɳɐ/ | grass, blade | तिनका | l03 |\n| गुड | guḍa | /guɖɐ/ | jaggery, raw sugar | गुड़ | l03 · watch the ड़-habit — §12 row 7 |\n| गूढ | gūḍha | /guːɖʱɐ/ | hidden, secret | गूढ़, छिपा | l03 |\n| मूढ | mūḍha | /muːɖʱɐ/ | deluded, fool | मूर्ख | l03 |\n| कठ | kaṭha | /kɐʈʰɐ/ | name of an Upaniṣad | कठ | l03 · TRADITION: the Kaṭha Upaniṣad |\n| कथा | kathā | /kɐt̪ʰɑː/ | story | कथा, कहानी | l04 · §17's long-promised word |\n| दिन | dina | /d̪in̪ɐ/ | day | दिन | l04 |\n| दान | dāna | /d̪ɑːn̪ɐ/ | giving, charity | दान | l04 |\n| दधि | dadhi | /d̪ɐd̪ʱi/ | yogurt | दही | l04 |\n| धन | dhana | /d̪ʱɐn̪ɐ/ | wealth | धन | l04 |\n| मधु | madhu | /mɐd̪ʱu/ | honey | शहद | l04 · mead-cognate card in task D |\n| नदी | nadī | /n̪ɐd̪iː/ | river | नदी | l04 · story cast |\n| नमः | namaḥ | /n̪ɐmɐh/ | homage, salutation | प्रणाम | l04 · half of नमस्ते — sentence cast |\n| मन | mana | /mɐn̪ɐ/ | mind (stem form of manas) | मन | l04 |\n| जन | jana | /d͡ʑɐn̪ɐ/ | person, people | जन, लोग | l04 |\n| नीति | nīti | /n̪iːt̪i/ | conduct, policy | नीति | l04 |\n| नील | nīla | /n̪iːlɐ/ | blue | नीला | l04 |\n| गगन | gagana | /gɐgɐn̪ɐ/ | sky | आकाश | l04 |\n| नल | nala | /n̪ɐlɐ/ | Nala (the king's name); reed | नल (राजा) | l04 |\n| फल | phala | /pʰɐlɐ/ | fruit; result | फल | l05 · trap word: फ = [pʰ] — story cast |\n| बल | bala | /bɐlɐ/ | strength | बल | l05 |\n| पथ | patha | /pɐt̪ʰɐ/ | path | पथ, मार्ग | l05 · genuine PIE kin of English \"path\" |\n| पाप | pāpa | /pɑːpɐ/ | evil, sin | पाप | l05 |\n| पिता | pitā | /pit̪ɑː/ | father | पिता | l05 · story cast — पितृ stem noted in l05 |\n| कपि | kapi | /kɐpi/ | monkey | बन्दर | l05 · sentence cast |\n| बाल | bāla | /bɑːlɐ/ | child | बच्चा | l05 |\n| बालक | bālaka | /bɑːlɐkɐ/ | boy, child | लड़का | l05 · sentence cast — बालकः चलति |\n| लाभ | lābha | /lɑːbʱɐ/ | gain | लाभ | l05 |\n| भाग | bhāga | /bʱɑːgɐ/ | share, portion | भाग, हिस्सा | l05 |\n| भूमि | bhūmi | /bʱuːmi/ | earth, ground | भूमि, धरती | l05 |\n| पूजा | pūjā | /puːd͡ʑɑː/ | worship, honoring | पूजा | l05 |\n| भोजन | bhojana | /bʱoːd͡ʑɐn̪ɐ/ | food, meal | भोजन, खाना | l05 · §13's worked dictation item |\n| गोपाल | gopāla | /goːpɑːlɐ/ | cowherd | गोपाल | l05 · TRADITION note: Kṛṣṇa's epithet |\n| फेन | phena | /pʰeːn̪ɐ/ | foam | झाग | l05 |"
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — the script laws restated, plus the new one this chapter earned.\n\n> **[FACT · तथ्यम्]** **Law 1 — inherent vowel:** an unmarked consonant reads with अ.\n> **Law 2 — mātrā:** any other vowel after a consonant is written as a sign. **Law 3 —\n> mātrā geography:** the sign's position is fixed by the script, regardless of when the\n> vowel is spoken. **Law 4 — the leaning signs:** ं and ः attach to the whole akṣara\n> (ayogavāha). **Law 5 — the grid:** every stop is fully named by place × manner — five\n> places, five manners, twenty-five letters, no exceptions; and the homorganic-nasal rule\n> of v1.c02.l06 now has all five nasal letters to point to. [REF:whitney1889 §§39–50]\n> [REF:masica1991 ch.6]\n\nStill ahead, honestly: **eight letters** — the semivowels य र ल व (ल at last getting its\nfull home) and the sibilant row श ष स plus ह — in Chapter 4; then the virāma and conjuncts\nin Chapter 5, which are grid-pairs: two letters you own, welded. The नमस्ते promise\ntracker: **नमः ✓** readable since lesson 4; **स्ते** waits for स (Chapter 4) and conjunct\nmachinery (Chapter 5). अहम् still needs the virāma. The grid you certify today is the\naddress system all of it will use."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — the chapter's exchanges joined into one readable-heavy scene. Roles अ and ब;\nswap and repeat. 🔊 glue: आम्, अस्ति, पश्य (the established set — shrinking as promised).\n\n— अ: **नमः**! \"Greetings!\"\n— ब: **नमः**! **जल**? \"Water?\"\n— अ: आम्, **जल** — **नदी**! **ततः** **घट**। \"Yes, water — the river! Then, the pot.\"\n— ब: **फल**? \"Fruit?\"\n— अ: आम्, **एक** **फल**। \"Yes, one fruit.\"\n— ब: **कथा**? \"A story?\"\n— अ: आम्! पश्य — **बालकः** **चलति**! \"Yes! Look — the boy walks!\"\n— ब: **कौतुक**! \"Delightful!\"\n\nDelivery check: unaspirated क in कथा and कौतुक; breathy घ in घट; the त/ट contrast across\nततः and घट; full final vowels; voiceless visargas; every word in pause form — the whole\nchapter in eight turns."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — production, not consumption: **extend the running story with the Chapter 3 cast.**\n\nFrom memory, retell the कमला-and-कोकिल continuation you built in v1.c02.l07 §17 — then\nextend it with at least three new lines using ततः as your connector and the new cast:\nपिता, बालक, कपि, घट, नदी, फल. Say each line aloud, then write the words you can write.\nA worked continuation for comparison (peek only after your own attempt — and compare it\nwith l05 §17's version, where this cast first assembled):\n\n1. **ततः** **बालकः** **चलति।** **नदी**! (tataḥ bālakaḥ calati. nadī!) \"Then the boy\n   walks. The river!\" — फिर बालक चलता है। नदी!\n2. **कपिः** **चलति।** **ततः** **फल**! (kapiḥ calati. tataḥ phala!) \"The monkey walks.\n   Then — fruit!\" — बन्दर चलता है। फिर — फल!\n3. **पिता**: **नमः**! **ततः** **कथा**। (pitā: namaḥ! tataḥ kathā.) \"Father: greetings!\n   Then, the story.\" — पिता: प्रणाम! फिर — कथा।\n\n(Glue verbs stay 🔊 and optional; nominal lines are honest at this level. The point is\nretrieval + recombination, the two strongest moves in the learning toolkit\n[REF:roediger2006].)"
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — the five assessment tasks. A, B, E score against §19's key; C against the\nlesson audio; D against the key with reasoning.\n\n**कार्यम् A · श्रवणपरीक्षा (listening — 12 items).** Audio v1c03l06-contrast-test.mp3\n(planned) plays twelve items; circle what you heard: items 1–2 aspiration syllables (क or\nख), 3 aspiration word — मुख vs a fake without the puff, 4–5 dental/retroflex syllables\n(त or ट, ता or टा), 6 place word — घट vs a fake with dental t, 7 voiced place syllables\n(द or ड), 8 place word — गुड vs a fake with dental d, 9–10 the ज-trap: जल twice, one\naffricate and one with [z] — mark which is Sanskrit, 11–12 the फ-trap: फल twice, one [pʰ]\nand one [f] — mark which is Sanskrit. Self-study fallback: any reader uses §19's item key.\n\n**कार्यम् B · श्रुतलेखनम् (dictation — 10 words, production).** Audio\nv1c03l06-dictation-set.mp3 (planned) reads ten cross-varga words from §14, each twice, in\npause form. Write them in Devanagari — every letter in its varga, every mātrā in its place.\n\n**कार्यम् C · वाचनम् (reading aloud — 15 words + 3 sentences, production).** Record\nyourself cold: खग · मेघ · लघु · जल · चलति · छल · घट · गुण · गूढ · कथा · मधु · नदी · फल ·\nभोजन · पिता — then the milestone sentences: **बालकः चलति। कपिः चलति। कोकिलः कूजति।**\nScore each word against §9–§11: clean / aspiration-error / breath-error / place-error /\ntrap-error ([z], [f], ड़). 12+ clean AND all three sentences clean (pause form, full final\nvowels, voiceless visargas) = pass. Model audio: v1c03l06-sentence-set.mp3 (planned) —\nlisten only after scoring yourself.\n\n**कार्यम् D · श्रेणीविभागः (register sort — 9 cards, production of reasoning).** FACT /\nHISTORY / TRADITION / SYMBOL — or reject. One line of reasoning each.\n\n1. \"खग means 'sky-goer' — ख 'sky' + ग 'going', a recorded derivation.\"\n2. \"The manner row — voiceless, voiceless aspirated, voiced, voiced breathy, nasal —\n   repeats identically in every varga.\"\n3. \"घट, the pot, is Indian logic's stock example object.\"\n4. \"कठ is the name of an Upaniṣad.\"\n5. \"मधु and English *mead* descend from the same ancestral word.\"\n6. \"Pāṇini's tradition described the palatal row as stops, not affricates.\"\n7. \"Sanskrit ज is really z.\"\n8. \"ड़ is a Sanskrit letter.\"\n9. \"फल means both 'fruit' and 'result'.\"\n\n**कार्यम् E · तालिकापूरणम् (timed writing — 5 minutes, production).** On the blank grid\n(v1c03l06-blank-grid.svg, planned): from memory, write all 25 letters into their cells AND\nlabel the five manner columns. The row stubs क-वर्ग … प-वर्ग are printed; everything else\nis yours. Complete and correct within five minutes = pass."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — ten questions, two per varga lesson. Closed-book, after the tasks.\n\n1. (l01) Recite the manner row in order and fill it with the क-वर्ग letters. Which\n   physical check separates slots 1 and 2?\n2. (l01) The tissue test: what exactly does it measure — and what should घ do to the\n   tissue that ग does not?\n3. (l02) What kind of sounds are the च-वर्ग five in this course's target pronunciation,\n   and what must English \"ch\" lose to become च?\n4. (l02) चलति is a course milestone. Why? And what, honestly, is deferred to Volume 2?\n5. (l03) Describe the tongue position for ट-वर्ग. Name one language outside India with\n   retroflexes — and which banned 1.x claim does that retire?\n6. (l03) Which letters of the ट-वर्ग begin few native words, where do they earn their\n   keep, and why does the course still give them full cards?\n7. (l04) The fingertip-on-teeth check: which row passes it — and why does English t/d\n   pass for neither त nor ट?\n8. (l04) नमः — gloss it, and state exactly which two pieces of machinery still block\n   reading नमस्ते in full.\n9. (l05) फ is which sound, and which Hindi habit must be excluded? Name the check that\n   exposes the substitution.\n10. (l05) State the pause-form convention: how does Volume 1 read its sentences, what is\n    deferred, and to which volume?\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. Voiceless क, voiceless aspirated ख, voiced ग, voiced breathy घ, nasal ङ; the tissue\n   test separates क from ख. → l01 §5, §9.\n2. The breath after release: aspiration on the voiceless side, murmured breathy voice on\n   the voiced side — घ stirs the tissue while humming; ग does not. → l01 §9, §11.\n3. Affricates — /t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/ per the course contract; English \"ch\" must lose its\n   lip-rounding. → l02 §5, §9.\n4. The course's first readable verb form — the sentence engine; conjugation itself (why\n   -ति, the other persons and numbers) waits for Volume 2. → l02 §14, §15.\n5. Tongue tip curled back toward the roof of the mouth, released crisply; Swedish (or\n   Norwegian); it retires \"retroflex sounds are unique to Indian languages\". → l03 §5.\n6. ठ ड ढ (and ण word-initially); they earn their keep word-internally — घट, गुण, गूढ; equal\n   cards with frank frequency notes are the fix for the 1.x corner-letters error. → l03\n   §12, §14.\n7. The dental row त थ द ध न — tip ON the teeth. English t/d are alveolar: on the ridge\n   behind the teeth, not on them, and not curled back — neither dental nor retroflex.\n   → l04 §5, §11.\n8. \"Homage, salutation\" — the greeting half of नमस्ते; still blocked: the letter स\n   (Chapter 4) and conjunct writing for स्त (Chapter 5). → l04 §14; §15 here.\n9. /pʰ/ — the aspirated labial stop; the [f] of Hindi फ़ must be excluded. The check: the\n   lips must close completely and release a clean puff — [f] never closes them. → l05 §9,\n   §12.\n10. Every word is read fully, in citation (pause) form, word by word; connected-speech\n    sandhi is deferred to Volume 3. → l05 §15.\n\n**Task keys.**\nA: 1 ख 2 क 3 मुख (real word, aspirated) 4 ट 5 ता 6 घट (retroflex ट) 7 ड 8 गुड (retroflex\nड) 9 the affricate version = Sanskrit जल 10 the [z] version — mark \"not Sanskrit ज\"\n11 the [pʰ] version = Sanskrit फल 12 the [f] version — mark \"not Sanskrit फ\".\nB (dictation set): भोजन, गुण, कथा, मुख, जल, घट, नदी, फल, मेघ, पिता.\nC: the fifteen words as printed in §18, plus बालकः चलति। कपिः चलति। कोकिलः कूजति।\nD: 1 FACT (recorded derivation, dictionary-checkable [REF:apte1890 s.v. खग]) · 2 FACT (the\nchapter's own engine) · 3 TRADITION (the stock example of the Nyāya tradition of logic —\nattributed) · 4 TRADITION (a name within the tradition — the Kaṭha Upaniṣad; taught as a\nname, not assessed as doctrine) · 5 FACT (cognates sharing a PIE ancestor, not a borrowing\n[REF:mallory2006]) · 6 HISTORY — correct only with According-to framing (\"Pāṇinian\nphonetics describes…\" [REF:cardona1997]); the course's audio target remains the affricate\nrow · 7 **reject** — ज is /d͡ʑ/; [z] is the Perso-Arabic loan layer of Hindi, absent from\nSanskrit · 8 **reject** — ड़ is a later Indo-Aryan development, not a letter of the\nSanskrit varṇamālā · 9 FACT ([REF:apte1890 s.v. फल]). Scoring: 7+/9 with sane reasoning.\nE: columns left to right — voiceless · voiceless aspirated · voiced · voiced breathy ·\nnasal; rows — क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म.\n\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — the chapter on one screen, plus the schedule.\n\n> **Stops complete:** 25 letters, five vargas — place from the row, manner from the column.\n> **The contrasts:** aspiration (क/ख), breathy voice (ग/घ), place (त/ट, द/ड) — and the\n> traps: no [z], no [f], no ड़.\n> **The laws:** the grid is generative — place × manner names every stop; the homorganic\n> nasals now have all five letters.\n> **The words:** 114 readable, मम to भोजन — with the first verb, चलति.\n> **The sentences:** बालकः चलति। कपिः चलति। कोकिलः कूजति। — read in pause form.\n> **The promise tracker:** नमः ✓ readable; स्ते pending (Chapter 4 letter + Chapter 5 conjunct).\n\nSchedule [REF:cepeda2006]: **+1 day** — task B re-run, fresh order. **+1 week** — tasks C\nand E re-run (this lands inside Chapter 4; its lessons will remind you). **Before the\nChapter 4 quiz** — re-sort task D's cards from memory. Log scores here."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् (≈ 25 minutes + one social task)\n\n1. Tomorrow: the +1-day dictation — ten words, new order (10 min).\n2. Weak-point repair: your lowest §18 task → its remediation row in §22 → redo that drill\n   (10 min).\n3. Teach-back: teach someone the tissue test — क barely moves it, ख throws it, घ makes it\n   stir while you hum. Three letters, one tissue, one minute of someone else's day (5 min).\n4. Optional: date-stamp today's completed task E grid and photograph it next to your\n   Chapter 1 writing sample. The difference is your evidence."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "अध्यापकटिप्पणी\n\n**Format:** six stations (§3, 15 min including Station 0) → assessment block (§18–19,\n25 min) → debrief (5 min).\n\n**Rubric:**\n\n| Task | Full | Partial | Fail signal → remediation |\n|---|---|---|---|\n| A (12) | 10–12 | 8–9 | trap items 9–12 missed → §12 rows 3–4; aspiration/place rows → §12 rows 1, 5 |\n| B (10) | 8–10 all-correct | 6–7 | breathy letters miswritten (भ→ब, घ→ग) → §12 rows 2, 8; wrong varga → row 6 |\n| C (15+3) | 12+ clean, all sentences | 10–11, or one halting sentence | systematic aspiration/place/trap errors → §12 rows 1–5, 7; sentence trouble → l05 §15 pause form |\n| D (9) | 7–9 reasoned | 5–6 | registers blurred → re-teach with §13's खग walk-through |\n| E (25) | complete, correct, in time | 1–2 cell slips | row/column confusion → blank-grid drill daily for a week |\n\n**Pass** = all tasks partial+, quiz 7+/10 → Chapter 4. One weak task → targeted retake\ntomorrow. Two+ → repeat the weak varga lessons; frame as scheduling, not failure.\n\n**Running Station 0:** a silent two-minute opener — it doubles as settling time and shows\nthe spacing system working (most students beat their Chapter 2 score; say so out loud).\n\n**The D-task cards:** cards 7 and 8 each have one right move — reject — so the\nwaste-basket earns its keep twice today. Card 6 is the nuance card: HISTORY only with\nAccording-to framing, and the course's audio target stays the affricate row (the contract\nin STYLE_GUIDE §2.2); let students argue it — the argument is the learning. Card 3 rewards\nattribution: knowing that घट-as-example belongs to a *tradition* of logic, not to\nphonology, is exactly the sorting skill.\n\n**Heritage learners:** A, B and E will be near-instant — all twenty-five stops are native\nequipment. Their genuine tests are C (pause-form discipline: every final vowel full, no\nschwa deletion under sentence rhythm, visargas voiceless) and D; plus the habit edges —\nफ़/ज़ nuqta carryover and the ड़-flap (गुड is the give-away word). Grade there, deputize\neverywhere else."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "For v1c03l06-blank-grid.svg (diagram):\n\n> Volume 1 style (warm paper, deep ink, saffron #E08A00 accent): an empty 5×5 grid. Row\n> stubs printed at left — क-वर्ग, च-वर्ग, ट-वर्ग, त-वर्ग, प-वर्ग — with small English\n> place glosses (velar … labial). The five column headers are EMPTY ruled slots (the\n> learner writes the manner labels); all 25 cells empty. Header strip: name / date /\n> time started. Alt text: \"Blank five-by-five stop-consonant grid with varga row labels\n> and empty manner column headers, for the Chapter 3 timed assessment.\"\n\nFor v1c03l06-writing-assessment.pdf (worksheet): ruled Devanagari grid, ten numbered\ndictation boxes (task B) plus a full-page copy of the blank grid (task E); header\nname/date/time; same family as the Chapter 1 and 2 assessment sheets."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video (8–10 min), scene list:\n\n1. Cold open (0:00–0:30): the grayed-out preview grid from the course's second lesson\n   dissolves cell by cell into today's filled grid — \"five lessons, twenty-five letters.\"\n2. Stations montage (0:30–3:30): §3 prompts as countdown cards, one station per varga;\n   Station 0's silent vowel re-run in time-lapse; the tissue test in slow motion.\n3. Assessment walkthrough (3:30–6:30): one modeled item per task; the भोजन dictation build\n   from §13 animated block by block — भ hums and breathes, ो attaches, ज affricates, न\n   lands on the teeth.\n4. Register sort (6:30–8:00): nine cards fly; the खग card splits into\n   poetry-that-is-a-fact panels; cards 7 and 8 hit the waste-basket — *thunk*, twice.\n5. Outro (8:00–9:00): the §20 revision card; the spaced schedule on a calendar; the\n   नमस्ते tracker (नमः lit, स्ते dimmed); Chapter 4 tease — \"eight letters left.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.\n\n- 00:00 — \"Twenty-five stops. Five places, five manners, one grid. More than a hundred\n  readable words — from मम [mɐmɐ] to भोजन [bʱoːd͡ʑɐn̪ɐ]. And sentences: बालकः चलति\n  [bɑːlɐkɐh t͡ɕɐlɐt̪i]. Today, you prove the grid.\"\n- 00:30 — \"Six stations. Answer first, check second — the pulling-out is the practice.\n  Station one: tissue up — क [kɐ]… ख [kʰɐ] — one barely stirs it, one throws it.\"\n- 03:30 — \"Task B. You hear भोजन [bʱoːd͡ʑɐn̪ɐ]. Build it: भ — voiced AND breathy — then\n  ो, then ज — the affricate, never [z] — then न, on the teeth. Every letter in its cell.\"\n- 06:30 — \"Card one: खग [kʰɐgɐ] — sky-goer. A dictionary fact that sounds like poetry —\n  fact box. Card seven: 'Sanskrit ज is really z' — the basket. Card eight: 'ड़ is a\n  Sanskrit letter' — the basket again. Some claims we sort; those we retire.\"\n- 08:00 — \"Dictation again tomorrow. Reading and the grid again in a week — Chapter 4\n  will remind you. Eight letters remain: the semivowels, the sibilants — and then स्ते\n  [st̪eː], and the promise is kept. स्पर्शाः समाप्ताः [spɐɾɕɑːh sɐmɑːpt̪ɑːh] — the stops,\n  complete.\""
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "30–45 s vertical. **Hook** (0–5 s): \"One puff of air is the whole difference.\" — audio:\nक… ख… **Demo** (5–30 s): tissue test in slow motion (क stirs, ख throws); the 5×5 grid\nfilling in time-lapse; a hand writes भोजन from dictation block by block; the ड़ card into\nthe basket (*thunk* — the running gag). **Payoff** (30–40 s): \"25 stops. 5 vargas. 114\nwords. First sentences — बालकः चलति।\" **CTA** (40–45 s): \"Chapter 4: the last eight\nletters. Link in bio.\""
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Assets (all planned):** contrast-test audio — 12 items recorded as minimal pairs by a\n  single voice, items 9–12 with deliberate [z]/[f] substitutions labeled in the key file;\n  dictation set (10 words, each read twice, pause form); sentence set (the three milestone\n  sentences at two speeds); blank-grid SVG (reused for Chapter 4 warm-ups); writing\n  assessment sheet; chapter quiz + separate key file (print policy: keys never on the\n  question sheet).\n- **Related lessons:** consolidates v1.c03.l01–l05; runs v1.c02.l07's +1-week interval as\n  Station 0; gates v1.c04 (semivowels and sibilants — the last eight letters). Its own\n  +1-week re-runs land inside Chapter 4's calendar.\n- **Rubric home:** §22 is the machine-readable rubric source; export flag `assessment: true`.\n- **Integrator notes:** §14's cumulative table is the canonical word list for Chapters 1–3 —\n  the app's spaced-repetition deck should key off it; the §19 task keys are the single\n  source for the quizzes/ files. Glue-word 🔊 inventory: पठामि is mechanically readable as\n  of this chapter (all its letters and mātrās taught) and retires from the 🔊 list; आम्,\n  अस्ति, पश्य, तव, अत्र remain 🔊 pending Chapters 4–5.\n- **Register audit:** FACT ×3 (§4, §5, §15) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 —\n  review lesson; task D handles registers as content (keys include the card-6 According-to\n  nuance). Quiz assesses FACT only.\n- **Gate:** pass per §8/§22 opens Chapter 4; a failed task re-runs tomorrow before any\n  Chapter 4 lesson begins."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "मम · माता · लता · माला · कला · कमल",
+      "iast": "mama · mātā · latā · mālā · kalā · kamala",
+      "ipa": "—",
+      "en": "my · mother · vine · garland · art · lotus",
+      "hi": "—",
+      "notes": "ch1–2 review set 1"
+    },
+    {
+      "deva": "तल · काल · ताल · अमल · कमला · मत",
+      "iast": "tala · kāla · tāla · amala · kamalā · mata",
+      "ipa": "—",
+      "en": "surface · time · rhythm · spotless · Lakṣmī · opinion",
+      "hi": "—",
+      "notes": "ch1–2 review set 2"
+    },
+    {
+      "deva": "इति · तिल · मति · कति · कील · लीला · ममता · मित",
+      "iast": "iti · tila · mati · kati · kīla · līlā · mamatā · mita",
+      "ipa": "—",
+      "en": "thus · sesame · thought · how many · pin · play · affection · measured",
+      "hi": "—",
+      "notes": "ch1–2 review set 3"
+    },
+    {
+      "deva": "कुल · तुला · मूल · कूल · मूक · मुकुल · उलूक · उत",
+      "iast": "kula · tulā · mūla · kūla · mūka · mukula · ulūka · uta",
+      "ipa": "—",
+      "en": "family · scales · root · bank · mute · bud · owl · and/or",
+      "hi": "—",
+      "notes": "ch1–2 review set 4"
+    },
+    {
+      "deva": "ऋत · ऋतु · कृत · मृत · मातृ · अमृत",
+      "iast": "ṛta · ṛtu · kṛta · mṛta · mātṛ · amṛta",
+      "ipa": "—",
+      "en": "order · season · done · dead · mother-stem · deathless",
+      "hi": "—",
+      "notes": "ch1–2 review set 5"
+    },
+    {
+      "deva": "एक · एकता · केतु · केलि · एला · तैल",
+      "iast": "eka · ekatā · ketu · keli · elā · taila",
+      "ipa": "—",
+      "en": "one · unity · banner · play · cardamom · oil",
+      "hi": "—",
+      "notes": "ch1–2 review set 6"
+    },
+    {
+      "deva": "लोक · कोमल · कोकिल · लोल · कौतुक · लौकिक · ॐ",
+      "iast": "loka · komala · kokila · lola · kautuka · laukika · oṃ",
+      "ipa": "—",
+      "en": "world · soft · cuckoo · swaying · curiosity · worldly · om",
+      "hi": "—",
+      "notes": "ch1–2 review set 7 — कोकिल: sentence cast"
+    },
+    {
+      "deva": "कः · ततः · अतः · इतः · कुतः · मतिः · अंक",
+      "iast": "kaḥ · tataḥ · ataḥ · itaḥ · kutaḥ · matiḥ · aṃka",
+      "ipa": "—",
+      "en": "who · then · hence · from here · whence · thought · number",
+      "hi": "—",
+      "notes": "ch1–2 review set 8 — the connector family"
+    },
+    {
+      "deva": "खग",
+      "iast": "khaga",
+      "ipa": "/kʰɐgɐ/",
+      "en": "bird, sky-goer",
+      "hi": "पक्षी",
+      "notes": "l01 · the etymology gem: ख \"sky\" + ग \"going\""
+    },
+    {
+      "deva": "गत",
+      "iast": "gata",
+      "ipa": "/gɐt̪ɐ/",
+      "en": "gone",
+      "hi": "गया हुआ",
+      "notes": "l01"
+    },
+    {
+      "deva": "गति",
+      "iast": "gati",
+      "ipa": "/gɐt̪i/",
+      "en": "motion, way",
+      "hi": "गति, चाल",
+      "notes": "l01"
+    },
+    {
+      "deva": "गीत",
+      "iast": "gīta",
+      "ipa": "/giːt̪ɐ/",
+      "en": "song",
+      "hi": "गीत",
+      "notes": "l01"
+    },
+    {
+      "deva": "मुख",
+      "iast": "mukha",
+      "ipa": "/mukʰɐ/",
+      "en": "mouth, face",
+      "hi": "मुँह, चेहरा",
+      "notes": "l01"
+    },
+    {
+      "deva": "लेख",
+      "iast": "lekha",
+      "ipa": "/leːkʰɐ/",
+      "en": "writing",
+      "hi": "लेख",
+      "notes": "l01"
+    },
+    {
+      "deva": "लघु",
+      "iast": "laghu",
+      "ipa": "/lɐgʱu/",
+      "en": "light, small",
+      "hi": "छोटा, हलका",
+      "notes": "l01"
+    },
+    {
+      "deva": "मेघ",
+      "iast": "megha",
+      "ipa": "/meːgʱɐ/",
+      "en": "cloud",
+      "hi": "बादल",
+      "notes": "l01"
+    },
+    {
+      "deva": "घृत",
+      "iast": "ghṛta",
+      "ipa": "/gʱr̩t̪ɐ/",
+      "en": "ghee",
+      "hi": "घी",
+      "notes": "l01"
+    },
+    {
+      "deva": "खल",
+      "iast": "khala",
+      "ipa": "/kʰɐlɐ/",
+      "en": "wicked (person)",
+      "hi": "दुष्ट",
+      "notes": "l01"
+    },
+    {
+      "deva": "चल",
+      "iast": "cala",
+      "ipa": "/t͡ɕɐlɐ/",
+      "en": "moving, unsteady",
+      "hi": "चंचल",
+      "notes": "l02"
+    },
+    {
+      "deva": "चलति",
+      "iast": "calati",
+      "ipa": "/t͡ɕɐlɐt̪i/",
+      "en": "moves",
+      "hi": "चलता है",
+      "notes": "l02 · **FIRST VERB** — the sentence engine"
+    },
+    {
+      "deva": "अचल",
+      "iast": "acala",
+      "ipa": "/ɐt͡ɕɐlɐ/",
+      "en": "unmoving; mountain",
+      "hi": "अचल, पर्वत",
+      "notes": "l02"
+    },
+    {
+      "deva": "छल",
+      "iast": "chala",
+      "ipa": "/t͡ɕʰɐlɐ/",
+      "en": "deceit, guise",
+      "hi": "छल",
+      "notes": "l02"
+    },
+    {
+      "deva": "जल",
+      "iast": "jala",
+      "ipa": "/d͡ʑɐlɐ/",
+      "en": "water",
+      "hi": "जल, पानी",
+      "notes": "l02 · trap word: ज = affricate"
+    },
+    {
+      "deva": "जलज",
+      "iast": "jalaja",
+      "ipa": "/d͡ʑɐlɐd͡ʑɐ/",
+      "en": "water-born, lotus",
+      "hi": "कमल",
+      "notes": "l02"
+    },
+    {
+      "deva": "जित",
+      "iast": "jita",
+      "ipa": "/d͡ʑit̪ɐ/",
+      "en": "conquered",
+      "hi": "जीता हुआ",
+      "notes": "l02"
+    },
+    {
+      "deva": "कूजति",
+      "iast": "kūjati",
+      "ipa": "/kuːd͡ʑɐt̪i/",
+      "en": "coos, warbles",
+      "hi": "कूकती है",
+      "notes": "l02 · verb 2 — कोकिलः कूजति"
+    },
+    {
+      "deva": "घट",
+      "iast": "ghaṭa",
+      "ipa": "/gʱɐʈɐ/",
+      "en": "pot",
+      "hi": "घड़ा",
+      "notes": "l03 · task D's logic-example card"
+    },
+    {
+      "deva": "तट",
+      "iast": "taṭa",
+      "ipa": "/t̪ɐʈɐ/",
+      "en": "shore, bank",
+      "hi": "किनारा",
+      "notes": "l03 · कूल synonym"
+    },
+    {
+      "deva": "कटु",
+      "iast": "kaṭu",
+      "ipa": "/kɐʈu/",
+      "en": "pungent, bitter",
+      "hi": "कड़वा",
+      "notes": "l03"
+    },
+    {
+      "deva": "जटा",
+      "iast": "jaṭā",
+      "ipa": "/d͡ʑɐʈɑː/",
+      "en": "matted hair",
+      "hi": "जटा",
+      "notes": "l03"
+    },
+    {
+      "deva": "कूट",
+      "iast": "kūṭa",
+      "ipa": "/kuːʈɐ/",
+      "en": "peak; trick",
+      "hi": "चोटी; धोखा",
+      "notes": "l03"
+    },
+    {
+      "deva": "गुण",
+      "iast": "guṇa",
+      "ipa": "/guɳɐ/",
+      "en": "quality, strand",
+      "hi": "गुण",
+      "notes": "l03 · where ण earns its keep"
+    },
+    {
+      "deva": "गण",
+      "iast": "gaṇa",
+      "ipa": "/gɐɳɐ/",
+      "en": "group, troop",
+      "hi": "गण, समूह",
+      "notes": "l03"
+    },
+    {
+      "deva": "कण",
+      "iast": "kaṇa",
+      "ipa": "/kɐɳɐ/",
+      "en": "particle, grain",
+      "hi": "कण",
+      "notes": "l03"
+    },
+    {
+      "deva": "तृण",
+      "iast": "tṛṇa",
+      "ipa": "/t̪r̩ɳɐ/",
+      "en": "grass, blade",
+      "hi": "तिनका",
+      "notes": "l03"
+    },
+    {
+      "deva": "गुड",
+      "iast": "guḍa",
+      "ipa": "/guɖɐ/",
+      "en": "jaggery, raw sugar",
+      "hi": "गुड़",
+      "notes": "l03 · watch the ड़-habit — §12 row 7"
+    },
+    {
+      "deva": "गूढ",
+      "iast": "gūḍha",
+      "ipa": "/guːɖʱɐ/",
+      "en": "hidden, secret",
+      "hi": "गूढ़, छिपा",
+      "notes": "l03"
+    },
+    {
+      "deva": "मूढ",
+      "iast": "mūḍha",
+      "ipa": "/muːɖʱɐ/",
+      "en": "deluded, fool",
+      "hi": "मूर्ख",
+      "notes": "l03"
+    },
+    {
+      "deva": "कठ",
+      "iast": "kaṭha",
+      "ipa": "/kɐʈʰɐ/",
+      "en": "name of an Upaniṣad",
+      "hi": "कठ",
+      "notes": "l03 · TRADITION: the Kaṭha Upaniṣad"
+    },
+    {
+      "deva": "कथा",
+      "iast": "kathā",
+      "ipa": "/kɐt̪ʰɑː/",
+      "en": "story",
+      "hi": "कथा, कहानी",
+      "notes": "l04 · §17's long-promised word"
+    },
+    {
+      "deva": "दिन",
+      "iast": "dina",
+      "ipa": "/d̪in̪ɐ/",
+      "en": "day",
+      "hi": "दिन",
+      "notes": "l04"
+    },
+    {
+      "deva": "दान",
+      "iast": "dāna",
+      "ipa": "/d̪ɑːn̪ɐ/",
+      "en": "giving, charity",
+      "hi": "दान",
+      "notes": "l04"
+    },
+    {
+      "deva": "दधि",
+      "iast": "dadhi",
+      "ipa": "/d̪ɐd̪ʱi/",
+      "en": "yogurt",
+      "hi": "दही",
+      "notes": "l04"
+    },
+    {
+      "deva": "धन",
+      "iast": "dhana",
+      "ipa": "/d̪ʱɐn̪ɐ/",
+      "en": "wealth",
+      "hi": "धन",
+      "notes": "l04"
+    },
+    {
+      "deva": "मधु",
+      "iast": "madhu",
+      "ipa": "/mɐd̪ʱu/",
+      "en": "honey",
+      "hi": "शहद",
+      "notes": "l04 · mead-cognate card in task D"
+    },
+    {
+      "deva": "नदी",
+      "iast": "nadī",
+      "ipa": "/n̪ɐd̪iː/",
+      "en": "river",
+      "hi": "नदी",
+      "notes": "l04 · story cast"
+    },
+    {
+      "deva": "नमः",
+      "iast": "namaḥ",
+      "ipa": "/n̪ɐmɐh/",
+      "en": "homage, salutation",
+      "hi": "प्रणाम",
+      "notes": "l04 · half of नमस्ते — sentence cast"
+    },
+    {
+      "deva": "मन",
+      "iast": "mana",
+      "ipa": "/mɐn̪ɐ/",
+      "en": "mind (stem form of manas)",
+      "hi": "मन",
+      "notes": "l04"
+    },
+    {
+      "deva": "जन",
+      "iast": "jana",
+      "ipa": "/d͡ʑɐn̪ɐ/",
+      "en": "person, people",
+      "hi": "जन, लोग",
+      "notes": "l04"
+    },
+    {
+      "deva": "नीति",
+      "iast": "nīti",
+      "ipa": "/n̪iːt̪i/",
+      "en": "conduct, policy",
+      "hi": "नीति",
+      "notes": "l04"
+    },
+    {
+      "deva": "नील",
+      "iast": "nīla",
+      "ipa": "/n̪iːlɐ/",
+      "en": "blue",
+      "hi": "नीला",
+      "notes": "l04"
+    },
+    {
+      "deva": "गगन",
+      "iast": "gagana",
+      "ipa": "/gɐgɐn̪ɐ/",
+      "en": "sky",
+      "hi": "आकाश",
+      "notes": "l04"
+    },
+    {
+      "deva": "नल",
+      "iast": "nala",
+      "ipa": "/n̪ɐlɐ/",
+      "en": "Nala (the king's name); reed",
+      "hi": "नल (राजा)",
+      "notes": "l04"
+    },
+    {
+      "deva": "फल",
+      "iast": "phala",
+      "ipa": "/pʰɐlɐ/",
+      "en": "fruit; result",
+      "hi": "फल",
+      "notes": "l05 · trap word: फ = [pʰ] — story cast"
+    },
+    {
+      "deva": "बल",
+      "iast": "bala",
+      "ipa": "/bɐlɐ/",
+      "en": "strength",
+      "hi": "बल",
+      "notes": "l05"
+    },
+    {
+      "deva": "पथ",
+      "iast": "patha",
+      "ipa": "/pɐt̪ʰɐ/",
+      "en": "path",
+      "hi": "पथ, मार्ग",
+      "notes": "l05 · genuine PIE kin of English \"path\""
+    },
+    {
+      "deva": "पाप",
+      "iast": "pāpa",
+      "ipa": "/pɑːpɐ/",
+      "en": "evil, sin",
+      "hi": "पाप",
+      "notes": "l05"
+    },
+    {
+      "deva": "पिता",
+      "iast": "pitā",
+      "ipa": "/pit̪ɑː/",
+      "en": "father",
+      "hi": "पिता",
+      "notes": "l05 · story cast — पितृ stem noted in l05"
+    },
+    {
+      "deva": "कपि",
+      "iast": "kapi",
+      "ipa": "/kɐpi/",
+      "en": "monkey",
+      "hi": "बन्दर",
+      "notes": "l05 · sentence cast"
+    },
+    {
+      "deva": "बाल",
+      "iast": "bāla",
+      "ipa": "/bɑːlɐ/",
+      "en": "child",
+      "hi": "बच्चा",
+      "notes": "l05"
+    },
+    {
+      "deva": "बालक",
+      "iast": "bālaka",
+      "ipa": "/bɑːlɐkɐ/",
+      "en": "boy, child",
+      "hi": "लड़का",
+      "notes": "l05 · sentence cast — बालकः चलति"
+    },
+    {
+      "deva": "लाभ",
+      "iast": "lābha",
+      "ipa": "/lɑːbʱɐ/",
+      "en": "gain",
+      "hi": "लाभ",
+      "notes": "l05"
+    },
+    {
+      "deva": "भाग",
+      "iast": "bhāga",
+      "ipa": "/bʱɑːgɐ/",
+      "en": "share, portion",
+      "hi": "भाग, हिस्सा",
+      "notes": "l05"
+    },
+    {
+      "deva": "भूमि",
+      "iast": "bhūmi",
+      "ipa": "/bʱuːmi/",
+      "en": "earth, ground",
+      "hi": "भूमि, धरती",
+      "notes": "l05"
+    },
+    {
+      "deva": "पूजा",
+      "iast": "pūjā",
+      "ipa": "/puːd͡ʑɑː/",
+      "en": "worship, honoring",
+      "hi": "पूजा",
+      "notes": "l05"
+    },
+    {
+      "deva": "भोजन",
+      "iast": "bhojana",
+      "ipa": "/bʱoːd͡ʑɐn̪ɐ/",
+      "en": "food, meal",
+      "hi": "भोजन, खाना",
+      "notes": "l05 · §13's worked dictation item"
+    },
+    {
+      "deva": "गोपाल",
+      "iast": "gopāla",
+      "ipa": "/goːpɑːlɐ/",
+      "en": "cowherd",
+      "hi": "गोपाल",
+      "notes": "l05 · TRADITION note: Kṛṣṇa's epithet"
+    },
+    {
+      "deva": "फेन",
+      "iast": "phena",
+      "ipa": "/pʰeːn̪ɐ/",
+      "en": "foam",
+      "hi": "झाग",
+      "notes": "l05"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — ten questions, two per varga lesson. Closed-book, after the tasks.\n\n1. (l01) Recite the manner row in order and fill it with the क-वर्ग letters. Which\n   physical check separates slots 1 and 2?\n2. (l01) The tissue test: what exactly does it measure — and what should घ do to the\n   tissue that ग does not?\n3. (l02) What kind of sounds are the च-वर्ग five in this course's target pronunciation,\n   and what must English \"ch\" lose to become च?\n4. (l02) चलति is a course milestone. Why? And what, honestly, is deferred to Volume 2?\n5. (l03) Describe the tongue position for ट-वर्ग. Name one language outside India with\n   retroflexes — and which banned 1.x claim does that retire?\n6. (l03) Which letters of the ट-वर्ग begin few native words, where do they earn their\n   keep, and why does the course still give them full cards?\n7. (l04) The fingertip-on-teeth check: which row passes it — and why does English t/d\n   pass for neither त nor ट?\n8. (l04) नमः — gloss it, and state exactly which two pieces of machinery still block\n   reading नमस्ते in full.\n9. (l05) फ is which sound, and which Hindi habit must be excluded? Name the check that\n   exposes the substitution.\n10. (l05) State the pause-form convention: how does Volume 1 read its sentences, what is\n    deferred, and to which volume?",
+    "answer_key_markdown": "1. Voiceless क, voiceless aspirated ख, voiced ग, voiced breathy घ, nasal ङ; the tissue\n   test separates क from ख. → l01 §5, §9.\n2. The breath after release: aspiration on the voiceless side, murmured breathy voice on\n   the voiced side — घ stirs the tissue while humming; ग does not. → l01 §9, §11.\n3. Affricates — /t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/ per the course contract; English \"ch\" must lose its\n   lip-rounding. → l02 §5, §9.\n4. The course's first readable verb form — the sentence engine; conjugation itself (why\n   -ति, the other persons and numbers) waits for Volume 2. → l02 §14, §15.\n5. Tongue tip curled back toward the roof of the mouth, released crisply; Swedish (or\n   Norwegian); it retires \"retroflex sounds are unique to Indian languages\". → l03 §5.\n6. ठ ड ढ (and ण word-initially); they earn their keep word-internally — घट, गुण, गूढ; equal\n   cards with frank frequency notes are the fix for the 1.x corner-letters error. → l03\n   §12, §14.\n7. The dental row त थ द ध न — tip ON the teeth. English t/d are alveolar: on the ridge\n   behind the teeth, not on them, and not curled back — neither dental nor retroflex.\n   → l04 §5, §11.\n8. \"Homage, salutation\" — the greeting half of नमस्ते; still blocked: the letter स\n   (Chapter 4) and conjunct writing for स्त (Chapter 5). → l04 §14; §15 here.\n9. /pʰ/ — the aspirated labial stop; the [f] of Hindi फ़ must be excluded. The check: the\n   lips must close completely and release a clean puff — [f] never closes them. → l05 §9,\n   §12.\n10. Every word is read fully, in citation (pause) form, word by word; connected-speech\n    sandhi is deferred to Volume 3. → l05 §15.\n\n**Task keys.**\nA: 1 ख 2 क 3 मुख (real word, aspirated) 4 ट 5 ता 6 घट (retroflex ट) 7 ड 8 गुड (retroflex\nड) 9 the affricate version = Sanskrit जल 10 the [z] version — mark \"not Sanskrit ज\"\n11 the [pʰ] version = Sanskrit फल 12 the [f] version — mark \"not Sanskrit फ\".\nB (dictation set): भोजन, गुण, कथा, मुख, जल, घट, नदी, फल, मेघ, पिता.\nC: the fifteen words as printed in §18, plus बालकः चलति। कपिः चलति। कोकिलः कूजति।\nD: 1 FACT (recorded derivation, dictionary-checkable [REF:apte1890 s.v. खग]) · 2 FACT (the\nchapter's own engine) · 3 TRADITION (the stock example of the Nyāya tradition of logic —\nattributed) · 4 TRADITION (a name within the tradition — the Kaṭha Upaniṣad; taught as a\nname, not assessed as doctrine) · 5 FACT (cognates sharing a PIE ancestor, not a borrowing\n[REF:mallory2006]) · 6 HISTORY — correct only with According-to framing (\"Pāṇinian\nphonetics describes…\" [REF:cardona1997]); the course's audio target remains the affricate\nrow · 7 **reject** — ज is /d͡ʑ/; [z] is the Perso-Arabic loan layer of Hindi, absent from\nSanskrit · 8 **reject** — ड़ is a later Indo-Aryan development, not a letter of the\nSanskrit varṇamālā · 9 FACT ([REF:apte1890 s.v. फल]). Scoring: 7+/9 with sane reasoning.\nE: columns left to right — voiceless · voiceless aspirated · voiced · voiced breathy ·\nnasal; rows — क ख ग घ ङ / च छ ज झ ञ / ट ठ ड ढ ण / त थ द ध न / प फ ब भ म."
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "Spaced practice produces far more durable learning than the same practice massed together. [REF:cepeda2006]",
+      "refs": [
+        "cepeda2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Retrieval practice strengthens memory more than re-reading — the testing effect. [REF:roediger2006]",
+      "refs": [
+        "roediger2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "**Law 1 — inherent vowel:** an unmarked consonant reads with अ. **Law 2 — mātrā:** any other vowel after a consonant is written as a sign. **Law 3 — mātrā geography:** the sign's position is fixed by the script, regardless of when the vowel is spoken. **Law 4 — the leaning signs:** ं and ः attach to the whole akṣara (ayogavāha). **Law 5 — the grid:** every stop is fully named by place × manner — five places, five manners, twenty-five letters, no exceptions; and the homorganic-nasal rule of v1.c02.l06 now has all five nasal letters to point to. [REF:whitney1889 §§39–50] [REF:masica1991 ch.6]",
+      "refs": [
+        "whitney1889 §§39–50",
+        "masica1991 ch.6"
+      ]
+    }
+  ]
+}

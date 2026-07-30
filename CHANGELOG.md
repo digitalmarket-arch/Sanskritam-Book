@@ -4,6 +4,23 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.3.0] — 2026-07-30
+
+Volume 1 Chapter 3 — स्पर्शाः (The Stop Consonants) complete and reviewed.
+
+### Added
+- v1.c03 research notes (per-varga fact base, manner-row pedagogy, pause-form convention)
+  and chapter frame.
+- Six lessons: one per varga with all five members at equal depth (closes IR-042), the
+  reusable manner row with physical checks, nuqta discipline, dental/retroflex contrast
+  work, the first readable verb (चलति) and first readable sentences, and the grid-mastery
+  review with cumulative ~95-word table.
+- GLOSSARY: स्पर्श, अघोष, घोष, महाप्राण, अल्पप्राण, अनुनासिक.
+
+### Changed
+- JSON exports regenerated for all 18 lessons; verification log extended with v1.c03
+  verdicts and review-pass findings.
+
 ## [0.2.0] — 2026-07-21
 
 Volume 1 Chapter 2 — स्वराः (The Vowels) complete and reviewed.
