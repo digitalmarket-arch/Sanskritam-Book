@@ -39,12 +39,12 @@ media:
     - "planned:assets/worksheets/volume-1/v1c05l03-tracing.pdf"
   quizzes: []
 tags: [script, conjuncts, devanagari]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-31"]
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-07-31
 ---
 
 ## 1. Hook
@@ -362,7 +362,7 @@ dress masculine subjects with ः and neuter ones with म् (§15).
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | ज्ञान | jñāna | /d͡ʑɲɑːn̪ɐ/ | knowledge | ज्ञान | √ज्ञा family (§13); classical weld (§9) |
-| क्षमा | kṣamā | /kʂɐmɑː/ | patience, forgiveness | क्षमा, माफ़ी | feminine; both vowels of the frame long-short: क्ष-मा |
+| क्षमा | kṣamā | /kʂɐmɑː/ | patience, forgiveness | क्षमा, माफ़ी | feminine; short अ then long आ — क्ष-मा |
 | क्षेत्र | kṣetra | /kʂeːt̪ɾɐ/ | field | क्षेत्र, खेत | two ligatures; ancestor of खेत (§13) |
 | मित्र | mitra | /mit̪ɾɐ/ | friend | मित्र, दोस्त | neuter — मित्रम् (§15); Vedic note §13 |
 | पुत्र | putra | /put̪ɾɐ/ | son | पुत्र, बेटा | masculine — पुत्रः |

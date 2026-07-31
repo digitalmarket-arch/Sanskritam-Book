@@ -363,7 +363,7 @@ Six verbs now readable — चलति कूजति (ch3) + भवति व
 > **Law 2 — mātrā:** any other vowel after a consonant is written as a sign. **Law 3 —
 > mātrā geography:** the sign's position is fixed by the script, regardless of when the
 > vowel is spoken. **Law 4 — the leaning signs:** ं and ः attach to the whole akṣara
-> (ayogavāha). **Law 5 — the grid:** every stop is fully named by place × manner. **And
+> (ayogavāha). **And the grid principle:** every stop is fully named by place × manner. **And
 > now the closure:** the letter inventory is complete — 13 vowels + 2 ayogavāha + 33
 > consonants. Every Sanskrit word you will ever read is spelled from this set.
 > [REF:whitney1889 §§19–75] [REF:masica1991 ch.6]

@@ -399,7 +399,7 @@ block, then whole word, every vowel at full value, pause form.
 > **Law 2 — mātrā:** any other vowel after a consonant is written as a sign. **Law 3 —
 > mātrā geography:** the sign's position is fixed by the script, regardless of when the
 > vowel is spoken. **Law 4 — the leaning signs:** ं and ः attach to the whole akṣara
-> (ayogavāha). **Law 5 — the grid:** every stop is fully named by place × manner — five
+> (ayogavāha). **And the grid principle:** every stop is fully named by place × manner — five
 > places, five manners, twenty-five letters, no exceptions; and the homorganic-nasal rule
 > of v1.c02.l06 now has all five nasal letters to point to. [REF:whitney1889 §§39–50]
 > [REF:masica1991 ch.6]

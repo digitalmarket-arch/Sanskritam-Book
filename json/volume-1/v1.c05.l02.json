@@ -1,0 +1,438 @@
+{
+  "frontmatter": {
+    "id": "v1.c05.l02",
+    "schema_version": 1,
+    "title": {
+      "sa": "संयुक्ताक्षराणि",
+      "sa_iast": "saṃyuktākṣarāṇi",
+      "hi": "संयुक्ताक्षर — जोड़ने की विधि",
+      "en": "Conjuncts I — The Mechanism"
+    },
+    "volume": 1,
+    "chapter": 5,
+    "lesson": 2,
+    "lesson_type": "script",
+    "cefr": "A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v1.c05.l01"
+    ],
+    "review_of": [
+      "v1.c05.l01"
+    ],
+    "objectives": [
+      {
+        "en": "State the stem-loss mechanism and apply it in both directions — building conjuncts from parts and dissecting them into parts.",
+        "hi": "संयुक्ताक्षर की विधि — पहले व्यञ्जन की खड़ी रेखा का लोप — बताएँ और दोनों दिशाओं में लागू करें: टुकड़ों से जोड़ें, जोड़ को खोलें।"
+      },
+      {
+        "en": "Read and write the transparent conjunct set स्त स्थ स्व न्त न्द त्य क्त.",
+        "hi": "पारदर्शी संयुक्ताक्षर-समूह स्त स्थ स्व न्त न्द त्य क्त पढ़ें और लिखें।"
+      },
+      {
+        "en": "Read the lesson's fourteen words aloud, including नमस्ते and सत्य.",
+        "hi": "पाठ के चौदह शब्द — नमस्ते और सत्य समेत — ज़ोर से पढ़ें।"
+      },
+      {
+        "en": "Explain the Unicode insight: every conjunct stores an invisible virāma between its members.",
+        "hi": "यूनिकोड की बात समझाएँ — हर संयुक्ताक्षर के भीतर, छपाई में अदृश्य, विराम (्) सुरक्षित रहता है।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 14,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-1/v1c05l02-mechanism-plates.svg",
+        "planned:assets/images/volume-1/v1c05l02-stroke-order.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c05l02-drill.mp3",
+        "planned:assets/audio/volume-1/v1c05l02-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c05l02-tracing.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "script",
+      "conjuncts",
+      "devanagari",
+      "milestone"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-31"
+    ],
+    "created": "2026-07-30",
+    "updated": "2026-07-31"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "For four chapters, one word has been on loan. You could *say* नमस्ते from the first day of this\ncourse; you have never once been able to read it. The letters came one by one — म in Chapter 1,\nते in Chapter 2, न in Chapter 3, स in Chapter 4 — and still the word stayed locked, because the\nlock was never a letter. It is a *join*. Today you learn the join, the loan is repaid — and the\nsame small trick opens not one word but thousands."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | State the stem-loss mechanism and apply it in both directions — building conjuncts from parts and dissecting them into parts. | संयुक्ताक्षर की विधि — पहले व्यञ्जन की खड़ी रेखा का लोप — बताएँ और दोनों दिशाओं में लागू करें: टुकड़ों से जोड़ें, जोड़ को खोलें। |\n| 2 | Read and write the transparent conjunct set स्त स्थ स्व न्त न्द त्य क्त. | पारदर्शी संयुक्ताक्षर-समूह स्त स्थ स्व न्त न्द त्य क्त पढ़ें और लिखें। |\n| 3 | Read the lesson's fourteen words aloud, including नमस्ते and सत्य. | पाठ के चौदह शब्द — नमस्ते और सत्य समेत — ज़ोर से पढ़ें। |\n| 4 | Explain the Unicode insight: every conjunct stores an invisible virāma between its members. | यूनिकोड की बात समझाएँ — हर संयुक्ताक्षर के भीतर, छपाई में अदृश्य, विराम (्) सुरक्षित रहता है। |\n\nObjective 1 is built in §5/§8, tested in §18 (exercises 1, 2) and §19 (Q1, Q3, Q4, Q7);\nobjective 2 in §9 and §18 (exercises 1, 2, 5), §19 (Q3–Q5); objective 3 in §14 and §18\n(exercises 3, 4, 6), §19 (Q8); objective 4 in §5 and §19 (Q2)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठ की पुनरावृत्ति — answer from memory *before* looking anything up.\n\n1. State Law 5 of the script — what exactly does the virāma ् do, and what does क् say?\n2. **Write from memory** (self-dictation): अहम्. Which sign closes it, and why is it there?\n3. Why does the script *need* the virāma at all? (Hint: what does Law 1 say an unmarked\n   consonant always carries?)\n4. Read aloud and gloss, cold: सत् · तत् · किम् — every one ends bare.\n5. From v1.c04.l02's promise ledger: नमस्ते is न + म + स्ते, and by yesterday you owned every\n   letter in it. What was the one move still missing?\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. Law 5 — the virāma silences the inherent vowel: क् is /k/ alone, no अ.\n2. अहम् (aham) \"I\" — the final म् wears ्, because the word ends on the bare consonant /m/.\n3. Law 1 gives every unmarked consonant an automatic अ; without a vowel-killer, no bare\n   consonant could ever be written.\n4. सत् (sat) \"being, real\" · तत् (tat) \"that\" · किम् (kim) \"what?\".\n5. The join itself: writing स् vowel-less *and fused* to ते on the page — this lesson.\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — why this script refuses to leave two consonants standing apart.\n\nIn v1.c01.l04 you learned the script's unit: the अक्षर (akṣara) \"syllable block\" — one vowel,\nalone or with consonants in front, written as one visual piece. Today that idea completes\nitself. What happens when a syllable *begins with two consonants* — the /st̪eː/ of नमस्ते? A\nsegment-by-segment script would write them side by side. An akṣara script cannot: one syllable\nmust stay one block. So the block learns to hold two consonants — by fusing them.\n\n> **[HISTORY · इतिहासः]** Devanagari belongs to the Brāhmī family of scripts, attested from the\n> Aśokan inscriptions of the 3rd century BCE. From its earliest records the family has written\n> by the akṣara — and already in those inscriptions consonant clusters appear as fused compound\n> signs, not letter sequences. The conjunct is as old as the writing itself.\n> [REF:masica1991 ch.6]\n\n> **[FACT · तथ्यम्]** The akṣara — not the single letter — is the organizing unit of the\n> Brāhmī-family scripts: vowels ride consonants as mātrās, and consonant clusters fuse into\n> single compound blocks (संयुक्ताक्षर, saṃyuktākṣara \"joined akṣara\"). [REF:masica1991 ch.6]"
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — one mechanism, learned once, applied everywhere.\n\n> **[FACT · तथ्यम्]** A conjunct writes a consonant cluster as a single akṣara: every consonant\n> before the last appears in a **reduced form** — usually its own body minus the vertical stem —\n> and the **last member stands complete and carries the vowel**. [REF:masica1991 ch.6]\n\nWatch it happen to स् + त. Write स; kill its vowel (स्); now, instead of leaving the hanging\nvirāma hook, delete स's vertical stem and slide what remains against त: **स्त**. The reduced स\nhas no stem because it has no vowel — the amputation *is* the virāma, absorbed into the joining.\nWhatever vowel comes next rides the survivor: स्ते, स्ता, स्ति. And here is the part worth\ntelling friends about:\n\n> **[FACT · तथ्यम्]** Type स + ् + त on any phone and the screen shows स्त. The encoding never\n> fuses: what the computer *stores* is always the three-character sequence consonant + virāma +\n> consonant. Even क्ष, which looks nothing like its parents, is stored as क + ् + ष. What print\n> fuses, the machine remembers — the virāma sits invisible inside every conjunct you will ever\n> read. (Unicode Standard, Devanagari block.)\n\nSo Chapter 5's two lessons are one idea: lesson 1 showed the virāma standing visible at\nword-ends (अहम्); today it goes undercover mid-word, and the fusion is its disguise. Finally,\nthe honest scale of the task:\n\n> **[FACT · तथ्यम्]** A few dozen conjuncts cover the overwhelming majority of classical\n> Sanskrit text. The long tail of rare combinations follows the same mechanism you learn today —\n> met by recognition and analysis, not by memorizing hundreds of shapes. [REF:masica1991 ch.6]"
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — today's संज्ञा is **संयुक्ताक्षरम्** (saṃyuktākṣaram) \"joined akṣara\" —\nसंयुक्त \"joined\" + अक्षर. And the unlocked language, at once:\n\nनमस्ते! स्वागतम्!\n(namaste! svāgatam!) \"Greetings! Welcome!\" — नमस्ते! स्वागत है!\n\nसत्यम् वदामि।\n(satyam vadāmi.) \"I speak truth.\" — मैं सच बोलता/बोलती हूँ।\n\nअहम् बालकः अस्मि।\n(aham bālakaḥ asmi.) \"I am a boy.\" — मैं बालक हूँ।\n\nOne honest note: अस्मि (asmi) \"I am\" is glossed whole, like every verb so far. The अहम् … अस्मि\nidentity frame is yours to *use* from today; how verbs conjugate is Volume 2's opening act, and\nwe will not smuggle it in early."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nआज एक भेद खोलने का दिन है: आप बरसों से संयुक्ताक्षर पढ़ते आ रहे हैं — बिना जाने। स्कूल में स्क,\nअच्छा में च्छ, सच्चा में च्च — और सबसे मीठी बात यह कि जिस भाषा का नाम आप रोज़ लिखते हैं, उसी के\nबीच में आज का पाठ बैठा है: हिन्दी के भीतर न्दी है — न की खड़ी रेखा गई, और बचा हुआ रूप दी से सट\nगया। पढ़ने की यह पूँजी आपके पास पहले से है। तो आज मेहनत किस बात की?\n\nपहचान से विश्लेषण तक चढ़ने की। हिन्दी पाठक स्त देखते ही पढ़ लेता है, पर यह पूछने की आदत नहीं\nरखता कि इस जोड़ में किस व्यञ्जन की खड़ी रेखा लुप्त हुई और क्यों। संस्कृत में यही प्रश्न असली\nऔज़ार है, क्योंकि आगे ऐसे जोड़ मिलेंगे जो रोज़ की हिन्दी में विरले हैं — वहाँ अटकल नहीं, विधि\nकाम आएगी। विधि एक ही है: जो व्यञ्जन बिना स्वर का है, वह सिकुड़ता है — अपनी खड़ी रेखा खोकर अगले\nसे जुड़ जाता है; अन्तिम व्यञ्जन पूरा खड़ा रहता है और स्वर उसी पर सवार होता है। जोड़ को देखिए,\nखोलिए, फिर पढ़िए — देखो, तोड़ो, बोलो।\n\nदो चेतावनियाँ, दोनों जानी-पहचानी। पहली: जोड़ के भीतर स्वर मत घुसाइए — स्त एक झटके में /st̪/ है,\n\"स-त\" नहीं। दूसरी: वही पुरानी साथी, अन्तिम अ। हिन्दी की आदत सत्य को \"सत्य्\" कर देती है; संस्कृत\nमें वह पूरा *satya* है — जोड़ सधे और आख़िरी अ भी पूरा बोला जाए, तब शब्द सधा।\n\nऔर आज की बड़ी बात तो आप जानते ही हैं: नमस्ते — जिसे आप जीवन-भर लिखते-पढ़ते आए हैं — आज पहली बार\n*समझकर* लिखेंगे: न, म, फिर बिना स्वर का स् अपनी खड़ी रेखा खोकर ते से जुड़ा हुआ। जाना-पहचाना\nशब्द, पहली बार भीतर से खुला हुआ।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "One machine today — then the moment this course has pointed at since its first page.\n\n### The machine — the silent one shrinks\n\nWrite स and त side by side, full form: सत. That is *sata* — Law 1 gives each its अ. To write\nthe cluster /st̪/ you must silence स — and mid-word, the script silences by *reduction*: स\nloses its vertical stem and leans on त, one block, स्त. The rule in one breath: **the silent\none shrinks; the speaker stands.** The final member keeps its full body and carries the vowel\nfor the whole block. The transparent set, all built by that one move\n(`planned:assets/images/volume-1/v1c05l02-mechanism-plates.svg`):\n\n| Conjunct | Built from | Meet it in |\n|---|---|---|\n| स्त | स् + त | नमस्ते, हस्त |\n| स्थ | स् + थ | स्थान |\n| स्व | स् + व | स्वागतम्, स्वर |\n| न्त | न् + त | अन्त, शान्ति |\n| न्द | न् + द | drills today; चन्द्र \"moon\" in lesson 4 |\n| त्य | त् + य | सत्य, नित्य |\n| क्त | क् + त | शक्ति, भक्त, मुक्त |\n\nAnd the set is not a list to memorize — it is a *rule* that keeps paying: स्म in अस्मि, न्ध in\nगन्ध, स्क in स्कूल and in संस्कृतम् itself. Same move every time.\n\n### The नमस्ते moment\n\nTrack the promise one last time:\n\n| Piece | Arrived |\n|---|---|\n| the word promised | v1.c01.l01 — the first word of the course |\n| म | Chapter 1 — your first writing lesson |\n| ते | Chapter 2 — helper त wearing the e-mātrā |\n| न | Chapter 3 — the dental row |\n| स | Chapter 4 — the sibilants |\n| स् joined to ते | **today** |\n\nNow build it, slowly, on paper: न … म … स् — stem deleted — … ते.\n\n**नमस्ते** (namaste) — /n̪ɐmɐst̪eː/ — \"homage to you.\"\n\nFour chapters of letters, one join, and the course's first word is yours in full: read,\nwritten, understood from the inside. Write it once more, larger. You will write it again in\n§18, and then for the rest of your life.\n\n### The transparent set at work\n\n- **अस्ति** (asti) \"is\" = अ + स्ति. Pause here. This word stood in the first Sanskrit sentence\n  this course ever showed you — संस्कृतं भाषा अस्ति (v1.c01.l01 §6) — and has worked in every\n  chapter since as a 🔊 loan, always heard, never read. The oldest glue word of the course\n  retires today: the word that held our stories together now belongs to you.\n- **स्वागतम्** (svāgatam) \"welcome\" = स्वा + ग + त + म् — स्व wearing ा, lesson 1's म् closing.\n- **सत्य** (satya) \"truth\" and **नित्य** (nitya) \"eternal, daily\" — the त्य pair; §13 opens\n  सत्य up.\n- **शान्ति** (śānti) \"peace\" = शा + न्ति — the न्त block wearing ि.\n- **शक्ति** (śakti) \"power\", **भक्त** (bhakta) \"devoted\", **मुक्त** (mukta) \"released\" — the\n  क्त family: velar closure released straight into the dental.\n- **हस्त** (hasta) \"hand\" and **अन्त** (anta) \"end\" — स्त and न्त mid-word.\n- **गन्ध** (gandha) \"scent\" and **अस्मि** (asmi) \"I am\" — the rule generalizing before your\n  eyes: न्ध and स्म were never drilled, yet you just read both.\n- **स्थान** (sthāna) \"place\" — स्थ with the full puff of थ intact (§10).\n- **स्वर** (svara) — the course's own term for \"vowel\", used since v1.c01.l02, readable at\n  last. And one door ajar: the स्क in संस्कृतम् (saṃskṛtam) is स् + क — the course's own name\n  is now mechanically within reach of your hand. The chapter exam makes that ceremony."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is reading fluency. Audio: 🔊\n`planned:assets/audio/volume-1/v1c05l02-drill.mp3` (drills 1, 2, 4), 🔊\n`planned:assets/audio/volume-1/v1c05l02-word-list.mp3` (drill 3 + dictation track).\n\n**Drill 1 — the analysis ladder: see, split, say.** For each of स्त स्थ स्व न्त न्द त्य क्त:\n*see* the block; *split* it aloud (\"स् plus त\"); *say* it as one onset with अ — [st̪ɐ]. Three\npasses over the seven, shuffling order. The chant is the habit: see — split — say.\n\n**Drill 2 — cluster timing: no vowel inside.** Alternate slowly: सत (sata) — स्त (sta); तय\n(taya) — त्य (tya). Two beats, then one onset. English speakers: you already do this in *stop*\nand *best* — trust the habit. Hindi speakers: it is the स्कूल join, nothing new. Then the\ndanger pair: स्त vs स्थ — tissue in front of the lips; it barely stirs on स्त and *jumps* on\nस्थ. (English \"st\" secretly deletes the puff; Sanskrit keeps स्त and स्थ distinct.)\n\n**Drill 3 — words, block by block.** From the audio, each §14 word twice: first by blocks\n(न-म-स्ते, शा-न्ति, स्था-न), then whole. Every cluster one onset; every final अ full.\n\n**Drill 4 — the timed grid.** The worksheet's 4×5 grid mixes the seven conjuncts and thirteen\nword-cards. Pass 1: split every item aloud (untimed, accuracy only). Pass 2: read straight\nthrough against the clock. Note the time; you race only yourself — tomorrow's re-run (§20)\nshould be smoother, not rushed."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new symbols — new *timing*. A conjunct is consonants back to back with zero vowel between:\nस्त /st̪/, क्त /kt̪/, न्त /n̪t̪/, त्य /t̪j/, स्व /sʋ/.\n\n**Word transcriptions:** नमस्ते /n̪ɐmɐst̪eː/ · सत्य /sɐt̪jɐ/ · शक्ति /ɕɐkt̪i/ · स्थान\n/st̪ʰɑːn̪ɐ/ · अस्मि /ɐsmi/ · गन्ध /gɐn̪d̪ʱɐ/.\n\n**Narrow notes:** in मुक्त the velar closes and releases *directly into* the dental — [mukt̪ɐ],\nnever [mukɐt̪ɐ]; the inserted [ɐ] is §12's error 4 in phonetic dress. In स्थान the aspiration\nbelongs to थ and survives the cluster: [st̪ʰɑː] — hand before the lips, feel the puff after the\ns. In शान्ति the nasal is dental [n̪] because त is dental — nasal and stop share one address,\nwhich is why the join feels effortless."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — nothing new to place; something new to *withhold*.\n\n1. **The held bridge.** Say हस्त very slowly: ह, then the tongue reaches the teeth for the स\n   hiss — and *stays on the teeth* for त. One address, one gesture, no vowel between.\n2. **Mirror check.** Watch your jaw through स्त: it must not bounce open between स् and त. A\n   bounce means a vowel sneaked in — you said सत.\n3. **Hand check.** Palm before the lips on स्थान: one steady hiss, then the थ puff. On हस्त:\n   hiss, soft dental contact, no puff. The tissue test from Chapter 3 still referees."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **A vowel smuggled into the cluster.** स्त said as \"sa-ta\", क्त as \"ka-ta\". *Fix:* drill 2's\n   timing contrast — सत vs स्त; English *stop* and Hindi स्कूल prove you own the skill; the\n   reduced form's whole message is \"no vowel here\".\n2. **Full forms written side by side.** Asked for नमस्ते, the pen writes नमसते — four full\n   blocks, which reads *namasate*: a different non-word, because Law 1 hands the full-form स an\n   अ. *Fix:* the board test — if both consonants stand full, both keep their vowels. The silent\n   one must shrink.\n3. **The wrong member shrinks.** हस्त written with त reduced instead of स. *Fix:* the chant —\n   the silent one shrinks, the speaker stands. The vowel-less *first* member loses its stem;\n   the survivor on the right carries the vowel. Dissect left to right, always.\n4. **A conjunct read as two akṣaras.** मुक्त read as \"mukata\", शक्ति as \"śakati\" — the eye\n   missed the fused block. *Fix:* scan the word for missing stems *before* reading (drill 1's\n   habit); one block, one onset. The timed grid builds the reflex."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three words with something inside them.\n\n### सत्य — truth is made of \"what is\"\n\n**सत्य** (satya) \"truth\" — सच · /sɐt̪jɐ/\n\n> **[FACT · तथ्यम्]** सत्य is built on सत् (sat) \"being, real\" — lesson 1's word — with the\n> suffix -य: truth as \"the quality of what is.\" [REF:apte1890 s.v. सत्य]\n\nOne line of morphology, no more — word-building gets its full treatment in later volumes. But\nnotice what just happened: you read a word's *inside*, not only its sound.\n\n### शान्ति — the word you could not read, three times\n\n**शान्ति** (śānti) \"peace\" — शान्ति · /ɕɑːn̪t̪i/\n\n> **[TRADITION · परम्परा]** Upaniṣadic recitation practice frames its texts with a śānti-pāṭha\n> — a peace invocation — whose closing words are ॐ शान्तिः शान्तिः शान्तिः (oṃ śāntiḥ śāntiḥ\n> śāntiḥ): peace, spoken three times. Volume 5 presents the practice and its texts in full.\n> Today, simply read the line — every sign in it is yours.\n\n### नमस्ते — the anatomy of a greeting\n\n**नमस्ते** (namaste) \"greetings; homage to you\" — नमस्ते · /n̪ɐmɐst̪eː/\n\n> **[FACT · तथ्यम्]** नमस्ते is two words joined: नमः (namaḥ) \"homage, a bow\" + ते (te) \"to\n> you\" — \"homage to you.\" The ः→स् change at the seam is a sound-joining rule — sandhi, Volume\n> 3's story. The स्ते join on the page is today's. [REF:apte1890 s.v. नमस्]\n\nनमः has been readable since v1.c03.l04, where this decomposition was first promised. Now the\nwhole word is transparent: a bow, offered *to you* — which is why the course could never let it\nstay a mere \"hello\"."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — fourteen words, every one built from parts you own; no 🔊 loans anywhere in this\nlesson, a first. Audio: 🔊 `planned:assets/audio/volume-1/v1c05l02-word-list.mp3` (model\nreading, each word twice, plus the dictation track).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| नमस्ते | namaste | /n̪ɐmɐst̪eː/ | greetings (homage to you) | नमस्ते | the promise kept (§8); नमः + ते (§13) |\n| अस्ति | asti | /ɐst̪i/ | is | है | the oldest glue word, retired (§8) |\n| स्वागतम् | svāgatam | /sʋɑːgɐt̪ɐm/ | welcome | स्वागत | स्व + ा; final म् from lesson 1 |\n| सत्य | satya | /sɐt̪jɐ/ | truth | सत्य, सच | सत् + य (§13); final अ full |\n| नित्य | nitya | /n̪it̪jɐ/ | eternal, daily | नित्य | त्य again — the pair of सत्य |\n| शान्ति | śānti | /ɕɑːn̪t̪i/ | peace | शान्ति | न्ति = न्त + ि (§8, §13) |\n| शक्ति | śakti | /ɕɐkt̪i/ | power | शक्ति | क्त wearing ि |\n| भक्त | bhakta | /bʱɐkt̪ɐ/ | devoted | भक्त | breathy भ, then क्त |\n| मुक्त | mukta | /mukt̪ɐ/ | released | मुक्त, छूटा हुआ | [mukt̪ɐ], never \"mukata\" (§12) |\n| हस्त | hasta | /ɦɐst̪ɐ/ | hand | हाथ | स्त mid-word |\n| अन्त | anta | /ɐn̪t̪ɐ/ | end | अन्त | the word in §2's Hindi line — इस पाठ के अन्त में |\n| गन्ध | gandha | /gɐn̪d̪ʱɐ/ | scent | गन्ध, महक | न्ध — the rule generalizing (§8) |\n| स्थान | sthāna | /st̪ʰɑːn̪ɐ/ | place | स्थान, जगह | स्थ keeps थ's puff (§10) |\n| अस्मि | asmi | /ɐsmi/ | I am | (मैं) हूँ | whole-word gloss; frame verb of §16 |\n\nReading protocol, as always: block by block (न-म-स्ते), then the whole word, then the audio.\nSee — split — say; no vowel inside any cluster; no final अ clipped."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in Volume 1 this is a **script rule**: the law behind today, and how the pen\nperforms it.\n\n### Law 6 — the conjunct\n\n> **[FACT · तथ्यम्]** **Law 6 — the conjunct:** inside an akṣara, every consonant before the\n> last is written in reduced form — usually its body minus the vertical stem — and the last\n> member alone stands complete and carries the vowel. The virāma is this law's invisible\n> engine: a conjunct *is* consonant + ् + consonant, fused for the eye but not for the machine\n> (§5). [REF:masica1991 ch.6] [REF:whitney1889 §9]\n\nLaw 5 silences a consonant at word-end with a visible mark (अहम्); Law 6 silences one mid-word\nby reduction. Two costumes, one vowel-killer.\n\n> **[FACT · तथ्यम्]** Devanagari forms conjuncts in three patterns: **horizontal** joining\n> (stem-loss — today's set), **vertical stacking** (one letter atop another, mostly the ट-varga\n> and क्क: ट्ट, ङ्क), and a small set of **irregular fused shapes** learned as units — क्ष,\n> त्र, ज्ञ, श्र, द्ध and kin. [REF:masica1991 ch.6]\n\nToday's horizontal pattern is the workhorse. The stacks get a nod in the chapter exam; the\nirregulars are the next lesson's whole subject — with the §5 Unicode insight along as your\nX-ray, because even क्ष confesses its parents to the machine.\n\n### Stroke order — joined forms\n\nCourse convention as ever — body first, headline last; the stroke card\n(`planned:assets/images/volume-1/v1c05l02-stroke-order.svg`) is the authority.\n\n- **Order of work:** write the reduced first member (its body minus stem, snug and small),\n  then the full second member close against it — no daylight between them — then one shared\n  headline across the whole block, then mātrās in their usual places: स्ते, न्ति, क्ता.\n- **The नमस्ते line:** न (full), म (full), then the joined block स्ते. Three blocks, one word.\n  The tracing sheet's ceremony row (§18, exercise 4) walks it stroke by stroke.\n- **Self-check:** cover the right member of your conjunct — what remains should look\n  *incomplete*, a body missing its stem. If it looks like a whole letter, you wrote mistake 2\n  (§12)."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — the greeting exchange, at last with nothing borrowed: every word below is\nself-read. 🔊 audio recorded into the Chapter 5 drill pack (§27).\n\n— नमस्ते!\n(namaste!) \"Greetings!\" — नमस्ते!\n\n— नमस्ते! स्वागतम्!\n(namaste! svāgatam!) \"Greetings! Welcome!\" — नमस्ते! स्वागत है!\n\n— कः भवान्?\n(kaḥ bhavān?) \"Who are you?\" — आप कौन हैं?\n\n— अहम् बालकः अस्मि।\n(aham bālakaḥ asmi.) \"I am a boy.\" — मैं बालक हूँ।\n\nSwap roles and answer as yourself — अहम् कमला अस्मि, अहम् रामः अस्मि — any name you own. The\nframe अहम् … अस्मि is used whole, like all our verbs; its grammar opens Volume 2. कः and भवान्\nare lesson 1's question kit doing its first full day's work."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — नमस्ते! नमस्ते! · The Greeting Day. Six lines; each line: Devanagari, IAST, English,\nHindi.\n\n1. गुरुः वदति — नमस्ते!\n   (guruḥ vadati — namaste!) \"The teacher says: Greetings!\" — गुरु कहते हैं — नमस्ते!\n2. बालकः हसति — नमस्ते! नमस्ते!\n   (bālakaḥ hasati — namaste! namaste!) \"The boy laughs: Greetings! Greetings!\" — बालक हँसता\n   है — नमस्ते! नमस्ते!\n3. सीता वदति — स्वागतम्!\n   (sītā vadati — svāgatam!) \"Sītā says: Welcome!\" — सीता कहती है — स्वागत है!\n4. कमला वदति — ततः? ततः?\n   (kamalā vadati — tataḥ? tataḥ?) \"Kamalā says: Then? Then?\" — कमला कहती है — फिर? फिर?\n5. गुरुः वदति — शान्तिः! शान्तिः! शान्तिः!\n   (guruḥ vadati — śāntiḥ! śāntiḥ! śāntiḥ!) \"The teacher says: Peace! Peace! Peace!\" — गुरु\n   कहते हैं — शान्ति! शान्ति! शान्ति!\n6. ततः गुरुः हसति।\n   (tataḥ guruḥ hasati.) \"Then the teacher laughs.\" — तभी गुरु भी हँस पड़ते हैं।\n\nKamalā still wants the next story; the teacher's triple शान्तिः is a wink you can now read\n(§13). And one more thing — the meta-moment this lesson owes you. Here, verbatim, is the very\nfirst conversation this course ever printed, in v1.c01.l01 §16, on a day you could not read\none letter of it:\n\n> — नमस्ते! (namaste!) \"Greetings!\" — नमस्ते!\n>\n> — नमस्ते! (namaste!)\n\nIt has waited five chapters. Read it now — it is the easiest thing on this page, and that is\nexactly the point. Its third line, back then, had to be English: *\"My name is Maya. What's\nyours?\"* Today you could answer her in Sanskrit: नमस्ते! अहम् माया अस्मि।"
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 3, 4 and 6 are production tasks. Do them in order.\n\n**अभ्यासः 1 · योजनम् (build the conjunct — production).** On paper, join each pair, then use it\nin the word: स् + त (→ हस्त) · स् + थ (→ स्थान) · स् + व (→ स्वागतम्) · न् + त (→ अन्त) ·\nन् + द · त् + य (→ नित्य) · क् + त (→ मुक्त). Self-check with §8's table and §15's cover test:\ndoes your left member look incomplete?\n\n**अभ्यासः 2 · विश्लेषणम् (dissect — written).** Split each into its full parts, virāma\nincluded, left to right: स्त · क्त · त्य · न्द · शक्ति · अस्ति · गन्ध · अस्मि. (Model: स्त =\nस + ् + त.) The last two were never drilled — the rule, not the list, answers.\n\n**अभ्यासः 3 · श्रुतलेखनम् (dictation — production).** Play the dictation track 🔊 (in the\nword-list audio): ten §14 words in random order, each read twice with a writing pause. Write\nthem in Devanagari. Self-check against §14: every cluster joined? The right member shrunk — or\nthe wrong one? 8/10 is a pass; re-take tomorrow either way (§20).\n\n**अभ्यासः 4 · नमस्ते-लेखनम् (the ceremony — production).** Print the tracing worksheet ✍\n(`planned:assets/worksheets/volume-1/v1c05l02-tracing.pdf`). Trace the seven conjuncts, then\nthe words, then the ceremony row: नमस्ते five times, large, best strokes you have. Under the\nfifth, write the date. The course promised you this word in its first lesson; the page where\nyou kept the promise is worth keeping.\n\n**अभ्यासः 5 · द्रुतवाचनम् (timed reading).** Run §9 drill 4's grid twice as prescribed: split\npass untimed, straight pass timed. Log both the time and every stumble; stumbles are tomorrow's\nchecklist, the time is only a mirror.\n\n**अभ्यासः 6 · वाक्यरचना (sentence assembly — production).** Word tiles: नमस्ते · स्वागतम् ·\nअहम् · अस्मि · बालकः · रामः · कमला · सत्यम् · वदामि. (a) Assemble and write the §16 exchange\nfrom memory, daṇḍas included. (b) Build **two new** lines with the अहम् … अस्मि frame and one\nwith सत्यम् वदामि; record yourself reading all of them — clusters one onset, final vowels full,\nthe -ते of नमस्ते a steady long /eː/."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. In a two-consonant conjunct, what happens to the first member? (a) it is written full, side\n   by side with the second (b) it loses its vertical stem and joins the second in reduced form\n   (c) it is deleted entirely (d) it moves to the end of the word\n2. What does a computer store for the printed block स्त? (a) a single special character (b) स +\n   त, nothing else (c) स + ् + त — the virāma sits invisibly inside (d) त + ् + स\n3. Build it: स् + थ = ? (a) स्थ (b) स्त (c) सथ (d) थ्स\n4. Dissect it: शक्ति = ? (a) श + क + त + ि (b) श + क् + त + ि (c) श् + क + त + ि (d) श + क +\n   ् + ी\n5. A learner reads मुक्त as \"mukata\". What happened? (a) nothing — that is correct (b) a vowel\n   was inserted inside the cluster; the block is one onset: [mukt̪ɐ] (c) the vowel length was\n   wrong (d) मुक्त contains no conjunct\n6. नमस्ते is, by formation: (a) a single unanalyzable word (b) नमः \"homage\" + ते \"to you\" —\n   the ḥ→s change at the seam being a sound-joining rule (c) न + मस् + ते (d) a modern coinage\n7. In every conjunct, the vowel of the block is carried by: (a) the first member (b) the virāma\n   (c) the last member, which alone stands in full form (d) a separate letter\n8. Reading check — write the English meaning of each: (a) अस्ति (b) हस्त (c) स्थान\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) reduced form, stem lost, joined left (§5). ((a) is §12's mistake 2 — it would read with\n   two vowels.)\n2. (c) consonant + virāma + consonant — the virāma is inside every conjunct (§5).\n3. (a) स्थ — the silent स shrinks, थ stands (§8). ((b) drops the aspiration; (c) is mistake 2.)\n4. (b) श + क् + त + ि — क is the silent, reduced member (§8, exercise 2).\n5. (b) a vowel smuggled into the cluster — §12 mistake 4; fix with the timing drill.\n6. (b) नमः + ते, \"homage to you\"; the seam-change is sandhi, Volume 3 (§13).\n7. (c) the last member — full form, vowel-carrier (§5). The silent one shrinks; the speaker\n   stands.\n8. (a) अस्ति = \"is\"; (b) हस्त = \"hand\"; (c) स्थान = \"place\" (§14).\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The law:** the silent one shrinks, the speaker stands — first member loses its stem, last\n> member carries the vowel. **The glue:** the virāma sits invisible inside every conjunct —\n> consonant + ् + consonant is what the machine stores. **The set:** स्त स्थ स्व न्त न्द त्य\n> क्त — and the rule keeps generalizing (स्म, न्ध, स्क). **The traps:** no vowel inside the\n> cluster; never two full forms side by side. **The words:** fourteen, नमस्ते and अस्ति\n> leading. **The promise:** kept.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-take the dictation (exercise 3) cold; re-run the timed grid — smoother, not\n  rushed; read the story aloud, clusters one onset.\n- **In 1 week:** lesson 3 brings the irregular ligatures — they lean on today's mechanism and\n  the Unicode X-ray; the chapter exam's two-way conjunct task is exercises 1–2 at full speed.\n- **From now on:** the analysis habit rides along on every Devanagari sign you pass — see,\n  split, say."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 3 and 4 if not completed in class — the dictation pass and the\n   tracing sheet through the dated नमस्ते ceremony row.\n2. **(5 min)** Re-run the timed grid (exercise 5) once; log time and stumbles under yesterday's.\n3. **(10 min, real world)** The conjunct hunt: on Hindi signs, packaging, or headlines, find\n   four conjuncts. Copy each and dissect it in the margin — which member lost its stem? Bring\n   the finds to class; the strangest one wins the board.\n4. **(5 min, teach-back)** Teach someone the machine using नमस्ते: write नमसते in four full\n   blocks, let them hear that it says *namasate*; erase स's stem, slide it against ते, and\n   watch the word appear. Then greet them properly — steady long /eː/.\n\nTomorrow, before anything else: the 1-day re-dictation (§20). The gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**Stage the moment — do not narrate it.** The lesson has one summit and it must land in\nsilence. Board: write नमसते in four full blocks and ask the room to read it slowly by the laws\nthey know — they will produce *namasate* and hear that it is wrong. Say nothing. Erase स's\nstem, slide the remainder against ते, step aside. The room will read नमस्ते before you name it.\n*Then* recount the ledger — promised in lesson one, म Chapter 1, ते Chapter 2, न Chapter 3, स\nChapter 4, joined today — and let them write it.\n\n**Timing plan (45 min):** §3 retrieval, written (5) → hook: the loan ledger (2) → the machine\non the board: सत → स्त, the three steps, the Unicode aside (8) → the seven-set with the\nsee-split-say chorus (7) → THE नमस्ते MOMENT staged as above (8) → word list in pairs, analysis\naloud (6) → stroke order + tracing start, ceremony row assigned (5) → exercises 1–2 quick-fire\n(2) → homework briefing incl. the conjunct hunt (2).\n\n**The analysis habit is the week's real skill.** Recognition comes free with exposure;\n*dissection* is what lessons 3–4 and the exam's two-way task demand. Insist on left-to-right\nsplits spoken aloud, virāma named every time. A student who reads a conjunct but cannot split\nit is not done.\n\n**Differentiation:** Hindi-literate learners read everything on sight — move them straight to\nproduction and hold them to the two Sanskrit disciplines: full final vowels (सत्य, not \"saty\")\nand the स्त/स्थ contrast; make them dictation referees. English-habit learners own cluster\ntiming natively (*stop*, *best*) — their work is the pen: which member shrinks, no daylight in\nthe join. Watch both groups on mistake 3; it hides in neat handwriting.\n\n**What students find hard:** believing \"a few dozen cover most text\" (circle the conjuncts in\nany Sanskrit paragraph — the same few keep appearing); trusting the rule instead of memorizing\nshapes (the अस्मि/गन्ध reveal in §8 is the cure — let them read those unprompted); and the\nquiet beat of §17 — give the reprinted first dialogue ten unhurried seconds."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-1/v1c05l02-mechanism-plates.svg`**\n\n> Educational plate sequence, warm off-white, Noto Serif Devanagari, ink-black, two colors,\n> monochrome-safe. Panel A: स and त as separate full blocks, caption \"sata — two vowels\".\n> Panel B: स's vertical stem highlighted, then deleted (dotted ghost), caption \"the silent one\n> shrinks\". Panel C: fused स्त, one shared headline, caption \"sta — one block, one onset\".\n> Panel D: the survivor carrying mātrās — स्ते स्ता स्ति. Strip below: the seven-conjunct\n> gallery स्त स्थ स्व न्त न्द त्य क्त with components in small type. Footer, machine-view\n> styling: \"stored: स + ् + त → shown: स्त · stored: क + ् + ष → shown: क्ष — the virāma is\n> inside.\" Devanagari must render exactly as given.\n\n**Asset 2 — `planned:assets/images/volume-1/v1c05l02-stroke-order.svg`**\n\n> Stroke-order chart, Noto Serif Devanagari outlines, numbered arrows, convention \"body →\n> headline\". Row 1: स्त in 3 panels — reduced स body (no stem), full त snug against it, shared\n> headline last. Row 2: same procedure on न्त, त्य, क्त. Inset A: the cover test — right member\n> hidden, left member visibly incomplete, caption \"the left piece must look unfinished\". Inset\n> B: WRONG forms struck through — नमसते (full forms side by side) and a त-reduced हस्त. Row 3:\n> the guided word न, म, स्ते with numbered strokes, mātrā last. Footer: हस्त · अन्त · शान्ति ·\n> स्थान. Two colors, monochrome-safe.\n\n**Asset 3 — `planned:assets/worksheets/volume-1/v1c05l02-tracing.pdf` (layout spec)**\n\n> A4 tracing worksheet, portrait, ruled guides with headline. Row 1: स्त स्थ स्व न्त न्द त्य\n> क्त dotted once each + freehand boxes. Row 2: अस्ति, सत्य, शान्ति, शक्ति, हस्त, स्थान dotted\n> once + freehand boxes. Row 3 (flag icon): THE CEREMONY ROW — नमस्ते large, one solid model\n> with numbered strokes, five guided repeats, a ruled date line beneath, caption \"the day the\n> promise was kept\". Row 4: sentence line नमस्ते! सत्यम् वदामि। dotted once + one freehand\n> line, daṇḍa included. Row 5: the 4×5 timed-reading grid (§9 drill 4) with a time-log box.\n> Footer chants: \"the silent one shrinks\" · \"no vowel inside the cluster\" · \"accuracy before\n> speed\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:35):** a ledger animation — नमस्ते stamped \"ON LOAN\" in lesson 1; letters\n   check in one by one (म ✓ ते ✓ न ✓ स ✓) across chapter cards; the join slot pulses empty.\n   Title: संयुक्ताक्षराणि — Conjuncts I.\n2. **The machine (0:35–2:00):** सत on screen, read aloud \"sa-ta\"; स's stem highlighted,\n   deleted, the block fuses to स्त; caption \"the silent one shrinks; the speaker stands.\" The\n   machine-view aside: typing स + ् + त, screen shows स्त; caption \"the virāma is inside.\"\n3. **The seven (2:00–3:00):** the gallery builds — स्त स्थ स्व न्त न्द त्य क्त — each splitting\n   and re-fusing on the beat of \"see — split — say\"; words flash: हस्त, स्थान, अन्त, सत्य,\n   शक्ति.\n4. **THE MOMENT (3:00–4:30):** the screen quiets. न … म … स् … ते assemble slowly; the stem\n   dissolves; नमस्ते stands complete. The ledger stamps \"REPAID\". Beat of silence. Then the\n   v1.c01.l01 dialogue card reappears exactly as first printed — नमस्ते! — नमस्ते! — with a\n   reading cursor moving under it. Caption: \"You are reading the first page of this course.\"\n5. **Recap + CTA (4:30–6:00):** the transparent set recapped; अस्ति retired with a small bow\n   (\"the oldest glue word — yours now\"); end card: \"Next: क्ष, त्र, ज्ञ — the irregulars.\n   Bring the X-ray.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the narrator\nreads them as IPA, not as English spelling.\n\n- **00:00** For four chapters, one word has been on loan. You could say it — namaste\n  [n̪ɐmɐst̪eː] — from your very first day. You have never been able to read it. Today the loan\n  is repaid.\n- **00:35** Here is the whole trick. Two letters, side by side: sa-ta [sɐ t̪ɐ]. Two blocks, two\n  vowels. But the cluster we need — sta [st̪ɐ] — has no vowel between. So the silent letter\n  gives up its vertical stem and leans on its neighbor. One block now. One onset.\n- **01:20** And your phone knows a secret: what it stores for that fused block is still three\n  characters — consonant, virāma, consonant. The vowel-killer from last lesson sits invisible\n  inside every conjunct ever printed. What print fuses, the machine remembers.\n- **02:00** Seven joins today — sta, stha, sva, nta, nda, tya, kta [st̪ɐ st̪ʰɐ sʋɐ n̪t̪ɐ n̪d̪ɐ\n  t̪jɐ kt̪ɐ] — and one chant: see, split, say.\n- **03:00** Now — quiet. Watch. na [n̪ɐ]. ma [mɐ]. s — no vowel — te [t̪eː]. The stem\n  dissolves. Read it. (Pause.) namaste [n̪ɐmɐst̪eː]. Homage — to you. Four chapters of letters,\n  one join, and the first word of this course is yours in full.\n- **04:10** And so is this: the first conversation we ever printed, back when you could not\n  read one letter of it. Read it now. It is the easiest thing on the screen — and that is\n  exactly the point.\n- **04:45** Fourteen words come with the trick: asti [ɐst̪i] — *is* — the oldest borrowed word\n  of the course, retired today. satya [sɐt̪jɐ] — truth. śānti [ɕɑːn̪t̪i] — peace.\n- **05:25** Next time: the rebels — kṣa, tra, jña — the joins that hide their parents. Bring\n  today's X-ray. namaste [n̪ɐmɐst̪eː] — and this time, you can read it."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** slow zoom on नमस्ते: \"You've said this word your whole life. Could you\n  build it?\"\n- **Demo (0:07–0:30):** speed-run: सत reads \"sa-ta\" — wrong buzzer; स's stem dissolves, स्त\n  fuses — \"the silent one shrinks.\" Then the full build: न + म + स् + ते → नमस्ते, stamp:\n  \"homage to you.\" Machine-view beat: \"your phone stores an invisible vowel-killer inside every\n  one of these.\"\n- **Payoff (0:30–0:43):** \"One trick. Thousands of words.\" Rapid reveals: सत्य truth · शान्ति\n  peace · शक्ति power · अस्ति is.\n- **CTA (0:43–0:50):** \"This is Sanskritam — the promise from lesson one, kept in Chapter 5.\n  Next: the rebels क्ष, त्र, ज्ञ.\" End card: संयुक्ताक्षराणि."
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-1/v1c05l02-mechanism-plates.svg` — §5, §8 table, §23 prompt 1.\n    **Chapter keystone:** the exam's two-way conjunct task (v1.c05.l05) keys against this\n    plate's seven-set and component captions; forms must match §8 exactly.\n  - `assets/images/volume-1/v1c05l02-stroke-order.svg` — §15, §23 prompt 2 (the wrong-forms\n    inset feeds §12 mistakes 2–3)\n  - `assets/audio/volume-1/v1c05l02-drill.mp3` — §9 drills 1, 2, 4 (must include the सत/स्त ·\n    तय/त्य timing contrasts and a paced grid-reading pass with transcript)\n  - `assets/audio/volume-1/v1c05l02-word-list.mp3` — §14 model reading, §9 drill 3, §18\n    exercise 3 (randomized 10-word dictation track with transcript)\n  - `assets/worksheets/volume-1/v1c05l02-tracing.pdf` — §18 exercises 4–5, §23 asset 3\n    (ceremony row with date line; timed grid with log box)\n  - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 5\n    drill pack (chapter.md manifest) and back-link here when they exist.\n- **Related lessons:** reviews v1.c05.l01 (virāma, Law 5, अहम्; extended here into Law 6);\n  completes the promise opened in v1.c01.l01 §16 (dialogue reprinted verbatim in §17) and\n  tracked through v1.c03.l04 (नमः + the decomposition FACT reused in §13), v1.c04.l02 and\n  v1.c04.l03/l04 (promise-tracker rows closed here); builds on v1.c01.l04 (akṣara as unit →\n  §4), v1.c02.l04 (e-mātrā in ते), v1.c02.l06 (कः; visarga in शान्तिः), the Chapter 3 cast\n  (कमला, ततः) and v1.c04.l02 (सीता, स); feeds v1.c05.l03 (irregulars via the Unicode X-ray),\n  v1.c05.l04 (चन्द्र redeems the न्द drill), v1.c05.l05 (two-way conjunct exam; milestone\n  line), Volume 2 (अस्मि conjugation — promised, not smuggled), Volume 3 (the नमः + ते seam =\n  sandhi), Volume 5 (the śānti-pāṭha in full).\n- **Glossary:** **संयुक्ताक्षर (saṃyuktākṣara) is first-taught here** — add to GLOSSARY.md in\n  the post-chapter loop (suggested hi gloss: जुड़े व्यञ्जनों का एक अक्षर); विराम is\n  first-taught in v1.c05.l01 — confirm both land together; अक्षर is still pending from the\n  v1.c01.l04 flag. Reuses वर्ण, स्वर, व्यञ्जन, विसर्ग, मात्रा per GLOSSARY.md.\n- **Verification flags for Pass C:** Brāhmī dating + early conjuncts (§4 HISTORY) against\n  [REF:masica1991 ch.6]; mechanism + three patterns (§5, §15) against research notes 0.2–0.3;\n  the Unicode claim (§5, §15, §19 Q2) carries inline attribution (Unicode Standard, Devanagari\n  block) because no REFERENCES.md key exists — same handling as v1.c01.l01's census claim;\n  frequency claim (§5) kept number-free per the banned-claims rule (research note 0.7); सत्य\n  formation and नमस्ते = नमः + ते (§13) against [REF:apte1890 s.v. सत्य / s.v. नमस्], wording\n  consistent with v1.c03.l04 §8; the śānti-pāṭha note stays TRADITION, source-named, never\n  assessed. **Law-numbering flag for Pass D:** this lesson and chapter.md count the script-law\n  series as 1–4 (v1.c02.l07) + 5 virāma (v1.c05.l01) + 6 conjunct (here); the c03/c04 reviews\n  used \"Law 5\" for the varga grid — editorial reconciliation needed before `in_review`.\n- **Export notes:** zero 🔊 audio-only items anywhere in this lesson — a course first (§14\n  note); अस्ति formally retires from the glue-word list (update the tracker data); §19 key\n  stays inside `<details>` in all renders; §8's tables and §14 may scroll horizontally on\n  mobile, never wrap cells; IPA strings contain combining characters (t̪, n̪, d̪ʱ) — NFC\n  applies to Devanagari fields only (STYLE_GUIDE §3), never to IPA; the deliberately wrong form\n  नमसते (§12, §21–§23) is intentional — exclude it from auto-transliteration spot checks aimed\n  at real words.\n- **Register audit:** FACT ×7 (§4 akṣara-unit ×1 · §5 mechanism + Unicode + frequency ×3 · §13\n  सत्य + नमस्ते ×2 · §15 Law 6 ×1; §15's three-patterns callout restates research note 0.3 and\n  is counted with Law 6's block) · HISTORY ×1 (§4 Brāhmī, cited) · TRADITION ×1 (§13\n  śānti-pāṭha, source-named) · SYMBOL ×0 — quiz Q1–Q8 all FACT-register content; the TRADITION\n  note is never assessed."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "नमस्ते",
+      "iast": "namaste",
+      "ipa": "/n̪ɐmɐst̪eː/",
+      "en": "greetings (homage to you)",
+      "hi": "नमस्ते",
+      "notes": "the promise kept (§8); नमः + ते (§13)"
+    },
+    {
+      "deva": "अस्ति",
+      "iast": "asti",
+      "ipa": "/ɐst̪i/",
+      "en": "is",
+      "hi": "है",
+      "notes": "the oldest glue word, retired (§8)"
+    },
+    {
+      "deva": "स्वागतम्",
+      "iast": "svāgatam",
+      "ipa": "/sʋɑːgɐt̪ɐm/",
+      "en": "welcome",
+      "hi": "स्वागत",
+      "notes": "स्व + ा; final म् from lesson 1"
+    },
+    {
+      "deva": "सत्य",
+      "iast": "satya",
+      "ipa": "/sɐt̪jɐ/",
+      "en": "truth",
+      "hi": "सत्य, सच",
+      "notes": "सत् + य (§13); final अ full"
+    },
+    {
+      "deva": "नित्य",
+      "iast": "nitya",
+      "ipa": "/n̪it̪jɐ/",
+      "en": "eternal, daily",
+      "hi": "नित्य",
+      "notes": "त्य again — the pair of सत्य"
+    },
+    {
+      "deva": "शान्ति",
+      "iast": "śānti",
+      "ipa": "/ɕɑːn̪t̪i/",
+      "en": "peace",
+      "hi": "शान्ति",
+      "notes": "न्ति = न्त + ि (§8, §13)"
+    },
+    {
+      "deva": "शक्ति",
+      "iast": "śakti",
+      "ipa": "/ɕɐkt̪i/",
+      "en": "power",
+      "hi": "शक्ति",
+      "notes": "क्त wearing ि"
+    },
+    {
+      "deva": "भक्त",
+      "iast": "bhakta",
+      "ipa": "/bʱɐkt̪ɐ/",
+      "en": "devoted",
+      "hi": "भक्त",
+      "notes": "breathy भ, then क्त"
+    },
+    {
+      "deva": "मुक्त",
+      "iast": "mukta",
+      "ipa": "/mukt̪ɐ/",
+      "en": "released",
+      "hi": "मुक्त, छूटा हुआ",
+      "notes": "[mukt̪ɐ], never \"mukata\" (§12)"
+    },
+    {
+      "deva": "हस्त",
+      "iast": "hasta",
+      "ipa": "/ɦɐst̪ɐ/",
+      "en": "hand",
+      "hi": "हाथ",
+      "notes": "स्त mid-word"
+    },
+    {
+      "deva": "अन्त",
+      "iast": "anta",
+      "ipa": "/ɐn̪t̪ɐ/",
+      "en": "end",
+      "hi": "अन्त",
+      "notes": "the word in §2's Hindi line — इस पाठ के अन्त में"
+    },
+    {
+      "deva": "गन्ध",
+      "iast": "gandha",
+      "ipa": "/gɐn̪d̪ʱɐ/",
+      "en": "scent",
+      "hi": "गन्ध, महक",
+      "notes": "न्ध — the rule generalizing (§8)"
+    },
+    {
+      "deva": "स्थान",
+      "iast": "sthāna",
+      "ipa": "/st̪ʰɑːn̪ɐ/",
+      "en": "place",
+      "hi": "स्थान, जगह",
+      "notes": "स्थ keeps थ's puff (§10)"
+    },
+    {
+      "deva": "अस्मि",
+      "iast": "asmi",
+      "ipa": "/ɐsmi/",
+      "en": "I am",
+      "hi": "(मैं) हूँ",
+      "notes": "whole-word gloss; frame verb of §16"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. In a two-consonant conjunct, what happens to the first member? (a) it is written full, side\n   by side with the second (b) it loses its vertical stem and joins the second in reduced form\n   (c) it is deleted entirely (d) it moves to the end of the word\n2. What does a computer store for the printed block स्त? (a) a single special character (b) स +\n   त, nothing else (c) स + ् + त — the virāma sits invisibly inside (d) त + ् + स\n3. Build it: स् + थ = ? (a) स्थ (b) स्त (c) सथ (d) थ्स\n4. Dissect it: शक्ति = ? (a) श + क + त + ि (b) श + क् + त + ि (c) श् + क + त + ि (d) श + क +\n   ् + ी\n5. A learner reads मुक्त as \"mukata\". What happened? (a) nothing — that is correct (b) a vowel\n   was inserted inside the cluster; the block is one onset: [mukt̪ɐ] (c) the vowel length was\n   wrong (d) मुक्त contains no conjunct\n6. नमस्ते is, by formation: (a) a single unanalyzable word (b) नमः \"homage\" + ते \"to you\" —\n   the ḥ→s change at the seam being a sound-joining rule (c) न + मस् + ते (d) a modern coinage\n7. In every conjunct, the vowel of the block is carried by: (a) the first member (b) the virāma\n   (c) the last member, which alone stands in full form (d) a separate letter\n8. Reading check — write the English meaning of each: (a) अस्ति (b) हस्त (c) स्थान",
+    "answer_key_markdown": "1. (b) reduced form, stem lost, joined left (§5). ((a) is §12's mistake 2 — it would read with\n   two vowels.)\n2. (c) consonant + virāma + consonant — the virāma is inside every conjunct (§5).\n3. (a) स्थ — the silent स shrinks, थ stands (§8). ((b) drops the aspiration; (c) is mistake 2.)\n4. (b) श + क् + त + ि — क is the silent, reduced member (§8, exercise 2).\n5. (b) a vowel smuggled into the cluster — §12 mistake 4; fix with the timing drill.\n6. (b) नमः + ते, \"homage to you\"; the seam-change is sandhi, Volume 3 (§13).\n7. (c) the last member — full form, vowel-carrier (§5). The silent one shrinks; the speaker\n   stands.\n8. (a) अस्ति = \"is\"; (b) हस्त = \"hand\"; (c) स्थान = \"place\" (§14)."
+  },
+  "registers": [
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "Devanagari belongs to the Brāhmī family of scripts, attested from the Aśokan inscriptions of the 3rd century BCE. From its earliest records the family has written by the akṣara — and already in those inscriptions consonant clusters appear as fused compound signs, not letter sequences. The conjunct is as old as the writing itself. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "The akṣara — not the single letter — is the organizing unit of the Brāhmī-family scripts: vowels ride consonants as mātrās, and consonant clusters fuse into single compound blocks (संयुक्ताक्षर, saṃyuktākṣara \"joined akṣara\"). [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "A conjunct writes a consonant cluster as a single akṣara: every consonant before the last appears in a **reduced form** — usually its own body minus the vertical stem — and the **last member stands complete and carries the vowel**. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Type स + ् + त on any phone and the screen shows स्त. The encoding never fuses: what the computer *stores* is always the three-character sequence consonant + virāma + consonant. Even क्ष, which looks nothing like its parents, is stored as क + ् + ष. What print fuses, the machine remembers — the virāma sits invisible inside every conjunct you will ever read. (Unicode Standard, Devanagari block.)",
+      "refs": []
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "A few dozen conjuncts cover the overwhelming majority of classical Sanskrit text. The long tail of rare combinations follows the same mechanism you learn today — met by recognition and analysis, not by memorizing hundreds of shapes. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "सत्य is built on सत् (sat) \"being, real\" — lesson 1's word — with the suffix -य: truth as \"the quality of what is.\" [REF:apte1890 s.v. सत्य]",
+      "refs": [
+        "apte1890 s.v. सत्य"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 13,
+      "text": "Upaniṣadic recitation practice frames its texts with a śānti-pāṭha — a peace invocation — whose closing words are ॐ शान्तिः शान्तिः शान्तिः (oṃ śāntiḥ śāntiḥ śāntiḥ): peace, spoken three times. Volume 5 presents the practice and its texts in full. Today, simply read the line — every sign in it is yours.",
+      "refs": []
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "नमस्ते is two words joined: नमः (namaḥ) \"homage, a bow\" + ते (te) \"to you\" — \"homage to you.\" The ः→स् change at the seam is a sound-joining rule — sandhi, Volume 3's story. The स्ते join on the page is today's. [REF:apte1890 s.v. नमस्]",
+      "refs": [
+        "apte1890 s.v. नमस्"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "**Law 6 — the conjunct:** inside an akṣara, every consonant before the last is written in reduced form — usually its body minus the vertical stem — and the last member alone stands complete and carries the vowel. The virāma is this law's invisible engine: a conjunct *is* consonant + ् + consonant, fused for the eye but not for the machine (§5). [REF:masica1991 ch.6] [REF:whitney1889 §9]",
+      "refs": [
+        "masica1991 ch.6",
+        "whitney1889 §9"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "Devanagari forms conjuncts in three patterns: **horizontal** joining (stem-loss — today's set), **vertical stacking** (one letter atop another, mostly the ट-varga and क्क: ट्ट, ङ्क), and a small set of **irregular fused shapes** learned as units — क्ष, त्र, ज्ञ, श्र, द्ध and kin. [REF:masica1991 ch.6]",
+      "refs": [
+        "masica1991 ch.6"
+      ]
+    }
+  ]
+}

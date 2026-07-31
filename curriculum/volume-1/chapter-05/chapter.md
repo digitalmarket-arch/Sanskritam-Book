@@ -8,9 +8,9 @@ title:
 volume: 1
 chapter: 5
 cefr: A1
-status: draft
+status: reviewed
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-07-31
 ---
 
 # Chapter 5 — संयोगः · Virāma & Conjuncts

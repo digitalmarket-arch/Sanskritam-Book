@@ -62,9 +62,8 @@ drafting decides; inventory lists it in L3.)
 
 **New (attested):** पठति (paṭhati) "reads, recites" — √पठ्, THE chapter verb (पठनम् is its
 noun); पठामि "I read" (1sg parallel to वदामि ✓ ch5); पुस्तकम् (pustakam) "book";
-तस्य (tasya) "his" — स्य ✓ mechanism; इति (iti) — quotation particle, glossed as "closing
-quote mark spoken aloud" (**optional — Pass C may defer इति to V2 if the passage reads
-better without the quoted line**). **The passage (draft skeleton, every word certified):**
+तस्य (tasya) "his" — स्य ✓ mechanism; इति (iti) — quotative particle, already taught and
+readable since v1.c02.l01 (इ इति ह्रस्वः स्वरः) — reuse freely, no debut needed. **The passage (draft skeleton, every word certified):**
 
 > बालकः अत्र अस्ति। सः छात्रः अस्ति। तस्य नाम अर्जुनः। सः विद्यालयम् गच्छति।
 > सः पुस्तकम् पठति। सः संस्कृतम् पठति। छात्रः हसति। अहम् अपि संस्कृतम् पठामि।

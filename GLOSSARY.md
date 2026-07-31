@@ -9,14 +9,21 @@ Sorted by IAST.
 
 | देवनागरी | IAST | English | हिन्दी | First taught |
 |---|---|---|---|---|
+| अक्षर | akṣara | syllable block — the script's writing unit | अक्षर | v1.c01.l04 |
 | अनुस्वार | anusvāra | the nasal sign ं | अनुस्वार | v1.c02.l06 |
 | अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |
+| अवग्रह | avagraha | the elision mark ऽ (marks a dropped अ) | अवग्रह | v1.c05.l05 |
+| चन्द्रबिन्दु | candrabindu | the nasal-vowel sign ँ | चन्द्रबिन्दु | v1.c05.l05 |
+| दण्ड | daṇḍa | the sentence bar । (double ॥ closes a verse) | दण्ड (पूर्ण विराम-चिह्न) | v1.c05.l05 |
 | दीर्घ | dīrgha | long (vowel) | दीर्घ (लम्बा स्वर) | v1.c01.l04 |
 | ह्रस्व | hrasva | short (vowel) | ह्रस्व (छोटा स्वर) | v1.c01.l04 |
+| हलन्त | halanta | consonant-final; a common name for the virāma | हलन्त | v1.c05.l01 |
 | कण्ठ्य | kaṇṭhya | velar / guttural | कण्ठ्य (कण्ठ से उच्चरित) | v1.c01.l02 |
 | मात्रा | mātrā | vowel sign; also: duration unit | मात्रा | v1.c01.l04 |
 | ओष्ठ्य | oṣṭhya | labial | ओष्ठ्य (होठों से उच्चरित) | v1.c01.l02 |
+| रेफ | repha | the r-sound; the superscript r-hook | रेफ | v1.c05.l04 |
 | संस्कृतम् | saṃskṛtam | Sanskrit ("refined, perfected") | संस्कृत | v1.c01.l01 |
+| संयुक्ताक्षर | saṃyuktākṣara | conjunct — a consonant cluster written as one akṣara | संयुक्ताक्षर (जुड़े व्यञ्जनों का एक अक्षर) | v1.c05.l02 |
 | स्पर्श | sparśa | stop consonant ("contact" sound) | स्पर्श व्यञ्जन | v1.c03.l01 |
 | अघोष | aghoṣa | voiceless | अघोष | v1.c03.l01 |
 | घोष | ghoṣa | voiced | घोष (सघोष) | v1.c03.l01 |
@@ -31,6 +38,7 @@ Sorted by IAST.
 | मूर्धन्य | mūrdhanya | retroflex | मूर्धन्य | v1.c01.l02 |
 | सन्ध्यक्षर | sandhyakṣara | junction vowel (e ai o au) | सन्ध्यक्षर (संयुक्त स्वर) | v1.c02.l04 |
 | वर्ण | varṇa | speech sound; letter | वर्ण (ध्वनि/अक्षर) | v1.c01.l02 |
+| विराम | virāma | the vowel-cancelling stroke ् | विराम | v1.c05.l01 |
 | विसर्ग | visarga | the breath sign ः | विसर्ग | v1.c02.l06 |
 | वर्णमाला | varṇamālā | the Sanskrit sound inventory ("garland of sounds") | वर्णमाला | v1.c01.l02 |
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |

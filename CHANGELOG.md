@@ -4,6 +4,33 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.5.0] — 2026-07-31
+
+Volume 1 Chapter 5 — संयोगः (Virāma & Conjuncts) complete and reviewed. The writing
+system is complete: IR-007 — the 1.x curriculum's largest gap (mātrā logic, virāma and
+conjuncts never taught) — is closed in-curriculum.
+
+### Added
+- v1.c05 research notes and chapter frame (virāma Law 5, weld mechanism Law 6, r-forms,
+  signs inventory, per-lesson attested word lists).
+- Five lessons: the virāma with the first-person unlock (अहम् वदामि); the conjunct
+  mechanism with the नमस्ते ceremony (the promise tracked since Chapter 1 closes); the
+  irregular ligatures क्ष त्र ज्ञ श्र द्ध with the Unicode-virāma insight and the
+  respectful ज्ञ habit-vs-target treatment; the two faces of र (धर्म कर्म अर्थ homecoming);
+  the remaining signs ऽ ँ । ॥ + digits ०–९ with the two-way Conjunct Exam and the
+  संस्कृतम् ceremony. 57 new words; 214 cumulative; every 🔊 glue word retired.
+- v1.c06 research notes and chapter frame prepared ahead (reading bootcamp fact base).
+- REFERENCES: ifrah2000 (digit-history source).
+- GLOSSARY: अक्षर, अवग्रह, चन्द्रबिन्दु, दण्ड, हलन्त, रेफ, संयुक्ताक्षर, विराम.
+
+### Changed
+- Script-law numbering reconciled repo-wide: the varga grid is now "the grid principle"
+  (un-numbered) in c03/c04 reviews; the numbered series runs Laws 1–4 (mātrā system),
+  Law 5 (virāma), Law 6 (conjunct weld).
+- Cumulative word-ledger harmonized to the audited Chapter 4 baseline (157 → 214).
+- JSON exports regenerated for all 27 lessons; verification log extended with v1.c05
+  verdicts and review-pass findings.
+
 ## [0.4.0] — 2026-07-30
 
 Volume 1 Chapter 4 — अन्तःस्थाः ऊष्माणश्च (Semivowels & Sibilants) complete and reviewed.

@@ -133,3 +133,46 @@ Status change: v1.c03 lessons 01–06 `draft` → `reviewed`.
 | D | 27-section contract green; objectives→assessment maps present; ≥2 production exercises per lesson; l04 task keys complete incl. the full ordered varṇamālā. | pass |
 
 Status change: v1.c04 lessons 01–04 `draft` → `reviewed`.
+
+## Chapter v1.c05 — research verdicts (2026-07-31)
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| Virāma silences inherent vowel; word-final bare consonants written with it; हलन्त naming | [REF:whitney1889 §9]; [REF:masica1991 ch.6]; [REF:apte1890 s.v. हल्] | ✅ | l01 §4–5, §15 |
+| अहम् ~ Latin *ego* ~ English *I* (PIE first-person pronoun, cognates not loans) | [REF:mallory2006] | ✅ | l01 §13 |
+| जगत् connected with √गम् "go" ("the moving one") | [REF:apte1890 s.v. जगत्] | ✅ (presented as dictionary connection, one line) | l01 §13 |
+| अहम् वदामि → अहं वदामि in connected speech (म्→ं sandhi habit) — honest deferral to V3 | [REF:whitney1889 §§213–214 range not verified offline — claim kept § -free as course convention note] | ✅ framing | l01 §6, §19 Q8 |
+| Akṣara as script unit; conjunct = reduced non-final + full final carrying vowel | [REF:masica1991 ch.6] | ✅ | l02 §4–5, §15 |
+| Brāhmī family attested from Aśokan inscriptions (3rd c. BCE); clusters fused from earliest records | [REF:masica1991 ch.6] | ✅ | l02 §4 HISTORY |
+| Unicode: conjunct = C + ् + C (क्ष = क ् ष) | Unicode Standard, Devanagari block (inline attribution; no REF key by design) | ✅ | l02 §5, l03 §5, l04 §15 |
+| Frequency honesty: few dozen conjuncts cover most classical text (number-free phrasing) | [REF:masica1991 ch.6]; [REF:apte1890] survey framing | ✅ | l02 §5, l03 §15 |
+| नमस्ते = नमः + ते; ḥ→s seam = sandhi (deferred) | [REF:apte1890 s.v. नमस्] | ✅ | l02 §13 |
+| सत्य built on सत् + -य | [REF:apte1890 s.v. सत्य] | ✅ one-line morphology | l02 §13 |
+| Three conjunct formation patterns (horizontal / vertical stack / irregular fused) | [REF:masica1991 ch.6] | ✅ | l02 §15, l03 §5 |
+| क्ष त्र ज्ञ श्र द्ध द्व द्य (+ ह्य ह्म) as learned units; components as stated | [REF:masica1991 ch.6] | ✅ | l03 §5, §15 |
+| Chart convention (क्ष त्र ज्ञ appended to varṇamālā) ≠ inventory arithmetic | [REF:masica1991 ch.6] | ✅ | l03 §4 |
+| ज्ञ classical /d͡ʑɲ/ per components; [gj]/[dn̪j] regional habits (ऋ-precedent framing) | [REF:whitney1889] (bare — precise § not locatable offline; FACT register, substance standard) | ✅ | l03 §5, §9–10 |
+| √ज्ञा ~ know ~ gnōsis (\*ǵneh₃-); द्वि/त्रि ~ two/three; √विद् ~ wit/vidēre (\*weid-) | [REF:mallory2006] | ✅ sibling framing kept | l03 §13 |
+| क्षेत्र → Hindi खेत descent | [REF:masica1991] | ✅ | l03 §13 |
+| मित्र neuter; Vedic Mitra deity note | [REF:apte1890 s.v. मित्र]; Ṛgveda (TRADITION, named) | ✅ | l03 §13 |
+| रेफ as the tradition's proper name for r | [REF:apte1890 s.v. रेफ] | ✅ | l04 §4 |
+| Repha superscript from Nāgarī manuscript tradition (modest, undated phrasing) | [REF:masica1991 ch.6] | ✅ | l04 §4 HISTORY |
+| Positional r-variants spell one /ɾ/; repha placed rightmost incl. mātrā-post; ट्र caret; रु रू units | [REF:masica1991 ch.6] | ✅ | l04 §5, §8, §15 |
+| dharma/karma/mantra genuine English loans; शर्करा → sugar chain | [REF:apte1890]; OED; loan table v1.c01.l01 (verified: शर्करा row present) | ✅ | l04 §13 |
+| चक्र ~ wheel ~ kúklos < \*kʷekʷlos | [REF:mallory2006] | ✅ | l04 §13 |
+| BU 1.4.14 identifies dharma with truth | [REF:brhadaranyaka 1.4.14] | ✅ TRADITION, locus carried | l04 §17 |
+| Avagraha marks elided अ (सोऽहम् = सः + अहम्); candrabindu = nasalized vowel; daṇḍa/double daṇḍa; digits ०–९ | [REF:whitney1889 §16]; [REF:masica1991 ch.6] | ✅ | l05 §8 |
+| International digits descend from Indian numerals via Arabic transmission | [REF:ifrah2000] (entry added to REFERENCES.md) | ✅ HISTORY | l05 §8 |
+| सोऽहम् as Vedānta/yoga formula | TRADITION register, attributed, texts deferred to V5 | ✅ never assessed | l05 §8 |
+| Cumulative arithmetic 157 + 57 = 214 (l01 10 · l02 14 · l03 16+पश्य · l04 17) | in-course ledger (canonical: v1.c04.l04 §14) | ✅ harmonized across l01/l04/l05/chapter.md | l05 §14 |
+
+## Review-pass findings — v1.c05 (2026-07-31)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Validator: 0 errors, 0 warnings across all five lessons on first full run (one missing REF anchor — ifrah2000 — added to REFERENCES.md). IPA spot-checked cell-by-cell against STYLE_GUIDE §2 (/st̪/ clusters, /d͡ʑɲ/, geminate /d̪d̪ʱ/, [ɾ] in all three r-guises, nasalized [ɑ̃ː] for ँ). | green |
+| B | Hindi §7 foci verified per lesson (l01 हलन्त vs Hindi schwa-deletion contrast; l02 स्कूल/हिन्दी recognition-to-analysis ladder; l03 ग्यान-habit respect framing; l04 शर्मा/वर्मा familiarity; l05 दण्ड/चन्द्रबिन्दु/अंक Hindi assets + अवग्रह warning). Gender/agreement clean. | pass |
+| C | Register audit: SYMBOL absent from all quizzes; HISTORY items all cited (Brāhmī, manuscript repha, digits ancestry); TRADITION items attributed and never assessed (हलन्त Pāṇinian term, śānti-pāṭha, Vedic Mitra, BU 1.4.14, सोऽहम्); nuance reject-cards (ज्ञ "must", क्ष "single letter", स् त "changes sound") keyed to wording, respect framing intact. l04 §27's शर्करा flag resolved: the word needs only the repha (श-र्क-रा) — no stacking — readable as claimed. l03 §27's पश्य flag resolved: l02 makes no पश्य claim; l03's retirement stands. | pass |
+| D | 27-section contract green; objectives→assessment maps verified (l01's pre-wired §2 map honored exactly by §§14–27 as completed); ≥2 production exercises per lesson; script-law numbering reconciled repo-wide (grid principle un-numbered in c03.l06/c04.l04; series now 1–4 + 5 virāma + 6 conjunct); l05 task keys complete incl. both exam directions and the ceremony components. Drafting note: all five lessons drafted by parallel agents; l01 §§14–27 and all of l05 completed in the main loop after agent session limits; sibling cross-references (ceremony promise, 60-second bar, 12-item exam, Station 0) reconciled by hand. | pass |
+
+Status change: v1.c05 lessons 01–05 `draft` → `reviewed`.

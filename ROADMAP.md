@@ -19,8 +19,8 @@ closing the largest gap of the 1.x curriculum.
 | 2 | स्वराः — The Vowels | 7 | ✅ reviewed |
 | 3 | स्पर्शाः — The Stop Consonants | 6 | ✅ reviewed |
 | 4 | अन्तःस्थाः ऊष्माणश्च — Semivowels & Sibilants | 4 | ✅ reviewed |
-| 5 | संयोगः — Virāma & Conjuncts | 5 | ⬜ |
-| 6 | पठनम् — Reading Bootcamp | 4 | ⬜ |
+| 5 | संयोगः — Virāma & Conjuncts | 5 | ✅ reviewed |
+| 6 | पठनम् — Reading Bootcamp | 4 | 🟨 |
 
 Chapter 2 covers all vowels incl. ॠ ऌ (completeness), ऐ/औ as diphthongs, and अं/अः correctly
 classified as ayogavāha. Chapter 3 gives **all five members of every varga** equal treatment.
@@ -112,9 +112,16 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
 - **2026-07-30** — **v1.c04 अन्तःस्थाः ऊष्माणश्च complete and reviewed**: 4 lessons — the
   last 8 consonants, the ś/ṣ flagship contrast (IR-012 closed in-curriculum), the complete
   varṇamālā with the Alphabet Exam, ~140 cumulative readable words incl. राम, भाषा,
-  हिमालय. 22 lessons total, validator green, exports current. Next: v1.c05 (संयोगः — virāma
-  & conjuncts, where नमस्ते becomes writable), then v1.c06 (reading bootcamp) completes
-  Volume 1. Asset production for Chapters 1–4 `planned:` media can run in parallel.
+  हिमालय. 22 lessons total, validator green, exports current.
+- **2026-07-31** — **v1.c05 संयोगः complete and reviewed**: 5 lessons — the virāma (Law 5)
+  with the first-person milestone अहम् वदामि, the conjunct mechanism (नमस्ते readable and
+  writable — the Chapter 1 tracker closes), the irregular ligatures क्ष त्र ज्ञ (the last 🔊
+  glue words retire), both r-forms (धर्म कर्म अर्थ come home), and the signs/digits lesson
+  with the two-way Conjunct Exam and the संस्कृतम् ceremony. IR-007 closed in-curriculum.
+  214 cumulative readable words; 27 lessons total, validator green, exports current.
+  Research notes + chapter frame for v1.c06 (पठनम् — reading bootcamp, the volume's final
+  chapter) already prepared. Asset production for Chapters 1–5 `planned:` media can run in
+  parallel.
 
 ## Content preservation map (from the 1.x curriculum)
 

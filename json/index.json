@@ -444,6 +444,107 @@
       ],
       "path": "curriculum/volume-1/chapter-04/lesson-04-review-and-assessment.md",
       "json": "json/volume-1/v1.c04.l04.json"
+    },
+    {
+      "id": "v1.c05.l01",
+      "title": {
+        "sa": "विरामः",
+        "sa_iast": "virāmaḥ",
+        "hi": "विराम — स्वर-निरोधक",
+        "en": "The Vowel-Killer"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c04.l04"
+      ],
+      "review_of": [
+        "v1.c01.l03",
+        "v1.c04.l04"
+      ],
+      "path": "curriculum/volume-1/chapter-05/lesson-01-virama.md",
+      "json": "json/volume-1/v1.c05.l01.json"
+    },
+    {
+      "id": "v1.c05.l02",
+      "title": {
+        "sa": "संयुक्ताक्षराणि",
+        "sa_iast": "saṃyuktākṣarāṇi",
+        "hi": "संयुक्ताक्षर — जोड़ने की विधि",
+        "en": "Conjuncts I — The Mechanism"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c05.l01"
+      ],
+      "review_of": [
+        "v1.c05.l01"
+      ],
+      "path": "curriculum/volume-1/chapter-05/lesson-02-conjunct-mechanism.md",
+      "json": "json/volume-1/v1.c05.l02.json"
+    },
+    {
+      "id": "v1.c05.l03",
+      "title": {
+        "sa": "विशेषसंयोगाः",
+        "sa_iast": "viśeṣasaṃyogāḥ",
+        "hi": "विशेष संयुक्ताक्षर — क्ष त्र ज्ञ",
+        "en": "Conjuncts II — The Special Ligatures"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c05.l02"
+      ],
+      "review_of": [
+        "v1.c05.l01",
+        "v1.c05.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-05/lesson-03-special-ligatures.md",
+      "json": "json/volume-1/v1.c05.l03.json"
+    },
+    {
+      "id": "v1.c05.l04",
+      "title": {
+        "sa": "रेफः",
+        "sa_iast": "rephaḥ",
+        "hi": "रेफ — र के दो रूप",
+        "en": "The Two Faces of R"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c05.l03"
+      ],
+      "review_of": [
+        "v1.c04.l01",
+        "v1.c05.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-05/lesson-04-r-forms.md",
+      "json": "json/volume-1/v1.c05.l04.json"
+    },
+    {
+      "id": "v1.c05.l05",
+      "title": {
+        "sa": "शेषचिह्नानि",
+        "sa_iast": "śeṣacihnāni",
+        "hi": "शेष चिह्न — अंक, दण्ड और संयुक्ताक्षर-परीक्षा",
+        "en": "Signs, Digits & the Conjunct Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c05.l04"
+      ],
+      "review_of": [
+        "v1.c05.l01",
+        "v1.c05.l02",
+        "v1.c05.l03",
+        "v1.c05.l04"
+      ],
+      "path": "curriculum/volume-1/chapter-05/lesson-05-signs-and-exam.md",
+      "json": "json/volume-1/v1.c05.l05.json"
     }
   ]
 }
