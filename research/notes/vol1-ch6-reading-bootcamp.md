@@ -9,7 +9,7 @@ the ROADMAP promised: *the learner reads real connected words and a first (sandh
 
 Cumulative ledger entering Ch 6: complete varṇamālā + all mātrās + ं ः ँ + ॐ + virāma +
 the conjunct mechanism + irregular ligatures + both r-forms + ऽ । ॥ + digits ०–९;
-≈195 readable words. All new words below checked against Apte/Monier-Williams; flags noted.
+214 readable words. All new words below checked against Apte/Monier-Williams; flags noted.
 
 ---
 
@@ -30,9 +30,9 @@ the conjunct mechanism + irregular ligatures + both r-forms + ऽ । ॥ + digi
 **Theme:** multi-akṣara fluency + the ङ/ञ payoff. **Readable unlock (attested):**
 गङ्गा (gaṅgā) "the Gaṅgā" — ङ्ग, the ङ finally at work; अङ्गम् (aṅgam) "limb";
 पञ्च (pañca) "five" — ञ्च; सङ्घः (saṅghaḥ) "assembly" (the सङ्घे spelling-audit word,
-IR-audit callback); **संस्कृतम् (saṃskṛtam) — the course's own name becomes readable**
-(स + ं + स्क + ृ + त + म् — anusvāra, conjunct, vowel-sign, virāma: four chapters in one
-word); नमस्कारः (namaskāraḥ) "salutation" (नमस्ते's formal sibling, स्क + repha…
+IR-audit callback); **संस्कृतम् (saṃskṛtam) — the course's own name, first written at the Chapter 5
+ceremony (v1.c05.l05 task E), now read at speed** (स + ं + स्क + ृ + त + म् — anusvāra,
+conjunct, vowel-sign, virāma: four chapters in one word); नमस्कारः (namaskāraḥ) "salutation" (नमस्ते's formal sibling, स्क + repha…
 actually र after का is plain र — components: न म स ् क ा र ः); वर्णमाला (varṇamālā)
 "alphabet" — the course term, repha ✓; देवनागरी (devanāgarī) — the script's name (etymology
 debated — say so; [REF:masica1991 ch.6]); महाभारतम् (mahābhāratam); रामायणम् (rāmāyaṇam);
@@ -107,7 +107,7 @@ register-card questions. Passing = Volume 1 complete; gate to Volume 2 with an e
 
 Fluency strand per 0.6: every drill uses **only known material at speed** (timed word
 recognition, repeated reading of the same passage with a target time, component-count
-races). Word load modest (~25–28 new across the chapter, cumulative ≈220) because the
+races). Word load modest (~25–28 new across the chapter, cumulative ≈240) because the
 chapter's job is automaticity, not acquisition [REF:nation2013]. Retrieval/spacing
 architecture unchanged [REF:roediger2006]; [REF:cepeda2006].
 

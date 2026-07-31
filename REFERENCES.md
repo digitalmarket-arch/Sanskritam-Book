@@ -95,6 +95,10 @@ Banarsidass 2001. Historical development, PIE connections.
 2018): 24,821 persons returned Sanskrit as mother tongue. Cited for present-day speaker
 self-reports; used with "small but real living community" framing.
 
+<a id="ifrah2000"></a>**ifrah2000** — G. Ifrah, *The Universal History of Numbers: From
+Prehistory to the Invention of the Computer*, Wiley 2000. Indian origin of the decimal
+place-value digits and their westward transmission through Arabic scholarship.
+
 <a id="jamison2014"></a>**jamison2014** — S. Jamison & J. Brereton, *The Rigveda: The Earliest
 Religious Poetry of India*, Oxford 2014. Introduction cited for Ṛgveda dating (c. 1500–1200 BCE).
 

@@ -39,7 +39,7 @@ By the end of this chapter the learner can:
 - [ ] Write bare consonants and final-consonant words (अहम्, तत्, जगत्) with virāma
 - [ ] Build and dissect transparent conjuncts using the stem-loss mechanism
 - [ ] Read and write the irregular ligatures क्ष त्र ज्ञ श्र द्ध द्व and the r-forms
-- [ ] Read ~55 new words (≈195 cumulative) incl. नमस्ते, सत्य, ज्ञान, धर्म, कर्म
+- [ ] Read 57 new words (214 cumulative) incl. नमस्ते, सत्य, ज्ञान, धर्म, कर्म
 - [ ] Read the milestone line नमस्ते! अहम् अत्र अस्मि। and name every component in it
 - [ ] Read and write the digits ०–९ and use daṇḍa punctuation correctly
 

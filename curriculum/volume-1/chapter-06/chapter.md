@@ -19,7 +19,7 @@ Nothing new arrives in this chapter — no letters, no signs, no sounds. That is
 Chapter 6 is a bootcamp: everything certified in Chapters 1–5 is put to work at speed, in
 longer words, in the course's first dialogue, first connected passage, and first śloka. The
 two nasals that never had a home — ङ and ञ — finally find their conjuncts (गङ्गा, पञ्च);
-the course's own name **संस्कृतम्** becomes readable; the learner introduces themselves
+the course's own name **संस्कृतम्** — first written at Chapter 5's closing ceremony — comes up to reading speed; the learner introduces themselves
 (मम नाम …), reads a paragraph, and closes the volume reciting **विद्या ददाति विनयम्** and
 **सत्यम् एव जयते**. The Volume Exam gates Volume 2.
 
