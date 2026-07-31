@@ -53,6 +53,12 @@ gaṇa and marker letters; cited by gaṇa and root.
 <a id="brhadaranyaka"></a>**brhadaranyaka** — *Bṛhadāraṇyaka Upaniṣad*. Cited
 adhyāya.brāhmaṇa.verse (e.g. 1.3.28 — asato mā sad gamaya). Ed./tr. Olivelle 1998.
 
+<a id="mundaka"></a>**mundaka** — *Muṇḍaka Upaniṣad*. Cited muṇḍaka.khaṇḍa.verse (e.g.
+3.1.6 — satyam eva jayate). Ed./tr. Olivelle 1998.
+
+<a id="hitopadesha"></a>**hitopadesha** — Nārāyaṇa, *Hitopadeśa* (c. 9th–12th c. CE). Cited by
+section (prastāvikā / mitralābha …) and verse.
+
 <a id="rigveda"></a>**rigveda** — *Ṛgveda Saṃhitā*. Cited maṇḍala.hymn.verse (e.g. 3.62.10 —
 the Gāyatrī/Sāvitrī mantra). Tr.: Jamison & Brereton 2014.
 
@@ -94,6 +100,10 @@ Banarsidass 2001. Historical development, PIE connections.
 <a id="census2011"></a>**census2011** — Census of India 2011, Language tables (Paper 1 of
 2018): 24,821 persons returned Sanskrit as mother tongue. Cited for present-day speaker
 self-reports; used with "small but real living community" framing.
+
+<a id="stateemblem1950"></a>**stateemblem1950** — Government of India: adoption of the State
+Emblem with the motto *satyameva jayate* (26 January 1950); see also the State Emblem of
+India (Prohibition of Improper Use) Act, 2005. Cited for the national-motto claim only.
 
 <a id="ifrah2000"></a>**ifrah2000** — G. Ifrah, *The Universal History of Numbers: From
 Prehistory to the Invention of the Computer*, Wiley 2000. Indian origin of the decimal
