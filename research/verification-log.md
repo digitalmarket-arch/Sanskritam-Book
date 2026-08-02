@@ -176,3 +176,42 @@ Status change: v1.c04 lessons 01–04 `draft` → `reviewed`.
 | D | 27-section contract green; objectives→assessment maps verified (l01's pre-wired §2 map honored exactly by §§14–27 as completed); ≥2 production exercises per lesson; script-law numbering reconciled repo-wide (grid principle un-numbered in c03.l06/c04.l04; series now 1–4 + 5 virāma + 6 conjunct); l05 task keys complete incl. both exam directions and the ceremony components. Drafting note: all five lessons drafted by parallel agents; l01 §§14–27 and all of l05 completed in the main loop after agent session limits; sibling cross-references (ceremony promise, 60-second bar, 12-item exam, Station 0) reconciled by hand. | pass |
 
 Status change: v1.c05 lessons 01–05 `draft` → `reviewed`.
+
+## Chapter v1.c06 — research verdicts (2026-07-31)
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| Homorganic nasal rule; ङ्ग ङ्क ङ्घ ञ्च as vertical stacks; गंगा convenience spelling; anusvāra before sibilant = classical (संस्कृतम्) | [REF:masica1991 ch.6]; recaps v1.c02.l06 | ✅ | l01 §5, §8, §15 |
+| पञ्चम as traditional name for a varga's fifth member | [REF:apte1890 s.v. पञ्चम] | ✅ | l01 §4 |
+| नागरी → देवनागरी naming history "debated", no single story endorsed | [REF:masica1991 ch.6] | ✅ hedged HISTORY | l01 §4 |
+| संस्कृत = sam + kṛta with inserted s | [REF:monierwilliams1899 s.v. saṃskṛta] | ✅ | l01 §13 |
+| पञ्च ~ pénte ~ five (\*pénkʷe, cognates) | [REF:mallory2006] | ✅ | l01 §13 |
+| नमस्कार = नमः + कार; विद्यालय = विद्या + आलय (standard modern usage, honestly framed) | [REF:apte1890] | ✅ | l01 §13 |
+| संवाद = सम् + वाद (√वद्) | [REF:apte1890 s.v. संवाद] | ✅ | l02 §4 |
+| Ṛgveda dialogue hymns (two-speaker, no narrator) | [REF:jamison2014 p.5] | ✅ | l02 §4 HISTORY |
+| BG calls itself धर्म्यं संवादम् | [REF:bhagavadgita 18.70] — locus verified (अध्येष्यते च य इमं धर्म्यं संवादम् आवयोः) | ✅ TRADITION | l02 §4 |
+| Formulaic-chunk pedagogy for मम नाम frame | [REF:nation2013] | ✅ | l02 §5 |
+| नामन् ~ nōmen ~ name (cognates) | [REF:monierwilliams1899 s.v. नामन्]; standard PIE set | ✅ | l02 §13 |
+| छात्र connected to छत्र "umbrella" | [REF:monierwilliams1899 s.v. छात्र] | ✅ | l02 §13 |
+| छात्रा as modern feminine — mentioned, not taught; बालिका classical default | research note §2 Pass C decision | ✅ implemented | l02 §12, §16 |
+| √पठ् family (पठति, पठनम्, पाठ → Hindi पाठ; पढ़ना descent) | [REF:monierwilliams1899 s.v. पठ्]; [REF:masica1991] | ✅ | l03 §4, §7 |
+| अर्जुन "bright, white, silvery"; name attested from the epics | [REF:monierwilliams1899 s.v. अर्जुन] | ✅ neutral framing, epic bearer deferred | l03 §4 HISTORY |
+| गच्छति unattested in any §14 table → passage uses चलति | agent grep, verified | ✅ swap correct | l03 §17 |
+| सः half-review via सोऽहम् (v1.c05.l05); सा taught as chunk | in-course ledger | ✅ | l03 §8, §14 |
+| विद्या ददाति विनयम् — Hitopadeśa prastāvikā (section-level citation, no verse number claimed) | [REF:hitopadesha] | ✅ | l04 §8 |
+| सत्यम् एव जयते = Muṇḍaka 3.1.6; national motto 1950 | [REF:mundaka 3.1.6]; [REF:stateemblem1950] | ✅ HISTORY | l04 §8 |
+| सर्वे भवन्तु सुखिनः — no principal Upaniṣad contains it; "traditional, source unrecorded" | negative claim in checkable form | ✅ TRADITION with honesty note | l04 §8, §13 |
+| Śloka = 4 pādas × 8 syllables — taught self-verifyingly (learner counts); no meter REF cited (macdonald locator dropped per research note 0.4 fallback) | the verse itself | ✅ | l04 §8, §13 |
+| Pausa forms कश्चित्, दुःखभाक् (verse कश्चिद्, दुःखभाग् = sandhi) | course-observable precedent (वाक् v1.c05.l01); no § invented | ✅ | l04 §8, §10 |
+| Cumulative arithmetic 214 + 12 + 7 + 4 = 237 | in-course ledger (canonical at l04 §27) | ✅ harmonized (l03 line corrected 232/236 → 233/237) | all four |
+
+## Review-pass findings — v1.c06 (2026-07-31)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Validator: 0 errors, 0 warnings on l01–l03 first run; l04 (main-loop authored) had one section-heading mismatch (§7) and one wrapped IPA span — both fixed, full-curriculum run green (31 lessons). IPA spot-checked against STYLE_GUIDE §2 incl. /ŋ ɲ/ stacks, [t͡ɕʰ] in छात्रः, /ʈʰ/ in पठति, the verse transcriptions. | green |
+| B | Hindi §7 foci verified per lesson (l01 गंगा/पाँच/panch honesty; l02 तुम-आप ↔ त्वम्-भवान् mapping, नाम two-beat discipline; l03 पढ़ना ← पठति descent, endings honesty; l04 the three texts with source labels + the motto's everyday familiarity). | pass |
+| C | Register audit: SYMBOL ×1 total (l01 §17 Gaṅgā — never assessed); HISTORY items all cited (devanāgarī naming hedged, Ṛgveda dialogue hymns, Arjuna name, Muṇḍaka+motto); TRADITION attributed (BG 18.70, the maṅgala verse with unrecorded-source honesty as the register-teaching finale). Fabrication check on cross-references: l01's पञ्च "glimpse" callback VERIFIED against v1.c03.l02 (line 257 says exactly that); l01's spelling-twins attribution corrected Chapter 3 → Chapter 2 (v1.c02.l06) in §3 and §23; Hook adjusted to acknowledge ङ's display cameos (अङ्क in c02.l06, ङ्क preview in c03.l01). l02's Maya quote diffed verbatim against v1.c01.l01 §16. अपि ear-word claim verified (v1.c02.l05 line 166). | pass |
+| D | 27-section contract green; objective→assessment maps present in all four; ≥2 production exercises each; ledger chain consistent (226 → 233 → 237); the c04/c05 "consolidated list in v1.c06" promise resolved as the generated word-appendix asset (l04 §23/§27), not an inline table. **Editorial reconciliation executed:** v1.c01.l01 §16's false forward-promise ("Sanskrit self-introductions come in Chapter 2") corrected at source to "later in this volume"; l02 §17's verbatim quote and closing note updated to match; l02 §27 flag marked resolved. Drafting note: l01–l03 agent-drafted (all landed complete despite agent session limits); l04 main-loop authored. | pass |
+
+Status change: v1.c06 lessons 01–04 `draft` → `reviewed`. **Volume 1 review complete.**

@@ -1,0 +1,362 @@
+{
+  "frontmatter": {
+    "id": "v1.c06.l02",
+    "schema_version": 1,
+    "title": {
+      "sa": "संवादः",
+      "sa_iast": "saṃvādaḥ",
+      "hi": "संवाद — पहली बातचीत",
+      "en": "The First Dialogue"
+    },
+    "volume": 1,
+    "chapter": 6,
+    "lesson": 2,
+    "lesson_type": "conversation",
+    "cefr": "A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v1.c06.l01"
+    ],
+    "review_of": [
+      "v1.c05.l01",
+      "v1.c05.l02"
+    ],
+    "objectives": [
+      {
+        "en": "Introduce yourself in Sanskrit with both frames — अहम् … अस्मि and मम नाम … — using your own name.",
+        "hi": "अपने नाम के साथ दोनों साँचों — अहम् … अस्मि और मम नाम … — से संस्कृत में अपना परिचय दें।"
+      },
+      {
+        "en": "Ask and answer the three introduction questions तव नाम किम्?, त्वम् कः? / त्वम् का?, and त्वम् अपि छात्रः? with the right question tune.",
+        "hi": "परिचय के तीन प्रश्न — तव नाम किम्?, त्वम् कः? / त्वम् का?, त्वम् अपि छात्रः? — सही सुर में पूछें और उनके उत्तर दें।"
+      },
+      {
+        "en": "Play the एतत् किम्? pointing game with known nouns (जलम्, मित्रम्, हिमम्).",
+        "hi": "एतत् किम्? वाला इशारा-खेल जाने-पहचाने शब्दों (जलम्, मित्रम्, हिमम्) से खेलें।"
+      },
+      {
+        "en": "Read the lesson's seven words and perform the two-scene dialogue in pause form, turn by turn.",
+        "hi": "पाठ के सातों शब्द पढ़ें और दो दृश्यों का संवाद ठहराव-रूप में, बारी-बारी बोलकर, प्रस्तुत करें।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 7,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-1/v1c06l02-dialogue-cards.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-1/v1c06l02-dialogue.mp3",
+        "planned:assets/audio/volume-1/v1c06l02-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-1/v1c06l02-roleplay.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "conversation",
+      "dialogue",
+      "self-introduction",
+      "questions",
+      "milestone"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-07-31"
+    ],
+    "created": "2026-07-31",
+    "updated": "2026-07-31"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Every conversation this course has printed came with a script: रामः spoke, the boy laughed,\nyou watched from outside. Today's central question breaks the pattern. तव नाम किम्? — \"what\nis your name?\" — is the first question in this book whose right answer appears nowhere in it.\nOnly you can supply it. And one debt comes due: since the very first lesson, a girl named\nMaya has been waiting on a page she asked you a question from — a question the course could\nprint only in English. Today you answer her in Sanskrit."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Introduce yourself in Sanskrit with both frames — अहम् … अस्मि and मम नाम … — using your own name. | अपने नाम के साथ दोनों साँचों — अहम् … अस्मि और मम नाम … — से संस्कृत में अपना परिचय दें। |\n| 2 | Ask and answer the three introduction questions तव नाम किम्?, त्वम् कः? / त्वम् का?, and त्वम् अपि छात्रः? with the right question tune. | परिचय के तीन प्रश्न — तव नाम किम्?, त्वम् कः? / त्वम् का?, त्वम् अपि छात्रः? — सही सुर में पूछें और उनके उत्तर दें। |\n| 3 | Play the एतत् किम्? pointing game with known nouns (जलम्, मित्रम्, हिमम्). | एतत् किम्? वाला इशारा-खेल जाने-पहचाने शब्दों (जलम्, मित्रम्, हिमम्) से खेलें। |\n| 4 | Read the lesson's seven words and perform the two-scene dialogue in pause form, turn by turn. | पाठ के सातों शब्द पढ़ें और दो दृश्यों का संवाद ठहराव-रूप में, बारी-बारी बोलकर, प्रस्तुत करें। |\n\nObjective 1 is built in §8 and tested in §18 (exercises 1, 4) and §19 (Q2, Q4); objective 2\nin §8–§9, §18 (exercises 2, 3), §19 (Q1, Q5, Q7); objective 3 in §8, §18 (exercise 5), §19\n(Q6); objective 4 in §14, §16, §18 (exercises 3, 6), §19 (Q3, Q8)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठों की पुनरावृत्ति — answer from memory *before* looking anything up.\n\n1. **Write from memory** (self-dictation): अहम्. Which sign closes it, and what does that\n   sign do?\n2. Read cold and gloss: अहम् बालकः अस्मि। — which word is glossed whole, and what do we\n   refuse to explain about it until Volume 2?\n3. The polite question from the snow-abode dialogue: भवान् कः? — to whom is it said?\n   Answer it as yourself.\n4. Translate both ways, cold: किम् तत्? — तत् हिमम्।\n5. मित्रम् अत्र अस्ति? — nothing on the page marks this as a question. What does?\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. अहम् (aham) \"I\" — the virāma ्, Law 5's vowel-killer: the final म् is bare /m/.\n2. अस्मि (asmi) \"I am\" — glossed whole like every verb so far; how it conjugates is\n   Volume 2's opening act, and we do not smuggle it in early.\n3. Said respectfully to a man — the गुरुः in Chapter 5's story. Answer frame: अहम् +\n   your name, or अहम् … अस्मि.\n4. \"What is that?\" — \"That is snow.\" किम् asks; तत् is its answer partner.\n5. The rising tune alone — a habit since Chapter 3's घटः अत्र अस्ति?\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — the oldest genre in the language.\n\nToday's संज्ञा names the lesson: **संवादः** (saṃvādaḥ) \"dialogue\". Take it apart and you\nfind an old friend — the वद् of वदति \"speaks\" and वदामि \"I speak\", which you have been\nreading since Chapter 3, now wearing सम् \"together\". A dialogue is, literally, a\nspeaking-together.\n\n> **[FACT · तथ्यम्]** संवादः is built from सम् \"together\" + वादः \"speech, speaking\":\n> conversation as joint speech. The root is the same वद् that gives वदति and वदामि.\n> [REF:apte1890 s.v. संवाद]\n\n> **[HISTORY · इतिहासः]** Dialogue is not a late luxury of Sanskrit literature — it is one\n> of its oldest layers. The Ṛgveda, composed c. 1500–1200 BCE on the scholarly consensus\n> dating, already contains hymns cast entirely as exchanges between two speakers, with no\n> narrator at all. [REF:jamison2014 p.5]\n\n> **[TRADITION · परम्परा]** The tradition's great teaching texts keep that form: the\n> Upaniṣads stage instruction as question and answer between student and teacher, and the\n> Bhagavad Gītā describes itself as धर्म्यं संवादम् (dharmyaṃ saṃvādam) — \"a dialogue\n> concerning dharma\" — in its own closing chapter. [REF:bhagavadgita 18.70]\n\nYour two small scenes today stand at the head of that long road: someone asks, someone\nanswers, and the language happens between them."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — why frames come before grammar.\n\nमम नाम …। is what language pedagogy calls a **formulaic chunk**: a fixed frame learned as\na whole, with one open slot. You will use it correctly today without knowing what the -म\nof मम does or why नाम looks the way it does — exactly as you have used वदामि and अस्मि\nwhole since Chapters 3 and 5.\n\n> **[FACT · तथ्यम्]** Learning high-frequency conversational frames as unanalyzed wholes —\n> chunks — is a standard, well-supported route into speaking: the frame becomes usable at\n> once, fluency builds on known material, and the internal grammar is unpacked later\n> without relearning. [REF:nation2013]\n\nTwo more design notes, honestly stated. First, everything in today's dialogue is built\nfrom words you already read — that is the bootcamp principle: fluency grows by running\n*known* material at speed, not by piling on new material [REF:nation2013]. Second, every\nrun through the scenes is retrieval practice — you produce the frames from memory, which\nis the strongest rehearsal there is [REF:roediger2006]. And one delivery fact for §9: when\na sentence carries a question word (किम्, कः, का), the word itself does the asking; when\nit carries none — त्वम् अपि छात्रः? — the rising tune alone turns statement into question,\nas it has in this course since Chapter 3."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — today's संज्ञा is **संवादः** (saṃvādaḥ) \"dialogue\" — सम् (sam)\n\"together\" + वादः (vādaḥ) \"speech\". And the unlocked language, at once:\n\nमम नाम माया।\n(mama nāma māyā.) \"My name is Māyā.\" — मेरा नाम माया है।\n\nतव नाम किम्?\n(tava nāma kim?) \"What is your name?\" — तुम्हारा नाम क्या है?\n\nअहम् छात्रः अस्मि। त्वम् अपि छात्रः?\n(aham chātraḥ asmi. tvam api chātraḥ?) \"I am a student. Are you a student too?\" — मैं\nछात्र हूँ। क्या तुम भी छात्र हो?\n\nOne honest note: नाम (nāma) \"name\" is glossed as a chunk inside its frame, the same way\nevery verb has been glossed whole since Chapter 3. Why मम and तव end as they do, and what\nwork नाम's shape is doing — that machinery is Volume 3's. The frame is yours today."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nआज आपके पास वह पूँजी है जो अंग्रेज़ी से आने वाले शिक्षार्थी के पास नहीं है — हिन्दी।\nदेखिए कैसे: \"मेरा नाम राम है\" और मम नाम रामः — चाल लगभग वही है, फ़र्क़ बस इतना कि संस्कृत\nका यह साँचा \"है\" के बिना ही पूरा है। नामवाला वाक्य अध्याय 3 से बिना क्रिया के चलता आया है\n(अहम् रामः) — आज वही साँचा नाम के साथ बोलना है। दूसरी पूँजी: तुम और आप। यही जोड़ी संस्कृत\nमें त्वम् और भवान् है — जिसे आप \"तुम\" कहते हैं, उसे त्वम्; जिसे \"आप\", उसे भवान्। और तीसरी:\n\"भी\"। संस्कृत का अपि ठीक हिन्दी के भी की तरह अपने शब्द के *पीछे* चलता है — \"मैं भी\" =\nअहम् अपि। \"यह क्या है?\" = एतत् किम्? — यहाँ भी \"है\" नहीं चाहिए।\n\nअब तीन चेतावनियाँ। पहली और सबसे बड़ी: नाम। हिन्दी की आदत इसे एक ही झटके में \"नाम्\" जैसा\nबोल देती है; संस्कृत में यह दो पूरे अक्षर हैं — ना-म — अन्तिम अ पूरा। मम नाम कहते समय\nचारों अक्षर गिनकर बोलिए। दूसरी: छात्र रोज़ की हिन्दी का शब्द है, पर संस्कृत में वह विसर्ग\nसमेत खड़ा होता है — छात्रः — और शास्त्रीय ढंग में लड़की अपने लिए बालिका कहती है (आधुनिक\nप्रयोग में छात्रा भी चलता है — उसका उल्लेख भर आज है, पाठ नहीं)। तीसरी: एतत् का ए सीधा,\nलम्बा /eː/ है — यहाँ हिन्दी आपके साथ है, क्योंकि हिन्दी का ए भी यही है; अंग्रेज़ी की\n\"ay\" वाली डगमगाहट से बचिए।\n\nऔर आज का असली काम याद रखिए: यह पाठ पढ़ने का नहीं, *बोलने* का है। हर साँचा उसी समय सच्चा\nहोता है जब उसमें आपका अपना नाम बैठता है।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "Two frames, three questions, one small word that walks behind — and then you talk.\n\n### The two frames\n\nThe first frame you already own: **अहम् … अस्मि** — \"I am …\" — Chapter 5's identity frame,\nverb glossed whole. Today adds its partner, the name frame:\n\n**मम नाम …।** (mama nāma …) \"My name is …\" — say the frame, drop your name in the slot,\ndone. And notice what is *not* there: no \"is\". मम नाम सीता is a complete sentence. The\nnaming sentence has been verbless since Chapter 3 — अहम् रामः, मम पुत्रः — and today's\nframe simply joins that family. नाम is glossed as a chunk; which ending does what inside\nthe frame is Volume 3's story, and we will not smuggle it in.\n\n### The question kit, completed\n\nThree question words, all old acquaintances, finally doing a full day's work together:\n\n| Question | Ask it of | The answer frame |\n|---|---|---|\n| तव नाम किम्? \"what is your name?\" | anyone | मम नाम …। |\n| त्वम् कः? \"who are you?\" | a boy or man, as a peer | अहम् रामः। / अहम् छात्रः अस्मि। |\n| त्वम् का? \"who are you?\" | a girl or woman, as a peer | अहम् सीता। / अहम् बालिका। |\n| भवान् कः? \"who are you, sir?\" | a man, respectfully | अहम् गुरुः। |\n\nकः has waited since Chapter 2, का stood beside भाषा in Chapter 4's review as a fixed\nchunk, किम् arrived with Chapter 5's virāma. One honesty note: the questions addressed to\n*you* carry no verb — त्वम् अपि छात्रः? The you-form of अस्मि exists, and it opens\nVolume 2; until then the verbless question is complete, correct, and yours.\n\n### त्वम् or भवान् — one honest line\n\nत्वम् (tvam) is the intimate you — friends, classmates, children; भवान् (bhavān) is the\nrespectful you said to a man, Chapter 5's polite chunk. Hindi speakers already own this\nsplit as तुम/आप. The full polite family, feminine forms included, is Volume 2's business —\ntoday, just choose the right one of the pair.\n\n### अपि — the word that walks behind\n\n**X अपि = \"X too.\"** अहम् अपि \"I too\"; त्वम् अपि \"you too\". It leans on the word before\nit, exactly like Hindi भी — it never walks in front. That placement is the whole of\ntoday's rule; the rest of अपि's manners come later.\n\n### एतत् — this, for pointing\n\n**एतत्** (etat) \"this\" is the near partner of Chapter 5's तत् \"that\". Point and ask:\nएतत् किम्? \"what is this?\" Answer with any thing-word you own: एतत् जलम्। एतत् हिमम्।\nएतत् मित्रम्। — and note that मित्रम् stays a म्-word whoever the friend is, so you may\npoint at a person *through* it. The pointing words for persons themselves are Volume 2's.\n\n### Seven words, one ledger\n\nYesterday's long words brought the readable ledger to about 226; today's seven — नाम,\nत्वम्, तव, एतत्, अपि, छात्रः, बालिका — push it past 230. Nothing else is new. That is the\nbootcamp bargain: a tiny toll, then the whole lesson is spent *using* what you own."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is delivery. Audio: 🔊\n`planned:assets/audio/volume-1/v1c06l02-dialogue.mp3` (both scenes at three speeds, plus\nthe roleplay-gap track), 🔊 `planned:assets/audio/volume-1/v1c06l02-word-list.mp3` (seven\nwords + dictation track).\n\n**Drill 1 — the two question tunes.** Where a question word stands, the word itself asks:\nतव नाम किम्? — keep the tune level and let किम् do the work. Where no question word\nstands, the rise *is* the question: say मित्रम् अत्र अस्ति। flat, then मित्रम् अत्र\nअस्ति? rising — then transfer the pair to त्वम् अपि छात्रः। / त्वम् अपि छात्रः? Three\nrounds, alternating.\n\n**Drill 2 — turn timing.** A dialogue adds a skill no word list can teach: the gap.\nPause-form reading between turns — finish your line, one full beat of silence, then the\nanswer. With the slow track: speak each turn along with the recording, holding the beat.\n\n**Drill 3 — shadow both roles.** Play Scene 1; speak Rāma's lines in his gaps. Replay;\nspeak Sītā's. The roleplay-gap track leaves one side silent for you.\n\n**Drill 4 — the name discipline.** नाम is two full beats: ना-म, final अ intact — never the\nHindi habit's clipped \"nām\". Then your own name in the frame, loud, five times:\nमम नाम …। Every learner's hardest word today is their own name said with Sanskrit vowels."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new symbols — new timing and tune. The frames in pause form:\n\n**मम नाम माया** /mɐmɐ n̪ɑːmɐ mɑːjɑː/ · **तव नाम किम्** /t̪ɐʋɐ n̪ɑːmɐ kim/ ·\n**अहम् छात्रः अस्मि** /ɐɦɐm t͡ɕʰɑːt̪ɾɐh ɐsmi/ · **एतत् किम्** /eːt̪ɐt̪ kim/.\n\n**Word transcriptions:** नाम /n̪ɑːmɐ/ · त्वम् /t̪ʋɐm/ · तव /t̪ɐʋɐ/ · एतत् /eːt̪ɐt̪/ ·\nअपि /ɐpi/ · छात्रः /t͡ɕʰɑːt̪ɾɐh/ · बालिका /bɑːlikɑː/.\n\n**Narrow notes:** छात्रः opens on the aspirated palatal affricate [t͡ɕʰ] — the puff\nbelongs to छ and must survive; inside the same word sits the त्र join, [t̪ɾ] with no vowel\nbetween. त्वम् is one onset, [t̪ʋ]: dental closure released straight into the labiodental\nglide — an inserted vowel makes the non-word \"tuvam\". एतत् opens on a long steady [eː] —\nnever the English glide [eɪ]. And नाम is [n̪ɑː.mɐ], two syllables; the final [ɐ] is a full\nbeat, not an afterthought."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — nothing new to place; three checks to run.\n\n1. **The त्व bridge.** Say त्वम् slowly: tongue tip on the teeth for त्, then the lower\n   lip rises to the upper teeth for व — two stations, one gesture, no vowel between.\n   Mirror check: the jaw must not bounce open inside त्व.\n2. **The छ station.** छात्रः begins where च lives — tongue blade at the hard palate — with\n   a real puff. Tissue before the lips: it barely stirs on च and *jumps* on छ.\n3. **The steady ए.** Watch your mouth through the first beat of एतत्: lips and jaw frozen.\n   If they glide, you said English \"ay\", not Sanskrit ए."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **नाम clipped to \"nām\".** The Hindi habit deletes the final अ. *Fix:* two beats, ना-म,\n   tap the desk on each; the frame is मम नाम — four full beats in a row.\n2. **एतत् with an English glide.** \"ay-tat\" [eɪ] for /eː/. *Fix:* the Chapter 2 discipline\n   — long, pure, jaw frozen; Hindi's ए is your anchor.\n3. **A vowel smuggled into त्वम्.** \"tuvam\" for /t̪ʋɐm/. *Fix:* Chapter 5's timing drill —\n   see, split, say; one onset, no bounce.\n4. **अपि walking in front.** \"अपि अहम्\" for \"I too\". *Fix:* X अपि — it stands *behind*\n   its word, exactly like Hindi भी: अहम् अपि, त्वम् अपि.\n5. **छात्रः from a girl.** The ः-word is masculine; classically a girl says अहम् बालिका\n   (or अहम् बाला). The modern feminine छात्रा exists and you will meet it in today's\n   world — mentioned honestly here, taught in Volume 2 with the gender system.\n6. **The flat question.** त्वम् अपि छात्रः said level is a statement — \"you too are a\n   student.\" *Fix:* no question word means the rise carries everything; run §9 drill 1\n   until the pair feels automatic."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three items with something inside them.\n\n### नाम — a word older than the language\n\n**नाम** (nāma) \"name\" — नाम · /n̪ɑːmɐ/\n\n> **[FACT · तथ्यम्]** Sanskrit नामन् (nāman), Latin nōmen, and English *name* descend from\n> one shared Proto-Indo-European word — they are cognates, siblings from a common\n> ancestor, not borrowings and not parent and child. Your first question today is built on\n> a word your own language has carried all along. [REF:monierwilliams1899 s.v. नामन्]\n\n### छात्रः — the student under the umbrella\n\n**छात्रः** (chātraḥ) \"student\" — छात्र · /t͡ɕʰɑːt̪ɾɐh/\n\n> **[FACT · तथ्यम्]** The dictionaries connect छात्र to छत्र (chatra) \"umbrella, parasol\":\n> the pupil as the one under the teacher's umbrella — shelter and instruction in a single\n> image. [REF:monierwilliams1899 s.v. छात्र]\n\nOne reading note: the word carries Chapter 5 inside it — the छ puff, the ा mātrā, the त्र\njoin, the ः close. Four chapters of script in seven sounds.\n\n### मम नाम … — the frame with no verb\n\n**मम नाम माया।** (mama nāma māyā.) \"My name is Māyā.\" — मेरा नाम माया है।\n\nNo \"is\" — and nothing missing. The naming sentence has been verbless since अहम् रामः in\nChapter 3; the name frame is the same sentence wearing नाम. Swap the name slot and the\nframe answers for anyone: मम नाम सीता। मम नाम रामः। And turn it around with किम् in the\nslot and तव in front, and it becomes the question: तव नाम किम्?"
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — six new words and one upgrade; with yesterday's long words your readable stock\npasses two hundred and thirty. No 🔊 loans anywhere. Audio: 🔊\n`planned:assets/audio/volume-1/v1c06l02-word-list.mp3` (model reading, each word twice,\nplus the dictation track).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| नाम | nāma | /n̪ɑːmɐ/ | name | नाम | the frame word — मम नाम …। glossed whole (§8) |\n| त्वम् | tvam | /t̪ʋɐm/ | you (intimate) | तुम | त्व by the mechanism; pairs with भवान् (§8) |\n| तव | tava | /t̪ɐʋɐ/ | your | तुम्हारा | upgrade — glue word 🔊 since v1.c01.l04, readable since v1.c04.l01; enters the ledger today |\n| एतत् | etat | /eːt̪ɐt̪/ | this | यह | near partner of तत् (§8); steady /eː/ |\n| अपि | api | /ɐpi/ | also, too | भी | ear-word since v1.c02.l05; walks behind its word (§8) |\n| छात्रः | chātraḥ | /t͡ɕʰɑːt̪ɾɐh/ | student | छात्र, विद्यार्थी | त्र from v1.c05.l03; §13's umbrella |\n| बालिका | bālikā | /bɑːlikɑː/ | girl | बालिका, लड़की | बालकः's sister word; a girl's classical self-introduction (§12) |\n\nReading protocol, as always: block by block (छा-त्रः, बा-लि-का), then the whole word, then\nthe audio. One onset per conjunct; every final अ full; and the frame words practiced *in*\ntheir frames, not in isolation — मम नाम …, त्वम् कः, अहम् अपि."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in this lesson the grammar *is* the frames: chunks used whole, boundaries\nstated honestly. Chapter 6 adds nothing new to the script — that campaign closed with\nChapter 5.\n\n### The frames are the grammar\n\nThree frames, all verbless or whole-verb, all complete:\n\n- **मम नाम …।** — name frame; nothing conjugates, nothing declines *for you yet*.\n- **अहम् … अस्मि।** — identity frame; अस्मि glossed whole since v1.c05.l02.\n- **त्वम् कः? / त्वम् का? / तव नाम किम्?** — the questions; no verb, none needed.\n\nTwo honest boundaries, so nothing is smuggled: the you-form of अस्मि exists and opens\nVolume 2 — until then questions to *you* stay verbless. And the endings inside मम, तव,\nनाम — why they look as they do — that is Volume 3's system, previewed by not one word here.\n\n### The question kit\n\n> **[FACT · तथ्यम्]** The question word matches its answer: कः asks after masculine\n> ः-words (कः? — रामः, छात्रः), का after feminine words in -आ (का? — सीता, बालिका), and\n> किम् after neuter म्-words and things (किम्? — जलम्, नाम). Today they are fixed chunks;\n> the system behind them is Volume 2's. [REF:apte1890 s.v. किम्]\n\n### Three shapes in the answer slot\n\nLook at what stands in the naming frames: रामः and छात्रः wear ः; जलम् and मित्रम् wear\nम्; सीता, माया, बालिका stand unchanged. You have been *seeing* this split since Chapter 3\n— मालाs beside बालकःs — and today you are using all three shapes on purpose. Why the\nshapes exist is the gender-and-case story of Volume 2; today, match the shape you heard.\n\n### अपि's one rule\n\nअपि follows the word it adds to: अहम् अपि \"I too\", त्वम् अपि \"you too\", एतत् अपि \"this\ntoo\". Behind, never in front. That is the entire rule taught today."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — the heart of the lesson: the course's first true conversation, in two scenes.\nEvery word is self-read. 🔊 audio: `planned:assets/audio/volume-1/v1c06l02-dialogue.mp3`\n(slow pause-form, natural speed, and a roleplay-gap track with one side silent).\n\n### Scene 1 — the name exchange\n\nरामः meets सीता on the school path.\n\n— नमस्ते! अहम् रामः। तव नाम किम्?\n(namaste! aham rāmaḥ. tava nāma kim?) \"Greetings! I am Rāma. What is your name?\" —\nनमस्ते! मैं राम हूँ। तुम्हारा नाम क्या है?\n\n— मम नाम सीता। त्वम् कः?\n(mama nāma sītā. tvam kaḥ?) \"My name is Sītā. Who are you?\" — मेरा नाम सीता। तुम कौन हो?\n\n— अहम् छात्रः अस्मि। त्वम् का?\n(aham chātraḥ asmi. tvam kā?) \"I am a student. Who are you?\" — मैं छात्र हूँ। तुम कौन हो?\n\n— अहम् बालिका। अहम् सीता!\n(aham bālikā. aham sītā!) \"I am a girl. I am Sītā!\" — मैं लड़की हूँ। मैं सीता!\n\nNotice the pair of question words at work: Sītā asks the boy त्वम् कः?; Rāma asks the girl\nत्वम् का?. To the गुरुः, both would say भवान् कः? — the respectful chunk from Chapter 5.\nAnd notice Sītā's classical answer: the ः-word छात्रः is masculine, so she answers with\nबालिका. (The modern feminine छात्रा exists — one honest mention, taught properly with\nVolume 2's gender system.)\n\n### Scene 2 — at the school door\n\nरामः meets the बालकः of our stories — and the specced question of the day.\n\n— नमस्ते! त्वम् कः?\n(namaste! tvam kaḥ?) \"Greetings! Who are you?\" — नमस्ते! तुम कौन हो?\n\n— अहम् रामः। अहम् छात्रः अस्मि। त्वम् अपि छात्रः?\n(aham rāmaḥ. aham chātraḥ asmi. tvam api chātraḥ?) \"I am Rāma. I am a student. Are you a\nstudent too?\" — मैं राम हूँ। मैं छात्र हूँ। क्या तुम भी छात्र हो?\n\n— आम्! अहम् अपि छात्रः अस्मि!\n(ām! aham api chātraḥ asmi!) \"Yes! I too am a student!\" — हाँ! मैं भी छात्र हूँ!\n\n— एतत् किम्?\n(etat kim?) \"What is this?\" — यह क्या है?\n\n— एतत् जलम्।\n(etat jalam.) \"This is water.\" — यह जल है।\n\n— एतत् किम्?\n(etat kim?) \"And this?\" — और यह क्या है?\n\n— एतत्? एतत् मित्रम्!\n(etat? etat mitram!) \"This? This is a friend!\" — यह? यह मित्र है!\n\nDelivery notes: त्वम् अपि छात्रः? has no question word — the rise carries everything (§9\ndrill 1). Between turns, pause form: one full beat. And the last joke is grammar wearing a\ngrin — मित्रम् stays a म्-word whoever the friend is, so pointing एतत् at a person works\nexactly when it goes through मित्रम्. Swap roles and run both scenes with your own names —\nthe frames take any name you own."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — बालिका · The New Girl. Six lines; each line: Devanagari, IAST, English, Hindi.\n\n1. बालिका अत्र अस्ति।\n   (bālikā atra asti.) \"A girl is here.\" — एक लड़की यहाँ है।\n2. सीता वदति — नमस्ते! तव नाम किम्?\n   (sītā vadati — namaste! tava nāma kim?) \"Sītā says: Greetings! What is your name?\" —\n   सीता कहती है — नमस्ते! तुम्हारा नाम क्या है?\n3. बालिका वदति — मम नाम माया। त्वम् का?\n   (bālikā vadati — mama nāma māyā. tvam kā?) \"The girl says: My name is Māyā. Who are\n   you?\" — लड़की कहती है — मेरा नाम माया है। तुम कौन हो?\n4. सीता वदति — अहम् सीता। एतत् मित्रम् — रामः।\n   (sītā vadati — aham sītā. etat mitram — rāmaḥ.) \"Sītā says: I am Sītā. This is a\n   friend — Rāma.\" — सीता कहती है — मैं सीता। यह मित्र है — राम।\n5. गुरुः वदति — स्वागतम्! स्वागतम्!\n   (guruḥ vadati — svāgatam! svāgatam!) \"The teacher says: Welcome, welcome!\" — गुरु कहते\n   हैं — स्वागत है! स्वागत है!\n6. माया हसति — नमस्ते! अहम् अपि अत्र अस्मि!\n   (māyā hasati — namaste! aham api atra asmi!) \"Māyā laughs: Greetings! I too am here!\" —\n   माया हँसती है — नमस्ते! मैं भी यहाँ हूँ!\n\nLine 6 is Chapter 5's milestone line wearing today's अपि — the course's sentences are\nstarting to quote each other. And now the moment this lesson owes you. Here, verbatim, is\nthe first conversation this course ever printed — v1.c01.l01 §16, on a day you could not\nread one letter of it:\n\n> — नमस्ते! (namaste!) \"Greetings!\" — नमस्ते!\n>\n> — नमस्ते! (namaste!)\n>\n> — \"My name is Maya. What's yours?\" *(English for now — Sanskrit self-introductions come\n> later in this volume.)*\n\nChapter 5 let you *read* her greeting. Today the course pays the last line of its oldest\npage. Maya asked in English because you could not yet be asked in Sanskrit. Answer her now,\naloud:\n\n**मम नाम माया। तव नाम किम्?**\n(mama nāma māyā. tava nāma kim?)\n\n— and answer the question with your own name, because it was always meant for you. (The\nparenthesis on that old page said \"later in this volume\" and meant it: the frame had to\nwait for नाम, for तव, and for a complete writing system. Today is that later — and the\npromise you could once only be told about, you can now read from both sides.)"
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 3, 4, 5 and 6 are production tasks. Do them in order.\n\n**अभ्यासः 1 · नाम-लेखनम् (your name in the frames — production).** On paper, write both\nframes with your own name in the slot: मम नाम ______। and अहम् ______ अस्मि। Then say\neach aloud three times. If your name has sounds Devanagari does not carry, approximate\nhonestly — every learner of every language does this, and your approximation will improve\nwith the course. Girls: add अहम् बालिका; boys: अहम् छात्रः अस्मि.\n\n**अभ्यासः 2 · प्रश्नमाला (the question chain).** Build the chain aloud, both parts, from\nthese cues: to a boy → त्वम् कः?; to a girl → त्वम् का?; to anyone → तव नाम किम्?; to a\nman, respectfully → भवान् कः? Then answer all four as yourself. Self-check with §8's\ntable: question word matched to the person asked?\n\n**अभ्यासः 3 · अभिनयः (roleplay — production).** Print the worksheet ✍\n(`planned:assets/worksheets/volume-1/v1c06l02-roleplay.pdf`). With a partner, perform\nScene 1 and Scene 2 from the role cards — each partner sees only their own lines. Swap\nroles and repeat. Solo mode: the roleplay-gap track 🔊 leaves one side silent for you.\nPause form between turns; rising tune where no question word stands.\n\n**अभ्यासः 4 · परिचयः (record yourself — production).** Record your full self-introduction\nin one take: नमस्ते! मम नाम ______। अहम् छात्रः अस्मि। (or अहम् बालिका।) Play it back\nagainst §9's disciplines: नाम in two beats, त्वम्-style clusters one onset, every final अ\nfull. Keep the recording — lesson 4's Volume Exam will ask for this again, faster.\n\n**अभ्यासः 5 · एतत्-क्रीडा (the pointing game — production).** Cut the worksheet's three\npicture cards — जलम्, हिमम्, मित्रम्. Shuffle, point, ask aloud: एतत् किम्? Answer in the\nframe: एतत् जलम्। Then play it in the room: point at real water, at a real friend. Three\nrounds; the asking and the answering both count as production.\n\n**अभ्यासः 6 · श्रुतलेखनम् (dictation — production).** Play the dictation track 🔊 (in the\nword-list audio): six dialogue lines in random order, each read twice with a writing\npause. Write them in Devanagari, daṇḍas and question marks included. Self-check against\n§16: conjuncts fused? every म् and ः in place? 5/6 is a pass; re-take tomorrow either way\n(§20)."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. You meet a boy your own age. The peer question for \"who are you?\" is: (a) त्वम् कः?\n   (b) त्वम् का? (c) भवान् कः? (d) तव नाम किम्?\n2. \"My name is Sītā\" in today's frame: (a) मम नाम सीता। (b) तव नाम सीता। (c) अहम् नाम\n   सीता। (d) मम सीता नाम।\n3. \"I too am a student\": (a) अपि अहम् छात्रः अस्मि। (b) अहम् अपि छात्रः अस्मि। (c) अहम्\n   छात्रः अस्मि अपि। (d) आम्! अहम् छात्रः अस्मि।\n4. Classically, a girl introducing herself says: (a) अहम् छात्रः अस्मि। (b) अहम् बालिका।\n   (c) अहम् भवान्। (d) अहम् का।\n5. Which question depends on the rising tune alone? (a) तव नाम किम्? (b) त्वम् कः?\n   (c) त्वम् अपि छात्रः? (d) एतत् किम्?\n6. Someone points at a water pot and asks एतत् किम्? Today's frame answers: (a) एतत्\n   जलम्। (b) तत् का। (c) एतत् कः। (d) जलम् किम्।\n7. To your teacher — a man — the respectful \"who are you?\" is: (a) त्वम् कः? (b) भवान्\n   कः? (c) तव नाम कः? (d) भवान् का?\n8. Reading check — write the English meaning of each: (a) नाम (b) छात्रः (c) एतत् (d) अपि\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (a) त्वम् कः? — peer question to a boy (§8). ((b) is for a girl; (c) is respectful, not\n   peer; (d) asks the name, not the person.)\n2. (a) मम नाम सीता। — the frame whole (§8). ((b) says *your*; (c) mixes the two frames;\n   (d) breaks the frame's fixed order.)\n3. (b) अहम् अपि छात्रः अस्मि। — अपि walks behind its word (§8, §12 mistake 4). ((d) is a\n   fine sentence but drops the \"too\".)\n4. (b) अहम् बालिका। — the ः-word छात्रः is masculine (§12 mistake 5); छात्रा is modern\n   usage, mentioned but not taught here. ((c) भवान् means \"you\"; (d) का is a question\n   word.)\n5. (c) त्वम् अपि छात्रः? — the only one with no question word; the rise is the question\n   (§5, §9 drill 1).\n6. (a) एतत् जलम्। — point, then answer with the thing-word in the frame (§8).\n7. (b) भवान् कः? — Chapter 5's respectful chunk (§8). ((a) is the peer form; (c) asks\n   नाम with the wrong question word — नाम asks with किम्; (d) का is feminine.)\n8. (a) नाम = \"name\"; (b) छात्रः = \"student\"; (c) एतत् = \"this\"; (d) अपि = \"also, too\"\n   (§14).\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The frames:** मम नाम …। and अहम् … अस्मि — complete without \"is\", your name in the\n> slot. **The questions:** तव नाम किम्? · त्वम् कः? to a boy · त्वम् का? to a girl ·\n> भवान् कः? respectfully — and where no question word stands, the rise alone asks: त्वम्\n> अपि छात्रः? **The walker:** X अपि = \"X too\" — always behind its word. **The pointer:**\n> एतत् किम्? — एतत् जलम्। **The words:** seven — छात्रः and बालिका leading. **The debt:**\n> Maya's question, answered after five chapters — मम नाम माया।\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-record the self-introduction (exercise 4) cold and compare takes;\n  re-take the dictation; run Scene 2 from memory with the name slots changed.\n- **In 1 week:** lesson 3's connected passage will tell you a boy's name in running\n  Sanskrit and expect you to catch it — today's नाम comes back mid-paragraph. The Volume\n  Exam's reading ladder includes today's dialogue lines.\n- **From now on:** introductions in Sanskrit are your default party trick — every new\n  notebook, every margin: मम नाम …।"
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 4 and 6 if not completed in class — the recorded\n   self-introduction and the dictation pass.\n2. **(10 min, real world)** The name harvest: teach someone at home the frame मम नाम …।,\n   then ask them तव नाम किम्? until they can answer in Sanskrit. Collect three names;\n   bring them to class written in Devanagari as best you can.\n3. **(5 min)** Run both scenes solo, speaking both roles, pause form between turns — once\n   slow, once at the natural-speed track.\n4. **(5 min, stretch)** Write a four-line dialogue between yourself and Maya: greeting,\n   her question, your answer with your real name, one अपि line. Every word must come from\n   the ledger.\n\nTomorrow, before anything else: the 1-day re-recording (§20). The gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**This is a speaking lesson — chairs in pairs from minute one.** The reading is light by\ndesign (seven words); the win condition is every student asking and answering with their\nreal name, aloud, several times. Do not let the hour become silent reading about a\ndialogue.\n\n**Timing plan (45 min):** §3 retrieval, written (4) → hook: the unanswered question (2) →\nthe two frames on the board, names dropped in live (6) → question kit + the त्वम्/भवान्\nline (6) → Scene 1: model, then pairs (7) → Scene 2 + अपि + the pointing game (7) → the\nname round: every student introduces themselves to the room in sequence (6) → THE MAYA\nMOMENT staged as below (4) → dictation start + homework briefing (3).\n\n**Stage the Maya moment — do not narrate it.** Board or slide: the v1.c01.l01 dialogue\ncard exactly as first printed, English third line and all. Silence. Let a student read the\ntwo Sanskrit lines; let the English line hang for ten unhurried seconds. Then write मम नाम\nमाया। under it and step aside — the room will finish the arc before you explain it. Then\nhave the whole class answer her question, one name at a time.\n\n**The छात्रा question is coming — have the honest script ready.** Hindi-medium students\nwill ask why Sītā does not say छात्रा. Answer exactly what the course prints: छात्रा is\ncommon modern usage and perfectly real; the classical default this course follows is अहम्\nबालिका / अहम् बाला, and Volume 2's gender system will give छात्रा its proper seat. Never\n\"wrong\" — \"later, and here is the classical way today.\"\n\n**Names resist Devanagari — normalize that early.** Approximations are correct behavior,\nnot errors; demonstrate with a hard name on the board. Shy speakers: run the name round\nchorus-first (everyone repeats each introduction), then solo.\n\n**Differentiation:** Hindi speakers own तुम/आप and भी — move them fast to delivery and\nhold them to two disciplines: नाम in two beats and the rising tune said *confidently*.\nEnglish-habit learners rise on questions natively — their work is त्व as one onset and\ndental त throughout. Watch both groups on अपि placement in free speech; it drifts\nfrontward under English influence (\"also I am…\")."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-1/v1c06l02-dialogue-cards.svg`**\n\n> Educational dialogue storyboard, warm off-white, Noto Serif Devanagari, ink-black with\n> two accent colors, monochrome-safe. Panel A (\"Scene 1 — the name exchange\"): two\n> children on a school path, speech bubbles in exact Devanagari: नमस्ते! अहम् रामः। तव\n> नाम किम्? / मम नाम सीता। त्वम् कः? / अहम् छात्रः अस्मि। त्वम् का? / अहम् बालिका। अहम्\n> सीता! Panel B (\"Scene 2 — at the school door\"): two boys, bubbles: नमस्ते! त्वम् कः? /\n> अहम् रामः। अहम् छात्रः अस्मि। त्वम् अपि छात्रः? / आम्! अहम् अपि छात्रः अस्मि! plus a\n> pointing exchange: एतत् किम्? / एतत् जलम्। Side strip: the question kit कः · का · किम्\n> with arrows to रामः · सीता · जलम्; a register chip pairing त्वम् (peer) / भवान्\n> (respectful); a rising-tune arc drawn over त्वम् अपि छात्रः? Footer: the blank name card\n> मम नाम ______। Devanagari must render exactly as given.\n\n**Asset 2 — `planned:assets/worksheets/volume-1/v1c06l02-roleplay.pdf` (layout spec)**\n\n> A4 worksheet, portrait, ruled Devanagari guides with headline. Row 1: Scene 1 role cards\n> — Rāma's lines and Sītā's lines on separable halves, each half showing only its own\n> lines plus cue words. Row 2: Scene 2 role cards, same split. Row 3 (flag icon): THE NAME\n> ROW — मम नाम ______। and अहम् ______ अस्मि। with ruled guides for the learner's own\n> name, one solid model (मम नाम माया।) and a note \"approximate freely — improve later\".\n> Row 4: three cut-out picture cards for the pointing game — a water pot (जलम्), snow\n> (हिमम्), two friends (मित्रम्) — each captioned in Devanagari. Row 5: dictation log —\n> six ruled lines, two attempt columns with date boxes. Footer chants: \"ना-म — two full\n> beats\" · \"X अपि — the walker walks behind\" · \"no question word? the rise asks\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:35):** the v1.c01.l01 dialogue card on screen; the two Sanskrit lines\n   get read by a moving cursor; the English third line — \"My name is Maya. What's\n   yours?\" — is stamped \"UNANSWERED SINCE LESSON ONE\". Title: संवादः — The First Dialogue.\n2. **The frames (0:35–1:45):** मम नाम …। assembles word by word; the name slot pulses and\n   fills with different names; अहम् … अस्मि recalled from Chapter 5; caption: \"complete\n   without an is.\"\n3. **The question kit (1:45–2:45):** कः, का, किम् sort themselves onto रामः, सीता, जलम्;\n   तव नाम किम्? assembles from तव + नाम + किम्; the register chip flips तुम→त्वम्,\n   आप→भवान्.\n4. **The scenes (2:45–4:15):** both §16 scenes play as animated speech bubbles; अपि\n   physically walks to stand behind अहम्; a rising-tune arc draws itself over त्वम् अपि\n   छात्रः?; the pointing game runs on जलम् and मित्रम् with a laugh beat.\n5. **THE MOMENT (4:15–5:15):** the screen quiets. The lesson-one card returns, exactly as\n   first printed. The cursor stops under Maya's English line. Then, typed letter by\n   letter: मम नाम माया। The stamp flips to \"ANSWERED — Chapter 6\". Beat of silence.\n   Caption: \"Now answer her with yours.\"\n6. **Recap + CTA (5:15–6:00):** the seven words flash in frames, not isolation; end card:\n   \"Next: your first Sanskrit paragraph — and a boy whose name you will read for\n   yourself.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** Five chapters of reading other people's words. Here is a question with no\n  printed answer: tava nāma kim [t̪ɐʋɐ n̪ɑːmɐ kim] — what is your name? The only right\n  answer in the world is yours.\n- **00:35** The frame that answers it: mama nāma [mɐmɐ n̪ɑːmɐ] — my name — then simply\n  the name itself. No \"is\" required; the sentence is complete. mama nāma māyā [mɐmɐ\n  n̪ɑːmɐ mɑːjɑː].\n- **01:45** Three question words, one kit. kaḥ [kɐh] asks after the ḥ-words. kā [kɑː]\n  after the ā-words. kim [kim] after things — and after names. And one honest pair: tvam\n  [t̪ʋɐm] to a friend, bhavān [bʱɐʋɑːn̪] with respect — exactly Hindi's tum and āp.\n- **02:45** Scene one — two students, two questions, two names. Listen for the tune in\n  scene two: no question word, so the rise alone asks — tvam api chātraḥ [t̪ʋɐm ɐpi\n  t͡ɕʰɑːt̪ɾɐh]? Yes! aham api [ɐɦɐm ɐpi] — I too!\n- **04:15** And now — quiet. The first page of this course printed a girl's question in\n  English, because you could not yet be asked in Sanskrit. Five chapters. Watch. mama\n  nāma māyā [mɐmɐ n̪ɑːmɐ mɑːjɑː]. Answered. Now answer her with yours.\n- **05:15** Seven words came with the talking: nāma [n̪ɑːmɐ] — name — cousin of the\n  English word itself. chātraḥ [t͡ɕʰɑːt̪ɾɐh] — student. bālikā [bɑːlikɑː] — girl. api\n  [ɐpi] — too.\n- **05:40** Next time: a whole paragraph of connected Sanskrit — and inside it, a boy's\n  name you will read with no help at all. namaste [n̪ɐmɐst̪eː] — and this time, introduce\n  yourself."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** big type: \"Sanskrit's word for *name*? नाम — nāma.\" Beat.\n  \"English *name*. Latin *nōmen*. Same ancient family.\"\n- **Demo (0:07–0:30):** the frame builds on screen: मम नाम ______। \"my name is — anyone's\n  name.\" The question flips it: तव नाम किम्? Pointer finger taps the viewer: \"your turn\"\n  — the slot pulses empty.\n- **Payoff (0:30–0:43):** the course's first page appears: a question printed in English\n  five chapters ago because it couldn't be printed in Sanskrit — then typed live: मम नाम\n  माया। Stamp: \"answered.\"\n- **CTA (0:43–0:50):** \"Say yours. This is Sanskritam — Chapter 6: the first real\n  conversation.\" End card: संवादः."
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-1/v1c06l02-dialogue-cards.svg` — §16 scenes, §8 question kit,\n    §23 prompt 1. Speech-bubble text must match §16 exactly (the Volume Exam's reading\n    ladder reuses these lines).\n  - `assets/audio/volume-1/v1c06l02-dialogue.mp3` — §9 drills 2–3, §16, §18 exercise 3\n    (three speeds + roleplay-gap track with one side silent; transcript required).\n  - `assets/audio/volume-1/v1c06l02-word-list.mp3` — §14 model reading, §18 exercise 6\n    (randomized six-line dictation track with transcript).\n  - `assets/worksheets/volume-1/v1c06l02-roleplay.pdf` — §18 exercises 3, 5, 6; §23\n    asset 2 (role cards, name row, pointing-game cards, dictation log).\n- **Related lessons:** reviews v1.c05.l01 (अहम्, भवान्, किम्/तत्, आम्; the polite chunk\n  reused in §8) and v1.c05.l02 (अस्मि identity frame extended into the name frame; the\n  reprint-ceremony staging of its §17 mirrored in §17 here); closes the arc opened in\n  v1.c01.l01 §16 (the English third line — answered here) and tracked through v1.c05.l02\n  §17; builds on v1.c02.l06 (कः), v1.c03.l05 (verbless naming, बालकः; rising-tone\n  questions since Chapter 3), v1.c04.l01 (तव readable), v1.c04.l04 §16 (का as fixed\n  chunk), v1.c05.l03 (त्र in छात्रः; मित्रम्; the म्/ः observation; milestone line quoted\n  in §17 line 6), v1.c06.l01 (word-level fluency feeding dialogue speed); feeds\n  v1.c06.l03 (the connected passage; नाम returns mid-paragraph; बालिका mirror line),\n  v1.c06.l04 (Volume Exam reading ladder includes §16 lines; self-introduction re-recorded),\n  Volume 2 (conjugation of अस्मि's family incl. the you-form; gender system incl. छात्रा\n  and the polite family), Volume 3 (the endings inside मम / तव / नाम).\n- **Glossary:** **संवाद (saṃvāda) is first-taught here** — add to GLOSSARY.md in the\n  post-chapter loop (suggested hi gloss: बातचीत, संवाद). Reuses संज्ञा, स्वर, व्यञ्जन,\n  विसर्ग, मात्रा per GLOSSARY.md. सम्भाषणम् remains the §16 section label only, as in all\n  lessons; संवादः is the taught term.\n- **Verification flags for Pass C:** संवाद etymology (§4, §6) against [REF:apte1890 s.v.\n  संवाद]; Ṛgveda dialogue-hymn claim (§4 HISTORY) — dating locator p.5 is established, but\n  the dialogue-hymns statement needs its own locator in [REF:jamison2014] (introduction,\n  dialogue/ākhyāna hymns) — confirm or soften to TRADITION; धर्म्यं संवादम् wording and\n  locus (§4) against [REF:bhagavadgita 18.70]; नामन् cognate set (§13) against\n  [REF:monierwilliams1899 s.v. नामन्] — phrased sibling-not-mother per the banned-claims\n  rule; छात्र ← छत्र derivation (§13) against [REF:monierwilliams1899 s.v. छात्र] — note\n  MW's headword spelling छात्त्र beside common छात्र, add a spelling note if Pass C wants\n  it; बालिका is NOT attested in any Chapter 1–5 vocabulary table (repo grep, 2026-07-31) —\n  taught new here as word 7, per the research-note Pass C default (classical बालिका/बाला;\n  छात्रा mentioned in §7/§12/§16 but never taught or assessed); the research note's draft\n  question त्वम् अपि छात्रा वा? was resolved by staging the अपि exchange between two boys\n  (Scene 2), keeping the certified line त्वम् अपि छात्रः? free of the gender clash.\n- **Editorial reconciliation (resolved):** v1.c01.l01 §16's parenthetical originally\n  promised Sanskrit self-introductions \"in Chapter 2\" — inaccurate as published. Resolved\n  in the 0.6.0 review: v1.c01.l01 now reads \"later in this volume\", §17 here quotes that\n  corrected line verbatim, and the closing note frames the wait honestly. Logged in\n  research/verification-log.md (v1.c06 Pass C/D).\n- **Export notes:** answer keys stay inside `<details>` in all renders (§3, §19); zero 🔊\n  loan words anywhere in this lesson — the dialogue, story, and exercises are fully\n  self-read; IPA strings contain combining characters (t̪, n̪, d͡ʑ) — NFC applies to\n  Devanagari fields only (STYLE_GUIDE §3), never to IPA; §17's English third line is a\n  verbatim quotation from v1.c01.l01 — exclude it from Sanskrit-coverage lints; §8 and §15\n  tables may scroll horizontally on mobile, never wrap cells; the learner-name blanks\n  (______) in §18 and §23 are intentional non-words — exclude from transliteration spot\n  checks.\n- **Register audit:** FACT ×5 (§4 संवाद etymology ×1 · §5 chunk learning ×1 · §13 नामन्\n  cognates + छात्र derivation ×2 · §15 question kit ×1) · HISTORY ×1 (§4 Ṛgveda dialogue\n  hymns, cited) · TRADITION ×1 (§4 Upaniṣads + Gītā self-description, source-named) ·\n  SYMBOL ×0 — quiz Q1–Q8 all FACT-register content taught in §8/§12/§14; the TRADITION\n  block is never assessed."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "नाम",
+      "iast": "nāma",
+      "ipa": "/n̪ɑːmɐ/",
+      "en": "name",
+      "hi": "नाम",
+      "notes": "the frame word — मम नाम …। glossed whole (§8)"
+    },
+    {
+      "deva": "त्वम्",
+      "iast": "tvam",
+      "ipa": "/t̪ʋɐm/",
+      "en": "you (intimate)",
+      "hi": "तुम",
+      "notes": "त्व by the mechanism; pairs with भवान् (§8)"
+    },
+    {
+      "deva": "तव",
+      "iast": "tava",
+      "ipa": "/t̪ɐʋɐ/",
+      "en": "your",
+      "hi": "तुम्हारा",
+      "notes": "upgrade — glue word 🔊 since v1.c01.l04, readable since v1.c04.l01; enters the ledger today"
+    },
+    {
+      "deva": "एतत्",
+      "iast": "etat",
+      "ipa": "/eːt̪ɐt̪/",
+      "en": "this",
+      "hi": "यह",
+      "notes": "near partner of तत् (§8); steady /eː/"
+    },
+    {
+      "deva": "अपि",
+      "iast": "api",
+      "ipa": "/ɐpi/",
+      "en": "also, too",
+      "hi": "भी",
+      "notes": "ear-word since v1.c02.l05; walks behind its word (§8)"
+    },
+    {
+      "deva": "छात्रः",
+      "iast": "chātraḥ",
+      "ipa": "/t͡ɕʰɑːt̪ɾɐh/",
+      "en": "student",
+      "hi": "छात्र, विद्यार्थी",
+      "notes": "त्र from v1.c05.l03; §13's umbrella"
+    },
+    {
+      "deva": "बालिका",
+      "iast": "bālikā",
+      "ipa": "/bɑːlikɑː/",
+      "en": "girl",
+      "hi": "बालिका, लड़की",
+      "notes": "बालकः's sister word; a girl's classical self-introduction (§12)"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. You meet a boy your own age. The peer question for \"who are you?\" is: (a) त्वम् कः?\n   (b) त्वम् का? (c) भवान् कः? (d) तव नाम किम्?\n2. \"My name is Sītā\" in today's frame: (a) मम नाम सीता। (b) तव नाम सीता। (c) अहम् नाम\n   सीता। (d) मम सीता नाम।\n3. \"I too am a student\": (a) अपि अहम् छात्रः अस्मि। (b) अहम् अपि छात्रः अस्मि। (c) अहम्\n   छात्रः अस्मि अपि। (d) आम्! अहम् छात्रः अस्मि।\n4. Classically, a girl introducing herself says: (a) अहम् छात्रः अस्मि। (b) अहम् बालिका।\n   (c) अहम् भवान्। (d) अहम् का।\n5. Which question depends on the rising tune alone? (a) तव नाम किम्? (b) त्वम् कः?\n   (c) त्वम् अपि छात्रः? (d) एतत् किम्?\n6. Someone points at a water pot and asks एतत् किम्? Today's frame answers: (a) एतत्\n   जलम्। (b) तत् का। (c) एतत् कः। (d) जलम् किम्।\n7. To your teacher — a man — the respectful \"who are you?\" is: (a) त्वम् कः? (b) भवान्\n   कः? (c) तव नाम कः? (d) भवान् का?\n8. Reading check — write the English meaning of each: (a) नाम (b) छात्रः (c) एतत् (d) अपि",
+    "answer_key_markdown": "1. (a) त्वम् कः? — peer question to a boy (§8). ((b) is for a girl; (c) is respectful, not\n   peer; (d) asks the name, not the person.)\n2. (a) मम नाम सीता। — the frame whole (§8). ((b) says *your*; (c) mixes the two frames;\n   (d) breaks the frame's fixed order.)\n3. (b) अहम् अपि छात्रः अस्मि। — अपि walks behind its word (§8, §12 mistake 4). ((d) is a\n   fine sentence but drops the \"too\".)\n4. (b) अहम् बालिका। — the ः-word छात्रः is masculine (§12 mistake 5); छात्रा is modern\n   usage, mentioned but not taught here. ((c) भवान् means \"you\"; (d) का is a question\n   word.)\n5. (c) त्वम् अपि छात्रः? — the only one with no question word; the rise is the question\n   (§5, §9 drill 1).\n6. (a) एतत् जलम्। — point, then answer with the thing-word in the frame (§8).\n7. (b) भवान् कः? — Chapter 5's respectful chunk (§8). ((a) is the peer form; (c) asks\n   नाम with the wrong question word — नाम asks with किम्; (d) का is feminine.)\n8. (a) नाम = \"name\"; (b) छात्रः = \"student\"; (c) एतत् = \"this\"; (d) अपि = \"also, too\"\n   (§14)."
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "संवादः is built from सम् \"together\" + वादः \"speech, speaking\": conversation as joint speech. The root is the same वद् that gives वदति and वदामि. [REF:apte1890 s.v. संवाद]",
+      "refs": [
+        "apte1890 s.v. संवाद"
+      ]
+    },
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "Dialogue is not a late luxury of Sanskrit literature — it is one of its oldest layers. The Ṛgveda, composed c. 1500–1200 BCE on the scholarly consensus dating, already contains hymns cast entirely as exchanges between two speakers, with no narrator at all. [REF:jamison2014 p.5]",
+      "refs": [
+        "jamison2014 p.5"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 4,
+      "text": "The tradition's great teaching texts keep that form: the Upaniṣads stage instruction as question and answer between student and teacher, and the Bhagavad Gītā describes itself as धर्म्यं संवादम् (dharmyaṃ saṃvādam) — \"a dialogue concerning dharma\" — in its own closing chapter. [REF:bhagavadgita 18.70]",
+      "refs": [
+        "bhagavadgita 18.70"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Learning high-frequency conversational frames as unanalyzed wholes — chunks — is a standard, well-supported route into speaking: the frame becomes usable at once, fluency builds on known material, and the internal grammar is unpacked later without relearning. [REF:nation2013]",
+      "refs": [
+        "nation2013"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "Sanskrit नामन् (nāman), Latin nōmen, and English *name* descend from one shared Proto-Indo-European word — they are cognates, siblings from a common ancestor, not borrowings and not parent and child. Your first question today is built on a word your own language has carried all along. [REF:monierwilliams1899 s.v. नामन्]",
+      "refs": [
+        "monierwilliams1899 s.v. नामन्"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "The dictionaries connect छात्र to छत्र (chatra) \"umbrella, parasol\": the pupil as the one under the teacher's umbrella — shelter and instruction in a single image. [REF:monierwilliams1899 s.v. छात्र]",
+      "refs": [
+        "monierwilliams1899 s.v. छात्र"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "The question word matches its answer: कः asks after masculine ः-words (कः? — रामः, छात्रः), का after feminine words in -आ (का? — सीता, बालिका), and किम् after neuter म्-words and things (किम्? — जलम्, नाम). Today they are fixed chunks; the system behind them is Volume 2's. [REF:apte1890 s.v. किम्]",
+      "refs": [
+        "apte1890 s.v. किम्"
+      ]
+    }
+  ]
+}

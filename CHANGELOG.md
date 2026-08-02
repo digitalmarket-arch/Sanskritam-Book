@@ -4,6 +4,35 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.6.0] — 2026-07-31
+
+**Volume 1 content-complete.** Chapter 6 — पठनम् (Reading Bootcamp) complete and
+reviewed: 31 lessons, 237 readable words, the full writing system, and the ROADMAP's
+Volume 1 exit criterion met — the learner reads real connected words and a first
+(sandhi-light) śloka.
+
+### Added
+- v1.c06 research notes and chapter frame (homorganic-nasal fact base, dialogue and
+  passage skeletons, three-texts-three-registers śloka plan, Volume Exam design).
+- Four lessons: long words & the hidden nasals (ङ्ग ञ्च vertical stacks; संस्कृतम् at
+  reading speed; the गंगा/गङ्गा spelling honesty); the first dialogue (मम नाम / अहम् …
+  अस्मि frames, the question kit, अपि; the v1.c01.l01 Maya arc closed in Sanskrit); the
+  first connected passage (अर्जुनः पठति, the सः thread, three-speed fluency protocol);
+  the first śloka & the Volume Exam (Hitopadeśa prastāvikā pāda, Muṇḍaka 3.1.6 with the
+  1950 national-motto history, the maṅgala śloka honestly labeled "source unrecorded",
+  syllable-counting, five exam tasks, completion certificate).
+- REFERENCES: mundaka, hitopadesha, stateemblem1950.
+- GLOSSARY: अनुच्छेद, पञ्चम, संवाद, श्लोक.
+
+### Changed
+- v1.c01.l01 §16's forward-promise corrected at source ("Sanskrit self-introductions
+  come later in this volume" — was "in Chapter 2", inaccurate as published); v1.c06.l02
+  quotes the corrected line and closes the arc.
+- The "consolidated word list in v1.c06" promise (v1.c04/v1.c05) resolved as a generated
+  word-appendix asset built from the per-chapter §14 tables by the export pipeline.
+- JSON exports regenerated for all 31 lessons; verification log extended with v1.c06
+  verdicts and review-pass findings.
+
 ## [0.5.0] — 2026-07-31
 
 Volume 1 Chapter 5 — संयोगः (Virāma & Conjuncts) complete and reviewed. The writing

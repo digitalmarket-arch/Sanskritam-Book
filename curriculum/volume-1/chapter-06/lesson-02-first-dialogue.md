@@ -38,10 +38,10 @@ media:
     - "planned:assets/worksheets/volume-1/v1c06l02-roleplay.pdf"
   quizzes: []
 tags: [conversation, dialogue, self-introduction, questions, milestone]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-31"]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -498,7 +498,7 @@ read one letter of it:
 > — नमस्ते! (namaste!)
 >
 > — "My name is Maya. What's yours?" *(English for now — Sanskrit self-introductions come
-> in Chapter 2.)*
+> later in this volume.)*
 
 Chapter 5 let you *read* her greeting. Today the course pays the last line of its oldest
 page. Maya asked in English because you could not yet be asked in Sanskrit. Answer her now,
@@ -507,10 +507,10 @@ aloud:
 **मम नाम माया। तव नाम किम्?**
 (mama nāma māyā. tava nāma kim?)
 
-— and answer the question with your own name, because it was always meant for you. (That
-old parenthesis promised Chapter 2. The course was young and optimistic; the honest date
-was today — the frame needed नाम, तव, and a complete writing system. A promise kept late
-is still a promise kept, and this one you can now read from both sides.)
+— and answer the question with your own name, because it was always meant for you. (The
+parenthesis on that old page said "later in this volume" and meant it: the frame had to
+wait for नाम, for तव, and for a complete writing system. Today is that later — and the
+promise you could once only be told about, you can now read from both sides.)
 
 ## 18. Exercises
 
@@ -798,11 +798,11 @@ narrator reads them as IPA, not as English spelling.
   छात्रा mentioned in §7/§12/§16 but never taught or assessed); the research note's draft
   question त्वम् अपि छात्रा वा? was resolved by staging the अपि exchange between two boys
   (Scene 2), keeping the certified line त्वम् अपि छात्रः? free of the gender clash.
-- **Editorial reconciliation flag:** v1.c01.l01 §16's parenthetical promised Sanskrit
-  self-introductions "in Chapter 2"; the arc actually closes here (v1.c06.l02). §17 quotes
-  the line verbatim and owns the slip honestly — editorial should decide whether v1.c01.l01
-  is errata-corrected to "Chapter 6" or left as printed with this lesson's note as the
-  canonical resolution.
+- **Editorial reconciliation (resolved):** v1.c01.l01 §16's parenthetical originally
+  promised Sanskrit self-introductions "in Chapter 2" — inaccurate as published. Resolved
+  in the 0.6.0 review: v1.c01.l01 now reads "later in this volume", §17 here quotes that
+  corrected line verbatim, and the closing note frames the wait honestly. Logged in
+  research/verification-log.md (v1.c06 Pass C/D).
 - **Export notes:** answer keys stay inside `<details>` in all renders (§3, §19); zero 🔊
   loan words anywhere in this lesson — the dialogue, story, and exercises are fully
   self-read; IPA strings contain combining characters (t̪, n̪, d͡ʑ) — NFC applies to

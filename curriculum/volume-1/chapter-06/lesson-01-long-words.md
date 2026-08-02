@@ -39,10 +39,10 @@ media:
     - "planned:assets/worksheets/volume-1/v1c06l01-speed-grid.pdf"
   quizzes: []
 tags: [reading, fluency, conjuncts, nasals, bootcamp, milestone]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-31"]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -50,7 +50,9 @@ updated: 2026-07-31
 ## 1. Hook
 
 Two letters were certified in Chapter 3 and have been waiting ever since. ङ has never once
-appeared inside a word you read — not in 214 words. ञ managed a single cameo, dissolved past
+appeared inside a vocabulary word — not in 214 of them; its cameos were spelling
+demonstrations (अङ्क beside अंक, v1.c02.l06; the ङ्क preview of v1.c03.l01). ञ managed a
+single disguise, dissolved past
 recognition inside the ligature ज्ञ, where you had to be *told* it was there. Every other
 letter in the varṇamālā has worked for its keep; these two have sat on the bench for three
 chapters. Today you find out why — the reason is a rule, not an accident — and then both go
@@ -80,7 +82,7 @@ in §5/§15, §18 (exercises 1, 2), §19 (Q1, Q2); objective 3 in §8/§15, §18
    give its IPA.
 2. From v1.c03.l02: the same for the च-वर्ग — and inside which everyday word did that
    lesson let you *glimpse* its fifth member at work?
-3. The Chapter 3 spelling twins: अंक and अङ्क — what exactly is the relationship?
+3. The Chapter 2 spelling twins: अंक and अङ्क — what exactly is the relationship?
 4. From v1.c05.l02: name the three conjunct-formation patterns. Which one has stayed
    almost empty in your reading — until today?
 5. Held open: in three chapters of words, what work have ङ and ञ actually done?
@@ -636,7 +638,7 @@ clipping, and the standing line holds: speed never buys back a dropped अ.
 > glowing, arrows into word panels: ङ → गङ्गा, अङ्गम्, सङ्घः (ङ्ग / ङ्क / ङ्घ stacks drawn
 > large, stacking direction marked); ञ → पञ्च. Banner: "the stop chooses its own nasal".
 > Side panel: गंगा and गङ्गा under one shared ear icon, caption "two spellings, one
-> reading — we write the classical conjunct"; अंक/अङ्क chip beneath as the Chapter 3
+> reading — we write the classical conjunct"; अंक/अङ्क chip beneath as the Chapter 2
 > precedent. Corner chip: संस्कृतम् with its dot circled, caption "before a sibilant the
 > dot IS classical". Footer: the encoding line ग + ङ + ् + ग + ा.
 

@@ -20,7 +20,11 @@ closing the largest gap of the 1.x curriculum.
 | 3 | स्पर्शाः — The Stop Consonants | 6 | ✅ reviewed |
 | 4 | अन्तःस्थाः ऊष्माणश्च — Semivowels & Sibilants | 4 | ✅ reviewed |
 | 5 | संयोगः — Virāma & Conjuncts | 5 | ✅ reviewed |
-| 6 | पठनम् — Reading Bootcamp | 4 | 🟨 |
+| 6 | पठनम् — Reading Bootcamp | 4 | ✅ reviewed |
+
+**Volume 1 is content-complete: 31 lessons, all reviewed.** Remaining for 📗 published:
+asset production (all media currently `planned:`) and the volume PDF build (gated on
+assets; see `build/README.md`).
 
 Chapter 2 covers all vowels incl. ॠ ऌ (completeness), ऐ/औ as diphthongs, and अं/अः correctly
 classified as ayogavāha. Chapter 3 gives **all five members of every varga** equal treatment.
@@ -122,6 +126,15 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   Research notes + chapter frame for v1.c06 (पठनम् — reading bootcamp, the volume's final
   chapter) already prepared. Asset production for Chapters 1–5 `planned:` media can run in
   parallel.
+- **2026-07-31** — **v1.c06 पठनम् complete and reviewed — VOLUME 1 CONTENT-COMPLETE**:
+  4 lessons — the long words with the ङ/ञ homorganic payoff (गङ्गा, पञ्च; the course's
+  own name at reading speed), the first true dialogue (self-introduction frames; the
+  Chapter 1 Maya arc closed), the first connected passage (अर्जुनः पठति — ending on the
+  learner's own अहम् अपि संस्कृतम् पठामि), and the śloka lesson with three texts in three
+  registers (Hitopadeśa pāda, Muṇḍaka 3.1.6 + the national motto, the honestly-labeled
+  maṅgala benediction) plus the five-task Volume Exam. 237 cumulative readable words;
+  31 lessons total, validator green, exports current. Next: Volume 2 (शब्दाः वाक्यानि च)
+  research, or Volume 1 asset production — both unblocked.
 
 ## Content preservation map (from the 1.x curriculum)
 

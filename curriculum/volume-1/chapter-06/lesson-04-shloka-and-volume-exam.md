@@ -40,10 +40,10 @@ media:
     - "planned:assets/quizzes/volume-1/v1c06l04-chapter-quiz.md"
     - "planned:assets/quizzes/volume-1/v1c06l04-chapter-quiz-key.md"
 tags: [review, assessment, shloka, production, milestone, volume-final]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-31"]
 created: 2026-07-31
 updated: 2026-07-31
 ---

@@ -318,7 +318,7 @@ The shortest real exchange in the course — already authentic:
 >
 > — नमस्ते! (namaste!)
 >
-> — "My name is Maya. What's yours?" *(English for now — Sanskrit self-introductions come in Chapter 2.)*
+> — "My name is Maya. What's yours?" *(English for now — Sanskrit self-introductions come later in this volume.)*
 
 Practice with the model audio: greet the recording, greet a mirror, greet another human if available. Steady /eː/.
 

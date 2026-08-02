@@ -38,10 +38,10 @@ media:
     - "planned:assets/worksheets/volume-1/v1c06l03-reading-log.pdf"
   quizzes: []
 tags: [reading, passage, fluency, comprehension, milestone]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-07-31"]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -325,7 +325,7 @@ you the pattern; today it does narrative work inside a story.
 
 ## 14. Vocabulary
 
-शब्दावली — four words take the readable ledger from about 232 to about 236; the passage's
+शब्दावली — four words take the readable ledger from 233 to 237; the passage's
 other twenty words are all review. Audio: 🔊
 `planned:assets/audio/volume-1/v1c06l03-words-and-dialogue.mp3` (each word twice, then the
 dialogue). पुस्तक is listed as a bare stem per course convention; the passage dresses it as

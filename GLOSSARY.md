@@ -10,6 +10,7 @@ Sorted by IAST.
 | देवनागरी | IAST | English | हिन्दी | First taught |
 |---|---|---|---|---|
 | अक्षर | akṣara | syllable block — the script's writing unit | अक्षर | v1.c01.l04 |
+| अनुच्छेद | anuccheda | passage, paragraph (standard modern term) | अनुच्छेद | v1.c06.l03 |
 | अनुस्वार | anusvāra | the nasal sign ं | अनुस्वार | v1.c02.l06 |
 | अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |
 | अवग्रह | avagraha | the elision mark ऽ (marks a dropped अ) | अवग्रह | v1.c05.l05 |
@@ -21,9 +22,12 @@ Sorted by IAST.
 | कण्ठ्य | kaṇṭhya | velar / guttural | कण्ठ्य (कण्ठ से उच्चरित) | v1.c01.l02 |
 | मात्रा | mātrā | vowel sign; also: duration unit | मात्रा | v1.c01.l04 |
 | ओष्ठ्य | oṣṭhya | labial | ओष्ठ्य (होठों से उच्चरित) | v1.c01.l02 |
+| पञ्चम | pañcama | "the fifth" — a varga's nasal member | पञ्चम (वर्ग का पाँचवाँ वर्ण) | v1.c06.l01 |
 | रेफ | repha | the r-sound; the superscript r-hook | रेफ | v1.c05.l04 |
+| संवाद | saṃvāda | dialogue ("speaking together") | संवाद | v1.c06.l02 |
 | संस्कृतम् | saṃskṛtam | Sanskrit ("refined, perfected") | संस्कृत | v1.c01.l01 |
 | संयुक्ताक्षर | saṃyuktākṣara | conjunct — a consonant cluster written as one akṣara | संयुक्ताक्षर (जुड़े व्यञ्जनों का एक अक्षर) | v1.c05.l02 |
+| श्लोक | śloka | the 4×8-syllable verse form (anuṣṭubh) | श्लोक | v1.c06.l04 |
 | स्पर्श | sparśa | stop consonant ("contact" sound) | स्पर्श व्यञ्जन | v1.c03.l01 |
 | अघोष | aghoṣa | voiceless | अघोष | v1.c03.l01 |
 | घोष | ghoṣa | voiced | घोष (सघोष) | v1.c03.l01 |

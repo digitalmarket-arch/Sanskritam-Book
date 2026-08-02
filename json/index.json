@@ -545,6 +545,88 @@
       ],
       "path": "curriculum/volume-1/chapter-05/lesson-05-signs-and-exam.md",
       "json": "json/volume-1/v1.c05.l05.json"
+    },
+    {
+      "id": "v1.c06.l01",
+      "title": {
+        "sa": "दीर्घशब्दाः",
+        "sa_iast": "dīrghaśabdāḥ",
+        "hi": "दीर्घ शब्द — लम्बे शब्द और छिपे अनुनासिक",
+        "en": "Long Words & the Hidden Nasals"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c05.l05"
+      ],
+      "review_of": [
+        "v1.c03.l01",
+        "v1.c03.l02",
+        "v1.c05.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-06/lesson-01-long-words.md",
+      "json": "json/volume-1/v1.c06.l01.json"
+    },
+    {
+      "id": "v1.c06.l02",
+      "title": {
+        "sa": "संवादः",
+        "sa_iast": "saṃvādaḥ",
+        "hi": "संवाद — पहली बातचीत",
+        "en": "The First Dialogue"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c06.l01"
+      ],
+      "review_of": [
+        "v1.c05.l01",
+        "v1.c05.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-06/lesson-02-first-dialogue.md",
+      "json": "json/volume-1/v1.c06.l02.json"
+    },
+    {
+      "id": "v1.c06.l03",
+      "title": {
+        "sa": "अनुच्छेदः",
+        "sa_iast": "anucchedaḥ",
+        "hi": "अनुच्छेद — पहला गद्यांश",
+        "en": "The First Passage"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c06.l02"
+      ],
+      "review_of": [
+        "v1.c06.l01",
+        "v1.c06.l02"
+      ],
+      "path": "curriculum/volume-1/chapter-06/lesson-03-first-passage.md",
+      "json": "json/volume-1/v1.c06.l03.json"
+    },
+    {
+      "id": "v1.c06.l04",
+      "title": {
+        "sa": "श्लोकः परीक्षा च",
+        "sa_iast": "ślokaḥ parīkṣā ca",
+        "hi": "पहला श्लोक और खण्ड-परीक्षा",
+        "en": "The First Śloka & the Volume Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c06.l03"
+      ],
+      "review_of": [
+        "v1.c06.l01",
+        "v1.c06.l02",
+        "v1.c06.l03"
+      ],
+      "path": "curriculum/volume-1/chapter-06/lesson-04-shloka-and-volume-exam.md",
+      "json": "json/volume-1/v1.c06.l04.json"
     }
   ]
 }
