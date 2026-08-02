@@ -39,10 +39,10 @@ media:
     - "planned:assets/worksheets/volume-2/v2c01l03-hour-roleplay.pdf"
   quizzes: []
 tags: [vocabulary, greetings, day-cycle, register-labels, courtesy, fluency]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-02"]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -353,7 +353,7 @@ and English does not.
 
 ## 14. Vocabulary
 
-शब्दावली — eight words take the readable ledger from about 250 to about 258 (exact counts
+शब्दावली — eight words take the readable ledger from 243 to 251 (counts
 reconciled at review, as always); five are classical day-cycle vocabulary, two are labeled modern
 greetings, one is a classical wish. Audio: 🔊
 `planned:assets/audio/volume-2/v2c01l03-word-list.mp3` (each word twice, three-speed passes, then
@@ -573,7 +573,7 @@ then note which of your greetings would deserve a modern label if a reviewer ask
 > both true; शुभरात्रिः — modern calque; शुभम् — classical wish. **The variant:** शुभप्रभातम्
 > circulates; we teach सुप्रभातम्, recognize both. **The joins:** त्र in रा-त्रिः; ह्न = ह् + न,
 > the third ह-family member. **The trap:** *day* is not दिन's cousin — Lithuanian *diena* is.
-> **The ledger:** eight words, ≈258 total.
+> **The ledger:** eight words, 251 total.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 

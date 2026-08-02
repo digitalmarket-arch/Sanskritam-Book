@@ -215,3 +215,37 @@ Status change: v1.c05 lessons 01–05 `draft` → `reviewed`.
 | D | 27-section contract green; objective→assessment maps present in all four; ≥2 production exercises each; ledger chain consistent (226 → 233 → 237); the c04/c05 "consolidated list in v1.c06" promise resolved as the generated word-appendix asset (l04 §23/§27), not an inline table. **Editorial reconciliation executed:** v1.c01.l01 §16's false forward-promise ("Sanskrit self-introductions come in Chapter 2") corrected at source to "later in this volume"; l02 §17's verbatim quote and closing note updated to match; l02 §27 flag marked resolved. Drafting note: l01–l03 agent-drafted (all landed complete despite agent session limits); l04 main-loop authored. | pass |
 
 Status change: v1.c06 lessons 01–04 `draft` → `reviewed`. **Volume 1 review complete.**
+
+## Chapter v2.c01 — research verdicts (2026-08-02)
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| स्वस्ति classical/Vedic attestation (= सु + अस्ति); farewell-blessing use | [REF:monierwilliams1899 s.v. svasti] | ✅ HISTORY/FACT | l01 §4, l04 §13 |
+| अञ्जलिः classical word; the gesture = cultural practice (TRADITION, never assessed) | [REF:monierwilliams1899 s.v. añjali] | ✅ registers split correctly | l01 §13, l05 task D |
+| भोः classical address particle; भद्रम् ते epic courtesy chunk | [REF:apte1890] | ✅ | l01 |
+| गुरवे नमः dative pattern — display only, case system deferred | policy (notes §6) | ✅ implemented; §12 warns against generalizing | l01 §15, §12 |
+| kuśala-inquiry as classical etiquette; अपि-initial polite question | [REF:apte1890 s.v. कुशल / s.v. अपि] | ✅ | l02 §4–5, §8 |
+| कुशल ← कुश grass etymology — framed as traditional story recorded in dictionaries | [REF:monierwilliams1899 s.v. कुशल] | ✅ TRADITION register, exemplary | l02 §4 |
+| कुशली gendered; कुशलिनी display; neuter कुशलम् as the universal answer | [REF:apte1890]; छात्रा precedent | ✅ | l02 §8, §15 |
+| suprabhāta word classical (devotional genre), greeting-use modern — both-things-true | [REF:monierwilliams1899 s.v. suprabhāta] | ✅ label showcase | l03 §8, §13 |
+| शुभरात्रिः modern calque; शुभप्रभातम् 1.x variant recognized | usage label policy | ✅ | l03 |
+| दिन ~ Lith. diena ~ OCS dĭnĭ cognate set; English *day* explicitly NOT cognate | [REF:mallory2006] | ✅ the day-trap avoided in print | l03 §13 |
+| मध्याह्नः = मध्य + अह्न; ह्न via components | [REF:apte1890 s.v. मध्याह्न] | ✅ | l03 §8 |
+| धन्यवादः attested compound; everyday-thanks use = modern convention; अनुगृहीतोऽस्मि classical display | [REF:monierwilliams1899 s.v. dhanyavāda] | ✅ THE label showcase | l04 §4, §8 |
+| कृपया modern please-convention; कृपा classical noun | usage label policy; [REF:apte1890] | ✅ | l04 §8 |
+| क्षमस्व classical imperative chunk (whole-word, पश्य precedent) | [REF:apte1890 s.v. क्षम्] | ✅ no paradigm claims | l04 §8 |
+| न precedes what it negates; नास्ति = न + अस्ति (नास्तिक/आस्तिक X-ray) | [REF:apte1890 s.v. न / s.v. नास्तिक] | ✅ Whitney § not cited (notes 0.10 flag resolved: cite bare/none) | l04 §13, §15 |
+| श्रीमान् classical honorific; पुनः classical adverb; पुनः मिलामः modern formula w/ पुनर्- sandhi preview | [REF:monierwilliams1899]; usage label | ✅ | l04 §8 |
+| svastika etymological note kept to one line with modern-history firewall | [REF:monierwilliams1899 s.v. svasti] | ✅ | l04 §13 |
+| Cumulative chain 237 → 240 → 243 → 251 → 260 (23 ledger-new; 26 headwords) | in-course ledger | ✅ reconciled (parallel-draft approximations corrected) | all |
+
+## Review-pass findings — v2.c01 (2026-08-02)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Validator: l01–l03, l05 clean on landing; l04 (main-loop authored) had one transliteration-pair false positive (निषेध note) — reworded; full run green (36 lessons). IPA spot-checked (/d̪ʱ/ onsets, [kr̩] in कृपया, /ɲd͡ʑ/ in अञ्जलिः, visarga finals). | green |
+| B | Hindi §7 foci verified (l01 अंजलि familiarity; l02 "कैसे हो" mapping; l03 सुबह-शाम cycle; l04 धन्यवाद/कृपया labels — the "लेबल ही सीख है" framing; honorific register natural). | pass |
+| C | Register audit: the volume's new classical/modern label axis applied per word and consistently across lessons (l04 §15 keystone table = l05 task D source, rows diffed); TRADITION items attributed (añjali practice, kuśa etymology-story, suprabhātam genre, visarga echo); HISTORY cited (svasti Vedic, kuśala-inquiry); SYMBOL ×0; no modern formula presented as classical anywhere (grep-audited for "classical" claims). V1-exam +1-week interval delivered in l01 Station 0 with the three-artifact ceremony as promised by v1.c06.l04. | pass |
+| D | 27-section contract green; objective maps present ×5; ≥2 production exercises each; ledger reconciled to canonical chain (l02 ≈249→243, l03 ≈250/258→243/251, l05 ≈270→260, chapter.md updated); l05's parallel-draft integrator flag replaced with the reconciled figures; l04's asset path normalized to volume-2. Drafting note: l01–l03, l05 agent-drafted (landed complete despite session limits); l04 main-loop authored. | pass |
+
+Status change: v2.c01 lessons 01–05 `draft` → `reviewed`.

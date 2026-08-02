@@ -39,10 +39,10 @@ media:
     - "planned:assets/quizzes/volume-2/v2c01l05-chapter-quiz.md"
     - "planned:assets/quizzes/volume-2/v2c01l05-chapter-quiz-key.md"
 tags: [review, assessment, courtesy, greetings, register-labels, roleplay, improvisation, production]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-02"]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -385,7 +385,7 @@ That is the chapter's discipline in one sentence.
 
 शब्दावली — no new words; the **cumulative list**. Volume 1 handed over 237 readable
 words; this chapter's four lessons added some thirty more (per-lesson counts live in
-their §14 tables) — **≈270 readable words**, exact arithmetic reconciled in review
+their §14 tables) — **260 readable words** (237 + 23 ledger-new: l01 3 · l02 3 · l03 8 · l04 9; 26 headwords drilled)
 (§27). Compressed rows below point to the full tables; then the exam's source list —
 the courtesy kit itself — prints in full, youngest and least practiced. Source for
 tasks B and C. Protocol as always: block by block, then whole word, every vowel at
@@ -675,7 +675,7 @@ E micro-check: च-वर्ग = च छ ज झ ञ; श् + र = श्र 
 > **The negative:** न, pause form — न अस्ति · न कुशलम्.
 > **The previews:** नास्ति · पुनर्मिलामः · अनुगृहीतोऽस्मि — seams shown, Volume 3
 > teaches.
-> **The words:** ≈270 readable — some thirty this chapter.
+> **The words:** 260 readable — twenty-three ledger-new this chapter.
 > **The milestone:** one improvised conversation, first नमस्ते to last स्वस्ति.
 
 Schedule [REF:cepeda2006]: **+1 day** — task B re-run, fresh order (§18 B's
@@ -856,12 +856,11 @@ courtesy exam.)
   v2.c02's calendar.
 - **Rubric home:** §22 is the machine-readable rubric source; export flag
   `assessment: true`.
-- **Integrator notes:** the sibling lessons v2.c01.l01–l04 were drafted in parallel
-  and their §14 tables were not on disk when this file was drafted — all cumulative
-  figures here are deliberate approximations (237 Volume 1 words per v1.c06.l04 §14 +
-  ~30 this chapter ≈ **270**), with per-lesson pointers instead of copied rows;
-  reviewer reconciles exact counts and section pointers (l0N §8/§9/§15/§16
-  references) against the landed siblings at Pass D. The §19 task keys are the single
+- **Integrator notes:** the sibling lessons were drafted in parallel; cumulative
+  figures were reconciled at review (Pass D) to the canonical chain 237 → 240 (l01,
+  3 ledger-new of 5 headwords) → 243 (l02) → 251 (l03) → **260** (l04) — 23 ledger-new,
+  26 headwords drilled this chapter; per-lesson pointers verified against the landed
+  siblings. The §19 task keys are the single
   source for the quiz/audio key files; the app's spaced-repetition deck keys off the
   per-lesson §14 tables, with this §14's kit rows flagged review-duplicate, not new.
   vocabulary_count is 0: no new headwords enter here.

@@ -34,7 +34,7 @@ Chapter 6 ends with the learner reading real connected words and a first (sandhi
 
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
-| 1 | अभिवादनम् — Greetings & Courtesy | 5 | ⬜ |
+| 1 | अभिवादनम् — Greetings & Courtesy | 5 | ✅ reviewed |
 | 2 | परिवारः जगच्च — Family & the World | 5 | ⬜ |
 | 3 | संख्याः कालश्च — Numbers & Time | 5 | ⬜ |
 | 4 | क्रियाः — First Verbs | 5 | ⬜ |
@@ -133,8 +133,15 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   learner's own अहम् अपि संस्कृतम् पठामि), and the śloka lesson with three texts in three
   registers (Hitopadeśa pāda, Muṇḍaka 3.1.6 + the national motto, the honestly-labeled
   maṅgala benediction) plus the five-task Volume Exam. 237 cumulative readable words;
-  31 lessons total, validator green, exports current. Next: Volume 2 (शब्दाः वाक्यानि च)
-  research, or Volume 1 asset production — both unblocked.
+  31 lessons total, validator green, exports current.
+- **2026-08-02** — **v2.c01 अभिवादनम् complete and reviewed — Volume 2 opens**: the
+  volume frame (classical-vs-modern-spoken label axis) + 5 lessons — the greeting kit
+  with the V1-exam interval and three-artifact ceremony, the classical wellness
+  exchange, the day cycle with the both-things-true सुप्रभातम् card, the धन्यवादः
+  label showcase with न-negation and the farewell pair, and the Courtesy Exam sorting
+  by the keystone label table. 23 ledger-new words (260 cumulative); 36 lessons total,
+  validator green, exports current. Next: v2.c02 (परिवारः जगच्च) research, or Volume 1
+  asset production — both unblocked.
 
 ## Content preservation map (from the 1.x curriculum)
 

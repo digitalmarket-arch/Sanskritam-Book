@@ -627,6 +627,110 @@
       ],
       "path": "curriculum/volume-1/chapter-06/lesson-04-shloka-and-volume-exam.md",
       "json": "json/volume-1/v1.c06.l04.json"
+    },
+    {
+      "id": "v2.c01.l01",
+      "title": {
+        "sa": "नमस्कारः",
+        "sa_iast": "namaskāraḥ",
+        "hi": "नमस्कार — अभिवादन की पेटी",
+        "en": "The Greeting Kit"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v1.c06.l04"
+      ],
+      "review_of": [
+        "v1.c05.l02",
+        "v1.c06.l01",
+        "v1.c06.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-01/lesson-01-greeting-kit.md",
+      "json": "json/volume-2/v2.c01.l01.json"
+    },
+    {
+      "id": "v2.c01.l02",
+      "title": {
+        "sa": "कुशलप्रश्नः",
+        "sa_iast": "kuśalapraśnaḥ",
+        "hi": "कुशल-प्रश्न — हाल-चाल पूछना",
+        "en": "How Are You"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c01.l01"
+      ],
+      "review_of": [
+        "v2.c01.l01",
+        "v1.c06.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-01/lesson-02-how-are-you.md",
+      "json": "json/volume-2/v2.c01.l02.json"
+    },
+    {
+      "id": "v2.c01.l03",
+      "title": {
+        "sa": "दिनयात्रा",
+        "sa_iast": "dinayātrā",
+        "hi": "दिनयात्रा — दिन-भर के अभिवादन",
+        "en": "Through the Day"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c01.l02"
+      ],
+      "review_of": [
+        "v2.c01.l01",
+        "v2.c01.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-01/lesson-03-through-the-day.md",
+      "json": "json/volume-2/v2.c01.l03.json"
+    },
+    {
+      "id": "v2.c01.l04",
+      "title": {
+        "sa": "शिष्टाचारः",
+        "sa_iast": "śiṣṭācāraḥ",
+        "hi": "शिष्टाचार — धन्यवाद, क्षमा और विदाई",
+        "en": "Courtesy & Farewell"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c01.l03"
+      ],
+      "review_of": [
+        "v2.c01.l01",
+        "v2.c01.l02",
+        "v2.c01.l03"
+      ],
+      "path": "curriculum/volume-2/chapter-01/lesson-04-courtesy-and-farewell.md",
+      "json": "json/volume-2/v2.c01.l04.json"
+    },
+    {
+      "id": "v2.c01.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "पुनरावृत्ति — शिष्टाचार-परीक्षा",
+        "en": "The Courtesy Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c01.l04"
+      ],
+      "review_of": [
+        "v2.c01.l01",
+        "v2.c01.l02",
+        "v2.c01.l03",
+        "v2.c01.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-01/lesson-05-courtesy-exam.md",
+      "json": "json/volume-2/v2.c01.l05.json"
     }
   ]
 }

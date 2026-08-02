@@ -38,10 +38,10 @@ media:
     - "planned:assets/worksheets/volume-2/v2c01l02-roleplay.pdf"
   quizzes: []
 tags: [conversation, courtesy, wellness-exchange, questions, classical-usage]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-02"]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -382,7 +382,7 @@ week's small talk.
 
 ## 14. Vocabulary
 
-शब्दावली — three new words and one upgrade; the ledger stands at about 249. No 🔊 loans
+शब्दावली — three new words and one upgrade; the ledger stands at 243. No 🔊 loans
 anywhere. Audio: 🔊 `planned:assets/audio/volume-2/v2c01l02-word-list.mp3` (model
 reading, each word twice, plus the dictation track).
 
@@ -627,7 +627,7 @@ tomorrow either way (§20).
 > speaker — and the neuter कुशलम् is every speaker's safe answer. **The kit, complete:**
 > कः · का · किम् · कुतः · कथम् — कथम् अस्ति विद्यालयः? **The two jobs:** behind a word,
 > अपि says "too"; first in the sentence, it asks. **The label:** classical idiom, worn
-> proudly. **The words:** four — the ledger stands at about 249.
+> proudly. **The words:** four — the ledger stands at 243.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -821,7 +821,7 @@ narrator reads them as IPA, not as English spelling.
   debut to this lesson or lesson 4 — resolved to **lesson 4** by cross-lesson
   coordination; it appears nowhere in this lesson, and vocabulary_count stays at the
   honest 4 (three new + the सर्वम् upgrade, counted per the तव precedent of
-  v1.c06.l02). Entering ledger written as approximations (≈245 → ≈249); exact counts
+  v1.c06.l02). Entering ledger reconciled at review: 240 → 243; counts
   reconciled at review as always. कुशलिनी and भवती are display-only (never in §14,
   never assessed), mirroring the छात्रा handling of v1.c06.l02.
 - **Verification flags for Pass C:** the sentence-initial interrogative अपि (§8, §15

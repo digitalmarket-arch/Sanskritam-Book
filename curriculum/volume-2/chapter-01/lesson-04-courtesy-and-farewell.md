@@ -38,10 +38,10 @@ media:
     - "planned:assets/worksheets/volume-2/v2c01l04-roleplay.pdf"
   quizzes: []
 tags: [conversation, courtesy, farewell, negation, register-labels]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-02"]
 created: 2026-07-31
 updated: 2026-07-31
 ---

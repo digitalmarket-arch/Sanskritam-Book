@@ -1,0 +1,331 @@
+{
+  "frontmatter": {
+    "id": "v2.c01.l02",
+    "schema_version": 1,
+    "title": {
+      "sa": "कुशलप्रश्नः",
+      "sa_iast": "kuśalapraśnaḥ",
+      "hi": "कुशल-प्रश्न — हाल-चाल पूछना",
+      "en": "How Are You"
+    },
+    "volume": 2,
+    "chapter": 1,
+    "lesson": 2,
+    "lesson_type": "conversation",
+    "cefr": "A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v2.c01.l01"
+    ],
+    "review_of": [
+      "v2.c01.l01",
+      "v1.c06.l02"
+    ],
+    "objectives": [
+      {
+        "en": "Conduct the classical wellness exchange — ask अपि कुशलम्? and answer कुशलम्! or सर्वम् कुशलम्! — in pause form, question rising and answer settling.",
+        "hi": "शास्त्रीय कुशल-प्रश्न चलाएँ — अपि कुशलम्? पूछें और कुशलम्! या सर्वम् कुशलम्! उत्तर दें — ठहराव-रूप में, प्रश्न चढ़ता हुआ और उत्तर ठहरता हुआ।"
+      },
+      {
+        "en": "Ask the personal form त्वम् कुशली? / भवान् कुशली? of a boy or man, answer अहम् कुशली as a male speaker, and give the neuter answer कुशलम् that is right for every speaker.",
+        "hi": "लड़के या पुरुष से व्यक्तिगत रूप त्वम् कुशली? / भवान् कुशली? पूछें, पुरुष वक्ता के रूप में अहम् कुशली उत्तर दें, और वह उत्तर कुशलम् दें जो हर वक्ता के लिए सही है।"
+      },
+      {
+        "en": "Ask 'how?' with कथम् — कथम् अस्ति विद्यालयः? — and recite the completed question kit कः · का · किम् · कुतः · कथम्.",
+        "hi": "कथम् से 'कैसे?' पूछें — कथम् अस्ति विद्यालयः? — और पूरी प्रश्न-किट कः · का · किम् · कुतः · कथम् सुनाएँ।"
+      },
+      {
+        "en": "Tell अपि's two jobs apart — X अपि 'X too' behind its word, sentence-initial अपि as the polite question mark — and use each correctly.",
+        "hi": "अपि के दोनों काम पहचानें — शब्द के पीछे X अपि यानी 'X भी', वाक्य के आरम्भ में अपि यानी विनम्र प्रश्न-चिह्न — और दोनों का सही प्रयोग करें।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 4,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-2/v2c01l02-wellness-cards.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-2/v2c01l02-dialogue.mp3",
+        "planned:assets/audio/volume-2/v2c01l02-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-2/v2c01l02-roleplay.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "conversation",
+      "courtesy",
+      "wellness-exchange",
+      "questions",
+      "classical-usage"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-08-02"
+    ],
+    "created": "2026-07-31",
+    "updated": "2026-07-31"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Volume 1 taught you to ask questions with your voice alone — the rising tune was the only\nquestion mark Sanskrit gave you. Today the language hands you a written one, and it turns\nout to be an old friend standing in a new place: अपि, the word that has walked *behind*\nsince last chapter (\"X too\"), steps to the *front* and turns a whole sentence into a polite\nquestion. Two words later you own the exchange classical speakers themselves used to ask\nafter each other — अपि कुशलम्? \"Is all well?\" — and the answer costs nothing, because you\nsimply hand the question back: कुशलम्!"
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Conduct the classical wellness exchange — ask अपि कुशलम्? and answer कुशलम्! or सर्वम् कुशलम्! — in pause form, question rising and answer settling. | शास्त्रीय कुशल-प्रश्न चलाएँ — अपि कुशलम्? पूछें और कुशलम्! या सर्वम् कुशलम्! उत्तर दें — ठहराव-रूप में, प्रश्न चढ़ता हुआ और उत्तर ठहरता हुआ। |\n| 2 | Ask the personal form त्वम् कुशली? / भवान् कुशली? of a boy or man, answer अहम् कुशली as a male speaker, and give the neuter answer कुशलम् that is right for every speaker. | लड़के या पुरुष से व्यक्तिगत रूप त्वम् कुशली? / भवान् कुशली? पूछें, पुरुष वक्ता के रूप में अहम् कुशली उत्तर दें, और वह उत्तर कुशलम् दें जो हर वक्ता के लिए सही है। |\n| 3 | Ask 'how?' with कथम् — कथम् अस्ति विद्यालयः? — and recite the completed question kit कः · का · किम् · कुतः · कथम्. | कथम् से 'कैसे?' पूछें — कथम् अस्ति विद्यालयः? — और पूरी प्रश्न-किट कः · का · किम् · कुतः · कथम् सुनाएँ। |\n| 4 | Tell अपि's two jobs apart — X अपि 'X too' behind its word, sentence-initial अपि as the polite question mark — and use each correctly. | अपि के दोनों काम पहचानें — शब्द के पीछे X अपि यानी 'X भी', वाक्य के आरम्भ में अपि यानी विनम्र प्रश्न-चिह्न — और दोनों का सही प्रयोग करें। |\n\nObjective 1 is built in §8–§9 and tested in §18 (exercises 1, 3, 4) and §19 (Q1, Q2, Q9);\nobjective 2 in §8, §18 (exercises 1, 3), §19 (Q2, Q4, Q7); objective 3 in §8, §15, §18\n(exercise 5), §19 (Q5, Q6); objective 4 in §8, §15, §18 (exercise 2), §19 (Q3, Q4, Q6)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठों की पुनरावृत्ति — answer from memory *before* looking anything up.\n\n1. From lesson 1's greeting kit: स्वस्ति and भद्रम् ते — gloss each, and name the label\n   the pair wears in this course.\n2. भोः — what does it do in a sentence? Use it: hail a friend across the room, then greet\n   them.\n3. From the first dialogue (v1.c06.l02): translate अहम् अपि छात्रः अस्मि। — and state\n   अपि's placement rule from that lesson.\n4. त्वम् or भवान् — which \"you\" to a classmate? Which to the आचार्यः?\n5. Nothing on the page marks त्वम् अपि छात्रः? as a question. What does?\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. स्वस्ति (svasti) \"well-being; farewell, blessings\" and भद्रम् ते (bhadram te)\n   \"blessings on you\" — both wear the **classical** label: attested classical courtesy.\n2. भोः (bhoḥ) \"O!, hey\" — the classical address particle; it calls before you speak:\n   भोः! नमस्ते!\n3. \"I too am a student.\" X अपि = \"X too\" — अपि walks *behind* the word it adds to,\n   never in front.\n4. त्वम् to a classmate or friend; भवान् respectfully to a man — Hindi's तुम/आप split.\n5. The rising tune alone — the course's habit since Chapter 3. Hold that answer; today\n   it gets company.\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — etiquette old enough to have epics behind it.\n\nToday's संज्ञा names the lesson: **कुशलप्रश्नः** (kuśalapraśnaḥ) \"the well-being\nquestion\" — कुशल (kuśala) \"well-being\" + प्रश्नः (praśnaḥ) \"question\". You have read the\nword family since Chapter 1 without noticing: प्रश्नाः has headed every quiz in this book.\n\n> **[FACT · तथ्यम्]** कुशल means \"well-being, welfare\" — and, as an adjective, \"skilful,\n> in good order\". The dictionaries record the greeting idiom directly from classical\n> usage: कुशलम् ते? \"is it well with you?\" — inquiry after kuśala as the standard\n> courteous question. [REF:apte1890 s.v. कुशल]\n\n> **[HISTORY · इतिहासः]** The kuśala-inquiry is classical etiquette, not a modern\n> pleasantry in old clothes: in epic and classical narrative convention, characters who\n> meet ask after each other's well-being — the kuśala-question — before any other\n> business is spoken, and the dictionaries cite the formulas from exactly such passages.\n> [REF:apte1890 s.v. कुशल]\n\n> **[TRADITION · परम्परा]** The traditional etymology recorded in the dictionaries\n> derives कुशल from कुश (kuśa) — the sharp-edged sacred grass: the kuśala person is \"one\n> who gathers kuśa grass\" without cutting their fingers, deftness as the root image of\n> being well and doing well. A story the tradition tells about the word; the meanings\n> themselves are dictionary fact. [REF:monierwilliams1899 s.v. कुशल]\n\nNotice which label today wears. Last volume, विद्यालयः carried the *modern* chip — real\nword, modern schoolroom convention, honestly said. अपि कुशलम्? carries the *classical*\none, worn proudly: when you ask it, you are speaking etiquette the classical language\nitself used. Both labels are honors — they are different honors, and this course will\nalways tell you which is which."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — why the answer is the question, handed back.\n\n\"How are you?\" in every language is mostly not a request for information — it is a\n**routine**: a fixed social exchange learned whole, run daily, and only rarely answered\nwith actual news. The Sanskrit exchange makes the routine's machinery unusually visible,\nbecause the answer *echoes* the question's key word: अपि कुशलम्? — कुशलम्! Ask with a\nword, hand the same word back. One content word carries the entire exchange, which makes\ntoday's frames nearly free to learn — and every run through them is retrieval practice,\nthe strongest rehearsal there is [REF:roediger2006].\n\n> **[FACT · तथ्यम्]** High-frequency courtesy formulas are learned fastest as unanalyzed\n> chunks — frame in, frame out — with the internal grammar unpacked later, without\n> relearning. Today's exchange is four such chunks and one placement rule. [REF:nation2013]\n\nTwo design notes, honestly stated. First, we drill the neuter answer कुशलम् first and\nhardest because it is the answer *every* learner can always use; the gendered forms are\nreal and they wait for the gender system, rather than being half-taught now. Second, one\ndelivery fact for §9: the exchange has a fixed melody — the question rises, the echo\nsettles. A question with कथम् in it does not need the rise; the word itself asks."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — today's संज्ञा is **कुशलप्रश्नः** (kuśalapraśnaḥ) \"the well-being\nquestion\" — कुशल (kuśala) \"well-being\" + प्रश्नः (praśnaḥ) \"question\". And the unlocked\nlanguage, at once:\n\nअपि कुशलम्?\n(api kuśalam?) \"(Is) all well?\" — सब कुशल तो है?\n\nकुशलम्! सर्वम् कुशलम्!\n(kuśalam! sarvam kuśalam!) \"Well! All is well!\" — कुशल है! सब कुशल है!\n\nभवान् कुशली?\n(bhavān kuśalī?) \"Are you well, sir?\" — आप कुशल हैं?\n\nअहम् कुशली।\n(aham kuśalī.) \"I am well.\" — मैं कुशल हूँ। (पुरुष वक्ता)\n\nOne honest note: कुशली (kuśalī) is said by and of a man; the classical form for a female\nspeaker is कुशलिनी (kuśalinī) — shown today, taught with the gender system later in this\nvolume, exactly as छात्रा was mentioned and deferred in Chapter 6. The neuter कुशलम् is\nevery speaker's safe and fully classical answer. Nothing else about these frames is\nanalyzed today — they are chunks, glossed whole, like every frame this course has handed\nyou."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nआज फिर हिन्दी आपकी सबसे बड़ी पूँजी है। \"सब कुशल-मंगल तो है?\" — यह वाक्य आप बचपन से सुनते\nआए हैं; संस्कृत का अपि कुशलम्? ठीक वही पूछता है, और कुशल शब्द दोनों भाषाओं में एक ही है।\nदूसरी पूँजी और भी सटीक है: हिन्दी में वाक्य के आगे \"क्या\" लगाइए तो कथन प्रश्न बन जाता है —\n\"क्या सब ठीक है?\" संस्कृत में वाक्य के *आरम्भ* का अपि ठीक यही काम करता है: अपि कुशलम्?\nऔर पिछले अध्याय से आप जानते हैं कि शब्द के *पीछे* बैठा अपि हिन्दी के \"भी\" का जुड़वाँ है —\nअहम् अपि = \"मैं भी\"। यानी अपि के दोनों काम आपके पास पहले से हैं: आगे बैठे तो \"क्या\", पीछे\nबैठे तो \"भी\"। तीसरी पूँजी: कथम् का थ। अंग्रेज़ी से आने वाले शिक्षार्थी इस पर फिसलते हैं,\nपर आपका थ (हाथ, थाली) ठीक अपनी जगह है — बस साँस पूरी रखिए।\n\nअब दो चेतावनियाँ। पहली: हिन्दी की आदत बीच का अ खा जाती है — कुशली को \"कुश्ली\" मत बोलिए;\nतीन पूरे अक्षर हैं — कु-श-ली — और अन्तिम ई लम्बी। कुशलम् में भी बीच के दोनों अ पूरे बोलिए।\nदूसरी: कुशली पुरुष के लिए है। स्त्री वक्ता का शास्त्रीय रूप कुशलिनी है — आज केवल देखने भर\nको; स्त्री-पुरुष रूपों की पूरी व्यवस्था इसी खण्ड में आगे आएगी। तब तक हर वक्ता का सही उत्तर\nएक ही है — कुशलम्! यह कोई समझौता नहीं है; यह बिल्कुल शुद्ध, शास्त्रीय उत्तर है।\n\nऔर आज का असली काम वही है जो पिछली बार था: यह पाठ बोलने का है। प्रश्न चढ़ाकर पूछिए, उत्तर\nठहराकर दीजिए — और घर पहुँचते ही किसी से पूछ लीजिए: अपि कुशलम्?"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "One exchange, one personal form, one new question word, and one old word with a new job.\n\n### The exchange — classical, and proud of it\n\n**अपि कुशलम्?** (api kuśalam?) \"(Is) all well?\" — the classical wellness question. Answer\nby handing the word back:\n\n| You are asked | You answer |\n|---|---|\n| अपि कुशलम्? | कुशलम्! \"well!\" |\n| अपि कुशलम्? | सर्वम् कुशलम्! \"all is well!\" |\n| अपि सर्वम् कुशलम्? | आम्! सर्वम् कुशलम्! |\n\nThe echo is the whole trick: the question's key word *is* the answer. सर्वम् (sarvam)\n\"all, everything\" is an upgrade, not a stranger — you met the stem सर्व in Chapter 5's\nrepha drills and recited सर्वे भवन्तु सुखिनः at the Volume Exam; today its neuter form\ngoes into everyday service.\n\n### The personal form — and the safe answer\n\nTo ask after the *person* rather than the situation: **त्वम् कुशली?** (tvam kuśalī?)\n\"are you well?\" — to a boy or man you know; **भवान् कुशली?** (bhavān kuśalī?) \"are you\nwell, sir?\" — respectfully, to a man. A male speaker answers **अहम् कुशली** (aham\nkuśalī) \"I am well.\"\n\nNow the honest line, kindly meant: कुशली is a *gendered* form — it fits a male speaker\nor addressee. The classical form for a female speaker is **कुशलिनी** (kuśalinī) —\ndisplay only today, exactly as छात्रा was mentioned and deferred in Chapter 6; the\nrespectful भवती (bhavatī) for addressing a woman waits in the same room. The gender\nsystem is this volume's later business, and we will not half-teach it now. Until then,\nevery speaker — boy, girl, man, woman — owns the perfect, fully classical answer:\n**कुशलम्!** The neuter answers for the *situation*, so it answers for everyone. Drill it\nfirst; reach for it whenever in doubt.\n\n### कथम् — the kit completes\n\n**कथम्** (katham) \"how?\" joins the question words you have collected since Chapter 2 —\nकः का किम् कुतः (kaḥ kā kim kutaḥ) — and completes the kit. Its starter frame is\n**कथम् अस्ति?** (katham asti?) \"how is (it)?\", asked of things you can already name:\n\nकथम् अस्ति विद्यालयः?\n(katham asti vidyālayaḥ?) \"How is the school?\" — विद्यालय कैसा है?\n\nAnswer with what you learned five minutes ago: सर्वम् कुशलम्! Keep कथम् for things and\nsituations today; asking *persons* how they are is the कुशल-exchange's job, and the two\nframes divide the work cleanly.\n\n### अपि's second job\n\nChapter 6 taught अपि's first job: X अपि = \"X too\", always behind its word. Today the\nsecond, and the position tells you which is which — **standing first in a sentence, अपि\nturns the sentence into a polite yes/no question**: अपि कुशलम्? \"(is) all well?\" This is\nclassical usage, and it is the first *written* question mark this course has given you.\nHindi speakers: front-अपि is your \"क्या…?\", behind-अपि is your \"भी\" — you have owned both\nmoves all along. The rising tune stays on the अपि-question (it is still a yes/no\nquestion); the कथम्-question keeps the level tune, because the question word asks.\n\n### The ledger\n\nVolume 1 closed at 237 readable words; lesson 1's greeting kit brought the ledger to\nabout 245. Today's four — कथम्, कुशलम्, कुशली, सर्वम् — push it to roughly 249: the\n250 door is next lesson's to open. Everything else in this lesson, both scenes and the\nstory included, is built from words you already own."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is tune and timing. Audio: 🔊\n`planned:assets/audio/volume-2/v2c01l02-dialogue.mp3` (both scenes at three speeds, plus\na roleplay-gap track), 🔊 `planned:assets/audio/volume-2/v2c01l02-word-list.mp3` (four\nwords + dictation track).\n\n**Drill 1 — the two question tunes, updated.** The अपि-question is a yes/no question, so\nit rises — अपि कुशलम्? — even though अपि marks it on paper; ink and voice both ask.\nThe कथम्-question stays level — कथम् अस्ति विद्यालयः? — the word does the asking, as\nकिम् and कः always have. Alternate the pair three times until the switch is automatic.\n\n**Drill 2 — the exchange rhythm.** Rise, one beat of silence, settle: अपि कुशलम्? (rise)\n— beat — कुशलम्! (fall). The falling echo is what makes the answer sound *answered*.\nThree rounds solo, both roles, pause form between turns.\n\n**Drill 3 — shadow both roles.** Play Scene 1; speak the asker's lines in the gaps.\nReplay; speak the answerer's. The roleplay-gap track leaves one side silent for you.\n\n**Drill 4 — word disciplines.** कथम्: the थ is a dental stop with a real puff — tongue\non the teeth, then breath; never the English \"th\" of *thin*, which lets the air leak\nthrough. कुशली: three full beats, कु-श-ली, the middle अ intact and the final ई long.\nसर्वम्: Chapter 5's repha timing — the r sounds *before* the व."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new symbols — new melody over known material. The frames in pause form:\n\n**अपि कुशलम्** /ɐpi kuɕɐlɐm/ · **सर्वम् कुशलम्** /sɐɾʋɐm kuɕɐlɐm/ · **त्वम् कुशली**\n/t̪ʋɐm kuɕɐliː/ · **भवान् कुशली** /bʱɐʋɑːn̪ kuɕɐliː/ · **कथम् अस्ति विद्यालयः**\n/kɐt̪ʰɐm ɐst̪i ʋid̪jɑːlɐjɐh/.\n\n**Word transcriptions:** कथम् /kɐt̪ʰɐm/ · कुशलम् /kuɕɐlɐm/ · कुशली /kuɕɐliː/ ·\nसर्वम् /sɐɾʋɐm/ · अपि /ɐpi/ · display: कुशलिनी /kuɕɐlin̪iː/.\n\n**Narrow notes:** the थ of कथम् is [t̪ʰ] — full dental closure released with aspiration,\nnever the English fricative [θ], which never closes at all. कुशली ends in a held [iː] —\ntwo beats of vowel, jaw still. सर्वम् is [sɐɾ.ʋɐm]: the tap [ɾ] lands before the\nlabiodental [ʋ], though the eye reads the hook above the व. Intonation (the rise on the\nअपि-question) is a property of the sentence, not of any segment — it lives in §9, not in\nthese transcriptions."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — nothing new to place; three checks to run.\n\n1. **The थ station.** Say कथम् slowly with a tissue before your lips: tongue tip touches\n   the teeth, the air stops fully, then the puff jumps the tissue. If the tissue stirs\n   *continuously*, you are leaking an English \"th\" — close first, then release.\n2. **The श in कुशलम्.** Blade of the tongue toward the hard palate, lips relaxed — the\n   sound of श, not स. Say कुशलम् and feel the tongue's station; if it slides to the\n   teeth, you have said the non-word \"kusalam\".\n3. **The held ई of कुशली.** Watch your mouth through the final beat in a mirror: lips\n   and jaw frozen for two full counts. If they drift, the vowel shortened — and the\n   word's shape with it."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **English \"th\" in कथम्.** The fricative of *thin* for /t̪ʰ/. *Fix:* full dental\n   closure, then the puff — §11 check 1. Hindi speakers already own this stop in हाथ.\n2. **कुशली clipped to \"kuślī\".** The Hindi habit deletes the middle अ. *Fix:* three\n   beats, कु-श-ली, tapped on the desk; the middle beat is a whole akṣara.\n3. **अपि's jobs confused.** Reading अपि कुशलम्? as \"well-being too\", or trying to ask a\n   question with अपि parked behind a word. *Fix:* position decides — front of the\n   sentence = question; behind a word = \"too\". Run §18 exercise 2 until sorting is\n   instant.\n4. **A gendered answer from the wrong speaker.** A girl answering अहम् कुशली (or being\n   made to). *Fix:* कुशलम्! is everyone's answer — fully classical, never a compromise;\n   कुशलिनी is display until the gender system arrives later this volume.\n5. **The flat अपि-question.** अपि कुशलम् said level sounds like a broken statement.\n   *Fix:* it is a yes/no question — the rise stays, exactly as in त्वम् अपि छात्रः?\n   (§9 drill 1).\n6. **स for श in कुशलम्.** \"kusalam\" — the tongue slid forward to the स station. *Fix:*\n   §11 check 2; the श of कुशल is the श of शब्द, blade high, lips soft."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three items with something inside them.\n\n### अपि कुशलम् — the exchange, worked\n\n**अपि कुशलम्?** (api kuśalam?) \"(Is) all well?\" — the question; and its three graded\nanswers, all built on one word:\n\n- कुशलम्! (kuśalam!) \"Well!\" — the minimal echo; every speaker's safe answer.\n- सर्वम् कुशलम्! (sarvam kuśalam!) \"All is well!\" — the generous echo.\n- आम्! सर्वम् कुशलम्! (ām! sarvam kuśalam!) \"Yes! All is well!\" — the warm one.\n\nOne exchange, zero grammar to analyze, and a classical label on the whole set — this is\nthe cheapest fluent Sanskrit you will ever buy.\n\n### कथम् — the k that asks\n\n**कथम्** (katham) \"how?\" — कथम् · /kɐt̪ʰɐm/\n\n> **[FACT · तथ्यम्]** Every Sanskrit question word you own begins with k — कः, का,\n> किम्, कुतः, कथम् — because all are built on one ancient interrogative stem. English\n> carries the same stem as the wh- of its own question words (*who, what, how*):\n> Sanskrit k-questions and English wh-questions are cognates, parallel descendants of\n> the Proto-Indo-European interrogative stem, not borrowings in either direction.\n> [REF:mallory2006] [REF:monierwilliams1899 s.v. कथम्]\n\nIts starter frame stays small on purpose: कथम् अस्ति? \"how is (it)?\" — कथम् अस्ति\nविद्यालयः? कथम् अस्ति जलम्? Point the kit at things; the कुशल-exchange handles persons.\n\n### सर्वम् — from the śloka to the schoolyard\n\n**सर्वम्** (sarvam) \"all, everything\" — सर्व · /sɐɾʋɐm/\n\nYou have carried this stem for two chapters: सर्व in the repha drills of v1.c05.l04,\nसर्वे भवन्तु सुखिनः recited — with sources and syllable counts — at the Volume Exam.\nToday the neuter form clocks in for ordinary work: सर्वम् कुशलम्! The course's promise\nin action — nothing you learned stays ornamental; the exam's recitation word is this\nweek's small talk."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — three new words and one upgrade; the ledger stands at 243. No 🔊 loans\nanywhere. Audio: 🔊 `planned:assets/audio/volume-2/v2c01l02-word-list.mp3` (model\nreading, each word twice, plus the dictation track).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| कथम् | katham | /kɐt̪ʰɐm/ | how? | कैसे, कैसा | completes the question kit (§8); dental थ with a real puff (§12) |\n| कुशलम् | kuśalam | /kuɕɐlɐm/ | well-being; (all is) well | कुशल, ठीक | the exchange's echo word — question and answer both (§8) |\n| कुशली | kuśalī | /kuɕɐliː/ | well, in good health (male speaker/addressee) | कुशल (पुरुष के लिए) | gendered form; कुशलिनी display only (§8, §15) |\n| सर्वम् | sarvam | /sɐɾʋɐm/ | all, everything | सब, सब कुछ | upgrade — stem सर्व readable since v1.c05.l04, सर्वे in the exam śloka; neuter form enters active use |\n\nCounting, honestly: four rows, four counted — the upgrade counts because the *form in\nuse* is new to your mouth; the chapter ledger is reconciled at review as always. Not in\nthe table on purpose: कुशलिनी (display, §8) — mentioned, glossed, never assessed, seated\nproperly with the gender system later this volume. Reading protocol as ever: block by\nblock (कु-श-ली, स-र्वम्), then the whole word, then the audio — and the frame words\npracticed *in* their frames: अपि कुशलम्? — कुशलम्!"
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — in a conversation lesson the grammar is small and sharp: one placement rule,\none completed kit, one honest boundary. No new script — that campaign closed with\nVolume 1.\n\n### अपि's two jobs\n\n> **[FACT · तथ्यम्]** अपि placed after a word means \"also, even\" — अहम् अपि \"I too\".\n> Standing at the head of a sentence, अपि marks a polite yes/no question — अपि कुशलम्?\n> \"(is) all well?\" Both uses are classical, recorded side by side in the dictionaries.\n> [REF:apte1890 s.v. अपि]\n\nPosition is the entire rule: **behind a word — \"too\"; first in the sentence — a\nquestion.** The two jobs never collide, because they cannot occupy the same slot. Test\nsentence: त्वम् अपि छात्रः? — that अपि stands *behind* त्वम्, so it means \"too\"; the\nquestion there is carried by the rise alone, exactly as taught in Chapter 6.\n\n### The question kit, complete\n\n| Question | Asks | Tune | An answer |\n|---|---|---|---|\n| कः? | who? (of a ः-word) | level | रामः। छात्रः। |\n| का? | who? (of an -आ word) | level | सीता। बालिका। |\n| किम्? | what? | level | जलम्। मम नाम माया। |\n| कुतः? | from where? | level | इतः! |\n| कथम्? | how? | level | कुशलम्! सर्वम् कुशलम्! |\n\nTwo kinds of question stand *outside* the kit and rise instead: the bare question\n(त्वम् कुशली?) and the अपि-question (अपि कुशलम्?). Five words, one melody rule — that\nis the whole apparatus of asking, as of today.\n\n### The gender boundary, honestly drawn\n\nकुशली is the masculine form of its word; कुशलिनी the feminine; कुशलम् the neuter of the\nplain adjective — and *why* those shapes are what they are is the gender system's story,\ntold properly later in this volume. Today's working rules are chunks: use कुशली of a\nboy or man; if you are a male speaker, answer with it; every speaker answers safely with\nकुशलम्. This mirrors Chapter 6's छात्रा handling exactly: honest mention, no\nhalf-teaching, full seat later.\n\n### A sandhi seam, previewed\n\nIn joined classical writing you will meet **सर्वं कुशलम्** — the म् of सर्वम् dressing\nas anusvāra before the following क. That machinery is Volume 3's; this course reads and\nwrites pause form — सर्वम् कुशलम् — until sandhi is taught, not smuggled."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — the heart of the lesson, in two scenes; every word is self-read. 🔊 audio:\n`planned:assets/audio/volume-2/v2c01l02-dialogue.mp3` (slow pause-form, natural speed,\nand a roleplay-gap track with one side silent).\n\n### Scene 1 — two students meet\n\nBefore class, on the school path.\n\n— सीता: भोः! नमस्ते! त्वम् कुशली?\n(bhoḥ! namaste! tvam kuśalī?) \"Hey! Greetings! Are you well?\" — अरे! नमस्ते! तुम कुशल\nतो हो?\n\n— रामः: आम्! अहम् कुशली! अपि कुशलम्?\n(ām! aham kuśalī! api kuśalam?) \"Yes! I am well! Is all well (with you)?\" — हाँ! मैं\nकुशल हूँ! सब कुशल तो है?\n\n— सीता: कुशलम्! सर्वम् कुशलम्!\n(kuśalam! sarvam kuśalam!) \"Well! All is well!\" — कुशल है! सब कुशल है!\n\n— बालकः *(running up)*: नमस्ते! अहम् अपि कुशली!\n(namaste! aham api kuśalī!) \"Greetings! I too am well!\" — नमस्ते! मैं भी कुशल हूँ!\n\nWatch the pattern do the teaching. सीता asks रामः the personal form — he is a boy, so\nकुशली fits him. रामः asks her back the *neuter* way — the form that is safe for every\naddressee — and she answers with the neuter echo. And the बालकः, uninvited as ever,\nreprises Chapter 6's अपि: parked behind अहम्, it means \"too\" — nobody asked, which is\nthe joke.\n\n### Scene 2 — the आचार्यः asks the class\n\nThe room settles; the teacher looks up.\n\n— आचार्यः: नमस्ते! भोः! अपि सर्वम् कुशलम्?\n(namaste! bhoḥ! api sarvam kuśalam?) \"Greetings! Ho, everyone! Is all well?\" — नमस्ते!\nअरे भई! क्या सब कुशल है?\n\n— *(the whole class, together)*: आम्! सर्वम् कुशलम्!\n(ām! sarvam kuśalam!) \"Yes! All is well!\" — हाँ! सब कुशल है!\n\n— आचार्यः *(to Māyā, the new girl)*: अपि कुशलम्?\n(api kuśalam?) \"(And you —) is all well?\" — सब कुशल तो है?\n\n— माया: आम्! कुशलम्!\n(ām! kuśalam!) \"Yes! (All is) well!\" — हाँ! कुशल है!\n\n— आचार्यः *(smiling)*: सर्वम् कुशलम्!\n(sarvam kuśalam!) \"All is well!\" — सब कुशल है!\n\nDelivery notes: the अपि-questions rise; the echoes settle — run the melody before the\nmeaning. Pause form between turns, one full beat. And notice माया: a female speaker,\nanswering perfectly with the neuter कुशलम् — that is not a workaround, that is the\nteaching. The English stage directions are scaffolding, not Sanskrit; swap roles and run\nboth scenes until each side is yours."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — कुशलम् · All Is Well. Six lines; each line: Devanagari, IAST, English, Hindi.\n\n1. माया अत्र अस्ति।\n   (māyā atra asti.) \"Māyā is here.\" — माया यहाँ है।\n2. सीता वदति — नमस्ते! अपि कुशलम्?\n   (sītā vadati — namaste! api kuśalam?) \"Sītā says: Greetings! Is all well?\" — सीता\n   कहती है — नमस्ते! सब कुशल तो है?\n3. माया वदति — कुशलम्! सर्वम् कुशलम्!\n   (māyā vadati — kuśalam! sarvam kuśalam!) \"Māyā says: Well! All is well!\" — माया कहती\n   है — कुशल है! सब कुशल है!\n4. रामः वदति — अहम् अपि कुशली!\n   (rāmaḥ vadati — aham api kuśalī!) \"Rāma says: I too am well!\" — राम कहता है — मैं भी\n   कुशल हूँ!\n5. माया वदति — कथम् अस्ति विद्यालयः?\n   (māyā vadati — katham asti vidyālayaḥ?) \"Māyā says: How is the school?\" — माया कहती\n   है — विद्यालय कैसा है?\n6. सीता हसति — विद्यालयः अपि कुशली! सर्वम् कुशलम्!\n   (sītā hasati — vidyālayaḥ api kuśalī! sarvam kuśalam!) \"Sītā laughs: The school is\n   well too! All is well!\" — सीता हँसती है — विद्यालय भी कुशल है! सब कुशल है!\n\nLine 5 is कथम् doing its plain work on a thing — the new girl asking about her new\nschool. Line 6 is grammar wearing a grin: विद्यालयः is a ः-word, masculine, so the\npersonal कुशली fits it perfectly — and the joke is a building being asked after like a\nfriend. माया, who could not read one letter on her first page in this course, now runs\nthe whole exchange in her second week of Volume 2. The cast keeps growing up with you."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 3, 4, 5 and 6 are production tasks. Do them in order.\n\n**अभ्यासः 1 · कुशलमाला (the exchange chain — production).** Aloud, both roles, three\nrounds: अपि कुशलम्? — कुशलम्! · अपि कुशलम्? — सर्वम् कुशलम्! · अपि सर्वम् कुशलम्? —\nआम्! सर्वम् कुशलम्! Then the personal round: त्वम् कुशली? — आम्! अहम् कुशली! (male\nspeakers answer as themselves; everyone else is acting — see exercise 3). Finish with\nthe everyone-round: each answer in the room is कुशलम्! Rise on every question, settle\non every echo.\n\n**अभ्यासः 2 · अपि-विवेकः (the two-jobs sort — written).** For each sentence, write J1\n(\"too\") or J2 (question) and translate: (a) अपि कुशलम्? (b) अहम् अपि कुशली। (c) त्वम्\nअपि छात्रः? (d) अपि सर्वम् कुशलम्? (e) माया अपि अत्र अस्ति। Self-check with §15's\nposition rule — and mind the trap in (c).\n\n**अभ्यासः 3 · अभिनयः (roleplay — production).** Print the worksheet ✍\n(`planned:assets/worksheets/volume-2/v2c01l02-roleplay.pdf`). With a partner, perform\nScene 1 and Scene 2 from the role cards — each partner sees only their own lines. Swap\nand repeat. The कुशली lines belong to male characters; if you play रामः, you say them\nwhoever you are — that is acting, and the card says so. Solo mode: the roleplay-gap\ntrack 🔊 leaves one side silent for you.\n\n**अभ्यासः 4 · कुशलवार्ता (record yourself — production).** Record the full exchange in\none take, both roles: नमस्ते! अपि कुशलम्? — कुशलम्! सर्वम् कुशलम्! Play it back against\n§9: did the question rise? did the echo settle? is the श of कुशलम् a श? Keep the\nrecording — lesson 5's role-card exam asks for this exchange again, faster and inside a\nlonger ladder.\n\n**अभ्यासः 5 · कथम्-क्रीडा (the how-game — production).** Point at three things you can\nname — the worksheet's picture cards (घटः, जलम्, विद्यालयः) or the real room — and ask\naloud: कथम् अस्ति घटः? कथम् अस्ति जलम्? कथम् अस्ति विद्यालयः? Answer every time from\ntoday's kit: सर्वम् कुशलम्! Keep the tune level on the question — कथम् does the asking.\n\n**अभ्यासः 6 · श्रुतलेखनम् (dictation — production).** Play the dictation track 🔊 (in\nthe word-list audio): six lines from §16 in random order, each read twice with a writing\npause. Write them in Devanagari, question marks and daṇḍas included. Self-check against\n§16: every म् and ः in place? the र्व of सर्वम् hooked correctly? 5/6 is a pass; re-take\ntomorrow either way (§20)."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The classical wellness question, exactly as taught: (a) अपि कुशलम्? (b) कुशलम् अपि?\n   (c) किम् कुशलम्? (d) कथम् कुशलम्?\n2. The one answer that is right for every speaker — boy, girl, man, woman: (a) कुशलम्!\n   (b) अहम् कुशली। (c) कुशलिनी! (d) आम्! अहम् कुशली!\n3. Standing first in a sentence, अपि: (a) means \"too\" (b) turns the sentence into a\n   polite yes/no question (c) makes the sentence negative (d) marks respect, like भवान्\n4. A boy says \"I too am well\": (a) अहम् अपि कुशली। (b) अपि अहम् कुशली। (c) अहम् कुशली\n   अपि। (d) अहम् अपि कुशलिनी।\n5. कथम् asks: (a) how? (b) from where? (c) who? (d) what?\n6. Which question keeps the level tune, because its question word does the asking?\n   (a) अपि कुशलम्? (b) कथम् अस्ति विद्यालयः? (c) त्वम् कुशली? (d) अपि सर्वम् कुशलम्?\n7. To your teacher — a man — the respectful wellness question is: (a) भवान् कुशली?\n   (b) त्वम् कुशली? (c) भवान् कुशलम्? (d) अपि भवान्?\n8. The exchange अपि कुशलम्? — कुशलम्! wears which label in this course? (a) classical\n   idiom — attested classical etiquette (b) modern spoken convention, like विद्यालयः\n   for \"school\" (c) a borrowing from Hindi (d) a formula invented by this course\n9. Reading check — write the English meaning of each: (a) कथम् (b) कुशलम् (c) सर्वम्\n   (d) कुशली\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (a) अपि कुशलम्? — अपि stands first and asks (§8). ((b) reads \"well-being too\" — the\n   wrong job; (c) and (d) force question words into a frame that does not take them.)\n2. (a) कुशलम्! — the neuter echo is everyone's safe, fully classical answer (§8, §12\n   mistake 4). ((b) and (d) fit a male speaker only; (c) is display-only today.)\n3. (b) — the polite question mark job (§15). Behind a word it means \"too\"; position\n   decides, and the two slots never collide.\n4. (a) अहम् अपि कुशली। — अपि behind its word, job 1 (§15). ((b) puts अपि up front and\n   accidentally asks a question; (c) walks it to a slot it never takes; (d) is the\n   feminine display form — wrong speaker.)\n5. (a) how? (§8, §14). (The others belong to कुतः, कः, and किम् respectively.)\n6. (b) कथम् अस्ति विद्यालयः? — the question word asks, so the tune stays level (§9\n   drill 1). ((a) and (d) are अपि-questions — they rise; (c) has no question word, so\n   the rise alone asks.)\n7. (a) भवान् कुशली? — the respectful \"you\" with the personal form (§8). ((b) is the\n   peer form; (c) mismatches the personal question with the neuter word; (d) is not a\n   frame.)\n8. (a) — classical etiquette, proudly labeled (§4, §8). ((b) is विद्यालयः's own label,\n   not this frame's — the contrast is the volume's whole honesty axis.)\n9. (a) कथम् = \"how?\"; (b) कुशलम् = \"well-being; (all is) well\"; (c) सर्वम् = \"all,\n   everything\"; (d) कुशली = \"well, in good health (of a man)\" (§14).\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The frame:** अपि कुशलम्? — and the answer echoes: कुशलम्! / सर्वम् कुशलम्! **The\n> personal form:** त्वम् कुशली? to a boy, भवान् कुशली? to a man; अहम् कुशली from a male\n> speaker — and the neuter कुशलम् is every speaker's safe answer. **The kit, complete:**\n> कः · का · किम् · कुतः · कथम् — कथम् अस्ति विद्यालयः? **The two jobs:** behind a word,\n> अपि says \"too\"; first in the sentence, it asks. **The label:** classical idiom, worn\n> proudly. **The words:** four — the ledger stands at 243.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-record the exchange (exercise 4) cold and compare takes; re-run the\n  two-jobs sort with the sentences shuffled; re-take the dictation.\n- **In 1 week:** lesson 4 chains the full courtesy ladder — greet, ask after well-being,\n  thank, apologize, take leave — and today's exchange is its second rung; lesson 5's\n  role-card exam scores it under time.\n- **From now on:** open every Sanskrit conversation, class, and recording with the\n  greeting and the exchange — two turns of real, classical small talk you own outright."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 4 and 6 if not completed in class — the recorded\n   exchange and the dictation pass.\n2. **(10 min, real world)** The wellness harvest: teach someone at home the question\n   अपि कुशलम्? and the safe answer कुशलम्!, then run the exchange three times across\n   the day — morning, afternoon, night. Report tomorrow: who answered, and how fast.\n3. **(5 min)** Run both §16 scenes solo, speaking every role, pause form between turns —\n   once with the slow track, once at natural speed.\n4. **(5 min, stretch)** Write a four-line wellness dialogue for the cast — one\n   अपि-question, one echo answer, one personal form used correctly, one कथम् question —\n   every word from the ledger.\n\nTomorrow, before anything else: the 1-day re-recording (§20). The gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**This is a speaking lesson — chairs in pairs from minute one.** The reading load is\nfour words; the win condition is every student asking and answering, aloud, many times,\nwith the melody right. Do not let the hour become silent reading about a conversation.\n\n**Timing plan (45 min):** §3 retrieval, written (4) → hook: अपि steps to the front (3)\n→ the exchange + the classical label on the board (6) → echo-answer drill, whole room\n(4) → personal forms + the gender honesty, scripted below (5) → Scene 1 in pairs (7) →\ntwo-jobs board sort, sentences from §18 exercise 2 (4) → Scene 2 as a whole-class\nchorus, teacher as आचार्यः (4) → कथम् round on real classroom objects (4) → recording/\ndictation start + homework briefing (4).\n\n**The gender question is coming — have the honest script ready.** A girl will ask why\nshe cannot say अहम् कुशली. Answer exactly what the course prints: कुशली is the\nmasculine form; the classical feminine कुशलिनी exists and is on the board today as\ndisplay; the full system arrives later this volume with proper seats for कुशलिनी, भवती\nand छात्रा; and कुशलम् is not a consolation prize — it is the fully classical answer\nevery speaker uses. Never \"you can't\" — always \"here is yours today, and here is what\nis coming.\"\n\n**Run Scene 2 chorus-first.** The whole-class answer आम्! सर्वम् कुशलम्! gives shy\nspeakers cover before pair work exposes them; go around with individual अपि कुशलम्?\nquestions only after two full chorus rounds. Teacher plays आचार्यः; hand the role to a\nstudent on the second pass.\n\n**Board work for the two jobs.** Write अहम् अपि कुशली and अपि कुशलम्? one above the\nother; circle अपि in both; draw the arrow back to अहम् in the first and the question\narc over the second. Position, not meaning, is the discriminator — students who verbalize\nthe rule (\"front asks, behind adds\") sort fastest.\n\n**Differentiation:** Hindi speakers own कुशल, थ, and both of अपि's jobs through क्या/भी\n— move them fast to melody and the कु-श-ली beat discipline. English-habit learners rise\non yes/no questions natively — their work is the dental थ (tissue test) and resisting\n\"also\" word-order habits in the sort. Watch everyone on the level tune of कथम्-questions;\nEnglish habit wants to rise there too."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-2/v2c01l02-wellness-cards.svg`**\n\n> Educational dialogue storyboard, warm off-white, Noto Serif Devanagari, ink-black with\n> two accent colors, monochrome-safe. Panel A (\"Scene 1 — two students meet\"): two\n> children on a school path, a third running up, speech bubbles in exact Devanagari:\n> भोः! नमस्ते! त्वम् कुशली? / आम्! अहम् कुशली! अपि कुशलम्? / कुशलम्! सर्वम् कुशलम्! /\n> नमस्ते! अहम् अपि कुशली! Panel B (\"Scene 2 — the teacher asks the class\"): a classroom,\n> teacher at front, bubbles: नमस्ते! भोः! अपि सर्वम् कुशलम्? / आम्! सर्वम् कुशलम्! /\n> अपि कुशलम्? / आम्! कुशलम्! Side strip: the question kit कः · का · किम् · कुतः · कथम्\n> with level-tune bars, versus अपि कुशलम्? with a rising arc; a two-jobs diagram — अपि\n> circled at the front of a sentence with a question arc, अपि circled behind अहम् with a\n> link-back arrow; a label chip \"classical\" pinned to the exchange; a badge \"everyone's\n> answer\" on कुशलम्. Footer: the blank frames अपि ______? and ______ कुशलम्!\n> Devanagari must render exactly as given.\n\n**Asset 2 — `planned:assets/worksheets/volume-2/v2c01l02-roleplay.pdf` (layout spec)**\n\n> A4 worksheet, portrait, ruled Devanagari guides with headline. Row 1: Scene 1 role\n> cards — each half shows only its own lines plus cue words; a printed note on the\n> रामः card: \"कुशली belongs to the character — playing him is acting\". Row 2: Scene 2\n> role cards, teacher's half and class half, chorus line marked \"together\". Row 3: the\n> two-jobs sort — five sentences from §18 exercise 2 with J1/J2 tick boxes and a\n> translate line each. Row 4: the how-game — three picture cards to cut out (a pot\n> घटः, water जलम्, a school विद्यालयः) and the ruled frame कथम् अस्ति ______? Row 5:\n> dictation log — six ruled lines, two attempt columns with date boxes. Footer chants:\n> \"front asks · behind adds\" · \"कु-श-ली — three beats\" · \"थ is a t with breath, never\n> English th\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:35):** the sentence त्वम् अपि छात्रः? from Chapter 6 on screen, its\n   rising arc drawn by hand — caption \"the tune was your only question mark\". Then अपि\n   detaches, walks to the front of a new sentence, and the daṇḍa flips into a question\n   mark: अपि कुशलम्? Title: कुशलप्रश्नः — How Are You.\n2. **The exchange (0:35–1:45):** अपि कुशलम्? assembles; the answer bounces back as an\n   echo — the word कुशलम् literally reflected across the screen; then सर्वम् joins for\n   the generous version. A chip stamps the frame: \"classical — worn proudly\", beside a\n   flashback to विद्यालयः's \"modern\" chip from Volume 1.\n3. **The personal form (1:45–2:50):** त्वम् कुशली? / भवान् कुशली? sort onto the\n   पीर/respect pair from Chapter 6; अहम् कुशली answers; कुशलिनी appears in a display\n   case labeled \"later this volume\"; the badge \"everyone's answer\" lands on कुशलम्.\n4. **कथम् completes the kit (2:50–3:50):** the five question words line up — कः का\n   किम् कुतः कथम् — level-tune bars over each; कथम् अस्ति विद्यालयः? plays out with a\n   level line while अपि कुशलम्? replays with its rise; caption \"the word asks, or the\n   rise asks — never both needed\".\n5. **The scenes (3:50–5:10):** both §16 scenes as animated speech bubbles; the class\n   chorus lands as a wave; माया's आम्! कुशलम्! gets a slow-motion beat and the caption\n   \"the safe answer is the classical answer\".\n6. **Recap + CTA (5:10–6:00):** the four words flash in their frames; the two-jobs\n   diagram returns once; end card: \"Next: सुप्रभातम् — greetings around the clock.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** In Volume One you asked questions with your voice alone — the rise was your\n  only question mark. Today Sanskrit hands you a written one, and it is a word you\n  already know, standing somewhere new: api [ɐpi].\n- **00:35** api kuśalam [ɐpi kuɕɐlɐm] — is all well? Two words. api asks; kuśalam\n  [kuɕɐlɐm] is well-being. And the answer costs nothing — hand the word back: kuśalam!\n- **01:20** Feeling generous? sarvam kuśalam [sɐɾʋɐm kuɕɐlɐm] — ALL is well. You met\n  this stem at the Volume Exam — sarve bhavantu sukhinaḥ [sɐɾʋeː bʱɐʋɐn̪t̪u sukʰin̪ɐh].\n  The recitation word is now your small talk.\n- **02:00** The personal form: tvam kuśalī [t̪ʋɐm kuɕɐliː] — are you well? — to a boy;\n  bhavān kuśalī [bʱɐʋɑːn̪ kuɕɐliː] to a man, with respect. A male speaker answers aham\n  kuśalī [ɐɦɐm kuɕɐliː]. And every speaker owns the safe, fully classical answer:\n  kuśalam. The feminine forms take their proper seat later this volume.\n- **03:00** One more word completes the question kit: katham [kɐt̪ʰɐm] — how? katham\n  asti vidyālayaḥ [kɐt̪ʰɐm ɐst̪i ʋid̪jɑːlɐjɐh] — how is the school? Mind the tha — a\n  dental stop with breath, never the English th.\n- **03:50** Watch api's two jobs. Behind a word: aham api [ɐɦɐm ɐpi] — I too. First in\n  the sentence: api kuśalam? — a question. Front asks; behind adds. Position is\n  everything.\n- **04:30** Scene two: the teacher asks the whole room — bhoḥ [bʱoːh]! api sarvam\n  kuśalam? — and the room answers together: ām [ɑːm]! sarvam kuśalam!\n- **05:10** Four words today — katham, kuśalam, kuśalī, sarvam — and one exchange the\n  classical language itself greeted with. Next time: good morning, good day, good\n  night — the clock joins the courtesy kit. namaste [n̪ɐmɐst̪eː]!"
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** big type: \"Sanskrit's 'how are you?' is two words.\" अपि\n  कुशलम्? — api kuśalam — literally: \"(is) all well?\"\n- **Demo (0:07–0:30):** the answer bounces back on screen — \"the answer IS the\n  question, handed back\": कुशलम्! Then the flex: सर्वम् कुशलम्! \"ALL is well.\" The\n  word अपि visibly walks from behind a word to the front of the sentence — \"same word,\n  new place, and it becomes a question mark.\"\n- **Payoff (0:30–0:43):** \"And one word — कुशलम् — is the right answer for every\n  speaker. Classical speakers asked exactly this. You just did too.\"\n- **CTA (0:43–0:50):** \"Say it to someone today. This is Sanskritam, Volume 2 — the\n  courtesy kit.\" End card: कुशलप्रश्नः."
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-2/v2c01l02-wellness-cards.svg` — §16 scenes, §15 kit and\n    two-jobs diagram, §23 prompt 1. Speech-bubble text must match §16 exactly (lesson\n    5's role-card exam reuses these lines).\n  - `assets/audio/volume-2/v2c01l02-dialogue.mp3` — §9 drills 2–3, §16, §18 exercise 3\n    (three speeds + roleplay-gap track; the Scene 2 chorus line recorded with layered\n    voices; transcript required).\n  - `assets/audio/volume-2/v2c01l02-word-list.mp3` — §14 model reading, §18 exercise 6\n    (randomized six-line dictation track with transcript).\n  - `assets/worksheets/volume-2/v2c01l02-roleplay.pdf` — §18 exercises 3, 5, 6; §23\n    asset 2 (role cards, two-jobs sort, how-game cards, dictation log).\n- **Related lessons:** reviews v2.c01.l01 (भोः, स्वस्ति, भद्रम् ते, the greeting kit\n  reused in both scenes) and v1.c06.l02 (अपि job 1, the question tunes, त्वम्/भवान्,\n  the cast and the dialogue format mirrored here); builds on v1.c05.l01 (आम्, किम्,\n  भवान्), v1.c05.l04 (सर्व and आचार्य readable; repha timing reused in सर्वम्),\n  v1.c06.l01 (विद्यालयः and the modern-label precedent that today's classical label\n  contrasts), v1.c06.l04 (सर्वे भवन्तु recited — the सर्व callback in §13); feeds\n  v2.c01.l03 (day-cycle greetings), v2.c01.l04 (the courtesy ladder — thanks, apology,\n  farewell; न कुशलम् negation patterns), v2.c01.l05 (role-card exam and register-label\n  cards), the Volume 2 gender chapters (कुशलिनी, भवती, छात्रा seated properly), and\n  Volume 3 (sandhi: the सर्वं कुशलम् seam previewed in §15).\n- **Editorial decisions (resolved):** the research notes (§2) left the thanks formula's\n  debut to this lesson or lesson 4 — resolved to **lesson 4** by cross-lesson\n  coordination; it appears nowhere in this lesson, and vocabulary_count stays at the\n  honest 4 (three new + the सर्वम् upgrade, counted per the तव precedent of\n  v1.c06.l02). Entering ledger reconciled at review: 240 → 243; counts\n  reconciled at review as always. कुशलिनी and भवती are display-only (never in §14,\n  never assessed), mirroring the छात्रा handling of v1.c06.l02.\n- **Verification flags for Pass C:** the sentence-initial interrogative अपि (§8, §15\n  FACT) against [REF:apte1890 s.v. अपि]; the कुशलम् ते idiom and the epic\n  kuśala-inquiry convention (§4 FACT + HISTORY) against [REF:apte1890 s.v. कुशल] —\n  attach an epic locus (e.g. a Rāmāyaṇa kuśala-praśna passage) or soften the HISTORY\n  block to TRADITION; the kuśa-grass etymology (§4 TRADITION) — confirm wording against\n  [REF:monierwilliams1899 s.v. कुशल]; the k-/wh- interrogative cognate claim (§13 FACT)\n  — confirm the PIE interrogative stem treatment in [REF:mallory2006] or degrade\n  honestly; कुशली/कुशलिनी as masculine/feminine of the -इन् word and कुशलम् as the\n  plain adjective's neuter (§15) — check against [REF:monierwilliams1899 s.v. कुशलिन्];\n  विद्यालयः अपि कुशली (§17 line 6) is a deliberate joke — flag it so review does not\n  \"correct\" it, and confirm the agreement holds. **Cross-file note:** v2.c01.l01 is\n  drafted in parallel — until its file lands, the validator reports this lesson's\n  prerequisites/review_of ids as unresolved; no action needed here.\n- **Glossary:** **कुशलप्रश्न (kuśalapraśna) is first-taught here** — add to GLOSSARY.md\n  in the post-chapter loop (suggested hi gloss: कुशल-प्रश्न, हाल-चाल पूछना). Reuses\n  संज्ञा per GLOSSARY.md; सम्भाषणम् remains the §16 section label only, as in all\n  lessons. प्रश्नः itself stays glossed-in-passing (§4, §6), not counted — the संवादः\n  precedent.\n- **Export notes:** answer keys stay inside `<details>` in all renders (§3, §19); zero\n  🔊 loan words anywhere — dialogue, story, and exercises are fully self-read; English\n  stage directions in §16 (italicized parentheticals) are scaffolding — exclude from\n  Sanskrit-coverage lints; the blanks (______) in §23 are intentional non-words —\n  exclude from transliteration spot checks; IPA strings contain combining characters\n  (t̪, n̪, ɐ̃-class marks) — NFC applies to Devanagari fields only (STYLE_GUIDE §3),\n  never to IPA; §15's question-kit table may scroll horizontally on mobile, never wrap\n  cells.\n- **Register audit:** FACT ×4 (§4 कुशल idiom ×1 · §5 chunk learning ×1 · §13 k-family\n  cognates ×1 · §15 अपि two jobs ×1) · HISTORY ×1 (§4 epic kuśala-inquiry convention,\n  cited, Pass-C-flagged for a locus) · TRADITION ×1 (§4 kuśa-grass etymology,\n  source-named) · SYMBOL ×0 — quiz Q1–Q9 all FACT-register content taught in\n  §8/§12/§14/§15; the TRADITION block is never assessed."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "कथम्",
+      "iast": "katham",
+      "ipa": "/kɐt̪ʰɐm/",
+      "en": "how?",
+      "hi": "कैसे, कैसा",
+      "notes": "completes the question kit (§8); dental थ with a real puff (§12)"
+    },
+    {
+      "deva": "कुशलम्",
+      "iast": "kuśalam",
+      "ipa": "/kuɕɐlɐm/",
+      "en": "well-being; (all is) well",
+      "hi": "कुशल, ठीक",
+      "notes": "the exchange's echo word — question and answer both (§8)"
+    },
+    {
+      "deva": "कुशली",
+      "iast": "kuśalī",
+      "ipa": "/kuɕɐliː/",
+      "en": "well, in good health (male speaker/addressee)",
+      "hi": "कुशल (पुरुष के लिए)",
+      "notes": "gendered form; कुशलिनी display only (§8, §15)"
+    },
+    {
+      "deva": "सर्वम्",
+      "iast": "sarvam",
+      "ipa": "/sɐɾʋɐm/",
+      "en": "all, everything",
+      "hi": "सब, सब कुछ",
+      "notes": "upgrade — stem सर्व readable since v1.c05.l04, सर्वे in the exam śloka; neuter form enters active use"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The classical wellness question, exactly as taught: (a) अपि कुशलम्? (b) कुशलम् अपि?\n   (c) किम् कुशलम्? (d) कथम् कुशलम्?\n2. The one answer that is right for every speaker — boy, girl, man, woman: (a) कुशलम्!\n   (b) अहम् कुशली। (c) कुशलिनी! (d) आम्! अहम् कुशली!\n3. Standing first in a sentence, अपि: (a) means \"too\" (b) turns the sentence into a\n   polite yes/no question (c) makes the sentence negative (d) marks respect, like भवान्\n4. A boy says \"I too am well\": (a) अहम् अपि कुशली। (b) अपि अहम् कुशली। (c) अहम् कुशली\n   अपि। (d) अहम् अपि कुशलिनी।\n5. कथम् asks: (a) how? (b) from where? (c) who? (d) what?\n6. Which question keeps the level tune, because its question word does the asking?\n   (a) अपि कुशलम्? (b) कथम् अस्ति विद्यालयः? (c) त्वम् कुशली? (d) अपि सर्वम् कुशलम्?\n7. To your teacher — a man — the respectful wellness question is: (a) भवान् कुशली?\n   (b) त्वम् कुशली? (c) भवान् कुशलम्? (d) अपि भवान्?\n8. The exchange अपि कुशलम्? — कुशलम्! wears which label in this course? (a) classical\n   idiom — attested classical etiquette (b) modern spoken convention, like विद्यालयः\n   for \"school\" (c) a borrowing from Hindi (d) a formula invented by this course\n9. Reading check — write the English meaning of each: (a) कथम् (b) कुशलम् (c) सर्वम्\n   (d) कुशली",
+    "answer_key_markdown": "1. (a) अपि कुशलम्? — अपि stands first and asks (§8). ((b) reads \"well-being too\" — the\n   wrong job; (c) and (d) force question words into a frame that does not take them.)\n2. (a) कुशलम्! — the neuter echo is everyone's safe, fully classical answer (§8, §12\n   mistake 4). ((b) and (d) fit a male speaker only; (c) is display-only today.)\n3. (b) — the polite question mark job (§15). Behind a word it means \"too\"; position\n   decides, and the two slots never collide.\n4. (a) अहम् अपि कुशली। — अपि behind its word, job 1 (§15). ((b) puts अपि up front and\n   accidentally asks a question; (c) walks it to a slot it never takes; (d) is the\n   feminine display form — wrong speaker.)\n5. (a) how? (§8, §14). (The others belong to कुतः, कः, and किम् respectively.)\n6. (b) कथम् अस्ति विद्यालयः? — the question word asks, so the tune stays level (§9\n   drill 1). ((a) and (d) are अपि-questions — they rise; (c) has no question word, so\n   the rise alone asks.)\n7. (a) भवान् कुशली? — the respectful \"you\" with the personal form (§8). ((b) is the\n   peer form; (c) mismatches the personal question with the neuter word; (d) is not a\n   frame.)\n8. (a) — classical etiquette, proudly labeled (§4, §8). ((b) is विद्यालयः's own label,\n   not this frame's — the contrast is the volume's whole honesty axis.)\n9. (a) कथम् = \"how?\"; (b) कुशलम् = \"well-being; (all is) well\"; (c) सर्वम् = \"all,\n   everything\"; (d) कुशली = \"well, in good health (of a man)\" (§14)."
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "कुशल means \"well-being, welfare\" — and, as an adjective, \"skilful, in good order\". The dictionaries record the greeting idiom directly from classical usage: कुशलम् ते? \"is it well with you?\" — inquiry after kuśala as the standard courteous question. [REF:apte1890 s.v. कुशल]",
+      "refs": [
+        "apte1890 s.v. कुशल"
+      ]
+    },
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "The kuśala-inquiry is classical etiquette, not a modern pleasantry in old clothes: in epic and classical narrative convention, characters who meet ask after each other's well-being — the kuśala-question — before any other business is spoken, and the dictionaries cite the formulas from exactly such passages. [REF:apte1890 s.v. कुशल]",
+      "refs": [
+        "apte1890 s.v. कुशल"
+      ]
+    },
+    {
+      "type": "TRADITION",
+      "section_index": 4,
+      "text": "The traditional etymology recorded in the dictionaries derives कुशल from कुश (kuśa) — the sharp-edged sacred grass: the kuśala person is \"one who gathers kuśa grass\" without cutting their fingers, deftness as the root image of being well and doing well. A story the tradition tells about the word; the meanings themselves are dictionary fact. [REF:monierwilliams1899 s.v. कुशल]",
+      "refs": [
+        "monierwilliams1899 s.v. कुशल"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "High-frequency courtesy formulas are learned fastest as unanalyzed chunks — frame in, frame out — with the internal grammar unpacked later, without relearning. Today's exchange is four such chunks and one placement rule. [REF:nation2013]",
+      "refs": [
+        "nation2013"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "Every Sanskrit question word you own begins with k — कः, का, किम्, कुतः, कथम् — because all are built on one ancient interrogative stem. English carries the same stem as the wh- of its own question words (*who, what, how*): Sanskrit k-questions and English wh-questions are cognates, parallel descendants of the Proto-Indo-European interrogative stem, not borrowings in either direction. [REF:mallory2006] [REF:monierwilliams1899 s.v. कथम्]",
+      "refs": [
+        "mallory2006",
+        "monierwilliams1899 s.v. कथम्"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "अपि placed after a word means \"also, even\" — अहम् अपि \"I too\". Standing at the head of a sentence, अपि marks a polite yes/no question — अपि कुशलम्? \"(is) all well?\" Both uses are classical, recorded side by side in the dictionaries. [REF:apte1890 s.v. अपि]",
+      "refs": [
+        "apte1890 s.v. अपि"
+      ]
+    }
+  ]
+}

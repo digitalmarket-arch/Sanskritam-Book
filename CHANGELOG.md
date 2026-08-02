@@ -4,6 +4,31 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.7.0] — 2026-08-02
+
+Volume 2 Chapter 1 — अभिवादनम् (Greetings & Courtesy) complete and reviewed. Volume 2
+opens with its register upgrade: every courtesy formula labeled classical idiom or
+modern spoken convention — taught proudly, labeled truthfully.
+
+### Added
+- Volume 2 frame (curriculum/volume-2/volume.md): the word-load shift, the chunk-first
+  policy, the classical/modern label axis, the 1.x salvage map.
+- v2.c01 research notes (per-word attestation and labels; V1-interval wiring) and
+  chapter frame.
+- Five lessons: the greeting kit (भोः, अञ्जलिः with the ञ्ज payoff, भद्रम् ते, स्वस्ति;
+  Volume 1's exam interval + three-artifact ceremony in Station 0); the classical
+  wellness exchange (अपि कुशलम्? with कथम् completing the question kit); greetings
+  through the day (the सुप्रभातम् both-things-true card; the दिन ~ diena cognate set
+  with the English-day trap avoided); courtesy & farewell (the धन्यवादः label showcase,
+  क्षमस्व, न-negation with the नास्तिक X-ray, स्वस्ति beside पुनः मिलामः); and the
+  Courtesy Exam (role-card improvisation; task D sorts by the keystone label table).
+- GLOSSARY: अभिवादन, शिष्टाचार.
+
+### Changed
+- Cumulative ledger reconciled across parallel drafts: 237 → 260 (23 ledger-new,
+  26 headwords drilled).
+- JSON exports regenerated for all 36 lessons; verification log extended.
+
 ## [0.6.0] — 2026-07-31
 
 **Volume 1 content-complete.** Chapter 6 — पठनम् (Reading Bootcamp) complete and

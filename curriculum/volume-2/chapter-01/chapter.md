@@ -8,9 +8,9 @@ title:
 volume: 2
 chapter: 1
 cefr: A1
-status: draft
+status: reviewed
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-02
 ---
 
 # Chapter 1 — अभिवादनम् · Greetings & Courtesy
@@ -42,7 +42,7 @@ By the end of this chapter the learner can:
 - [ ] Choose the right greeting for the time of day (सुप्रभातम् … शुभरात्रिः) and say
   which parts of the kit are classical idiom and which modern convention
 - [ ] Use न for simple negation (न, न अस्ति, न कुशलम्)
-- [ ] Read ~33 new words (≈270 cumulative) incl. अञ्जलिः, कुशलम्, धन्यवादः, स्वस्ति
+- [ ] Read 23 ledger-new words — 26 headwords drilled (260 cumulative) — incl. अञ्जलिः, कुशलम्, धन्यवादः, स्वस्ति
 - [ ] Improvise the lesson-5 role-card conversation and pass the chapter assessment
 
 ## Lessons
