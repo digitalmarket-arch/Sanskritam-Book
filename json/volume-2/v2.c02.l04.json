@@ -1,0 +1,312 @@
+{
+  "frontmatter": {
+    "id": "v2.c02.l04",
+    "schema_version": 1,
+    "title": {
+      "sa": "कुत्र?",
+      "sa_iast": "kutra?",
+      "hi": "कुत्र? — चीज़ें कहाँ हैं",
+      "en": "Where Things Are"
+    },
+    "volume": 2,
+    "chapter": 2,
+    "lesson": 4,
+    "lesson_type": "conversation",
+    "cefr": "A1",
+    "duration_minutes": 45,
+    "self_study_minutes": 30,
+    "prerequisites": [
+      "v2.c02.l03"
+    ],
+    "review_of": [
+      "v2.c02.l01",
+      "v2.c02.l02",
+      "v2.c02.l03"
+    ],
+    "objectives": [
+      {
+        "en": "Ask and answer where-questions over the family and world sets — X कुत्र अस्ति? — X तत्र अस्ति। — and recite the completed location kit and question kit.",
+        "hi": "परिवार और जगत् के शब्दों पर कहाँ-प्रश्न पूछें और उत्तर दें — X कुत्र अस्ति? — X तत्र अस्ति। — और पूरी स्थान-किट तथा प्रश्न-किट सुनाएँ।"
+      },
+      {
+        "en": "Join words with च placed behind them — रामः सीता च; the both-form X च Y च — and state the honest correction: और is Hindi, Sanskrit's own connector is च.",
+        "hi": "च को पीछे रखकर शब्द जोड़ें — रामः सीता च; दोनों-रूप X च Y च — और ईमानदार सुधार बताएँ: और हिन्दी का शब्द है, संस्कृत का अपना जोड़-शब्द च है।"
+      },
+      {
+        "en": "Describe a scene with joined subjects in the verbless frame — माता पिता च अत्र। नदी वृक्षः च तत्र। — and say why the verb waits.",
+        "hi": "जुड़े कर्ताओं वाला दृश्य बिना क्रिया के बताएँ — माता पिता च अत्र। नदी वृक्षः च तत्र। — और बताएँ कि क्रिया अभी क्यों रुकी है।"
+      },
+      {
+        "en": "Read the chapter title परिवारः जगच्च aloud, open its seam (जगत् + च), and give the pause form जगत् च.",
+        "hi": "अध्याय का नाम परिवारः जगच्च पढ़ें, उसका जोड़ खोलें (जगत् + च), और विराम-रूप जगत् च बताएँ।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 2,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-2/v2c02l04-two-kits-card.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-2/v2c02l04-dialogue.mp3",
+        "planned:assets/audio/volume-2/v2c02l04-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-2/v2c02l04-where-game.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "conversation",
+      "location",
+      "questions",
+      "conjunction",
+      "enclitics",
+      "sandhi-preview"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-08-03"
+    ],
+    "created": "2026-08-02",
+    "updated": "2026-08-02"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Today's haul is two words, and one of them is a single letter. With the first you can ask where\nanything in your 280-word world is. With the second you can join any two things you own — mother\nand father, river and tree, moon and star — using the same little connector Rome carved into its\nmonuments, in the same odd position: *behind* the words it joins. Along the way this lesson\nrepairs one old error kindly, keeps a promise made back in Volume 1, and finally lets you read\nthis chapter's own title out loud. Two words have rarely done so much work."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Ask and answer where-questions; recite both completed kits. | कहाँ-प्रश्न पूछें-उत्तर दें; दोनों किट सुनाएँ। |\n| 2 | Join words with च behind them; state the और correction. | च पीछे रखकर जोड़ें; और वाला सुधार बताएँ। |\n| 3 | Describe a scene with joined subjects, verbless, and say why. | जुड़े कर्ता बिना क्रिया के बोलें, कारण सहित। |\n| 4 | Read परिवारः जगच्च and open the जगत् + च seam. | परिवारः जगच्च पढ़ें, जोड़ खोलें। |\n\nObjective 1 is built in §8/§15 and tested in §18 (exercises 1, 6) and §19 (Q3, Q7, Q9);\nobjective 2 in §8, §18 (exercises 2, 4), §19 (Q1–2, Q5–6); objective 3 in §8/§16, §18\n(exercises 3, 4), §19 (Q8); objective 4 in §13/§15, §18 (exercise 6), §19 (Q4) — and again in\nlesson 5's tasks D and E."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पिछले पाठों की पुनरावृत्ति — answer from memory *before* looking anything up.\n\n1. From lesson 1: the family set — father, brother, sister, daughter — and the frame that\n   places one of them here.\n2. From lesson 2: the pointing pair. Which of एषः / एषा introduces your father, and which your\n   sister? Say both full sentences.\n3. From lesson 2's cognate shelf: did English borrow *mother* from Sanskrit माता? What is the\n   honest statement?\n4. From lesson 3: the world set — sky, river, tree, cloud — and the one-line scene sentence\n   about the river.\n5. Held open since v1.c05.l03: यत्र never asks — it points. Which cousin *asks* \"where?\", and\n   what did that lesson promise about it?\n\n<details><summary>उत्तराणि · Answers</summary>\n\n1. पिता, भ्राता, भगिनी, पुत्री (and दुहिता beside her) — मम पिता अत्र अस्ति।\n2. एषः मम पिता। (male) · एषा मम भगिनी। (female) — fixed pointing chunks; the full\n   demonstrative system is Volume 3's.\n3. No. माता, Latin *māter* and English *mother* are siblings — parallel descendants of one\n   ancestor — with no borrowing in any direction.\n4. आकाशः, नदी, वृक्षः, मेघः — and नदी वहति। \"the river flows.\"\n5. कुत्र \"where?\" — readable since that lesson, promised \"its own turn on stage.\" Today is\n   the turn.\n</details>"
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिक सन्दर्भः — the oldest \"and\" you will ever meet.\n\nWhen Rome signed its state *Senatus Populusque Romanus* — \"the Senate and People of Rome\" — the\nbit doing \"and\" duty was *-que*, and it did not stand between the two nouns. It attached\n*behind* the second one: *populus-que*, \"the-people-and\". If that placement looks strange, hold\nit next to today's Sanskrit: रामः सीता च \"Rāma and Sītā\" — the च walking behind, exactly where\nLatin put its *-que*. No coincidence, and no borrowing.\n\n> **[FACT · तथ्यम्]** Sanskrit च, Latin *-que* and Greek *te* are parallel descendants of one\n> Proto-Indo-European connector (reconstructed \\*kʷe) — cognates, siblings from a shared\n> ancestor, with no borrowing in any direction. The behind-placement is part of the\n> inheritance: in both Sanskrit and Latin the little word leans on what it joins.\n> [REF:burrow2001]; [REF:mallory2006]\n\nAnd one kind correction from the audit of the old course: the 1.x book glossed और as the\nSanskrit for \"and\". और is Hindi — a fine word, doing honest work in its own language.\nSanskrit's own connector is च, and it stands after the words it joins, not between them. The\ngloss is repaired today; no scorn for the old page, and none for Hindi — just each word back in\nits own language."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिक व्याख्या — words that lean, and words that come in tables.\n\n> **[FACT · तथ्यम्]** च belongs to a class linguists call **enclitics** — from a Greek verb\n> meaning \"to lean\". An enclitic cannot begin a sentence; it has no accent of its own and\n> leans on the word before it. Sanskrit grammar treats च exactly so, and अपि in its \"too\" job\n> (X अपि) keeps the same manners. [REF:whitney1889]; [REF:monierwilliams1899 s.v. च]\n\nThe second science of the day is about tables. कुत्र is not an isolated word; it is a cell in\na grid — the place-suffix -त्र on four stems: अ- \"near me\", त- \"over there\", य- \"which\n(relative)\", कु- \"what?\". Fill the grid and you get अत्र, तत्र, यत्र, कुत्र. Hindi speakers own\nthe same grid natively — यहाँ, वहाँ, जहाँ, कहाँ — the same four-way system living on in the\ndaughter language [REF:masica1991]. Learning a cell in a table you already half-own is the\ncheapest vocabulary there is: function words learned inside frames stick as chunks\n[REF:nation2013], and every round of today's asking-and-pointing game is retrieval practice,\nthe strongest rehearsal known [REF:roediger2006]."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit.\n\nमाता कुत्र अस्ति?\n(mātā kutra asti?) \"Where is mother?\" — माता कहाँ है?\n\nमाता अत्र अस्ति।\n(mātā atra asti.) \"Mother is here.\" — माता यहाँ है।\n\nमाता पिता च अत्र।\n(mātā pitā ca atra.) \"Mother and father are here.\" — माता और पिता यहाँ हैं।\n\nThree lines, the whole lesson: a question, a full answer, a joined pair. Watch the च in the\nthird line — it does the work of \"and\" from *behind* पिता, and the sentence carries two\nsubjects with no verb at all, which is deliberate and fully classical (§8, §15). व्याकरण की एक\nझलक: च, अपि, अत्र, तत्र, कुत्र — ये सब **अव्यय** (avyaya) हैं, यानी कभी रूप न बदलने वाले शब्द —\none honest name, more in §15."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी व्याख्या\n\nआज का पाठ आपकी हिन्दी के कंधे पर चढ़कर चलता है — दो नये शब्द, और दोनों आधे-पहचाने।\n\nपहला: **कुत्र** — \"कहाँ?\"। पाँचवें अध्याय (खण्ड 1) से आपके पास अत्र-तत्र-यत्र की तिकड़ी है; आज\nउसका पूछने वाला चौथा भाई आ पहुँचा: अत्र \"यहाँ\", तत्र \"वहाँ\", यत्र \"जहाँ\", कुत्र \"कहाँ?\"। यह\nचौकड़ी आपकी अपनी यहाँ-वहाँ-जहाँ-कहाँ वाली चौकड़ी ही है, बस संस्कृत की पोशाक में। और प्रश्न-किट\nभी आज पूरी हुई: कः, का, किम्, कुतः, कथम् — और अब कुत्र। सावधानी एक: कुत्र \"कहाँ\" पूछता है,\nकुतः \"कहाँ से\" — दोनों अलग प्रश्न हैं।\n\nदूसरा: **च** — \"और\"। यहाँ एक ईमानदार सुधार भी है। पुरानी पाठ्यपुस्तक ने \"और\" को ही संस्कृत का\nशब्द बता दिया था। सच यह है: और हिन्दी का अपना शब्द है — अपनी भाषा में बिलकुल सही; संस्कृत का\nअपना जोड़-शब्द है च। और च की चाल हिन्दी से उलटी है — वह जोड़े हुए शब्दों के **बीच** नहीं,\n**पीछे** चलता है: रामः सीता च — \"राम और सीता\"। याद कीजिए \"भी\" वाला अपि — वह भी अपने शब्द के\nपीछे बैठता है। संस्कृत के ये छोटे शब्द पीछे से काम करते हैं; वाक्य का पहला स्थान इन्हें कभी\nनहीं मिलता।\n\nतीसरी बात — अध्याय के नाम का ताला आज खुला: **परिवारः जगच्च**। यह जगत् + च है — \"परिवार और\nजगत्\"। बोलने में जगत् का त् अगले च से मिलकर जगच्च बन जाता है — वैसे ही जैसे न + अस्ति जुड़कर\nनास्ति बना था। जुड़ने के ये नियम (सन्धि) तीसरे खण्ड का विषय हैं; आज विराम-रूप जगत् च पढ़िए, और\nजगच्च को देखकर पहचानिए भर।\n\nऔर एक सावधानी: \"माता और पिता घर में हैं\" कहने का मन करेगा — पर \"घर **में**\" के लिए जो रूप\nचाहिए (विभक्ति), वह अभी नहीं आया। आज का शुद्ध रास्ता: माता पिता च अत्र। — बिना क्रिया के, और\nफिर भी पूरी, सच्ची संस्कृत।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "Two words, four moves — ask where, point the answer, join with च, and read the title.\n\n### कुत्र — one word, two kits complete\n\n**कुत्र** (kutra) \"where?\" has been *readable* since v1.c05.l03 gave you the त्र ligature;\ntoday it is *yours*. It completes two collections at one stroke. The location kit: **अत्र**\n\"here\" · **तत्र** \"there\" · **यत्र** \"where (relative — points, never asks)\" · **कुत्र**\n\"where? (asks)\". And the question kit built since Volume 1: **कः · का · किम् · कुतः · कथम् ·\nकुत्र** — every one beginning with the ancient asking k- (the cognate of English wh-, as\nv2.c01.l02 showed). Keep the near-twins apart: **कुत्र** asks *where at*; **कुतः** asks *where\nfrom*.\n\n### The Q&A frame — ask, point, answer\n\n| Ask | Answer (full) | Answer (short) |\n|---|---|---|\n| माता कुत्र अस्ति? | माता अत्र अस्ति। | माता अत्र। |\n| मेघः कुत्र अस्ति? | मेघः तत्र अस्ति। | मेघः तत्र। |\n\nThe कुत्र-question keeps the level tune — the question word does the asking, exactly as कथम्\nand किम् always have (v2.c01.l02's rule). The short verbless answer — माता अत्र। — is\ncomplete, correct classical Sanskrit, the same verbless frame you have trusted since इह रामः\nin Volume 1.\n\n### च — the connector that walks behind\n\n**च** (ca) \"and\" is the smallest headword in the course — one akṣara, tying with न — and the\nbusiest. Its single rule: **च stands behind what it joins, never between.**\n\nरामः सीता च\n(rāmaḥ sītā ca) \"Rāma and Sītā\" — राम और सीता\n\nNot \"रामः च सीता\" on the English pattern — the च tucks in after the *last* joined word. One\nhonest extra line: doubled, **X च Y च** means \"both X and Y\" — रामः च सीता च \"both Rāma and\nSītā\" — a warmer, emphatic join you will meet often in classical texts. Both patterns are\nyours today; the single trailing च is the everyday one.\n\nAnd said once more, plainly, because the old course said otherwise: **और is Hindi; Sanskrit's\nown \"and\" is च** — after, not between. When your Hindi reflex reaches for और mid-sentence, let\nit remind you: *behind, with* च. Your अपि habit is the bridge — you have parked \"too\" behind\nits word since Volume 1; \"and\" lives in the same parking spot.\n\n### Joined subjects — the verbless frame\n\nमाता पिता च अत्र।\n(mātā pitā ca atra.) \"Mother and father are here.\" — माता और पिता यहाँ हैं।\n\nWhere did अस्ति go? Held back, honestly: joined subjects change the verb's shape — Sanskrit\nkeeps special verb forms for two doers and for many (you met plural वदन्ति in stories, glossed\nwhole) — and that machinery is later business, taught properly when it arrives. Today the\nverbless frame carries every joined pair, and it is no workaround: it is fully classical\nSanskrit doing what it has always done.\n\n### The title unlocked — जगच्च\n\nThis chapter has worn its name since lesson 1: **परिवारः जगच्च** (parivāraḥ jagacca) \"Family\nand the World\". You can now read its skeleton: परिवारः + जगत् + च — the च walking behind\nजगत्. Spoken together, जगत् + च fuses into **जगच्च** — the final त् leaning into the च —\nexactly the kind of seam you met in नास्ति and पुनर्मिलामः. Pause form today: जगत् च. The\njoining system is Volume 3's subject; the full unpacking is in §13.\n\n### The ledger\n\nThe chapter entered at 260 readable words; three lessons of family and world have brought the\nledger to 280. Today adds exactly two — कुत्र and च — for **282**. Smallest haul of the\nvolume, largest reach: with these two, every word you own can now be asked about, found, and\njoined to its neighbor."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — the work is rhythm and tune, not new sounds. Audio: 🔊\n`planned:assets/audio/volume-2/v2c02l04-dialogue.mp3` (both scenes + the where-game gap\ntrack), 🔊 `planned:assets/audio/volume-2/v2c02l04-word-list.mp3` (words, kit recitals,\ndictation track).\n\n**Drill 1 — the level ask, the settling point.** कुत्र-questions carry a question word, so the\ntune stays level: माता कुत्र अस्ति? Then the answer settles: माता अत्र अस्ति। Ask-point-answer,\nthree rounds over the world set, pause form between turns.\n\n**Drill 2 — the lean.** च takes no beat of its own. Say रामः सीता च as one breath group: the\nstress lives on सी, and च tucks in behind like a passenger. If you can whisper the च and still\nbe understood, the lean is right.\n\n**Drill 3 — कुत्र vs कुतः.** Alternate the pair aloud, five times: कुत्र (tap and open vowel) ·\nकुतः (vowel and a clean visarga breath). Your ear must file them as different questions before\n§12 tries to merge them.\n\n**Drill 4 — the seam.** Read the chapter title in pause form — परिवारः जगत् च — then hear the\naudio speak the joined जगच्च once, labeled. Feel the doubled च्च hold for an extra beat.\nRecognize; do not yet produce — the pause form is today's reading."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new values. **Word transcriptions:** कुत्र /kut̪ɾɐ/ · च /t͡ɕɐ/ · कुतः /kut̪ɐh/ · जगत्\n/d͡ʑɐgɐt̪/ · जगच्च /d͡ʑɐgɐt͡ɕt͡ɕɐ/ · display: स्तः /st̪ɐh/.\n\n**The frames in pause form:** माता कुत्र अस्ति /mɑːt̪ɑː kut̪ɾɐ ɐst̪i/ · रामः सीता च\n/ɾɑːmɐh siːt̪ɑː t͡ɕɐ/ · माता पिता च अत्र /mɑːt̪ɑː pit̪ɑː t͡ɕɐ ɐt̪ɾɐ/ · नदी वृक्षः च तत्र\n/n̪ɐd̪iː ʋr̩kʂɐh t͡ɕɐ t̪ɐt̪ɾɐ/.\n\n**Narrow notes:** च is the palatal affricate [t͡ɕ] with the short open [ɐ] — one crisp\nsyllable, never stretched to \"chaa\". As an enclitic it is unstressed: the phrase रामः सीता च\ncarries its prominence on सीता, the च riding the tail. In जगच्च the doubled च्च is a *held*\naffricate — one contact, one extra beat of closure, one release — not two cha-cha strikes. And\nकुत्र ends in tap-plus-vowel [t̪ɾɐ] while कुतः ends in vowel-plus-breath [t̪ɐh]: the whole\nwhere/whence contrast hangs on that final beat."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थानम् — nothing new to place; three checks to run.\n\n1. **The च station.** Blade of the tongue to the hard palate — the तालव्य station owned since\n   the च-वर्ग lesson — brief full contact, then release into the hiss. Say च, चन्द्रः, जगच्च;\n   if the tongue slides forward to the teeth you will hear \"tsa\", not च.\n2. **The त्र weld of कुत्र.** Dental त् released straight into the tap र — one gesture, no\n   vowel leaking between, exactly as in अत्र and तत्र since v1.c05.l03. कु-त्र: two beats.\n3. **The held च्च.** Say जगच्च slowly at a mirror: the tongue touches the palate once and\n   *waits* one full extra beat before releasing. Two separate jaw movements = two releases —\n   rejoin them."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.\n\n1. **च parked in the middle.** \"रामः च सीता\" as a rendering of \"Rāma and Sītā\" — the\n   English/Hindi word order with a Sanskrit word dropped into the \"and\" slot. *Fix:* च walks\n   behind: रामः सीता च. (The doubled रामः च सीता च \"both Rāma and Sītā\" is real — but then\n   *each* joined word carries its च; the single mid-parked च is the error.)\n2. **और inside a Sanskrit sentence.** \"माता और पिता अत्र\" — the 1.x gloss living on in the\n   mouth. *Fix:* the correction, kindly: और is Hindi; Sanskrit's connector is च, and it\n   follows — माता पिता च अत्र। (§4, §8).\n3. **कुत्र and कुतः merged.** Asking कुतः when you mean \"where at\". *Fix:* -त्र = place *at*,\n   -तः = place *from* (ततः \"from there\" has been yours since Volume 1); §9 drill 3 until the\n   final beat sorts them.\n4. **The dual temptation.** Reaching for a verb with joined subjects — सीता रामः च अत्र स्तः —\n   because English says \"are\". स्तः \"the two are\" is real Sanskrit, but it is later machinery,\n   and half-taught machinery breaks. *Fix:* today the verbless frame carries joined subjects:\n   सीता रामः च अत्र। — complete and classical (§8, §15).\n5. **च standing first.** \"च नदी तत्र\" on the English pattern \"And the river…\". *Fix:* an\n   enclitic can never open a sentence — it has nothing to lean on. Re-park it: नदी च तत्र।\n6. **यत्र asked as a question.** \"यत्र माता?\" for \"where is mother?\" *Fix:* यत्र points, कुत्र\n   asks (v1.c05.l03's rule, now with the asking cousin on stage): माता कुत्र?"
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three items with something inside them.\n\n### कुत्र — a cell in a table you already own\n\n**कुत्र** (kutra) \"where?\" — कहाँ · /kut̪ɾɐ/\n\n> **[FACT · तथ्यम्]** The -त्र of कुत्र is a place-suffix: on the four stems अ-, त-, य-,\n> कु-/क- it builds अत्र \"here\", तत्र \"there\", यत्र \"where (relative)\", कुत्र \"where?\". Hindi\n> carries the same four-way grid — यहाँ, वहाँ, जहाँ, कहाँ — descended within Indo-Aryan from\n> the same system. [REF:whitney1889]; [REF:masica1991]\n\nOne suffix, four addresses — and your Hindi has been rehearsing the grid for you all along.\nKeep the from-family in view beside it: ततः \"from there\", कुतः \"from where?\" — the -तः row of\nthe same table, met in Volume 1.\n\n### च — the one-letter \"and\"\n\n**च** (ca) \"and\" — और · /t͡ɕɐ/\n\nनदी वृक्षः च तत्र।\n(nadī vṛkṣaḥ ca tatra.) \"The river and the tree are there.\" — नदी और पेड़ वहाँ हैं।\n\nचन्द्रः च तारा च तत्र।\n(candraḥ ca tārā ca tatra.) \"Both the moon and a star are there.\" — चाँद और तारा दोनों वहाँ हैं।\n\nThe trailing च joins; the doubled च…च insists. Rome's *-que* did the same jobs in the same\nposition — *populusque* — because Latin and Sanskrit inherited the little word, manners and\nall, from one ancestor (§4).\n\n### जगच्च — the title seam, opened\n\n**जगत् च** (jagat ca) \"and the world\" — और जगत् · pause form of जगच्च\n\n> **[FACT · तथ्यम्]** In connected speech and writing, जगत् + च regularly joins as जगच्च: the\n> final dental त् assimilates to the following palatal च, giving the doubled च्च. The joining\n> rules (sandhi) are Volume 3's subject; the pause form जगत् च is today's reading, exactly as\n> न अस्ति stands beside नास्ति. [REF:whitney1889]\n\nSo the chapter title परिवारः जगच्च (parivāraḥ jagacca) reads: \"the family, and the world\" —\ntwo nouns and one enclitic, wearing one seam. Three seams shown so far — नास्ति, पुनर्मिलामः,\nजगच्च — and you owe production of none of them yet. Noticing is today's whole duty."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — two headwords, both new to the ledger, taking it from 280 to 282. No 🔊 loans;\nboth words read at sight. Audio: 🔊 `planned:assets/audio/volume-2/v2c02l04-word-list.mp3`\n(each word twice, kit recitals, dictation track).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| कुत्र | kutra | /kut̪ɾɐ/ | where? | कहाँ | asks — यत्र points (§12); completes the location kit AND the question kit (§15); readable since v1.c05.l03 |\n| च | ca | /t͡ɕɐ/ | and | और | enclitic — walks BEHIND what it joins, never first (§8, §15); doubled X च Y च = \"both X and Y\"; the 1.x और correction (§4) |\n\nReading protocol, adapted for two old friends: no block-building needed — instead, run each\nword through its *frames*: कुत्र through the ask-point-answer table (§8), च through five joins\nof your own making (family pair, world pair, mixed pair). The frame, not the list, is the\nmemory."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — one placement rule, two finished kits, one honest deferral.\n\n### The enclitic family — words that walk behind\n\n> **[FACT · तथ्यम्]** च \"and\" stands after the word or pair it joins and never opens a\n> sentence: रामः सीता च \"Rāma and Sītā\"; doubled, रामः च सीता च \"both Rāma and Sītā\". अपि in\n> its \"too\" job keeps the same manners (सीता अपि \"Sītā too\"). These little after-words are\n> classical Sanskrit's standing habit, shared with its Latin cousin *-que*.\n> [REF:apte1890 s.v. च]; [REF:monierwilliams1899 s.v. च]\n\n### The question kit — complete\n\nकः (kaḥ) \"who? (m)\" · का (kā) \"who? (f)\" · किम् (kim) \"what?\" · कुतः (kutaḥ) \"from where?\" ·\nकथम् (katham) \"how?\" · कुत्र (kutra) \"where?\" — six askers, one ancient k- at the head of\neach. Recite the kit as a chant; it is lesson 5's warm-up and Volume 3's scaffolding.\n\n### The location kit — complete\n\nअत्र (atra) \"here\" · तत्र (tatra) \"there\" · यत्र (yatra) \"where — relative, points\" · कुत्र\n(kutra) \"where? — asks\". Four cells, one suffix, and the whole of today's conversation\nmachinery.\n\n### Joined subjects — why the verb waits\n\nमाता पिता च अत्र। has no verb, deliberately: joined subjects change the verb's shape —\nSanskrit keeps distinct forms for two doers and for many (स्तः \"the two are\" is shown here as\ndisplay only). That machinery is later business, taught whole when its chapter comes. Until\nthen the verbless frame — fully classical — carries every joined subject. One name rides\nalong, honestly: words like च, अपि, न, अत्र, तत्र, यत्र, कुत्र never change shape at all; the\ntradition calls them **अव्यय** (avyaya) \"unchanging\". Every word taught today is one — which\nis why each was learnable in a single line.\n\n### The जगच्च seam\n\nPause form जगत् च in all reading and speech; the joined जगच्च recognized on sight in the\nchapter title. Same policy as नास्ति and पुनर्मिलामः: noticed, previewed, deferred to\nVolume 3."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — two scenes; every word self-read. 🔊 audio:\n`planned:assets/audio/volume-2/v2c02l04-dialogue.mp3` (slow, natural, and where-game gap\ntracks).\n\n### Scene 1 — hide-and-seek by the river\n\n— भगिनी कुत्र? भगिनी कुत्र अस्ति?\n(bhaginī kutra? bhaginī kutra asti?) \"Where's sister? Where IS sister?\" — बहन कहाँ? बहन कहाँ\nहै?\n\n— पश्य! वृक्षः तत्र — भगिनी वृक्षः च तत्र!\n(paśya! vṛkṣaḥ tatra — bhaginī vṛkṣaḥ ca tatra!) \"Look! The tree is there — sister and tree,\nboth there!\" — देखो! पेड़ वहाँ — बहन और पेड़ दोनों वहाँ!\n\n— आम्! अहम् अत्र!\n(ām! aham atra!) \"Yes — I'm here!\" — हाँ! मैं यहाँ!\n\n— मेघः कुत्र अस्ति?\n(meghaḥ kutra asti?) \"Where is the cloud?\" — बादल कहाँ है?\n\n— मेघः आकाशः च तत्र! पश्य!\n(meghaḥ ākāśaḥ ca tatra! paśya!) \"Cloud and sky are there — look!\" — बादल और आकाश वहाँ! देखो!\n\n### Scene 2 — the evening round-up\n\n— माता पिता च कुत्र?\n(mātā pitā ca kutra?) \"Where are mother and father?\" — माता और पिता कहाँ?\n\n— माता पिता च अत्र! स्वागतम्!\n(mātā pitā ca atra! svāgatam!) \"Mother and father are here — welcome!\" — माता और पिता यहाँ!\nस्वागत!\n\n— चन्द्रः कुत्र? तारा कुत्र?\n(candraḥ kutra? tārā kutra?) \"Where's the moon? Where's a star?\" — चाँद कहाँ? तारा कहाँ?\n\n— पश्य! चन्द्रः तारा च तत्र!\n(paśya! candraḥ tārā ca tatra!) \"Look — moon and star, both there!\" — देखो! चाँद और तारा वहाँ!\n\n— नदी वृक्षः च तत्र। परिवारः अत्र। सर्वम् कुशलम्!\n(nadī vṛkṣaḥ ca tatra. parivāraḥ atra. sarvam kuśalam!) \"River and tree are there; the family\nis here. All is well!\" — नदी और पेड़ वहाँ। परिवार यहाँ। सब ठीक!\n\nHousekeeping: every \"where\" was answered with अत्र or तत्र — never \"in the sky\" or \"in the\nhouse\". Saying *in* something (आकाशे, गृहे — you may have felt the itch) takes case machinery\nthat arrives in Volume 3; until then तत्र does all the pointing, in perfect classical order.\nAnd count the verbs: joined subjects rode the verbless frame every time, exactly as §15\npromised. The scenes are a game — play them as one."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — लुकाछिपी · Hide-and-Seek. Six lines; each line: Devanagari, IAST, English, Hindi.\n\n1. सायम् अस्ति। चन्द्रः तारा च तत्र।\n   (sāyam asti. candraḥ tārā ca tatra.) \"It is evening. The moon and a star are out.\" — शाम\n   है। चाँद और तारा वहाँ।\n2. माया वदति — भ्राता कुत्र? भ्राता कुत्र अस्ति?\n   (māyā vadati — bhrātā kutra? bhrātā kutra asti?) \"Māyā says: Where's brother? Where is\n   he?\" — माया कहती है — भाई कहाँ? भाई कहाँ है?\n3. सीता हसति — पश्य! वृक्षः तत्र। भ्राता वृक्षः च तत्र!\n   (sītā hasati — paśya! vṛkṣaḥ tatra. bhrātā vṛkṣaḥ ca tatra!) \"Sītā laughs: Look — the tree\n   is there, and brother and tree are both there!\" — सीता हँसती है — देखो! पेड़ वहाँ। भाई और\n   पेड़ दोनों वहाँ!\n4. बालकः वदति — आम्, अहम् अत्र! क्षमस्व!\n   (bālakaḥ vadati — ām, aham atra! kṣamasva!) \"The boy says: Yes, I'm here — sorry!\" — बालक\n   कहता है — हाँ, मैं यहाँ! क्षमा करो!\n5. माता वदति — स्वागतम्! माता पिता च अत्र।\n   (mātā vadati — svāgatam! mātā pitā ca atra.) \"Mother says: Welcome! Mother and father are\n   here.\" — माता कहती है — स्वागत! माता और पिता यहाँ।\n6. सर्वे वदन्ति — परिवारः जगत् च — सर्वम् कुशलम्!\n   (sarve vadanti — parivāraḥ jagat ca — sarvam kuśalam!) \"All say: The family and the world —\n   all is well!\" — सब कहते हैं — परिवार और जगत् — सब ठीक!\n\nTwo honest notes: वदन्ति \"they say\" is a plural verb glossed whole, as ever — its machinery is\nthis volume's later business (सर्वे you have known since the maṅgala śloka). And line 6 is the\nchapter title spoken in pause form by its own cast — जगत् च today, जगच्च on the cover, one\nseam apart."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 1, 3, 4 and 5 are production tasks. Do them in order.\n\n**अभ्यासः 1 · कुत्र-क्रीडा (the where-game — production).** Lay the world-set and family\ncards face down ✍ (`planned:assets/worksheets/volume-2/v2c02l04-where-game.pdf`). Partner\ndraws a card and asks: X कुत्र अस्ति? You place or point it and answer: X तत्र अस्ति। or\nX अत्र। Ten rounds, swap roles. Solo: the gap track asks; you point at real things and answer\naloud.\n\n**अभ्यासः 2 · च-शल्यक्रिया (placement surgery — written).** Repair each line so the join is\nSanskrit's, not English's: (a) रामः च सीता (meaning \"Rāma and Sītā\") (b) माता और पिता अत्र\n(c) च नदी तत्र (meaning \"And the river is there\") (d) \"both the moon and a star are there\" —\nbuild it with the doubled pattern (e) सीता और माया अत्र. Check every repair against one\nquestion: is the च *behind*?\n\n**अभ्यासः 3 · अभिनयः (the scenes — production).** Perform §16's two scenes with a partner\nfrom the role cards ✍, swap, repeat — then replay Scene 1 with new hiders: पुत्री, बालकः,\nतारा. Pause form throughout; point at everything you place with तत्र.\n\n**अभ्यासः 4 · अनुवादः (translation — production).** Into Sanskrit, aloud and then in writing:\n\"Where is the river?\" · \"The river is there.\" · \"Mother and father are here.\" · \"Both the\nmoon and a star are there.\" · \"Where is the family? — The family is here!\" Check against §8's\nframes: level tune on the ask, च behind on every join, no verb on joined subjects.\n\n**अभ्यासः 5 · श्रुतलेखनम् (dictation — production).** The dictation track 🔊: कुत्र, च, and\neight review words from the family and world sets, twice each; then one full line — माता पिता\nच अत्र। Write in Devanagari; every visarga present, the त्र welded. 8/10 plus the line intact\nis a pass; re-take tomorrow (§20).\n\n**अभ्यासः 6 · किट-पाठः (the kit recital + teach-back).** Recite both completed kits from\nmemory — अत्र तत्र यत्र कुत्र, then कः का किम् कुतः कथम् कुत्र — and teach someone the chapter\ntitle in two lines: what परिवारः जगच्च says, and what जगत् च is. The teach-back is lesson 5's\ntasks D and E in rehearsal."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. \"Rāma and Sītā\" in Sanskrit is: (a) रामः च सीता (b) रामः सीता च (c) रामः और सीता (d) च\n   रामः सीता\n2. The honest statement about और: (a) और is the Sanskrit for \"and\" (b) और is Hindi; Sanskrit's\n   own connector is च, placed after what it joins (c) both words are Sanskrit (d) च is Hindi\n3. कुतः asks: (a) where at (b) from where (c) how (d) where (relative)\n4. जगच्च is: (a) a different word from जगत् च (b) the joined form of जगत् + च — previewed\n   today, system taught in Volume 3 (c) a misprint (d) the plural of जगत्\n5. Which word can never stand first in its sentence? (a) कुत्र (b) च (c) माता (d) तत्र\n6. रामः च सीता च means: (a) \"both Rāma and Sītā\" (b) \"Rāma or Sītā\" (c) wrong Sanskrit\n   (d) \"Rāma is Sītā\"\n7. माता कुत्र अस्ति? — a correct answer: (a) माता कुतः। (b) माता तत्र अस्ति। (c) यत्र माता।\n   (d) माता च।\n8. माता पिता च अत्र। has no verb because: (a) it is broken Sanskrit (b) joined subjects take\n   verb shapes not yet taught — the verbless frame is fully classical and carries it (c) verbs\n   are always optional (d) च forbids verbs\n9. Reading check — write the English meaning of each: (a) कुत्र (b) च (c) कुतः (d) यत्र\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) — च walks behind (§8). ((a) is §12's mistake 1; (c) is mistake 2.)\n2. (b) — the correction, delivered (§4, §8).\n3. (b) — -तः asks \"from\"; -त्र asks \"at\" (§8, §13). ((d) is यत्र's job — and यत्र never asks.)\n4. (b) — the seam, honestly labeled (§13, §15).\n5. (b) च — an enclitic has nothing to lean on at the front (§5, §15).\n6. (a) — the doubled both-form (§8, §13).\n7. (b) — ask, point, answer (§8). ((c) is §12's mistake 6.)\n8. (b) — the honest deferral (§8, §15). ((a) wrongs a fully classical frame.)\n9. (a) कुत्र = \"where?\"; (b) च = \"and\"; (c) कुतः = \"from where?\"; (d) यत्र = \"where (relative\n   — points, never asks)\" (§14, §15).\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The kits, complete:** location — अत्र तत्र यत्र कुत्र; question — कः का किम् कुतः कथम्\n> कुत्र. **The frame:** X कुत्र अस्ति? — X तत्र अस्ति। / X अत्र। **The connector:** च walks\n> behind — रामः सीता च; doubled च…च = \"both…and\"; never sentence-first. **The correction:**\n> और is Hindi; Sanskrit's \"and\" is च. **The deferral:** joined subjects ride the verbless\n> frame — माता पिता च अत्र। **The preview:** जगत् + च = जगच्च; pause form जगत् च; system in\n> Volume 3. **The words:** two — the ledger at 282.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** the where-game (exercise 1) cold, ten rounds; re-take the dictation; re-run\n  the placement surgery on fresh pairs of your own.\n- **In 1 week:** lesson 5 is the Family & World Exam — task E's scene description runs on\n  today's frames (X अत्र अस्ति। Y तत्र। X Y च…), and task D's register cards include \"च\n  follows the words it joins.\"\n- **From now on:** whenever Hindi और passes your lips, let it echo once in Sanskrit — the\n  pair named, the च parked behind."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 25 minutes total.\n\n1. **(10 min)** Finish exercises 4 and 5 if not completed in class: the translations checked\n   against §8, the dictation passed.\n2. **(5 min)** The home where-round: stand in one room and run five asks aloud — माता कुत्र?\n   पुस्तकम् कुत्र अस्ति? — pointing every answer: अत्र! तत्र!\n3. **(5 min, real world)** The और hunt: catch और three times today in Hindi speech or print;\n   each time, whisper the same join the Sanskrit way, च behind — माता पिता च।\n4. **(5 min, teach-back)** Teach someone the SPQR story: Rome's *-que* and Sanskrit's च are\n   cousins, and both ride behind — then show them the chapter cover and open जगच्च into\n   जगत् + च.\n\nTomorrow, before anything else: the 1-day where-game re-run (§20). The gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "शिक्षक-टिप्पणी\n\n**Deliver the correction with warmth.** The और fix is this lesson's headline honesty — and the\neasiest thing to deliver badly. Never mock the 1.x book, and never let और sound like an error\n*in Hindi* — it is Hindi's own excellent word. The formula that lands: \"each word back in its\nown language.\" Heritage learners feel ownership of और; give them the SPQR story immediately\nafter the correction so the room's energy goes to the marvel, not the mistake.\n\n**Timing plan (45 min):** §3 retrieval, written (5) → the two kits assembled live on the\nboard, chanted (8) → च with the SPQR story and the correction (7) → placement-surgery rounds,\nboard-and-shout (7) → §16 scenes performed, then the where-game with real classroom objects\n(10) → the जगच्च seam on the chapter cover (4) → homework briefing incl. the और hunt (4).\n\n**Play the game for real.** Hide a card, ask कुत्र, demand pointing with every तत्र — the\nphysical point is the memory hook, and it keeps answers verbless and legal. Ban \"in the…\"\nanswers cheerfully: \"तत्र is all the geography we own until Volume 3.\"\n\n**Watch for:** the mid-parked च under speed (§12 mistake 1 — the last habit to die);\nकुत्र/कुतः merging in dictation; a fast student producing स्तः from outside reading — praise\nthe find, label it later machinery, return to the verbless frame. The अपि precedent (\"you have\nparked भी behind words all your life\") unlocks the enclitic idea for Hindi speakers in one\nsentence. Early finishers build both-form chains (चन्द्रः च तारा च मेघः च…); strugglers run\nthe where-game with two cards only, अत्र vs तत्र, until the frame is reflex."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-2/v2c02l04-two-kits-card.svg` (the two-kits card)**\n\n> Clean reference card, warm off-white, Noto Serif Devanagari, two colors, monochrome-safe.\n> Header: कुत्र? — ask, point, join. Row 1 \"स्थान-किट · the location kit\": अत्र (atra) ·\n> तत्र (tatra) · यत्र (yatra) · कुत्र (kutra), glossed here / there / where-points /\n> where-asks, four map-pin icons, the कुत्र pin wearing a question mark. Row 2 \"प्रश्न-किट ·\n> the question kit\": कः · का · किम् · कुतः · कथम् · कुत्र, each with IAST under-line, the\n> shared k- highlighted. Row 3 \"the च rule\": रामः सीता च with an arrow curling the च in\n> *behind* सीता; beside it a small SPQR chip — *populusque* — captioned \"Latin's -que: same\n> ancestor, same seat.\" Footer strip: जगत् + च → जगच्च, tagged \"pause form today · system in\n> Volume 3\", and the chant \"च walks behind · और is Hindi — च is Sanskrit's own.\"\n\n**Asset 2 — `planned:assets/worksheets/volume-2/v2c02l04-where-game.pdf` (layout spec)**\n\n> A4, two pages. Page 1: the where-game — a 4×4 cut-out card grid of family and world words\n> (माता, पिता, भगिनी, भ्राता, नदी, वृक्षः, मेघः, आकाशः, चन्द्रः, तारा, समुद्रः, पुष्पम्,\n> नगरम्, पर्वतः, गृहम्, परिवारः), large Devanagari with IAST under-lines; a play-mat strip\n> with two zones labeled अत्र and तत्र; the frame printed along the edge: ___ कुत्र अस्ति? —\n> ___ तत्र अस्ति। Page 2: Scene 1 and Scene 2 role cards (each role's lines only, cut-marks);\n> the placement-surgery rows for exercise 2 with an answer fold-flap; the two-kit recital\n> strip for exercise 6. Footer chants: \"च walks behind\" · \"point with तत्र\" · \"no 'in the\n> sky' until Volume 3\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:35):** a word one letter long — च — spins alone on screen; caption:\n   \"Sanskrit's 'and'. The old textbook taught a different word. Today we fix that.\" Title:\n   कुत्र? — Where Things Are.\n2. **The kits complete (0:35–1:45):** map pins drop on अत्र and तत्र (Volume 1 flashback\n   frames); यत्र draws its pointing arrow; कुत्र lands last wearing a question mark — the\n   four-cell grid assembles beside Hindi's यहाँ-वहाँ-जहाँ-कहाँ; then the question kit chants\n   itself: कः का किम् कुतः कथम् कुत्र.\n3. **The where-game (1:45–2:50):** rapid ask-point-answer over world-set art — माता कुत्र\n   अस्ति? मेघः कुत्र? — every answer a pointing hand and a तत्र/अत्र, level tune on every ask.\n4. **च and SPQR (2:50–4:10):** \"रामः AND सीता\" appears English-style; the च tries to sit in\n   the middle and is walked, gently, to the back: रामः सीता च. Cut to a Roman inscription:\n   SENATUS POPULUSQUE ROMANUS, the -QUE glowing — \"same ancestor, same seat, three thousand\n   years apart.\" The correction card: \"और is Hindi — च is Sanskrit's own.\"\n5. **The title unlocks (4:10–5:15):** the chapter cover परिवारः जगच्च splits at the seam —\n   जगत् + च — the त् morphing into च् as the halves rejoin; shelf shot: नास्ति, पुनर्मिलामः,\n   जगच्च — \"three previews, zero obligations, Volume 3 is coming.\"\n6. **Recap + CTA (5:15–6:00):** the two-kits card assembles; माता पिता च अत्र। stamps\n   verbless and proud. End card: \"Next: पुनरावृत्तिः — the Family & World Exam. Bring your\n   pointing finger.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the\nnarrator reads them as IPA, not as English spelling.\n\n- **00:00** One of today's words is a single letter: ca [t͡ɕɐ]. It means \"and\" — and it is\n  not the word the old textbook taught. Today, the honest one — and the question that finds\n  anything you own: kutra [kut̪ɾɐ] — \"where?\"\n- **00:35** You have said atra [ɐt̪ɾɐ] and tatra [t̪ɐt̪ɾɐ] since Volume 1 — here, there.\n  yatra [jɐt̪ɾɐ] points. Today kutra asks — and two collections click shut: the location kit,\n  and the question kit — every asker starting with the same ancient k.\n- **01:45** The game is ask, point, answer. mātā kutra asti [mɑːt̪ɑː kut̪ɾɐ ɐst̪i]? — mātā\n  atra [mɑːt̪ɑː ɐt̪ɾɐ]! Level tune on the ask — the question word does the asking. Point at\n  everything. The finger is the grammar.\n- **02:50** Now the one-letter word. Rome signed itself *Senatus Populusque Romanus* —\n  and-the-people — the little *-que* riding behind. Sanskrit's ca is its cousin, and it rides\n  behind too: rāmaḥ sītā ca [ɾɑːmɐh siːt̪ɑː t͡ɕɐ] — \"Rāma and Sītā\". And the kind correction:\n  aur is Hindi. Sanskrit's own \"and\" is ca — parked behind, never between.\n- **04:10** Now read your chapter's cover: parivāraḥ jagacca [pɐɾiʋɑːɾɐh d͡ʑɐgɐt͡ɕt͡ɕɐ] —\n  \"the family, and the world.\" Inside the last word: jagat [d͡ʑɐgɐt̪] plus ca, fused at the\n  seam. Pause form today: jagat ca. The fusing rules? Volume 3. You only had to notice.\n- **05:15** Two words. Two kits complete, every pair joinable, the cover readable — mātā pitā\n  ca atra [mɑːt̪ɑː pit̪ɑː t͡ɕɐ ɐt̪ɾɐ] — no verb, no apology, fully classical. Next: the\n  Family & World Exam. Bring your pointing finger."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** extreme close-up of a single Devanagari letter — च. \"Sanskrit's word\n  for 'and' is one letter. And the old textbook taught the wrong word.\"\n- **Demo (0:07–0:30):** \"रामः AND सीता?\" — the च tries the middle seat, gets walked to the\n  back: रामः सीता च — \"'and' rides BEHIND.\" Smash cut to a Roman inscription, -QUE glowing:\n  \"Rome's 'and' rode behind too. Same ancestor. Three thousand years.\" Quick beat: \"और?\n  That's Hindi — a great word, in its own language.\"\n- **Payoff (0:30–0:43):** the chapter cover परिवारः जगच्च splits into जगत् + च and snaps\n  back — \"and now the course's own cover reads out loud: the family, and the world.\"\n- **CTA (0:43–0:50):** \"This is Sanskritam. Next: the Family & World Exam. Follow along.\"\n  (End card: कुत्र? — ask · point · join.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-2/v2c02l04-two-kits-card.svg` — §15 kits + §8 च rule, §23 asset 1;\n    lesson 5's task D card \"च follows the words it joins\" must match its row 3 wording.\n  - `assets/audio/volume-2/v2c02l04-dialogue.mp3` — §9 drills 1–2 and 4, §16 scenes (slow,\n    natural, where-game gap tracks; the joined जगच्च spoken once, labeled)\n  - `assets/audio/volume-2/v2c02l04-word-list.mp3` — §14 model reading, both kit recitals,\n    §18 exercise 5 (randomized dictation track with transcript incl. माता पिता च अत्र।)\n  - `assets/worksheets/volume-2/v2c02l04-where-game.pdf` — §18 exercises 1–3 and 6, §23\n    asset 2\n  - §17 story audio is NOT in this manifest — record into the Chapter 2 drill pack\n    (chapter.md manifest) and back-link here when it exists.\n- **Related lessons:** completes the location kit opened in v1.c05.l03 (अत्र तत्र यत्र — the\n  कुत्र promise kept) and the question kit of v2.c01.l02 (कः का किम् कुतः कथम्); runs on the\n  sets of v2.c02.l01 (family), v2.c02.l02 (एषः/एषा, cognate-shelf honesty), v2.c02.l03\n  (world); the enclitic idea extends v1.c06.l02's X अपि and v2.c01.l02's two jobs of अपि; the\n  seam preview joins v2.c01.l04's नास्ति and पुनर्मिलामः shelf; feeds v2.c02.l05 (task D\n  register cards incl. the च card; task E scene description), Volume 2's verb chapters\n  (dual/plural forms — स्तः — where the verbless deferral is repaid), Volume 3 (the sandhi\n  system: जगच्च; the locative case for the गृहे/आकाशे itch).\n- **Glossary:** candidate addition — **अव्यय (avyaya) \"indeclinable — a word that never\n  changes shape\" (first-taught v2.c02.l04, one honest line in §15)**; *enclitic* is used as\n  an English linguistics term, not a Sanskrit headword — NOT added. Reuses संवाद and विसर्ग\n  per GLOSSARY.md.\n- **Verification flags for Pass C:** च enclitic placement + never-sentence-first (§5, §15)\n  against [REF:apte1890 s.v. च] and [REF:monierwilliams1899 s.v. च]; कुत्र gloss and\n  interrogative status (§8, §14) against [REF:apte1890 s.v. कुत्र]; the ca ~ -que ~ te\n  cognate set and \\*kʷe reconstruction (§4) against [REF:burrow2001] and [REF:mallory2006] —\n  direction honesty phrased \"no borrowing in any direction\"; the -त्र place-suffix grid (§13)\n  against [REF:whitney1889] and the Hindi यहाँ-वहाँ-जहाँ-कहाँ descent line against\n  [REF:masica1991]; जगत् + च → जगच्च assimilation shape (§13) against [REF:whitney1889] —\n  preview altitude only, no rule numbers claimed; the 1.x और-as-Sanskrit gloss logged as the\n  delivered IR fix (§4) — cross-log in research/verification-log.md; स्तः display form (§12,\n  §15) — shown, not taught, no paradigm claims.\n- **Register audit:** FACT ×5 (§4 cognate set ×1 · §5 enclitic class ×1 · §13 -त्र grid +\n  जगच्च seam ×2 · §15 च placement ×1) · HISTORY ×0 (the SPQR narrative carries its load\n  through the §4 cited FACT; no dated claims) · TRADITION ×0 · SYMBOL ×0 — quiz Q1–Q9 all\n  FACT-register content; the correction and the seam are themselves the assessed facts."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "कुत्र",
+      "iast": "kutra",
+      "ipa": "/kut̪ɾɐ/",
+      "en": "where?",
+      "hi": "कहाँ",
+      "notes": "asks — यत्र points (§12); completes the location kit AND the question kit (§15); readable since v1.c05.l03"
+    },
+    {
+      "deva": "च",
+      "iast": "ca",
+      "ipa": "/t͡ɕɐ/",
+      "en": "and",
+      "hi": "और",
+      "notes": "enclitic — walks BEHIND what it joins, never first (§8, §15); doubled X च Y च = \"both X and Y\"; the 1.x और correction (§4)"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. \"Rāma and Sītā\" in Sanskrit is: (a) रामः च सीता (b) रामः सीता च (c) रामः और सीता (d) च\n   रामः सीता\n2. The honest statement about और: (a) और is the Sanskrit for \"and\" (b) और is Hindi; Sanskrit's\n   own connector is च, placed after what it joins (c) both words are Sanskrit (d) च is Hindi\n3. कुतः asks: (a) where at (b) from where (c) how (d) where (relative)\n4. जगच्च is: (a) a different word from जगत् च (b) the joined form of जगत् + च — previewed\n   today, system taught in Volume 3 (c) a misprint (d) the plural of जगत्\n5. Which word can never stand first in its sentence? (a) कुत्र (b) च (c) माता (d) तत्र\n6. रामः च सीता च means: (a) \"both Rāma and Sītā\" (b) \"Rāma or Sītā\" (c) wrong Sanskrit\n   (d) \"Rāma is Sītā\"\n7. माता कुत्र अस्ति? — a correct answer: (a) माता कुतः। (b) माता तत्र अस्ति। (c) यत्र माता।\n   (d) माता च।\n8. माता पिता च अत्र। has no verb because: (a) it is broken Sanskrit (b) joined subjects take\n   verb shapes not yet taught — the verbless frame is fully classical and carries it (c) verbs\n   are always optional (d) च forbids verbs\n9. Reading check — write the English meaning of each: (a) कुत्र (b) च (c) कुतः (d) यत्र",
+    "answer_key_markdown": "1. (b) — च walks behind (§8). ((a) is §12's mistake 1; (c) is mistake 2.)\n2. (b) — the correction, delivered (§4, §8).\n3. (b) — -तः asks \"from\"; -त्र asks \"at\" (§8, §13). ((d) is यत्र's job — and यत्र never asks.)\n4. (b) — the seam, honestly labeled (§13, §15).\n5. (b) च — an enclitic has nothing to lean on at the front (§5, §15).\n6. (a) — the doubled both-form (§8, §13).\n7. (b) — ask, point, answer (§8). ((c) is §12's mistake 6.)\n8. (b) — the honest deferral (§8, §15). ((a) wrongs a fully classical frame.)\n9. (a) कुत्र = \"where?\"; (b) च = \"and\"; (c) कुतः = \"from where?\"; (d) यत्र = \"where (relative\n   — points, never asks)\" (§14, §15)."
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "Sanskrit च, Latin *-que* and Greek *te* are parallel descendants of one Proto-Indo-European connector (reconstructed \\*kʷe) — cognates, siblings from a shared ancestor, with no borrowing in any direction. The behind-placement is part of the inheritance: in both Sanskrit and Latin the little word leans on what it joins. [REF:burrow2001]; [REF:mallory2006]",
+      "refs": [
+        "burrow2001",
+        "mallory2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "च belongs to a class linguists call **enclitics** — from a Greek verb meaning \"to lean\". An enclitic cannot begin a sentence; it has no accent of its own and leans on the word before it. Sanskrit grammar treats च exactly so, and अपि in its \"too\" job (X अपि) keeps the same manners. [REF:whitney1889]; [REF:monierwilliams1899 s.v. च]",
+      "refs": [
+        "whitney1889",
+        "monierwilliams1899 s.v. च"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "The -त्र of कुत्र is a place-suffix: on the four stems अ-, त-, य-, कु-/क- it builds अत्र \"here\", तत्र \"there\", यत्र \"where (relative)\", कुत्र \"where?\". Hindi carries the same four-way grid — यहाँ, वहाँ, जहाँ, कहाँ — descended within Indo-Aryan from the same system. [REF:whitney1889]; [REF:masica1991]",
+      "refs": [
+        "whitney1889",
+        "masica1991"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "In connected speech and writing, जगत् + च regularly joins as जगच्च: the final dental त् assimilates to the following palatal च, giving the doubled च्च. The joining rules (sandhi) are Volume 3's subject; the pause form जगत् च is today's reading, exactly as न अस्ति stands beside नास्ति. [REF:whitney1889]",
+      "refs": [
+        "whitney1889"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "च \"and\" stands after the word or pair it joins and never opens a sentence: रामः सीता च \"Rāma and Sītā\"; doubled, रामः च सीता च \"both Rāma and Sītā\". अपि in its \"too\" job keeps the same manners (सीता अपि \"Sītā too\"). These little after-words are classical Sanskrit's standing habit, shared with its Latin cousin *-que*. [REF:apte1890 s.v. च]; [REF:monierwilliams1899 s.v. च]",
+      "refs": [
+        "apte1890 s.v. च",
+        "monierwilliams1899 s.v. च"
+      ]
+    }
+  ]
+}

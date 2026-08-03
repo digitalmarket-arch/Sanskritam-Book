@@ -8,9 +8,9 @@ title:
 volume: 2
 chapter: 2
 cefr: A1
-status: draft
+status: reviewed
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 ---
 
 # Chapter 2 — परिवारः जगच्च · Family & the World

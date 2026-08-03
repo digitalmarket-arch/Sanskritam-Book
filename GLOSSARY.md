@@ -11,6 +11,7 @@ Sorted by IAST.
 |---|---|---|---|---|
 | अक्षर | akṣara | syllable block — the script's writing unit | अक्षर | v1.c01.l04 |
 | अभिवादन | abhivādana | greeting, respectful salutation | अभिवादन | v2.c01.l01 |
+| अव्यय | avyaya | indeclinable — a word that never changes shape | अव्यय | v2.c02.l04 |
 | अनुच्छेद | anuccheda | passage, paragraph (standard modern term) | अनुच्छेद | v1.c06.l03 |
 | अनुस्वार | anusvāra | the nasal sign ं | अनुस्वार | v1.c02.l06 |
 | अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |

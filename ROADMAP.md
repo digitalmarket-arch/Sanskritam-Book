@@ -35,7 +35,7 @@ Chapter 6 ends with the learner reading real connected words and a first (sandhi
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
 | 1 | अभिवादनम् — Greetings & Courtesy | 5 | ✅ reviewed |
-| 2 | परिवारः जगच्च — Family & the World | 5 | ⬜ |
+| 2 | परिवारः जगच्च — Family & the World | 5 | ✅ reviewed |
 | 3 | संख्याः कालश्च — Numbers & Time | 5 | ⬜ |
 | 4 | क्रियाः — First Verbs | 5 | ⬜ |
 | 5 | संवादः — Daily Conversation | 5 | ⬜ |
@@ -140,8 +140,13 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   exchange, the day cycle with the both-things-true सुप्रभातम् card, the धन्यवादः
   label showcase with न-negation and the farewell pair, and the Courtesy Exam sorting
   by the keystone label table. 23 ledger-new words (260 cumulative); 36 lessons total,
-  validator green, exports current. Next: v2.c02 (परिवारः जगच्च) research, or Volume 1
-  asset production — both unblocked.
+  validator green, exports current.
+- **2026-08-03** — **v2.c02 परिवारः जगच्च complete and reviewed**: the kinship-cognate
+  flagship (Jones 1786; the no-arrow wall chart; दुहिता ~ daughter), the pointing trio,
+  the world set with the पञ्चतत्त्व words/doctrine split and अग्निः's ledger homecoming
+  (RV 1.1.1), च with the 1.x और correction, कुत्र, and the family-tree/scene exam with
+  the direction cards. 22 ledger-new (282 cumulative); 41 lessons total, validator
+  green. c03 (numbers & time) and c04 (first verbs) fact bases already pushed.
 
 ## Content preservation map (from the 1.x curriculum)
 

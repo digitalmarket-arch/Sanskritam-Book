@@ -731,6 +731,109 @@
       ],
       "path": "curriculum/volume-2/chapter-01/lesson-05-courtesy-exam.md",
       "json": "json/volume-2/v2.c01.l05.json"
+    },
+    {
+      "id": "v2.c02.l01",
+      "title": {
+        "sa": "परिवारः",
+        "sa_iast": "parivāraḥ",
+        "hi": "परिवार — घर के लोग",
+        "en": "The Family"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c01.l05"
+      ],
+      "review_of": [
+        "v2.c01.l05",
+        "v1.c01.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-02/lesson-01-the-family.md",
+      "json": "json/volume-2/v2.c02.l01.json"
+    },
+    {
+      "id": "v2.c02.l02",
+      "title": {
+        "sa": "मम परिवारः",
+        "sa_iast": "mama parivāraḥ",
+        "hi": "मेरा परिवार — परिवार का परिचय",
+        "en": "Introducing the Family"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c02.l01"
+      ],
+      "review_of": [
+        "v2.c02.l01",
+        "v1.c06.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-02/lesson-02-introducing-the-family.md",
+      "json": "json/volume-2/v2.c02.l02.json"
+    },
+    {
+      "id": "v2.c02.l03",
+      "title": {
+        "sa": "जगत्",
+        "sa_iast": "jagat",
+        "hi": "जगत् — संसार के शब्द",
+        "en": "The World Set"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c02.l02"
+      ],
+      "review_of": [
+        "v2.c02.l01",
+        "v2.c02.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-02/lesson-03-the-world-set.md",
+      "json": "json/volume-2/v2.c02.l03.json"
+    },
+    {
+      "id": "v2.c02.l04",
+      "title": {
+        "sa": "कुत्र?",
+        "sa_iast": "kutra?",
+        "hi": "कुत्र? — चीज़ें कहाँ हैं",
+        "en": "Where Things Are"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c02.l03"
+      ],
+      "review_of": [
+        "v2.c02.l01",
+        "v2.c02.l02",
+        "v2.c02.l03"
+      ],
+      "path": "curriculum/volume-2/chapter-02/lesson-04-where-things-are.md",
+      "json": "json/volume-2/v2.c02.l04.json"
+    },
+    {
+      "id": "v2.c02.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "दोहराव — परिवार-जगत् परीक्षा",
+        "en": "The Family & World Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A1",
+      "prerequisites": [
+        "v2.c02.l04"
+      ],
+      "review_of": [
+        "v2.c02.l01",
+        "v2.c02.l02",
+        "v2.c02.l03",
+        "v2.c02.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-02/lesson-05-family-world-exam.md",
+      "json": "json/volume-2/v2.c02.l05.json"
     }
   ]
 }

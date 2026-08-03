@@ -4,6 +4,25 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.8.0] — 2026-08-03
+
+Volume 2 Chapter 2 — परिवारः जगच्च (Family & the World) complete and reviewed: the
+kinship-cognate flagship delivered direction-honest, the पञ्चतत्त्व register split, and
+the च/कुत्र toolkit — with the 1.x और gloss corrected in-curriculum.
+
+### Added
+- v2.c02 research notes and chapter frame; five lessons (family set with the
+  daughter/sister division-of-labor honesty; the pointing trio + the cognate shelf with
+  Jones 1786; the world set + अग्निः homecoming; कुत्र and च; the family-tree and
+  scene exam with direction cards).
+- v2.c03 (numbers & time) and v2.c04 (first verbs) fact bases + chapter frames,
+  prepared ahead: the October/November/December derivation fix, the होरा inbound-loan
+  showcase, the -मि/-सि/-ति pattern plan with stem honesty.
+- GLOSSARY: अव्यय.
+
+### Changed
+- JSON exports regenerated (41 lessons); verification log extended. Ledger 260 → 282.
+
 ## [0.7.0] — 2026-08-02
 
 Volume 2 Chapter 1 — अभिवादनम् (Greetings & Courtesy) complete and reviewed. Volume 2

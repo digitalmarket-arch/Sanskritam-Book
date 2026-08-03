@@ -39,10 +39,10 @@ media:
     - "planned:assets/worksheets/volume-2/v2c02l01-family-frames.pdf"
   quizzes: []
 tags: [vocabulary, family, kinship, cognates, frames, gender-shapes, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-03"]
 created: 2026-08-02
 updated: 2026-08-02
 ---

@@ -249,3 +249,32 @@ Status change: v1.c06 lessons 01–04 `draft` → `reviewed`. **Volume 1 review 
 | D | 27-section contract green; objective maps present ×5; ≥2 production exercises each; ledger reconciled to canonical chain (l02 ≈249→243, l03 ≈250/258→243/251, l05 ≈270→260, chapter.md updated); l05's parallel-draft integrator flag replaced with the reconciled figures; l04's asset path normalized to volume-2. Drafting note: l01–l03, l05 agent-drafted (landed complete despite session limits); l04 main-loop authored. | pass |
 
 Status change: v2.c01 lessons 01–05 `draft` → `reviewed`.
+
+## Chapter v2.c02 — research verdicts (2026-08-03)
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| Kinship cognate shelf मातृ/पितृ/भ्रातृ/दुहितृ/स्वसृ ~ māter/pater/frāter/thygátēr/soror ~ mother/father/brother/daughter/sister — shared PIE descent, direction-honest | [REF:mallory2006]; [REF:burrow2001] | ✅ THE flagship; f/p correspondence note correct | l02 §5, §13 |
+| Jones 1786 "sprung from some common source" address | [REF:mallory2006] | ✅ quote verbatim (Third Anniversary Discourse) | l02 §5 HISTORY |
+| Kinship terms attested from Ṛgveda | [REF:jamison2014 p.5]; [REF:burrow2001] | ✅ | l02 §4 |
+| वसुधैव कुटुम्बकम् — Hitopadeśa Mitralābha 71 (common editions) + Mahopaniṣad parallel | [REF:hitopadesha mitralābha 71] | ✅ hedged locus, TRADITION register | l02 §4 |
+| भगिनी everyday / स्वसा cognate-carrier; Hindi बहन < भगिनी; दुहिता beside पुत्री | [REF:apte1890]; [REF:monierwilliams1899]; [REF:masica1991] | ✅ division-of-labor honesty | l01 |
+| एषः/एषा chunks; तस्याः display | [REF:apte1890 s.v. एतद्] | ✅ no paradigm claims | l02 |
+| World set s.vv. incl. पृथिवी/पृथ्वी variant; नगर-in-देवनागरी callback | [REF:apte1890]; [REF:monierwilliams1899] | ✅ | l03 |
+| Ṛgveda's first word अग्निम् (RV 1.1.1) HISTORY framing | [REF:rigveda 1.1.1]; [REF:jamison2014] | ✅ | l03 §4 |
+| पञ्चतत्त्व split: five words FACT / five-element grouping TRADITION (Sāṅkhya-Vaiśeṣika lineages, attributed) | dictionaries + standard doctrine framing | ✅ the register showcase; never quizzed as physics | l03 §5, §15 |
+| अग्निः ledger homecoming (ear-word v1.c01 → headword here) ~ Lat. ignis | [REF:mallory2006] | ✅ | l03 §13 |
+| च enclitic placement; और→च correction; जगच्च seam preview | [REF:apte1890 s.v. च] | ✅ the 1.x fix delivered | l04 |
+| कुत्र completes location kit | [REF:apte1890 s.v. कुत्र] | ✅ | l04 |
+| Ledger chain 260 → 267 → 270 → 280 → 282 (22 ledger-new + 1 upgrade) | in-course; chain prescribed in specs and held by agents | ✅ no reconciliation needed (a first) | all |
+
+## Review-pass findings — v2.c02 (2026-08-03)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Validator: all five lessons 0 errors 0 warnings (l01–l04 on landing; l05 main-loop authored, clean first run). IPA spot-checks pass (/eːʂ/ pair, /r̩/ onsets, /ɦ/ in दुहिता). | green |
+| B | Hindi §7 foci verified (यह-vs-trio in l02/l05; बहन/भाई kinship familiarity; पञ्चतत्त्व discussion register; दिशा/तीर framing in l05). | pass |
+| C | Callout audit: HISTORY items cited (Ṛgveda kinship attestation, Jones 1786 verbatim, RV 1.1.1); TRADITION attributed (वसुधैव कुटुम्बकम् with hedged locus + Mahopaniṣad note; पञ्चतत्त्व doctrine; visarga echo); no derivation arrow anywhere between cognate columns; the और correction framed kindly. l05's nine D-cards diffed against their source lessons — no card overreaches. | pass |
+| D | 27-section contract green ×5; objective maps present; ledger chain held by design across parallel drafts (specs now prescribe the chain — process improvement locked in); enclitic wording in l05 §16 (भगिनी अहम् च अत्र) consistent with l04 §15's rule. Drafting note: l01–l04 agent-drafted, l05 main-loop authored (the recurring pattern). | pass |
+
+Status change: v2.c02 lessons 01–05 `draft` → `reviewed`.
