@@ -153,7 +153,9 @@ Rules:
 3. **TRADITION** blocks name their source tradition or text ("In the Pāṇinīya Śikṣā…",
    "Traditional recitation practice…").
 4. **Quizzes and exercises assess FACT content only** — or TRADITION content when the question
-   itself is framed "According to X…". SYMBOL content is never assessed.
+   itself is framed "According to X…", or HISTORY content when the claim is taught in a cited
+   HISTORY callout in the same lesson and the item preserves its hedged dating. SYMBOL content
+   is never assessed.
 5. Banned claims (may not appear even inside callouts except as *documented errors of 1.x*):
    see `EDITORIAL_GUIDELINES.md` §Banned claims.
 

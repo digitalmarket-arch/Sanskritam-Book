@@ -16,8 +16,8 @@ updated: 2026-08-02
 # Chapter 3 — संख्याः कालश्च · Numbers & Time
 
 Ten numbers, the time words, and the week — carried by the two best direction-honesty
-stories the course owns. First, the fix the audit demanded: the 1.x curriculum printed
-"Oct-agon, Nov-ember, Dec-ember come from these!" — and they do not; the month names are
+stories the course owns. First, the fix the audit demanded: the 1.x curriculum claimed
+the month names come from these stems — and they do not; the month names are
 Latin counting its own calendar, and अष्ट beside octō are siblings from one ancestor,
 which is the better story anyway. Second, a loan running the *other* way: होरा "hour"
 came INTO Sanskrit from Greek with Hellenistic astronomy — completing the loan-vs-cognate
@@ -41,14 +41,14 @@ By the end of this chapter the learner can:
 - [ ] Name the weekdays and read dates from a Devanagari-digit calendar
 - [ ] Tell the month-name story correctly (cognates, not derivation) and the होरा story
   (a loan into Sanskrit)
-- [ ] Read ~23 ledger-new words (≈305 cumulative)
+- [ ] Read 23 ledger-new words (305 cumulative)
 - [ ] Pass the chapter assessment incl. the calendar task
 
 ## Lessons
 
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
-| 1 | v2.c03.l01 | एकादिपञ्चान्ताः — One to Five | vocabulary | एक चतुर् (+ counting chant); c02 Station 0 |
+| 1 | v2.c03.l01 | एकादिपञ्चान्ताः — One to Five | vocabulary | एक त्रि चतुर् (+ counting chant); c02 Station 0 |
 | 2 | v2.c03.l02 | षडादिदशान्ताः — Six to Ten | vocabulary | षट् सप्त अष्ट नव-nine कति; THE October fix |
 | 3 | v2.c03.l03 | कालः — Time Words | vocabulary | कालः अद्य श्वः ह्यः वर्षम् सप्ताहः होरा |
 | 4 | v2.c03.l04 | वासराः — The Week | vocabulary | वासरः + the seven day-names; honest week-history |

@@ -13,7 +13,7 @@ Entering ledger: ≈282 (reconciled at c02 review).
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 0.1 | The number stems 1–10: एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश. Numbers inflect (gender/case); the stems are the citation names; the neuter counting recitation (एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश) is standard practice — taught as a chant, inflection system deferred (V3/V4 per the 1.x-salvage map: numeral gender splits land in v4.c05). | FACT + policy | [REF:apte1890]; [REF:whitney1889 §§475–489 — **Pass C: verify range or cite bare**] | द्वि, त्रि, पञ्च, दश already in the ledger (v1.c05/c06, v1.c04); the chapter completes the set. |
+| 0.1 | The number stems 1–10: एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश. Numbers inflect (gender/case); the stems are the citation names; the neuter counting recitation (एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश) is standard practice — taught as a chant, inflection system deferred (V3/V4 per the 1.x-salvage map: numeral gender splits land in v4.c05). | FACT + policy | [REF:apte1890]; [REF:whitney1889 §§475–489 — **Pass C: verify range or cite bare**] | द्वि, पञ्च, दश already in the ledger (v1.c05/c06, v1.c04); त्रि cognate-mentioned only (v1.c01.l01, v1.c05.l03 §13) — counted new at l01; the chapter completes the set. |
 | 0.2 | The cognate shelf, direction-honest: द्वि ~ duo/two · त्रि ~ trēs/three · चतुर् ~ quattuor/four · पञ्च ~ Gk. pénte/five · षट् ~ sex/six · सप्त ~ septem/seven · अष्ट ~ octō/eight · नव ~ novem/nine · दश ~ decem/ten. Parallel descendants of the PIE numerals — among the most stable words in the family. | FACT | [REF:mallory2006] (numerals); [REF:burrow2001] | The chapter's flagship shelf. |
 | 0.3 | THE BANNED-CLAIM FIX (1.x pp.30–31, IR-audit): *October/November/December do NOT come from Sanskrit.* The month names are Latin counting its own calendar — octō, novem, decem "eight, nine, ten" for the 8th–10th months of the old Roman year. Latin octō and Sanskrit अष्ट are cognates (siblings from PIE); neither derives from the other. Same for tri-angle (Greek/Latin tri-, cognate of त्रि). | FACT (corrective) | [REF:mallory2006]; OED month entries | Delivered as content: the honest version is BETTER — one ancestor's numbers surviving in two calendars. Register card in l05. |
 | 0.4 | नव homophony: नव "nine" and नव "new" are two distinct words (नवन् vs नव) that fell together — and BOTH have English cognates (nine; new). The ledger's नव "new; nine" row (v1.c04.l01) is honestly split here. | FACT | [REF:monierwilliams1899 s.vv.] | A delightful honesty beat, not a trap. |
@@ -25,11 +25,10 @@ Entering ledger: ≈282 (reconciled at c02 review).
 
 ## 1. L1 — एकादिपञ्चान्ताः: one to five (vocabulary)
 
-Station 0 = v2.c02.l05's +1-week. **New (3):** एक, चतुर्, षट् — wait: षट् is l02's;
-l01 takes 1–5: new = एक /eːkɐ/, चतुर् /t͡ɕɐt̪uɾ/ (+ चत्वारि counting form as display);
-reviews द्वि (✓v1.c05.l03), त्रि (readable; first ledger entry — **verify: त्रि was
-cognate-noted at v1.c05.l03 §13 but likely not a §14 headword — if absent, count as new**),
-पञ्च (✓v1.c06.l01). The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च introduced as
+Station 0 = v2.c02.l05's +1-week. **New (3):** एक /eːkɐ/, त्रि /t̪ɾi/, चतुर्
+/t͡ɕɐt̪uɾ/ (+ चत्वारि counting form as display); reviews द्वि (✓v1.c05.l03), पञ्च
+(✓v1.c06.l01). त्रि verified at drafting: cognate-mentioned at v1.c01.l01 and
+v1.c05.l03 §13, never a §14 headword — counted new, first ledger entry. The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च introduced as
 practice (0.1 policy line). Cognate rows: एक (no clean English cognate — say so, honesty
 beats reaching), चतुर् ~ quattuor/four. Counting drills with digit cards १–५.
 

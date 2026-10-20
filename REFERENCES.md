@@ -89,6 +89,9 @@ Students*, 3rd ed., Oxford 1927. Cited by paragraph §.
 <a id="monierwilliams1899"></a>**monierwilliams1899** — M. Monier-Williams, *A Sanskrit-English
 Dictionary*, Oxford 1899. Cited s.v.
 
+<a id="oed"></a>**oed** — *Oxford English Dictionary*, Oxford University Press (online
+edition). Cited s.v. Reference for English etymologies (month names, weekday names, *hour*).
+
 <a id="whitney1889"></a>**whitney1889** — W.D. Whitney, *Sanskrit Grammar*, 2nd ed., Harvard
 1889. Cited by paragraph § (e.g. §19 on vowel a). Reference for phonology and paradigms.
 

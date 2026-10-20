@@ -27,7 +27,7 @@ Consumes: a whole lesson file. Executes EDITORIAL_GUIDELINES §4. Log every find
 - [ ] Every quoted verse located (text + chapter.verse checked)
 - [ ] No banned claims (EDITORIAL_GUIDELINES §3)
 - [ ] Register audit: nothing symbolic outside SYMBOL; TRADITION attributed; FACT checkable
-- [ ] Quiz assesses FACT only (or explicitly framed TRADITION)
+- [ ] Quiz assesses FACT only (or explicitly framed TRADITION, or cited-HISTORY per STYLE_GUIDE §4 rule 4 with hedged dating preserved)
 - [ ] All new claims added to research/verification-log.md
 
 ## Pass D — Contract

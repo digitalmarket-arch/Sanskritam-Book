@@ -31,7 +31,7 @@ lines total.
 | 16 | Conversation | A micro-dialogue usable at current level, with audio asset reference. | short |
 | 17 | Story | Narrative element: cultural story (register-labeled), micro-fiction using lesson vocabulary, or the continuing course storyline. | medium |
 | 18 | Exercises | 4–8 exercises, **at least two productive** (write, say, record, dictate, translate). Recognition-only lessons are rejected in review. | long |
-| 19 | Quiz | 5–10 scored questions, FACT-register content only, key separated in `<details>`. | medium |
+| 19 | Quiz | 5–10 scored questions, FACT-register content only (cited-HISTORY carve-out per STYLE_GUIDE §4 rule 4), key separated in `<details>`. | medium |
 | 20 | Revision | One-screen summary box: what to remember, spaced-repetition pointers (what to review in 1 day / 1 week). | short |
 | 21 | Homework | Concrete take-home with time estimate; includes one real-world task (find the letter on a sign, teach it to someone). | short |
 | 22 | Teacher Notes | Classroom delivery: timing plan, board work, group activities, differentiation, what students find hard. | medium |
