@@ -216,7 +216,7 @@ whole business.
 परीक्षा की विधि अब जानी-पहचानी है; आज की ख़ास बातें फिर तीन हैं।
 
 पहली — **दिशा-तालिका अब पूरी है।** पिछली परीक्षा में तीन तीर थे; आज चार सम्बन्ध हैं:
-कोई तीर नहीं (अष्ट और octō — एक ही पुरखे की दो सन्तानें), पूर्व की ओर (dharma संस्कृत
+कोई तीर नहीं (अष्ट और octō — एक ही पुरखे की दो सन्तानें), पूर्व से (dharma संस्कृत
 से अंग्रेज़ी गया), पश्चिम से (होरा यूनानी से संस्कृत में आया), और सबसे बारीक — दोनों
 उधार (अंग्रेज़ी hour और संस्कृत होरा, दोनों एक ही यूनानी शब्द से, दो अलग रास्तों से)।
 कार्ड छाँटते समय पहले तीर खींचिए, फिर लेबल लगाइए। और November वाला कार्ड — याद रखिए:
@@ -327,8 +327,8 @@ ambition: reaching for a verb (पञ्च सन्ति?? — the verb machi
 or gluing on endings. The bare answer is the taught, correct form. Simplest correct
 beats ambitious wrong — that rule *is* the course.
 
-**Model direction sort (task D).** Card: "English *hour* and Sanskrit होरा both
-descend from the same Greek word." Draw the arrows: Greek hṓra → Latin hōra → Old
+**Model direction sort (task D).** Card: "English *hour* and Sanskrit होरा both go
+back to the same Greek word." Draw the arrows: Greek hṓra → Latin hōra → Old
 French → English *hour* — a borrowing chain running west; Greek hṓra → होरा —
 borrowed east with Hellenistic astronomy. Verdict: **FACT**, with the reasoning line
 "two borrowings from one source — cousins by borrowing, not by shared descent."
@@ -446,11 +446,11 @@ HISTORY / TRADITION / SYMBOL — or reject; one reasoning line each:
 1. "November comes from Sanskrit नव."
 2. "अष्ट and octō share one ancestor."
 3. "होरा was borrowed into Sanskrit from Greek."
-4. "English *hour* and Sanskrit होरा both descend from the same Greek word."
+4. "English *hour* and Sanskrit होरा both go back to the same Greek word."
 5. "The seven-day week has always been part of Indian timekeeping."
 6. "The वासर day-names are real, standard Sanskrit."
 7. "नव 'nine' and नव 'new' are one word."
-8. "दश and decem are cognates."
+8. "dharma went Sanskrit→English; होरा went Greek→Sanskrit."
 9. "The counting chant एकम् द्वे त्रीणि… is inflected Sanskrit."
 
 **कार्यम् E · दिनदर्शिका (THE CALENDAR TASK — production).** The month grid comes in
@@ -511,8 +511,9 @@ D: 1 **reject** (Latin's own novem; cognates, no derivation — THE October-fix 
 2 FACT · 3 FACT (the reversed arrow, with Hellenistic astronomy) · 4 FACT (two loans
 from one Greek source — cousins by borrowing, not shared descent) · 5 **reject** (the
 system is an early-centuries-CE import, honestly dated; the names are real) · 6 FACT
-· 7 **reject** (homophones — two words, two English cousins: nine, new) · 8 FACT ·
-9 FACT (real inflected neuter forms — and the full system is later business; both
+· 7 **reject** (homophones — two words, two English cousins: nine, new) · 8 FACT
+(loans run both ways; one real arrow each direction: dharma's arrow east, होरा's
+arrow west) · 9 FACT (real inflected neuter forms — and the full system is later business; both
 halves said honestly). Scoring: 7+/9 with sane reasoning. C and E score on the §22
 rubric.
 
