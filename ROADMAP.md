@@ -147,6 +147,15 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   (RV 1.1.1), च with the 1.x और correction, कुत्र, and the family-tree/scene exam with
   the direction cards. 22 ledger-new (282 cumulative); 41 lessons total, validator
   green. c03 (numbers & time) and c04 (first verbs) fact bases already pushed.
+- **2026-08-04** — **v2.c03 संख्याः कालश्च complete and reviewed**: the stems एक–दश with
+  the counting chant (inflection honestly deferred), THE October/November/December
+  correction delivered as content with the 1.x captions quoted verbatim and corrected
+  kindly, the नव nine/new split, होरा as the Greek→Sanskrit loan that completes the
+  direction toolkit (arrows named by origin), the week with its honest early-centuries-CE
+  history, and the numbers-time exam with the calendar task on the learner's own grid.
+  Review ran as an adversarially verified workflow (56 findings confirmed and fixed; one
+  grammar blocker caught in model content). 23 ledger-new (305 cumulative); 46 lessons
+  total, validator green, exports current. Next: v2.c04 क्रियाः (first verbs).
 
 ## Content preservation map (from the 1.x curriculum)
 

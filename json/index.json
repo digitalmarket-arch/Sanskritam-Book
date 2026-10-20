@@ -834,6 +834,110 @@
       ],
       "path": "curriculum/volume-2/chapter-02/lesson-05-family-world-exam.md",
       "json": "json/volume-2/v2.c02.l05.json"
+    },
+    {
+      "id": "v2.c03.l01",
+      "title": {
+        "sa": "एकादिपञ्चान्ताः",
+        "sa_iast": "ekādipañcāntāḥ",
+        "hi": "संख्याएँ — एक से पाँच तक",
+        "en": "One to Five"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c02.l05"
+      ],
+      "review_of": [
+        "v2.c02.l05",
+        "v1.c05.l03",
+        "v1.c06.l01"
+      ],
+      "path": "curriculum/volume-2/chapter-03/lesson-01-one-to-five.md",
+      "json": "json/volume-2/v2.c03.l01.json"
+    },
+    {
+      "id": "v2.c03.l02",
+      "title": {
+        "sa": "षडादिदशान्ताः",
+        "sa_iast": "ṣaḍādidaśāntāḥ",
+        "hi": "संख्याएँ — छह से दस तक",
+        "en": "Six to Ten"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c03.l01"
+      ],
+      "review_of": [
+        "v2.c03.l01",
+        "v1.c04.l01"
+      ],
+      "path": "curriculum/volume-2/chapter-03/lesson-02-six-to-ten.md",
+      "json": "json/volume-2/v2.c03.l02.json"
+    },
+    {
+      "id": "v2.c03.l03",
+      "title": {
+        "sa": "कालः",
+        "sa_iast": "kālaḥ",
+        "hi": "काल — समय के शब्द",
+        "en": "Time Words"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c03.l02"
+      ],
+      "review_of": [
+        "v2.c03.l02",
+        "v2.c01.l03",
+        "v1.c04.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-03/lesson-03-time-words.md",
+      "json": "json/volume-2/v2.c03.l03.json"
+    },
+    {
+      "id": "v2.c03.l04",
+      "title": {
+        "sa": "वासराः",
+        "sa_iast": "vāsarāḥ",
+        "hi": "वासर — सप्ताह के दिन",
+        "en": "The Week"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c03.l03"
+      ],
+      "review_of": [
+        "v2.c03.l03",
+        "v1.c05.l05"
+      ],
+      "path": "curriculum/volume-2/chapter-03/lesson-04-the-week.md",
+      "json": "json/volume-2/v2.c03.l04.json"
+    },
+    {
+      "id": "v2.c03.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "पुनरावृत्ति — संख्या-काल परीक्षा",
+        "en": "The Numbers & Time Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c03.l04"
+      ],
+      "review_of": [
+        "v2.c03.l01",
+        "v2.c03.l02",
+        "v2.c03.l03",
+        "v2.c03.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-03/lesson-05-numbers-time-exam.md",
+      "json": "json/volume-2/v2.c03.l05.json"
     }
   ]
 }

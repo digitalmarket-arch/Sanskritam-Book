@@ -39,12 +39,12 @@ media:
     - "planned:assets/quizzes/volume-2/v2c03l05-chapter-quiz.md"
     - "planned:assets/quizzes/volume-2/v2c03l05-chapter-quiz-key.md"
 tags: [review, assessment, numbers, time, calendar, counting, direction-cards, production]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-04"]
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 ---
 
 ## 1. Hook
@@ -55,8 +55,8 @@ detective stories about direction. Your calendar's November really does contain 
 sailed the other way: होरा came INTO Sanskrit from Greek. Today you prove all of it:
 count to ten with a tongue that knows dental from retroflex, read a month written in
 Devanagari digits, run अद्य-श्वः-ह्यः around a real week — and sort nine claims where
-the winning answer is the honest arrow. Roughly twenty-three ledger-new words this
-chapter. Time to show they count.
+the winning answer is the honest arrow. Twenty-three ledger-new words this chapter.
+Time to show they count.
 
 ## 2. Learning Objective
 
@@ -227,8 +227,9 @@ novem लैटिन का अपना "नौ" है; नव उसका �
 और असली चीज़ें गिनना — कति? — षट्! यह पहचान की नहीं, उत्पादन की परीक्षा है: जीभ को
 पता होना चाहिए कि षट् में वह मुड़ती है और दश में दाँतों पर टिकती है।
 
-तीसरी — **दिनदर्शिका।** देवनागरी अंकों वाला महीने का ग्रिड मिलेगा। पहले "आज" का चिह्न
-ढूँढ़िए, फिर तीनों प्रश्न: अद्य कः वासरः? श्वः? ह्यः? — बिना क्रिया के, सधे हुए ढाँचे
+तीसरी — **दिनदर्शिका।** पिछले पाठ के गृहकार्य में तैयार किया हुआ अपना ग्रिड साथ
+लाइए (भूल जाएँ तो एक कार्ड मिलेगा)। पहले "आज" का चिह्न आज की तारीख़ पर रखिए,
+फिर तीनों प्रश्न: अद्य कः वासरः? श्वः? ह्यः? — बिना क्रिया के, सधे हुए ढाँचे
 में। तीन तिथियाँ ज़ोर से पढ़िए — अंक + वार — और एक कति-प्रश्न पूछकर उसका उत्तर भी
 दीजिए। हिन्दी यहाँ आपकी मदद करेगी: सोमवार सोमवासरः का ही उतरा हुआ रूप है — पर लिखते
 और बोलते समय संस्कृत रूप ही चाहिए, -वार नहीं।
@@ -248,8 +249,9 @@ The assessment architecture — five tasks, one a recording, one a grid.
 The §19 quiz (10 questions) completes it. Pass = every task at partial-or-better
 (rubric §22) and quiz 7+/10. Task D is this chapter's signature: the direction table
 closes. Four relations now exist — no arrow (अष्ट ~ octō), arrow east (dharma →
-English), arrow west (Greek → होरा), and both-borrowed (English *hour* and Sanskrit
-होरा, two loans from one Greek source) — and the cards make you draw each one
+English), arrow west (Greek → होरा) — name the arrow by where it comes from — and
+both-borrowed (English *hour* and Sanskrit होरा, two loans from one Greek source) —
+and the cards make you draw each one
 correctly, including the November card the 1.x book got wrong in print. Passing gates
 v2.c04 (क्रियाः — First Verbs), where sentences finally get engines.
 
@@ -338,19 +340,18 @@ cognates. **Reject** — and the correction is the full answer.
 
 ## 14. Vocabulary
 
-शब्दावली — no new words on exam day; the chapter ledger, complete: ≈282 entering
-(reconciled at the c02 review) + ~23 ledger-new — l01 ~3, l02 ~5, l03 ~7, l04 ~8 —
-**≈305 readable words**. *Drafting note:* the sibling §14 tables (l01–l04) are not
-yet on disk; counts follow the chapter plan's intended chain 282 → 285 → 290 → 297 →
-305 and are reconciled at review. The exam sheet's word bank samples all four
+शब्दावली — no new words on exam day; the chapter ledger, complete: 282 entering
+(per v2.c02.l05 §14) + 23 ledger-new — l01 3, l02 5, l03 7, l04 8 — **305 readable
+words**. *Note:* counts verified against the sibling §14 tables on disk: 282 → 285 →
+290 → 297 → 305 (l04 §27 concurs). The exam sheet's word bank samples all four
 lessons. Protocol as always: block by block, whole word, full finals, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| एक · चतुर् · त्रि | eka · catur · tri | — | one · four · three | — | l01, ~3 headwords + the chant — full rows: l01 §14 |
-| षट् · सप्त · अष्ट · नव · कति | ṣaṭ · sapta · aṣṭa · nava · kati | — | six · seven · eight · nine · how many? | — | l02, ~5 headwords — full rows: l02 §14 |
-| कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | time · today · tomorrow · yesterday · year · week · hour | — | l03, ~7 headwords (मासः upgraded) — full rows: l03 §14 |
-| वासरः · रविवासरः … शनिवासरः | vāsaraḥ · ravivāsaraḥ … śanivāsaraḥ | — | day of the week + the seven names | — | l04, ~8 headwords — full rows: l04 §14 |
+| एक · चतुर् · त्रि | eka · catur · tri | — | one · four · three | — | l01, 3 headwords + the chant — full rows: l01 §14 |
+| षट् · सप्त · अष्ट · नव · कति | ṣaṭ · sapta · aṣṭa · nava · kati | — | six · seven · eight · nine · how many? | — | l02, 5 headwords — full rows: l02 §14 |
+| कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | time · today · tomorrow · yesterday · year · week · hour | — | l03, 7 headwords (मासः upgraded) — full rows: l03 §14 |
+| वासरः · रविवासरः … शनिवासरः | vāsaraḥ · ravivāsaraḥ … śanivāsaraḥ | — | day of the week + the seven names | — | l04, 8 headwords — full rows: l04 §14 |
 
 ## 15. Grammar
 
@@ -453,9 +454,13 @@ HISTORY / TRADITION / SYMBOL — or reject; one reasoning line each:
 8. "dharma went Sanskrit→English; होरा went Greek→Sanskrit."
 9. "The counting chant एकम् द्वे त्रीणि… is inflected Sanskrit."
 
-**कार्यम् E · दिनदर्शिका (THE CALENDAR TASK — production).** The month grid comes in
-Devanagari digits with an अद्य marker and three circled dates (all within the first
-ten days — the names you own). Answer the trio off the grid: अद्य कः वासरः? श्वः कः
+**कार्यम् E · दिनदर्शिका (THE CALENDAR TASK — production).** The month grid is the
+one you prepared and brought from last lesson's homework (v2.c03.l04 §21, item 2) —
+Devanagari digits, three dates circled within the first ten days (the names you
+own). Re-set its अद्य marker to today before you begin: the trio is computed for
+exam day, not homework day (§5). A calendar card
+(`planned:assets/worksheets/volume-2/v2c03l05-calendar-cards.pdf`) stands in if
+yours went missing. Answer the trio off the grid: अद्य कः वासरः? श्वः कः
 वासरः? ह्यः कः वासरः? Read the three dates aloud, digit then weekday: **सप्त —
 शुक्रवासरः।** Ask one कति question of the grid or the room and answer it bare.
 Finish with the maintenance micro-check: write ०–९ from memory in order, then dissect
@@ -497,7 +502,7 @@ Finish with the maintenance micro-check: write ०–९ from memory in order, t
 6. Greek → Sanskrit — borrowed in with Hellenistic astronomy; the reversed arrow
    (l03 §13).
 7. अद्य "today" · श्वः "tomorrow" · ह्यः "yesterday" (l03 §8).
-8. अद्य सोमवासरः। — Hindi's everyday descendant form is सोमवार (l04 §8).
+8. अद्य सोमवासरः। — Hindi's everyday descendant form is सोमवार (l04 §8, §13).
 9. The seven-day system entered Indian usage in the early centuries CE — an import,
    honestly dated; the वासर day-names are real, standard Sanskrit (l04 §4, §15).
 10. Cognates: अष्ट ~ octō (or दश ~ decem) — no arrow; borrowing: Greek hṓra → होरा
@@ -528,7 +533,7 @@ rubric.
 > कालः अद्य श्वः ह्यः मासः वर्षम् सप्ताहः होरा. **The week:** वासरः and the seven
 > X-वासरः names, honestly dated. **The arrows, complete:** none (अष्ट ~ octō) · east
 > (dharma →) · west (→ होरा) · both-borrowed (*hour* ~ होरा). **The fix:** November
-> is Latin's own nine. **The ledger:** ≈305 (reconcile at review).
+> is Latin's own nine. **The ledger:** 305 — 282 entering + 23 new.
 
 Schedule [REF:cepeda2006]: **+1 day** — re-run the dictation and one counting take
 cold. **+1 week** — v2.c04.l01's Station 0 re-runs tasks C and D compressed. **Before
@@ -610,11 +615,13 @@ chapter keystone)**
 > dictation boxes + date line; task C four-round checklist with ladder tempo row;
 > task D nine cards with verdict boxes and reasoning lines; task E grid slot + three
 > trio lines + date-reading tally + कति exchange line + micro-check row (०–९ from
-> memory; dissect ष्ट). Calendar cards: six A6 month grids in Devanagari digits,
-> weekday header row in वासर names (रवि to शनि), a movable अद्य marker, three circled
-> target dates all within the first ten days — the only names the learner owns; say
-> so in the footer. Footer chants: "the tongue knows dental from retroflex" ·
-> "tomorrow is श्वः" · "no arrow between cousins".
+> memory; dissect ष्ट). Calendar cards — stand-in and rehearsal grids (§17); the
+> default task E grid is the learner's own, per l04 §21: six A6 month grids in
+> Devanagari digits, weekday header row in full वासर names (रविवासरः to शनिवासरः),
+> a movable अद्य marker, three circled target dates all within the first ten days —
+> the only names the learner owns; say so in the footer. Footer chants: "the
+> tongue knows dental from retroflex" · "tomorrow is श्वः" · "no arrow between
+> cousins".
 
 ## 24. AI Video Prompt
 
@@ -632,8 +639,8 @@ Lesson video (8–10 min), scene list:
    marker found, three dates read digit-then-weekday.
 4. The direction sort (6:00–7:30): nine cards fly; card 1 hovers, flips to reject as
    the Latin calendar counts itself; card 4 grows two arrows from one Greek node —
-   one west through Latin and French to *hour*, one east to होरा.
-5. Outro (7:30–9:00): the ledger counter ticks toward ≈305; the four-arrow chart
+   one through Latin and French to *hour*, one — the arrow west — to होरा.
+5. Outro (7:30–9:00): the ledger counter ticks to 305; the four-arrow chart
    assembles; end card: "Next: क्रियाः — the verbs arrive, and sentences get
    engines."
 
@@ -655,7 +662,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 06:00 — "The cards. 'November comes from nava [n̪ɐʋɐ]' — reject, with love: novem
   is Latin's own nine. And horā [ɦoːɾɑː] — an hour that sailed INTO Sanskrit from
   Greek. Arrows exist. Draw them right."
-- 07:30 — "Around three hundred five words. Next: the verbs — and every sentence you
+- 07:30 — "Three hundred five words. Next: the verbs — and every sentence you
   own gets an engine. śvaḥ [ɕʋɐh] — tomorrow — we conjugate."
 
 ## 26. Reel Script
@@ -674,29 +681,31 @@ verbs arrive." (End card: संख्याः कालश्च।)
 
 - **Assets (all planned):** listening test (10 items + key file); dictation set; the
   four-arrow direction chart (the chapter keystone — must match §15's table exactly);
-  exam sheet + calendar cards (target dates constrained to १–१०); chapter quiz +
-  separate key (print policy: keys never on the question sheet).
-- **Sibling availability at drafting:** v2.c03.l01–l04 are not yet on disk; every
-  "l0N §…" pointer in §3/§12/§19 targets the intended structure per chapter.md and
-  research/notes/vol2-ch3-numbers-time.md — verify all pointers when siblings land.
+  exam sheet + calendar cards (stand-in and rehearsal grids, §17 — the default task
+  E grid is the learner's own, per l04 §21; target dates constrained to १–१०);
+  chapter quiz + separate key (print policy: keys never on the question sheet).
+- **Sibling availability:** v2.c03.l01–l04 on disk; every "l0N §…" pointer in
+  §3/§12/§14/§19/§22 verified against the real files at review (Pass D).
 - **Related lessons:** consolidates v2.c03.l01–l04; Station 0 runs the
   chapter-internal spacing; its +1-week re-runs land in v2.c04.l01's Station 0 (tasks
   C and D compressed). The four-row direction table (§15) closes the toolkit opened
   in v2.c02.l05 and feeds v2.c06's cognates unit. परीक्षा remains a display word
   (§16).
 - **Rubric home:** §22; export flag `assessment: true`.
-- **Integrator notes:** ledger arithmetic PROVISIONAL: ≈282 entering + ~23 (l01 ~3 ·
-  l02 ~5 · l03 ~7 · l04 ~8) ≈ **305**; intended chain 282 → 285 → 290 → 297 → 305;
-  reconcile against the sibling §14 tables at review. §19 task keys are the single
-  source for the audio/exam key files.
+- **Integrator notes:** ledger arithmetic confirmed against the sibling §14 tables:
+  282 entering + 23 (l01 3 · l02 5 · l03 7 · l04 8) = **305**; chain 282 → 285 →
+  290 → 297 → 305. §19 task keys are the single source for the audio/exam key
+  files.
 - **Verification flags for Pass C:** the nine D-cards diffed against l02 §13
   (month-name fix, नव split), l03 §13 (होरा loan), l04 §4/§15 (week dating, वासर
-  attestation) once siblings land; Whitney numeral § range cited bare pending
+  attestation); card 8 traces to fact base §0.7 and the v2.c02.l05 direction
+  toolkit, not to this chapter's siblings; Whitney numeral § range cited bare pending
   verification (notes §0.1); week dating kept to "early centuries CE", no precise
   date; the hour-होरा card asserts a shared Greek source only (no Sanskrit–English
   contact claim); calendar target dates constrained to the taught names १–१०.
 - **Register audit:** FACT ×3 (§4 spacing · §5 testing · §15 rules) · HISTORY ×1 (§4
   week) · TRADITION ×0 · SYMBOL ×0. Task D assesses register-and-direction sorting
-  itself; quiz Q1–Q10 FACT-register.
+  itself; quiz: Q9 assesses cited HISTORY content (rule 4 carve-out, STYLE_GUIDE
+  §4); others FACT-register.
 - **Gate:** pass per §8/§22 opens v2.c04 (क्रियाः — First Verbs); a failed task
   re-runs tomorrow first.

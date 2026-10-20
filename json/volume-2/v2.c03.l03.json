@@ -1,0 +1,363 @@
+{
+  "frontmatter": {
+    "id": "v2.c03.l03",
+    "schema_version": 1,
+    "title": {
+      "sa": "कालः",
+      "sa_iast": "kālaḥ",
+      "hi": "काल — समय के शब्द",
+      "en": "Time Words"
+    },
+    "volume": 2,
+    "chapter": 3,
+    "lesson": 3,
+    "lesson_type": "vocabulary",
+    "cefr": "A2",
+    "duration_minutes": 45,
+    "self_study_minutes": 35,
+    "prerequisites": [
+      "v2.c03.l02"
+    ],
+    "review_of": [
+      "v2.c03.l02",
+      "v2.c01.l03",
+      "v1.c04.l02"
+    ],
+    "objectives": [
+      {
+        "en": "Read and say the seven time words — कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — beside the upgraded मासः, every conjunct welded and every visarga breathed.",
+        "hi": "समय के सातों शब्द — कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — उन्नत मासः के साथ पढ़ें-बोलें; हर संयुक्ताक्षर जुड़ा हुआ, हर विसर्ग साँस समेत।"
+      },
+      {
+        "en": "Run the everyday trio अद्य/श्वः/ह्यः in both directions — point at a day and say its word, hear a word and point at its day — in verbless pause-form frames with the day-cycle words: अद्य किम्? अद्य प्रभातम्।",
+        "hi": "रोज़ की तिकड़ी अद्य/श्वः/ह्यः दोनों दिशाओं में चलाएँ — दिन दिखाइए तो शब्द बोलिए, शब्द सुनिए तो दिन दिखाइए — दिन-चक्र के शब्दों वाले विराम-रूप साँचों में: अद्य किम्? अद्य प्रभातम्।"
+      },
+      {
+        "en": "Tell the होरा story with the arrow drawn right — a loan INTO Sanskrit from Greek, arriving with Hellenistic astronomy — and say plainly why होरा and English hour are relatives by borrowing, not by shared descent.",
+        "hi": "होरा की कहानी सही तीर के साथ बताएँ — यूनानी ज्योतिष के साथ संस्कृत में आया उधार — और साफ़ कहें कि होरा और अंग्रेज़ी hour साझा विरासत से नहीं, उधार से रिश्तेदार हैं।"
+      },
+      {
+        "en": "Dissect सप्ताहः into सप्त + अह — a seven-of-days, lesson 2's numeral at work inside a word — and log the Station 0 and trio-drill scores.",
+        "hi": "सप्ताहः को सप्त + अह में खोलें — सात दिनों का एक, पाठ 2 की संख्या शब्द के भीतर काम पर — और स्टेशन 0 तथा तिकड़ी-अभ्यास के अंक दर्ज करें।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 7,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-2/v2c03l03-loan-direction-chart.svg",
+        "planned:assets/images/volume-2/v2c03l03-time-ladder.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-2/v2c03l03-drill.mp3",
+        "planned:assets/audio/volume-2/v2c03l03-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-2/v2c03l03-trio-strip.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "vocabulary",
+      "time",
+      "calendar",
+      "deixis",
+      "loanwords",
+      "direction-honesty",
+      "frames",
+      "spaced-review"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-08-04"
+    ],
+    "created": "2026-08-03",
+    "updated": "2026-08-04"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Look at a clock. The word on its face left Greece twice. One copy traveled west, through\nLatin and French, and became English *hour*. The other sailed east with Greek astronomy\nand became Sanskrit होरा. This course has shown you words that share one ancestor (माता\nbeside *mother*) and words Sanskrit lent out (dharma, karma) — today it delivers the\narrow the last exam promised: a word Sanskrit *took in*. Around it, the seven words that\nrun your calendar — time itself, today, tomorrow, yesterday, and the spans from week to\nyear — including two of the smallest words in the ledger with the biggest workouts inside."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Read and say the seven time words — कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — beside the upgraded मासः, every conjunct welded and every visarga breathed. | समय के सातों शब्द उन्नत मासः के साथ पढ़ें-बोलें; हर संयुक्ताक्षर जुड़ा, हर विसर्ग साँस समेत। |\n| 2 | Run the trio अद्य/श्वः/ह्यः in both directions — point a day, say the word; hear the word, point the day — in verbless frames: अद्य किम्? अद्य प्रभातम्। | तिकड़ी अद्य/श्वः/ह्यः दोनों दिशाओं में चलाएँ — विराम-रूप साँचों में। |\n| 3 | Tell the होरा story with the arrow drawn right, and say plainly why होरा and English hour are relatives by borrowing, not shared descent. | होरा की कहानी सही तीर के साथ बताएँ; होरा-hour का रिश्ता साफ़ कहें। |\n| 4 | Dissect सप्ताहः into सप्त + अह and log the Station 0 and trio-drill scores. | सप्ताहः को सप्त + अह में खोलें; स्टेशन 0 और तिकड़ी-अभ्यास के अंक दर्ज करें। |\n\nObjective 1 is built in §8/§9/§14 and tested in §18 (exercises 1, 4) and §19 (Q5, Q8);\nobjective 2 in §6/§8/§15/§16, §18 (exercises 2, 5), §19 (Q1, Q6, Q7); objective 3 in\n§4/§13, §18 (exercise 3), §19 (Q2, Q3); objective 4 in §3/§8/§13, §18 (exercises 1, 6),\n§19 (Q4)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पुनरावृत्तिः — Station 0 first: lesson 2's clock comes due today. Then four memory\nprompts. Everything from memory *before* any key opens [REF:roediger2006].\n\n### Station 0 — lesson 2's +1-day arrives\n\nv2.c03.l02 §20 scheduled today's re-runs — and asked for two logs: last night's\nre-taken dictation and the timed digit-name ladder. Hand those scores in first, then\nrun today's three live items; log everything side by side [REF:cepeda2006].\n\n1. **The chant at speed:** एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश — one pass\n   on an even beat, every retroflex curled, every long vowel held two beats.\n2. **Three कति calls:** ask कति? of three things in the room; answer bare, within a\n   beat — कति? — षट्!\n3. **The month-name story, one line, from memory** — tell it right or re-read l02 §13\n   tonight.\n\n### The prompts\n\n1. From v2.c01.l03: the clock circle, in order — four words for the times of day, plus\n   the word for the whole circle.\n2. From v1.c04.l02: a month word has been readable since the sibilant lesson. Which —\n   and which sentence dress has it never yet worn?\n3. From v1.c05.l04: two words that traveled Sanskrit → English — and the name of that\n   relation.\n4. From v2.c02.l01: the no-arrow line — माता, *māter*, *mother*. What relation, and who\n   borrowed from whom?\n\n<details><summary>उत्तराणि · Answers</summary>\n\n0. Station 0: chant clean (retroflexes intact, quantities held); कति answered bare —\n   the taught, correct form; the month line: October, November and December are Latin\n   counting its own old calendar — novem is Latin's own \"nine\"; अष्ट and octō are\n   siblings, neither derives from the other (l02 §13). Score /3; log it.\n1. प्रभातम् — मध्याह्नः — सायम् — रात्रिः, and दिनम् for the whole turn (v2.c01.l03\n   §8). All five are back on duty in today's frames.\n2. मास (māsa) \"month\" — readable since v1.c04.l02; it has never worn the ः dress in\n   active use. Today it does: मासः, an upgrade on the गृहम् model.\n3. dharma and karma (with mantra and company) — loans, outbound: Sanskrit → English\n   (v1.c05.l04; the direction cards of v2.c02.l05).\n4. Cognates — no arrow at all: three parallel descendants of one ancestor; nobody\n   borrowed anything (v2.c02.l01 §13). Hold that line; today completes its toolkit.\n</details>\n\nA shaky chant or a flipped arrow sends you to the named section tonight — not to a halt\ntoday."
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिकः सन्दर्भः — plain old words, one famous traveler, and a promise kept.\n\nThe everyday time words on today's list are ordinary classical vocabulary: कालः \"time\",\nthe deictic trio अद्य, श्वः, ह्यः, the spans वर्षम्, मासः, सप्ताहः — all attested across\nthe classical language [REF:apte1890 s.vv.]; [REF:monierwilliams1899 s.vv.], and all\nstill in everyday use in today's small but real spoken-Sanskrit community\n[REF:census2011]. One of them even carries its own\narithmetic: सप्ताहः is transparently सप्त (sapta) + अह (aha) — \"a seven-of-days\" (§8).\n\nThe traveler is होरा.\n\n> **[HISTORY · इतिहासः]** Indian astronomy and astrology (jyotiṣa) absorbed a body of\n> Hellenistic Greek material, and with it a handful of Greek technical words entered\n> Sanskrit — होरा \"hour\", from Greek *hṓra*, among them, attested in jyotiṣa\n> literature. The dating stays deliberately coarse: the word came \"with Hellenistic\n> astronomy\" — this course claims no precise year.\n> [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]\n\nOne line of course history: the 1.x curriculum spoke of borrowing in one direction only —\nwords leaving Sanskrit. The last exam's register table (v2.c02.l05 §15) left exactly one\nrow flagged \"next chapter's story\" for the missing arrow. This is that story."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिकं विवरणम् — pointing words, usable frames, and the schedule doing its job.\n\nअद्य, श्वः and ह्यः are *deictics* — pointing words whose reference moves with the\nspeaker's day, exactly as अत्र and तत्र move with the speaker's position (v1.c06.l02).\nश्वः names a different calendar day every time the sun rises; tonight's श्वः is\ntomorrow's अद्य. That is why today's drills make you *compute* the answer off a strip or\na calendar instead of reciting a memorized one — a deictic can only be owned in use.\n\n> **[FACT · तथ्यम्]** New vocabulary sticks best when it arrives inside usable patterns\n> and gets retrieved from them under light time pressure — the frame अद्य किम्? turns\n> the trio into sentences you can say the hour you learn them, and the timed\n> both-direction strip drill builds the retrieval speed a real exchange demands.\n> [REF:nation2013]\n\n> **[FACT · तथ्यम्]** Spaced retrieval beats massed re-study; today's Station 0 is\n> v2.c03.l02's +1-day interval landing on schedule, and this lesson's own +1-day and\n> +1-week re-runs are set before it ends (§20). [REF:cepeda2006] [REF:roediger2006]"
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतेन विवरणम् — the time words, told in sentences you fully own:\n\n> **अद्य किम्? — अद्य प्रभातम्।**\n> (adya kim? — adya prabhātam.) \"What is it, today? — Today: morning.\" — आज क्या है? —\n> आज सुबह।\n\n> **अद्य विद्यालयः अस्ति। श्वः अपि अस्ति।**\n> (adya vidyālayaḥ asti. śvaḥ api asti.) \"There is school today. Tomorrow too.\" — आज\n> विद्यालय है। कल भी है।\n\n> **कति? — सप्त! सप्ताहः!**\n> (kati? — sapta! saptāhaḥ!) \"How many? — Seven! A week!\" — कितने? — सात! सप्ताह!\n\nThree old frames, no new machinery. The first rides the एतत् किम्? pattern with a time\nword in front — and notice its honesty: ask it again at dusk and the right answer has\nbecome अद्य सायम्। The second is the standing अस्ति line with अपि doing its v1.c06.l02\njob. The third is lesson 2's own grammar — कति? answered bare — counting the week strip\nto its one-word punchline. A time word in front, pause form throughout, and no verb\nrequired where naming will do."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी में समझिए\n\nआज हिन्दी आपकी सबसे बड़ी सहायक भी है और सबसे महीन जाल भी। सहायक इसलिए कि काल, वर्ष,\nमास, सप्ताह — चारों शब्द हिन्दी में जीवित हैं; पढ़ने में कोई अक्षर नहीं रोकेगा। जाल\nइसलिए कि हिन्दी का \"कल\" दोनों दिशाओं में चलता है — बीता हुआ कल भी, आने वाला कल भी; कौन-सा\nहै, यह वाक्य का बाक़ी हिस्सा बताता है। संस्कृत यह काम शब्द से ही कर देती है: बीता दिन\n**ह्यः**, आने वाला दिन **श्वः**, और बीच में आज का दिन **अद्य**। इसीलिए आज की तिकड़ी का\nअभ्यास दोनों दिशाओं में चलेगा — पट्टी पर दिन छूकर शब्द बोलना, और शब्द सुनकर दिन छूना —\nजब तक हाथ और जीभ दोनों को दिशा याद न हो जाए।\n\nदूसरी बात — छोटे शब्द, पूरी मेहनत। श्वः और ह्यः दिखने में दो-दो अक्षर के हैं, पर दोनों\nमें संयुक्ताक्षर और विसर्ग साथ-साथ काम पर हैं। श्वः में श् + व का जोड़ है — बीच में कोई\nस्वर नहीं; ह्यः में ह् + य — वही ह्य जो आप पाँचवें अध्याय से पहचानते हैं। और अन्त की\nहल्की साँस कभी मत छोड़िए: \"श्व\" अधूरा है, श्वः पूरा। ह्यः को \"हयः\" पढ़ा तो जोड़ के भीतर\nस्वर घुस गया — धीरे-धीरे, घटक बोलकर, जोड़ पढ़िए। वर्षम् में धर्म वाला रेफ है — र ऊपर\nबैठा है, पर पहले बोला जाता है — और अन्त का म् होंठ बन्द करके।\n\nतीसरी बात — होरा की कहानी, जो आज का सबसे बड़ा तथ्य है। संस्कृत ने भी शब्द उधार लिये हैं।\nहोरा यूनानी भाषा से, यूनानी ज्योतिष के साथ, संस्कृत में आया — और वही यूनानी शब्द दूसरे\nरास्ते से — लैटिन और फ़्रांसीसी से होकर — अंग्रेज़ी का hour बना। यानी होरा और hour\nरिश्तेदार तो हैं, पर माता-mother की तरह नहीं: वहाँ कोई उधार नहीं था, एक ही पुरखे की दो\nसन्तानें थीं; यहाँ दोनों भाषाओं ने एक ही स्रोत से उधार लिया। तीर की दिशा ही आज की विद्या\nहै। और मासः को देखकर चौंकिए मत — मास आप v1.c04 से पढ़ रहे हैं; आज उसे बस वाक्य-वेश ः\nमिला है, गृहम् की ही तरह: शब्द पुराना, पोशाक नयी, गिनती में कोई नया शब्द नहीं।\n\nचौथी बात — अध्याय के द्वार पर एक झलक। अध्याय का नाम है **संख्याः कालश्च** (saṃkhyāḥ\nkālaś ca) — यह कालः + च का जुड़ा हुआ रूप है: विसर्ग अगले च से सटकर श् बन जाता है —\nkālaḥ + ca → kālaś ca। आज का पढ़ना विराम-रूप ही है: कालः च (kālaḥ ca)। जोड़ने के नियम\nतीसरे खण्ड का काम हैं — पढ़िए, बनाइए मत; और इसे नास्ति, पुनर्मिलामः, जगच्च और षड् के\nसाथ उसी ताक पर रखिए।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "No new letter, no new sign — the Volume 2 luxury holds. The load is seven headwords, one\nupgrade, one dissection, and one arrow drawn in the honest direction.\n\n### The set — one container, three pointers, four spans\n\n**कालः** (kālaḥ) \"time\" is the container word — time itself, the thing the rest of the\nlist measures, and this lesson's title. The three pointers are the everyday trio:\n**अद्य** (adya) \"today\", **श्वः** (śvaḥ) \"tomorrow\", **ह्यः** (hyaḥ) \"yesterday\" — the\nwords your every calendar exchange will run on. The spans climb a ladder: **होरा**\n(horā) \"hour\", then दिनम् — yours since v2.c01.l03 — then **सप्ताहः** (saptāhaḥ) \"week\",\nthen **मासः** (māsaḥ) \"month\" (the upgrade — below), then **वर्षम्** (varṣam) \"year\".\nRun the ladder small-to-large until the order is muscle (§9): होरा — दिनम् — सप्ताहः —\nमासः — वर्षम्.\n\n### A word with arithmetic inside\n\nसप्ताहः is built from parts you own: **सप्त** (sapta) \"seven\" — last lesson's numeral —\nplus **अह** (aha), an old word for \"day\": \"a seven-of-days\"\n[REF:apte1890 s.v. सप्ताह]. You have met that day-word in disguise already: मध्याह्नः\n(madhyāhnaḥ) \"midday\" hides a form of it after मध्य (v2.c01.l03 §8). So when the week\nstrip asks कति? the word itself answers: सप्त! — the numeral working *inside* a word,\nwhich is exactly the kind of receipt this chapter collects.\n\n### The trio at work — both directions\n\nThe trio are pointing words (§5), so the drill is physical. Direction one: a finger\nlands on a day — the strip's middle slot, or a date on a real calendar — and you say the\nword within a beat: अद्य! Direction two: you hear the word and your finger finds the\nday: ह्यः → one slot back. The frames stay verbless or carry अस्ति, exactly as §6 runs\nthem: अद्य किम्? — अद्य प्रभातम्। — श्वः अपि विद्यालयः अस्ति? The day-cycle words of\nv2.c01.l03 — प्रभातम्, दिनम्, सायम्, रात्रिः — are the trio's working partners all\nlesson. For Hindi speakers the trio is also a repair kit: Hindi कल covers both\ndirections and lets context decide; Sanskrit assigns one word per direction, so the\nstrip drill is where the habit gets rebuilt (§12).\n\n### The hour that sailed in\n\nहोरा is today's showcase and §13's business, so here only the shape of it: a real\nSanskrit word, at home in the astronomical literature — and a *borrowed* one, taken in\nfrom Greek, the exact reverse of the dharma story. One preview of the fine print: English\n*hour* comes from the *same* Greek word, by its own road. The full story, with the arrows\ndrawn, is three sections down.\n\n### What is deliberately not here\n\nTwo machines stay honestly undelivered. No locatives — \"in a week\" and every such form\nwaits for Volume 3's case machinery; today a fronted time word does that work (अद्य\nविद्यालयः अस्ति।). No plurals and no numeral agreement — so \"how many hours in a day?\"\ncannot be *asked* yet; bare कति? plus a pointed finger carries every counting exchange,\nexactly as lesson 2 taught. And the days of the week? Next lesson's whole business —\ntoday's trio is deliberately week-name-free, so it can snap onto the seven names the\nmoment they arrive."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is two tiny words, one repha, and a ladder. Audio:\n🔊 `planned:assets/audio/volume-2/v2c03l03-drill.mp3` (drills 1–3),\n`planned:assets/audio/volume-2/v2c03l03-word-list.mp3` (three speeds + dictation track).\n\n**Drill 1 — component warm-up.** Components first, then the block, then the word: श् +\nव → श्वः; ह् + य → ह्यः; द् + य → अद्य. No vowel inside any join — if you hear \"shavaḥ\"\nor \"hayaḥ\", a vowel leaked (§12). Then the repha word, built the धर्म way: वर् first,\nthe र sounding *before* the ष it sits above — वर्षम्. Finish with सप्ताहः in slow\nmotion: the प्त weld, then the long आ, then *both* h-sounds — medial ह voiced, final ः\na voiceless breath.\n\n**Drill 2 — the span ladder.** With the audio, smallest to largest, three passes (slow ·\nnatural · timed): होरा — दिनम् — सप्ताहः — मासः — वर्षम्. The order is the memory\npalace; your mouth learns the ladder so §18's exercises come out unprompted.\n\n**Drill 3 — the trio, both directions.** Lay out the three-slot strip (ह्यः · अद्य ·\nश्वः). Round one: the audio names a slot position; touch it and say the word before the\nbeat runs out. Round two: the audio calls a word; your finger finds the slot in silence,\nthen you confirm aloud. Swap rounds until neither direction hesitates — timed retrieval\nof deictics in their frames [REF:nation2013].\n\n**Drill 4 — three speeds.** The §14 list, block by block, natural, target pace; log the\nthird time (§18 exercise 4). The standing law at every speed: the visarga breathed on\nthe *smallest* words too — śvaḥ and hyaḥ end in a real breath, and होरा keeps its ओ a\npure long vowel from first pass to fastest."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new values — every symbol has been on your chart since Volume 1.\n\n**Word transcriptions:** कालः /kɑːlɐh/ · अद्य /ɐd̪jɐ/ · श्वः /ɕʋɐh/ · ह्यः /ɦjɐh/ ·\nवर्षम् /ʋɐɾʂɐm/ · सप्ताहः /sɐpt̪ɑːɦɐh/ · होरा /ɦoːɾɑː/ · मासः /mɑːsɐh/.\n\n**Narrow note — the tiny-word onsets:** श्वः opens on /ɕʋ/ as one gesture — palatal\nhiss flowing into the labiodental glide, no vowel between; ह्यः opens on /ɦj/ — voiced\nbreath straight into the palatal glide. A seam vowel (\"śa-vaḥ\", \"ha-yaḥ\") is the flagged\nerror of §12.\n\n**Narrow note — सप्ताहः:** one word holding both h-sounds of Sanskrit — the medial ह is\nvoiced /ɦ/, the final visarga is voiceless /h/ riding an echo of the vowel before it.\nKeep them distinct at speed.\n\n**Narrow note — होरा:** the ओ is /oː/ — long, pure, steady — never the English \"go\"\ndiphthong [oʊ]. The onset ह is voiced breathy /ɦ/, and the final आ holds two full beats.\n\n**Narrow note — वर्षम्:** the repha is the tap /ɾ/ sounding *before* the retroflex /ʂ/\nit is written above — /ʋɐɾʂɐm/, tongue curling back right after the tap, then the lips\nclosing on a full final /ɐm/."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थितिः — four checks; the articulators know all of this already. The word-anatomy\nstrip on the time-ladder card (`planned:assets/images/volume-2/v2c03l03-time-ladder.svg`)\nmarks the श्व, ह्य and र्ष joins.\n\n1. **The one-gesture check.** Say श्वः in slow motion and freeze after श्: the tongue\n   blade is still high when the lower lip rises to the teeth for व — one continuous\n   gesture, no vowel between. Same test on ह्यः: the breath of ह is still flowing when\n   the tongue arches for य.\n2. **The breath check.** Palm before your mouth for श्वः and ह्यः: after the vowel, a\n   light puff — the visarga — must touch your palm. These are the smallest words you\n   own; they still earn the full exam discipline of v2.c01.l05.\n3. **The curl check.** वर्षम् in slow motion: tongue tip taps for र, then curls back\n   for ष — two positions, in that order, though the र is written above. Then lips\n   visibly together on the final म् — the सायम् mirror test (v2.c01.l03).\n4. **The rounding check.** Mirror on होरा: lips round for ओ and *hold* — no drift\n   toward a \"go\"-style glide — then open wide for the long final आ, two full beats."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.\n\n1. **The visarga vanishes on the tiny words** — श्वः clipped to \"śva\", ह्यः to \"hya\".\n   Two letters do not buy an exemption: the final breath is there. *Fix:* the §11 palm\n   check; drill 1 slowly, then at speed.\n2. **A vowel leaks into the joins** — ह्यः read \"hayaḥ\", श्वः read \"śavaḥ\". *Fix:* a\n   conjunct has no vowel inside — ह्य is the v1.c05.l03 recognition family at work;\n   build from components, ह् + य, one block.\n3. **श्वः and ह्यः swapped** — tomorrow for yesterday. *Fix:* pair each with a gesture\n   and keep it for life: श्वः points forward, ह्यः points back over the shoulder; then\n   run §9 drill 3 in both directions until the hands stop thinking.\n4. **Hindi कल imported** — one word used for both days, with context left to sort it\n   out. Sanskrit assigns one word per direction. *Fix:* never translate bare \"कल\";\n   decide the direction first, then pick श्वः or ह्यः.\n5. **The direction flip on होरा** — \"Greek took *hṓra* from Sanskrit\", or \"English\n   *hour* comes from Sanskrit होरा\". *Fix:* §13 — the loan ran INTO Sanskrit, and\n   *hour* took its own road from the same Greek source; neither claim survives with\n   the arrows drawn.\n6. **होरा sung like English \"o\"** — the ओ diphthongized to [oʊ] — and **वर्षम्\n   flattened** — the ष read as dental स. *Fix:* pure steady /oː/ (§10, §11); tap then\n   curl for र्ष, the धर्म rule of v1.c05.l04."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three stories inside today's list.\n\n### होरा — the hour that sailed east\n\n> **[FACT · तथ्यम्]** होरा \"hour\" is a genuine loanword INTO Sanskrit: it was borrowed\n> from Greek *hṓra*, arriving with Hellenistic astronomy and astrology, and it is\n> attested in the jyotiṣa literature. English *hour* goes back to the same Greek word\n> by a different road — Greek to Latin to French to English. So होरा and *hour* are\n> relatives by *borrowing* from one shared source — not, like माता and *mother*,\n> siblings by shared descent from a common ancestor. The relation is real in both\n> cases; the *kind* of relation is part of the fact.\n> [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]; [REF:oed s.v. hour]\n\nSay the difference plainly, because it is the whole skill: माता and *mother* were\n*inherited* — no arrow, nobody borrowed. Dharma and karma were *lent out* — arrow east.\nहोरा was *taken in* — arrow west, an arrow arriving FROM the west, just as dharma's\narrow arrives in English from the east: name the arrow by where it comes from. With\nthat third arrow the direction toolkit is complete: every direction demonstrated, and \"related\" has stopped being one claim and\nbecome three. The होरा story is a gift, not an embarrassment: living languages borrow in\nboth directions — Sanskrit lent the world dharma and took in an hour, both on the record.\n\n### सप्ताहः — arithmetic inside a word\n\nसप्ताहः = सप्त (sapta) + अह (aha) — seven + day: \"a seven-of-days\"\n[REF:apte1890 s.v. सप्ताह]. Lesson 2's numeral is not just *beside* this word on the\nledger; it is load-bearing *inside* it. The day-word अह is an old one — the same word\nwhose form hides at the end of मध्याह्नः \"mid-day\" (v2.c01.l03 §8) — so today's\ndissection is a reunion, not an introduction. अह itself stays a display component, off\nthe ledger; the working word is the whole सप्ताहः.\n\n### The trio — words that point\n\nअद्य, श्वः and ह्यः never change shape (§15) — what changes is the world around them.\nTonight, while you sleep, tomorrow's श्वः quietly becomes अद्य, and today's अद्य becomes\nह्यः; the words hold still and the days walk through them. That is why the §9 strip\ndrill points at *positions*, not dates: the trio is a moving window, and owning it means\ncomputing the answer fresh each day — अद्य किम्? has a different true answer every\nmorning, and that is the design, not a defect."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — eight rows: seven ledger-new headwords + one upgrade row that never\nincrements the ledger; **290 → 297** (counts reconciled at review, as always). Audio: 🔊\n`planned:assets/audio/volume-2/v2c03l03-word-list.mp3` (each word twice, three-speed\npasses, then the dictation track). Lists stay sentence-dressed as always: masculines in\nः, the neuter in म्, होरा in its own आ — and the trio in no dress at all (§15).\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| कालः | kālaḥ | /kɑːlɐh/ | time | समय, काल | the container word; the lesson's title; visarga breathed (§12) |\n| अद्य | adya | /ɐd̪jɐ/ | today | आज | indeclinable (§15); द्य welded — no seam vowel (§9) |\n| श्वः | śvaḥ | /ɕʋɐh/ | tomorrow | आने वाला कल | tiny word, full workout: श् + व one gesture, then the visarga breath (§11, §12); points forward (§12) |\n| ह्यः | hyaḥ | /ɦjɐh/ | yesterday | बीता हुआ कल | ह्य from the v1.c05.l03 recognition family; never \"hayaḥ\" (§12); points back (§12) |\n| वर्षम् | varṣam | /ʋɐɾʂɐm/ | year | वर्ष, साल | repha riding ष — the धर्म rule (v1.c05.l04); lips close on म् |\n| सप्ताहः | saptāhaḥ | /sɐpt̪ɑːɦɐh/ | week | सप्ताह, हफ़्ता | सप्त + अह \"a seven-of-days\" (§13); both h-sounds in one word (§10) |\n| होरा | horā | /ɦoːɾɑː/ | hour | घंटा, होरा | the Greek loan — §13's showcase; ओ pure /oː/ (§10); wears आ (§15) |\n| मासः | māsaḥ | /mɑːsɐh/ | month | महीना, मास | upgrade — मास readable since v1.c04.l02; the ः dress enters active use today; never increments the ledger (§15) |\n\nBack on duty from v2.c01.l03, review rows only — no re-entry to the ledger:\n**प्रभातम्** (prabhātam) \"dawn, morning\", **दिनम्** (dinam) \"day\", **सायम्** (sāyam)\n\"evening\", **रात्रिः** (rātriḥ) \"night\" — the clock circle carries today's frames, and\nदिनम् takes its rung on the span ladder.\n\nDisplay-only, excluded from all counts and decks: the old day-word component **अह**\n(aha) and its stem अहन् (§13), the Greek source word *hṓra* — a foreign word on a\nchart, not a Sanskrit headword — and the chapter title's seam form **कालश्च**\n(kālaś ca), read-only (§15).\n\nReading protocol unchanged: count the blocks, read the blocks, read the word — श्वः,\nह्यः, स-प्ता-हः, व-र्षम्, हो-रा — then the span ladder (§9 drill 2), and no visarga\ndropped at any speed."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — three pointing words that never change, the frames that carry them, and a\nparade with a brand-new rail.\n\n> **[FACT · तथ्यम्]** (1) अद्य (adya), श्वः (śvaḥ) and ह्यः (hyaḥ) are indeclinables —\n> अव्यय (avyaya), the v2.c02.l04 label: one fixed shape in every sentence, joining च,\n> अपि, अत्र, तत्र and कुत्र on that shelf. (2) A fronted time word plus the standing\n> frames does all of today's work: verbless naming (अद्य प्रभातम्।) and the अस्ति line\n> (अद्य विद्यालयः अस्ति।). (3) No locatives and no plurals: \"in a week\" and \"how many\n> hours\" need machinery this course has honestly not delivered — bare कति? with a\n> pointed finger remains the taught counting form (v2.c03.l02). [REF:whitney1889]\n\n### The dress parade — a new rail appears\n\n| Dress | Today's wearers | Observation |\n|---|---|---|\n| ः | कालः · सप्ताहः · मासः | the familiar crew — answers to कः since v1.c06.l02, rule-of-thumb duly bent before |\n| म् | वर्षम् | the neuter dress since जलम् |\n| आ | होरा | a feminine on the आ rail — beside माता and company from the family parade (v2.c02.l01) |\n| *(none)* | अद्य · श्वः · ह्यः | the new rail: no dress at all — अव्यय words never change, so they never dress |\n\nThe no-dress rail is the honest news: some words stand outside the dress system\nentirely, and the trio lives there. Observed, as always — the system that explains the\ndressed rails is later Volume 2 business, and nothing on this table will need\ncorrecting when it arrives.\n\n### The upgrade, formally\n\nमास entered the ledger in v1.c04.l02 and has been readable ever since; मासः is the same\nword in sentence dress, promoted to active duty. The ledger therefore counts today's\nlist as seven new + one upgrade (§14) — an upgrade row never increments the ledger,\nexactly as गृहम् did not in v2.c02.l01 and तव did not in v1.c06.l02.\n\n### The title seam — a preview, read-only\n\nThe chapter door reads **संख्याः कालश्च** (saṃkhyāḥ kālaś ca) — and that is today's\nकालः + च worn together: the visarga leaning into the following च as श् — kālaḥ + ca →\nkālaś ca. Pause form कालः च (kālaḥ ca) is today's reading; joining rules are Volume 3's\nbusiness — read it, build nothing. Shelve it beside नास्ति (nāsti), पुनर्मिलामः\n(punarmilāmaḥ), जगच्च (jagac ca) and षड् (ṣaḍ) on the read-only seam shelf."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — two scenes of one day: the school path at morning, the wall strip at night.\nAudio records into the Chapter 3 drill pack (§27). Every word is self-read.\n\n### Scene 1 — morning\n\n— सुप्रभातम्, माया!\n(suprabhātam, māyā!) \"Good morning, Māyā!\" — सुप्रभात, माया!\n\n— सुप्रभातम्, अर्जुन! अद्य किम्?\n(suprabhātam, arjuna! adya kim?) \"Good morning, Arjuna! What is it today?\" — सुप्रभात,\nअर्जुन! आज क्या है?\n\n— अद्य प्रभातम् — अद्य विद्यालयः अस्ति!\n(adya prabhātam — adya vidyālayaḥ asti!) \"It is morning — there is school today!\" —\nआज सुबह है — आज विद्यालय है!\n\n— श्वः अपि विद्यालयः अस्ति?\n(śvaḥ api vidyālayaḥ asti?) \"Is there school tomorrow too?\" — कल भी विद्यालय है?\n\n— आम्! श्वः अपि अस्ति।\n(ām! śvaḥ api asti.) \"Yes — tomorrow too.\" — हाँ! कल भी है।\n\n### Scene 2 — night, at the wall strip\n\n— एतत् किम्?\n(etat kim?) \"What is this?\" — यह क्या है?\n\n— सप्ताहः! कति? — सप्त!\n(saptāhaḥ! kati? — sapta!) \"A week! How many? — Seven!\" — सप्ताह! कितने? — सात!\n\n— अद्य अत्र। श्वः तत्र। ह्यः तत्र।\n(adya atra. śvaḥ tatra. hyaḥ tatra.) \"Today is here. Tomorrow is there. Yesterday is\nthere.\" — आज यहाँ। आने वाला कल वहाँ। बीता कल वहाँ।\n\n— रात्रिः अस्ति। शुभरात्रिः!\n(rātriḥ asti. śubharātriḥ!) \"It is night. Good night!\" — रात है। शुभ रात्रि!\n\n— शुभरात्रिः! श्वः पुनः!\n(śubharātriḥ! śvaḥ punaḥ!) \"Good night — see you tomorrow!\" — शुभ रात्रि! कल फिर!\n\nHousekeeping: अद्य किम्? rides the एतत् किम्? pattern of v1.c06.l02; अपि and the\ngreetings are Chapter 1's kit on its shift; scene 2's pointing lines are verbless by\ndesign, with अत्र/तत्र doing the strip work. The closing श्वः पुनः! is पुनः मिलामः\ncompressed to its time word — and by the time it is kept, that श्वः will be अद्य (§13).\nPause form between turns, one full beat, as always."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — अद्य, श्वः, ह्यः · Today, Tomorrow, Yesterday. Eight lines; each line:\nDevanagari, IAST, English, Hindi. Watch the trio hold still while the day moves.\n\n1. अद्य प्रभातम् अस्ति। सूर्यः तत्र अस्ति।\n   (adya prabhātam asti. sūryaḥ tatra asti.) \"It is morning today. The sun is there.\" —\n   आज सुबह है। सूर्य वहाँ है।\n2. माया वदति — अद्य विद्यालयः अस्ति!\n   (māyā vadati — adya vidyālayaḥ asti!) \"Māyā says: there is school today!\" — माया\n   कहती है — आज विद्यालय है!\n3. अर्जुनः वदति — ह्यः अपि विद्यालयः। श्वः अपि विद्यालयः!\n   (arjunaḥ vadati — hyaḥ api vidyālayaḥ. śvaḥ api vidyālayaḥ!) \"Arjuna says: yesterday\n   school too — tomorrow school too!\" — अर्जुन कहता है — बीते कल भी विद्यालय, आने वाले\n   कल भी विद्यालय!\n4. कमला हसति — सप्ताहः!\n   (kamalā hasati — saptāhaḥ!) \"Kamalā laughs: a whole week of it!\" — कमला हँसती है —\n   पूरा सप्ताह!\n5. सायम् अस्ति। चन्द्रः अत्र अस्ति।\n   (sāyam asti. candraḥ atra asti.) \"It is evening. The moon is here.\" — शाम है। चाँद\n   यहाँ है।\n6. पिता वदति — एतत् किम्? माया वदति — होरा!\n   (pitā vadati — etat kim? māyā vadati — horā!) \"Father says: what is this? Māyā says:\n   an hour!\" — पिता कहते हैं — यह क्या है? माया कहती है — होरा!\n7. रात्रिः अस्ति। माता वदति — शुभरात्रिः!\n   (rātriḥ asti. mātā vadati — śubharātriḥ!) \"It is night. Mother says: good night!\" —\n   रात है। माता कहती हैं — शुभ रात्रि!\n8. माया वदति — श्वः पुनः प्रभातम्। सर्वम् शुभम्।\n   (māyā vadati — śvaḥ punaḥ prabhātam. sarvam śubham.) \"Māyā says: tomorrow, morning\n   again. All is well.\" — माया कहती है — कल फिर सुबह। सब शुभ है।\n\nThe quiet craft notes: line 6 points at the clock on the wall — the Greek guest at home\nin a Sanskrit sentence, named and welcome. And line 8's last time word is a deictic\ncaught in the act: by sunrise, that श्वः will have become अद्य, and the story's promise\nwill simply be true."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 2, 4, 5 and 6 are production tasks. Do them in order.\n\n**अभ्यासः 1 · अन्वेषणम् (the join hunt — timed).** Sixty seconds: scan the §14 list and\nmark every conjunct and every repha at work. Ten-second follow-up: which join points\nback over your shoulder, and what are its components?\n\n**अभ्यासः 2 · त्रिदिनपट्टिका (the three-day strip — production, spoken).** Draw a\nthree-slot strip, mark the middle slot अद्य, and run both directions against the audio\n(or a partner): hear a word → touch the slot; see a touch → say the word, within a beat.\nThree rounds each way, then shuffle: the caller points at *tomorrow* and asks अद्य? —\nyour honest answer is a head-shake and the right word: श्वः! Log hesitations; the drill\nis done when both directions run clean.\n\n**अभ्यासः 3 · दिग्विभागः (the direction sort).** Keep or reject, one reasoning line\neach: (a) \"होरा was borrowed into Sanskrit from Greek.\" (b) \"Greek took *hṓra* from\nSanskrit होरा.\" (c) \"English *hour* descends from Sanskrit होरा.\" (d) \"होरा and *hour*\nboth go back to one Greek word — relatives by borrowing.\" (e) \"माता and *mother* are\nrelatives the same way होरा and *hour* are.\" (f) \"सप्ताहः carries सप्त inside it — a\nseven-of-days.\" Check the pair (d)/(e) before looking anything up: both claim\n\"relatives\" — why is one kept and one rejected?\n\n**अभ्यासः 4 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track\n🔊: the seven headwords plus मासः in random order, each read twice with a writing pause.\nWrite them in Devanagari. Self-check against §14: every visarga written — the tiny words\ntoo — the श्व, ह्य, द्य and प्त joins welded, the repha hooked above ष in वर्षम्. 7/8 is\na pass; re-take tomorrow (§20).\n\n**अभ्यासः 5 · अनुवादः (translate the day — production, written).** Write the Sanskrit,\npause form: (a) \"It is morning today.\" (b) \"Is there school tomorrow? — Yes, tomorrow\ntoo.\" (c) \"What is this? — A week! How many? — Seven!\" (d) \"It is night. Tomorrow,\nmorning again.\" Read your answers aloud as one tiny day. Self-check: every sentence is a\n§6/§16 line or one word-swap away from one — and nothing wears a locative.\n\n**अभ्यासः 6 · कालसोपानम् (the span ladder — production, spoken).** Recite the ladder\nfrom memory, smallest to largest, three turns timed: होरा — दिनम् — सप्ताहः — मासः —\nवर्षम्. Then stand at the week strip and close the loop aloud: कति? — सप्त! सप्ताहः!\nLog the third ladder time; the drop over the week is the fluency."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The everyday trio, glossed honestly: (a) अद्य \"today\", श्वः \"tomorrow\", ह्यः\n   \"yesterday\" (b) अद्य \"today\", श्वः \"yesterday\", ह्यः \"tomorrow\" (c) अद्य \"now\", श्वः\n   \"today\", ह्यः \"tonight\" (d) all three mean \"day\"\n2. The honest arrow for होरा: (a) Greek borrowed *hṓra* from Sanskrit (b) होरा was\n   borrowed INTO Sanskrit from Greek, arriving with Hellenistic astronomy (c) होरा is\n   native Sanskrit and the match with Greek is coincidence (d) होरा descends from Hindi\n   घंटा\n3. होरा and English *hour* are: (a) siblings by shared descent, like माता and *mother*\n   (b) relatives by borrowing — two languages each borrowed from one Greek source\n   (c) unrelated look-alikes (d) proof that *hour* comes from Sanskrit\n4. सप्ताहः is built from: (a) सप्त \"seven\" + अह \"day\" — a seven-of-days (b) a single\n   unanalyzable root (c) a borrowing from Greek, like होरा (d) सप्ताहः + कालः\n5. मासः on today's list is: (a) a brand-new word (b) मास — readable since v1.c04.l02 —\n   wearing its sentence dress ः: an upgrade that does not increment the ledger (c) a\n   different word from मास (d) a loanword from Hindi महीना\n6. The trio's grammar: (a) they decline like nouns and will need case endings (b) they\n   are अव्यय — indeclinables with one fixed shape, carried by verbless frames and\n   अस्ति lines (c) they are verbs (d) they may only be used with weekday names\n7. Hindi कल beside the Sanskrit trio: (a) Sanskrit also uses one word for both\n   neighboring days (b) Hindi कल covers both directions and context decides; Sanskrit\n   assigns श्वः forward and ह्यः back (c) कल and श्वः are the same word (d) Sanskrit\n   has no word for yesterday\n8. Reading ह्यः as \"hayaḥ\" means: (a) nothing — both are fine (b) a vowel leaked into\n   the conjunct — ह्य is one block with no vowel inside (c) the visarga was dropped\n   (d) the word became plural\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (a) — the deictic trio (§8, §14). ((b) is §12's mistake 3 in print.)\n2. (b) — the reversed arrow, dated no finer than \"with Hellenistic astronomy\" (§4, §13).\n3. (b) — one source, two borrowings: cousins by borrowing, not shared descent (§13) —\n   the chapter exam's subtlest card is built from this line.\n4. (a) — the l02 numeral at work inside a word (§8, §13).\n5. (b) — the गृहम्/तव precedent (§15); seven new + one upgrade, 290 → 297 (§14).\n6. (b) — the अव्यय shelf of v2.c02.l04, now holding time words (§15).\n7. (b) — the repair kit for Hindi speakers (§7, §8, §12).\n8. (b) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —\n   know both.)\n\n**Exercise keys.**\n\n- **Exercise 1 (the join hunt):** श्व in श्वः; ह्य in ह्यः; द्य in अद्य; प्त in\n  सप्ताहः; and the repha join र्ष in वर्षम्. Follow-up: ह्यः — ह् + य, then the\n  visarga.\n- **Exercise 3 (the direction sort):** (a) keep — FACT, the honest arrow (§13). (b)\n  reject — the reversed arrow, §12 mistake 5. (c) reject — *hour* took its own Greek →\n  Latin → French road, not Sanskrit (§13, §12 mistake 5). (d) keep — one Greek source,\n  two borrowings. (e) reject — confuses shared-source borrowing with shared descent,\n  the माता/*mother* relation (§13). (f) keep — FACT: सप्त + अह, a seven-of-days (§8,\n  §13). The (d)/(e) pair: (d) names a shared *source* reached by two borrowings; (e)\n  confuses that with shared *descent*, where nobody borrowed.\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The container:** कालः. **The trio:** अद्य · श्वः · ह्यः — pointing words, one fixed\n> shape, श्वः forward and ह्यः back. **The ladder:** होरा — दिनम् — सप्ताहः — मासः —\n> वर्षम्. **The dissection:** सप्ताहः = सप्त + अह, a seven-of-days. **The arrow:** Greek\n> *hṓra* → होरा, in with Hellenistic astronomy; English *hour* took its own road from\n> the same source — relatives by borrowing, and the toolkit now owns all directions.\n> **The frames:** अद्य किम्? — अद्य प्रभातम्। — श्वः अपि अस्ति। **The upgrade:** मास →\n> मासः, ledger untouched. **The ledger:** seven new + one upgrade — 297.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-take the dictation (exercise 4) cold; run the strip drill (exercise\n  2) once, both directions, timed; log both beside today's scores — and retell the होरा\n  line once, arrow drawn: next lesson's Station 0 runs the strip compressed and asks\n  for that line cold (the dictation re-take and its log ride in that lesson's\n  homework).\n- **This week:** every morning, one honest exchange at a real calendar — अद्य किम्? plus\n  the trio pointed at real days; keep the Station 0 chant habit warm.\n- **In 1 week:** the trio snaps onto the seven weekday names (v2.c03.l04) and the\n  chapter exam's calendar task asks it off a real grid (v2.c03.l05, task E); the\n  direction cards there include होरा's — card and arrow both built in this lesson."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 4 and 5 if not completed in class: the dictation pass\n   and the translated day, read aloud.\n2. **(10 min, real world)** Find a real calendar at home — wall, phone, newspaper. Mark\n   today, then run the trio aloud, pointing: अद्य अत्र। श्वः तत्र। ह्यः तत्र। Then read\n   tomorrow's date digits in Devanagari if your calendar carries them — or write this\n   week's dates yourself in ०–९ (v1.c05.l05) and point at those.\n3. **(5 min)** The span ladder (exercise 6), three turns, timed and logged.\n4. **(5 min, teach-back)** Tell someone the hour story with the arrows honest: Greek\n   *hṓra* went two ways — west through Latin and French to English *hour*, east with\n   astronomy into Sanskrit होरा. If they ask \"so Sanskrit borrowed words?\", you own the\n   answer: yes — living languages borrow in both directions, and Sanskrit lent dharma\n   out the same door होरा came in.\n\nTomorrow, before anything else: the strip compressed and the होरा line cold (§20); the\nre-dictation rides tomorrow's homework. The gap is the method."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "अध्यापकटिप्पणी\n\n**Open with the clock, not the list.** Draw a clock on the board, write *hour* beneath\nit, and ask where the word is from. Collect votes — someone will say Latin, someone\nEnglish. Then draw the two arrows out of Greek *hṓra*: west to *hour*, east to होरा (on\nthe cards this is the arrow from the west — name the arrow by where it comes from) —\nand let the room feel the reversal: Sanskrit *received* this one. The lesson's honesty\naxis lands better as a map revealed than as a disclaimer read out.\n\n**Timing plan (45 min):** Station 0 + prompts, scores logged (7) → the hour riddle on\nthe board, two arrows drawn (5) → set walk-through on the time-ladder card; सप्ताहः\ndissected live, सप्त + अह on the board (8) → trio strip drill in pairs, both\ndirections, gestures fixed — श्वः forward, ह्यः back (8) → the direction chart: three\nrelations walked, the (d)/(e) card pair argued (6) → word list at three speeds;\ndictation launch (5) → the no-dress rail on the parade table; मासः upgrade in one line\n(3) → exercises, homework, the calendar task (3).\n\n**Board work:** a three-slot strip center-stage (ह्यः · अद्य · श्वः) with arrows, the\nspan ladder climbing beside it (होरा → वर्षम्), and a two-column loan ledger in the\ncorner: \"lent out: dharma, karma →\" / \"taken in: ← होरा\". Keep the chalk arrows honest —\nevery claim in this lesson is an arrow or the absence of one.\n\n**Run the direction talk carefully.** Someone will ask \"so *hour* and होरा are cognates\nlike माता and *mother*?\" That is the teachable moment: both pairs are related, but the\n*kind* differs — shared descent there (no arrows), shared source here (two borrowing\narrows out of Greek). Exercise 3's card pair (d)/(e) forces exactly this conversation —\nlet the room argue it before you land it; the chapter exam names the relation outright.\n\n**Differentiation:** Hindi speakers own half the list — their work is the finals (the\nvisarga on tiny words, म् closed on वर्षम्) and the कल split, where instinct actively\nmisleads: drill श्वः/ह्यः with gestures until the direction is physical. Script-side\nlearners build श्वः and ह्यः from components before speed work, and should say वर्षम्\nslowly against the धर्म precedent before reading it fast.\n\n**What students find hard:** believing that two-letter words deserve full discipline\n(the palm check convinces faster than argument); the deictic shift — \"but yesterday you\nsaid श्वः was *Tuesday*!\" — which is the point: run the strip on consecutive days and\nlet the words move; the होरा arrow, which pride sometimes wants reversed — the standing\nanswer is that lending dharma and borrowing होरा are the same kind of fact, and both are\nreceipts; and keeping weekday names out of the drills — promise them tomorrow."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-2/v2c03l03-loan-direction-chart.svg` (the\ndirection toolkit, complete)**\n\n> Clean educational wall chart, warm off-white background, Noto Serif Devanagari + clean\n> Latin serif, two colors, monochrome-safe. Title band: \"three relations, three arrows\";\n> caption beneath the band: \"name the arrow by its origin — arrow east arrives from the\n> east, arrow west from the west\".\n> Row 1 — NO arrow: माता, *māter* and *mother* beneath one plain node labeled \"one\n> ancestor (reconstructed)\"; caption \"siblings — nobody borrowed\". Row 2 — arrow east:\n> dharma → English, caption \"lent out\". Row 3 — arrow west: Greek *hṓra* → होरा,\n> caption \"taken in — with Hellenistic astronomy\". Side panel: *hṓra*'s second road,\n> Greek → Latin → French → *hour*, with होरा beside it and the caption \"होरा and hour:\n> one source, two borrowings — relatives by borrowing, not shared descent\". Footer\n> chip: \"the fourth row gets its name at the chapter exam\". This chart must agree with\n> §13 exactly.\n\n**Asset 2 — `planned:assets/images/volume-2/v2c03l03-time-ladder.svg`**\n\n> Clean educational card, warm off-white, Noto Serif Devanagari, two colors,\n> monochrome-safe. Left: the span ladder climbing small to large — होरा, दिनम्,\n> सप्ताहः, मासः, वर्षम् — each rung with its gloss; सप्ताहः's rung splits into सप्त +\n> अह with the caption \"a seven-of-days\". Right: a three-slot day strip — ह्यः · अद्य ·\n> श्वः — with a back-pointing hand over ह्यः and a forward-pointing hand over श्वः; a\n> small day-cycle cameo (प्रभातम् → रात्रिः, from v2c01l03) orbits the अद्य slot. Footer\n> word-anatomy strip: श्वः with श्व circled (\"श् + व — one gesture\"), ह्यः with ह्य\n> circled (\"ह् + य — the v1.c05.l03 family\"), वर्षम् with र्ष circled (\"repha — written\n> above, read first\"). Corner note: \"weekday names — next lesson\".\n\n**Asset 3 — `planned:assets/worksheets/volume-2/v2c03l03-trio-strip.pdf` (layout spec)**\n\n> A4 worksheet, portrait. Top third: a large three-slot strip with a movable अद्य\n> marker, a digit row beneath (५ · ६ · ७ in Devanagari digits) for date-pointing, and\n> both-direction drill boxes (hear→touch, touch→say) with beat-count lines. Middle\n> third: the six direction cards from §18 exercise 3 with keep/reject boxes and one\n> reasoning line each, the (d)/(e) pair bracketed together. Bottom third: dictation\n> rows with visarga and join tick-boxes (श्व, ह्य, द्य, प्त, र्ष), plus the score log —\n> Station 0 (/3), strip drill times both directions, ladder time, dictation /8. Footer\n> chants: \"the smallest words still breathe\" · \"श्वः points forward\" · \"one source, two\n> borrowings\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:45):** a ticking clock fills the screen; the word *hour* peels off\n   its face and splits in two — one copy rides west over a map through Latin and French\n   into English, the other sails east with star charts into Sanskrit as होरा — on the\n   direction cards, the arrow from the west, named by where it comes from. Title\n   card: कालः — Time Words.\n2. **The ladder (0:45–1:50):** rungs assemble small to large — होरा, दिनम्, सप्ताहः,\n   मासः, वर्षम् — each stamping its gloss; सप्ताहः pauses and splits into सप्त + अह\n   while last lesson's chant plays under it.\n3. **The trio (1:50–3:00):** a three-slot strip; a hand points back (ह्यः), down\n   (अद्य), forward (श्वः). The sun sets and rises in fast-forward: the labels hold\n   still while the dates slide one slot left — tomorrow's श्वः becomes अद्य on screen.\n4. **The tiny-word gym (3:00–4:00):** श् + व press into one block, ह् + य likewise,\n   each exhaling a visible breath for the visarga; a leaked vowel (\"ha-yaḥ\") buzzes red\n   and re-welds.\n5. **The arrows (4:00–5:10):** the direction chart builds row by row — no arrow for\n   माता/*mother*, east for dharma, west for होरा, each arrow named by its origin — then\n   the side panel draws *hour*'s road and the caption lands: \"relatives by borrowing,\n   not shared descent.\"\n6. **Recap + CTA (5:10–6:00):** the strip, the ladder and the chart assemble into one\n   card; the ledger ticks to 297. End card: \"Next: वासराः — the week gets its seven\n   names.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24); Sanskrit terms carry IPA cues in [brackets] — the\nnarrator reads the cue, not the English spelling.\n\n- **00:00** Every hour you have ever kept is Greek. English took the word through Latin\n  and French. Sanskrit took it straight from the astronomers: horā [ɦoːɾɑː]. Today,\n  time itself — kālaḥ [kɑːlɐh] — and the words that run your calendar.\n- **00:45** The ladder, small to large: horā [ɦoːɾɑː] — the hour. dinam [d̪in̪ɐm] — the\n  day, yours since Chapter 1 of this volume. saptāhaḥ [sɐpt̪ɑːɦɐh] — the week: sapta\n  [sɐpt̪ɐ] plus aha [ɐɦɐ], a seven-of-days, last lesson's number working inside a word.\n  māsaḥ [mɑːsɐh] — the month, an old friend in new dress. varṣam [ʋɐɾʂɐm] — the year.\n- **01:50** Three pointing words: adya [ɐd̪jɐ] — today. śvaḥ [ɕʋɐh] — tomorrow, pointing\n  forward. hyaḥ [ɦjɐh] — yesterday, pointing back. The words never change; the days\n  walk through them. Tonight, śvaḥ quietly becomes adya — that is the design.\n- **03:00** The smallest words earn the fullest discipline. śvaḥ [ɕʋɐh]: hiss into\n  glide, one gesture, then a real breath. hyaḥ [ɦjɐh]: voiced breath into glide, no\n  vowel inside — \"hayaḥ\" means a vowel leaked. Two letters, full price.\n- **04:00** Now the arrows. mātā [mɑːt̪ɑː] and mother — no arrow: one ancestor, nobody\n  borrowed. dharma — arrow east, lent out. horā [ɦoːɾɑː] — arrow west, taken in with\n  Greek astronomy. Name the arrow by where it comes from: dharma's arrives from the\n  east, this one from the west. And English hour? Same Greek source, different road.\n  Relatives by borrowing — not by descent. Say the difference plainly and you own the\n  toolkit.\n- **05:10** Two hundred ninety-seven words — and a calendar that answers you honestly.\n  Tomorrow — śvaḥ [ɕʋɐh] — the week gets its seven names. punaḥ milāmaḥ\n  [pun̪ɐh milɑːmɐh]!"
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** extreme close-up of a wall clock. \"Your 'hour' is Greek. And so\n  is Sanskrit's.\"\n- **Demo (0:07–0:30):** the word *hṓra* splits and travels both ways on a map — west\n  through Latin and French to *hour*, east with star charts to होरा [ɦoːɾɑː]. Quick\n  cuts: the trio strip with pointing hands — hyaḥ [ɦjɐh] back, adya [ɐd̪jɐ] down, śvaḥ\n  [ɕʋɐh] forward; सप्ताहः splitting into सप्त + अह — \"the week literally says\n  seven-of-days.\"\n- **Payoff (0:30–0:43):** \"Learners of this course can now run a calendar in Sanskrit —\n  and they know होरा sailed INTO Sanskrit from Greek while dharma sailed out. Loans go\n  both ways. That's the honest toolkit.\"\n- **CTA (0:43–0:50):** \"Next: वासराः — the week gets its seven names, with the history\n  told right. Follow for Chapter 3.\" (End card: कालः — time words.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-2/v2c03l03-loan-direction-chart.svg` — §13 toolkit, §18\n    exercise 3, §22 board model, §23 prompt 1; must agree with §13 and feed the l05\n    keystone chart (which adds the fourth, named row)\n  - `assets/images/volume-2/v2c03l03-time-ladder.svg` — §8 set walk, §9 drills 2–3,\n    §11 anatomy strip, §23 prompt 2\n  - `assets/audio/volume-2/v2c03l03-drill.mp3` — §9 drills 1–3 model readings and call\n    tracks (strip-drill calls both directions)\n  - `assets/audio/volume-2/v2c03l03-word-list.mp3` — §14 model reading, three-speed\n    passes, randomized 8-word dictation track with transcript (§18 exercise 4)\n  - `assets/worksheets/volume-2/v2c03l03-trio-strip.pdf` — §18 exercises 2, 3, 4 +\n    Station 0 score log\n  - §16/§17 audio is NOT in this manifest — record into the Chapter 3 drill pack\n    (chapter.md manifest) and back-link here when it exists.\n- **Sibling availability at drafting:** v2.c03.l01 and v2.c03.l02 landed on disk while\n  this lesson was drafted; the \"l02 §…\" pointers are verified against the real file\n  (§3 Station 0 collects the logs l02 §20 booked; the month-name fix sits at l02 §13;\n  bare-कति at l02 §15; ledger hand-off 285 → 290 confirmed at l02 §14). v2.c03.l04\n  verified on disk at review; forward mentions hold. v2.c03.l05 is on\n  disk and its Station 3 keys point back at this lesson's §8 and §13 as drafted.\n- **Related lessons:** reviews v2.c03.l02 (Station 0 — chant, कति drill, month-name\n  line; सप्त working inside सप्ताहः), v2.c01.l03 (day-cycle words carrying the frames;\n  the अह reunion via मध्याह्नः) and v1.c04.l02 (मास — upgraded here); builds on\n  v1.c05.l03 (the ह्य/ह्म recognition family), v1.c05.l04 (repha in वर्षम्; the\n  dharma/karma outbound-loan line), v1.c05.l05 (digits ०–९ for calendar pointing),\n  v1.c06.l02 (एतत् किम्? frames; अपि; the अत्र/तत्र deixis the trio parallels),\n  v2.c02.l01 (गृहम् upgrade precedent; the माता cognate line completed here),\n  v2.c02.l04 (अव्यय label reused for the trio), v2.c02.l05 (direction cards; the होरा\n  preview honored — \"flagged next chapter\" resolves today); feeds v2.c03.l04 (वासराः —\n  the week: अद्य कः वासरः? unlocks the moment the names land), v2.c03.l05 (exam task D\n  cards 3–4 and the task E calendar trio; Station 3 prompts), v2.c06 (cognates at\n  scale), Volume 3 (locatives — honestly deferred here), Volume 4 (numeral agreement).\n- **Glossary:** reuses अव्यय (v2.c02.l04), संयुक्ताक्षर, विसर्ग, रेफ, मात्रा per\n  GLOSSARY.md; no new glossary terms. Register work this lesson is loan-direction\n  honesty (§13), not classical/modern usage labels.\n- **Export notes:** ledger per the chapter plan: seven ledger-new headwords + the मासः\n  upgrade row; **290 → 297**. Front-matter `vocabulary_count: 7` records the ledger-new\n  rows only; मासः exports as `upgrade_of: मास` (v1.c04.l02), the गृहम्/तव precedent,\n  never as a new ledger row. The trio exports with `pos: avyaya`. होरा exports as a\n  `loan` row with `direction: greek-to-sanskrit`; the होरा/*hour* relation exports as\n  `shared-source-borrowing` — never as `cognate` and never as `descent`; the\n  माता/*mother* relation stays `cognate, direction: shared-descent` — the three types\n  must never be merged. Display-only, excluded from counts and decks: अह / अहन्\n  (component), Greek *hṓra* (source word), and the chapter-title seam form कालश्च\n  (`display`). Export \"śva\", \"hya\" (dropped visarga),\n  \"hayaḥ\", \"śavaḥ\" (leaked vowel) as `error_form`. Day-cycle review rows (प्रभातम्,\n  दिनम्, सायम्, रात्रिः) export flagged review-duplicate, not new. §19 key stays in\n  `<details>`.\n- **Verification flags for Pass C:** होरा loan claim (§4, §13) against\n  [REF:monierwilliams1899 s.v. होरा] and [REF:burrow2001] (Greek loans in astronomy) —\n  dating held to \"with Hellenistic astronomy\", no year, per notes §0.7 and the Pass C\n  checklist; सप्ताह = सप्त + अह (§8, §13) against [REF:apte1890 s.v. सप्ताह]; trio and\n  span glosses (§14) against [REF:apte1890] / [REF:monierwilliams1899] s.vv.; the\n  *hour* chain (Greek → Latin → French → English) against [REF:oed s.v. hour] — cited\n  at §13; l05 asserts the same chain: verify once, log in\n  ../../../research/verification-log.md; अव्यय status of the trio\n  (§15) against [REF:whitney1889] (indeclinables — cite bare pending section check);\n  the no-dress rail (§15) checked against the volume's gender-chapter plan. All\n  §10/§14 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); no weekday names,\n  no locatives, no plurals anywhere in the lesson (notes §3 constraint) — verified by\n  search before review.\n- **Register audit:** FACT ×4 (§5 frames + spacing ×2 · §13 होरा loan ×1 · §15 grammar\n  rule ×1) · HISTORY ×1 (§4 Hellenistic borrowing — hedged dating) · TRADITION ×0 ·\n  SYMBOL ×0. Quiz Q1–Q8 all FACT-register content."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "कालः",
+      "iast": "kālaḥ",
+      "ipa": "/kɑːlɐh/",
+      "en": "time",
+      "hi": "समय, काल",
+      "notes": "the container word; the lesson's title; visarga breathed (§12)"
+    },
+    {
+      "deva": "अद्य",
+      "iast": "adya",
+      "ipa": "/ɐd̪jɐ/",
+      "en": "today",
+      "hi": "आज",
+      "notes": "indeclinable (§15); द्य welded — no seam vowel (§9)"
+    },
+    {
+      "deva": "श्वः",
+      "iast": "śvaḥ",
+      "ipa": "/ɕʋɐh/",
+      "en": "tomorrow",
+      "hi": "आने वाला कल",
+      "notes": "tiny word, full workout: श् + व one gesture, then the visarga breath (§11, §12); points forward (§12)"
+    },
+    {
+      "deva": "ह्यः",
+      "iast": "hyaḥ",
+      "ipa": "/ɦjɐh/",
+      "en": "yesterday",
+      "hi": "बीता हुआ कल",
+      "notes": "ह्य from the v1.c05.l03 recognition family; never \"hayaḥ\" (§12); points back (§12)"
+    },
+    {
+      "deva": "वर्षम्",
+      "iast": "varṣam",
+      "ipa": "/ʋɐɾʂɐm/",
+      "en": "year",
+      "hi": "वर्ष, साल",
+      "notes": "repha riding ष — the धर्म rule (v1.c05.l04); lips close on म्"
+    },
+    {
+      "deva": "सप्ताहः",
+      "iast": "saptāhaḥ",
+      "ipa": "/sɐpt̪ɑːɦɐh/",
+      "en": "week",
+      "hi": "सप्ताह, हफ़्ता",
+      "notes": "सप्त + अह \"a seven-of-days\" (§13); both h-sounds in one word (§10)"
+    },
+    {
+      "deva": "होरा",
+      "iast": "horā",
+      "ipa": "/ɦoːɾɑː/",
+      "en": "hour",
+      "hi": "घंटा, होरा",
+      "notes": "the Greek loan — §13's showcase; ओ pure /oː/ (§10); wears आ (§15)"
+    },
+    {
+      "deva": "मासः",
+      "iast": "māsaḥ",
+      "ipa": "/mɑːsɐh/",
+      "en": "month",
+      "hi": "महीना, मास",
+      "notes": "upgrade — मास readable since v1.c04.l02; the ः dress enters active use today; never increments the ledger (§15)"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The everyday trio, glossed honestly: (a) अद्य \"today\", श्वः \"tomorrow\", ह्यः\n   \"yesterday\" (b) अद्य \"today\", श्वः \"yesterday\", ह्यः \"tomorrow\" (c) अद्य \"now\", श्वः\n   \"today\", ह्यः \"tonight\" (d) all three mean \"day\"\n2. The honest arrow for होरा: (a) Greek borrowed *hṓra* from Sanskrit (b) होरा was\n   borrowed INTO Sanskrit from Greek, arriving with Hellenistic astronomy (c) होरा is\n   native Sanskrit and the match with Greek is coincidence (d) होरा descends from Hindi\n   घंटा\n3. होरा and English *hour* are: (a) siblings by shared descent, like माता and *mother*\n   (b) relatives by borrowing — two languages each borrowed from one Greek source\n   (c) unrelated look-alikes (d) proof that *hour* comes from Sanskrit\n4. सप्ताहः is built from: (a) सप्त \"seven\" + अह \"day\" — a seven-of-days (b) a single\n   unanalyzable root (c) a borrowing from Greek, like होरा (d) सप्ताहः + कालः\n5. मासः on today's list is: (a) a brand-new word (b) मास — readable since v1.c04.l02 —\n   wearing its sentence dress ः: an upgrade that does not increment the ledger (c) a\n   different word from मास (d) a loanword from Hindi महीना\n6. The trio's grammar: (a) they decline like nouns and will need case endings (b) they\n   are अव्यय — indeclinables with one fixed shape, carried by verbless frames and\n   अस्ति lines (c) they are verbs (d) they may only be used with weekday names\n7. Hindi कल beside the Sanskrit trio: (a) Sanskrit also uses one word for both\n   neighboring days (b) Hindi कल covers both directions and context decides; Sanskrit\n   assigns श्वः forward and ह्यः back (c) कल and श्वः are the same word (d) Sanskrit\n   has no word for yesterday\n8. Reading ह्यः as \"hayaḥ\" means: (a) nothing — both are fine (b) a vowel leaked into\n   the conjunct — ह्य is one block with no vowel inside (c) the visarga was dropped\n   (d) the word became plural",
+    "answer_key_markdown": "1. (a) — the deictic trio (§8, §14). ((b) is §12's mistake 3 in print.)\n2. (b) — the reversed arrow, dated no finer than \"with Hellenistic astronomy\" (§4, §13).\n3. (b) — one source, two borrowings: cousins by borrowing, not shared descent (§13) —\n   the chapter exam's subtlest card is built from this line.\n4. (a) — the l02 numeral at work inside a word (§8, §13).\n5. (b) — the गृहम्/तव precedent (§15); seven new + one upgrade, 290 → 297 (§14).\n6. (b) — the अव्यय shelf of v2.c02.l04, now holding time words (§15).\n7. (b) — the repair kit for Hindi speakers (§7, §8, §12).\n8. (b) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —\n   know both.)\n\n**Exercise keys.**\n\n- **Exercise 1 (the join hunt):** श्व in श्वः; ह्य in ह्यः; द्य in अद्य; प्त in\n  सप्ताहः; and the repha join र्ष in वर्षम्. Follow-up: ह्यः — ह् + य, then the\n  visarga.\n- **Exercise 3 (the direction sort):** (a) keep — FACT, the honest arrow (§13). (b)\n  reject — the reversed arrow, §12 mistake 5. (c) reject — *hour* took its own Greek →\n  Latin → French road, not Sanskrit (§13, §12 mistake 5). (d) keep — one Greek source,\n  two borrowings. (e) reject — confuses shared-source borrowing with shared descent,\n  the माता/*mother* relation (§13). (f) keep — FACT: सप्त + अह, a seven-of-days (§8,\n  §13). The (d)/(e) pair: (d) names a shared *source* reached by two borrowings; (e)\n  confuses that with shared *descent*, where nobody borrowed."
+  },
+  "registers": [
+    {
+      "type": "HISTORY",
+      "section_index": 4,
+      "text": "Indian astronomy and astrology (jyotiṣa) absorbed a body of Hellenistic Greek material, and with it a handful of Greek technical words entered Sanskrit — होरा \"hour\", from Greek *hṓra*, among them, attested in jyotiṣa literature. The dating stays deliberately coarse: the word came \"with Hellenistic astronomy\" — this course claims no precise year. [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]",
+      "refs": [
+        "monierwilliams1899 s.v. होरा",
+        "burrow2001"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "New vocabulary sticks best when it arrives inside usable patterns and gets retrieved from them under light time pressure — the frame अद्य किम्? turns the trio into sentences you can say the hour you learn them, and the timed both-direction strip drill builds the retrieval speed a real exchange demands. [REF:nation2013]",
+      "refs": [
+        "nation2013"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Spaced retrieval beats massed re-study; today's Station 0 is v2.c03.l02's +1-day interval landing on schedule, and this lesson's own +1-day and +1-week re-runs are set before it ends (§20). [REF:cepeda2006] [REF:roediger2006]",
+      "refs": [
+        "cepeda2006",
+        "roediger2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "होरा \"hour\" is a genuine loanword INTO Sanskrit: it was borrowed from Greek *hṓra*, arriving with Hellenistic astronomy and astrology, and it is attested in the jyotiṣa literature. English *hour* goes back to the same Greek word by a different road — Greek to Latin to French to English. So होरा and *hour* are relatives by *borrowing* from one shared source — not, like माता and *mother*, siblings by shared descent from a common ancestor. The relation is real in both cases; the *kind* of relation is part of the fact. [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]; [REF:oed s.v. hour]",
+      "refs": [
+        "monierwilliams1899 s.v. होरा",
+        "burrow2001",
+        "oed s.v. hour"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "(1) अद्य (adya), श्वः (śvaḥ) and ह्यः (hyaḥ) are indeclinables — अव्यय (avyaya), the v2.c02.l04 label: one fixed shape in every sentence, joining च, अपि, अत्र, तत्र and कुत्र on that shelf. (2) A fronted time word plus the standing frames does all of today's work: verbless naming (अद्य प्रभातम्।) and the अस्ति line (अद्य विद्यालयः अस्ति।). (3) No locatives and no plurals: \"in a week\" and \"how many hours\" need machinery this course has honestly not delivered — bare कति? with a pointed finger remains the taught counting form (v2.c03.l02). [REF:whitney1889]",
+      "refs": [
+        "whitney1889"
+      ]
+    }
+  ]
+}

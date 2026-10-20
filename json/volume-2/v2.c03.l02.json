@@ -1,0 +1,361 @@
+{
+  "frontmatter": {
+    "id": "v2.c03.l02",
+    "schema_version": 1,
+    "title": {
+      "sa": "षडादिदशान्ताः",
+      "sa_iast": "ṣaḍādidaśāntāḥ",
+      "hi": "संख्याएँ — छह से दस तक",
+      "en": "Six to Ten"
+    },
+    "volume": 2,
+    "chapter": 3,
+    "lesson": 2,
+    "lesson_type": "vocabulary",
+    "cefr": "A2",
+    "duration_minutes": 45,
+    "self_study_minutes": 35,
+    "prerequisites": [
+      "v2.c03.l01"
+    ],
+    "review_of": [
+      "v2.c03.l01",
+      "v1.c04.l01"
+    ],
+    "objectives": [
+      {
+        "en": "Read and say the six-to-ten set — षट्, सप्त, अष्ट, नव, दश — with the retroflex pair षट्/अष्ट curled and the dentals of सप्त/दश on the teeth, and extend the counting chant to ten.",
+        "hi": "छह-से-दस वाला सेट — षट्, सप्त, अष्ट, नव, दश — पढ़ें-बोलें: षट्/अष्ट में जीभ मुड़ी हुई, सप्त/दश में दाँतों पर; और गिनती-घोष दस तक बढ़ाएँ।"
+      },
+      {
+        "en": "Ask कति? and answer it bare — कति? षट्! — and run the digit-name ladder १–१० at speed.",
+        "hi": "कति? पूछें और नंगा उत्तर दें — कति? षट्! — और अंक-नाम की सीढ़ी १–१० तेज़ गति से चलाएँ।"
+      },
+      {
+        "en": "Tell the month-name story right — October, November, December are Latin counting its own old calendar; अष्ट and octō are siblings from one ancestor — and state the नव split: nine and new are two words with two English cousins.",
+        "hi": "महीनों के नामों का क़िस्सा सही सुनाएँ — October, November, December लैटिन की अपनी गिनती हैं; अष्ट और octō एक ही पुरखे की सन्तानें — और नव का बँटवारा बताएँ: 'नौ' और 'नया' दो शब्द, दो अलग अंग्रेज़ी चचेरे भाई।"
+      },
+      {
+        "en": "Run Station 0 — lesson 1's +1-day chant re-run and digit cards १–५ at speed — and log the scores.",
+        "hi": "स्टेशन 0 चलाएँ — पाठ 1 की +1-दिन घोष-पुनरावृत्ति और अंक-कार्ड १–५ तेज़ गति से — और अंक दर्ज करें।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 5,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-2/v2c03l02-month-name-story.svg",
+        "planned:assets/images/volume-2/v2c03l02-cognate-shelf.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-2/v2c03l02-drill.mp3",
+        "planned:assets/audio/volume-2/v2c03l02-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-2/v2c03l02-counting-kati.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "vocabulary",
+      "numbers",
+      "counting",
+      "cognates",
+      "retroflex",
+      "direction-honesty",
+      "spaced-review"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-08-04"
+    ],
+    "created": "2026-08-03",
+    "updated": "2026-08-04"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Your calendar has been doing arithmetic behind your back. December carries a *ten*,\nNovember a *nine*, October an *eight* — and the 1.x edition of this very course printed\nthat Sanskrit sent them there. It did not, and the true story is grander. Today you take\nthe five words that finish your counting hand — six, seven, eight, nine, and the little\nquestion that asks for all of them — and you earn the right to tell the month-name story\nthe honest way: one ancestor counted first, and two calendars still carry its numbers."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Read and say षट्, सप्त, अष्ट, नव, दश — the retroflex pair curled, the dentals on the teeth — and run the chant to ten. | षट्, सप्त, अष्ट, नव, दश पढ़ें-बोलें — मुड़ी जीभ और दाँत अपनी-अपनी जगह — और घोष दस तक। |\n| 2 | Ask कति? and answer it bare; run the digit-name ladder १–१० at speed. | कति? पूछें, नंगा उत्तर दें; अंक-नाम सीढ़ी १–१० तेज़ गति से। |\n| 3 | Tell the month-name story right and state the नव split (nine/new — two words, two cousins). | महीनों का क़िस्सा सही सुनाएँ; नव का बँटवारा बताएँ। |\n| 4 | Run Station 0 (lesson 1's +1-day) and log the scores. | स्टेशन 0 चलाएँ, अंक दर्ज करें। |\n\nObjective 1 is built in §8/§9/§14 and tested in §18 (exercises 1, 2, 5) and §19 (Q1, Q8);\nobjective 2 in §6/§15/§16, §18 (exercises 2, 3, 6), §19 (Q5); objective 3 in §4/§13, §18\n(exercise 4), §19 (Q2–Q4, Q6); objective 4 in §3, §18 (exercise 5 re-take), §19 (Q7)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पुनरावृत्तिः — Station 0 first: lesson 1's +1-day interval lands today, exactly on\nschedule. Then four memory prompts. Everything from memory *before* any key opens\n[REF:roediger2006].\n\n### Station 0 — lesson 1's +1-day arrives\n\nv2.c03.l01 §20 booked today's re-runs [REF:cepeda2006]. Three minutes; log both scores\nbeside yesterday's:\n\n1. **The chant, one pass, cold:** एकम् द्वे त्रीणि चत्वारि पञ्च — even beat, long vowels\n   held two beats (त्रीणि, चत्वारि), nothing mumbled.\n2. **Digit cards १–५ at speed:** shuffle, name each within a beat — then the reverse row:\n   hear the name, write the digit.\n\n### The prompts\n\n1. From lesson 1: count 1–5 in stems, from memory — and which of the five did the course\n   honestly admit has no clean English cognate?\n2. Also from lesson 1: the chant forms एकम् द्वे त्रीणि — what are they grammatically,\n   and what did the lesson defer about them?\n3. From v1.c04.l01: one word on that lesson's list entered the ledger wearing a double\n   gloss. Which word, which two meanings? (Hold it — today that row gets honest surgery.)\n4. From Chapter 4 of Volume 1: दश has been readable for a whole volume. Its Latin\n   relative — and the exact relationship: cognate or derivation?\n\n<details><summary>उत्तराणि · Answers</summary>\n\n0. Station 0: chant clean on the beat, five digits named and written both directions.\n   Score /2 (chant pass + ladder ≥4/5); log it.\n1. एक द्वि त्रि चतुर् पञ्च. The loner is एक — no tidy English cousin, and the course says\n   so; honesty beats reaching (l01 §13).\n2. Real, inflected neuter counting forms — Sanskrit's counting dress, learned whole as a\n   chant; the inflection system behind them is deferred (l01 §15).\n3. नव — glossed \"new; nine\" in v1.c04.l01 §14. Today §13 splits that row in two, with a\n   clear conscience and two separate English cousins.\n4. Latin *decem* — cognates: parallel descendants of one ancestor, derivation in neither\n   direction (v1.c04.l02 §13). Today that line becomes a whole shelf.\n</details>\n\nA shaky chant or a dropped digit sends you back to l01 §20's re-take row tonight — the\ndictation and the ladder, cold — not to a halt today."
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिकः सन्दर्भः — the steadiest words in any language, and a correction delivered as\na gift.\n\nNumbers live in the same deep drawer as the kinship words of Chapter 2: learned in\nchildhood, used daily, almost never replaced. That stability is why the numerals are\ntextbook evidence for the Indo-European family — and why this chapter can hand you a\ncognate shelf with total confidence.\n\n> **[FACT · तथ्यम्]** The Proto-Indo-European numerals are among the most stable items of\n> inherited vocabulary: Sanskrit, Latin, Greek and English all carry the same ten words,\n> each worn down by its own regular sound changes — parallel inheritance, not borrowing.\n> [REF:mallory2006] [REF:burrow2001]\n\n> **[FACT · तथ्यम्]** The same inheritance runs *downward* inside Indo-Aryan: Hindi छह,\n> सात, आठ, नौ, दस are the direct descendants of षट्, सप्त, अष्ट, नव, दश — the regular\n> गृह → घर story, five more times. [REF:masica1991]\n\nOne line of course history, told kindly: the 1.x curriculum's numbers unit (PDF pp.30–31)\ntaught the correct stems — the audit kept every word — and then printed a derivation\nclaim about the English month names that does not hold. This lesson is that salvage: the\nwords unchanged, the story finally honest, exactly as the course corrected the और gloss\nwith च in v2.c02.l04. §13 is the operating theatre."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिकं विवरणम् — why numbers must be automatic, why the drills are timed, and what\nyour tongue is really practicing.\n\n> **[FACT · तथ्यम्]** Number words are the classic case for fluency work: a digit's name\n> must arrive without translation, or counts and dates stay unusable in real speech.\n> Timed retrieval of small chunks — the digit-name ladder, the bare कति exchange — is the\n> fluency strand doing its job. [REF:nation2013]\n\n> **[FACT · तथ्यम्]** Spaced retrieval beats massed re-study; today's Station 0 is\n> l01's +1-day interval landing on schedule, and this lesson books its own +1-day and\n> +1-week re-runs before it ends (§20). [REF:cepeda2006] [REF:roediger2006]\n\n> **[FACT · तथ्यम्]** Sanskrit contrasts dental and retroflex consonants as different\n> speech sounds — tongue on the teeth versus tongue-tip curled back — and retroflexion is\n> a defining areal feature of the South Asian languages (not unique to them: Swedish and\n> Norwegian have retroflexes too). Today's list is a minimal workout for exactly that\n> contrast: षट् and अष्ट curled, सप्त and दश on the teeth. [REF:masica1991]\n\nHold the third fact in your mouth, not your head: the ladder in §9 is where it lives."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतेन विवरणम् — the counting, told in lines you fully own:\n\n> **एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश।**\n> (ekam dve trīṇi catvāri pañca ṣaṭ sapta aṣṭa nava daśa.) \"One, two, three, four, five,\n> six, seven, eight, nine, ten.\" — एक, दो, तीन, चार, पाँच, छह, सात, आठ, नौ, दस।\n\n> **कति? — षट्!**\n> (kati? — ṣaṭ!) \"How many? — Six!\" — कितने? — छह!\n\n> **तत्र कति? — दश!**\n> (tatra kati? — daśa!) \"How many there? — Ten!\" — वहाँ कितने? — दस!\n\nTwo machines, both honest: the chant is lesson 1's counting dress, now grown to ten; the\nकति exchange is the question kit's newest member at work, and its answer stands *bare* —\nno verb, no endings, the number alone. That bare answer is not a shortcut we apologize\nfor; it is the taught, standard pattern, and §15 says exactly why."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी में समझिए\n\nआज गिनती पूरी होती है — छह से दस। और आधा काम आपके घर में पहले से हुआ है: छह, सात, आठ,\nनौ, दस — ये पाँचों आज के संस्कृत शब्दों की ही सीधी सन्तानें हैं, सदियों की ध्वनि-यात्रा\nके बाद — वैसे ही जैसे गृह चलते-चलते घर बना। इसलिए अर्थ आज कहीं नहीं अटकेगा; सारा काम\nजीभ और ईमानदारी करेंगे।\n\nपहला — जीभ। षट् और अष्ट मूर्धन्य वर्णों (मुड़ी जीभ वाले — ष, ट) की प्रदर्शनी हैं: जीभ\nकी नोक ऊपर मुड़कर तालु की ओर, दोनों सिरों पर। सप्त और दश में त-द दाँतों पर टिकते हैं।\nहिन्दी भाषी यह भेद पहले से जानते हैं — आपका असली काम अन्त और जोड़ सँभालना है: षट् का\nअन्तिम ट् पूरा और अकेला (कोई सहारा-स्वर नहीं), और अष्ट का ष्ट एक ही मुड़ी हुई चाल —\n\"अश्ट\" नहीं, \"असट\" नहीं।\n\nदूसरा — कति। \"कितने?\" पूछना आज से आपके हाथ में है, और उत्तर नंगा चलेगा: कति? — पञ्च!\nकोई क्रिया नहीं, कोई रूप-साधना नहीं — यही सिखाया हुआ, मानक ढाँचा है। संख्या और संज्ञा\nको जोड़ने का व्याकरण (लिंग, विभक्ति) आगे के खण्ड की बात है; आज संख्या अकेली खड़ी होकर\nपूरा उत्तर है।\n\nतीसरा — ईमानदारी का क़िस्सा, आज का सबसे बड़ा। पुरानी किताब ने छापा था कि October,\nNovember, December इन्हीं शब्दों \"से आए\"। सच यह है: वे लैटिन की *अपनी* गिनती हैं —\noctō, novem, decem यानी आठ, नौ, दस — पुराने रोमन साल के आठवें, नौवें, दसवें महीनों के\nनाम (वह साल मार्च से शुरू होता था)। अष्ट और octō भाई-भाई हैं — एक ही पुरखे की दो\nसन्तानें; उधार किसी ने किसी से नहीं लिया। और घर की एक बात: नव \"नौ\" और नव \"नया\" दो अलग\nशब्द हैं जो उच्चारण में एक जैसे हो गए — और दोनों के अंग्रेज़ी चचेरे भाई भी अलग-अलग हैं:\nnine और new। पुरानी तालिका की एक पंक्ति आज सम्मान के साथ दो पंक्तियाँ बनती है — यह\nभूल-सुधार नहीं, बारीक सच है।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "No new letter, no new sign — the Volume 2 luxury holds. The load is five headwords, one\nold friend back on duty, one question word, and the chapter's flagship correction.\n\n### The set — the counting hand completes\n\n**षट्** (ṣaṭ) \"six\" and **अष्ट** (aṣṭa) \"eight\" are the retroflex showcase: ष and ट both\nwant the tongue-tip curled back, and अष्ट welds them into one gesture, ष्ट. **सप्त**\n(sapta) \"seven\" answers from the other rail — प्त welded, त on the teeth. **नव** (nava)\n\"nine\" looks like an old friend and is honestly a new one: §13 performs the surgery.\n**दश** (daśa) \"ten\" is genuinely an old friend — readable since v1.c04, its Latin sibling\n*decem* already on record — back today as a review row on counting duty, not a new ledger\nentry. And **कति** (kati) \"how many?\" is the tool that makes the other ten words usable:\nthe classical interrogative of quantity, answered bare.\n\nWith lesson 1's एक द्वि त्रि चतुर् पञ्च, the stems now run 1–10 — the citation names of\nthe Sanskrit numbers, the forms every dictionary files them under.\n\n### The chant grows to ten\n\nएकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश — the same honest label as lesson 1:\nthese are real, inflected neuter counting forms, Sanskrit's counting dress, learned whole\nas practice while the system behind them waits for its proper chapter. Notice something\npleasant: from six onward the dress and the stem look identical — nothing new to wear.\nThat is an observation about this chant, not a law to extract (§15).\n\n### कति joins the question kit\n\nThe kit built since Volume 1 — कः · का · किम् · कुतः · कथम् · कुत्र — takes its seventh\nmember: **कति** \"how many?\". Every asker still starts with that same ancient k. The\ngrammar of कति today is one line long: it asks, and the answer may stand bare — कति? —\nसप्त! No verb, no endings, no agreement. \"How many *books*\" — the number dressed to match\na noun — is real Sanskrit and really deferred; the bare answer carries everything this\nchapter needs (§15).\n\n### Two fences and a company dress\n\nThe title षडादिदशान्ताः \"the ones from six to ten\" shows षट् wearing a company dress,\nषड्, before a voiced neighbor — joining rules are Volume 3's business; read it, build\nnothing, pause form between words as always. And two things are deliberately not here:\nnumeral agreement (\"eight books\" waits for its machinery, §15), and the time words —\nकालः, अद्य and the clock arrive next lesson with their own showcase."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is one contrast, drilled until the tongue owns it.\nAudio: 🔊 `planned:assets/audio/volume-2/v2c03l02-drill.mp3` (drills 1–3),\n`planned:assets/audio/volume-2/v2c03l02-word-list.mp3` (three speeds + dictation track).\n\n**Drill 1 — the curl ladder.** Slow motion, feeling the tongue-tip travel: स on the\nteeth, ष curled back; त on the teeth, ट curled back. Now the words: षट् — curled at\n*both* ends, the final ट् complete and alone, no helper vowel. Then अष्ट — curl for ष,\n*hold the curl* through ट: ष्ट is one gesture, not two visits. Five reps each.\n\n**Drill 2 — the two-rail roll-call.** With the audio, fixed order, three passes (slow ·\nnatural · timed): the curled pair षट् — अष्ट, then the teeth pair सप्त — दश, then नव\nbetween them (न on the teeth, व lip-to-teeth), then all five in counting order: षट् सप्त\nअष्ट नव दश. The alternation is the drill: curl, teeth, curl, teeth.\n\n**Drill 3 — the chant to ten.** एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश — even\nbeat, long vowels given their two beats (त्रीणि, चत्वारि), and watch the hidden retroflex:\nत्रीणि carries ण. Then the digit-name ladder: shuffled cards १–१०, name each within a\nbeat.\n\n**Drill 4 — the कति volley.** The audio claps a count or deals a card; you answer inside\nthe beat: कति? — नव! Second round, you ask: point at anything in the room — कति? — and\nanswer yourself, bare. Timed retrieval of chunks: the fluency strand at work\n[REF:nation2013]."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new values — every symbol has been on your chart since Volume 1.\n\n**Word transcriptions:** षट् /ʂɐʈ/ · सप्त /sɐpt̪ɐ/ · अष्ट /ɐʂʈɐ/ · नव /n̪ɐʋɐ/ · कति\n/kɐt̪i/ · दश /d̪ɐɕɐ/. Chant forms (display): एकम् /eːkɐm/ · द्वे /d̪ʋeː/ · त्रीणि\n/t̪ɾiːɳi/ · चत्वारि /t͡ɕɐt̪ʋɑːɾi/ · पञ्च /pɐɲt͡ɕɐ/.\n\n**Narrow note — the ष्ट weld:** in अष्ट the fricative and the stop share one tongue\nposture — /ʂʈ/ with the tip curled throughout. A seam vowel (\"aśata\") or a palatal slide\n(\"aśṭa\" with ś) means the curl broke; re-run §9 drill 1.\n\n**Narrow note — दश is not all dental:** द sits on the teeth /d̪/, but श is the *palatal*\nsibilant /ɕ/ — the श of दर्शन, not the ष of षट्. The dental-retroflex contrast lives in\nthe stops and in स/ष; श is a third place, already yours since v1.c04.l02.\n\n**Narrow note — नव:** /n̪ɐʋɐ/ — dental न, labiodental ʋ, both vowels full. It is\npronounced exactly like नव \"new\" — that identity of sound with difference of word is\n§13's whole point."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थितिः — four checks; the articulators know all of this already. The tongue-map strip\non the cognate shelf card (`planned:assets/images/volume-2/v2c03l02-cognate-shelf.svg`)\nmarks the two rails.\n\n1. **The curl check.** Say षट् in slow motion and freeze on ष: the tongue-tip is up and\n   back, not touching the teeth. Keep it there for ट्. If the tip drifts forward you have\n   said *सट् — the flattened error.\n2. **The weld check.** अष्ट with a finger on your chin: one jaw gesture for ष्ट, no\n   bounce between the two letters. A bounce means a vowel leaked into the cluster.\n3. **The teeth check.** सप्त and दश: the त and द touch the *backs of the teeth* — further\n   forward than English t/d. English speakers: aim past the ridge; Hindi speakers: you\n   own this — keep it under speed.\n4. **The final check.** षट् ends on ट् — released cleanly, lips open, no echo vowel. The\n   mirror shows a still mouth after the ट्, exactly like the final म् discipline of\n   गृहम्, transposed."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.\n\n1. ***सट् — the flattened six.** Dental स takes over for retroflex ष. *Fix:* §11 check 1\n   — curl first, then speak; the ladder in §9 drill 1 rebuilds the habit.\n2. ***अश्ट — the broken weld.** Palatal श slides in for ष, or the cluster splits into two\n   visits (\"aśata\"). *Fix:* one curled gesture, held — §10's narrow note, §11 check 2.\n3. **The contrast flipped on the other rail.** Over-correcting until सप्त and दश curl\n   too, or letting English alveolar t/d split the difference. *Fix:* §11 check 3 — the\n   two rails are a *contrast*; drill them as alternation (§9 drill 2).\n4. **The direction flip:** \"November comes from Sanskrit नव.\" The 1.x book printed it;\n   posters still do. *Fix:* §13 — Latin is counting its own calendar; अष्ट and octō are\n   siblings, and nobody borrowed anybody's numbers. The chapter exam's task D card is\n   built from this exact line (v2.c03.l05).\n5. **The merger:** treating नव \"nine\" and नव \"new\" as one word with two meanings. *Fix:*\n   two distinct words that fell together in sound (§13); two separate English cousins —\n   *nine* and *new* — prove the split.\n6. **Invented grammar under pressure:** gluing endings onto a कति answer, or reaching for\n   a verb (षट् सन्ति — untaught plural machinery; verbs begin next chapter, and they\n   begin singular). *Fix:* the bare\n   answer is the taught, standard form (§15); simplest correct beats ambitious wrong.\n   Related: digit misreads at the ladder — ९ taken for ७, ८ for ५ — slow the ladder\n   before speeding it (v1.c05.l05 digit cards)."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three stories inside today's list, and one of them is the chapter's flagship.\n\n### The October fix — the month names, told right\n\nThe 1.x curriculum (PDF pp.30–31) taught these very numbers and then captioned them:\n\"Many English words come from these! Tri-angle, Oct-agon, Nov-ember, Dec-ember\" — and\nunder the ten, \"दश (10) → December, Decimal\". Said warmly: the words were right and the arrow\nwas wrong. Here is the story the evidence tells.\n\n> **[FACT · तथ्यम्]** October, November and December do not come from Sanskrit. They are\n> Latin counting its own calendar: *octō*, *novem*, *decem* — \"eight, nine, ten\" — naming\n> the 8th, 9th and 10th months of the old Roman year, which began in March. Latin *octō*\n> and Sanskrit अष्ट are cognates — siblings descended from one Proto-Indo-European\n> ancestor; neither derives from the other, and the same holds down the whole row of\n> numerals. [REF:mallory2006] [REF:burrow2001]\n\nAnd the honest version is the *better* story: not one language lending a word to a\ncalendar, but one ancestor's numbers surviving in two calendars — Latin counting its\nyear, Sanskrit counting its own, the same inheritance held twice, each line of descent\nthousands of years deep. The course made exactly this move once before: the 1.x gloss\nof और was corrected with च, kindly, in v2.c02.l04. Same pattern, bigger stage.\n\n### The shelf — five siblings, no arrows\n\n| Sanskrit | Latin | English |\n|---|---|---|\n| षट् | sex | six |\n| सप्त | septem | seven |\n| अष्ट | octō | eight |\n| नव | novem | nine |\n| दश | decem | ten |\n\nParallel descendants of the PIE numerals — among the most stable words in the family;\nthere is no arrow anywhere on this shelf [REF:mallory2006] [REF:burrow2001]. Lesson 1's\nrows (चतुर् beside *quattuor*, एक honestly alone) sit above these; and the asker gets a\nshelf row of its own — कति beside Latin *quot* \"how many\", the same question inherited\ntwice [REF:burrow2001].\n\n### The नव split — one sound, two words, two cousins\n\n> **[FACT · तथ्यम्]** नव \"nine\" and नव \"new\" are two distinct Sanskrit words — the\n> dictionaries file them separately, with distinct stems (नवन् for the numeral, नव for\n> the adjective) — that happen to fall together in citation form. Both have English\n> cognates, and they are *different* ones: *nine* beside the numeral, *new* beside the\n> adjective. [REF:monierwilliams1899 s.vv.]\n\nYour ledger met नव in v1.c04.l01 wearing the double gloss \"new; nine\" — one row holding\ntwo words until the course could afford the distinction. Today it can. The row splits\nwith full honors: नव \"new\" keeps its v1.c04 seat, and नव \"nine\" enters the ledger as\ntoday's headword — not an erratum but a promise of exactness, kept the moment it became\nteachable. And it hands you the cleanest proof that sound alone does not decide wordhood:\nEnglish kept the cousins apart, *nine* and *new*, all along."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — five ledger-new headwords; **285 → 290** (counts reconciled at review, as\nalways). Audio: 🔊 `planned:assets/audio/volume-2/v2c03l02-word-list.mp3` (each word\ntwice, three-speed passes, then the dictation track). The numbers list in their stem\nforms — the citation names (§8); कति, an indeclinable, needs no dress at all.\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| षट् | ṣaṭ | /ʂɐʈ/ | six | छह | retroflex at both ends (§9, §11); final ट् clean and alone; shelf row beside *sex*/*six* (§13); wears षड् in the title's company dress (§8) |\n| सप्त | sapta | /sɐpt̪ɐ/ | seven | सात | the teeth rail — प्त welded, त dental (§9); shelf row beside *septem*/*seven* (§13) |\n| अष्ट | aṣṭa | /ɐʂʈɐ/ | eight | आठ | the ष्ट weld — one curled gesture (§10, §11); the October-fix word, sibling of *octō* (§13) |\n| नव | nava | /n̪ɐʋɐ/ | nine | नौ | the honest split: distinct from नव \"new\" of v1.c04.l01 — stems नवन् vs नव (§13); sibling of *nine* |\n| कति | kati | /kɐt̪i/ | how many? | कितने, कितनी | the question kit's seventh member (§8, §15); answers stand bare: कति? षट्! shelf row beside *quot* (§13) |\n\nBack on duty from Volume 1, review row only — no re-entry to the ledger: **दश** (daśa)\n\"ten\" — दस — readable since v1.c04, Latin sibling *decem* already on record\n(v1.c04.l02 §13); today it takes its place at the top of the count.\n\nDisplay-only, excluded from all counts and decks: the chant forms **एकम् द्वे त्रीणि\nचत्वारि** (on loan from lesson 1 for the full chant — from six onward the chant uses\ntoday's forms unchanged), the numeral stem **नवन्** (navan) behind \"nine\" (§13), and\n**षड्** (ṣaḍ), the title's company dress of षट् (§8).\n\nReading protocol unchanged: count the blocks, read the blocks, read the word — ष-ट्,\nस-प्त, अ-ष्ट — then the two-rail roll-call (§9 drill 2), and no final consonant given a\nhelper vowel at any speed."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — one new asker, one grown chant, and a firm honesty line.\n\n> **[FACT · तथ्यम्]** (1) The stems एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश are the\n> citation names of the numbers; Sanskrit numerals inflect for gender and case, a system\n> this course defers honestly and never fakes. (2) The counting chant एकम् द्वे त्रीणि\n> चत्वारि पञ्च षट् सप्त अष्ट नव दश is made of real, inflected neuter counting forms,\n> learned whole as practice. (3) कति \"how many?\" is the classical interrogative of\n> quantity, and its answer may stand bare: कति? — पञ्च! [REF:apte1890 s.v. कति]\n> [REF:whitney1889]\n\n### The question kit — now seven\n\n| Asker | Asks | Since |\n|---|---|---|\n| कः | who? | v1.c02.l06 |\n| कुतः | from where? | v1.c02.l06 |\n| किम् | what? | v1.c05.l01 |\n| का | who? (f) — the कः/का pair | v1.c06.l02 |\n| कथम् | how? | v2.c01.l02 |\n| कुत्र | where? | v2.c02.l04 |\n| कति | how many? | **today** |\n\nOne family, one ancient k at the front of every asker. कति's whole job description:\npoint, ask, and accept a bare number back.\n\n### The bare answer — a rule, not an apology\n\nकति? — अष्ट! is complete, correct, taught Sanskrit. What it deliberately does *not* do is\nattach the number to a noun (\"eight books\"): number-noun agreement is its own machine,\nbuilt in its proper place — Volume 4, per lesson 1's fence — not under drill pressure.\nWhen that system arrives, every bare answer you produced here will still be right. Until\nthen the number alone carries everything, exactly as the verbless naming sentence carried\nChapter 2.\n\n### The chant, restated\n\nSame policy as lesson 1: the chant is Sanskrit's counting dress — real inflected forms,\nrecited whole. Today's pleasant observation — from षट् to दश the dress and the stem\ncoincide — is an observation about *these* forms, not a rule about numbers. We observe;\nwe do not legislate. And the title's षड् stays read-only: joining rules are Volume 3's."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — one scene: सीता visits, and माया's family picture from the Chapter 2 exam is\non the table. Audio records into the Chapter 3 drill pack (§27). Every word is self-read.\n\n— नमस्ते, माया! एतत् किम्?\n(namaste, māyā! etat kim?) \"Greetings, Māyā! What is this?\" — नमस्ते, माया! यह क्या है?\n\n— मम परिवारः! पश्य — माता, पिता, भ्राता, भगिनी, अहम् च।\n(mama parivāraḥ! paśya — mātā, pitā, bhrātā, bhaginī, aham ca.) \"My family! Look —\nmother, father, brother, sister — and me.\" — मेरा परिवार! देखो — माता, पिता, भाई, बहन —\nऔर मैं।\n\n— कति?\n(kati?) \"How many?\" — कितने?\n\n— पञ्च!\n(pañca!) \"Five!\" — पाँच!\n\n— पश्य, तत्र — पुस्तकम्, पुस्तकम्, पुस्तकम्… कति?\n(paśya, tatra — pustakam, pustakam, pustakam… kati?) \"Look, over there — a book, a book,\na book… how many?\" — देखो, वहाँ — किताब ही किताब… कितनी?\n\n— एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त — सप्त!\n(ekam dve trīṇi catvāri pañca ṣaṭ sapta — sapta!) \"One, two, three, four, five, six,\nseven — seven!\" — एक, दो, तीन, चार, पाँच, छह, सात — सात!\n\n— न — अष्ट! तत्र अपि एकम्!\n(na — aṣṭa! tatra api ekam!) \"No — eight! There is one more over there!\" — नहीं — आठ!\nवहाँ एक और!\n\n— अष्ट! धन्यवादः, सीता!\n(aṣṭa! dhanyavādaḥ, sītā!) \"Eight! Thank you, Sītā!\" — आठ! धन्यवाद, सीता!\n\n— स्वस्ति! पुनः मिलामः!\n(svasti! punaḥ milāmaḥ!) \"Farewell — we meet again!\" — नमस्ते! फिर मिलेंगे!\n\nHousekeeping: the scene runs on three machines — pointing and naming (Chapter 2's), the\nchant in *reference* use (counting real things), and the bare कति answer. The honest\ndodge: a plural \"books\" would need machinery the course has not delivered, so Sītā points\nand repeats पुस्तकम् — and कति never needed the plural anyway. न is v2.c01.l04's negation\non its shift; च walks behind अहम्, exactly as taught. Pause form between turns, as always."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — कति? कति? · How many? Eight lines, the counting game at home; each line:\nDevanagari, IAST, English, Hindi.\n\n1. मम गृहम् अत्र अस्ति। मम परिवारः अपि अत्र अस्ति।\n   (mama gṛham atra asti. mama parivāraḥ api atra asti.) \"My home is here. My family is\n   here too.\" — मेरा घर यहाँ है। मेरा परिवार भी यहाँ है।\n2. माता वदति — माया! कति?\n   (mātā vadati — māyā! kati?) \"Mother says — Māyā! How many?\" — माता कहती हैं — माया!\n   कितने?\n3. माया वदति — पञ्च! माता, पिता, भ्राता, भगिनी, अहम् च!\n   (māyā vadati — pañca! mātā, pitā, bhrātā, bhaginī, aham ca!) \"Māyā says — five!\n   Mother, father, brother, sister — and me!\" — माया कहती है — पाँच! माता, पिता, भाई,\n   बहन — और मैं!\n4. पिता हसति — पुस्तकम् तत्र अस्ति। कति?\n   (pitā hasati — pustakam tatra asti. kati?) \"Father laughs — a book is there.\n   How many?\" — पिता हँसते हैं — किताब वहाँ है। कितनी?\n5. माया वदति — एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश — दश!\n   (māyā vadati — ekam dve trīṇi catvāri pañca ṣaṭ sapta aṣṭa nava daśa — daśa!) \"Māyā\n   says — one, two, three, four, five, six, seven, eight, nine, ten — ten!\" — माया कहती\n   है — एक से दस — दस!\n6. अर्जुनः वदति — अहम् अपि! कति?\n   (arjunaḥ vadati — aham api! kati?) \"Arjuna says — me too! How many?\" — अर्जुन कहता है\n   — मैं भी! कितने?\n7. माया हसति — एकम्!\n   (māyā hasati — ekam!) \"Māyā laughs — one! (she counts him)\" — माया हँसती है —\n   एक!\n8. मम परिवारः — पञ्च। मम गृहम् — एकम्। सर्वम् शुभम्।\n   (mama parivāraḥ — pañca. mama gṛham — ekam. sarvam śubham.) \"My family — five. My home\n   — one. All is well.\" — मेरा परिवार — पाँच। मेरा घर — एक। सब शुभ है।\n\nThe quiet craft notes: line 4 dodges the plural the §16 way — say पुस्तकम् and point;\nline 5 is the chant doing its real job, counting a shelf, the bare total landing after\nthe dash; the closing line runs entirely on the bare answer — the smallest grammar in the\ncourse carrying its warmest sentence. And Arjuna, माया's brother since Chapter 2, gets\ncounted as एकम्, to his delight."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 2, 3, 5 and 6 are production tasks. Do them in order. Keys for\nexercises 4–6 sit in §19's collapsed key.\n\n**अभ्यासः 1 · अन्वेषणम् (the tongue sort — timed).** Sixty seconds: sort the ten number\nstems (plus the chant's त्रीणि) into two rails — *curled somewhere* (a retroflex letter\ninside) and *no curl*. Then say the two showcase words aloud five times in alternation\nwith their teeth-rail partners: षट्-सप्त, अष्ट-दश. Ten-second follow-up: which chant form\nhides a retroflex that its stem does not show?\n\n**अभ्यासः 2 · सोपानम् (the digit-name ladder — production, recorded).** Shuffle digit\ncards १–१०. One take: name each card within a beat, as they come. Then the reverse row:\nthe audio (or a partner) says a name; you write the digit. Log time and misses — this\nladder returns at the chapter exam (v2.c03.l05, task C) at full speed.\n\n**अभ्यासः 3 · कति-क्रीडा (the how-many game — production, spoken).** With the worksheet's\npicture panels or real objects: partner A points and asks कति?; partner B counts aloud\nwith the chant if needed and answers *bare* — कति? — नव! Six rounds, then swap. Score two\nthings only: every answer bare (no endings, no verb), every retroflex curled.\n\n**अभ्यासः 4 · अङ्कनम् (the direction sort).** Keep or reject, one reasoning line each:\n(a) \"November comes from Sanskrit नव.\" (b) \"अष्ट and octō share one ancestor.\"\n(c) \"दश and decem are cognates.\" (d) \"नव 'nine' and नव 'new' are one word with two\nmeanings.\" (e) \"Hindi नौ descends from Sanskrit नव 'nine'.\" (f) \"The counting chant is\nsimplified, made-up Sanskrit.\" Before checking: find the one card whose claim is true\n*downward* where the November card is false *sideways* — say out loud why the direction\ndecides.\n\n**अभ्यासः 5 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track\n🔊: the five headwords plus दश in random order, each read twice with a writing pause.\nWrite them in Devanagari; self-check against §14 — every retroflex letter drawn, the ष्ट\nwelded, no helper vowels after final consonants. 5/6 is a pass; re-take tomorrow (§20),\nthen re-run Station 0's digit row once, cold.\n\n**अभ्यासः 6 · अनुवादः (produce the exchanges — production, written + spoken).** Write\nthe Sanskrit, pause form, then perform both roles aloud: (a) \"How many? — Eight!\"\n(b) \"How many there? — Ten!\" (c) \"How many? — Six! No — seven!\" (d) the full chant, one\nto ten, from memory in Devanagari. Self-check: every answer bare, every question just\nकति with at most a place word in front."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The retroflex showcase on today's list is: (a) सप्त and दश (b) षट् and अष्ट — ष and ट\n   want the tongue-tip curled back (c) नव and कति (d) एक and द्वि\n2. The honest statement about November: (a) it comes from Sanskrit नव (b) it is Latin\n   counting its own old calendar — novem \"nine\" for the ninth month of a year that began\n   in March; नव and novem are cognates (c) the resemblance is pure coincidence (d) Latin\n   borrowed novem from Sanskrit\n3. अष्ट and Latin octō are: (a) ancestor and descendant (b) a loanword pair (c) siblings\n   — parallel descendants of one Proto-Indo-European ancestor; neither derives from the\n   other (d) unrelated look-alikes\n4. नव \"nine\" and नव \"new\": (a) one word with two meanings (b) two distinct words — stems\n   नवन् and नव — that fell together in citation form, with two different English cousins,\n   *nine* and *new* (c) poetic variants of each other (d) the second is Hindi, not\n   Sanskrit\n5. The taught answer to कति? is: (a) a bare number — कति? षट्! (b) a number with a verb\n   (c) a number inflected to match a noun (d) only a Devanagari digit held up\n6. दश on today's list is: (a) a brand-new headword (b) a review row — readable since\n   v1.c04 with its decem line already on record; it does not increment the ledger (c) a\n   borrowing from Latin (d) display-only\n7. Station 0 today was: (a) a new exam (b) lesson 1's +1-day interval landing on\n   schedule — the chant re-run and digit cards १–५ at speed (c) optional warm-up with no\n   log (d) next week's review done early\n8. The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश is: (a) simplified\n   fake Sanskrit (b) real, inflected neuter counting forms learned whole as practice —\n   with the system behind them honestly deferred (c) obligatory before every answer\n   (d) a Vedic verse\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) — the curled pair; सप्त and दश answer from the teeth rail (§9, §11).\n2. (b) — Latin's own arithmetic; the 1.x derivation claim corrected (§13) — the chapter's\n   flagship line.\n3. (c) — siblings, no arrow (§13). ((a) and (b) are §12's mistake 4 in two dresses.)\n4. (b) — the honest split of the v1.c04.l01 row (§13).\n5. (a) — bare answers are the taught, standard pattern (§15). ((b) and (c) are §12's\n   mistake 6.)\n6. (b) — review duty, not a ledger entry; five new + one review, 285 → 290 (§14).\n7. (b) — spaced retrieval on schedule (§3, §5).\n8. (b) — counting dress, honestly labeled (§15); from six on it matches the stems — an\n   observation, not a law.\n\n**Exercise keys.** Ex. 1: curled rail = षट् and अष्ट, plus the chant's त्रीणि — its ण is\nthe hidden retroflex; the stem त्रि shows none. Everything else rides the no-curl rail.\nEx. 4: (a) **reject** — Latin's own novem; cognates, not derivation — THE October-fix\ncard; (b) keep — FACT; (c) keep — FACT, on record since v1.c04.l02; (d) **reject** — two\nwords, two cousins (§13); (e) keep — FACT, a true *downward* descent line inside\nIndo-Aryan [REF:masica1991], which is exactly why it can be kept while (a) is rejected:\ndirection claims are true downward and false sideways; (f) **reject** — real inflected\nforms, system deferred (§15). Ex. 5 set: षट् · सप्त · अष्ट · नव · कति · दश. Ex. 6 models:\n(a) कति? — अष्ट! (b) तत्र कति? — दश! (c) कति? — षट्! न — सप्त! (d) the §6 chant line.\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The set:** षट् · सप्त · अष्ट · नव · दश — the count complete to ten. **The rails:**\n> षट् and अष्ट curled; सप्त and दश on the teeth; ष्ट is one welded gesture. **The\n> asker:** कति? — answered bare: कति? — नव! The kit is seven: कः का किम् कुतः कथम् कुत्र\n> कति. **The fix:** October, November, December are Latin counting its own calendar;\n> अष्ट ~ octō are siblings — no arrow on the shelf. **The split:** नव \"nine\" and नव\n> \"new\" — two words, two cousins (*nine*, *new*). **The ledger:** five new + one review —\n> 285 → 290.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-take the dictation (exercise 5) cold; run the digit-name ladder १–१०\n  once, timed; log both beside today's scores — next lesson's Station 0 will ask for\n  them.\n- **This week:** one कति exchange daily over real objects, answer bare; keep the chant on\n  its even beat once a day.\n- **In 1 week:** the numbers return under the time words and the calendar (v2.c03.l03\n  onward) and stand for the counting production and the direction cards at the chapter\n  exam (v2.c03.l05, tasks C and D) — the chapter's lessons will remind you."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total.\n\n1. **(10 min)** Finish exercises 5 and 6 if not completed in class: the dictation pass\n   and the four produced exchanges, performed aloud both roles.\n2. **(10 min, real world)** Find ten of anything at home — steps, spoons, windows. Count\n   them aloud with the chant, then ask yourself कति? and answer bare. Then find Devanagari\n   digits in the wild (a calendar, a newspaper) and read any of १–१० you meet by name.\n3. **(5–10 min, teach-back)** Tell someone the November story told right: novem is\n   Latin's own nine, counting the ninth month of a year that began in March; Sanskrit नव\n   is its sibling, not its source — one ancestor counted first, and two calendars still\n   carry its numbers. If they ask \"so who borrowed from whom?\", you own the best answer\n   in the chapter: nobody — they inherited."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "अध्यापकटिप्पणी\n\n**Open with the calendar riddle, not the list.** Write OCTOBER · NOVEMBER · DECEMBER on\nthe board and under them 8 · 9 · 10. Ask: these are the 10th, 11th and 12th months — why\nare they numbered 8, 9, 10, and in which language? Collect votes; let someone offer \"from\nSanskrit\" if the room carries it. Then deliver the real answer — Latin counting its own\nold year, which began in March — and promise the Sanskrit connection is *better* than\nderivation: siblinghood. The lesson's correction lands best as a solved riddle.\n\n**Timing plan (45 min):** Station 0 + prompts, scores logged (7) → the calendar riddle\n(5) → set walk-through on the two rails; the curl and weld drills (8) → कति volley in\npairs; bare answers enforced warmly (6) → chant to ten + digit-name ladder (6) → the\nOctober fix on the month-name story card; the नव split (8) → word list at three speeds;\ndictation launch (3) → exercises, homework, teach-back brief (2).\n\n**Board work:** two horizontal rails — a curled-tongue icon over षट् · अष्ट, a teeth icon\nover सप्त · दश, नव and कति between them. Beside it, the month ribbon from the story card:\nMarch first, slots 8-9-10 highlighted. Keep one corner for the ledger tick: 285 → 290.\n\n**Run the October fix as a gift, not a scolding.** Someone in the room learned \"November\ncomes from नव\" from a poster, a relative, or the 1.x edition of this very course — nobody\ngets to feel foolish. The course's standing move (the और → च correction) applies\nverbatim: name the old claim kindly, show what the evidence supports, and let the honest\nversion be the prouder one — one ancestor's numbers in two calendars.\n\n**Differentiation:** Hindi speakers own the retroflex contrast natively — their work is\nthe finals (षट् ends on a bare ट्, no helper vowel), the ष्ट weld, and the direction\nhonesty, where \"these are just our numbers\" is precisely what exercise 4 examines.\nEnglish-side learners drill the curl ladder (§9 drill 1) before any speed work, and take\nthe two-rail roll-call slowly first.\n\n**What students find hard:** holding the curl through ष्ट at speed (slow it down; one\ngesture); believing the bare कति answer is *correct* rather than babyish — it is the\ntaught classical pattern, and inventing agreement is the error; the नव split feeling like\na trick — frame it as the course keeping a promise of exactness, with *nine*/*new* as the\nproof; and, every chapter, accepting that \"reject\" can be the loving verdict on a\npatriotic card — the teach-back in §21 is where that lands."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-2/v2c03l02-month-name-story.svg` (the lesson\ncenterpiece)**\n\n> Clean educational story card, warm off-white background, Noto Serif Devanagari + a\n> clean Latin serif, two colors, monochrome-safe. Top band: a ribbon of the old Roman\n> year — twelve slots starting at MARTIUS (March) — with slots 8, 9, 10 highlighted and\n> labeled OCTŌBER, NOVEMBER, DECEMBER; small arithmetic tags beneath: octō = 8 ·\n> novem = 9 · decem = 10; caption: \"Latin counting its own calendar — the year began in\n> March.\" Center: one plain ancestor node (\"one reconstructed ancestor\") with two\n> descending branches — left: Latin octō · novem · decem; right: Sanskrit अष्ट · नव ·\n> दश — and deliberately NO arrow between the branches; caption: \"siblings — nobody\n> borrowed anybody's numbers.\" Corner chip: the 1.x caption \"Many English words come\n> from these! Tri-angle, Oct-agon, Nov-ember, Dec-ember\" in a quoted box with a kind\n> correction stamp: \"the honest story is better\n> — one ancestor, two calendars.\" Footer chant: \"no arrow between cousins\".\n\n**Asset 2 — `planned:assets/images/volume-2/v2c03l02-cognate-shelf.svg`**\n\n> The 6–10 cognate shelf: five horizontal rows, each row three word-chips joined by\n> plain ties (no arrowheads): षट् ~ sex ~ six · सप्त ~ septem ~ seven · अष्ट ~ octō ~\n> eight · नव ~ novem ~ nine · दश ~ decem ~ ten; a sixth bonus row slightly apart: कति ~\n> quot (\"the question inherited twice\"). A small two-leaf badge on the नव row: \"नव nine ·\n> नव new — two words, two cousins (nine, new)\". Side strip, the tongue map: a curled-tip\n> profile icon over ष and ट, captioned \"मूर्धन्य — curled back\", and a teeth icon over\n> स, त and द, captioned \"दन्त्य — on the teeth\", with षट् and अष्ट circled on the curl\n> side, सप्त and दश on the teeth side. Noto Serif Devanagari, two colors, monochrome-safe.\n\n**Asset 3 — `planned:assets/worksheets/volume-2/v2c03l02-counting-kati.pdf` (layout\nspec)**\n\n> A4 worksheet, portrait. Top third: the digit-name ladder — two rows of shuffled digit\n> cards १–१० with ruled name-lines beneath, plus a reverse row (name printed, digit box\n> empty) and a tempo log (time, misses). Middle third: six picture panels (3–10 everyday\n> objects each) with a कति? line and a bare-answer box under each; margin reminder: \"the\n> answer stands bare — no verb, no endings.\" Bottom third: dictation rows with\n> retroflex tick-boxes (ष drawn? ट drawn? ष्ट welded?), the six direction cards from §18\n> exercise 4 with keep/reject boxes and one reasoning line each, and the score log —\n> Station 0 (chant /1, ladder /5), dictation /6, ladder time. Footer chants: \"curl for\n> षट् and अष्ट\" · \"the answer stands bare\" · \"no arrow between cousins\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:45):** a wall calendar flips to November; the word splits — NOVEM +\n   BER; a red arrow labeled \"from Sanskrit?\" tries to draw itself from नव and dissolves;\n   an ancestor node rises with two branches, Latin and Sanskrit. Title card:\n   षडादिदशान्ताः — Six to Ten.\n2. **The two rails (0:45–2:00):** a side-view tongue animation — tip curling back for ष\n   and ट through षट् and अष्ट, the ष्ट weld shown as one held gesture; tip on the teeth\n   for सप्त and दश; the five new words stamp onto their rails.\n3. **The chant grows (2:00–3:00):** lesson 1's five chant tiles slide left; षट् सप्त\n   अष्ट नव दश snap on; a metronome bar keeps the beat; त्रीणि's ण glows once (\"the hidden\n   curl\").\n4. **कति joins the kit (3:00–4:00):** the six askers march past — कः का किम् कुतः कथम्\n   कुत्र — and कति falls in line; quick volley: a hand deals objects, कति? — bare answers\n   land with a click: सप्त! नव!\n5. **The October fix (4:00–5:10):** the Roman year ribbon unrolls from March; slots\n   8-9-10 light up as octō, novem, decem count themselves; beside it the Sanskrit column\n   अष्ट नव दश descends from the same node; the \"no arrow\" caption lands. A two-leaf badge\n   splits नव into nine and new.\n6. **Recap + CTA (5:10–6:00):** the shelf card assembles; the ledger ticks 285 → 290.\n   End card: \"Next: कालः — the time words arrive, and one of them sailed in from Greek.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24); Sanskrit terms carry IPA cues in [brackets] — the\nnarrator reads the cue, not the English spelling.\n\n- **00:00** November. Hiding inside it: novem — Latin for nine. The old course said\n  Sanskrit sent it. It did not — and the true story is better. First, let's earn the\n  numbers.\n- **00:45** Two rails. Curl the tongue-tip back: ṣaṭ [ʂɐʈ] — six; aṣṭa [ɐʂʈɐ] — eight,\n  one held curl through the cluster. Now the teeth: sapta [sɐpt̪ɐ] — seven; daśa [d̪ɐɕɐ]\n  — ten, back from Volume 1. And between them, nava [n̪ɐʋɐ] — nine.\n- **02:00** The chant grows: ekam [eːkɐm], dve [d̪ʋeː], trīṇi [t̪ɾiːɳi], catvāri\n  [t͡ɕɐt̪ʋɑːɾi], pañca [pɐɲt͡ɕɐ] — ṣaṭ, sapta, aṣṭa, nava, daśa. Real inflected\n  Sanskrit, worn as counting dress; the machinery, honestly, waits.\n- **03:00** One small word makes the ten numbers useful: kati [kɐt̪i] — how many? And the\n  answer stands bare: kati? — sapta! No verb, no endings. That is the taught form, not a\n  shortcut.\n- **04:00** Now the fix. The old Roman year began in March — so octō, novem, decem named\n  its eighth, ninth and tenth months. Latin, counting its own calendar. And aṣṭa [ɐʂʈɐ]\n  beside octō? Siblings — one ancestor, two heirs, no arrow. Bonus honesty: nava \"nine\"\n  and nava \"new\" are two different words — English kept their cousins apart: nine, and\n  new.\n- **05:10** Two hundred ninety words. Count anything today — kati? — and answer it bare.\n  Next: kālaḥ [kɑːlɐh] — the time words, and an hour that sailed into Sanskrit from\n  Greek."
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** a phone calendar on November, zoom to the word: \"November is\n  hiding a NINE. Whose nine?\"\n- **Demo (0:07–0:30):** NOVEM stamps under it — \"Latin's own nine. The old Roman year\n  began in March — count it: month eight, octō-ber; nine, novem-ber; ten, decem-ber.\"\n  Sanskrit अष्ट नव दश slides in beside octō novem decem; a red arrow between the columns\n  dissolves into one ancestor node — \"siblings, not borrowings.\" Quick tongue-cam: ṣaṭ\n  [ʂɐʈ], aṣṭa [ɐʂʈɐ] — \"tongue curled back, both ends.\"\n- **Payoff (0:30–0:43):** a learner counts a bookshelf aloud to ten and answers a flash\n  question — kati? — daśa! \"Learners of this course can now count to ten in Sanskrit,\n  ask how many, and tell the calendar's story with the history right.\"\n- **CTA (0:43–0:50):** \"Next: कालः — the time words, including one Sanskrit *borrowed*…\n  from Greek. Follow for Chapter 3.\" (End card: षडादिदशान्ताः — six to ten.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-2/v2c03l02-month-name-story.svg` — §13 centerpiece, §22 board\n    ribbon, §23 prompt 1; must agree line-for-line with §13's FACT callout\n  - `assets/images/volume-2/v2c03l02-cognate-shelf.svg` — §13 shelf, §11 tongue-map\n    strip, §23 prompt 2\n  - `assets/audio/volume-2/v2c03l02-drill.mp3` — §9 drills 1–4 model readings and call\n    tracks (the कति volley)\n  - `assets/audio/volume-2/v2c03l02-word-list.mp3` — §14 model reading, three-speed\n    passes, randomized 6-word dictation track with transcript (§18 exercise 5)\n  - `assets/worksheets/volume-2/v2c03l02-counting-kati.pdf` — §18 exercises 2, 3, 4, 5 +\n    Station 0 score log\n  - §16/§17 audio is NOT in this manifest — record into the Chapter 3 drill pack\n    (chapter.md manifest: counting audio) and back-link here when it exists.\n- **Sibling availability at drafting:** v2.c03.l01 and l03 landed concurrently with this\n  draft (l04 was not yet on disk); the \"l01 §…\" pointers in §3/§13/§15 were checked\n  against l01 as drafted and hold, and l03 §3's Station 0 already matches this lesson's\n  §20 logs (the re-taken dictation + the timed ladder). Reconciled at review: l01 §20\n  now books this lesson's Station 0 (chant + digit cards १–५, both directions) at\n  +1 day. v2.c03.l04 verified on disk at review; forward mentions hold.\n- **Related lessons:** reviews v2.c03.l01 (Station 0 — chant re-run and digit cards;\n  stems 1–5, एक's honest no-cognate line) and v1.c04.l01 (नव \"new; nine\" — the\n  double-gloss row split in §13); builds on v1.c04.l02 (दश and the decem line),\n  v1.c03.l03 (the retroflex varga), v1.c05.l05 (digits ०–९), v2.c01.l02 and v2.c02.l04\n  (the question kit, grown to seven here; the और → च correction pattern reused in §13),\n  v2.c02.l05 (direction-card toolkit, extended by the November card); feeds v2.c03.l03\n  (कालः — Time Words: the deictic trio and होरा's reversed arrow — next lesson),\n  v2.c03.l04 (the week), v2.c03.l05 (exam: Station 2 re-runs this lesson; task C counting\n  production; task D carries THE November-reject and नव-split cards built here), v2.c06\n  (cognate sets at scale), Volume 3 (the षड् company dress — read-only here), Volume 4\n  (the numeral system behind the bare answers).\n- **Glossary:** reuses मूर्धन्य, दन्त्य, विसर्ग, मात्रा, संयुक्ताक्षर per GLOSSARY.md; no\n  new glossary terms. All headwords are classical vocabulary — no classical/modern usage\n  labels needed this lesson (the register work is cognate-direction honesty, §13/§18).\n- **Export notes:** ledger per the chapter plan: five ledger-new headwords — **285 →\n  290** (chain 282 → 285 → 290 → 297 → 305; reconcile against sibling §14 tables at\n  review). नव \"nine\" exports as a **split row**: new headword with\n  `splits: नव (v1.c04.l01, \"new; nine\")`; the v1.c04.l01 row re-exports as नव \"new\" only\n  — the two rows must never re-merge. दश exports flagged review-duplicate, not new.\n  Display-only, excluded from counts and decks: the chant forms एकम्, द्वे, त्रीणि,\n  चत्वारि (`display`, owner v2.c03.l01), the stem नवन् and the sandhi form षड्\n  (`display`). *सट् and *अश्ट export as `error_form`. The षट्/sex, सप्त/septem, अष्ट/octō,\n  नव/novem, दश/decem and कति/quot relations export as `cognate` rows with\n  `direction: shared-descent`; Hindi छह/सात/आठ/नौ/दस under their Sanskrit parents export\n  as `descent` rows (Indo-Aryan) — the two relation types must never merge. The\n  month-name correction exports as `corrective: true` (banned-claim fix delivered,\n  EDITORIAL_GUIDELINES §3). §19 key stays in `<details>`.\n- **Verification flags for Pass C:** the month-name story (§13) against [REF:mallory2006]\n  (numerals) and OED month entries — the Roman-year-began-in-March line kept\n  encyclopedia-checkable, no precise dates claimed; the numeral shelf incl. कति ~ quot\n  (§13) against [REF:mallory2006] and [REF:burrow2001]; the नव/नवन् split (§13) against\n  [REF:monierwilliams1899 s.vv.]; कति bare-answer policy (§15) against\n  [REF:apte1890 s.v. कति], with [REF:whitney1889] cited bare pending the notes §0.1\n  range check; Hindi numeral descent (§4, §18 ex. 4e) and the retroflexion areal claim\n  (§5, \"not unique\" per STYLE_GUIDE §2) against [REF:masica1991]. All §10/§14 IPA diffed\n  cell-by-cell against STYLE_GUIDE §2 (Pass A); chant forms display-only, no agreement\n  taught (notes §6 checklist); the 1.x pp.30–31 quotes transcribed from the PDF, not\n  memory, and logged in ../../../research/verification-log.md as the banned-claim fix\n  delivered.\n- **Register audit:** FACT ×8 (§4 numeral stability + Hindi descent ×2 · §5 fluency +\n  spacing + retroflexion ×3 · §13 October fix + नव split ×2 · §15 rules ×1) · HISTORY ×0\n  (the Roman-calendar line rides inside §13's FACT corrective per the chapter notes;\n  no dated-era claims made) · TRADITION ×0 · SYMBOL ×0. The 1.x month-name caption\n  appears only as a documented, corrected 1.x error (§4, §13, §23), per EDITORIAL_GUIDELINES\n  §3. Quiz Q1–Q8 all FACT-register content."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "षट्",
+      "iast": "ṣaṭ",
+      "ipa": "/ʂɐʈ/",
+      "en": "six",
+      "hi": "छह",
+      "notes": "retroflex at both ends (§9, §11); final ट् clean and alone; shelf row beside *sex*/*six* (§13); wears षड् in the title's company dress (§8)"
+    },
+    {
+      "deva": "सप्त",
+      "iast": "sapta",
+      "ipa": "/sɐpt̪ɐ/",
+      "en": "seven",
+      "hi": "सात",
+      "notes": "the teeth rail — प्त welded, त dental (§9); shelf row beside *septem*/*seven* (§13)"
+    },
+    {
+      "deva": "अष्ट",
+      "iast": "aṣṭa",
+      "ipa": "/ɐʂʈɐ/",
+      "en": "eight",
+      "hi": "आठ",
+      "notes": "the ष्ट weld — one curled gesture (§10, §11); the October-fix word, sibling of *octō* (§13)"
+    },
+    {
+      "deva": "नव",
+      "iast": "nava",
+      "ipa": "/n̪ɐʋɐ/",
+      "en": "nine",
+      "hi": "नौ",
+      "notes": "the honest split: distinct from नव \"new\" of v1.c04.l01 — stems नवन् vs नव (§13); sibling of *nine*"
+    },
+    {
+      "deva": "कति",
+      "iast": "kati",
+      "ipa": "/kɐt̪i/",
+      "en": "how many?",
+      "hi": "कितने, कितनी",
+      "notes": "the question kit's seventh member (§8, §15); answers stand bare: कति? षट्! shelf row beside *quot* (§13)"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The retroflex showcase on today's list is: (a) सप्त and दश (b) षट् and अष्ट — ष and ट\n   want the tongue-tip curled back (c) नव and कति (d) एक and द्वि\n2. The honest statement about November: (a) it comes from Sanskrit नव (b) it is Latin\n   counting its own old calendar — novem \"nine\" for the ninth month of a year that began\n   in March; नव and novem are cognates (c) the resemblance is pure coincidence (d) Latin\n   borrowed novem from Sanskrit\n3. अष्ट and Latin octō are: (a) ancestor and descendant (b) a loanword pair (c) siblings\n   — parallel descendants of one Proto-Indo-European ancestor; neither derives from the\n   other (d) unrelated look-alikes\n4. नव \"nine\" and नव \"new\": (a) one word with two meanings (b) two distinct words — stems\n   नवन् and नव — that fell together in citation form, with two different English cousins,\n   *nine* and *new* (c) poetic variants of each other (d) the second is Hindi, not\n   Sanskrit\n5. The taught answer to कति? is: (a) a bare number — कति? षट्! (b) a number with a verb\n   (c) a number inflected to match a noun (d) only a Devanagari digit held up\n6. दश on today's list is: (a) a brand-new headword (b) a review row — readable since\n   v1.c04 with its decem line already on record; it does not increment the ledger (c) a\n   borrowing from Latin (d) display-only\n7. Station 0 today was: (a) a new exam (b) lesson 1's +1-day interval landing on\n   schedule — the chant re-run and digit cards १–५ at speed (c) optional warm-up with no\n   log (d) next week's review done early\n8. The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश is: (a) simplified\n   fake Sanskrit (b) real, inflected neuter counting forms learned whole as practice —\n   with the system behind them honestly deferred (c) obligatory before every answer\n   (d) a Vedic verse",
+    "answer_key_markdown": "1. (b) — the curled pair; सप्त and दश answer from the teeth rail (§9, §11).\n2. (b) — Latin's own arithmetic; the 1.x derivation claim corrected (§13) — the chapter's\n   flagship line.\n3. (c) — siblings, no arrow (§13). ((a) and (b) are §12's mistake 4 in two dresses.)\n4. (b) — the honest split of the v1.c04.l01 row (§13).\n5. (a) — bare answers are the taught, standard pattern (§15). ((b) and (c) are §12's\n   mistake 6.)\n6. (b) — review duty, not a ledger entry; five new + one review, 285 → 290 (§14).\n7. (b) — spaced retrieval on schedule (§3, §5).\n8. (b) — counting dress, honestly labeled (§15); from six on it matches the stems — an\n   observation, not a law.\n\n**Exercise keys.** Ex. 1: curled rail = षट् and अष्ट, plus the chant's त्रीणि — its ण is\nthe hidden retroflex; the stem त्रि shows none. Everything else rides the no-curl rail.\nEx. 4: (a) **reject** — Latin's own novem; cognates, not derivation — THE October-fix\ncard; (b) keep — FACT; (c) keep — FACT, on record since v1.c04.l02; (d) **reject** — two\nwords, two cousins (§13); (e) keep — FACT, a true *downward* descent line inside\nIndo-Aryan [REF:masica1991], which is exactly why it can be kept while (a) is rejected:\ndirection claims are true downward and false sideways; (f) **reject** — real inflected\nforms, system deferred (§15). Ex. 5 set: षट् · सप्त · अष्ट · नव · कति · दश. Ex. 6 models:\n(a) कति? — अष्ट! (b) तत्र कति? — दश! (c) कति? — षट्! न — सप्त! (d) the §6 chant line."
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "The Proto-Indo-European numerals are among the most stable items of inherited vocabulary: Sanskrit, Latin, Greek and English all carry the same ten words, each worn down by its own regular sound changes — parallel inheritance, not borrowing. [REF:mallory2006] [REF:burrow2001]",
+      "refs": [
+        "mallory2006",
+        "burrow2001"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "The same inheritance runs *downward* inside Indo-Aryan: Hindi छह, सात, आठ, नौ, दस are the direct descendants of षट्, सप्त, अष्ट, नव, दश — the regular गृह → घर story, five more times. [REF:masica1991]",
+      "refs": [
+        "masica1991"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Number words are the classic case for fluency work: a digit's name must arrive without translation, or counts and dates stay unusable in real speech. Timed retrieval of small chunks — the digit-name ladder, the bare कति exchange — is the fluency strand doing its job. [REF:nation2013]",
+      "refs": [
+        "nation2013"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Spaced retrieval beats massed re-study; today's Station 0 is l01's +1-day interval landing on schedule, and this lesson books its own +1-day and +1-week re-runs before it ends (§20). [REF:cepeda2006] [REF:roediger2006]",
+      "refs": [
+        "cepeda2006",
+        "roediger2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Sanskrit contrasts dental and retroflex consonants as different speech sounds — tongue on the teeth versus tongue-tip curled back — and retroflexion is a defining areal feature of the South Asian languages (not unique to them: Swedish and Norwegian have retroflexes too). Today's list is a minimal workout for exactly that contrast: षट् and अष्ट curled, सप्त and दश on the teeth. [REF:masica1991]",
+      "refs": [
+        "masica1991"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "October, November and December do not come from Sanskrit. They are Latin counting its own calendar: *octō*, *novem*, *decem* — \"eight, nine, ten\" — naming the 8th, 9th and 10th months of the old Roman year, which began in March. Latin *octō* and Sanskrit अष्ट are cognates — siblings descended from one Proto-Indo-European ancestor; neither derives from the other, and the same holds down the whole row of numerals. [REF:mallory2006] [REF:burrow2001]",
+      "refs": [
+        "mallory2006",
+        "burrow2001"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "नव \"nine\" and नव \"new\" are two distinct Sanskrit words — the dictionaries file them separately, with distinct stems (नवन् for the numeral, नव for the adjective) — that happen to fall together in citation form. Both have English cognates, and they are *different* ones: *nine* beside the numeral, *new* beside the adjective. [REF:monierwilliams1899 s.vv.]",
+      "refs": [
+        "monierwilliams1899 s.vv."
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "(1) The stems एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश are the citation names of the numbers; Sanskrit numerals inflect for gender and case, a system this course defers honestly and never fakes. (2) The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश is made of real, inflected neuter counting forms, learned whole as practice. (3) कति \"how many?\" is the classical interrogative of quantity, and its answer may stand bare: कति? — पञ्च! [REF:apte1890 s.v. कति] [REF:whitney1889]",
+      "refs": [
+        "apte1890 s.v. कति",
+        "whitney1889"
+      ]
+    }
+  ]
+}

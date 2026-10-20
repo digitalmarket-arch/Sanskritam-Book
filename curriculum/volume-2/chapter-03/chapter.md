@@ -8,9 +8,9 @@ title:
 volume: 2
 chapter: 3
 cefr: A2
-status: draft
+status: reviewed
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 ---
 
 # Chapter 3 — संख्याः कालश्च · Numbers & Time

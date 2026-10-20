@@ -1,0 +1,379 @@
+{
+  "frontmatter": {
+    "id": "v2.c03.l04",
+    "schema_version": 1,
+    "title": {
+      "sa": "वासराः",
+      "sa_iast": "vāsarāḥ",
+      "hi": "वासर — सप्ताह के दिन",
+      "en": "The Week"
+    },
+    "volume": 2,
+    "chapter": 3,
+    "lesson": 4,
+    "lesson_type": "vocabulary",
+    "cefr": "A2",
+    "duration_minutes": 45,
+    "self_study_minutes": 35,
+    "prerequisites": [
+      "v2.c03.l03"
+    ],
+    "review_of": [
+      "v2.c03.l03",
+      "v1.c05.l05"
+    ],
+    "objectives": [
+      {
+        "en": "Read and say वासरः and the seven day-names — रविवासरः to शनिवासरः — with the ङ्ग and क्र stacks welded, the mid-word आ full, and every final visarga breathed.",
+        "hi": "वासरः और सातों वार-नाम — रविवासरः से शनिवासरः तक — ङ्ग और क्र की गाँठें जोड़कर, बीच की आ पूरी और हर अन्तिम विसर्ग साँस समेत पढ़ें-बोलें।"
+      },
+      {
+        "en": "Ask and answer the week's frames — अद्य कः वासरः? श्वः कः वासरः? ह्यः कः वासरः? — off a real calendar, verbless and in pause form.",
+        "hi": "सप्ताह के साँचे — अद्य कः वासरः? श्वः कः वासरः? ह्यः कः वासरः? — असली दिनदर्शिका देखकर, बिना क्रिया के, विराम-रूप में पूछें और उत्तर दें।"
+      },
+      {
+        "en": "Read dates off a Devanagari-digit month grid as digit-and-day pairings — शुक्रवासरः — ७ — with no ordinal grammar invented.",
+        "hi": "देवनागरी अंकों वाले महीने के ग्रिड से तिथियाँ अंक-और-वार की जोड़ी की तरह पढ़ें — शुक्रवासरः — ७ — बिना कोई क्रम-सूचक व्याकरण गढ़े।"
+      },
+      {
+        "en": "Tell the honest week story — the वासर names are real classical and medieval Sanskrit; the seven-day system entered Indian usage in the early centuries CE with the same astronomy that brought होरा — and give the Hindi bridge: सोमवार is सोमवासरः worn smooth.",
+        "hi": "सप्ताह की ईमानदार कहानी बताएँ — वासर-नाम सच्चे शास्त्रीय-मध्यकालीन संस्कृत शब्द हैं; सात-दिन की प्रणाली ईसवी की आरम्भिक शताब्दियों में उसी खगोलशास्त्र के साथ भारत आई जो होरा लाया — और हिन्दी-सेतु भी: सोमवार असल में घिसा हुआ सोमवासरः है।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 8,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-2/v2c03l04-week-wheel.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-2/v2c03l04-drill.mp3",
+        "planned:assets/audio/volume-2/v2c03l04-word-list.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-2/v2c03l04-calendar-grid.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "vocabulary",
+      "week",
+      "weekdays",
+      "calendar",
+      "time",
+      "compounds",
+      "history-honesty",
+      "spaced-review"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-08-04"
+    ],
+    "created": "2026-08-03",
+    "updated": "2026-08-04"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Say सोमवार. You have said it your whole life — and you have been speaking compressed\nSanskrit all along: सोम, the moon, plus वार — a वासर worn smooth by centuries of daily\nuse. Today the full classical forms report for duty: वासरः and the seven day-names,\nरविवासरः to शनिवासरः — the sun's day to Saturn's day, real Sanskrit, today's standard.\nAnd they carry the chapter's last honesty story: the words are Sanskrit's own, but the\nseven-day week itself is a traveler — it arrived with the very astronomy that brought\nlast lesson's होरा. An hour and a week off one ship. Today you learn the names, read a\ncalendar with them, and tell their story straight."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Read and say वासरः and the seven day-names with ङ्ग and क्र welded, the mid-word आ full, every final visarga breathed. | वासरः और सातों वार-नाम ङ्ग-क्र की गाँठों, पूरी आ और सच्चे विसर्ग समेत पढ़ें-बोलें। |\n| 2 | Ask and answer the week's frames — अद्य कः वासरः? श्वः? ह्यः? — off a real calendar, verbless, pause form. | असली दिनदर्शिका देखकर सप्ताह के साँचे बिना क्रिया के पूछें-बताएँ। |\n| 3 | Read dates off a Devanagari-digit month grid as digit-and-day pairings — शुक्रवासरः — ७ — no ordinals invented. | ग्रिड से तिथियाँ अंक-वार की जोड़ी की तरह पढ़ें; कोई क्रम-सूचक व्याकरण नहीं। |\n| 4 | Tell the honest week story — real Sanskrit names, an honestly dated imported system — and the Hindi bridge सोमवार < सोमवासरः. | सप्ताह की ईमानदार कहानी और हिन्दी-सेतु बताएँ। |\n\nObjective 1 is built in §8/§9/§14 and tested in §18 (exercises 1, 5) and §19 (Q3, Q7,\nQ8); objective 2 in §6/§8/§15/§16, §18 (exercise 2), §19 (Q4); objective 3 in §8/§15,\n§18 (exercise 3), §19 (Q6); objective 4 in §4/§13, §18 (exercise 4), §19 (Q1, Q2, Q5)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पुनरावृत्तिः — Station 0 first: lesson 3's clock comes due today. Then four memory\nprompts. Everything from memory *before* any key opens [REF:roediger2006].\n\n### Station 0 — l03's +1-day arrives\n\nv2.c03.l03 §20 scheduled today's re-run. Two items, three minutes; log the scores\nbeside yesterday's [REF:cepeda2006]:\n\n1. **The trio at speed** — l03's strip drill (its exercise 2), compressed: ten random\n   calls — अद्य / श्वः / ह्यः — gloss each within a beat; then the reverse row: hear\n   \"tomorrow\", say श्वः. No hesitation survives this interval.\n2. **The होरा line, retold cold.** One sentence, arrow drawn: which way did होरा\n   travel, and with what did it arrive? Today's lesson boards the same ship.\n\nl03's other +1-day piece — its dictation re-take (exercise 4) — rides in tonight's\nhomework (§21, item 1), completing yesterday's §20 schedule.\n\n### The prompts\n\n1. From v2.c03.l03: dissect सप्ताहः — which two pieces, and what does the build say?\n2. From v1.c05.l05: write the digits ०–९ from memory, in order — today they get a\n   calendar to live on.\n3. From v1.c04.l01: the sun word and the teacher word — both short, both long since\n   yours. Which two, and what second job does each take today?\n4. From the scene work of v2.c02.l03: the everyday sun and moon, both in sentence\n   dress.\n\n<details><summary>उत्तराणि · Answers</summary>\n\n0. Station 0: trio ×10 within the beat, reverse row clean; होरा — borrowed INTO\n   Sanskrit from Greek, with Hellenistic astronomy (l03 §13). Score /2 halves; log it.\n1. सप्त + अह — \"a seven of days\": the word carries its own arithmetic (l03 §8).\n2. ० १ २ ३ ४ ५ ६ ७ ८ ९ (v1.c05.l05) — self-check stroke by stroke; §18's grid work\n   runs on them.\n3. रवि \"sun\" and गुरु \"teacher\" (v1.c04.l01) — today रवि fronts Sunday, and गुरु\n   moonlights as Jupiter inside गुरुवासरः (§8).\n4. सूर्यः and चन्द्रः — they keep the everyday jobs; रवि and सोम take the planet-week\n   shift (§8, §13).\n</details>\n\nA dropped trio call sends you to l03's trio drills tonight — not to a halt today."
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिकः सन्दर्भः — a set of words that is Sanskrit's own, riding a system that\nsailed in.\n\nLast lesson ended on होरा — the hour that came INTO Sanskrit with Hellenistic\nastronomy. Today's vocabulary is that story's traveling companion. वासरः \"day\" is an\nattested Sanskrit word with a long dictionary pedigree, and the seven day-names are\ntransparent compounds built on it: a planet word in front, वासरः behind.\n\n> **[FACT · तथ्यम्]** वासरः \"day\" and the seven compound day-names रविवासरः …\n> शनिवासरः are attested Sanskrit, and they are today's standard Sanskrit names for\n> the weekdays. [REF:monierwilliams1899 s.v. वासर] [REF:apte1890 s.v. वासर]\n\n> **[FACT · तथ्यम्]** The everyday Hindi day-names descend from the -वासर forms:\n> सोमवार, मंगलवार and their row carry वार, the worn-down वासर — regular descent down\n> the Indo-Aryan line, the गृह → घर story running on a calendar. [REF:masica1991]\n\nAnd the week itself? That is §13's centerpiece, told with the dating honestly hedged:\nthe seven-day planetary week is a documented arrival, not a timeless fixture — and\nthe course says so with the same calm it used for होरा. One chapter promise lands\ntoday: the day-cycle of v2.c01 (प्रभातम्, सायम् and their hours) finally gets its\ncalendar, and the digits of v1.c05.l05 get a grid to live on."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिकं विवरणम् — why a cycle is learned as a wheel, and why the grid is the real\ndrill.\n\n> **[FACT · तथ्यम्]** Vocabulary sticks when it arrives inside usable patterns and is\n> retrieved from them, not memorized as bare lists — the frame अद्य कः वासरः? turns\n> all seven names into answers you can give the hour you learn them, and the wheel's\n> fixed order gives memory a track to run on. [REF:nation2013]\n\n> **[FACT · तथ्यम्]** Spaced retrieval beats massed re-study: today's Station 0 is\n> l03's +1-day landing on schedule, and this lesson sets its own +1-day and +1-week\n> re-runs before it ends — the +1-week is the chapter exam itself.\n> [REF:cepeda2006] [REF:roediger2006]\n\nOne more working reason: अद्य, श्वः and ह्यः are deictics — their answers move with\nthe day — so a weekday answer is *computed*, never merely recalled. The wheel drill\ngives you serial order (cheap, fast, stable); the grid drill forces random access\n(which day is the ९?); real calendar life asks for both, and so does the exam. That\nis why §9 drills the circle and §18 drills the grid, in that order."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतेन विवरणम् — the week, asked and answered in sentences you fully own:\n\n> **अद्य कः वासरः? — अद्य बुधवासरः।**\n> (adya kaḥ vāsaraḥ? — adya budhavāsaraḥ.) \"What day is it today? — Today is\n> Wednesday.\" — आज कौन-सा वार है? — आज बुधवार।\n\n> **श्वः कः वासरः? — श्वः गुरुवासरः।**\n> (śvaḥ kaḥ vāsaraḥ? — śvaḥ guruvāsaraḥ.) \"What day is tomorrow? — Tomorrow is\n> Thursday.\" — आने वाला कल कौन-सा वार? — कल गुरुवार।\n\n> **ह्यः कः वासरः? — ह्यः मङ्गलवासरः।**\n> (hyaḥ kaḥ vāsaraḥ? — hyaḥ maṅgalavāsaraḥ.) \"What day was yesterday? — Yesterday\n> was Tuesday.\" — बीता कल कौन-सा वार था? — बीता कल मंगलवार।\n\nEvery line is verbless — the naming frame of अहम् रामः and मम भ्राता अर्जुनः, now\ntelling the date. कः is the question word for a ः-word, exactly the rule of thumb of\nv1.c06.l02: वासरः wears ः, so the question wears कः. The trio अद्य, श्वः, ह्यः came\nfrom lesson 3; today they get seven answers each."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी में समझिए\n\nआज की सूची आपकी ज़बान पर पहले से है — सोमवार, मंगलवार, बुधवार आप रोज़ बोलते हैं। आज\nबस यह देखना है कि इन नामों के भीतर क्या बैठा है: वार असल में संस्कृत वासर का सदियों\nमें घिसा हुआ रूप है — वैसे ही जैसे गृह चलते-चलते घर बना। इसलिए सोमवार के पीछे पूरा\nशब्द सोमवासरः खड़ा है, और यह पाठ्यक्रम वही पूरा रूप लिखता-बुलवाता है: अन्त का विसर्ग\nसाँस समेत, बीच की आ पूरी दो मात्राएँ — \"वसर\" नहीं, वासर।\n\nदूसरी बात — दो गाँठें सँभालिए। मङ्गलवासरः में वही ङ्ग है जो गङ्गा में था: ग के ऊपर\nबैठा ङ। अख़बारी छपाई प्रायः बिंदु से काम चलाती है — मंगल — पढ़ने में दोनों एक ही हैं,\nपर यह पाठ्यक्रम शास्त्रीय वर्तनी लिखता है। और शुक्रवासरः में क्र है — क् और र एक ही\nखाने में, बीच में कोई स्वर नहीं: \"शुकर\" नहीं, शुक्र।\n\nतीसरी — इतिहास की ईमानदारी। वासर-नाम सच्चे संस्कृत शब्द हैं: शास्त्रीय और मध्यकालीन\nग्रन्थों में मिलते हैं, आज के मानक हैं। पर सात दिन की प्रणाली स्वयं भारत में ईसवी की\nआरम्भिक शताब्दियों में आई — उसी यूनानी खगोलशास्त्र के साथ जो पिछले पाठ की होरा लाया\nथा। दोनों बातें साथ कहिए: शब्द अपने, प्रणाली आई हुई — यही पूरा सच है, और यही गर्व की\nईमानदार ज़मीन भी।\n\nऔर साँचे वही पुराने हैं: अद्य कः वासरः? — अद्य सोमवासरः। बिना क्रिया के, विराम-रूप\nमें। तिथि पढ़नी हो तो अंक और वार की जोड़ी बोलिए — शुक्रवासरः — ७। \"सातवाँ\" वाला\nव्याकरण अभी नहीं आया है; उसे गढ़िए मत — इशारा कीजिए, जोड़ी बोलिए, आगे बढ़िए।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "No new letter, no new sign — the Volume 2 luxury holds. The load is one word, seven\ncompounds built on it, two conjunct welds back on duty, and one honest history.\n\n### One word, seven compounds\n\n**वासरः** (vāsaraḥ) \"day (of the week)\" is the chassis. The seven names are\ntransparent builds: a planet word in front, वासरः behind — **रविवासरः** (ravivāsaraḥ)\nSunday, **सोमवासरः** (somavāsaraḥ) Monday, **मङ्गलवासरः** (maṅgalavāsaraḥ) Tuesday,\n**बुधवासरः** (budhavāsaraḥ) Wednesday, **गुरुवासरः** (guruvāsaraḥ) Thursday,\n**शुक्रवासरः** (śukravāsaraḥ) Friday, **शनिवासरः** (śanivāsaraḥ) Saturday. The tail\nnever changes; all the information rides up front. One display form, glossed once and\nhonestly: the title **वासराः** (vāsarāḥ) \"days\" — वासरः in its plural dress. You can\nread it; the plural system is later business, and today's frames never need it.\n\n### The fronts — two old friends, five riders\n\n**रवि** is your sun word from v1.c04.l01, fronting Sunday. **गुरु**, your teacher\nword since the course's first hour, moonlights here as the planet Jupiter. Those two\nare ledger words already. The other five fronts — **सोम** the moon's old name, with\nचन्द्रः keeping the everyday job while सोम works the calendar shift, **मङ्गल**\n\"Mars\", **बुध** \"Mercury\", **शुक्र** \"Venus\", **शनि** \"Saturn\" — arrive *inside*\ntheir compounds: you read them there, their planet meanings sit in §14's notes, and\nthey are not separate headwords today. Honest counting, as always: वासरः + seven\nnames = eight new words, not twelve.\n\n### The frames\n\n**अद्य कः वासरः?** — **अद्य बुधवासरः।** Then the trio does the rest: श्वः कः वासरः?\nह्यः कः वासरः? Verbless naming frames, pause form, कः because वासरः is a ः-word\n(v1.c06.l02's rule of thumb on calendar duty). That is the entire grammar of today;\n§16 runs a whole breakfast on it.\n\n### The grid\n\nThe worksheet's month grid wears Devanagari digits and a weekday header row. The\nprotocol: find the अद्य marker; count forward one for श्वः, back one for ह्यः; answer\nthe three questions aloud. A circled date is read as a *pairing* — day and digit:\n**शुक्रवासरः — ७**, or digit-first the way the exam will ask: **सप्त —\nशुक्रवासरः।** For a date beyond ten, point and let the digits speak one at a time —\non १५, say सोमवासरः and tap एक, पञ्च — the teen-names are later business, and the\nexam keeps its circled dates inside १–१०, the names you own. What you never do is\ninvent machinery: no \"fifteenth\", no \"on Friday\". Pair, point, move on.\n\n### The two welds\n\nमङ्गलवासरः carries **ङ्ग** — the गङ्गा stack of v1.c06.l01, back on duty: velar\nnasal seated on ग. Newspaper print often writes the convenience form मंगल with the\ndot; you read both identically, and this course writes the classical stack.\nशुक्रवासरः carries **क्र** — the ्र stroke of v1.c05.l04 under क. Both welds are old\nskills; §9 and §12 keep them honest at speed."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is two welds, one long आ held mid-word, and full\nfinals. Audio: 🔊 `planned:assets/audio/volume-2/v2c03l04-drill.mp3` (drills 1–3),\n`planned:assets/audio/volume-2/v2c03l04-word-list.mp3` (three speeds + dictation\ntrack).\n\n**Drill 1 — the welds.** Build both stacks from parts, slow motion: मङ् — गल —\nमङ्गल — मङ्गलवासरः; शु — क्र — शुक्र — शुक्रवासरः. Finger on the nose for ङ् — it\nbuzzes; the nasal hums at the ग place, then releases into ग. For क्र: क् straight\ninto the tap, no vowel inside.\n\n**Drill 2 — the wheel roll-call.** With the audio, fixed order, three passes (slow ·\nnatural · timed): रविवासरः — सोमवासरः — मङ्गलवासरः — बुधवासरः — गुरुवासरः —\nशुक्रवासरः — शनिवासरः. The order is the memory palace; then one pass starting from\n*today's* day, because the wheel has no edge.\n\n**Drill 3 — the frame ladder.** The audio names a day; you answer the trio inside the\nbeat: अद्य गुरुवासरः। श्वः शुक्रवासरः। ह्यः बुधवासरः। Timed retrieval of chunks —\nthe fluency strand doing its job [REF:nation2013].\n\n**Drill 4 — three speeds.** The §14 list, block by block, natural, target pace; log\nthe third time (§18 exercise 5 re-uses it). The standing law at every speed: every\nवा held two beats, every ending breathed, no weld leaking a vowel."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new values — every symbol has been on your chart since Volume 1.\n\n**Word transcriptions:** वासरः /ʋɑːsɐɾɐh/ · रविवासरः /ɾɐʋiʋɑːsɐɾɐh/ · सोमवासरः\n/soːmɐʋɑːsɐɾɐh/ · मङ्गलवासरः /mɐŋgɐlɐʋɑːsɐɾɐh/ · बुधवासरः /bud̪ʱɐʋɑːsɐɾɐh/ ·\nगुरुवासरः /guɾuʋɑːsɐɾɐh/ · शुक्रवासरः /ɕukɾɐʋɑːsɐɾɐh/ · शनिवासरः /ɕɐn̪iʋɑːsɐɾɐh/.\n\n**Narrow note — the nasal seam:** मङ्गलवासरः divides [mɐŋ.gɐ.lɐ.ʋɑː.sɐ.ɾɐh] — the\nvelar nasal closes the first syllable, exactly as गङ्गा divides [gɐŋ.gɑː]\n(v1.c06.l01). No vowel between ŋ and g.\n\n**Narrow note — the क्र weld:** /kɾ/ is one gesture — stop straight into the tap.\n\"śukara\" means a vowel leaked; re-run drill 1.\n\n**Narrow note — the constant tail:** all seven names end /ʋɑːsɐɾɐh/ — a long /ɑː/\nheld mid-word and a final voiceless /h/. बुधवासरः hides the one breathy stop of the\nset: /d̪ʱ/, voice plus breath, never plain d."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थितिः — four checks; the articulators know all of this already. The week wheel\n(`planned:assets/images/volume-2/v2c03l04-week-wheel.svg`) marks the ङ्ग and क्र\njoins on its sector labels.\n\n1. **The hum check.** Say मङ्गलवासरः in slow motion and freeze on ङ् — back of the\n   tongue up at the soft palate, air through the nose. A finger on the nose buzzes.\n   Release into ग with no vowel between.\n2. **The weld check.** शुक्रवासरः frozen after शु: the क् and the tap र fire as one\n   block. If you hear \"śu-ka-ra\", a vowel leaked — re-run the v1.c05.l04 ्र drill.\n3. **The length check.** Mirror on any name: the jaw drops for the वा and *stays*\n   through two full beats — mid-word आ is where Hindi habit clips.\n4. **The breath check.** Palm before the lips on every -रः: a light voiceless puff.\n   The exam discipline of v2.c01.l05 never retires."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz\ndistractors.\n\n1. **The Hindi form slipping in — सोमवार for सोमवासरः.** The descendant is real and\n   honored (§4, §13); the Sanskrit frame wants the full form. *Fix:* restore the\n   -वासरः tail aloud, visarga and all — the chapter exam flags this exact habit.\n2. **ङ्ग broken.** Either a vowel leaks (\"maṅagala\") or the stack goes unrecognized.\n   *Fix:* §9 drill 1, §11 check 1. Reading the convenience print मंगल as the same\n   sounds is fine — the गङ्गा/गंगा note of v1.c06.l01 applies unchanged; *writing*\n   stays classical in this course.\n3. **क्र leaked — \"śukara\".** *Fix:* the ्र stroke is a weld, not a syllable; §11\n   check 2.\n4. **The mid-word आ clipped — \"vasara\".** Hindi habit shortens the unstressed middle.\n   *Fix:* two beats on वा at every speed; log drill 4.\n5. **Ordinal ambition.** Inventing \"fifteenth\" grammar for dates, or a locative \"on\n   Friday\". *Fix:* dates are digit-and-day pairings — शुक्रवासरः — ७ — and nothing\n   more yet; the machinery arrives honestly later (§15).\n6. **The history flip — in both directions.** \"The seven-day week has always been\n   Indian\" fails one way; \"वासरः is a Greek loan\" fails the other. *Fix:* the words\n   are Sanskrit's own; the *system* is the documented import, honestly dated; the\n   loanword was होरा (§13). The exam's task D cards are built from this exact line."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — three stories inside today's list.\n\n### The honest week\n\n> **[HISTORY · इतिहासः]** The weekday names follow the seven-planet week — a day\n> each for the sun, the moon, and the five visible planets. That system entered\n> Indian usage in the early centuries CE, alongside Hellenistic astronomy — the same\n> current that carried होरा into Sanskrit (v2.c03.l03). The वासर day-names\n> themselves are attested from later classical and medieval texts and are today's\n> standard Sanskrit. Both halves are true at once: the words are classical and\n> medieval Sanskrit; the seven-day system is a documented historical import. The\n> same seven-planet scheme stands behind the English names too — *Sunday*, *Monday*\n> and *Saturday* wear it transparently.\n> [REF:monierwilliams1899 s.v. वासर] [REF:burrow2001] [REF:oed s.vv. Sunday, Monday, Saturday]\n\nHold the pairing: lesson 3 gave you a *word* that immigrated (होरा); this lesson\ngives you a *system* that immigrated, wearing home-grown words. The week and the\nhour arrived with the same astronomy — one ship, two souvenirs — and neither fact\ndiminishes the other. \"Early centuries CE\" is as precise as the course will honestly\nbe; anyone selling you an exact year is reaching, and anyone selling you a Vedic\nseven-day week is wrong in the other direction.\n\n### The planets in front\n\n> **[FACT · तथ्यम्]** The seven fronts are the classical planet words: रवि \"sun\" ·\n> सोम \"moon\" · मङ्गल \"Mars\" — as a common noun also \"welfare, auspiciousness\" ·\n> बुध \"Mercury\" · गुरु \"Jupiter\" — the same word as your \"teacher\" · शुक्र \"Venus\" ·\n> शनि \"Saturn\". All seven senses sit in the standard dictionaries.\n> [REF:monierwilliams1899 s.vv.] [REF:apte1890]\n\nTwo of the seven are already yours: रवि and गुरु from v1.c04.l01. सोम — the moon's\nolder name beside everyday चन्द्रः, the world set and the week shaking hands — and\nthe other four you meet *inside* their compounds, which is exactly how the ledger\ncounts them (§14).\n\n### वार — the worn-down वासर\n\nHindi did to वासर what it did to गृह: centuries of daily speech wore सोमवासरः down\nto सोमवार, मङ्गलवासरः to मंगलवार, and so along the row [REF:masica1991]. The\ndirection is the honest kind — parent to child, *inside* Indo-Aryan, true downward —\nand it hands Hindi speakers half of today's lesson for free. The work left is\nrestoring what wore away: the full -वासरः tail, the classical ङ्ग, the breathed\nending."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — eight headwords, all ledger-new; **297 → 305** — the chapter's promised\nexit (≈305, chapter.md; counts reconciled at review, as always). Audio: 🔊\n`planned:assets/audio/volume-2/v2c03l04-word-list.mp3` (each word twice, three-speed\npasses, then the dictation track). Lists stay sentence-dressed: every name in its\nmasculine ः.\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| वासरः | vāsaraḥ | /ʋɑːsɐɾɐh/ | day (of the week) | वार, दिन | the chassis word; Hindi वार is its worn-down descendant (§4, §13); mid-word आ full (§12) |\n| रविवासरः | ravivāsaraḥ | /ɾɐʋiʋɑːsɐɾɐh/ | Sunday | रविवार | रवि \"sun\" — yours since v1.c04.l01 — on planet-week duty |\n| सोमवासरः | somavāsaraḥ | /soːmɐʋɑːsɐɾɐh/ | Monday | सोमवार | सोम — the moon's old name; चन्द्रः keeps the everyday job (§8, §13) |\n| मङ्गलवासरः | maṅgalavāsaraḥ | /mɐŋgɐlɐʋɑːsɐɾɐh/ | Tuesday | मंगलवार | मङ्गल \"Mars\" — also \"welfare, auspiciousness\" — arrives inside the compound; ङ्ग = the गङ्गा stack (§8, §12) |\n| बुधवासरः | budhavāsaraḥ | /bud̪ʱɐʋɑːsɐɾɐh/ | Wednesday | बुधवार | बुध \"Mercury\" inside the compound; breathy ध (§10) |\n| गुरुवासरः | guruvāsaraḥ | /guɾuʋɑːsɐɾɐh/ | Thursday | गुरुवार, बृहस्पतिवार | गुरु — your teacher word (v1.c04.l01) moonlighting as Jupiter (§8, §13) |\n| शुक्रवासरः | śukravāsaraḥ | /ɕukɾɐʋɑːsɐɾɐh/ | Friday | शुक्रवार | शुक्र \"Venus\" inside the compound; क्र = the ्र stroke weld (§8, §12) |\n| शनिवासरः | śanivāsaraḥ | /ɕɐn̪iʋɑːsɐɾɐh/ | Saturday | शनिवार | शनि \"Saturn\" inside the compound; dental न on the teeth |\n\nThe honest count: वासरः + the seven names = eight headwords. The fronts रवि and\nगुरु are ledger words already and re-enter nothing; सोम, मङ्गल, बुध, शुक्र and शनि arrive\n*inside* their compounds — their planet meanings live in the Notes above, and they\nbecome headwords only when they earn their own lessons.\n\nBack on duty, review rows only — no re-entry to the ledger: **अद्य** (adya) ·\n**श्वः** (śvaḥ) · **ह्यः** (hyaḥ) · **सप्ताहः** (saptāhaḥ) from v2.c03.l03, and the\ndigits ०–९ from v1.c05.l05, now living on a month grid.\n\nDisplay-only, excluded from all counts and decks: **वासराः** (vāsarāḥ) \"days\" — the\ntitle's plural dress, glossed here once, system later — and the Hindi descendants\nसोमवार, मंगलवार and their row (§4, §13).\n\nReading protocol unchanged: count the blocks, read the blocks, read the word —\nम-ङ्ग-ल-वा-स-रः, शु-क्र-वा-स-रः — then the wheel roll-call (§9 drill 2), and no\nending clipped at any speed."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — one compound shape observed, three frames at work, and the honesty\nlines.\n\n> **[FACT · तथ्यम्]** (1) The day-names are compounds: a planet word in front,\n> वासरः behind — रवि + वासरः → रविवासरः. The front member stands in its bare stem\n> shape, without its sentence dress — *observed* today; the compound system is later\n> business. (2) The question अद्य कः वासरः? wears कः because वासरः is a ः-word —\n> v1.c06.l02's rule of thumb on duty. (3) Date frames are verbless: अद्य सोमवासरः।\n> (4) Dates are digit-and-day pairings — शुक्रवासरः — ७ — with no ordinals, no\n> locatives, no plurals taught; the title's वासराः is a display, glossed once in §8.\n> [REF:whitney1889] [REF:apte1890]\n\n### The grid protocol\n\nFind अद्य. Count forward one column for श्वः, back one for ह्यः — the wheel wraps at\nशनिवासरः the way the grid wraps at the row's edge. A circled date is a pairing, said\nin either order: शुक्रवासरः — ७, or the exam's digit-first सप्त — शुक्रवासरः। Point\nat the cell as you say it; the finger is part of the grammar for now.\n\n### What we are not doing\n\nNo ordinal machinery: अद्य १५ दिनम्?? is ambition — दिनम् is yours (v2.c01.l03), but\nthe course has given you no \"fifteenth\", and gluing a digit onto it does not build\none. No locative: \"on Friday\" has no taught form yet. No\nplural frames: वासराः stays on the title card. Every one of these arrives honestly,\nlater, and today's pairings will still be correct when they do — pause-form pairs\nand verbless frames are safe ground. And one standing label rides every frame you\nbuild here: the वासर names are standard Sanskrit; the seven-day system they count is\n§13's honestly dated arrival — both halves stay said, even in a grammar section."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — one scene: Monday breakfast, माया and her पिता at the wall calendar.\nAudio records into the Chapter 3 drill pack (§27). Every word is self-read.\n\n— सुप्रभातम्, माया! अद्य कः वासरः?\n(suprabhātam, māyā! adya kaḥ vāsaraḥ?) \"Good morning, Māyā! What day is it today?\" —\nसुप्रभात, माया! आज कौन-सा वार है?\n\n— अद्य सोमवासरः!\n(adya somavāsaraḥ!) \"Today is Monday!\" — आज सोमवार!\n\n— आम्! श्वः कः वासरः?\n(ām! śvaḥ kaḥ vāsaraḥ?) \"Yes! What day is tomorrow?\" — हाँ! कल कौन-सा वार?\n\n— श्वः मङ्गलवासरः।\n(śvaḥ maṅgalavāsaraḥ.) \"Tomorrow is Tuesday.\" — कल मंगलवार।\n\n— ह्यः कः वासरः?\n(hyaḥ kaḥ vāsaraḥ?) \"What day was yesterday?\" — बीता कल कौन-सा वार था?\n\n— ह्यः रविवासरः! मम परिवारः अत्र!\n(hyaḥ ravivāsaraḥ! mama parivāraḥ atra!) \"Yesterday was Sunday — my family was\nhere!\" — बीता कल रविवार! मेरा परिवार यहाँ था!\n\n— कति?\n(kati?) \"How many?\" — the finger circles the wheel — कितने?\n\n— सप्त! सप्ताहः!\n(sapta! saptāhaḥ!) \"Seven — a week!\" — सात! सप्ताह!\n\n— शुक्रवासरः — सप्त!\n(śukravāsaraḥ — sapta!) \"Friday — the 7th!\" — the finger lands on a circled date —\nशुक्रवार — सात तारीख़!\n\n— आम्! स्वस्ति, माया!\n(ām! svasti, māyā!) \"Yes! Off you go, Māyā!\" — हाँ! शुभ हो, माया!\n\nHousekeeping: the कः question rides v1.c06.l02's rule of thumb; कति comes from l02\nand takes its bare answer; the date pairing is §15's protocol with a real finger on\na real grid; and no sentence in the scene carries a verb — the date frames never\nneed one, a hair before verbs become next chapter's whole subject."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — सप्ताहः · The Week. Eight lines, told around Māyā's kitchen calendar; each\nline: Devanagari, IAST, English, Hindi.\n\n1. अद्य रविवासरः। मम परिवारः अत्र अस्ति।\n   (adya ravivāsaraḥ. mama parivāraḥ atra asti.) \"Today is Sunday. My family is\n   here.\" — आज रविवार है। मेरा परिवार यहाँ है।\n2. सूर्यः अपि अत्र अस्ति — रविवासरः!\n   (sūryaḥ api atra asti — ravivāsaraḥ!) \"The sun is here too — Sunday!\" — सूरज भी\n   यहाँ है — रविवार!\n3. माया वदति — श्वः कः वासरः?\n   (māyā vadati — śvaḥ kaḥ vāsaraḥ?) \"Māyā says: what day is tomorrow?\" — माया कहती\n   है — कल कौन-सा वार?\n4. अर्जुनः वदति — श्वः सोमवासरः।\n   (arjunaḥ vadati — śvaḥ somavāsaraḥ.) \"Arjuna says: tomorrow is Monday.\" — अर्जुन\n   कहता है — कल सोमवार।\n5. रात्रिः अस्ति। चन्द्रः तत्र अस्ति — सोमवासरः!\n   (rātriḥ asti. candraḥ tatra asti — somavāsaraḥ!) \"It is night. The moon is there\n   — Monday!\" — रात है। चाँद वहाँ है — सोमवार!\n6. माया वदति — मङ्गलवासरः! बुधवासरः! गुरुवासरः! शुक्रवासरः! शनिवासरः!\n   (māyā vadati — maṅgalavāsaraḥ! budhavāsaraḥ! guruvāsaraḥ! śukravāsaraḥ!\n   śanivāsaraḥ!) \"Māyā says: Tuesday! Wednesday! Thursday! Friday! Saturday!\" —\n   माया कहती है — मंगलवार! बुधवार! गुरुवार! शुक्रवार! शनिवार!\n7. माता वदति — कति? माया वदति — सप्त!\n   (mātā vadati — kati? māyā vadati — sapta!) \"Mother says: how many? Māyā says:\n   seven!\" — माता कहती हैं — कितने? माया कहती है — सात!\n8. सप्त — सप्ताहः! सर्वम् शुभम्।\n   (sapta — saptāhaḥ! sarvam śubham.) \"Seven — a week! All is well.\" — सात —\n   सप्ताह! सब शुभ है।\n\nThe quiet craft notes: the sun shows up on the sun's day and the moon on the moon's\n— रवि and सोम doing their planet shifts while सूर्यः and चन्द्रः play the scene\n(§13); line 6 is the wheel recited at joy-speed, and line 7 lands the week on\nlesson 3's arithmetic: सप्त + अह. The cast is the same household Chapter 2 built."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 2, 3, 5 and 6 are production tasks. Do them in order.\nScoreable keys sit in §19's collapsed block.\n\n**अभ्यासः 1 · वासरक्रमः — the wheel order (timed).** Shuffle seven day cards. Sixty\nseconds: lay them in order from रविवासरः and read the circle aloud twice — once from\nरविवासरः, once starting from today's actual day. The wheel has no edge; neither\nshould your recall. Log the time.\n\n**अभ्यासः 2 · त्रिकप्रश्नाः — the trio off the grid (production, spoken).** On the\nworksheet's month grid, set the अद्य marker on any date. Ask and answer aloud, pause\nform: अद्य कः वासरः? श्वः कः वासरः? ह्यः कः वासरः? Move the marker twice more and\nre-run — including once on a शनिवासरः, so the wheel has to wrap. This is the chapter\nexam's calendar task in rehearsal (v2.c03.l05, task E).\n\n**अभ्यासः 3 · तिथिपठनम् — date reading (production, spoken).** Circle three dates\nwithin the first ten days of the grid. Read each as a pairing, day then digit —\nशुक्रवासरः — ७ — then once digit-first, the way the exam will ask: सप्त —\nशुक्रवासरः। Finger on the cell every time. No ordinals: the pairing is the whole\nprotocol (§15).\n\n**अभ्यासः 4 · अङ्कनम् — the honest-week sort.** Keep or reject, one reasoning line\neach: (a) \"The वासर day-names are real, standard Sanskrit.\" (b) \"The seven-day week\nhas always been part of Indian timekeeping.\" (c) \"The week and the hour arrived in\nIndia with the same astronomy.\" (d) \"Hindi सोमवार descends from सोमवासरः.\" (e)\n\"वासरः was borrowed into Sanskrit from Greek.\" Check the asymmetry before opening\nthe key: which card fails because of the *system*, and which because of the *word*?\n\n**अभ्यासः 5 · श्रुतलेखनम् — dictation (production, written).** Play the dictation\ntrack 🔊: the eight headwords in random order, each read twice with a writing pause.\nWrite them in Devanagari. Self-check against §14: every ङ्ग stacked, every क्र\nwelded, every वा long, every final visarga written. 7/8 is a pass; re-take tomorrow\n(§20).\n\n**अभ्यासः 6 · अनुवादः — translate the week (production, written + spoken).** Write\nthe Sanskrit, pause form, then read it aloud: (a) \"Today is Thursday.\" (b) \"Tomorrow\nis Friday.\" (c) \"Yesterday was Wednesday.\" (d) \"What day is it today? — Today is\nSaturday.\" Self-check: every answer is a §6 frame or one word-swap away from one."
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The honest statement about the week: (a) the seven-day week has always been part\n   of Indian timekeeping (b) the वासर names are modern inventions (c) the वासर names\n   are real classical-and-medieval Sanskrit, and the seven-day planetary system they\n   ride entered Indian usage in the early centuries CE with Hellenistic astronomy\n   (d) the week was borrowed from English\n2. Hindi सोमवार: (a) descends from सोमवासरः — वार is the worn-down वासर (b) is the\n   ancestor of सोमवासरः (c) is unrelated to it (d) is a Greek loan, like होरा\n3. The ङ्ग in मङ्गलवासरः: (a) is the गङ्गा stack — the velar nasal seated on ग, no\n   vowel between; newspaper print's मंगल spells the same sounds with the dot (b) is\n   a special Tuesday-only letter (c) is read with a vowel inside — \"maṅagala\" (d) is\n   silent\n4. अद्य गुरुवासरः। श्वः कः वासरः? (a) श्वः शुक्रवासरः। (b) श्वः बुधवासरः। (c) श्वः\n   शनिवासरः। (d) ह्यः शुक्रवासरः।\n5. The fronts of the seven compounds: (a) all seven are brand-new headwords today\n   (b) रवि and गुरु are ledger words already — sun and teacher — on planet\n   duty, and सोम, मङ्गल, बुध, शुक्र, शनि arrive inside their compounds, noted but not\n   separately taught (c) they are Greek loans (d) they are meaningless prefixes\n6. A circled ७ under the Friday column is read: (a) with invented \"seventh\" grammar\n   (b) as a pairing — शुक्रवासरः — ७, or digit-first सप्त — शुक्रवासरः — ordinals\n   are later business (c) by skipping the digit (d) in the Hindi form only\n7. गुरुवासरः carries in front: (a) a brand-new word that only means Jupiter (b) your\n   गुरु \"teacher\" of v1.c04.l01, moonlighting as the planet Jupiter (c) the Greek\n   word for Thursday (d) the word for \"heavy\" with no planet sense in the\n   dictionaries\n8. The title वासराः is: (a) a typo for वासरः (b) the plural dress of वासरः —\n   \"days\", glossed once in §8; the plural system is later business (c) a different\n   word entirely (d) the Hindi plural\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (c) — both halves said together: words classical/medieval, system an honestly\n   dated import (§4, §13). ((a) is §12's mistake 6, one direction; (d) flips the\n   chronology entirely.)\n2. (a) — descent inside Indo-Aryan, the गृह → घर line on a calendar (§4, §13).\n3. (a) — the v1.c06.l01 stack back on duty; convenience print read identically,\n   classical stack written (§8, §12).\n4. (a) — the wheel runs गुरुवासरः → शुक्रवासरः (§8). ((d) answers a question nobody\n   asked — ह्यः looks backward.)\n5. (b) — honest counting: eight headwords, two old friends, five riders (§8, §14).\n6. (b) — pair, point, move on; no ordinals yet (§15).\n7. (b) — one word, two jobs; both senses in the dictionaries (§8, §13).\n8. (b) — a display in plural dress, glossed once, system later (§8, §14).\n\n**Exercise keys.** Exercise 1: रविवासरः सोमवासरः मङ्गलवासरः बुधवासरः गुरुवासरः\nशुक्रवासरः शनिवासरः — then the same circle from today's day. Exercise 4: (a)\n**keep** — FACT, attested and standard (§4); (b) **reject** — the system is an\nearly-centuries-CE import, honestly dated; the names are real (§13); (c) **keep** —\nFACT: the week and होरा rode the same Hellenistic astronomy (§13); (d) **keep** —\nFACT: descent, वार < वासर (§4, §13); (e) **reject** — the *word* वासरः is Sanskrit's\nown; the borrowed word was होरा, the imported thing here is the system — the card\nfails on the word, (b) fails on the system. Exercise 6: (a) अद्य गुरुवासरः। (b) श्वः\nशुक्रवासरः। (c) ह्यः बुधवासरः। (d) अद्य कः वासरः? — अद्य शनिवासरः।\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The set:** वासरः and the seven — रविवासरः सोमवासरः मङ्गलवासरः बुधवासरः\n> गुरुवासरः शुक्रवासरः शनिवासरः. **The fronts:** रवि सोम मङ्गल बुध गुरु शुक्र शनि —\n> sun, moon, Mars, Mercury, Jupiter, Venus, Saturn; two already yours, five riding\n> inside. **The frames:** अद्य कः वासरः? — अद्य सोमवासरः। श्वः? ह्यः? **The dates:**\n> digit-and-day pairs — शुक्रवासरः — ७ — no ordinals yet. **The honest line:** the\n> words are Sanskrit's own; the seven-day system arrived in the early centuries CE\n> with होरा's astronomy. **The bridge:** सोमवार is सोमवासरः worn smooth. **The\n> ledger:** eight new — **297 → 305**, the chapter's exit.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- **In 1 day:** re-take the dictation (exercise 5) cold; run the wheel once, timed;\n  answer the trio off the real calendar at breakfast. Log all three beside today's\n  scores.\n- **This week:** every morning, one real answer aloud — अद्य कः वासरः? — then\n  tomorrow's and yesterday's; keep the wheel warm with one pass a day.\n- **In 1 week:** the chapter exam (v2.c03.l05). Its Station 4 re-runs this lesson;\n  its task D carries §13's honesty cards; and its task E — the calendar task — runs\n  on the month grid you prepare tonight (§21, item 2). Bring that grid."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 30 minutes total, plus one sheet of paper that goes to the exam.\n\n1. **(10 min)** Finish exercises 5 and 6 if not completed in class: the dictation\n   pass and the translated week, read aloud — plus l03's +1-day dictation re-take\n   (its exercise 4), closing yesterday's §20 schedule.\n2. **(10–15 min, real world — THE GRID)** Take a real calendar month, or the\n   worksheet's blank grid (`planned:assets/worksheets/volume-2/v2c03l04-calendar-grid.pdf`).\n   Write its dates in Devanagari digits (or check the printed ones), set the अद्य\n   marker on today, and circle three dates within the first ten days. Run the full\n   circuit aloud once: the trio's three questions, then the three pairings, finger\n   on each cell. **Keep this grid** — the chapter exam's calendar task (v2.c03.l05,\n   task E) runs on exactly this sheet; bring it with you.\n3. **(5 min, teach-back)** Teach someone the honest week: the day-names are real\n   Sanskrit — and the seven-day week itself reached India in the early centuries CE,\n   with the same astronomy that brought होरा. If they protest \"but the week must be\n   anciently Indian!\", you own the honest answer: the words are ours; the system is\n   a documented arrival; both halves are true, and the honest version costs nothing.\n4. **(2 min, tomorrow morning)** Before anything else: अद्य कः वासरः? — answered\n   cold, off the real wall."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "अध्यापकटिप्पणी\n\n**Open with the riddle, not the list.** Write सोमवार on the board and ask what is\ninside it. Collect guesses; then split it — सोम + वार — and rewind वार to वासर on\nthe board, letter by letter. The whole lesson falls out of that one unwrapping: the\nfull forms, the planets in front, the Hindi bridge, and the honest history.\n\n**Timing plan (45 min):** Station 0 + prompts, scores logged (7) → the सोमवार\nunwrapping on the board (5) → the wheel walk: seven names placed on a drawn circle,\nplanet chips in front, रवि/गुरु tagged \"yours already\" (8) → weld drills ङ्ग and\nक्र from components (5) → frame ladder in pairs, then grid work with the अद्य marker\n(8) → the honest-history talk, run as a gift (5) → word list at three speeds;\ndictation launch (4) → exercises, homework, THE GRID assignment (3).\n\n**Board work:** one large circle, seven spokes, names written at the rim as they\narrive; the constant tail -वासरः written once at the hub. Keep a two-column chip\ntray — \"our words\" and \"the arrived system\": अपने शब्द / आई हुई प्रणाली — every\nhistory claim in the room gets sorted into one of the two.\n\n**Run the history talk as a gift, not a scolding.** Someone in the room holds \"the\nweek is anciently Indian\" from a poster or a relative — treat it exactly as the\nchapter treated November: the honest version is *grander*. India received the\nseven-planet week and dressed it in its own classical words so well that Hindi still\nsays them daily. Nobody gets to feel foolish; everybody leaves with both halves.\n\n**Differentiation:** Hindi speakers own the system already — their work is\nrestoration: the -वासरः tail, the classical ङ्ग against the convenience मंगल habit,\nthe breathed visarga. Script-side learners drill both welds from components (§9\ndrill 1) before any speed work. Fast finishers get the wheel-wrap challenge: trio\nanswers with अद्य set to शनिवासरः.\n\n**What students find hard:** the middle of the wheel (बुध and गुरु swap under\npressure — anchor them as Mercury-midweek and teacher-Thursday); श्वः vs ह्यः off a\ngrid (gesture forward and back as you ask); resisting ordinal ambition on dates (the\nfinger does the work the grammar has not yet earned); and hearing \"import\" as an\ninsult — the debrief's job is showing it as provenance, the same honesty the course\ngave होरा."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-2/v2c03l04-week-wheel.svg`**\n\n> Clean educational card, warm off-white background, Noto Serif Devanagari, two\n> colors, monochrome-safe. A large wheel with seven sectors, clockwise from the top:\n> रविवासरः, सोमवासरः, मङ्गलवासरः, बुधवासरः, गुरुवासरः, शुक्रवासरः, शनिवासरः. At the\n> hub, वासरः with the caption \"the constant tail\". Each sector carries a small chip\n> naming its front: रवि — sun · सोम — moon · मङ्गल — Mars · बुध — Mercury · गुरु —\n> Jupiter · शुक्र — Venus · शनि — Saturn; the रवि and गुरु chips wear a small\n> \"yours already\" badge. A faded outer ring shows the Hindi descendants सोमवार,\n> मंगलवार … captioned \"वार — the worn-down वासर\". Word-anatomy strip in the footer:\n> ङ्ग circled in मङ्गलवासरः (\"the गङ्गा stack, v1.c06.l01\") and क्र circled in\n> शुक्रवासरः (\"the ्र stroke, v1.c05.l04\"). Corner stamp, two lines: \"the words:\n> classical and medieval Sanskrit\" · \"the system: arrived early centuries CE, with\n> होरा's astronomy\". Bottom chant: अद्य कः वासरः?\n\n**Asset 2 — `planned:assets/worksheets/volume-2/v2c03l04-calendar-grid.pdf` (layout\nspec)**\n\n> A4 worksheet, portrait. Top half: a month grid — weekday header row रविवासरः to\n> शनिवासरः (full forms), five rows of cells with dates in Devanagari digits, a\n> movable अद्य marker (printed arrow to cut out), and three empty circles to place\n> on dates within the first ten days. Middle: the trio ladder — three ruled lines\n> beginning अद्य ___ / श्वः ___ / ह्यः ___ with a pause-form reminder, and three\n> pairing lines \"___वासरः — __\" for the circled dates (both orders shown once:\n> शुक्रवासरः — ७ and सप्त — शुक्रवासरः). Bottom: dictation rows with tick-boxes for\n> ङ्ग, क्र, long वा and final visarga, plus the score log — Station 0 (trio /1,\n> होरा line /1), wheel time, dictation /8. Footer chants: \"the tail never changes\" ·\n> \"pair the digit, skip the ordinal\" · \"both halves true\". Footer note: this grid,\n> marked and circled, rides to the chapter exam (v2.c03.l05, task E)."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:45):** a phone lock screen reads \"Monday\"; it flips to सोमवार;\n   the word splits सोम + वार; वार rewinds letter by letter into वासर, and the full\n   सोमवासरः assembles with its visarga breathing. Title card: वासराः — The Week.\n2. **The wheel (0:45–2:00):** a seven-sector wheel draws itself; each sector stamps\n   its name as its planet rises over the rim — sun, moon, Mars, Mercury, Jupiter,\n   Venus, Saturn; the tail -वासरः glows constant across all seven; रवि and गुरु\n   get \"yours already\" badges.\n3. **The honest ship (2:00–3:10):** the same ship from lesson 3's होरा scene docks\n   again; two crates come off: a small one labeled होरा and a large one labeled \"the\n   seven-planet week\". A stamp reads \"early centuries CE — system imported\"; beside\n   it a second stamp: \"the words — Sanskrit's own, classical and medieval\". Both\n   stamps stay on screen together.\n4. **The frames (3:10–4:15):** fridge-magnet words snap: अद्य + कः + वासरः?, then\n   अद्य + बुधवासरः। lands verbless with a click; a marker slides forward along a\n   week strip for श्वः and back for ह्यः.\n5. **The grid (4:15–5:15):** a Devanagari-digit month grid; a finger finds the अद्य\n   marker, answers the trio, then lands on a circled ७ — शुक्रवासरः — ७ — and the\n   digit-first echo सप्त — शुक्रवासरः। A gavel labeled \"fifteenth??\" descends and a\n   hand gently sets it aside.\n6. **Recap + CTA (5:15–6:00):** wheel and grid side by side; the ledger counter\n   ticks 297 → 305. End card: \"Next: पुनरावृत्तिः — The Numbers & Time Exam. Bring\n   your grid.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24); Sanskrit terms carry IPA cues in [brackets] —\nthe narrator reads the cue, not the English spelling.\n\n- **00:00** Say Monday. Now say somavāsaraḥ [soːmɐʋɑːsɐɾɐh] — the moon, wearing its\n  day. You have said its grandchild — सोमवार — your whole life. Today, the full\n  classical week.\n- **00:45** The chassis is vāsaraḥ [ʋɑːsɐɾɐh] — a day of the week. In front, seven\n  planets: ravi [ɾɐʋi] the sun, soma [soːmɐ] the moon, maṅgala [mɐŋgɐlɐ] Mars,\n  budha [bud̪ʱɐ] Mercury, guru [guɾu] Jupiter — yes, your teacher word — śukra\n  [ɕukɾɐ] Venus, śani [ɕɐn̪i] Saturn. Two of those are already yours.\n- **02:00** Now the honest part. These words are real Sanskrit — classical,\n  medieval, standard today. And the seven-day system they ride arrived in India in\n  the early centuries CE, with the same Greek astronomy that brought horā [ɦoːɾɑː].\n  One ship, two souvenirs: an hour, and a week. Both halves true.\n- **03:10** The frames are old friends. adya kaḥ vāsaraḥ [ɐd̪jɐ kɐh ʋɑːsɐɾɐh]? —\n  adya budhavāsaraḥ [bud̪ʱɐʋɑːsɐɾɐh]. No verb needed. śvaḥ [ɕʋɐh] slides forward;\n  hyaḥ [ɦjɐh] looks back.\n- **04:15** On the grid: find today, pair the circled digit with its day —\n  śukravāsaraḥ [ɕukɾɐʋɑːsɐɾɐh] — seven. Pair it, point at it, and do not invent\n  \"seventh\" — that grammar comes later, honestly.\n- **05:15** Eight words today — three hundred five in your ledger, the chapter's\n  promised exit. Tomorrow the exam counts everything. śvaḥ [ɕʋɐh] — bring your grid!"
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** extreme close-up: \"Your Monday has the moon in it.\" सोमवार\n  splits on screen: सोम + वार.\n- **Demo (0:07–0:30):** वार rewinds into वासर — \"Hindi wore it smooth; here's the\n  full Sanskrit: somavāsaraḥ [soːmɐʋɑːsɐɾɐh].\" The wheel spins up: seven names,\n  seven planets rising — sun, moon, Mars, Mercury, Jupiter, Venus, Saturn. Stamp\n  one: \"the words — Sanskrit's own.\" Stamp two: \"the seven-day system — sailed into\n  India, early centuries CE, with the same astronomy that brought होरा.\"\n- **Payoff (0:30–0:43):** a learner answers off a real calendar — अद्य कः वासरः? —\n  अद्य शुक्रवासरः! — then pairs a date: सप्त — शुक्रवासरः! \"Learners of this course\n  just read a calendar in Sanskrit — with the history told straight.\"\n- **CTA (0:43–0:50):** \"Next: पुनरावृत्तिः — the Numbers & Time Exam. The whole\n  chapter counts.\" (End card: वासराः — the week.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-2/v2c03l04-week-wheel.svg` — §8 wheel walk, §9 drill 2,\n    §11 anatomy strip, §22 board model, §23 prompt 1\n  - `assets/audio/volume-2/v2c03l04-drill.mp3` — §9 drills 1–3 model readings and\n    call tracks\n  - `assets/audio/volume-2/v2c03l04-word-list.mp3` — §14 model reading, three-speed\n    passes, randomized 8-word dictation track with transcript (§18 exercise 5)\n  - `assets/worksheets/volume-2/v2c03l04-calendar-grid.pdf` — §18 exercises 2–3,\n    §21 item 2 (the grid that rides to the exam), Station 0 score log\n  - §16/§17 audio is NOT in this manifest — record into the Chapter 3 drill pack\n    (chapter.md manifest) and back-link here when it exists.\n- **Related lessons:** reviews v2.c03.l03 (Station 0 — the trio and the होरा\n  direction line; सप्ताहः arithmetic reused in §17) and v1.c05.l05 (digits ०–९, now\n  working the grid); builds on v1.c04.l01 (रवि, गुरु), v1.c06.l01 (ङ्ग, the\n  गङ्गा/गंगा convenience-spelling note), v1.c05.l04 (्र stroke in क्र), v1.c06.l02\n  (the कः rule of thumb, verbless naming frames), v2.c01.l03 (day-cycle words),\n  v2.c02.l03 (सूर्यः, चन्द्रः beside रवि, सोम); feeds v2.c03.l05 (Station 4; task D\n  cards on the week's history and the वासर names; task B dictation includes\n  मङ्गलवासरः and its Station 0 writes बुधवासरः; task E runs on §21's prepared grid), v2.c04 (क्रियाः —\n  verbs enter the date talk), later volumes (compound system, ordinals, locative —\n  each deferred honestly in §15).\n- **Glossary:** reuses विसर्ग, संयुक्ताक्षर, मात्रा per GLOSSARY.md; no new glossary\n  terms. Register work this lesson = the week's import history (§13) and the\n  descent line to Hindi (§4).\n- **Export notes:** ledger per the chapter plan: eight headwords, all ledger-new;\n  **297 → 305** — the chapter's exit number (≈305 promised in chapter.md). Chapter\n  chain confirmed against the sibling §14 tables on disk: 282 → 285 (l01) → 290\n  (l02) → 297 (l03) → 305 (here); reconcile the usual ≈ at review. The\n  compound fronts सोम, मङ्गल, बुध, शुक्र, शनि export as `compound_member`, not\n  headwords; रवि and गुरु export as review references, ledger at v1.c04.l01.\n  Review verdict on the drafting flag: v1.c04.l01 holds रवि and गुरु only — सोम\n  was never a prior headword; the fact base's three-of-seven claim corrected to\n  two-of-seven throughout.\n  वासराः exports as `display`. Hindi सोमवार, मंगलवार and row export as `descent`\n  rows (Indo-Aryan, [REF:masica1991]), never `cognate`. Export \"vasara\" (clipped\n  आ), \"maṅagala\"/\"śukara\" (leaked welds) and वार-for-वासरः substitution in Sanskrit\n  frames as `error_form` (the Hindi forms stay correct Hindi). §19 key stays in\n  `<details>`.\n- **Verification flags for Pass C:** वासर and the seven day-names against\n  [REF:monierwilliams1899 s.v. वासर] and [REF:apte1890 s.v. वासर]; the week's\n  arrival dating kept vague — \"early centuries CE\", no precise date, no \"Vedic\n  week\" claim (notes §0.8 policy); the planet senses of मङ्गल, बुध, गुरु, शुक्र,\n  शनि against the dictionaries s.vv.; the Hindi -वार < -वासर descent line (§4, §13)\n  against [REF:masica1991]; the English Sunday/Monday/Saturday parallel line inside\n  §13's HISTORY callout — verified against the OED day-name etymologies at review;\n  [REF:oed] added; the होरा pairing checked against\n  l03 §13 as drafted (arrow INTO Sanskrit, Hellenistic astronomy, coarse dating). All §10/§14 IPA diffed cell-by-cell against\n  STYLE_GUIDE §2 (Pass A); §16/§17 cast usage consistent with Chapter 2's household.\n- **Register audit:** FACT ×6 (§4 attestation + descent ×2 · §5 frames + spacing ×2\n  · §13 planet lexicon ×1 · §15 frame rules ×1) · HISTORY ×1 (§13 — the honest\n  week, cited) · TRADITION ×0 · SYMBOL ×0. The auspicious sense of मङ्गल appears\n  only as a dictionary gloss (§13, §14), never as a claim about the day. Quiz: Q1\n  assesses §13's cited HISTORY line (rule 4 carve-out, STYLE_GUIDE §4); Q2–Q8 FACT.\n  Exercise 4 cards b/c assess the same cited HISTORY content under the same\n  carve-out."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "वासरः",
+      "iast": "vāsaraḥ",
+      "ipa": "/ʋɑːsɐɾɐh/",
+      "en": "day (of the week)",
+      "hi": "वार, दिन",
+      "notes": "the chassis word; Hindi वार is its worn-down descendant (§4, §13); mid-word आ full (§12)"
+    },
+    {
+      "deva": "रविवासरः",
+      "iast": "ravivāsaraḥ",
+      "ipa": "/ɾɐʋiʋɑːsɐɾɐh/",
+      "en": "Sunday",
+      "hi": "रविवार",
+      "notes": "रवि \"sun\" — yours since v1.c04.l01 — on planet-week duty"
+    },
+    {
+      "deva": "सोमवासरः",
+      "iast": "somavāsaraḥ",
+      "ipa": "/soːmɐʋɑːsɐɾɐh/",
+      "en": "Monday",
+      "hi": "सोमवार",
+      "notes": "सोम — the moon's old name; चन्द्रः keeps the everyday job (§8, §13)"
+    },
+    {
+      "deva": "मङ्गलवासरः",
+      "iast": "maṅgalavāsaraḥ",
+      "ipa": "/mɐŋgɐlɐʋɑːsɐɾɐh/",
+      "en": "Tuesday",
+      "hi": "मंगलवार",
+      "notes": "मङ्गल \"Mars\" — also \"welfare, auspiciousness\" — arrives inside the compound; ङ्ग = the गङ्गा stack (§8, §12)"
+    },
+    {
+      "deva": "बुधवासरः",
+      "iast": "budhavāsaraḥ",
+      "ipa": "/bud̪ʱɐʋɑːsɐɾɐh/",
+      "en": "Wednesday",
+      "hi": "बुधवार",
+      "notes": "बुध \"Mercury\" inside the compound; breathy ध (§10)"
+    },
+    {
+      "deva": "गुरुवासरः",
+      "iast": "guruvāsaraḥ",
+      "ipa": "/guɾuʋɑːsɐɾɐh/",
+      "en": "Thursday",
+      "hi": "गुरुवार, बृहस्पतिवार",
+      "notes": "गुरु — your teacher word (v1.c04.l01) moonlighting as Jupiter (§8, §13)"
+    },
+    {
+      "deva": "शुक्रवासरः",
+      "iast": "śukravāsaraḥ",
+      "ipa": "/ɕukɾɐʋɑːsɐɾɐh/",
+      "en": "Friday",
+      "hi": "शुक्रवार",
+      "notes": "शुक्र \"Venus\" inside the compound; क्र = the ्र stroke weld (§8, §12)"
+    },
+    {
+      "deva": "शनिवासरः",
+      "iast": "śanivāsaraḥ",
+      "ipa": "/ɕɐn̪iʋɑːsɐɾɐh/",
+      "en": "Saturday",
+      "hi": "शनिवार",
+      "notes": "शनि \"Saturn\" inside the compound; dental न on the teeth"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. The honest statement about the week: (a) the seven-day week has always been part\n   of Indian timekeeping (b) the वासर names are modern inventions (c) the वासर names\n   are real classical-and-medieval Sanskrit, and the seven-day planetary system they\n   ride entered Indian usage in the early centuries CE with Hellenistic astronomy\n   (d) the week was borrowed from English\n2. Hindi सोमवार: (a) descends from सोमवासरः — वार is the worn-down वासर (b) is the\n   ancestor of सोमवासरः (c) is unrelated to it (d) is a Greek loan, like होरा\n3. The ङ्ग in मङ्गलवासरः: (a) is the गङ्गा stack — the velar nasal seated on ग, no\n   vowel between; newspaper print's मंगल spells the same sounds with the dot (b) is\n   a special Tuesday-only letter (c) is read with a vowel inside — \"maṅagala\" (d) is\n   silent\n4. अद्य गुरुवासरः। श्वः कः वासरः? (a) श्वः शुक्रवासरः। (b) श्वः बुधवासरः। (c) श्वः\n   शनिवासरः। (d) ह्यः शुक्रवासरः।\n5. The fronts of the seven compounds: (a) all seven are brand-new headwords today\n   (b) रवि and गुरु are ledger words already — sun and teacher — on planet\n   duty, and सोम, मङ्गल, बुध, शुक्र, शनि arrive inside their compounds, noted but not\n   separately taught (c) they are Greek loans (d) they are meaningless prefixes\n6. A circled ७ under the Friday column is read: (a) with invented \"seventh\" grammar\n   (b) as a pairing — शुक्रवासरः — ७, or digit-first सप्त — शुक्रवासरः — ordinals\n   are later business (c) by skipping the digit (d) in the Hindi form only\n7. गुरुवासरः carries in front: (a) a brand-new word that only means Jupiter (b) your\n   गुरु \"teacher\" of v1.c04.l01, moonlighting as the planet Jupiter (c) the Greek\n   word for Thursday (d) the word for \"heavy\" with no planet sense in the\n   dictionaries\n8. The title वासराः is: (a) a typo for वासरः (b) the plural dress of वासरः —\n   \"days\", glossed once in §8; the plural system is later business (c) a different\n   word entirely (d) the Hindi plural",
+    "answer_key_markdown": "1. (c) — both halves said together: words classical/medieval, system an honestly\n   dated import (§4, §13). ((a) is §12's mistake 6, one direction; (d) flips the\n   chronology entirely.)\n2. (a) — descent inside Indo-Aryan, the गृह → घर line on a calendar (§4, §13).\n3. (a) — the v1.c06.l01 stack back on duty; convenience print read identically,\n   classical stack written (§8, §12).\n4. (a) — the wheel runs गुरुवासरः → शुक्रवासरः (§8). ((d) answers a question nobody\n   asked — ह्यः looks backward.)\n5. (b) — honest counting: eight headwords, two old friends, five riders (§8, §14).\n6. (b) — pair, point, move on; no ordinals yet (§15).\n7. (b) — one word, two jobs; both senses in the dictionaries (§8, §13).\n8. (b) — a display in plural dress, glossed once, system later (§8, §14).\n\n**Exercise keys.** Exercise 1: रविवासरः सोमवासरः मङ्गलवासरः बुधवासरः गुरुवासरः\nशुक्रवासरः शनिवासरः — then the same circle from today's day. Exercise 4: (a)\n**keep** — FACT, attested and standard (§4); (b) **reject** — the system is an\nearly-centuries-CE import, honestly dated; the names are real (§13); (c) **keep** —\nFACT: the week and होरा rode the same Hellenistic astronomy (§13); (d) **keep** —\nFACT: descent, वार < वासर (§4, §13); (e) **reject** — the *word* वासरः is Sanskrit's\nown; the borrowed word was होरा, the imported thing here is the system — the card\nfails on the word, (b) fails on the system. Exercise 6: (a) अद्य गुरुवासरः। (b) श्वः\nशुक्रवासरः। (c) ह्यः बुधवासरः। (d) अद्य कः वासरः? — अद्य शनिवासरः।"
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "वासरः \"day\" and the seven compound day-names रविवासरः … शनिवासरः are attested Sanskrit, and they are today's standard Sanskrit names for the weekdays. [REF:monierwilliams1899 s.v. वासर] [REF:apte1890 s.v. वासर]",
+      "refs": [
+        "monierwilliams1899 s.v. वासर",
+        "apte1890 s.v. वासर"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "The everyday Hindi day-names descend from the -वासर forms: सोमवार, मंगलवार and their row carry वार, the worn-down वासर — regular descent down the Indo-Aryan line, the गृह → घर story running on a calendar. [REF:masica1991]",
+      "refs": [
+        "masica1991"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Vocabulary sticks when it arrives inside usable patterns and is retrieved from them, not memorized as bare lists — the frame अद्य कः वासरः? turns all seven names into answers you can give the hour you learn them, and the wheel's fixed order gives memory a track to run on. [REF:nation2013]",
+      "refs": [
+        "nation2013"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Spaced retrieval beats massed re-study: today's Station 0 is l03's +1-day landing on schedule, and this lesson sets its own +1-day and +1-week re-runs before it ends — the +1-week is the chapter exam itself. [REF:cepeda2006] [REF:roediger2006]",
+      "refs": [
+        "cepeda2006",
+        "roediger2006"
+      ]
+    },
+    {
+      "type": "HISTORY",
+      "section_index": 13,
+      "text": "The weekday names follow the seven-planet week — a day each for the sun, the moon, and the five visible planets. That system entered Indian usage in the early centuries CE, alongside Hellenistic astronomy — the same current that carried होरा into Sanskrit (v2.c03.l03). The वासर day-names themselves are attested from later classical and medieval texts and are today's standard Sanskrit. Both halves are true at once: the words are classical and medieval Sanskrit; the seven-day system is a documented historical import. The same seven-planet scheme stands behind the English names too — *Sunday*, *Monday* and *Saturday* wear it transparently. [REF:monierwilliams1899 s.v. वासर] [REF:burrow2001] [REF:oed s.vv. Sunday, Monday, Saturday]",
+      "refs": [
+        "monierwilliams1899 s.v. वासर",
+        "burrow2001",
+        "oed s.vv. Sunday, Monday, Saturday"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "The seven fronts are the classical planet words: रवि \"sun\" · सोम \"moon\" · मङ्गल \"Mars\" — as a common noun also \"welfare, auspiciousness\" · बुध \"Mercury\" · गुरु \"Jupiter\" — the same word as your \"teacher\" · शुक्र \"Venus\" · शनि \"Saturn\". All seven senses sit in the standard dictionaries. [REF:monierwilliams1899 s.vv.] [REF:apte1890]",
+      "refs": [
+        "monierwilliams1899 s.vv.",
+        "apte1890"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "(1) The day-names are compounds: a planet word in front, वासरः behind — रवि + वासरः → रविवासरः. The front member stands in its bare stem shape, without its sentence dress — *observed* today; the compound system is later business. (2) The question अद्य कः वासरः? wears कः because वासरः is a ः-word — v1.c06.l02's rule of thumb on duty. (3) Date frames are verbless: अद्य सोमवासरः। (4) Dates are digit-and-day pairings — शुक्रवासरः — ७ — with no ordinals, no locatives, no plurals taught; the title's वासराः is a display, glossed once in §8. [REF:whitney1889] [REF:apte1890]",
+      "refs": [
+        "whitney1889",
+        "apte1890"
+      ]
+    }
+  ]
+}

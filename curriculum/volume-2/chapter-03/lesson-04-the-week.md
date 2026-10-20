@@ -38,12 +38,12 @@ media:
     - "planned:assets/worksheets/volume-2/v2c03l04-calendar-grid.pdf"
   quizzes: []
 tags: [vocabulary, week, weekdays, calendar, time, compounds, history-honesty, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-04"]
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 ---
 
 ## 1. Hook

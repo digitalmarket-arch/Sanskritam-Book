@@ -4,6 +4,36 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.9.0] — 2026-08-04
+
+Volume 2 Chapter 3 — संख्याः कालश्च (Numbers & Time) complete and reviewed: the numbers
+1–10 and the calendar, carried by the course's two flagship direction-honesty stories —
+the October/November/December correction (cognates, not derivation) and होरा, the hour
+that was borrowed INTO Sanskrit from Greek.
+
+### Added
+- v2.c03 five lessons: One to Five (counting chant as display; त्रि's first ledger
+  entry), Six to Ten (THE month-name fix with the 1.x captions quoted verbatim; the
+  नव nine/new split; कति), Time Words (होरा completes the loan-vs-cognate toolkit;
+  the कालश्च title seam opened read-only), The Week (वासरः + seven day-names; the
+  seven-planet week honestly dated "early centuries CE"; Hindi -वार descent), and the
+  Numbers & Time Exam (counting production, nine direction cards incl. the
+  both-directions dharma/होरा card, calendar task on the learner's own grid).
+- REFERENCES: oed key (month names, weekday names, hour).
+- STYLE_GUIDE §4 rule 4: cited-HISTORY carve-out for assessment items (mirrored in
+  EDITORIAL_GUIDELINES and the review checklist).
+
+### Changed
+- Review passes ran as an adversarially verified workflow (4 dimensions × 3-skeptic
+  panels): 56 confirmed findings fixed, incl. one grammar blocker in model story
+  content. Arrow-naming convention stated chapter-wide (name the arrow by its origin).
+- JSON exports regenerated (46 lessons); verification log extended. Ledger 282 → 305.
+
+### Fixed
+- 1.x banned claim corrected in-curriculum: "Oct-agon, Nov-ember, Dec-ember come from
+  these" — the month names are Latin counting its own calendar; अष्ट and octō are
+  siblings from one ancestor.
+
 ## [0.8.0] — 2026-08-03
 
 Volume 2 Chapter 2 — परिवारः जगच्च (Family & the World) complete and reviewed: the
