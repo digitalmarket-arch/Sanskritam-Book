@@ -260,10 +260,10 @@ numeral agreement ("eight books" waits for its machinery, §15), and the time wo
 Audio: 🔊 `planned:assets/audio/volume-2/v2c03l02-drill.mp3` (drills 1–3),
 `planned:assets/audio/volume-2/v2c03l02-word-list.mp3` (three speeds + dictation track).
 
-**Drill 1 — the curl ladder.** Slow motion, feeling the tongue-tip: स — ष (teeth —
-curled), त — ट (teeth — curled). Now the words: षट् — curled at *both* ends, the final ट्
-complete and alone, no helper vowel. Then अष्ट — curl for ष, *hold the curl* through ट:
-ष्ट is one gesture, not two visits. Five reps each.
+**Drill 1 — the curl ladder.** Slow motion, feeling the tongue-tip travel: स on the
+teeth, ष curled back; त on the teeth, ट curled back. Now the words: षट् — curled at
+*both* ends, the final ट् complete and alone, no helper vowel. Then अष्ट — curl for ष,
+*hold the curl* through ट: ष्ट is one gesture, not two visits. Five reps each.
 
 **Drill 2 — the two-rail roll-call.** With the audio, fixed order, three passes (slow ·
 natural · timed): the curled pair षट् — अष्ट, then the teeth pair सप्त — दश, then नव
@@ -634,8 +634,8 @@ to ten, from memory in Devanagari. Self-check: every answer bare, every question
 8. (b) — counting dress, honestly labeled (§15); from six on it matches the stems — an
    observation, not a law.
 
-**Exercise keys.** Ex. 1: curled rail = षट्, अष्ट (and the chant's त्रीणि — its ण is the
-hidden retroflex; the stem त्रि shows none); everything else rides the no-curl rail.
+**Exercise keys.** Ex. 1: curled rail = षट् and अष्ट, plus the chant's त्रीणि — its ण is
+the hidden retroflex; the stem त्रि shows none. Everything else rides the no-curl rail.
 Ex. 4: (a) **reject** — Latin's own novem; cognates, not derivation — THE October-fix
 card; (b) keep — FACT; (c) keep — FACT, on record since v1.c04.l02; (d) **reject** — two
 words, two cousins (§13); (e) keep — FACT, a true *downward* descent line inside
@@ -747,9 +747,9 @@ centerpiece)**
 > eight · नव ~ novem ~ nine · दश ~ decem ~ ten; a sixth bonus row slightly apart: कति ~
 > quot ("the question inherited twice"). A small two-leaf badge on the नव row: "नव nine ·
 > नव new — two words, two cousins (nine, new)". Side strip, the tongue map: a curled-tip
-> profile icon over ष ट (caption "मूर्धन्य — curled back") and a teeth icon over स त द
-> (caption "दन्त्य — on the teeth"), with षट् and अष्ट circled on the curl side, सप्त and
-> दश on the teeth side. Noto Serif Devanagari, two colors, monochrome-safe.
+> profile icon over ष and ट, captioned "मूर्धन्य — curled back", and a teeth icon over
+> स, त and द, captioned "दन्त्य — on the teeth", with षट् and अष्ट circled on the curl
+> side, सप्त and दश on the teeth side. Noto Serif Devanagari, two colors, monochrome-safe.
 
 **Asset 3 — `planned:assets/worksheets/volume-2/v2c03l02-counting-kati.pdf` (layout
 spec)**
@@ -773,8 +773,8 @@ Lesson video, ~6 min, presenter + motion graphics.
    an ancestor node rises with two branches, Latin and Sanskrit. Title card:
    षडादिदशान्ताः — Six to Ten.
 2. **The two rails (0:45–2:00):** a side-view tongue animation — tip curling back for ष
-   and ट (षट्, अष्ट — the ष्ट weld shown as one held gesture), tip on the teeth for सप्त
-   and दश; the five new words stamp onto their rails.
+   and ट through षट् and अष्ट, the ष्ट weld shown as one held gesture; tip on the teeth
+   for सप्त and दश; the five new words stamp onto their rails.
 3. **The chant grows (2:00–3:00):** lesson 1's five chant tiles slide left; षट् सप्त
    अष्ट नव दश snap on; a metronome bar keeps the beat; त्रीणि's ण glows once ("the hidden
    curl").

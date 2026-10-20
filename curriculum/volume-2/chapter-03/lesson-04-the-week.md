@@ -82,11 +82,14 @@ prompts. Everything from memory *before* any key opens [REF:roediger2006].
 v2.c03.l03 §20 scheduled today's re-run. Two items, three minutes; log the scores
 beside yesterday's [REF:cepeda2006]:
 
-1. **The trio at speed.** Ten random calls — अद्य / श्वः / ह्यः — gloss each within a
-   beat; then the reverse row: hear "tomorrow", say श्वः. No hesitation survives this
-   interval.
+1. **The trio at speed** — l03's strip drill (its exercise 2), compressed: ten random
+   calls — अद्य / श्वः / ह्यः — gloss each within a beat; then the reverse row: hear
+   "tomorrow", say श्वः. No hesitation survives this interval.
 2. **The होरा line, retold cold.** One sentence, arrow drawn: which way did होरा
    travel, and with what did it arrive? Today's lesson boards the same ship.
+
+l03's other +1-day piece — its dictation re-take (exercise 4) — rides in tonight's
+homework (§21, item 1), completing yesterday's §20 schedule.
 
 ### The prompts
 
@@ -219,12 +222,12 @@ never changes; all the information rides up front. One display form, glossed onc
 honestly: the title **वासराः** (vāsarāḥ) "days" — वासरः in its plural dress. You can
 read it; the plural system is later business, and today's frames never need it.
 
-### The fronts — three old friends, four riders
+### The fronts — two old friends, five riders
 
-**रवि** is your sun word from v1.c04.l01, fronting Sunday. **सोम** is the moon's old
-name — चन्द्रः keeps the everyday job while सोम works the calendar shift. **गुरु**,
-your teacher word since the course's first hour, moonlights here as the planet
-Jupiter. Those three are ledger words already. The other four fronts — **मङ्गल**
+**रवि** is your sun word from v1.c04.l01, fronting Sunday. **गुरु**, your teacher
+word since the course's first hour, moonlights here as the planet Jupiter. Those two
+are ledger words already. The other five fronts — **सोम** the moon's old name, with
+चन्द्रः keeping the everyday job while सोम works the calendar shift, **मङ्गल**
 "Mars", **बुध** "Mercury", **शुक्र** "Venus", **शनि** "Saturn" — arrive *inside*
 their compounds: you read them there, their planet meanings sit in §14's notes, and
 they are not separate headwords today. Honest counting, as always: वासरः + seven
@@ -372,10 +375,10 @@ seven-day week is wrong in the other direction.
 > शनि "Saturn". All seven senses sit in the standard dictionaries.
 > [REF:monierwilliams1899 s.vv.] [REF:apte1890]
 
-Three of the seven are already yours: रवि and गुरु from v1.c04.l01, सोम the moon's
-older name beside everyday चन्द्रः — the world set and the week shaking hands. The
-other four you meet *inside* their compounds, which is exactly how the ledger counts
-them (§14).
+Two of the seven are already yours: रवि and गुरु from v1.c04.l01. सोम — the moon's
+older name beside everyday चन्द्रः, the world set and the week shaking hands — and
+the other four you meet *inside* their compounds, which is exactly how the ledger
+counts them (§14).
 
 ### वार — the worn-down वासर
 
@@ -405,8 +408,8 @@ masculine ः.
 | शुक्रवासरः | śukravāsaraḥ | /ɕukɾɐʋɑːsɐɾɐh/ | Friday | शुक्रवार | शुक्र "Venus" inside the compound; क्र = the ्र stroke weld (§8, §12) |
 | शनिवासरः | śanivāsaraḥ | /ɕɐn̪iʋɑːsɐɾɐh/ | Saturday | शनिवार | शनि "Saturn" inside the compound; dental न on the teeth |
 
-The honest count: वासरः + the seven names = eight headwords. The fronts रवि, सोम and
-गुरु are ledger words already and re-enter nothing; मङ्गल, बुध, शुक्र and शनि arrive
+The honest count: वासरः + the seven names = eight headwords. The fronts रवि and
+गुरु are ledger words already and re-enter nothing; सोम, मङ्गल, बुध, शुक्र and शनि arrive
 *inside* their compounds — their planet meanings live in the Notes above, and they
 become headwords only when they earn their own lessons.
 
@@ -445,11 +448,14 @@ at the cell as you say it; the finger is part of the grammar for now.
 
 ### What we are not doing
 
-No ordinal machinery: अद्य १५ दिनम्?? is ambition, not Sanskrit you own — the course
-has given you no "fifteenth". No locative: "on Friday" has no taught form yet. No
+No ordinal machinery: अद्य १५ दिनम्?? is ambition — दिनम् is yours (v2.c01.l03), but
+the course has given you no "fifteenth", and gluing a digit onto it does not build
+one. No locative: "on Friday" has no taught form yet. No
 plural frames: वासराः stays on the title card. Every one of these arrives honestly,
 later, and today's pairings will still be correct when they do — pause-form pairs
-and verbless frames are safe ground.
+and verbless frames are safe ground. And one standing label rides every frame you
+build here: the वासर names are standard Sanskrit; the seven-day system they count is
+§13's honestly dated arrival — both halves stay said, even in a grammar section.
 
 ## 16. Conversation
 
@@ -587,8 +593,8 @@ Saturday." Self-check: every answer is a §6 frame or one word-swap away from on
 4. अद्य गुरुवासरः। श्वः कः वासरः? (a) श्वः शुक्रवासरः। (b) श्वः बुधवासरः। (c) श्वः
    शनिवासरः। (d) ह्यः शुक्रवासरः।
 5. The fronts of the seven compounds: (a) all seven are brand-new headwords today
-   (b) रवि, सोम and गुरु are ledger words already — sun, moon, teacher — on planet
-   duty, and मङ्गल, बुध, शुक्र, शनि arrive inside their compounds, noted but not
+   (b) रवि and गुरु are ledger words already — sun and teacher — on planet
+   duty, and सोम, मङ्गल, बुध, शुक्र, शनि arrive inside their compounds, noted but not
    separately taught (c) they are Greek loans (d) they are meaningless prefixes
 6. A circled ७ under the Friday column is read: (a) with invented "seventh" grammar
    (b) as a pairing — शुक्रवासरः — ७, or digit-first सप्त — शुक्रवासरः — ordinals
@@ -611,7 +617,7 @@ Saturday." Self-check: every answer is a §6 frame or one word-swap away from on
    classical stack written (§8, §12).
 4. (a) — the wheel runs गुरुवासरः → शुक्रवासरः (§8). ((d) answers a question nobody
    asked — ह्यः looks backward.)
-5. (b) — honest counting: eight headwords, three old friends, four riders (§8, §14).
+5. (b) — honest counting: eight headwords, two old friends, five riders (§8, §14).
 6. (b) — pair, point, move on; no ordinals yet (§15).
 7. (b) — one word, two jobs; both senses in the dictionaries (§8, §13).
 8. (b) — a display in plural dress, glossed once, system later (§8, §14).
@@ -656,7 +662,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 गृहकार्यम् — about 30 minutes total, plus one sheet of paper that goes to the exam.
 
 1. **(10 min)** Finish exercises 5 and 6 if not completed in class: the dictation
-   pass and the translated week, read aloud.
+   pass and the translated week, read aloud — plus l03's +1-day dictation re-take
+   (its exercise 4), closing yesterday's §20 schedule.
 2. **(10–15 min, real world — THE GRID)** Take a real calendar month, or the
    worksheet's blank grid (`planned:assets/worksheets/volume-2/v2c03l04-calendar-grid.pdf`).
    Write its dates in Devanagari digits (or check the printed ones), set the अद्य
@@ -683,15 +690,15 @@ full forms, the planets in front, the Hindi bridge, and the honest history.
 
 **Timing plan (45 min):** Station 0 + prompts, scores logged (7) → the सोमवार
 unwrapping on the board (5) → the wheel walk: seven names placed on a drawn circle,
-planet chips in front, रवि/सोम/गुरु tagged "yours already" (8) → weld drills ङ्ग and
+planet chips in front, रवि/गुरु tagged "yours already" (8) → weld drills ङ्ग and
 क्र from components (5) → frame ladder in pairs, then grid work with the अद्य marker
 (8) → the honest-history talk, run as a gift (5) → word list at three speeds;
 dictation launch (4) → exercises, homework, THE GRID assignment (3).
 
 **Board work:** one large circle, seven spokes, names written at the rim as they
 arrive; the constant tail -वासरः written once at the hub. Keep a two-column chip
-tray: अपने शब्द / आई हुई प्रणाली (our words / the arrived system) — every history
-claim in the room gets sorted into one of the two.
+tray — "our words" and "the arrived system": अपने शब्द / आई हुई प्रणाली — every
+history claim in the room gets sorted into one of the two.
 
 **Run the history talk as a gift, not a scolding.** Someone in the room holds "the
 week is anciently Indian" from a poster or a relative — treat it exactly as the
@@ -721,7 +728,7 @@ gave होरा.
 > रविवासरः, सोमवासरः, मङ्गलवासरः, बुधवासरः, गुरुवासरः, शुक्रवासरः, शनिवासरः. At the
 > hub, वासरः with the caption "the constant tail". Each sector carries a small chip
 > naming its front: रवि — sun · सोम — moon · मङ्गल — Mars · बुध — Mercury · गुरु —
-> Jupiter · शुक्र — Venus · शनि — Saturn; the रवि, सोम and गुरु chips wear a small
+> Jupiter · शुक्र — Venus · शनि — Saturn; the रवि and गुरु chips wear a small
 > "yours already" badge. A faded outer ring shows the Hindi descendants सोमवार,
 > मंगलवार … captioned "वार — the worn-down वासर". Word-anatomy strip in the footer:
 > ङ्ग circled in मङ्गलवासरः ("the गङ्गा stack, v1.c06.l01") and क्र circled in
@@ -833,19 +840,21 @@ the narrator reads the cue, not the English spelling.
   (the कः rule of thumb, verbless naming frames), v2.c01.l03 (day-cycle words),
   v2.c02.l03 (सूर्यः, चन्द्रः beside रवि, सोम); feeds v2.c03.l05 (Station 4; task D
   cards on the week's history and the वासर names; task B dictation includes
-  मङ्गलवासरः and बुधवासरः; task E runs on §21's prepared grid), v2.c04 (क्रियाः —
+  मङ्गलवासरः and its Station 0 writes बुधवासरः; task E runs on §21's prepared grid), v2.c04 (क्रियाः —
   verbs enter the date talk), later volumes (compound system, ordinals, locative —
   each deferred honestly in §15).
 - **Glossary:** reuses विसर्ग, संयुक्ताक्षर, मात्रा per GLOSSARY.md; no new glossary
   terms. Register work this lesson = the week's import history (§13) and the
   descent line to Hindi (§4).
 - **Export notes:** ledger per the chapter plan: eight headwords, all ledger-new;
-  **297 → 305** — the chapter's exit number (≈305 promised in chapter.md). Intended
-  chapter chain 282 → 285 → 290 → 297 → 305; siblings v2.c03.l01–l03 are not on
-  disk at drafting, so entry 297 follows the plan and is reconciled at review. The
-  compound fronts मङ्गल, बुध, शुक्र, शनि export as `compound_member`, not headwords;
-  रवि, सोम, गुरु export as review references (रवि and गुरु ledger at v1.c04.l01;
-  **सोम's ledger locus: verify at review** — flagged, not silently assumed).
+  **297 → 305** — the chapter's exit number (≈305 promised in chapter.md). Chapter
+  chain confirmed against the sibling §14 tables on disk: 282 → 285 (l01) → 290
+  (l02) → 297 (l03) → 305 (here); reconcile the usual ≈ at review. The
+  compound fronts सोम, मङ्गल, बुध, शुक्र, शनि export as `compound_member`, not
+  headwords; रवि and गुरु export as review references, ledger at v1.c04.l01.
+  Review verdict on the drafting flag: v1.c04.l01 holds रवि and गुरु only — सोम
+  was never a prior headword; the fact base's three-of-seven claim corrected to
+  two-of-seven throughout.
   वासराः exports as `display`. Hindi सोमवार, मंगलवार and row export as `descent`
   rows (Indo-Aryan, [REF:masica1991]), never `cognate`. Export "vasara" (clipped
   आ), "maṅagala"/"śukara" (leaked welds) and वार-for-वासरः substitution in Sanskrit
@@ -857,8 +866,8 @@ the narrator reads the cue, not the English spelling.
   week" claim (notes §0.8 policy); the planet senses of मङ्गल, बुध, गुरु, शुक्र,
   शनि against the dictionaries s.vv.; the Hindi -वार < -वासर descent line (§4, §13)
   against [REF:masica1991]; the English Sunday/Monday/Saturday parallel line inside
-  §13's HISTORY callout — verify or trim at review; the होरा pairing against l03
-  §13 once that sibling lands. All §10/§14 IPA diffed cell-by-cell against
+  §13's HISTORY callout — verify or trim at review; the होरा pairing checked against
+  l03 §13 as drafted (arrow INTO Sanskrit, Hellenistic astronomy, coarse dating). All §10/§14 IPA diffed cell-by-cell against
   STYLE_GUIDE §2 (Pass A); §16/§17 cast usage consistent with Chapter 2's household.
 - **Register audit:** FACT ×6 (§4 attestation + descent ×2 · §5 frames + spacing ×2
   · §13 planet lexicon ×1 · §15 frame rules ×1) · HISTORY ×1 (§13 — the honest

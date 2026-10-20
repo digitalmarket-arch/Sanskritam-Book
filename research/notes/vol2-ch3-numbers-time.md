@@ -53,7 +53,8 @@ trio drills. सप्ताहः = सप्त + अह transparency.
 
 **New (~8):** वासरः "day (of the week)" + the seven: रविवासरः सोमवासरः मङ्गलवासरः
 बुधवासरः गुरुवासरः शुक्रवासरः शनिवासरः — count honestly (वासरः + 7 names = 8; the
-planet first-members रवि/सोम/गुरु are ledger words already; मङ्गल/बुध/शुक्र/शनि arrive
+planet first-members रवि/गुरु are ledger words already — v1.c04.l01; सोम is NOT,
+corrected at review — सोम/मङ्गल/बुध/शुक्र/शनि arrive
 inside the compounds — note, don't separately teach). The 0.8 honest frame: names
 attested, the seven-day system a documented historical import (HISTORY callout, hedged
 dating). Hindi -वार forms (सोमवार) noted as the everyday descendants. Calendar drills:
