@@ -216,7 +216,7 @@ v1.c05.l03, where the द्व ligature made it readable. **त्रि** (tri
 almost-old friend: mentioned in v1.c01.l01's cognate table and again in v1.c05.l03 §13,
 readable for a volume, never a headword until today — so today it formally enters the
 ledger (§14). **चतुर्** (catur) "four" — new, the course's first headword to *end on a
-bare consonant*: the word stops on र्, halanta and all. **पञ्च** (pañca) "five" — back
+bare र्*: the tongue taps and the word stops, halanta and all. **पञ्च** (pañca) "five" — back
 from v1.c06.l01, where it carried the ञ्च showcase and the promise this chapter keeps.
 
 ### Two dresses, honestly labeled
@@ -237,6 +237,10 @@ see the digit, say the name; hear the name, write the digit — within a beat ea
 The standing policy holds: Latin digits in prose, Devanagari digits as content.
 
 ### What is deliberately not here
+
+The title एकादिपञ्चान्ताः (ekādipañcāntāḥ) "the ones from one to five" — एक and पञ्च
+wearing their joined dress at the seams: एक + आदि "beginning with one", पञ्च + अन्ताः
+"ending with five"; joining rules are Volume 3's business — read it, build nothing.
 
 Three absences, all honest. The Sanskrit word that *asks* "how many?" is next lesson's
 headword — today the pointing finger and the digit card ask the question. Numeral
@@ -419,8 +423,8 @@ verbless or with अस्ति — safe ground, exactly as मम + family wor
 सम्भाषणम् — one scene: माया has made digit cards; अर्जुन answers, then the garden gets
 counted. Audio records into the Chapter 3 drill pack (§27). Every word is self-read.
 
-— नमस्ते, अर्जुन! एतत् किम्?
-(namaste, arjuna! etat kim?) "Greetings, Arjuna! What is this?" (She holds up the card
+— नमस्ते, अर्जुनः! एतत् किम्?
+(namaste, arjunaḥ! etat kim?) "Greetings, Arjuna! What is this?" (She holds up the card
 ३.) — नमस्ते, अर्जुन! यह क्या है?
 
 — त्रि!
@@ -440,8 +444,8 @@ there too!" — फूल यहाँ है। वहाँ भी फूल �
 (ekam… dve… trīṇi… catvāri… pañca!) "One… two… three… four… five!" (He counts, one
 touch per word.) — एक… दो… तीन… चार… पाँच!
 
-— पञ्च! धन्यवादः, अर्जुन! पुनः मिलामः!
-(pañca! dhanyavādaḥ, arjuna! punaḥ milāmaḥ!) "Five! Thank you, Arjuna — see you again!"
+— पञ्च! धन्यवादः, अर्जुनः! पुनः मिलामः!
+(pañca! dhanyavādaḥ, arjunaḥ! punaḥ milāmaḥ!) "Five! Thank you, Arjuna — see you again!"
 — पाँच! धन्यवाद, अर्जुन! फिर मिलेंगे!
 
 Housekeeping: एतत् किम्? rides v2.c02.l02's pointing kit — a card is a thing, so एतत्
@@ -591,12 +595,15 @@ every closing answer bare.
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-take the dictation (exercise 3) cold; run the ladder (exercise 1)
-  once, timed; log both beside today's scores.
+  once, timed; log both beside today's scores — v2.c03.l02's Station 0 then re-runs
+  the chant, one pass cold, and the digit cards १–५ at speed, both directions: the
+  set completes to ten tomorrow, so today's five must be automatic by then.
 - **This week:** the chant once daily, pointed at real things — stairs, spoons,
   sparrows; keep the Station 0 habit warm.
-- **In 1 week:** v2.c03.l02's Station 0 re-runs the ladder and the shelf cards
-  compressed — the set completes to ten, so today's five must be automatic by then.
-  The chant stands for the chapter exam's counting task (v2.c03.l05, task C).
+- **In 1 week:** the five return inside the full ladder १–१० under the time words
+  and the calendar (v2.c03.l03 onward), and the chant stands for the chapter exam's
+  counting task (v2.c03.l05, task C); the shelf's honest lines — एक's empty slot and
+  the chant's deferred grammar — come back in the exam quiz (Q1–Q2).
 
 ## 21. Homework
 
@@ -776,8 +783,9 @@ the narrator reads the cue, not the English spelling.
   glossary terms. The register work this lesson is cognate-direction honesty and
   ledger honesty (§13, §14).
 - **Export notes:** three headwords, all ledger-new — **282 → 285** (cumulative
-  readable words: 285; the chapter chain continues 285 → 290 → 297 → ≈305 per
-  v2.c03.l05's provisional arithmetic — reconcile at review). त्रि exports as a NEW
+  readable words: 285; the chapter chain continues 285 → 290 → 297 → 305, confirmed
+  against the sibling §14 tables on disk (per v2.c03.l04 §27; l05's arithmetic was
+  provisional) — reconcile the usual ≈ at review). त्रि exports as a NEW
   ledger row with `mention_history: [v1.c01.l01, v1.c05.l03]` — cognate mentions,
   never a §14 headword before today (notes §1, §6: count honestly). Review rows द्वि,
   पञ्च export flagged review-duplicate, not new. Display-only, excluded from counts

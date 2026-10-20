@@ -223,7 +223,7 @@ want the tongue-tip curled back, and अष्ट welds them into one gesture, �
 "nine" looks like an old friend and is honestly a new one: §13 performs the surgery.
 **दश** (daśa) "ten" is genuinely an old friend — readable since v1.c04, its Latin sibling
 *decem* already on record — back today as a review row on counting duty, not a new ledger
-entry. And **कति** (kati) "how many?" is the tool that makes the other nine words usable:
+entry. And **कति** (kati) "how many?" is the tool that makes the other ten words usable:
 the classical interrogative of quantity, answered bare.
 
 With lesson 1's एक द्वि त्रि चतुर् पञ्च, the stems now run 1–10 — the citation names of
@@ -337,7 +337,8 @@ marks the two rails.
    two distinct words that fell together in sound (§13); two separate English cousins —
    *nine* and *new* — prove the split.
 6. **Invented grammar under pressure:** gluing endings onto a कति answer, or reaching for
-   a verb (षट् सन्ति — next chapter's machinery, wrong reach today). *Fix:* the bare
+   a verb (षट् सन्ति — untaught plural machinery; verbs begin next chapter, and they
+   begin singular). *Fix:* the bare
    answer is the taught, standard form (§15); simplest correct beats ambitious wrong.
    Related: digit misreads at the ladder — ९ taken for ७, ८ for ५ — slow the ladder
    before speeding it (v1.c05.l05 digit cards).
@@ -350,7 +351,7 @@ marks the two rails.
 
 The 1.x curriculum (PDF pp.30–31) taught these very numbers and then captioned them:
 "Many English words come from these! Tri-angle, Oct-agon, Nov-ember, Dec-ember" — and
-under the ten, "दश → December, Decimal". Said warmly: the words were right and the arrow
+under the ten, "दश (10) → December, Decimal". Said warmly: the words were right and the arrow
 was wrong. Here is the story the evidence tells.
 
 > **[FACT · तथ्यम्]** October, November and December do not come from Sanskrit. They are
@@ -362,9 +363,9 @@ was wrong. Here is the story the evidence tells.
 
 And the honest version is the *better* story: not one language lending a word to a
 calendar, but one ancestor's numbers surviving in two calendars — Latin counting its
-year, Sanskrit counting its own, the same inheritance held twice, five thousand-odd years
-apart. The course made exactly this move once before: the 1.x gloss of और was corrected
-with च, kindly, in v2.c02.l04. Same pattern, bigger stage.
+year, Sanskrit counting its own, the same inheritance held twice, each line of descent
+thousands of years deep. The course made exactly this move once before: the 1.x gloss
+of और was corrected with च, kindly, in v2.c02.l04. Same pattern, bigger stage.
 
 ### The shelf — five siblings, no arrows
 
@@ -527,8 +528,8 @@ Devanagari, IAST, English, Hindi.
    Mother, father, brother, sister — and me!" — माया कहती है — पाँच! माता, पिता, भाई,
    बहन — और मैं!
 4. पिता हसति — पुस्तकम् तत्र अस्ति। कति?
-   (pitā hasati — pustakam tatra asti. kati?) "Father laughs — the books are over there.
-   How many?" — पिता हँसते हैं — किताबें वहाँ हैं। कितनी?
+   (pitā hasati — pustakam tatra asti. kati?) "Father laughs — a book is there.
+   How many?" — पिता हँसते हैं — किताब वहाँ है। कितनी?
 5. माया वदति — एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश — दश!
    (māyā vadati — ekam dve trīṇi catvāri pañca ṣaṭ sapta aṣṭa nava daśa — daśa!) "Māyā
    says — one, two, three, four, five, six, seven, eight, nine, ten — ten!" — माया कहती
@@ -536,9 +537,9 @@ Devanagari, IAST, English, Hindi.
 6. अर्जुनः वदति — अहम् अपि! कति?
    (arjunaḥ vadati — aham api! kati?) "Arjuna says — me too! How many?" — अर्जुन कहता है
    — मैं भी! कितने?
-7. माया हसति — एकम्! त्वम् एकम्!
-   (māyā hasati — ekam! tvam ekam!) "Māyā laughs — one! You are one!" — माया हँसती है —
-   एक! तुम एक!
+7. माया हसति — एकम्!
+   (māyā hasati — ekam!) "Māyā laughs — one! (she counts him)" — माया हँसती है —
+   एक!
 8. मम परिवारः — पञ्च। मम गृहम् — एकम्। सर्वम् शुभम्।
    (mama parivāraḥ — pañca. mama gṛham — ekam. sarvam śubham.) "My family — five. My home
    — one. All is well." — मेरा परिवार — पाँच। मेरा घर — एक। सब शुभ है।
@@ -736,8 +737,9 @@ centerpiece)**
 > March." Center: one plain ancestor node ("one reconstructed ancestor") with two
 > descending branches — left: Latin octō · novem · decem; right: Sanskrit अष्ट · नव ·
 > दश — and deliberately NO arrow between the branches; caption: "siblings — nobody
-> borrowed anybody's numbers." Corner chip: the 1.x caption "Nov-ember, Dec-ember come
-> from these!" in a quoted box with a kind correction stamp: "the honest story is better
+> borrowed anybody's numbers." Corner chip: the 1.x caption "Many English words come
+> from these! Tri-angle, Oct-agon, Nov-ember, Dec-ember" in a quoted box with a kind
+> correction stamp: "the honest story is better
 > — one ancestor, two calendars." Footer chant: "no arrow between cousins".
 
 **Asset 2 — `planned:assets/images/volume-2/v2c03l02-cognate-shelf.svg`**
@@ -802,7 +804,7 @@ narrator reads the cue, not the English spelling.
 - **02:00** The chant grows: ekam [eːkɐm], dve [d̪ʋeː], trīṇi [t̪ɾiːɳi], catvāri
   [t͡ɕɐt̪ʋɑːɾi], pañca [pɐɲt͡ɕɐ] — ṣaṭ, sapta, aṣṭa, nava, daśa. Real inflected
   Sanskrit, worn as counting dress; the machinery, honestly, waits.
-- **03:00** One small word makes the nine words useful: kati [kɐt̪i] — how many? And the
+- **03:00** One small word makes the ten numbers useful: kati [kɐt̪i] — how many? And the
   answer stands bare: kati? — sapta! No verb, no endings. That is the taught form, not a
   shortcut.
 - **04:00** Now the fix. The old Roman year began in March — so octō, novem, decem named
@@ -811,7 +813,7 @@ narrator reads the cue, not the English spelling.
   and nava "new" are two different words — English kept their cousins apart: nine, and
   new.
 - **05:10** Two hundred ninety words. Count anything today — kati? — and answer it bare.
-  Next: kālaḥ [kɑːlɐhɐ] — the time words, and an hour that sailed into Sanskrit from
+  Next: kālaḥ [kɑːlɐh] — the time words, and an hour that sailed into Sanskrit from
   Greek.
 
 ## 26. Reel Script
@@ -893,9 +895,9 @@ narrator reads the cue, not the English spelling.
   taught (notes §6 checklist); the 1.x pp.30–31 quotes transcribed from the PDF, not
   memory, and logged in ../../../research/verification-log.md as the banned-claim fix
   delivered.
-- **Register audit:** FACT ×7 (§4 numeral stability + Hindi descent ×2 · §5 fluency +
+- **Register audit:** FACT ×8 (§4 numeral stability + Hindi descent ×2 · §5 fluency +
   spacing + retroflexion ×3 · §13 October fix + नव split ×2 · §15 rules ×1) · HISTORY ×0
   (the Roman-calendar line rides inside §13's FACT corrective per the chapter notes;
   no dated-era claims made) · TRADITION ×0 · SYMBOL ×0. The 1.x month-name caption
-  appears only as a documented, corrected 1.x error (§4, §13), per EDITORIAL_GUIDELINES
+  appears only as a documented, corrected 1.x error (§4, §13, §23), per EDITORIAL_GUIDELINES
   §3. Quiz Q1–Q8 all FACT-register content.

@@ -358,7 +358,7 @@ distractors.
 > medieval Sanskrit; the seven-day system is a documented historical import. The
 > same seven-planet scheme stands behind the English names too — *Sunday*, *Monday*
 > and *Saturday* wear it transparently.
-> [REF:monierwilliams1899 s.v. वासर] [REF:burrow2001]
+> [REF:monierwilliams1899 s.v. वासर] [REF:burrow2001] [REF:oed s.vv. Sunday, Monday, Saturday]
 
 Hold the pairing: lesson 3 gave you a *word* that immigrated (होरा); this lesson
 gives you a *system* that immigrated, wearing home-grown words. The week and the
@@ -639,7 +639,7 @@ fails on the word, (b) fails on the system. Exercise 6: (a) अद्य गु�
 
 > **The set:** वासरः and the seven — रविवासरः सोमवासरः मङ्गलवासरः बुधवासरः
 > गुरुवासरः शुक्रवासरः शनिवासरः. **The fronts:** रवि सोम मङ्गल बुध गुरु शुक्र शनि —
-> sun, moon, Mars, Mercury, Jupiter, Venus, Saturn; three already yours, four riding
+> sun, moon, Mars, Mercury, Jupiter, Venus, Saturn; two already yours, five riding
 > inside. **The frames:** अद्य कः वासरः? — अद्य सोमवासरः। श्वः? ह्यः? **The dates:**
 > digit-and-day pairs — शुक्रवासरः — ७ — no ordinals yet. **The honest line:** the
 > words are Sanskrit's own; the seven-day system arrived in the early centuries CE
@@ -760,7 +760,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    सोमवासरः assembles with its visarga breathing. Title card: वासराः — The Week.
 2. **The wheel (0:45–2:00):** a seven-sector wheel draws itself; each sector stamps
    its name as its planet rises over the rim — sun, moon, Mars, Mercury, Jupiter,
-   Venus, Saturn; the tail -वासरः glows constant across all seven; रवि, सोम and गुरु
+   Venus, Saturn; the tail -वासरः glows constant across all seven; रवि and गुरु
    get "yours already" badges.
 3. **The honest ship (2:00–3:10):** the same ship from lesson 3's होरा scene docks
    again; two crates come off: a small one labeled होरा and a large one labeled "the
@@ -789,7 +789,7 @@ the narrator reads the cue, not the English spelling.
 - **00:45** The chassis is vāsaraḥ [ʋɑːsɐɾɐh] — a day of the week. In front, seven
   planets: ravi [ɾɐʋi] the sun, soma [soːmɐ] the moon, maṅgala [mɐŋgɐlɐ] Mars,
   budha [bud̪ʱɐ] Mercury, guru [guɾu] Jupiter — yes, your teacher word — śukra
-  [ɕukɾɐ] Venus, śani [ɕɐn̪i] Saturn. Three of those are already yours.
+  [ɕukɾɐ] Venus, śani [ɕɐn̪i] Saturn. Two of those are already yours.
 - **02:00** Now the honest part. These words are real Sanskrit — classical,
   medieval, standard today. And the seven-day system they ride arrived in India in
   the early centuries CE, with the same Greek astronomy that brought horā [ɦoːɾɑː].
@@ -866,11 +866,14 @@ the narrator reads the cue, not the English spelling.
   week" claim (notes §0.8 policy); the planet senses of मङ्गल, बुध, गुरु, शुक्र,
   शनि against the dictionaries s.vv.; the Hindi -वार < -वासर descent line (§4, §13)
   against [REF:masica1991]; the English Sunday/Monday/Saturday parallel line inside
-  §13's HISTORY callout — verify or trim at review; the होरा pairing checked against
+  §13's HISTORY callout — verified against the OED day-name etymologies at review;
+  [REF:oed] added; the होरा pairing checked against
   l03 §13 as drafted (arrow INTO Sanskrit, Hellenistic astronomy, coarse dating). All §10/§14 IPA diffed cell-by-cell against
   STYLE_GUIDE §2 (Pass A); §16/§17 cast usage consistent with Chapter 2's household.
 - **Register audit:** FACT ×6 (§4 attestation + descent ×2 · §5 frames + spacing ×2
   · §13 planet lexicon ×1 · §15 frame rules ×1) · HISTORY ×1 (§13 — the honest
   week, cited) · TRADITION ×0 · SYMBOL ×0. The auspicious sense of मङ्गल appears
-  only as a dictionary gloss (§13, §14), never as a claim about the day. Quiz Q1–Q8
-  all FACT-register content.
+  only as a dictionary gloss (§13, §14), never as a claim about the day. Quiz: Q1
+  assesses §13's cited HISTORY line (rule 4 carve-out, STYLE_GUIDE §4); Q2–Q8 FACT.
+  Exercise 4 cards b/c assess the same cited HISTORY content under the same
+  carve-out.
