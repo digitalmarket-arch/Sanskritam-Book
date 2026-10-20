@@ -127,8 +127,9 @@ today.
 
 The everyday time words on today's list are ordinary classical vocabulary: कालः "time",
 the deictic trio अद्य, श्वः, ह्यः, the spans वर्षम्, मासः, सप्ताहः — all attested across
-the classical language and all still at work in modern spoken Sanskrit
-[REF:apte1890 s.vv.]; [REF:monierwilliams1899 s.vv.]. One of them even carries its own
+the classical language [REF:apte1890 s.vv.]; [REF:monierwilliams1899 s.vv.], and all
+still in everyday use in today's small but real spoken-Sanskrit community
+[REF:census2011]. One of them even carries its own
 arithmetic: सप्ताहः is transparently सप्त (sapta) + अह (aha) — "a seven-of-days" (§8).
 
 The traveler is होरा.
@@ -212,6 +213,12 @@ required where naming will do.
 सन्तानें थीं; यहाँ दोनों भाषाओं ने एक ही स्रोत से उधार लिया। तीर की दिशा ही आज की विद्या
 है। और मासः को देखकर चौंकिए मत — मास आप v1.c04 से पढ़ रहे हैं; आज उसे बस वाक्य-वेश ः
 मिला है, गृहम् की ही तरह: शब्द पुराना, पोशाक नयी, गिनती में कोई नया शब्द नहीं।
+
+चौथी बात — अध्याय के द्वार पर एक झलक। अध्याय का नाम है **संख्याः कालश्च** (saṃkhyāḥ
+kālaś ca) — यह कालः + च का जुड़ा हुआ रूप है: विसर्ग अगले च से सटकर श् बन जाता है —
+kālaḥ + ca → kālaś ca। आज का पढ़ना विराम-रूप ही है: कालः च (kālaḥ ca)। जोड़ने के नियम
+तीसरे खण्ड का काम हैं — पढ़िए, बनाइए मत; और इसे नास्ति, पुनर्मिलामः, जगच्च और षड् के
+साथ उसी ताक पर रखिए।
 
 ## 8. English Explanation
 
@@ -370,17 +377,18 @@ marks the श्व, ह्य and र्ष joins.
 
 > **[FACT · तथ्यम्]** होरा "hour" is a genuine loanword INTO Sanskrit: it was borrowed
 > from Greek *hṓra*, arriving with Hellenistic astronomy and astrology, and it is
-> attested in the jyotiṣa literature. English *hour* descends from the same Greek word
+> attested in the jyotiṣa literature. English *hour* goes back to the same Greek word
 > by a different road — Greek to Latin to French to English. So होरा and *hour* are
 > relatives by *borrowing* from one shared source — not, like माता and *mother*,
 > siblings by shared descent from a common ancestor. The relation is real in both
 > cases; the *kind* of relation is part of the fact.
-> [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]
+> [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]; [REF:oed s.v. hour]
 
 Say the difference plainly, because it is the whole skill: माता and *mother* were
 *inherited* — no arrow, nobody borrowed. Dharma and karma were *lent out* — arrow east.
-होरा was *taken in* — arrow west. With that third arrow the direction toolkit is
-complete: every direction demonstrated, and "related" has stopped being one claim and
+होरा was *taken in* — arrow west, an arrow arriving FROM the west, just as dharma's
+arrow arrives in English from the east: name the arrow by where it comes from. With
+that third arrow the direction toolkit is complete: every direction demonstrated, and "related" has stopped being one claim and
 become three. The होरा story is a gift, not an embarrassment: living languages borrow in
 both directions — Sanskrit lent the world dharma and took in an hour, both on the record.
 
@@ -427,8 +435,9 @@ Back on duty from v2.c01.l03, review rows only — no re-entry to the ledger:
 दिनम् takes its rung on the span ladder.
 
 Display-only, excluded from all counts and decks: the old day-word component **अह**
-(aha) and its stem अहन् (§13), and the Greek source word *hṓra* — a foreign word on a
-chart, not a Sanskrit headword.
+(aha) and its stem अहन् (§13), the Greek source word *hṓra* — a foreign word on a
+chart, not a Sanskrit headword — and the chapter title's seam form **कालश्च**
+(kālaś ca), read-only (§15).
 
 Reading protocol unchanged: count the blocks, read the blocks, read the word — श्वः,
 ह्यः, स-प्ता-हः, व-र्षम्, हो-रा — then the span ladder (§9 drill 2), and no visarga
@@ -467,6 +476,14 @@ correcting when it arrives.
 word in sentence dress, promoted to active duty. The ledger therefore counts today's
 list as seven new + one upgrade (§14) — an upgrade row never increments the ledger,
 exactly as गृहम् did not in v2.c02.l01 and तव did not in v1.c06.l02.
+
+### The title seam — a preview, read-only
+
+The chapter door reads **संख्याः कालश्च** (saṃkhyāḥ kālaś ca) — and that is today's
+कालः + च worn together: the visarga leaning into the following च as श् — kālaḥ + ca →
+kālaś ca. Pause form कालः च (kālaḥ ca) is today's reading; joining rules are Volume 3's
+business — read it, build nothing. Shelve it beside नास्ति (nāsti), पुनर्मिलामः
+(punarmilāmaḥ), जगच्च (jagac ca) and षड् (ṣaḍ) on the read-only seam shelf.
 
 ## 16. Conversation
 
@@ -557,9 +574,8 @@ will simply be true.
 अभ्यासाः — six exercises; 2, 4, 5 and 6 are production tasks. Do them in order.
 
 **अभ्यासः 1 · अन्वेषणम् (the join hunt — timed).** Sixty seconds: scan the §14 list and
-mark every conjunct and every repha at work. Check: श्व in श्वः; ह्य in ह्यः; द्य in
-अद्य; प्त in सप्ताहः; and the repha join र्ष in वर्षम्. Ten-second follow-up: which join points
-back over your shoulder, and what are its components? (ह्यः — ह् + य, then the visarga.)
+mark every conjunct and every repha at work. Ten-second follow-up: which join points
+back over your shoulder, and what are its components?
 
 **अभ्यासः 2 · त्रिदिनपट्टिका (the three-day strip — production, spoken).** Draw a
 three-slot strip, mark the middle slot अद्य, and run both directions against the audio
@@ -574,9 +590,7 @@ Sanskrit होरा." (c) "English *hour* descends from Sanskrit होरा.
 both go back to one Greek word — relatives by borrowing." (e) "माता and *mother* are
 relatives the same way होरा and *hour* are." (f) "सप्ताहः carries सप्त inside it — a
 seven-of-days." Check the pair (d)/(e) before looking anything up: both claim
-"relatives" — why is one kept and one rejected? (One names a shared *source* reached by
-two borrowings; the other confuses that with shared *descent*, where nobody borrowed —
-§13.)
+"relatives" — why is one kept and one rejected?
 
 **अभ्यासः 4 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track
 🔊: the seven headwords plus मासः in random order, each read twice with a writing pause.
@@ -637,6 +651,19 @@ Log the third ladder time; the drop over the week is the fluency.
 7. (b) — the repair kit for Hindi speakers (§7, §8, §12).
 8. (b) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —
    know both.)
+
+**Exercise keys.**
+
+- **Exercise 1 (the join hunt):** श्व in श्वः; ह्य in ह्यः; द्य in अद्य; प्त in
+  सप्ताहः; and the repha join र्ष in वर्षम्. Follow-up: ह्यः — ह् + य, then the
+  visarga.
+- **Exercise 3 (the direction sort):** (a) keep — FACT, the honest arrow (§13). (b)
+  reject — the reversed arrow, §12 mistake 5. (c) reject — *hour* took its own Greek →
+  Latin → French road, not Sanskrit (§13, §12 mistake 5). (d) keep — one Greek source,
+  two borrowings. (e) reject — confuses shared-source borrowing with shared descent,
+  the माता/*mother* relation (§13). (f) keep — FACT: सप्त + अह, a seven-of-days (§8,
+  §13). The (d)/(e) pair: (d) names a shared *source* reached by two borrowings; (e)
+  confuses that with shared *descent*, where nobody borrowed.
 </details>
 
 ## 20. Revision
@@ -654,7 +681,10 @@ Log the third ladder time; the drop over the week is the fluency.
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-take the dictation (exercise 4) cold; run the strip drill (exercise
-  2) once, both directions, timed; log both beside today's scores.
+  2) once, both directions, timed; log both beside today's scores — and retell the होरा
+  line once, arrow drawn: next lesson's Station 0 runs the strip compressed and asks
+  for that line cold (the dictation re-take and its log ride in that lesson's
+  homework).
 - **This week:** every morning, one honest exchange at a real calendar — अद्य किम्? plus
   the trio pointed at real days; keep the Station 0 chant habit warm.
 - **In 1 week:** the trio snaps onto the seven weekday names (v2.c03.l04) and the
@@ -678,8 +708,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
    answer: yes — living languages borrow in both directions, and Sanskrit lent dharma
    out the same door होरा came in.
 
-Tomorrow, before anything else: the 1-day re-dictation and one strip drill (§20). The
-gap is the method.
+Tomorrow, before anything else: the strip compressed and the होरा line cold (§20); the
+re-dictation rides tomorrow's homework. The gap is the method.
 
 ## 22. Teacher Notes
 
@@ -687,7 +717,8 @@ gap is the method.
 
 **Open with the clock, not the list.** Draw a clock on the board, write *hour* beneath
 it, and ask where the word is from. Collect votes — someone will say Latin, someone
-English. Then draw the two arrows out of Greek *hṓra*: west to *hour*, east to होरा —
+English. Then draw the two arrows out of Greek *hṓra*: west to *hour*, east to होरा (on
+the cards this is the arrow from the west — name the arrow by where it comes from) —
 and let the room feel the reversal: Sanskrit *received* this one. The lesson's honesty
 axis lands better as a map revealed than as a disclaimer read out.
 
@@ -729,7 +760,9 @@ receipts; and keeping weekday names out of the drills — promise them tomorrow.
 direction toolkit, complete)**
 
 > Clean educational wall chart, warm off-white background, Noto Serif Devanagari + clean
-> Latin serif, two colors, monochrome-safe. Title band: "three relations, three arrows".
+> Latin serif, two colors, monochrome-safe. Title band: "three relations, three arrows";
+> caption beneath the band: "name the arrow by its origin — arrow east arrives from the
+> east, arrow west from the west".
 > Row 1 — NO arrow: माता, *māter* and *mother* beneath one plain node labeled "one
 > ancestor (reconstructed)"; caption "siblings — nobody borrowed". Row 2 — arrow east:
 > dharma → English, caption "lent out". Row 3 — arrow west: Greek *hṓra* → होरा,
@@ -769,7 +802,8 @@ Lesson video, ~6 min, presenter + motion graphics.
 
 1. **Hook (0:00–0:45):** a ticking clock fills the screen; the word *hour* peels off
    its face and splits in two — one copy rides west over a map through Latin and French
-   into English, the other sails east with star charts into Sanskrit as होरा. Title
+   into English, the other sails east with star charts into Sanskrit as होरा — on the
+   direction cards, the arrow from the west, named by where it comes from. Title
    card: कालः — Time Words.
 2. **The ladder (0:45–1:50):** rungs assemble small to large — होरा, दिनम्, सप्ताहः,
    मासः, वर्षम् — each stamping its gloss; सप्ताहः pauses and splits into सप्त + अह
@@ -781,8 +815,9 @@ Lesson video, ~6 min, presenter + motion graphics.
    each exhaling a visible breath for the visarga; a leaked vowel ("ha-yaḥ") buzzes red
    and re-welds.
 5. **The arrows (4:00–5:10):** the direction chart builds row by row — no arrow for
-   माता/*mother*, east for dharma, west for होरा — then the side panel draws *hour*'s
-   road and the caption lands: "relatives by borrowing, not shared descent."
+   माता/*mother*, east for dharma, west for होरा, each arrow named by its origin — then
+   the side panel draws *hour*'s road and the caption lands: "relatives by borrowing,
+   not shared descent."
 6. **Recap + CTA (5:10–6:00):** the strip, the ladder and the chart assemble into one
    card; the ledger ticks to 297. End card: "Next: वासराः — the week gets its seven
    names."
@@ -807,8 +842,10 @@ narrator reads the cue, not the English spelling.
   vowel inside — "hayaḥ" means a vowel leaked. Two letters, full price.
 - **04:00** Now the arrows. mātā [mɑːt̪ɑː] and mother — no arrow: one ancestor, nobody
   borrowed. dharma — arrow east, lent out. horā [ɦoːɾɑː] — arrow west, taken in with
-  Greek astronomy. And English hour? Same Greek source, different road. Relatives by
-  borrowing — not by descent. Say the difference plainly and you own the toolkit.
+  Greek astronomy. Name the arrow by where it comes from: dharma's arrives from the
+  east, this one from the west. And English hour? Same Greek source, different road.
+  Relatives by borrowing — not by descent. Say the difference plainly and you own the
+  toolkit.
 - **05:10** Two hundred ninety-seven words — and a calendar that answers you honestly.
   Tomorrow — śvaḥ [ɕʋɐh] — the week gets its seven names. punaḥ milāmaḥ
   [pun̪ɐh milɑːmɐh]!
@@ -849,9 +886,8 @@ narrator reads the cue, not the English spelling.
 - **Sibling availability at drafting:** v2.c03.l01 and v2.c03.l02 landed on disk while
   this lesson was drafted; the "l02 §…" pointers are verified against the real file
   (§3 Station 0 collects the logs l02 §20 booked; the month-name fix sits at l02 §13;
-  bare-कति at l02 §15; ledger hand-off 285 → 290 confirmed at l02 §14). v2.c03.l04 is
-  not yet on disk; its mentions target the intended structure per chapter.md and
-  research/notes/vol2-ch3-numbers-time.md — verify when it lands. v2.c03.l05 is on
+  bare-कति at l02 §15; ledger hand-off 285 → 290 confirmed at l02 §14). v2.c03.l04
+  verified on disk at review; forward mentions hold. v2.c03.l05 is on
   disk and its Station 3 keys point back at this lesson's §8 and §13 as drafted.
 - **Related lessons:** reviews v2.c03.l02 (Station 0 — chant, कति drill, month-name
   line; सप्त working inside सप्ताहः), v2.c01.l03 (day-cycle words carrying the frames;
@@ -876,7 +912,8 @@ narrator reads the cue, not the English spelling.
   `shared-source-borrowing` — never as `cognate` and never as `descent`; the
   माता/*mother* relation stays `cognate, direction: shared-descent` — the three types
   must never be merged. Display-only, excluded from counts and decks: अह / अहन्
-  (component), Greek *hṓra* (source word). Export "śva", "hya" (dropped visarga),
+  (component), Greek *hṓra* (source word), and the chapter-title seam form कालश्च
+  (`display`). Export "śva", "hya" (dropped visarga),
   "hayaḥ", "śavaḥ" (leaked vowel) as `error_form`. Day-cycle review rows (प्रभातम्,
   दिनम्, सायम्, रात्रिः) export flagged review-duplicate, not new. §19 key stays in
   `<details>`.
@@ -885,9 +922,9 @@ narrator reads the cue, not the English spelling.
   dating held to "with Hellenistic astronomy", no year, per notes §0.7 and the Pass C
   checklist; सप्ताह = सप्त + अह (§8, §13) against [REF:apte1890 s.v. सप्ताह]; trio and
   span glosses (§14) against [REF:apte1890] / [REF:monierwilliams1899] s.vv.; the
-  *hour* chain (Greek → Latin → French → English) is standard dictionary etymology,
-  OED-checkable — REFERENCES.md carries no OED key, and l05 asserts the same chain:
-  verify once, log in ../../../research/verification-log.md; अव्यय status of the trio
+  *hour* chain (Greek → Latin → French → English) against [REF:oed s.v. hour] — cited
+  at §13; l05 asserts the same chain: verify once, log in
+  ../../../research/verification-log.md; अव्यय status of the trio
   (§15) against [REF:whitney1889] (indeclinables — cite bare pending section check);
   the no-dress rail (§15) checked against the volume's gender-chapter plan. All
   §10/§14 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); no weekday names,
