@@ -854,19 +854,17 @@ narrator reads the cue, not the English spelling.
   cards), while this draft, following the chapter plan, runs **l01's +1-day** (chant +
   digit cards) in §3 — align the interval labels and the item lists across the pair at
   review. Verify remaining pointers when l04 lands.
-- **Related lessons:** reviews v2.c03.l01 (Station 0 — the +1-day chant re-run and digit
-  cards; stems 1–5, एक's honest no-cognate line) and v1.c04.l01 (नव "new; nine" — the
-  double-gloss row honestly split in §13); builds on v1.c04.l02 (दश with the decem line;
-  श/ष discipline), v1.c03.l03 (the retroflex varga), v1.c05.l05 (digits ०–९),
-  v2.c01.l02 and v2.c02.l04 (the question kit कः का किम् कुतः कथम् कुत्र — grown to seven
-  here; the और → च correction pattern reused in §13), v2.c02.l05 (direction cards —
-  task D's toolkit, extended by this lesson's November card); feeds v2.c03.l03 (कालः —
-  Time Words: the deictic trio, and होरा's reversed arrow — next lesson), v2.c03.l04
-  (the week; day-counting), v2.c03.l05 (exam: Station 2 re-runs this lesson; task C
-  counting production; task D carries THE November-reject card and the नव-split card
-  built here), v2.c06 (cognate sets at scale), Volume 3 (the षड् company dress — sandhi;
-  none previewed here beyond read-only title note), Volume 4 (the numeral system —
-  gender, case, agreement behind the bare answers).
+- **Related lessons:** reviews v2.c03.l01 (Station 0 — chant re-run and digit cards;
+  stems 1–5, एक's honest no-cognate line) and v1.c04.l01 (नव "new; nine" — the
+  double-gloss row split in §13); builds on v1.c04.l02 (दश and the decem line),
+  v1.c03.l03 (the retroflex varga), v1.c05.l05 (digits ०–९), v2.c01.l02 and v2.c02.l04
+  (the question kit, grown to seven here; the और → च correction pattern reused in §13),
+  v2.c02.l05 (direction-card toolkit, extended by the November card); feeds v2.c03.l03
+  (कालः — Time Words: the deictic trio and होरा's reversed arrow — next lesson),
+  v2.c03.l04 (the week), v2.c03.l05 (exam: Station 2 re-runs this lesson; task C counting
+  production; task D carries THE November-reject and नव-split cards built here), v2.c06
+  (cognate sets at scale), Volume 3 (the षड् company dress — read-only here), Volume 4
+  (the numeral system behind the bare answers).
 - **Glossary:** reuses मूर्धन्य, दन्त्य, विसर्ग, मात्रा, संयुक्ताक्षर per GLOSSARY.md; no
   new glossary terms. All headwords are classical vocabulary — no classical/modern usage
   labels needed this lesson (the register work is cognate-direction honesty, §13/§18).
@@ -876,26 +874,25 @@ narrator reads the cue, not the English spelling.
   `splits: नव (v1.c04.l01, "new; nine")`; the v1.c04.l01 row re-exports as नव "new" only
   — the two rows must never re-merge. दश exports flagged review-duplicate, not new.
   Display-only, excluded from counts and decks: the chant forms एकम्, द्वे, त्रीणि,
-  चत्वारि (export as `display`, owner v2.c03.l01), the stem नवन् and the sandhi form षड्
-  (export as `display`). Export "sat", "ashta", "asht", "nau-from-nava-sideways" style
-  forms per the §12 list as `error_form` (*सट्, *अश्ट). The अष्ट/octō, नव/novem, दश/decem,
-  षट्/sex, सप्त/septem and कति/quot relations export as `cognate` rows with
+  चत्वारि (`display`, owner v2.c03.l01), the stem नवन् and the sandhi form षड्
+  (`display`). *सट् and *अश्ट export as `error_form`. The षट्/sex, सप्त/septem, अष्ट/octō,
+  नव/novem, दश/decem and कति/quot relations export as `cognate` rows with
   `direction: shared-descent`; Hindi छह/सात/आठ/नौ/दस under their Sanskrit parents export
-  as `descent` rows (Indo-Aryan) — the two relation types must never be merged. The
+  as `descent` rows (Indo-Aryan) — the two relation types must never merge. The
   month-name correction exports as `corrective: true` (banned-claim fix delivered,
   EDITORIAL_GUIDELINES §3). §19 key stays in `<details>`.
 - **Verification flags for Pass C:** the month-name story (§13) against [REF:mallory2006]
   (numerals) and OED month entries — the Roman-year-began-in-March line kept
-  encyclopedia-checkable, no precise dates claimed; the numeral cognate shelf incl. कति ~
-  quot (§13) against [REF:mallory2006] and [REF:burrow2001]; the नव/नवन् split (§13)
-  against [REF:monierwilliams1899 s.vv.]; कति bare-answer policy (§15) against
-  [REF:apte1890 s.v. कति] with [REF:whitney1889] cited bare pending the notes §0.1
-  section-range check; Hindi numeral descent (§4, §18 ex. 4e) against [REF:masica1991];
-  retroflexion areal claim (§5) against [REF:masica1991] — "not unique" line per
-  STYLE_GUIDE §2.2. All §10/§14 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A);
-  chant forms display-only, no agreement taught (notes §6 checklist); the 1.x pp.30–31
-  quotes transcribed from the PDF, not memory, and logged in
-  ../../../research/verification-log.md as the IR banned-claim fix delivered.
+  encyclopedia-checkable, no precise dates claimed; the numeral shelf incl. कति ~ quot
+  (§13) against [REF:mallory2006] and [REF:burrow2001]; the नव/नवन् split (§13) against
+  [REF:monierwilliams1899 s.vv.]; कति bare-answer policy (§15) against
+  [REF:apte1890 s.v. कति], with [REF:whitney1889] cited bare pending the notes §0.1
+  range check; Hindi numeral descent (§4, §18 ex. 4e) and the retroflexion areal claim
+  (§5, "not unique" per STYLE_GUIDE §2) against [REF:masica1991]. All §10/§14 IPA diffed
+  cell-by-cell against STYLE_GUIDE §2 (Pass A); chant forms display-only, no agreement
+  taught (notes §6 checklist); the 1.x pp.30–31 quotes transcribed from the PDF, not
+  memory, and logged in ../../../research/verification-log.md as the banned-claim fix
+  delivered.
 - **Register audit:** FACT ×7 (§4 numeral stability + Hindi descent ×2 · §5 fluency +
   spacing + retroflexion ×3 · §13 October fix + नव split ×2 · §15 rules ×1) · HISTORY ×0
   (the Roman-calendar line rides inside §13's FACT corrective per the chapter notes;
