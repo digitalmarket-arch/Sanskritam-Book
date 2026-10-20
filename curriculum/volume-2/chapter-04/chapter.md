@@ -41,7 +41,7 @@ By the end of this chapter the learner can:
 - [ ] Produce and parse the -मि/-सि/-ति forms of the regular bank on demand
 - [ ] Run the doing-dialogue in both roles (किम् करोषि? / किम् सः करोति?)
 - [ ] Read the day-of-verbs passage at pace and narrate their own day in 1sg
-- [ ] Read ~12 ledger-new words (≈317 cumulative)
+- [ ] Read 11 ledger-new words (316 cumulative)
 - [ ] Pass the verb exam (production conjugation both directions)
 
 ## Lessons

@@ -86,6 +86,7 @@ goal arc: chapters 1–4 of Volume 2 shipped.** Gates v2.c05 (संवादः
 - असि attestation trivial; the verbless-question idiom note (0.3) kept.
 - अन्नम्/क्षीरम् s.vv. checks.
 - गच्छ- suppletion (√गम्) NOT mentioned — stem honesty without root talk; V4's story.
-- Ledger: ≈305 + ~12 ≈ 317; reconcile at review.
+- Ledger (prescribed pre-drafting, c03 exit confirmed 305): 305 + 11 (l01 7 · l02 1 ·
+  l03 3 · l04 0) = 316; chain 305 → 312 → 313 → 316 → 316; reconcile at review.
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.
