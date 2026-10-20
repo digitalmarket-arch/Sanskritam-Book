@@ -849,13 +849,11 @@ narrator reads the cue, not the English spelling.
   - §16/§17 audio is NOT in this manifest — record into the Chapter 3 drill pack
     (chapter.md manifest: counting audio) and back-link here when it exists.
 - **Sibling availability at drafting:** v2.c03.l01 and l03 landed concurrently with this
-  draft (l04 is not yet on disk); the "l01 §…" pointers in §3/§13/§15 were checked
+  draft (l04 was not yet on disk); the "l01 §…" pointers in §3/§13/§15 were checked
   against l01 as drafted and hold, and l03 §3's Station 0 already matches this lesson's
-  §20 logs (the re-taken dictation + the timed ladder). One reconciliation flag for
-  Pass D: l01 §20 points its **+1-week** at this lesson's Station 0 (ladder + shelf
-  cards), while this draft, following the chapter plan, runs **l01's +1-day** (chant +
-  digit cards) in §3 — align the interval labels and the item lists across the pair at
-  review. Verify remaining pointers when l04 lands.
+  §20 logs (the re-taken dictation + the timed ladder). Reconciled at review: l01 §20
+  now books this lesson's Station 0 (chant + digit cards १–५, both directions) at
+  +1 day. v2.c03.l04 verified on disk at review; forward mentions hold.
 - **Related lessons:** reviews v2.c03.l01 (Station 0 — chant re-run and digit cards;
   stems 1–5, एक's honest no-cognate line) and v1.c04.l01 (नव "new; nine" — the
   double-gloss row split in §13); builds on v1.c04.l02 (दश and the decem line),
