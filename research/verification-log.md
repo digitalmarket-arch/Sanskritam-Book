@@ -307,3 +307,26 @@ Status change: v2.c02 lessons 01–05 `draft` → `reviewed`.
 | D | Coherence: Station 0 chain reconciled end-to-end (l01 §20 books l02's +1-day chant+cards; l03 §20 books the होरा retell l04 §3 runs; dictation re-takes routed to homework rows); l05 firmed from provisional ≈ arithmetic to the confirmed chain (282→285→290→297→305, §1/§14/§20/§24/§25/§27); task E runs on the learner's l04-§21 grid with the printed cards as stand-ins (§18/§7/§23/§27); card 8 swapped to the promised both-directions card, tallies unchanged (6 FACT + 3 reject); l04's three remaining three-of-seven spots corrected (§20/§24/§25); calendar-card header spec aligned to full वासर forms; Q8 key citation widened to (l04 §8, §13). Drafting note: all five lessons agent-drafted (a first — the exam included); fixes applied by per-file agents off the verified findings. | pass |
 
 Status change: v2.c03 lessons 01–05 `draft` → `reviewed`.
+
+## Chapter v2.c04 — research verdicts (2026-08-06)
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| laṭ (present) parasmaipada singular endings -मि/-सि/-ति mark person inside the verb; the -आमि lengthening stated as observed shape only | [REF:whitney1889] (cited bare); [REF:goldman2019] | ✅ singular only; dual/plural, other tenses and ātmanepada deferred with one forward line | l02 §15 |
+| Ten-verb bank forms (गच्छति खादति पिबति पश्यति शृणोति लिखति जानाति + पठति वदति हसति; करोति; अस्मि/असि/अस्ति) and their 1sg/2sg forms | [REF:apte1890]; [REF:monierwilliams1899] s.vv. | ✅ every form re-checked; शृणोति/जानाति/करोति taught whole ("builds its stem differently"), no class numbers or root talk | l01–l05 |
+| Cognates: जानाति ~ *know* ~ *gnōsis*; पिबति ~ Latin *bibit*; गच्छति and English *go* NOT related (गच्छति < PIE *gʷem-, kin of *come*/*venio*); लिखति no clean English cognate | [REF:mallory2006] | ✅ direction-honest; the go-card keyed to l01 §13's non-relation FACT (was "no claim anywhere" — corrected) | l01 §13, l05 task D |
+| In-course history: the first readable -ति verb is चलति (v1.c03.l02); वदति arrived v1.c04.l01; 1sg readable from वदामि (v1.c05.l01), with अहं संस्कृतं पठामि heard/chanted since v1.c01.l01 | repo grep | ✅ the fact base's "वदति since v1.c03" was wrong and had propagated to chapter.md, l03 §3, l05 hook and l05 card 9 (keyed FACT) — all corrected; card 4 reworded to "reading 1sg forms" | chapter.md, l03, l05, notes |
+| Pāṇinian person names (prathama = he, madhyama = you, uttama = I) | TRADITION, attributed to the Pāṇinian tradition | ✅ never assessed | l02 |
+| Classical Sanskrit closes quotations with इति | [REF:whitney1889] | ✅ one framing line in l04 so the dash is not taken for Sanskrit punctuation | l04 §15 |
+| Ledger chain 305 → 312 → 313 → 316 → 316 (11 ledger-new) | prescribed in drafting specs | ✅ held across all five lessons; l05's provisional notes firmed at review | all |
+
+## Review-pass findings — v2.c04 (2026-08-06)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Adversarially verified review (4 dimensions; batch verifiers with a 3-lens majority for blocker/major): 70 confirmed (6 blocker, 34 major, 30 minor), 2 rejected, 1 unverified-minor resolved in the main loop. Blockers: false course history keyed as FACT (l05 card 9; l03 §3 key; chapter.md; fact base); l01's exercise-1 key mismatched to the cards actually dealt. Majors: an uncited 5,000-year figure in l01 §13/§26 (banned claim — removed); the false "ष is कृ's own habit" rationale (शृणोषि carries it too) — re-worded across l03/l04 and the fact base; l05's invented शृ- card (√शृ is a different verb) and virāma-root verb cards realigned to l02's a-final fronts; an untaught future form (गमिष्यामि) removed from an l05 frame; l01 dialogue speaker mix-up; an unsupported Apte idiom citation (अन्नम् करोति) withdrawn. Validator green ×5. | green |
+| B | Policy: singular-only held; stem honesty without class numbers or roots; l02 instantiates the grammar-lesson contract (§15 heart, ≥2 production exercises both directions); keys only in §19; l02 now acknowledges v1.c06.l03's earlier person-tail preview. | pass |
+| C | Citations: Whitney cited bare throughout; mallory2006 cognate sets confirmed; idiom claim without support withdrawn; no banned claims remain (5,000-year figure removed). | pass |
+| D | Coherence: Station 0 chain c03.l05 → l01 → l02 → l03 → l04 → l05 verified item-for-item; l05's pre-sibling pointers audited against the real files and corrected; l04 §21 मम दिनम् homework matches l05 task E; chapter.md table and can-dos match the files. Drafting note: l05 drafted first by agent; l01/l03 landed before a usage-limit stop, l02/l04 completed on resume. | pass |
+
+Status change: v2.c04 lessons 01–05 `draft` → `reviewed`.
