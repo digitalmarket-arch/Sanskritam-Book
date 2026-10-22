@@ -8,17 +8,17 @@ title:
 volume: 2
 chapter: 4
 cefr: A2
-status: draft
+status: reviewed
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-06
 ---
 
 # Chapter 4 — क्रियाः · First Verbs
 
 The course's first formal grammar — and the structural fix for the 1.x curriculum's
 worst sequencing error. Learners have been *using* Sanskrit verbs since Volume 1
-(वदति since Chapter 3, वदामि since Chapter 5): this chapter names the pattern they
-already own — the present singular -मि / -सि / -ति — completes the 10-verb bank
+(चलति since Chapter 3, वदति since Chapter 4, वदामि since Chapter 5): this chapter
+names the pattern they already own — the present singular -मि / -सि / -ति — completes the 10-verb bank
 (गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति join पठति, वदति, हसति), delivers
 असि to complete the identity trio, and puts it all to work in the doing-dialogue
 (किम् करोषि?) and a full day-of-verbs passage. Stem honesty throughout: शृणोति,

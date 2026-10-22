@@ -6,7 +6,7 @@ lakāras dumped with zero prior conjugation practice). Salvage: the 1.x 10-verb 
 (PDF p.40 — verbs correct: गच्छति पठति खादति पिबति हसति वदति पश्यति शृणोति लिखति
 जानाति) and its singular ending pattern (-आमि/-असि/-अति — correct as far as it went).
 2.0 teaches the same ground with stem-honesty and production practice. Entering ledger:
-≈305 (reconciled at c03 review).
+305 (confirmed at c03 review).
 
 ---
 
@@ -14,7 +14,7 @@ lakāras dumped with zero prior conjugation practice). Salvage: the 1.x 10-verb 
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 0.1 | A Sanskrit finite verb marks its person inside the word: laṭ (present) singular endings -मि (I), -सि (you), -ति (he/she/it). The course has USED 3sg since v1.c03 and 1sg since v1.c05 as whole-word glosses; this chapter NAMES the pattern — the course's first formal grammar teaching. | FACT | [REF:whitney1889 §§527–540 — **Pass C: verify range or cite bare**]; [REF:goldman2019] | Singular only. Dual/plural, other tenses, ātmanepada — all later (V3 laṭ chapter; V4 full system). Say so. |
+| 0.1 | A Sanskrit finite verb marks its person inside the word: laṭ (present) singular endings -मि (I), -सि (you), -ति (he/she/it). The course has made 3sg READABLE since v1.c03 and 1sg since v1.c05 as whole-word glosses (listen-only sentences with such forms were heard even earlier, v1.c01.l01 §6); this chapter NAMES the pattern — the course's first formal grammar teaching. | FACT | [REF:whitney1889] (Pass C verdict: cite bare — §§527–540 cover person/number only in general terms; the -mi/-si/-ti endings fall in the Personal Endings section after §540; add a locator only after checking the page); [REF:goldman2019] | Singular only. Dual/plural, other tenses, ātmanepada — all later (V3 laṭ chapter; V4 full system). Say so. |
 | 0.2 | The 10-verb bank (all classical, high-frequency, laṭ 3sg citation): गच्छति goes · खादति eats · पिबति drinks · पश्यति sees · शृणोति hears · लिखति writes · जानाति knows · + the course's own पठति, वदति, हसति (✓ taught). Stem honesty: गच्छ-, खाद-, पिब-, पश्य-, लिख- take the plain -अति/-असि/-आमि pattern; शृणोति and जानाति build their stems differently (class-5/9 presents) — their you-forms शृणोषि, जानासि are given as whole words with one honest line; the stem system is Volume 4's. | FACT | [REF:apte1890] s.vv.; [REF:whitney1889] present classes | पश्य retires its imperative-only status: पश्यति the verb proper. गच्छति formally enters (deliberately withheld at v1.c06.l03). |
 | 0.3 | असि "you are" completes the identity trio: अस्मि (✓ v1.c05), असि (new), अस्ति (✓ v1.c05). त्वम् छात्रः असि। — the you-questions of v1.c06 finally get their verb (they were verbless by design; both patterns now legal, verbless remains idiomatic). | FACT | [REF:whitney1889] √as | The chapter's neatest payoff. |
 | 0.4 | करोति "does/makes" — suppletive-looking class-8 present; taught whole (करोमि करोषि करोति) with the stem-honesty line. किम् करोषि? "what are you doing?" — the chapter's conversation engine. | FACT | [REF:apte1890 s.v. कृ] | Forms as chunks; कृ's full paradigm is V4's (the 1.x कृ-ubhayapadī fix lands there per ROADMAP). |
@@ -35,7 +35,7 @@ act-and-say, timed bank recitation.
 ## 2. L2 — त्रयः पुरुषाः: the three persons (grammar — the course's FIRST grammar-type lesson)
 
 **New (1 + the pattern):** असि (0.3). THE PATTERN NAMED (0.1): -मि/-सि/-ति singular,
-built from what learners already own (वदामि since v1.c05, वदति since v1.c03 — the
+built from what learners already own (वदामि since v1.c05, वदति since v1.c04.l01; the first -ति verb is चलति, v1.c03.l02 — the
 lesson's hook: "you have been conjugating for three chapters; today you find out").
 Full table for the regular bank: गच्छामि गच्छसि गच्छति etc.; शृणोमि?? — NO: शृणोति's
 1sg शृणोमि and 2sg शृणोषि given as whole-word rows, honest line (0.2). अस्मि-असि-अस्ति
@@ -50,8 +50,8 @@ English barely: I go/you go/he goES).
 headword), अन्नम्, क्षीरम् (if not in l01). Frames: किम् त्वम् करोषि? — अहम् पठामि। ·
 किम् सः करोति? — सः लिखति। Q&A chains across the bank; the doing-dialogue as the
 chapter's living scene. भवान् किम् करोति? polite variant (भवान् takes 3sg — one honest
-line, chunk-level). §12: -षि/-सि confusion (करोषि vs गच्छसि — the ष is कृ's own habit,
-whole-word for now); person-mismatch errors (अहम् गच्छति — THE flagged error).
+line, chunk-level). §12: -षि/-सि confusion (करोषि vs गच्छसि — the ष of करोषि and
+शृणोषि belongs to those whole words, learned whole for now); person-mismatch errors (अहम् गच्छति — THE flagged error).
 
 ## 4. L4 — क्रियाकथा: a day of verbs (reading)
 
@@ -69,9 +69,10 @@ person + verb produce the form aloud and written, both directions, 12 items (the
 regular bank only; शृणोति/जानाति/करोति tested as whole-word rows); D register sort —
 cards: "Sanskrit verbs mark the person inside the word" (FACT), "-ति marks the future"
 (reject — laṭ is present; tenses later), "शृणोति follows the plain -अति pattern"
-(reject — different stem-build, honestly deferred), "you have used 1sg forms since
-Chapter 5 of Volume 1" (FACT — the in-course history card), "गच्छति and English *go*
-are cognates" (**reject** — no relation claimed anywhere; honesty-about-absence card);
+(reject — different stem-build, honestly deferred), "you have been reading 1sg forms
+since Chapter 5 of Volume 1" (FACT — the in-course history card), "गच्छति and English *go*
+are cognates" (**reject** — not related: l01 §13's FACT (गच्छति < PIE *gʷem-, kin of
+*come*; *go* from a different root) — resemblance alone proves nothing; corrected at review);
 E the passage: l04 re-read at pace + a 6-sentence self-narration (मम दिनम्: अहम् …
 गच्छामि। अहम् … पठामि।) — the learner narrates their own day in 1sg. **Completes the
 goal arc: chapters 1–4 of Volume 2 shipped.** Gates v2.c05 (संवादः).
@@ -87,6 +88,7 @@ goal arc: chapters 1–4 of Volume 2 shipped.** Gates v2.c05 (संवादः
 - अन्नम्/क्षीरम् s.vv. checks.
 - गच्छ- suppletion (√गम्) NOT mentioned — stem honesty without root talk; V4's story.
 - Ledger (prescribed pre-drafting, c03 exit confirmed 305): 305 + 11 (l01 7 · l02 1 ·
-  l03 3 · l04 0) = 316; chain 305 → 312 → 313 → 316 → 316; reconcile at review.
+  l03 3 · l04 0) = 316; chain 305 → 312 → 313 → 316 → 316; confirmed at review (every lesson
+  §14 table and front-matter count agrees).
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.

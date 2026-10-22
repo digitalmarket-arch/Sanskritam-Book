@@ -38,12 +38,12 @@ media:
     - "planned:assets/worksheets/volume-2/v2c04l04-reading-log.pdf"
   quizzes: []
 tags: [reading, passage, fluency, three-speeds, comprehension, verbs, person-endings, self-narration-prep]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-06"]
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 ## 1. Hook
@@ -236,7 +236,7 @@ page labels who is speaking. The ending does.
 
 Lines 5 and 6 open with a speaking verb and a dash: सः वदति — अहम् लिखामि। "He says:
 I am writing." The dash opens the boy's own words, so the अहम् inside them is अर्जुनः,
-not you — the same device the cast has used since v2.c03.l03's story (माया वदति — …).
+not you — the same device the course has used since v1.c04.l01's story (कविः वदति — जय!).
 Line 6 swaps in a different opener, सः हसति — "he laughs:" — and the same rule holds.
 Spot the dash, switch the speaker, read the ending.
 
@@ -334,8 +334,9 @@ No new values today — every sound in the passage has been on your chart since 
 **Narrow note — the person lives in the last syllable:** लिखामि /likʰɑːmi/ against
 लिखति /likʰɐt̪i/ — the I-form differs twice: a long /ɑː/ where the he-form has short
 /ɐ/, and a bilabial /m/ where the he-form has dental /t̪/. The you-form करोषि ends in
-retroflex /ʂ/. Three persons, three places of articulation at the end of the word: lips,
-teeth, curled tongue.
+retroflex /ʂ/. In this passage, three persons, three places of articulation at the end of
+the word: lips, teeth, curled tongue — only because its you-form is करोषि; the regular
+-सि sits on the teeth beside -ति, as v2.c04.l02 §10 notes.
 
 **Narrow note — the quote dash:** in pause form the dash in lines 5–6 is a full pause —
 [sɐh ʋɐd̪ɐt̪i ‖ ɐɦɐm likʰɑːmi] — never run together. The pause is where the speaker
@@ -349,8 +350,9 @@ changes.
    meet on म right before the final इ. If your lips never close, you have read -ति.
 2. **The he-form touches your teeth (-ति).** गच्छति, पठति, खादति, पिबति: tongue tip on
    the back of the upper teeth for त — no lip contact at all.
-3. **The you-form curls (-षि).** करोषि: tongue tip curled back toward the dome for ष,
-   then the इ. Lips stay open.
+3. **This passage's you-form curls (करोषि).** Tongue tip curled back toward the dome for
+   ष, then the इ. Lips stay open. That ष is this word's own: the regular you-tail -सि
+   keeps the tongue at the teeth, beside -ति (§10).
 4. **The finals hold (म्, ः).** विद्यालयम्, पुस्तकम्, अन्नम्, गृहम्, क्षीरम् end with
    lips closed and *staying* closed; अर्जुनः, सः, रात्रिः end on a short clean breath. At
    speed 3 these are the first to go — mirror-check them on the timed run.
@@ -563,7 +565,7 @@ question keeps the level tune (§9 drill 2). 🔊
 (aham paṭhāmi. aham api jānāmi!) "I am reading. I know too!" — मैं पढ़ रही हूँ। मैं भी
 जानती हूँ!
 
-Housekeeping: the fifth question is the lesson's key move — a quote in the I-form,
+Housekeeping: the third question is the lesson's key move — a quote in the I-form,
 reported back in the he-form (कः लिखति? — अर्जुनः लिखति।). The time words in front of
 the कुत्र and किम् questions are frames, exactly as v2.c03.l03 used them; no locative is
 needed or taught. कति? is answered bare, the v2.c03.l02 way. And the last exchange is the
@@ -773,8 +775,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 1. **(10 min)** Finish exercises 2 and 6 if not completed in class: the three-speed log
    through today's runs, and the dictation pass.
 2. **(15 min) मम दिनम् — the chapter exam's task E, drafted.** Write six first-person
-   sentences about your own real day — one bank verb in the I-form in each — and bring
-   the sheet to the exam (v2.c04.l05, task E). The seed list:
+   sentences about your own real day — one I-form verb from the seed list below in each —
+   and bring the sheet to the exam (v2.c04.l05, task E). The seed list:
    - *Frames — bookends, not counted among the six:* प्रभातम् अस्ति। · मध्याह्नः
      अस्ति। · सायम् अस्ति। · रात्रिः अस्ति। · अद्य …
    - *I-forms you build (the regular bank):* गच्छामि · पठामि · वदामि · हसामि ·
@@ -813,10 +815,11 @@ question-answer in pairs, book closed, roles swapping (7) → natural and first 
 logged; the trap read (8) → mirror story, one oral round (4) → homework: the मम दिनम्
 seed list walked through once (3).
 
-**Board work:** the three-column person board — सः · -ति / अहम् · -मि / त्वम् · -षि —
-with every passage verb pinned under its column, and a clock strip प्रभातम् → सायम् →
-रात्रिः above the text. Leave the board up through the timed runs; students who swap an
-ending should be able to look up and see where it belongs.
+**Board work:** the three-column person board — सः · -ति / अहम् · -मि / त्वम् · -सि —
+with every passage verb pinned under its column (करोषि goes under -सि as a whole word
+that keeps its own ष), and a clock strip प्रभातम् → सायम् → रात्रिः above the text. Leave
+the board up through the timed runs; students who swap an ending should be able to look
+up and see where it belongs.
 
 **Hold the fence.** Someone will want to tell the day "with my friends" or say "we go
 home". Do not open the plural. Give the honest line — plural forms exist and wait for
@@ -850,8 +853,9 @@ to the present singular rather than adding grammar to rescue it.
 > of milk, a crescent moon in the window. Right: the passage set large in twelve
 > numbered lines, generous leading, copied exactly from §17. Each verb carries a small
 > person tag by shape, not color — circle = he (-ति), square = I (-मि), triangle = you
-> (-षि). Line 8 set apart with a rule above. Footer chips: "read the tail" · "three
-> speeds" · "finals full". An ordinary schoolboy, no deity imagery, no ornament.
+> (-सि; करोषि keeps its ष). Line 8 set apart with a rule above. Footer chips: "read the
+> tail" · "three speeds" · "finals full". An ordinary schoolboy, no deity imagery, no
+> ornament.
 
 **Asset 2 — `planned:assets/worksheets/volume-2/v2c04l04-reading-log.pdf` (layout
 spec)**
@@ -898,8 +902,8 @@ narrator reads the cue, not the English spelling.
 - **00:00** Twelve sentences, one ordinary day — and somewhere in the middle, a question
   meant for you. Today: kriyākathā [kɾijɑːkɐt̪ʰɑː], a story made of verbs.
 - **00:40** Three tails do all the work. likhati [likʰɐt̪i] — tongue on the teeth: he
-  writes. likhāmi [likʰɑːmi] — lips close: I write. karoṣi [kɐɾoːʂi] — tongue curls:
-  you do. Watch the last syllable, and you will always know who.
+  writes. likhāmi [likʰɑːmi] — lips close: I write. karoṣi [kɐɾoːʂi] — tongue curls,
+  this word's own ṣa: you do. Watch the last syllable, and you will always know who.
 - **01:30** prabhātam asti [pɾɐbʱɑːt̪ɐm ɐst̪i] — it is morning. arjunaḥ vidyālayam
   gacchati [ɐɾd͡ʑun̪ɐh ʋid̪jɑːlɐjɐm gɐt͡ɕt͡ɕʰɐt̪i] — Arjuna goes to school. Then the dash,
   and the boy speaks for himself: aham likhāmi [ɐɦɐm likʰɑːmi] — I am writing. aham
@@ -971,9 +975,9 @@ narrator reads the cue, not the English spelling.
   §17 lines 1–2 and 9–10 match l05 Station 4's key quotation verbatim; l05's pointers
   "l04 §17" (passage, the three persons) and "l04 §18" (the reader-question) land on
   §17's walk and §18 exercise 7; §21 item 2 is the six-sentence draft l05 task E
-  consumes, with the same counting rule (frames bookend, do not count). l02 was **not**
-  on disk: the pattern table and the whole-word row जानामि are assumed per the research
-  notes §2 and l05 §7/§18 — verify against l02 §14/§15 at review.
+  consumes, with the same counting rule (frames bookend, do not count). l02 is now on
+  disk and was checked at review: the pattern table is its §15 Step 2 and जानामि its §14
+  display row and §15 Step 6 whole-word row — the assumptions hold.
 - **Verification flags for Pass C:** क्रिया "action; (gram.) a verb" and कथा "story,
   tale" (§4 FACT) against [REF:monierwilliams1899 s.vv.]; §15's four-point FACT —
   person endings, no gender marking in the finite present, optional subject pronouns,

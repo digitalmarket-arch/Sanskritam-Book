@@ -40,19 +40,19 @@ media:
     - "planned:assets/quizzes/volume-2/v2c04l05-chapter-quiz-key.md"
 tags: [review, assessment, verbs, conjugation, person-endings, listening, dictation,
        self-narration, production]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-06"]
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 ## 1. Hook
 
-You have been conjugating Sanskrit since Volume 1 — वदति arrived in Chapter 3, वदामि
-in Chapter 5 — and this chapter finally told you what your mouth already knew: the
-person lives inside the word. -मि is I, -सि is you, -ति is he, she, it. Today you
+You have been conjugating Sanskrit since Volume 1 — चलति arrived in Chapter 3, वदति
+in Chapter 4, वदामि in Chapter 5 — and this chapter finally told you what your mouth
+already knew: the person lives inside the word. -मि is I, -सि is you, -ति is he, she, it. Today you
 prove it in both directions: hear a form and name its speaker, be dealt a person and
 build the form on a beat — then do the thing the whole course has been building
 toward: tell the story of your own day, in your own first person, in Sanskrit.
@@ -101,8 +101,8 @@ scores next to the old ones:
    → l01 §14.
 2. शृणोति and जानाति — their forms are given as whole words; the stem system is
    Volume 4's business, said honestly. → l01 §14.
-3. Nothing — no relation is claimed anywhere; they merely sound alike, and the course
-   says so. Honesty about absence. → l01 §13.
+3. That they are NOT related — they merely sound alike, and the course
+   says so outright. Sounding alike is not kinship. → l01 §13.
 </details>
 
 ### Station 2 — त्रयः पुरुषाः (lesson 2)
@@ -208,7 +208,7 @@ A pattern that has told your own story is a pattern you own.
 > doing? — I am writing. What is he doing? — He is reading." — तुम क्या कर रहे हो? —
 > मैं लिख रहा हूँ। वह क्या कर रहा है? — वह पढ़ रहा है।
 
-> **श्वः अहम् गमिष्यामि??** न — the future is machinery the course has not
+> **"Tomorrow I will go"?** Not yet — the future is machinery the course has not
 > delivered; -ति and its row are the present. The honest frame stays in the tense
 > you own: **अद्य अहम् गच्छामि।** (adya aham gacchāmi.) "Today I go." — आज मैं जाता
 > हूँ।
@@ -242,10 +242,10 @@ deferred, and not tested.
 तर्क-पंक्ति। ईमानदारी वाले कार्ड ध्यान से: "-ति भविष्य बताता है" — अस्वीकार, क्योंकि
 लट् वर्तमान है; काल आगे के खण्डों की बात है। "शृणोति सीधे -अति ढाँचे पर चलता है" —
 अस्वीकार; वह अपना रूप अलग ढंग से बनाता है, और पाठ्यक्रम ने यह बात खुलकर कही है।
-"गच्छति और अंग्रेज़ी go सजातीय हैं" — अस्वीकार; पाठ्यक्रम ने कहीं ऐसा दावा नहीं
-किया — मिलती-जुलती ध्वनि रिश्तेदारी नहीं होती। और दो कार्ड इस पाठ्यक्रम के अपने
+"गच्छति और अंग्रेज़ी go सजातीय हैं" — अस्वीकार; पाठ्यक्रम ने साफ़ कहा है कि ये
+सम्बन्धित नहीं हैं — मिलती-जुलती ध्वनि रिश्तेदारी नहीं होती। और दो कार्ड इस पाठ्यक्रम के अपने
 इतिहास के तथ्य हैं: 'अहम्' वाले रूप आप खण्ड 1 के अध्याय 5 से, और -ति वाले रूप
-अध्याय 3 से बोलते आ रहे हैं।
+अध्याय 3 से पढ़ते आ रहे हैं।
 
 ## 8. English Explanation
 
@@ -262,8 +262,8 @@ The assessment architecture — five tasks, two recorded, one self-authored.
 The §19 quiz (10 questions) completes it. Pass = every task at partial-or-better
 (rubric §22) and quiz 7+/10. Task C is the chapter keystone: given a person and a
 verb, the form must arrive within a beat, spoken and then written — and given a form,
-the person must come straight off the tail. The three irregular builders (शृणोति,
-जानाति, करोति) appear only as whole-word rows: recognize, recall, recite — never
+the person must come straight off the tail. The three verbs that build their stems
+differently (शृणोति, जानाति, करोति) appear only as whole-word rows: recognize, recall, recite — never
 construct. Task E is the centerpiece and the arc's completion: six sentences about
 your own real day, delivered aloud and written, followed by the day-passage at pace.
 Chapters 1–4 of Volume 2 — courtesy, the world, numbers and time, and now verbs —
@@ -332,21 +332,21 @@ vowel.
 | 1 | Person mismatch: अहम् गच्छति — THE flagged error | C, E | l02 §12 — the ending IS the person; re-run the triple aloud |
 | 2 | The stretch clipped: गच्छमि for गच्छामि | B, C, E | l02 §15 — the 1sg holds its आ two beats; write it because you hold it |
 | 3 | कृ's ष spread to the bank (गच्छषि) or flattened (करोसि) | B, C | l03 §12 — the ष is कृ's own habit; whole-word rows, dental everywhere else |
-| 4 | शृणोति/जानाति "regularized" — invented forms built on -अति | C | l01 §14 — whole words only; recall, never construct |
+| 4 | शृणोति/जानाति "regularized" — invented forms built on -अति | C | l02 §12 mistake 4, §15 Step 6 — whole words only; recall, never construct |
 | 5 | "-ति means future/will" drift under translation pressure | D, §19 | §15 honesty line — laṭ is the present; tenses are later volumes' business |
 | 6 | Reaching for untaught machinery in मम दिनम् (past tense, plurals) | E | simplest correct beats ambitious wrong — stay in the present singular you own |
 | 7 | Dictation: च्छ conjunct split, final -ि mātrā dropped | B | l01 §14 rows re-copied; say the word while writing it |
-| 8 | गच्छति~go folk cognacy ("they must be related!") | D | l01 §13 — no relation claimed anywhere; sounding alike is not kinship |
+| 8 | गच्छति~go folk cognacy ("they must be related!") | D | l01 §13 — NOT related, said outright; sounding alike is not kinship |
 
 ## 13. Examples
 
 उदाहरणानि — two worked model answers before you start.
 
-**Model conjugation round (task C).** The deal: person card त्वम् + verb card लिख्-.
+**Model conjugation round (task C).** The deal: person card त्वम् + verb card लिख-.
 Within a beat: **लिखसि!** — then written, mātrā and all. Reverse direction: you hear
 *pibāmi* — name the person: अहम्, "I". Now the traps. Dealt अहम् + गच्छ-: the answer
-stretches — **गच्छामि**, never गच्छमि. Dealt त्वम् + शृ-: you do NOT build a form —
-शृ- is not a regular stem; you recall the learned whole word **शृणोषि**. The exam
+stretches — **गच्छामि**, never गच्छमि. Dealt त्वम् + शृणोति: you do NOT build a form —
+शृणोति builds its stem differently; you recall the learned whole word **शृणोषि**. The exam
 rewards the honest move every time: build only where the pattern lives, remember
 where it does not.
 
@@ -363,9 +363,8 @@ has not delivered; "we eat" needs a plural. Narrate in the present singular you 
 शब्दावली — no new words on exam day; the chapter ledger, complete: 305 entering (per
 v2.c03.l05 §14) + 11 ledger-new — l01 7, l02 1, l03 3, l04 0 — **316 readable
 words**; chain 305 → 312 → 313 → 316 → 316 (the reading lesson adds none). *Note:*
-counts are per the chapter plan (research/notes/vol2-ch4-first-verbs.md §6), to be
-reconciled against the sibling §14 tables at review — verified where on disk (none
-were at drafting; see §27). The exam sheet's word bank samples all four lessons.
+counts verified against the sibling §14 tables on disk (l04 §14 and §27
+concur). The exam sheet's word bank samples all four lessons.
 Protocol as always: block by block, whole word, full finals, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
@@ -380,8 +379,8 @@ Protocol as always: block by block, whole word, full finals, pause form.
 व्याकरणम् — the chapter's rules restated on one page.
 
 > **[FACT · तथ्यम्]** **The pattern:** the laṭ (present) singular marks its person in
-> the ending — -मि "I" · -सि "you" · -ति "he/she/it". **The stretch:** the 1sg
-> lengthens the stem vowel — गच्छ- gives गच्छामि, never गच्छमि. **The whole-word
+> the ending — -मि "I" · -सि "you" · -ति "he/she/it". **The stretch:** the -मि row
+> stretches the joint vowel to आ — गच्छ- gives गच्छामि, never गच्छमि. **The whole-word
 > rows:** शृणोति, जानाति and करोति build their stems differently and are learned
 > whole — शृणोमि शृणोषि शृणोति · जानामि जानासि जानाति · करोमि करोषि करोति; the ष of
 > करोषि is कृ's own habit. **The trio:** अस्मि असि अस्ति — I am, you are, he/she/it
@@ -398,8 +397,8 @@ The regular bank, pattern-productive in both directions:
 | त्वम् (you) | -सि | गच्छसि खादसि पिबसि पश्यसि लिखसि पठसि वदसि हससि |
 | सः / सा (he / she) | -ति | गच्छति खादति पिबति पश्यति लिखति पठति वदति हसति |
 
-The three irregular builders are tested as rows, not as products: recognize any cell,
-recite any row — construct nothing.
+The three verbs that build their stems differently are tested as rows, not as
+products: recognize any cell, recite any row — construct nothing.
 
 ## 16. Conversation
 
@@ -451,7 +450,7 @@ rehearsal pair there is [REF:roediger2006].)
 rubric (§22); D against the key with reasoning.
 
 **कार्यम् A · श्रवणपरीक्षा (listening — person identification, 15 items).** The
-audio plays fifteen verb forms — five triples (गच्छ-, पठ-, खाद्-, पिब-, लिख्-) in
+audio plays fifteen verb forms — five triples (गच्छ-, पठ-, खाद-, पिब-, लिख-) in
 shuffled order. For each form, mark the person: अहम् (I) · त्वम् (you) · सः (he/she/
 it). The whole test lives in the final syllable.
 
@@ -461,8 +460,8 @@ welded (च्छ), every mātrā in place (the 1sg's long ा, the ृ of श�
 their own words. 5/6 + sentence intact.
 
 **कार्यम् C · रूपनिर्माणम् (THE CONJUGATION — recorded + written, production).**
-Twelve items, two directions, regular bank only (गच्छ-, खाद्-, पिब्-, पश्य-, लिख्-,
-पठ्-, वद्-, हस्-):
+Twelve items, two directions, regular bank only (गच्छ-, खाद-, पिब-, पश्य-, लिख-,
+पठ-, वद-, हस-):
 
 1. *Produce* (6 items): dealt a person card (अहम् / त्वम् / सः) + a verb card — say
    the form within a beat, then write it.
@@ -480,20 +479,20 @@ one reasoning line each:
 1. "Sanskrit verbs mark the person inside the word."
 2. "-ति marks the future."
 3. "शृणोति follows the plain -अति pattern."
-4. "You have used 1sg forms since Chapter 5 of Volume 1."
+4. "You have been reading 1sg forms since Chapter 5 of Volume 1."
 5. "गच्छति and English *go* are cognates."
 6. "अस्मि, असि, अस्ति complete the identity trio — I am, you are, he/she/it is."
 7. "भवान्, the polite 'you', takes the 3sg form."
-8. "In the first person the ending stretches the stem vowel: गच्छ- gives गच्छामि,
+8. "In the -मि row the joint vowel stretches to आ: गच्छ- gives गच्छामि,
    not गच्छमि."
-9. "The course has used 3sg -ति forms since Chapter 3 of Volume 1 — वदति was your
-   first verb."
+9. "You have been reading 3sg -ति forms since Chapter 3 of Volume 1 — चलति was your
+   first readable verb."
 
 **कार्यम् E · मम दिनम् (THE SELF-NARRATION — production).** The centerpiece. Your
 six first-person sentences, drafted in l04's homework (v2.c04.l04 §21) and rehearsed
 in §17: deliver them aloud in one recorded take, then write all six. Each sentence
-carries one 1sg verb from the bank; time-frame lines (प्रभातम् अस्ति। सायम् अस्ति।)
-may bookend but do not count. Then re-read the l04 day-passage once at natural
+carries one 1sg verb from the l04 §21 seed list (the bank, or करोमि); time-frame
+lines (प्रभातम् अस्ति। सायम् अस्ति।) may bookend but do not count. Then re-read the l04 day-passage once at natural
 speed, timed, and log the time beside your Station 0 run. Finish with the
 maintenance micro-check: write the three endings and their persons from memory, and
 recite the trio अस्मि असि अस्ति.
@@ -519,13 +518,13 @@ recite the trio अस्मि असि अस्ति.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति; the different builders are
-   शृणोति and जानाति — learned whole (l01 §14).
-2. Not related — no relation is claimed anywhere in the course; they merely sound
-   alike, and honesty about absence is the point (l01 §13).
+1. गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति; the two that build their
+   stems differently are शृणोति and जानाति — learned whole (l01 §14).
+2. Not related — l01 §13's FACT; they merely sound alike, and sounding alike is
+   not kinship (l01 §13).
 3. -मि "I" · -सि "you" · -ति "he/she/it" — the laṭ (present) singular (l02 §15).
-4. The 1sg stretches the stem vowel: -मि rides on a lengthened आ — गच्छामि, held two
-   beats (l02 §15).
+4. The -मि row stretches the joint vowel to आ — गच्छामि, held two beats
+   (l02 §15).
 5. अस्मि "I am" · असि "you are" · अस्ति "he/she/it is"; असि was new — it completed
    the trio (l02 §15).
 6. No — English barely marks it (go/go/goes, one -s in the whole present); Hindi
@@ -547,12 +546,13 @@ chapter's one-line thesis — the person lives inside the word; named in l02) ·
 **reject** (laṭ is the present; -ति marks person, not time — tenses are later
 volumes' business) · 3 **reject** (शृणोति builds its stem differently; its forms are
 learned whole — the honest deferral; the stem system is Volume 4's) · 4 **FACT**
-(in-course history: वदामि arrived in v1.c05 — you were conjugating before you knew
-it) · 5 **reject** (no relation claimed anywhere; sounding alike is not kinship —
-honesty about absence) · 6 **FACT** (अस्मि and अस्ति owned since v1.c05; असि new
+(in-course history: वदामि arrived in v1.c05.l01, the first-person unlock — you were
+conjugating before you knew it) · 5 **reject** (not related — l01 §13's FACT;
+sounding alike is not kinship) · 6 **FACT** (अस्मि and अस्ति owned since v1.c05; असि new
 this chapter — trio complete) · 7 **FACT** (chunk-level honest line: भवान् गच्छति) ·
 8 **FACT** (the stretch — गच्छामि, never गच्छमि) · 9 **FACT** (in-course history:
-वदति since v1.c03 — the course's first verb form). Scoring: 7+/9 with sane
+चलति since v1.c03.l02 — the course's first readable verb; वदति followed in v1.c04.l01
+— l02 §1, §4). Scoring: 7+/9 with sane
 reasoning. C and E score on the §22 rubric.
 
 </details>
@@ -586,8 +586,8 @@ in the rotation.
    homework, अहम् गच्छामि on the way out. Record one of them where it happened.
 3. **(5 min, teach-back)** Teach someone the pattern with one verb: गच्छामि,
    गच्छसि, गच्छति — I, you, he. If they ask "so गच्छति is basically English *go*?",
-   you own the honest answer: nobody claims a relation — the pattern is the
-   inheritance worth showing off, not the look-alike.
+   you own the honest answer: not related — sounding alike is not kinship; the
+   pattern is the inheritance worth showing off, not the look-alike.
 
 ## 22. Teacher Notes
 
@@ -657,7 +657,7 @@ Lesson video (8–10 min), scene list:
    rows recalled, never built.
 4. The sort (6:00–7:30): nine cards fly; "-ति marks the future" flips to reject as a
    clock dissolves; "गच्छति ~ go" flips to reject as a drawn arrow fades out,
-   caption "no claim, honestly".
+   caption "not related, honestly".
 5. Outro (7:30–9:00): a learner's six मम दिनम् lines appear in their own handwriting
    as a voice reads them; the ledger counter ticks to 316; end card: "Chapters 1–4:
    complete. Next: संवादः — conversation."
@@ -675,13 +675,13 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 03:00 — "The whole-word rows: śṛṇoti [ɕr̩ɳoːt̪i], jānāti [d͡ʑɑːn̪ɑːt̪i], karoti
   [kɐɾoːt̪i]. They build differently. You never construct them — you remember them.
   That is not a gap in your knowledge. That is your knowledge."
-- 04:30 — "The deal: a person, a verb, one beat. tvam [t̪ʋɐm] plus likh — likhasi
-  [likʰɐsi]! aham [ɐɦɐm] plus paṭh — paṭhāmi [pɐʈʰɑːmi]! Both directions. The tail
+- 04:30 — "The deal: a person, a verb, one beat. tvam [t̪ʋɐm] plus likha — likhasi
+  [likʰɐsi]! aham [ɐɦɐm] plus paṭha — paṭhāmi [pɐʈʰɑːmi]! Both directions. The tail
   tells you everything."
 - 06:00 — "The cards. '-ti marks the future' — reject: the laṭ [lɐʈ] is the
-  present. 'gacchati and go are cognates' — reject, with love: nobody claimed it.
+  present. 'gacchati and go are cognates' — reject, with love: they are not related.
   Honesty about absence is still honesty."
-- 07:30 — "Three hundred sixteen words — and now, mama dinam [mɐmɐ d̪inɐm]: my day.
+- 07:30 — "Three hundred sixteen words — and now, mama dinam [mɐmɐ d̪in̪ɐm]: my day.
   Six sentences, all yours, all true. Chapters one through four — complete. Next:
   saṃvādaḥ [sɐ̃ʋɑːd̪ɐh] — we talk."
 
@@ -703,37 +703,34 @@ conversation — being written next." (End card: क्रियाः समा
   conjugation exam sheet (the chapter's assessment keystone — task C layout per
   §23); chapter quiz + separate key (print policy: keys never on the question
   sheet).
-- **Sibling availability — verify at review:** v2.c04.l01–l04 were drafted in
-  parallel and were NOT on disk when this lesson was drafted; every "l0N §…"
-  pointer in §3/§12/§14/§19/§22 is taken from the chapter plan and the sibling
-  content contracts, not from the files (the c03 precedent, Pass D). Specifically
-  assumed: l04 §20's Station-0 booking (+1 day: the passage re-read once at natural
-  speed, timed and logged + the reader-question answered aloud in 1sg); l04 §21's
-  six-sentence मम दिनम् draft (the task E input); l01 §13 (जानाति~know and
-  पिबति~bibit shelves; the गच्छति/go NOT-related line); l01 §14 (bank rows,
-  stem-honesty note); l02 §15 (THE pattern, the stretch, the trio, whole-word
-  displays); l02 §12 (अहम् गच्छति flagged); l02 §4–§5 (the typology FACT); l03
-  §8/§12/§15 (doing-dialogue, the ष/-सि note, भवान् takes 3sg); l04 §17–§18 (the
-  अर्जुनः passage, three-speed protocol, reader-question).
-- **Task D card sources (verify at review):** card 1 ← l02 §15 (notes §0.1) · card
-  2 ← l02 §15 honesty line (notes §0.7) · card 3 ← l01 §14 stem-honesty (notes
-  §0.2) · card 4 ← l02 §1 hook (in-course history; notes §0.1) · card 5 ← l01 §13
-  (honesty about absence; notes §0.2, §0.6) · card 6 ← l02 §15 (notes §0.3) · card
+- **Sibling availability:** v2.c04.l01–l04 on disk at review (none were at
+  drafting); every "l0N §…" pointer in §3/§12/§14/§19/§22/§27 verified against the
+  real files (Pass D). Corrected there: §1 and card 9 with its key (चलति,
+  v1.c03.l02, the first verb; वदति v1.c04.l01); card 4 with its key (reading 1sg forms
+  since वदामि, v1.c05.l01); §12 row 4 (→ l02 §12, §15 Step 6); card 3's source; the
+  go-card keys (Station 1 key 3, §19 Q2, D5 → l01 §13's NOT-related FACT); the task
+  A/C verb fronts (a-final, per l02 §15); task E's input (the l04 §21 seed list,
+  करोमि included). l04 §20's Station-0 booking and l04 §21's मम दिनम् draft match
+  §3 Station 0 and task E.
+- **Task D card sources (verified against l01–l04 at review):** card 1 ← l02 §15
+  (notes §0.1) · card 2 ← l02 §15 honesty line (notes §0.7) · card 3 ← l01 §15 ·
+  l02 §15 Step 6 · l02 §18 exercise 8 card f (notes §0.2) · card 4 ← l02 §1 hook
+  (in-course history; notes §0.1) · card 5 ← l01 §13 (the NOT-related FACT; notes
+  §0.2, §0.6) · card 6 ← l02 §15 (notes §0.3) · card
   7 ← l03 §15 (notes §0.4) · card 8 ← l02 §15 (the stretch) · card 9 ← l02 §1 hook
   (in-course history; notes §0.1). The two in-course history cards (4 and 9) are
   FACTs about the course itself; no HISTORY-register dating appears anywhere in
   this chapter.
-- **Integrator notes:** ledger per the chapter plan
-  (research/notes/vol2-ch4-first-verbs.md §6): 305 entering (c03 exit confirmed at
-  its review) + 11 (l01 7 · l02 1 · l03 3 · l04 0) = **316**; chain 305 → 312 →
-  313 → 316 → 316; reconcile against the sibling §14 tables at review (verified
-  where on disk — none were at drafting). §19 task keys are the single source for
+- **Integrator notes:** ledger arithmetic confirmed against the sibling §14 tables
+  (l04 §14 and §27 concur; plan: research/notes/vol2-ch4-first-verbs.md §6): 305
+  entering (c03 exit confirmed at its review) + 11 (l01 7 · l02 1 · l03 3 · l04 0)
+  = **316**; chain 305 → 312 → 313 → 316 → 316. §19 task keys are the single source for
   the audio/exam key files.
 - **Verification flags for Pass C:** Whitney laṭ-paradigm § range cited bare
   pending verification (notes §0.1 names a candidate range); no present-class
   numbers printed anywhere — "builds its stem differently" is the approved phrasing
   (checked §12, §15, §19); गच्छ- suppletion not mentioned (notes §6); the go-card
-  (D5) asserts only the absence of any claimed relation; the bibit shelf is cited
+  (D5) keys l01 §13's non-relation FACT (NOT related) — no etymology argued here; the bibit shelf is cited
   from l01, not re-argued here.
 - **Register audit:** FACT ×4 (§4 person-marking · §4 spacing · §5 testing · §15
   rules) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0. Task D assesses

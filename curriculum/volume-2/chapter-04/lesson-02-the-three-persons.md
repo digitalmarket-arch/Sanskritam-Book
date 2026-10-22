@@ -14,7 +14,7 @@ cefr: A2
 duration_minutes: 45
 self_study_minutes: 35
 prerequisites: [v2.c04.l01]
-review_of: [v2.c04.l01, v1.c05.l03, v1.c03.l04]
+review_of: [v2.c04.l01, v1.c06.l03, v1.c05.l03, v1.c05.l01, v1.c03.l04]
 objectives:
   - en: "Name THE pattern from words you already own — वदति beside वदामि, पठति beside पठामि — and state it: a Sanskrit verb carries its person inside the word; present singular -मि for I, -सि for you, -ति for he/she/it."
     hi: "जो शब्द आपके पास पहले से हैं — वदति और वदामि, पठति और पठामि — उन्हीं से नियम पहचानें और कहें: संस्कृत क्रिया पुरुष को शब्द के भीतर रखती है; वर्तमान एकवचन में -मि = मैं, -सि = तुम, -ति = वह।"
@@ -39,12 +39,12 @@ media:
     - "planned:assets/worksheets/volume-2/v2c04l02-conjugation-drills.pdf"
   quizzes: []
 tags: [grammar, verbs, person, present-tense, conjugation, identity-trio, typology, production-drills, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-08-06"]
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 ## 1. Hook
@@ -53,9 +53,10 @@ Put two words you have owned for more than a volume side by side: वदति "
 वदामि "I speak". Same front. Different tail. The tail changed because the *speaker*
 changed. Three chapters of Volume 1 built this machine for you — चलति in Chapter 3, वदति
 in Chapter 4, वदामि in Chapter 5 — and you have been conjugating Sanskrit ever since,
-every form glossed whole, nobody saying the word. You have been conjugating for three
-chapters and more; today you find out. One gap gets filled, three tails get their names,
-and the course's first grammar lesson turns a habit into a tool you can aim.
+every form glossed whole, the idea glimpsed only in passing (v1.c05.l01 §8, v1.c06.l03
+§15) and then parked. You have been conjugating for three chapters and more; today you
+find out. One gap gets filled, three tails get their names, and the course's first
+grammar lesson turns a habit into a tool you can aim.
 
 ## 2. Learning Objective
 
@@ -138,15 +139,15 @@ ending that says *who* does it. Today's lesson is that second half.
 
 > **[FACT · तथ्यम्]** A Sanskrit finite verb marks its person inside the word. In the
 > present tense — the tradition's लट् (laṭ) — singular, the endings are -मि for "I", -सि for
-> "you" and -ति for "he/she/it": वदामि, वदसि, वदति. The course has used the -ति form since
-> चलति (v1.c03.l02) and the -मि form since वदामि (v1.c05.l01), always glossed whole; this
-> lesson names the pattern. [REF:whitney1889] [REF:goldman2019]
+> "you" and -ति for "he/she/it": वदामि, वदसि, वदति. The course has had you reading the -ति
+> form since चलति (v1.c03.l02) and the -मि form since वदामि (v1.c05.l01), always glossed
+> whole; this lesson names the pattern. [REF:whitney1889] [REF:goldman2019]
 
 > **[TRADITION · परम्परा]** In the Pāṇinian grammatical tradition the three persons are
 > called पुरुषाः, and they are counted from the far end: प्रथमः पुरुषः "the first person"
 > is *he/she/it*, मध्यमः पुरुषः "the middle person" is *you*, and उत्तमः पुरुषः "the last,
 > uppermost person" is *I* — the reverse of the Western school numbering, where "first
-> person" means I. [REF:ashtadhyayi]
+> person" means I. [REF:ashtadhyayi 1.4.101]
 
 So the title is the tradition's own phrase: त्रयः पुरुषाः, "three persons" (त्रयः is
 three's masculine form, walking with पुरुषाः; Chapter 3 counted with त्रीणि — display
@@ -237,7 +238,7 @@ the present, and एकवचनम् (ekavacanam) "singular". All display term
 
 अब एक छोटा-सा खिंचाव। गच्छ + सि = गच्छसि, गच्छ + ति = गच्छति — पर गच्छ + मि = गच्छामि।
 -मि वाली पंक्ति में जोड़ का स्वर खिंचकर आ बन जाता है। "गच्छमि" नहीं। और चिन्ता मत
-कीजिए — वदामि में यह खिंचाव आप डेढ़ खण्ड से ठीक करते आ रहे हैं; आज केवल उसे पहचानना है।
+कीजिए — वदामि में यह खिंचाव आप पहले खण्ड के पाँचवें अध्याय से ठीक करते आ रहे हैं; आज केवल उसे पहचानना है।
 
 आज का एक नया शब्द है असि — "(तुम) हो"। अस्मि (मैं हूँ) और अस्ति (है) के बीच की खाली
 जगह अब भर गई: अहम् छात्रः अस्मि। त्वम् छात्रः असि। सः छात्रः अस्ति। पहले खण्ड में त्वम्
@@ -590,7 +591,7 @@ Two legal ways, side by side:
 |---|---|
 | त्वम् कः? | त्वम् कः असि? |
 | त्वम् अपि छात्रः? | त्वम् अपि छात्रः असि? |
-| अर्जुनः मम मित्रम्। | त्वम् मम मित्रम् असि। |
+| त्वम् मम मित्रम्। | त्वम् मम मित्रम् असि। |
 
 ### Step 6 — the two guests, whole-word rows
 
@@ -843,7 +844,7 @@ he/she laughs (d) त्वम् — you write (e) अहम् — I go (f) �
 (k) अहम् — I read (l) सः/सा — he/she/it is. 4 (track transcript): 1 गच्छसि Y · 2 पठामि I
 · 3 वदति H · 4 लिखसि Y · 5 खादामि I · 6 पिबति H · 7 पश्यसि Y · 8 हसामि I · 9 गच्छति H ·
 10 पठसि Y · 11 असि Y · 12 अस्मि I · 13 शृणोषि Y · 14 जानाति H · 15 वदामि I.
-5: (a) अहम् गच्छामि। (b) त्वम् पठसि। or अहम् पठामि। (c) सः खादति। or त्वम् खादसि।
+5: (a) अहम् गच्छामि। or सः गच्छति। (b) त्वम् पठसि। or अहम् पठामि। (c) सः खादति। or त्वम् खादसि।
 (d) अहम् लिखामि। (e) त्वम् छात्रः असि। (f) त्वम् शृणोषि? (g) सीता पिबति। (h) अहम्
 हसामि। or त्वम् हससि। 6: (a) अहम् विद्यालयम् गच्छामि। (b) त्वम् पुस्तकम् पठसि। (c) सा
 जलम् पिबति। (d) त्वम् छात्रः असि। (e) अहम् अत्र अस्मि। (f) त्वम् संस्कृतम् जानासि?
@@ -1059,8 +1060,9 @@ narrator reads the cue, not the English spelling.
   v2.c04.l03's Station 0 as the गच्छ and पठ rows cold + the अस्मि/असि/अस्ति trio. Diffed
   against l03 §3 on disk: l03 quotes the same line and runs both items — no drift.
 - **Related lessons:** reviews v2.c04.l01 (Station 0; the guests' whole-word status,
-  extended in §14/§15), v1.c05.l03 (अस्मि/अस्ति and their स्-welds — completed by असि)
-  and v1.c03.l04 (the dental त of every -ति, §9–§11); builds on v1.c03.l02 (चलति),
+  extended in §14/§15), v1.c05.l03 (अस्मि/अस्ति and their स्-welds — completed by असि),
+  v1.c03.l04 (the dental त of every -ति, §9–§11), and the person-tail previews v1.c05.l01
+  §8 and v1.c06.l03 §15 (§1, §8); builds on v1.c03.l02 (चलति),
   v1.c04.l01 (वदति), v1.c05.l01 (वदामि नमामि वसामि), v1.c05.l02 (अस्मि, अस्ति),
   v1.c06.l02 (the verbless you-questions; promise kept in §8), v1.c06.l03–l04 (पठामि,
   हसामि), v2.c02 (household cast, एषा); feeds v2.c04.l03 (Station 0 booked in §20;
@@ -1089,8 +1091,8 @@ narrator reads the cue, not the English spelling.
   stated as observed shape only — confirm no morphophonology leaked; the pronoun-optional
   and no-gender-in-the-finite-verb clauses (§15 items 3–4, §5, §12 mistake 7) slightly
   extend the fact base — explicit verdict against [REF:whitney1889] requested; the
-  TRADITION block on प्रथम/मध्यम/उत्तम पुरुष (§4) — no sūtra number printed; locate and
-  verify against [REF:ashtadhyayi] before any locator is added; the Hindi typology line
+  TRADITION block on प्रथम/मध्यम/उत्तम पुरुष (§4) — [REF:ashtadhyayi] locator verified:
+  1.4.101 (names); assignment 1.4.105, 1.4.107–108; the Hindi typology line
   (§5) against [REF:masica1991]; "builds its stem differently" the only stem-talk — no
   class number or root anywhere; the *am, are, is* mention (§5, §15, §22) is
   typology-only — NO relationship claim with अस्मि/अस्ति is made; any cognate line is
