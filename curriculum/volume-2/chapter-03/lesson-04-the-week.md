@@ -398,8 +398,8 @@ place of -वार, the classical ङ्ग, the breathed ending.
 
 ## 14. Vocabulary
 
-शब्दावली — eight headwords, all ledger-new; **296 → 304** — the chapter's promised
-exit (≈304, chapter.md; counts reconciled at review, as always). Audio: 🔊
+शब्दावली — eight headwords, all ledger-new; **289 → 297** — the chapter's exit
+(counts reconciled at review, as always). Audio: 🔊
 `planned:assets/audio/volume-2/v2c03l04-word-list.mp3` (each word twice, three-speed
 passes, then the dictation track). Lists stay sentence-dressed: every name in its
 masculine ः.
@@ -658,7 +658,7 @@ fails on the word, (b) fails on the system. Exercise 6: (a) अद्य गु�
 > words are Sanskrit's own; the seven-day system arrived in the early centuries CE
 > with होरा's astronomy. **The bridge:** सोमवार is
 > Sanskrit too — the -वार twin of सोमवासरः, kept whole in Hindi. **The ledger:** eight
-> new — **296 → 304**, the chapter's exit.
+> new — **289 → 297**, the chapter's exit.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -790,7 +790,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    digit-first echo सप्त — शुक्रवासरः। A gavel labeled "fifteenth??" descends and a
    hand gently sets it aside.
 6. **Recap + CTA (5:15–6:00):** wheel and grid side by side; the ledger counter
-   ticks 296 → 304. End card: "Next: पुनरावृत्तिः — The Numbers & Time Exam. Bring
+   ticks 289 → 297. End card: "Next: पुनरावृत्तिः — The Numbers & Time Exam. Bring
    your grid."
 
 ## 25. Voice-over Script
@@ -815,8 +815,8 @@ the narrator reads the cue, not the English spelling.
 - **04:15** On the grid: find today, pair the circled digit with its day —
   śukravāsaraḥ [ɕukɾɐʋɑːsɐɾɐh] — seven. Pair it, point at it, and do not invent
   "seventh" — that grammar comes later, honestly.
-- **05:15** Eight words today — three hundred four in your ledger, the chapter's
-  promised exit. Tomorrow the exam counts everything. śvaḥ [ɕʋɐh] — bring your grid!
+- **05:15** Eight words today — two hundred ninety-seven in your ledger, the chapter's
+  exit. Tomorrow the exam counts everything. śvaḥ [ɕʋɐh] — bring your grid!
 
 ## 26. Reel Script
 
@@ -862,9 +862,9 @@ the narrator reads the cue, not the English spelling.
   terms. Register work this lesson = the week's import history (§13) and the
   Hindi -वार note (§4).
 - **Export notes:** ledger per the chapter plan: eight headwords, all ledger-new;
-  **296 → 304** — the chapter's exit number (≈304 promised in chapter.md). Chapter
-  chain confirmed against the sibling §14 tables on disk: 282 → 284 (l01) → 289
-  (l02) → 296 (l03) → 304 (here); reconcile the usual ≈ at review. The
+  **289 → 297** — the chapter's exit number (chapter.md corrected to 297). Chapter
+  chain per the reconciled ledger: 277 → 279 (l01) → 283 (l02) → 289 (l03) → 297
+  (here); 20 ledger-new across the chapter. The
   compound fronts सोम, मङ्गल, बुध, शुक्र, शनि export as `compound_member`, not
   headwords; रवि and गुरु export as review references, ledger at v1.c04.l01.
   Review verdict on the drafting flag: v1.c04.l01 holds रवि and गुरु only — सोम

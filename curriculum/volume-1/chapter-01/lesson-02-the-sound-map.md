@@ -158,8 +158,9 @@ After the 25 stops, the map has two more small regions (also preview only):
 | अन्तःस्थ semivowels | य /j/ · र /ɾ/ · ल /l/ · व /ʋ/ |
 | ऊष्मन् sibilants + h | श /ɕ/ · ष /ʂ/ · स /s/ · ह /ɦ/ (ह is not a sibilant — a voiced glottal fricative) |
 
-> **[FACT · तथ्यम्]** Retroflex consonants are not unique to India — they occur in Dravidian
-> languages, Swedish and Norwegian, Mandarin Chinese, and more. What is distinctive about
+> **[FACT · तथ्यम्]** Retroflex consonants are not unique to Indian languages — beyond South Asia
+> (whose Dravidian languages use them richly) they occur in Swedish and Norwegian, Mandarin
+> Chinese, and more. What is distinctive about
 > Sanskrit is not owning the sounds but *organizing* them: the grid itself. [REF:masica1991]
 
 ## 6. Sanskrit Explanation

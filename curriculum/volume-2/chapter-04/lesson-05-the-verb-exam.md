@@ -360,9 +360,9 @@ has not delivered; "we eat" needs a plural. Narrate in the present singular you 
 
 ## 14. Vocabulary
 
-शब्दावली — no new words on exam day; the chapter ledger, complete: 305 entering (per
-v2.c03.l05 §14) + 11 ledger-new — l01 7, l02 1, l03 3, l04 0 — **316 readable
-words**; chain 305 → 312 → 313 → 316 → 316 (the reading lesson adds none). *Note:*
+शब्दावली — no new words on exam day; the chapter ledger, complete: 297 entering (per
+v2.c03.l05 §14) + 11 ledger-new — l01 7, l02 1, l03 3, l04 0 — **308 readable
+words**; chain 297 → 304 → 305 → 308 → 308 (the reading lesson adds none). *Note:*
 counts verified against the sibling §14 tables on disk (l04 §14 and §27
 concur). The exam sheet's word bank samples all four lessons.
 Protocol as always: block by block, whole word, full finals, pause form.
@@ -372,7 +372,7 @@ Protocol as always: block by block, whole word, full finals, pause form.
 | गच्छति · खादति · पिबति · पश्यति · शृणोति · लिखति · जानाति | gacchati · khādati · pibati · paśyati · śṛṇoti · likhati · jānāti | — | goes · eats · drinks · sees · hears · writes · knows | — | l01, 7 headwords — full rows: l01 §14 |
 | असि | asi | — | you are | — | l02, 1 headword — the trio completed; full row: l02 §14 |
 | करोति · अन्नम् · क्षीरम् | karoti · annam · kṣīram | — | does/makes · food · milk | — | l03, 3 headwords (करोति counted as the headword of its whole-word row) — full rows: l03 §14 |
-| — | — | — | — | — | l04, 0 headwords — the reading lesson; ledger stays 316 |
+| — | — | — | — | — | l04, 0 headwords — the reading lesson; ledger stays 308 |
 
 ## 15. Grammar
 
@@ -567,7 +567,7 @@ reasoning. C and E score on the §22 rubric.
 > rows:** शृणोमि शृणोषि शृणोति · जानामि जानासि जानाति · करोमि करोषि करोति. **The
 > trio:** अस्मि असि अस्ति. **The polite line:** भवान् takes the 3sg. **The flagged
 > error:** अहम् गच्छति. **The honesty lines:** present singular only; -ति is not the
-> future; no गच्छति~go kinship. **The ledger:** 316 — 305 entering + 11 new.
+> future; no गच्छति~go kinship. **The ledger:** 308 — 297 entering + 11 new.
 
 Schedule [REF:cepeda2006]: **+1 day** — re-run the dictation set and one six-item
 conjugation deal cold. **+1 week** — re-record the मम दिनम् six without notes;
@@ -659,7 +659,7 @@ Lesson video (8–10 min), scene list:
    clock dissolves; "गच्छति ~ go" flips to reject as a drawn arrow fades out,
    caption "not related, honestly".
 5. Outro (7:30–9:00): a learner's six मम दिनम् lines appear in their own handwriting
-   as a voice reads them; the ledger counter ticks to 316; end card: "Chapters 1–4:
+   as a voice reads them; the ledger counter ticks to 308; end card: "Chapters 1–4:
    complete. Next: संवादः — conversation."
 
 ## 25. Voice-over Script
@@ -681,7 +681,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 06:00 — "The cards. '-ti marks the future' — reject: the laṭ [lɐʈ] is the
   present. 'gacchati and go are cognates' — reject, with love: they are not related.
   Honesty about absence is still honesty."
-- 07:30 — "Three hundred sixteen words — and now, mama dinam [mɐmɐ d̪in̪ɐm]: my day.
+- 07:30 — "Three hundred eight words — and now, mama dinam [mɐmɐ d̪in̪ɐm]: my day.
   Six sentences, all yours, all true. Chapters one through four — complete. Next:
   saṃvādaḥ [sɐ̃ʋɑːd̪ɐh] — we talk."
 
@@ -722,9 +722,9 @@ conversation — being written next." (End card: क्रियाः समा
   FACTs about the course itself; no HISTORY-register dating appears anywhere in
   this chapter.
 - **Integrator notes:** ledger arithmetic confirmed against the sibling §14 tables
-  (l04 §14 and §27 concur; plan: research/notes/vol2-ch4-first-verbs.md §6): 305
+  (l04 §14 and §27 concur; plan: research/notes/vol2-ch4-first-verbs.md §6): 297
   entering (c03 exit confirmed at its review) + 11 (l01 7 · l02 1 · l03 3 · l04 0)
-  = **316**; chain 305 → 312 → 313 → 316 → 316. §19 task keys are the single source for
+  = **308**; chain 297 → 304 → 305 → 308 → 308. §19 task keys are the single source for
   the audio/exam key files.
 - **Verification flags for Pass C:** Whitney laṭ-paradigm § range cited bare
   pending verification (notes §0.1 names a candidate range); no present-class

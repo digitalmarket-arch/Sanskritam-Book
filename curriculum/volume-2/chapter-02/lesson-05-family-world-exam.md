@@ -110,7 +110,7 @@ log scores:
 3. Which word entered the ledger after waiting since v1.c01 as an ear-word — and which
    Latin word is its cognate?
 
-*Check against l03 §8, §13, §15.*
+*Check against l03 §14, §8, §13.*
 
 ### Station 4 — कुत्र? (lesson 4)
 
@@ -286,10 +286,10 @@ siblings from one ancestor; nobody borrowed anybody's brother."
 
 ## 14. Vocabulary
 
-शब्दावली — no new words on exam day; the chapter ledger, complete: 260 entering (per
+शब्दावली — no new words on exam day; the chapter ledger, complete: 258 entering (per
 v2.c01.l05 §14) + 19 ledger-new — l01 six (+ पिता back on duty from v1.c03.l05, + the
 गृहम् upgrade), l02 three, l03 eight (+ the मेघः upgrade, + नदी back from v1.c03.l04),
-l04 two — **279 readable words**. Full rows live in the four §14 tables; the exam sheet's word
+l04 two — **277 readable words**. Full rows live in the four §14 tables; the exam sheet's word
 bank samples all four. Protocol as always: block by block, whole word, full finals,
 pause form.
 
@@ -309,7 +309,8 @@ pause form.
 > chunks; the demonstrative system is Volume 3's. **The enclitics:** च "and" and अपि
 > "too" walk behind their words — रामः सीता च; अहम् अपि. **The location kit:** अत्र तत्र
 > यत्र कुत्र — here, there, where (relative), where? **The question kit, complete for
-> now:** कः का किम् कुतः कथम् कुत्र — six askers; कति joins next chapter. **The honesty
+> now:** कः का किम् कुतः कथम् कुत्र कति — seven askers; कति has been a headword since
+> v1.c02.l01 and returns with the numbers next chapter. **The honesty
 > lines:** joined subjects ride verbless frames (verb machinery later); endings-by-role glossed whole (system in
 > Volume 3); gender *shapes* observed, system later. [REF:apte1890]
 
@@ -459,7 +460,7 @@ on the §22 rubric.
 > पृथिवी आकाशः नदी वृक्षः पुष्पम् समुद्रः तारा मेघः नगरम् अग्निः. **The tools:** कुत्र
 > asks; च joins from behind. **The flagship:** the kinship shelf — one ancestor, two
 > heirs, no arrows between cousins. **The split:** five words FACT, one doctrine
-> TRADITION. **The ledger:** 279.
+> TRADITION. **The ledger:** 277.
 
 Schedule [REF:cepeda2006]: **+1 day** — re-run the dictation and one family
 presentation cold. **+1 week** — v2.c03.l01's Station 0 re-runs tasks C and D
@@ -554,7 +555,7 @@ Lesson video (8–10 min), scene list:
 4. The direction sort (6:00–7:30): the nine cards fly; card 1 hovers, flips to reject,
    and the ancestor-node chart rises behind it; card 4's five elements drift from a
    physics beaker into an attributed scroll labeled परम्परा.
-5. Outro (7:30–9:00): the 279 counter ticks; the cognate wall chart assembles; end
+5. Outro (7:30–9:00): the 277 counter ticks; the cognate wall chart assembles; end
    card: "Next: संख्याः कालश्च — ten numbers, the honest calendar, and an hour that
    sailed in from Greece."
 
@@ -578,7 +579,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 06:00 — "And the cards. 'Mother comes from mātā' — reject, with love: cousins don't
   borrow from each other; they inherit. That correction is not pedantry. It is the
   bigger, better story."
-- 07:30 — "Two hundred seventy-nine words. Next: the numbers — and the month on your
+- 07:30 — "Two hundred seventy-seven words. Next: the numbers — and the month on your
   calendar that Latin counted, not Sanskrit. Bring your arrows."
 
 ## 26. Reel Script
@@ -607,8 +608,8 @@ Sanskritam. Next: ten numbers and the calendar's honest story." (End card: प�
   होरा inbound-loan story) and v2.c06's cognates unit. परीक्षा used as display word
   (§16) — formal ledger entry with the school set later.
 - **Rubric home:** §22; export flag `assessment: true`.
-- **Integrator notes:** ledger arithmetic canonical: 260 + 19 (l01 6 + पिता review + गृहम्
-  upgrade · l02 3 · l03 8 + मेघः upgrade + नदी review · l04 2) = **279**; the four §14 tables are the row sources; this lesson adds
+- **Integrator notes:** ledger arithmetic canonical: 258 + 19 (l01 6 + पिता review + गृहम्
+  upgrade · l02 3 · l03 8 + मेघः upgrade + नदी review · l04 2) = **277**; the four §14 tables are the row sources; this lesson adds
   none. §19 task keys are the single source for the audio/exam key files.
 - **Verification flags for Pass C:** the nine D-cards diffed against l02 §13 (kinship
   sets), l03 §8 (पञ्चतत्त्व split), l04 §8/§15 (च and the और correction) — no card

@@ -58,7 +58,7 @@ substituted as targets.
 
 | Deva | IAST | IPA | Notes |
 |---|---|---|---|
-| अ | a | **/ɐ/** | Near-open central. NOT English "cup"-final schwa; the traditional saṃvṛta short *a*. |
+| अ | a | **/ɐ/** | Near-open central. NOT a reduced schwa; closest English anchor is the vowel of "cup" (imprecision stated per §2.3); the traditional saṃvṛta short *a*. |
 | आ | ā | /ɑː/ | Open back, long. |
 | इ | i | /i/ | |
 | ई | ī | /iː/ | |
@@ -87,7 +87,7 @@ Stops by varga — rows: voiceless, voiceless aspirated, voiced, voiced breathy,
 | Varga | Place | IPA row |
 |---|---|---|
 | क-वर्ग | velar (कण्ठ्य) | /k kʰ g gʱ ŋ/ |
-| च-वर्ग | palatal (तालव्य) | **/t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/** — affricates, matching pan-Indic pronunciation and our audio. (Pāṇinian phonetics describes a palatal stop [c]; this is noted once, in v1.c02, as HISTORY.) |
+| च-वर्ग | palatal (तालव्य) | **/t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/** — affricates, matching pan-Indic pronunciation and our audio. (Pāṇinian phonetics describes a palatal stop [c]; this is noted once, in v1.c03.l02, as HISTORY.) |
 | ट-वर्ग | retroflex (मूर्धन्य) | /ʈ ʈʰ ɖ ɖʱ ɳ/ — also found in Swedish and Norwegian; NOT "unique to Indian languages". |
 | त-वर्ग | dental (दन्त्य) | /t̪ t̪ʰ d̪ d̪ʱ n̪/ — tongue on the teeth, explicitly contrasted with English alveolar t/d. |
 | प-वर्ग | labial (ओष्ठ्य) | /p pʰ b bʱ m/ |
@@ -137,8 +137,9 @@ Format — labeled blockquote callouts, exact syntax:
 > **[HISTORY · इतिहासः]** The oldest Sanskrit text, the Ṛgveda, was composed c. 1500–1200 BCE
 > on the scholarly consensus dating. [REF:jamison2014 p.5]
 
-> **[TRADITION · परम्परा]** The Pāṇinīya Śikṣā organizes sounds by articulation point — "from
-> the chest to the head" — a classification modern phonetics confirms.
+> **[TRADITION · परम्परा]** The Pāṇinīya Śikṣā organizes speech sounds by their place of
+> articulation (sthāna); its verse 13 lists eight such places — chest, throat, head,
+> tongue-root, teeth, nose, lips, and palate. [REF:paniniyashiksha 13]
 
 > **[SYMBOL · प्रतीकम्]** In the Bhagavad Gītā (10.33) Kṛṣṇa says "of syllables I am the a"
 > (akṣarāṇām akāro 'smi) — a statement of अ's primacy in the tradition, not a phonological claim.

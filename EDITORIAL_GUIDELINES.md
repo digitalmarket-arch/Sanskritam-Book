@@ -31,7 +31,7 @@ lines total.
 | 16 | Conversation | A micro-dialogue usable at current level, with audio asset reference. | short |
 | 17 | Story | Narrative element: cultural story (register-labeled), micro-fiction using lesson vocabulary, or the continuing course storyline. | medium |
 | 18 | Exercises | 4–8 exercises, **at least two productive** (write, say, record, dictate, translate). Recognition-only lessons are rejected in review. | long |
-| 19 | Quiz | 5–10 scored questions, FACT-register content only (cited-HISTORY carve-out per STYLE_GUIDE §4 rule 4), key separated in `<details>`. | medium |
+| 19 | Quiz | 5–10 scored questions, FACT-register content only (plus "According to X…" TRADITION framing and the cited-HISTORY carve-out, per STYLE_GUIDE §4 rule 4), key separated in `<details>`. | medium |
 | 20 | Revision | One-screen summary box: what to remember, spaced-repetition pointers (what to review in 1 day / 1 week). | short |
 | 21 | Homework | Concrete take-home with time estimate; includes one real-world task (find the letter on a sign, teach it to someone). | short |
 | 22 | Teacher Notes | Classroom delivery: timing plan, board work, group activities, differentiation, what students find hard. | medium |
@@ -50,7 +50,7 @@ lines total.
 - **sound** (e.g. v1.c01.l03): §5 = articulatory phonetics of the target sound; §15 = the
   relevant script rule; §14 = words using only taught graphemes.
 
-Other types (vocabulary, grammar, conversation, reading, review, capstone) interpolate
+Other types (script, vocabulary, grammar, conversation, reading, review, capstone) interpolate
 naturally; when in doubt, ask "what would a great teacher put here for *this* lesson?" —
 never leave a section as boilerplate.
 
@@ -109,7 +109,8 @@ Four passes gate `in_review → reviewed`; findings and resolutions are logged i
   agreement, natural register, terminology consistency with GLOSSARY.
 - **Pass C — Factual.** Trace every HISTORY claim to its reference; locate every quoted verse;
   audit registers (no symbolic content outside SYMBOL; nothing from §3 above); check quiz
-  questions assess FACT only.
+  questions assess FACT only (or "According to X…" TRADITION, or cited HISTORY with hedged
+  dating preserved — STYLE_GUIDE §4 rule 4).
 - **Pass D — Contract.** `scripts/validate.py` clean; every objective actually assessed;
   §3/§20 genuinely spiral `review_of` lessons; production exercises present; budgets respected.
 

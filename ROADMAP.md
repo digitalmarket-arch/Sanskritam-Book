@@ -36,8 +36,8 @@ Chapter 6 ends with the learner reading real connected words and a first (sandhi
 |---|---|---|---|
 | 1 | अभिवादनम् — Greetings & Courtesy | 5 | ✅ reviewed |
 | 2 | परिवारः जगच्च — Family & the World | 5 | ✅ reviewed |
-| 3 | संख्याः कालश्च — Numbers & Time | 5 | ⬜ |
-| 4 | क्रियाः — First Verbs | 5 | ⬜ |
+| 3 | संख्याः कालश्च — Numbers & Time | 5 | ✅ reviewed |
+| 4 | क्रियाः — First Verbs | 5 | ✅ reviewed |
 | 5 | संवादः — Daily Conversation | 5 | ⬜ |
 | 6 | कथाः शब्दयात्राश्च — Stories & Word Journeys | 5 | ⬜ |
 
@@ -105,9 +105,9 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
 - **2026-07-20** — Project bootstrapped: governance docs, improvement report vs the 1.x PDF.
 - **2026-07-20** — **v1.c01 प्रवेशः complete and reviewed**: 5 lessons in the full 27-section
   format, peer-review passes A–D logged, validator green, JSON exports current.
-- **2026-07-21** — **v1.c02 स्वराः complete and reviewed**: 7 lessons — the full 13-vowel
+- **2026-07-30** — **v1.c02 स्वराः complete and reviewed**: 7 lessons — the full 13-vowel
   inventory with every mātrā taught same-day, the honest /r̩/ lesson, the ॐ
-  fact/tradition/symbol showcase, ayogavāha, and a 42-word cumulative assessment. Validator
+  fact/tradition/symbol showcase, ayogavāha, and a 54-word cumulative assessment. Validator
   green on all 12 lessons; exports current.
 - **2026-07-30** — **v1.c03 स्पर्शाः complete and reviewed**: 6 lessons — all 25 stops with
   every varga member treated equally (IR-042 closed), the reusable manner row with physical
@@ -115,7 +115,7 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   assessment. 18 lessons total, validator green, exports current.
 - **2026-07-30** — **v1.c04 अन्तःस्थाः ऊष्माणश्च complete and reviewed**: 4 lessons — the
   last 8 consonants, the ś/ṣ flagship contrast (IR-012 closed in-curriculum), the complete
-  varṇamālā with the Alphabet Exam, ~140 cumulative readable words incl. राम, भाषा,
+  varṇamālā with the Alphabet Exam, 157 cumulative readable words incl. राम, भाषा,
   हिमालय. 22 lessons total, validator green, exports current.
 - **2026-07-31** — **v1.c05 संयोगः complete and reviewed**: 5 lessons — the virāma (Law 5)
   with the first-person milestone अहम् वदामि, the conjunct mechanism (नमस्ते readable and
@@ -126,7 +126,7 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   Research notes + chapter frame for v1.c06 (पठनम् — reading bootcamp, the volume's final
   chapter) already prepared. Asset production for Chapters 1–5 `planned:` media can run in
   parallel.
-- **2026-07-31** — **v1.c06 पठनम् complete and reviewed — VOLUME 1 CONTENT-COMPLETE**:
+- **2026-08-02** — **v1.c06 पठनम् complete and reviewed — VOLUME 1 CONTENT-COMPLETE**:
   4 lessons — the long words with the ङ/ञ homorganic payoff (गङ्गा, पञ्च; the course's
   own name at reading speed), the first true dialogue (self-introduction frames; the
   Chapter 1 Maya arc closed), the first connected passage (अर्जुनः पठति — ending on the
@@ -139,23 +139,30 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   with the V1-exam interval and three-artifact ceremony, the classical wellness
   exchange, the day cycle with the both-things-true सुप्रभातम् card, the धन्यवादः
   label showcase with न-negation and the farewell pair, and the Courtesy Exam sorting
-  by the keystone label table. 23 ledger-new words (260 cumulative); 36 lessons total,
+  by the keystone label table. 21 ledger-new words (258 cumulative); 36 lessons total,
   validator green, exports current.
 - **2026-08-03** — **v2.c02 परिवारः जगच्च complete and reviewed**: the kinship-cognate
   flagship (Jones 1786; the no-arrow wall chart; दुहिता ~ daughter), the pointing trio,
   the world set with the पञ्चतत्त्व words/doctrine split and अग्निः's ledger homecoming
   (RV 1.1.1), च with the 1.x और correction, कुत्र, and the family-tree/scene exam with
-  the direction cards. 22 ledger-new (282 cumulative); 41 lessons total, validator
+  the direction cards. 19 ledger-new (277 cumulative); 41 lessons total, validator
   green. c03 (numbers & time) and c04 (first verbs) fact bases already pushed.
-- **2026-08-04** — **v2.c03 संख्याः कालश्च complete and reviewed**: the stems एक–दश with
+- **2026-10-20** — **v2.c03 संख्याः कालश्च complete and reviewed**: the stems एक–दश with
   the counting chant (inflection honestly deferred), THE October/November/December
   correction delivered as content with the 1.x captions quoted verbatim and corrected
   kindly, the नव nine/new split, होरा as the Greek→Sanskrit loan that completes the
   direction toolkit (arrows named by origin), the week with its honest early-centuries-CE
   history, and the numbers-time exam with the calendar task on the learner's own grid.
   Review ran as an adversarially verified workflow (56 findings confirmed and fixed; one
-  grammar blocker caught in model content). 23 ledger-new (305 cumulative); 46 lessons
+  grammar blocker caught in model content). 20 ledger-new (297 cumulative); 46 lessons
   total, validator green, exports current. Next: v2.c04 क्रियाः (first verbs).
+- **2026-10-22** — **v2.c04 क्रियाः complete and reviewed**: 5 lessons — the 10-verb bank
+  completed, the present-singular person pattern -मि/-सि/-ति named in the course's first
+  grammar lesson (with असि), the doing-dialogue किम् करोषि?, the day-of-verbs passage at
+  three speeds, and the verb exam with production conjugation and the learner's own
+  self-narration. Review passes A–D ran as a verified workflow (70 findings fixed).
+  11 ledger-new (308 cumulative); 51 lessons total. Post-chapter loop (JSON exports,
+  CHANGELOG entry) still pending.
 
 ## Content preservation map (from the 1.x curriculum)
 

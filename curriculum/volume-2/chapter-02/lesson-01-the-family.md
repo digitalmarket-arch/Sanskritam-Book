@@ -26,7 +26,7 @@ objectives:
     hi: "परिवार-शब्दों को उनकी दिखती वेश-भूषा — ः-वाले, म्-वाले, आ/ई-वाले — के अनुसार केवल अवलोकन की तरह छाँटें, और स्टेशन 0 के शिष्टाचार-अंक दर्ज करें।"
 new_letters: []
 new_matras: []
-vocabulary_count: 8
+vocabulary_count: 7
 media:
   images:
     - "planned:assets/images/volume-2/v2c02l01-family-tree.svg"
@@ -50,7 +50,7 @@ updated: 2026-08-02
 ## 1. Hook
 
 Say *mother*. Now say माता. You have just said the same word twice — not a translation, not
-a borrowing, the *same inherited word*, worn down two different ways by five thousand-odd
+a borrowing, the *same inherited word*, worn down two different ways by thousands of
 years of separate travel. Your course met माता in its fourth lesson, when आ was brand new;
 today she finally gets her household: a father, a brother, two words for sister, two words
 for daughter, a home to stand in, and one word to hold them all — परिवारः. Chapter 2 opens
@@ -217,8 +217,8 @@ the whole possessive art for now.
 
 ## 8. English Explanation
 
-No new letter, no new sign — Volume 2's standing luxury. The load is eight headwords, two
-old friends back on duty, two honest word-pairs, and one upgrade.
+No new letter, no new sign — Volume 2's standing luxury. The load is eight headwords — six new, one review (पिता), one upgrade — plus
+two more old friends back on duty and two honest word-pairs.
 
 ### The set — ten words on duty
 
@@ -378,7 +378,7 @@ English. Today you carry one line; the full shelf — पिता, भ्रा
 > meaning. [REF:monierwilliams1899 s.vv.] [REF:mallory2006]
 
 So the honest one-liner: *speak* पुत्री, *know* दुहिता — the second is the one carrying
-five millennia of receipts.
+millennia of receipts.
 
 ### Two words for sister — and a poetic pair on display
 
@@ -392,7 +392,7 @@ beautiful, real, off today's ledger.
 
 ## 14. Vocabulary
 
-शब्दावली — eight headwords: six ledger-new, one review headword — पिता, counted since v1.c03.l05 — and one upgrade; 260 → 266 (counts reconciled
+शब्दावली — eight headwords: six ledger-new, one review headword — पिता, counted since v1.c03.l05 — and one upgrade; 258 → 264 (counts reconciled
 at review, as always). Audio: 🔊 `planned:assets/audio/volume-2/v2c02l01-word-list.mp3`
 (each word twice, three-speed passes, then the dictation track). Lists stay
 sentence-dressed as always: masculines परिवारः, पुत्रः in ः, neuter गृहम् in म्, the kin
@@ -415,7 +415,8 @@ Back on duty from Volume 1, review rows only — no re-entry to the ledger: **�
 
 Display-only, excluded from all counts and decks: the poetic pair **जनकः** (janakaḥ)
 "father, begetter" and **जननी** (jananī) "mother, she who bears" (§13), and the
-dictionary stems मातृ · पितृ · भ्रातृ · दुहितृ · स्वसृ (§4).
+dictionary stems पितृ · भ्रातृ · दुहितृ · स्वसृ (§4). The fifth stem, मातृ, is no display
+item: it has been a ledger headword since v1.c02.l03, simply not drilled today.
 
 Reading protocol unchanged: count the blocks, read the blocks, read the word —
 प-रि-वा-रः, भ्रा-ता, भ-गि-नी, गृ-हम् — then the roll-call (§9 drill 2), and no final
@@ -611,7 +612,7 @@ one word-swap away from one.
 3. (b) — speak पुत्री, know दुहिता (§13).
 4. (a) — a true descent line *inside* Indo-Aryan (§4, §13) — honest downward, unlike (c)
    of exercise 4's cards.
-5. (b) — the भद्रम् precedent (§15); six new + one upgrade, 260 → 266 (§14).
+5. (b) — the भद्रम् precedent (§15); six new + one upgrade, 258 → 264 (§14).
 6. (c) — observed, not legislated (§8, §15).
 7. (a) — chunks in front, pause form, machinery in Volume 3 (§15).
 8. (b) — the ्र stroke with a breathy onset (§9, §10). ((c) is the §10 narrow note's
@@ -632,7 +633,7 @@ Indo-Aryan (§4) · (e) keep (§13) · (f) keep (§13).
 > the full shelf arrives next lesson. **The frames:** मम परिवारः। मम पिता अत्र अस्ति। तव
 > भ्राता कः? **The parade:** ः (परिवारः, पुत्रः) · म् (गृहम्) · आ (माता … स्वसा) · ई
 > (भगिनी, पुत्री) — observed, never yet a law. **The ledger:** six new + one upgrade —
-> 266.
+> 264.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -801,8 +802,8 @@ narrator reads the cue, not the English spelling.
 - **Payoff (0:30–0:43):** "Learners of this course can now introduce their whole family
   in Sanskrit — and they know माता and *mother* are siblings from one ancestor, not a
   borrowing. That's the honest version of 'mother of all languages.'"
-- **CTA (0:43–0:50):** "Next: the full cognate shelf — father, brother, and five
-  thousand years of receipts. Follow for Chapter 2." (End card: परिवारः — the family.)
+- **CTA (0:43–0:50):** "Next: the full cognate shelf — father, brother, and
+  thousands of years of receipts. Follow for Chapter 2." (End card: परिवारः — the family.)
 
 ## 27. Metadata
 
@@ -833,12 +834,12 @@ narrator reads the cue, not the English spelling.
   terms. All headwords are classical vocabulary — no classical/modern usage labels
   needed this lesson (the register work is descent-direction honesty, §13/§18).
 - **Export notes:** ledger: eight headwords = six ledger-new + one review headword + one
-  upgrade; **260 → 266** — पिता carried a §14 row in v1.c03.l05 and is counted there
-  (Pass D reconciliation; every later chapter total drops by one). गृहम् exports as
+  upgrade; **258 → 264** — पिता carried a §14 row in v1.c03.l05 and is counted there
+  (Pass-D flag resolved: review row, no re-entry). गृहम् exports as
   `upgrade_of: गृह` (v1.c04.l03), not as a new ledger row — the भद्रम् precedent of v2.c01.l01. Review
   rows माता, पुत्रः, पिता export flagged review-duplicate, not new. Display-only, excluded
-  from counts and decks: जनकः, जननी (poetic pair), and the stems मातृ, पितृ, भ्रातृ,
-  दुहितृ, स्वसृ (export as `display`). Export "parivār", "bhagini", "putri", "grih",
+  from counts and decks: जनकः, जननी (poetic pair), and the stems पितृ, भ्रातृ,
+  दुहितृ, स्वसृ — exported as `display`; मातृ is a v1.c02.l03 ledger row, not a display item. Export "parivār", "bhagini", "putri", "grih",
   "gruh" as `error_form`. The दुहिता/*daughter* and माता/*mother* relations export as
   `cognate` rows with `direction: shared-descent`; बहन < भगिनी and भाई < भ्राता export
   as `descent` rows (Indo-Aryan) — the two must never be merged into one relation type.

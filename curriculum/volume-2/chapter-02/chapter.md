@@ -42,16 +42,16 @@ By the end of this chapter the learner can:
 - [ ] Describe a simple scene (X अत्र अस्ति। Y तत्र। X Y च …) with the world set
 - [ ] Ask and answer कुत्र-questions; join words with च
 - [ ] State the kinship-cognate facts with correct direction (shared descent, no loans)
-- [ ] Read 22 ledger-new words (282 cumulative) incl. भगिनी, दुहिता, वृक्षः, आकाशः
+- [ ] Read 19 ledger-new words (277 cumulative) incl. भगिनी, दुहिता, वृक्षः, आकाशः
 - [ ] Pass the chapter assessment incl. the family-tree presentation
 
 ## Lessons
 
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
-| 1 | v2.c02.l01 | परिवारः — The Family | vocabulary | परिवारः भ्राता भगिनी पुत्री दुहिता स्वसा गृहम्; पिता to full duty; c01 Station 0 |
+| 1 | v2.c02.l01 | परिवारः — The Family | vocabulary | परिवारः भ्राता भगिनी पुत्री दुहिता स्वसा; गृहम् upgrade; पिता review, to full duty; c01 Station 0 |
 | 2 | v2.c02.l02 | मम परिवारः — Introducing the Family | conversation | एषः एषा कुटुम्बम्; intro frames; the kinship cognate shelf |
-| 3 | v2.c02.l03 | जगत् — The World Set | vocabulary | पृथिवी आकाशः नदी वृक्षः पुष्पम् समुद्रः तारा मेघः नगरम् अग्निः; पञ्चतत्त्व split |
+| 3 | v2.c02.l03 | जगत् — The World Set | vocabulary | पृथिवी आकाशः वृक्षः पुष्पम् समुद्रः तारा नगरम् अग्निः; मेघः upgrade, नदी review; पञ्चतत्त्व split |
 | 4 | v2.c02.l04 | कुत्र? — Where Things Are | conversation | कुत्र; च (the और correction); location dialogues |
 | 5 | v2.c02.l05 | पुनरावृत्तिः — Family & World Exam | review | family-tree presentation; direction register cards |
 

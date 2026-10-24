@@ -431,7 +431,7 @@ The promise tracker, Volume 1's final edition — every row closed:
 |---|---|
 | नमस्ते readable and writable (v1.c01.l01) | ✓ v1.c05.l02 |
 | अहम् in your own hand (v1.c01.l03) | ✓ v1.c05.l01 |
-| The ear-trio धर्म कर्म अर्थ (v1.c01.l03) | ✓ v1.c05.l04 |
+| The ear-trio धर्म कर्म अर्थ — opened in v1.c01.l01 and v1.c01.l03 | ✓ v1.c05.l04 |
 | संस्कृतम् written by you (v1.c04.l04) | ✓ v1.c05.l05 ceremony |
 | Māyā answered in Sanskrit (v1.c01.l01 §16) | ✓ v1.c06.l02 |
 | अहं संस्कृतं पठामि read, not trusted (v1.c01.l01 §6) | ✓ v1.c06.l03 |

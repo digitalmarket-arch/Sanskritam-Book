@@ -26,7 +26,7 @@ objectives:
     hi: "पृथिवी और पृथ्वी को एक ही शब्द की दो मान्य वर्तनियों की तरह पढ़ें, और अग्निः को — जो पाठ्यक्रम के तीसरे पाठ से कान-शब्द है — शब्द-सूची में मुख्य शब्द की तरह शामिल करें।"
 new_letters: []
 new_matras: []
-vocabulary_count: 10
+vocabulary_count: 9
 media:
   images:
     - "planned:assets/images/volume-2/v2c02l03-world-scene.svg"
@@ -84,7 +84,7 @@ in §6/§8/§16, §18 (exercises 3, 6), §19 (Q7); objective 3 in §8/§13, §18
    एषा मम माता। run on them. Name both, with their split.
 4. From v2.c02.l02's cognate shelf: did English borrow *mother* from Sanskrit मातृ? One-sentence
    honest answer, direction included.
-5. Held open since v1.c06.l02: the frame that has carried every scene this course has ever set —
+5. Held open since v1.c05.l03: the frame that has carried every scene this course has ever set —
    X here, Y there. Say it with any word you like.
 
 <details><summary>उत्तराणि · Answers</summary>
@@ -97,7 +97,7 @@ in §6/§8/§16, §18 (exercises 3, 6), §19 (Q7); objective 3 in §8/§13, §18
    the demonstrative system proper is later business.
 4. No. मातृ, Latin *māter* and English *mother* are siblings — parallel descendants of one
    Proto-Indo-European ancestor. No borrowing in any direction.
-5. X अत्र अस्ति। Y तत्र अस्ति। — the location frame of v1.c06.l02, today's whole workbench.
+5. X अत्र अस्ति। Y तत्र अस्ति। — the location frame of v1.c05.l03, today's whole workbench.
 </details>
 
 ## 4. Historical Context
@@ -376,7 +376,7 @@ writes पृथिवी, your eye reads either, and the precedent is already i
 ## 14. Vocabulary
 
 शब्दावली — ten headwords: eight ledger-new, plus मेघः as an upgrade of v1.c03.l01's मेघ and
-नदी as a review row (a ledger word since v1.c03.l04), neither re-counted; 270 → 278 (counts
+नदी as a review row (a ledger word since v1.c03.l04), neither re-counted; 267 → 275 (counts
 reconciled at review, as always). One of the eight is a long-overdue homecoming. Audio: 🔊
 `planned:assets/audio/volume-2/v2c02l03-word-list.mp3` (each word twice, three-speed passes,
 then the dictation track). Lists stay sentence-dressed, as all volume: म्-words in म्, ः-words
@@ -429,7 +429,7 @@ you already owning three shelves of sorted evidence — the spiral principle at 
 
 ### Scene syntax, inventoried
 
-Everything the scenes use is old: the location frame X अत्र/तत्र अस्ति (v1.c06.l02), the
+Everything the scenes use is old: the location frame X अत्र/तत्र अस्ति (v1.c05.l03), the
 verbless pointing exclamation मेघः तत्र! (legal since गङ्गा तत्र!, v1.c06.l01), the pointing
 pair एषः/एषा (v2.c02.l02), the verb वहति (v1.c04), अपि walking behind its word as always. Pause
 form throughout — every word its full dress, a beat between sentences, sandhi still Volume 3's
@@ -556,7 +556,7 @@ the answer.
    course writes पृथिवी and reads both (c) a correct form and a typo (d) singular and plural
 3. अग्निः joins the ledger today because: (a) its letters were unreadable until now (b) it is a
    brand-new word to the course (c) it has been an ear-word since v1.c01.l03 and readable since
-   v1.c05.l02's weld mechanism, but never before a vocabulary headword (d) the Ṛgveda requires it
+   v1.c05.l02's weld mechanism, but never before a readable ledger headword (d) the Ṛgveda requires it
 4. The honest account of आकाश-वायु-अग्नि-जल-पृथिवी as "the five elements" is: (a) a fact of
    physics the words prove (b) five ordinary vocabulary items whose five-element grouping is a
    doctrine of the Sāṅkhya/Vaiśeṣika traditions — two claims, two registers (c) a modern
@@ -594,7 +594,7 @@ the answer.
 पुनरावृत्तिः — one screen to remember.
 
 > **The set:** पृथिवी · आकाशः · नदी · वृक्षः · पुष्पम् · समुद्रः · तारा · मेघः · नगरम् · अग्निः —
-> ten words, eight ledger-new, the ledger at 278. **The homecoming:** अग्निः — ear-word since v1.c01.l03, headword
+> ten words, eight ledger-new, the ledger at 275. **The homecoming:** अग्निः — ear-word since v1.c01.l03, headword
 > today; sibling of Latin *ignis*, no borrowing. **The split:** five ordinary words (FACT); the
 > पञ्चतत्त्व grouping — Sāṅkhya/Vaiśeṣika doctrine (TRADITION, attributed, never physics).
 > **The spellings:** पृथिवी = पृथ्वी, both standard. **The city:** नगरम् — the नगर inside
@@ -722,7 +722,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 5. **The scene game (4:10–5:10):** a scene card flips; a learner voice describes it in five
    frame sentences — नदी वहति। वृक्षः अत्र अस्ति। मेघः तत्र! एषा तारा। नगरम् तत्र अस्ति। — each
    sentence's words highlighting in the scene as they land.
-6. **Recap + CTA (5:10–6:00):** the ten words orbit the scene; the ledger ticks to 278. End
+6. **Recap + CTA (5:10–6:00):** the ten words orbit the scene; the ledger ticks to 275. End
    card: "Next: कुत्र? — where things are, and the little word च that joins the world together."
 
 ## 25. Voice-over Script
@@ -748,7 +748,7 @@ narrator reads the cue, not the English spelling.
 - **04:10** And you can already describe all of it. nadī vahati [n̪ɐd̪iː ʋɐɦɐt̪i] — the river
   flows. vṛkṣaḥ atra asti [ʋr̩kʂɐh ɐt̪ɾɐ ɐst̪i] — the tree is here. eṣā tārā [eːʂɑː t̪ɑːɾɑː] —
   this is a star. Old frames, new world.
-- **05:10** Ten words. The ledger reads two hundred seventy-eight. Next: where is it all? — the
+- **05:10** Ten words, eight of them new. The ledger reads two hundred seventy-five. Next: where is it all? — the
   question word kutra [kut̪ɾɐ], and the little word that joins everything: ca [t͡ɕɐ].
 
 ## 26. Reel Script
@@ -784,17 +784,17 @@ narrator reads the cue, not the English spelling.
 - **Related lessons:** reviews v2.c02.l01 (परिवारः, गृहम् — both working in §16/§17) and
   v2.c02.l02 (एषः/एषा — एषा तारा runs on it; the kinship cognate shelf today's अग्नि ~ *ignis*
   extends); builds on v1.c01.l03 (ear-words), v1.c02.l03 (ऋ = /r̩/), v1.c03.l01 (मेघ),
-  v1.c03.l04 (नदी, गगन), v1.c04.l03 (वहति), v1.c05.l02 (weld mechanism), v1.c05.l03 (क्ष),
+  v1.c03.l04 (नदी, गगन), v1.c04.l03 (वहति), v1.c05.l02 (weld mechanism), v1.c05.l03 (क्ष; the location frame X अत्र/तत्र अस्ति),
   v1.c05.l04 (द्र, पर्वत, सूर्य), v1.c06.l01 (गङ्गा policy, नगर→नागरी, हिमालयः, verbless
-  exclamation), v1.c06.l02 (location frames, cast, shape observations), v2.c01.l03 (रात्रिः the
+  exclamation), v1.c06.l02 (cast, shape observations), v2.c01.l03 (रात्रिः the
   ः-exception, the both-things-true move); feeds v2.c02.l04 (कुत्र and च over this exact set),
   v2.c02.l05 (register cards, live scene task E), v2.c03, v2.c06 (cognates at scale), Volume 3
   (sandhi — the जगच्च seam stays a preview; locatives and plurals with the case machinery).
 - **Glossary:** reuses संयुक्ताक्षर, विसर्ग, मात्रा per GLOSSARY.md; no new glossary terms —
   the fact/tradition split follows the four-register policy (STYLE_GUIDE §4) and the chapter
   research notes (§0.5).
-- **Export notes:** ledger arithmetic is approximate by design: 270 entering (260 at v2.c01
-  close + l01/l02 drafts in flight) + 8 = **278**; the reviewer reconciles exact counts across
+- **Export notes:** ledger arithmetic: 267 entering (258 at v2.c01
+  close + 6 from v2.c02.l01 + 3 from v2.c02.l02) + 8 = **275**; the reviewer reconciles exact counts across
   the chapter as always. Three rows need reconciliation flags: **अग्निः** is counted ledger-new
   per the research-note ruling (ear-word row v1.c01.l03 was 🔊 audio-only, never a readable
   headword); **मेघः** is a row-form upgrade of v1.c03.l01's मेघ, a word already used in
@@ -804,8 +804,9 @@ narrator reads the cue, not the English spelling.
   v2.c02.l01 and v2.c02.l02 are drafting in parallel — resolver errors on
   prerequisites/review_of are expected until they land. Display-only, excluded from counts and
   decks: the variant **पृथ्वी** (export as `variant_spelling`, like गंगा — a standard
-  circulating form, not an error), जगत् (v1.c05.l01 ledger word, review only; its च seam is opened at c02.l04), and
-  गगन (v1 ledger word, mentioned as synonym). Export "prithvi", "vriksh", "nagar", "aganiḥ" as
+  circulating form, not an error), and
+  गगन (v1 ledger word, mentioned as synonym). जगत् — a v1.c05.l01 ledger row and the
+  chapter-title word, its seam taught at c02.l04 — exports flagged review-duplicate. Export "prithvi", "vriksh", "nagar", "aganiḥ" as
   `error_form`. The पञ्चतत्त्व doctrine card exports with `register: tradition` and its
   attribution string; the five word rows stay `register: fact`. The अग्नि ~ *ignis* pair
   exports as a `cognate` row with direction `shared-descent`; नदी exports with NO cognate row

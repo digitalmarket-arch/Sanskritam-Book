@@ -113,7 +113,7 @@ beside yesterday's:
 4. Latin *decem* — cognates: parallel descendants of one ancestor, derivation in neither
    direction (v1.c04.l02 §13). Today that line becomes a whole shelf.
 5. कति "how many?" — a §14 headword since v1.c02.l01, answered with fingers that day
-   (v1.c02.l01 §16). Today it joins the question kit with the whole count to answer it (§15).
+   (v1.c02.l01 §16). Today it is back on duty with the whole count to answer it (§15).
 </details>
 
 A shaky chant or a dropped digit sends you back to l01 §20's re-take row tonight — the
@@ -182,8 +182,7 @@ Hold the third fact in your mouth, not your head: the ladder in §9 is where it 
 > (tatra kati? — daśa!) "How many there? — Ten!" — वहाँ कितने? — दस!
 
 Two machines, both honest: the chant is lesson 1's counting dress, now grown to ten; the
-कति exchange is the question kit's oldest word (v1.c02.l01), enrolled in the kit today, at
-work, and its answer stands *bare* — no verb, no endings, the number alone. That bare
+कति exchange is the question kit's oldest member (v1.c02.l01) back at work, and its answer stands *bare* — no verb, no endings, the number alone. That bare
 answer is not a shortcut we apologize for; it is the taught, standard pattern, and §15 says exactly why.
 
 ## 7. Hindi Explanation
@@ -246,11 +245,11 @@ for its proper chapter. Notice something pleasant: from six onward the dress and
 citation name look identical — nothing new to wear.
 That is an observation about this chant, not a law to extract (§15).
 
-### कति joins the question kit
+### कति back on question duty
 
-The kit built since Volume 1 — कः · का · किम् · कुतः · कथम् · कुत्र — takes its seventh
-member: **कति** "how many?" — no stranger: a §14 headword since v1.c02.l01, answered
-with एक since v1.c02.l04, and now with the whole count. Every asker still starts with that same ancient k. The
+The kit built since Volume 1 — कः · का · किम् · कुतः · कथम् · कुत्र — puts its oldest
+member to counting work: **कति** "how many?" — no stranger: a §14 headword since
+v1.c02.l01, answered with एक since v1.c02.l04, and now with the whole count. Every asker still starts with that same ancient k. The
 grammar of कति today is one line long: it asks, and the answer may stand bare — कति? —
 सप्त! No verb, no endings, no agreement. "How many *books*" — the number dressed to match
 a noun — is real Sanskrit and really deferred; the bare answer carries everything this
@@ -411,7 +410,7 @@ English kept the cousins apart, *nine* and *new*, all along.
 
 ## 14. Vocabulary
 
-शब्दावली — four ledger-new headwords; **285 → 289** (counts reconciled at review, as
+शब्दावली — four ledger-new headwords; **279 → 283** (counts reconciled at review, as
 always). Audio: 🔊 `planned:assets/audio/volume-2/v2c03l02-word-list.mp3` (each word
 twice, three-speed passes, then the dictation track). The numbers list in their citation
 forms (§8); कति, a plural-only word whose asking form wears no visible ending, needs no
@@ -426,7 +425,7 @@ extra dress today.
 
 Back on duty from Volume 1, review rows only — no re-entry to the ledger: **कति** (kati)
 /kɐt̪i/ "how many?" — कितने, कितनी — a §14 headword since v1.c02.l01 (answered with
-fingers there, with एक from v1.c02.l04), today handed the whole count and a seat in the
+fingers there, with एक from v1.c02.l04), today handed the whole count at the head of the
 question kit (§15), its shelf row beside *quot* (§13); and **दश** (daśa) "ten" — दस —
 readable since v1.c04, Latin sibling *decem* already on record (v1.c04.l02 §13); today it
 takes its place at the top of the count.
@@ -442,7 +441,7 @@ helper vowel at any speed.
 
 ## 15. Grammar
 
-व्याकरणम् — one old asker newly enrolled, one grown chant, and a firm honesty line.
+व्याकरणम् — one old asker back on duty, one grown chant, and a firm honesty line.
 
 > **[FACT · तथ्यम्]** (1) The forms एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश are the
 > citation names this course uses for the numbers (from five to ten the dictionaries'
@@ -454,17 +453,17 @@ helper vowel at any speed.
 > quantity, and its answer may stand bare: कति? — पञ्च! [REF:apte1890 s.v. कति]
 > [REF:whitney1889]
 
-### The question kit — now seven
+### The question kit — seven askers
 
 | Asker | Asks | Since |
 |---|---|---|
+| कति | how many? | v1.c02.l01 — counting duty **today** |
 | कः | who? | v1.c02.l06 |
 | कुतः | from where? | v1.c02.l06 |
 | किम् | what? | v1.c05.l01 |
 | का | who? (f) — the कः/का pair | v1.c06.l02 |
 | कथम् | how? | v2.c01.l02 |
 | कुत्र | where? | v2.c02.l04 |
-| कति | how many? | v1.c02.l01 — joins the kit today |
 
 One family, one ancient k at the front of every asker. कति's whole job description:
 point, ask, and accept a bare number back.
@@ -646,7 +645,7 @@ to ten, from memory in Devanagari. Self-check: every answer bare, every question
 4. (b) — the honest split of the v1.c04.l01 row (§13).
 5. (a) — bare answers are the taught, standard pattern (§15). ((b) and (c) are §12's
    mistake 6.)
-6. (b) — review duty, not a ledger entry; four new + two review (कति, दश), 285 → 289 (§14).
+6. (b) — review duty, not a ledger entry; four new + two review (कति, दश), 279 → 283 (§14).
 7. (b) — spaced retrieval on schedule (§3, §5).
 8. (b) — counting dress, honestly labeled (§15); from six on it matches the citation names — an
    observation, not a law.
@@ -672,7 +671,7 @@ forms, system deferred (§15). Ex. 5 set: षट् · सप्त · अष्
 > कति. **The fix:** October, November, December are Latin counting its own calendar;
 > अष्ट ~ octō are siblings — no arrow on the shelf. **The split:** नव "nine" and नव
 > "new" — two words, two cousins (*nine*, *new*). **The ledger:** four new + two review
-> (कति, दश) — 285 → 289.
+> (कति, दश) — 279 → 283.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -719,7 +718,7 @@ dictation launch (3) → exercises, homework, teach-back brief (2).
 
 **Board work:** two horizontal rails — a curled-tongue icon over षट् · अष्ट, a teeth icon
 over सप्त · दश, नव and कति between them. Beside it, the month ribbon from the story card:
-March first, slots 8-9-10 highlighted. Keep one corner for the ledger tick: 285 → 289.
+March first, slots 8-9-10 highlighted. Keep one corner for the ledger tick: 279 → 283.
 
 **Run the October fix as a gift, not a scolding.** Someone in the room learned "November
 comes from नव" from a poster, a relative, or the 1.x edition of this very course — nobody
@@ -796,14 +795,14 @@ Lesson video, ~6 min, presenter + motion graphics.
 3. **The chant grows (2:00–3:00):** lesson 1's five chant tiles slide left; षट् सप्त
    अष्ट नव दश snap on; a metronome bar keeps the beat; त्रीणि's ण glows once ("the hidden
    curl").
-4. **कति joins the kit (3:00–4:00):** the six askers march past — कः का किम् कुतः कथम्
-   कुत्र — and कति falls in line; quick volley: a hand deals objects, कति? — bare answers
+4. **कति back on duty (3:00–4:00):** the six askers march past — कः का किम् कुतः कथम्
+   कुत्र — and कति, the oldest of them, steps to the head of the line; quick volley: a hand deals objects, कति? — bare answers
    land with a click: सप्त! नव!
 5. **The October fix (4:00–5:10):** the Roman year ribbon unrolls from March; slots
    8-9-10 light up as octō, novem, decem count themselves; beside it the Sanskrit column
    अष्ट नव दश descends from the same node; the "no arrow" caption lands. A two-leaf badge
    splits नव into nine and new.
-6. **Recap + CTA (5:10–6:00):** the shelf card assembles; the ledger ticks 285 → 289.
+6. **Recap + CTA (5:10–6:00):** the shelf card assembles; the ledger ticks 279 → 283.
    End card: "Next: कालः — the time words arrive, and one of them sailed in from Greek."
 
 ## 25. Voice-over Script
@@ -828,7 +827,7 @@ narrator reads the cue, not the English spelling.
   beside octō? Siblings — one ancestor, two heirs, no arrow. Bonus honesty: nava "nine"
   and nava "new" are two different words — English kept their cousins apart: nine, and
   new.
-- **05:10** Two hundred eighty-nine words. Count anything today — kati? — and answer it bare.
+- **05:10** Two hundred eighty-three words. Count anything today — kati? — and answer it bare.
   Next: kālaḥ [kɑːlɐh] — the time words, and an hour that sailed into Sanskrit from
   Greek.
 
@@ -874,7 +873,7 @@ narrator reads the cue, not the English spelling.
   stems 1–5, एक's honest no-cognate line) and v1.c04.l01 (नव "new; nine" — the
   double-gloss row split in §13); builds on v1.c04.l02 (दश and the decem line),
   v1.c03.l03 (the retroflex varga), v1.c05.l05 (digits ०–९), v2.c01.l02 and v2.c02.l04
-  (the question kit, grown to seven here; the और → च correction pattern reused in §13),
+  (the question kit, all seven askers tabled here; the और → च correction pattern reused in §13),
   v2.c02.l05 (direction-card toolkit, extended by the November card); feeds v2.c03.l03
   (कालः — Time Words: the deictic trio and होरा's reversed arrow — next lesson),
   v2.c03.l04 (the week), v2.c03.l05 (exam: Station 2 re-runs this lesson; task C counting
@@ -885,9 +884,8 @@ narrator reads the cue, not the English spelling.
   new glossary terms. All headwords are classical vocabulary — no classical/modern usage
   labels needed this lesson (the register work is cognate-direction honesty, §13/§18).
 - **Export notes:** ledger corrected against the chapter plan, which listed कति as new:
-  four ledger-new headwords — **285 → 289** (chain 282 → 285 → 289 → 296 → 304 pending
-  sibling re-count — l01's एक was already a v1.c02.l04 headword; reconcile against
-  sibling §14 tables at review). नव "nine" exports as a **split row**: new headword with
+  four ledger-new headwords — **279 → 283** (chain 277 → 279 → 283 → 289 → 297;
+  l01's एक, already a v1.c02.l04 headword, is a review row there, as कति is here). नव "nine" exports as a **split row**: new headword with
   `splits: नव (v1.c04.l01, "new; nine")`; the v1.c04.l01 row re-exports as नव "new" only
   — the two rows must never re-merge. दश and कति — a v1.c02.l01 headword — export
   flagged review-duplicate, not new.

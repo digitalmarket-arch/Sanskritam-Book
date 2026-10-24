@@ -21,7 +21,7 @@ recognition), the two ayogavāha (अं अः) given the full treatment that v
 up, and ॐ met honestly — its phonetics as fact, its meaning as tradition. No new consonants
 arrive: every new word is built from Chapter 1's क म त ल, so all attention stays on the
 vowels — and the readable vocabulary still grows from 12 words to 54, including the payoff
-moment when अमृत, an ear-word since lesson 3, becomes readable.
+moment when अमृत, an ear-word since v1.c01.l03, becomes readable.
 
 ## Goals
 

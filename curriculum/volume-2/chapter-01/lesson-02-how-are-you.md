@@ -261,7 +261,7 @@ question); the कथम्-question keeps the level tune, because the question 
 Volume 1 closed at 237 readable words; lesson 1's greeting kit brought the ledger to
 240. Today's four — कथम्, कुशलम्, कुशली, सर्वम् — add three ledger entries, since सर्वम्
 is an upgrade of the already-counted सर्व (it adds a form, not a ledger word): the
-ledger stands at 243, and the 250 door is next lesson's to open. Everything else in this lesson, both scenes and the
+ledger stands at 243, and the 250 door opens in lesson 4. Everything else in this lesson, both scenes and the
 story included, is built from words you already own.
 
 ## 9. Pronunciation

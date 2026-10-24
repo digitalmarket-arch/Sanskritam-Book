@@ -55,7 +55,7 @@ detective stories about direction. Your calendar's November really does contain 
 sailed the other way: होरा came INTO Sanskrit from Greek. Today you prove all of it:
 count to ten with a tongue that knows dental from retroflex, read a month written in
 Devanagari digits, run अद्य-श्वः-ह्यः around a real week — and sort nine claims where
-the winning answer is the honest arrow. Twenty-two ledger-new words this chapter.
+the winning answer is the honest arrow. Twenty ledger-new words this chapter.
 Time to show they count.
 
 ## 2. Learning Objective
@@ -345,17 +345,17 @@ cognates. **Reject** — and the correction is the full answer.
 
 ## 14. Vocabulary
 
-शब्दावली — no new words on exam day; the chapter ledger, complete: 282 entering
-(per v2.c02.l05 §14) + 22 ledger-new — l01 2, l02 5, l03 7, l04 8 — **304 readable
-words**. *Note:* counts verified against the sibling §14 tables on disk: 282 → 284 →
-289 → 296 → 304 (l04 §27 concurs). The exam sheet's word bank samples all four
+शब्दावली — no new words on exam day; the chapter ledger, complete: 277 entering
+(per v2.c02.l05 §14) + 20 ledger-new — l01 2, l02 4, l03 6, l04 8 — **297 readable
+words**. *Note:* counts verified against the sibling §14 tables on disk: 277 → 279 →
+283 → 289 → 297 (l04 §27 concurs). The exam sheet's word bank samples all four
 lessons. Protocol as always: block by block, whole word, full finals, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | चतुर् · त्रि | catur · tri | — | four · three | — | l01, 2 headwords + the chant (एक is a review row, ✓ v1.c02.l04) — full rows: l01 §14 |
-| षट् · सप्त · अष्ट · नव · कति | ṣaṭ · sapta · aṣṭa · nava · kati | — | six · seven · eight · nine · how many? | — | l02, 5 headwords — full rows: l02 §14 |
-| कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | time · today · tomorrow · yesterday · year · week · hour | — | l03, 7 headwords (मासः upgraded) — full rows: l03 §14 |
+| षट् · सप्त · अष्ट · नव · कति | ṣaṭ · sapta · aṣṭa · nava · kati | — | six · seven · eight · nine · how many? | — | l02, 4 ledger-new headwords (कति is a review row, ✓ v1.c02.l01; दश also returns as a review row) — full rows: l02 §14 |
+| कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | time · today · tomorrow · yesterday · year · week · hour | — | l03, 6 ledger-new headwords + 2 upgrade rows (कालः and मासः, ledger untouched) — full rows: l03 §14 |
 | वासरः · रविवासरः … शनिवासरः | vāsaraḥ · ravivāsaraḥ … śanivāsaraḥ | — | day of the week + the seven names | — | l04, 8 headwords — full rows: l04 §14 |
 
 ## 15. Grammar
@@ -544,7 +544,7 @@ rubric.
 > कालः अद्य श्वः ह्यः मासः वर्षम् सप्ताहः होरा. **The week:** वासरः and the seven
 > X-वासरः names, honestly dated. **The arrows, complete:** none (अष्ट ~ octō) · east
 > (dharma →) · west (→ होरा) · both-borrowed (*hour* ~ होरा). **The fix:** November
-> is Latin's own nine. **The ledger:** 304 — 282 entering + 22 new.
+> is Latin's own nine. **The ledger:** 297 — 277 entering + 20 new.
 
 Schedule [REF:cepeda2006]: **+1 day** — re-run the dictation and one counting take
 cold. **+1 week** — v2.c04.l01's Station 0 re-runs tasks C and D compressed. **Before
@@ -651,7 +651,7 @@ Lesson video (8–10 min), scene list:
 4. The direction sort (6:00–7:30): nine cards fly; card 1 hovers, flips to reject as
    the Latin calendar counts itself; card 4 grows two arrows from one Greek node —
    one through Latin and French to *hour*, one — the arrow west — to होरा.
-5. Outro (7:30–9:00): the ledger counter ticks to 304; the four-arrow chart
+5. Outro (7:30–9:00): the ledger counter ticks to 297; the four-arrow chart
    assembles; end card: "Next: क्रियाः — the verbs arrive, and sentences get
    engines."
 
@@ -673,7 +673,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 06:00 — "The cards. 'November comes from nava [n̪ɐʋɐ]' — reject, with love: novem
   is Latin's own nine. And horā [ɦoːɾɑː] — an hour that sailed INTO Sanskrit from
   Greek. Arrows exist. Draw them right."
-- 07:30 — "Three hundred four words. Next: the verbs — and every sentence you
+- 07:30 — "Two hundred ninety-seven words. Next: the verbs — and every sentence you
   own gets an engine. śvaḥ [ɕʋɐh] — tomorrow — we conjugate."
 
 ## 26. Reel Script
@@ -704,8 +704,8 @@ verbs arrive." (End card: संख्याः कालश्च।)
   (§16).
 - **Rubric home:** §22; export flag `assessment: true`.
 - **Integrator notes:** ledger arithmetic confirmed against the sibling §14 tables:
-  282 entering + 22 (l01 2 · l02 5 · l03 7 · l04 8) = **304**; chain 282 → 284 →
-  289 → 296 → 304. §19 task keys are the single source for the audio/exam key
+  277 entering + 20 (l01 2 · l02 4 · l03 6 · l04 8) = **297**; chain 277 → 279 →
+  283 → 289 → 297. §19 task keys are the single source for the audio/exam key
   files.
 - **Verification flags for Pass C:** the nine D-cards diffed against l02 §13
   (month-name fix, नव split), l03 §13 (होरा loan), l04 §4/§13/§15 (week dating, वासर

@@ -315,7 +315,7 @@ voiceless breath, the व a light touch, every final [ɐ] full: /ɾɑːmɐ/, nev
    move; no closure, no [dʒ].
 4. **The व/ब blur (Hindi regional habit).** Where the mother tongue says ब्याह for विवाह, संस्कृत व can
    drift lips-together into ब. *Fix:* the lip check — for व the lips never meet each other, only the
-   teeth; drill ब-व, बा-वा at the mirror. (Keeping ब fully lips-together was l05's parting advice.)
+   teeth; drill ब-व, बा-वा at the mirror. (Keeping ब fully lips-together was v1.c03.l05's parting advice.)
 
 ## 13. Examples
 
@@ -485,7 +485,7 @@ and no 🔊: **every word is self-read.**
    (kokilaḥ kūjati. kaviḥ vadati.) "The cuckoo coos; the poet speaks." — कोयल कूकती है। कवि बोलता है।
 
 A poet's first poem is a list of names — he walks into the forest and *names* it. The shouts वन! वायु!
-रवि! जय! are the naming form you know from l05's फल! — pointing with the voice; dressed for full
+रवि! जय! are the naming form you know from v1.c03.l05's फल! — pointing with the voice; dressed for full
 sentences these words would wear endings (Chapter 5 and Volume 3 machinery). The closing line is
 a true duet — two voices, the cuckoo's and the poet's, read entirely by you.
 

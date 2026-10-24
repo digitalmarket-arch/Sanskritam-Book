@@ -485,7 +485,7 @@ the honesty.
 
 ## 14. Vocabulary
 
-शब्दावली — one headword, ledger-new; **312 → 313** (counts reconciled at review, as
+शब्दावली — one headword, ledger-new; **304 → 305** (counts reconciled at review, as
 always). Audio: 🔊 `planned:assets/audio/volume-2/v2c04l02-pattern-table.mp3` (the word in
 its trio, twice, then the table at three speeds and the dictation track). A grammar
 lesson's list is short on purpose: today's load is the pattern, not new words.
@@ -572,7 +572,7 @@ key waits in §19. (One of them you have half-met already — हसामि, u
 | Person | Pronoun | Form | Gloss | Status |
 |---|---|---|---|---|
 | I | अहम् | अस्मि | I am | ✓ v1.c05.l02 |
-| you | त्वम् | असि | you are | **new today — ledger 313** |
+| you | त्वम् | असि | you are | **new today — ledger 305** |
 | he/she/it | सः · सा | अस्ति | he/she/it is | ✓ v1.c05.l02 |
 
 The tails are the same three — -मि, -सि, -ति — on a front of their own. Learn the trio
@@ -868,7 +868,7 @@ fact; three designs, each doing the job (§5); (f) **reject** — शृणो�
 > regular bank verb the same. **The trio:** अस्मि · असि · अस्ति — and त्वम् कः? still
 > stands. **The guests, whole:** शृणोमि शृणोषि शृणोति · जानामि जानासि जानाति. **The
 > agreement:** अहम् गच्छति is THE error. **The map:** Sanskrit fully, Hindi partly,
-> English one -s — no ranking. **The ledger:** one new — 313.
+> English one -s — no ranking. **The ledger:** one new — 305.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -998,8 +998,8 @@ Lesson video, ~6 min, presenter + motion graphics.
    lights up; Hindi lane — the helpers light; Sanskrit lane — every tail lights. Caption:
    "three designs — a map, not a ranking."
 6. **Recap + CTA (4:50–6:00):** the trio अस्मि असि अस्ति clicks together; the guests'
-   whole-word cards appear with a small "Volume 4" tag; the ledger counter ticks 312 →
-   313. End card: "Next: किम् करोषि? — What Are You Doing?"
+   whole-word cards appear with a small "Volume 4" tag; the ledger counter ticks 304 →
+   305. End card: "Next: किम् करोषि? — What Are You Doing?"
 
 ## 25. Voice-over Script
 
@@ -1020,7 +1020,7 @@ narrator reads the cue, not the English spelling.
   Hindi: मैं करता हूँ, वह करता है — the helper carries it. Sanskrit: the tail. Three
   designs. A map, not a ranking.
 - **04:50** The trio: asmi [ɐsmi], asi [ɐsi], asti [ɐst̪i]. Two guests, kept whole:
-  śṛṇoṣi [ɕr̩ɳoːʂi], jānāsi [d͡ʑɑːn̪ɑːsi]. Three hundred thirteen words — and now they know
+  śṛṇoṣi [ɕr̩ɳoːʂi], jānāsi [d͡ʑɑːn̪ɑːsi]. Three hundred five words — and now they know
   who is speaking. punaḥ milāmaḥ [pun̪ɐh milɑːmɐh]!
 
 ## 26. Reel Script
@@ -1075,8 +1075,8 @@ narrator reads the cue, not the English spelling.
   school grammar's अन्य पुरुष = Sanskrit प्रथम. First taught as terms in v2.c04.l02;
   glossed in Hindi at first occurrence (§7) per STYLE_GUIDE §1.2. Reuses क्रिया per
   v2.c04.l01's candidate entry.
-- **Export notes:** one headword, ledger-new — **312 → 313**; chapter chain 305 → 312 →
-  313 → 316 → 316 (reconcile at review). असि exports as a NEW row with `trio: [अस्मि,
+- **Export notes:** one headword, ledger-new — **304 → 305**; chapter chain 297 → 304 →
+  305 → 308 → 308 (reconcile at review). असि exports as a NEW row with `trio: [अस्मि,
   असि, अस्ति]`. शृणोमि, शृणोषि, जानामि, जानासि export as `display` rows (`form_of:
   शृणोति / जानाति`, `stem_note: "builds its stem differently"`) — never headwords, no
   class numbers in any field. Regular forms (गच्छामि … हससि) export as `form_of` their

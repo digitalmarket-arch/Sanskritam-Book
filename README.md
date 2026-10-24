@@ -79,5 +79,6 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md), then the style guide and editoria
 
 ## Status
 
-Bootstrapped 2026-07-20. Volume 1 Chapter 1 (प्रवेशः — Entering Sanskrit Sound) is the first
-production chapter. See [CHANGELOG.md](CHANGELOG.md).
+Bootstrapped 2026-07-20. Volume 1 (Sounds & Script) is content-complete — 31 lessons, all
+reviewed; Volume 2 (Words & Sentences) is in production. Chapter status: [ROADMAP.md](ROADMAP.md);
+history: [CHANGELOG.md](CHANGELOG.md).

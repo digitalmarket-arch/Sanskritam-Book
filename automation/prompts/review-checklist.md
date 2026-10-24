@@ -10,7 +10,7 @@ Consumes: a whole lesson file. Executes EDITORIAL_GUIDELINES §4. Log every find
       rest by hand — tables, headings, dialogue lines)
 - [ ] Every IPA string checked cell-by-cell against STYLE_GUIDE §2 (no invented values)
 - [ ] Stroke-order descriptions match the actual glyph
-- [ ] Vowel length marked everywhere in IAST (ā ī ū ṛ)
+- [ ] Vowel length and diacritics marked everywhere in IAST (ā ī ū ṝ; underdot on ṛ ḷ)
 - [ ] No Hindi-style romanization anywhere
 
 ## Pass B — Hindi

@@ -286,8 +286,8 @@ second job, *makes*, with an object of its own.
 
 ### The ledger
 
-Lesson 1 brought the bank and the ledger to 312; lesson 2 named the pattern, added असि,
-and reached 313. Today's three — करोति, अन्नम्, क्षीरम् — bring it to **316**. करोमि and
+Lesson 1 brought the bank and the ledger to 304; lesson 2 named the pattern, added असि,
+and reached 305. Today's three — करोति, अन्नम्, क्षीरम् — bring it to **308**. करोमि and
 करोषि are not separate ledger words: they are the same word करोति, learned as whole-word
 chunks of one family. Everything else in this lesson is yours already.
 
@@ -420,7 +420,7 @@ safe ground now, glossed whole, exactly as they have been for a volume.
 
 ## 14. Vocabulary
 
-शब्दावली — three headwords; the ledger moves 313 → 316 (counts reconciled at review, as
+शब्दावली — three headwords; the ledger moves 305 → 308 (counts reconciled at review, as
 always). Audio: 🔊 `planned:assets/audio/volume-2/v2c04l03-word-list.mp3` (each word
 twice, the family row at three speeds, then the dictation track).
 
@@ -717,7 +717,7 @@ the recording — lesson 5's exam task C asks for this family again, under time.
 > no swap in the reporter round. **The polite round:** भवान् किम् करोति? — भवान् walks
 > with the करोति-form. **The objects:** अन्नम् खादति · क्षीरम् पिबति · फलम् खादामि — म्
 > observed, nothing legislated. **The tune:** किम् asks, so the question stays level.
-> **The ledger:** three — 316.
+> **The ledger:** three — 308.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -854,7 +854,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    सः — one honest line, no paradigm". The teacher's answer lands: अहम् अपि लिखामि।
    सर्वम् पश्यामि! — class laughter.
 6. **Recap + CTA (5:00–6:00):** the chunk row, the swap arrow, and the two object words
-   reassemble on one card; the ledger ticks to 316. End card: "Next: क्रियाकथा — a whole
+   reassemble on one card; the ledger ticks to 308. End card: "Next: क्रियाकथा — a whole
    day told in verbs."
 
 ## 25. Voice-over Script
@@ -941,8 +941,8 @@ narrator reads the cue, not the English spelling.
   (the अस्मि-असि-अस्ति precedent), never separate ledger rows. Word order fixed as किम्
   त्वम् करोषि? / भवान् किम् करोति? per the fact-base frames; both orders are classical,
   one is drilled.
-- **Export notes:** ledger per the chapter plan: three headwords, **313 → 316** (chain
-  305 → 312 → 313 → 316; reconcile at review). करोमि and करोषि export as `chunk_of:
+- **Export notes:** ledger per the chapter plan: three headwords, **305 → 308** (chain
+  297 → 304 → 305 → 308; reconcile at review). करोमि and करोषि export as `chunk_of:
   करोति`, not as ledger rows; भवान् किम् करोति? exports as `polite_variant` of the
   doing-question frame. Export "karati", "karasi", "karāmi" (regularized inventions),
   "karosi" (ष dropped), "gacchaṣi" (ष overreach), and the person-mismatch exemplar अहम्

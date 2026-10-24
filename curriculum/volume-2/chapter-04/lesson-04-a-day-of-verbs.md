@@ -428,8 +428,8 @@ The only line nobody in the story is asked. Its answer is yours, in the I-form, 
 
 ## 14. Vocabulary
 
-शब्दावली — **no new words — the chapter's bank at work; ledger 316 (305 + 11 this
-chapter).** The chain stays 305 → 312 → 313 → 316 → **316**: l01 seven, l02 one, l03
+शब्दावली — **no new words — the chapter's bank at work; ledger 308 (297 + 11 this
+chapter).** The chain stays 297 → 304 → 305 → 308 → **308**: l01 seven, l02 one, l03
 three, l04 none. Every word of the passage was checked against the ledger before
 drafting; the table below is that check, printed — review rows only, none counted.
 Audio: 🔊 `planned:assets/audio/volume-2/v2c04l04-passage-three-speeds.mp3`.
@@ -756,7 +756,7 @@ sentences of your मम दिनम् (§21).
 > the tail before you move on — a skimmed -मि is a changed doer. **The mirror:** बालिका
 > and सा, every verb unchanged — Sanskrit marks person, not gender. **The fence:**
 > singular, present, objects whole. **The protocol:** slow, natural, timed — under 45
-> seconds, zero clipped finals, zero swapped endings. **The ledger:** no new words — 316.
+> seconds, zero clipped finals, zero swapped endings. **The ledger:** no new words — 308.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -959,7 +959,7 @@ narrator reads the cue, not the English spelling.
   real quotations with इति).
 - **Glossary:** no new glossary terms. क्रियाकथा is the lesson's own transparent title
   compound — display only, not a glossary candidate.
-- **Export notes:** vocabulary_count 0; ledger stays **316** (305 + 11 this chapter:
+- **Export notes:** vocabulary_count 0; ledger stays **308** (297 + 11 this chapter:
   l01 7 · l02 1 · l03 3 · l04 0). The §14 table exports every row as `review: true` —
   none increments the ledger; लिखामि, जानामि and करोषि export as `form_of` their
   headwords (लिखति, जानाति, करोति); अर्जुनः is a proper name, excluded from counts and

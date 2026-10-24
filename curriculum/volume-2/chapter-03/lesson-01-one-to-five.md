@@ -370,7 +370,7 @@ calendar. No spoilers today.
 
 ## 14. Vocabulary
 
-शब्दावली — two headwords, both ledger-new; **282 → 284** (counts reconciled at review,
+शब्दावली — two headwords, both ledger-new; **277 → 279** (counts reconciled at review,
 as always). Audio: 🔊 `planned:assets/audio/volume-2/v2c03l01-word-list.mp3` (each word
 twice, three-speed passes, then the dictation track). The stems are listed in citation
 dress — that is the point of them (§15).
@@ -580,7 +580,7 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
 3. (c) — the honestly empty slot; reaching is how 1.x went wrong (§13).
 4. (c) — siblings, no arrow — the shelf's standing law (§13).
 5. (a) — descent runs downward inside Indo-Aryan, exactly like गृह → घर (§7, §14).
-6. (b) — mentions are not headwords; the ledger counts honestly, 282 → 284 (§13, §14).
+6. (b) — mentions are not headwords; the ledger counts honestly, 277 → 279 (§13, §14).
 7. (b) — tap and stop (§10, §11 check 3). ((a) is §12's mistake 2.)
 8. (a) — bare answers are the taught form; (b) names real Sanskrit the course defers —
    simplest correct beats ambitious wrong (§15); (c) and (d) are Hindi habits (§12).
@@ -608,7 +608,7 @@ word.
 > **The shelf:** द्वि ~ duo ~ two · त्रि ~ trēs ~ three · चतुर् ~ quattuor ~ four ·
 > पञ्च ~ pénte ~ five — no arrows anywhere; एक's slot honestly empty. **The fence:** no
 > number meets a plural noun before Volume 4; cards answer with the bare name — त्रि! —
-> counts close on the chant word — त्रीणि! **The ledger:** two new — 282 → 284.
+> counts close on the chant word — त्रीणि! **The ledger:** two new — 277 → 279.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -802,8 +802,8 @@ the narrator reads the cue, not the English spelling.
 - **Glossary:** reuses विसर्ग, मात्रा, संयुक्ताक्षर, हलन्त per GLOSSARY.md; no new
   glossary terms. The register work this lesson is cognate-direction honesty and
   ledger honesty (§13, §14).
-- **Export notes:** two headwords, both ledger-new — **282 → 284** (cumulative
-  readable words: 284; the chapter chain continues 284 → 289 → 296 → 304, confirmed
+- **Export notes:** two headwords, both ledger-new — **277 → 279** (cumulative
+  readable words: 279; the chapter chain continues 279 → 283 → 289 → 297, confirmed
   against the sibling §14 tables on disk (per v2.c03.l04 §27; l05's arithmetic was
   provisional) — reconcile the usual ≈ at review). त्रि exports as a NEW
   ledger row with `mention_history: [v1.c01.l01, v1.c05.l03]` — cognate mentions,

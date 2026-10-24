@@ -5,7 +5,7 @@ pp.30–31) taught the correct stems एक–दश and then printed the deriva
 — "Many English words come from these! Tri-angle, Oct-agon, Nov-ember, Dec-ember" and
 "दश (10) → December, Decimal". This chapter delivers the banned-claim fix in the
 curriculum itself: cognates, not derivation; the month names are Latin's own arithmetic.
-Entering ledger: ≈282 (reconciled at c02 review).
+Entering ledger: 277 (reconciled at c02 review).
 
 ---
 
@@ -34,23 +34,24 @@ beats reaching), चतुर् ~ quattuor/four. Counting drills with digit car
 
 ## 2. L2 — षडादिदशान्ताः: six to ten + the October fix (vocabulary)
 
-**New (~5):** षट् /ʂɐʈ/, सप्त /sɐpt̪ɐ/, अष्ट /ɐʂʈɐ/, नव-nine (0.4 split row), दश
-(✓v1.c04 review; ledger check), कति /kɐt̪i/ (0.5). THE FIX (0.3) as §13's centerpiece:
+**New (4):** षट् /ʂɐʈ/, सप्त /sɐpt̪ɐ/, अष्ट /ɐʂʈɐ/, नव-nine (0.4 split row); reviews दश
+(✓v1.c04) and कति /kɐt̪i/ (0.5; ✓v1.c02.l01 — identical headword, review row, corrected at audit). THE FIX (0.3) as §13's centerpiece:
 the month-name story told right — Latin counting its own old calendar; अष्ट ~ octō
 siblings. The 1.x error quoted and corrected (kindly, as the course did for और).
 कति? drills with bare-number answers; digit-name pairing drills १–१०.
 
 ## 3. L3 — कालः: time words (vocabulary)
 
-**New (~7):** कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा (0.7 — the Greek-loan
-showcase: the loan-direction kit completes). मासः review-upgrade (ः-dress). Frames:
+**New (6):** अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा (0.7 — the Greek-loan
+showcase: the loan-direction kit completes). कालः (✓v1.c01.l04 as काल) and मासः (✓v1.c04 as मास)
+are upgrade rows (ः-dress) — drilled, not ledger-new; corrected at audit. Frames:
 अद्य कः वासरः? NO — वासरः is l04's; keep अद्य सोमवारः?? no. Frames: अद्य किम्? श्वः
 किम्? with day-cycle words from v2.c01.l03 (अद्य प्रभातम् अस्ति। etc.). ह्यः/श्वः/अद्य
 trio drills. सप्ताहः = सप्त + अह transparency.
 
 ## 4. L4 — वासराः: the week (vocabulary)
 
-**New (~8):** वासरः "day (of the week)" + the seven: रविवासरः सोमवासरः मङ्गलवासरः
+**New (8):** वासरः "day (of the week)" + the seven: रविवासरः सोमवासरः मङ्गलवासरः
 बुधवासरः गुरुवासरः शुक्रवासरः शनिवासरः — count honestly (वासरः + 7 names = 8; the
 planet first-members रवि/गुरु are ledger words already — v1.c04.l01; सोम is NOT,
 corrected at review — सोम/मङ्गल/बुध/शुक्र/शनि arrive
@@ -83,7 +84,8 @@ questions and present three dates aloud. Gates v2.c04 (क्रियाः —
 - Weekday-name attestation (0.8) — vague dating enforced; no "Vedic week" claim.
 - चत्वारि/द्वे/त्रीणि counting forms — display/chant only; no agreement teaching.
 - Month-name etymologies (0.3) — OED-checkable; the corrective framed warmly.
-- Ledger: ≈282 + 22 ≈ 304 — एक is a v1.c02.l04 row (review, not ledger-new; l01's
-  new pair is त्रि, चतुर्; corrected at audit); reconcile at review.
+- Ledger: 277 + 20 = 297 (277 → 279 → 283 → 289 → 297) — एक is a v1.c02.l04 row and
+  कति a v1.c02.l01 row (review, not ledger-new; l01's new pair is त्रि, चतुर्); कालः and
+  मासः are upgrade rows in l03 (corrected at audit); reconciled at review.
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.

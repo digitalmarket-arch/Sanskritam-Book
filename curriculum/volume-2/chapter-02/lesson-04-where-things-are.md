@@ -49,7 +49,7 @@ updated: 2026-08-02
 ## 1. Hook
 
 Today's haul is two words, and one of them is a single letter. With the first you can ask where
-anything in your 278-word world is. With the second you can join any two things you own — mother
+anything in your 275-word world is. With the second you can join any two things you own — mother
 and father, river and tree, moon and star — using the same little connector Rome carved into its
 monuments, in the same odd position: *behind* the words it joins. Along the way this lesson
 repairs one old error kindly, keeps a promise made back in Volume 1, and finally lets you read
@@ -251,8 +251,8 @@ joining system is Volume 3's subject; the full unpacking is in §13.
 
 ### The ledger
 
-The chapter entered at 260 readable words; three lessons of family and world have brought the
-ledger to 278. Today adds exactly two — कुत्र and च — for **280**. Smallest haul of the
+The chapter entered at 258 readable words; three lessons of family and world have brought the
+ledger to 275. Today adds exactly two — कुत्र and च — for **277**. Smallest haul of the
 volume so far, largest reach: with these two, every word you own can now be asked about, found, and
 joined to its neighbor.
 
@@ -320,8 +320,8 @@ where/whence contrast hangs on that final beat.
    mouth. *Fix:* the correction, kindly: और is Hindi; Sanskrit's connector is च, and it
    follows — माता पिता च अत्र। (§4, §8).
 3. **कुत्र and कुतः merged.** Asking कुतः when you mean "where at". *Fix:* -त्र = place *at*,
-   -तः = place *from* (ततः — literally "from there" — has been yours since Volume 1 as
-   "then"); §9 drill 3 until the final beat sorts them.
+   -तः = place *from* (इतः "from here" has been yours since v1.c02.l06 — and ततः, met
+   there as "then", is literally "from that"); §9 drill 3 until the final beat sorts them.
 4. **The dual temptation.** Reaching for a verb with joined subjects — सीता रामः च अत्र स्तः —
    because English says "are". स्तः "the two are" is real Sanskrit, but it is later machinery,
    and half-taught machinery breaks. *Fix:* today the verbless frame carries joined subjects:
@@ -377,7 +377,7 @@ two nouns and one enclitic, wearing one seam. जगच्च joins the seams al
 
 ## 14. Vocabulary
 
-शब्दावली — two headwords, both new to the ledger, taking it from 278 to 280. No 🔊 loans;
+शब्दावली — two headwords, both new to the ledger, taking it from 275 to 277. No 🔊 loans;
 both words read at sight. Audio: 🔊 `planned:assets/audio/volume-2/v2c02l04-word-list.mp3`
 (each word twice, kit recitals, dictation track).
 
@@ -589,7 +589,7 @@ Station 4 and quiz Q8 in rehearsal.
 > behind — रामः सीता च; doubled च…च = "both…and"; never sentence-first. **The correction:**
 > और is Hindi; Sanskrit's "and" is च. **The deferral:** joined subjects ride the verbless
 > frame — माता पिता च अत्र। **The preview:** जगत् + च = जगच्च; pause form जगत् च; system in
-> Volume 3. **The words:** two — the ledger at 280.
+> Volume 3. **The words:** two — the ledger at 277.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 

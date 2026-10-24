@@ -6,7 +6,7 @@ lakāras dumped with zero prior conjugation practice). Salvage: the 1.x 10-verb 
 (PDF p.40 — verbs correct: गच्छति पठति खादति पिबति हसति वदति पश्यति शृणोति लिखति
 जानाति) and its singular ending pattern (-आमि/-असि/-अति — correct as far as it went).
 2.0 teaches the same ground with stem-honesty and production practice. Entering ledger:
-305 (confirmed at c03 review).
+297 (confirmed at c03 review).
 
 ---
 
@@ -46,8 +46,8 @@ English barely: I go/you go/he goES).
 
 ## 3. L3 — किम् करोषि?: what are you doing? (conversation)
 
-**New (~3):** करोति family as chunks (करोमि करोषि करोति — 0.4; count करोति as the
-headword), अन्नम्, क्षीरम् (if not in l01). Frames: किम् त्वम् करोषि? — अहम् पठामि। ·
+**New (3):** करोति family as chunks (करोमि करोषि करोति — 0.4; count करोति as the
+headword), अन्नम्, क्षीरम् (drafted here, not in l01). Frames: किम् त्वम् करोषि? — अहम् पठामि। ·
 किम् सः करोति? — सः लिखति। Q&A chains across the bank; the doing-dialogue as the
 chapter's living scene. भवान् किम् करोति? polite variant (भवान् takes 3sg — one honest
 line, chunk-level). §12: -षि/-सि confusion (करोषि vs गच्छसि — the ष of करोषि and
@@ -55,7 +55,7 @@ line, chunk-level). §12: -षि/-सि confusion (करोषि vs गच�
 
 ## 4. L4 — क्रियाकथा: a day of verbs (reading)
 
-**New (0–2):** the passage lesson — अर्जुनः's day woven from the bank + c03 time words:
+**New (0):** the passage lesson — अर्जुनः's day woven from the bank + c03 time words:
 प्रभातम् अस्ति। अर्जुनः विद्यालयम् गच्छति। सः पुस्तकम् पठति। … सायम् अस्ति। सः गृहम्
 गच्छति। 10–12 sentences, all persons appearing (the boy 3sg; his self-talk 1sg; a
 question to the reader 2sg: त्वम् किम् करोषि?). Three-speed fluency protocol
@@ -87,8 +87,8 @@ goal arc: chapters 1–4 of Volume 2 shipped.** Gates v2.c05 (संवादः
 - असि attestation trivial; the verbless-question idiom note (0.3) kept.
 - अन्नम्/क्षीरम् s.vv. checks.
 - गच्छ- suppletion (√गम्) NOT mentioned — stem honesty without root talk; V4's story.
-- Ledger (prescribed pre-drafting, c03 exit confirmed 305): 305 + 11 (l01 7 · l02 1 ·
-  l03 3 · l04 0) = 316; chain 305 → 312 → 313 → 316 → 316; confirmed at review (every lesson
+- Ledger (prescribed pre-drafting, c03 exit confirmed 297): 297 + 11 (l01 7 · l02 1 ·
+  l03 3 · l04 0) = 308; chain 297 → 304 → 305 → 308 → 308; confirmed at review (every lesson
   §14 table and front-matter count agrees).
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.

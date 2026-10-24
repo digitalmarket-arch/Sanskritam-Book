@@ -490,7 +490,7 @@ And nearby, a parent scanning the market crowd:
 
 Housekeeping, honestly: नमः became readable last lesson — the first half of नमस्ते, as
 promised there. धन्यवादः 🔊 stays an ear-word a little longer: you have *said* it since
-lesson 1, and its ध, द and final ः are now letters you own — but its य and व arrive in
+v1.c01.l01, and its ध, द and final ः are now letters you own — but its य and व arrive in
 Chapter 4 and its न्य conjunct in Chapter 5, so your eyes wait while your mouth works. आम् 🔊 and अत्र 🔊 are old glue
 (Chapter 1); अत्र's त्र-conjunct unlocks in Chapter 5.
 

@@ -63,7 +63,7 @@ section (prastāvikā / mitralābha …) and verse.
 the Gāyatrī/Sāvitrī mantra). Tr.: Jamison & Brereton 2014.
 
 <a id="panchatantra"></a>**panchatantra** — *Pañcatantra*. Textus simplicior unless noted;
-cited by tantra and story. Tr.: Olivelle 2006 (Oxford).
+cited by tantra and story. Tr.: Olivelle 1997 (Oxford World's Classics).
 
 <a id="raghuvamsha"></a>**raghuvamsha** — Kālidāsa, *Raghuvaṃśa*. Cited sarga.verse (e.g. 1.1
 vāgarthāv iva…).
@@ -80,8 +80,9 @@ Poona 1890; revised ed. 1957–59. Cited s.v. (sub voce).
 rev. Gombrich & Benson, 2010. Model for modern self-study pedagogy.
 
 <a id="goldman2019"></a>**goldman2019** — R.P. Goldman & S.J. Sutherland Goldman,
-*Devavāṇīpraveśikā: An Introduction to the Sanskrit Language*, 3rd ed. UC Berkeley. Standard
-university coursebook; cited by chapter.
+*Devavāṇīpraveśikā: An Introduction to the Sanskrit Language*, 3rd ed., Center for South Asia
+Studies, University of California, Berkeley, 1999. Standard university coursebook; cited by
+chapter.
 
 <a id="macdonell1927"></a>**macdonell1927** — A.A. Macdonell, *A Sanskrit Grammar for
 Students*, 3rd ed., Oxford 1927. Cited by paragraph §.
@@ -92,8 +93,9 @@ Dictionary*, Oxford 1899. Cited s.v.
 <a id="oed"></a>**oed** — *Oxford English Dictionary*, Oxford University Press (online
 edition). Cited s.v. Reference for English etymologies (month names, weekday names, *hour*).
 
-<a id="whitney1889"></a>**whitney1889** — W.D. Whitney, *Sanskrit Grammar*, 2nd ed., Harvard
-1889. Cited by paragraph § (e.g. §19 on vowel a). Reference for phonology and paradigms.
+<a id="whitney1889"></a>**whitney1889** — W.D. Whitney, *A Sanskrit Grammar*, 2nd ed.,
+Leipzig: Breitkopf & Härtel; Boston: Ginn & Co., 1889. Cited by paragraph § (e.g. §19 on
+vowel a). Reference for phonology and paradigms.
 
 ## Modern scholarship: history and linguistics
 

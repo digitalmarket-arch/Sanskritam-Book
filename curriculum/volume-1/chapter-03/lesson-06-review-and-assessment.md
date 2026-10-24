@@ -317,7 +317,8 @@ as a property of the sound — as worldview it could live in SYMBOL; as phonolog
 
 शब्दावली — no new words; the **cumulative readable list**, Chapters 1–3 complete: 54 words
 carried from Chapters 1–2 (compressed below; full rows in v1.c02.l07 §14) plus 60 from
-this chapter (the lessons' 59 words plus the name कठ from l03 §17) — **114 readable words**.
+this chapter (the lessons' 59 words plus ञ, which l02 counts among its nine entries as a
+formal introduction) — **114 readable words**.
 This table is the source for tasks B and C. Reading protocol as always: block by block,
 then whole word, every vowel at full value, pause form.
 
@@ -349,6 +350,7 @@ then whole word, every vowel at full value, pause form.
 | जलज | jalaja | /d͡ʑɐlɐd͡ʑɐ/ | water-born, lotus | कमल | l02 |
 | जित | jita | /d͡ʑit̪ɐ/ | conquered | जीता हुआ | l02 |
 | कूजति | kūjati | /kuːd͡ʑɐt̪i/ | coos, warbles | कूकती है | l02 · verb 2 — कोकिलः कूजति |
+| ञ | ña | /ɲɐ/ | the palatal nasal (letter) | ञ — तालव्य अनुनासिक | l02 · formal introduction, counted among l02's nine entries |
 | घट | ghaṭa | /gʱɐʈɐ/ | pot | घड़ा | l03 · task D's logic-example card |
 | तट | taṭa | /t̪ɐʈɐ/ | shore, bank | किनारा | l03 · कूल synonym |
 | कटु | kaṭu | /kɐʈu/ | pungent, bitter | कड़वा | l03 |
@@ -361,7 +363,6 @@ then whole word, every vowel at full value, pause form.
 | गुड | guḍa | /guɖɐ/ | jaggery, raw sugar | गुड़ | l03 · watch the ड़-habit — §12 row 7 |
 | गूढ | gūḍha | /guːɖʱɐ/ | hidden, secret | गूढ़, छिपा | l03 |
 | मूढ | mūḍha | /muːɖʱɐ/ | deluded, fool | मूर्ख | l03 |
-| कठ | kaṭha | /kɐʈʰɐ/ | name of an Upaniṣad | कठ | l03 §17 · TRADITION: the Kaṭha Upaniṣad |
 | कथा | kathā | /kɐt̪ʰɑː/ | story | कथा, कहानी | l04 · §17's long-promised word |
 | दिन | dina | /d̪in̪ɐ/ | day | दिन | l04 |
 | दान | dāna | /d̪ɑːn̪ɐ/ | giving, charity | दान | l04 |

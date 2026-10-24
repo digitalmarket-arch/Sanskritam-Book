@@ -800,7 +800,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 04:30 — "Now the exam, both directions. Build: s plus tha — स्थ [st̪ʰɐ]. Dissect:
   क्ष [kʂɐ] — two letters in one costume: k, ṣa. The triple: n, t, ra — न्त्र
   [n̪t̪ɾɐ], as in mantra [mɐn̪t̪ɾɐ]."
-- 07:00 — "And now — quiet. One word, from dictation: saṃskṛtam [sɐmskr̩t̪ɐm]. The
+- 07:00 — "And now — quiet. One word, from dictation: saṃskṛtam [sɐ̃skr̩t̪ɐm]. The
   anusvāra. The weld. The vowel that is a syllable. The killer stroke. Five chapters
   on one line. Write it. Date it. Sign it."
 - 08:30 — "namaste [n̪ɐmɐst̪eː] — aham atra asmi [ɐɦɐm ɐt̪ɾɐ ɐsmi]. 'I am here.'

@@ -4,7 +4,19 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [0.9.0] — 2026-08-04
+## [Unreleased]
+
+### Fixed
+- Volume 2 word ledger corrected at audit: eight double counts removed. Four were
+  identical Volume 1 headwords counted again (पिता, नदी, एक, कति), now review rows; four
+  were sentence-dress or neuter forms of Volume 1 headwords (दिनम्, शुभम्, मेघः, कालः),
+  now upgrade rows, which never increment the ledger. The cumulative chain is now
+  237 → 258 → 277 → 297 (21 / 19 / 20 ledger-new for v2.c01–c03); the 0.7.0–0.9.0
+  entries below are restated with the corrected figures, which fall by 2, 5 and 8 at
+  the three chapter exits. v2.c04 (unreleased) shifts accordingly, eight lower: 297
+  entering, 308 exit.
+
+## [0.9.0] — 2026-10-20
 
 Volume 2 Chapter 3 — संख्याः कालश्च (Numbers & Time) complete and reviewed: the numbers
 1–10 and the calendar, carried by the course's two flagship direction-honesty stories —
@@ -27,7 +39,7 @@ that was borrowed INTO Sanskrit from Greek.
 - Review passes ran as an adversarially verified workflow (4 dimensions × 3-skeptic
   panels): 56 confirmed findings fixed, incl. one grammar blocker in model story
   content. Arrow-naming convention stated chapter-wide (name the arrow by its origin).
-- JSON exports regenerated (46 lessons); verification log extended. Ledger 282 → 305.
+- JSON exports regenerated (46 lessons); verification log extended. Ledger 277 → 297.
 
 ### Fixed
 - 1.x banned claim corrected in-curriculum: "Oct-agon, Nov-ember, Dec-ember come from
@@ -51,7 +63,7 @@ the च/कुत्र toolkit — with the 1.x और gloss corrected in-curri
 - GLOSSARY: अव्यय.
 
 ### Changed
-- JSON exports regenerated (41 lessons); verification log extended. Ledger 260 → 282.
+- JSON exports regenerated (41 lessons); verification log extended. Ledger 258 → 277.
 
 ## [0.7.0] — 2026-08-02
 
@@ -74,11 +86,11 @@ modern spoken convention — taught proudly, labeled truthfully.
 - GLOSSARY: अभिवादन, शिष्टाचार.
 
 ### Changed
-- Cumulative ledger reconciled across parallel drafts: 237 → 260 (23 ledger-new,
+- Cumulative ledger reconciled across parallel drafts: 237 → 258 (21 ledger-new,
   26 headwords drilled).
 - JSON exports regenerated for all 36 lessons; verification log extended.
 
-## [0.6.0] — 2026-07-31
+## [0.6.0] — 2026-08-02
 
 **Volume 1 content-complete.** Chapter 6 — पठनम् (Reading Bootcamp) complete and
 reviewed: 31 lessons, 237 readable words, the full writing system, and the ROADMAP's
@@ -160,14 +172,14 @@ Volume 1 Chapter 3 — स्पर्शाः (The Stop Consonants) complete a
 - Six lessons: one per varga with all five members at equal depth (closes IR-042), the
   reusable manner row with physical checks, nuqta discipline, dental/retroflex contrast
   work, the first readable verb (चलति) and first readable sentences, and the grid-mastery
-  review with cumulative ~95-word table.
+  review with cumulative 114-word table.
 - GLOSSARY: स्पर्श, अघोष, घोष, महाप्राण, अल्पप्राण, अनुनासिक.
 
 ### Changed
 - JSON exports regenerated for all 18 lessons; verification log extended with v1.c03
   verdicts and review-pass findings.
 
-## [0.2.0] — 2026-07-21
+## [0.2.0] — 2026-07-30
 
 Volume 1 Chapter 2 — स्वराः (The Vowels) complete and reviewed.
 
@@ -176,7 +188,7 @@ Volume 1 Chapter 2 — स्वराः (The Vowels) complete and reviewed.
 - Seven lessons: इ/ई (left-hook mātrā rule), उ/ऊ, ऋ (classical /r̩/ with respectful
   regional-variant framing — fixes IR-009 in the curriculum itself), ए/ऐ (pure vs glide —
   fixes IR-010), ओ/औ + ॐ (four-register showcase), anusvāra/visarga (ayogavāha delivered —
-  fixes IR-008), and the full-system review with a 42-word cumulative assessment.
+  fixes IR-008), and the full-system review with a 54-word cumulative assessment.
 - GLOSSARY: अनुस्वार, विसर्ग, सन्ध्यक्षर entries.
 
 ### Changed

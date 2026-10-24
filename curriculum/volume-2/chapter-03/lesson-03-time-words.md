@@ -14,10 +14,10 @@ cefr: A2
 duration_minutes: 45
 self_study_minutes: 35
 prerequisites: [v2.c03.l02]
-review_of: [v2.c03.l02, v2.c01.l03, v1.c04.l02]
+review_of: [v2.c03.l02, v2.c01.l03, v1.c04.l02, v1.c01.l04]
 objectives:
-  - en: "Read and say the seven time words — कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — beside the upgraded मासः, every conjunct welded and every visarga breathed."
-    hi: "समय के सातों शब्द — कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — उन्नत मासः के साथ पढ़ें-बोलें; हर संयुक्ताक्षर जुड़ा हुआ, हर विसर्ग साँस समेत।"
+  - en: "Read and say the six new time words — अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — beside the upgraded कालः and मासः, every conjunct welded and every visarga breathed."
+    hi: "समय के छहों नये शब्द — अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — उन्नत कालः और मासः के साथ पढ़ें-बोलें; हर संयुक्ताक्षर जुड़ा हुआ, हर विसर्ग साँस समेत।"
   - en: "Run the everyday trio अद्य/श्वः/ह्यः in both directions — point at a day and say its word, hear a word and point at its day — in verbless pause-form frames with the day-cycle words: अद्य किम्? अद्य प्रभातम्।"
     hi: "रोज़ की तिकड़ी अद्य/श्वः/ह्यः दोनों दिशाओं में चलाएँ — दिन दिखाइए तो शब्द बोलिए, शब्द सुनिए तो दिन दिखाइए — दिन-चक्र के शब्दों वाले विराम-रूप साँचों में: अद्य किम्? अद्य प्रभातम्।"
   - en: "Tell the होरा story with the arrow drawn right — a loan INTO Sanskrit from Greek, arriving with Hellenistic astronomy — and say plainly why होरा and English hour are relatives by borrowing, not by shared descent."
@@ -26,7 +26,7 @@ objectives:
     hi: "सप्ताहः को सप्त + अह में खोलें — सात दिनों का एक, पाठ 2 की संख्या शब्द के भीतर काम पर — और स्टेशन 0 तथा तिकड़ी-अभ्यास के अंक दर्ज करें।"
 new_letters: []
 new_matras: []
-vocabulary_count: 7
+vocabulary_count: 8
 media:
   images:
     - "planned:assets/images/volume-2/v2c03l03-loan-direction-chart.svg"
@@ -63,7 +63,7 @@ year — including two of the smallest words in the ledger with the biggest work
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Read and say the seven time words — कालः, अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — beside the upgraded मासः, every conjunct welded and every visarga breathed. | समय के सातों शब्द उन्नत मासः के साथ पढ़ें-बोलें; हर संयुक्ताक्षर जुड़ा, हर विसर्ग साँस समेत। |
+| 1 | Read and say the six new time words — अद्य, श्वः, ह्यः, वर्षम्, सप्ताहः, होरा — beside the upgraded कालः and मासः, every conjunct welded and every visarga breathed. | समय के छहों नये शब्द उन्नत कालः और मासः के साथ पढ़ें-बोलें; हर संयुक्ताक्षर जुड़ा, हर विसर्ग साँस समेत। |
 | 2 | Run the trio अद्य/श्वः/ह्यः in both directions — point a day, say the word; hear the word, point the day — in verbless frames: अद्य किम्? अद्य प्रभातम्। | तिकड़ी अद्य/श्वः/ह्यः दोनों दिशाओं में चलाएँ — विराम-रूप साँचों में। |
 | 3 | Tell the होरा story with the arrow drawn right, and say plainly why होरा and English hour are relatives by borrowing, not shared descent. | होरा की कहानी सही तीर के साथ बताएँ; होरा-hour का रिश्ता साफ़ कहें। |
 | 4 | Dissect सप्ताहः into सप्त + अह and log the Station 0 and trio-drill scores. | सप्ताहः को सप्त + अह में खोलें; स्टेशन 0 और तिकड़ी-अभ्यास के अंक दर्ज करें। |
@@ -142,7 +142,7 @@ The traveler is होरा.
 > [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001]
 
 One line of course history: the 1.x curriculum spoke of borrowing in one direction only —
-words leaving Sanskrit. The last exam's register table (v2.c02.l05 §15) left exactly one
+words leaving Sanskrit. The last exam's direction table (v2.c02.l05 §15) left exactly one
 row flagged "next chapter's story" for the missing arrow. This is that story.
 
 ## 5. Scientific Explanation
@@ -211,8 +211,9 @@ required where naming will do.
 रास्ते से — लैटिन और फ़्रांसीसी से होकर — अंग्रेज़ी का hour बना। यानी होरा और hour
 रिश्तेदार तो हैं, पर माता-mother की तरह नहीं: वहाँ कोई उधार नहीं था, एक ही पुरखे की दो
 सन्तानें थीं; यहाँ दोनों भाषाओं ने एक ही स्रोत से उधार लिया। तीर की दिशा ही आज की विद्या
-है। और मासः को देखकर चौंकिए मत — मास आप v1.c04 से पढ़ रहे हैं; आज उसे बस वाक्य-वेश ः
-मिला है, गृहम् की ही तरह: शब्द पुराना, पोशाक नयी, गिनती में कोई नया शब्द नहीं।
+है। और कालः व मासः को देखकर चौंकिए मत — काल आप v1.c01 से और मास v1.c04 से पढ़ रहे हैं;
+आज दोनों को बस वाक्य-वेश ः मिला है, गृहम् की ही तरह: शब्द पुराने, पोशाक नयी, गिनती में
+कोई नया शब्द नहीं।
 
 चौथी बात — अध्याय के द्वार पर एक झलक। अध्याय का नाम है **संख्याः कालश्च** (saṃkhyāḥ
 kālaśca) — यह कालः + च का जुड़ा हुआ रूप है: विसर्ग अगले च से सटकर श् बन जाता है —
@@ -222,17 +223,18 @@ kālaḥ + ca → kālaś ca। आज का पढ़ना विराम-�
 
 ## 8. English Explanation
 
-No new letter, no new sign — the Volume 2 luxury holds. The load is seven headwords, one
-upgrade, one dissection, and one arrow drawn in the honest direction.
+No new letter, no new sign — the Volume 2 luxury holds. The load is six new headwords,
+two upgrades, one dissection, and one arrow drawn in the honest direction.
 
 ### The set — one container, three pointers, four spans
 
 **कालः** (kālaḥ) "time" is the container word — time itself, the thing the rest of the
-list measures, and this lesson's title. The three pointers are the everyday trio:
+list measures, and this lesson's title; it is an upgrade, काल (kāla) in sentence dress,
+readable since v1.c01.l04 (§15). The three pointers are the everyday trio:
 **अद्य** (adya) "today", **श्वः** (śvaḥ) "tomorrow", **ह्यः** (hyaḥ) "yesterday" — the
 words your every calendar exchange will run on. The spans climb a ladder: **होरा**
 (horā) "hour", then दिनम् — yours since v2.c01.l03 — then **सप्ताहः** (saptāhaḥ) "week",
-then **मासः** (māsaḥ) "month" (the upgrade — below), then **वर्षम्** (varṣam) "year".
+then **मासः** (māsaḥ) "month" (the other upgrade — §15), then **वर्षम्** (varṣam) "year".
 Run the ladder small-to-large until the order is muscle (§9): होरा — दिनम् — सप्ताहः —
 मासः — वर्षम्.
 
@@ -412,15 +414,15 @@ morning, and that is the design, not a defect.
 
 ## 14. Vocabulary
 
-शब्दावली — eight rows: seven ledger-new headwords + one upgrade row that never
-increments the ledger; **289 → 296** (counts reconciled at review, as always). Audio: 🔊
+शब्दावली — eight rows: six ledger-new headwords + two upgrade rows that never
+increment the ledger; **283 → 289** (counts reconciled at review, as always). Audio: 🔊
 `planned:assets/audio/volume-2/v2c03l03-word-list.mp3` (each word twice, three-speed
 passes, then the dictation track). Lists stay sentence-dressed as always: masculines in
 ः, the neuter in म्, होरा in its own आ — and the trio in no dress at all (§15).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| कालः | kālaḥ | /kɑːlɐh/ | time | समय, काल | the container word; the lesson's title; visarga breathed (§12) |
+| कालः | kālaḥ | /kɑːlɐh/ | time | समय, काल | upgrade — काल readable since v1.c01.l04; the ः dress enters active use today; never increments the ledger (§15); the container word and the lesson's title; visarga breathed (§12) |
 | अद्य | adya | /ɐd̪jɐ/ | today | आज | indeclinable (§15); द्य welded — no seam vowel (§9) |
 | श्वः | śvaḥ | /ɕʋɐh/ | tomorrow | आने वाला कल | tiny word, full workout: श् + व one gesture, then the visarga breath (§11, §12); points forward (§12) |
 | ह्यः | hyaḥ | /ɦjɐh/ | yesterday | बीता हुआ कल | ह्य from the v1.c05.l03 recognition family; never "hayaḥ" (§12); points back (§12) |
@@ -470,12 +472,12 @@ entirely, and the trio lives there. Observed, as always — the system that expl
 dressed rails is later Volume 2 business, and nothing on this table will need
 correcting when it arrives.
 
-### The upgrade, formally
+### The upgrades, formally
 
-मास entered the ledger in v1.c04.l02 and has been readable ever since; मासः is the same
-word in sentence dress, promoted to active duty. The ledger therefore counts today's
-list as seven new + one upgrade (§14) — an upgrade row never increments the ledger,
-exactly as गृहम् did not in v2.c02.l01.
+मास entered the ledger in v1.c04.l02 and काल in v1.c01.l04; both have been readable ever
+since, and मासः and कालः are the same words in sentence dress, promoted to active duty.
+The ledger therefore counts today's list as six new + two upgrades (§14) — an upgrade
+row never increments the ledger, exactly as गृहम् did not in v2.c02.l01.
 
 ### The title seam — a preview, read-only
 
@@ -593,7 +595,7 @@ seven-of-days." Check the pair (d)/(e) before looking anything up: both claim
 "relatives" — why is one kept and one rejected?
 
 **अभ्यासः 4 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track
-🔊: the seven headwords plus मासः in random order, each read twice with a writing pause.
+🔊: the six new headwords plus कालः and मासः in random order, each read twice with a writing pause.
 Write them in Devanagari. Self-check against §14: every visarga written — the tiny words
 too — the श्व, ह्य, द्य and प्त joins welded, the repha hooked above ष in वर्षम्. 7/8 is
 a pass; re-take tomorrow (§20).
@@ -646,7 +648,7 @@ Log the third ladder time; the drop over the week is the fluency.
 3. (b) — one source, two borrowings: cousins by borrowing, not shared descent (§13) —
    the chapter exam's subtlest card is built from this line.
 4. (a) — the l02 numeral at work inside a word (§8, §13).
-5. (b) — the गृहम् precedent (§15); seven new + one upgrade, 289 → 296 (§14).
+5. (b) — the गृहम् precedent (§15); six new + two upgrades (कालः, मासः), 283 → 289 (§14).
 6. (b) — the अव्यय shelf of v2.c02.l04, now holding time words (§15).
 7. (b) — the repair kit for Hindi speakers (§7, §8, §12).
 8. (b) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —
@@ -679,8 +681,8 @@ Log the third ladder time; the drop over the week is the fluency.
 > वर्षम्. **The dissection:** सप्ताहः = सप्त + अह, a seven-of-days. **The arrow:** Greek
 > *hṓra* → होरा, in with Hellenistic astronomy; English *hour* took its own road from
 > the same source — relatives by borrowing, and the toolkit now owns all directions.
-> **The frames:** अद्य किम्? — अद्य प्रभातम्। — श्वः अपि अस्ति। **The upgrade:** मास →
-> मासः, ledger untouched. **The ledger:** seven new + one upgrade — 296.
+> **The frames:** अद्य किम्? — अद्य प्रभातम्। — श्वः अपि अस्ति। **The upgrades:** काल →
+> कालः, मास → मासः, ledger untouched. **The ledger:** six new + two upgrades — 289.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -731,8 +733,8 @@ the board, two arrows drawn (5) → set walk-through on the time-ladder card; �
 dissected live, सप्त + अह on the board (8) → trio strip drill in pairs, both
 directions, gestures fixed — श्वः forward, ह्यः back (8) → the direction chart: three
 relations walked, the (d)/(e) card pair argued (6) → word list at three speeds;
-dictation launch (5) → the no-dress rail on the parade table; मासः upgrade in one line
-(3) → exercises, homework, the calendar task (3).
+dictation launch (5) → the no-dress rail on the parade table; कालः and मासः upgrades in
+one line (3) → exercises, homework, the calendar task (3).
 
 **Board work:** a three-slot strip center-stage (ह्यः · अद्य · श्वः) with arrows, the
 span ladder climbing beside it (होरा → वर्षम्), and a two-column loan ledger in the
@@ -823,7 +825,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    the side panel draws *hour*'s road and the caption lands: "relatives by borrowing,
    not shared descent."
 6. **Recap + CTA (5:10–6:00):** the strip, the ladder and the chart assemble into one
-   card; the ledger ticks to 296. End card: "Next: वासराः — the week gets its seven
+   card; the ledger ticks to 289. End card: "Next: वासराः — the week gets its seven
    names."
 
 ## 25. Voice-over Script
@@ -850,7 +852,7 @@ narrator reads the cue, not the English spelling.
   east, this one from the west. And English hour? Same Greek source, different road.
   Relatives by borrowing — not by descent. Say the difference plainly and you own the
   toolkit.
-- **05:10** Two hundred ninety-six words — and a calendar that answers you honestly.
+- **05:10** Two hundred eighty-nine words — and a calendar that answers you honestly.
   Tomorrow — śvaḥ [ɕʋɐh] — the week gets its seven names. punaḥ milāmaḥ
   [pun̪ɐh milɑːmɐh]!
 
@@ -890,12 +892,13 @@ narrator reads the cue, not the English spelling.
 - **Sibling availability at drafting:** v2.c03.l01 and v2.c03.l02 landed on disk while
   this lesson was drafted; the "l02 §…" pointers are verified against the real file
   (§3 Station 0 collects the logs l02 §20 booked; the month-name fix sits at l02 §13;
-  bare-कति at l02 §15; ledger hand-off 284 → 289 confirmed at l02 §14). v2.c03.l04
+  bare-कति at l02 §15; ledger hand-off 279 → 283 confirmed at l02 §14). v2.c03.l04
   verified on disk at review; forward mentions hold. v2.c03.l05 is on
   disk and its Station 3 keys point back at this lesson's §8 and §13 as drafted.
 - **Related lessons:** reviews v2.c03.l02 (Station 0 — chant, कति drill, month-name
   line; सप्त working inside सप्ताहः), v2.c01.l03 (day-cycle words carrying the frames;
-  the अह reunion via मध्याह्नः) and v1.c04.l02 (मास — upgraded here); builds on
+  the अह reunion via मध्याह्नः), v1.c04.l02 (मास — upgraded here) and v1.c01.l04 (काल —
+  upgraded here); builds on
   v1.c05.l03 (the ह्य/ह्म recognition family; the अत्र/तत्र deixis the trio parallels), v1.c05.l04 (repha in वर्षम्; the
   dharma/karma outbound-loan line), v1.c05.l05 (digits ०–९ for calendar pointing),
   v1.c06.l02 (एतत् किम्? frames; अपि),
@@ -908,10 +911,11 @@ narrator reads the cue, not the English spelling.
 - **Glossary:** reuses अव्यय (v2.c02.l04), संयुक्ताक्षर, विसर्ग, रेफ, मात्रा per
   GLOSSARY.md; no new glossary terms. Register work this lesson is loan-direction
   honesty (§13), not classical/modern usage labels.
-- **Export notes:** ledger per the chapter plan: seven ledger-new headwords + the मासः
-  upgrade row; **289 → 296**. Front-matter `vocabulary_count: 7` records the ledger-new
-  rows only; मासः exports as `upgrade_of: मास` (v1.c04.l02), the गृहम् precedent,
-  never as a new ledger row. The trio exports with `pos: avyaya`. होरा exports as a
+- **Export notes:** ledger per the chapter plan: six ledger-new headwords + the कालः and
+  मासः upgrade rows; **283 → 289**. Front-matter `vocabulary_count: 8` records the six
+  ledger-new rows plus the two upgrade rows (review and display-only rows excluded);
+  कालः exports as `upgrade_of: काल` (v1.c01.l04) and मासः as `upgrade_of: मास`
+  (v1.c04.l02), the गृहम् precedent, never as new ledger rows. The trio exports with `pos: avyaya`. होरा exports as a
   `loan` row with `direction: greek-to-sanskrit`; the होरा/*hour* relation exports as
   `shared-source-borrowing` — never as `cognate` and never as `descent`; the
   माता/*mother* relation stays `cognate, direction: shared-descent` — the three types

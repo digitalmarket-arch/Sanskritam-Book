@@ -230,8 +230,8 @@ paradigm today, nothing to memorize beyond the pair.
 
 ### The ledger
 
-Lesson 1 left the readable ledger at 267. Today's three — एषः, एषा, कुटुम्बम् — take it
-to **270**. Everything else here is owned material doing family work.
+Lesson 1 left the readable ledger at 264. Today's three — एषः, एषा, कुटुम्बम् — take it
+to **267**. Everything else here is owned material doing family work.
 
 ## 9. Pronunciation
 
@@ -348,7 +348,7 @@ One line of housekeeping with the past: the 1.x edition of this course printed t
 rows of this shelf as one-way arrows from Sanskrit to English (p.61: मातृ → Mother), as
 if English had come from Sanskrit — one step from the popular myth of Sanskrit as "the
 mother of all languages." The truth this shelf shows is different and — we think —
-better: Sanskrit is the *eldest sister we can still hear at full voice*, standing
+better: Sanskrit is a *sister we can still hear at full voice*, standing
 beside Latin and Greek, all daughters of one reconstructed ancestor. And the shelf is
 not done: next lesson अग्निः meets Latin *ignis* — same shelf, new row. The wall chart
 🖼 (`planned:assets/images/volume-2/v2c02l02-kinship-cognate-wall-chart.svg`) shows
@@ -357,7 +357,7 @@ daughter columns**. Sisters do not descend from each other.
 
 ## 14. Vocabulary
 
-शब्दावली — three headwords; the readable ledger moves from 267 to **270**. तस्याः
+शब्दावली — three headwords; the readable ledger moves from 264 to **267**. तस्याः
 appears above as display only, off the ledger; स्वसा on the shelf is lesson 1's
 headword, already counted. No 🔊 loans. Audio: 🔊
 `planned:assets/audio/volume-2/v2c02l02-word-list.mp3` (each word twice, the full
@@ -365,7 +365,7 @@ round, plus the dictation track).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| एषः | eṣaḥ | /eːʂɐh/ | this (man, boy) | यह | upgrade — the एषः कः वर्णः? glue word 🔊 since v1.c01.l02, readable since v1.c04.l02; enters the ledger today; person-pointer (§8) |
+| एषः | eṣaḥ | /eːʂɐh/ | this (man, boy) | यह | ledger-new — the एषः कः वर्णः? glue word 🔊 since v1.c01.l02, readable since v1.c04.l02; enters the ledger today; person-pointer (§8) |
 | एषा | eṣā | /eːʂɑː/ | this (woman, girl) | यह | एषः's partner; completes the trio with एतत् (§8); the tail carries the difference (§10) |
 | कुटुम्बम् | kuṭumbam | /kuʈumbɐm/ | household | कुटुम्ब, घराना | classical (§4, §8); the वसुधैव कुटुम्बकम् word; परिवारः = the people, कुटुम्बम् = the household |
 
@@ -585,7 +585,7 @@ rehearsal.
 > household:** कुटुम्बम् — वसुधैव कुटुम्बकम्'s word. **The display pair:** तस्य ·
 > तस्याः — one honest line, no paradigm. **The flagship:** five rows, one ancestor —
 > माता ~ māter ~ mother; nobody borrowed anybody's mother; karma was a loan, mother
-> never was. **The words:** three — the ledger at 270.
+> never was. **The words:** three — the ledger at 267.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -625,7 +625,7 @@ schedule. The correction is one warm sentence: siblings from one ancestor — no
 borrowed anybody's mother. If a student raises the old "mother of all languages" line,
 never mock it: name it as a popular myth the 1.x arrow card leaned toward, show what
 the evidence supports, and let
-the eldest-sister image do the emotional work. The direction fact must leave the room
+the sister image do the emotional work. The direction fact must leave the room
 feeling like a *gain*, not a demotion.
 
 **Timing plan (45 min):** §3 retrieval, written (5) → the trio on the board, live
@@ -646,7 +646,7 @@ Their pronunciation work is the ष curl and कुटुम्बम्'s full 
 pointer drifting to एतत्-for-everything under pressure.
 
 **What students find hard:** producing एषः/एषा matched at speed (the volley cures
-it); believing the direction fact gladly rather than grudgingly (the eldest-sister
+it); believing the direction fact gladly rather than grudgingly (the sister
 frame and the karma-was-a-loan contrast both help); and remembering that तस्याः is
 display, not drill — keep it off any test you write (स्वसा is lesson 1's heirloom
 headword: known and tested, not conversational).

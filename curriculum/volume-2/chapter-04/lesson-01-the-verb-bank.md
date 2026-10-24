@@ -49,7 +49,7 @@ updated: 2026-08-06
 
 ## 1. Hook
 
-Your Sanskrit owns three hundred and five words — and almost all of them are *things*: a
+Your Sanskrit owns two hundred and ninety-seven words — and almost all of them are *things*: a
 boy, a fruit, a river, a school, a week of days. For a volume and three chapters the
 things have mostly stood still, animated by a handful of hard-working verbs. Today seven
 engines arrive at once: *goes*, *eats*, *drinks*, *sees*, *hears*, *writes*, *knows* — and
@@ -388,7 +388,7 @@ refused reach — that is today's complete shelf, and every claim on it survives
 
 ## 14. Vocabulary
 
-शब्दावली — seven headwords, all ledger-new; **305 → 312** (counts reconciled at review,
+शब्दावली — seven headwords, all ledger-new; **297 → 304** (counts reconciled at review,
 as always). Audio: 🔊 `planned:assets/audio/volume-2/v2c04l01-verb-bank.mp3` (each word
 twice, three-speed passes, then the dictation track). Verbs are listed in their
 present-tense "he/she/it" citation forms, glossed whole — the same honest dress चलति has
@@ -632,7 +632,7 @@ correspondences, not echoes (§13).
 > पिबति। छात्रः लिखति। **The honesty lines:** शृणोति and जानाति build their stems
 > differently; your I-lines stay with पठामि and वदामि. **The shelf:** जानाति ~ know ~
 > gnōsis · पिबति ~ bibit — siblings, no arrows; लिखति — honestly blank; गच्छति and go —
-> not related. **The ledger:** seven new — 312.
+> not related. **The ledger:** seven new — 304.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -757,7 +757,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    *know* and *gnōsis* under one glowing ancestor node — no arrows; पिबति joins *bibit*;
    लिखति's shelf-space stays honestly empty; a hand reaches गच्छति toward *go* and a
    gentle buzzer sounds — caption: "resemblance alone proves nothing."
-6. **Recap + CTA (5:10–6:00):** the ledger counter ticks 305 → 312; the ten cards line up
+6. **Recap + CTA (5:10–6:00):** the ledger counter ticks 297 → 304; the ten cards line up
    for one full roll-call on a beat. End card: "Next: त्रयः पुरुषाः — The Three Persons."
 
 ## 25. Voice-over Script
@@ -765,7 +765,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 Narration for the lesson video (§24); Sanskrit terms carry IPA cues in [brackets] — the
 narrator reads the cue, not the English spelling.
 
-- **00:00** Three hundred and five words — and almost all of them standing still. Watch
+- **00:00** Two hundred and ninety-seven words — and almost all of them standing still. Watch
   what seven verbs do. gacchati [gɐt͡ɕt͡ɕʰɐt̪i] — goes. khādati [kʰɑːd̪ɐt̪i] — eats.
   pibati [pibɐt̪i] — drinks. The world starts moving.
 - **00:40** The bank holds ten. Seven are new today: paśyati [pɐɕjɐt̪i] — sees. śṛṇoti
@@ -780,7 +780,7 @@ narrator reads the cue, not the English spelling.
   ancestor, nobody borrowed. pibati and Latin *bibit* — siblings again. likhati — no
   clean English cousin, and we say so. And gacchati and *go*? Not related. Resemblance
   proves nothing.
-- **05:10** Three hundred twelve words — and now they can act. Tomorrow, the course's
+- **05:10** Three hundred four words — and now they can act. Tomorrow, the course's
   first grammar lesson names a pattern you have been using for three chapters. Today,
   recite the bank once more. punaḥ milāmaḥ [pun̪ɐh milɑːmɐh]!
 
@@ -789,7 +789,7 @@ narrator reads the cue, not the English spelling.
 40–50 seconds, vertical, captions burned in.
 
 - **Hook (0:00–0:07):** rapid cuts of still objects — a fruit, a glass, a book. Text:
-  "Your Sanskrit owns 305 words. Today, seven of them start to move."
+  "Your Sanskrit owns 297 words. Today, seven of them start to move."
 - **Demo (0:07–0:30):** magnet words snap with sound effects: bālakaḥ + phalam +
   khādati! — "the boy eats the fruit." sītā jalam pibati! Then the shelf gag: jānāti
   slides in next to *know* and *gnōsis* — "siblings — one ancestor, nobody borrowed." A hand
@@ -836,7 +836,7 @@ narrator reads the cue, not the English spelling.
   term v2.c04.l01; glossed in Hindi at first occurrence per STYLE_GUIDE §1.2)**; reuses
   संयुक्ताक्षर, विसर्ग, मात्रा per GLOSSARY.md.
 - **Export notes:** ledger per the chapter plan: seven headwords, all ledger-new —
-  **305 → 312**; chapter chain 305 → 312 → 313 → 316 → 316 (reconcile at review).
+  **297 → 304**; chapter chain 297 → 304 → 305 → 308 → 308 (reconcile at review).
   गच्छति exports as a NEW ledger row carrying attestation history (`ear_word_since:
   v1.c03.l02`; `withheld_at: v1.c06.l03`), not as an upgrade. पश्यति exports as a new
   headword; the chunk पश्य never held a ledger row — cross-reference, do not re-count,

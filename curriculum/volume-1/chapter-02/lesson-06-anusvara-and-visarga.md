@@ -140,7 +140,7 @@ complete: every vowel owned, and now both of its riders.
 
 > **[FACT · तथ्यम्]** Visarga (ḥ) is a voiceless /h/ — a breath released after the vowel while
 > the mouth still holds the vowel's shape. It is extremely frequent word-finally — the रामः
-> pattern you have heard since lesson 1. [REF:whitney1889 §67]
+> pattern you have heard since v1.c01.l01. [REF:whitney1889 §67]
 
 **The chameleon is not exotic — your English does it too.** Say *ink* slowly: it is spelled
 with n, but what you actually say is [ɪŋk] — the nasal slides back to the velar position
@@ -416,7 +416,7 @@ eye (§16). कुतः is its "from where?" sibling — and notice it answers 
 In lesson 1 of this chapter you read मति (mati). Many dictionaries (Apte's among them) and word lists, though, cite
 the word as मतिः — the *citation form*, the ending a Sanskrit noun wears when it stands alone
 and names itself. That same naming ः is the one you have heard closing रामः, वर्णः and
-अभ्यासः since lesson 1 — it was never decoration. One honest line and no more: a noun's
+अभ्यासः since Chapter 1's first lessons — it was never decoration. One honest line and no more: a noun's
 ending changes with its job in the sentence, and the full system — declension — is Volume 3's
 story. For now, when a word list shows ः, read it, breathe it, and know it marks the word in
 its Sunday best.
@@ -498,7 +498,7 @@ teacher points at a letter on the board.
 Glue words, glossed and audio-only for now: एषः (eṣaḥ) "this" — यह 🔊 (ष arrives in Chapter
 4); वर्णः (varṇaḥ) "letter, sound" — वर्ण 🔊 (र and ण still to come — but its final ः is
 yours now); किम् (kim) "what?" — क्या 🔊 (final म् needs the virāma, Chapter 5); अभ्यासः
-(abhyāsaḥ) "practice" — अभ्यास 🔊, an ear-friend since lesson 1. One detail before
+(abhyāsaḥ) "practice" — अभ्यास 🔊, an ear-friend since v1.c01.l01. One detail before
 you go: question and answer only look alike. In the question, कः is the word "which?"; in the
 answer the letter is cited bare — क इति, "ka", exactly as in Chapter 1's म इति वर्णः — with
 no ः attached.

@@ -31,30 +31,36 @@ curriculum's verified greetings unit (PDF pp.27–28: नमस्ते, धन
 **Station 0 = v1.c06.l04's +1-week interval**: dialogue lines + passage re-read (rungs
 2–3 of the exam ladder) + the three-artifact photo shown. **New (attested):** भोः (bhoḥ)
 "O!, hey" — classical address particle; अञ्जलिः (añjaliḥ) — the joined-palms word (0.8);
-भद्रम् (bhadram) as courtesy chunk भद्रम् ते (0.6); स्वस्ति (svasti) "farewell,
-blessings" (0.6); नमः upgraded to standalone use (नमः + dative pattern held for V3 —
+भद्रम् (bhadram) as courtesy chunk भद्रम् ते (0.6) — भद्र ✓ v1.c05.l04, upgrade, not
+ledger-new (corrected at audit); स्वस्ति (svasti) "farewell, blessings" (0.6); नमः upgraded to standalone use (नमः + dative pattern held for V3 —
 today the chunk गुरवे नमः is **display only**). Review at work: नमस्ते, नमस्कारः,
-स्वागतम्. Dialogue: greeting round with the whole cast. ~8 new headwords.
+स्वागतम्. Dialogue: greeting round with the whole cast. Count (reconciled at review):
+3 ledger-new (भोः, अञ्जलिः, स्वस्ति) + 2 upgrades (भद्रम्, नमः) = 5 headwords drilled;
+ledger 237 → 240.
 
 ## 2. L2 — कुशलप्रश्नः: how are you (conversation type)
 
 **New (attested):** कथम् (katham) "how?"; कुशलम् (kuśalam) "well-being; well";
 कुशली (kuśalī) "well (of a man)" with बालिका-precedent honesty for a female speaker
 (कुशलिनी — display, V2 gender system); सर्वम् (sarvam) "everything" (सर्व ✓ v1.c05.l04,
-neuter form new in use); धन्यवादः debuts here or l04 (drafting decides; 0.3 label
-mandatory). **Frames:** अपि कुशलम्? "all well?" — कुशलम्! / सर्वम् कुशलम्! — the
+neuter form new in use — upgrade, not ledger-new); धन्यवादः debuts here or l04
+(drafting decided l04; 0.3 label mandatory). **Frames:** अपि कुशलम्? "all well?" — कुशलम्! / सर्वम् कुशलम्! — the
 classical wellness exchange (0.9); कथम् as question word beside कः/का/किम्/कुतः.
-~8 new.
+Count (reconciled at review): 3 ledger-new (कथम्, कुशलम्, कुशली) + 1 upgrade
+(सर्वम्) = 4 headwords drilled; ledger 240 → 243.
 
 ## 3. L3 — दिनयात्रा: greetings through the day (vocabulary type)
 
 **New (attested):** प्रभातम् (prabhātam) "dawn, morning"; दिनम् (dinam) "day" — दिन ✓ v1.c03.l04, upgrade, not ledger-new (corrected at audit);
 सायम् (sāyam) "evening"; रात्रिः (rātriḥ) "night" (र ा त ् र ि ः — त्र ✓);
 सुप्रभातम् (0.4, modern label + the classical genre note); शुभरात्रिः (modern label);
-शुभम् (śubham) as freestanding wish "may it be well" (शुभ ✓ v1.c04.l02). Cognate shelf:
+शुभम् (śubham) as freestanding wish "may it be well" (शुभ ✓ v1.c04.l02 — upgrade, not
+ledger-new, corrected at audit). Cognate shelf:
 दिन ~ Lithuanian *diena*, Old Church Slavonic *dĭnĭ* — shared PIE descent
 [REF:mallory2006] (**Pass C: confirm the set in Mallory–Adams; if thin, drop to a
-no-REF observation or cut**). Day-cycle drills; greeting-by-hour roleplay. ~8 new.
+no-REF observation or cut**). Day-cycle drills; greeting-by-hour roleplay. Count
+(reconciled at review): 6 ledger-new (प्रभातम्, मध्याह्नः, सायम्, रात्रिः, सुप्रभातम्,
+शुभरात्रिः) + 2 upgrades (दिनम्, शुभम्) = 8 headwords drilled; ledger 243 → 249.
 
 ## 4. L4 — शिष्टाचारः: courtesy & farewell (conversation type)
 
@@ -63,7 +69,9 @@ no-REF observation or cut**). Day-cycle drills; greeting-by-hour roleplay. ~8 ne
 श्रीमान् (śrīmān) "sir" — classical honorific (श्री ✓); पुनः (punaḥ) "again";
 मिलामः (milāmaḥ) "we meet" — whole-word gloss, the पुनः मिलामः chunk (0.7, modern
 label, sandhi preview पुनर्मिलामः). Farewell scene: स्वस्ति! पुनः मिलामः! Display:
-अनुगृहीतोऽस्मि (classical gratitude, sandhi-heavy, recognition only). ~9 new.
+अनुगृहीतोऽस्मि (classical gratitude, sandhi-heavy, recognition only). Count (reconciled
+at review): 9 ledger-new = 9 headwords drilled (धन्यः and कृपा join the list above);
+ledger 249 → 258.
 
 ## 5. L5 — पुनरावृत्तिः: review & assessment
 
@@ -89,7 +97,9 @@ V1-maintenance micro-check (varṇamālā row + one conjunct pair). Gates v2.c02
 - Whitney § for plain negative न (0.10) — verify §1122 or cite bare.
 - Word attestation sweep: भोः, अञ्जलि, कुशल, प्रभात, सायम्, रात्रि, दिन, श्रीमान्,
   पुनः against Apte/MW — all standard; flag any surprises in the log.
-- Cumulative ledger: 237 + ~33 (l01 8 · l02 8 · l03 8 · l04 9) ≈ 270; exact counts
-  reconciled at review as always.
+- Cumulative ledger (reconciled at review): 237 + 21 ledger-new (l01 3 · l02 3 · l03 6 ·
+  l04 9) = 258 readable words; chain 237 → 240 → 243 → 249 → 258. 26 headwords drilled
+  (5 · 4 · 8 · 9) — the five upgrade rows (भद्रम्, नमः, सर्वम्, दिनम्, शुभम्) are drilled
+  but never re-counted.
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.

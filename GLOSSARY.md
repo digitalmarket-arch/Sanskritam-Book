@@ -5,7 +5,7 @@ four-layer form; lessons must match these spellings exactly (Pass B checks Hindi
 this file). Add terms as chapters introduce them — this file is updated in every post-chapter
 loop.
 
-Sorted by IAST.
+Rows are not strictly sorted (later additions were appended); search by IAST or Devanagari.
 
 | देवनागरी | IAST | English | हिन्दी | First taught |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@ Sorted by IAST.
 | अव्यय | avyaya | indeclinable — a word that never changes shape | अव्यय | v2.c02.l04 |
 | अनुच्छेद | anuccheda | passage, paragraph (standard modern term) | अनुच्छेद | v1.c06.l03 |
 | अनुस्वार | anusvāra | the nasal sign ं | अनुस्वार | v1.c02.l06 |
+| अन्तर्निहित स्वर | antarnihita svara | inherent vowel — the अ carried by every unmarked consonant letter | अन्तर्निहित स्वर — भीतर बैठा हुआ स्वर | v1.c01.l03 |
 | अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |
 | अवग्रह | avagraha | the elision mark ऽ (marks a dropped अ) | अवग्रह | v1.c05.l05 |
 | चन्द्रबिन्दु | candrabindu | the nasal-vowel sign ँ | चन्द्रबिन्दु | v1.c05.l05 |
@@ -38,7 +39,7 @@ Sorted by IAST.
 | अल्पप्राण | alpaprāṇa | unaspirated ("small breath") | अल्पप्राण | v1.c03.l01 |
 | अनुनासिक | anunāsika | nasal | अनुनासिक | v1.c03.l01 |
 | अन्तःस्थ | antaḥstha | semivowel ("standing between") | अन्तःस्थ | v1.c04.l01 |
-| ऊष्मन् | ūṣman | sibilant-class sound ("heat, steam") | ऊष्म वर्ण | v1.c04.l02 |
+| ऊष्मन् | ūṣman | "heat, steam": the breath-sound class श ष स ह — ह belongs to it but is not a sibilant | ऊष्म वर्ण | v1.c04.l02 |
 | स्वर | svara | vowel | स्वर | v1.c01.l02 |
 | तालव्य | tālavya | palatal | तालव्य (तालु से उच्चरित) | v1.c01.l02 |
 | दन्त्य | dantya | dental | दन्त्य (दाँतों से उच्चरित) | v1.c01.l02 |
@@ -49,6 +50,8 @@ Sorted by IAST.
 | विसर्ग | visarga | the breath sign ः | विसर्ग | v1.c02.l06 |
 | वर्णमाला | varṇamālā | the Sanskrit sound inventory ("garland of sounds") | वर्णमाला | v1.c01.l02 |
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |
+| वर्ग | varga | class — one of the five stop rows, named by its first letter: क-वर्ग … प-वर्ग | वर्ग | v1.c01.l02 |
+| स्थान | sthāna | place of articulation | उच्चारण-स्थान | v1.c01.l02 |
 
 ## Course meta-vocabulary
 

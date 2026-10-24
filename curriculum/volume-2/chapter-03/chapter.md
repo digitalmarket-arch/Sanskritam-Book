@@ -41,7 +41,7 @@ By the end of this chapter the learner can:
 - [ ] Name the weekdays and read dates from a Devanagari-digit calendar
 - [ ] Tell the month-name story correctly (cognates, not derivation) and the होरा story
   (a loan into Sanskrit)
-- [ ] Read 22 ledger-new words (304 cumulative)
+- [ ] Read 20 ledger-new words (297 cumulative)
 - [ ] Pass the chapter assessment incl. the calendar task
 
 ## Lessons
@@ -49,8 +49,8 @@ By the end of this chapter the learner can:
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
 | 1 | v2.c03.l01 | एकादिपञ्चान्ताः — One to Five | vocabulary | त्रि चतुर् (+ counting chant); c02 Station 0 |
-| 2 | v2.c03.l02 | षडादिदशान्ताः — Six to Ten | vocabulary | षट् सप्त अष्ट नव-nine कति; THE October fix |
-| 3 | v2.c03.l03 | कालः — Time Words | vocabulary | कालः अद्य श्वः ह्यः वर्षम् सप्ताहः होरा |
+| 2 | v2.c03.l02 | षडादिदशान्ताः — Six to Ten | vocabulary | षट् सप्त अष्ट नव-nine; review कति दश; THE October fix |
+| 3 | v2.c03.l03 | कालः — Time Words | vocabulary | अद्य श्वः ह्यः वर्षम् सप्ताहः होरा; upgrades कालः मासः |
 | 4 | v2.c03.l04 | वासराः — The Week | vocabulary | वासरः + the seven day-names; honest week-history |
 | 5 | v2.c03.l05 | पुनरावृत्तिः — The Numbers & Time Exam | review | counting production; the direction cards; calendar task |
 
