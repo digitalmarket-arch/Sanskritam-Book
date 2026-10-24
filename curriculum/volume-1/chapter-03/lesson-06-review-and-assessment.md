@@ -170,9 +170,9 @@ list of twenty-five facts; it is an engine with two axes, and both keep working 
 chapter. Chapter 4 has only eight letters left — the semivowels य र ल व and the sibilant
 row श ष स plus ह — and every one of them will be taught by *location on the place-axis you
 certify today*: श sits at the palatal station, ष at the retroflex, स at the dental.
-Chapter 5's conjuncts are letter-pairs — two letters you will own by then, welded, like the स्त
-inside नमस्ते. Certify place and manner now and both chapters become cheap. Let an error
-survive today — a [z]-flavored ज, an alveolar त — and it gets rehearsed into every
+Chapter 5's conjuncts are letter-pairs — two letters you will own by then, welded, like
+the स्त inside नमस्ते. Certify place and manner now and both chapters become cheap. Let an
+error survive today — a [z]-flavored ज, an alveolar त — and it gets rehearsed into every
 syllable and every conjunct that follows, at a far higher repair cost.
 
 ## 6. Sanskrit Explanation
@@ -318,8 +318,8 @@ as a property of the sound — as worldview it could live in SYMBOL; as phonolog
 शब्दावली — no new words; the **cumulative readable list**, Chapters 1–3 complete: 54 words
 carried from Chapters 1–2 (compressed below; full rows in v1.c02.l07 §14) plus 60 from
 this chapter (the lessons' 59 words plus the name कठ from l03 §17) — **114 readable words**.
-This table is the source for tasks B and C. Reading protocol as always: block by
-block, then whole word, every vowel at full value, pause form.
+This table is the source for tasks B and C. Reading protocol as always: block by block,
+then whole word, every vowel at full value, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
@@ -525,15 +525,16 @@ is yours. Complete and correct within five minutes = pass.
    test separates क from ख. → l01 §5, §9.
 2. The breath after release: aspiration on the voiceless side, murmured breathy voice on
    the voiced side — घ stirs the tissue while humming; ग does not. → l01 §9, §11.
-3. Affricates — /t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/ per the course contract; English "ch" must lose its
-   lip-rounding. → l02 §5, §9.
+3. Affricates for च छ ज झ — /t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ/ per the course contract, with ञ /ɲ/ the
+   row's nasal; English "ch" must lose its lip-rounding and its puff of aspiration (English
+   *church* starts nearer छ). → l02 §5, §8, §12.
 4. The course's first readable verb form — the sentence engine; conjugation itself (why
-   -ति, the other persons and numbers) waits for Volume 2. → l02 §14, §15.
+   -ति, the other persons and numbers) waits for Volume 2. → l02 §8, §14.
 5. Tongue tip curled back toward the roof of the mouth, released crisply; Swedish (or
-   Norwegian); it retires "retroflex sounds are unique to Indian languages". → l03 §5.
-6. ठ ड ढ (and ण word-initially); they earn their keep word-internally — घट, गुण, गूढ; equal
+   Norwegian); it retires "retroflex sounds are unique to Indian languages". → l03 §4, §5.
+6. ठ ड ढ (and ण word-initially); they earn their keep word-internally — गुड, गुण, गूढ; equal
    cards with frank frequency notes are the fix for the 1.x corner-letters error. → l03
-   §12, §14.
+   §8, §14.
 7. The dental row त थ द ध न — tip ON the teeth. English t/d are alveolar: on the ridge
    behind the teeth, not on them, and not curled back — neither dental nor retroflex.
    → l04 §5, §11.
@@ -543,7 +544,7 @@ is yours. Complete and correct within five minutes = pass.
    lips must close completely and release a clean puff — [f] never closes them. → l05 §9,
    §12.
 10. Every word is read fully, in citation (pause) form, word by word; connected-speech
-    sandhi is deferred to Volume 3. → l05 §15.
+    sandhi is deferred to Volume 3. → l05 §8.
 
 **Task keys.**
 A: 1 ख 2 क 3 मुख (real word, aspirated) 4 ट 5 ता 6 घट (retroflex ट) 7 ड 8 गुड (retroflex
@@ -553,8 +554,10 @@ B (dictation set): भोजन, गुण, कथा, मुख, जल, घट
 C: the fifteen words as printed in §18, plus बालकः चलति। कपिः चलति। कोकिलः कूजति।
 D: 1 FACT (recorded derivation, dictionary-checkable [REF:apte1890 s.v. खग]) · 2 FACT (the
 chapter's own engine) · 3 TRADITION (the stock example of the Nyāya tradition of logic —
-attributed) · 4 TRADITION (a name within the tradition — the Kaṭha Upaniṣad; taught as a
-name, not assessed as doctrine) · 5 FACT (cognates sharing a PIE ancestor, not a borrowing
+attributed) · 4 FACT or TRADITION (FACT: a checkable naming fact — the Kaṭha Upaniṣad takes
+its name from the Kaṭha Vedic school [REF:monierwilliams1899 s.v. कठ]; TRADITION earns credit
+when the reasoning points to l03 §17's attributed TRADITION line; the Upaniṣad's teaching is
+not assessed) · 5 FACT (cognates sharing a PIE ancestor, not a borrowing
 [REF:mallory2006]) · 6 HISTORY — correct only with According-to framing ("Pāṇinian
 phonetics describes…" [REF:cardona1997]); the course's audio target remains the affricate
 row · 7 **reject** — ज is /d͡ʑ/; [z] is the Perso-Arabic loan layer of Hindi, absent from
@@ -607,15 +610,16 @@ Chapter 4 quiz** — re-sort task D's cards from memory. Log scores here.
 |---|---|---|---|
 | A (12) | 10–12 | 8–9 | trap items 9–12 missed → §12 rows 3–4; aspiration/place rows → §12 rows 1, 5 |
 | B (10) | 8–10 all-correct | 6–7 | breathy letters miswritten (भ→ब, घ→ग) → §12 rows 2, 8; wrong varga → row 6 |
-| C (15+3) | 12+ clean, all sentences | 10–11, or one halting sentence | systematic aspiration/place/trap errors → §12 rows 1–5, 7; sentence trouble → l05 §15 pause form |
+| C (15+3) | 12+ clean, all sentences | 10–11, or one halting sentence | systematic aspiration/place/trap errors → §12 rows 1–5, 7; sentence trouble → l05 §8 pause form, §9 drill 4 |
 | D (9) | 7–9 reasoned | 5–6 | registers blurred → re-teach with §13's खग walk-through |
 | E (25) | complete, correct, in time | 1–2 cell slips | row/column confusion → blank-grid drill daily for a week |
 
 **Pass** = all tasks partial+, quiz 7+/10 → Chapter 4. One weak task → targeted retake
 tomorrow. Two+ → repeat the weak varga lessons; frame as scheduling, not failure.
 
-**Running Station 0:** a silent two-minute opener — it doubles as settling time and shows
-the spacing system working (most students beat their Chapter 2 score; say so out loud).
+**Running Station 0:** a quiet two-minute opener (read-aloud items under the breath) — it
+doubles as settling time and shows the spacing system working (most students beat their
+Chapter 2 score; say so out loud).
 
 **The D-task cards:** cards 7 and 8 each have one right move — reject — so the
 waste-basket earns its keep twice today. Card 6 is the nuance card: HISTORY only with
