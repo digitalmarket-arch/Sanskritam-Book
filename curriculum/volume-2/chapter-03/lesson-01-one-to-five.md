@@ -805,7 +805,7 @@ the narrator reads the cue, not the English spelling.
 - **Export notes:** two headwords, both ledger-new — **277 → 279** (cumulative
   readable words: 279; the chapter chain continues 279 → 283 → 289 → 297, confirmed
   against the sibling §14 tables on disk (per v2.c03.l04 §27; l05's arithmetic was
-  provisional) — reconcile the usual ≈ at review). त्रि exports as a NEW
+  provisional); reconciled at review). त्रि exports as a NEW
   ledger row with `mention_history: [v1.c01.l01, v1.c05.l03]` — cognate mentions,
   never a §14 headword before today (notes §1, §6: count honestly). Review rows एक (✓ v1.c02.l04), द्वि,
   पञ्च export flagged review-duplicate, not new. Display-only, excluded from counts

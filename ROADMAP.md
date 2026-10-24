@@ -161,8 +161,13 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   grammar lesson (with असि), the doing-dialogue किम् करोषि?, the day-of-verbs passage at
   three speeds, and the verb exam with production conjugation and the learner's own
   self-narration. Review passes A–D ran as a verified workflow (70 findings fixed).
-  11 ledger-new (308 cumulative); 51 lessons total. Post-chapter loop (JSON exports,
-  CHANGELOG entry) still pending.
+  11 ledger-new (308 cumulative); 51 lessons total, validator green, exports current
+  (0.10.0). **The Volume 2 Chapters 1–4 arc is complete.** Next: v2.c05 संवादः.
+- **2026-10-24** — **Deep research audit of all shipped content** (Volume 1, Volume 2
+  Chapters 1–3, frames, research notes, governance docs): 1,264 verified findings, 1,068
+  fixes applied, 109 claims rejected on verification. The Volume 2 ledger was corrected
+  for eight double counts (exits now 258 · 277 · 297 · 308) and the counting rule written
+  into STYLE_GUIDE §8. Details in research/verification-log.md and CHANGELOG 0.10.0.
 
 ## Content preservation map (from the 1.x curriculum)
 

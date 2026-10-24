@@ -1,0 +1,365 @@
+{
+  "frontmatter": {
+    "id": "v2.c04.l01",
+    "schema_version": 1,
+    "title": {
+      "sa": "दश क्रियाः",
+      "sa_iast": "daśa kriyāḥ",
+      "hi": "दस क्रियाएँ — क्रिया-कोश",
+      "en": "The Verb Bank"
+    },
+    "volume": 2,
+    "chapter": 4,
+    "lesson": 1,
+    "lesson_type": "vocabulary",
+    "cefr": "A2",
+    "duration_minutes": 45,
+    "self_study_minutes": 35,
+    "prerequisites": [
+      "v2.c03.l05"
+    ],
+    "review_of": [
+      "v2.c03.l05",
+      "v1.c06.l03"
+    ],
+    "objectives": [
+      {
+        "en": "Read and say the seven new bank verbs — गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति — beside the owned पठति, वदति and हसति: the ten-verb bank, every word whole, every final vowel full.",
+        "hi": "सात नई क्रियाएँ — गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति — पुरानी पठति, वदति, हसति के साथ पढ़ें-बोलें: दस क्रियाओं का कोश, हर शब्द पूरा, हर अन्तिम स्वर पूरा।"
+      },
+      {
+        "en": "Use the bank in pause-form sentences across the owned noun stock — बालकः फलम् खादति। सीता जलम् पिबति। छात्रः लिखति। — singular only, objects glossed whole.",
+        "hi": "विराम-रूप के वाक्यों में क्रियाओं को अपने शब्द-भण्डार के साथ बरतें — बालकः फलम् खादति। सीता जलम् पिबति। छात्रः लिखति। — केवल एकवचन, कर्म पूरे शब्द।"
+      },
+      {
+        "en": "State the shelf facts honestly: जानाति, English know and Greek gnōsis are siblings; पिबति and Latin bibit are siblings; लिखति has no clean English cognate — and गच्छति and English go are not related at all.",
+        "hi": "सगोत्र-तथ्य ईमानदारी से बताएँ: जानाति, अंग्रेज़ी know और यूनानी gnōsis सहोदर हैं; पिबति और लैटिन bibit सहोदर हैं; लिखति का कोई स्पष्ट अंग्रेज़ी सजातीय नहीं — और गच्छति तथा अंग्रेज़ी go का आपस में कोई नाता नहीं।"
+      },
+      {
+        "en": "Run the three drills — verb–noun matching, act-and-say, the timed ten-verb recitation — and log today's Station 0 scores beside the exam's.",
+        "hi": "तीनों अभ्यास चलाएँ — क्रिया-संज्ञा मिलान, करके-बोलना, समयबद्ध दस-क्रिया पाठ — और आज के स्टेशन 0 के अंक परीक्षा के अंकों के साथ दर्ज करें।"
+      }
+    ],
+    "new_letters": [],
+    "new_matras": [],
+    "vocabulary_count": 7,
+    "media": {
+      "images": [
+        "planned:assets/images/volume-2/v2c04l01-action-cards.svg",
+        "planned:assets/images/volume-2/v2c04l01-cognate-shelf.svg"
+      ],
+      "audio": [
+        "planned:assets/audio/volume-2/v2c04l01-drill.mp3",
+        "planned:assets/audio/volume-2/v2c04l01-verb-bank.mp3"
+      ],
+      "diagrams": [],
+      "worksheets": [
+        "planned:assets/worksheets/volume-2/v2c04l01-verb-drills.pdf"
+      ],
+      "quizzes": []
+    },
+    "tags": [
+      "vocabulary",
+      "verbs",
+      "verb-bank",
+      "sentences",
+      "cognates",
+      "act-and-say",
+      "spaced-review"
+    ],
+    "status": "reviewed",
+    "version": "0.1.0",
+    "authors": [
+      "Sanskritam Editorial"
+    ],
+    "reviewers": [
+      "Editorial review passes A–D, 2026-08-06"
+    ],
+    "created": "2026-08-05",
+    "updated": "2026-08-06"
+  },
+  "sections": [
+    {
+      "index": 1,
+      "name": "Hook",
+      "anchor": "1-hook",
+      "markdown": "Your Sanskrit owns two hundred and ninety-seven words — and almost all of them are *things*: a\nboy, a fruit, a river, a school, a week of days. For a volume and three chapters the\nthings have mostly stood still, animated by a handful of hard-working verbs. Today seven\nengines arrive at once: *goes*, *eats*, *drinks*, *sees*, *hears*, *writes*, *knows* — and\nwith the three verbs you already own, the course's ten-verb bank opens for business. By\ntonight, everything in your word-stock can do something."
+    },
+    {
+      "index": 2,
+      "name": "Learning Objective",
+      "anchor": "2-learning-objective",
+      "markdown": "इस पाठ के अन्त में आप यह कर सकेंगे —\n\n| # | Can-do (en) | आप कर सकेंगे (hi) |\n|---|---|---|\n| 1 | Read and say the seven new bank verbs beside पठति, वदति, हसति — the ten-verb bank, whole words, full finals. | सात नई क्रियाएँ पुरानी तीन के साथ पढ़ें-बोलें — दस क्रियाओं का कोश, हर शब्द पूरा। |\n| 2 | Use the bank in pause-form sentences — बालकः फलम् खादति। सीता जलम् पिबति। छात्रः लिखति। | विराम-रूप के वाक्यों में क्रियाएँ बरतें — केवल एकवचन, कर्म पूरे शब्द। |\n| 3 | State the shelf facts honestly: जानाति ~ know ~ gnōsis; पिबति ~ bibit; लिखति — none clean; गच्छति and go — no relation. | सगोत्र-तथ्य ईमानदारी से बताएँ — और गच्छति-go का \"नाता\" ठुकराएँ। |\n| 4 | Run the three drills and log the Station 0 scores. | तीनों अभ्यास चलाएँ; स्टेशन 0 के अंक दर्ज करें। |\n\nObjective 1 is built in §8/§9/§14 and tested in §18 (exercises 3, 4) and §19 (Q1, Q8);\nobjective 2 in §6/§15/§16, §18 (exercises 1, 2, 5), §19 (Q8); objective 3 in §13, §18\n(exercise 6), §19 (Q2–Q4, Q6); objective 4 in §3/§18 (exercises 1–3)."
+    },
+    {
+      "index": 3,
+      "name": "Previous Lesson Review",
+      "anchor": "3-previous-lesson-review",
+      "markdown": "पुनरावृत्तिः — Station 0 first: the numbers-time exam's clock comes due today. Then four\nmemory prompts. Everything from memory *before* any key opens [REF:roediger2006].\n\n### Station 0 — the numbers-time exam's +1-week arrives\n\nv2.c03.l05 §20 booked today's station: that exam's tasks C and D, compressed. Three\nminutes; log both scores beside the exam's [REF:cepeda2006].\n\n1. **The counting, one take** (task C, compressed): count 1–10 in stems, एक to दश; the\n   chant एकम् to दश once on an even beat; three digit cards — ९ · ३ · ६ — named within a\n   beat each; then count something real in the room, bare: कति? — and the honest number.\n   The standing law: षट् and अष्ट curled, सप्त and दश on the teeth.\n2. **Three direction cards, from memory** (task D, compressed) — keep or reject, one line\n   of reasoning each: (a) \"November comes from Sanskrit नव.\" (b) \"होरा was borrowed into\n   Sanskrit from Greek.\" (c) \"English *hour* and Sanskrit होरा both go back to the same\n   Greek word.\"\n\n### The prompts\n\n1. From v1.c06.l03, the course's first passage: THE verb of that chapter — and its\n   first-person twin. Both, glossed, from memory.\n2. Also from v1.c06.l03: Arjuna walked to school — which verb carried him in the passage,\n   and which \"goes\"-word did the course deliberately keep waiting?\n3. The Volume 1 verb roster, from memory: the laugher, the speaker, the carrier, the\n   be-er. Four verbs, four glosses.\n4. From Chapter 3: gloss the everyday trio अद्य, श्वः, ह्यः — अद्य returns as a frame\n   in this chapter's day-narration (l04 §21).\n\n<details><summary>उत्तराणि · Answers</summary>\n\n0. Station 0: counting = the four compressed rounds — stems, chant, ladder, real objects;\n   bare answers are the taught form. Cards: (a) **reject** — novem is Latin's own nine;\n   नव ~ novem are cognates, no arrow; (b) **keep** — the arrow runs INTO Sanskrit, with\n   Hellenistic astronomy; (c) **keep** — two loans from one Greek source, cousins by\n   borrowing (v2.c03.l05 §19 task keys). Score /5 (four rounds + cards ≥2/3); log it.\n1. पठति (paṭhati) \"reads, recites\" — and पठामि (paṭhāmi) \"I read\" (v1.c06.l03 §14).\n2. चलति (calati) \"moves\" carried him — सः विद्यालयम् चलति। The waiting word was गच्छति\n   \"goes\": an ear-word since Chapter 3, never yet a vocabulary row. Its wait ends today\n   (§8).\n3. हसति \"laughs\" · वदति \"speaks\" · वहति \"carries, flows\" · भवति \"is, becomes\" — the\n   Volume 1 roster, all on duty again today.\n4. अद्य \"today\" · श्वः \"tomorrow\" · ह्यः \"yesterday\" (v2.c03.l03 §8).\n</details>\n\nA dropped counting round or a flipped card sends you to v2.c03.l05 §22's remediation row\ntonight — not to a halt today."
+    },
+    {
+      "index": 4,
+      "name": "Historical Context",
+      "anchor": "4-historical-context",
+      "markdown": "ऐतिहासिकः सन्दर्भः — ten everyday verbs, and the fix this chapter is.\n\nEvery language keeps a small set of verbs that do most of the day's work — go, eat,\ndrink, see, hear, say, know. Sanskrit is no different: today's bank is not textbook\nfiller but the high-frequency core of the classical language, the verbs that run its\nstories, its dialogues and its grammar books' own example sentences.\n\n> **[FACT · तथ्यम्]** All ten bank verbs are attested, high-frequency classical Sanskrit,\n> met here in their present-tense \"he/she/it\" forms and glossed whole: गच्छति \"goes\",\n> खादति \"eats\", पिबति \"drinks\", पश्यति \"sees\", शृणोति \"hears\", लिखति \"writes\", जानाति\n> \"knows\" — beside the course's own पठति, वदति, हसति. [REF:apte1890 s.vv.]\n\nOne line of course history, stated as the fix it is: the 1.x book printed this same\nten-verb bank, and printed it correctly — the audit kept the words. What the audit\nrejected was what came next: all ten tense-and-mood systems dumped at once, with no prior\nproduction practice. In 2.0 those systems wait for Volumes 3–4, said once and honestly,\nand this chapter does instead what 1.x skipped — deep, spoken practice of the present\nsingular you already half-own. The chapter you are starting *is* the correction."
+    },
+    {
+      "index": 5,
+      "name": "Scientific Explanation",
+      "anchor": "5-scientific-explanation",
+      "markdown": "वैज्ञानिकं विवरणम् — why verbs change everything, and why today's drills are built the\nway they are.\n\nA noun names; a verb *asserts*. The moment खादति lands in your stock, बालकः and फलम् stop\nbeing a list and become an event — someone is eating something. That is why vocabulary\nwork on verbs pays sentence-sized dividends immediately.\n\n> **[FACT · तथ्यम्]** New vocabulary sticks best when it arrives inside usable patterns\n> and gets retrieved from them, not memorized as bare lists — the frame बालकः ___ खादति\n> turns every verb on today's list into a sentence you can say the hour you learn it.\n> [REF:nation2013]\n\n> **[FACT · तथ्यम्]** Spaced retrieval beats massed re-study; today's Station 0 is\n> v2.c03.l05's +1-week interval landing exactly on schedule, and this lesson's own +1-day\n> re-run is booked before it ends (§20). [REF:cepeda2006] [REF:roediger2006]\n\nTwo of today's drills push past recognition on purpose. The act-and-say rounds bind each\nverb to its meaning through the body — you drink while saying पिबति — so the word stops\nrouting through English at all; and the timed bank recitation trains automaticity, the\nfluency strand's standing demand: a verb you must translate before using is a verb you do\nnot yet own [REF:nation2013]."
+    },
+    {
+      "index": 6,
+      "name": "Sanskrit Explanation",
+      "anchor": "6-sanskrit-explanation",
+      "markdown": "संस्कृतेन विवरणम् — the bank at work, in sentences you fully own:\n\n> **बालकः फलम् खादति।**\n> (bālakaḥ phalam khādati.) \"The boy eats a fruit.\" — बालक फल खाता है।\n\n> **सीता जलम् पिबति।**\n> (sītā jalam pibati.) \"Sītā drinks water.\" — सीता जल पीती है।\n\n> **छात्रः लिखति।**\n> (chātraḥ likhati.) \"The student writes.\" — छात्र लिखता है।\n\nTwo frames, both old friends. With an object: the doer, the thing in its म् dress, the\nverb at the end — exactly the shape of सः पुस्तकम् पठति from the first passage. Without\none: doer plus verb, and the sentence is complete — छात्रः लिखति needs nothing more.\nPause form between words, every word whole, as always."
+    },
+    {
+      "index": 7,
+      "name": "Hindi Explanation",
+      "anchor": "7-hindi-explanation",
+      "markdown": "हिन्दी में समझिए\n\nआज का पाठ शब्दावली का है, पर शब्द विशेष स्वभाव के हैं — ये क्रियाएँ हैं (क्रिया = काम या\nघटना बताने वाला शब्द)। अच्छी ख़बर यह कि इनमें से अधिकतर आपकी हिन्दी की जानी-पहचानी\nलगेंगी: खादति और \"खाता है\", पिबति और \"पीता है\", लिखति और \"लिखता है\", जानाति और \"जानता\nहै\"। यह पहचान आज आपकी सहायक है — पर ध्यान रहे, आज हम रिश्तों के दावे नहीं जोड़ रहे; जो\nदो-तीन दावे ईमानदारी से बनते हैं, वे §13 में तथ्य-लेबल के साथ रखे हैं। आज हर क्रिया पूरा\nशब्द है: गच्छति का अर्थ \"जाता है\", बस इतना। शब्द के भीतर की मशीनरी का विश्लेषण आज नहीं\nहोगा।\n\nउच्चारण की तीन चौकियाँ। पहली — गच्छति का च्छ एक गाँठ है: च् और छ एक ही अक्षर में जुड़े\n(v1.c05 की संयुक्ताक्षर-विद्या)। जीभ तालु पर टिकेगी, ठहरेगी, और एक ही बार फूँक के साथ\nखुलेगी — \"गछति\" नहीं। दूसरी — खादति का ख बिना नुक़्ते वाला ख है: पूरा स्पर्श और फूँक,\nरगड़ नहीं; हिन्दी की आदत से इसे ख़ मत बनाइए, और खा की आ पूरी दो मात्राएँ। तीसरी — शृणोति:\nशृ में ऋ की मात्रा है (\"श्रि\" नहीं), बीच का ण मूर्धन्य है — जीभ मुड़ेगी — और ओ पूरा\nदीर्घ, अंग्रेज़ी \"go\" वाला ओ नहीं। जानाति की दोनों आ भी पूरी — हिन्दी \"जानता\" की लय में\n\"जान्ति\" मत कीजिए।\n\nवाक्य वही पुराने साँचे हैं: कर्ता + (कर्म) + क्रिया, विराम-रूप में — बालकः फलम् खादति।\nसीता जलम् पिबति। कर्म का म् वाला रूप आज भी पूरा शब्द है — कारक-व्याकरण अभी नहीं। और एक\nईमानदार सीमा: आज केवल \"वह\" वाले रूप हैं; अपने \"मैं\" वाले वाक्य अभी भी उन्हीं दो पुराने\nशब्दों से बनाइए जो आपके पास हैं — पठामि, वदामि। जो आता है उसी से सही वाक्य — यही इस\nपाठ्यक्रम का नियम है।"
+    },
+    {
+      "index": 8,
+      "name": "English Explanation",
+      "anchor": "8-english-explanation",
+      "markdown": "No new letter, no new sign — and no new grammar either, honestly: today is pure\nvocabulary, seven whole words of the most useful kind there is.\n\n### The seven, one by one\n\n**गच्छति** (gacchati) \"goes\" — the word with the longest waiting list in the course. You\nhave *heard* it since v1.c03.l02, where it rode the audio as an ear-word because its च्छ\nknot needed Chapter 5's conjuncts. Then came the first passage (v1.c06.l03) — and the\ncourse deliberately kept गच्छति out of it: the walking line was written सः विद्यालयम्\nचलति, with the certified चलति, because a word that has never had a vocabulary row does\nnot get smuggled into a passage. Today the wait ends: गच्छति enters the ledger as a\nheadword, and the sentence the old 1.x passage always wanted — सः विद्यालयम् गच्छति। —\nbecomes fully legal Sanskrit in your mouth.\n\n**खादति** (khādati) \"eats\" and **पिबति** (pibati) \"drinks\" — the table pair. Both read\nwith letters you have owned since Volume 1; the work is the long खा and the crisp, full\nपि. They pair naturally with the stock: फलम् खादति, जलम् पिबति.\n\n**पश्यति** (paśyati) \"sees\" — an old friend's promotion. The chunk पश्य \"look!\" has been\non glue duty since v1.c01.l04, always glossed whole, always an imperative island. Today\nthat imperative-only chunk status retires: पश्यति is the verb proper — \"he/she sees\" —\nand पश्य stays in service as the little \"look!\" it always was. Nothing you learned is\nun-learned; one word has simply grown up.\n\n**शृणोति** (śṛṇoti) \"hears\" and **जानाति** (jānāti) \"knows\" — the two distinguished\nguests. Real, everyday, indispensable verbs — and the two that build their stems\ndifferently from the rest of the bank (§15 says this honestly in one line). You learn\nthem exactly as you learned अस्ति: whole, correct, and without machinery.\n\n**लिखति** (likhati) \"writes\" — the student's verb. छात्रः लिखति is this chapter's quiet\nself-portrait: it is what you will be doing in §18.\n\n### The three veterans — and three more back on duty\n\nThe bank's other three members are already yours: **पठति** \"reads\" (v1.c06.l03), **वदति**\n\"speaks\" (v1.c04.l01) and **हसति** \"laughs\" (v1.c04.l03) — review rows today, full bank\nmembers from now on. And three old engines return in sentence work without joining the\nbank: **चलति** \"moves\" (v1.c03.l02 — the course's first readable verb), **भवति** \"is,\nbecomes\" (v1.c04.l01) and **वहति** \"carries, flows\" (v1.c04.l03). Ten in the bank, three\non the bench, and अस्ति still holding every location sentence it ever held.\n\n### The frames\n\nNothing new to learn here — only new engines in old chassis: **बालकः फलम् खादति।** —\n**सीता जलम् पिबति।** — **छात्रः लिखति।** The doer first, the thing in its म् dress\nglossed whole (the policy since फलम् and जलम् first dressed up), the verb at the end,\npause form throughout. Singular only, \"he/she/it\" only; your own \"I\" sentences keep to\nthe owned पठामि and वदामि. Simplest correct beats ambitious wrong — today as every day.\n\nOne tease, honestly unspoiled: tomorrow the course's first grammar lesson names a pattern\nyou have been using for three chapters. Today, stock the bank."
+    },
+    {
+      "index": 9,
+      "name": "Pronunciation",
+      "anchor": "9-pronunciation",
+      "markdown": "उच्चारणम् — no new sounds; the work is one knot, one double curl, and full finals.\nAudio: 🔊 `planned:assets/audio/volume-2/v2c04l01-drill.mp3` (drills 1–3),\n`planned:assets/audio/volume-2/v2c04l01-verb-bank.mp3` (roll-call, three speeds +\ndictation track).\n\n**Drill 1 — the knot.** Climb with the audio: ग — गच् — गच्छ — गच्छति. The च्छ is one\ngesture: tongue-body seal, a held beat, one release with the puff riding it. If a vowel\nsneaks in (\"gacha-chhati\") or the hold vanishes (\"gachati\"), slow down and re-climb.\n\n**Drill 2 — the double curl.** शृणोति in slow motion: श — शृ — शृणो — शृणोति. The tongue\ncurls for the ृ (syllabic, no helper vowel), uncurls, then curls again for ण, and the ओ\nlands long and pure. Three passes, each slower than feels natural.\n\n**Drill 3 — the sibilant check.** Alternate सा — शा — पश्य — पश्यति. The श of पश्यति is\nthe palatal hush /ɕ/, never plain स; the श्य block is welded, no seam vowel.\n\n**Drill 4 — the bank roll-call.** With the audio, fixed order, three passes (slow ·\nnatural · timed): गच्छति — खादति — पिबति — पश्यति — शृणोति — लिखति — जानाति, then the\nveterans पठति — वदति — हसति. The order is the memory palace; your mouth learns it so §18\nexercise 3's timed take comes out unprompted. Log the third pass time."
+    },
+    {
+      "index": 10,
+      "name": "IPA",
+      "anchor": "10-ipa",
+      "markdown": "No new values — every symbol has been on your chart since Volume 1.\n\n**Word transcriptions:** गच्छति /gɐt͡ɕt͡ɕʰɐt̪i/ · खादति /kʰɑːd̪ɐt̪i/ · पिबति /pibɐt̪i/ ·\nपश्यति /pɐɕjɐt̪i/ · शृणोति /ɕr̩ɳoːt̪i/ · लिखति /likʰɐt̪i/ · जानाति /d͡ʑɑːn̪ɑːt̪i/.\nVeterans: पठति /pɐʈʰɐt̪i/ · वदति /ʋɐd̪ɐt̪i/ · हसति /ɦɐsɐt̪i/ · चलति /t͡ɕɐlɐt̪i/ · भवति\n/bʱɐʋɐt̪i/ · वहति /ʋɐɦɐt̪i/.\n\n**Narrow note — the गच्छ knot:** /t͡ɕt͡ɕʰ/ is the palatal affricate doubled — one long\nclosure, a single release, the aspiration only on the release. Two separate च-sounds with\na vowel between them is the flagged error.\n\n**Narrow note — शृणोति:** syllabic /r̩/ for the ृ (a vowel-slot filled by r itself, as in\nevery ऋ word since v1.c02.l03), retroflex /ɳ/ mid-word, and /oː/ a pure long\nmonophthong — never English \"go\" [oʊ].\n\n**Narrow note — जानाति:** two full /ɑː/ beats around a dental /n̪/ — the Hindi-rhythm\nclip \"jānti\" loses a syllable Sanskrit keeps.\n\n**Narrow note — the sentence subjects:** बालकः /bɑːlɐkɐh/ and छात्रः /t͡ɕʰɑːt̪ɾɐh/ end in\nthe voiceless breath /h/ — the visarga discipline never retires."
+    },
+    {
+      "index": 11,
+      "name": "Mouth Position",
+      "anchor": "11-mouth-position",
+      "markdown": "मुखस्थितिः — four checks; the articulators know all of this already. The word-anatomy\nstrip on the action cards (`planned:assets/images/volume-2/v2c04l01-action-cards.svg`)\nmarks the गच्छ and शृ joins.\n\n1. **The knot check (गच्छति).** Say it in slow motion and freeze inside च्छ: tongue-body\n   sealed against the palate, a held beat, then ONE release with a puff you can feel on\n   your palm. Two releases mean the knot slipped.\n2. **The curl check (शृणोति).** The tongue tip curls twice — once for ृ (no vowel before\n   the r), once for ण — and the lips round for a long pure ओ. \"Shri-no-ti\" means the\n   first curl leaked a vowel; re-run the v1.c02.l03 ऋ drill.\n3. **The puff check (खादति, लिखति).** Both words carry ख — full contact plus real\n   aspiration, felt on the palm. A scraped, fricative \"kh\" (the Hindi ख़ habit) has lost\n   the contact.\n4. **The final-vowel check.** Every bank verb ends in a short, *full* इ — mirror test:\n   the smile position holds through the last beat. Clipped finals are the standing enemy\n   at every speed."
+    },
+    {
+      "index": 12,
+      "name": "Common Mistakes",
+      "anchor": "12-common-mistakes",
+      "markdown": "सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.\n\n1. **The knot simplified: \"gachati\".** The held च्छ collapses to a single छ. *Fix:* §9\n   drill 1 — seal, hold, one release (v1.c05.l02's conjunct mechanism).\n2. **खादति scraped: \"k͟hādati\" with the Hindi ख़.** The ख of खादति is a stop with breath,\n   not a friction sound — and the खा holds two full beats. *Fix:* §11 check 3.\n3. **पश्यति flattened: \"pasyati\".** The palatal श /ɕ/ slides to plain स. *Fix:* §9\n   drill 3 — सा vs शा until the hush is automatic.\n4. **शृणोति re-voweled: \"shrinoti\".** The ृ gains a helper vowel, the ण flattens to न,\n   the ओ shortens or glides. *Fix:* §9 drill 2 — double curl, pure long ओ.\n5. **जानाति clipped: \"jānti\", \"jānati\".** The Hindi जानता rhythm steals the second\n   syllable's length. *Fix:* §10 — two full आ beats, always.\n6. **Over-reach: inventing forms.** Gluing endings onto today's verbs to say \"I eat\" or\n   \"you go\". The bank is \"he/she/it\" forms, whole; your I-lines keep to the owned पठामि\n   and वदामि. Simplest correct beats ambitious wrong. *Fix:* §15's honesty lines.\n7. **The cognate reach: \"गच्छति is English *go*\".** It is not — the resemblance is\n   coincidence, and resemblance alone proves nothing. *Fix:* §13's shelf — honesty about\n   absence is part of the method, and the chapter exam tests it."
+    },
+    {
+      "index": 13,
+      "name": "Examples",
+      "anchor": "13-examples",
+      "markdown": "उदाहरणानि — the cognate shelf: two real siblings, one honest blank, one refused reach.\nNo arrows anywhere today — everything on this shelf is siblings or nothing.\n\n### जानाति and the knowing family — a promise kept\n\n> **[FACT · तथ्यम्]** Sanskrit जानाति \"knows\", English *know* and Greek *gnōsis* are\n> siblings — parallel descendants of the Proto-Indo-European root \\*ǵneh₃- \"to know\".\n> Nobody borrowed anything in any direction. [REF:mallory2006]\n\nv1.c05.l03 §13 built this shelf around ज्ञान \"knowledge\" and promised, by name, that its\nverb जानाति would arrive in Volume 2. Here it is: the √ज्ञा (jñā) family shelf now has\nits living, working verb — the word you will actually say — standing beside the noun you\nhave read for a volume and the English and Greek cousins that share its ancestor.\n\n### पिबति and Latin bibit — one ancestor, two drinkers\n\n> **[FACT · तथ्यम्]** Sanskrit पिबति \"drinks\" and Latin *bibit* \"drinks\" are siblings —\n> parallel descendants of one Proto-Indo-European verb; neither borrowed a drop from the\n> other. [REF:mallory2006]\n\nBoth words even inherited their doubled look from that one ancestor — how the ancestor\nwas built is a Volume 4 story, and we are not opening it today. What you carry out the\ndoor is the honest line: one grandparent, two heirs, no arrows.\n\n### लिखति — and the honest blank\n\n> **[FACT · तथ्यम्]** लिखति \"writes\" has no clean English cognate — and the course says\n> so rather than reaching for one. And the reach the chapter exam will test you on:\n> गच्छति and English *go* are NOT related. They sound alike; resemblance alone proves\n> nothing — relatedness is established by systematic correspondences, not by echoes.\n\nThis is the same discipline एक taught in v2.c03.l01: a shelf with an honest blank is\nworth more than a shelf stuffed with look-alikes. Two real siblings, one blank, one\nrefused reach — that is today's complete shelf, and every claim on it survives checking."
+    },
+    {
+      "index": 14,
+      "name": "Vocabulary",
+      "anchor": "14-vocabulary",
+      "markdown": "शब्दावली — seven headwords, all ledger-new; **297 → 304** (counts reconciled at review,\nas always). Audio: 🔊 `planned:assets/audio/volume-2/v2c04l01-verb-bank.mp3` (each word\ntwice, three-speed passes, then the dictation track). Verbs are listed in their\npresent-tense \"he/she/it\" citation forms, glossed whole — the same honest dress चलति has\nworn since Chapter 3.\n\n| देवनागरी | IAST | IPA | English | हिन्दी | Notes |\n|---|---|---|---|---|---|\n| गच्छति | gacchati | /gɐt͡ɕt͡ɕʰɐt̪i/ | goes | जाता है | ear-word since v1.c03.l02; deliberately withheld from v1.c06.l03's passage (which used चलति) — enters the ledger today (§8); the च्छ knot (§9) |\n| खादति | khādati | /kʰɑːd̪ɐt̪i/ | eats | खाता है | the table verb: फलम् खादति; ख a stop + breath, never scraped (§12); खा two beats |\n| पिबति | pibati | /pibɐt̪i/ | drinks | पीता है | जलम् पिबति; sibling of Latin bibit (§13) |\n| पश्यति | paśyati | /pɐɕjɐt̪i/ | sees | देखता है | the chunk पश्य retires its imperative-only status today — पश्यति is the verb proper (§8); श /ɕ/, श्य welded |\n| शृणोति | śṛṇoti | /ɕr̩ɳoːt̪i/ | hears | सुनता है | builds its stem differently (§15) — taught whole; double curl + pure long ओ (§9) |\n| लिखति | likhati | /likʰɐt̪i/ | writes | लिखता है | छात्रः लिखति; no clean English cognate — said honestly (§13) |\n| जानाति | jānāti | /d͡ʑɑːn̪ɑːt̪i/ | knows | जानता है | builds its stem differently (§15) — taught whole; completes the √ज्ञा shelf of v1.c05.l03 (§13); both आ full |\n\nBack on duty, review rows only — no re-entry to the ledger. The bank's veterans:\n**पठति** (paṭhati) \"reads\" (✓ v1.c06.l03), **वदति** (vadati) \"speaks\" (✓ v1.c04.l01),\n**हसति** (hasati) \"laughs\" (✓ v1.c04.l03) — bank members from today. In sentence work,\noff the bank: **चलति** (calati) \"moves\" (✓ v1.c03.l02), **भवति** (bhavati) \"is, becomes\"\n(✓ v1.c04.l01), **वहति** (vahati) \"carries, flows\" (✓ v1.c04.l03).\n\nThe chunk **पश्य** (paśya) \"look!\" stays in service as the chunk it always was — it never\nheld a ledger row and is not re-counted; पश्यति is the ledger entry.\n\nReading protocol unchanged: count the blocks, read the blocks, read the word —\nग-च्छ-ति, शृ-णो-ति, जा-ना-ति — then the roll-call (§9 drill 4), and no final vowel\nclipped at any speed."
+    },
+    {
+      "index": 15,
+      "name": "Grammar",
+      "anchor": "15-grammar",
+      "markdown": "व्याकरणम् — old frames, new engines, and the honesty lines that keep today safe.\n\n> **[FACT · तथ्यम्]** (1) Every verb on today's list is a whole word, glossed whole — the\n> same honest device the course has used since रामः वदति; no analysis of the word's\n> insides happens today. (2) The sentence frames are the owned ones: doer + verb (छात्रः\n> लिखति), or doer + thing-in-म्-dress + verb (बालकः फलम् खादति) — objects glossed whole,\n> no case teaching, pause form throughout. (3) Today's forms are singular \"he/she/it\"\n> only; first-person lines keep to the owned पठामि and वदामि. (4) शृणोति and जानाति build\n> their stems differently from the rest of the bank — both are taught whole, and their\n> other forms will arrive as whole words too. [REF:apte1890]; [REF:whitney1889]\n\n### The two frames\n\n| Frame | Example | Note |\n|---|---|---|\n| doer + verb | छात्रः लिखति। · परिवारः हसति। | complete as it stands — no object needed |\n| doer + object + verb | बालकः फलम् खादति। · सीता जलम् पिबति। | the म्-dressed thing glossed whole, as since v1.c06.l03 |\n\nThe verb stands last in today's sentences — the order you have read since बालकः चलति।\nOther orders exist in real Sanskrit; they are later business, and nothing you build today\nwill need un-building.\n\n### What is deliberately not here\n\nNo \"I go\", no \"you eat\" — today's bank speaks only in the third person. No new object\nnouns either: the bank eats what the ledger already stocks — फलम्, जलम्, पुस्तकम्,\nसंस्कृतम्, विद्यालयम्, गृहम्. A fuller pantry is a later lesson's business. And the one\nline worth repeating from the callout: शृणोति and जानाति are not broken, not irregular\nnuisances — they simply build their stems differently, and this course tells you so\ninstead of pretending otherwise."
+    },
+    {
+      "index": 16,
+      "name": "Conversation",
+      "anchor": "16-conversation",
+      "markdown": "सम्भाषणम् — one scene: कमला and माया in the schoolyard, watching the morning happen.\nAudio records into the Chapter 4 drill pack (§27). Every word is self-read.\n\n— नमस्ते, माया!\n(namaste, māyā!) \"Greetings, Māyā!\" — नमस्ते, माया!\n\n— नमस्ते! पश्य — तत्र अर्जुनः! सः फलम् खादति।\n(namaste! paśya — tatra arjunaḥ! saḥ phalam khādati.) \"Greetings! Look — Arjuna is\nthere! He is eating a fruit.\" — नमस्ते! देखो — वहाँ अर्जुन! वह फल खा रहा है।\n\n— सीता अपि तत्र अस्ति। सा किम् पिबति?\n(sītā api tatra asti. sā kim pibati?) \"Sītā is there too. What is she drinking?\" — सीता\nभी वहाँ है। वह क्या पी रही है?\n\n— सा जलम् पिबति।\n(sā jalam pibati.) \"She is drinking water.\" — वह जल पी रही है।\n\n— छात्रः किम् पठति?\n(chātraḥ kim paṭhati?) \"What is the student reading?\" — छात्र क्या पढ़ रहा है?\n\n— सः संस्कृतम् पठति। पश्य — सः लिखति!\n(saḥ saṃskṛtam paṭhati. paśya — saḥ likhati!) \"He is reading Sanskrit. Look — he is\nwriting!\" — वह संस्कृत पढ़ रहा है। देखो — वह लिख रहा है!\n\n— गुरुः वदति — छात्रः शृणोति।\n(guruḥ vadati — chātraḥ śṛṇoti.) \"The teacher speaks — the student listens.\" — गुरु\nबोलते हैं — छात्र सुनता है।\n\n— सः संस्कृतम् जानाति!\n(saḥ saṃskṛtam jānāti!) \"He knows Sanskrit!\" — वह संस्कृत जानता है!\n\n— अहम् अपि संस्कृतम् पठामि! स्वस्ति!\n(aham api saṃskṛtam paṭhāmi! svasti!) \"I read Sanskrit too! Farewell!\" — मैं भी संस्कृत\nपढ़ती हूँ! अच्छा, चलती हूँ!\n\n— स्वस्ति! पुनः मिलामः!\n(svasti! punaḥ milāmaḥ!) \"Farewell — we meet again!\" — नमस्ते! फिर मिलेंगे!\n\nHousekeeping: the किम् question rides v1.c06.l03's किम् सः पठति? frame; सा \"she\" and सः\n\"he\" are the first passage's pair; the closing पठामि is the owned first-person line — the\nscene never says \"you do X\", because that machinery is this chapter's later business.\nPause form between turns, one full beat, as always."
+    },
+    {
+      "index": 17,
+      "name": "Story",
+      "anchor": "17-story",
+      "markdown": "कथा — अर्जुनः गृहम् गच्छति · Arjuna Goes Home. Eight lines; each line: Devanagari, IAST,\nEnglish, Hindi. The running cast, finally in motion.\n\n1. सायम् अस्ति। अर्जुनः गृहम् गच्छति।\n   (sāyam asti. arjunaḥ gṛham gacchati.) \"It is evening. Arjuna goes home.\" — शाम है।\n   अर्जुन घर जाता है।\n2. माता अत्र अस्ति। पिता अपि अत्र अस्ति।\n   (mātā atra asti. pitā api atra asti.) \"Mother is here. Father is here too.\" — माता\n   यहाँ हैं। पिता भी यहाँ हैं।\n3. पिता पुस्तकम् पठति। माता लिखति।\n   (pitā pustakam paṭhati. mātā likhati.) \"Father reads a book. Mother writes.\" — पिता\n   पुस्तक पढ़ते हैं। माता लिखती हैं।\n4. अर्जुनः फलम् खादति। माया जलम् पिबति।\n   (arjunaḥ phalam khādati. māyā jalam pibati.) \"Arjuna eats a fruit. Māyā drinks\n   water.\" — अर्जुन फल खाता है। माया जल पीती है।\n5. कमला वदति — पश्य! तत्र कपिः!\n   (kamalā vadati — paśya! tatra kapiḥ!) \"Kamalā says: look! A monkey, there!\" — कमला\n   कहती है — देखो! वहाँ बन्दर!\n6. अर्जुनः पश्यति — कपिः फलम् खादति!\n   (arjunaḥ paśyati — kapiḥ phalam khādati!) \"Arjuna sees it — the monkey is eating a\n   fruit!\" — अर्जुन देखता है — बन्दर फल खा रहा है!\n7. परिवारः हसति। अर्जुनः अपि हसति।\n   (parivāraḥ hasati. arjunaḥ api hasati.) \"The family laughs. Arjuna laughs too.\" —\n   परिवार हँसता है। अर्जुन भी हँसता है।\n8. माता वदति — अर्जुनः शृणोति। सः संस्कृतम् जानाति। सर्वम् शुभम्।\n   (mātā vadati — arjunaḥ śṛṇoti. saḥ saṃskṛtam jānāti. sarvam śubham.) \"Mother speaks —\n   Arjuna listens. He knows Sanskrit. All is well.\" — माता बोलती हैं — अर्जुन सुनता है।\n   वह संस्कृत जानता है। सब शुभ है।\n\nThe quiet craft notes: line 1 is the sentence the course refused to write in v1.c06.l03 —\nगच्छति, finally legal, walking Arjuna home; the कपिः of v1.c03.l05's कपिः चलति returns\nto steal a fruit; and every one of the seven new verbs takes a turn while the\nChapter 2 household stands exactly where §17 of that chapter left it."
+    },
+    {
+      "index": 18,
+      "name": "Exercises",
+      "anchor": "18-exercises",
+      "markdown": "अभ्यासाः — six exercises; 2, 3, 4 and 5 are production tasks. Do them in order. All keys\nsit in §19's collapsed key — nothing is answered on this page.\n\n**अभ्यासः 1 · मेलनम् (verb–noun matching — timed).** Ninety seconds, the matching grid\n(worksheet or board): subjects बालकः · सीता · छात्रः · माता · कपिः down one side, objects\nफलम् · जलम् · पुस्तकम् across the top, the seven new verbs on cards. Build six *sensible*\npause-form sentences — doer, thing, verb — and say each aloud as you lay it. Which verbs\nrefused an object entirely? Note them for the key.\n\n**अभ्यासः 2 · अभिनयः (act-and-say — production, spoken).** The TPR round. Shuffle the\nseven action cards. Draw one: *do* the action — walk, mime eating, drinking, peering,\ncupping an ear, writing in air, tapping your temple — while saying the matching sentence\nabout yourself in the third person, narrator-style: बालकः गच्छति। (or सीता, if that is\nyou). Two full passes through the deck; no English anywhere in the loop.\n\n**अभ्यासः 3 · कोशपाठः (the timed bank recitation — production, spoken/recorded).** One\nrecorded take: the ten-verb bank in the §9 drill-4 order — the seven new, then पठति,\nवदति, हसति — three passes: slow, natural, timed. Log the timed pass against your drill-4\ntime. The standing law at every speed: the च्छ knot held, the double curl curled, every\nfinal इ full. This recording is tomorrow's baseline (§20).\n\n**अभ्यासः 4 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track\n🔊: the seven headwords in random order, each read twice with a writing pause. Write them\nin Devanagari. Self-check against §14: च्छ welded, शृ with the ृ mātrā, ण not न, both आ\nof जानाति long. 6/7 is a pass; below that, re-take it with tonight's homework (§21).\n\n**अभ्यासः 5 · अनुवादः (translate the day — production, written).** Write the Sanskrit,\npause form: (a) \"The boy eats a fruit.\" (b) \"Sītā drinks water.\" (c) \"The student\nwrites.\" (d) \"Arjuna goes to school.\" (e) \"Mother listens.\" Read your five aloud as one\ntiny report. Self-check: every sentence is a §6/§16 line or one word-swap away from one.\n\n**अभ्यासः 6 · अङ्कनम् (the shelf sort).** Keep or reject, one reasoning line each:\n(a) \"जानाति, English *know* and Greek *gnōsis* are siblings — descendants of one\nancestor.\" (b) \"English *know* comes from Sanskrit जानाति.\" (c) \"पिबति and Latin *bibit*\nare siblings from one ancestor.\" (d) \"लिखति's English cousin is *like* — they sound\nalike.\" (e) \"गच्छति and English *go* are cognates.\" Before checking: which two cards fail\nfor the *same* reason — and what is that reason?"
+    },
+    {
+      "index": 19,
+      "name": "Quiz",
+      "anchor": "19-quiz",
+      "markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. खादति means: (a) drinks (b) eats (c) sees (d) goes\n2. Which pair is siblings by shared descent? (a) गच्छति and English *go* (b) पिबति and\n   Latin *bibit* (c) लिखति and English *like* (d) खादति and English *eat*\n3. The honest statement about गच्छति and English *go*: (a) they are cognates (b) English\n   borrowed *go* from Sanskrit (c) they are not related — the resemblance is coincidence,\n   and resemblance alone proves nothing (d) Sanskrit borrowed गच्छति from English\n4. जानाति completes which shelf? (a) the √ज्ञा family of v1.c05.l03 §13 — ज्ञान beside\n   English *know* and Greek *gnōsis*, siblings with no borrowing (b) the होरा loan shelf\n   (c) the month-name shelf (d) no shelf — it has no relatives\n5. शृणोति and जानाति: (a) work exactly like the other eight bank verbs (b) build their\n   stems differently — taught whole today, their other forms arriving later as whole\n   words (c) are not real classical Sanskrit (d) are borrowings from Greek\n6. लिखति's clean English cognate is: (a) *like* (b) *write* (c) honestly, none — and the\n   course says so rather than reaching (d) *lick*\n7. Before today, गच्छति was: (a) a brand-new word nobody had met (b) a Chapter 3\n   ear-word, deliberately kept out of the first passage — which used चलति instead — and\n   only today a ledger headword (c) an upgrade of चलति (d) a Hindi word, not Sanskrit\n8. Reading check — write the English meaning of each: (a) सीता जलम् पिबति। (b) बालकः\n   फलम् खादति। (c) अर्जुनः विद्यालयम् गच्छति।\n\n<details><summary>उत्तराणि · Answer Key</summary>\n\n1. (b) eats (§14). ((a), (c), (d) are पिबति, पश्यति, गच्छति.)\n2. (b) — the shelf's second sibling pair (§13). ((a) is §12 mistake 7's refused reach; (c) is exercise 6's sound-alike; (d) pairs meanings, not forms.)\n3. (c) — honesty about absence; the chapter exam re-tests this card (§13).\n4. (a) — the promise v1.c05.l03 §13 made by name, kept today (§13).\n5. (b) — the one honest line, no machinery (§15). ((a) is §12's over-reach in disguise.)\n6. (c) — the honest blank on the shelf (§13).\n7. (b) — ear-word (v1.c03.l02), deliberately withheld (v1.c06.l03), headword today\n   (§8, §14).\n8. (a) \"Sītā drinks water.\" (b) \"The boy eats a fruit.\" (c) \"Arjuna goes to school.\"\n\n**Exercise keys.** 1: sensible pairings — खादति takes फलम्; पिबति takes जलम्; लिखति\ntakes पुस्तकम् or stands alone; पश्यति takes any of the three (बालकः फलम् पश्यति);\nगच्छति, शृणोति, जानाति work object-free in today's stock (गच्छति also takes the\nplace-words विद्यालयम्/गृहम्, as in §17); the refusers to note: गच्छति and शृणोति built\nno thing-sentences from this grid (जानाति + पुस्तकम् \"knows the book\" is a stretch —\naccept either verdict).\n2: scored on loop integrity — action + sentence, no English inside the loop. 3: pass =\nall ten verbs, order intact, knot and curls intact, timed pass at or under the drill-4\nlog. 4: the seven headwords per §14; 6/7 passes. 5: (a) बालकः फलम् खादति। (b) सीता जलम्\nपिबति। (c) छात्रः लिखति। (d) अर्जुनः विद्यालयम् गच्छति। (e) माता शृणोति। 6: (a) **keep**\n— the §13 FACT; (b) **reject** — siblings, not parent and child; nobody borrowed;\n(c) **keep** — the §13 FACT; (d) **reject**; (e) **reject** — and (d) and (e) fail for\nthe same reason: sounding alike proves nothing; relatedness needs systematic\ncorrespondences, not echoes (§13).\n</details>"
+    },
+    {
+      "index": 20,
+      "name": "Revision",
+      "anchor": "20-revision",
+      "markdown": "पुनरावृत्तिः — one screen to remember.\n\n> **The bank:** गच्छति खादति पिबति पश्यति शृणोति लिखति जानाति + पठति वदति हसति — ten\n> verbs, whole words, \"he/she/it\" only. **The frames:** बालकः फलम् खादति। सीता जलम्\n> पिबति। छात्रः लिखति। **The honesty lines:** शृणोति and जानाति build their stems\n> differently; your I-lines stay with पठामि and वदामि. **The shelf:** जानाति ~ know ~\n> gnōsis · पिबति ~ bibit — siblings, no arrows; लिखति — honestly blank; गच्छति and go —\n> not related. **The ledger:** seven new — 304.\n\nSpaced review (distributed practice beats cramming [REF:cepeda2006]):\n\n- +1 day: the ten-verb bank recited cold (seven new + पठति वदति हसति) and one act-and-say\n  round — v2.c04.l02's Station 0 runs exactly this.\n- **This week:** one bank roll-call daily, and keep one counting take from Chapter 3 warm\n  in the maintenance rotation.\n- **In 1 week:** the bank stands for this chapter's production tasks and the verb exam\n  (v2.c04.l05) — the chapter's lessons will remind you."
+    },
+    {
+      "index": 21,
+      "name": "Homework",
+      "anchor": "21-homework",
+      "markdown": "गृहकार्यम् — about 35 minutes total.\n\n1. **(15 min)** Finish exercises 3, 4 and 5 if not completed in class: the recorded bank\n   take, the dictation pass, and the five translated sentences read aloud.\n2. **(10 min, real world)** Narrate your household tonight, third person, pause form —\n   पिता पुस्तकम् पठति। माता लिखति। बालकः फलम् खादति। — one honest sentence per person you\n   can see. If someone asks what you are doing, teach them one verb back, action and all.\n3. **(10 min, teach-back)** Tell someone the जानाति line with the direction honest:\n   जानाति, English *know* and Greek *gnōsis* are siblings from one ancestor — nobody\n   borrowed. And when they try \"so *go* must be गच्छति!\", you own the honest answer: not\n   related — sounding alike proves nothing, and this course says so out loud."
+    },
+    {
+      "index": 22,
+      "name": "Teacher Notes",
+      "anchor": "22-teacher-notes",
+      "markdown": "अध्यापकटिप्पणी\n\n**Open with the frozen scene, not the list.** Put five noun cards on the board — बालकः,\nफलम्, जलम्, सीता, छात्रः — and ask the room to make something *happen* with them. They\ncan't (one चलति and an अस्ति only go so far). Then deal the seven verb cards one at a\ntime and watch the board come alive. The lesson's thesis — verbs turn a word-stock into a\nworld — lands better demonstrated than announced.\n\n**Timing plan (45 min):** Station 0 + prompts, scores logged (8) → bank walk-through on\nthe action cards; गच्छति's and पश्यति's comeback stories told honestly (9) →\npronunciation knots: गच्छ, शृणो, पश्य drills (6) → frame work: matching grid in pairs,\nsentences aloud (7) → act-and-say, two passes (6) → the shelf: जानाति, पिबति, the लिखति\nblank, the गच्छति-go refusal (4) → timed recitation + dictation launch (4) → homework and\nthe +1-day booking read aloud (1).\n\n**Board work:** a bank vault drawn as a 2×5 grid — seven boxes opened today (cards pinned\nin as they arrive), three veterans' boxes already stamped. Keep a side tray labeled \"on\nthe bench\": चलति, भवति, वहति — in sentences, not in the bank.\n\n**Someone will spot the matching tails.** Mid-roll-call a learner will notice all ten\nverbs end alike and ask. Congratulate the noticing, write nothing, and park it: that\nobservation is tomorrow's entire lesson, and it lands harder if today only collects the\nevidence. Do not name the pattern today — not even as a hint.\n\n**Run the shelf with the refusal front and center.** The गच्छति-go card is the teachable\nmoment: let the room vote cognate/not before you land it. The winning insight is the\nmethod — resemblance alone proves nothing; the honest blank beside लिखति makes the same\npoint from the other side. Both cards return on the chapter exam.\n\n**Differentiation:** Hindi speakers own half the bank by instinct (खाता, पीता, लिखता,\nजानता) — their work is the finals (every -ति full), the खा length, the ण curl, and\nresisting the \"it's just Hindi\" shortcut that erases exactly the differences the course\nteaches. Script-side learners drill गच्छ from components (ग + च् + छ, v1.c05.l02) before\nspeed work.\n\n**What students find hard:** the च्छ hold under time pressure (slow the roll-call before\ntiming it); शृ without a helper vowel (the v1.c02.l03 ऋ drill transfers whole); the urge\nto say \"I eat\" the hour they learn खादति — honor the ambition, point at पठामि/वदामि, and\npromise the machinery is days, not volumes, away; and accepting that शृणोति and जानाति\nget no explanation today — \"builds its stem differently\" is the whole truth on offer, and\nsaying it plainly beats a half-taught system."
+    },
+    {
+      "index": 23,
+      "name": "AI Image Prompt",
+      "anchor": "23-ai-image-prompt",
+      "markdown": "**Asset 1 — `planned:assets/images/volume-2/v2c04l01-action-cards.svg`**\n\n> Clean educational card sheet, warm off-white background, Noto Serif Devanagari, two\n> colors, monochrome-safe. A 2×5 grid of action cards, one per bank verb: a simple\n> stick-figure mid-action (walking, eating, drinking, peering with a flat hand, cupping\n> an ear, writing, tapping the temple, reading, speaking, laughing) with the Devanagari\n> verb beneath — गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति, पठति, वदति, हसति.\n> The seven new cards carry a small \"NEW\" corner tab; पठति, वदति, हसति carry a check-mark\n> tab. शृणोति and जानाति carry one extra hanging tag: \"builds its stem differently —\n> taught whole\". Footer word-anatomy strip: गच्छ circled (\"च् + छ — one knot, one\n> release\") and शृ circled (\"ऋ mātrā — syllabic r̩\"). Corner note: \"whole words today\".\n\n**Asset 2 — `planned:assets/images/volume-2/v2c04l01-cognate-shelf.svg`**\n\n> The honesty shelf: a wooden shelf unit, warm off-white, Noto Serif Devanagari + clean\n> Latin serif, two colors, monochrome-safe. Shelf 1: जानाति beside *know* and *gnōsis*\n> under one plain node labeled \"one ancestor (reconstructed)\" — no arrows; caption\n> \"siblings — nobody borrowed\". A small ज्ञान chip links back: \"the shelf of v1.c05.l03 —\n> promise kept\". Shelf 2: पिबति beside *bibit* under one node, same caption style.\n> Shelf 3: लिखति alone, the space beside it deliberately empty, caption \"no clean English\n> cognate — said honestly\". Below the shelves: a hand reaching गच्छति toward *go*, a\n> gentle X between them, caption \"NOT related — resemblance alone proves nothing\".\n\n**Asset 3 — `planned:assets/worksheets/volume-2/v2c04l01-verb-drills.pdf` (layout spec)**\n\n> A4 worksheet, portrait. Top third: the matching grid — subjects down the left (बालकः,\n> सीता, छात्रः, माता, कपिः), objects across the top (फलम्, जलम्, पुस्तकम्), verb word-bank\n> along the edge; six ruled sentence lines beneath, pause-form reminder in the margin.\n> Middle third: the act-and-say log (two passes × seven cards, tick boxes) and the timed\n> recitation log — rows: slow, natural, timed, tomorrow's cold re-run. Bottom third:\n> dictation rows with knot/curl/length tick-boxes (च्छ · शृ · ण · जा-ना), the five\n> translation lines, and the Station 0 score log (counting /4, cards /3). Footer chants:\n> \"hold the knot\" · \"every final इ full\" · \"no arrow without evidence\"."
+    },
+    {
+      "index": 24,
+      "name": "AI Video Prompt",
+      "anchor": "24-ai-video-prompt",
+      "markdown": "Lesson video, ~6 min, presenter + motion graphics.\n\n1. **Hook (0:00–0:40):** a frozen tableau — boy, fruit, water-jar, book, school gate as\n   paper cutouts; seven verb cards fly in and the scene animates: eating, drinking,\n   walking, watching. Title card: दश क्रियाः — The Verb Bank.\n2. **The vault opens (0:40–2:00):** a bank-vault door swings; ten deposit boxes inside;\n   seven open one by one as their action figures step out; three are already stamped with\n   check marks — पठति, वदति, हसति step out waving, old friends.\n3. **The knots (2:00–3:00):** गच्छति in slow motion — the च्छ seal held on a pressure\n   gauge, one release puffing a feather; शृणोति's tongue-inset curling twice; खादति's\n   tissue-puff test beside a crossed-out scraped \"kh\".\n4. **Sentences move (3:00–4:10):** fridge-magnet words snap: बालकः + फलम् + खादति। — then\n   subjects, objects and verbs swap in a grid, each legal sentence clicking home; सीता\n   जलम् पिबति। छात्रः लिखति।\n5. **The shelf (4:10–5:10):** जानाति slides onto the v1.c05.l03 shelf beside ज्ञान,\n   *know* and *gnōsis* under one glowing ancestor node — no arrows; पिबति joins *bibit*;\n   लिखति's shelf-space stays honestly empty; a hand reaches गच्छति toward *go* and a\n   gentle buzzer sounds — caption: \"resemblance alone proves nothing.\"\n6. **Recap + CTA (5:10–6:00):** the ledger counter ticks 297 → 304; the ten cards line up\n   for one full roll-call on a beat. End card: \"Next: त्रयः पुरुषाः — The Three Persons.\""
+    },
+    {
+      "index": 25,
+      "name": "Voice-over Script",
+      "anchor": "25-voice-over-script",
+      "markdown": "Narration for the lesson video (§24); Sanskrit terms carry IPA cues in [brackets] — the\nnarrator reads the cue, not the English spelling.\n\n- **00:00** Two hundred and ninety-seven words — and almost all of them standing still. Watch\n  what seven verbs do. gacchati [gɐt͡ɕt͡ɕʰɐt̪i] — goes. khādati [kʰɑːd̪ɐt̪i] — eats.\n  pibati [pibɐt̪i] — drinks. The world starts moving.\n- **00:40** The bank holds ten. Seven are new today: paśyati [pɐɕjɐt̪i] — sees. śṛṇoti\n  [ɕr̩ɳoːt̪i] — hears. likhati [likʰɐt̪i] — writes. jānāti [d͡ʑɑːn̪ɑːt̪i] — knows. Three\n  you own already: paṭhati [pɐʈʰɐt̪i], vadati [ʋɐd̪ɐt̪i], hasati [ɦɐsɐt̪i].\n- **02:00** Two knots to tie. In gacchati, the tongue seals, holds, and releases once —\n  one knot, one puff. In śṛṇoti, the tongue curls twice — and the o stays long and pure.\n- **03:00** Now the frames you already own: bālakaḥ phalam khādati [bɑːlɐkɐh pʰɐlɐm\n  kʰɑːd̪ɐt̪i] — the boy eats a fruit. sītā jalam pibati — Sītā drinks water. chātraḥ\n  likhati — the student writes. Old chassis, new engines.\n- **04:10** The honest shelf. jānāti, English *know*, Greek *gnōsis* — siblings, one\n  ancestor, nobody borrowed. pibati and Latin *bibit* — siblings again. likhati — no\n  clean English cousin, and we say so. And gacchati and *go*? Not related. Resemblance\n  proves nothing.\n- **05:10** Three hundred four words — and now they can act. Tomorrow, the course's\n  first grammar lesson names a pattern you have been using for three chapters. Today,\n  recite the bank once more. punaḥ milāmaḥ [pun̪ɐh milɑːmɐh]!"
+    },
+    {
+      "index": 26,
+      "name": "Reel Script",
+      "anchor": "26-reel-script",
+      "markdown": "40–50 seconds, vertical, captions burned in.\n\n- **Hook (0:00–0:07):** rapid cuts of still objects — a fruit, a glass, a book. Text:\n  \"Your Sanskrit owns 297 words. Today, seven of them start to move.\"\n- **Demo (0:07–0:30):** magnet words snap with sound effects: bālakaḥ + phalam +\n  khādati! — \"the boy eats the fruit.\" sītā jalam pibati! Then the shelf gag: jānāti\n  slides in next to *know* and *gnōsis* — \"siblings — one ancestor, nobody borrowed.\" A hand\n  drags gacchati toward *go* — buzzer — \"NOT related. Sounding alike proves nothing, and\n  this course says so.\"\n- **Payoff (0:30–0:43):** \"Learners of this course can now say who eats, who drinks, who\n  writes, who knows — ten verbs, honestly taught, zero fake cognates.\"\n- **CTA (0:43–0:50):** \"Next: त्रयः पुरुषाः — The Three Persons. Follow for Chapter 4.\"\n  (End card: दश क्रियाः — the verb bank.)"
+    },
+    {
+      "index": 27,
+      "name": "Metadata",
+      "anchor": "27-metadata",
+      "markdown": "- **Asset manifest (all planned, none existing yet):**\n  - `assets/images/volume-2/v2c04l01-action-cards.svg` — §8 bank walk, §11 anatomy strip,\n    §18 exercise 2 deck, §22 board model, §23 prompt 1\n  - `assets/images/volume-2/v2c04l01-cognate-shelf.svg` — §13 shelf, §18 exercise 6, §23\n    prompt 2\n  - `assets/audio/volume-2/v2c04l01-drill.mp3` — §9 drills 1–3 model readings and call\n    tracks\n  - `assets/audio/volume-2/v2c04l01-verb-bank.mp3` — §9 drill 4 roll-call, §14 word list,\n    three-speed passes, randomized 7-word dictation track with transcript (§18 exercise 4)\n  - `assets/worksheets/volume-2/v2c04l01-verb-drills.pdf` — §18 exercises 1–5 + Station 0\n    score log\n  - §16/§17 audio is NOT in this manifest — record into the Chapter 4 drill pack\n    (chapter.md manifest: per-lesson dialogue audio) and back-link here when it exists.\n- **Station 0 chain:** §3 runs v2.c03.l05's +1-week exactly as its §20 booked it — tasks\n  C and D compressed, interval label +1 week; this lesson's §20 books v2.c04.l02's\n  Station 0 as the ten-verb bank recited cold (seven new + पठति वदति हसति) plus one\n  act-and-say round. Pass D must diff l02's §3 against that line verbatim — the c03\n  review's finding was §20↔§3 booking drift; do not let it recur.\n- **Related lessons:** reviews v2.c03.l05 (Station 0 — tasks C and D compressed in §3)\n  and v1.c06.l03 (पठति/पठामि, the passage frames, the deliberate गच्छति withholding —\n  resolved here in §8/§14); builds on v1.c03.l02 (चलति; गच्छति as ear-word; च्छ\n  preview), v1.c03.l05 (बालकः, कपिः, फल), v1.c04.l01 (वदति, भवति), v1.c04.l03 (हसति,\n  वहति, गुरुः), v1.c05.l02–l03 (conjunct mechanism; the √ज्ञा shelf — grown here in\n  §13), v2.c02 (the household cast and noun stock), v2.c03 (Station 0 material; अद्य\n  trio kept warm for l04); feeds v2.c04.l02 (त्रयः पुरुषाः — Station 0 booked in §20;\n  the pattern reveal this lesson deliberately does not name), v2.c04.l03 (the\n  doing-dialogue; new object nouns land there, not here), v2.c04.l04 (the day passage —\n  §17's vignette is its seed), v2.c04.l05 (Station 1's bank recitation, baselined by §18\n  exercise 3; task D's गच्छति-go honesty card from §13), v2.c06 (cognate sets at scale),\n  Volumes 3–4 (tense/mood systems and the stem machinery — the §4 forward line).\n- **Glossary:** candidate addition — **क्रिया (kriyā) \"verb; action\" (first taught as a\n  term v2.c04.l01; glossed in Hindi at first occurrence per STYLE_GUIDE §1.2)**; reuses\n  संयुक्ताक्षर, विसर्ग, मात्रा per GLOSSARY.md.\n- **Export notes:** ledger per the chapter plan: seven headwords, all ledger-new —\n  **297 → 304**; chapter chain 297 → 304 → 305 → 308 → 308 (reconciled at review).\n  गच्छति exports as a NEW ledger row carrying attestation history (`ear_word_since:\n  v1.c03.l02`; `withheld_at: v1.c06.l03`), not as an upgrade. पश्यति exports as a new\n  headword; the chunk पश्य never held a ledger row — cross-reference, do not re-count,\n  and do not mark पश्यति `upgrade_of`. Review rows पठति, वदति, हसति, चलति, भवति, वहति\n  export flagged review-duplicate, not new. शृणोति and जानाति export with\n  `stem_note: \"builds its stem differently\"` — the approved phrasing; class numbers\n  must NOT appear in any export field. The जानाति/know/gnōsis and पिबति/bibit relations\n  export as `cognate` rows with `direction: shared-descent`; लिखति exports a\n  `cognate: none` honesty row; गच्छति–go exports as `non_cognate` (the l05 task D card\n  source). Quoted error forms (\"gachati\", \"pasyati\", \"shrinoti\", \"jānti\") export as\n  `error_form`, never as transliteration. §19 key (quiz + exercise keys) stays in\n  `<details>` in all renders.\n- **Verification flags for Pass C:** all seven headword glosses against [REF:apte1890\n  s.vv.] (खाद्, पा/पिब्, दृश् s.v. only for the dictionary lookup — the root itself is\n  NOT named in the lesson, per the stem-honesty policy; गम् likewise unmentioned);\n  शृणोति/जानाति treated whole-word only — confirm no class number or root/suppletion\n  talk leaked into §8/§14/§15 (approved phrasing: \"builds its stem differently\");\n  जानाति ~ know ~ gnōsis and the \\*ǵneh₃- line (§13) against [REF:mallory2006],\n  continuity-checked against v1.c05.l03 §13's wording; पिबति ~ bibit (§13) against\n  [REF:mallory2006] — if the set is thin there, drop to Latin-only or cut per the\n  chapter fact base; the लिखति no-clean-cognate line and the गच्छति/go non-relation\n  (§13, §19 Q3/Q6) — honesty-about-absence claims, verify no counter-evidence and log;\n  Whitney cited bare in §15 pending the Pass C locator check (notes §0.1); the §8/§14\n  course-history claims (गच्छति ear-word v1.c03.l02; withheld at v1.c06.l03 in favor of\n  चलति; पश्य on glue duty since v1.c01.l04) verified against the files on disk this\n  draft; all §10/§14 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); §16/§17\n  vocabulary confined to attested stock (कपिः v1.c03.l05; सायम् v2.c01.l03; सर्वम्\n  शुभम् v2.c02.l01 §17) — Pass D re-checks.\n- **Register audit:** FACT ×7 (§4 bank attestation ×1 · §5 patterns + spacing ×2 · §13\n  shelf ×3 · §15 frames-and-honesty ×1) · HISTORY ×0 (no dated claims) · TRADITION ×0 ·\n  SYMBOL ×0. The 1.x ten-lakāra dump appears only as a documented 1.x error (§4),\n  paraphrased without quotation, per EDITORIAL_GUIDELINES §3. Quiz Q1–Q8 all\n  FACT-register content; Q7 is an in-course history card, the FACT precedent of\n  v2.c03.l05's task D."
+    }
+  ],
+  "vocabulary": [
+    {
+      "deva": "गच्छति",
+      "iast": "gacchati",
+      "ipa": "/gɐt͡ɕt͡ɕʰɐt̪i/",
+      "en": "goes",
+      "hi": "जाता है",
+      "notes": "ear-word since v1.c03.l02; deliberately withheld from v1.c06.l03's passage (which used चलति) — enters the ledger today (§8); the च्छ knot (§9)"
+    },
+    {
+      "deva": "खादति",
+      "iast": "khādati",
+      "ipa": "/kʰɑːd̪ɐt̪i/",
+      "en": "eats",
+      "hi": "खाता है",
+      "notes": "the table verb: फलम् खादति; ख a stop + breath, never scraped (§12); खा two beats"
+    },
+    {
+      "deva": "पिबति",
+      "iast": "pibati",
+      "ipa": "/pibɐt̪i/",
+      "en": "drinks",
+      "hi": "पीता है",
+      "notes": "जलम् पिबति; sibling of Latin bibit (§13)"
+    },
+    {
+      "deva": "पश्यति",
+      "iast": "paśyati",
+      "ipa": "/pɐɕjɐt̪i/",
+      "en": "sees",
+      "hi": "देखता है",
+      "notes": "the chunk पश्य retires its imperative-only status today — पश्यति is the verb proper (§8); श /ɕ/, श्य welded"
+    },
+    {
+      "deva": "शृणोति",
+      "iast": "śṛṇoti",
+      "ipa": "/ɕr̩ɳoːt̪i/",
+      "en": "hears",
+      "hi": "सुनता है",
+      "notes": "builds its stem differently (§15) — taught whole; double curl + pure long ओ (§9)"
+    },
+    {
+      "deva": "लिखति",
+      "iast": "likhati",
+      "ipa": "/likʰɐt̪i/",
+      "en": "writes",
+      "hi": "लिखता है",
+      "notes": "छात्रः लिखति; no clean English cognate — said honestly (§13)"
+    },
+    {
+      "deva": "जानाति",
+      "iast": "jānāti",
+      "ipa": "/d͡ʑɑːn̪ɑːt̪i/",
+      "en": "knows",
+      "hi": "जानता है",
+      "notes": "builds its stem differently (§15) — taught whole; completes the √ज्ञा shelf of v1.c05.l03 (§13); both आ full"
+    }
+  ],
+  "quiz": {
+    "questions_markdown": "प्रश्नाः — answers in the key at the end; no peeking mid-quiz.\n\n1. खादति means: (a) drinks (b) eats (c) sees (d) goes\n2. Which pair is siblings by shared descent? (a) गच्छति and English *go* (b) पिबति and\n   Latin *bibit* (c) लिखति and English *like* (d) खादति and English *eat*\n3. The honest statement about गच्छति and English *go*: (a) they are cognates (b) English\n   borrowed *go* from Sanskrit (c) they are not related — the resemblance is coincidence,\n   and resemblance alone proves nothing (d) Sanskrit borrowed गच्छति from English\n4. जानाति completes which shelf? (a) the √ज्ञा family of v1.c05.l03 §13 — ज्ञान beside\n   English *know* and Greek *gnōsis*, siblings with no borrowing (b) the होरा loan shelf\n   (c) the month-name shelf (d) no shelf — it has no relatives\n5. शृणोति and जानाति: (a) work exactly like the other eight bank verbs (b) build their\n   stems differently — taught whole today, their other forms arriving later as whole\n   words (c) are not real classical Sanskrit (d) are borrowings from Greek\n6. लिखति's clean English cognate is: (a) *like* (b) *write* (c) honestly, none — and the\n   course says so rather than reaching (d) *lick*\n7. Before today, गच्छति was: (a) a brand-new word nobody had met (b) a Chapter 3\n   ear-word, deliberately kept out of the first passage — which used चलति instead — and\n   only today a ledger headword (c) an upgrade of चलति (d) a Hindi word, not Sanskrit\n8. Reading check — write the English meaning of each: (a) सीता जलम् पिबति। (b) बालकः\n   फलम् खादति। (c) अर्जुनः विद्यालयम् गच्छति।",
+    "answer_key_markdown": "1. (b) eats (§14). ((a), (c), (d) are पिबति, पश्यति, गच्छति.)\n2. (b) — the shelf's second sibling pair (§13). ((a) is §12 mistake 7's refused reach; (c) is exercise 6's sound-alike; (d) pairs meanings, not forms.)\n3. (c) — honesty about absence; the chapter exam re-tests this card (§13).\n4. (a) — the promise v1.c05.l03 §13 made by name, kept today (§13).\n5. (b) — the one honest line, no machinery (§15). ((a) is §12's over-reach in disguise.)\n6. (c) — the honest blank on the shelf (§13).\n7. (b) — ear-word (v1.c03.l02), deliberately withheld (v1.c06.l03), headword today\n   (§8, §14).\n8. (a) \"Sītā drinks water.\" (b) \"The boy eats a fruit.\" (c) \"Arjuna goes to school.\"\n\n**Exercise keys.** 1: sensible pairings — खादति takes फलम्; पिबति takes जलम्; लिखति\ntakes पुस्तकम् or stands alone; पश्यति takes any of the three (बालकः फलम् पश्यति);\nगच्छति, शृणोति, जानाति work object-free in today's stock (गच्छति also takes the\nplace-words विद्यालयम्/गृहम्, as in §17); the refusers to note: गच्छति and शृणोति built\nno thing-sentences from this grid (जानाति + पुस्तकम् \"knows the book\" is a stretch —\naccept either verdict).\n2: scored on loop integrity — action + sentence, no English inside the loop. 3: pass =\nall ten verbs, order intact, knot and curls intact, timed pass at or under the drill-4\nlog. 4: the seven headwords per §14; 6/7 passes. 5: (a) बालकः फलम् खादति। (b) सीता जलम्\nपिबति। (c) छात्रः लिखति। (d) अर्जुनः विद्यालयम् गच्छति। (e) माता शृणोति। 6: (a) **keep**\n— the §13 FACT; (b) **reject** — siblings, not parent and child; nobody borrowed;\n(c) **keep** — the §13 FACT; (d) **reject**; (e) **reject** — and (d) and (e) fail for\nthe same reason: sounding alike proves nothing; relatedness needs systematic\ncorrespondences, not echoes (§13)."
+  },
+  "registers": [
+    {
+      "type": "FACT",
+      "section_index": 4,
+      "text": "All ten bank verbs are attested, high-frequency classical Sanskrit, met here in their present-tense \"he/she/it\" forms and glossed whole: गच्छति \"goes\", खादति \"eats\", पिबति \"drinks\", पश्यति \"sees\", शृणोति \"hears\", लिखति \"writes\", जानाति \"knows\" — beside the course's own पठति, वदति, हसति. [REF:apte1890 s.vv.]",
+      "refs": [
+        "apte1890 s.vv."
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "New vocabulary sticks best when it arrives inside usable patterns and gets retrieved from them, not memorized as bare lists — the frame बालकः ___ खादति turns every verb on today's list into a sentence you can say the hour you learn it. [REF:nation2013]",
+      "refs": [
+        "nation2013"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 5,
+      "text": "Spaced retrieval beats massed re-study; today's Station 0 is v2.c03.l05's +1-week interval landing exactly on schedule, and this lesson's own +1-day re-run is booked before it ends (§20). [REF:cepeda2006] [REF:roediger2006]",
+      "refs": [
+        "cepeda2006",
+        "roediger2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "Sanskrit जानाति \"knows\", English *know* and Greek *gnōsis* are siblings — parallel descendants of the Proto-Indo-European root \\*ǵneh₃- \"to know\". Nobody borrowed anything in any direction. [REF:mallory2006]",
+      "refs": [
+        "mallory2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "Sanskrit पिबति \"drinks\" and Latin *bibit* \"drinks\" are siblings — parallel descendants of one Proto-Indo-European verb; neither borrowed a drop from the other. [REF:mallory2006]",
+      "refs": [
+        "mallory2006"
+      ]
+    },
+    {
+      "type": "FACT",
+      "section_index": 13,
+      "text": "लिखति \"writes\" has no clean English cognate — and the course says so rather than reaching for one. And the reach the chapter exam will test you on: गच्छति and English *go* are NOT related. They sound alike; resemblance alone proves nothing — relatedness is established by systematic correspondences, not by echoes.",
+      "refs": []
+    },
+    {
+      "type": "FACT",
+      "section_index": 15,
+      "text": "(1) Every verb on today's list is a whole word, glossed whole — the same honest device the course has used since रामः वदति; no analysis of the word's insides happens today. (2) The sentence frames are the owned ones: doer + verb (छात्रः लिखति), or doer + thing-in-म्-dress + verb (बालकः फलम् खादति) — objects glossed whole, no case teaching, pause form throughout. (3) Today's forms are singular \"he/she/it\" only; first-person lines keep to the owned पठामि and वदामि. (4) शृणोति and जानाति build their stems differently from the rest of the bank — both are taught whole, and their other forms will arrive as whole words too. [REF:apte1890]; [REF:whitney1889]",
+      "refs": [
+        "apte1890",
+        "whitney1889"
+      ]
+    }
+  ]
+}

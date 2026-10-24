@@ -82,17 +82,17 @@ today's homework (§21); its +1-week re-runs come due in lesson 7's Station 0.
 
 1. Every unmarked consonant letter carries a built-in vowel. Which vowel, and what is the
    rule called?
-2. State the mātrā rule of lesson 4: when do you write आ, and when ा?
+2. State the mātrā rule of v1.c01.l04: when do you write आ, and when ा?
 3. कल vs काल — what changes in the mouth, and what changes in the meaning?
 4. **Write from memory:** का मा ता ला — then the words माता and माला.
 5. **Read aloud:** मम — कमल — ताल. Every final vowel at full value.
 
 <details><summary>उत्तराणि · Answers</summary>
 
-1. अ /ɐ/ — the inherent vowel: every unmarked consonant reads with it (l03 §15).
-2. आ word-initially as a full letter; ा after a consonant, replacing the inherent अ (l04 §15).
+1. अ /ɐ/ — the inherent vowel: every unmarked consonant reads with it (v1.c01.l03 §15).
+2. आ word-initially as a full letter; ा after a consonant, replacing the inherent अ — v1.c01.l04 §15.
 3. The first vowel's length (and quality): कल (kala) "a sweet, indistinct sound" vs काल
-   (kāla) "time" (l04 §13).
+   (kāla) "time" (v1.c01.l04 §13).
 4. Consonant complete first, then the mātrā — always on the right; माता = मा + ता, माला = मा + ला.
 5. मम (mama), कमल (kamala), ताल (tāla) — no dropped finals, two beats on ताल's first vowel.
 </details>
@@ -240,7 +240,7 @@ Think of every consonant letter as a house. Mātrās are lodgers, and each has a
 
 | Room | Signs | Example | Status |
 |---|---|---|---|
-| right | ा ी | का की | ा owned since l04; ी moves in today |
+| right | ा ी | का की | ा owned since v1.c01.l04; ी moves in today |
 | left | ि | कि | today — the script's one left-dweller |
 | below | ु ू ृ | कु | preview — lessons 2–3 of this chapter |
 | above | े ै | के | preview — lesson 4 |

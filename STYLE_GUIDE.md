@@ -215,3 +215,32 @@ Rules:
 - Enthusiasm comes from *showing* the system working, not from adjectives.
 - Sanskrit is treated as a language people learn and use — with an extraordinary intellectual
   tradition documented in its proper registers.
+
+---
+
+## 8. The word ledger
+
+The course keeps a cumulative count of **readable words** — the "ledger" stated in every
+vocabulary lesson's §14 (entry → exit) and in each chapter's can-do list. One counting rule,
+applied everywhere:
+
+1. **Ledger-new row:** a word the learner can read for the first time as a headword. It
+   increments the ledger by one.
+2. **Review row:** a word identical to an earlier §14 headword. It is drilled again but never
+   re-enters the ledger.
+3. **Upgrade row:** a noun or adjective already in the ledger that returns in sentence dress
+   (-ः / -म्) or in its neuter form (दिन → दिनम्, शुभ → शुभम्, मास → मासः). It is drilled
+   but never increments the ledger.
+4. **Verb forms count separately:** each distinct verb form is its own readable word
+   (वदति, then वदामि), as Volume 1 counted them.
+5. **Display-only items** (seam previews, variant spellings, glossed plural titles) never
+   count.
+
+Front-matter `vocabulary_count` = the number of §14 headword rows the lesson **drills**:
+ledger-new rows plus upgrade rows (Volume 1's audio-only ear-words included). Review rows
+and display-only items are excluded; the ledger-new figure is stated in §14's opening line.
+
+Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 counts मतिः
+beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
+· 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 (corrected at the 2026-10 deep audit,
+which removed eight double counts).

@@ -330,3 +330,61 @@ Status change: v2.c03 lessons 01–05 `draft` → `reviewed`.
 | D | Coherence: Station 0 chain c03.l05 → l01 → l02 → l03 → l04 → l05 verified item-for-item; l05's pre-sibling pointers audited against the real files and corrected; l04 §21 मम दिनम् homework matches l05 task E; chapter.md table and can-dos match the files. Drafting note: l05 drafted first by agent; l01/l03 landed before a usage-limit stop, l02/l04 completed on resume. | pass |
 
 Status change: v2.c04 lessons 01–05 `draft` → `reviewed`.
+
+## Deep research audit — all shipped content (2026-10-22 → 2026-10-24)
+
+Scope: Volume 1 (31 lessons), Volume 2 Chapters 1–3 (15 lessons), their chapter frames and
+research notes, REFERENCES, GLOSSARY, STYLE_GUIDE, EDITORIAL_GUIDELINES, README, ROADMAP,
+CHANGELOG and the review checklist. (v2.c04 was reviewed separately, above, and joined only
+the ledger reconciliation.)
+
+Method: one expert auditor per lesson (Sanskrit forms and sentences, IAST, IPA against
+STYLE_GUIDE §2, facts and dates, cognates and loan directions, citations and locators,
+register discipline, every quiz and exercise key re-solved, Hindi, internal consistency,
+course-history claims verified by grep), with web search for anything uncertain; nine
+chapter-coherence auditors (Station 0 bookings, ledger chain, cross-lesson pointers, exam
+alignment, fact base vs lessons); five course-wide sweeps (ledger, cross-references,
+references/docs, banned claims and registers, phonetic consistency). Every finding was
+re-checked by an evidence verifier; blocker and major findings additionally by an
+independent domain expert and a fix skeptic, surviving only on a majority. Fixes were then
+applied one agent per file and re-validated.
+
+| Measure | Count |
+|---|---|
+| Findings confirmed | 1,264 (77 blocker · 510 major · 677 minor) |
+| Findings rejected on verification | 109 |
+| Fixes applied | 1,068 across 78 files |
+| Duplicates resolved by another applied fix | 118 |
+| Already fixed upstream when reached | 78 |
+| Refused at fix time (false premise shown) | 1 |
+
+Representative blockers and majors (all fixed): model-sentence grammar (सर्वे वदति →
+सर्वे वदन्ति; a nominative कमला used as a vocative → कमले); नमस्ते taught as four beats
+(→ three, na-ma-ste); the Ṛgveda's oral-only transmission understated ("roughly a
+thousand years" → "well over a thousand years"); Sanskrit called Hindi's "direct" ancestor
+(→ the ancestor through the Prakrits); visarga-less भो marked as an error although it is the
+regular sandhi form in connected text; वार misdescribed as a "worn-down" वासर (वार is
+Sanskrit's own day-word; सोमवार is itself Sanskrit); नव "nine" (numeral नवन्) conflated
+with नव "new"; the य→[dʒ] habit blamed on English instead of Eastern Indo-Aryan readers and
+the Hindi जुग/जोगी pattern; रु not taught as an irregular unit before learners write गुरु;
+uncited "five thousand years" figures (banned) removed; a Hindi idiom that meant the opposite
+of the English (गर्म सुर → गर्मजोशी भरे सुर); wrong answer keys re-solved; false
+"taught at / readable since" course-history claims corrected; broken cross-lesson pointers
+repaired; REFERENCES bibliographic details and roadmap/changelog dates corrected against the
+sources and the git history.
+
+**Ledger correction — supersedes the chains logged above for v2.c01–v2.c04.** Eight Volume 2
+rows had been counted ledger-new although the words were already in the ledger: पिता, नदी,
+एक, कति (identical Volume 1 headwords → review rows) and दिनम्, शुभम्, मेघः, कालः (sentence
+dress or neuter of Volume 1 headwords → upgrade rows). Corrected exits: v2.c01 258 (was 260),
+v2.c02 277 (was 282), v2.c03 297 (was 305), v2.c04 308 (was 316); per-lesson chains in
+STYLE_GUIDE §8 terms are 237 → 240 → 243 → 249 → 258 · 258 → 264 → 267 → 275 → 277 ·
+277 → 279 → 283 → 289 → 297 · 297 → 304 → 305 → 308 → 308. The counting rule is now written
+down (STYLE_GUIDE §8). Volume 1's totals stand as published; its मति/मतिः pair predates the
+upgrade rule and is documented there.
+
+Decisions recorded: नव "nine" in v2.c03.l02 stays ledger-new (a distinct word, honestly
+split from नव "new"); verb forms continue to count separately (Volume 1 practice), so
+पश्यति and असि remain ledger-new in v2.c04.
+
+Status: all 51 lessons validate with 0 errors and 0 warnings; JSON exports regenerated (51).

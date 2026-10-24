@@ -255,6 +255,7 @@
       ],
       "review_of": [
         "v1.c01.l02",
+        "v1.c01.l03",
         "v1.c02.l06"
       ],
       "path": "curriculum/volume-1/chapter-03/lesson-01-ka-varga.md",
@@ -314,7 +315,7 @@
       ],
       "review_of": [
         "v1.c03.l03",
-        "v1.c01.l03"
+        "v1.c01.l04"
       ],
       "path": "curriculum/volume-1/chapter-03/lesson-04-ta-varga-dental.md",
       "json": "json/volume-1/v1.c03.l04.json"
@@ -850,6 +851,7 @@
       ],
       "review_of": [
         "v2.c02.l05",
+        "v1.c02.l04",
         "v1.c05.l03",
         "v1.c06.l01"
       ],
@@ -871,7 +873,9 @@
       ],
       "review_of": [
         "v2.c03.l01",
-        "v1.c04.l01"
+        "v1.c04.l01",
+        "v1.c04.l02",
+        "v1.c02.l01"
       ],
       "path": "curriculum/volume-2/chapter-03/lesson-02-six-to-ten.md",
       "json": "json/volume-2/v2.c03.l02.json"
@@ -892,7 +896,8 @@
       "review_of": [
         "v2.c03.l02",
         "v2.c01.l03",
-        "v1.c04.l02"
+        "v1.c04.l02",
+        "v1.c01.l04"
       ],
       "path": "curriculum/volume-2/chapter-03/lesson-03-time-words.md",
       "json": "json/volume-2/v2.c03.l03.json"
@@ -938,6 +943,112 @@
       ],
       "path": "curriculum/volume-2/chapter-03/lesson-05-numbers-time-exam.md",
       "json": "json/volume-2/v2.c03.l05.json"
+    },
+    {
+      "id": "v2.c04.l01",
+      "title": {
+        "sa": "दश क्रियाः",
+        "sa_iast": "daśa kriyāḥ",
+        "hi": "दस क्रियाएँ — क्रिया-कोश",
+        "en": "The Verb Bank"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c03.l05"
+      ],
+      "review_of": [
+        "v2.c03.l05",
+        "v1.c06.l03"
+      ],
+      "path": "curriculum/volume-2/chapter-04/lesson-01-the-verb-bank.md",
+      "json": "json/volume-2/v2.c04.l01.json"
+    },
+    {
+      "id": "v2.c04.l02",
+      "title": {
+        "sa": "त्रयः पुरुषाः",
+        "sa_iast": "trayaḥ puruṣāḥ",
+        "hi": "तीन पुरुष — -मि, -सि, -ति",
+        "en": "The Three Persons"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c04.l01"
+      ],
+      "review_of": [
+        "v2.c04.l01",
+        "v1.c06.l03",
+        "v1.c05.l03",
+        "v1.c05.l01",
+        "v1.c03.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-04/lesson-02-the-three-persons.md",
+      "json": "json/volume-2/v2.c04.l02.json"
+    },
+    {
+      "id": "v2.c04.l03",
+      "title": {
+        "sa": "किम् करोषि?",
+        "sa_iast": "kim karoṣi?",
+        "hi": "क्या कर रहे हो? — करोति-परिवार",
+        "en": "What Are You Doing?"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c04.l02"
+      ],
+      "review_of": [
+        "v2.c04.l02",
+        "v2.c01.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-04/lesson-03-what-are-you-doing.md",
+      "json": "json/volume-2/v2.c04.l03.json"
+    },
+    {
+      "id": "v2.c04.l04",
+      "title": {
+        "sa": "क्रियाकथा",
+        "sa_iast": "kriyākathā",
+        "hi": "क्रिया-कथा — क्रियाओं का एक दिन",
+        "en": "A Day of Verbs"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c04.l03"
+      ],
+      "review_of": [
+        "v2.c04.l03",
+        "v1.c06.l03",
+        "v2.c03.l03"
+      ],
+      "path": "curriculum/volume-2/chapter-04/lesson-04-a-day-of-verbs.md",
+      "json": "json/volume-2/v2.c04.l04.json"
+    },
+    {
+      "id": "v2.c04.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "पुनरावृत्ति — क्रिया-परीक्षा",
+        "en": "The Verb Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c04.l04"
+      ],
+      "review_of": [
+        "v2.c04.l01",
+        "v2.c04.l02",
+        "v2.c04.l03",
+        "v2.c04.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-04/lesson-05-the-verb-exam.md",
+      "json": "json/volume-2/v2.c04.l05.json"
     }
   ]
 }

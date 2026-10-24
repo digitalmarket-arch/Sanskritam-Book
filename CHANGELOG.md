@@ -4,7 +4,40 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.10.0] — 2026-10-24
+
+Volume 2 Chapter 4 — क्रियाः (First Verbs) complete and reviewed, closing the Volume 2
+Chapters 1–4 arc; and a deep research audit of everything shipped before it (Volume 1 and
+Volume 2 Chapters 1–3), with every finding verified by independent skeptic panels before
+any fix was applied.
+
+### Added
+- v2.c04 five lessons: The Verb Bank (seven new verbs, whole-word, with the जानाति~know
+  and पिबति~bibit shelf and the honest "गच्छति and *go* are not related" line), The
+  Three Persons (the course's first grammar lesson: -मि/-सि/-ति named from forms the
+  learner already owned; असि completes the identity trio), What Are You Doing? (the
+  करोति family as chunks; अन्नम्, क्षीरम्), A Day of Verbs (a 12-sentence passage in all
+  three persons, three-speed protocol), and The Verb Exam (production conjugation both
+  directions; the मम दिनम् self-narration). 11 ledger-new words: 297 → 308.
+- STYLE_GUIDE §8 — the word-ledger rule (ledger-new, review and upgrade rows; verb forms;
+  what `vocabulary_count` counts).
+- GLOSSARY: अन्तर्निहित स्वर, वर्ग, स्थान.
+
+### Changed
+- Deep audit: 46 lessons, 9 chapter frames, research notes and governance docs audited by
+  per-lesson expert reviewers (web-checked), chapter-coherence reviewers and five
+  course-wide sweeps (ledger, cross-references, references/docs, banned claims and
+  registers, phonetic consistency). 1,264 findings confirmed (77 blocker, 510 major, 677
+  minor), 109 rejected on verification; 1,068 fixes applied across 78 files, the rest
+  duplicates or already fixed, one refused as resting on a false premise. Highlights:
+  grammar in model sentences (सर्वे वदन्ति; the vocative कमले), नमस्ते as three beats,
+  the Ṛgveda's oral-only span ("well over a thousand years"), Sanskrit as Hindi's ancestor
+  *through the Prakrits*, भो as the regular sandhi form in connected text, वार as
+  Sanskrit's own day-word (सोमवार is not a "worn-down" वासर), नव "nine" (numeral नवन्)
+  distinguished from नव "new", uncited "five thousand years" figures removed, re-solved
+  answer keys, and a v2.c04 review (70 findings) that corrected false in-course history
+  (the first -ति verb is चलति, not वदति).
+- JSON exports regenerated (51 lessons); verification log extended.
 
 ### Fixed
 - Volume 2 word ledger corrected at audit: eight double counts removed. Four were
@@ -13,8 +46,7 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   now upgrade rows, which never increment the ledger. The cumulative chain is now
   237 → 258 → 277 → 297 (21 / 19 / 20 ledger-new for v2.c01–c03); the 0.7.0–0.9.0
   entries below are restated with the corrected figures, which fall by 2, 5 and 8 at
-  the three chapter exits. v2.c04 (unreleased) shifts accordingly, eight lower: 297
-  entering, 308 exit.
+  the three chapter exits. v2.c04 enters at 297 and exits at 308.
 
 ## [0.9.0] — 2026-10-20
 

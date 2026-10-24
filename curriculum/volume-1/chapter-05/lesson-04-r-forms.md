@@ -235,8 +235,9 @@ In Chapter 1 these were sounds and glosses only — v1.c01.l01's loan table gave
 v1.c01.l03 drilled you: *final अ full —
 artha, never "arth"* — and धर्म was the very word it used to name schwa deletion. For four
 chapters you have carried them by ear. Today the eye joins: ध + र्म. क + र्म. अ + र्थ. Read them
-again. Of the four ear-words that third lesson taught — अमृत, अग्नि, अर्थ, अहम् — अर्थ is the last
-to come home. The trio is yours, in the original, forever.
+again. Of the four ear-words that third lesson taught — अमृत, अग्नि, अर्थ, अहम् — अर्थ is the third
+to come home — अग्नि, readable since v1.c05.l02's weld, still waits for its row (v2.c02.l03). The
+trio is yours, in the original, forever.
 
 ## 9. Pronunciation
 
@@ -339,7 +340,7 @@ waits for the ङ्ग stack of v1.c06.l01.
 > \*kʷekʷlos, from the root \*kʷel- "turn". Cognates, not borrowings: nobody lent anybody a wheel.
 > [REF:mallory2006]
 
-Loan and cognate in one lesson, the lesson-1 tool sharpened: *karma* was handed over; *wheel* and
+Loan and cognate in one lesson, the v1.c01.l01 tool sharpened: *karma* was handed over; *wheel* and
 चक्र are cousins who stayed home.
 
 ### सूर्य and सर्व — worked readings
@@ -662,7 +663,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    with a soft buzzer; रुपया flashes on a price tag.
 5. **THE HOMECOMING (3:20–5:00):** quiet screen. धर्म — कर्म — अर्थ appear unlabeled; the
    Chapter 1 audio-echo plays ("*artha*… full final vowel"); the words underline themselves as
-   READ, not heard. The lesson-1 loan table scrolls — yoga, karma, guru, avatar, jungle, sugar —
+   READ, not heard. The v1.c01.l01 loan table scrolls — yoga, karma, guru, avatar, jungle, sugar —
    each row's Devanagari lighting up except जङ्गल, which waits for Chapter 6; शर्करा last, its hook
    glowing.
 6. **Recap + CTA (5:00–6:00):** the geography map recaps both faces; the कर्म/क्रम switch as a
@@ -731,7 +732,7 @@ reads them as IPA, not as English spelling.
   extended here to the कृ/क्र/र्क triple); builds on v1.c02.l01 (the ि-hook — the first
   time-travel trick), v1.c05.l01 (virāma; आम् readable — §16), v1.c05.l02 (stem-loss mechanism;
   अस्ति; the Unicode insight applied in §15); closes the reading debt of v1.c01.l03 (धर्म/अर्थ
-  ear-words; the four-ear-word set completes) and v1.c01.l01 §13 (the loan table readable
+  ear-words; अर्थ is the third of the four to get its row — अग्नि's waits for v2.c02.l03) and v1.c01.l01 §13 (the loan table readable
   via कर्म and शर्करा, all but जङ्गल, whose ङ्ग stack waits for v1.c06.l01); feeds v1.c05.l05 (conjunct exam: both-faces items; the trio in the reading task;
   the timed-reading bar of §18 exercise 6), Volume 2 (object endings deferred in §6's spirit),
   Volume 3 (sandhi; repha alternations with visarga).

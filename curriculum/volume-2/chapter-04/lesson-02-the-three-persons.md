@@ -1076,7 +1076,7 @@ narrator reads the cue, not the English spelling.
   glossed in Hindi at first occurrence (§7) per STYLE_GUIDE §1.2. Reuses क्रिया per
   v2.c04.l01's candidate entry.
 - **Export notes:** one headword, ledger-new — **304 → 305**; chapter chain 297 → 304 →
-  305 → 308 → 308 (reconcile at review). असि exports as a NEW row with `trio: [अस्मि,
+  305 → 308 → 308 (reconciled at review). असि exports as a NEW row with `trio: [अस्मि,
   असि, अस्ति]`. शृणोमि, शृणोषि, जानामि, जानासि export as `display` rows (`form_of:
   शृणोति / जानाति`, `stem_note: "builds its stem differently"`) — never headwords, no
   class numbers in any field. Regular forms (गच्छामि … हससि) export as `form_of` their

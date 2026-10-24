@@ -942,7 +942,7 @@ narrator reads the cue, not the English spelling.
   त्वम् करोषि? / भवान् किम् करोति? per the fact-base frames; both orders are classical,
   one is drilled.
 - **Export notes:** ledger per the chapter plan: three headwords, **305 → 308** (chain
-  297 → 304 → 305 → 308; reconcile at review). करोमि and करोषि export as `chunk_of:
+  297 → 304 → 305 → 308 → 308; reconciled at review). करोमि and करोषि export as `chunk_of:
   करोति`, not as ledger rows; भवान् किम् करोति? exports as `polite_variant` of the
   doing-question frame. Export "karati", "karasi", "karāmi" (regularized inventions),
   "karosi" (ष dropped), "gacchaṣi" (ष overreach), and the person-mismatch exemplar अहम्

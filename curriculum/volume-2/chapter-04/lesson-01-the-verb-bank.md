@@ -836,7 +836,7 @@ narrator reads the cue, not the English spelling.
   term v2.c04.l01; glossed in Hindi at first occurrence per STYLE_GUIDE §1.2)**; reuses
   संयुक्ताक्षर, विसर्ग, मात्रा per GLOSSARY.md.
 - **Export notes:** ledger per the chapter plan: seven headwords, all ledger-new —
-  **297 → 304**; chapter chain 297 → 304 → 305 → 308 → 308 (reconcile at review).
+  **297 → 304**; chapter chain 297 → 304 → 305 → 308 → 308 (reconciled at review).
   गच्छति exports as a NEW ledger row carrying attestation history (`ear_word_since:
   v1.c03.l02`; `withheld_at: v1.c06.l03`), not as an upgrade. पश्यति exports as a new
   headword; the chunk पश्य never held a ledger row — cross-reference, do not re-count,
