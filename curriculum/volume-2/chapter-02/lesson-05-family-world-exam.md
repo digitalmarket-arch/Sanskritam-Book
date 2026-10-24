@@ -20,8 +20,8 @@ objectives:
     hi: "परिवार का सदस्य-दर-सदस्य परिचय दें — एषः/एषा/एतत् के सही मेल के साथ।"
   - en: "Describe a world-scene in six-plus pause-form sentences using कुत्र, अत्र/तत्र and at least one च join."
     hi: "कुत्र, अत्र/तत्र और कम-से-कम एक च-योजन के साथ छह या अधिक विराम-रूप वाक्यों में दृश्य का वर्णन करें।"
-  - en: "Sort the chapter's claims into registers with correct direction — shared descent, loans both ways, doctrine attributed."
-    hi: "अध्याय के कथनों को सही दिशा-बोध के साथ श्रेणियों में बाँटें — साझा वंश, दोनों दिशाओं के उधार, परम्परा को उसका नाम।"
+  - en: "Sort the chapter's claims into registers with correct direction — shared descent, outbound loans, doctrine attributed (the inbound arrow previewed only)."
+    hi: "अध्याय के कथनों को सही दिशा-बोध के साथ श्रेणियों में बाँटें — साझा वंश, संस्कृत से बाहर गए उधार, परम्परा को उसका नाम — भीतर आने वाला तीर अभी केवल झलक।"
 new_letters: []
 new_matras: []
 vocabulary_count: 0
@@ -54,7 +54,7 @@ home and the world outside the door — and, hidden inside them, the best story 
 historical linguistics: your English *mother* and your Sanskrit माता are cousins, not
 copies. Today you prove all of it: present a family, describe a world, join things with
 च, find things with कुत्र — and sort the claims one more time, because the direction of
-a fact is part of the fact. Twenty-two ledger-new words this chapter. Time to show they
+a fact is part of the fact. Nineteen ledger-new words this chapter. Time to show they
 work.
 
 ## 2. Learning Objective
@@ -77,7 +77,8 @@ Objective 1 is assessed in §18 task C; objective 2 in task E; objective 3 in ta
 
 ### Station 0 — chapter-internal spacing
 
-The four lessons' +1-day schedules converge [REF:cepeda2006]. Two items, two minutes;
+The four lessons' +1-week schedules — every one of them books lesson 5 — converge (near
+enough) today [REF:cepeda2006]. Two items, two minutes;
 log scores:
 
 1. Dictation row, self-read then written cold: भगिनी · वृक्षः · कुटुम्बम् · नदी —
@@ -130,9 +131,10 @@ weakest station today and assess tomorrow [REF:cepeda2006].
 
 Every exam in this course has tested sounds, signs or words. Today's tests something
 rarer: **direction**. Three kinds of word-relations crossed this chapter — cognates
-(माता ~ mother: one ancestor, two heirs), loans outbound (dharma → English), and, from
-the last chapter's होरा-preview forward, loans inbound. The 1.x curriculum blurred all
-three into "English comes from Sanskrit"; the 2.0 exam hands you claims and asks for
+(माता ~ mother: one ancestor, two heirs), loans outbound (dharma → English), and —
+previewed today, told in the next chapter — loans inbound (होरा). The 1.x curriculum
+blurred all three into "English from Sanskrit" (its Unit 27 title); the 2.0 exam hands
+you claims and asks for
 the arrow.
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
@@ -191,7 +193,7 @@ mother में कोई किसी से "निकला" नहीं �
 
 The assessment architecture — five tasks, two of them recordings.
 
-| Task | Skill | Format | Pass line |
+| Task | Skill | Format | Full-credit line |
 |---|---|---|---|
 | A | Listening | 10 items: who/where matching over family + world | 8/10 |
 | B | Writing | 8-word dictation + one च-sentence | 7/8 + sentence intact |
@@ -202,7 +204,8 @@ The assessment architecture — five tasks, two of them recordings.
 The §19 quiz (10 questions) completes it. Pass = every task at partial-or-better
 (rubric §22) and quiz 7+/10. Task D is this chapter's signature: the direction cards.
 Three arrows exist — none (cognates), outbound (dharma-loans), inbound (होरा, fully
-told in the next chapter) — and the exam's cards make you draw each one correctly.
+told in the next chapter) — and today's cards make you draw the first two correctly; the
+third gets its card in v2.c03's exam.
 Passing gates v2.c03 (संख्याः कालश्च — Numbers & Time), where the direction toolkit
 completes with the October fix and the Greek hour.
 
@@ -217,18 +220,18 @@ completes with the October fix and the Greek hour.
 pressure — the recording catches it.
 
 **The cluster row.** वृक्षः (the क्ष at work), पुष्पम् (ष्प), समुद्रः (द्र), कुटुम्बम्
-(म्ब) — one onset each, no seam vowels, exam pace.
+(म्ब) — every conjunct welded, no seam vowels, exam pace.
 
 **The च rhythm.** माता पिता च — the enclitic leans on पिता: say it as one breath-group,
 mā-tā pi-tā-ca, a hair of pause before, none after पिता.
 
 **Warm-up before recording:** the pointing trio aloud (एषः एषा एतत्), one family line,
-one scene line with च, one कुत्र question with the rise.
+one scene line with च, one कुत्र question on the level tune (l04 §8).
 
 ## 10. IPA
 
 No new values. Exam spot-checks: एषः /eːʂɐh/ and एषा /eːʂɑː/ differ only in the final
-vowel — the recording must keep /ɐh/ vs /ɑː/ crisp. वृक्षः /ʋr̩kʂɐh/ opens on the
+vowel and its visarga — the recording must keep /ɐh/ vs /ɑː/ crisp. वृक्षः /ʋr̩kʂɐh/ opens on the
 syllabic /r̩/ (never "vri-"). पृथिवी /pr̩t̪ʰiʋiː/ likewise — and its variant spelling
 पृथ्वी reads /pr̩t̪ʰʋiː/ (one honest note: two standard spellings, l03 §8). च is /t͡ɕɐ/
 — full vowel, never reduced. दुहिता /d̪uɦit̪ɑː/ keeps its medial /ɦ/ voiced — the
@@ -257,7 +260,7 @@ syllabic /r̩/ (never "vri-"). पृथिवी /pr̩t̪ʰiʋiː/ likewise —
 | 2 | एषः used for a woman (or एषा for a man) | C | l02 §8 — pick the shape before speaking |
 | 3 | च placed between its words | E, B | l04 §8: रामः सीता च, never रामः च सीता (the flagged habit) |
 | 4 | और slipping into Sanskrit sentences | E | l04's correction — च is the connector |
-| 5 | The five elements sorted as physics FACT | D | l03 §15 — doctrine, attributed; the words alone are vocabulary |
+| 5 | The five elements sorted as physics FACT | D | l03 §8 — doctrine, attributed; the words alone are vocabulary |
 | 6 | Kinship finals clipped (पित for पिता) | C | §9 — two beats on every ā/ī final |
 | 7 | कुत्र answered with कुतः information (or vice versa) | A, E | l04 §15 — where vs from-where |
 | 8 | Locatives invented under pressure ("गृहे", "आकाशे") | C, E | the course's honesty line: verbless + अत्र/तत्र carry it; endings-by-role is Volume 3 |
@@ -274,18 +277,19 @@ If तस्याः feels beyond reach on exam day, the honest fallback is ful
 **एषा मम भगिनी। भगिन्याः?? न —** stay inside the taught: **एषा मम भगिनी। मम भगिनी
 लता।** Simplest correct beats ambitious wrong — that rule *is* the course.
 
-**Model direction sort (task D).** Card: "दुहिता and *daughter* are cognates." Check
-the shelf (l02 §13): दुहितृ ~ Gk. thygátēr ~ Eng. daughter — the textbook set. Verdict:
+**Model direction sort (task D).** Card: "भ्राता and *brother* are cognates." Check
+the shelf (l02 §13): भ्रातृ ~ Lat. frāter ~ Eng. brother — a textbook set. Verdict:
 **FACT**, with the reasoning line "shared PIE ancestor; no borrowing in either
-direction." Compare the trap card: "English *mother* comes from Sanskrit मातृ" — same
+direction." Compare the trap card: "English *brother* comes from Sanskrit भ्रातृ" — same
 family, wrong arrow: **reject**, and the correction is the full answer: "cognates —
-siblings from one ancestor; nobody borrowed anybody's mother."
+siblings from one ancestor; nobody borrowed anybody's brother."
 
 ## 14. Vocabulary
 
 शब्दावली — no new words on exam day; the chapter ledger, complete: 260 entering (per
-v2.c01.l05 §14) + 22 ledger-new — l01 seven (+1 upgrade), l02 three, l03 ten, l04 two —
-**282 readable words**. Full rows live in the four §14 tables; the exam sheet's word
+v2.c01.l05 §14) + 19 ledger-new — l01 six (+ पिता back on duty from v1.c03.l05, + the
+गृहम् upgrade), l02 three, l03 eight (+ the मेघः upgrade, + नदी back from v1.c03.l04),
+l04 two — **279 readable words**. Full rows live in the four §14 tables; the exam sheet's word
 bank samples all four. Protocol as always: block by block, whole word, full finals,
 pause form.
 
@@ -300,13 +304,13 @@ pause form.
 
 व्याकरणम् — the chapter's rules restated on one page.
 
-> **[FACT · तथ्यम्]** **The pointing trio:** एषः with masculine-shape words, एषा with
-> feminine-shape, एतत् with neuter-shape and things — fixed chunks; the demonstrative
-> system is Volume 3's. **The enclitics:** च "and" and अपि "too" walk behind their
-> words — रामः सीता च; अहम् अपि. **The location kit:** अत्र तत्र यत्र कुत्र — here,
-> there, where (relative), where? **The question kit, complete for now:** कः का किम्
-> कुतः कथम् कति (next chapter) कुत्र. **The honesty lines:** joined subjects ride
-> verbless frames (verb machinery later); endings-by-role glossed whole (system in
+> **[FACT · तथ्यम्]** **The pointing trio:** एषः for a man or boy, एषा for a woman or
+> girl, एतत् for things — the person decides, not the word's ending (l02 §8); fixed
+> chunks; the demonstrative system is Volume 3's. **The enclitics:** च "and" and अपि
+> "too" walk behind their words — रामः सीता च; अहम् अपि. **The location kit:** अत्र तत्र
+> यत्र कुत्र — here, there, where (relative), where? **The question kit, complete for
+> now:** कः का किम् कुतः कथम् कुत्र — six askers; कति joins next chapter. **The honesty
+> lines:** joined subjects ride verbless frames (verb machinery later); endings-by-role glossed whole (system in
 > Volume 3); gender *shapes* observed, system later. [REF:apte1890]
 
 The direction table — the chapter's real grammar:
@@ -334,7 +338,6 @@ audio.
 है?
 
 — मम नाम अर्जुनः। भगिनी अहम् च अत्र!
-Careful — the enclitic leans on the LAST joined word: **भगिनी अहम् च अत्र!**
 (mama nāma arjunaḥ. bhaginī aham ca atra!) "My name is Arjuna. My sister and I are
 here!" — मेरा नाम अर्जुन। बहन और मैं यहाँ हैं!
 
@@ -342,9 +345,10 @@ here!" — मेरा नाम अर्जुन। बहन और मै�
 (svāgatam! parīkṣā atra asti. svasti!) "Welcome! The exam is here. Good luck!" —
 स्वागत है! परीक्षा यहाँ है। कल्याण हो!
 
-Housekeeping: परीक्षा "exam" appears as a display word (its क्ष is old news); it joins
-the ledger formally with the school set later — today it labels the day. The dialogue
-braids all three chapters of Volume 2 so far: c01's courtesy, c02's family and च.
+Housekeeping: in भगिनी अहम् च अत्र the enclitic leans on the LAST joined word, अहम्.
+परीक्षा "exam" appears as a display word (its क्ष is old news); it joins the ledger
+formally with the school set later — today it labels the day. The dialogue braids both
+chapters of Volume 2 so far: c01's courtesy, c02's family and च.
 
 ## 17. Story
 
@@ -357,8 +361,8 @@ presentation aloud twice — first slow, then at pace:
 
 Worked closing line, for comparison after your attempt: **मम माता मम पिता च अत्र। अहम्
 अपि अत्र। एतत् मम कुटुम्बम्!** — the च and अपि enclitics both walking correctly behind
-their words, the neuter एतत् landing on कुटुम्बम्. (Retrieval + recombination — the
-strongest rehearsal pair there is [REF:roediger2006].)
+their words, the neuter एतत् landing on कुटुम्बम्. (Retrieval + recombination — and
+retrieval beats re-reading: the testing effect [REF:roediger2006].)
 
 ## 18. Exercises
 
@@ -375,8 +379,8 @@ Every conjunct welded, the च in its place. 7/8 + sentence intact.
 
 **कार्यम् C · वंशवृक्षः (THE FAMILY TREE — recorded, production).** From your real
 family or a role card: present at least six members/lines in the frames — एषः/एषा
-matched to each person, एतत् for home, names via मम/तस्य/तस्याः or the simple repeat
-(§13's model). No locatives, no plurals — the taught frames only. Record in one take.
+matched to each person, एतत् for home, names via मम/तस्य or the simple repeat (§13's
+model; तस्याः, display-only since l02, is optional and never scored). No locatives, no plurals — the taught frames only. Record in one take.
 
 **कार्यम् D · श्रेणी-दिशा-विभागः (register & direction sort — 9 cards).** FACT /
 HISTORY / TRADITION / SYMBOL — or reject; one reasoning line each:
@@ -389,7 +393,7 @@ HISTORY / TRADITION / SYMBOL — or reject; one reasoning line each:
 6. "च follows the words it joins."
 7. "और is the Sanskrit for 'and'."
 8. "दुहिता and *daughter* are cognates."
-9. "एषा points at feminine-shape words."
+9. "पिता ends in -आ like सीता, so एषा मम पिता is correct."
 
 **कार्यम् E · दृश्यवर्णनम् (THE SCENE — recorded, production).** Draw a scene card ✍
 (river, tree, mountain, star, cloud, city — combinations vary): describe it in six or
@@ -420,26 +424,28 @@ varṇamālā row from memory + build स् + व and dissect ज्ञ.
    *daughter* (l01 §8, §13).
 2. भगिनी works daily (Hindi बहन descends from it); स्वसा carries the *sister/soror*
    cognate (l01 §13).
-3. एषः रामः। एषा सीता। एतत् गृहम्। — m/f/n shapes matched (l02 §8).
+3. एषः रामः। एषा सीता। एतत् गृहम्। — pointer matched to the person or thing (l02 §8).
 4. पितृ, Latin pater and English father descend from one PIE ancestor — cognates, no
    borrowing in any direction (l02 §13).
 5. The five words are ordinary vocabulary (FACT); their grouping as the five elements
-   is philosophical doctrine — TRADITION, attributed (l03 §15).
+   is philosophical doctrine — TRADITION, attributed (l03 §8).
 6. अग्निः — ear-word since v1.c01.l03, headword in l03; cognate: Latin ignis (l03 §13).
-7. रामः सीता च अत्र। (च behind the pair; रामः च सीता is the flagged error) (l04 §8).
+7. रामः सीता च अत्र। (च behind the pair; the doubled रामः च सीता च अत्र। is also correct;
+   रामः च सीता is the flagged error) (l04 §8).
 8. परिवारः + जगत् + च — the जगत्+च join (जगच्च) is a sandhi preview, Volume 3's
    subject (l04 §15).
 9. dharma/karma/mantra went Sanskrit → English (loans); माता ~ mother shares one
-   ancestor — no arrow between cousins (l02 §13, §15).
+   ancestor — no arrow between cousins (l02 §13; this lesson's §15).
 10. नदी तत्र अस्ति। (or अत्र) — then: वृक्षः कुत्र अस्ति? (l04 §8).
 
 **Task keys.** A: item key ships in the audio's key file (who-items name the member;
 where-items mark अत्र/तत्र; the pair-items require both names + च heard). B (dictation
-set): भगिनी, वृक्षः, आकाशः, दुहिता, पुत्री, नगरम्, कुटुम्बम्, पृथिवी — then माता पिता
+set): भगिनी, वृक्षः, आकाशः, दुहिता, पुत्री, कुत्र, कुटुम्बम्, पृथिवी — then माता पिता
 च अत्र। D: 1 **reject** (direction — cousins, not copies) · 2 FACT · 3 FACT (real
 loans, real arrow) · 4 **reject** (doctrine — TRADITION, attributed, never physics) ·
 5 FACT · 6 FACT · 7 **reject** (Hindi word; Sanskrit's connector is च — the 1.x error)
-· 8 FACT (the textbook set) · 9 FACT. Scoring: 7+/9 with sane reasoning. C and E score
+· 8 FACT (the textbook set) · 9 **reject** (the person decides, not the ending — l02 §8,
+§12 #3: एषः मम पिता). Scoring: 7+/9 with sane reasoning. C and E score
 on the §22 rubric.
 
 </details>
@@ -449,11 +455,11 @@ on the §22 rubric.
 पुनरावृत्तिः — the chapter on one screen — plus the schedule.
 
 > **The people:** परिवारः — पिता माता भ्राता भगिनी पुत्रः पुत्री दुहिता — and the home
-> गृहम्/कुटुम्बम्. **The pointers:** एषः एषा एतत्, shape-matched. **The world:**
+> गृहम्/कुटुम्बम्. **The pointers:** एषः एषा एतत्, matched to the person or thing. **The world:**
 > पृथिवी आकाशः नदी वृक्षः पुष्पम् समुद्रः तारा मेघः नगरम् अग्निः. **The tools:** कुत्र
 > asks; च joins from behind. **The flagship:** the kinship shelf — one ancestor, two
 > heirs, no arrows between cousins. **The split:** five words FACT, one doctrine
-> TRADITION. **The ledger:** 282.
+> TRADITION. **The ledger:** 279.
 
 Schedule [REF:cepeda2006]: **+1 day** — re-run the dictation and one family
 presentation cold. **+1 week** — v2.c03.l01's Station 0 re-runs tasks C and D
@@ -469,7 +475,7 @@ conversation chapter; keep a weekly scene in the maintenance rotation.
    family (or chosen family) once, honestly within the taught frames — photograph your
    family tree sketch with its Sanskrit labels.
 3. **(5 min, teach-back)** Teach someone the mother-story: माता and *mother* are
-   cousins, and that is better than a borrowing — one word surviving four thousand
+   cousins, and that is better than a borrowing — one word surviving thousands of
    years in two mouths. If they ask "so who borrowed it?", you own the answer: nobody.
 
 ## 22. Teacher Notes
@@ -491,14 +497,14 @@ recording corners or staggered turns) → debrief (5 min).
 
 **The direction discussion is the debrief.** Card 1 will still catch someone — let the
 room argue it, then land the arrow table (§15). The best close: cognates are the
-*bigger* claim — a borrowing is a transaction; a cognate is a four-thousand-year
-inheritance, held twice.
+*bigger* claim — a borrowing is a transaction; a cognate is an inheritance
+thousands of years deep, held twice.
 
 **Run C kindly.** Family is personal: role cards exist precisely so no learner must
 present a real family; say so before the task, not after. Heritage learners often add
 real kin terms the course has not taught (चाचा, मामा — Hindi's precision kinship) —
-honor the impulse, note that Sanskrit's own extended-kin set arrives with the family
-chapter's second visit, and keep the exam inside the taught eight.
+honor the impulse, note that Sanskrit has its own extended-kin words, not yet on this
+course's ledger, and keep the exam inside the taught eight.
 
 **What students find hard:** the एषः/एषा choice at speech speed (pick-then-speak drill);
 च under improvisation (plan the join first — §11); and believing "reject" can be the
@@ -518,7 +524,8 @@ volume keystone)**
 > (mother · father · brother · daughter · sister). Footer banner: "siblings, not
 > copies — nobody borrowed anybody's mother." Side chip: the arrow table miniature
 > (cognate: no arrow · loan out: dharma → · loan in: → होरा, flagged "next chapter").
-> This chart must match l02 §13 and §15's table exactly.
+> This chart must match l02 §13 (and this lesson's §15 arrow table) exactly — or reuse
+> l02's keystone v2c02l02-kinship-cognate-wall-chart.svg with the arrow chip added.
 
 **Asset 2 — `planned:assets/worksheets/volume-2/v2c02l05-family-world-exam.pdf` +
 `v2c02l05-scene-cards.pdf` (layout spec)**
@@ -547,7 +554,7 @@ Lesson video (8–10 min), scene list:
 4. The direction sort (6:00–7:30): the nine cards fly; card 1 hovers, flips to reject,
    and the ancestor-node chart rises behind it; card 4's five elements drift from a
    physics beaker into an attributed scroll labeled परम्परा.
-5. Outro (7:30–9:00): the 282 counter ticks; the cognate wall chart assembles; end
+5. Outro (7:30–9:00): the 279 counter ticks; the cognate wall chart assembles; end
    card: "Next: संख्याः कालश्च — ten numbers, the honest calendar, and an hour that
    sailed in from Greece."
 
@@ -556,11 +563,12 @@ Lesson video (8–10 min), scene list:
 Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 
 - 00:00 — "Three word-pairs. mātā [mɑːt̪ɑː] and mother — no arrow: cousins. dharma
-  [d̪ʱɐɾmɐ] — arrow east: a loan into English. horā [ɦoːɾɑː] — arrow west: Greek,
+  [d̪ʱɐɾmɐ] — an arrow from the east: a loan into English. horā [ɦoːɾɑː] — an arrow
+  from the west: Greek,
   sailing into Sanskrit. Today's exam grades your arrows."
 - 00:40 — "The people first: pitā [pit̪ɑː], mātā [mɑːt̪ɑː], bhrātā [bʱɾɑːt̪ɑː],
   bhaginī [bʱɐgin̪iː] — and the ancient duhitā [d̪uɦit̪ɑː], whose English cousin is
-  *daughter*, letter for letter across four thousand years."
+  *daughter*, linked by regular sound correspondences across thousands of years."
 - 03:00 — "Present them: eṣaḥ [eːʂɐh] for him, eṣā [eːʂɑː] for her, etat [eːt̪ɐt̪]
   for the home. Pick the pointer before you speak — Sanskrit gives you three where
   English gives you one."
@@ -570,15 +578,16 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 06:00 — "And the cards. 'Mother comes from mātā' — reject, with love: cousins don't
   borrow from each other; they inherit. That correction is not pedantry. It is the
   bigger, better story."
-- 07:30 — "Two hundred eighty-two words. Next: the numbers — and the month on your
+- 07:30 — "Two hundred seventy-nine words. Next: the numbers — and the month on your
   calendar that Latin counted, not Sanskrit. Bring your arrows."
 
 ## 26. Reel Script
 
 30–45 s vertical. **Hook** (0–6 s): माता and *mother* side by side. "One of these came
 from the other… right?" **Demo** (6–28 s): a big red arrow between them dissolves; an
-ancestor node rises above both — "Wrong. They're cousins — one ancestor, four thousand
-years, two heirs." Quick cuts: dharma with a real arrow east; होरा with an arrow west
+ancestor node rises above both — "Wrong. They're cousins — one ancestor, thousands of
+years, two heirs." Quick cuts: dharma with a real arrow from the east; होरा with an arrow
+from the west
 — "loans DO exist — the skill is knowing the direction." **Payoff** (28–40 s): the
 family presented — एषः मम पिता। एषा मम माता। — "Learners of this course just introduced
 their families in Sanskrit — and got the history right." **CTA** (40–45 s): "This is
@@ -588,7 +597,8 @@ Sanskritam. Next: ten numbers and the calendar's honest story." (End card: प�
 ## 27. Metadata
 
 - **Assets (all planned):** listening test (10 items + key file); dictation set;
-  cognate wall chart (the volume keystone — must match l02 §13/§15 exactly; no arrows
+  cognate wall chart (the volume keystone — must match l02 §13 and this lesson's §15
+  exactly; no arrows
   between daughter columns); exam sheet + scene cards; chapter quiz + separate key
   (print policy: keys never on the question sheet).
 - **Related lessons:** consolidates v2.c02.l01–l04; runs the chapter-internal spacing
@@ -597,16 +607,16 @@ Sanskritam. Next: ten numbers and the calendar's honest story." (End card: प�
   होरा inbound-loan story) and v2.c06's cognates unit. परीक्षा used as display word
   (§16) — formal ledger entry with the school set later.
 - **Rubric home:** §22; export flag `assessment: true`.
-- **Integrator notes:** ledger arithmetic canonical: 260 + 22 (l01 7+upgrade · l02 3 ·
-  l03 10 · l04 2) = **282**; the four §14 tables are the row sources; this lesson adds
+- **Integrator notes:** ledger arithmetic canonical: 260 + 19 (l01 6 + पिता review + गृहम्
+  upgrade · l02 3 · l03 8 + मेघः upgrade + नदी review · l04 2) = **279**; the four §14 tables are the row sources; this lesson adds
   none. §19 task keys are the single source for the audio/exam key files.
 - **Verification flags for Pass C:** the nine D-cards diffed against l02 §13 (kinship
-  sets), l03 §15 (पञ्चतत्त्व split), l04 §8/§15 (च and the और correction) — no card
+  sets), l03 §8 (पञ्चतत्त्व split), l04 §8/§15 (च and the और correction) — no card
   asserts anything its source lesson does not; the होरा row in §15's table is framed
   as "next chapter's story" (preview, not teaching); §16's भगिनी अहम् च अत्र line —
   enclitic after the final joined item, per l04's rule (verify wording against l04 §15
   at review).
-- **Register audit:** FACT ×4 (§4 spacing · §5 testing · §15 rules + direction table
-  ×2) · HISTORY ×0 · TRADITION ×0 (the doctrine appears only inside task D as content)
+- **Register audit:** FACT ×3 (§4 spacing · §5 testing · §15 rules; the direction table is
+  uncalled-out prose) · HISTORY ×0 · TRADITION ×0 (the doctrine appears only inside task D as content)
   · SYMBOL ×0. Task D assesses register-sorting itself; quiz Q1–Q10 FACT-register.
 - **Gate:** pass per §8/§22 opens v2.c03; a failed task re-runs tomorrow first.

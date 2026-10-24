@@ -14,19 +14,19 @@ cefr: A2
 duration_minutes: 45
 self_study_minutes: 35
 prerequisites: [v2.c02.l05]
-review_of: [v2.c02.l05, v1.c05.l03, v1.c06.l01]
+review_of: [v2.c02.l05, v1.c02.l04, v1.c05.l03, v1.c06.l01]
 objectives:
   - en: "Read and say the five number stems — एक, द्वि, त्रि, चतुर्, पञ्च — every final sound intact, and pair each with its digit १–५ within a beat."
     hi: "पाँचों संख्या-मूल — एक, द्वि, त्रि, चतुर्, पञ्च — हर अन्तिम ध्वनि समेत पढ़ें-बोलें, और हर मूल को उसके अंक १–५ से एक ताल के भीतर जोड़ें।"
-  - en: "Recite the counting chant एकम् द्वे त्रीणि चत्वारि पञ्च on an even beat, count pictured objects with it, and finish with the bare-number answer."
-    hi: "गिनती-घोष एकम् द्वे त्रीणि चत्वारि पञ्च सम ताल पर बोलें, चित्रों की वस्तुएँ उसी से गिनें, और अन्त में केवल-संख्या उत्तर दें।"
+  - en: "Recite the counting chant एकम् द्वे त्रीणि चत्वारि पञ्च on an even beat, count pictured objects with it, and close each count on its last chant word."
+    hi: "गिनती-घोष एकम् द्वे त्रीणि चत्वारि पञ्च सम ताल पर बोलें, चित्रों की वस्तुएँ उसी से गिनें, और हर गिनती घोष के अन्तिम शब्द पर पूरी करें।"
   - en: "State the honest two-dress line — stems are the citation names, the chant is the neuter counting dress, the full system waits for Volume 4 — and the no-arrow cognate shelf, including एक's honestly empty slot."
     hi: "दो-वेश का ईमानदार सूत्र बताएँ — मूल रूप नाम हैं, घोष नपुंसक गिनती-वेश है, पूरा तन्त्र Volume 4 में — और बिना तीर की सगोत्र-तालिका, एक के ईमानदारी से ख़ाली खाने समेत।"
   - en: "Run Station 0 — the family-world exam's +1-week re-runs (tasks C and D, compressed) — and log the scores beside the exam's."
     hi: "स्टेशन 0 चलाएँ — परिवार-जगत् परीक्षा के +1-सप्ताह वाले कार्य C और D, संक्षेप में — और अंक परीक्षा के अंकों के पास दर्ज करें।"
 new_letters: []
 new_matras: []
-vocabulary_count: 3
+vocabulary_count: 2
 media:
   images:
     - "planned:assets/images/volume-2/v2c03l01-digit-name-cards.svg"
@@ -53,9 +53,10 @@ You have been able to *read* पञ्च for a whole volume — it carried the 
 to *write* ९ since the signs lesson. What you could not yet do, in the language whose
 grammarians counted everything, is count. v1.c06.l01 left a promise on the record: the
 names of the numbers beyond पञ्च are Volume 2 Chapter 3's business. Chapter 3 is here.
-Today the first five numbers get their names — two old friends back on duty, three new
+Today the first five numbers get their names — three old friends back on duty, two new
 words older than every calendar they ever landed on, and one honest surprise: the word
-for "one" has no tidy English cousin at all, and this course will be the one to tell you.
+for "one" has no clean English twin — *one* is a relative only at the root — and this
+course will be the one to tell you.
 
 ## 2. Learning Objective
 
@@ -64,13 +65,13 @@ for "one" has no tidy English cousin at all, and this course will be the one to 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Read and say एक, द्वि, त्रि, चतुर्, पञ्च — every final sound intact — and pair each with its digit १–५ within a beat. | पाँचों मूल हर अन्तिम ध्वनि समेत बोलें; हर मूल को उसके अंक से एक ताल में जोड़ें। |
-| 2 | Recite the chant एकम् द्वे त्रीणि चत्वारि पञ्च on a beat, count pictured objects with it, answer bare. | गिनती-घोष ताल पर बोलें, चित्र गिनें, केवल-संख्या उत्तर दें। |
-| 3 | State the two-dress line (stems = names, chant = counting dress, system in Volume 4) and the no-arrow shelf, एक's empty slot included. | दो-वेश का सूत्र और बिना तीर की सगोत्र-तालिका बताएँ, एक का ख़ाली खाना समेत। |
+| 2 | Recite the chant एकम् द्वे त्रीणि चत्वारि पञ्च on a beat, count pictured objects with it, close on the last chant word. | गिनती-घोष ताल पर बोलें, चित्र गिनें, घोष के अन्तिम शब्द पर गिनती पूरी करें। |
+| 3 | State the two-dress line (stems = names, chant = counting dress, system in Volume 4) and the no-arrow shelf, एक's empty slot included. | दो-वेश का सूत्र और बिना तीर की सगोत्र-तालिका बताएँ, एक के ख़ाली खाने समेत। |
 | 4 | Run Station 0 (v2.c02.l05's +1-week: tasks C and D compressed) and log the scores. | स्टेशन 0 चलाएँ और अंक दर्ज करें। |
 
 Objective 1 is built in §8/§9/§14 and tested in §18 (exercises 1, 3, 6) and §19 (Q1, Q7);
 objective 2 in §6/§15/§16/§17, §18 (exercises 2, 6), §19 (Q2, Q8); objective 3 in
-§4/§13/§15, §18 (exercise 4), §19 (Q3–Q6); objective 4 in §3, logged in §20.
+§4/§13/§15, §18 (exercise 4), §19 (Q3–Q6); objective 4 in §3, logged there and on the worksheet score log (§23).
 
 ## 3. Previous Lesson Review
 
@@ -97,7 +98,7 @@ minutes; log both scores beside the exam's [REF:cepeda2006].
    it, and why is "panch" flagged?
 3. From v1.c05.l05: write the digits १–५ from memory — and state the standing digit
    policy for this book's pages.
-4. From v2.c02.l02: the pointing kit — three pointers, each matched to a shape. Which
+4. From v2.c02.l02: the pointing kit — three pointers, each matched to what you point at. Which
    one will run today's card game?
 
 <details><summary>उत्तराणि · Answers</summary>
@@ -111,7 +112,7 @@ minutes; log both scores beside the exam's [REF:cepeda2006].
    it for a Hindi-style nasalized vowel (v1.c06.l01 §12).
 3. १ २ ३ ४ ५ — Latin digits in prose; Devanagari digits as *content* when taught
    (v1.c05.l05, STYLE_GUIDE §3). Today they are content.
-4. एषः (he-shapes) · एषा (she-shapes) · एतत् (thing-shapes) — एतत् runs today's card
+4. एषः for a man or boy · एषा for a woman or girl · एतत् for a thing — एतत् runs today's card
    game: एतत् किम्?
 </details>
 
@@ -127,7 +128,8 @@ live in the drawer beside it: learned in childhood, used daily, replaced almost 
 which is why the cognate shelf can open again today with full confidence.
 
 > **[FACT · तथ्यम्]** The stems एक, द्वि, त्रि, चतुर्, पञ्च are the numbers' citation
-> names — the shapes dictionaries list them under and this course teaches first. In
+> names — the shapes this course teaches first and dictionaries list (पञ्च is headed by its
+> full stem पञ्चन् (pañcan), whose final न् drops in compounds and in the counting form). In
 > running Sanskrit, numbers *inflect*: they change dress by gender and case. The neuter
 > counting recitation — एकम् द्वे त्रीणि चत्वारि पञ्च — is standard practice, real
 > inflected Sanskrit learned whole. [REF:apte1890]; [REF:whitney1889]
@@ -137,7 +139,7 @@ pp.30–31) taught the correct stems — the audit kept them — then attached a
 story about English month names that is not true. Today the stems arrive with labels on
 and the shelf built honestly; the printed fix is next lesson's centerpiece. And a
 smaller promise redeemed: v1.c06.l01 taught पञ्च as "a reading word that happens to be
-a number" and pointed here. Here we are.
+the best count-race shout in the language" and pointed here. Here we are.
 
 ## 5. Scientific Explanation
 
@@ -171,14 +173,15 @@ chant is real language data — learned whole now, understood as a system later
 > **एतत् किम्? — त्रि!**
 > (etat kim? — tri!) "What is this (card)? — Three!" — यह क्या है? — तीन!
 
-> **पुष्पम् अत्र अस्ति। एकम्… द्वे… त्रीणि। — त्रि!**
-> (puṣpam atra asti. ekam… dve… trīṇi. — tri!) "A flower is here. One… two… three. —
+> **पुष्पम् अत्र अस्ति। एकम्… द्वे… त्रीणि। — त्रीणि!**
+> (puṣpam atra asti. ekam… dve… trīṇi. — trīṇi!) "A flower is here. One… two… three. —
 > Three!" — फूल यहाँ है। एक… दो… तीन। — तीन!
 
-Three moves, all old friends in new work: the chant counts while the finger points; the
-bare citation name answers; and अस्ति keeps its standing job when something *is here*.
-No verb is needed to answer a count — त्रि! is complete, on the model of every verbless
-naming line since अहम् रामः. Pause form throughout, as always.
+Three moves, all old friends in new work: the chant counts while the finger points and
+the count closes on its last chant word; the bare citation name answers a digit card;
+and अस्ति keeps its standing job when something *is here*. No verb is needed: a digit
+card answered bare — त्रि! — is this course's name-tag drill convention (§15), not a
+full Sanskrit word. Pause form throughout, as always.
 
 ## 7. Hindi Explanation
 
@@ -191,26 +194,27 @@ naming line since अहम् रामः. Pause form throughout, as always.
 उनकी कहानी §13 की तालिका में है।
 
 दूसरा — अन्त सँभालिए; आदतें यहीं फिसलती हैं। एक में अन्तिम अ पूरा बोलिए — हिन्दी की
-आदत "एक्" कहकर रुक जाती है, संस्कृत का एक दो मात्राओं का पूरा शब्द है। चतुर् ठीक र् पर
+आदत "एक्" कहकर रुक जाती है, संस्कृत का एक दो अक्षरों का पूरा शब्द है — ए की दो मात्राएँ, क की एक। चतुर् ठीक र् पर
 रुकता है — उसके बाद कोई स्वर नहीं; हलन्त वहीं इसीलिए बैठा है। पञ्च में ञ पूरा व्यञ्जन
 है — पाँच वाली चन्द्रबिन्दु-आदत यहाँ नहीं चलेगी (v1.c06.l01 की वही पुरानी चेतावनी)।
 और त्रि की इ छोटी है — यह अंग्रेज़ी *tree* नहीं है।
 
 तीसरा — दो वेश, एक ईमानदारी। एक, द्वि, त्रि, चतुर्, पञ्च शब्दों के *नाम* हैं — शब्दकोश
-इन्हीं के नीचे इन्हें रखते हैं। एकम्, द्वे, त्रीणि, चत्वारि गिनती की पोशाक है — सच्चा,
+इन्हीं के नीचे इन्हें रखते हैं — बस पञ्च का शीर्ष-शब्द पूरा मूल पञ्चन् है। एकम्, द्वे, त्रीणि, चत्वारि गिनती की पोशाक है — सच्चा,
 रूप बदला हुआ संस्कृत, जो आज पूरा घोष बनकर कण्ठ होता है। संख्याएँ लिंग और कारक के
 अनुसार वेश बदलती हैं — वह पूरा तन्त्र Volume 4 में खुलेगा; तब तक गिनती घोष से, और
-उत्तर केवल संख्या से: — त्रि! कोई नियम मत गढ़िए। और अंक १–५ (v1.c05.l05 की कमाई) आज
+गिनती घोष के अन्तिम शब्द पर पूरी होती है — त्रीणि! अंक-कार्ड का उत्तर केवल नाम से — त्रि! —
+यह इस पाठ्यक्रम की अभ्यास-परिपाटी है, पूरा संस्कृत पद नहीं। कोई नियम मत गढ़िए। और अंक १–५ (v1.c05.l05 की कमाई) आज
 अपने नामों से जुड़ते हैं — कार्ड देखिए, एक ताल के भीतर नाम बोलिए।
 
 ## 8. English Explanation
 
-No new letter, no new sign — the standing Volume 2 luxury. The load is three ledger-new
-words, two old friends back on duty, one chant, and one honest piece of bookkeeping.
+No new letter, no new sign — the standing Volume 2 luxury. The load is two ledger-new
+words, three old friends back on duty, one chant, and one honest piece of bookkeeping.
 
 ### The set — five on duty
 
-**एक** (eka) "one" — new, and the humblest headline of the day: say the whole word; the
+**एक** (eka) "one" — back from v1.c02.l04, the course's first number word, and the humblest headline of the day: say the whole word; the
 Hindi habit clips it to "ek", and §12 is waiting. **द्वि** (dvi) "two" — back from
 v1.c05.l03, where the द्व ligature made it readable. **त्रि** (tri) "three" — the
 almost-old friend: mentioned in v1.c01.l01's cognate table and again in v1.c05.l03 §13,
@@ -222,7 +226,7 @@ from v1.c06.l01, where it carried the ञ्च showcase and the promise this ch
 ### Two dresses, honestly labeled
 
 Each number owns two shapes today. The **stems** एक द्वि त्रि चतुर् पञ्च are the
-citation names — what dictionaries list, what the ladder answers, what a bare answer
+citation names — what the ladder answers, what a bare answer
 uses. The **chant** एकम् द्वे त्रीणि चत्वारि पञ्च is the neuter counting dress — real,
 inflected Sanskrit, the standard counting recitation, learned whole as a rhythm.
 Numbers change dress by the gender and role of what they count; that system is honestly
@@ -256,7 +260,7 @@ ends on a consonant. Audio: 🔊 `planned:assets/audio/volume-2/v2c03l01-drill.m
 dictation track).
 
 **Drill 1 — the finals.** एक in slow motion: long pure ए, then क with its *short full*
-अ — two beats in all. Then चतुर्: the tongue taps for र् and the word ends; if any
+अ — three beats in all, ए two and क one. Then चतुर्: the tongue taps for र् and the word ends; if any
 vowel escapes after the tap, re-run. Then पञ्च: pa — ñ — ca, the middle a full
 consonant on च's station, never a nasalized vowel.
 
@@ -312,7 +316,7 @@ marks the त्रि and चतुर् joins.
 सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.
 
 1. **एक clipped to Hindi "ek".** The final अ is a real vowel and it is there. *Fix:*
-   two beats, full /ɐ/ — the schwa-deletion discipline of Volume 1 never retires.
+   three beats — ए two, then a full /ɐ/ — the schwa-deletion discipline of Volume 1 never retires.
 2. **चतुर् re-voweled to "chatura".** The halanta means what it says. *Fix:* §11 check
    3 — tap and stop, nothing after.
 3. **पञ्च nasalized to "panch".** The v1.c06.l01 trap returns: Hindi पाँच replaces the
@@ -324,7 +328,8 @@ marks the त्रि and चतुर् joins.
    both are real; different jobs (§15) — names versus counting dress.
 6. **Agreement invented under enthusiasm.** Gluing endings onto numbers to make them
    "match" what is counted. *Fix:* the matching system is real and it is Volume 4's;
-   today the chant counts, the bare stem answers, nothing is glued (§15's fence).
+   today the chant counts, the bare stem answers a digit card, nothing is glued (§15's
+   fence).
 
 ## 13. Examples
 
@@ -344,8 +349,11 @@ Read the shelf the way Chapter 2 taught you: no arrows between siblings. The til
 ### एक — the honestly empty slot
 
 The shelf also teaches by what it *lacks*: एक has no clean everyday-English cognate to
-put beside it. We could reach — etymological dictionaries offer distant connections —
-but a shelf built on reaching is how the 1.x book went wrong, and honesty beats
+put beside it. Etymological handbooks do trace एक and *one* to the same ancestral
+root, but each language built its word with a different suffix — एक with a k, *one*
+with an n — so they are relatives at the root, not the same inherited word the way
+द्वि and *two* are [REF:mallory2006]. Printing them as a clean row would be reaching —
+how the 1.x book went wrong — and honesty beats
 reaching. The empty slot is itself the lesson: cognate rows are evidence, not
 decoration, and where the evidence is not clean, this course says so out loud.
 
@@ -362,18 +370,19 @@ calendar. No spoilers today.
 
 ## 14. Vocabulary
 
-शब्दावली — three headwords, all ledger-new; **282 → 285** (counts reconciled at review,
+शब्दावली — two headwords, both ledger-new; **282 → 284** (counts reconciled at review,
 as always). Audio: 🔊 `planned:assets/audio/volume-2/v2c03l01-word-list.mp3` (each word
 twice, three-speed passes, then the dictation track). The stems are listed in citation
 dress — that is the point of them (§15).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| एक | eka | /eːkɐ/ | one | एक | final अ full — never Hindi-style "ek" (§12); the shelf's honestly empty slot: no clean everyday-English cognate (§13) |
 | त्रि | tri | /t̪ɾi/ | three | तीन | cognate-mentioned at v1.c01.l01 and v1.c05.l03 §13 but never a headword — formally enters the ledger today (§13); dental त् + tap र्, short इ (§9) |
 | चतुर् | catur | /t͡ɕɐt̪uɾ/ | four | चार | ends on bare र् — the word stops on the consonant, halanta honest (§9, §11); cognate of *quattuor* and *four* (§13); Hindi चार is its descendant |
 
-Back on duty from Volume 1, review rows only — no re-entry to the ledger: **द्वि**
+Back on duty from Volume 1, review rows only — no re-entry to the ledger: **एक**
+(eka) /eːkɐ/ "one" — एक (✓ v1.c02.l04, the course's first number word; final अ full,
+never Hindi-style "ek" — §12; the shelf's honestly empty slot — §13), **द्वि**
 (dvi) /d̪ʋi/ "two" — दो (✓ v1.c05.l03, the द्व ligature's word) and **पञ्च** (pañca)
 /pɐɲt͡ɕɐ/ "five" — पाँच (✓ v1.c06.l01 — the ञ्च conjunct showcase, its promise kept
 today).
@@ -391,18 +400,24 @@ at any speed.
 व्याकरणम् — two dresses on one rack, and a fence with a gate marked Volume 4.
 
 > **[FACT · तथ्यम्]** (1) The stems एक द्वि त्रि चतुर् पञ्च are citation names — the
-> shapes the words are listed and answered under. (2) Sanskrit numbers inflect for
-> gender and case; the chant एकम् द्वे त्रीणि चत्वारि पञ्च is the neuter counting
-> dress — real, inflected Sanskrit, standard counting practice, learned whole. (3) The
-> inflection system is honestly deferred: the course builds it in Volume 4; until then
-> counting runs on the chant and answers stand bare — त्रि! is a complete answer.
+> shapes the words are named by; dictionaries head five as पञ्चन् (pañcan). (2) Sanskrit
+> numbers inflect for case, and एक to चतुर् for gender too; the chant एकम् द्वे त्रीणि
+> चत्वारि पञ्च is the neuter counting dress — real, inflected Sanskrit, standard
+> counting practice, learned whole. (3) The inflection system is honestly deferred: the
+> course builds it in Volume 4; until then counting runs on the chant.
 > [REF:apte1890]; [REF:whitney1889]
+
+One drill convention, labeled as one: when a digit card goes up, this course accepts
+the bare citation name — त्रि! — as the answer. That is a name-tag drill, not a full
+Sanskrit word: a stem becomes a word only once it takes an ending, so a real count
+closes on its last chant word — three flowers end on त्रीणि!, five on पञ्च!, which
+happens to be a real form already.
 
 ### The two dresses
 
 | Job | Shape | Where you use it |
 |---|---|---|
-| Citation name | एक · द्वि · त्रि · चतुर् · पञ्च | word lists, the digit-name ladder, bare answers |
+| Citation name | एक · द्वि · त्रि · चतुर् · पञ्च | word lists, the digit-name ladder, bare digit-card answers (drill convention) |
 | Counting dress | एकम् · द्वे · त्रीणि · चत्वारि · पञ्च | the chant; counting aloud while pointing |
 
 Both rows are real Sanskrit. The left row names; the right row counts. पञ्च sits in
@@ -415,7 +430,8 @@ plenty, and we decline.
 number *dressed to match* — by gender, by case — and that machinery is exactly what
 Volume 4 builds (the salvage map parks numeral gender at v4.c05). Until then the rule
 is a fence, stated plainly: no number meets a plural noun in this course. The chant
-counts while you point; the bare citation name answers; the frames stay pause-form,
+counts while you point; the bare citation name answers a digit card; the frames stay
+pause-form,
 verbless or with अस्ति — safe ground, exactly as मम + family word was in Chapter 2.
 
 ## 16. Conversation
@@ -423,8 +439,8 @@ verbless or with अस्ति — safe ground, exactly as मम + family wor
 सम्भाषणम् — one scene: माया has made digit cards; अर्जुन answers, then the garden gets
 counted. Audio records into the Chapter 3 drill pack (§27). Every word is self-read.
 
-— नमस्ते, अर्जुनः! एतत् किम्?
-(namaste, arjunaḥ! etat kim?) "Greetings, Arjuna! What is this?" (She holds up the card
+— नमस्ते, अर्जुन! एतत् किम्?
+(namaste, arjuna! etat kim?) "Greetings, Arjuna! What is this?" (She holds up the card
 ३.) — नमस्ते, अर्जुन! यह क्या है?
 
 — त्रि!
@@ -444,13 +460,13 @@ there too!" — फूल यहाँ है। वहाँ भी फूल �
 (ekam… dve… trīṇi… catvāri… pañca!) "One… two… three… four… five!" (He counts, one
 touch per word.) — एक… दो… तीन… चार… पाँच!
 
-— पञ्च! धन्यवादः, अर्जुनः! पुनः मिलामः!
-(pañca! dhanyavādaḥ, arjunaḥ! punaḥ milāmaḥ!) "Five! Thank you, Arjuna — see you again!"
+— पञ्च! धन्यवादः, अर्जुन! पुनः मिलामः!
+(pañca! dhanyavādaḥ, arjuna! punaḥ milāmaḥ!) "Five! Thank you, Arjuna — see you again!"
 — पाँच! धन्यवाद, अर्जुन! फिर मिलेंगे!
 
 Housekeeping: एतत् किम्? rides v2.c02.l02's pointing kit — a card is a thing, so एतत्
 asks after it, and today a number answers. The chant counts while the finger points;
-the bare stem closes the count. And notice the question the scene never asks: "how
+the last chant word, पञ्च, closes the count. And notice the question the scene never asks: "how
 many?" *in Sanskrit* — that word is precisely next lesson's unlock. Pause form between
 turns, one full beat, as always.
 
@@ -502,8 +518,8 @@ pause.
 
 **अभ्यासः 2 · गणनयात्रा (the counting walk — production, spoken).** The worksheet's
 picture rows: flowers, stars, trees — one to five of each. Count each row aloud with
-the chant while touching each picture, then close with the bare answer: एकम्… द्वे…
-त्रीणि। — त्रि! Then once in the real world: five real things, counted, closed bare.
+the chant while touching each picture, then close on the last chant word: एकम्… द्वे…
+त्रीणि। — त्रीणि! Then once in the real world: five real things, counted, closed on पञ्च!
 
 **अभ्यासः 3 · श्रुतलेखनम् (dictation — production, written).** Play the dictation
 track 🔊: the five stems in random order, each read twice with a writing pause, then
@@ -514,14 +530,14 @@ pass; re-take tomorrow (§20).
 **अभ्यासः 4 · अङ्कनम् (the shelf sort).** Keep or reject, one reasoning line each:
 (a) "English *two* comes from Sanskrit द्वि." (b) "द्वि, Latin *duo* and English *two*
 are parallel descendants of one ancestor." (c) "चतुर् and *quattuor* are cognates."
-(d) "एक's everyday-English cognate is *one*." (e) "Hindi चार descends from Sanskrit
+(d) "एक and *one* go back to the very same ancestral word, just as द्वि and *two* do." (e) "Hindi चार descends from Sanskrit
 चतुर्." (f) "पञ्च was borrowed from Greek *pénte*." Before checking the key, find the
 asymmetry: why can (e) be kept while (a) is rejected?
 
 **अभ्यासः 5 · उत्पादनम् (produce the frames — production, written then spoken).**
 Write, then say: (1) the chant, from memory, one line; (2) the answers a partner would
 want for cards २, ४, ५ shown with एतत् किम्?; (3) one flower line with अस्ति and a
-count closed bare, on the §6 model. Read your page aloud as one tiny presentation.
+count closed on its last chant word, on the §6 model. Read your page aloud as one tiny presentation.
 
 **अभ्यासः 6 · गणनम् (the recorded take — production).** One take, three rounds: (1) the
 roll-call एक to पञ्च; (2) the chant on an even beat; (3) count five real objects,
@@ -563,8 +579,8 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
 2. (b) — both rows are real; names versus counting dress (§15).
 3. (c) — the honestly empty slot; reaching is how 1.x went wrong (§13).
 4. (c) — siblings, no arrow — the shelf's standing law (§13).
-5. (a) — descent runs downward inside Indo-Aryan, exactly like गृह → घर (§7, §13).
-6. (b) — mentions are not headwords; the ledger counts honestly, 282 → 285 (§13, §14).
+5. (a) — descent runs downward inside Indo-Aryan, exactly like गृह → घर (§7, §14).
+6. (b) — mentions are not headwords; the ledger counts honestly, 282 → 284 (§13, §14).
 7. (b) — tap and stop (§10, §11 check 3). ((a) is §12's mistake 2.)
 8. (a) — bare answers are the taught form; (b) names real Sanskrit the course defers —
    simplest correct beats ambitious wrong (§15); (c) and (d) are Hindi habits (§12).
@@ -572,12 +588,14 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
 **Exercise keys.** Exercise 1: १ एक · २ द्वि · ३ त्रि · ४ चतुर् · ५ पञ्च, both
 directions; ten clean at a beat is the pass. Exercise 3: self-check against §14; 4/5 +
 chant line intact. Exercise 4: (a) **reject** — siblings, no arrow between cousins;
-(b) **keep**; (c) **keep**; (d) **reject** — the slot stays honestly empty, no
+(b) **keep**; (c) **keep**; (d) **reject** — they share only an ancestral root, built out with different
+suffixes (§13): relatives, not a clean row, so the slot stays empty, no
 reaching; (e) **keep** — a true descent line inside Indo-Aryan; (f) **reject** —
 cognates, not a loan. The asymmetry: Hindi is Sanskrit's *descendant*, English is its
-*sibling* — direction claims are true downward and false sideways (§13). Exercises 2,
+*sibling* — direction claims are true downward and false sideways (§7, §13). Exercises 2,
 5–6 score against §6/§15: every chant word on its beat, every final sound intact,
-every closing answer bare.
+every digit card answered with its bare name, every count closed on its last chant
+word.
 </details>
 
 ## 20. Revision
@@ -589,8 +607,8 @@ every closing answer bare.
 > real and honestly deferred. **The digits:** १ २ ३ ४ ५ pair with the names at a beat.
 > **The shelf:** द्वि ~ duo ~ two · त्रि ~ trēs ~ three · चतुर् ~ quattuor ~ four ·
 > पञ्च ~ pénte ~ five — no arrows anywhere; एक's slot honestly empty. **The fence:** no
-> number meets a plural noun before Volume 4; answers stand bare — त्रि! **The
-> ledger:** three new — 282 → 285.
+> number meets a plural noun before Volume 4; cards answer with the bare name — त्रि! —
+> counts close on the chant word — त्रीणि! **The ledger:** two new — 282 → 284.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -645,8 +663,10 @@ so the eye learns the triplet digit-name-dress as one card.
 **Hold the कति line, and run the एक disappointment as a feature.** The how-many word
 is next lesson's by design — let cards and fingers ask today; leaking it flattens
 l02's opening. And when the shelf goes up with एक's slot empty, collect the guesses
-("one? own?"), then land the point: the course could reach and refuses to — the exact
-muscle next lesson's month-name fix will need.
+("one? own?"), then land the point: *one* really is related to एक at the root — same
+ancestor, different suffix (§13) — but it is not a clean row, so the slot stays empty;
+the course could print the reach and refuses to — the exact muscle next lesson's
+month-name fix will need.
 
 **Differentiation:** Hindi speakers own the meanings for free — their work is the
 finals (एक not "ek", चतुर् stopped on र्, पञ्च not पाँच) and the direction honesty:
@@ -687,7 +707,7 @@ vowels want to rush.
 (layout spec)**
 
 > A4 worksheet, portrait. Top third: five picture rows (one to five flowers, stars,
-> trees), each with a chant line to trace and a bare-answer box. Middle third: the
+> trees), each with a chant line to trace and a closing-word box. Middle third: the
 > ladder grid — shuffled digits १–५ with name lines, then name prompts with digit
 > boxes, plus a tempo row for three timed passes; then the six shelf-sort cards from
 > §18 exercise 4 with keep/reject boxes and reasoning lines. Bottom third: dictation
@@ -770,7 +790,7 @@ the narrator reads the cue, not the English spelling.
   - §16/§17 audio is NOT in this manifest — record into the Chapter 3 drill pack
     (chapter.md manifest) and back-link here when it exists.
 - **Related lessons:** reviews v2.c02.l05 (Station 0 — its §20 scheduled tasks C and D
-  compressed in §3; the weekly scene-card rotation carried in §21 item 4), v1.c05.l03
+  compressed in §3; the weekly scene-card rotation carried in §21 item 4), v1.c02.l04 (एक, the course's first number word — a review row today), v1.c05.l03
   (द्वि headword; the §13 note that first set त्रि beside it), v1.c06.l01 (पञ्च, the
   ञ्च showcase, the promise kept in §1/§4); builds on v1.c01.l01 (the first cognate
   table — त्रि's first mention), v1.c05.l05 (digits ०–९, the content/prose policy),
@@ -782,12 +802,12 @@ the narrator reads the cue, not the English spelling.
 - **Glossary:** reuses विसर्ग, मात्रा, संयुक्ताक्षर, हलन्त per GLOSSARY.md; no new
   glossary terms. The register work this lesson is cognate-direction honesty and
   ledger honesty (§13, §14).
-- **Export notes:** three headwords, all ledger-new — **282 → 285** (cumulative
-  readable words: 285; the chapter chain continues 285 → 290 → 297 → 305, confirmed
+- **Export notes:** two headwords, both ledger-new — **282 → 284** (cumulative
+  readable words: 284; the chapter chain continues 284 → 289 → 296 → 304, confirmed
   against the sibling §14 tables on disk (per v2.c03.l04 §27; l05's arithmetic was
   provisional) — reconcile the usual ≈ at review). त्रि exports as a NEW
   ledger row with `mention_history: [v1.c01.l01, v1.c05.l03]` — cognate mentions,
-  never a §14 headword before today (notes §1, §6: count honestly). Review rows द्वि,
+  never a §14 headword before today (notes §1, §6: count honestly). Review rows एक (✓ v1.c02.l04), द्वि,
   पञ्च export flagged review-duplicate, not new. Display-only, excluded from counts
   and decks: एकम्, द्वे, त्रीणि, चत्वारि (export as `display`, role `counting-chant`);
   digits १–५ export as digit-name content pairs, no ledger effect. Export "ek",

@@ -55,7 +55,7 @@ detective stories about direction. Your calendar's November really does contain 
 sailed the other way: होरा came INTO Sanskrit from Greek. Today you prove all of it:
 count to ten with a tongue that knows dental from retroflex, read a month written in
 Devanagari digits, run अद्य-श्वः-ह्यः around a real week — and sort nine claims where
-the winning answer is the honest arrow. Twenty-three ledger-new words this chapter.
+the winning answer is the honest arrow. Twenty-two ledger-new words this chapter.
 Time to show they count.
 
 ## 2. Learning Objective
@@ -128,7 +128,8 @@ compressed items, two minutes; log scores next to the old ones:
 
 1. अद्य "today" · श्वः "tomorrow" · ह्यः "yesterday" — the deictic trio. → l03 §8.
 2. Greek → Sanskrit: होरा was borrowed INTO Sanskrit with Hellenistic astronomy — the
-   reversed arrow. → l03 §13.
+   reversed arrow; its traveling companion is Hellenistic astronomy (the seven-day
+   week, l04 §4, also accepted). → l03 §13.
 3. सप्त + अह — "a seven of days": the word carries its own arithmetic. → l03 §8.
 </details>
 
@@ -143,7 +144,7 @@ compressed items, two minutes; log scores next to the old ones:
 1. रविवासरः सोमवासरः मङ्गलवासरः बुधवासरः गुरुवासरः शुक्रवासरः शनिवासरः. → l04 §8.
 2. The seven-day system entered Indian timekeeping in the early centuries CE — an
    honestly dated import; the वासर names themselves are real, standard Sanskrit.
-   → l04 §4, §15.
+   → l04 §4, §13, §15.
 3. E.g. अद्य मङ्गलवासरः। श्वः बुधवासरः। ह्यः सोमवासरः। — verbless frames carry it.
    → l04 §8.
 </details>
@@ -155,16 +156,18 @@ weakest station today and assess tomorrow [REF:cepeda2006].
 
 ऐतिहासिकः सन्दर्भः — one paragraph, as in every review lesson.
 
-Last chapter's exam graded three arrows; today the toolkit completes. This chapter
-crossed all four relations a pair of words can have: cognates (अष्ट ~ octō — one
+Last chapter's exam graded three arrows; lesson 3 completed the toolkit, and today's
+table names every row. This chapter crossed the four relations the course's direction
+table tracks: cognates (अष्ट ~ octō — one
 ancestor, two heirs, no arrow), loans outbound (dharma → English), loans inbound
 (Greek hṓra → होरा), and the subtle fourth — two languages borrowing from one source
 (English *hour* and Sanskrit होरा, cousins by borrowing). It also delivered the fix
 the 1.x audit demanded: the month names are Latin's own arithmetic, and the honest
 version — one ancestor's numbers surviving in two calendars — is the grander story.
 
-> **[HISTORY · इतिहासः]** The seven-day planetary week entered Indian timekeeping in
-> the early centuries CE, alongside Hellenistic astronomy; the वासर day-names are
+> **[HISTORY · इतिहासः]** The seven-day planetary week entered Indian timekeeping — on
+> the scholarly estimate — in the early centuries CE, alongside Hellenistic astronomy;
+> the वासर day-names are
 > attested in later classical and medieval texts and are today's standard Sanskrit.
 > [REF:monierwilliams1899 s.v. वासर]; [REF:burrow2001]
 
@@ -217,7 +220,7 @@ whole business.
 
 पहली — **दिशा-तालिका अब पूरी है।** पिछली परीक्षा में तीन तीर थे; आज चार सम्बन्ध हैं:
 कोई तीर नहीं (अष्ट और octō — एक ही पुरखे की दो सन्तानें), पूर्व से (dharma संस्कृत
-से अंग्रेज़ी गया), पश्चिम से (होरा यूनानी से संस्कृत में आया), और सबसे बारीक — दोनों
+से अंग्रेज़ी में गया), पश्चिम से (होरा यूनानी से संस्कृत में आया), और सबसे बारीक — दोनों
 उधार (अंग्रेज़ी hour और संस्कृत होरा, दोनों एक ही यूनानी शब्द से, दो अलग रास्तों से)।
 कार्ड छाँटते समय पहले तीर खींचिए, फिर लेबल लगाइए। और November वाला कार्ड — याद रखिए:
 novem लैटिन का अपना "नौ" है; नव उसका चचेरा भाई है, पिता नहीं।
@@ -231,8 +234,9 @@ novem लैटिन का अपना "नौ" है; नव उसका �
 लाइए (भूल जाएँ तो एक कार्ड मिलेगा)। पहले "आज" का चिह्न आज की तारीख़ पर रखिए,
 फिर तीनों प्रश्न: अद्य कः वासरः? श्वः? ह्यः? — बिना क्रिया के, सधे हुए ढाँचे
 में। तीन तिथियाँ ज़ोर से पढ़िए — अंक + वार — और एक कति-प्रश्न पूछकर उसका उत्तर भी
-दीजिए। हिन्दी यहाँ आपकी मदद करेगी: सोमवार सोमवासरः का ही उतरा हुआ रूप है — पर लिखते
-और बोलते समय संस्कृत रूप ही चाहिए, -वार नहीं।
+दीजिए। हिन्दी यहाँ आपकी मदद करेगी: सोमवार में वही सोम है, पर उसका -वार संस्कृत का एक
+अलग शब्द है — वार (vāra) "बारी; सप्ताह का दिन" — घिसा हुआ वासर नहीं। लिखते
+और बोलते समय इस पाठ्यक्रम का -वासरः रूप ही चाहिए, -वार नहीं।
 
 ## 8. English Explanation
 
@@ -316,7 +320,7 @@ affricate. श्वः /ɕʋɐh/ and ह्यः /ɦjɐh/ end in visarga /h/ �
 | 5 | होरा's arrow reversed ("Greek borrowed it from Sanskrit") | D | l03 §13 — the loan ran INTO Sanskrit, with Hellenistic astronomy |
 | 6 | Digit misreads at speed — ९ taken for ७, ८ for ५ | C, E | v1.c05.l05 digit cards; slow the ladder before speeding it |
 | 7 | नव "nine" and नव "new" merged into one word | D | l02 §13 — homophones; two words, two English cousins (nine, new) |
-| 8 | Hindi -वार forms slipping in (सोमवार for सोमवासरः) | B, E | l04 §12 — the descendant is real, the exam wants the Sanskrit form |
+| 8 | Hindi -वार forms slipping in (सोमवार for सोमवासरः) | B, E | l04 §12 — सोमवार is real Hindi; the exam wants the taught -वासरः form |
 
 ## 13. Examples
 
@@ -325,8 +329,9 @@ affricate. श्वः /ɕʋɐh/ and ह्यः /ɦjɐh/ end in visarga /h/ �
 **Model counting round (task C).** The ladder deals three cards: ९ · ३ · ७. Within a
 beat each: नव! त्रि! सप्त! Then the reverse row — you hear *ṣaṭ* and write ६. Then
 the objects: five pencils on the table. कति? — **पञ्च!** The exam-day trap is
-ambition: reaching for a verb (पञ्च सन्ति?? — the verb machinery is next chapter's)
-or gluing on endings. The bare answer is the taught, correct form. Simplest correct
+ambition: reaching for a verb (पञ्च सन्ति?? — a plural verb: verbs begin next
+chapter, singular only) or gluing on endings. The bare answer is the taught, correct
+form. Simplest correct
 beats ambitious wrong — that rule *is* the course.
 
 **Model direction sort (task D).** Card: "English *hour* and Sanskrit होरा both go
@@ -341,14 +346,14 @@ cognates. **Reject** — and the correction is the full answer.
 ## 14. Vocabulary
 
 शब्दावली — no new words on exam day; the chapter ledger, complete: 282 entering
-(per v2.c02.l05 §14) + 23 ledger-new — l01 3, l02 5, l03 7, l04 8 — **305 readable
-words**. *Note:* counts verified against the sibling §14 tables on disk: 282 → 285 →
-290 → 297 → 305 (l04 §27 concurs). The exam sheet's word bank samples all four
+(per v2.c02.l05 §14) + 22 ledger-new — l01 2, l02 5, l03 7, l04 8 — **304 readable
+words**. *Note:* counts verified against the sibling §14 tables on disk: 282 → 284 →
+289 → 296 → 304 (l04 §27 concurs). The exam sheet's word bank samples all four
 lessons. Protocol as always: block by block, whole word, full finals, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| एक · चतुर् · त्रि | eka · catur · tri | — | one · four · three | — | l01, 3 headwords + the chant — full rows: l01 §14 |
+| चतुर् · त्रि | catur · tri | — | four · three | — | l01, 2 headwords + the chant (एक is a review row, ✓ v1.c02.l04) — full rows: l01 §14 |
 | षट् · सप्त · अष्ट · नव · कति | ṣaṭ · sapta · aṣṭa · nava · kati | — | six · seven · eight · nine · how many? | — | l02, 5 headwords — full rows: l02 §14 |
 | कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | time · today · tomorrow · yesterday · year · week · hour | — | l03, 7 headwords (मासः upgraded) — full rows: l03 §14 |
 | वासरः · रविवासरः … शनिवासरः | vāsaraḥ · ravivāsaraḥ … śanivāsaraḥ | — | day of the week + the seven names | — | l04, 8 headwords — full rows: l04 §14 |
@@ -358,12 +363,13 @@ lessons. Protocol as always: block by block, whole word, full finals, pause form
 व्याकरणम् — the chapter's rules restated on one page.
 
 > **[FACT · तथ्यम्]** **The stems:** एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश —
-> citation names; Sanskrit numbers inflect for gender and case, a system this course
+> citation names (dictionaries file six under षष्, and nine under नवन् — l02 §13,
+> §15); Sanskrit numbers inflect for gender and case, a system this course
 > defers honestly (full treatment in Volume 4) and never fakes. **The chant:** एकम्
 > द्वे त्रीणि चत्वारि… — real, inflected, neuter counting forms, learned whole as
 > practice. **The question:** कति "how many?" — answers may stand bare: कति? — पञ्च!
 > **The trio:** अद्य श्वः ह्यः are indeclinables; verbless frames carry them. **The
-> week:** the days are X-वासरः compounds; अद्य कः वासरः? asks the date. **The honesty
+> week:** the days are X-वासरः compounds; अद्य कः वासरः? asks the weekday. **The honesty
 > lines:** no numeral agreement yet; no locatives; digits ०–९ are content, Latin
 > digits are prose. [REF:apte1890]; [REF:whitney1889]
 
@@ -480,7 +486,7 @@ Finish with the maintenance micro-check: write ०–९ from memory in order, t
 6. (l03) होरा — which direction did the word travel, and with what discipline did it
    arrive?
 7. (l03) Gloss the everyday trio: अद्य, श्वः, ह्यः.
-8. (l04) अद्य कः वासरः? — answer for a Monday, and give the everyday Hindi descendant
+8. (l04) अद्य कः वासरः? — answer for a Monday, and give the everyday Hindi counterpart
    of that day-name.
 9. (chapter) The week: what about it is honestly dated as an import, and what is
    standard Sanskrit?
@@ -502,9 +508,11 @@ Finish with the maintenance micro-check: write ०–९ from memory in order, t
 6. Greek → Sanskrit — borrowed in with Hellenistic astronomy; the reversed arrow
    (l03 §13).
 7. अद्य "today" · श्वः "tomorrow" · ह्यः "yesterday" (l03 §8).
-8. अद्य सोमवासरः। — Hindi's everyday descendant form is सोमवार (l04 §8, §13).
+8. अद्य सोमवासरः। — Hindi's everyday name is सोमवार: the same सोम on Sanskrit's other
+   weekday word, वार (vāra), not a worn-down वासर; see l04 §8 for the frame and l04 §4,
+   §13 for वार.
 9. The seven-day system entered Indian usage in the early centuries CE — an import,
-   honestly dated; the वासर day-names are real, standard Sanskrit (l04 §4, §15).
+   honestly dated; the वासर day-names are real, standard Sanskrit (l04 §4, §13, §15).
 10. Cognates: अष्ट ~ octō (or दश ~ decem) — no arrow; borrowing: Greek hṓra → होरा
     (or dharma → English) — a real arrow, drawn in the right direction (l02 §13,
     l03 §13).
@@ -513,10 +521,13 @@ Finish with the maintenance micro-check: write ०–९ from memory in order, t
 digit; day items name the वासर; date-line items require slot + day both). B
 (dictation set): चतुर्, अष्ट, श्वः, सप्ताहः, होरा, मङ्गलवासरः — then अद्य सोमवासरः।
 D: 1 **reject** (Latin's own novem; cognates, no derivation — THE October-fix card) ·
-2 FACT · 3 FACT (the reversed arrow, with Hellenistic astronomy) · 4 FACT (two loans
+2 FACT · 3 FACT (the reversed arrow, with Hellenistic astronomy; l03 §13's FACT
+callout — accept HISTORY if the reasoning cites l03 §4's callout) · 4 FACT (two loans
 from one Greek source — cousins by borrowing, not shared descent) · 5 **reject** (the
 system is an early-centuries-CE import, honestly dated; the names are real) · 6 FACT
-· 7 **reject** (homophones — two words, two English cousins: nine, new) · 8 FACT
+(a lexical fact — l04 §4's FACT callout; HISTORY also scores if the reasoning cites
+the attestation dating in this lesson's §4 callout) · 7 **reject** (homophones — two
+words, two English cousins: nine, new) · 8 FACT
 (loans run both ways; one real arrow each direction: dharma's arrow east, होरा's
 arrow west) · 9 FACT (real inflected neuter forms — and the full system is later business; both
 halves said honestly). Scoring: 7+/9 with sane reasoning. C and E score on the §22
@@ -533,7 +544,7 @@ rubric.
 > कालः अद्य श्वः ह्यः मासः वर्षम् सप्ताहः होरा. **The week:** वासरः and the seven
 > X-वासरः names, honestly dated. **The arrows, complete:** none (अष्ट ~ octō) · east
 > (dharma →) · west (→ होरा) · both-borrowed (*hour* ~ होरा). **The fix:** November
-> is Latin's own nine. **The ledger:** 305 — 282 entering + 23 new.
+> is Latin's own nine. **The ledger:** 304 — 282 entering + 22 new.
 
 Schedule [REF:cepeda2006]: **+1 day** — re-run the dictation and one counting take
 cold. **+1 week** — v2.c04.l01's Station 0 re-runs tasks C and D compressed. **Before
@@ -640,7 +651,7 @@ Lesson video (8–10 min), scene list:
 4. The direction sort (6:00–7:30): nine cards fly; card 1 hovers, flips to reject as
    the Latin calendar counts itself; card 4 grows two arrows from one Greek node —
    one through Latin and French to *hour*, one — the arrow west — to होरा.
-5. Outro (7:30–9:00): the ledger counter ticks to 305; the four-arrow chart
+5. Outro (7:30–9:00): the ledger counter ticks to 304; the four-arrow chart
    assembles; end card: "Next: क्रियाः — the verbs arrive, and sentences get
    engines."
 
@@ -662,7 +673,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 06:00 — "The cards. 'November comes from nava [n̪ɐʋɐ]' — reject, with love: novem
   is Latin's own nine. And horā [ɦoːɾɑː] — an hour that sailed INTO Sanskrit from
   Greek. Arrows exist. Draw them right."
-- 07:30 — "Three hundred five words. Next: the verbs — and every sentence you
+- 07:30 — "Three hundred four words. Next: the verbs — and every sentence you
   own gets an engine. śvaḥ [ɕʋɐh] — tomorrow — we conjugate."
 
 ## 26. Reel Script
@@ -693,11 +704,11 @@ verbs arrive." (End card: संख्याः कालश्च।)
   (§16).
 - **Rubric home:** §22; export flag `assessment: true`.
 - **Integrator notes:** ledger arithmetic confirmed against the sibling §14 tables:
-  282 entering + 23 (l01 3 · l02 5 · l03 7 · l04 8) = **305**; chain 282 → 285 →
-  290 → 297 → 305. §19 task keys are the single source for the audio/exam key
+  282 entering + 22 (l01 2 · l02 5 · l03 7 · l04 8) = **304**; chain 282 → 284 →
+  289 → 296 → 304. §19 task keys are the single source for the audio/exam key
   files.
 - **Verification flags for Pass C:** the nine D-cards diffed against l02 §13
-  (month-name fix, नव split), l03 §13 (होरा loan), l04 §4/§15 (week dating, वासर
+  (month-name fix, नव split), l03 §13 (होरा loan), l04 §4/§13/§15 (week dating, वासर
   attestation); card 8 traces to fact base §0.7 and the v2.c02.l05 direction
   toolkit, not to this chapter's siblings; Whitney numeral § range cited bare pending
   verification (notes §0.1); week dating kept to "early centuries CE", no precise

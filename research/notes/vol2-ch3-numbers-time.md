@@ -13,7 +13,7 @@ Entering ledger: ≈282 (reconciled at c02 review).
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 0.1 | The number stems 1–10: एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश. Numbers inflect (gender/case); the stems are the citation names; the neuter counting recitation (एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश) is standard practice — taught as a chant, inflection system deferred (V3/V4 per the 1.x-salvage map: numeral gender splits land in v4.c05). | FACT + policy | [REF:apte1890]; [REF:whitney1889 §§475–489 — **Pass C: verify range or cite bare**] | द्वि, पञ्च, दश already in the ledger (v1.c05/c06, v1.c04); त्रि cognate-mentioned only (v1.c01.l01, v1.c05.l03 §13) — counted new at l01; the chapter completes the set. |
+| 0.1 | The number citation forms 1–10: एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश — for 5–10 these are the pada shapes; the dictionary stems are पञ्चन्, षष्, सप्तन्, अष्टन्, नवन्, दशन् — cf. 0.4; corrected at audit. Numbers inflect (gender/case); these citation forms are the course's names; the neuter counting recitation (एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश) is standard practice — taught as a chant, inflection system deferred (V3/V4 per the 1.x-salvage map: numeral gender splits land in v4.c05). | FACT + policy | [REF:apte1890]; [REF:whitney1889 §§475–489 — **Pass C: verify range or cite bare**] | एक, द्वि, पञ्च, दश already in the ledger (v1.c02.l04, v1.c05/c06, v1.c04; एक restored at audit — a §14 headword since v1.c02.l04, review only); त्रि cognate-mentioned only (v1.c01.l01, v1.c05.l03 §13) — counted new at l01; the chapter completes the set. |
 | 0.2 | The cognate shelf, direction-honest: द्वि ~ duo/two · त्रि ~ trēs/three · चतुर् ~ quattuor/four · पञ्च ~ Gk. pénte/five · षट् ~ sex/six · सप्त ~ septem/seven · अष्ट ~ octō/eight · नव ~ novem/nine · दश ~ decem/ten. Parallel descendants of the PIE numerals — among the most stable words in the family. | FACT | [REF:mallory2006] (numerals); [REF:burrow2001] | The chapter's flagship shelf. |
 | 0.3 | THE BANNED-CLAIM FIX (1.x pp.30–31, IR-audit): *October/November/December do NOT come from Sanskrit.* The month names are Latin counting its own calendar — octō, novem, decem "eight, nine, ten" for the 8th–10th months of the old Roman year. Latin octō and Sanskrit अष्ट are cognates (siblings from PIE); neither derives from the other. Same for tri-angle (Greek/Latin tri-, cognate of त्रि). | FACT (corrective) | [REF:mallory2006]; OED month entries | Delivered as content: the honest version is BETTER — one ancestor's numbers surviving in two calendars. Register card in l05. |
 | 0.4 | नव homophony: नव "nine" and नव "new" are two distinct words (नवन् vs नव) that fell together — and BOTH have English cognates (nine; new). The ledger's नव "new; nine" row (v1.c04.l01) is honestly split here. | FACT | [REF:monierwilliams1899 s.vv.] | A delightful honesty beat, not a trap. |
@@ -21,12 +21,12 @@ Entering ledger: ≈282 (reconciled at c02 review).
 | 0.6 | Time words (classical): कालः "time"; अद्य "today"; श्वः "tomorrow"; ह्यः "yesterday"; मासः "month" (✓ v1.c04 as मास — the ः-dress enters use); वर्षम् "year"; सप्ताहः "week — a seven-of-days" (attested; transparent सप्त + अह). | FACT | [REF:apte1890]; [REF:monierwilliams1899] s.vv. | अद्य/श्वः/ह्यः are the everyday trio. |
 | 0.7 | होरा "hour" is a genuine LOAN INTO Sanskrit from Greek hṓra, borrowed with Hellenistic astronomy/astrology (attested in jyotiṣa literature). Loans run both ways — the perfect partner to dharma/karma (Sanskrit → English) and the final tool in the loan-vs-cognate kit. | FACT | [REF:monierwilliams1899 s.v. होरा]; [REF:burrow2001] (Greek loans in astronomy) | The direction showcase, reversed. |
 | 0.8 | The weekday names (रविवासरः, सोमवासरः, …) follow the seven-planet week — a system that entered Indian usage in the early centuries CE alongside Hellenistic astronomy; the vāsara names are attested from later classical/medieval texts and are today's standard. Labels: the WORDS classical/medieval; the seven-day week itself a historical import — say both. | FACT + HISTORY | [REF:monierwilliams1899 s.v. वासर]; [REF:burrow2001] — **Pass C: keep dating vague ("early centuries CE"), no precise date claimed** | l04's honest frame. |
-| 0.9 | Digits ०–९ (taught v1.c05.l05) now pair with their names; dates practice uses digits as content per STYLE_GUIDE §3. Pedagogy anchors unchanged [REF:nation2013] [REF:roediger2006] [REF:cepeda2006]; v2.c02.l05's +1-week lands in l01 Station 0. | policy | in-course | — |
+| 0.9 | Digits ०–९ (taught v1.c05.l05) now pair with their names for १ to १० — ० gets no name this chapter, corrected at audit; dates practice uses digits as content per STYLE_GUIDE §3. Pedagogy anchors unchanged [REF:nation2013] [REF:roediger2006] [REF:cepeda2006]; v2.c02.l05's +1-week lands in l01 Station 0. | policy | in-course | — |
 
 ## 1. L1 — एकादिपञ्चान्ताः: one to five (vocabulary)
 
-Station 0 = v2.c02.l05's +1-week. **New (3):** एक /eːkɐ/, त्रि /t̪ɾi/, चतुर्
-/t͡ɕɐt̪uɾ/ (+ चत्वारि counting form as display); reviews द्वि (✓v1.c05.l03), पञ्च
+Station 0 = v2.c02.l05's +1-week. **New (2):** त्रि /t̪ɾi/, चतुर्
+/t͡ɕɐt̪uɾ/ (+ चत्वारि counting form as display); reviews एक (✓v1.c02.l04), द्वि (✓v1.c05.l03), पञ्च
 (✓v1.c06.l01). त्रि verified at drafting: cognate-mentioned at v1.c01.l01 and
 v1.c05.l03 §13, never a §14 headword — counted new, first ledger entry. The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च introduced as
 practice (0.1 policy line). Cognate rows: एक (no clean English cognate — say so, honesty
@@ -56,7 +56,9 @@ planet first-members रवि/गुरु are ledger words already — v1.c04.
 corrected at review — सोम/मङ्गल/बुध/शुक्र/शनि arrive
 inside the compounds — note, don't separately teach). The 0.8 honest frame: names
 attested, the seven-day system a documented historical import (HISTORY callout, hedged
-dating). Hindi -वार forms (सोमवार) noted as the everyday descendants. Calendar drills:
+dating). Hindi -वार forms (सोमवार) noted as the everyday Hindi names — they continue
+Sanskrit's own shorter weekday word वार (vāra) (सोमवारः, आदित्यवारः > Hindi इतवार), NOT a
+worn-down वासर — corrected at audit. Calendar drills:
 digits + weekdays + अद्य/श्वः/ह्यः. अद्य कः वासरः? — अद्य सोमवासरः।
 
 ## 5. L5 — पुनरावृत्तिः: the numbers & time exam (review)
@@ -81,6 +83,7 @@ questions and present three dates aloud. Gates v2.c04 (क्रियाः —
 - Weekday-name attestation (0.8) — vague dating enforced; no "Vedic week" claim.
 - चत्वारि/द्वे/त्रीणि counting forms — display/chant only; no agreement teaching.
 - Month-name etymologies (0.3) — OED-checkable; the corrective framed warmly.
-- Ledger: ≈282 + ~23 ≈ 305; reconcile at review.
+- Ledger: ≈282 + 22 ≈ 304 — एक is a v1.c02.l04 row (review, not ledger-new; l01's
+  new pair is त्रि, चतुर्; corrected at audit); reconcile at review.
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.

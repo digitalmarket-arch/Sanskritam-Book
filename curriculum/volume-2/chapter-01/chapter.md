@@ -42,7 +42,7 @@ By the end of this chapter the learner can:
 - [ ] Choose the right greeting for the time of day (सुप्रभातम् … शुभरात्रिः) and say
   which parts of the kit are classical idiom and which modern convention
 - [ ] Use न for simple negation (न, न अस्ति, न कुशलम्)
-- [ ] Read 23 ledger-new words — 26 headwords drilled (260 cumulative) — incl. अञ्जलिः, कुशलम्, धन्यवादः, स्वस्ति
+- [ ] Read 21 ledger-new words — 26 headwords drilled (258 cumulative) — incl. अञ्जलिः, कुशलम्, धन्यवादः, स्वस्ति
 - [ ] Improvise the lesson-5 role-card conversation and pass the chapter assessment
 
 ## Lessons
@@ -51,7 +51,7 @@ By the end of this chapter the learner can:
 |---|---|---|---|---|
 | 1 | v2.c01.l01 | नमस्कारः — The Greeting Kit | vocabulary | भोः अञ्जलिः भद्रम् स्वस्ति; V1-exam Station 0 |
 | 2 | v2.c01.l02 | कुशलप्रश्नः — How Are You | conversation | कथम् कुशलम् कुशली सर्वम्; the wellness exchange |
-| 3 | v2.c01.l03 | दिनयात्रा — Through the Day | vocabulary | प्रभातम् दिनम् सायम् रात्रिः; सुप्रभातम्/शुभरात्रिः labeled |
+| 3 | v2.c01.l03 | दिनयात्रा — Through the Day | vocabulary | प्रभातम् मध्याह्नः सायम् रात्रिः + दिनम् शुभम्; सुप्रभातम्/शुभरात्रिः labeled |
 | 4 | v2.c01.l04 | शिष्टाचारः — Courtesy & Farewell | conversation | धन्यवादः कृपया क्षमस्व न श्रीमान् पुनः मिलामः |
 | 5 | v2.c01.l05 | पुनरावृत्तिः — The Courtesy Exam | review | role-card conversation exam; the label register cards |
 

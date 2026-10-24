@@ -30,7 +30,7 @@ day-cycle of v2.c01 gets its calendar.
 - The numeral cognate shelf; the October/November/December correction as content
 - कति? with bare-number answers; time words अद्य/श्वः/ह्यः, कालः, वर्षम्, सप्ताहः
 - होरा — the Greek→Sanskrit loan showcase; the week with its honest history
-- Digits ०–९ paired with names; calendar and date practice
+- Digits १–१० paired with names (० stays nameless for now); calendar and date practice
 
 ## Can-do statements
 
@@ -41,14 +41,14 @@ By the end of this chapter the learner can:
 - [ ] Name the weekdays and read dates from a Devanagari-digit calendar
 - [ ] Tell the month-name story correctly (cognates, not derivation) and the होरा story
   (a loan into Sanskrit)
-- [ ] Read 23 ledger-new words (305 cumulative)
+- [ ] Read 22 ledger-new words (304 cumulative)
 - [ ] Pass the chapter assessment incl. the calendar task
 
 ## Lessons
 
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
-| 1 | v2.c03.l01 | एकादिपञ्चान्ताः — One to Five | vocabulary | एक त्रि चतुर् (+ counting chant); c02 Station 0 |
+| 1 | v2.c03.l01 | एकादिपञ्चान्ताः — One to Five | vocabulary | त्रि चतुर् (+ counting chant); c02 Station 0 |
 | 2 | v2.c03.l02 | षडादिदशान्ताः — Six to Ten | vocabulary | षट् सप्त अष्ट नव-nine कति; THE October fix |
 | 3 | v2.c03.l03 | कालः — Time Words | vocabulary | कालः अद्य श्वः ह्यः वर्षम् सप्ताहः होरा |
 | 4 | v2.c03.l04 | वासराः — The Week | vocabulary | वासरः + the seven day-names; honest week-history |

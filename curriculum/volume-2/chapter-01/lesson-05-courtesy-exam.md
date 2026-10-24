@@ -49,9 +49,10 @@ updated: 2026-07-31
 
 ## 1. Hook
 
-Five lessons ago you owned exactly one greeting. Today you own a protocol: you can open
-a conversation at the right hour, ask after someone's well-being, thank them, apologize
-to them, and take your leave — some thirty new words, and not one of them decoration.
+Five lessons ago you owned three greetings — नमस्ते, स्वागतम्, नमस्कारः. Today you own a
+protocol: you can open a conversation at the right hour, ask after someone's well-being,
+thank them, apologize to them, and take your leave — twenty-six headwords, and not one
+of them decoration.
 So today's exam is not a word list. It is **one conversation**, run from first नमस्ते
 to last स्वस्ति — first from a script, then, for the finale, improvised cold from a
 role card. And between the speaking tasks sits the sort this chapter was built for:
@@ -77,8 +78,8 @@ tasks C and E; objective 3 in §13/§15, task D and §19.
 
 ### Station 0 — the chapter's own intervals converge
 
-The four lessons' spacing schedules — the +1-day items of lessons 3–4, the +1-week
-items of lessons 1–2 — all come due (near enough) today [REF:cepeda2006]. Two
+The four lessons' spacing schedules — the +1-day items of lesson 4, the +1-week
+items of lessons 1–3 — all come due (near enough) today [REF:cepeda2006]. Two
 compressed items, two minutes; log the scores next to the old ones.
 
 1. Dictation row, one word per lesson, self-read or partner-read: अञ्जलिः · कुशलम् ·
@@ -97,12 +98,12 @@ compressed items, two minutes; log the scores next to the old ones.
 <details><summary>उत्तराणि · Station 1 key</summary>
 
 1. नमः "homage" + ते "to you" — the join inside the word is a sandhi result, learned
-   whole for now. → l01 §8, §15.
+   whole for now. → l01 §4; §15 below.
 2. A classical address particle — "O!, hey" — calling for attention, to anyone
    addressed directly. → l01 §8.
 3. The word अञ्जलिः (añjaliḥ) "the two hands joined" is FACT — an attested classical
    word; the gesture itself is cultural practice, TRADITION register, never assessed.
-   → l01 §8, §15.
+   → l01 §12, §13.
 </details>
 
 ### Station 2 — कुशलप्रश्नः: the wellness exchange (lesson 2)
@@ -123,15 +124,17 @@ compressed items, two minutes; log the scores next to the old ones.
 
 ### Station 3 — दिनयात्रा: the day cycle, with labels (lesson 3)
 
-1. The day's four stops — recite in order with glosses: dawn, day, evening, night.
+1. The day's four stops — recite in order with glosses: dawn, midday, evening, night —
+   then name the word for the whole circle.
 2. Which greeting opens the morning, which closes the day — and which usage label does
    each wear?
 3. शुभम् standing alone — what does it wish, and where did शुभ first appear?
 
 <details><summary>उत्तराणि · Station 3 key</summary>
 
-1. प्रभातम् (prabhātam) "dawn" · दिनम् (dinam) "day" · सायम् (sāyam) "evening" ·
-   रात्रिः (rātriḥ) "night". → l03 §14.
+1. प्रभातम् (prabhātam) "dawn" · मध्याह्नः (madhyāhnaḥ) "midday" · सायम् (sāyam)
+   "evening" · रात्रिः (rātriḥ) "night" — and दिनम् (dinam) "day" names the whole
+   circle. → l03 §8, §14.
 2. सुप्रभातम् opens, शुभरात्रिः closes — both wear the **modern spoken** label as
    greetings; सुप्रभातम् the word is itself classical. → l03 §8, §15.
 3. A freestanding wish — "may it be well"; शुभ has been readable since v1.c04.l02.
@@ -202,21 +205,24 @@ speaking tasks: the label is part of the meaning.
 
 ## 6. Sanskrit Explanation
 
-संस्कृतेन विवरणम् — the exam's spine, every word yours:
+संस्कृतेन विवरणम् — the exam's spine, every word readable, and परीक्षा "exam, test"
+glossed whole (display, off the ledger):
 
 > **परीक्षा अत्र अस्ति।**
 > (parīkṣā atra asti.) "The exam is here." — परीक्षा यहाँ है।
 
 The five moves, in one breath:
 
-> **सुप्रभातम्, श्रीमान्! — अपि कुशलम्? — धन्यवादः! — क्षमस्व! — स्वस्ति! पुनः मिलामः!**
-> (suprabhātam, śrīmān! — api kuśalam? — dhanyavādaḥ! — kṣamasva! — svasti! punaḥ
+> **सुप्रभातम्, श्रीमन्! — अपि कुशलम्? — धन्यवादः! — क्षमस्व! — स्वस्ति! पुनः मिलामः!**
+> (suprabhātam, śrīman! — api kuśalam? — dhanyavādaḥ! — kṣamasva! — svasti! punaḥ
 > milāmaḥ!) "Good morning, sir! — All well? — Thank you! — Forgive me! — Farewell, we
 > meet again!" — सुप्रभात, श्रीमान्! — सब कुशल? — धन्यवाद! — क्षमा कीजिए! — अच्छा,
 > फिर मिलेंगे!
 
 Greet, ask, thank, apologize, part: five moves, one conversation — pause form
-throughout, every visarga sounded, and the labels carried silently in your head.
+throughout, every visarga sounded, and the labels carried silently in your head. One
+shape to keep straight: called to directly, श्रीमान् takes its calling shape श्रीमन् —
+used whole, like आचार्य for आचार्यः (l01 §15, l04 §15); the headword stays श्रीमान्.
 
 ## 7. Hindi Explanation
 
@@ -230,9 +236,9 @@ throughout, every visarga sounded, and the labels carried silently in your head.
    — धन्यवादः में अन्त की हल्की साँस हिन्दी की आदत में छूट जाती है — और अन्तिम **म्**
    पूरा बोलिए: सुप्रभातम् कभी "सुप्रभात" बनकर न रह जाए। श्रुतलेख (कार्य B) यही दोनों
    बातें परखता है।
-2. **लेबल की बात — "आधुनिक" अपमान नहीं है।** धन्यवादः शब्द प्राचीन कोशों में दर्ज है;
-   रोज़मर्रा के "थैंक यू" की तरह उसका चलन आधुनिक बोलचाल की संस्कृत की देन है। दोनों बातें
-   एक साथ सच हैं — यही इस अध्याय की सबसे बड़ी सीख है। कार्य D में जो कथन "अस्वीकार"
+2. **लेबल की बात — "आधुनिक" अपमान नहीं है।** धन्यवादः शब्द संस्कृत के मानक कोशों में
+   दर्ज एक प्रमाणित शब्द है; रोज़मर्रा के "थैंक यू" की तरह उसका चलन आधुनिक बोलचाल की
+   संस्कृत की देन है। दोनों बातें एक साथ सच हैं — यही इस अध्याय की सबसे बड़ी सीख है। कार्य D में जो कथन "अस्वीकार"
    होते हैं, वे शब्दों के विरुद्ध नहीं, अधूरे या ग़लत दावों के विरुद्ध हैं। सही लेबल
    बताना ही पूरा उत्तर है।
 3. **सुधार का तरीक़ा।** संवाद-सीढ़ी (कार्य C) में पाँच क़दम याद रखिए, पंक्तियाँ रटिए मत
@@ -301,8 +307,9 @@ Same discipline as ever, since Volume 1: no schwa deletion, no clipped finals.
 **The palatal weld.** अञ्जलिः runs ञ्ज at one station — nasal and affricate both at
 the palate, exactly like v1.c06's ञ्च. If the nasal drifts dental, re-run the ñ drill.
 
-**Long vowels at full length.** श्रीमान् — both syllables long, two beats each; मिलामः
-holds -ला-. Dropping length is the fastest way to sound rushed.
+**Long vowels at full length.** श्रीमान् — both syllables long, two beats each (called
+to directly, श्रीमन् keeps श्री long and ends short); मिलामः holds -ला-. Dropping
+length is the fastest way to sound rushed.
 
 **Pure ए and ओ.** ते and भोः take the long pure monophthongs — never English "tay",
 never "bhow".
@@ -317,7 +324,7 @@ cluster opener (क्षमस्व), one long-vowel word (श्रीमा�
 ## 10. IPA
 
 No new values. Self-scoring reminders, contract symbols only: the opener
-/supɾɐbʱɑːt̪ɐm ɕɾiːmɑːn̪/ — every long vowel two beats. The exchange: /ɐpi kuɕɐlɐm/
+/supɾɐbʱɑːt̪ɐm ɕɾiːmɐn̪/ — every long vowel two beats. The exchange: /ɐpi kuɕɐlɐm/
 answered by /kuɕɐlɐm/. The thanks: /d̪ʱɐn̪jɐʋɑːd̪ɐh/ — the final visarga present as a
 voiceless breath. The apology pair: /kʂɐmɐsʋɐ/ met by /bʱɐd̪ɾɐm/. The farewell:
 /sʋɐst̪i pun̪ɐh milɑːmɐh/. The welded palatal: अञ्जलिः /ɐɲd͡ʑɐlih/ — nasal and
@@ -332,13 +339,15 @@ tasks B and C. Every speaking error today should be caught by one of them.
 - **Breath check (visarga):** hold a hand before your lips at the end of धन्यवादः — a
   small voiceless puff must land on it. Nothing felt = the Hindi clip. → l04 §9.
 - **Close check (final म्):** सुप्रभातम् must end with your lips together. Mirror test:
-  if your mouth is open on the last sound, the म् went missing. → l03 §9.
+  if your mouth is open on the last sound, the म् went missing. → l03 §11.
 - **Palate check (ञ्ज):** say अञ्जलिः slowly — the tongue stays at the palatal station
-  across the seam; no dental detour into "an-jaliḥ" with an English n. → l01 §9.
-- **Duration check:** count beats through श्रीमान् — long, long. Two short syllables
-  mean the honorific shrank. → l04 §9.
+  across the seam; no dental detour into "an-jaliḥ" with an English n. → l01 §11.
+- **Duration check:** count beats through श्रीमान् — long, long; in the calling shape
+  श्रीमन्, श्री still takes two beats. Two short syllables mean the honorific shrank.
+  → v1.c01.l04 §9.
 - **Glide check (ए ओ):** watch your lips in the mirror through ते and भोः — they must
-  not move once the vowel starts. Movement = an English diphthong crept in. → v1.c02 §9.
+  not move once the vowel starts. Movement = an English diphthong crept in.
+  → v1.c02.l04–l05 §9.
 - **Space check (pause form):** न अस्ति — a real silence between the words. If they
   merge, you have improvised sandhi a volume early. → l04 §15.
 
@@ -355,8 +364,8 @@ land here.
 | 4 | Label flip — "धन्यवादः is classical thank-you", "कृपया is classical" | D, quiz | §13 worked card; l04 §15 table (§15 below) |
 | 5 | The gesture graded — añjali treated as part of the word's grammar | D | l01 §8; the register rule in §15 |
 | 6 | Sandhi smuggled — नास्ति or पुनर्मिलामः produced where pause form is asked | B, C, E | §9 space check; previews stay previews until Volume 3 |
-| 7 | कुशली misapplied — the feminine display कुशलिनी forgotten | C, E | l02 §8 honesty note |
-| 8 | ए ओ diphthongized — ते as "tay", भोः as "bhow" | A, C | §11 glide check; v1.c02 §9 |
+| 7 | कुशली misapplied — a female speaker answering अहम् कुशली instead of everyone's safe कुशलम्! (कुशलिनी stays display-only) | C, E | l02 §8 honesty note; l02 §12 mistake 4 |
+| 8 | ए ओ diphthongized — ते as "tay", भोः as "bhow" | A, C | §11 glide check; v1.c02.l04–l05 §9 |
 
 ## 13. Examples
 
@@ -365,17 +374,17 @@ land here.
 **Model listening item (task A).** You hear: *क्षमस्व!* Printed options: भद्रम्! ·
 सुप्रभातम्! · शुभरात्रिः! First decide what kind of line you were given: क्षमस्व is not
 a greeting, so no greeting can answer it — it is an apology, and an apology seeks
-reassurance. भद्रम् — "it is well, all good" — is the classical courtesy reply (the
-chunk भद्रम् ते "blessings on you" from lesson 1). Mirror-lines echo; asking-lines get
-answers; only भद्रम् answers. That decision — echo or answer? — is the whole skill of
-task A.
+reassurance. भद्रम् — "it is well, all good" — is the kit's reply of reassurance (the
+word of the chunk भद्रम् ते "blessings on you" from lesson 1, on reply duty since
+lesson 4). Mirror-lines echo; asking-lines get answers; only भद्रम् answers. That
+decision — echo or answer? — is the whole skill of task A.
 
-**Model register card (task D).** Card: "धन्यवादः is how classical texts said
-thank-you." Both halves of your knowledge activate. Yes: धन्यवादः is a real, attested
-compound — it stands in the classical lexicon [REF:monierwilliams1899 s.v.
-dhanyavāda]. But no: classical texts typically express gratitude otherwise — lesson 4
-displayed अनुगृहीतोऽस्मि "I am obliged" as the classical route — and the everyday
-"thank you" use of धन्यवादः belongs to modern spoken Sanskrit. So the verdict is
+**Model register card (task D).** Card: "धन्यवादः is a made-up modern word, not real
+Sanskrit." Both halves of your knowledge activate. Yes: the everyday "thank you" use of
+धन्यवादः belongs to modern spoken Sanskrit — classical texts typically express
+gratitude otherwise, and lesson 4 displayed अनुगृहीतोऽस्मि "I am obliged" as the
+classical route. But no: धन्यवादः is a real, attested compound — it stands in the
+classical lexicon [REF:monierwilliams1899 s.v. dhanyavāda]. So the verdict is
 **reject**, and the reasoning is the honest label said in full: *attested word, modern
 convention*. Notice what the card is testing: not whether you love the word (you may;
 it is a fine word), but whether you can hold two true things at once and label them.
@@ -384,20 +393,20 @@ That is the chapter's discipline in one sentence.
 ## 14. Vocabulary
 
 शब्दावली — no new words; the **cumulative list**. Volume 1 handed over 237 readable
-words; this chapter's four lessons added some thirty more (per-lesson counts live in
-their §14 tables) — **260 readable words** (237 + 23 ledger-new: l01 3 · l02 3 · l03 8 · l04 9; 26 headwords drilled)
-(§27). Compressed rows below point to the full tables; then the exam's source list —
-the courtesy kit itself — prints in full, youngest and least practiced. Source for
-tasks B and C. Protocol as always: block by block, then whole word, every vowel at
+words; this chapter's four lessons added twenty-one more (per-lesson counts live in
+their §14 tables) — **258 readable words** (237 + 21 ledger-new: l01 3 · l02 3 · l03 6 ·
+l04 9; 26 headwords drilled) (§27). Compressed rows below point to the full tables;
+then the exam's source list — the courtesy kit itself — prints in full, youngest and
+least practiced. Source for tasks B and C. Protocol as always: block by block, then whole word, every vowel at
 full value, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | मम · माता · धर्म · मित्र … | mama · mātā · dharma · mitra … | — | my · mother · dharma · friend … | — | Volume 1 stock, 237 words — full rows: v1.c02.l07, v1.c03.l06, v1.c04.l04, v1.c05.l05, v1.c06.l04 §14 |
-| भोः · अञ्जलिः · भद्रम् · स्वस्ति … | bhoḥ · añjaliḥ · bhadram · svasti … | — | O! · joined palms · blessing · farewell … | — | l01, ~8 words — full rows: v2.c01.l01 §14 |
-| कथम् · कुशलम् · कुशली · सर्वम् … | katham · kuśalam · kuśalī · sarvam … | — | how? · well-being · well · everything … | — | l02, ~8 words — full rows: v2.c01.l02 §14 |
-| प्रभातम् · दिनम् · सायम् · रात्रिः … | prabhātam · dinam · sāyam · rātriḥ … | — | dawn · day · evening · night … | — | l03, ~8 words — full rows: v2.c01.l03 §14 |
-| धन्यवादः · कृपया · क्षमस्व · न … | dhanyavādaḥ · kṛpayā · kṣamasva · na … | — | thank you · please · forgive · not … | — | l04, 9 words — full rows: v2.c01.l04 §14 |
+| भोः · अञ्जलिः · भद्रम् · स्वस्ति … | bhoḥ · añjaliḥ · bhadram · svasti … | — | O! · joined palms · blessing · farewell … | — | l01, 5 headwords (3 ledger-new) — full rows: v2.c01.l01 §14 |
+| कथम् · कुशलम् · कुशली · सर्वम् … | katham · kuśalam · kuśalī · sarvam … | — | how? · well-being · well · everything … | — | l02, 4 headwords (3 ledger-new) — full rows: v2.c01.l02 §14 |
+| प्रभातम् · मध्याह्नः · सायम् · रात्रिः … | prabhātam · madhyāhnaḥ · sāyam · rātriḥ … | — | dawn · midday · evening · night … | — | l03, 8 headwords (6 ledger-new) — full rows: v2.c01.l03 §14 |
+| धन्यवादः · कृपया · क्षमस्व · न … | dhanyavādaḥ · kṛpayā · kṣamasva · na … | — | thank you · please · forgive · not … | — | l04, 9 headwords (all ledger-new) — full rows: v2.c01.l04 §14 |
 | नमस्ते | namaste | /n̪ɐmɐst̪eː/ | greetings | नमस्ते | V1 stock · नमः + ते; classical formation, living everyday use |
 | नमस्कारः | namaskāraḥ | /n̪ɐmɐskɑːɾɐh/ | salutation | नमस्कार | V1 stock · नमः + कारः |
 | स्वागतम् | svāgatam | /sʋɑːgɐt̪ɐm/ | welcome | स्वागत | V1 stock · classical idiom |
@@ -405,21 +414,25 @@ full value, pause form.
 | अञ्जलिः | añjaliḥ | /ɐɲd͡ʑɐlih/ | the joined palms | अंजलि | l01 · the word is FACT; the gesture TRADITION |
 | भद्रम् | bhadram | /bʱɐd̪ɾɐm/ | it is well; blessing | भला, शुभ | l01 · chunk भद्रम् ते, classical courtesy |
 | स्वस्ति | svasti | /sʋɐst̪i/ | farewell; well-being | कल्याण हो | l01 · classical, Vedic onward |
+| नमः | namaḥ | /n̪ɐmɐh/ | homage, a bow | नमन, प्रणाम | l01 · upgrade, standalone greeting |
 | कथम् | katham | /kɐt̪ʰɐm/ | how? | कैसे | l02 · joins the question kit |
 | कुशलम् | kuśalam | /kuɕɐlɐm/ | well-being; well | कुशल | l02 · the exchange's spine |
 | कुशली | kuśalī | /kuɕɐliː/ | well (of a man) | कुशल से | l02 · feminine कुशलिनी on display |
 | सर्वम् | sarvam | /sɐɾʋɐm/ | everything | सब कुछ | l02 · सर्व known since v1.c05.l04 |
 | प्रभातम् | prabhātam | /pɾɐbʱɑːt̪ɐm/ | dawn, morning | सुबह | l03 |
-| दिनम् | dinam | /d̪in̪ɐm/ | day | दिन | l03 |
+| दिनम् | dinam | /d̪in̪ɐm/ | day | दिन | l03 · names the whole circle |
+| मध्याह्नः | madhyāhnaḥ | /mɐd̪ʱjɑːɦn̪ɐh/ | midday | दोपहर | l03 · ह्न met by components |
 | सायम् | sāyam | /sɑːjɐm/ | evening | शाम | l03 |
 | रात्रिः | rātriḥ | /ɾɑːt̪ɾih/ | night | रात | l03 · the त्र of Volume 1 at work |
 | सुप्रभातम् | suprabhātam | /supɾɐbʱɑːt̪ɐm/ | good morning | सुप्रभात | l03 · word classical, greeting-use modern |
 | शुभरात्रिः | śubharātriḥ | /ɕubʱɐɾɑːt̪ɾih/ | good night | शुभ रात्रि | l03 · modern convention |
 | शुभम् | śubham | /ɕubʱɐm/ | may it be well | शुभ हो | l03 · freestanding wish |
 | धन्यवादः | dhanyavādaḥ | /d̪ʱɐn̪jɐʋɑːd̪ɐh/ | thank you | धन्यवाद | l04 · attested word, modern everyday use |
+| धन्यः | dhanyaḥ | /d̪ʱɐn̪jɐh/ | blessed, fortunate | धन्य | l04 · classical |
+| कृपा | kṛpā | /kr̩pɑː/ | compassion | कृपा, दया | l04 · classical noun |
 | कृपया | kṛpayā | /kr̩pɐjɑː/ | please | कृपया | l04 · modern convention, shared with Hindi |
 | क्षमस्व | kṣamasva | /kʂɐmɐsʋɐ/ | forgive (me) | क्षमा करो | l04 · classical form, taught whole |
-| श्रीमान् | śrīmān | /ɕɾiːmɑːn̪/ | sir | श्रीमान् | l04 · classical honorific |
+| श्रीमान् | śrīmān | /ɕɾiːmɑːn̪/ | sir | श्रीमान् | l04 · classical honorific; called as श्रीमन् (§6) |
 | न | na | /n̪ɐ/ | not | नहीं | l04 · plain negative, pause form |
 | पुनः | punaḥ | /pun̪ɐh/ | again | फिर | l04 |
 | मिलामः | milāmaḥ | /milɑːmɐh/ | we meet | (हम) मिलते हैं | l04 · chunk पुनः मिलामः, modern formula |
@@ -432,7 +445,7 @@ seams.
 > **[FACT · तथ्यम्]** A word's attestation and a usage's attestation are separate
 > facts. धन्यवादः the word stands in the classical lexicon; धन्यवादः as the everyday
 > "thank you" is a modern spoken convention. This course records both facts, formula
-> by formula. [REF:monierwilliams1899 s.v. dhanyavāda] [REF:apte1890 s.v. क्षम्]
+> by formula. [REF:monierwilliams1899 s.v. dhanyavāda]
 
 > **[TRADITION · परम्परा]** Everyday South Asian courtesy practice joins the palms —
 > the añjali — alongside नमस्ते. The gesture is cultural practice, named by the
@@ -461,8 +474,9 @@ well". That is the whole rule for now — no fusion, no movement.
 
 ### The seams, honestly parked
 
-Three joined forms crossed this chapter as previews, never as targets: **नास्ति** (न +
-अस्ति), **पुनर्मिलामः** (पुनः + मिलामः), and the display-only **अनुगृहीतोऽस्मि**. Even
+Five joined forms crossed this chapter as previews, never as targets: the anusvāra joins
+of lessons 1–2, **भद्रं ते** and **सर्वं कुशलम्**; **नास्ति** (न + अस्ति), **पुनर्मिलामः**
+(पुनः + मिलामः); and the display-only **अनुगृहीतोऽस्मि**. Even
 नमस्ते hides one: the join of नमः + ते inside it is itself a sandhi result, learned
 whole today and explained in Volume 3. The exam asks for pause form everywhere; the
 previews are assessed only as *previews* (task D card 9, quiz Q10).
@@ -475,8 +489,8 @@ Cast: a छात्रः at the school door; the आचार्यः within.
 
 **Move 1 — greet:**
 
-— सुप्रभातम्, श्रीमान्!
-(suprabhātam, śrīmān!) "Good morning, sir!" — सुप्रभात, श्रीमान्!
+— सुप्रभातम्, श्रीमन्!
+(suprabhātam, śrīman!) "Good morning, sir!" — सुप्रभात, श्रीमान्!
 
 — सुप्रभातम्! स्वागतम्, भोः!
 (suprabhātam! svāgatam, bhoḥ!) "Good morning — welcome!" — सुप्रभात! स्वागत है!
@@ -491,8 +505,8 @@ Cast: a छात्रः at the school door; the आचार्यः within.
 
 **Move 3 — thank:**
 
-— धन्यवादः, श्रीमान्!
-(dhanyavādaḥ, śrīmān!) "Thank you, sir!" — धन्यवाद, श्रीमान्!
+— धन्यवादः, श्रीमन्!
+(dhanyavādaḥ, śrīman!) "Thank you, sir!" — धन्यवाद, श्रीमान्!
 
 **Move 4 — the slip, and the apology:**
 
@@ -510,15 +524,17 @@ Cast: a छात्रः at the school door; the आचार्यः within.
 — स्वस्ति! शुभम्!
 (svasti! śubham!) "Farewell — be well!" — नमस्ते! शुभ हो!
 
-Housekeeping: every word is readable, writable and labeled; nothing is borrowed. In
-task C you perform *both* roles — switch voices, keep the pauses honest.
+Housekeeping: every word is readable, writable and labeled; nothing is borrowed; the
+address is श्रीमान्'s calling shape श्रीमन् (§6). In task C you perform *both* roles —
+switch voices, keep the pauses honest.
 
 ## 17. Story
 
 कथा — production, not consumption: **give the running story a courtesy day.**
 
 The cast is yours from Volume 1 — the आचार्यः, the मित्रम्, the mountain and the moon.
-From memory, set the scene as it stood at the end of v1.c06; then extend it with at
+From memory, set the scene as it stood at the end of v1.c05 (the हिमालय scene,
+v1.c05.l05 §17); then extend it with at
 least three new lines that walk the day: a morning greeting, one thanks or apology in
 the middle, and an evening parting. Say each line aloud, then write it — every word of
 your continuation is writable, labels and all. Worked lines for comparison (peek only
@@ -527,8 +543,8 @@ after your own attempt):
 1. आचार्यः वदति — सुप्रभातम्! स्वागतम्!
    (ācāryaḥ vadati — suprabhātam! svāgatam!) "The teacher says: good morning —
    welcome!" — आचार्य कहते हैं — सुप्रभात! स्वागत है!
-2. अहम् वदामि — धन्यवादः, श्रीमान्! अपि कुशलम्?
-   (aham vadāmi — dhanyavādaḥ, śrīmān! api kuśalam?) "I say: thank you, sir! All
+2. अहम् वदामि — धन्यवादः, श्रीमन्! अपि कुशलम्?
+   (aham vadāmi — dhanyavādaḥ, śrīman! api kuśalam?) "I say: thank you, sir! All
    well?" — मैं कहता हूँ — धन्यवाद, श्रीमान्! सब कुशल?
 3. रात्रिः अस्ति। मित्रम् वदति — शुभरात्रिः! स्वस्ति!
    (rātriḥ asti. mitram vadati — śubharātriḥ! svasti!) "It is night. The friend says:
@@ -552,12 +568,12 @@ reader uses §19's item key.
 1. सुप्रभातम्! — सुप्रभातम्! · शुभरात्रिः! · क्षमस्व!
 2. नमस्ते! — नमस्कारः! · कृपया! · न अस्ति
 3. अपि कुशलम्? — कुशलम्! धन्यवादः! · स्वागतम्! · भोः!
-4. क्षमस्व! — भद्रम्! · सुप्रभातम्! · पुनः मिलामः!
-5. स्वस्ति! पुनः मिलामः! — स्वस्ति! · कथम्? · आम्!
+4. धन्यवादः! — भद्रम्! · सुप्रभातम्! · पुनः मिलामः!
+5. स्वस्ति! पुनः मिलामः! — स्वस्ति! · कथम्? · कृपया!
 6. शुभरात्रिः! — शुभरात्रिः! · सुप्रभातम्! · स्वागतम्!
 7. स्वागतम्! — धन्यवादः! · क्षमस्व! · न अस्ति
 8. अपि सर्वम् कुशलम्? — आम्, सर्वम् कुशलम्! · शुभरात्रिः! · कृपया!
-9. भोः, श्रीमान्! — आम्? · स्वस्ति! · शुभरात्रिः!
+9. भोः, श्रीमन्! — आम्? · स्वस्ति! · शुभरात्रिः!
 10. पुनः मिलामः! — आम्, पुनः मिलामः! · सुप्रभातम्! · क्षमस्व!
 
 **कार्यम् B · श्रुतलेखनम् (dictation — 8 words + one line, production).** Audio
@@ -612,7 +628,7 @@ the tasks.
    dictionary fact, and which register holds the gesture?
 3. (l02) Write the wellness exchange — question and answer — in pause form.
 4. (l02) कथम्: gloss it, and name two question words it joined in your kit.
-5. (l03) Put the day in order: सायम् · प्रभातम् · रात्रिः · दिनम् — then give the
+5. (l03) Put the day in order: सायम् · प्रभातम् · रात्रिः · मध्याह्नः — then give the
    greeting for each end of the day.
 6. (l03) शुभरात्रिः — which usage label does it wear, and what does the course note
    about how it was formed?
@@ -626,13 +642,13 @@ the tasks.
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. नमः "homage" + ते "to you" — homage to you; the join inside is a sandhi result,
-   learned whole. → l01 §8.
+   learned whole. → l01 §4.
 2. The word अञ्जलिः "the two hands joined" is attested FACT; the gesture is cultural
-   practice — TRADITION register, never assessed. → l01 §8, §15.
+   practice — TRADITION register, never assessed. → l01 §12, §13.
 3. अपि कुशलम्? — कुशलम्! (extended: सर्वम् कुशलम्!) → l02 §16.
 4. कथम् "how?" — beside किम्, कः, का (and कुतः) from Volume 1. → l02 §8.
-5. प्रभातम् → दिनम् → सायम् → रात्रिः; the morning opens with सुप्रभातम्, the day
-   closes with शुभरात्रिः. → l03 §8.
+5. प्रभातम् → मध्याह्नः → सायम् → रात्रिः, with दिनम् for the whole circle; the
+   morning opens with सुप्रभातम्, the day closes with शुभरात्रिः. → l03 §8.
 6. Modern spoken convention — a transparent "good night" calque (शुभ + रात्रिः),
    labeled, taught and used. → l03 §8, §15.
 7. धन्यवादः: attested word, modern everyday-thanks convention. कृपया: modern
@@ -644,14 +660,14 @@ the tasks.
     sandhi) is taught in Volume 3. → l04 §15, §15 above.
 
 **Task keys.** A: 1 सुप्रभातम् (mirror the hour) 2 नमस्कारः (नमस्ते equally apt —
-either all-purpose greeting) 3 कुशलम्! धन्यवादः! 4 भद्रम् (an apology seeks
-reassurance, §13) 5 स्वस्ति 6 शुभरात्रिः (night mirrors night) 7 धन्यवादः (a guest
+either all-purpose greeting) 3 कुशलम्! धन्यवादः! 4 भद्रम् (thanks, like an apology,
+is met with reassurance — l04 §8) 5 स्वस्ति 6 शुभरात्रिः (night mirrors night) 7 धन्यवादः (a guest
 thanks the welcome) 8 आम्, सर्वम् कुशलम् 9 आम्? (a call wants acknowledgment) 10 आम्,
 पुनः मिलामः. B (dictation set): धन्यवादः, अञ्जलिः, सुप्रभातम्, कुशलम्, क्षमस्व,
 श्रीमान्, रात्रिः, स्वस्ति — then the line: अपि कुशलम्? — कुशलम्! धन्यवादः! C: the
 five moves as printed in §16; both roles, both runs. D: 1 **reject** — attested word,
 modern everyday-thanks convention; the honest label is the full answer (§13) · 2 FACT
-[REF:monierwilliams1899 s.v. svāgata] · 3 FACT — नमः + ते (l01 §8) · 4 **reject** —
+[REF:monierwilliams1899 s.v. svāgata] · 3 FACT — नमः + ते, l01 §4 · 4 **reject** —
 the gesture is cultural practice, TRADITION register, never grammar (l01 §8) · 5 FACT
 — the both-things-true card (l03 §8) · 6 FACT [REF:monierwilliams1899 s.v. svasti] ·
 7 **reject** — modern convention, shared with Hindi (l04 §8) · 8 FACT — classical
@@ -673,9 +689,9 @@ E micro-check: च-वर्ग = च छ ज झ ञ; श् + र = श्र 
 > exchange; modern spoken — धन्यवादः-as-thanks, सुप्रभातम्-as-greeting, शुभरात्रिः,
 > कृपया, पुनः मिलामः; TRADITION — the añjali gesture.
 > **The negative:** न, pause form — न अस्ति · न कुशलम्.
-> **The previews:** नास्ति · पुनर्मिलामः · अनुगृहीतोऽस्मि — seams shown, Volume 3
-> teaches.
-> **The words:** 260 readable — twenty-three ledger-new this chapter.
+> **The previews:** भद्रं ते · सर्वं कुशलम् · नास्ति · पुनर्मिलामः · अनुगृहीतोऽस्मि — seams
+> shown, Volume 3 teaches.
+> **The words:** 258 readable — twenty-one ledger-new this chapter.
 > **The milestone:** one improvised conversation, first नमस्ते to last स्वस्ति.
 
 Schedule [REF:cepeda2006]: **+1 day** — task B re-run, fresh order (§18 B's
@@ -703,9 +719,9 @@ through Volume 2. Log scores here.
 अध्यापकटिप्पणी
 
 **Format:** stations (§3, 10 min including Station 0) → tasks A–B (10 min) → task C
-(6 min, recorded in pairs) → task D (8 min, discussion protected) → task E (8 min,
-protected) → quiz and debrief (3 min; the quiz moves to homework if time runs short,
-never task E).
+(6 min, each learner recording both roles; pairs share one recorder) → task D (8 min,
+discussion protected) → task E (8 min, protected) → quiz and debrief (3 min; the quiz
+moves to homework if time runs short, never task E).
 
 **Rubric:**
 
@@ -755,8 +771,8 @@ archaic — model it warmly and often, it is classical and friendly.
 
 > Set of six exam role cards, warm off-white, Noto Sans Devanagari, two colors,
 > monochrome-safe. Three situations × two personas: (1) morning meeting at the school
-> door — आचार्यः / छात्रा; (2) borrowed book returned, and dropped — मित्रम् / छात्रः;
-> (3) evening parting after a visit — श्रीमान् / अतिथिः guest figure. Each card:
+> door — आचार्यः / बालिका; (2) borrowed book returned, and dropped — मित्रम् / छात्रः;
+> (3) evening parting after a visit — श्रीमान् as host / बालकः as visitor. Each card:
 > persona strip (name + one-line identity, en + hi), situation line (en + hi), the
 > five-move skeleton as small icons (wave · question · folded hands · bowed head ·
 > lantern), a "small disaster" slot naming what goes wrong, and a kit sidebar listing
@@ -806,7 +822,7 @@ Lesson video (8–10 min), scene list:
 
 Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 
-- 00:00 — "Five lessons ago you owned one greeting. Today you own a protocol: open,
+- 00:00 — "Five lessons ago you owned three greetings. Today you own a protocol: open,
   ask, thank, apologize, take leave. So today's exam is not a list. It is a
   conversation."
 - 00:45 — "Stations first. One dictation row — añjaliḥ [ɐɲd͡ʑɐlih], kuśalam
@@ -815,7 +831,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 02:00 — "The ladder: suprabhātam [supɾɐbʱɑːt̪ɐm] — api kuśalam [ɐpi kuɕɐlɐm]? —
   dhanyavādaḥ — kṣamasva [kʂɐmɐsʋɐ] — svasti [sʋɐst̪i], punaḥ milāmaḥ [pun̪ɐh
   milɑːmɐh]. Five moves. Both roles. One take."
-- 04:00 — "Now the cards. 'dhanyavādaḥ is how classical texts said thank-you.' Half
+- 04:00 — "Now the cards. 'dhanyavādaḥ is a made-up modern word, not real Sanskrit.' Half
   true — and half true fails. The word is attested; the everyday thank-you is a
   modern convention. Say both. The honest label is the full answer."
 - 06:00 — "Last: a persona, a situation, no script. Something will go wrong on that
@@ -858,10 +874,10 @@ courtesy exam.)
   `assessment: true`.
 - **Integrator notes:** the sibling lessons were drafted in parallel; cumulative
   figures were reconciled at review (Pass D) to the canonical chain 237 → 240 (l01,
-  3 ledger-new of 5 headwords) → 243 (l02) → 251 (l03) → **260** (l04) — 23 ledger-new,
-  26 headwords drilled this chapter; per-lesson pointers verified against the landed
-  siblings. The §19 task keys are the single
-  source for the quiz/audio key files; the app's spaced-repetition deck keys off the
+  3 ledger-new of 5 headwords) → 243 (l02, 3 of 4) → 249 (l03, 6 of 8) → **258** (l04,
+  9 of 9) — 21 ledger-new, 26 headwords drilled this chapter; per-lesson pointers
+  verified against the landed siblings. The §19 task keys are the single source for
+  the quiz/audio key files; the app's spaced-repetition deck keys off the
   per-lesson §14 tables, with this §14's kit rows flagged review-duplicate, not new.
   vocabulary_count is 0: no new headwords enter here.
 - **Register audit:** FACT ×4 (§4 attestation of स्वस्ति/धन्यवादः, §4 spacing, §5

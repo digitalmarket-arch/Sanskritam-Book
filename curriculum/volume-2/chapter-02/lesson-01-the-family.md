@@ -20,8 +20,8 @@ objectives:
     hi: "परिवार-शब्दावली — परिवारः, पिता, भ्राता, भगिनी, पुत्री, दुहिता, स्वसा, गृहम् — पुराने माता और पुत्रः के साथ पढ़ें-बोलें; हर विसर्ग और हर अन्तिम स्वर पूरा।"
   - en: "Introduce the family in pause-form frames — मम परिवारः, मम पिता अत्र अस्ति, तव भ्राता कः? — with मम and तव doing the family work."
     hi: "विराम-रूप के साँचों में परिवार का परिचय दें — मम परिवारः, मम पिता अत्र अस्ति, तव भ्राता कः? — मम और तव के सहारे।"
-  - en: "State the two honest word-pairs — everyday भगिनी beside Vedic-flavored स्वसा, everyday पुत्री beside ancient दुहिता — and the one-line cognate fact: माता, māter and mother are siblings by shared descent, borrowed by no one."
-    hi: "दो ईमानदार शब्द-जोड़े बताएँ — रोज़ की भगिनी और वैदिक रंग की स्वसा, रोज़ की पुत्री और पुरानी दुहिता — और सगोत्र-तथ्य की एक पंक्ति: माता, māter और mother एक ही पुरखे की सन्तानें हैं, उधार किसी ने नहीं लिया।"
+  - en: "State the two honest word-pairs — everyday भगिनी beside older, inherited स्वसा, everyday पुत्री beside ancient दुहिता — and the one-line cognate fact: माता, māter and mother are siblings by shared descent, borrowed by no one."
+    hi: "दो ईमानदार शब्द-जोड़े बताएँ — रोज़ की भगिनी और पुरानी, विरासत में मिली स्वसा, रोज़ की पुत्री और पुरानी दुहिता — और सगोत्र-तथ्य की एक पंक्ति: माता, māter और mother एक ही पुरखे की सन्तानें हैं, उधार किसी ने नहीं लिया।"
   - en: "Sort the family words by their observed dress — ः-words, म्-words, आ/ई-words — as observation only, and log the Station 0 courtesy re-run scores."
     hi: "परिवार-शब्दों को उनकी दिखती वेश-भूषा — ः-वाले, म्-वाले, आ/ई-वाले — के अनुसार केवल अवलोकन की तरह छाँटें, और स्टेशन 0 के शिष्टाचार-अंक दर्ज करें।"
 new_letters: []
@@ -125,7 +125,7 @@ tonight — not to a halt today.
 ऐतिहासिकः सन्दर्भः — the oldest words in the book, and two honest divisions of labor.
 
 Kinship words live in the deepest drawer of a language's vocabulary — used daily, learned
-in infancy, replaced almost never. That is why today's list reaches further back than
+in infancy, replaced only slowly. That is why today's list reaches further back than
 anything else this course has taught, and why it will carry next lesson's showcase.
 
 > **[FACT · तथ्यम्]** The core kin terms are ṛ-stems: मातृ (mātṛ), पितृ (pitṛ), भ्रातृ
@@ -135,10 +135,12 @@ anything else this course has taught, and why it will carry next lesson's showca
 > language. [REF:monierwilliams1899 s.vv.] [REF:burrow2001]
 
 > **[FACT · तथ्यम्]** Sanskrit keeps two working "sister" words with different careers:
-> स्वसा, the older word, at home in the Vedic corpus; and भगिनी, the everyday word of
-> classical and later Sanskrit. भगिनी is also the ancestor of Hindi बहन, as भ्राता stands
-> behind Hindi भाई — regular descent down the Indo-Aryan line, the गृह → घर story again.
-> [REF:apte1890 s.v. भगिनी] [REF:masica1991]
+> स्वसा, the older, inherited word — the regular word for "sister" from the Ṛgveda on and
+> still common in epic and classical texts; and भगिनी, a later formation that sits beside
+> it in classical texts and is the everyday word of later and present-day spoken Sanskrit.
+> भगिनी is also the ancestor of Hindi बहन, as भ्राता stands behind Hindi भाई — regular
+> descent down the Indo-Aryan line, the गृह → घर story again.
+> [REF:apte1890 s.vv. भगिनी, स्वसृ] [REF:monierwilliams1899 s.v. स्वसृ] [REF:masica1991]
 
 The daughter pair divides the same way: पुत्री is the everyday word beside पुत्रः, and
 दुहिता is the ancient one — §13 tells you what that one is worth. One line of course
@@ -198,15 +200,15 @@ the whole possessive art for now.
 
 पहला — अन्त सँभालिए। परिवारः के अन्त की हल्की साँस (विसर्ग) हिन्दी की आदत में छूट जाती
 है — "परिवार" नहीं, परिवारः। गृहम् का म् होंठ बन्द करके पूरा कीजिए, और गृ में ऋ की मात्रा
-को "गिर" या "गुर" मत बनने दीजिए। भगिनी और पुत्री की अन्तिम ई पूरी दो मात्राएँ माँगती है —
+को "ग्रि", "ग्रु" या "गिर" मत बनने दीजिए। भगिनी और पुत्री की अन्तिम ई पूरी दो मात्राएँ माँगती है —
 "भगिनि" नहीं।
 
 दूसरा — एक रिश्ते के दो-दो शब्द देखकर घबराइए मत; यह घाटा नहीं, सम्पदा है। बहन के लिए रोज़
-का शब्द भगिनी है; स्वसा उसी अर्थ का पुराना, वैदिक रंग का शब्द है। बेटी के लिए रोज़ का शब्द
+का शब्द भगिनी है; स्वसा उसी अर्थ का पुराना, विरासत में मिला शब्द है — वेद से लेकर महाभारत-रामायण तक आम। बेटी के लिए रोज़ का शब्द
 पुत्री है — पुत्रः की जोड़ीदार; दुहिता वह पुरानी धरोहर है जिसकी सगी बहन अंग्रेज़ी की
 *daughter* है। और दिशा का सच याद रखिए: अंग्रेज़ी *mother* संस्कृत से नहीं आई, न संस्कृत
 ने किसी से ली — माता, māter और mother एक ही पुरखे की तीन सन्तानें हैं। उधार कहीं नहीं
-हुआ; यही आज का सबसे बड़ा तथ्य है, और पूरी ताालिका अगले पाठ में खुलेगी।
+हुआ; यही आज का सबसे बड़ा तथ्य है, और पूरी तालिका अगले पाठ में खुलेगी।
 
 तीसरा — साँचे वही पुराने हैं। मम और तव अब परिवार के काम पर हैं: मम पिता अत्र अस्ति। तव
 भ्राता कः? नाम बताना हो तो क्रिया भी नहीं चाहिए: मम भगिनी कमला। एक बात अभी *नहीं* आती —
@@ -230,14 +232,14 @@ breathy भ्. **भगिनी** (bhaginī) "sister" — the everyday word (�
 Then the two heirlooms, **दुहिता** (duhitā) and **स्वसा** (svasā) — §13's business. And
 **गृहम्** (gṛham) "home": गृह has been readable since v1.c04.l03 (Hindi घर is its
 descendant); today it puts on its sentence dress म् and enters active use — an upgrade,
-not a new word, exactly like तव in v1.c06.l02.
+not a new word, exactly like भद्र → भद्रम् in v2.c01.l01.
 
 ### Two of everything — the honest pairs
 
 Sanskrit keeps *two* working words each for sister and daughter, and the honest lesson is
-which does which job. **भगिनी** is the sister-word of everyday classical Sanskrit — the
-one your conversations run on; **स्वसा** is its Vedic-flavored elder, the word you will
-meet in old texts and in next lesson's cognate shelf. **पुत्री** is the daughter-word of
+which does which job. **भगिनी** is the everyday sister-word of later and present-day spoken Sanskrit — the
+one your conversations run on; **स्वसा** is its older, inherited partner, the regular word
+from the Ṛgveda through the epics, and next lesson's cognate-shelf word. **पुत्री** is the daughter-word of
 everyday use, transparently beside पुत्रः; **दुहिता** is the ancient word — the one
 English *daughter* is sibling to (§13). Nothing here is a synonym-trap: use भगिनी and
 पुत्री when you speak; know स्वसा and दुहिता for what they carry.
@@ -257,8 +259,8 @@ Line today's words up by their endings and *look*: परिवारः and प
 म्; माता, पिता, भ्राता, दुहिता, स्वसा end in आ; भगिनी and पुत्री end in ई. Now the honest
 part: the आ-rail holds mothers *and* fathers — shape alone decides nothing — and Chapter
 1 already showed you रात्रिः, a feminine word in ः-dress. So today you observe the rails
-(§15), you do not extract a law. The system that explains them is later Volume 2
-business, and it will be built on exactly these observations.
+(§15), you do not extract a law. The system that explains them is Volume 3's
+business (nouns and cases), and it will be built on exactly these observations.
 
 ## 9. Pronunciation
 
@@ -282,7 +284,7 @@ ___ कः? (or का?) and you answer with any honest name — मम भ्�
 of chunks: the fluency strand doing its job [REF:nation2013].
 
 **Drill 4 — three speeds.** The §14 list, block by block, natural, target pace; log the
-third time (§18 exercise 5). The standing law at every speed: *parivāraḥ* breathed to the
+third time beside today's scores. The standing law at every speed: *parivāraḥ* breathed to the
 end, *bhaginī* and *putrī* with two full beats of ī, *gṛham* closed on the lips.
 
 ## 10. IPA
@@ -315,8 +317,8 @@ marks the भ्रा and गृ joins.
 1. **The breathy check.** Palm on your chest for भ्राता and भगिनी: hum plus push of air
    together /bʱ/. A plain "b" is missing the breath; a "ph" is missing the voice.
 2. **The गृ check.** Say गृहम् in slow motion and freeze after ग: the tongue tip curls
-   and *holds a beat with no vowel before it* — syllabic /r̩/. If you hear "gi-r" or
-   "gu-r", a vowel leaked; re-run the v1.c02.l03 ऋ drill.
+   and *holds a beat with no vowel before or after it* — syllabic /r̩/. If you hear "gri" or
+   "gru" (or "gi-r"), a vowel leaked; re-run the v1.c02.l03 ऋ drill.
 3. **The length check.** Mirror on भगिनी and पुत्री: lips stay spread through two full
    beats of the final ई — no early release into silence.
 4. **The lips-close check.** गृहम् ends with your lips visibly together — [m]. Open lips
@@ -328,20 +330,20 @@ marks the भ्रा and गृ joins.
 सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.
 
 1. **परिवारः clipped to Hindi परिवार.** The final visarga is a light voiceless breath,
-   and it is there. *Fix:* the §11 breath check — the exam discipline of v2.c01.l05
+   and it is there. *Fix:* the breath check of v2.c01.l05 §11 — that exam's discipline
    never retires.
 2. **Short final i — "bhagini", "putri".** Hindi habit shortens the unstressed final.
    *Fix:* dīrgha ई = two beats (§10); log yourself in drill 4 until it holds at speed.
 3. **गृहम् read "grih" or "gruh".** The Hindi habit re-vowels the ऋ mātrā. *Fix:*
-   syllabic /r̩/, no vowel before the r — §11 check 2.
+   syllabic /r̩/, no "i" or "u" added after the r (nor before it) — §11 check 2.
 4. **The direction flip:** "English *daughter* comes from Sanskrit दुहिता", "*mother*
    comes from माता". *Fix:* siblings, not parent and child — all descend from one
    reconstructed ancestor; nobody borrowed anything (§13). The chapter exam's direction
    cards (v2.c02.l05) are built from this exact line.
 5. **The pair collapsed:** treating स्वसा as "the correct, purer sister" and भगिनी as
-   lesser — or reaching for दुहिता in conversation. *Fix:* भगिनी and पुत्री are the
-   working words; स्वसा and दुहिता are heirloom carriers, honored for what they carry
-   (§4, §8, §13).
+   lesser — or calling भगिनी rare. *Fix:* both are real Sanskrit; भगिनी and पुत्री are
+   this course's working words for speaking, while स्वसा and दुहिता are fully classical
+   inherited words, honored for what they carry — not errors (§4, §8, §13).
 6. **Shape overreach:** "आ-enders are feminine" (पिता? भ्राता?) or "ः marks masculine"
    (रात्रिः!). *Fix:* §15 — dresses are observed today, legislated later; the rule of
    thumb from v1.c06.l02 already has its first honest exceptions.
@@ -357,7 +359,7 @@ marks the भ्रा and गृ joins.
 > No borrowing happened in any direction: English did not take *mother* from Sanskrit,
 > nor Sanskrit from anyone. [REF:mallory2006]
 
-One piece of course history, stated as the fix it is: the 1.x book (PDF p.14) captioned
+One piece of course history, stated as the fix it is: the 1.x book (PDF p.21, the म letter card) captioned
 this with "म is the universal sound of nurture" — a lovely line and not a fact. The
 honest version is *better*: not a mystical syllable but a traceable family, evidence you
 can check word by word. This is the volume's flagship correction of "Sanskrit is the
@@ -368,9 +370,10 @@ English. Today you carry one line; the full shelf — पिता, भ्रा
 
 ### Two words for daughter
 
-> **[FACT · तथ्यम्]** पुत्री is the everyday classical word for "daughter", the feminine
-> partner of पुत्रः. दुहिता (stem दुहितृ) is the ancient word for the same relation — the
-> word English *daughter* and Greek *thygátēr* are siblings to, one of the textbook
+> **[FACT · तथ्यम्]** Sanskrit has two words for "daughter": पुत्री, the transparent
+> feminine partner of पुत्रः and the usual word in present-day spoken Sanskrit; and दुहिता
+> (stem दुहितृ), the inherited word, common from the Ṛgveda through the classical texts —
+> the word English *daughter* and Greek *thygátēr* are siblings to, one of the textbook
 > regular cognate sets. Both are attested Sanskrit; they differ in career, not in
 > meaning. [REF:monierwilliams1899 s.vv.] [REF:mallory2006]
 
@@ -381,7 +384,7 @@ five millennia of receipts.
 
 भगिनी is the working word, and Hindi बहन is its direct descendant (§4) — a true
 parent-to-child line *inside* Indo-Aryan, exactly the kind of claim that is honest
-downward and false sideways. स्वसा is the Vedic-flavored elder; it is also the carrier of
+downward and false sideways. स्वसा is the older, inherited word, still common in classical texts; it is also the carrier of
 the *sister/soror* cognate line, which will take its place on next lesson's shelf — one
 promise, kept there. And for display only: Sanskrit also owns the poetic pair **जनकः**
 (janakaḥ) "father, the begetter" and **जननी** (jananī) "mother, the one who bears" —
@@ -389,7 +392,7 @@ beautiful, real, off today's ledger.
 
 ## 14. Vocabulary
 
-शब्दावली — eight headwords: seven ledger-new + one upgrade; 260 → 267 (counts reconciled
+शब्दावली — eight headwords: six ledger-new, one review headword — पिता, counted since v1.c03.l05 — and one upgrade; 260 → 266 (counts reconciled
 at review, as always). Audio: 🔊 `planned:assets/audio/volume-2/v2c02l01-word-list.mp3`
 (each word twice, three-speed passes, then the dictation track). Lists stay
 sentence-dressed as always: masculines परिवारः, पुत्रः in ः, neuter गृहम् in म्, the kin
@@ -398,12 +401,12 @@ words in their own आ/ई endings — observed in §15.
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | परिवारः | parivāraḥ | /pɐɾiʋɑːɾɐh/ | family | परिवार | classically "family, retinue — the circle around one" (§8); visarga breathed (§12) |
-| पिता | pitā | /pit̪ɑː/ | father | पिता | stem पितृ (§4); met with the story cast in v1.c03.l05 — full family duty starts today |
+| पिता | pitā | /pit̪ɑː/ | father | पिता | stem पितृ (§4); review headword — already in the ledger since v1.c03.l05, not re-counted; full family duty starts today |
 | भ्राता | bhrātā | /bʱɾɑːt̪ɑː/ | brother | भाई | भ्रा = भ् + र, the ्र stroke (v1.c05.l04); breathy /bʱ/ into the tap (§9); Hindi भाई descends from it (§4) |
 | भगिनी | bhaginī | /bʱɐgin̪iː/ | sister | बहन | the everyday word (§4, §13); ancestor of Hindi बहन; final ई two beats (§10) |
 | पुत्री | putrī | /put̪ɾiː/ | daughter | बेटी, पुत्री | everyday partner of पुत्रः (v1.c05.l03); त्री = त्र wearing ी |
 | दुहिता | duhitā | /d̪uɦit̪ɑː/ | daughter | बेटी | the ancient word — sibling of English *daughter* (§13); medial ह voiced /ɦ/ (§9) |
-| स्वसा | svasā | /sʋɐsɑː/ | sister | बहन | Vedic-flavored elder of भगिनी (§4); the *sister/soror* carrier — shelf next lesson (§13); स्व as in स्वस्ति |
+| स्वसा | svasā | /sʋɐsɑː/ | sister | बहन | older, inherited partner of भगिनी (§4); the *sister/soror* carrier — shelf next lesson (§13); स्व as in स्वस्ति |
 | गृहम् | gṛham | /gr̩ɦɐm/ | home, house | घर | upgrade — गृह readable since v1.c04.l03, ancestor of घर; the म् dress enters active use today |
 
 Back on duty from Volume 1, review rows only — no re-entry to the ledger: **माता**
@@ -438,7 +441,7 @@ vowel clipped at any speed.
 | ई | भगिनी · पुत्री | today all women — whether that is a law is exactly what we are NOT concluding |
 
 That last column is the grammar lesson: you are collecting *observations*, honestly
-labeled as such. The gender system that explains the rails is later Volume 2 business;
+labeled as such. The gender system that explains the rails is Volume 3's business (nouns and cases);
 when it arrives it will be built from this parade, and none of today's sentences will
 need correcting — frames with मम/तव and whole words are safe ground.
 
@@ -446,8 +449,9 @@ need correcting — frames with मम/तव and whole words are safe ground.
 
 गृह entered the ledger in v1.c04.l03 and has been readable ever since; गृहम् is the same
 word in sentence dress, promoted to active duty. The ledger therefore counts today's list
-as seven new + one upgrade (§14) — an upgrade row never increments the ledger, exactly as
-तव's upgrade did not in v1.c06.l02.
+as six new, one review headword and one upgrade (§14) — an upgrade of a word already on
+the ledger never increments it, exactly as भद्रम् did not in v2.c01.l01 — its भद्र had
+been counted since v1.c05.l04.
 
 ## 16. Conversation
 
@@ -527,7 +531,7 @@ The quiet craft notes: Arjuna — the boy of v1.c06.l03's passage — turns out 
 brother, and Kamalā her sister; the running cast becomes one household today. In lines
 6–7, the father playfully reaches for the grand old word दुहिता while the mother answers
 with everyday पुत्री — the lesson's honest pair, dramatized at the dinner table. And the
-course's first-ever noun, माता of v1.c01.l04, finally stands in her own house.
+course's first family word, माता of v1.c01.l04, finally stands in her own house.
 
 ## 18. Exercises
 
@@ -548,7 +552,7 @@ family-tree presentation (v2.c02.l05, task C) — keep the drawing.
 **अभ्यासः 3 · प्रश्नक्रीडा (the question game — production, spoken/recorded).** With a
 partner or the audio's calls: तव माता का? — तव भ्राता कः? — answer inside two seconds
 with a naming sentence (मम भ्राता अर्जुनः) or a location sentence. Then swap roles.
-Record one full round; score visargas and final vowels against §11.
+Record one full round; score visargas against v2.c01.l05 §11's breath check and final vowels against §11 checks 3–4.
 
 **अभ्यासः 4 · अङ्कनम् (the pair-and-direction sort).** Keep or reject, one reasoning
 line each: (a) "भगिनी is the everyday word for sister." (b) "स्वसा is the everyday word;
@@ -574,8 +578,9 @@ one word-swap away from one.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The everyday word for "sister" in classical Sanskrit is: (a) स्वसा — भगिनी is rare
-   (b) भगिनी — स्वसा is the older, Vedic-flavored word (c) दुहिता (d) जननी
+1. The working word for "sister" in this course's spoken practice is: (a) स्वसा — भगिनी
+   is rare (b) भगिनी — स्वसा is the older, inherited word, still at home in classical texts
+   (c) दुहिता (d) जननी
 2. The honest statement about माता and English *mother*: (a) English borrowed *mother*
    from Sanskrit (b) Sanskrit borrowed माता from Latin (c) माता, *māter* and *mother*
    are parallel descendants of one ancestor — no borrowing in any direction (d) the
@@ -601,16 +606,20 @@ one word-swap away from one.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — division of labor, not synonymy (§4, §8). ((a) is §12's mistake 5 reversed.)
+1. (b) — division of labor, not synonymy (§4, §8). ((a) is §12's mistake 5.)
 2. (c) — shared descent, zero borrowing (§13) — the chapter's flagship line.
 3. (b) — speak पुत्री, know दुहिता (§13).
 4. (a) — a true descent line *inside* Indo-Aryan (§4, §13) — honest downward, unlike (c)
    of exercise 4's cards.
-5. (b) — the तव precedent (§15); seven new + one upgrade, 260 → 267 (§14).
+5. (b) — the भद्रम् precedent (§15); six new + one upgrade, 260 → 266 (§14).
 6. (c) — observed, not legislated (§8, §15).
 7. (a) — chunks in front, pause form, machinery in Volume 3 (§15).
-8. (b) — the ्र stroke with a breathy onset (§9, §10). ((c) is §12's mistake — a leaked
-   vowel.)
+8. (b) — the ्र stroke with a breathy onset (§9, §10). ((c) is the §10 narrow note's
+   "Bharātā" error — a leaked vowel.)
+
+Exercise 4 (§18): (a) keep — §4, §8 · (b) reject — भगिनी is the working word, not rare
+(§4) · (c) reject — siblings, not parent and child (§13) · (d) keep — descent inside
+Indo-Aryan (§4) · (e) keep (§13) · (f) keep (§13).
 </details>
 
 ## 20. Revision
@@ -622,8 +631,8 @@ one word-swap away from one.
 > everyday partners. **The line:** माता ~ māter ~ mother — one ancestor, zero borrowing;
 > the full shelf arrives next lesson. **The frames:** मम परिवारः। मम पिता अत्र अस्ति। तव
 > भ्राता कः? **The parade:** ः (परिवारः, पुत्रः) · म् (गृहम्) · आ (माता … स्वसा) · ई
-> (भगिनी, पुत्री) — observed, never yet a law. **The ledger:** seven new + one upgrade —
-> 267.
+> (भगिनी, पुत्री) — observed, never yet a law. **The ledger:** six new + one upgrade —
+> 266.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -700,9 +709,9 @@ be read aloud and leave the system honestly unbuilt.
 > monochrome-safe. Center: a simple house outline labeled गृहम्, the word परिवारः written
 > around it in a circle (caption: "pari — around"). Inside, a two-generation family:
 > माता and पिता above; अर्जुनः (पुत्रः), माया and कमला below, with भ्राता / भगिनी tags on
-> sibling links. Two heirloom tags hang beside the daughters' and sisters' words: दुहिता
-> ("the ancient word — *daughter*'s sibling") beside पुत्री, स्वसा ("Vedic-flavored —
-> shelf next lesson") beside भगिनी. माता carries a small three-leaf badge: मातृ · māter ·
+> sibling links. Two heirloom tags hang beside the daughters' and sisters' words: दुहिता,
+> tagged "the ancient word — *daughter*'s sibling", beside पुत्री; स्वसा, tagged "older,
+> inherited — shelf next lesson", beside भगिनी. माता carries a small three-leaf badge: मातृ · māter ·
 > mother — "one ancestor, no borrowing". Footer word-anatomy strip: भ्रा circled ("भ् +
 > र — ्र stroke, v1.c05.l04") and गृ circled ("ऋ mātrā — syllabic r̩"). Corner note:
 > "pointing (एषः/एषा) — next lesson".
@@ -741,7 +750,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    पुत्री — and परिवारः writes itself in a circle around the house.
 3. **The heirloom shelf (2:00–3:10):** a cupboard opens: everyday words भगिनी and पुत्री
    sit on the counter in aprons; स्वसा and दुहिता rest on a velvet shelf above, tagged
-   "Vedic-flavored" and "*daughter*'s sibling". Caption: "speak the counter, know the
+   "older, inherited" and "*daughter*'s sibling". Caption: "speak the counter, know the
    shelf."
 4. **The frame magnets (3:10–4:10):** fridge-magnet words snap together: मम + पिता +
    अत्र + अस्ति; then तव + भ्राता + कः? flips around into मम भ्राता अर्जुनः — the
@@ -767,7 +776,7 @@ narrator reads the cue, not the English spelling.
   [put̪ɾiː].
 - **02:00** Two shelf words, honestly labeled. duhitā [d̪uɦit̪ɑː] — the ancient
   "daughter", the very word English *daughter* is sibling to. svasā [sʋɐsɑː] — the
-  Vedic-flavored "sister". Speak putrī and bhaginī; know duhitā and svasā, and know
+  older, inherited "sister". Speak putrī and bhaginī; know duhitā and svasā, and know
   exactly what they carry.
 - **03:10** The frames are old friends. mama [mɐmɐ] — my. tava [t̪ɐʋɐ] — your. mama pitā
   atra asti — my father is here. tava bhrātā kaḥ? — who is your brother? mama bhrātā
@@ -814,23 +823,20 @@ narrator reads the cue, not the English spelling.
   task E's fresh-role-card re-run assigned in §21 item 3, completing the exam's §20
   schedule) and v1.c01.l04 (माता, मम, the first cognate line — grown here in §13);
   builds on v1.c03.l05 (पिता with the story cast; पितृ stem), v1.c05.l03 (पुत्रः, त्र),
-  v1.c05.l04 (्र stroke in भ्रा), v1.c04.l03 (गृह → घर), v1.c06.l02 (frames, तव upgrade
-  precedent, कः/का rule of thumb), v1.c06.l03 (सः/सा, तस्य नाम, Arjuna); feeds
+  v1.c05.l04 (्र stroke in भ्रा), v1.c04.l03 (गृह → घर), v1.c06.l02 (frames, तव, कः/का rule of thumb), v1.c06.l03 (सः/सा, तस्य नाम, Arjuna); feeds
   v2.c02.l02 (एषः/एषा pointing + the full kinship cognate shelf — promised in §13, not
   spilled), v2.c02.l03 (world set), v2.c02.l04 (कुत्र, च), v2.c02.l05 (family-tree
-  presentation task C; direction cards task D), v2.c06 (cognate sets at scale), later
-  Volume 2 (gender system built on §15's observed parade), Volume 3 (possessive and
+  presentation task C; direction cards task D), v2.c06 (cognate sets at scale), and
+  Volume 3 (the gender system built on §15's observed parade; the possessive and
   case machinery behind मम/तव; no sandhi previewed here — pause form throughout).
 - **Glossary:** reuses विसर्ग, मात्रा, संयुक्ताक्षर per GLOSSARY.md; no new glossary
   terms. All headwords are classical vocabulary — no classical/modern usage labels
   needed this lesson (the register work is descent-direction honesty, §13/§18).
-- **Export notes:** ledger per the chapter plan: eight headwords = seven ledger-new +
-  one upgrade; **260 → 267**. Reconciliation flag for Pass D: पिता already carried a
-  §14 row in v1.c03.l05 (story-cast word) — the reviewer must decide whether it
-  double-counts (267 → 266 if so) and reconcile the chapter chain; this draft follows
-  the chapter plan and flags rather than silently re-counts. गृहम् exports as
-  `upgrade_of: गृह` (v1.c04.l03), not as a new ledger row — the तव precedent. Review
-  rows माता, पुत्रः export flagged review-duplicate, not new. Display-only, excluded
+- **Export notes:** ledger: eight headwords = six ledger-new + one review headword + one
+  upgrade; **260 → 266** — पिता carried a §14 row in v1.c03.l05 and is counted there
+  (Pass D reconciliation; every later chapter total drops by one). गृहम् exports as
+  `upgrade_of: गृह` (v1.c04.l03), not as a new ledger row — the भद्रम् precedent of v2.c01.l01. Review
+  rows माता, पुत्रः, पिता export flagged review-duplicate, not new. Display-only, excluded
   from counts and decks: जनकः, जननी (poetic pair), and the stems मातृ, पितृ, भ्रातृ,
   दुहितृ, स्वसृ (export as `display`). Export "parivār", "bhagini", "putri", "grih",
   "gruh" as `error_form`. The दुहिता/*daughter* and माता/*mother* relations export as
@@ -843,11 +849,11 @@ narrator reads the cue, not the English spelling.
   labor (§4, §8) against both dictionaries s.vv.; बहन < भगिनी and भाई < भ्राता (§4,
   §13) against [REF:masica1991]; the माता ~ māter ~ mother and दुहिता ~ daughter sets
   (§13) against [REF:mallory2006] (kinship chapter) — direction honesty in every line;
-  the 1.x p.14 "म is the universal sound of nurture" replacement (§13) logged in
+  the 1.x p.21 "म is the universal sound of nurture" replacement (§13) logged in
   ../../../research/verification-log.md as the IR-033-family fix delivered; जनकः/जननी
   glosses s.vv.; kin-term stability claim (§5) against [REF:mallory2006]. All §10/§14
-  IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); §15's parade checked against
-  the volume's gender-chapter plan; story cast decisions (Arjuna and Kamalā as Māyā's
+  IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); §15's parade kept to observation only, with no gender rule
+  stated and the system deferred to Volume 3 (ROADMAP v3.c01–c02, Nouns & Cases); story cast decisions (Arjuna and Kamalā as Māyā's
   siblings, §16–§17) recorded for v2.c02.l02's family-introduction scenes.
 - **Register audit:** FACT ×8 (§4 ṛ-stems + sister-words/descent ×2 · §5 frames +
   spacing/retrieval + kin-stability ×3 · §13 mother-line + daughter-pair ×2 · §15 frame

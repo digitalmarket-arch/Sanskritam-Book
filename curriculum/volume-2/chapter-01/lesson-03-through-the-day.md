@@ -131,7 +131,8 @@ greeting.
 > histories. A form can be centuries old while one of its jobs is recent — English "goodbye"
 > contracts a much older blessing; Sanskrit सुप्रभातम् is a classical word whose greeting-job is
 > modern. Register labeling — saying which fact is which — is a core skill of using a language
-> with a long history, not a footnote to it. [REF:monierwilliams1899 s.v. suprabhāta]
+> with a long history, not a footnote to it. [REF:oed s.v. goodbye]
+> [REF:monierwilliams1899 s.v. suprabhāta]
 
 That second fact is this chapter's honesty axis in miniature, and today's lesson carries its
 showcase word. Nothing needs defending: the modern greeting is real and standard among Sanskrit
@@ -176,7 +177,8 @@ as नमस्ते! always has — no verb, nothing missing. The day-words sl
 
 तीसरी — आँख का काम। रात्रिः के भीतर वही त्र बैठा है जो मित्र और तत्र में आपका पुराना साथी है — आज वह
 ि और ः पहनकर आया है: रा-त्रिः। और मध्याह्नः में एक नया जोड़ दिखेगा — ह्न। घबराइए मत: यह ह् + न है,
-उसी विधि से बना जो हर संयुक्ताक्षर बनाती है, और ह-परिवार में ह्य-ह्म को आप पाँचवें अध्याय से पहचानते
+बीच में कोई स्वर नहीं — हर संयुक्ताक्षर का वही नियम; पर गोल, बिना खड़ी पाई वाला ह आधा नहीं होता —
+पूरा रहता है और न उसके नीचे जुड़ता है, और ह-परिवार में ह्य-ह्म को आप पाँचवें अध्याय से पहचानते
 हैं। घटक बोलिए, जोड़ पढ़िए — विधि वही, शब्द नया।
 
 ## 8. English Explanation
@@ -196,15 +198,17 @@ a form of the old day-word अहन् (ahan) — "mid-day", literally
 
 ### Two conjuncts do the reading work
 
-**रात्रिः** is three blocks: रा-त्रिः. The middle block is त्र — the fused ligature certified in
+**रात्रिः** is two blocks: रा-त्रिः. The second block is built on त्र — the fused ligature certified in
 v1.c05.l03 (मित्र, तत्र, अत्र) — today wearing the ि mātrā and followed by the visarga: त् + र +
 इ, then ः. Old friend, new dress.
 
 **मध्याह्नः** is the day's longest word and your smallest news: म-ध्या-ह्नः. The ध्या block is an
 ordinary stem-loss weld (ध् + या); the ह्नः block is the one join you have never met — **ह्न =
 ह् + न**, the third member of the ह-family whose first two, ह्य and ह्म, you learned to recognize
-by components in v1.c05.l03. Same mechanism as every conjunct since Chapter 5: the silent one
-shrinks, the speaker stands, no vowel inside. Components, then block, then word.
+by components in v1.c05.l03. The sound rule is the one every conjunct obeys — no vowel inside —
+but the shape is no stem-loss weld: ह is round and stemless, with no stem to drop, so it keeps its
+full shape and न is joined beneath it, exactly as in its siblings ह्य and ह्म. Components, then
+block, then word.
 
 ### The showcase label — both things are true
 
@@ -252,7 +256,8 @@ only after प्रभातम्; शुभरात्रिः only after �
 fluency strand doing precisely its job [REF:nation2013].
 
 **Drill 4 — three speeds.** The §14 list three times: block by block, natural pace, target pace.
-Log the third time (§18 exercise 5). The standing law holds at every speed: *dinam* full,
+Log the third time beside your clock-circle times (§18 exercise 2), then go straight into the
+dictation (§18 exercise 5). The standing law holds at every speed: *dinam* full,
 *rātriḥ* breathed to the end — speed never buys back a clipped vowel.
 
 ## 10. IPA
@@ -334,7 +339,7 @@ your pocket.
 > **not** part of this family: it descends from a different root entirely — the standard textbook
 > example of a false cognate. [REF:mallory2006]
 
-The lesson-1 tool, another outing: *karma* was a loan, चक्र and *wheel* are cousins, पञ्च and
+The v1.c01.l01 tool, another outing: *karma* was a loan, चक्र and *wheel* are cousins, पञ्च and
 *five* are cousins — and दिन/*day* is the pair that *looks* related and is not. Resemblance is
 evidence of nothing; descent is established by systematic correspondence, which Lithuanian shows
 and English does not.
@@ -353,26 +358,30 @@ and English does not.
 
 ## 14. Vocabulary
 
-शब्दावली — eight words take the readable ledger from 243 to 251 (counts
-reconciled at review, as always); five are classical day-cycle vocabulary, two are labeled modern
-greetings, one is a classical wish. Audio: 🔊
-`planned:assets/audio/volume-2/v2c01l03-word-list.mp3` (each word twice, three-speed passes, then
-the dictation track). Lists stay sentence-dressed, as all chapter: neuters wearing म्, masculines
-and the feminine रात्रिः wearing ः.
+शब्दावली — eight headwords, six of them ledger-new, take the readable ledger from 243 to 249
+(counts reconciled at review, as always); five are classical day-cycle vocabulary, two are labeled
+modern greetings, one is a classical wish. Two of the eight re-dress stems already on the ledger —
+दिनम् wears the दिन counted in v1.c03.l04, शुभम् the शुभ counted in v1.c04.l02 — so both are
+drilled here but not counted again: promotions are not double-counted (the l01 भद्रम् precedent).
+Audio: 🔊 `planned:assets/audio/volume-2/v2c01l03-word-list.mp3` (each word twice, three-speed
+passes, then the dictation track). Lists stay sentence-dressed, as all chapter: neuters wearing
+म् — and the indeclinable सायम्, which never declines — masculines and the feminine रात्रिः
+wearing ः.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | प्रभातम् | prabhātam | /pɾɐbʱɑːt̪ɐm/ | dawn, morning | प्रभात, सुबह | classical; ्र stroke (v1.c05.l04) + breathy भ |
-| दिनम् | dinam | /d̪in̪ɐm/ | day | दिन | classical; never "din" (§12); siblings in Lithuania, not England (§13) |
+| दिनम् | dinam | /d̪in̪ɐm/ | day | दिन | upgrade — दिन readable since v1.c03.l04; classical; never "din" (§12); siblings in Lithuania, not England (§13) |
 | मध्याह्नः | madhyāhnaḥ | /mɐd̪ʱjɑːɦn̪ɐh/ | midday | दोपहर, मध्याह्न | classical; मध्य + अह्न "mid-day" (§8); ह्न met by components (§8) |
-| सायम् | sāyam | /sɑːjɐm/ | evening | शाम, सायं | classical; lips close on म् — not a nasal vowel (§12) |
+| सायम् | sāyam | /sɑːjɐm/ | evening; in the evening | शाम, सायं | classical; lips close on म् — not a nasal vowel (§12) |
 | रात्रिः | rātriḥ | /ɾɑːt̪ɾih/ | night | रात, रात्रि | classical; रा-त्रिः — त्र (v1.c05.l03) wearing ि and ः; feminine ः-word (§15) |
 | सुप्रभातम् | suprabhātam | /supɾɐbʱɑːt̪ɐm/ | good morning! | सुप्रभात | word classical, greeting-use modern — both true (§8, §13); variant शुभप्रभातम् recognized (§8) |
 | शुभरात्रिः | śubharātriḥ | /ɕubʱɐɾɑːt̪ɾih/ | good night | शुभ रात्रि | modern calque, labeled (§13); शुभ + रात्रिः — both parts on this page |
-| शुभम् | śubham | /ɕubʱɐm/ | may it be well | शुभ हो | classical freestanding wish (§13); शुभ readable since v1.c04.l02 |
+| शुभम् | śubham | /ɕubʱɐm/ | may it be well | शुभ हो | upgrade — शुभ readable since v1.c04.l02; classical freestanding wish (§13) |
 
 Display-only, excluded from all counts and decks: **शुभदिनम्** (śubhadinam) "good day" and the
-variant **शुभप्रभातम्** (śubhaprabhātam) — both circulate; neither is assessed.
+variant **शुभप्रभातम्** (śubhaprabhātam) — both circulate; neither is drilled, dictated or sorted — only the variant's status
+(recognized, not taught) is checked, in §19 Q4.
 
 Reading protocol unchanged: count the blocks, read the blocks, read the word — रा-त्रिः,
 म-ध्या-ह्नः — then the clock, and no final vowel clipped at any speed.
@@ -404,11 +413,13 @@ built from today's both-things-true pattern.
 
 ### Pause-form dress — and one honest shape
 
-Today's list wears the usual sentence dress: neuters in म् (प्रभातम्, दिनम्, सायम्, शुभम्), the
+Today's list wears the usual sentence dress: neuters in म् (प्रभातम्, दिनम्, शुभम्); सायम् "in the
+evening" is an indeclinable — it takes no case endings at all [REF:apte1890 s.v. सायम्]; the
 masculine मध्याह्नः in ः — and **रात्रिः**, which wears ः *and is feminine*. The shape rule of
 v1.c06.l02 ("ः-words answer to कः") was a rule of thumb about the words you had then; रात्रिः is
-your first exception in the ledger, noted now, explained when Volume 2's gender chapters build
-the system. Nouns stay whole-word glossed until Volume 3's case machinery; greetings, as §6 said,
+an honest exception — feminine, yet dressed in ः, as मतिः has quietly been in the ledger since
+v1.c02.l06 — noted now; v2.c02 observes the gender shapes, and the system behind them is built
+later. Nouns stay whole-word glossed until Volume 3's case machinery; greetings, as §6 said,
 are complete utterances and decline nothing.
 
 ## 16. Conversation
@@ -488,17 +499,17 @@ are the scene markers — watch them open and close each frame.
    (sarvam śubham. bālakaḥ hasati.) "All is well. The boy laughs." — सब शुभ है। बालक हँसता है।
 
 The quiet craft note: this is the course's first story told *by the clock* — the same cast, one
-day, four greetings each in its right hour, and line 7 closing on the smallest blessing in the
-lesson, doing its freestanding classical job.
+day, four greetings each in its right hour, and line 7's first sentence carrying the lesson's
+smallest blessing-word, शुभम् — here the predicate of सर्वम्, "all is well" (its freestanding
+wish-job is §16 scene 4's).
 
 ## 18. Exercises
 
 अभ्यासाः — six exercises; 2, 3, 5 and 6 are production tasks. Do them in order.
 
 **अभ्यासः 1 · अन्वेषणम् (conjunct-spotting — timed).** Sixty seconds: scan the §14 list and mark
-every conjunct at work. Check: ्र in प्रभातम् and सुप्रभातम्; त्र in रात्रिः and शुभरात्रिः; ध्य
-and ह्न in मध्याह्नः. Ten-second follow-up: which join did you meet today for the first time, and
-what are its components? (ह्न = ह् + न.)
+every conjunct at work. Ten-second follow-up: which join did you meet today for the first time,
+and what are its components? Key in §19.
 
 **अभ्यासः 2 · दिनचक्रम् (the clock circle — production, spoken).** Recite the circle from memory,
 in order, three full turns: प्रभातम् — मध्याह्नः — सायम् — रात्रिः. Then answer the audio's
@@ -512,8 +523,9 @@ window; शुभरात्रिः only at night; स्वस्ति and 
 
 **अभ्यासः 4 · अङ्कनम् (the label sort).** Sort the cards into *classical* / *modern* /
 *both-true*: दिनम् · शुभरात्रिः as a formation · शुभरात्रिः as an everyday habit · सुप्रभातम् the
-word · सुप्रभातम् the greeting-use · शुभम् · स्वस्ति · the variant शुभप्रभातम्. Check: exactly
-one card family needs the two-part answer — that is the whole point of the lesson (§15).
+word · सुप्रभातम् the greeting-use · शुभम् · स्वस्ति. Check: exactly one card family needs the
+two-part answer — it goes in the *both-true* double box, one chip of each color; that is the
+whole point of the lesson (§15). Key in §19.
 
 **अभ्यासः 5 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track 🔊: all
 eight words in random order, each read twice with a writing pause. Write them in Devanagari.
@@ -541,10 +553,11 @@ then note which of your greetings would deserve a modern label if a reviewer ask
 4. The 1.x curriculum's शुभप्रभातम् is: (a) a mistake to correct when heard (b) the only correct
    form (c) a circulating variant — the course teaches सुप्रभातम् and recognizes both (d) a
    different time of day
-5. In रात्रिः, the middle block त्रि contains: (a) त् + र + इ — the fused त्र ligature wearing
+5. In रात्रिः, the second block's त्रि contains: (a) त् + र + इ — the fused त्र ligature wearing
    the ि mātrā (b) त + र, two blocks (c) a new letter (d) ट् + र
-6. The ह्न in मध्याह्नः is: (a) a brand-new letter (b) ह् + न by the ordinary conjunct mechanism
-   — the third ह-family join after ह्य and ह्म (c) a misprint for ह्म (d) न् + ह
+6. The ह्न in मध्याह्नः is: (a) a brand-new letter (b) ह् + न — two consonants, no vowel between,
+   the round ह keeping its full shape with न joined beneath — the third ह-family join after ह्य
+   and ह्म (c) a misprint for ह्म (d) न् + ह
 7. The greeting honest at any hour of the clock is: (a) सुप्रभातम् (b) शुभरात्रिः (c) नमस्ते
    (d) शुभम्
 8. दिनम्'s certified relatives include: (a) English *day* — same look, same meaning
@@ -555,12 +568,25 @@ then note which of your greetings would deserve a modern label if a reviewer ask
 
 1. (b) — dawn, midday, evening, night (§8). ((c) puts the whole day inside its own circle.)
 2. (c) — the both-things-true label, this chapter's showcase (§8, §13, §15).
-3. (b) — modern calque of classical parts (§13). ((a) is §12's mistake 4 in reverse.)
+3. (b) — modern calque of classical parts (§13). ((a) is §12's mistake 4 — a modern greeting promoted to classical idiom
+   — applied to शुभरात्रिः.)
 4. (c) — variant recognized, one form taught (§8) — the गंगा/गङ्गा policy.
 5. (a) — the v1.c05.l03 ligature in new dress (§8).
-6. (b) — same mechanism, known family (§8, §10). ((d) reverses the components.)
+6. (b) — two consonants, no vowel between; known family (§8, §10). ((d) reverses the components.)
 7. (c) — नमस्ते is hour-neutral; the labeled pair are clock-bound (§8, §15).
 8. (b) — diena and dĭnĭ are siblings; *day* is the famous false cognate (§13).
+
+**Exercise keys.**
+
+- **Exercise 1 (conjunct-spotting):** ्र in प्रभातम् and सुप्रभातम्; त्र in रात्रिः and
+  शुभरात्रिः; ध्य and ह्न in मध्याह्नः. Follow-up: ह्न = ह् + न.
+- **Exercise 4 (the label sort):** classical — दिनम्, शुभम्, स्वस्ति; modern — शुभरात्रिः as a
+  formation (a calque, §13) and शुभरात्रिः as an everyday habit; both-true double box — the
+  सुप्रभातम् pair, the word wearing the classical chip and the greeting-use the modern chip
+  (§8, §15).
+- **Exercise 6 (translate the day):** (a) प्रभातम् अस्ति। सुप्रभातम्! (b) मध्याह्नः अस्ति। सूर्यः
+  तत्र अस्ति। (c) सायम् अस्ति। स्वस्ति! (d) रात्रिः अस्ति। शुभरात्रिः! शुभम्! Modern labels: the
+  greeting-use of सुप्रभातम् and the calque शुभरात्रिः — see §15.
 </details>
 
 ## 20. Revision
@@ -573,7 +599,7 @@ then note which of your greetings would deserve a modern label if a reviewer ask
 > both true; शुभरात्रिः — modern calque; शुभम् — classical wish. **The variant:** शुभप्रभातम्
 > circulates; we teach सुप्रभातम्, recognize both. **The joins:** त्र in रा-त्रिः; ह्न = ह् + न,
 > the third ह-family member. **The trap:** *day* is not दिन's cousin — Lithuanian *diena* is.
-> **The ledger:** eight words, 251 total.
+> **The ledger:** eight words, six ledger-new — 249 total.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -632,8 +658,8 @@ carry no information; deputize them for the teach-back. Script-side learners fin
 
 **What students find hard:** believing the two-part label is precision rather than hedging (run
 the "goodbye" parallel from §5); keeping vowels out of ह्न (slow-motion component drill); the
-feminine रात्रिः wearing ः (one honest sentence — "rule of thumb, first exception, system next
-chapter" — and move on; do not open the gender system early); and the day/*day* trap, which
+feminine रात्रिः wearing ः (one honest sentence — "rule of thumb, honest exception, system later;
+v2.c02 only observes the shapes" — and move on; do not open the gender system early); and the day/*day* trap, which
 someone will raise — let §13's answer be read aloud from the page.
 
 ## 23. AI Image Prompt
@@ -719,7 +745,7 @@ reads the cue, not the English spelling.
 40–50 seconds, vertical, captions burned in.
 
 - **Hook (0:00–0:07):** dark temple, hymn swell, one glowing word. "This Sanskrit 'good morning'
-  wakes up gods. Literally — it's a hymn genre."
+  names a hymn genre — sung in temples, by tradition, to wake the deity."
 - **Demo (0:07–0:30):** the two-stamp machine: "The word? Classical — suprabhātam
   [supɾɐbʱɑːt̪ɐm], 'beautiful dawn.' The greeting habit? Modern — like saying good morning. Both
   true." Quick clock montage: प्रभातम् → मध्याह्नः → सायम् → रात्रिः, greeting chips snapping to
@@ -744,8 +770,8 @@ reads the cue, not the English spelling.
   - `assets/worksheets/volume-2/v2c01l03-hour-roleplay.pdf` — §18 exercises 3 and 4, timed logs
   - §16/§17 audio is NOT in this manifest — record into the Chapter 1 drill pack (chapter.md
     manifest: dialogue audio at three speeds per lesson) and back-link here when it exists.
-- **Related lessons:** reviews v2.c01.l01 (भोः, अञ्जलिः, स्वस्ति, भद्रम् ते — working in §16
-  scenes 1 and 3) and v2.c01.l02 (कथम्, कुशलम्, the wellness exchange — scene 1); builds on
+- **Related lessons:** reviews v2.c01.l01 (भोः, स्वस्ति, भद्रम् ते — working in §16
+  scenes 1 and 3; अञ्जलिः in §3) and v2.c01.l02 (कथम्, कुशलम्, the wellness exchange — scene 1); builds on
   v1.c05.l02 (conjunct mechanism), v1.c05.l03 (त्र; the ह्य/ह्म recognition family ह्न now
   joins), v1.c05.l04 (्र stroke), v1.c04.l02 (शुभ), v1.c06.l02 (frames and cast); feeds
   v2.c01.l04 (धन्यवादः — today's label structure meets its showcase), v2.c01.l05 (register
@@ -755,10 +781,11 @@ reads the cue, not the English spelling.
 - **Glossary:** reuses संयुक्ताक्षर, विसर्ग, मात्रा per GLOSSARY.md; no new glossary terms — the
   classical/modern usage labels follow the विद्यालयः precedent (v1.c06.l01 §13) and the
   chapter-wide policy (research notes §0.4).
-- **Export notes:** vocabulary arithmetic is approximate by design: ≈250 entering (237 at Volume
-  1 close + l01/l02 drafts in flight) + 8 = **≈258**; the reviewer reconciles exact counts across
-  the chapter as always. Sibling ids v2.c01.l01 and v2.c01.l02 are drafting in parallel —
-  resolver errors on prerequisites/review_of are expected until they land. Display-only, excluded
+- **Export notes:** vocabulary arithmetic is canonical: 243 entering (per v2.c01.l02 §14) + 6
+  ledger-new = **249**. The §14 table drills eight headwords (`vocabulary_count: 8`), two of them
+  promotions — दिनम्, whose stem दिन was counted in v1.c03.l04, and शुभम्, whose stem शुभ was
+  counted in v1.c04.l02 — export them as upgrade rows, drilled but excluded from the cumulative
+  sum, as v2.c02.l01 does for गृहम्. Display-only, excluded
   from counts and decks: शुभदिनम्, the variant शुभप्रभातम् (export as `variant_spelling`, like
   गंगा — a real circulating form, not an error), the etymology components मध्य/अहन्, and the
   chunk शुभम् अस्तु. Export "din", "raat", "madhyāhanaḥ" and the nasalized "sāyaṃ" habit as
@@ -775,7 +802,7 @@ reads the cue, not the English spelling.
   attribution check only, never assessed; शुभरात्रिः modern-calque status per notes §0.4. All
   §10/§14 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); रात्रिः feminine-ः note (§15)
   checked against the v2.c02 gender-chapter plan.
-- **Register audit:** FACT ×7 (§4 suprabhāta ×1 · §5 formulaic-chunks + word-vs-use ×2 · §13
-  suprabhāta biography + cognate set + śubham ×3 · §15 label rule ×1) · HISTORY ×0 ·
+- **Register audit:** FACT ×6 (§4 suprabhāta ×1 · §5 formulaic-chunks + word-vs-use ×2 · §13
+  suprabhāta biography + cognate set ×2 · §15 label rule ×1; §13's śubham note is a cited bullet) · HISTORY ×0 ·
   TRADITION ×2 (§4 hymn genre · §10 recitation echo-vowel — both named, neither assessed) ·
   SYMBOL ×0. Quiz Q1–Q8 all FACT-register content.

@@ -23,7 +23,7 @@ objectives:
   - en: "State Volume 2's label rule — every courtesy word carries one honest classical/modern usage label — and attach the right label to each kit word."
     hi: "खण्ड 2 का लेबल-नियम बताएँ — हर शिष्टाचार-शब्द पर शास्त्रीय/आधुनिक प्रयोग का एक ईमानदार लेबल — और पेटी के हर शब्द पर सही लेबल लगाएँ।"
   - en: "Read ñ's second working conjunct — the ञ्ज of अञ्जलिः — and deliver greetings with the warmth contour, pause form between turns."
-    hi: "ञ का दूसरा कामकाजी संयुक्ताक्षर — अञ्जलिः का ञ्ज — पढ़ें, और अभिवादन गर्म सुर में, बारियों के बीच पूरा ठहराव रखकर, बोलें।"
+    hi: "ञ का दूसरा कामकाजी संयुक्ताक्षर — अञ्जलिः का ञ्ज — पढ़ें, और अभिवादन गर्मजोशी भरे सुर में, बारियों के बीच पूरा ठहराव रखकर, बोलें।"
 new_letters: []
 new_matras: []
 vocabulary_count: 5
@@ -49,12 +49,12 @@ updated: 2026-07-31
 
 ## 1. Hook
 
-Your phone keeps a Sanskrit word in its emoji tray. The folded-palms sign — sent a million
-times a day as hello, thanks, please — is the picture of something with a precise classical
+Your phone keeps a Sanskrit word in its emoji tray. The folded-palms sign — sent every
+day as hello, thanks, please — is the picture of something with a precise classical
 name, and every letter of that name is already yours: it even hides the second working
 conjunct of the rarest nasal you own. Volume 2 opens with the easiest promise a course can
 make — **no new letters, ever again** — and with the thing every conversation in every
-language opens with: the greeting. Five classical words complete your courtesy kit today.
+language opens with: the greeting. Five classical words open your courtesy kit today.
 But first, exactly one week after your exam, right on schedule, three papers come out of
 your bag.
 
@@ -67,7 +67,7 @@ your bag.
 | 1 | Run Station 0 on schedule: the exam ladder's dialogue turns and the Arjuna passage re-read, timed and logged; the three-artifact photo filed. | स्टेशन 0 समय पर चलाएँ: संवाद-वाक्य और अर्जुन-अनुच्छेद फिर पढ़ें, समय दर्ज करें, तीन-पत्रों वाला फ़ोटो जमा करें। |
 | 2 | Read and use the five kit headwords beside the review trio नमस्ते, नमस्कारः, स्वागतम् in a full greeting round. | पेटी के पाँचों शब्द पुरानी तिकड़ी के साथ पूरे अभिवादन-चक्र में पढ़ें और बरतें। |
 | 3 | State Volume 2's label rule and attach the right classical/modern label to each kit word. | खण्ड 2 का लेबल-नियम बताएँ और हर शब्द पर सही लेबल लगाएँ। |
-| 4 | Read the ञ्ज of अञ्जलिः, and greet with the warmth contour, pause form between turns. | अञ्जलिः का ञ्ज पढ़ें, और गर्म सुर में, ठहराव रखकर, अभिवादन करें। |
+| 4 | Read the ञ्ज of अञ्जलिः, and greet with the warmth contour, pause form between turns. | अञ्जलिः का ञ्ज पढ़ें, और गर्मजोशी भरे सुर में, ठहराव रखकर, अभिवादन करें। |
 
 Objective 1 runs in §3 and closes in §18 (exercise 6); objective 2 is built in §8/§14,
 tested in §18 (2–5) and §19 (Q1, Q3, Q8); objective 3 in §8/§15, §18 (1), §19 (Q4–Q7);
@@ -130,8 +130,8 @@ old friend in new dress:
 > [REF:apte1890 s.v. अभिवादन]
 
 > **[FACT · तथ्यम्]** नमस्ते = नमः + ते "homage to you"; नमस्कारः = नमः + कारः "the making
-> of a bow". Both are fully classical in formation; नमस्ते as the everyday all-purpose
-> greeting is the living convention of spoken Sanskrit. [REF:apte1890 s.v. नमस्]
+> of a bow" [REF:apte1890 s.v. नमस्]. Both are fully classical in formation; नमस्ते as
+> the everyday all-purpose greeting is the living convention of spoken Sanskrit.
 
 > **[HISTORY · इतिहासः]** स्वस्ति "well-being" is attested from the Ṛgveda onward — Vedic
 > hymns open and close blessings with it — and classical literature keeps it as a formula
@@ -161,8 +161,8 @@ courtesy is yours this morning.
 > Station 0 a week in advance, and why its times are logged, not just performed.
 > [REF:cepeda2006]
 
-The stations themselves are retrieval practice — answers from memory before checking, the
-strongest rehearsal there is [REF:roediger2006]. And the label system is science of a
+The stations themselves are retrieval practice — answers from memory before checking, a
+stronger rehearsal than re-reading [REF:roediger2006]. And the label system is science of a
 quieter kind: a dictionary records that a word exists; honest teaching also records *who
 says it, when*. Volume 2 keeps both books open.
 
@@ -228,7 +228,7 @@ meeting, each with an honest label on the handle.
 | स्वागतम् | welcoming someone in | classical idiom |
 | भद्रम् ते | a blessing on meeting or parting | classical courtesy formula, epic-common |
 | स्वस्ति | well-being; the blessing-farewell | classical idiom, Vedic onward |
-| नमः | the bow itself, standalone | classical; readable since Chapter 3 |
+| नमः | the bow itself, standalone | classical word — classically said *to* someone (नमः + ते; गुरवे नमः, §15); alone, the 'to you' is understood |
 | अञ्जलिः | the *name* of the joined-palms gesture | classical word (the gesture: cultural practice) |
 
 The trio in rows two to four is review — drilled in exchanges today, not re-taught. The
@@ -241,8 +241,8 @@ other five are this lesson's headwords:
   the palms-together salute, and the word that gives ञ its second job (§13).
 - **भद्रम्** (bhadram) "good; blessings" — Chapter 5's भद्र, sentence-dressed in म् and
   promoted to courtesy duty in the chunk **भद्रम् ते** "blessings on you".
-- **स्वस्ति** (svasti) "well-being; farewell, blessings" — the kit's classical goodbye and
-  the oldest word on today's list (§4).
+- **स्वस्ति** (svasti) "well-being; farewell, blessings" — the kit's classical goodbye,
+  attested from the Ṛgveda onward (§4).
 - **नमः** (namaḥ) "homage, a bow" — read since v1.c03.l04 as नमस्ते's first half; today it
   stands alone as a full greeting.
 
@@ -329,9 +329,10 @@ The symbols carry the sounds; the welcome is yours to add.
 
 सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.
 
-1. **भोः clipped to "bho".** The visarga dies first in fast speech, and without it the
-   word loses its passport. *Fix:* palm test on every भोः — the breath is load-bearing at
-   any speed (§9 drill 2).
+1. **भोः clipped to "bho" in pause form.** The visarga dies first in fast speech. *Fix:*
+   palm test on every pause-form भोः — the breath is load-bearing at any speed (§9 drill 2).
+   Honest footnote: connected text prints भो before a vowel or a voiced sound — §15's भोः राम
+   appears there as भो राम; that is sandhi, Volume 3's subject, not this error.
 2. **अंजलि written for अञ्जलिः in dictation.** The Hindi print habit reaches for the dot.
    *Fix:* the stop chooses its own nasal — ज hands you ञ, welded: ञ्ज. Recognize the dot
    form; write the classical conjunct — the गङ्गा/गंगा account exactly (v1.c06.l01).
@@ -387,7 +388,7 @@ across a word boundary. That step is sandhi, Volume 3's subject. Today read the 
 
 **स्वस्ति** (svasti) — स्व-स्ति · /sʋɐst̪i/
 
-The oldest word in today's kit (§4's HISTORY note), and still the cleanest way to wish
+Attested from the Ṛgveda onward (§4's HISTORY note), and still the cleanest way to wish
 someone well on parting: स्वस्ति! One relative you did not expect:
 
 > **[FACT · तथ्यम्]** The auspicious doorway mark स्वस्तिक (svastika) carries स्वस्ति in
@@ -428,8 +429,9 @@ deploys, and the label law that now governs this volume.
 ### भोः — the address particle
 
 > **[FACT · तथ्यम्]** भोः is a classical particle of address — "O!, sir!, hey" — placed
-> before the person or title called: भोः राम! The dictionaries record it across classical
-> dialogue and drama. [REF:monierwilliams1899 s.v. bhos]
+> before the person or title called: भोः राम! — pause form; connected texts print
+> भो राम, the visarga yielding before a voiced sound (sandhi, Volume 3). The dictionaries
+> record it across classical dialogue and drama. [REF:monierwilliams1899 s.v. bhos]
 
 Two usage notes, chunk-honest. First, the called name may change shape: रामः is called as
 राम — you met this with the exam dialogue's नमस्कारः, आचार्य! Such calling shapes are used
@@ -494,10 +496,12 @@ arrival; बालकः, सीता and माया answer with the whole ki
 (svasti! svasti!) "Farewell, farewell!" — कल्याण हो!
 
 Housekeeping: every word is self-read — the five new hires clocked in this morning; the
-trio has been readable since Chapter 5. बालकः joins his palms on the second turn — the
-añjali, cultural practice riding beside the words (§13), lovely and optional. माया's bare
-नमः is the oldest greeting on the page; आचार्य stands in its calling shape, the exam-day
-chunk (§15). Between every pair of turns: one full pause-form beat.
+trio has been readable since Chapters 5–6: नमस्ते and स्वागतम् from v1.c05.l02, नमस्कारः
+from v1.c06.l01. बालकः joins his palms on the second turn — the añjali, cultural practice
+riding beside the words (§13), lovely and optional. माया's bare नमः leaves its 'to you'
+understood — classically the word is said *to* someone (§15); आचार्य stands in its
+calling shape, the exam-day chunk (§15). Between every pair of turns: one full
+pause-form beat.
 
 ## 17. Story
 
@@ -519,14 +523,15 @@ Every word is self-read.
 5. आचार्यः हसति — भद्रम् ते! भद्रम् ते!
    (ācāryaḥ hasati — bhadram te! bhadram te!) "The teacher laughs: Blessings on you —
    blessings on you!" — आचार्य हँसते हैं — तुम्हारा भला हो, तुम्हारा भला हो!
-6. ततः सर्वे वदति — स्वस्ति!
-   (tataḥ sarve vadati — svasti!) "Then all say together: Farewell!" — फिर सब मिलकर कहते
+6. ततः सर्वे वदन्ति — स्वस्ति!
+   (tataḥ sarve vadanti — svasti!) "Then all say together: Farewell!" — फिर सब मिलकर कहते
    हैं — स्वस्ति!
 
 Line 3 is the quiet milestone: the paper the boy lays on the desk is his Chapter 5
 संस्कृतम् line — the artifact walking into the story on the same morning your own three
-papers sat on your desk (§3). Line 6 borrows the exam story's convention — सर्वे playing
-"everyone", stretched honestly there and re-used here. The class that could not read one
+papers sat on your desk (§3). Line 6 re-uses the exam story's सर्वे "everyone", with the
+plural verb it takes: वदन्ति "they say", a plural form glossed whole; the plural system is
+this volume's later business. The class that could not read one
 letter in its first story now greets, blesses, and takes leave — entirely in Sanskrit.
 
 ## 18. Exercises
@@ -595,7 +600,7 @@ course checks the *schedule*, not just the skill.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — the address particle (§15). ((c) is §12's mistake museum; the word is classical.)
+1. (b) — the address particle (§15). ((c) is exercise 1's card (e), rejected; the word is classical.)
 2. (b) — the homorganic rule's prediction, confirmed: ञ्च then ञ्ज (§8, §13).
 3. (a) — नमः + ते (§4; taught v1.c05.l02 §13).
 4. (b) — the §4 HISTORY note and the §14 label.
@@ -627,8 +632,9 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 - **This week:** use the kit on a real person once a day — the cheapest fluency
   maintenance there is; the monthly varṇamālā-and-śloka habit from v1.c06.l04 §20
   continues underneath.
-- **In 1 week:** lesson 5's chapter review runs this kit inside its own Station 0 — the
-  courtesy ladder, full length, against today's recording.
+- **In 1 week:** lesson 5's chapter review collects this kit — its Station 0 dictation row
+  opens on अञ्जलिः, and task C runs the courtesy ladder full length; play today's
+  recording beside it.
 
 ## 21. Homework
 
@@ -638,7 +644,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
    and the recorded greeting round.
 2. **(10 min, real world)** Greet a family member or friend with the kit — भोः! नमस्ते!
    at least, भद्रम् ते! if they smile — and teach them one reply. Then the honest label,
-   out loud: everything you just said is classical idiom, and you know that on purpose.
+   out loud: every word you just said is classical, and नमस्ते's everyday hello-use is the
+   living convention — you know both on purpose.
 3. **(5 min, hunt)** The nasal hunt, courtesy edition: find अंजलि in Hindi print and
    rewrite it classically as अञ्जलिः. Find नमः on a wall, board or book cover. Bonus: a
    doorway स्वस्तिक hands you स्वस्ति's name in the wild (§13).
@@ -811,7 +818,8 @@ narrator reads the cue, not the English spelling.
   reconciles against these exact counts at review, per standing practice. Export
   भद्रं ते and गुरवे नमः as `display` blocks with whole-word glosses, never as
   vocabulary rows; अंजलि as `variant_spelling` (a real convenience form, not an error);
-  visarga-less "bho" and dot-spelled dictation forms (ंज for ञ्ज) as `error_form`. Every
+  pause-form visarga-less "bho" (the sandhi spelling भो of connected text is not an error)
+  and dot-spelled dictation forms (ंज for ञ्ज) as `error_form`. Every
   §14 row carries `usage_label: classical` for the app's label chips. §19 key stays in
   `<details>` in all renders.
 - **Verification flags for Pass C:** अञ्जलि gloss and attestation against
@@ -829,5 +837,6 @@ narrator reads the cue, not the English spelling.
   chunks + spacing ×2 · §13 añjali word + भद्रं ते formula + svastika naming ×3 · §15
   भोः particle ×1) · HISTORY ×1 (§4 स्वस्ति, cited) · TRADITION ×1 (§13 the añjali
   gesture — attributed to living practice, never assessed) · SYMBOL ×0. Quiz Q1–Q8
-  assess FACT-register content only; Q6 assesses the course's register *labels* as facts
+  assess FACT-register content, with Q4 under the cited-HISTORY carve-out (the §4 स्वस्ति
+  note); Q6 assesses the course's register *labels* as facts
   about the label system, per the v1.c06.l04 precedent.

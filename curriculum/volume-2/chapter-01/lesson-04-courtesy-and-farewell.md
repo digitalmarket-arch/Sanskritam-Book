@@ -20,8 +20,8 @@ objectives:
     hi: "संस्कृत में धन्यवाद, क्षमा-याचना और विदाई करें — धन्यवादः, क्षमस्व, स्वस्ति, पुनः मिलामः — हर शब्द पर सही शास्त्रीय/आधुनिक लेबल के साथ।"
   - en: "Use न for plain negation in pause form — न, न अस्ति, न कुशलम् — and say what the joined नास्ति previews."
     hi: "विराम-रूप में न से सरल निषेध करें — न, न अस्ति, न कुशलम् — और बताएँ कि जुड़ा हुआ नास्ति किसकी झलक है।"
-  - en: "Address a man respectfully with श्रीमान् and reply to thanks and apology with भद्रम्."
-    hi: "श्रीमान् से आदरपूर्वक सम्बोधन करें और धन्यवाद-क्षमा के उत्तर में भद्रम् कहें।"
+  - en: "Address a man respectfully as श्रीमन्, the calling shape of श्रीमान्, and reply to thanks and apology with भद्रम्."
+    hi: "श्रीमान् के सम्बोधन-रूप श्रीमन् से आदरपूर्वक सम्बोधन करें और धन्यवाद-क्षमा के उत्तर में भद्रम् कहें।"
   - en: "Recite the chapter's classical/modern label table from memory — the keystone the exam sorts by."
     hi: "अध्याय की शास्त्रीय/आधुनिक लेबल-तालिका स्मृति से बताएँ — परीक्षा इसी के आधार पर छाँटती है।"
 new_letters: []
@@ -48,10 +48,10 @@ updated: 2026-07-31
 
 ## 1. Hook
 
-Some words in this lesson are as old as the Veda. One is younger than the radio. By the
-end of today you will not be able to tell them apart by *feel* — they all run smoothly in
-a Sanskrit sentence — and you will not need to, because you will know which is which by
-*fact*. Today the courtesy kit completes: thank you, please, forgive me, no, sir,
+Some words in this lesson are as old as the Veda. One is an attested old word doing a
+modern job. By the end of today you will not be able to tell them apart by *feel* — they
+all run smoothly in a Sanskrit sentence — and you will not need to, because you will know
+which is which by *fact*. Today the courtesy kit completes: thank you, please, forgive me, no, sir,
 farewell, see you again. Every word taught proudly. Every word labeled truthfully. That
 double act is this volume's signature move, and this is its hardest, best lesson.
 
@@ -63,12 +63,12 @@ double act is this volume's signature move, and this is its hardest, best lesson
 |---|---|---|
 | 1 | Thank, apologize and take leave — with the correct label on each word. | धन्यवाद, क्षमा और विदाई — हर शब्द पर सही लेबल के साथ। |
 | 2 | Use न in pause form (न अस्ति, न कुशलम्) and explain the नास्ति preview. | न से निषेध करें और नास्ति की झलक समझाएँ। |
-| 3 | Address respectfully with श्रीमान्; reply to thanks/apology with भद्रम्. | श्रीमान् से सम्बोधन; उत्तर में भद्रम्। |
+| 3 | Address respectfully with श्रीमन्, the calling shape of श्रीमान्; reply to thanks/apology with भद्रम्. | श्रीमन् से सम्बोधन; उत्तर में भद्रम्। |
 | 4 | Recite the chapter's label table from memory. | लेबल-तालिका स्मृति से बताएँ। |
 
-Objective 1 is built in §8 and tested in §18 (exercises 1, 3, 4) and §19 (Q1–3, Q7);
-objective 2 in §8/§15, §18 (exercise 5), §19 (Q4–5); objective 3 in §8, §16, §19 (Q6);
-objective 4 in §15, §18 (exercise 6), §19 (Q8) — and again in lesson 5's task D.
+Objective 1 is built in §8 and tested in §18 (exercises 1, 3, 5) and §19 (Q1–3, Q7);
+objective 2 in §8/§15, §18 (exercise 4), §19 (Q4–5); objective 3 in §8, §15, §16, §19 (Q2, Q6);
+objective 4 in §15, §18 (exercises 2, 6), §19 (Q1, Q7) — and again in lesson 5's task D.
 
 ## 3. Previous Lesson Review
 
@@ -79,7 +79,7 @@ objective 4 in §15, §18 (exercise 6), §19 (Q8) — and again in lesson 5's ta
 3. From lesson 2: the wellness exchange, both halves — and the safe answer that works
    for every speaker.
 4. From lesson 1: the classical farewell word, and the courtesy chunk built on भद्रम्.
-5. Held open since lesson 1: भोः! — what does it do, and to whom may you say it?
+5. From lesson 1: भोः! — what does it do, and where does it stand?
 
 <details><summary>उत्तराणि · Answers</summary>
 
@@ -91,8 +91,8 @@ objective 4 in §15, §18 (exercise 6), §19 (Q8) — and again in lesson 5's ta
 3. अपि कुशलम्? — कुशलम्! / सर्वम् कुशलम्! — the neuter answer is everyone's safe form.
 4. स्वस्ति — classical, Vedic onward; भद्रम् ते "blessings on you", the epic courtesy
    chunk.
-5. The classical address particle — "O!, hey" — said to anyone you may hail; it opens a
-   turn, it never closes one.
+5. The classical address particle — "O!, hey" — it stands before
+   the one called (भोः राम!), and alone it is a complete "hey there!"
 </details>
 
 ## 4. Historical Context
@@ -101,8 +101,8 @@ objective 4 in §15, §18 (exercise 6), §19 (Q8) — and again in lesson 5's ta
 
 Here is an honest surprise: classical Sanskrit literature, for all its politeness, does
 not run on a single all-purpose "thank you". Gratitude was spoken through its occasions —
-blessings returned, favor acknowledged, the giver praised. One classical formula survives
-in daily use among paṇḍits to this day: अनुगृहीतः अस्मि "I am obliged, favored" — you
+blessings returned, favor acknowledged, the giver praised. One classical formula is still
+heard in formal Sanskrit today: अनुगृहीतः अस्मि "I am obliged, favored" — you
 will meet it below as a display. The everyday one-word thanks that modern spoken Sanskrit
 uses — धन्यवादः — is built from fully classical parts and is attested as a word, but its
 career as the standing reply to every kindness is a **modern convention** of the living
@@ -137,8 +137,8 @@ what it negates), and the smallest one this volume will teach for a while.
 
 संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit.
 
-धन्यवादः, श्रीमान्!
-(dhanyavādaḥ, śrīmān!) "Thank you, sir!" — धन्यवाद, श्रीमान्!
+धन्यवादः, श्रीमन्!
+(dhanyavādaḥ, śrīman!) "Thank you, sir!" — धन्यवाद, श्रीमान्!
 
 क्षमस्व! — भद्रम्, भद्रम्!
 (kṣamasva! — bhadram, bhadram!) "Forgive me! — It's fine, all is well!" — क्षमा करें! —
@@ -155,7 +155,7 @@ whole — "we meet" — like every verb so far; its machinery is Volume 2's late
 
 हिन्दी व्याख्या
 
-आज का पाठ आपकी हिन्दी के सबसे नज़दीक बैठता है — और ठीक इसीलिए सबसे सावधानी माँगता है।
+आज का पाठ आपकी हिन्दी के सबसे नज़दीक बैठता है — और ठीक इसीलिए सबसे अधिक सावधानी माँगता है।
 
 पहली बात: धन्यवाद और कृपया आपकी रोज़ की हिन्दी हैं — और दोनों संस्कृत में भी ठीक वैसे ही
 चलते हैं: धन्यवादः, कृपया। पर आज की असली सीख उच्चारण नहीं, **लेबल** है। धन्यवादः शब्द
@@ -208,16 +208,16 @@ no conjugation talk, just the word, entire, at the moment of need. [REF:apte1890
 
 **न** (na) "not" — the plain classical negative, and it obeys one placement rule:
 **न stands before what it negates.** न अस्ति "(it) is not"; न कुशलम् "not well";
-न, श्रीमान् "no, sir". In connected speech and writing न + अस्ति fuse into नास्ति —
+न, श्रीमन् "no, sir". In connected speech and writing न + अस्ति fuse into नास्ति —
 you have seen that word inside Hindi नास्तिक "unbeliever, the one who says नास्ति".
 Today read the pause form न अस्ति; recognize नास्ति as its joined preview (Volume 3).
 
 ### Sir — the classical honorific
 
 **श्रीमान्** (śrīmān) "sir; possessed of śrī" — the classical honorific built on श्री
-(v1.c05.l03), still the standard respectful address (and modern Hindi's श्रीमान् too).
-Use it with भवान्-level respect: धन्यवादः, श्रीमान्! It ends in the bare न् — Law 5 on
-duty since Chapter 5.
+(v1.c05.l03). In direct address it takes its calling shape **श्रीमन्** (śrīman), §15 —
+where Hindi addresses with श्रीमान् itself — and carries भवान्-level respect:
+धन्यवादः, श्रीमन्! Both shapes end in the bare न् — Law 5 on duty since Chapter 5.
 
 ### Farewell — one foot in the Veda, one in the present
 
@@ -258,15 +258,15 @@ the recording once, labeled, so your ear files the preview.
 
 No new values. **Word transcriptions:** धन्यवादः /d̪ʱɐn̪jɐʋɑːd̪ɐh/ · कृपया /kr̩pɐjɑː/ ·
 कृपा /kr̩pɑː/ · क्षमस्व /kʂɐmɐsʋɐ/ · न /n̪ɐ/ · श्रीमान् /ɕɾiːmɑːn̪/ · पुनः /pun̪ɐh/ ·
-मिलामः /milɑːmɐh/ · धन्यः /d̪ʱɐn̪jɐh/.
+मिलामः /milɑːmɐh/ · धन्यः /d̪ʱɐn̪jɐh/ · श्रीमन् /ɕɾiːmɐn̪/.
 
 **Narrow notes:** धन्यवादः carries two traps in one word — the breathy onset [d̪ʱ] and
 the न्य weld [n̪j]; say dha-nya slowly before speeding. क्षमस्व ends on the स्व cluster
 [sʋ] — one onset, no vowel inside, exactly as in स्वस्ति and स्वागतम्. कृपया begins on
-the syllabic vowel [kr̩] — the ऋ of संस्कृतम्, not "kri" or "kru". श्रीमान् ends on the
-dental nasal [n̪] held closed — no echo vowel. And पुनः ends on the visarga [h] — in
-pause form it stays a breath; the r it becomes in पुनर्मिलामः is the preview, not
-today's reading.
+the syllabic vowel [kr̩] — the ऋ of संस्कृतम्, not "kri" or "kru". श्रीमान् and its
+calling shape श्रीमन् end on the dental nasal [n̪] held closed — no echo vowel. And पुनः
+ends on the visarga [h] — in pause form it stays a breath; the r it becomes in
+पुनर्मिलामः is the preview, not today's reading.
 
 ## 11. Mouth Position
 
@@ -296,7 +296,7 @@ today's reading.
 4. **न after its word.** "कुशलम् न" on the Hindi pattern. *Fix:* the chant (§9 drill 3)
    — न stands before what it negates: न कुशलम्.
 5. **कृपया sprinkled everywhere.** English "please"-habit transplanted. *Fix:* one
-   honest line — Sanskrit courtesy lives mostly in address (श्रीमान्, भवान्) and tone;
+   honest line — Sanskrit courtesy lives mostly in address (श्रीमन्, भवान्) and tone;
    कृपया is available, labeled, and best used sparingly.
 6. **The farewell halves swapped in the label sort.** स्वस्ति tagged modern, पुनः
    मिलामः tagged Vedic. *Fix:* §15's table, recited — the blessing is ancient, the
@@ -331,15 +331,16 @@ are — by etymology — calling your benefactor blessed.
 
 **स्वस्ति** (svasti) "well-being; farewell" — कल्याण हो · /sʋɐst̪i/
 
-> **[FACT · तथ्यम्]** स्वस्ति is transparent Sanskrit: सु "well" + अस्ति "it is" —
-> "it is well" — attested from the Ṛgveda onward as blessing and salutation. The
-> everyday svastika sign takes its name from this word ("mark of well-being") — a fact
-> of etymology; the sign's later history in Europe is a separate, modern story.
+> **[FACT · तथ्यम्]** स्वस्ति is transparent Sanskrit: सु "well" + the root अस् "be",
+> the root of अस्ति — "well-being" — attested from the Ṛgveda onward as blessing and
+> salutation. The everyday svastika sign takes its name from this word ("mark of
+> well-being") — a fact of etymology; the sign's later history in Europe is a separate,
+> modern story.
 > [REF:monierwilliams1899 s.v. svasti]
 
 ## 14. Vocabulary
 
-शब्दावली — nine headwords, all new to the ledger, taking it from 251 to 260. No 🔊
+शब्दावली — nine headwords, all new to the ledger, taking it from 249 to 258. No 🔊
 loans. Audio: 🔊 `planned:assets/audio/volume-2/v2c01l04-word-list.mp3` (each word
 twice, plus the dictation track).
 
@@ -351,7 +352,7 @@ twice, plus the dictation track).
 | कृपया | kṛpayā | /kr̩pɐjɑː/ | please | कृपया | modern convention shared with Hindi (§8); use sparingly (§12) |
 | क्षमस्व | kṣamasva | /kʂɐmɐsʋɐ/ | forgive (me) | क्षमा करो/करें | classical imperative chunk, taught whole — the पश्य precedent (§8) |
 | न | na | /n̪ɐ/ | not, no | नहीं, न | stands BEFORE what it negates (§8, §15); नास्ति preview (§13) |
-| श्रीमान् | śrīmān | /ɕɾiːmɑːn̪/ | sir (honorific) | श्रीमान् | classical honorific on श्री (§8); bare final न् |
+| श्रीमान् | śrīmān | /ɕɾiːmɑːn̪/ | sir (honorific) | श्रीमान् | classical honorific on श्री (§8); addressed in its calling shape श्रीमन् (śrīman), §15; bare final न् |
 | पुनः | punaḥ | /pun̪ɐh/ | again | फिर, पुनः | classical adverb; पुनर्- in joins (preview) |
 | मिलामः | milāmaḥ | /milɑːmɐh/ | we meet | (हम) मिलते हैं | whole-word gloss; the chunk पुनः मिलामः is a modern formula, labeled (§8) |
 
@@ -367,17 +368,18 @@ not as list items.
 
 > **[FACT · तथ्यम्]** न negates what follows it: न अस्ति "(it) is not", न कुशलम् "not
 > well", न बालकः "not a boy". In pause form the two words stand apart; connected
-> language fuses न + अस्ति into नास्ति (vowel sandhi — Volume 3). This is the volume's
-> first syntax rule proper, and it is one line long. [REF:apte1890 s.v. न]
+> language fuses न + अस्ति into नास्ति (vowel sandhi — Volume 3).
+> [REF:apte1890 s.v. न]
 
 ### The keystone: the chapter's label table
 
 > **[FACT · तथ्यम्]** Classical idiom (attested use in classical/Vedic language):
-> नमस्ते and नमस्कारः (formation and greeting-use both old) · स्वागतम् · स्वस्ति ·
-> भद्रम् ते · क्षमस्व · the कुशल-exchange · भोः · श्रीमान् · पुनः (the adverb).
+> नमस्ते and नमस्कारः, classical formations whose all-purpose everyday use is the living
+> convention · स्वागतम् · स्वस्ति · भद्रम् ते · क्षमस्व · the कुशल-exchange · भोः · श्रीमान् ·
+> the adverb पुनः.
 > **Modern spoken convention (word or use):** धन्यवादः as everyday thanks · कृपया as
-> "please" · सुप्रभातम् as a morning greeting (the word itself classical) ·
-> शुभरात्रिः · the पुनः मिलामः farewell formula. Every row is a word the course
+> "please" (the form itself classical, "with compassion", §8) · सुप्रभातम् as a morning
+> greeting (the word itself classical) · शुभरात्रिः · the पुनः मिलामः farewell formula. Every row is a word the course
 > teaches for real use; the label states what the evidence supports — nothing more,
 > nothing less. [REF:monierwilliams1899]; [REF:apte1890]
 
@@ -386,9 +388,12 @@ grammar — the grammar of honesty.
 
 ### Address forms, used whole
 
-श्रीमान् and भोः are used today as fixed address chunks (भोः! श्रीमान्!) — the calling
-forms of nouns (सम्बोधन) are a real system, and it arrives with the case machinery in
-Volume 3. Until then: the chunks, whole, exactly as names have been used all course.
+भोः and श्रीमन् are used today as fixed address chunks (भोः! श्रीमन्!). श्रीमान् is the
+naming shape — the honored one spoken *about*; spoken *to*, the word takes its calling
+shape श्रीमन्, just as भगवान् is called भगवन् and lesson 1's रामः is called राम. Hindi
+addresses with श्रीमान् itself; Sanskrit does not. The calling forms of nouns (सम्बोधन)
+are a real system, and it arrives with the case machinery in Volume 3. Until then: the
+calling shapes, whole, exactly as lesson 1 taught राम and आचार्य (v2.c01.l01 §15).
 
 ## 16. Conversation
 
@@ -398,18 +403,18 @@ tracks).
 
 ### Scene 1 — the dropped book
 
-— भोः! एतत् पुस्तकम् तत्र!
-(bhoḥ! etat pustakam tatra!) "Hey — the book, there!" — अरे! वह पुस्तक वहाँ!
+— भोः! तत् पुस्तकम् तत्र!
+(bhoḥ! tat pustakam tatra!) "Hey — that book, there!" — अरे! वह पुस्तक वहाँ!
 
-— क्षमस्व, श्रीमान्!
-(kṣamasva, śrīmān!) "Forgive me, sir!" — क्षमा करें, श्रीमान्!
+— क्षमस्व, श्रीमन्!
+(kṣamasva, śrīman!) "Forgive me, sir!" — क्षमा करें, श्रीमान्!
 
 — भद्रम्, भद्रम्! एतत् तव पुस्तकम्।
 (bhadram, bhadram! etat tava pustakam.) "It's fine! Here is your book." — कोई बात नहीं!
 यह तुम्हारी पुस्तक।
 
-— धन्यवादः, श्रीमान्!
-(dhanyavādaḥ, śrīmān!) "Thank you, sir!" — धन्यवाद, श्रीमान्!
+— धन्यवादः, श्रीमन्!
+(dhanyavādaḥ, śrīman!) "Thank you, sir!" — धन्यवाद, श्रीमान्!
 
 ### Scene 2 — the parting
 
@@ -442,8 +447,8 @@ does its everyday job — "quite, indeed". And hear the labels working in one sc
 1. सायम् अस्ति। छात्राः चलन्ति।
    (sāyam asti. chātrāḥ calanti.) "It is evening. The students are leaving." — शाम है।
    छात्र चल पड़े हैं।
-2. बालकः वदति — श्रीमान्! धन्यवादः!
-   (bālakaḥ vadati — śrīmān! dhanyavādaḥ!) "The boy says: Sir — thank you!" — बालक कहता
+2. बालकः वदति — श्रीमन्! धन्यवादः!
+   (bālakaḥ vadati — śrīman! dhanyavādaḥ!) "The boy says: Sir — thank you!" — बालक कहता
    है — श्रीमान्! धन्यवाद!
 3. आचार्यः वदति — भद्रम्! त्वम् धन्यः छात्रः!
    (ācāryaḥ vadati — bhadram! tvam dhanyaḥ chātraḥ!) "The teacher says: Bless you — you
@@ -475,8 +480,8 @@ word, correct label in mind.
 **अभ्यासः 2 · लेबल-विभागः (sort the kit — written).** Two columns on paper: शास्त्रीय ·
 आधुनिक. Sort from memory: धन्यवादः (as thanks) · स्वस्ति · कृपया · क्षमस्व · सुप्रभातम्
 (as greeting) · भद्रम् ते · पुनः मिलामः · श्रीमान्. Check against §15's table; note the
-two rows where a classical *word* carries a modern *use* — those are the both-things-true
-cases.
+rows where a classical *word* carries a modern *use* — those are the both-things-true
+cases; count them before you check (§7, §8).
 
 **अभ्यासः 3 · अभिनयः (the scenes — production).** Perform §16's two scenes with a
 partner from role cards ✍ (`planned:assets/worksheets/volume-2/v2c01l04-roleplay.pdf`),
@@ -485,13 +490,13 @@ speed.
 
 **अभ्यासः 4 · निषेध-अभ्यासः (negation drill — production).** Turn each into its negation
 aloud and in writing: अस्ति → न अस्ति · कुशलम् → न कुशलम् · एतत् मम पुस्तकम् → एतत् मम
-पुस्तकम् न (careful — where does न go? Fix it: एतत् मम पुस्तकम् न अस्ति। or न, एतत् मम
-पुस्तकम् न।) · अहम् छात्रः → न, अहम् आचार्यः! Then read Hindi नास्तिक aloud and explain
+पुस्तकम् न (careful — where does न go? Fix it: एतत् मम पुस्तकम् न अस्ति। or न, एतत् न मम
+पुस्तकम्।) · अहम् छात्रः → न, अहम् आचार्यः! Then read Hindi नास्तिक aloud and explain
 its Sanskrit insides to yourself in one line.
 
 **अभ्यासः 5 · श्रुतलेखनम् (dictation — production).** The dictation track 🔊: eight of
 today's words in random order, twice each; then one full exchange line — क्षमस्व,
-श्रीमान्! — भद्रम्! Write in Devanagari; every visarga present, every cluster welded.
+श्रीमन्! — भद्रम्! Write in Devanagari; every visarga present, every cluster welded.
 7/8 + line intact is a pass; re-take tomorrow (§20).
 
 **अभ्यासः 6 · तालिका-पाठः (the keystone recital).** Recite §15's label table from
@@ -506,7 +511,7 @@ The teach-back is lesson 5's task D in rehearsal.
 1. धन्यवादः is: (a) the standard classical thank-you, used since the Veda (b) an
    attested compound whose everyday-thanks use is modern spoken convention (c) a Hindi
    loanword into Sanskrit (d) unattested
-2. The classical reply to thanks or apology taught today is: (a) कृपया (b) भद्रम् (c)
+2. The reply to thanks or apology taught today is: (a) कृपया (b) भद्रम् (c)
    नास्ति (d) पुनः
 3. क्षमस्व is: (a) a modern coinage (b) a classical form of √क्षम्, taught as a whole
    chunk (c) the noun "forgiveness" (d) a question word
@@ -514,7 +519,7 @@ The teach-back is lesson 5's task D in rehearsal.
    नास्ति
 5. नास्ति is: (a) a different word from न अस्ति (b) the sandhi-joined form of न +
    अस्ति — previewed today, taught in Volume 3 (c) wrong Sanskrit (d) a noun
-6. The respectful address to a man taught today: (a) भोः only (b) श्रीमान् (c) त्वम्
+6. The respectful address to a man taught today: (a) भोः only (b) श्रीमन् (c) त्वम्
    (d) बालकः
 7. In the farewell pair स्वस्ति! पुनः मिलामः!: (a) both are Vedic (b) both are modern
    (c) स्वस्ति is classical idiom; the पुनः मिलामः formula is modern spoken convention
@@ -529,10 +534,13 @@ The teach-back is lesson 5's task D in rehearsal.
 3. (b) — classical chunk, whole, the पश्य precedent (§8). ((c) is क्षमा.)
 4. (b) न कुशलम् — न stands before what it negates (§15). ((a) is §12's mistake 4.)
 5. (b) — the preview, honestly labeled (§13, §15).
-6. (b) श्रीमान् (§8). (भोः hails; it does not honor.)
+6. (b) श्रीमन् — श्रीमान् in its calling shape (§8, §15). (भोः hails; it does not honor.)
 7. (c) — one foot in the Veda, one in the present (§8, §15).
 8. (a) कृपा = "compassion"; (b) धन्यः = "blessed, fortunate"; (c) पुनः = "again";
    (d) न अस्ति = "(it) is not" (§14, §15).
+
+**Exercise keys.** Exercise 2: the both-things-true rows are धन्यवादः, सुप्रभातम् and
+कृपया — see §7, §8, §15.
 </details>
 
 ## 20. Revision
@@ -544,14 +552,14 @@ The teach-back is lesson 5's task D in rehearsal.
 > classical — स्वस्ति, भद्रम् ते, क्षमस्व, श्रीमान्, भोः, the कुशल-exchange; modern —
 > धन्यवादः-as-thanks, कृपया, सुप्रभातम्-as-greeting, शुभरात्रिः, पुनः मिलामः. **The
 > previews:** नास्ति, पुनर्मिलामः, अनुगृहीतोऽस्मि — seams noticed, system in Volume 3.
-> **The words:** nine — the ledger at 260. **The keystone:** §15's table; the exam
+> **The words:** nine — the ledger at 258. **The keystone:** §15's table; the exam
 > sorts by it.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-run the reflex pairs (exercise 1) cold; re-take the dictation; sort
   the label columns once from memory.
-- **In 1 week:** lesson 5 is the Courtesy Exam — task C's roleplay ladder is §16 at
+- **Next lesson:** lesson 5 is the Courtesy Exam — task C's roleplay ladder is §16 at
   full speed, and task D is §15's table in card form.
 - **From now on:** end every study session in Sanskrit: स्वस्ति! पुनः मिलामः! — the
   habit is the curriculum.
@@ -609,12 +617,14 @@ keystone)**
 
 > Clean two-column reference card, warm off-white, Noto Serif Devanagari, two colors,
 > monochrome-safe. Header: शिष्टाचारः — the courtesy kit, labeled honestly. Left column
-> "शास्त्रीय · classical idiom": नमस्ते, नमस्कारः, स्वागतम्, स्वस्ति, भद्रम् ते,
+> "शास्त्रीय · classical idiom": नमस्ते and नमस्कारः under one small chip "formation
+> classical · everyday use living", स्वागतम्, स्वस्ति, भद्रम् ते,
 > क्षमस्व, अपि कुशलम्?, भोः, श्रीमान्, पुनः — each with a tiny scroll icon. Right
 > column "आधुनिक व्यवहार · modern convention": धन्यवादः (as thanks), कृपया,
 > सुप्रभातम् (as greeting), शुभरात्रिः, पुनः मिलामः — each with a tiny speech-bubble
-> icon. Center strip, bridging both: the both-things-true chip — "सुप्रभातम्: word
-> classical · greeting modern" and "धन्यवादः: word attested · use modern". Footer
+> icon. Center strip, bridging both: the both-things-true chips — "सुप्रभातम्: word
+> classical · greeting modern", "धन्यवादः: word attested · use modern" and "कृपया: form
+> classical · please-use modern". Footer
 > chant: "taught proudly · labeled truthfully". This card must match l04 §15 and feed
 > l05 task D exactly.
 
@@ -636,8 +646,8 @@ Lesson video, ~6 min, presenter + motion graphics.
    speech bubble). Caption: "Both real. Both yours. One label apart." Title:
    शिष्टाचारः — Courtesy & Farewell.
 2. **The thank-you story (0:35–2:00):** §4 animated — classical gratitude as scenes
-   (a blessing returned, a giver praised), then the modern convenience arriving by
-   radio-era microphone; धन्यवादः unpacked into धन्यः + वादः, "calling the giver
+   (a blessing returned, a giver praised), then the modern convenience arriving in
+   a present-day classroom; धन्यवादः unpacked into धन्यः + वादः, "calling the giver
    blessed."
 3. **The reflex pairs (2:00–3:20):** rapid-fire stimulus/reply animations — book handed
    → धन्यवादः! → भद्रम्!; bump → क्षमस्व! → भद्रम्, भद्रम्! A metronome ticks; replies
@@ -660,7 +670,7 @@ narrator reads them as IPA, not as English spelling.
   real. Both yours. One label apart.
 - **00:35** Here is the honest history: classical Sanskrit had no single all-purpose
   thank-you. Gratitude praised the giver — dhanyaḥ [d̪ʱɐn̪jɐh], "blessed!" — and the
-  living language later folded that praise into one convenient word. dhanyavādaḥ: "a
+  living language later gave one attested word that everyday job. dhanyavādaḥ: "a
   saying of 'blessed'". Attested word. Modern habit. Say both truths in one breath.
 - **02:00** Courtesy is a reflex, so we drill it like one. Someone hands you a book —
   dhanyavādaḥ! They thank you — bhadram [bʱɐd̪ɾɐm]! You bump the desk — kṣamasva
@@ -679,7 +689,7 @@ narrator reads them as IPA, not as English spelling.
 40–50 seconds, vertical, captions burned in.
 
 - **Hook (0:00–0:07):** split screen — a palm-leaf manuscript and a chai stall.
-  "One of these Sanskrit words is Vedic. The other is younger than the radio."
+  "One of these Sanskrit words is Vedic. The other is an old word with a modern job."
 - **Demo (0:07–0:30):** स्वस्ति stamps onto the manuscript — "farewell-blessing, Ṛgveda
   onward." धन्यवादः stamps onto the chai stall — "today's thank-you: real word, modern
   habit." Quick-fire reflex pairs: क्षमस्व! → भद्रम्! Bonus beat: नास्तिक splits open —
@@ -716,7 +726,7 @@ narrator reads them as IPA, not as English spelling.
   §13) against [REF:monierwilliams1899 s.v. dhanyavāda] — the label is the finding;
   क्षमस्व form (§8) against [REF:apte1890 s.v. क्षम्] — chunk policy, no paradigm
   claims; नास्तिक/आस्तिक etymology (§13) against [REF:apte1890 s.v. नास्तिक]; स्वस्ति
-  = सु + अस्ति and Vedic attestation (§13) against [REF:monierwilliams1899 s.v.
+  = सु + √अस् and Vedic attestation (§13) against [REF:monierwilliams1899 s.v.
   svasti] — the svastika note kept to one etymological line with the modern-history
   firewall; कृपया label (§8) — modern convention statement, no classical-usage claim
   made; न placement rule (§15) against [REF:apte1890 s.v. न] — stated at

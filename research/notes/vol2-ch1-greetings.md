@@ -48,7 +48,7 @@ classical wellness exchange (0.9); कथम् as question word beside कः/�
 
 ## 3. L3 — दिनयात्रा: greetings through the day (vocabulary type)
 
-**New (attested):** प्रभातम् (prabhātam) "dawn, morning"; दिनम् (dinam) "day";
+**New (attested):** प्रभातम् (prabhātam) "dawn, morning"; दिनम् (dinam) "day" — दिन ✓ v1.c03.l04, upgrade, not ledger-new (corrected at audit);
 सायम् (sāyam) "evening"; रात्रिः (rātriḥ) "night" (र ा त ् र ि ः — त्र ✓);
 सुप्रभातम् (0.4, modern label + the classical genre note); शुभरात्रिः (modern label);
 शुभम् (śubham) as freestanding wish "may it be well" (शुभ ✓ v1.c04.l02). Cognate shelf:

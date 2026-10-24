@@ -20,7 +20,7 @@ objectives:
     hi: "इशारे की तिकड़ी से — एषः मम पिता। एषा मम माता। एतत् मम गृहम् — अपने परिवार का सदस्य-दर-सदस्य परिचय दें, इशारा व्यक्ति से मिलाकर।"
   - en: "Ask and answer the family questions — तव पिता कः? एषा का? — with lesson 1's family set in the answers."
     hi: "परिवार-प्रश्न पूछें और उत्तर दें — तव पिता कः? एषा का? — उत्तरों में पाठ 1 का परिवार-कोश बरतते हुए।"
-  - en: "State the kinship-cognate facts with the direction honest — माता, māter and mother are siblings from one reconstructed ancestor — and tell a cognate from a loan (धर्म and कर्म were loans)."
+  - en: "State the kinship-cognate facts with the direction honest — माता, māter and mother are siblings from one reconstructed ancestor — and tell a cognate from a loan (English dharma and karma were loans from Sanskrit)."
     hi: "नातेदारी-सजातों का तथ्य सही दिशा के साथ बताएँ — माता, māter और mother एक पुनर्निर्मित पूर्वज की सन्तानें हैं — और सजात को उधार से अलग पहचानें (धर्म-कर्म उधार गए थे)।"
   - en: "Read the lesson's three new words — एषः, एषा, कुटुम्बम् — and perform the two scenes in pause form."
     hi: "पाठ के तीन नए शब्द — एषः, एषा, कुटुम्बम् — पढ़ें और दोनों दृश्य विराम-रूप में प्रस्तुत करें।"
@@ -85,7 +85,7 @@ lesson 5's tasks C and D.
 
 <details><summary>उत्तराणि · Answers</summary>
 
-1. परिवारः — पिता, माता, भ्राता, भगिनी, पुत्रः, पुत्री, दुहिता — and गृहम् "house".
+1. परिवारः — माता, पिता, भ्राता, भगिनी, पुत्रः, पुत्री, then दुहिता, स्वसा — and गृहम् "house".
 2. मम पिता अत्र अस्ति। — मम माता अत्र अस्ति।
 3. कः for masculine ः-words (रामः), का for feminine words in -आ (सीता), किम् for
    म्-words and things (जलम्).
@@ -114,8 +114,9 @@ tradition's most quoted lines:
 > **[TRADITION · परम्परा]** The Hitopadeśa (Mitralābha, verse 71 in common editions;
 > the line also appears in the Mahopaniṣad) says of the generous-hearted: वसुधैव
 > कुटुम्बकम् (vasudhaiva kuṭumbakam) — "the earth itself is one household." A statement
-> of the tradition's ideal, quoted for the word inside it. [REF:hitopadesha
-> mitralābha 71]
+> of the tradition's ideal, quoted for the word inside it. (In the Hitopadeśa's tale
+> the line is spoken by a scheming jackal; the Mahopaniṣad states it as plain
+> teaching.) [REF:hitopadesha mitralābha 71]
 
 Hold that line until §16 — the आचार्यः has plans for it.
 
@@ -312,8 +313,8 @@ end in syllabic [r̩] — मातृ [mɑːt̪r̩], the ऋ of संस्क
 
 उदाहरणानि — the volume's flagship: the kinship cognate shelf.
 
-Lesson 1 opened one line of it: माता beside *mother*. Here is the whole shelf — five
-words your family carries, set beside their cousins:
+Lesson 1 opened two lines of it: माता beside *mother*, दुहिता beside *daughter*. Here
+is the whole shelf — five words your family carries, set beside their cousins:
 
 | Sanskrit stem | in your sentences | a classical cousin | English |
 |---|---|---|---|
@@ -324,10 +325,10 @@ words your family carries, set beside their cousins:
 | स्वसृ (svasṛ) | स्वसा | Latin soror | sister |
 
 The dictionaries list these words by stem (मातृ, पितृ…); in your sentences they stand
-as माता, पिता, भ्राता, दुहिता, स्वसा. Two of the five are quiet guests: दुहिता is
-lesson 1's cognate carrier beside everyday पुत्री, and **स्वसा** (svasā) "sister" — the
-older, Vedic-flavored sibling of your working word भगिनी — appears here for the shelf
-and stays off the ledger: display only, read it and let it point.
+as माता, पिता, भ्राता, दुहिता, स्वसा. Two of the five are lesson 1's heirloom carriers:
+दुहिता beside everyday पुत्री, and **स्वसा** (svasā) "sister" — the Vedic-flavored elder
+of your working word भगिनी — both on your ledger since lesson 1, back today to take
+their places on the shelf.
 
 > **[FACT · तथ्यम्]** मातृ, Latin māter and English *mother* descend in parallel from
 > one reconstructed Proto-Indo-European word — written in the field's notation as
@@ -343,8 +344,10 @@ and stays off the ledger: display only, read it and let it point.
 > receipt — you have owned both tools since v1.c01.l01. [REF:mallory2006];
 > [REF:burrow2001]
 
-One line of housekeeping with the past: the 1.x edition of this course called Sanskrit
-"the mother of all languages." The truth this shelf shows is different and — we think —
+One line of housekeeping with the past: the 1.x edition of this course printed three
+rows of this shelf as one-way arrows from Sanskrit to English (p.61: मातृ → Mother), as
+if English had come from Sanskrit — one step from the popular myth of Sanskrit as "the
+mother of all languages." The truth this shelf shows is different and — we think —
 better: Sanskrit is the *eldest sister we can still hear at full voice*, standing
 beside Latin and Greek, all daughters of one reconstructed ancestor. And the shelf is
 not done: next lesson अग्निः meets Latin *ignis* — same shelf, new row. The wall chart
@@ -354,8 +357,9 @@ daughter columns**. Sisters do not descend from each other.
 
 ## 14. Vocabulary
 
-शब्दावली — three headwords; the readable ledger moves from 267 to **270**. स्वसा and
-तस्याः appear above as display only, off the ledger. No 🔊 loans. Audio: 🔊
+शब्दावली — three headwords; the readable ledger moves from 267 to **270**. तस्याः
+appears above as display only, off the ledger; स्वसा on the shelf is lesson 1's
+headword, already counted. No 🔊 loans. Audio: 🔊
 `planned:assets/audio/volume-2/v2c02l02-word-list.mp3` (each word twice, the full
 round, plus the dictation track).
 
@@ -389,8 +393,9 @@ then the audio — and the pointers practiced *pointing*, in the round and the v
 
 Boundary notes, honestly stated: मित्रम् routes people through a thing-word, so एतत्
 मित्रम् stays correct — the word decides there. And in connected texts you will meet
-एष रामः with no visarga — the seam changes shape exactly as पुनः did in पुनर्मिलामः;
-noticed, previewed, deferred (Volume 3). Your pause form today is एषः रामः।
+एष रामः with no visarga — the seam changes shape, as पुनः did in पुनर्मिलामः, though by
+a rule of its own (there the visarga turned into र्; here it simply drops); noticed,
+previewed, deferred (Volume 3). Your pause form today is एषः रामः।
 
 ### The possessive chunk family
 
@@ -400,7 +405,7 @@ read both, and the machinery behind the endings stays in Volume 3 where it belon
 
 ### Shapes observed, not yet taught
 
-Keep noticing what you have noticed since Chapter 3: ः-words mostly he (रामः, पुत्रः),
+Keep noticing what you have noticed since v1.c06.l02: ः-words mostly he (रामः, पुत्रः),
 आ/ई-words mostly she (माता, भगिनी, पुत्री), म्-words things (गृहम्, जलम्) — and today
 two honest exceptions on display: पिता and भ्राता, he-words in आ-clothing. The shapes
 hint; the person decides; the system is later business.
@@ -432,9 +437,9 @@ At माया's house. The door opens.
 — सीता: अर्जुनः! सः अपि छात्रः!
 (arjunaḥ! saḥ api chātraḥ!) "Arjuna! He's a student too!" — अर्जुन! वह भी छात्र है!
 
-— माया: आम्! एषा मम भगिनी — तस्याः नाम लीला।
-(ām! eṣā mama bhaginī — tasyāḥ nāma līlā.) "Yes! And this is my sister — her name is
-Līlā." — हाँ! और यह मेरी बहन है — इसका नाम लीला है।
+— माया: आम्! एषा मम भगिनी — तस्याः नाम कमला।
+(ām! eṣā mama bhaginī — tasyāḥ nāma kamalā.) "Yes! And this is my sister — her name is
+Kamalā." — हाँ! और यह मेरी बहन है — इसका नाम कमला है।
 
 ### Scene 2 — the आचार्यः asks around
 
@@ -462,8 +467,9 @@ Family-picture day at school: every student holds a drawing.
 (bhadram! etat api mama kuṭumbam!) "Well done! And this, too, is my household!" —
 शाबाश! और यह भी मेरा कुटुम्ब है!
 
-Housekeeping: लीला (līlā) is a name, new to the story, not to the grammar — names ride
-free. रामः's slip and self-repair *is* §12's mistake 2, staged and fixed. And the
+Housekeeping: कमला (kamalā) is the sister lesson 1 already gave Māyā — the cast holds
+steady. रामः's slip and self-repair is §12's mistake 2 run in reverse — a person-pointer
+on a thing — staged and fixed by that mistake's own rule: things keep एतत्. And the
 आचार्यः gets the last word by pointing एतत् at the class-as-household — वसुधैव
 कुटुम्बकम् (§4) scaled to one room.
 
@@ -617,7 +623,8 @@ row and let students call out the English column before you write it — the gas
 copied?" Someone will say English copied Sanskrit — §12's mistake 4 arriving on
 schedule. The correction is one warm sentence: siblings from one ancestor — nobody
 borrowed anybody's mother. If a student raises the old "mother of all languages" line,
-never mock it: name it as the 1.x framing, show what the evidence supports, and let
+never mock it: name it as a popular myth the 1.x arrow card leaned toward, show what
+the evidence supports, and let
 the eldest-sister image do the emotional work. The direction fact must leave the room
 feeling like a *gain*, not a demotion.
 
@@ -640,8 +647,9 @@ pointer drifting to एतत्-for-everything under pressure.
 
 **What students find hard:** producing एषः/एषा matched at speed (the volley cures
 it); believing the direction fact gladly rather than grudgingly (the eldest-sister
-frame and the karma-was-a-loan contrast both help); and remembering that स्वसा and
-तस्याः are display, not drill — keep them off any test you write.
+frame and the karma-was-a-loan contrast both help); and remembering that तस्याः is
+display, not drill — keep it off any test you write (स्वसा is lesson 1's heirloom
+headword: known and tested, not conversational).
 
 ## 23. AI Image Prompt
 
@@ -754,11 +762,11 @@ narrator reads them as IPA, not as English spelling.
     asset 2.
 - **Related lessons:** builds on v2.c02.l01 (the family set and frames; दुहिता and
   पुत्री; the माता/mother line grown here into the full shelf; कुटुम्बम् is the 1.x
-  p.42 salvage word beside lesson 1's Unit-13 set), v1.c06.l02 (question kit कः/का/
+  pp.47–48 salvage word beside lesson 1's Unit-13 set), v1.c06.l02 (question kit कः/का/
   किम्; एतत् and the pointing game; the मित्रम् boundary reused in §15/§16), v1.c06.l03
   (तस्य; अर्जुनः, folded into माया's family here), v1.c04.l02 (ष readable — एषः/एषा),
-  v1.c01.l01 (loan vs cognate first taught; §13 completes that arc), v2.c01.l04
-  (धन्यवादः, भोः, भद्रम् in the scenes); feeds v2.c02.l03 (अग्निः ~ ignis row;
+  v1.c01.l01 (loan vs cognate first taught; §13 completes that arc), v2.c01.l01
+  (भोः, भद्रम् in the scenes); feeds v2.c02.l03 (अग्निः ~ ignis row;
   world-scene sentences), v2.c02.l04 (कुत्र and च — the round meets location talk),
   v2.c02.l05 (task C = exercise 1 grown up; task D = §13's direction cards), Volume
   2's chapter 6 (cognate word-journeys reuse the wall chart), Volume 3 (the
@@ -776,15 +784,17 @@ narrator reads them as IPA, not as English spelling.
   re-hedge; एतद् shapes एषः/एषा/एतत् against [REF:apte1890 s.v. एतद्] — chunk framing,
   no paradigm claims; तस्याः form (display only); the एष visarga-seam preview (§15) —
   one line, no rule stated; बहन ← भगिनी descent (§7, §22) against [REF:masica1991];
-  Jones 1786 wording (§5) against [REF:mallory2006]; the 1.x "mother of all languages"
-  line appears only as a documented, corrected 1.x framing (§13) per the banned-claims
+  Jones 1786 wording (§5) against [REF:mallory2006]; the "mother of all languages"
+  myth appears only as a named, corrected misconception beside the 1.x p.61 arrow card
+  (§13) per the banned-claims
   rule — log as the IR-033 flagship fix delivered.
 - **Export notes:** Latin, Greek and PIE forms (māter, thygátēr, \*méh₂tēr) are not
   IAST — exclude from transliteration lints; answer keys stay inside `<details>` (§3,
   §19); the ___ blanks in §18 exercise 2 are intentional non-words; §13 and §15 tables
-  may scroll horizontally on mobile, never wrap cells; स्वसा and तस्याः are
-  display-only — exclude from ledger counts and auto-generated flashcard exports.
-- **Register audit:** FACT ×5 (§5 chunks ×1 · §8 कुटुम्ब gloss ×1 · §13 cognate shelf
+  may scroll horizontally on mobile, never wrap cells; तस्याः is
+  display-only — exclude it from ledger counts and auto-generated flashcard exports
+  (स्वसा on the shelf is a v2.c02.l01 ledger row, not display).
+- **Register audit:** FACT ×4 (§5 chunks ×1 · §13 cognate shelf
   + cognate-vs-loan ×2 · §15 pointing trio ×1) · HISTORY ×2 (§4 Ṛgveda kinship
   attestation · §5 Jones and PIE, both cited) · TRADITION ×1 (§4 वसुधैव कुटुम्बकम्,
   source-named with locus) · SYMBOL ×0 — quiz Q1–Q8 all FACT-register content taught

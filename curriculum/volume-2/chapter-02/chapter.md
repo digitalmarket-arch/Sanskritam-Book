@@ -19,7 +19,8 @@ Two vocabulary sets that every language teaches early — the family and the wor
 riding on them, the volume's flagship piece of honest history: the Indo-European kinship
 cognates. माता, पिता, भ्राता beside *mother, father, brother* and *māter, pater,
 frāter* — siblings from one ancestor, the strongest single case for shared descent, and
-the course's definitive correction of the 1.x "mother of all languages" framing. The
+the course's definitive correction of the "mother of all languages" myth — and of the 1.x
+book's one-way Sanskrit → English cognate arrows (p.61). The
 chapter also delivers च "and" (correcting the 1.x और gloss), the pointing pair एषः/एषा,
 कुत्र with its location Q&A, and the पञ्चतत्त्व register split — five ordinary words,
 one attributed doctrine. The chapter title itself carries the volume's next sandhi
@@ -41,16 +42,16 @@ By the end of this chapter the learner can:
 - [ ] Describe a simple scene (X अत्र अस्ति। Y तत्र। X Y च …) with the world set
 - [ ] Ask and answer कुत्र-questions; join words with च
 - [ ] State the kinship-cognate facts with correct direction (shared descent, no loans)
-- [ ] Read ~23 ledger-new words (≈283 cumulative) incl. पिता, भगिनी, नदी, आकाशः
+- [ ] Read 22 ledger-new words (282 cumulative) incl. भगिनी, दुहिता, वृक्षः, आकाशः
 - [ ] Pass the chapter assessment incl. the family-tree presentation
 
 ## Lessons
 
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
-| 1 | v2.c02.l01 | परिवारः — The Family | vocabulary | परिवारः पिता भ्राता भगिनी पुत्री दुहिता गृहम्; c01 Station 0 |
-| 2 | v2.c02.l02 | मम परिवारः — Introducing the Family | conversation | एषः एषा; intro frames; the kinship cognate shelf |
-| 3 | v2.c02.l03 | जगत् — The World Set | vocabulary | पृथिवी आकाशः नदी वृक्षः पुष्पम् समुद्रः तारा मेघः नगरम्; पञ्चतत्त्व split |
+| 1 | v2.c02.l01 | परिवारः — The Family | vocabulary | परिवारः भ्राता भगिनी पुत्री दुहिता स्वसा गृहम्; पिता to full duty; c01 Station 0 |
+| 2 | v2.c02.l02 | मम परिवारः — Introducing the Family | conversation | एषः एषा कुटुम्बम्; intro frames; the kinship cognate shelf |
+| 3 | v2.c02.l03 | जगत् — The World Set | vocabulary | पृथिवी आकाशः नदी वृक्षः पुष्पम् समुद्रः तारा मेघः नगरम् अग्निः; पञ्चतत्त्व split |
 | 4 | v2.c02.l04 | कुत्र? — Where Things Are | conversation | कुत्र; च (the और correction); location dialogues |
 | 5 | v2.c02.l05 | पुनरावृत्तिः — Family & World Exam | review | family-tree presentation; direction register cards |
 

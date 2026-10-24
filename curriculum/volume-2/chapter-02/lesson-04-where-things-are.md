@@ -49,7 +49,7 @@ updated: 2026-08-02
 ## 1. Hook
 
 Today's haul is two words, and one of them is a single letter. With the first you can ask where
-anything in your 280-word world is. With the second you can join any two things you own — mother
+anything in your 278-word world is. With the second you can join any two things you own — mother
 and father, river and tree, moon and star — using the same little connector Rome carved into its
 monuments, in the same odd position: *behind* the words it joins. Along the way this lesson
 repairs one old error kindly, keeps a promise made back in Volume 1, and finally lets you read
@@ -69,7 +69,7 @@ this chapter's own title out loud. Two words have rarely done so much work.
 Objective 1 is built in §8/§15 and tested in §18 (exercises 1, 6) and §19 (Q3, Q7, Q9);
 objective 2 in §8, §18 (exercises 2, 4), §19 (Q1–2, Q5–6); objective 3 in §8/§16, §18
 (exercises 3, 4), §19 (Q8); objective 4 in §13/§15, §18 (exercise 6), §19 (Q4) — and again in
-lesson 5's tasks D and E.
+lesson 5's Station 4 and quiz Q8.
 
 ## 3. Previous Lesson Review
 
@@ -127,7 +127,8 @@ its own language.
 > **[FACT · तथ्यम्]** च belongs to a class linguists call **enclitics** — from a Greek verb
 > meaning "to lean". An enclitic cannot begin a sentence; it has no accent of its own and
 > leans on the word before it. Sanskrit grammar treats च exactly so, and अपि in its "too" job
-> (X अपि) keeps the same manners. [REF:whitney1889]; [REF:monierwilliams1899 s.v. च]
+> (X अपि) shares the after-the-word placement, though, unlike च, it is not itself an enclitic.
+> [REF:whitney1889]; [REF:monierwilliams1899 s.v. च]; [REF:apte1890 s.v. अपि]
 
 The second science of the day is about tables. कुत्र is not an isolated word; it is a cell in
 a grid — the place-suffix -त्र on four stems: अ- "near me", त- "over there", य- "which
@@ -136,7 +137,7 @@ the same grid natively — यहाँ, वहाँ, जहाँ, कहा�
 daughter language [REF:masica1991]. Learning a cell in a table you already half-own is the
 cheapest vocabulary there is: function words learned inside frames stick as chunks
 [REF:nation2013], and every round of today's asking-and-pointing game is retrieval practice,
-the strongest rehearsal known [REF:roediger2006].
+a rehearsal shown to beat re-reading [REF:roediger2006].
 
 ## 6. Sanskrit Explanation
 
@@ -213,7 +214,7 @@ in Volume 1.
 
 ### च — the connector that walks behind
 
-**च** (ca) "and" is the smallest headword in the course — one akṣara, tying with न — and the
+**च** (ca) "and" is the smallest headword in the course — a single letter, tying with न — and the
 busiest. Its single rule: **च stands behind what it joins, never between.**
 
 रामः सीता च
@@ -251,8 +252,8 @@ joining system is Volume 3's subject; the full unpacking is in §13.
 ### The ledger
 
 The chapter entered at 260 readable words; three lessons of family and world have brought the
-ledger to 280. Today adds exactly two — कुत्र and च — for **282**. Smallest haul of the
-volume, largest reach: with these two, every word you own can now be asked about, found, and
+ledger to 278. Today adds exactly two — कुत्र and च — for **280**. Smallest haul of the
+volume so far, largest reach: with these two, every word you own can now be asked about, found, and
 joined to its neighbor.
 
 ## 9. Pronunciation
@@ -319,8 +320,8 @@ where/whence contrast hangs on that final beat.
    mouth. *Fix:* the correction, kindly: और is Hindi; Sanskrit's connector is च, and it
    follows — माता पिता च अत्र। (§4, §8).
 3. **कुत्र and कुतः merged.** Asking कुतः when you mean "where at". *Fix:* -त्र = place *at*,
-   -तः = place *from* (ततः "from there" has been yours since Volume 1); §9 drill 3 until the
-   final beat sorts them.
+   -तः = place *from* (ततः — literally "from there" — has been yours since Volume 1 as
+   "then"); §9 drill 3 until the final beat sorts them.
 4. **The dual temptation.** Reaching for a verb with joined subjects — सीता रामः च अत्र स्तः —
    because English says "are". स्तः "the two are" is real Sanskrit, but it is later machinery,
    and half-taught machinery breaks. *Fix:* today the verbless frame carries joined subjects:
@@ -344,8 +345,8 @@ where/whence contrast hangs on that final beat.
 > the same system. [REF:whitney1889]; [REF:masica1991]
 
 One suffix, four addresses — and your Hindi has been rehearsing the grid for you all along.
-Keep the from-family in view beside it: ततः "from there", कुतः "from where?" — the -तः row of
-the same table, met in Volume 1.
+Keep the from-family in view beside it: इतः "from here", कुतः "from where?" (and ततः, your
+Volume 1 "then", literally "from there") — the -तः row of the same table, met in Volume 1.
 
 ### च — the one-letter "and"
 
@@ -371,12 +372,12 @@ all, from one ancestor (§4).
 > न अस्ति stands beside नास्ति. [REF:whitney1889]
 
 So the chapter title परिवारः जगच्च (parivāraḥ jagacca) reads: "the family, and the world" —
-two nouns and one enclitic, wearing one seam. Three seams shown so far — नास्ति, पुनर्मिलामः,
-जगच्च — and you owe production of none of them yet. Noticing is today's whole duty.
+two nouns and one enclitic, wearing one seam. जगच्च joins the seams already noticed — नास्ति,
+पुनर्मिलामः, सत्यमेव and others — and you owe production of none of them yet. Noticing is today's whole duty.
 
 ## 14. Vocabulary
 
-शब्दावली — two headwords, both new to the ledger, taking it from 280 to 282. No 🔊 loans;
+शब्दावली — two headwords, both new to the ledger, taking it from 278 to 280. No 🔊 loans;
 both words read at sight. Audio: 🔊 `planned:assets/audio/volume-2/v2c02l04-word-list.mp3`
 (each word twice, kit recitals, dictation track).
 
@@ -400,7 +401,7 @@ memory.
 > sentence: रामः सीता च "Rāma and Sītā"; doubled, रामः च सीता च "both Rāma and Sītā". अपि in
 > its "too" job keeps the same manners (सीता अपि "Sītā too"). These little after-words are
 > classical Sanskrit's standing habit, shared with its Latin cousin *-que*.
-> [REF:apte1890 s.v. च]; [REF:monierwilliams1899 s.v. च]
+> [REF:apte1890 s.v. च]; [REF:monierwilliams1899 s.v. च]; [REF:apte1890 s.v. अपि]
 
 ### The question kit — complete
 
@@ -505,7 +506,7 @@ promised. The scenes are a game — play them as one.
    all is well!" — सब कहते हैं — परिवार और जगत् — सब ठीक!
 
 Two honest notes: वदन्ति "they say" is a plural verb glossed whole, as ever — its machinery is
-this volume's later business (सर्वे you have known since the maṅgala śloka). And line 6 is the
+Volume 3's business (सर्वे you have known since the maṅgala śloka). And line 6 is the
 chapter title spoken in pause form by its own cast — जगत् च today, जगच्च on the cover, one
 seam apart.
 
@@ -542,7 +543,7 @@ is a pass; re-take tomorrow (§20).
 **अभ्यासः 6 · किट-पाठः (the kit recital + teach-back).** Recite both completed kits from
 memory — अत्र तत्र यत्र कुत्र, then कः का किम् कुतः कथम् कुत्र — and teach someone the chapter
 title in two lines: what परिवारः जगच्च says, and what जगत् च is. The teach-back is lesson 5's
-tasks D and E in rehearsal.
+Station 4 and quiz Q8 in rehearsal.
 
 ## 19. Quiz
 
@@ -588,7 +589,7 @@ tasks D and E in rehearsal.
 > behind — रामः सीता च; doubled च…च = "both…and"; never sentence-first. **The correction:**
 > और is Hindi; Sanskrit's "and" is च. **The deferral:** joined subjects ride the verbless
 > frame — माता पिता च अत्र। **The preview:** जगत् + च = जगच्च; pause form जगत् च; system in
-> Volume 3. **The words:** two — the ledger at 282.
+> Volume 3. **The words:** two — the ledger at 280.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -682,11 +683,11 @@ Lesson video, ~6 min, presenter + motion graphics.
    अस्ति? मेघः कुत्र? — every answer a pointing hand and a तत्र/अत्र, level tune on every ask.
 4. **च and SPQR (2:50–4:10):** "रामः AND सीता" appears English-style; the च tries to sit in
    the middle and is walked, gently, to the back: रामः सीता च. Cut to a Roman inscription:
-   SENATUS POPULUSQUE ROMANUS, the -QUE glowing — "same ancestor, same seat, three thousand
-   years apart." The correction card: "और is Hindi — च is Sanskrit's own."
+   SENATUS POPULUSQUE ROMANUS, the -QUE glowing — "same ancestor, same seat." The correction
+   card: "और is Hindi — च is Sanskrit's own."
 5. **The title unlocks (4:10–5:15):** the chapter cover परिवारः जगच्च splits at the seam —
    जगत् + च — the त् morphing into च् as the halves rejoin; shelf shot: नास्ति, पुनर्मिलामः,
-   जगच्च — "three previews, zero obligations, Volume 3 is coming."
+   अनुगृहीतोऽस्मि, जगच्च — "previews on the shelf, zero obligations, Volume 3 is coming."
 6. **Recap + CTA (5:15–6:00):** the two-kits card assembles; माता पिता च अत्र। stamps
    verbless and proud. End card: "Next: पुनरावृत्तिः — the Family & World Exam. Bring your
    pointing finger."
@@ -724,7 +725,7 @@ narrator reads them as IPA, not as English spelling.
   for 'and' is one letter. And the old textbook taught the wrong word."
 - **Demo (0:07–0:30):** "रामः AND सीता?" — the च tries the middle seat, gets walked to the
   back: रामः सीता च — "'and' rides BEHIND." Smash cut to a Roman inscription, -QUE glowing:
-  "Rome's 'and' rode behind too. Same ancestor. Three thousand years." Quick beat: "और?
+  "Rome's 'and' rode behind too. Same ancestor." Quick beat: "और?
   That's Hindi — a great word, in its own language."
 - **Payoff (0:30–0:43):** the chapter cover परिवारः जगच्च splits into जगत् + च and snaps
   back — "and now the course's own cover reads out loud: the family, and the world."
@@ -749,7 +750,7 @@ narrator reads them as IPA, not as English spelling.
   sets of v2.c02.l01 (family), v2.c02.l02 (एषः/एषा, cognate-shelf honesty), v2.c02.l03
   (world); the enclitic idea extends v1.c06.l02's X अपि and v2.c01.l02's two jobs of अपि; the
   seam preview joins v2.c01.l04's नास्ति and पुनर्मिलामः shelf; feeds v2.c02.l05 (task D
-  register cards incl. the च card; task E scene description), Volume 2's verb chapters
+  register cards incl. the च card; task E scene description), Volume 3's verb chapter v3.c03
   (dual/plural forms — स्तः — where the verbless deferral is repaid), Volume 3 (the sandhi
   system: जगच्च; the locative case for the गृहे/आकाशे itch).
 - **Glossary:** candidate addition — **अव्यय (avyaya) "indeclinable — a word that never

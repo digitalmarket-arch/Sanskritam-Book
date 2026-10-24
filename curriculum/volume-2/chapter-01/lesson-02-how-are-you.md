@@ -103,7 +103,7 @@ objective 2 in §8, §18 (exercises 1, 3), §19 (Q2, Q4, Q7); objective 3 in §8
 
 Today's संज्ञा names the lesson: **कुशलप्रश्नः** (kuśalapraśnaḥ) "the well-being
 question" — कुशल (kuśala) "well-being" + प्रश्नः (praśnaḥ) "question". You have read the
-word family since Chapter 1 without noticing: प्रश्नाः has headed every quiz in this book.
+word family since Chapter 1 without noticing: प्रश्नाः has headed every quiz since v1.c01.l02.
 
 > **[FACT · तथ्यम्]** कुशल means "well-being, welfare" — and, as an adjective, "skilful,
 > in good order". The dictionaries record the greeting idiom directly from classical
@@ -116,11 +116,11 @@ word family since Chapter 1 without noticing: प्रश्नाः has heade
 > business is spoken, and the dictionaries cite the formulas from exactly such passages.
 > [REF:apte1890 s.v. कुशल]
 
-> **[TRADITION · परम्परा]** The traditional etymology recorded in the dictionaries
-> derives कुशल from कुश (kuśa) — the sharp-edged sacred grass: the kuśala person is "one
-> who gathers kuśa grass" without cutting their fingers, deftness as the root image of
-> being well and doing well. A story the tradition tells about the word; the meanings
-> themselves are dictionary fact. [REF:monierwilliams1899 s.v. कुशल]
+> **[TRADITION · परम्परा]** Traditional Sanskrit word-derivation (nirvacana) links कुशल
+> to कुश (kuśa), the sharp-edged sacred grass: कुशान् लाति (kuśān lāti), "one who takes
+> up kuśa" — and popular retellings make the deft gathering of that cutting grass the
+> root image of being well and doing well. A story the tradition tells about the word;
+> the meanings themselves are dictionary fact.
 
 Notice which label today wears. Last volume, विद्यालयः carried the *modern* chip — real
 word, modern schoolroom convention, honestly said. अपि कुशलम्? carries the *classical*
@@ -138,11 +138,11 @@ with actual news. The Sanskrit exchange makes the routine's machinery unusually 
 because the answer *echoes* the question's key word: अपि कुशलम्? — कुशलम्! Ask with a
 word, hand the same word back. One content word carries the entire exchange, which makes
 today's frames nearly free to learn — and every run through them is retrieval practice,
-the strongest rehearsal there is [REF:roediger2006].
+which outperforms simple re-reading [REF:roediger2006].
 
-> **[FACT · तथ्यम्]** High-frequency courtesy formulas are learned fastest as unanalyzed
-> chunks — frame in, frame out — with the internal grammar unpacked later, without
-> relearning. Today's exchange is four such chunks and one placement rule. [REF:nation2013]
+> **[FACT · तथ्यम्]** High-frequency courtesy formulas can be learned as unanalyzed
+> chunks — frame in, frame out — with the internal grammar unpacked later. Today's
+> exchange is four such chunks and one placement rule. [REF:nation2013]
 
 Two design notes, honestly stated. First, we drill the neuter answer कुशलम् first and
 hardest because it is the answer *every* learner can always use; the gendered forms are
@@ -259,8 +259,9 @@ question); the कथम्-question keeps the level tune, because the question 
 ### The ledger
 
 Volume 1 closed at 237 readable words; lesson 1's greeting kit brought the ledger to
-about 245. Today's four — कथम्, कुशलम्, कुशली, सर्वम् — push it to roughly 249: the
-250 door is next lesson's to open. Everything else in this lesson, both scenes and the
+240. Today's four — कथम्, कुशलम्, कुशली, सर्वम् — add three ledger entries, since सर्वम्
+is an upgrade of the already-counted सर्व (it adds a form, not a ledger word): the
+ledger stands at 243, and the 250 door is next lesson's to open. Everything else in this lesson, both scenes and the
 story included, is built from words you already own.
 
 ## 9. Pronunciation
@@ -372,10 +373,11 @@ Its starter frame stays small on purpose: कथम् अस्ति? "how is 
 
 ### सर्वम् — from the śloka to the schoolyard
 
-**सर्वम्** (sarvam) "all, everything" — सर्व · /sɐɾʋɐm/
+**सर्वम्** (sarvam) "all, everything" — सर्वम् · /sɐɾʋɐm/
 
 You have carried this stem for two chapters: सर्व in the repha drills of v1.c05.l04,
-सर्वे भवन्तु सुखिनः recited — with sources and syllable counts — at the Volume Exam.
+सर्वे भवन्तु सुखिनः recited — its source honestly labeled unrecorded, its syllables
+counted — at the Volume Exam.
 Today the neuter form clocks in for ordinary work: सर्वम् कुशलम्! The course's promise
 in action — nothing you learned stays ornamental; the exam's recitation word is this
 week's small talk.
@@ -393,8 +395,10 @@ reading, each word twice, plus the dictation track).
 | कुशली | kuśalī | /kuɕɐliː/ | well, in good health (male speaker/addressee) | कुशल (पुरुष के लिए) | gendered form; कुशलिनी display only (§8, §15) |
 | सर्वम् | sarvam | /sɐɾʋɐm/ | all, everything | सब, सब कुछ | upgrade — stem सर्व readable since v1.c05.l04, सर्वे in the exam śloka; neuter form enters active use |
 
-Counting, honestly: four rows, four counted — the upgrade counts because the *form in
-use* is new to your mouth; the chapter ledger is reconciled at review as always. Not in
+Counting, honestly: four rows drilled, three ledger-new — सर्वम् is drilled because the
+*form in use* is new to your mouth, while its stem सर्व has been counted since
+v1.c05.l04, so the upgrade does not increment the ledger, exactly like lesson 1's
+भद्रम्; the chapter ledger is reconciled at review as always. Not in
 the table on purpose: कुशलिनी (display, §8) — mentioned, glossed, never assessed, seated
 properly with the gender system later this volume. Reading protocol as ever: block by
 block (कु-श-ली, स-र्वम्), then the whole word, then the audio — and the frame words
@@ -409,7 +413,8 @@ Volume 1.
 ### अपि's two jobs
 
 > **[FACT · तथ्यम्]** अपि placed after a word means "also, even" — अहम् अपि "I too".
-> Standing at the head of a sentence, अपि marks a polite yes/no question — अपि कुशलम्?
+> Standing at the head of a sentence, अपि regularly marks a polite yes/no question —
+> अपि कुशलम्?
 > "(is) all well?" Both uses are classical, recorded side by side in the dictionaries.
 > [REF:apte1890 s.v. अपि]
 
@@ -528,7 +533,7 @@ both scenes until each side is yours.
 Line 5 is कथम् doing its plain work on a thing — the new girl asking about her new
 school. Line 6 is grammar wearing a grin: विद्यालयः is a ः-word, masculine, so the
 personal कुशली fits it perfectly — and the joke is a building being asked after like a
-friend. माया, who could not read one letter on her first page in this course, now runs
+friend. माया, who had to speak English on her first page in this course, now runs
 the whole exchange in her second week of Volume 2. The cast keeps growing up with you.
 
 ## 18. Exercises
@@ -597,14 +602,15 @@ tomorrow either way (§20).
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (a) अपि कुशलम्? — अपि stands first and asks (§8). ((b) reads "well-being too" — the
-   wrong job; (c) and (d) force question words into a frame that does not take them.)
+   wrong job; (c) and (d) are not the taught frame — the wellness question is asked with
+   front-अपि, and today's कथम् asks about things.)
 2. (a) कुशलम्! — the neuter echo is everyone's safe, fully classical answer (§8, §12
    mistake 4). ((b) and (d) fit a male speaker only; (c) is display-only today.)
 3. (b) — the polite question mark job (§15). Behind a word it means "too"; position
    decides, and the two slots never collide.
 4. (a) अहम् अपि कुशली। — अपि behind its word, job 1 (§15). ((b) puts अपि up front and
-   accidentally asks a question; (c) walks it to a slot it never takes; (d) is the
-   feminine display form — wrong speaker.)
+   accidentally asks a question; (c) parks अपि behind कुशली, so it adds to "well" ("I am
+   also well"), not to "I"; (d) is the feminine display form — wrong speaker.)
 5. (a) how? (§8, §14). (The others belong to कुतः, कः, and किम् respectively.)
 6. (b) कथम् अस्ति विद्यालयः? — the question word asks, so the tune stays level (§9
    drill 1). ((a) and (d) are अपि-questions — they rise; (c) has no question word, so
@@ -633,8 +639,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-record the exchange (exercise 4) cold and compare takes; re-run the
   two-jobs sort with the sentences shuffled; re-take the dictation.
-- **In 1 week:** lesson 4 chains the full courtesy ladder — greet, ask after well-being,
-  thank, apologize, take leave — and today's exchange is its second rung; lesson 5's
+- **In 1 week:** lesson 5's Station 0 re-runs this exchange cold; lesson 4 builds the
+  full courtesy ladder — greet, ask after well-being, thank, apologize, take leave — and today's exchange is its second rung; lesson 5's
   role-card exam scores it under time.
 - **From now on:** open every Sanskrit conversation, class, and recording with the
   greeting and the exchange — two turns of real, classical small talk you own outright.
@@ -705,7 +711,7 @@ English habit wants to rise there too.
 > भोः! नमस्ते! त्वम् कुशली? / आम्! अहम् कुशली! अपि कुशलम्? / कुशलम्! सर्वम् कुशलम्! /
 > नमस्ते! अहम् अपि कुशली! Panel B ("Scene 2 — the teacher asks the class"): a classroom,
 > teacher at front, bubbles: नमस्ते! भोः! अपि सर्वम् कुशलम्? / आम्! सर्वम् कुशलम्! /
-> अपि कुशलम्? / आम्! कुशलम्! Side strip: the question kit कः · का · किम् · कुतः · कथम्
+> अपि कुशलम्? / आम्! कुशलम्! / सर्वम् कुशलम्! Side strip: the question kit कः · का · किम् · कुतः · कथम्
 > with level-tune bars, versus अपि कुशलम्? with a rising arc; a two-jobs diagram — अपि
 > circled at the front of a sentence with a question arc, अपि circled behind अहम् with a
 > link-back arrow; a label chip "classical" pinned to the exchange; a badge "everyone's
@@ -738,13 +744,15 @@ Lesson video, ~6 min, presenter + motion graphics.
    the generous version. A chip stamps the frame: "classical — worn proudly", beside a
    flashback to विद्यालयः's "modern" chip from Volume 1.
 3. **The personal form (1:45–2:50):** त्वम् कुशली? / भवान् कुशली? sort onto the
-   पीर/respect pair from Chapter 6; अहम् कुशली answers; कुशलिनी appears in a display
+   peer/respect pair from Chapter 6; अहम् कुशली answers; कुशलिनी appears in a display
    case labeled "later this volume"; the badge "everyone's answer" lands on कुशलम्.
 4. **कथम् completes the kit (2:50–3:50):** the five question words line up — कः का
    किम् कुतः कथम् — level-tune bars over each; कथम् अस्ति विद्यालयः? plays out with a
    level line while अपि कुशलम्? replays with its rise; caption "the word asks, or the
    rise asks — never both needed".
-5. **The scenes (3:50–5:10):** both §16 scenes as animated speech bubbles; the class
+5. **Two jobs + the scenes (3:50–5:10):** the two-jobs diagram builds — अपि circled
+   behind अहम्, अपि circled at the front with a question arc; then both §16 scenes as
+   animated speech bubbles; the class
    chorus lands as a wave; माया's आम्! कुशलम्! gets a slow-motion beat and the caption
    "the safe answer is the classical answer".
 6. **Recap + CTA (5:10–6:00):** the four words flash in their frames; the two-jobs
@@ -820,16 +828,16 @@ narrator reads them as IPA, not as English spelling.
 - **Editorial decisions (resolved):** the research notes (§2) left the thanks formula's
   debut to this lesson or lesson 4 — resolved to **lesson 4** by cross-lesson
   coordination; it appears nowhere in this lesson, and vocabulary_count stays at the
-  honest 4 (three new + the सर्वम् upgrade, counted per the तव precedent of
-  v1.c06.l02). Entering ledger reconciled at review: 240 → 243; counts
+  honest 4 (three new + the सर्वम् upgrade, drilled but not re-counted, per the
+  भद्रम्/नमः promotion precedent of v2.c01.l01 — सर्व was counted in v1.c05.l04). Entering ledger reconciled at review: 240 → 243; counts
   reconciled at review as always. कुशलिनी and भवती are display-only (never in §14,
   never assessed), mirroring the छात्रा handling of v1.c06.l02.
 - **Verification flags for Pass C:** the sentence-initial interrogative अपि (§8, §15
   FACT) against [REF:apte1890 s.v. अपि]; the कुशलम् ते idiom and the epic
   kuśala-inquiry convention (§4 FACT + HISTORY) against [REF:apte1890 s.v. कुशल] —
   attach an epic locus (e.g. a Rāmāyaṇa kuśala-praśna passage) or soften the HISTORY
-  block to TRADITION; the kuśa-grass etymology (§4 TRADITION) — confirm wording against
-  [REF:monierwilliams1899 s.v. कुशल]; the k-/wh- interrogative cognate claim (§13 FACT)
+  block to TRADITION; the kuśa-grass derivation (§4 TRADITION) — confirm the कुश + ला
+  gloss against [REF:apte1890 s.v. कुशल] before any s.v. citation is restored; the k-/wh- interrogative cognate claim (§13 FACT)
   — confirm the PIE interrogative stem treatment in [REF:mallory2006] or degrade
   honestly; कुशली/कुशलिनी as masculine/feminine of the -इन् word and कुशलम् as the
   plain adjective's neuter (§15) — check against [REF:monierwilliams1899 s.v. कुशलिन्];
@@ -852,6 +860,6 @@ narrator reads them as IPA, not as English spelling.
   cells.
 - **Register audit:** FACT ×4 (§4 कुशल idiom ×1 · §5 chunk learning ×1 · §13 k-family
   cognates ×1 · §15 अपि two jobs ×1) · HISTORY ×1 (§4 epic kuśala-inquiry convention,
-  cited, Pass-C-flagged for a locus) · TRADITION ×1 (§4 kuśa-grass etymology,
-  source-named) · SYMBOL ×0 — quiz Q1–Q9 all FACT-register content taught in
+  cited, Pass-C-flagged for a locus) · TRADITION ×1 (§4 kuśa-grass derivation,
+  source-named: nirvacana) · SYMBOL ×0 — quiz Q1–Q9 all FACT-register content taught in
   §8/§12/§14/§15; the TRADITION block is never assessed.

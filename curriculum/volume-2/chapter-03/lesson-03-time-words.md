@@ -109,7 +109,9 @@ run today's three live items; log everything side by side [REF:cepeda2006].
    counting its own old calendar — novem is Latin's own "nine"; अष्ट and octō are
    siblings, neither derives from the other (l02 §13). Score /3; log it.
 1. प्रभातम् — मध्याह्नः — सायम् — रात्रिः, and दिनम् for the whole turn (v2.c01.l03
-   §8). All five are back on duty in today's frames.
+   §8). All five return today: प्रभातम्, सायम् and रात्रिः carry the frames, दिनम्
+   takes its rung on the span ladder, and मध्याह्नः hosts the day-word hidden inside
+   सप्ताहः (§8).
 2. मास (māsa) "month" — readable since v1.c04.l02; it has never worn the ः dress in
    active use. Today it does: मासः, an upgrade on the गृहम् model.
 3. dharma and karma (with mantra and company) — loans, outbound: Sanskrit → English
@@ -127,10 +129,8 @@ today.
 
 The everyday time words on today's list are ordinary classical vocabulary: कालः "time",
 the deictic trio अद्य, श्वः, ह्यः, the spans वर्षम्, मासः, सप्ताहः — all attested across
-the classical language [REF:apte1890 s.vv.]; [REF:monierwilliams1899 s.vv.], and all
-still in everyday use in today's small but real spoken-Sanskrit community
-[REF:census2011]. One of them even carries its own
-arithmetic: सप्ताहः is transparently सप्त (sapta) + अह (aha) — "a seven-of-days" (§8).
+the classical language [REF:apte1890 s.vv.]; [REF:monierwilliams1899 s.vv.]. One of
+them even carries its own arithmetic: सप्ताहः is transparently सप्त (sapta) + अह (aha) — "a seven-of-days" (§8).
 
 The traveler is होरा.
 
@@ -150,7 +150,7 @@ row flagged "next chapter's story" for the missing arrow. This is that story.
 वैज्ञानिकं विवरणम् — pointing words, usable frames, and the schedule doing its job.
 
 अद्य, श्वः and ह्यः are *deictics* — pointing words whose reference moves with the
-speaker's day, exactly as अत्र and तत्र move with the speaker's position (v1.c06.l02).
+speaker's day, exactly as अत्र and तत्र move with the speaker's position (v1.c05.l03; the location kit of v2.c02.l04).
 श्वः names a different calendar day every time the sun rises; tonight's श्वः is
 tomorrow's अद्य. That is why today's drills make you *compute* the answer off a strip or
 a calendar instead of reciting a memorized one — a deictic can only be owned in use.
@@ -215,7 +215,7 @@ required where naming will do.
 मिला है, गृहम् की ही तरह: शब्द पुराना, पोशाक नयी, गिनती में कोई नया शब्द नहीं।
 
 चौथी बात — अध्याय के द्वार पर एक झलक। अध्याय का नाम है **संख्याः कालश्च** (saṃkhyāḥ
-kālaś ca) — यह कालः + च का जुड़ा हुआ रूप है: विसर्ग अगले च से सटकर श् बन जाता है —
+kālaśca) — यह कालः + च का जुड़ा हुआ रूप है: विसर्ग अगले च से सटकर श् बन जाता है —
 kālaḥ + ca → kālaś ca। आज का पढ़ना विराम-रूप ही है: कालः च (kālaḥ ca)। जोड़ने के नियम
 तीसरे खण्ड का काम हैं — पढ़िए, बनाइए मत; और इसे नास्ति, पुनर्मिलामः, जगच्च और षड् के
 साथ उसी ताक पर रखिए।
@@ -239,7 +239,7 @@ Run the ladder small-to-large until the order is muscle (§9): होरा — 
 ### A word with arithmetic inside
 
 सप्ताहः is built from parts you own: **सप्त** (sapta) "seven" — last lesson's numeral —
-plus **अह** (aha), an old word for "day": "a seven-of-days"
+plus **अह** (aha), the compound-final form of the old day-word अहन् (ahan): "a seven-of-days"
 [REF:apte1890 s.v. सप्ताह]. You have met that day-word in disguise already: मध्याह्नः
 (madhyāhnaḥ) "midday" hides a form of it after मध्य (v2.c01.l03 §8). So when the week
 strip asks कति? the word itself answers: सप्त! — the numeral working *inside* a word,
@@ -282,7 +282,7 @@ moment they arrive.
 `planned:assets/audio/volume-2/v2c03l03-word-list.mp3` (three speeds + dictation track).
 
 **Drill 1 — component warm-up.** Components first, then the block, then the word: श् +
-व → श्वः; ह् + य → ह्यः; द् + य → अद्य. No vowel inside any join — if you hear "shavaḥ"
+व → श्वः; ह् + य → ह्यः; द् + य → अद्य. No vowel inside any join — if you hear "śavaḥ"
 or "hayaḥ", a vowel leaked (§12). Then the repha word, built the धर्म way: वर् first,
 the र sounding *before* the ष it sits above — वर्षम्. Finish with सप्ताहः in slow
 motion: the प्त weld, then the long आ, then *both* h-sounds — medial ह voiced, final ः
@@ -316,7 +316,7 @@ breath straight into the palatal glide. A seam vowel ("śa-vaḥ", "ha-yaḥ") i
 error of §12.
 
 **Narrow note — सप्ताहः:** one word holding both h-sounds of Sanskrit — the medial ह is
-voiced /ɦ/, the final visarga is voiceless /h/ riding an echo of the vowel before it.
+voiced /ɦ/, the final visarga is voiceless /h/, a plain breath colored by the vowel before it, with no echo vowel in plain speech (v1.c02.l06).
 Keep them distinct at speed.
 
 **Narrow note — होरा:** the ओ is /oː/ — long, pure, steady — never the English "go"
@@ -413,7 +413,7 @@ morning, and that is the design, not a defect.
 ## 14. Vocabulary
 
 शब्दावली — eight rows: seven ledger-new headwords + one upgrade row that never
-increments the ledger; **290 → 297** (counts reconciled at review, as always). Audio: 🔊
+increments the ledger; **289 → 296** (counts reconciled at review, as always). Audio: 🔊
 `planned:assets/audio/volume-2/v2c03l03-word-list.mp3` (each word twice, three-speed
 passes, then the dictation track). Lists stay sentence-dressed as always: masculines in
 ः, the neuter in म्, होरा in its own आ — and the trio in no dress at all (§15).
@@ -435,9 +435,9 @@ Back on duty from v2.c01.l03, review rows only — no re-entry to the ledger:
 दिनम् takes its rung on the span ladder.
 
 Display-only, excluded from all counts and decks: the old day-word component **अह**
-(aha) and its stem अहन् (§13), the Greek source word *hṓra* — a foreign word on a
+(aha) and its stem अहन् (ahan) — see v2.c01.l03 §8 — the Greek source word *hṓra* — a foreign word on a
 chart, not a Sanskrit headword — and the chapter title's seam form **कालश्च**
-(kālaś ca), read-only (§15).
+(kālaśca), read-only (§15).
 
 Reading protocol unchanged: count the blocks, read the blocks, read the word — श्वः,
 ह्यः, स-प्ता-हः, व-र्षम्, हो-रा — then the span ladder (§9 drill 2), and no visarga
@@ -475,15 +475,15 @@ correcting when it arrives.
 मास entered the ledger in v1.c04.l02 and has been readable ever since; मासः is the same
 word in sentence dress, promoted to active duty. The ledger therefore counts today's
 list as seven new + one upgrade (§14) — an upgrade row never increments the ledger,
-exactly as गृहम् did not in v2.c02.l01 and तव did not in v1.c06.l02.
+exactly as गृहम् did not in v2.c02.l01.
 
 ### The title seam — a preview, read-only
 
-The chapter door reads **संख्याः कालश्च** (saṃkhyāḥ kālaś ca) — and that is today's
+The chapter door reads **संख्याः कालश्च** (saṃkhyāḥ kālaśca) — and that is today's
 कालः + च worn together: the visarga leaning into the following च as श् — kālaḥ + ca →
 kālaś ca. Pause form कालः च (kālaḥ ca) is today's reading; joining rules are Volume 3's
 business — read it, build nothing. Shelve it beside नास्ति (nāsti), पुनर्मिलामः
-(punarmilāmaḥ), जगच्च (jagac ca) and षड् (ṣaḍ) on the read-only seam shelf.
+(punarmilāmaḥ), जगच्च (jagacca) and षड् (ṣaḍ) on the read-only seam shelf.
 
 ## 16. Conversation
 
@@ -495,8 +495,8 @@ Audio records into the Chapter 3 drill pack (§27). Every word is self-read.
 — सुप्रभातम्, माया!
 (suprabhātam, māyā!) "Good morning, Māyā!" — सुप्रभात, माया!
 
-— सुप्रभातम्, अर्जुन! अद्य किम्?
-(suprabhātam, arjuna! adya kim?) "Good morning, Arjuna! What is it today?" — सुप्रभात,
+— सुप्रभातम्, अर्जुनः! अद्य किम्?
+(suprabhātam, arjunaḥ! adya kim?) "Good morning, Arjuna! What is it today?" — सुप्रभात,
 अर्जुन! आज क्या है?
 
 — अद्य प्रभातम् — अद्य विद्यालयः अस्ति!
@@ -564,7 +564,7 @@ Devanagari, IAST, English, Hindi. Watch the trio hold still while the day moves.
    (māyā vadati — śvaḥ punaḥ prabhātam. sarvam śubham.) "Māyā says: tomorrow, morning
    again. All is well." — माया कहती है — कल फिर सुबह। सब शुभ है।
 
-The quiet craft notes: line 6 points at the clock on the wall — the Greek guest at home
+The quiet craft notes: line 6 points at one hour's span marked on the wall clock — the Greek guest at home
 in a Sanskrit sentence, named and welcome. And line 8's last time word is a deictic
 caught in the act: by sunrise, that श्वः will have become अद्य, and the story's promise
 will simply be true.
@@ -586,7 +586,7 @@ is done when both directions run clean.
 
 **अभ्यासः 3 · दिग्विभागः (the direction sort).** Keep or reject, one reasoning line
 each: (a) "होरा was borrowed into Sanskrit from Greek." (b) "Greek took *hṓra* from
-Sanskrit होरा." (c) "English *hour* descends from Sanskrit होरा." (d) "होरा and *hour*
+Sanskrit होरा." (c) "English *hour* comes from Sanskrit होरा." (d) "होरा and *hour*
 both go back to one Greek word — relatives by borrowing." (e) "माता and *mother* are
 relatives the same way होरा and *hour* are." (f) "सप्ताहः carries सप्त inside it — a
 seven-of-days." Check the pair (d)/(e) before looking anything up: both claim
@@ -602,7 +602,7 @@ a pass; re-take tomorrow (§20).
 pause form: (a) "It is morning today." (b) "Is there school tomorrow? — Yes, tomorrow
 too." (c) "What is this? — A week! How many? — Seven!" (d) "It is night. Tomorrow,
 morning again." Read your answers aloud as one tiny day. Self-check: every sentence is a
-§6/§16 line or one word-swap away from one — and nothing wears a locative.
+§6/§16/§17 line or one word-swap away from one — and nothing wears a locative.
 
 **अभ्यासः 6 · कालसोपानम् (the span ladder — production, spoken).** Recite the ladder
 from memory, smallest to largest, three turns timed: होरा — दिनम् — सप्ताहः — मासः —
@@ -646,7 +646,7 @@ Log the third ladder time; the drop over the week is the fluency.
 3. (b) — one source, two borrowings: cousins by borrowing, not shared descent (§13) —
    the chapter exam's subtlest card is built from this line.
 4. (a) — the l02 numeral at work inside a word (§8, §13).
-5. (b) — the गृहम्/तव precedent (§15); seven new + one upgrade, 290 → 297 (§14).
+5. (b) — the गृहम् precedent (§15); seven new + one upgrade, 289 → 296 (§14).
 6. (b) — the अव्यय shelf of v2.c02.l04, now holding time words (§15).
 7. (b) — the repair kit for Hindi speakers (§7, §8, §12).
 8. (b) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —
@@ -664,6 +664,10 @@ Log the third ladder time; the drop over the week is the fluency.
   the माता/*mother* relation (§13). (f) keep — FACT: सप्त + अह, a seven-of-days (§8,
   §13). The (d)/(e) pair: (d) names a shared *source* reached by two borrowings; (e)
   confuses that with shared *descent*, where nobody borrowed.
+- **Exercise 5 (translate the day):** (a) अद्य प्रभातम्। — or, with the standing line,
+  अद्य प्रभातम् अस्ति। (b) श्वः विद्यालयः अस्ति? — आम्! श्वः अपि अस्ति। (c) एतत् किम्? —
+  सप्ताहः! कति? — सप्त! (d) रात्रिः अस्ति। श्वः पुनः प्रभातम्। — models from §6, §16 and
+  §17 lines 1 and 8; no locatives anywhere.
 </details>
 
 ## 20. Revision
@@ -676,7 +680,7 @@ Log the third ladder time; the drop over the week is the fluency.
 > *hṓra* → होरा, in with Hellenistic astronomy; English *hour* took its own road from
 > the same source — relatives by borrowing, and the toolkit now owns all directions.
 > **The frames:** अद्य किम्? — अद्य प्रभातम्। — श्वः अपि अस्ति। **The upgrade:** मास →
-> मासः, ledger untouched. **The ledger:** seven new + one upgrade — 297.
+> मासः, ledger untouched. **The ledger:** seven new + one upgrade — 296.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -819,7 +823,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    the side panel draws *hour*'s road and the caption lands: "relatives by borrowing,
    not shared descent."
 6. **Recap + CTA (5:10–6:00):** the strip, the ladder and the chart assemble into one
-   card; the ledger ticks to 297. End card: "Next: वासराः — the week gets its seven
+   card; the ledger ticks to 296. End card: "Next: वासराः — the week gets its seven
    names."
 
 ## 25. Voice-over Script
@@ -846,7 +850,7 @@ narrator reads the cue, not the English spelling.
   east, this one from the west. And English hour? Same Greek source, different road.
   Relatives by borrowing — not by descent. Say the difference plainly and you own the
   toolkit.
-- **05:10** Two hundred ninety-seven words — and a calendar that answers you honestly.
+- **05:10** Two hundred ninety-six words — and a calendar that answers you honestly.
   Tomorrow — śvaḥ [ɕʋɐh] — the week gets its seven names. punaḥ milāmaḥ
   [pun̪ɐh milɑːmɐh]!
 
@@ -886,17 +890,17 @@ narrator reads the cue, not the English spelling.
 - **Sibling availability at drafting:** v2.c03.l01 and v2.c03.l02 landed on disk while
   this lesson was drafted; the "l02 §…" pointers are verified against the real file
   (§3 Station 0 collects the logs l02 §20 booked; the month-name fix sits at l02 §13;
-  bare-कति at l02 §15; ledger hand-off 285 → 290 confirmed at l02 §14). v2.c03.l04
+  bare-कति at l02 §15; ledger hand-off 284 → 289 confirmed at l02 §14). v2.c03.l04
   verified on disk at review; forward mentions hold. v2.c03.l05 is on
   disk and its Station 3 keys point back at this lesson's §8 and §13 as drafted.
 - **Related lessons:** reviews v2.c03.l02 (Station 0 — chant, कति drill, month-name
   line; सप्त working inside सप्ताहः), v2.c01.l03 (day-cycle words carrying the frames;
   the अह reunion via मध्याह्नः) and v1.c04.l02 (मास — upgraded here); builds on
-  v1.c05.l03 (the ह्य/ह्म recognition family), v1.c05.l04 (repha in वर्षम्; the
+  v1.c05.l03 (the ह्य/ह्म recognition family; the अत्र/तत्र deixis the trio parallels), v1.c05.l04 (repha in वर्षम्; the
   dharma/karma outbound-loan line), v1.c05.l05 (digits ०–९ for calendar pointing),
-  v1.c06.l02 (एतत् किम्? frames; अपि; the अत्र/तत्र deixis the trio parallels),
+  v1.c06.l02 (एतत् किम्? frames; अपि),
   v2.c02.l01 (गृहम् upgrade precedent; the माता cognate line completed here),
-  v2.c02.l04 (अव्यय label reused for the trio), v2.c02.l05 (direction cards; the होरा
+  v2.c02.l04 (अव्यय label reused for the trio; the completed location kit), v2.c02.l05 (direction cards; the होरा
   preview honored — "flagged next chapter" resolves today); feeds v2.c03.l04 (वासराः —
   the week: अद्य कः वासरः? unlocks the moment the names land), v2.c03.l05 (exam task D
   cards 3–4 and the task E calendar trio; Station 3 prompts), v2.c06 (cognates at
@@ -905,8 +909,8 @@ narrator reads the cue, not the English spelling.
   GLOSSARY.md; no new glossary terms. Register work this lesson is loan-direction
   honesty (§13), not classical/modern usage labels.
 - **Export notes:** ledger per the chapter plan: seven ledger-new headwords + the मासः
-  upgrade row; **290 → 297**. Front-matter `vocabulary_count: 7` records the ledger-new
-  rows only; मासः exports as `upgrade_of: मास` (v1.c04.l02), the गृहम्/तव precedent,
+  upgrade row; **289 → 296**. Front-matter `vocabulary_count: 7` records the ledger-new
+  rows only; मासः exports as `upgrade_of: मास` (v1.c04.l02), the गृहम् precedent,
   never as a new ledger row. The trio exports with `pos: avyaya`. होरा exports as a
   `loan` row with `direction: greek-to-sanskrit`; the होरा/*hour* relation exports as
   `shared-source-borrowing` — never as `cognate` and never as `descent`; the
