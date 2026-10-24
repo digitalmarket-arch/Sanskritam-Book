@@ -87,8 +87,9 @@ line. ण-initial words: essentially none (state it); ण earns its keep word-in
 this word since Chapter 1; दिन (dina) "day"; दान (dāna) "giving, charity"; दधि (dadhi)
 "yogurt"; धन (dhana) "wealth"; मधु (madhu) "honey"; नदी (nadī) "river"; **नमः (namaḥ)
 "homage, salutation"** — the first half of नमस्ते becomes readable (स्ते waits for Ch 4+5;
-say so); मन (mana) "mind (stem form of manas)"; जन (jana) "person, people"; नीति (nīti)
-"conduct, policy"; नील (nīla) "blue"; गगन (gagana) "sky"; नल (nala) "Nala (the king's
+say so); मनः (manaḥ) "mind" (citation form of the s-stem manas; a bare मन is the Hindi
+word — in Sanskrit, mana for 'mind' occurs only compound-finally, as in sumana); जन (jana)
+"person, people"; नीति (nīti) "conduct, policy"; नील (nīla) "blue"; गगन (gagana) "sky"; नल (nala) "Nala (the king's
 name); reed". Minimal-pair gold: तट/तत? — use नदी-तट collocation instead; धन/दिन/दान
 discrimination set.
 
@@ -101,7 +102,10 @@ discrimination set.
 | म closes the varga tour where the course began (helper since v1.c01.l03) — and ॐ's closure [m] gets its letter-home. | FACT | course design; STYLE_GUIDE |
 
 **Readable words (attested):** फल (phala) "fruit; result"; बल (bala) "strength"; पथ (patha)
-"path" (cognate note: path/पथ — genuine PIE kin [REF:mallory2006]); पाप (pāpa) "evil, sin";
+"path" (NOT a cognate of English path: inherited PIE *p gives English f, cf. pitā/father;
+English path is of uncertain origin, possibly an early Iranian loan [REF:oed s.v. path];
+पथ's inherited kin are Av. pantā, Lat. pōns, Gk póntos [REF:mallory2006] — corrected at
+audit); पाप (pāpa) "evil, sin";
 पिता (pitā) "father" — the माता/मातृ pattern completes: पितृ stem noted; कपि (kapi)
 "monkey"; बाल (bāla) "child"; बालक (bālaka) "boy, child"; लाभ (lābha) "gain"; भाग (bhāga)
 "share, portion"; भूमि (bhūmi) "earth, ground"; पूजा (pūjā) "worship, honoring"; भोजन
@@ -117,7 +121,8 @@ correct. This is the chapter's payoff moment, staged in L5–L6.
 ## 6. L6 — Review & assessment (mirrors l05/l07 design)
 
 Full 25-stop grid mastery: the varṇamālā table from v1.c01.l02 §5 is now *owned* letter by
-letter, not previewed. Cumulative readable vocabulary crosses ~95 words. Assessment mirrors
+letter, not previewed. Cumulative readable vocabulary reaches 114 (54 carried from
+v1.c02.l07 §14 + 60 new — corrected at audit). Assessment mirrors
 the established five-task format, scaled: A hearing (aspiration/voicing/place contrasts, 12
 items incl. त/ट and क/ख pairs); B dictation (10 words across vargas); C reading aloud (15
 words + the three milestone sentences); D register sort (9 fresh cards incl. खग etymology
@@ -133,7 +138,7 @@ interval item. L6 runs Chapter 2's +1-week re-dictation as Station 0.
 
 ## 8. Open questions / deferred
 
-- बालकः चलति uses nominative visarga before a voiced consonant — strict external sandhi
+- बालकः चलति uses nominative visarga before the voiceless palatal च (corrected at audit) — strict external sandhi
   would give बालकश्चलति/बालको... NO: before च the visarga becomes श्... Decision: teach the
   PAUSE FORM (pausa/citation pronunciation, each word said fully) as the explicit convention
   for Volume 1 — one honest FACT line: "connected speech applies sandhi (Volume 3); at this

@@ -48,10 +48,10 @@ updated: 2026-07-21
 
 ## 1. Hook
 
-Two chapters in, the entire vowel side of Sanskrit is yours: thirteen vowels, nine mātrās,
-two dependent signs, and more than forty readable words — from मम to अमृत to कुतः. In
-Chapter 1 you proved you could read twelve words. Today the list is three times longer, the
-contrasts are finer (length, glide, the r-vowel), and one syllable on it is the most famous
+Two chapters in, the entire vowel side of Sanskrit is yours: thirteen vowels, ten mātrās,
+two dependent signs, and fifty-four readable words — from मम to अमृत to कुतः. In
+Chapter 1 you proved you could read twelve words. Today the list is more than four times
+longer, the contrasts are finer (length, glide, the r-vowel), and one syllable on it is the most famous
 syllable on Earth. Nothing new enters this lesson. Today you prove the whole map.
 
 ## 2. Learning Objective
@@ -71,11 +71,13 @@ Objective 1 is assessed in §18 tasks A–C and E; objective 2 in task D; object
 पुनरावृत्तिः — six stations, one per lesson, plus Station 0. Answer from memory *before*
 checking [REF:roediger2006].
 
-### Station 0 — Chapter 1's one-week interval
+### Station 0 — Chapter 1's one-week and pre-quiz intervals
 
 The spacing schedule from v1.c01.l05 §20 comes due today [REF:cepeda2006]: re-write from
-memory अ आ क म त ल and the four blocks का मा ता ला, then read the Chapter 1 twelve aloud.
-Two minutes; log your score next to the old one.
+memory अ आ क म त ल and the four blocks का मा ता ला, then read the Chapter 1 twelve aloud
+(the +1-week re-run of tasks C and E). Its last item lands here too, before this chapter's
+quiz: re-read that §20 box and re-sort Chapter 1's nine task-D cards from memory. Five
+minutes; log your scores next to the old ones.
 
 ### Station 1 — इ ई (lesson 1)
 
@@ -102,7 +104,7 @@ Two minutes; log your score next to the old one.
 3. Read aloud: ऋतु, कृत, मृत, मातृ, अमृत.
 4. अमृत and *ambrosia* — what exactly is the relationship?
 
-*Check against l03 §9, §7, §14, §13.*
+*Check against l03 §9 (and §5 for the English words), §7, §14, §13.*
 
 ### Station 4 — ए ऐ (lesson 4)
 
@@ -138,14 +140,15 @@ the weakest station today and assess tomorrow — the extra spacing helps [REF:c
 
 ऐतिहासिकः सन्दर्भः — one paragraph, as in every review lesson.
 
-The tradition that carried these sounds across three millennia did it with exactly this
-tool — scheduled, structured repetition — and memory science confirms the mechanism:
+The tradition that carried these sounds across three millennia leaned on
+structured repetition — and memory science explains why repetition pays off most when it
+is spaced:
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
 > practice massed together. [REF:cepeda2006]
 
 Chapter 2's material re-surfaces on schedule from here to the Volume 1 exam. Today is its
-first interval; Chapter 1's second interval (Station 0) just ran inside it.
+first interval; Chapter 1's last two intervals (Station 0) just ran inside it.
 
 ## 5. Scientific Explanation
 
@@ -157,8 +160,8 @@ first interval; Chapter 1's second interval (Station 0) just ran inside it.
 There is a second reason today matters more than an ordinary review. The vowel system is the
 *foundation layer*: every consonant you meet in Chapters 3 and 4 will be practiced inside
 syllables built on these vowels and mātrās. An error that survives today — a blurred length
-contrast, a glided ए — will be rehearsed into every one of those syllables and cost ten
-times more to fix later. Testing the map now is not perfectionism; it is compound-interest
+contrast, a glided ए — will be rehearsed into every one of those syllables and cost far
+more to fix later. Testing the map now is not perfectionism; it is compound-interest
 protection for the rest of the volume.
 
 ## 6. Sanskrit Explanation
@@ -172,7 +175,8 @@ protection for the rest of the volume.
 > (ataḥ mama matiḥ!) — "Hence my thought!" (playful) — इसलिए मेरा विचार!
 
 ततः and अतः are from lesson 6 — your first sentence-connectors, and both fully readable.
-पठामि (paṭhāmi) 🔊 remains an ear-word until its letters arrive in Chapter 3.
+पुनः (punaḥ) "again" 🔊 (Chapter 1's ear-word, v1.c01.l05 §6) and पठामि (paṭhāmi) 🔊 remain
+ear-words until their letters arrive in Chapter 3.
 
 ## 7. Hindi Explanation
 
@@ -185,7 +189,7 @@ protection for the rest of the volume.
 1. **ऋ का स्टेशन।** "रि" आपकी हिन्दी की देन है — वह ग़लती नहीं, पर संस्कृत का लक्ष्य /r̩/
    है। brrr वाला अभ्यास दोहराइए और अपनी रिकॉर्डिंग सुनिए।
 2. **विसर्ग का स्टेशन।** हिन्दी में विसर्ग नहीं है, इसलिए यह सबको नया है — यहाँ आप और
-   अंग्रेज़ी-भाषी साथी बराबर हैं। हथेली होंठों के सामने रखकर साँस की फुहार महसूस कीजिए।
+   अंग्रेज़ी-भाषी साथी बराबर हैं। हथेली होंठों के सामने रखकर साँस का हल्का झोंका महसूस कीजिए।
 3. **ऐ और औ के स्टेशन।** हिन्दी का ऐ [ɛː] और औ [ɔː] — संस्कृत के [ɐi̯] और [ɐu̯] से अलग।
    जोड़-स्वर की सरकन जान-बूझकर कीजिए: अ से इ की ओर, अ से उ की ओर।
 
@@ -203,7 +207,7 @@ The assessment architecture, scaled up from Chapter 1's.
 | B | Writing | 10-item dictation from the cumulative list | 8/10 fully correct |
 | C | Reading aloud | 15 words cold, recorded, self-scored | 12/15 clean |
 | D | Register thinking | 9 fresh claim cards, four boxes + reject | 7/9 with reasoning |
-| E | Mātrā geography | Blank position-map + 12 blocks from dictation, 4 min | all placed correctly |
+| E | Mātrā geography | Blank position-map + 12 blocks + 11 independent vowels from dictation, 5 min | all placed correctly |
 
 The §19 quiz (10 questions) complements the tasks: §18 proves you can *do*; §19 proves you
 know *what is so*. Pass = every task at partial-or-better (rubric in §22) and quiz 7+/10.
@@ -276,8 +280,8 @@ error 6).
 
 **Model register sort (task D).** Card: "ॐ is pronounced [oːm], a long pure o closed by m."
 Reasoning: a checkable statement about articulation, sourced to the phonetics of the course —
-**FACT box**. Compare: "ॐ's three sounds map to waking, dream, and deep sleep" — that is the
-Māṇḍūkya framework's analysis, attributed to a text: **TRADITION box**. Same syllable, two
+**FACT box**. Compare: "The Māṇḍūkya Upaniṣad analyzes ॐ into a + u + m" — the
+tradition's own analysis, attributed to a text: **TRADITION box**. Same syllable, two
 kinds of statements — sorting them is the whole skill.
 
 ## 14. Vocabulary
@@ -365,10 +369,10 @@ swap and repeat. 🔊 glue: आम्, अस्ति, पश्य (establishe
 
 — अ: **कति** तिल? (kati tila?) "How many sesame seeds?"
 — ब: **एक** तिल। (eka tila.) "One."
-— अ, pointing at a picture: **उलूक**? — ब: आम्, **उलूक**। **कूल** अस्ति। "Yes, an owl. It's
-on the riverbank."
+— अ, pointing at a picture: **उलूक**? — ब: आम्, **उलूक**। **कूल** अस्ति। "Yes, an owl. There's
+the riverbank."
 — अ: **कुतः**? (kutaḥ?) "From where?" — ब: **इतः**! (itaḥ!) "From here!"
-— अ: **कौतुक**! (kautuka!) "Curious!" — ब: **ततः** पश्य। (tataḥ paśya.) "Then look."
+— अ: **कौतुक**! (kautuka!) "What a curiosity!" — ब: **ततः** पश्य। (tataḥ paśya.) "Then look."
 
 Delivery check: full final vowels, two-beat dīrghas, deliberate glides, voiceless visargas —
 the whole chapter in five turns.
@@ -382,15 +386,16 @@ new lines using ततः as your connector and any of: उलूक, कोक�
 line, then write the words you can write. A worked continuation for comparison (peek only
 after your own attempt):
 
-1. **ततः** **कमला** **एक** **कोकिल** पश्य… (tataḥ kamalā eka kokila…) "Then Kamalā sees a
-   cuckoo…" — फिर कमला एक कोयल देखती है…
+1. **ततः** **कमला**: पश्य! **एक** **कोकिल**! (tataḥ kamalā: paśya! eka kokila!) "Then Kamalā:
+   Look! A cuckoo!" — फिर कमला: देखो! एक कोयल!
 2. **कोकिल**: **कुतः** **माला**? (kokila: kutaḥ mālā?) "The cuckoo: where is the garland
    from?" — कोयल: माला कहाँ से?
 3. **कमला**: **मम** **माता**! **ततः** **कौतुक**! "My mother! Then — delight!" — मेरी माँ!
    फिर — आनन्द!
 
 (Glue verbs stay 🔊 and optional; nominal lines are honest at this level. The point is
-retrieval + recombination, the two strongest moves in the learning toolkit [REF:roediger2006].)
+retrieval + recombination — and retrieval practice is among the best-evidenced moves in the
+learning toolkit [REF:roediger2006].)
 
 ## 18. Exercises
 
@@ -420,15 +425,16 @@ HISTORY / TRADITION / SYMBOL — or reject. One line of reasoning each.
 3. "ॐ is pronounced [oːm] and written as a single ligature."
 4. "In the Māṇḍūkya framework, ॐ's a-u-m map to waking, dream, and deep sleep."
 5. "अमृत and Greek *ambrosía* descend from the same ancestral root."
-6. "Pāṇini worked around the 4th century BCE."
+6. "In the prehistory of Sanskrit, ए arose from a fusion of a + i, and ऐ from ā + i."
 7. "ऋ embodies the cosmic rhythm that humans must align themselves with."
 8. "Before क, the anusvāra is pronounced as the velar nasal [ŋ]."
 9. "Sanskrit is five thousand years old."
 
-**कार्यम् E · मात्रा-भूगोलम् (timed writing — 4 minutes, production).** On the blank
+**कार्यम् E · मात्रा-भूगोलम् (timed writing — 5 minutes, production).** On the blank
 position-map (v1c02l07-matra-geography-blank.svg, planned): place every mātrā in its zone
 around a printed क. Then from dictation, write the twelve blocks: का कि की कु कू कृ के कै
-को कौ कं कः. All twelve, correct positions, within time.
+को कौ कं कः. Finally, from dictation, the eleven independent vowels: अ आ इ ई उ ऊ ऋ ए ऐ ओ औ.
+All twenty-three, correct positions and shapes, within time.
 
 ## 19. Quiz
 
@@ -448,7 +454,8 @@ around a printed क. Then from dictation, write the twelve blocks: का क�
 8. (l05) Build को and कौ from their visual parts.
 9. (l06) Why is अंक pronounced [ɐŋkɐ] and not [ɐmkɐ]? Name the principle and the grid row
    that supplies the nasal.
-10. (l06) What does ayogavāha mean, and which Chapter 1 lesson first made that promise?
+10. (l06) What does ayogavāha mean? Give the course's honest sound count (vowels + consonants +
+    ayogavāha) and name the Chapter 1 lesson that first gave it.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -467,21 +474,25 @@ around a printed क. Then from dictation, write the twelve blocks: का क�
 8. को = क + ा + े; कौ = क + ा + ै. → l05 §15.
 9. The homorganic principle: anusvāra before a stop takes that stop's varga-nasal; क is
    velar, so its row's nasal ङ [ŋ] applies. → l06 §5.
-10. "Dependent sound" — neither vowel nor consonant, always leaning on a vowel; the category
-    was promised in v1.c01.l02 (the sound map's honest counts). → l06 §4; v1.c01.l02 §8.
+10. "Dependent sound" — neither vowel nor consonant, always leaning on a vowel; the honest
+    count is 13 + 33 + 2, first given (with the category) in v1.c01.l02, the sound map.
+    → l06 §4; v1.c01.l02 §8.
 
 **Task keys.**
 A: 1 की(D) 2 कि(H) 3 कू(D) 4 कु(H) 5 कूल 6 ईति 7 ऐ(glide) 8 ओ(pure) 9 कौतुक(true glide)
 10 तेल-like flattened (mark "not Sanskrit तैल") 11 कृ 12 कु.
 B (dictation set): माला, कील, कुल, कूल, अमृत, ऋतु, एक, तैल, कौतुक, ततः.
-D: 1 FACT · 2 TRADITION (legend told as legend) · 3 FACT · 4 TRADITION (attributed to the
-Māṇḍūkya framework) · 5 FACT (cognates [REF:mallory2006]) · 6 HISTORY · 7 SYMBOL only — as
+D: 1 FACT · 2 TRADITION (legend told as legend) · 3 FACT · 4 SYMBOL (the
+waking/dream/deep-sleep reading is the contemplative layer l05 §17 files under SYMBOL;
+TRADITION also earns the point if the reasoning names the Māṇḍūkya as its source) · 5 FACT
+(cognates [REF:mallory2006]) · 6 HISTORY · 7 SYMBOL only — as
 a *worldview statement* it may live in SYMBOL; as a claim about phonetics it is rejected
 (this is the trap card: full credit for SYMBOL-with-caveat or reject-with-reasoning) ·
 8 FACT · 9 **reject** — banned claim (Ṛgveda c. 1500–1200 BCE is the evidence-based
 anchor). Scoring: 7+/9 with sane reasoning.
-E: positions — right ा ी · left ि · below ु ू ृ · above े ै · composite ो ौ · post-akṣara
-ं ः; twelve blocks as listed.
+E: positions — right ा ी · left ि · below ु ू ृ · above े ै · composite ो ौ · riders: ं a dot
+above the headline over the akṣara's right shoulder, ः after the akṣara on the line (l06 §15); twelve blocks and eleven
+independent vowels as listed.
 
 </details>
 
@@ -492,7 +503,7 @@ E: positions — right ा ी · left ि · below ु ू ृ · above े ै
 > **Vowels complete:** 13 + 2 ayogavāha — every sound, every mātrā, every position.
 > **The contrasts:** length (इ/ई, उ/ऊ), purity vs glide (ए/ऐ, ओ/औ), the syllabic /r̩/.
 > **The laws:** inherent अ · mātrā · mātrā geography · the leaning signs ं ः.
-> **The words:** 42 readable, मम to अंक.
+> **The words:** 54 readable, मम to अंक — 42 of them new in this chapter.
 > **The registers:** ॐ sorted three ways without confusion — the course's promise, kept.
 
 Schedule [REF:cepeda2006]: **+1 day** — task B re-run, fresh order. **+1 week** — tasks C
@@ -526,16 +537,17 @@ Chapter 3 quiz** — re-sort task D's cards from memory. Log scores here.
 | B (10) | 8–10 all-correct | 6–7 | mātrā position errors → l01/l02 §15; signs dropped → l06 |
 | C (15) | 12–15 clean | 10–11 | systematic ṛ/glide/visarga errors → §12 rows 3, 4, 7 |
 | D (9) | 7–9 reasoned | 5–6 | registers blurred → l05 §17 re-teach with the ॐ example |
-| E (12) | all placed, in time | 10–11 | geography confusion → the blank-map drill daily for a week |
+| E (23) | all placed, in time | 20–22 | geography confusion → the blank-map drill daily for a week |
 
 **Pass** = all tasks partial+, quiz 7+/10 → Chapter 3. One weak task → targeted retake
 tomorrow. Two+ → repeat the weak lessons; frame as scheduling, not failure.
 
-**Running Station 0:** do it as a silent two-minute opener — it doubles as settling time and
-demonstrates the spacing system working (most students beat their Chapter 1 score; say so
+**Running Station 0:** do it as a silent five-minute opener — it doubles as settling time and
+demonstrates the spacing system working (most students beat their Chapter 1 scores; say so
 out loud).
 
-**The D-task trap cards (7 and 9):** card 7 rewards nuance — accept SYMBOL-with-caveat or
+**The D-task nuance cards (4, 7 and 9):** card 4 takes SYMBOL, or TRADITION if the Māṇḍūkya
+is named as the source; card 7 rewards nuance — accept SYMBOL-with-caveat or
 reject-with-reasoning, and let students argue it; the *argument* is the learning. Card 9 has
 one right move (reject) — the waste-basket returns.
 
@@ -549,20 +561,21 @@ For v1c02l07-matra-geography-blank.svg (diagram):
 
 > Volume 1 style (warm paper, deep ink, saffron #E08A00 accent): a large light-outline क at
 > center with five empty labeled zones around it — right, left, below, above, and a
-> composite band — plus a trailing slot after the letter for ं/ः. No mātrās printed (this
-> is the blank assessment map); zone labels in small Devanagari + English. Alt text: "Blank
+> composite band — plus two rider slots: a small dot-zone above the headline at the right
+> shoulder for ं, and a trailing slot after the letter, on the line, for ः. No mātrās
+> printed (this is the blank assessment map); zone labels in small Devanagari + English. Alt text: "Blank
 > mātrā-position map around the letter ka for the Chapter 2 assessment."
 
 For v1c02l07-writing-assessment.pdf (worksheet): ruled Devanagari grid, twelve numbered
-akṣara boxes plus the position-map panel; header name/date/time; same family as the
-Chapter 1 assessment sheet.
+akṣara boxes, eleven vowel boxes, plus the position-map panel; header name/date/time; same
+family as the Chapter 1 assessment sheet.
 
 ## 24. AI Video Prompt
 
 Lesson video (8–10 min), scene list:
 
-1. Cold open (0:00–0:30): the Chapter 1 twelve-word list slides left; the 42-word wall
-   slides in — "two chapters, three times the words."
+1. Cold open (0:00–0:30): the Chapter 1 twelve-word list slides left; the 54-word wall
+   slides in — "two chapters, more than four times the words."
 2. Stations montage (0:30–3:30): rapid §3 prompts as countdown cards, one station per
    lesson, Station 0's silent writing opener shown in time-lapse.
 3. Assessment walkthrough (3:30–6:30): one modeled item per task, each with one deliberate
@@ -578,15 +591,15 @@ Lesson video (8–10 min), scene list:
 
 Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 
-- 00:00 — "Thirteen vowels. Nine mātrās. Two leaning signs. Forty-two words — from मम
+- 00:00 — "Thirteen vowels. Ten mātrās. Two leaning signs. Fifty-four words — from मम
   [mɐmɐ] to अमृत [ɐmr̩t̪ɐ] to कुतः [kut̪ɐh]. Today, you prove the map."
 - 00:30 — "Six stations, one per lesson. Answer first, check second — the pulling-out is
   the practice. Station three: hum it — [r̩ː] — and read: ऋतु [r̩t̪u], मातृ [mɑːt̪r̩]."
 - 03:30 — "Task B. You hear कौतुक [kɐu̯t̪ukɐ]. Build it: कौ — the glide — then तु — the
   mātrā *below* — then क. Every sign in its place."
 - 06:30 — "Card three: ॐ is pronounced [oːm] — fact. Card four: a-u-m as waking, dream,
-  deep sleep — the Māṇḍūkya's analysis — tradition. Card nine: 'five thousand years old' —
-  the basket. Some claims we sort; that one we retire."
+  deep sleep — a contemplative meaning — symbol; name the Māṇḍūkya and tradition scores
+  too. Card nine: 'five thousand years old' — the basket. Some claims we sort; that one we retire."
 - 08:00 — "Dictation again tomorrow. Reading again in a week. Chapter three brings the
   stops — क [kɐ] to म [mɐ] and twenty-three friends — onto the vowel frame you just
   certified. स्वराः समाप्ताः [sʋɐɾɑːh sɐmɑːpt̪ɑːh] — the vowels, complete."
@@ -594,24 +607,26 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 ## 26. Reel Script
 
 30–45 s vertical. **Hook** (0–5 s): "Can you hear the difference that changes the meaning?"
-— audio: कुल… कूल… **Demo** (5–30 s): rapid cuts — the 42-word wall scrolling; hand writes
+— audio: कुल… कूल… **Demo** (5–30 s): rapid cuts — the 54-word wall scrolling; hand writes
 कौतुक from dictation block-by-block; the ॐ card splitting into FACT | TRADITION panels; card
-9 into the basket (*thunk* — the running gag). **Payoff** (30–40 s): "13 vowels. 9 mātrās.
-42 words. 2 chapters. 0 myths." **CTA** (40–45 s): "Chapter 3: the consonants. Link in bio."
+9 into the basket (*thunk* — the running gag). **Payoff** (30–40 s): "13 vowels. 10 mātrās.
+54 words. 2 chapters. 0 myths." **CTA** (40–45 s): "Chapter 3: the consonants. Link in bio."
 
 ## 27. Metadata
 
 - **Assets (all planned):** pair-test + dictation audio; blank mātrā-geography map (also
   used in Chapter 3 warm-ups); writing assessment sheet; chapter quiz + separate key file
   (print policy: keys never on the question sheet).
-- **Related lessons:** consolidates v1.c02.l01–l06; runs v1.c01's +1-week interval
-  (Station 0); gates v1.c03 (the stop consonants). Its own +1-week re-runs land inside
-  Chapter 3's calendar.
+- **Related lessons:** consolidates v1.c02.l01–l06; runs v1.c01.l05 §20's +1-week and
+  pre-quiz intervals (Station 0); gates v1.c03 (the stop consonants). Its own +1-week
+  re-runs land inside Chapter 3's calendar.
 - **Rubric home:** §22 is the machine-readable rubric source; export flag `assessment: true`.
 - **Integrator notes:** §14's cumulative table is the canonical word list for Chapters 1–2 —
   the app's spaced-repetition deck should key off it; the §19 task keys are the single
-  source for the quizzes/ files. Glue-word 🔊 inventory unchanged (आम्, अस्ति, पश्य, तव,
-  अत्र, इति-as-quote, पठामि) — Chapter 3 begins retiring it as letters arrive.
+  source for the quizzes/ files. Glue-word 🔊 inventory after Chapter 2: आम्, अस्ति, पश्य, तव,
+  अत्र, पुनः, अहम्, पठामि, plus अपि, सत्यम्, किम्, एषः, वर्णः, अभ्यासः; इति and कः left the
+  list in l01 and l06 — Chapter 3 begins retiring it as letters arrive.
 - **Register audit:** FACT ×3 (§4, §5, §15) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 —
-  review lesson; task D handles registers as content (keys include the card-7 nuance).
+  review lesson; task D handles registers as content (keys include the card-4 and card-7
+  nuances).
   Quiz assesses FACT only.

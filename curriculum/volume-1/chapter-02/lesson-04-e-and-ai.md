@@ -70,7 +70,7 @@ perfectly still — and in ऐ, gliding on purpose, because there the journey *i
 | 4 | Read the six-word list aloud, including एक, with correct vowel values. | एक समेत छह शब्दों की सूची सही स्वर-मूल्यों के साथ ज़ोर से पढ़ें। |
 
 Objective 1 is drilled in §9 (drill 1) and §18 (exercises 5–6) and tested in §19 (Q3–Q4);
-objective 2 in §9 (drill 2), §18 (exercises 4–6), §19 (Q5–Q6); objective 3 in §15, §18
+objective 2 in §9 (drill 2), §18 (exercises 4 and 6), §19 (Q5–Q6); objective 3 in §15, §18
 (exercises 1–3), §19 (Q1–Q2, Q8); objective 4 in §14, §18 (exercise 6), §19 (Q7).
 
 ## 3. Previous Lesson Review
@@ -118,8 +118,10 @@ reassembling. So the tradition filed them under a name that is a tiny theory in 
 > [REF:maheshvarasutras 1–4]
 
 > **[HISTORY · इतिहासः]** The junction label records a real prehistory: in the development
-> that led to Sanskrit, ए and ऐ arose as fusions of a + i, and ओ and औ as fusions of
-> a + u. The traditional classification and the historical sound change match.
+> that led to Sanskrit, ए and ओ arose as fusions of a + i and a + u, while ऐ and औ go
+> back to older diphthongs with a long first element, ā + i and ā + u (in pronunciation,
+> ऐ's glide still starts from the अ position — §5). The traditional classification and the
+> historical sound change match.
 > [REF:whitney1889 §§27–29] [REF:burrow2001]
 
 Two consequences you can use today. First, a vowel built from two vowels carries two
@@ -179,7 +181,7 @@ again, the odd one out — which is why §9 trains stillness as a skill, not an 
 
 Three notes. इति — lesson 1's quoting word — is earning its keep in every definition
 sentence; you can read it yourself. एक is today's payoff word: the number one, readable as
-ए + क. And listen to the ends of the first two sentences: that breathy ḥ (दीर्घः, स्वरः) is
+ए + क. And listen to the ends of the first two sentences: that voiceless breath ḥ (दीर्घः, स्वरः) is
 the visarga — its sign arrives in lesson 6; your ear can start collecting it now. Today's
 traditional term: सन्ध्यक्षर (sandhyakṣara) "junction vowel" — सन्धि-अक्षर, वह स्वर जिसके
 भीतर दो स्वर मिलते हैं (§4).
@@ -416,7 +418,8 @@ Sanskrit builds "-ness" words with -tā, and you can now read both of them.
 > **[FACT · तथ्यम्]** Sanskrit derives तैल "oil" from तिल "sesame": in building the new
 > word, the first vowel i strengthens to ai — a regular grade-change the tradition calls
 > वृद्धि (vṛddhi) "growth". Oil, in Sanskrit, is literally "the sesame-stuff"; the i → ai
-> step is the a + i junction of §4 put to work inside the vocabulary.
+> step puts ऐ, one of §4's junction vowels, to work inside the vocabulary — a grade above
+> the plain a + i that gives ए.
 > [REF:whitney1889 §§27–29] [REF:apte1890 s.v. तैल]
 
 That is the honest one-paragraph preview — the full vṛddhi machinery is Volume 4's story.
@@ -508,10 +511,10 @@ pack (§27). At the spice stall: someone counts.
 (eka tila.) "One sesame seed." — एक तिल।
 
 — कति केतु?
-(kati ketu?) "How many banners?" — कितने केतु?
+(kati ketu?) "How many banners?" — कितनी पताकाएँ?
 
 — एक केतु।
-(eka ketu.) "One banner." — एक केतु।
+(eka ketu.) "One banner." — एक पताका।
 
 The honest note: this is **counting style** — bare dictionary-stems, the way a word list or
 a tally names things. Fully inflected Sanskrit puts endings on: कति तिलाः? एकः तिलः। Look
@@ -531,10 +534,10 @@ glossed 🔊 below. Each line: Devanagari, IAST, English, Hindi.
    कमला यहाँ है।
 2. **माता** — पश्य, **कमला**! **एक** **केतु**!
    (mātā — paśya, kamalā! eka ketu!) "Mother: Look, Kamalā! A banner!" — माता — देखो,
-   कमला! एक केतु!
+   कमला! एक पताका!
 3. **कमला** — आम्! **एक** **केतु**, **एक** **माला**!
    (kamalā — ām! eka ketu, eka mālā!) "Kamalā: Yes! One banner — and a garland!" —
-   कमला — हाँ! एक केतु, एक माला!
+   कमला — हाँ! एक पताका, एक माला!
 4. **माता** — **मम** **माला**?
    (mātā — mama mālā?) "Mother: *My* garland?" — माता — मेरी माला?
 5. **कमला** — **मम** **माला**, **माता**! **मम** **कमल**-**माला**!
@@ -543,7 +546,11 @@ glossed 🔊 below. Each line: Devanagari, IAST, English, Hindi.
 
 Glue words 🔊: अत्र (atra) "here" — यहाँ; अस्ति (asti) "is" — है; पश्य (paśya) "look!" —
 देखो; आम् (ām) "yes" — हाँ. All four are old friends from Chapter 1 — no new ear-words
-today. The lotus-garland is the one from Chapter 1's story; कमला has not stopped guarding
+today. Two honest notes. First, names in address are used whole, as they have been all
+course: full Sanskrit calls a person with a special calling form — कमले (kamale) for
+Kamalā, मातः (mātaḥ) for Mother — and that form arrives with the case system in Volume 3.
+Second, एक केतु, एक माला is §16's counting style (full forms: एकः केतुः, एका माला).
+The lotus-garland is the one from Chapter 1's story; कमला has not stopped guarding
 it, and the festival's banner gets counted with today's number word. Read the story aloud
 twice: once block by block, once at story speed — every ए frozen, and no ऐ anywhere to trip
 on. (Check §14: today's one ऐ word stayed at the oil-press.)
@@ -566,7 +573,8 @@ last, above the line. Final row: write एक, केतु and तैल unaide
 **अभ्यासः 3 · श्रुतलेखनम् (dictation, production).** A partner or teacher dictates eight
 words — today's six (§14) plus तिल and कुल from earlier lessons — each read twice at
 natural speed with a writing pause. (Self-learners: play the word-list audio 🔊 in shuffled
-order.) Write each word in Devanagari. Self-check against §14: is every mātrā present, on
+order, plus तिल and कुल from the lesson 1 and lesson 2 word-list audio.) Write each word in
+Devanagari. Self-check against §14 (तिल: §13; कुल: lesson 2 §14): is every mātrā present, on
 the correct consonant, in the correct position? The mixed set forces the real decisions:
 ि vs े vs ै, left vs above. 7/8 is a pass; re-take tomorrow either way (§20).
 
@@ -621,7 +629,7 @@ where you and the model differ.
 7. (a) एक = "one"; (b) केतु = "banner, comet".
 8. तेल reads *tela* — the े replaced the ै, so the glide अ→इ collapsed into a pure long e.
    The written contrast lost is one stroke; the spoken contrast lost is the whole journey
-   (§12 mistakes 2 and 4 — and, as it happens, exactly the change history made on the way
+   (§12 mistake 2 for the lost journey; §15 for the lost stroke — and, as it happens, exactly the change history made on the way
    to Hindi तेल; Sanskrit keeps तैल).
 </details>
 
@@ -842,12 +850,12 @@ narrator reads them as IPA, not as English spelling.
     drill pack (chapter.md assets manifest) and back-link here when they exist.
 - **Related lessons:** reviews v1.c02.l02 (below-mātrās, कुल/कूल) and v1.c02.l03 (ऋ /r̩/,
   अमृत); feeds v1.c02.l05 (ो ौ are built from ा + े/ै — the composite position) and
-  v1.c02.l06 (the visarga forms promised in §16: कति तिलाः, एकः तिलः); assessed in
+  v1.c02.l06 (the visarga sign that §16's full forms कति तिलाः, एकः तिलः run on; their endings are Volume 3); assessed in
   v1.c02.l07 (pure-vs-glide discrimination joins the length battery); sandhi payoff of §4
   lands in Volume 3; vṛddhi derivation (§13 preview) treated fully in Volume 4.
 - **Glossary:** दीर्घ, ह्रस्व, मात्रा, स्वर used per GLOSSARY.md. **सन्ध्यक्षर (sandhyakṣara
-  "junction vowel") is introduced here (§4/§6) and missing from GLOSSARY.md — add in the
-  post-chapter loop with first-taught v1.c02.l04.** वृद्धि appears as a named preview only
+  "junction vowel") is introduced here (§4/§6) and is entered in GLOSSARY.md with
+  first-taught v1.c02.l04.** वृद्धि appears as a named preview only
   (§13); it is glossed inline and should enter GLOSSARY at its full treatment, not here.
 - **Export notes:** bare signs े ै render with a dotted-circle carrier ◌े ◌ै in some fonts —
   same exporter convention as Chapter 1's ा; IPA strings contain combining characters

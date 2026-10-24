@@ -48,7 +48,7 @@ By the end of this chapter the learner can:
 |---|---|---|---|---|
 | 1 | v1.c01.l01 | संस्कृतस्य लोकः — What Sanskrit Is | orientation | course conventions; loan vs cognate; नमस्ते |
 | 2 | v1.c01.l02 | ध्वनिमानचित्रम् — The Sound Map | orientation | 5 places; the grid; IPA notation; script-history sketch |
-| 3 | v1.c01.l03 | अकारः — The Sound अ | sound | अ /ɐ/; letters अ क म; inherent-vowel rule |
+| 3 | v1.c01.l03 | अकारः — The First Sound | sound | अ /ɐ/; letters अ क म; inherent-vowel rule |
 | 4 | v1.c01.l04 | आकारः — Length Matters | sound | आ /ɑː/; mātrā ा; letters आ त ल; minimal pairs |
 | 5 | v1.c01.l05 | पुनरावृत्तिः — Review & Assessment | review | none (consolidation + production assessment) |
 
@@ -56,11 +56,13 @@ By the end of this chapter the learner can:
 
 All chapter assets are `planned:` at this stage (generation prompts live in each lesson's
 §23–24): mouth-position diagrams (अ, आ), letter-formation animations (6 glyphs + ा), audio
-drills (sounds, syllables, minimal pairs, word list, dictation set), tracing worksheets,
-and the chapter quiz sheet with separate key.
+drills (sounds, syllables, minimal pairs, word list, dictation set), the Chapter 1 drill pack
+(the §6 Sanskrit lines, §16 dialogues and §17 story of l02–l04), tracing worksheets, and the
+chapter quiz sheet with separate key.
 
 ## Assessment
 
 Lesson 5 assesses every can-do above: minimal-pair discrimination (listening), dictation
-(writing), reading aloud (recorded), the four-register sorting task, and a scored quiz with
-separated key. Rubric in l05 §22 (Teacher Notes).
+(writing), reading aloud (recorded, incl. नमस्ते/संस्कृतम् against the lesson-1 recording),
+timed letter writing, the four-register sorting task, and a scored quiz with separated key.
+Rubric in l05 §22 (Teacher Notes).

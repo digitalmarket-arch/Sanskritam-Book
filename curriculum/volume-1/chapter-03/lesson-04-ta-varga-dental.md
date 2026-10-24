@@ -14,7 +14,7 @@ cefr: A1
 duration_minutes: 45
 self_study_minutes: 30
 prerequisites: [v1.c03.l03]
-review_of: [v1.c03.l03, v1.c01.l03]
+review_of: [v1.c03.l03, v1.c01.l04]
 objectives:
   - en: "Produce the five dentals त थ द ध न with true tooth contact, passing the fingertip check."
     hi: "पाँचों दन्त्य वर्ण त थ द ध न जीभ की नोक दाँतों पर लगाकर बोलें — उँगली की जाँच पास करते हुए।"
@@ -71,9 +71,9 @@ story-word itself, and नमः — the first half of नमस्ते, reada
 | 3 | Hear and produce the त/ट and द/ड contrasts in a random-order listening test. | त/ट और द/ड के भेद बिना देखे, केवल सुनकर पहचानें और बोलकर दिखाएँ। |
 | 4 | Read the lesson's fourteen words aloud, including नमः and कथा. | पाठ के चौदह शब्द ज़ोर से पढ़ें — नमः और कथा के साथ। |
 
-Objective 1 is drilled in §9/§11 and tested in §18 (exercises 1, 5) and §19 (Q1–2);
+Objective 1 is drilled in §9/§11 and tested in §18 (exercises 1, 5) and §19 (Q1–2, Q4);
 objective 2 in §18 (exercise 4) and §19 (Q5); objective 3 in §18 (exercises 2, 5) and §19
-(Q3–4, Q6); objective 4 in §18 (exercises 3, 6) and §19 (Q7–8).
+(Q3); objective 4 in §18 (exercises 3, 6) and §19 (Q6–8).
 
 ## 3. Previous Lesson Review
 
@@ -109,8 +109,8 @@ Walk the tongue walk from the sound map (v1.c01.l02) and you arrive at station f
 metaphor; it is an address, taken from दन्त (danta) "tooth" — दाँत. (The written form of
 दन्त hides a joined न्त that waits for Chapter 5; the sound of it you can already say.)
 
-> **[TRADITION · परम्परा]** The Pāṇinīya Śikṣā's tour of the mouth assigns each varga a
-> station from the throat forward; the fourth is named from the teeth themselves. It is a
+> **[TRADITION · परम्परा]** The Pāṇinīya Śikṣā assigns each varga a place of
+> articulation, and names the त-row's place from the teeth themselves: दन्त्य (dantya). It is a
 > physical claim about where the tongue goes — and modern articulatory phonetics signs off
 > on it without edits.
 
@@ -119,9 +119,9 @@ metaphor; it is an address, taken from दन्त (danta) "tooth" — दा�
 > their own t and d — made behind the teeth, not on them — are not the same sounds.
 > [REF:whitney1889 §§47–48]
 
-> **[FACT · तथ्यम्]** True dentals are the world's common default: Spanish, Italian, French,
-> Russian and Hindi all make their t-sounds at or on the teeth. English, with its alveolar
-> habit, is the outlier here — Sanskrit sides with the majority. [REF:ladefoged2015]
+> **[FACT · तथ्यम्]** Spanish, Italian, French, Russian and Hindi all make their t-sounds at
+> or on the teeth. English, with its alveolar habit, does not — and Sanskrit sides with the
+> dental group. [REF:ladefoged2015]
 
 So if you speak Hindi, or have Spanish or Italian in your ear, today is a homecoming twice
 over. If English is your only anchor, today is the day your *t* finally moves house.
@@ -136,10 +136,11 @@ over. If English is your only anchor, today is the day your *t* finally moves ho
 > means exactly "at the teeth". [REF:ladefoged2015]
 
 > **[FACT · तथ्यम्]** English t, d and n are alveolar: the tongue lands on the gum ridge
-> *behind* the teeth and never touches the teeth themselves. To ears trained on a
-> Sanskrit-type system, English t and d actually sound closer to the retroflex row — which
-> is why English loanwords land in Hindi spelling with ट and ड (टिकट, डॉक्टर), never with
-> त and द. [REF:ladefoged2015] [REF:masica1991]
+> *behind* the teeth and normally does not touch the teeth themselves (only before a *th*,
+> as in *eighth*, does it slide forward onto them). To ears trained on a Sanskrit-type
+> system, English t and d actually sound closer to the retroflex row — which is why English
+> *t* and *d* regularly land in Hindi spelling as ट and ड (टिकट, डॉक्टर) rather than as त
+> and द. [REF:ladefoged2015] [REF:masica1991]
 
 Read that second block twice, because it deletes a comfortable assumption: your English *t*
 is not "basically त with an accent". It is closer to *yesterday's* letter than to today's.
@@ -206,7 +207,7 @@ job whenever we name a sound.
 
 और अन्त में आज की सबसे मीठी बात: नमः अब आप पढ़ सकते हैं — नमस्ते का आधा हिस्सा, अपनी
 आँखों से! बाक़ी आधे के लिए स चाहिए (अध्याय 4 में आएगा) और स्ते का संयुक्ताक्षर (अध्याय 5)।
-पहले पाठ का वादा अब सिर्फ़ दो अध्याय दूर है।
+पहले पाठ में जो नमस्ते आपने कान से सीखा था, उसे पूरा पढ़ पाना अब सिर्फ़ दो अध्याय दूर है।
 
 ## 8. English Explanation
 
@@ -252,15 +253,15 @@ words constantly from here on. This is the busiest kind of row there is.
 
 You can now read नमः. You can even read ते on its own — त wearing lesson v1.c02.l04's
 e-sign. What you cannot yet read is the way स् and ते fuse on the page in नमस्ते: the
-letter स arrives in Chapter 4, and Chapter 5 teaches the joined writing of स्ते. The
-promise made in the first lesson of this course — *one day you will read नमस्ते* — is now
-exactly two chapters from kept.
+letter स arrives in Chapter 4, and Chapter 5 teaches the joined writing of स्ते. नमस्ते —
+the greeting you first learned by ear in the very first lesson of this course — is now
+exactly two chapters from fully readable.
 
 ## 9. Pronunciation
 
 उच्चारणम् — three drills, in order. Audio: 🔊
-`planned:assets/audio/volume-1/v1c03l04-varga-drill.mp3` (drills 1–2) and
-`planned:assets/audio/volume-1/v1c03l04-word-list.mp3` (drill 3).
+`planned:assets/audio/volume-1/v1c03l04-varga-drill.mp3` (drills 1–3) and
+`planned:assets/audio/volume-1/v1c03l04-word-list.mp3` (the §14 words that close drill 2).
 
 **Drill 1 — the row recital, checks attached.** Fingertip on the biting edge of the upper
 front teeth. Speak the row slowly: त — थ — द — ध — न. The tongue must touch the fingertip
@@ -345,7 +346,8 @@ ridge, the hum changes color. Park, hold, listen.
    gap. द seals completely — throat buzzing behind a closed door. *Fix:* no air during the
    hold; for ध, murmur *after* the release: buzz throughout, warm air on the palm.
 4. **The न/ण collapse (Hindi speakers most of all).** Everyday Hindi lets ण relax into न
-   (गुण said as "गुन"), and dictation shows the reverse too — न written where ण belongs.
+   (गुण said as "गुन"), and dictation shows the same collapse on paper — न written where ण
+   belongs.
    *Fix:* the pair drill ना — णा with fingertip: touch = न, no-touch-and-curl = ण. In
    dictation ask of every n-sound: did it bend backward?
 5. **Final-vowel deletion (Hindi speakers).** दिन and धन are daily Hindi words, so the
@@ -358,10 +360,10 @@ ridge, the hum changes color. Park, hold, listen.
 उदाहरणानि — the word the course was saving, a riverbank completed, and honey with a
 passport.
 
-### कथा — fifteen stories in the waiting room
+### कथा — fourteen stories in the waiting room
 
-Since Chapter 1, the story section of every single lesson has opened with the same heading
-word — कथा. Fifteen story sections have worn it while you read around it. Today: क + था →
+Since lesson 2 of Chapter 1, the story section of every lesson has opened with the same
+heading word — कथा. Fourteen story sections have worn it while you read around it. Today: क + था →
 **कथा** (kathā) "story, tale" — कहानी · /kɐt̪ʰɑː/ [REF:apte1890 s.v. कथा]. From this
 lesson on, the heading of §17 is not scenery; it is the first word you read there.
 
@@ -409,9 +411,9 @@ every one readable: no 🔊 crutches. Audio: 🔊
 | दधि | dadhi | /d̪ɐd̪ʱi/ | yogurt, curds | दही | द then ध — the murmur arrives mid-word |
 | धन | dhana | /d̪ʱɐn̪ɐ/ | wealth | धन | murmur test-word; page-twin alert: ध, not घ |
 | मधु | madhu | /mɐd̪ʱu/ | honey; sweet | मधु, शहद | mead-cognate (§13); below-hook on ध |
-| नदी | nadī | /n̪ɐd̪iː/ | river | नदी | pairs with तट and कूल — three bank-words now |
+| नदी | nadī | /n̪ɐd̪iː/ | river | नदी | pairs with तट and कूल — now a river runs between your two bank-words |
 | नमः | namaḥ | /n̪ɐmɐh/ | homage, salutation | नमन, प्रणाम | first half of नमस्ते (§8); palm test on ः |
-| मन | mana | /mɐn̪ɐ/ | mind | मन | stem of *manas* — full noun story in Volume 3 |
+| मनः | manaḥ | /mɐn̪ɐh/ | mind | मन | नमः with its two consonants swapped; pause form of the noun मनस् (manas), as नमः is of नमस् (namas) — full noun story in Volume 3 |
 | जन | jana | /d͡ʑɐn̪ɐ/ | person, people | जन, लोग | च-row ज meets today's न |
 | नीति | nīti | /n̪iːt̪i/ | conduct, policy | नीति | long ī then short i — clock discipline |
 | नील | nīla | /n̪iːlɐ/ | blue | नीला | full final अ: nī-la |
@@ -454,7 +456,8 @@ tracing: `planned:assets/worksheets/volume-1/v1c03l04-tracing.pdf`.)
   beak at the top, then the deep belly curving down and left, hooking back beneath itself;
   its short headline last.
 - **ध** — write द's beak and belly, but let the belly's end climb into a full vertical
-  stem; full headline last. ध is द given a roof and a spine.
+  stem; headline last — over the stem only, leaving the beak's top open (the cue that
+  separates it from घ, below). ध is द given a spine.
 - **न** — the short hook at the upper left, then the sweep right into the foot of the
   stem; stem; headline last.
 
@@ -486,7 +489,8 @@ read. Bold = readable. 🔊 audio recorded into the Chapter 3 drill pack (§27).
 (ām, kathā!) "Yes — a story!" — हाँ, कहानी!
 
 One glue word only — आम् (ām) "yes" — हाँ 🔊, an ear-friend since Chapter 1. नमः here is
-the plain, everyday salutation in its pause form: a small bow in sound. This is the most
+a learner's stand-in for the full greeting नमस्ते, which you will read in Chapter 5 — a
+small bow in sound. This is the most
 readable dialogue of the course so far, and the shortest story-request in world literature.
 
 ## 17. Story
@@ -503,19 +507,19 @@ IAST, English, Hindi.
 3. **माता** — आम्, **नमः**!
    (mātā — ām, namaḥ!) "Mother: Yes — greetings!" — माँ — हाँ, नमस्ते!
 4. **कमला** — **कथा**? **कथा**?
-   (kathā? kathā?) "Kamalā: A story? A story?" — कमला — कहानी? कहानी?
+   (kamalā — kathā? kathā?) "Kamalā: A story? A story?" — कमला — कहानी? कहानी?
 5. **माता** — आम्, **कथा**। "**उलूकः** अत्र अस्ति। **मधु** अत्र अस्ति।"
    (mātā — ām, kathā. "ulūkaḥ atra asti. madhu atra asti.") "Mother: Yes — a story. 'An
-   owl is here. Honey is here.'" — माँ — हाँ, कहानी। "एक उल्लू है। शहद है।"
+   owl is here. Honey is here.'" — माँ — हाँ, कहानी। "एक उल्लू यहाँ है। शहद यहाँ है।"
 6. **कमला** — **ततः**? **ततः**?
    (kamalā — tataḥ? tataḥ?) "Kamalā: Then? Then?" — कमला — फिर? फिर?
 
 Glue words 🔊, all established: अत्र (atra) "here" — यहाँ; अस्ति (asti) "is" — है; आम्
 (ām) "yes" — हाँ. Everything else is yours — including **उलूकः** whole: in Chapter 2 the
 owl's tail ः needed the audio's help; since lesson 6 it is fully yours. Growth, measured in
-one word. Mother's story opens the way every story you have ever read here opens — अत्र
+one word. Mother's story opens the way most stories you have read here open — अत्र
 अस्ति — and the owl in it is Chapter 2's owl, hopping from your vocabulary into a story
-*inside* a story. And yes, enjoy the joke: after fifteen lessons of stories filed under a
+*inside* a story. And yes, enjoy the joke: after fourteen story sections filed under a
 heading you could not read, your first fully-owned story-word arrives in a story about
 *asking for* a story — and Kamalā's ततः? ततः? is every learner at the end of every lesson.
 The telling pauses here; lesson 5 brings the words that let it move.
@@ -592,8 +596,9 @@ endings to put things *in* the sky; what an ending does to a word is Volume 3's 
 3. (c) place — same manner, different address (§5, §10).
 4. (b) [ð] is a fricative; द /d̪/ seals completely (§10, §12 mistake 3).
 5. (a) — beak and headline-loop are the page cues; back vs teeth is the sound cue (§15).
-6. (a) धन /d̪ʱɐn̪ɐ/ "wealth" — दान fails on the vowel, दिन on vowel and murmur, घन is the
-   page-twin trap read aloud (§13, §15).
+6. (a) धन /d̪ʱɐn̪ɐ/ "wealth" — दान and दिन each fail twice, on murmur and vowel (plain द,
+   and long आ or short इ where धन has short अ); घन is the page-twin trap read aloud (§13,
+   §15).
 7. (b) स in Chapter 4, the conjunct स्ते in Chapter 5 — नमः and even ते are already
    readable on their own (§8).
 8. (a) कथा = "story"; (b) नदी = "river"; (c) मधु = "honey"; (d) गगन = "sky" (§14).
@@ -616,7 +621,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 - **In 1 day:** retake the contrast test (exercise 2) cold — expect the post-sleep jump;
   write थ द ध न from memory; write ध and घ side by side once, naming the cues aloud.
 - **In 1 week:** the four-row recital from memory with all checks; re-dictation of the
-  full §14 list, pass bar 9/10; re-answer quiz Q3–Q5 without looking.
+  full §14 list, pass bar 13/14; re-answer quiz Q3–Q5 without looking.
 - **From lesson 5:** the last row — the lips. म comes home the way त did today, the grid
   completes, and the chapter's real payoff arrives: your first complete readable
   sentences.
@@ -687,8 +692,8 @@ retest policy do its quiet work.
 > equal size and visual weight in one row: त थ द ध न, each giant in Noto Serif Devanagari,
 > ink-black; under each its IAST ("ta", "tha", "da", "dha", "na", humanist serif) and IPA
 > ("/t̪ɐ/", "/t̪ʰɐ/", "/d̪ɐ/", "/d̪ʱɐ/", "/n̪ɐ/", monospace-feel sans); a small manner
-> badge per card: "voiceless · अघोष-style label omitted — English label only", i.e.
-> "voiceless", "voiceless aspirated", "voiced", "voiced breathy", "nasal". त's card adds a
+> badge per card, English labels only: "voiceless", "voiceless aspirated", "voiced",
+> "voiced breathy", "nasal". त's card adds a
 > slim saffron ribbon: "helper since Chapter 1 — home today". Footer strip across all
 > five: a fingertip-touching-teeth icon with caption "जीभ दाँतों पर · tongue ON the
 > teeth". Saffron #E08A00 accent, print-friendly, no decorative clutter, no religious
@@ -743,9 +748,10 @@ Lesson video, ~6 min, presenter + motion graphics, matching the chapter's look.
    tissue barely moves (त), leaps (थ), throat-hand buzz (द), buzz + warm air (ध), nose
    hum (न). The 5×5 grid fills its fourth row cell by cell.
 5. **The payoff (4:00–5:10):** word wall — कथा assembles block by block over the §17
-   heading of past lessons flipping by; then नमस्ते splits on screen into नमः + स्ते: the
-   first half lights up readable, the second carries tags "स — Chapter 4" and "स्ते —
-   Chapter 5". Caption: "Two chapters to the whole greeting."
+   heading of past lessons flipping by; then नमस्ते splits on screen into नमः + ते and
+   both halves light up readable; the join replays — ः turning into स् and fusing with ते
+   — tagged "स — Chapter 4" and "स्ते — Chapter 5". Caption: "Two chapters to the whole
+   greeting."
 6. **Story + recap (5:10–6:00):** riverbank at dusk, mother and Kamalā, an owl and a
    honey-pot appearing *inside* a thought-bubble story; ततः? ततः? as the bubble pauses.
    Recap card: teeth · five slots · कथा · नमः. End card: "Next: the lips — and the first
@@ -757,15 +763,15 @@ Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [bracket
 narrator reads them as IPA, not as English spelling.
 
 - **00:00** Say "tea". Now touch a fingertip to your top front teeth, put your tongue on
-  them, and say it again: ta [t̪ɑː]. Feel that? You just crossed a border.
+  them, and say it again: tā [t̪ɑː]. Feel that? You just crossed a border.
 - **00:20** English t lives on the ridge behind the teeth. Yesterday's Sanskrit ट [ʈɐ]
   curls further back still. Today's row lives ON the teeth — दन्त्य [d̪ɐn̪t̪jɐ], "of the
   teeth".
 - **00:40** And one of today's letters you already know. ta [t̪ɐ] — the helper that built
   mātā [mɑːt̪ɑː], tataḥ [t̪ɐt̪ɐh], tila [t̪ilɐ]. Two chapters of service. Today it comes
   home.
-- **01:30** Three addresses, one drill. English "ta" — feel the ridge. ṭa [ʈɑː] — curl.
-  ta [t̪ɑː] — teeth, fingertip confirming. Again: ridge… curl… teeth. Your tongue is
+- **01:30** Three addresses, one drill. English "ta" — feel the ridge. ṭā [ʈɑː] — curl.
+  tā [t̪ɑː] — teeth, fingertip confirming. Again: ridge… curl… teeth. Your tongue is
   learning street names.
 - **02:50** Five letters, five old jobs. ta [t̪ɐ] — the tissue barely moves. tha [t̪ʰɐ] —
   it leaps. da [d̪ɐ] — the throat buzzes. dha [d̪ʱɐ] — buzz plus warm breath. na [n̪ɐ] —
@@ -773,10 +779,10 @@ narrator reads them as IPA, not as English spelling.
 - **03:30** Careful, readers of English: THA is not the *th* of *thin*, and DA is not the
   *th* of *the*. Nothing in this row hisses. Stop first — silence — then release.
 - **04:00** Now the payoff. ka [kɐ]… thā [t̪ʰɑː]… kathā [kɐt̪ʰɑː] — "story". The word at
-  the head of every story you have read in this course. Fifteen lessons. Yours now.
+  the head of almost every story you have read in this course. Fourteen stories. Yours now.
 - **04:30** And this one. na [n̪ɐ]… maḥ [mɐh]… namaḥ [n̪ɐmɐh] — homage, a bow. Half of
   namaste [n̪ɐmɐst̪eː], readable with your own eyes. The rest needs one letter and one
-  join — Chapter 4, Chapter 5. The promise is close.
+  join — Chapter 4, Chapter 5. Two chapters to the whole greeting.
 - **05:10** By the river: a mother, a girl, a greeting — namaḥ [n̪ɐmɐh]! — and a request:
   kathā [kɐt̪ʰɑː]? A story begins: an owl… honey… tataḥ [t̪ɐt̪ɐh]? Then what? That
   question is you, every lesson.
@@ -793,7 +799,8 @@ narrator reads them as IPA, not as English spelling.
   ridge. Sanskrit ट [ʈɐ] — curled back. Sanskrit त [t̪ɐ] — teeth. Three sounds, three
   addresses, one finger to tell them apart." Then: "And the famous *th*? थ [t̪ʰɐ] is a
   POP plus breath — never the hiss of *thin*."
-- **Payoff (0:30–0:42):** नमस्ते splits on screen into नमः + स्ते; the first half glows.
+- **Payoff (0:30–0:42):** नमस्ते splits on screen into नमः + ते; नमः glows, and the join
+  (ः → स्) is tagged "Chapters 4–5".
   "After today's four letters, learners can READ the first half of namaste — the rest is
   two chapters away." Word wall: कथा, नदी, मधु, धन.
 - **CTA (0:42–0:50):** "This is Sanskritam, Chapter 3: the dental row. Follow — next the
@@ -806,21 +813,21 @@ narrator reads them as IPA, not as English spelling.
   - `assets/images/volume-1/v1c03l04-stroke-order.svg` — §15, §23 prompt 2 (ध/घ panel
     ships with this asset; the §15 text alone is not authoritative — conventions vary)
   - `assets/diagrams/volume-1/v1c03l04-dental-vs-retroflex.svg` — §5, §9, §11, §23 prompt 3
-  - `assets/audio/volume-1/v1c03l04-varga-drill.mp3` — §9 drills 1–2, §18 exercise 1
+  - `assets/audio/volume-1/v1c03l04-varga-drill.mp3` — §9 drills 1–3, §18 exercise 1
   - `assets/audio/volume-1/v1c03l04-contrast-test.mp3` — §18 exercise 2, §20/§21 retests;
     must ship with a printed answer transcript for self-checking
-  - `assets/audio/volume-1/v1c03l04-word-list.mp3` — §14 model reading, §9 drill 3, §18
-    exercise 3
+  - `assets/audio/volume-1/v1c03l04-word-list.mp3` — §14 model reading, §9 drill 2
+    (closing words), §18 exercise 3
   - `assets/worksheets/volume-1/v1c03l04-tracing.pdf` — §18 exercise 4, layout §23 asset 4
   - §6 lines, §16 dialogue and §17 story audio are NOT in this manifest — record into the
     Chapter 3 drill pack (chapter.md assets manifest) and back-link here when they exist.
 - **Related lessons:** reviews v1.c03.l03 (retroflex row — the standing contrast partner;
-  तट, घट, गुण reused) and v1.c01.l03 (the writing system's foundations; the helper era
-  began there, त itself arriving in v1.c01.l04); नमः is readable because of v1.c02.l06
+  तट, घट, गुण reused) and v1.c01.l04 (त's arrival as a helper consonant — glyph + /t̪/
+  only); नमः is readable because of v1.c02.l06
   (visarga) and ते because of v1.c02.l04 (e-sign); feeds v1.c03.l05 (labial row — म's
   homecoming, first full sentences), v1.c03.l06 (grid assessment incl. त/ट and द/ड pairs),
-  v1.c04 (स — नमस्ते one step nearer), v1.c05 (conjuncts — स्ते joined, the lesson-1
-  promise kept), Volume 3 (the sandhi behind नमः/नमस्, noun endings, the *manas* stem).
+  v1.c04 (स — नमस्ते one step nearer), v1.c05 (conjuncts — स्ते joined, नमस्ते
+  fully readable), Volume 3 (the sandhi behind नमः/नमस्, noun endings, the *manas* stem).
 - **Glossary flags:** दन्त्य already in GLOSSARY.md (first taught v1.c01.l02); वर्ग used
   as a working term since the sound map — confirm it entered GLOSSARY with v1.c03.l01 in
   the post-chapter loop, else add with that first-taught tag. No other new terminology.
@@ -837,6 +844,6 @@ narrator reads them as IPA, not as English spelling.
   in all renders; the §15 grid table is wide — wrap in a horizontally scrollable container
   on mobile.
 - **Register audit:** FACT ×5 (§4 ×1, §5 ×2, §8 ×1, §13 ×1) · HISTORY ×1 (§4, cited) ·
-  TRADITION ×1 (§4, source named) · SYMBOL ×0 — नमः is taught as lexicon and everyday
-  salutation; devotional contexts and mantra uses are deliberately not invoked, and
+  TRADITION ×1 (§4, source named) · SYMBOL ×0 — नमः is taught as lexicon and as a learner's
+  stand-in greeting; devotional contexts and mantra uses are deliberately not invoked, and
   nothing symbolic is assessed. Quiz Q1–8 all FACT-register content.

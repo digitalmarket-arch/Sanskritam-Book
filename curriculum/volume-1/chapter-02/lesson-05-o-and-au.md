@@ -53,8 +53,8 @@ updated: 2026-07-21
 
 Two letters stand between you and a finished map. Learn ओ and औ today and every vowel Sanskrit
 has — all thirteen — is yours: heard, said, written, read. No other lesson completes an
-inventory this cleanly. And a bonus waits at the finish line: with today's ओ in hand, the most
-famous single syllable on Earth — the one on temple doors, book covers and pendants — stops
+inventory this cleanly. And a bonus waits at the finish line: with today's ओ in hand, a
+syllable you have surely seen — the one on temple doors, book covers and pendants — stops
 being a picture and becomes something you can simply *read*: ॐ. What it sounds like is a fact;
 what it means is a longer story, and this lesson tells both without mixing them up.
 
@@ -98,7 +98,7 @@ rehearsed in §21 (teach-back).
 
 ## 4. Historical Context
 
-ऐतिहासिक सन्दर्भः — the last two seats at the vowel table were reserved long ago.
+ऐतिहासिकः सन्दर्भः — the last two seats at the vowel table were reserved long ago.
 
 > **[TRADITION · परम्परा]** The Māheśvara-sūtras — the fourteen sound-list sūtras prefixed to
 > Pāṇini's grammar — seat the vowels deliberately: simple vowels first, then two closing
@@ -110,15 +110,16 @@ Modern historical grammar agrees with the old label: ए ऐ ओ औ descend fro
 combinations, which is why they drive the sandhi patterns you will meet in Volume 3
 [REF:whitney1889 §§27–29] [REF:burrow2001]. Today you complete the set the sūtras close with.
 
-One more piece of history hides in this lesson's famous syllable:
+One more fact hides in this lesson's famous syllable:
 
-> **[HISTORY · इतिहासः]** Across the Brahmi-descended scripts of South and Southeast Asia, the
-> syllable om is conventionally written not letter by letter but as a distinct single sign —
-> a ligature with its own regional shapes. The Devanagari form ॐ is one member of that
-> family. [REF:masica1991 ch.6]
+> **[FACT · तथ्यम्]** Some scripts of the Brahmi family give the syllable om a dedicated sign
+> of its own: Devanagari's ॐ — Unicode U+0950 — has counterparts in Gujarati (U+0AD0) and
+> Tamil (U+0BD0), and Gurmukhi and Tibetan have their own signs too. Other scripts simply
+> spell the syllable with ordinary letters: Bengali writes o plus a candrabindu, Telugu and
+> Kannada write o plus an anusvāra.
 
-That is why ॐ looks like no other akṣara you have learned: it is a written convention with a
-long, multi-script career. What it *sounds* like is §17's first layer.
+That is why ॐ looks like no other akṣara you have learned: it is a written convention, shared
+in different shapes by several scripts. What it *sounds* like is §17's first layer.
 
 ## 5. Scientific Explanation
 
@@ -256,14 +257,14 @@ bottom — you can now produce every row with its correct place, length and move
 Thirteen vowels, five mātrā positions (right, left, below, above, composite), and not one
 taken on faith. This table is no longer the course's map. It is yours.
 
-And one door it just opened: ओ + म् is the reading of the most recognized written syllable on
-Earth. Its full, three-layered story is §17.
+And one door it just opened: ओ + म् is the reading of ॐ, the syllable on temple doors, book
+covers and pendants. Its full, three-layered story is §17.
 
 ## 9. Pronunciation
 
 उच्चारणम् — three drills, in order. Audio: 🔊
-`planned:assets/audio/volume-1/v1c02l05-o-drill.mp3` (drills 1–2) and
-`planned:assets/audio/volume-1/v1c02l05-word-list.mp3` (drill 3 and §14).
+`planned:assets/audio/volume-1/v1c02l05-o-drill.mp3` (drills 1–3) and
+`planned:assets/audio/volume-1/v1c02l05-word-list.mp3` (§14).
 
 **Drill 1 — the freeze test (ओ).** Round the lips, raise the back of the tongue, hold ओ for a
 slow two-count. The test is the *end* of the vowel: at the final instant, are your lips
@@ -350,12 +351,12 @@ Lesson 4 showed you तिल (tila) "sesame" becoming तैल (taila) "oil" �
 i → ai. Watch today's pair: लोक (loka) "world" gives लौकिक (laukika) "worldly" — first vowel
 strengthened again, o → au.
 
-> **[FACT · तथ्यम्]** Sanskrit regularly derives adjectives of relation by strengthening the
-> first vowel of the base word to its vṛddhi grade: तिल → तैल, लोक → लौकिक. One process, two
-> sightings — a pattern now, not a coincidence. Full treatment of derivation waits for
-> Volume 4. [REF:apte1890 s.v. तैल, लौकिक]
+> **[FACT · तथ्यम्]** Sanskrit regularly derives new words from a base — nouns like तैल "oil",
+> adjectives of relation like लौकिक "worldly" — by strengthening the first vowel of the base
+> word to its vṛddhi grade: तिल → तैल, लोक → लौकिक. One process, two sightings — a pattern
+> now, not a coincidence. Full treatment of derivation waits for Volume 4. [REF:apte1890 s.v. तैल, लौकिक]
 
-Three chapters in, you are already catching Sanskrit's word-machinery in the act.
+Not even two chapters in, you are already catching Sanskrit's word-machinery in the act.
 
 ### The bird, and the words at work
 
@@ -404,7 +405,7 @@ above (े ै), composite (ो ौ). Position is a fact of the script, never of
 
 > **[FACT · तथ्यम्]** ॐ is a single conventional ligature — in Unicode a single character
 > (U+0950), not a sequence of letters. The same syllable can also be spelled out as ओम् (om);
-> both spellings read identically. You read ॐ; you do not assemble it. [REF:masica1991 ch.6]
+> both spellings read identically. You read ॐ; you do not assemble it.
 
 (The म् in ओम् uses the virāma, the vowel-silencing stroke — full mechanics in Chapter 5;
 today it rides along by ear.)
@@ -438,7 +439,9 @@ Chapter 2 drill pack (§27). The teacher holds up a picture.
 
 Glue words, glossed and audio-only for now: पश्य (paśya) "look!" — देखो 🔊; एषः (eṣaḥ) "this"
 — यह 🔊; कः (kaḥ) "who? what?" — कौन 🔊. The ः everywhere is next lesson's visarga — after
-tomorrow you will read these lines *whole*. कोकिल, कौतुक, कोमल are already yours.
+tomorrow you will read कः, कोकिलः and कोमलः whole; पश्य and एषः wait for later chapters (प in
+Chapter 3, श ष य in Chapter 4, conjuncts in Chapter 5), and the final म् of कौतुकम् waits for
+the virāma (Chapter 5). कोकिल, कौतुक, कोमल are already yours.
 
 ## 17. Story
 
@@ -446,8 +449,8 @@ tomorrow you will read these lines *whole*. कोकिल, कौतुक, �
 
 You have seen ॐ your entire life: on doorways, on book covers, in jewelry, at the head of
 manuscripts. Today you can finally *read* it — and precisely because this syllable carries
-more meaning for more people than any other in the script, the course owes it the cleanest
-treatment it can give. Here it is, in three layers, each labeled as what it is.
+deep meaning for many people, the course owes it the cleanest treatment it can give. Here it
+is, in three layers, each labeled as what it is.
 
 > **[FACT · तथ्यम्]** Phonetically, the careful recitation of ओम् is [oːm]: the pure long
 > vowel /oː/ you learned today, closed by a simple [m]. Two sounds, two-plus beats, no mystery
@@ -526,8 +529,9 @@ skill too.)
 6. लौकिक is derived from लोक the same way तैल is derived from तिल. What happens to the first
    vowel of the base word? (a) it strengthens to its vṛddhi grade (b) it is deleted (c) it
    nasalizes (d) it shortens
-7. In careful recitation, ॐ is pronounced: (a) [ɐum], three separate vowels (b) [oːm] — pure
-   long o with an m-closure (c) [ɔːm], as in modern Hindi (d) it has no fixed pronunciation
+7. In careful recitation, ॐ is pronounced: (a) [ɐum], a-u-m sounded as three separate
+   segments (b) [oːm] — pure long o with an m-closure (c) [ɔːm], as in modern Hindi (d) it has
+   no fixed pronunciation
 8. According to the traditional analysis in the Māṇḍūkya framework, the syllable om is
    analyzed into: (a) o + m only (b) the three elements a, u, m (c) the two elements a + i
    (d) it is treated as unanalyzable
@@ -691,7 +695,7 @@ Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [bracket
 narrator reads them as IPA, not as English spelling.
 
 - **00:00** Eleven vowels down. Two to go. Today the Sanskrit vowel map — all thirteen — gets
-  finished. And a bonus: the most famous syllable on Earth becomes something you can read.
+  finished. And a bonus: a syllable you have seen all your life becomes something you can read.
 - **00:35** First sound: o [oː]. Lips rounded, tongue back — and freeze. Two full beats,
   nothing moves. o [oː].
 - **00:55** The trap: English "go" starts right, then slides shut. Watch the waveform bend.
@@ -755,14 +759,15 @@ narrator reads them as IPA, not as English spelling.
   the 13-vowel inventory can-do); vṛddhi derivation (§13) full treatment in Volume 4; virāma
   in ओम् (§15) in v1.c05; sandhi of the sandhyakṣara (§4) in Volume 3; Māheśvara-sūtra system
   in v4.c01.
-- **Glossary flags:** सन्ध्यक्षर (sandhyakṣara "junction vowel") used §4/§10 — candidate for
-  GLOSSARY.md with first-taught v1.c02.l04 (confirm against that lesson's final text);
+- **Glossary flags:** सन्ध्यक्षर (sandhyakṣara "junction vowel") used §4/§10 — in GLOSSARY.md
+  (first-taught v1.c02.l04);
   द्विस्वर used informally for "diphthong" in Hindi text — reconcile with GLOSSARY's chosen
   term.
 - **Verification flags for Pass C:** [REF:whitney1889 §28] locus for the [oːm] reading —
   confirm exact §; [REF:whitney1889 §§27–29] sandhyakṣara/fusion locus — confirm;
-  [REF:masica1991 ch.6] covers both mātrā composition and the om-ligature claim — confirm the
-  ligature-across-scripts statement; vṛddhi pattern (§13) currently cited to Apte s.v. — add a
+  [REF:masica1991 ch.6] covers mātrā composition (§5, §15 Rule 1) only — the om-sign statements
+  (§4, §15 Rule 2) are FACT checked against the Unicode code charts (U+0950, U+0AD0, U+0BD0),
+  which carry no REF key; vṛddhi pattern (§13) currently cited to Apte s.v. — add a
   proper grammar locus; Māṇḍūkya framing (§17) kept deliberately date-soft per research note
   5.3 — Pass C confirms the a-u-m attribution wording. Per the preservation map, the 1.x a-u-m
   note was verified correct and lands here.
@@ -772,7 +777,7 @@ narrator reads them as IPA, not as English spelling.
   characters (ɐu̯, t̪, r̩) — NFC-normalize Devanagari fields only (STYLE_GUIDE §3), never IPA;
   §19 key stays inside `<details>` in all renders; §8's 13-vowel table is the chapter's
   inventory-complete artifact — exporter may reuse it for the l07 assessment screen.
-- **Register audit:** FACT ×6 (§5 ×3, §13, §15 ×2) · HISTORY ×1 (§4, cited) · TRADITION ×2
+- **Register audit:** FACT ×8 (§4, §5 ×3, §13, §15 ×2, §17) · HISTORY ×0 · TRADITION ×2
   (§4, §17 — both source-named) · **SYMBOL ×1 (§17 — never assessed: quiz Q7 tests the FACT
   layer, Q8 tests TRADITION framed "According to…", and no question touches the SYMBOL
   layer)**. Quiz Q1–6 are FACT-register content from §5/§9/§12/§13/§15.

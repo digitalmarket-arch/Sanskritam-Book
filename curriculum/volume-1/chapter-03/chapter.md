@@ -20,15 +20,16 @@ frame; Chapter 3 now walks the five vargas — velar to labial, one lesson each 
 five members of every varga the same full treatment** (the predecessor curriculum carded
 only the corners). The manner row — voiceless, aspirated, voiced, breathy, nasal — is
 learned deeply once and then reapplied four times, so each lesson runs faster than the last.
-By the chapter's end the learner owns 25 new letters, roughly 95 cumulative words, and reads
-their first complete Sanskrit sentences: बालकः चलति। कोकिलः कूजति।
+By the chapter's end the learner owns all 25 stops — 22 new letters plus the Chapter 1
+helpers क त म upgraded to full — has 114 cumulative readable words, and reads their first
+complete Sanskrit sentences: बालकः चलति। कोकिलः कूजति।
 
 ## Goals
 
 - All 25 stops to production quality: place from the lesson, manner from the reusable row
 - The aspiration and breathy-voice contrasts mastered with physical checks (tissue, hand)
 - The dental/retroflex contrast made explicit against English alveolar habits
-- Honest treatment of the rare letters (ङ ञ ठ ड ढ ण): equal cards, frank frequency notes
+- Honest treatment of the rare letters (ङ झ ञ ठ ड ढ ण): equal cards, frank frequency notes
 - First readable verb (चलति) and first fully readable, fully correct sentences (pause form)
 
 ## Can-do statements
@@ -38,7 +39,7 @@ By the end of this chapter the learner can:
 - [ ] Produce all 25 stops with correct place and manner, passing the tissue/hand checks
 - [ ] Write every stop letter and read it in any syllable with any taught mātrā
 - [ ] Fill the blank 5×5 grid from memory with manner labels, in under 5 minutes
-- [ ] Read ~55 new words and the milestone sentences aloud in careful pause form
+- [ ] Read 60 new words and the milestone sentences aloud in careful pause form
 - [ ] Hear and mark the four hard contrasts: क/ख, त/ट, द/ड, फ/[f]-habit
 
 ## Lessons
@@ -49,7 +50,7 @@ By the end of this chapter the learner can:
 | 2 | v1.c03.l02 | च-वर्गः — The Palatal Row | sound | च छ ज झ ञ; first readable verb चलति |
 | 3 | v1.c03.l03 | ट-वर्गः — The Retroflex Row | sound | ट ठ ड ढ ण |
 | 4 | v1.c03.l04 | त-वर्गः — The Dental Row | sound | थ द ध न (+त full); dental-vs-retroflex drills |
-| 5 | v1.c03.l05 | प-वर्गः — The Labial Row | sound | फ ब भ (+प, म full); sentence milestone |
+| 5 | v1.c03.l05 | प-वर्गः — The Labial Row | sound | प फ ब भ (+म full); sentence milestone |
 | 6 | v1.c03.l06 | पुनरावृत्तिः — Review & Assessment | review | none (grid mastery + sentences) |
 
 ## Assets manifest

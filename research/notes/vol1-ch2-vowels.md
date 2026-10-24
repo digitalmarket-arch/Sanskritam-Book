@@ -52,9 +52,9 @@ both verified — the chapter's second meaning-changing length pair.
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 3.1 | ऋ = /r̩/ syllabic r — a vowel made by holding the tongue in the r-position. Target value; modern regional realizations [ɾɪ]~[ɾi] ("ri") and [ɾu] (Maharashtra) are habits, not the classical target. | FACT | STYLE_GUIDE §2.1; [REF:whitney1889 §24] | The 1.x book taught "ri" as the value (IR-009); we teach /r̩/ with the variants noted honestly. |
+| 3.1 | ऋ = /r̩/ syllabic r — a vowel made by holding the tongue in the r-position. Target value; modern regional realizations [ɾɪ]~[ɾi] ("ri") and [ɾu] (Maharashtra) are habits, not the classical target. | FACT | STYLE_GUIDE §2.1; [REF:whitney1889 §24] (supports /r̩/ and the "ri" reading only; Marathi [ɾu] needs its own source) | The 1.x book taught "ri" as the value (IR-009); we teach /r̩/ with the variants noted honestly. |
 | 3.2 | ॠ /r̩ː/ occurs almost only in inflection (e.g. genitive plurals); ऌ /l̩/ occurs in forms of √कॢप् only. Taught for inventory completeness, no vocabulary load. | FACT | [REF:whitney1889 §§23–26] | One paragraph + recognition only. |
-| 3.3 | ृ attaches below-right of the consonant: कृ मृ तृ. | FACT | [REF:masica1991 ch.6] | |
+| 3.3 | ृ attaches below the consonant, hanging from the stem's foot like ु: कृ मृ तृ. | FACT | [REF:masica1991 ch.6] | |
 | 3.4 | अमृत (a-mṛta) "deathless" and Greek ámbrotos/ambrosía descend from the same PIE root *mer- "die" with negative prefix — cognates. | FACT | [REF:mallory2006], [REF:burrow2001] | The lesson's payoff: the ear-word from v1.c01.l03 becomes READABLE and gets its etymology. |
 | 3.5 | मातृ (mātṛ) is the dictionary stem of माता — introduces the concept "stem vs inflected form" in one honest paragraph (full treatment Volume 3). | FACT | [REF:whitney1889 §370ff], [REF:apte1890 s.v. मातृ] | Readable: मा + तृ. |
 
@@ -109,13 +109,13 @@ eager" [REF:apte1890]; कौतुक (kautuka) "curiosity, festivity" [REF:apt
 l02 dialogue एषः कः वर्णः, now readable in part; ततः (tataḥ) "then, thereafter" [REF:apte1890];
 अतः (ataḥ) "hence" [REF:apte1890]; इतः (itaḥ) "from here" [REF:apte1890]; कुतः (kutaḥ) "from
 where?" [REF:apte1890]; मतिः (matiḥ) — L1's मति in its dictionary citation form with visarga;
-अंक (aṅka) "hook; lap; mark, number" [REF:apte1890 s.v. अङ्क] with the अङ्क orthography note.
+अंक (aṃka) — classical spelling अङ्क (aṅka) — "hook; lap; mark, number" [REF:apte1890 s.v. अङ्क] with the अङ्क orthography note (corrected at audit).
 **Payoff:** the story-glue word अत्र stays 🔊 (त्र conjunct), but ततः/अतः give the learner
 their first *sentence-connector* words — usable in the L7 story retell.
 
 ### L7 — Review & assessment (mirrors v1.c01.l05 design)
 
-Cumulative: 13 vowels + 2 ayogavāha complete; ~30 readable words. Assessment tasks parallel
+Cumulative: 13 vowels + 2 ayogavāha complete; 54 readable words (Ch 1's 12 + 42 new across L1–L6) (corrected at audit). Assessment tasks parallel
 Chapter 1's five-task format (listening discrimination across ALL vowel contrasts, dictation,
 reading aloud, register sort with fresh cards, timed mātrā writing). The vowel-inventory
 can-do from v1.c01.l02 (13+33+2) is re-tested now that every vowel is *owned*, not counted.
@@ -132,8 +132,8 @@ can-do from v1.c01.l02 (13+33+2) is re-tested now that every vowel is *owned*, n
 ## 3. Pedagogy anchors (unchanged from Ch 1: [REF:roediger2006], [REF:cepeda2006], [REF:nation2013])
 
 Word-load per lesson stays ≤ 8 new readable words (Nation's load guidance); every lesson's §3
-re-summons the *previous* lesson's minimal pair as its first prompt; L7 runs the +1-week
-re-dictation of Chapter 1 promised in v1.c01.l05 §20.
+re-summons the *previous* lesson's minimal pair as its first prompt; L7 runs Chapter 1's +1-week
+re-runs of tasks C and E (read-aloud, timed writing) booked in v1.c01.l05 §20; the +1-day re-dictation belongs to L1 (corrected at audit).
 
 ## 4. Open questions / deferred
 

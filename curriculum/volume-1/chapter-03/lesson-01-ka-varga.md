@@ -14,7 +14,7 @@ cefr: A1
 duration_minutes: 45
 self_study_minutes: 35
 prerequisites: [v1.c02.l07]
-review_of: [v1.c01.l02, v1.c02.l06]
+review_of: [v1.c01.l02, v1.c01.l03, v1.c02.l06]
 objectives:
   - en: "Produce all five velar stops with correct manner, passing the tissue test for aspiration and the breathy check for घ."
     hi: "पाँचों कण्ठ्य स्पर्श सही प्रयत्न से बोलें — ख की टिशू-परीक्षा और घ की साँस-जाँच पास करते हुए।"
@@ -72,7 +72,7 @@ Chapter 1, finally goes home to the family it has been keeping quiet about.
 | 4 | Read the lesson's ten words aloud with full final vowels. | पाठ के दसों शब्द पूरे अन्तिम स्वर के साथ ज़ोर से पढ़ें। |
 
 Objective 1 is drilled in §9/§11 and tested in §18 (exercises 1–2) and §19 (Q2–4);
-objective 2 in §18 (exercises 3–4) and §19 (Q1, Q7); objective 3 in §18 (exercise 2) and
+objective 2 in §18 (exercises 3–4) and §19 (Q7); objective 3 in §18 (exercise 2) and
 §19 (Q1, Q5); objective 4 in §18 (exercises 1, 6) and §19 (Q6, Q8).
 
 ## 3. Previous Lesson Review
@@ -109,8 +109,11 @@ objective 2 in §18 (exercises 3–4) and §19 (Q1, Q7); objective 3 in §18 (ex
 
 > **[TRADITION · परम्परा]** The tradition calls each row of stops a वर्ग (varga) "group,
 > class", named after its first member: क-वर्ग "the k-group", च-वर्ग, and so on. The
-> Pāṇinīya Śikṣā files today's five under कण्ठ्य (kaṇṭhya) — articulated at the throat —
-> the label you met on the sound map. [REF:paniniyashiksha 13]
+> Siddhāntakaumudī (on Aṣṭādhyāyī 1.1.9) files today's five under कण्ठ्य (kaṇṭhya) —
+> articulated at the throat — the label you met on the sound map. Its line reads
+> अकुहविसर्जनीयानां कण्ठः (akuhavisarjanīyānāṃ kaṇṭhaḥ) "the throat is the place of a, the
+> k-row, h and visarga". [REF:siddhantakaumudi 1.1.9] The Pāṇinīya Śikṣā's own verses place
+> the k-row at the जिह्वामूल (jihvāmūla) "tongue-root" instead. [REF:paniniyashiksha]
 
 > **[HISTORY · इतिहासः]** The varga arrangement is not a modern teaching aid: Pāṇini's
 > grammar (c. 4th century BCE on the scholarly estimate) already treats each row as a
@@ -119,9 +122,10 @@ objective 2 in §18 (exercises 3–4) and §19 (Q1, Q7); objective 3 in §18 (ex
 
 Notice what kind of mind builds a system like that. Five slots per row, every row complete —
 even when everyday language barely needs one member. ङ, as you will see, occurs almost
-nowhere on its own; the grammarians gave it a letter and a seat anyway, because the pattern
-demanded it. That love of symmetry is not pedantry — it is what makes the grid *learnable*:
-because no row has holes, what you master today transfers whole to the next four lessons.
+nowhere on its own; the tradition's sound inventory gives it a full seat all the same — a
+real sound, completing the row. That love of symmetry is not pedantry — it is what makes the
+grid *learnable*: because no row has holes, what you master today transfers whole to the
+next four lessons.
 
 ## 5. Scientific Explanation
 
@@ -180,9 +184,9 @@ tradition's own design (§4).
 
 Two things to savor. First, इति is again doing its quoting job — lining up the five letters
 and naming them, exactly as the tradition uses it. Second, look at खगः and मेघः: the whole
-words, *tails included*, are yours — the ः is the visarga from v1.c02.l06. Last chapter the
-audio had to breathe every -ḥ for you; now you read it yourself. (The term वर्ग itself
-needs व and र — Chapter 4 letters — so hear it 🔊 for now.) New traditional terms arriving
+words, *tails included*, are yours — the ः is the visarga from v1.c02.l06. Early last
+chapter the audio had to breathe the -ḥ of उलूकः for you; now you read every tail
+yourself. (The term वर्ग itself needs व and र — Chapter 4 letters — so hear it 🔊 for now.) New traditional terms arriving
 today, glossed in §8/§15: स्पर्श (sparśa) "stop consonant", अल्पप्राण (alpaprāṇa)
 "light-breath", महाप्राण (mahāprāṇa) "big-breath", घोष (ghoṣa) "voiced", अघोष (aghoṣa)
 "voiceless", अनुनासिक (anunāsika) "nasal".
@@ -194,7 +198,7 @@ today, glossed in §8/§15: स्पर्श (sparśa) "stop consonant", अ�
 पहले वही जानी-पहचानी अच्छी ख़बर, आज ज़रा बड़े पैमाने पर: आज की पाँचों ध्वनियाँ आपकी अपनी
 हैं। क, ख, ग, घ में हिन्दी-भाषी के लिए सीखने जैसा कुछ नहीं — यही आवाज़ें आप कल, खेत, गाना
 और घर में रोज़ बोलते हैं। और पाँचवीं भी अजनबी नहीं: गंगा बोलिए और बिंदु पर एक पल रुकिए —
-नाक में जो गूँज रही है, वही ङ है। पिछले अध्याय के अनुस्वार-पाठ में आपने यह हिसाब खुद लगाया
+नाक में जो गूँज रही है, वही ङ है। पिछले अध्याय के अनुस्वार-पाठ में आपने यह हिसाब ख़ुद लगाया
 था; आज उस आवाज़ को उसका अपना अक्षर मिल रहा है। तो मेहनत किस बात की? तीन बातों की।
 
 पहली — ङ का अकेला रूप। हिन्दी में यह अक्षर लगभग हमेशा संयुक्त रूप में दिखता है — वाङ्मय
@@ -271,8 +275,8 @@ every other member. And the honest card-note:
 > [REF:apte1890]
 
 So ङ's practice today is recognition-plus: recite it, write it, and *spot* it inside
-अङ्क — the twin of अंक (aṃka), closing lesson 6's promise. How consonants physically stack
-into conjuncts like ङ्क is Chapter 5's machinery.
+अङ्क — the twin of अंक (aṃka) from v1.c02.l06, its hidden letter now carded. How
+consonants physically stack into conjuncts like ङ्क is Chapter 5's machinery.
 
 ### Worked readings — the payoff
 
@@ -387,9 +391,9 @@ word with a future.
 
 **खग** (khaga) "bird" — पक्षी, खग · /kʰɐgɐ/
 
-> **[FACT · तथ्यम्]** खग is built from two bound elements: ख (kha) "sky, open space" and
-> ग (ga) "going" — literally "the sky-goer". This is a real derivation recorded in the
-> classical dictionaries, not folk etymology. [REF:apte1890 s.v. खग]
+> **[FACT · तथ्यम्]** खग is built from ख (kha) "sky, open space" — a noun in its own
+> right — and the bound element ग (ga) "going" — literally "the sky-goer". This is a real
+> derivation recorded in the classical dictionaries, not folk etymology. [REF:apte1890 s.v. खग]
 
 Savor the coincidence: the two newest letters in your hand spell "sky" + "go", and the
 word takes off. How such elements attach is Volume 2's compound machinery; today, enjoy
@@ -463,11 +467,13 @@ tracing: `planned:assets/worksheets/volume-1/v1c03l01-tracing.pdf`.)
   swinging along the base and rising to the stem-line. (2) The stem. (3) The headline.
 - **घ — the hook into the bowl.** (1) One flowing stroke: a shallow hook from the top,
   dropping into the round-bottomed bowl, curling closed, rising into the right-hand stem.
-  (2) The headline, full width. Watch the *round bottom* — the lesson-4 lookalike ध will
-  test you on it. Write घ big, ten times, today.
+  (2) The headline, full width. Watch the *left arm hanging from the headline* — the
+  lesson-4 lookalike ध wears a beak there instead and will test you on it. Write घ big, ten
+  times, today.
 - **ङ — the open bowl and its dot.** (1) From headline height, a wide cup opening upward,
-  left to right, ending in a small upward tail at the right. (2) The dot, snug above the
-  tail. (3) The headline.
+  left to right, ending in a small upward tail at the right. (2) The headline. (3) The dot,
+  snug above the tail — the one mark drawn after the headline, as the stroke card numbers
+  it.
 
 > **[FACT · तथ्यम्]** The dot of ङ is a body part of the letter — ink that belongs to the
 > glyph itself. It is not an anusvāra: the anusvāra dot rides *above the headline* of a
@@ -488,7 +494,8 @@ Draw this table in your notebook — five columns labeled, first row filled, fou
 | त-वर्ग | दन्त्य dental | · | · | · | · | lesson 4 |
 | प-वर्ग | ओष्ठ्य labial | · | · | · | · | lesson 5 |
 
-The column labels are today's five technical terms, and they are transparent: अल्पप्राण
+The column labels use four of today's five technical terms — the fifth, अल्पप्राण, names
+the unmarked slots 1, 3 and 5 — and all five are transparent: अल्पप्राण
 "little breath", महाप्राण "big breath", घोष "voiced, sounding", अघोष "unvoiced", अनुनासिक
 "through the nose". Sanskrit's grammar-language *describes what your mouth does* — you
 verified every label by hand in §5.
@@ -498,14 +505,14 @@ verified every label by hand in §5.
 सम्भाषणम् — at the window, morning. Something lands on the vine. 🔊 audio recorded into
 the Chapter 3 drill pack (§27).
 
-— पश्य! खग!
-(paśya! khaga!) "Look! A bird!" — देखो! पक्षी!
+— पश्य! खगः!
+(paśya! khagaḥ!) "Look! A bird!" — देखो! पक्षी!
 
-— खग? कुतः?
-(khaga? kutaḥ?) "A bird? From where?" — पक्षी? कहाँ से?
+— खगः? कुतः?
+(khagaḥ? kutaḥ?) "A bird? From where?" — पक्षी? कहाँ से?
 
-— अत्र! आम्, खग!
-(atra! ām, khaga!) "Here! Yes — a bird!" — यहाँ! हाँ, पक्षी!
+— इतः! आम्, खगः!
+(itaḥ! ām, khagaḥ!) "From here! Yes — a bird!" — यहाँ से! हाँ, पक्षी!
 
 — कति खग?
 (kati khaga?) "How many birds?" — कितने पक्षी?
@@ -515,7 +522,7 @@ the Chapter 3 drill pack (§27).
 एक गाना!
 
 Glue words, all veterans: पश्य (paśya) "look!" — देखो 🔊 and आम् (ām) "yes" — हाँ 🔊; but
-कुतः, कति and एक you *read*. The counting style is Chapter 2's honest convention (bare
+कुतः, इतः, कति and एक you *read*. The counting style is Chapter 2's honest convention (bare
 stems, as in v1.c02.l04): fully inflected Sanskrit would ask कति खगाः? and answer एकः
 खगः। — endings you can already read aloud, whose grammar arrives in Volume 3.
 
@@ -576,9 +583,9 @@ read it back? 8/10 is a pass; re-take tomorrow either way (§20).
 
 **अभ्यासः 4 · लेखनम् (tracing & writing).** Print or open the tracing worksheet ✍
 (`planned:assets/worksheets/volume-1/v1c03l01-tracing.pdf`): trace ख ग घ ङ five times
-each following the stroke arrows — ख's rooms touching, घ's bottom round, ङ's dot last and
-snug. Then the syllable row खा खि खु खे खो and its ग/घ twins. Final row: write खग, गीत,
-मेघ, घृत unaided, then ङ once more, large, from memory.
+each following the stroke arrows — ख's rooms touching, घ's arm hanging from the headline,
+ङ's dot last and snug. Then the syllable row खा खि खु खे खो and its ग/घ twins. Final
+row: write खग, गीत, मेघ, घृत unaided, then ङ once more, large, from memory.
 
 **अभ्यासः 5 · श्रवणभेदः (minimal-pair listening).** Play the pair test 🔊
 (`planned:assets/audio/volume-1/v1c03l01-pair-test.mp3`): twelve one-syllable items —
@@ -736,8 +743,8 @@ calibrating down is easy, up is hard.
 > each letter shown 4 times left to right, progressively drawn, numbered arrows: ख — left
 > loop-room, right bowl-and-stem room, headline last, caption "two rooms must touch"; ग —
 > shoulder curve, stem, headline; घ — hook into round-bottomed bowl, stem-rise, headline,
-> caption "round bottom"; ङ — open cup, tail, dot placed last in an accent color, caption
-> "the dot is part of the letter". Footer row: खा खि खु खे खो with mātrās in the accent
+> caption "arm from the headline"; ङ — open cup, tail, dot placed last in an accent
+> color, caption "the dot is part of the letter". Footer row: खा खि खु खे खो with mātrās in the accent
 > color. Faint grid guides and headline. Workbook-clean, two colors only.
 
 **Asset 3 — `planned:assets/diagrams/volume-1/v1c03l01-manner-row.svg`**
@@ -757,8 +764,8 @@ calibrating down is easy, up is hard.
 > one solid model each, five dotted outlines, numbered stroke arrows matching Asset 2,
 > ङ's dot printed light gray and numbered last. Row 5: खा खि खु खे खो dotted. Row 6: गा
 > गी गु गे गो and घा घृ घे घो dotted, smaller. Row 7: खग, गीत, मेघ, घृत dotted once, then
-> empty guided boxes for freehand. Footer chants: "two rooms, one roof" (ख), "round
-> bottom" (घ), "dot last" (ङ). Generous spacing for child and adult hands.
+> empty guided boxes for freehand. Footer chants: "two rooms, one roof" (ख), "arm from the
+> headline" (घ), "dot last" (ङ). Generous spacing for child and adult hands.
 
 ## 24. AI Video Prompt
 
@@ -866,6 +873,6 @@ narrator reads them as IPA, not as English spelling.
   deliberately bolds खगः/मेघः *with* tails as the visible progress beat; preserve as
   `readable: true`; §19 key stays inside `<details>` in all renders.
 - **Register audit:** FACT ×5 (§5 ×2, §8, §13, §15 — Whitney/Ladefoged/Apte/Masica
-  cited) · HISTORY ×1 (§4, cited to cardona1997) · TRADITION ×1 (§4, Pāṇinīya Śikṣā named
-  with locus) · SYMBOL ×0 (no deity, cakra, or energy associations invoked). Quiz
-  assesses FACT content only.
+  cited) · HISTORY ×1 (§4, cited to cardona1997) · TRADITION ×1 (§4, Siddhāntakaumudī
+  named with locus; Pāṇinīya Śikṣā's tongue-root placement noted) · SYMBOL ×0 (no deity,
+  cakra, or energy associations invoked). Quiz assesses FACT content only.

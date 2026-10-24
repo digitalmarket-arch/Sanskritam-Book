@@ -22,8 +22,8 @@ objectives:
     hi: "समझाएँ कि वर्णमाला की तालिका कैसे बनी है — उच्चारण-स्थान और उच्चारण-प्रयत्न के अनुसार।"
   - en: "Read an IPA value from the course table and say what the slashes around it mean."
     hi: "कोर्स की तालिका से किसी ध्वनि का IPA मान पढ़ें और बताएँ कि उसके दोनों ओर की तिरछी रेखाओं (/ /) का क्या अर्थ है।"
-  - en: "State the correct sound counts — 13 vowels, 33 consonants, 2 ayogavāha — and explain what ayogavāha means."
-    hi: "ध्वनियों की सही गिनती बताएँ — 13 स्वर, 33 व्यञ्जन, 2 अयोगवाह — और समझाएँ कि अयोगवाह का क्या अर्थ है।"
+  - en: "State the course's sound counts — 13 vowels, 33 consonants, 2 ayogavāha — and explain what ayogavāha means."
+    hi: "इस कोर्स की ध्वनि-गिनती बताएँ — 13 स्वर, 33 व्यञ्जन, 2 अयोगवाह — और समझाएँ कि अयोगवाह का क्या अर्थ है।"
 new_letters: []
 new_matras: []
 vocabulary_count: 10
@@ -63,9 +63,9 @@ to read that map.
 | 1 | Name the five places of articulation in Sanskrit and English, and point to each in your own mouth. | उच्चारण के पाँचों स्थानों के नाम संस्कृत और अंग्रेज़ी में बताएँ और अपने मुँह में हर एक की जगह उँगली से दिखाएँ। |
 | 2 | Explain how the varṇamālā grid is organized: place × manner of articulation. | समझाएँ कि वर्णमाला की तालिका कैसे बनी है — उच्चारण-स्थान और उच्चारण-प्रयत्न के अनुसार। |
 | 3 | Read an IPA value from the course table and say what the slashes around it mean. | कोर्स की तालिका से किसी ध्वनि का IPA मान पढ़ें और बताएँ कि तिरछी रेखाओं (/ /) का क्या अर्थ है। |
-| 4 | State the correct sound counts — 13 vowels, 33 consonants, 2 ayogavāha — and explain what ayogavāha means. | ध्वनियों की सही गिनती बताएँ — 13 स्वर, 33 व्यञ्जन, 2 अयोगवाह — और समझाएँ कि अयोगवाह का क्या अर्थ है। |
+| 4 | State the course's sound counts — 13 vowels, 33 consonants, 2 ayogavāha — and explain what ayogavāha means. | इस कोर्स की ध्वनि-गिनती बताएँ — 13 स्वर, 33 व्यञ्जन, 2 अयोगवाह — और समझाएँ कि अयोगवाह का क्या अर्थ है। |
 
-Objectives 1–2 are practiced in §18 (exercises 1, 2, 6); objectives 3–4 are tested in §19 (Q4–8).
+Objective 1 is practiced in §18 (exercises 1, 2, 3, 6) and tested in §19 (Q1); objective 2 in exercises 4–5 and Q2–3; objective 3 in Q4–5; objective 4 in Q6–7.
 
 ## 3. Previous Lesson Review
 
@@ -140,7 +140,7 @@ The Sanskrit stops fill this two-dimensional grid completely — 5 places × 5 m
 ### The grid — preview
 
 This table is a **preview**: your first look at the whole territory. You are not expected to
-read or produce these letters yet — each is taught individually in Chapters 2–4. Today you
+read or produce these letters yet — each is taught individually in Chapters 3–4. Today you
 only need the *shape* of the table.
 
 | वर्ग | स्थान · Place | अघोष voiceless | अघोष महाप्राण vcl. aspirated | घोष voiced | घोष महाप्राण voiced breathy | अनुनासिक nasal |
@@ -210,7 +210,8 @@ generate the whole consonant system — *where* is the sound made, and *how*?
 
 **Where — the five places,** back of the mouth to the front: कण्ठ्य (kaṇṭhya) velar, तालव्य
 (tālavya) palatal, मूर्धन्य (mūrdhanya) retroflex, दन्त्य (dantya) dental, ओष्ठ्य (oṣṭhya)
-labial. The grid's rows are named after these — क-वर्ग "the k-row", च-वर्ग "the c-row", etc.
+labial. The grid's rows correspond to these places, but each is named after its first letter
+— क-वर्ग "the k-row", च-वर्ग "the c-row", etc.
 
 **How — the five manners.** Within each row, always the same walk: voiceless → voiceless
 aspirated → voiced → voiced breathy → nasal. Learn the walk once and you know the internal
@@ -230,18 +231,20 @@ for symmetry. It occurs in no attested word — mentioned here once, revisited b
 **Consonants (व्यञ्जन): 33.** 25 stops (the five vargas) + 4 semivowels (य र ल व) + 4 in the
 sibilant group (श ष स ह).
 
-**Ayogavāha (अयोगवाह): 2.** The anusvāra अं (ṃ) and the visarga अः (ḥ).
+**Ayogavāha (अयोगवाह): 2.** The anusvāra अं (ṃ) and the visarga अः (ḥ). (The grammarians'
+ayogavāha class also holds two optional variants of the visarga, used before k/kh and p/ph, and
+the Vedic *yama* sounds; this course counts the two every reader meets.)
 
-> **[FACT · तथ्यम्]** Anusvāra and visarga are ayogavāha — "dependent sounds". They are
-> categorically neither vowels nor consonants: they cannot stand alone and only ever occur
-> leaning on a vowel. [REF:whitney1889 §70–73]
+> **[FACT · तथ्यम्]** Anusvāra and visarga are ayogavāha — "dependent sounds". The tradition
+> lists them neither among the vowels nor among the consonants: they cannot stand alone and
+> only ever occur leaning on a vowel. [REF:whitney1889 §§67–73]
 
 You may have learned "14 vowels, including अं and अः" at school. That count is a classroom
 convenience — the two are drilled alongside the vowels because they are written with
 vowel-like signs — not a fact about the sounds. When anyone gives you a count, ask: *what
 exactly are you counting?* This course's answer is always: 13 + 33 + 2.
 
-**Why this matters for the next 138 lessons:** every sound lesson in Volume 1 drops its new
+**Why this matters for the rest of Volume 1:** every sound lesson in Volume 1 drops its new
 sound into this grid — once the map is in your head, each new letter is one new cell, not one
 new mystery.
 
@@ -253,7 +256,7 @@ new mystery.
 
 1. **क (ka) /k/ — velar.** Back of the tongue rises to the soft palate: closure far back, almost in the throat.
 2. **च (ca) /t͡ɕ/ — palatal.** The tongue body presses the hard palate; the release is soft, with a slight hiss.
-3. **ट (ṭa) /ʈ/ — retroflex.** Curl the tongue tip up and back; it taps the ridge well *behind* the teeth. Darker, hollower.
+3. **ट (ṭa) /ʈ/ — retroflex.** Curl the tongue tip up and back; it closes against the roof of the mouth just *behind* the gum ridge. Darker, hollower.
 4. **त (ta) /t̪/ — dental.** Tip forward until it touches the *back of the upper teeth*. Lighter, crisper than ट.
 5. **प (pa) /p/ — labial.** The tongue rests; the lips close and pop open.
 
@@ -275,7 +278,8 @@ English speakers never notice — the same puff Sanskrit treats as a full letter
 
 **Why "as in English" always lies a little.** Anchors like "त as in *top*" are useful, never
 exact: English *t* is alveolar — the tongue touches the gum ridge, *between* Sanskrit dental
-त /t̪/ and retroflex ट /ʈ/. The anchor points at the neighborhood, not the house. This course's
+त /t̪/ and retroflex ट /ʈ/. At the start of *top* it is also aspirated [tʰ] — closer to थ than
+to त. The anchor points at the neighborhood, not the house. This course's
 rule: every anchor states its imprecision, and the IPA value plus your own mouth are the referee.
 
 ## 11. Mouth Position
@@ -286,14 +290,14 @@ with five numbered markers:
 
 1. **कण्ठ्य velar zone:** back of the tongue at the soft palate. Whisper क and hold the closure: that pressure far back is marker 1.
 2. **तालव्य palatal zone:** the dome of the hard palate. Say च; notice the broad contact of the tongue body.
-3. **मूर्धन्य retroflex zone:** the ridge behind the teeth, reached by the tip of the curled-back tongue. Say ट; feel the curl.
+3. **मूर्धन्य retroflex zone:** the roof of the mouth just *behind* the gum ridge (the ridge itself is English t's spot — §10), reached by the tip of the curled-back tongue. Say ट; feel the curl.
 4. **दन्त्य dental zone:** the back of the upper front teeth. Say त; the tip should actually touch tooth enamel.
 5. **ओष्ठ्य labial zone:** the lips. Say प; the tongue does nothing at all.
 
 **Mirror check:** open wide in front of a mirror and silently mime क → च → ट → त → प. The
-velar closure is too far back to see — but you can see the jaw and tongue-root shift for क,
+velar closure is too far back to see — but you can see the jaw shift for क,
 the curl for ट, the tip-on-teeth for त, and the lip closure for प. Point to each zone on your
-own face as you go: throat, palate, ridge, teeth, lips.
+own face as you go: throat, palate, behind the ridge, teeth, lips.
 
 ## 12. Common Mistakes
 
@@ -309,7 +313,7 @@ own face as you go: throat, palate, ridge, teeth, lips.
 3. **Counting अं and अः as vowels** ("14 vowels"). They are ayogavāha — dependent sounds,
    neither vowel nor consonant (§8). *Fix:* recite the vowels to औ and stop; then name अं and
    अः separately, with their category.
-4. **Reading IPA slashes as ordinary spelling.** /t͡ɕ/ is not "letters t-c" — one symbol, one
+4. **Reading IPA slashes as ordinary spelling.** /t͡ɕ/ is not "letters t-c" — two symbols tied into one
    sound, defined by phonetics, not English spelling habits. *Fix:* always read an IPA value
    together with its articulator description ("tongue body at the hard palate").
 
@@ -327,7 +331,7 @@ own face as you go: throat, palate, ridge, teeth, lips.
 | घ (gha) | /gʱ/ | voiced breathy | keep the voice, add breathy release |
 | ङ (ṅa) | /ŋ/ | nasal | same closure, air rerouted through the nose |
 
-Read the row aloud with a hand on your throat: क ख ग घ ङ. At ग the throat starts buzzing —
+Read the row aloud with a hand on your throat: क ख ग घ ङ. At ग the throat buzzes from the first instant, while क stays silent until its vowel arrives —
 that buzz is voicing, the *only* difference between क /k/ and ग /g/. Same place, same closure,
 one switch flipped. That is the same-place insight: the grid turns 25 stops into 5 places × 5
 switches. The other four rows repeat this walk at their own places — learn this one row and
@@ -378,20 +382,21 @@ The teacher points at a letter on the board.
 — एषः कः वर्णः?
 (eṣaḥ kaḥ varṇaḥ?) "What letter is this?" — यह कौन-सा वर्ण है?
 
-— कः इति वर्णः।
-(kaḥ iti varṇaḥ.) "The letter *ka*." — यह वर्ण 'क' है।
+— क इति वर्णः।
+(ka iti varṇaḥ.) "The letter *ka*." — यह वर्ण 'क' है।
 
 Two useful pieces: वर्ण (varṇa) from today's vocabulary, and इति (iti) — the little
 quotation-mark word Sanskrit uses to mention a sound or a name. This exchange returns in
-every letter lesson; by Chapter 3 you will answer it without translating.
+lesson 5's review scene and in Chapter 2's visarga lesson (v1.c02.l06); by Chapter 3 you will
+answer it without translating.
 
 ## 17. Story
 
 कथा — the grammarian and the drum.
 
-Around the 4th century BCE — estimates vary — a scholar named Pāṇini, from Śalātura in the
-northwest of the subcontinent, composed the most compact complete description of any language
-ever attempted:
+Around the 4th century BCE — estimates vary — a scholar named Pāṇini, by tradition from Śalātura
+in the northwest of the subcontinent, composed a description of his language celebrated for its
+compactness and completeness:
 
 > **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī ("Eight Chapters") describes Sanskrit in roughly
 > 4,000 short rules (sūtras) and effectively fixed the classical norm of the language. It
@@ -402,10 +407,11 @@ The Aṣṭādhyāyī opens with fourteen little sound-lists — the varṇa inv
 maximum rule-writing efficiency. The tradition calls them the Māheśvara sūtras, "the sūtras
 of the great lord Śiva":
 
-> **[TRADITION · परम्परा]** In the traditional telling, Śiva, at the close of his cosmic dance,
-> sounded his two-headed drum (ḍamaru) fourteen times — and from those fourteen beats Pāṇini
-> received the fourteen sound-lists that open his grammar. The tradition itself tells this as
-> a story of inspiration, honoring the inventory's perfection.
+> **[TRADITION · परम्परा]** In the traditional telling, preserved in a verse ascribed to
+> Nandikeśvara, Śiva, at the close of his cosmic dance, sounded his two-headed drum (ḍamaru)
+> fourteen times — and from those fourteen beats Pāṇini received the fourteen sound-lists that
+> open his grammar. The tradition itself tells this as a story of inspiration, honoring the
+> inventory's perfection.
 
 Notice what we just did — and what this course will always do. The 4,000 sūtras, the date,
 the historical Pāṇini: evidence-based claims, cited. The drum of Śiva: a story the tradition
@@ -480,6 +486,9 @@ touch for each sound, and what did you see move in the mirror?
    Sanskrit has historically been written in many scripts.
 9. (b) 63 or 64, depending on which marginal sounds are included. (Framed "according to the
    Śikṣā" — tradition-register content, assessed as attributed.)
+
+Exercise 4 key: velar — क ग ङ · dental — त द न · labial — प ब म.
+Exercise 5 key: (a) voicing; (b) म; (c) place — both are voiceless unaspirated stops, ट retroflex, त dental.
 </details>
 
 ## 20. Revision
@@ -505,7 +514,7 @@ Spaced review:
 1. **(10 min)** Exercises 1 and 2 above if not finished in class: the labeled mouth map and
    the recorded tongue walk.
 2. **(5 min)** Play the five-places demo audio twice while pointing at your own throat,
-   palate, ridge, teeth, lips at the right moments.
+   palate, behind the ridge, teeth, lips at the right moments.
 3. **(10 min, real world)** Find any Devanagari text around you — a Hindi newspaper, a shop
    sign, a screenshot online. Answer in writing: is this Sanskrit? How do you know what
    language it is? Bring your example to class. Bonus: teach the tongue walk to one other
@@ -585,7 +594,7 @@ narrator reads them as IPA, not as English spelling.
 - **00:15** The Sanskrit sound list — the varṇamālā [ʋɐɾɳɐmɑːlɑː] — is different. Its order is a map. A map of your mouth.
 - **00:40** Try it. ka [kɐ] — the back of your tongue, deep near the throat. The tradition calls this place kaṇṭhya [kɐɳʈʰjɐ] — velar.
 - **01:00** ca [t͡ɕɐ] — the tongue body against the hard palate: tālavya [t̪ɑːlɐʋjɐ] — palatal.
-- **01:15** ṭa [ʈɐ] — curl the tip up and back to the ridge: mūrdhanya [muːɾd̪ʱɐn̪jɐ] — retroflex.
+- **01:15** ṭa [ʈɐ] — curl the tip up and back, past the gum ridge: mūrdhanya [muːɾd̪ʱɐn̪jɐ] — retroflex.
 - **01:30** ta [t̪ɐ] — tip forward, right onto the teeth: dantya [d̪ɐn̪t̪jɐ] — dental.
 - **01:45** pa [pɐ] — the tongue rests; the lips do the work: oṣṭhya [oːʂʈʰjɐ] — labial. Back to front. Five places. The tongue walks forward. That is the map.
 - **02:00** Each row repeats one rhythm. The first row: ka [kɐ], kha [kʰɐ], ga [gɐ], gha [gʱɐ], ṅa [ŋɐ]. No voice, then a puff of air, then the voice switches on, then voice with breath, then through the nose.
@@ -621,8 +630,7 @@ narrator reads them as IPA, not as English spelling.
 - **Related lessons:** reviews v1.c01.l01 (dates, loan/cognate, registers); feeds v1.c01.l03
   (अ, inherent vowel), v1.c01.l04 (आ, mātrā), v1.c01.l05 (assessment reuses sorting and
   tongue-walk tasks); full varga treatment begins v1.c03; ॡ curiosity resurfaces in v1.c02 only.
-- **Glossary:** all 10 vocabulary terms exist in GLOSSARY.md; अयोगवाह is listed there with
-  first-taught v1.c02 — flag for correction to v1.c01.l02 in the post-chapter loop.
+- **Glossary:** all 10 vocabulary terms exist in GLOSSARY.md, each with first-taught v1.c01.l02.
 - **Export notes:** §5 grid table is wide — allow horizontal scroll on mobile or swap in the
   grid SVG once generated; IPA strings contain combining characters (t̪, d̪ʱ, t͡ɕ) — apply NFC
   normalization to Devanagari fields only (STYLE_GUIDE §3), never to IPA; §19 key stays inside

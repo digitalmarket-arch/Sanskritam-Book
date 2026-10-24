@@ -16,12 +16,12 @@ updated: 2026-07-21
 # Chapter 2 — स्वराः · The Vowels
 
 Chapter 1 opened the door with अ and आ. Chapter 2 finishes the entire vowel system: seven
-lessons, eleven new vowel letters with their mātrās taught the same day, the two ayogavāha
-(अं अः) given the full treatment lesson 2 promised, and ॐ met honestly — its phonetics as
-fact, its meaning as tradition. No new consonants arrive: every new word is built from
-Chapter 1's क म त ल, so all attention stays on the vowels — and the readable vocabulary still
-grows from 12 words to over 30, including the payoff moment when अमृत, an ear-word since
-lesson 3, becomes readable.
+lessons, nine new vowel letters with their mātrās taught the same day (plus ॠ ऌ for
+recognition), the two ayogavāha (अं अः) given the full treatment that v1.c01.l02 §8 set
+up, and ॐ met honestly — its phonetics as fact, its meaning as tradition. No new consonants
+arrive: every new word is built from Chapter 1's क म त ल, so all attention stays on the
+vowels — and the readable vocabulary still grows from 12 words to 54, including the payoff
+moment when अमृत, an ear-word since lesson 3, becomes readable.
 
 ## Goals
 
@@ -36,7 +36,8 @@ lesson 3, becomes readable.
 
 By the end of this chapter the learner can:
 
-- [ ] Produce all 13 vowels and both ayogavāha with correct place, manner, and length
+- [ ] Produce the 11 drilled vowels and both ayogavāha with correct place, manner, and length,
+      and recognize the rare ॠ ऌ on sight
 - [ ] Read and write every mātrā in its correct position (का कि की कु कू कृ के कै को कौ कं कः)
 - [ ] Read 30+ real Sanskrit words aloud, including अमृत, एक, लोक, ऋतु, कुतः
 - [ ] Hear and mark hrasva/dīrgha across all length pairs, not just अ/आ
@@ -60,10 +61,12 @@ By the end of this chapter the learner can:
 All `planned:`; per-lesson prompts in each lesson's §23–24: mātrā-geography diagram (the
 five positions around a consonant), per-vowel mouth diagrams and letter cards, syllable-grid
 audio drills, length-pair test sets, the chapter dictation set, tracing worksheets per
-lesson, chapter quiz + separate key.
+lesson, chapter quiz + separate key, and the Chapter 2 drill pack (each lesson's dialogue,
+story and §6 audio, routed here from every lesson's §27).
 
 ## Assessment
 
 Lesson 7 re-runs the five-task format of v1.c01.l05 across the full vowel system, absorbs
-Chapter 1's +1-week re-dictation (promised in v1.c01.l05 §20), and re-tests the 13+33+2
-inventory can-do now that every vowel is owned. Rubric in l07 §22.
+Chapter 1's +1-week re-runs of tasks C and E — reading aloud and timed writing (booked in
+v1.c01.l05 §20; l07 Station 0), and re-tests the 13+33+2 inventory can-do now that every
+vowel is owned. Rubric in l07 §22.

@@ -92,7 +92,7 @@ in §18 (exercise 2); objective 3 in §18 (exercises 1, 6) and §19 (Q1–2, Q6)
 1. अ, क, म — compare stroke order in lesson 3.
 2. The inherent vowel: अ /ɐ/. Every consonant letter, unmarked, is read with अ.
 3. *ka* — the अ comes free; nothing extra is written.
-4. /æ/ as in *cat* (too front, too open) and /ɑ/ as in *father* (too long and too far back —
+4. /æ/ as in *cat* (too front) and /ɑː/ as in *father* (too long and too far back —
    in fact today's sound आ, not अ).
 5. कम (kama), मक (maka), अम (ama) — every vowel a short, full /ɐ/.
 </details>
@@ -119,8 +119,9 @@ engineers do: it defined a unit and measured.
 > arithmetic.
 
 That is why this lesson exists as a *separate* lesson. In many alphabets, आ would be filed as
-"same as अ, just longer" and forgotten. The tradition refused to file it that way, and modern
-phonology agrees (§5): अ and आ are two different vowels that distinguish words.
+"same as अ, just longer" and forgotten. The tradition refused to let the difference blur — it
+measured it in mātrās — and modern phonology agrees (§5): अ and आ are two different vowels
+that distinguish words.
 
 One more gift from this history: the word मात्रा (mātrā) — the duration unit — is also the
 everyday name for the *dependent vowel signs* of Devanagari, including the ा you will write
@@ -137,16 +138,16 @@ teaches both, on purpose, together.
 
 > **[FACT · तथ्यम्]** Phonemic vowel length — duration alone distinguishing words — is common
 > in the world's languages: Japanese, Finnish, Czech, Arabic and classical Latin all use it,
-> as did the ancient Indo-European languages generally. [REF:ladefoged2015]
+> as did the ancient Indo-European languages generally. [REF:ladefoged2015] [REF:burrow2001]
 
 Two consequences for the learner:
 
-**Length is normal — English is the odd one out.** English has no pure length contrast: its
+**Length is ordinary — English just doesn't rely on it.** English has no pure length contrast: its
 "long" and "short" vowels (*bit*/*beat*) differ mainly in *quality*, and duration floats
 freely with stress and emotion. So English-trained ears treat vowel duration as expressive
 noise, not information. Finnish children, by contrast, grow up distinguishing *tuli* "fire"
 from *tuuli* "wind"; Latin schoolboys knew mālum "apple" from malum "evil". Sanskrit sits
-firmly in this majority club: duration carries meaning, so duration must be controlled.
+firmly in this club: duration carries meaning, so duration must be controlled.
 
 **The ratio is measurable.** Record yourself saying काल (kāla) and कल (kala) and look at the
 waveform in any audio editor: in careful speech the first vowel of काल should occupy roughly
@@ -200,7 +201,7 @@ traditional terms arriving today: ह्रस्व (hrasva) "short", दीर
 *kamala*। और अन्त में अ है या आ, यह भी कान लगाकर सुनिए: कल और कला अलग शब्द हैं। पाठ करते समय
 अन्तिम आ को पूरी दो मात्राएँ दीजिए — हिन्दी की जल्दबाज़ी वहाँ सबसे पहले पकड़ी जाती है।
 
-लिखाई में आपके लिए नया कुछ नहीं, पर एक बात दोहरा लें: मात्रा हमेशा व्यञ्जन *पूरा करने के बाद*,
+लिखाई में आपके लिए नया कुछ नहीं, पर एक बात दोहरा लें: आ की मात्रा ा हमेशा व्यञ्जन *पूरा करने के बाद*,
 उसकी दाहिनी ओर। आपका हाथ यह अपने-आप करता है — कक्षा में अंग्रेज़ी-भाषी साथी हों तो यही उनकी
 सबसे बड़ी उलझन होगी (§12)। उनकी मदद कीजिए — समझाना याद रखने का सबसे अच्छा तरीक़ा है।
 
@@ -241,8 +242,8 @@ Recall the inherent-vowel rule from lesson 3: क alone reads *ka*. Then how do 
 Devanagari's answer: the vowel आ has **two written forms** —
 
 1. **The independent letter आ** — used where the vowel stands on its own, at the start of a
-   word: आ in अमल? No — look carefully: अमल begins with अ. A true example: आम (āma) "mango"
-   🔊 begins with the independent आ.
+   word: आ in अमल? No — look carefully: अमल begins with अ. A true example: आम् (ām) "yes"
+   🔊 (§16) begins with the independent आ.
 2. **The dependent sign ा (the ā-mātrā)** — used after a consonant. It is a single vertical
    stroke standing to the **right** of the consonant, joined under the headline.
 
@@ -327,8 +328,8 @@ exactly what these drills are borrowing. When in doubt, slow down and count.
 The new vowel: आ = **/ɑː/** — open back unrounded vowel + the IPA length mark.
 
 **The length mark ː.** The triangular colon after a symbol means "held long": /ɑ/ long =
-/ɑː/. It is the notation's way of writing the second mātrā. You will meet it again in every
-dīrgha vowel of the course: ई /iː/, ऊ /uː/, ए /eː/, ओ /oː/.
+/ɑː/. It is the notation's way of writing the second mātrā. You will meet it again in most
+other long vowels of the course: ई /iː/, ऊ /uː/, ॠ /r̩ː/, ए /eː/, ओ /oː/.
 
 **Narrow note — length is not the whole story.** Compare the course values: अ /ɐ/ is
 *near-open central*; आ /ɑː/ is *open back*. Two differences, not one:
@@ -418,14 +419,15 @@ Here the length contrast sits at the *end* of the word — precisely where Hindi
 mistake 3) and English reduction (§12, mistake 2) both attack. Say them as a trio: kala —
 kalā — kāla. Three words, one skeleton, three meanings.
 
-### The payoff: your first word is four thousand years of family history
+### The payoff: your first word is Indo-European family history
 
 **माता** (mātā) "mother" — माता, माँ · /mɑːt̪ɑː/
 
 > **[FACT · तथ्यम्]** Sanskrit मातृ/माता (mātṛ/mātā), English *mother*, Latin *māter*, Greek
 > *mētēr* are cognates — parallel descendants of Proto-Indo-European \*méh₂tēr. None of them
 > borrowed the word from another; they are siblings from one ancestral family. Note the long
-> ā: English even kept a trace of that ancient length in its spelling history. [REF:mallory2006]
+> ā: Old English *mōdor* still had a long vowel in that syllable, though modern spelling no
+> longer shows it. [REF:mallory2006] [REF:oed s.v. mother]
 
 Lesson 1 promised that Sanskrit and English are relatives, not stranger and source. Here is
 the receipt, in the first word you can read: the mātā you just spelled out block by block is
@@ -466,7 +468,7 @@ whole writing system.
 > **[FACT · तथ्यम्]** In Devanagari, a vowel is written with its independent letter (आ) when
 > it begins an akṣara on its own — in practice, word-initially or after another vowel — and
 > with its dependent sign, the mātrā (ा), when it follows a consonant, where it replaces the
-> inherent अ. Thus क + आ = का (kā), never क‌आ. [REF:masica1991 ch.6]
+> inherent अ. Thus क + आ = का (kā), never कआ. [REF:masica1991 ch.6]
 
 Distribution, as a decision procedure: *Is the ā-sound at the start of the word?* → write आ.
 *Does it follow a consonant?* → write ा on that consonant. The two spellings never compete
@@ -476,8 +478,8 @@ for the same position. (Diagram: `planned:assets/diagrams/volume-1/v1c01l04-matr
 ### The akṣara — the script's true unit
 
 The blocks you have been reading — क, का, मा, ता — each one is an **अक्षर** (akṣara)
-"syllable block" — अक्षर: one consonant (or a lone vowel) together with its vowel value. The
-word माता is four sounds but two akṣaras: मा + ता. Devanagari text is a chain of akṣaras,
+"syllable block" — अक्षर: one consonant (or a lone vowel) together with its vowel value (for
+now — Chapter 5 shows one block can also hold a consonant cluster). The word माता is four sounds but two akṣaras: मा + ता. Devanagari text is a chain of akṣaras,
 which is why it reads so predictably: each block tells you exactly one syllable's worth of
 sounds. From today the course counts letters *and* akṣaras — get used to both units.
 
@@ -509,7 +511,7 @@ convention — consistency beats dogma).
 Chapter 1 drill pack (§27). Someone knocks; a child calls out.
 
 — माता?
-(mātā?) "Mother? (Is that you?)" — माँ?
+(mātā?) "(Is it) Mother?" — माँ?
 
 — आम्, माता।
 (ām, mātā.) "Yes — (it's) mother." — हाँ, माँ हूँ।
@@ -523,7 +525,7 @@ Chapter 1 drill pack (§27). Someone knocks; a child calls out.
 Glue words, glossed and audio-only for now: आम् (ām) "yes" — हाँ 🔊 (its final म् needs the
 virāma, Chapter 5); तव (tava) "your" — तुम्हारा 🔊 (व arrives with the semivowels). Everything
 else on this page you can read yourself — count what that means: four turns of real Sanskrit,
-three weeks into the course.
+four lessons into the course.
 
 ## 17. Story
 
@@ -535,8 +537,8 @@ IAST, English, Hindi.
    (kamalā atra asti.) "Kamalā is here." — कमला यहाँ है।
 2. **माता** अत्र अस्ति।
    (mātā atra asti.) "Mother is here." — माता यहाँ है।
-3. **माता** — पश्य, **कमला**! **माला**!
-   (mātā — paśya, kamalā! mālā!) "Mother: Look, Kamalā! A garland!" — माता — देखो, कमला! माला!
+3. **माता** — पश्य! **माला**!
+   (mātā — paśya! mālā!) "Mother: Look! A garland!" — माता — देखो! माला!
 4. **कमला** — **मम** **माला**?
    (kamalā — mama mālā?) "Kamalā: My garland?" — कमला — मेरी माला?
 5. **माता** — आम्, तव **माला**।
@@ -549,10 +551,10 @@ Glue words 🔊: अत्र (atra) "here" — यहाँ; अस्ति (a
 आम् (ām) "yes" — हाँ; तव (tava) "your" — तुम्हारा. All contain conjuncts or letters not yet
 taught — learn them by ear; you will read them natively within a few chapters. Line 6 joins
 two §14 words into a compound (kamala + mālā "garland of lotuses") — a tiny preview of
-Sanskrit's compounding habit, treated properly in Volume 2.
+Sanskrit's compounding habit, treated properly in Volume 3.
 
 Read the story aloud twice: once slowly, block by block, once at story speed. A named
-character, a mother, a gift — sixty percent of these words were unreadable to you yesterday.
+character, a mother, a gift — most of these words were unreadable to you yesterday.
 
 ## 18. Exercises
 
@@ -647,7 +649,7 @@ Spaced review (the schedule is the method — distributed practice beats crammin
   Compare with your first attempt — count corrected mātrās.
 - **In 1 week:** read the full §14 list aloud once at speed with full length discipline, and
   take the dictation a third time; re-answer quiz Q1–2 and Q6 without looking.
-- **From lesson 3:** keep अ /ɐ/ honest — the two English traps (/æ/, /ɑ/) return in lesson
+- **From lesson 3:** keep अ /ɐ/ honest — the two English traps (/æ/, /ɑː/) return in lesson
   5's assessment alongside today's pairs.
 
 ## 21. Homework
@@ -704,8 +706,8 @@ mātrā, and extra mātrā (hypercorrection on मत/मम/तल) each get di
 **Homework spacing — say it out loud:** tell students *why* the re-dictation is tomorrow and
 again next week, not tonight: spaced repetitions produce far more durable learning than
 massed ones [REF:cepeda2006]. Students who know the design follow it; students who think the
-gap is administrative skip it. The 1-day and 1-week re-dictations of this lesson are the
-course's first explicit spacing loop — establish the ritual now, it runs for 139 more lessons.
+gap is administrative skip it. The 1-day and 1-week re-dictations of this lesson continue the
+spacing loop lesson 3 began — make the ritual explicit now; it runs for the rest of the course.
 
 **Differentiation — Hindi-literate learners:** the mātrā mechanics are automatic for them;
 their genuine work is §12 mistake 3 (full final vowels, disciplined 2:1 length). Give them
@@ -735,9 +737,9 @@ English speakers, the final full -a of कमल — model it slowly, hand-beat 
 > Educational stroke-order chart, three rows, one letter per row: आ, त, ल in Noto Serif
 > Devanagari outlines. Each row shows the letter 4 times left to right, progressively drawn,
 > with numbered arrows (1, 2, 3…) showing one common stroke sequence: body strokes first,
-> vertical stem, headline last; for आ a final fourth panel adds the right-hand vertical
-> ā-stroke highlighted in a second color. Footer row: का मा ता ला with the mātrā stroke in
-> the highlight color and the caption "consonant first — mātrā last, always on the right".
+> vertical stem, headline last; for आ the right-hand vertical ā-stroke (highlighted in a
+> second color) is added before the headline, which spans both stems last (as in §15).
+> Footer row: का मा ता ला with the mātrā stroke in the highlight color and the caption "consonant first — mātrā last, always on the right".
 > Include faint grid guides and headline. Style: workbook-clean, two colors only.
 
 **Asset 3 — `planned:assets/diagrams/volume-1/v1c01l04-mouth-position-aa.svg`**
@@ -807,7 +809,7 @@ narrator reads them as IPA, not as English spelling.
 - **00:40** First, the sound. Drop your jaw — two fingers wide. Tongue low, pulled slightly
   back. Lips relaxed, never rounded. ā [ɑː].
 - **01:00** Now the discipline. a [ɐ] gets one beat. ā [ɑː] gets exactly two. Count with me:
-  a [ɐ] — one. ā [ɑː] — one, two. Again. a [ɐ]. ā [ɑːː]. Twice as long. Every time. Even
+  a [ɐ] — one. ā [ɑː] — one, two. Again. a [ɐ]. ā [ɑː]. Twice as long. Every time. Even
   when you're bored. *Especially* when you're bored.
 - **01:35** And notice — it's not just longer. The mouth opens wider, the tongue sits further
   back. A stretched a [ɐ] is still not an ā [ɑː].
@@ -848,7 +850,7 @@ narrator reads them as IPA, not as English spelling.
   sound. Hold the first vowel: kāla [kɑːlɐ] — time. In Sanskrit, vowel length isn't style —
   it's vocabulary. Watch the writing do it too —" (on-screen: क + stroke → का; then मा + ता
   snap into **माता**.) "That's mātā. Mother. Yes — the same word as *mother*. Same family,
-  four thousand years apart."
+  thousands of years apart."
 - **Payoff (0:30–0:42):** rapid word-wall: माता, माला, कमल, कला, ताल… "Six letters, one
   stroke — twelve real Sanskrit words. Day four of learning the script. Reading has
   officially started."
@@ -872,18 +874,18 @@ narrator reads them as IPA, not as English spelling.
   v1.c01.l05 (assessment reuses pair discrimination, dictation and the 12-word reading);
   helper consonants त ल get full varga/semivowel treatment from v1.c03 (spiral); remaining
   vowel mātrās arrive with their vowels from v1.c02 onward; virāma mechanics in v1.c05;
-  compounds (§17 line 6 preview) treated in Volume 2.
+  compounds (§17 line 6 preview) treated in Volume 3 (v3.c05).
 - **Glossary:** मात्रा, ह्रस्व, दीर्घ are listed in GLOSSARY.md with first-taught v1.c01.l04 —
-  consistent. **अक्षर (akṣara "syllable block") is introduced here (§15) but missing from
-  GLOSSARY.md — add in the post-chapter loop with first-taught v1.c01.l04.**
+  consistent. अक्षर (akṣara "syllable block"), introduced here (§15), is also listed in
+  GLOSSARY.md with first-taught v1.c01.l04 — consistent.
 - **Export notes:** §14 words all readable → no `audio_only` flags in this lesson's
-  vocabulary JSON (first lesson for which this is true; 🔊 marks appear only on glue words in
-  §16–§17 and map to `audio_only: true`); standalone mātrā ा renders with a dotted-circle
+  vocabulary JSON (first lesson for which this is true; 🔊 word-marks appear only on the §8
+  example word and the glue words in §16–§17 and map to `audio_only: true`); standalone mātrā ा renders with a dotted-circle
   carrier ◌ा in some fonts — exporter should use the bare sign inside code-voice contexts and
   accept the carrier elsewhere; IPA strings contain combining characters (t̪, ɑː) — NFC
   normalization applies to Devanagari fields only (STYLE_GUIDE §3), never to IPA; §19 key
   stays inside `<details>` in all renders; §17 bold markers = "readable now" flags — preserve
   in export as `readable: true` spans.
-- **Register audit:** FACT ×4 (§5 ×2, §8, §15) · HISTORY ×1 (§4) · TRADITION ×1 (§4) ·
+- **Register audit:** FACT ×5 (§5 ×2, §8, §13, §15) · HISTORY ×1 (§4) · TRADITION ×1 (§4) ·
   SYMBOL ×0 (कमला's Lakṣmī sense appears only as a dictionary gloss, per research note 4.4;
   no symbolic claims made, nothing symbolic assessed).

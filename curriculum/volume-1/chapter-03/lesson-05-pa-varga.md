@@ -18,13 +18,13 @@ review_of: [v1.c03.l04, v1.c01.l03]
 objectives:
   - en: "Produce the five labials प फ ब भ म — including a true [pʰ] for फ, never [f]."
     hi: "पाँचों ओष्ठ्य वर्ण — प फ ब भ म — शुद्ध बोलें; फ में सच्चा [pʰ], कभी [f] नहीं।"
-  - en: "Write फ, ब and भ with correct stroke order; प and म graduate to full varga treatment."
-    hi: "फ, ब और भ सही रेखा-क्रम से लिखें; प और म को पूर्ण वर्ग-स्तर पर पक्का करें।"
+  - en: "Write प, फ, ब and भ with correct stroke order; म graduates to full varga treatment."
+    hi: "प, फ, ब और भ सही रेखा-क्रम से लिखें; म को पूर्ण वर्ग-स्तर पर पक्का करें।"
   - en: "Read the lesson's fifteen words aloud, including पिता and फल."
     hi: "पाठ के पन्द्रह शब्द — पिता और फल समेत — ज़ोर से पढ़ें।"
   - en: "Read the three milestone sentences aloud, word by word, in pause form."
     hi: "तीनों मील-पत्थर वाक्य ठहराव-रूप में, शब्द-दर-शब्द ज़ोर से पढ़ें।"
-new_letters: [फ, ब, भ]
+new_letters: [प, फ, ब, भ]
 new_matras: []
 vocabulary_count: 15
 media:
@@ -53,7 +53,7 @@ updated: 2026-07-21
 Four rows of the grid have hidden their work behind your teeth. The last row is the one you
 can *see*: lips doing everything, in plain view — put a mirror up and Sanskrit happens on
 your face. And the moment this row clicks into place, something bigger happens than five
-new sounds: the grid you first saw in Chapter 1 is complete, and with it come the first
+new sounds: the grid you first saw in Chapter 1 is complete, and with it come
 full Sanskrit sentences you read entirely by yourself — no glue words, no audio crutches.
 A boy walks. A monkey walks. A cuckoo sings. Small sentences — and every word, yours.
 
@@ -64,7 +64,7 @@ A boy walks. A monkey walks. A cuckoo sings. Small sentences — and every word,
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Produce the five labials प फ ब भ म — including a true [pʰ] for फ, never [f]. | पाँचों ओष्ठ्य वर्ण — प फ ब भ म — शुद्ध बोलें; फ में सच्चा [pʰ], कभी [f] नहीं। |
-| 2 | Write फ, ब and भ with correct stroke order; प and म graduate to full varga treatment. | फ, ब और भ सही रेखा-क्रम से लिखें; प और म को पूर्ण वर्ग-स्तर पर पक्का करें। |
+| 2 | Write प, फ, ब and भ with correct stroke order; म graduates to full varga treatment. | प, फ, ब और भ सही रेखा-क्रम से लिखें; म को पूर्ण वर्ग-स्तर पर पक्का करें। |
 | 3 | Read the lesson's fifteen words aloud, including पिता and फल. | पाठ के पन्द्रह शब्द — पिता और फल समेत — ज़ोर से पढ़ें। |
 | 4 | Read the three milestone sentences aloud, word by word, in pause form. | तीनों मील-पत्थर वाक्य ठहराव-रूप में, शब्द-दर-शब्द ज़ोर से पढ़ें। |
 
@@ -164,8 +164,8 @@ subject and verb, every sign of which you can already read.
 बल, भला, मन। पाँचों अक्षर आपके हाथ को आते हैं, पाँचों ध्वनियाँ आपकी ज़बान को। तो आज की
 मेहनत कहाँ है? तीन जगह — और तीनों "आदत उतारने" की मेहनत है, नया सीखने की नहीं।
 
-पहली, वही पुरानी साथी — शब्द के अन्त की अ। संस्कृत में फल फ-ल है: दो अक्षर, दोनों पूरे —
-*phala*। हिन्दी की ज़बान "phal" कहकर रुक जाती है; संस्कृत में अन्तिम अ पूरी बोली जाती है।
+पहली, वही पुराना साथी — शब्द के अन्त का अ। संस्कृत में फल फ-ल है: दो अक्षर, दोनों पूरे —
+*phala*। हिन्दी की ज़बान "phal" कहकर रुक जाती है; संस्कृत में अन्तिम अ पूरा बोला जाता है।
 बल, पथ, भाग — हर जगह वही नियम: उँगलियों पर अक्षर गिनिए और अन्तिम अ को उसका पूरा हक़ दीजिए।
 
 दूसरी — और आज की सबसे बड़ी — फ बनाम फ़। हिन्दी में ये दो अलग ध्वनियाँ हैं: बिना नुक़्ते
@@ -182,7 +182,7 @@ subject and verb, every sign of which you can already read.
 कई जगह ढीला पड़ जाता है; संस्कृत में दोनों बिलकुल अलग वर्ण हैं — ब पूरा होंठों का, व दाँत
 और होंठ का। आज ब को इतना साफ़ बना लीजिए कि व आए तो टकराहट ही न हो।
 
-और अन्त में वह बात जिसके लिए यह पाठ याद रहेगा: आज आप संस्कृत के पहले पूरे वाक्य ख़ुद
+और अन्त में वह बात जिसके लिए यह पाठ याद रहेगा: आज आप संस्कृत के पूरे वाक्य ख़ुद
 पढ़ेंगे — बालकः चलति। कपिः चलति। कोकिलः कूजति। धीरे-धीरे, शब्द-दर-शब्द, हर शब्द पूरा —
 यही इस स्तर की पाठ-शैली है (§8)। पढ़िए, और एक पल रुककर महसूस कीजिए: यह वाक्य किसी ने आपको
 पढ़कर नहीं सुनाया — आपने पढ़ा है।
@@ -192,7 +192,7 @@ subject and verb, every sign of which you can already read.
 The last row, and then the payoff: five sounds first — the fifth run of a row you know by
 heart — then the sentences the whole chapter has been building toward.
 
-### The five cards — equal citizens, all workhorses
+### The five cards — equal citizens
 
 - **प (pa) /p/ — voiceless.** Lips close, release cleanly, *no puff*. English "s**p**in"
   has it; "**p**in" does not (that p is aspirated — it is फ's sound). Hindi प is exact.
@@ -207,8 +207,9 @@ heart — then the sentences the whole chapter has been building toward.
 - **म (ma) /m/ — nasal.** Lips closed, air through the nose. English and Hindi m are
   genuinely the same sound — the row's one free gift, and your oldest letter, home at last.
 
-For once, no honesty-footnote about rare letters: unlike ङ and ञ, every member of this row
-is a high-frequency workhorse. Five cards, five careers.
+One honest footnote, different from ङ and ञ's: every member of this row begins real words,
+but फ is a rare letter in Sanskrit overall — a small family of words, led by the
+everywhere-word फल. Equal cards, honest frequencies.
 
 ### Worked readings
 
@@ -220,12 +221,12 @@ is a high-frequency workhorse. Five cards, five careers.
 - **गोपाल** = गो + पा + ल → go-pā-la — /goːpɑːlɐ/ "cowherd". A velar, a labial and ल
   cooperating — a word only a finished grid can spell.
 
-### The milestone — the first sentences you read yourself
+### The milestone — sentences you read yourself
 
 One small sign makes it possible. In v1.c02.l06 you met the visarga as the "dictionary
-coat" — मतिः. That same ः rides the *subject* of a Sanskrit sentence: बालक steps into a
-sentence as बालकः. Why subjects wear ः is Volume 3's story; today, read it and enjoy it.
-One honest convention first:
+coat" — मतिः. That same ः rides subjects like this one: बालक steps into a
+sentence as बालकः. Not every subject wears it — §17's पिता has no ः; which words take it,
+and why, is Volume 3's story. Today, read it and enjoy it. One honest convention first:
 
 > **[FACT · तथ्यम्]** In connected speech Sanskrit applies sandhi — regular sound
 > adjustments where words meet; that system is Volume 3's subject. At this stage the
@@ -247,8 +248,8 @@ from v1.c02.l05, चलति and कूजति from v1.c03.l02.
 
 Read them slowly: word fully, tiny pause, next word, and the daṇḍa । to close. Every
 akṣara, mātrā and rider on those lines is something you learned on purpose, one lesson at
-a time. This is the course's first true reading — not letters, not lists: Sanskrit saying
-something, to you, through your own eyes.
+a time. This is the reading lesson 2's कोकिलः कूजति previewed, now made official — not
+letters, not lists: Sanskrit saying something, to you, through your own eyes.
 
 ## 9. Pronunciation
 
@@ -349,13 +350,16 @@ relationship, learned once, applied free. The family receipt travels further: �
 stands beside English *father*, Latin *pater* — the same cognate family story as
 माता/*mother* [REF:mallory2006].
 
-### पथ and path — ancient kin
+### पथ and path — a look-alike with a history
 
 **पथ** (patha) "path" — पथ, रास्ता · /pɐt̪ʰɐ/
 
-> **[FACT · तथ्यम्]** Sanskrit पथ and English *path* are genuine ancient kin within the
-> Indo-European family — parallel inheritances, not a borrowing in either direction.
-> [REF:mallory2006]
+> **[FACT · तथ्यम्]** Sanskrit पथ belongs to an old Indo-European family of "way" words:
+> Latin *pons* "bridge" and Greek *póntos* "sea" are its genuine cognates [REF:mallory2006].
+> English *path* only looks like one: an inherited English word would begin with f- (as
+> *father* does beside पितृ), so *path* is not a regular cognate. Where it came from is
+> uncertain — an early borrowing from an Iranian language, a sister of Sanskrit, is one
+> proposal, not a settled answer. [REF:oed s.v. path]
 
 Feel the dental थ as you say it — tongue on the teeth, then a full final vowel: *patha*.
 
@@ -382,7 +386,7 @@ of action (karma-phala), it will be this everyday word doing the philosophical l
 ## 14. Vocabulary
 
 शब्दावली — fifteen words, every one readable, no 🔊 crutches; with them your readable
-stock reaches roughly ninety-five words. Audio: 🔊
+stock reaches 114 words. Audio: 🔊
 `planned:assets/audio/volume-1/v1c03l05-word-list.mp3` (model reading, each word twice,
 plus the dictation track). Masculine a-stems are listed in bare stem form, as always;
 dictionaries and sentences add ः — §8 shows exactly that.
@@ -391,7 +395,7 @@ dictionaries and sentences add ः — §8 shows exactly that.
 |---|---|---|---|---|---|
 | फल | phala | /pʰɐlɐ/ | fruit; result | फल, परिणाम | the double sense (§13); फ lab word |
 | बल | bala | /bɐlɐ/ | strength | बल, ताक़त | length pair with बाल — one beat apart |
-| पथ | patha | /pɐt̪ʰɐ/ | path | पथ, रास्ता | cognate of English *path* (§13) |
+| पथ | patha | /pɐt̪ʰɐ/ | path | पथ, रास्ता | kin of Latin *pons*; English *path* is a look-alike (§13) |
 | पाप | pāpa | /pɑːpɐ/ | evil, sin | पाप | two प in one word — both unaspirated |
 | पिता | pitā | /pit̪ɑː/ | father | पिता | stem पितृ — the माता/मातृ pattern (§13) |
 | कपि | kapi | /kɐpi/ | monkey | बन्दर, वानर | the milestone walker — कपिः in §8 |
@@ -411,17 +415,17 @@ every final vowel is fully spoken — फल is *phala*, never "phal".
 
 ## 15. Grammar
 
-व्याकरणम् — in Volume 1 this is a **script rule**: three new letters, and the grid's
+व्याकरणम् — in Volume 1 this is a **script rule**: four new letters, and the grid's
 completion certificate.
 
-### Stroke order — फ, ब, भ
+### Stroke order — प, फ, ब, भ
 
 Course convention as ever — body first, stem next, headline last; the stroke card
 (`planned:assets/images/volume-1/v1c03l05-stroke-order.svg`) is the authority, and
 traditions vary in details.
 
-- **प** (from Chapter 1's tongue-walk, now official) — the body: one curve starting below
-  headline height, sweeping down and right into the stem-line; then stem; headline last.
+- **प** — first written today (Chapter 1's sound map only showed it). The body: one curve
+  starting below headline height, sweeping down and right into the stem-line; then stem; headline last.
 - **फ** — a complete प, then the breath-curl: a small open loop leaving the stem's right
   side. As with आ and ऊ, *more sound is drawn as more ink*. Never add a dot below: फ with
   a nuqta is Hindi's फ़ [f], not a Sanskrit letter (§4).
@@ -487,7 +491,7 @@ And nearby, a parent scanning the market crowd:
 Housekeeping, honestly: नमः became readable last lesson — the first half of नमस्ते, as
 promised there. धन्यवादः 🔊 stays an ear-word a little longer: you have *said* it since
 lesson 1, and its ध, द and final ः are now letters you own — but its य and व arrive in
-Chapter 4, so your eyes wait while your mouth works. आम् 🔊 and अत्र 🔊 are old glue
+Chapter 4 and its न्य conjunct in Chapter 5, so your eyes wait while your mouth works. आम् 🔊 and अत्र 🔊 are old glue
 (Chapter 1); अत्र's त्र-conjunct unlocks in Chapter 5.
 
 ## 17. Story
@@ -511,9 +515,11 @@ Hindi.
 6. बालकः — कपिः!
    (bālakaḥ — kapiḥ!) "The boy: 'The monkey!'" — बालक — बन्दर!
 
-Two notes, one small and one large. Small: the shouts फल! and फल? are the *naming* form —
-pointing with the voice, like calling "अ!" at the board in Chapter 1; dressed for a full
-sentence the fruit would wear an ending (फलम् — its म् needs the virāma, Chapter 5).
+Two notes, one small and one large. Small: the shouts फल! and फल? use the course's *naming
+form* — a stand-in, not a real Sanskrit form. Sanskrit never speaks a bare stem (alone,
+bare *phala* would even be heard as a call to the fruit, "O fruit!"); the real one-word
+shout is फलम्!, and its म् needs the virāma (Chapter 5). Until then, read फल here as the
+word-list headword, pointed at.
 Large: notice what is missing — the bold marks. Since Chapter 1, bold has flagged the
 readable words amid glue you could not read. Today bold would cover everything, so it
 retires: **every word of this story is self-read.** No 🔊, no glue, no audio finishing
@@ -540,7 +546,7 @@ Write them in Devanagari. Self-check against §14: right letter from the ब/भ
 No nuqta anywhere? Every long mātrā long? 8/10 is a pass; re-take tomorrow either way (§20).
 
 **अभ्यासः 4 · अनुलेखनम् (tracing & writing, production).** Print the tracing worksheet ✍
-(`planned:assets/worksheets/volume-1/v1c03l05-tracing.pdf`): trace फ ब भ five times each
+(`planned:assets/worksheets/volume-1/v1c03l05-tracing.pdf`): trace प फ ब भ five times each
 following the stroke arrows (watch ब's clean join — no knot — and भ's loop-free corner),
 then the row प फ ब भ म unaided, then फल, बालक, भूमि, गोपाल — and finally the three
 milestone sentences, daṇḍa included.
@@ -604,17 +610,18 @@ lesson 6 sets the bar at five minutes, error-free.
 > फ = प + breath-curl; ब joins cleanly (क ties the knot); भ keeps its corner loop-free
 > (म loops). **The grid:** 25/25 — five rows recitable, writable, testable. **The
 > milestone:** बालकः चलति। कपिः चलति। कोकिलः कूजति। — read word by word, in pause form,
-> entirely by you. **The prize:** fifteen words; roughly ninety-five in all.
+> entirely by you. **The prize:** fifteen words; 114 in all.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- **In 1 day:** re-take the dictation (exercise 3) cold; write फ ब भ from memory, checking
+- **In 1 day:** re-take the dictation (exercise 3) cold; write प फ ब भ from memory, checking
   ब's join and भ's corner; read the three sentences aloud once, pause form intact.
-- **In 1 week:** lesson 6 is the chapter assessment — blank-grid fill (aim: under five
+- **Next lesson:** lesson 6 is the chapter assessment — blank-grid fill (aim: under five
   minutes), cross-varga dictation, and the milestone sentences in the reading task. The
   evening before: recite all five rows and reread §14.
 - **From lesson 6 onward:** every course story now contains real sentences — each one a
-  free rehearsal of today's protocol. Notice the ः on every subject you meet.
+  free rehearsal of today's protocol. Notice the ः on subjects like बालकः and कपिः — and
+  notice that पिता manages without one.
 
 ## 21. Homework
 
@@ -643,16 +650,16 @@ the milestone. Do not let the sentences leak into the sound work early; their im
 depends on the grid feeling *finished* first.
 
 **Timing plan (45 min):** §3 retrieval, written (5) → hook + mirror: one closure, five
-releases (5) → sound work: tissue row, फ laboratory, ब/भ palm pairs (8) → writing फ ब भ:
+releases (5) → sound work: tissue row, फ laboratory, ब/भ palm pairs (8) → writing प फ ब भ:
 board demo, air-writing, tracing start (8) → word list in pairs (6) → THE MILESTONE:
 build बालकः on the board, state the pause-form convention, choral then solo reading (6) →
 exercises 2 and 6 (4) → homework briefing incl. the 1-day re-dictation (3).
 
 **Stage the milestone deliberately.** Write बालकः चलति। on the board in silence. Wait.
 Someone will read it — and the room will realize what just happened. Then name it: the
-first complete Sanskrit sentence anyone in this room has read unaided. Choral reading
-twice, then every student reads one sentence solo, pause form. Do not rush these five
-minutes; they are the chapter's payday.
+first official milestone sentence — a brand-new subject, read unaided (lesson 2's कोकिलः
+कूजति was the preview). Choral reading twice, then every student reads one sentence solo,
+pause form. Do not rush these six minutes; they are the chapter's payday.
 
 **The फ battle is everyone's battle — through two doors.** English-habit learners arrive
 via the "ph = f" spelling reflex; Hindi-literate learners via the casual फ/फ़ merger. The
@@ -688,7 +695,7 @@ channels that excitement into two more correct sentences instead of speed.
 **Asset 2 — `planned:assets/images/volume-1/v1c03l05-stroke-order.svg`**
 
 > Educational stroke-order chart, Noto Serif Devanagari outlines, numbered arrows,
-> convention "body → stem → headline". Rows 1–3: फ, ब, भ drawn progressively in 4 panels;
+> convention "body → stem → headline". Rows 1–4: प, फ, ब, भ drawn progressively in 4 panels;
 > फ's final panel adds the breath-curl in a second color, caption "more breath = more ink —
 > and never a dot below (फ़ is Hindi's [f])". Inset A: ब beside क — "ब joins cleanly; क
 > ties the knot", crossing point circled on क, clean join circled on ब, ब's inner tick
@@ -698,10 +705,10 @@ channels that excitement into two more correct sentences instead of speed.
 
 **Asset 3 — `planned:assets/worksheets/volume-1/v1c03l05-tracing.pdf` (layout spec)**
 
-> A4 tracing worksheet, portrait, ruled guides with headline. Rows 1–3: फ, ब, भ — one
+> A4 tracing worksheet, portrait, ruled guides with headline. Rows 1–4: प, फ, ब, भ — one
 > solid model each with numbered stroke arrows (matching Asset 2), five dotted outlines
-> each. Row 4: प फ ब भ म dotted once + freehand boxes. Row 5: फल, बालक, भूमि, गोपाल
-> dotted once + freehand boxes. Row 6 (the milestone row, small flag icon): बालकः चलति।
+> each. Row 5: प फ ब भ म dotted once + freehand boxes. Row 6: फल, बालक, भूमि, गोपाल
+> dotted once + freehand boxes. Row 7 (the milestone row, small flag icon): बालकः चलति।
 > कपिः चलति। कोकिलः कूजति। dotted once at larger size, then one guided line for freehand,
 > daṇḍa included. Footer chants: "lips, not teeth" · "join, don't knot" · "no loop on भ".
 
@@ -716,7 +723,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    shows the 5×5 grid filling its last row cell by cell.
 3. **फ ≠ f (1:50–3:00):** the deliberate-error demo — [f] hisses, tissue trembles; फ
    cracks it. The nuqta story in one animated line: फ → फ़, stamped "Hindi loanwords only".
-4. **Writing (3:00–3:50):** stroke panels animate फ ब भ; the ब-vs-क knot and भ-vs-म loop
+4. **Writing (3:00–3:50):** stroke panels animate प फ ब भ; the ब-vs-क knot and भ-vs-म loop
    insets flash as quick "spot the difference" beats.
 5. **THE MILESTONE (3:50–5:10):** the screen goes quiet. बालकः चलति। assembles word by
    word with a visible pause-dot between words; a soft caption states the pause-form
@@ -751,9 +758,10 @@ narrator reads them as IPA, not as English spelling.
   kūjati [kuːd͡ʑɐt̪i] — the cuckoo coos. Each word said fully, a small pause between —
   pause form, the traditional way word lists are recited. Flowing speech has its own
   rules; they come in Volume 3. Nothing you read today will need unlearning.
-- **05:00** That little ः on every subject? The visarga you already own. Why subjects
-  wear it is a later story. Today — read it, breathe it, enjoy it.
-- **05:20** Twenty-five letters. Five rows. Roughly ninety-five words. And the first
+- **05:00** That little ः on bālakaḥ [bɑːlɐkɐh] and kapiḥ [kɐpih]? The visarga you
+  already own. Why those subjects wear it is a later story. Today — read it, breathe it,
+  enjoy it.
+- **05:20** Twenty-five letters. Five rows. A hundred and fourteen words. And whole
   sentences you read alone. Next lesson the whole grid stands for inspection — bring a
   blank five-by-five. bālakaḥ [bɑːlɐkɐh] calati [t͡ɕɐlɐt̪i]. Take that sentence with you.
 
@@ -792,25 +800,26 @@ narrator reads them as IPA, not as English spelling.
   (कोकिल, ो-mātrā, ॐ [oːm]), v1.c02.l06 (visarga — now on sentence subjects), v1.c02.l03
   (मातृ stem ↔ today's पितृ note); feeds v1.c03.l06 (assessment: blank-grid fill,
   sentence reading, +1-week re-dictation), Chapter 4 (व — the ब/व contrast previewed in
-  §12/§15; य व unlock धन्यवादः), Chapter 5 (virāma — फलम्, अत्र's conjunct), Volume 3
-  (declension behind the subject's ः; sandhi retires the pause-form convention).
-  Prerequisite ids v1.c03.l01–l04 are drafted in parallel — the validator's reference
-  check resolves once they land.
-- **Grid-completion note for l06:** with this lesson the full 25-stop grid is printed in
-  course text (§15) for the first time — l06's blank-grid assessment and answer key must
-  key against §15's table and IPA rows exactly.
+  §12/§15; य व bring धन्यवादः one step nearer), Chapter 5 (virāma — फलम्, अत्र's
+  conjunct, धन्यवादः's न्य), Volume 3 (declension behind the subject's ः; sandhi retires
+  the pause-form convention).
+- **Grid-completion note for l06:** with this lesson the full 25-stop grid is printed as
+  owned (non-preview) content (§15) for the first time since its v1.c01.l02 §5 preview —
+  l06's blank-grid assessment and answer key must key against §15's table and IPA rows
+  exactly.
 - **Glossary:** reuses वर्ण, स्वर, व्यञ्जन, ओष्ठ्य and the place terms — consistent with
-  GLOSSARY.md; वर्ग and स्पर्श are first-taught v1.c03.l01 (parallel draft) — confirm
-  entries land in the post-chapter loop. **Candidate addition: "pause form / ठहराव-रूप"
-  (first-taught v1.c03.l05)** — used by l06 and every sentence-bearing lesson until
-  Volume 3.
+  GLOSSARY.md; वर्ग and स्पर्श are first-taught v1.c03.l01 — confirm entries land in the
+  post-chapter loop. **Candidate addition: "pause form / ठहराव-रूप" (first-taught
+  v1.c03.l02; made the standing reading protocol in v1.c03.l05)** — used by l06 and every
+  sentence-bearing lesson until Volume 3.
 - **Verification flags for Pass C:** pause-form framing (§8 FACT) — verify wording against
   research note §8 decision as logged; nuqta/loan HISTORY (§4) against
-  [REF:masica1991]/[REF:ohala1994]; पथ ~ path and पितृ ~ father cognates (§13) against
-  [REF:mallory2006]; गोपाल epithet line stays TRADITION, never assessed; §15 IPA rows
+  [REF:masica1991]/[REF:ohala1994]; पथ ~ *pons*/*póntos* and पितृ ~ father cognates (§13)
+  against [REF:mallory2006]; *path* as a non-cognate of uncertain origin against
+  [REF:oed s.v. path]; गोपाल epithet line stays TRADITION, never assessed; §15 IPA rows
   diffed cell-by-cell against STYLE_GUIDE §2.2 (Pass A).
-- **Export notes:** naming-form shouts फल!/फल? in §17 carry their honesty note in-text —
-  no `audio_only` flag; **no 🔊 flags in §14 and §17 at all** (first story with zero glue
+- **Export notes:** naming-form (stand-in) shouts फल!/फल? in §16–§17 carry their honesty
+  note in §17 — no `audio_only` flag; **no 🔊 flags in §14 and §17 at all** (first story with zero glue
   words — export §17 with all-`readable: true` spans; the retired bold convention is
   intentional, do not re-bold); 🔊 in §16 marks धन्यवादः, आम्, अत्र only; IPA strings
   contain combining characters (pʰ, bʱ, t̪, d͡ʑ, uː) — NFC normalization applies to

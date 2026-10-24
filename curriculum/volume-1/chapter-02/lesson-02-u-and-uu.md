@@ -51,11 +51,11 @@ updated: 2026-07-21
 
 ## 1. Hook
 
-Until today, your lips have been unemployed. Every vowel so far — अ, आ, इ, ई — left them
-neutral while the tongue and jaw did all the work. Now round them into a small circle, the
-shape you make to whistle or to blow out a candle, and two new vowels appear: उ and ऊ. For
-the first time in this course you can *watch* yourself pronounce Sanskrit — the mirror stops
-being a metaphor. And the stakes are already familiar: hold the rounded vowel one beat
+Until today, your lips have never rounded. Every vowel so far — अ, आ, इ, ई — left them
+unrounded, neutral or slightly spread, while the tongue and jaw did the heavy work. Now round
+them into a small circle, the shape you make to whistle or to blow out a candle, and two new
+vowels appear: उ and ऊ. Your mirror has checked a still jaw and a smile before; today it
+watches the lips do real work — a circle no earlier vowel used. And the stakes are already familiar: hold the rounded vowel one beat
 longer and कुल (kula) "family" becomes कूल (kūla) "riverbank". One breath, and your whole
 family is standing in the river. Two sounds, two letters, two signs that hang *below* the
 line — and eight new words, one of them an owl with a literary future.
@@ -111,7 +111,7 @@ of them opens with three vowels — and after today, you own all three.
 > tradition open with अइउण् (a i u ṇ): its listed sounds are अ, इ, उ — the final ण् is a
 > marker letter, a filing device explained in Volume 4. The tradition's own phonetics files
 > उ and ऊ as ओष्ठ्य (oṣṭhya) "of the lips" — the articulation label you met in the sound map
-> (v1.c01.l02). [REF:maheshvarasutras 1]
+> (v1.c01.l02). [REF:maheshvarasutras 1], [REF:paniniyashiksha]
 
 > **[HISTORY · इतिहासः]** Pāṇini worked around the 4th century BCE on the scholarly
 > estimate; the Aṣṭādhyāyī and its prefixed sound catalogue stand at the head of a grammar
@@ -152,7 +152,7 @@ over your habit. The bigger danger is the false friend: the vowel of *put* and *
 rounded vowel: think "a short, crisp ऊ", never "the *put* vowel" (§12).
 
 **Rounding is visible.** Height and backness happen behind closed doors; rounding happens on
-your face. From today the mirror is a measuring instrument, not a pep talk: if you cannot
+your face. From today the mirror measures the lip-circle itself, not just the jaw and the smile: if you cannot
 *see* a small, forward-pushed circle for the full duration of ऊ, the vowel is drifting. Use
 it in every drill (§9, §11).
 
@@ -219,7 +219,7 @@ already own — which is exactly why this lesson moves fast and reads far.
 | Lips | rounded, pushed forward | same — rounding held to the very end |
 | Jaw | nearly closed | nearly closed |
 | English anchor | none exact — *put* is the trap, not the anchor (§5) | the *oo* of *food*, said carefully — see the §5 caution |
-| Hindi anchor | the उ of सुन "listen" | the ऊ of फूल "flower" |
+| Hindi anchor | the उ of सुन "listen" — but Hindi says it lax [ʊ]: round and close it fully, a clipped ऊ | the ऊ of फूल "flower" |
 
 Unlike अ/आ, this pair does not change color as it lengthens: ऊ is उ with more time on the
 clock, nothing else (§10). All the new work is in the lips — round them, push them slightly
@@ -234,7 +234,7 @@ pair's signs live.
 
 > **[FACT · तथ्यम्]** The dependent signs of उ and ऊ attach **below** the consonant, hanging
 > from the foot of its vertical stem: क + उ = कु (ku), क + ऊ = कू (kū). As always, the sign
-> replaces the inherent अ. [REF:masica1991 ch.6]
+> replaces the inherent अ. One letter, र, breaks the pattern — see §15. [REF:masica1991 ch.6]
 
 The compass so far:
 
@@ -392,8 +392,8 @@ centuries of inheritance — a direct descendant, not a borrowing.
 **मूल** (mūla) "root, base" — जड़, मूल · /muːlɐ/
 
 From this root the tradition grows मूल्य "value, price" — literally what a thing is *at
-root* worth. You will read that word later this volume, when य arrives; today you plant मूल
-and let it wait. Roots are patient.
+root* worth. Once य arrives (Chapter 4) and conjuncts follow (Chapter 5), you will be able
+to read it yourself; today you plant मूल and let it wait. Roots are patient.
 
 ## 14. Vocabulary
 
@@ -410,7 +410,7 @@ Running total: twenty-eight readable words. Audio: 🔊
 | मूक | mūka | /muːkɐ/ | mute, silent | मूक, गूँगा | long ऊ, then a full short final /ɐ/ |
 | मुकुल | mukula | /mukulɐ/ | bud | कली | two short u's — resist lengthening either |
 | उलूक | ulūka | /uluːkɐ/ | owl | उल्लू | begins with the independent letter उ (§8) |
-| उत | uta | /ut̪ɐ/ | and, or (particle) | या, अथवा | a little joining word; independent उ again |
+| उत | uta | /ut̪ɐ/ | and, or (particle) | और, या | a little joining word; independent उ again |
 
 Reading protocol, as always: block by block first (मु-कु-ल), then the whole word at natural
 speed, then check against the audio. Every dīrgha gets its two beats; every final vowel is
@@ -427,8 +427,11 @@ strokes that live there.
 > letters (उ, ऊ) open an akṣara that starts with the vowel — in practice, word-initially —
 > and the dependent signs (ु, ू) attach to a consonant, replacing its inherent अ. These two
 > signs attach **below** the consonant, at the foot of its vertical stem: क + उ = कु, म + ऊ
-> = मू. A sign's position — right, left, below, above — is fixed by the script for each
-> vowel; it is a fact of writing, not of sound. [REF:masica1991 ch.6]
+> = मू. A letter with no vertical stem, such as द or ह, carries the sign under its body
+> instead, and र is the exception to remember: रु, रू attach at its right side, as you will
+> see in गुरु when र arrives (Chapter 4). A sign's position — right, left, below, above — is
+> fixed by the script for each vowel; it is a fact of writing, not of sound.
+> [REF:masica1991 ch.6]
 
 The decision procedure is unchanged: *does the u-sound start the word?* → letter (उत,
 उलूक). *Does it follow a consonant?* → sign, hung below (कुल, मूल). The two spellings never
@@ -446,12 +449,14 @@ tracing: `planned:assets/worksheets/volume-1/v1c02l02-tracing.pdf`.)
 - **ऊ** — write a complete उ, then add the tail: a small curl leaving the lower bowl to the
   right and sweeping down. Like आ before it, the long letter is the short letter *plus
   ink* — the script drawing extra length as extra material.
-- **ु** — after the consonant is complete: a small hook hanging from the foot of the stem,
-  swinging down and curling up so its mouth opens to the upper **right**.
-- **ू** — the mirror twin: the same hook flipped, its mouth opening to the upper **left**.
-  Memory device: ह्रस्व ु looks *ahead* (rightward, the direction you are reading); दीर्घ ू
-  has been going long enough to look back over its shoulder. Fonts vary slightly — the
-  stroke card is the model, and "under, not after" (§12) is the chant.
+- **ु** — after the consonant is complete: a small hook hanging from the foot of the stem and
+  swinging round beneath it: the bowl bulges right and the tail curls back up to the upper
+  **left**.
+- **ू** — the flipped twin: a small curl tucked to the **left** under the stem, then a tail
+  sweeping down and away to the lower **right**.
+  Memory device: ह्रस्व ु is short, so it turns back at once — its tail curls back *left*; दीर्घ ू
+  has further to go — its tail strides on *rightward*, the direction you are reading. Fonts
+  vary slightly — the stroke card is the model, and "under, not after" (§12) is the chant.
 
 The headline habit continues: letters hang from the clothesline; the below-signs hang from
 the *letters*. Nothing about the line itself changes today.
@@ -475,8 +480,8 @@ the Chapter 2 drill pack (§27).
 
 Glue words, both old friends by now: पश्य (paśya) "look!" — देखो 🔊 and आम् (ām) "yes" —
 हाँ 🔊. The tail ः on उलूकः is the visarga (§6) — read the body, let the audio breathe the
-tail; lesson 6 makes it yours. And मम, from Chapter 1, quietly claims its second wild
-animal-free possession — everything a child sees at dusk is, apparently, मम.
+tail; lesson 6 makes it yours. And मम, from Chapter 1, quietly claims its first wild
+animal — everything a child sees at dusk is, apparently, मम.
 
 ## 17. Story
 
@@ -520,14 +525,14 @@ a whole.
 **अभ्यासः 2 · लेखनम् (tracing & writing).** Print or open the tracing worksheet ✍
 (`planned:assets/worksheets/volume-1/v1c02l02-tracing.pdf`): trace उ and ऊ five times each
 following the stroke arrows, then कु कू मु मू तु तू लु लू — consonant complete first, hook
-hung from the stem's foot last, mouth of the hook checked against the model every time
+hung from the stem's foot last, the hook's tail direction checked against the model every time
 (§12 mistake 4). Final row: write कुल, मूल, कूल, उलूक unaided.
 
 **अभ्यासः 3 · श्रुतलेखनम् (dictation, audio).** Have a partner read the eight §14 words in
 random order — or play the word-list audio 🔊
 (`planned:assets/audio/volume-1/v1c02l02-word-list.mp3`), pausing after each word's first
 reading. Write each word in Devanagari. Self-check against §14 with three questions per
-word: is the sign *below*? Is its mouth facing the right way? Short or long — did you hear
+word: is the sign *below*? Does its tail turn the right way? Short or long — did you hear
 the clock? 7/8 is a pass; re-take tomorrow either way (§20).
 
 **अभ्यासः 4 · श्रवणभेदः (minimal-pair discrimination, written answers).** Play the pair
@@ -546,7 +551,7 @@ where you and the model differ.
 tiles: क म त ल उ ऊ ा ि ी ु ू. Using only these tiles (reuse allowed), build at least four
 real words from this lesson or the last two, and write them down. Bonus challenges: the
 longest word you can build (§14 has two three-block candidates), and one word that uses two
-*different* compass directions at once. (Check yourself against §14 and lesson 1's list; a
+*different* compass directions at once. (Check yourself against §14, lesson 1's list and the Chapter 1 review list in v1.c01.l05; a
 tile-word not on those lists needs a teacher's confirmation before you trust it.)
 
 ## 19. Quiz
@@ -585,7 +590,7 @@ tile-word not on those lists needs a teacher's confirmation before you trust it.
 पुनरावृत्तिः — one screen to remember.
 
 > **The sounds:** उ /u/, ऊ /uː/ — close, back, **rounded**; same quality, different clock;
-> dīrgha = 2 × hrasva. **The move:** round the lips and push them forward — the first vowel
+> dīrgha = 2 × hrasva. **The move:** round the lips and push them forward — the first lip-rounding
 > you can check in a mirror, and the rounding must survive both beats of ऊ. **The rule:**
 > ु and ू hang **below** the consonant, from the foot of the stem — कु, कू; the independent
 > letters उ, ऊ open words (उत, उलूक). Position is graphics; order is speech. **The proof:**
@@ -612,7 +617,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
    watching the lip-circle survive every ऊ.
 3. **(10 min, real world)** Hunt the hooks: find any Devanagari text around you — a Hindi
    newspaper, a shop sign, a food packet — and circle (or list) ten words carrying ु or ू.
-   For each, note which way the hook's mouth opens. You are training your eye to see the
+   For each, note which way the hook's tail turns. You are training your eye to see the
    below position — no need to read the whole words. Bring your ten to class.
 4. **(5 min, teach-back)** Teach someone the smile-to-whistle slide (§9 drill 1) with a
    mirror, and use कुल/कूल to show them why the rounding and the beat both matter. If you
@@ -624,8 +629,8 @@ Tomorrow, before anything else: the 1-day re-dictation (§20). The gap is the me
 
 शिक्षक-टिप्पणी
 
-**This is the mirror lesson.** For four sound-lessons the articulators have been invisible;
-today one of them finally shows. Stage it: hand mirrors out (or phone front-cameras up)
+**This is the mirror lesson.** For three sound-lessons the mirror has checked a still jaw and
+neutral or smiling lips; today the lips themselves move into place. Stage it: hand mirrors out (or phone front-cameras up)
 *before* the first drill, do the smile-to-whistle slide together in unison, and let the
 class see thirty mouths flip from ई to ऊ at once. Doing it as a group first defuses the
 embarrassment adults feel about puckering at themselves — name it, laugh once, move on.
@@ -648,8 +653,8 @@ One demonstration of the wrong sound, deliberately, helps the class hear the dif
 **The classic writing errors:** the hook parked beside the consonant instead of below, and
 the mirror-flipped hook (कु ↔ कू). Both are sequence-and-direction errors, so circulate
 during exercise 2 and watch pens, not just finished worksheets. The chant "under, not
-after" handles position; for direction, have students say "short looks ahead, long looks
-back" as they write until it becomes silly, then unnecessary.
+after" handles position; for direction, have students say "short curls back, long strides
+on" as they write until it becomes silly, then unnecessary.
 
 **Dictation logistics:** read each word twice at natural speed, 10-second writing gap; do
 not over-round or over-lengthen as a hint. Collect error types, not just scores: beside-
@@ -687,7 +692,8 @@ whistle slide, done slowly, converts the skeptics.
 > shown 4 times left to right, progressively drawn, numbered arrows (1, 2, 3…): upper curve,
 > lower bowl, headline last; ऊ's final panel adds the lower-right tail in a second color.
 > Row 3: the signs ु and ू enlarged on a ghosted क, hooks in the highlight color, with small
-> mouth-direction arrows and the caption "ु opens right — ू opens left". Footer row: कु कू
+> tail-direction arrows and the caption "ु's tail curls back left — ू's tail sweeps out right".
+> Footer row: कु कू
 > मु मू तु तू लु लू with every below-sign in the highlight color and the caption "below the
 > stem — never beside". Faint grid guides and headline. Workbook-clean, two colors only.
 
@@ -708,9 +714,9 @@ whistle slide, done slowly, converts the skeptics.
 > A4 tracing worksheet, portrait, row guides with Devanagari headline. Rows 1–2: उ and ऊ —
 > one solid model each, five dotted outlines, stroke-order arrows on the model (matching
 > Asset 2). Row 3: कु कू मु मू dotted, the below-hooks printed in light gray and numbered
-> last, small mouth-direction arrows beside each hook. Row 4: तु तू लु लू dotted. Row 5:
+> last, small tail-direction arrows beside each hook. Row 4: तु तू लु लू dotted. Row 5:
 > कुल, मूल, कूल, उलूक dotted once, then empty guided boxes for freehand. Footer: the chants
-> "under, not after" and "short looks ahead — long looks back". Generous spacing for child
+> "under, not after" and "short curls back — long strides on". Generous spacing for child
 > and adult hands alike.
 
 ## 24. AI Video Prompt
@@ -748,7 +754,7 @@ narrator reads them as IPA, not as English spelling.
   difference.
 - **00:12** kula [kulɐ] — a family. kūla [kuːlɐ] — a riverbank. Stretch the vowel, and your
   family is standing in the river.
-- **00:28** Today: the first Sanskrit vowels your *lips* make — and the first vowels you
+- **00:28** Today: the first Sanskrit vowels your *lips* make — a lip-circle you
   can check in a mirror.
 - **00:40** Watch my mouth. A long ī [iː] — lips spread, a little smile. Now, slowly: the
   smile becomes a circle, the tongue slides back… ū [uː]. That circle is the whole lesson.
@@ -760,8 +766,8 @@ narrator reads them as IPA, not as English spelling.
   u [u] is a short ū [uː]: small, firm, round.
 - **01:55** Writing time. You know the game: the vowel shrinks into a sign. But this pair
   does something new — it hangs *below*. क [kɐ]… plus the hook under the stem… कु [ku].
-- **02:20** The long twin flips its hook and hangs below too: कू [kuː]. Short looks ahead —
-  long looks back. Under, not after.
+- **02:20** The long twin flips its hook and hangs below too: कू [kuː]. Short curls back —
+  long strides on. Under, not after.
 - **02:40** Your mātrā compass now points three ways: ā to the right. i to the left. u and
   ū below. The roof comes in lesson four.
 - **03:00** Eight new words — read with me, two beats on every long vowel. kula [kulɐ],
@@ -817,7 +823,7 @@ narrator reads them as IPA, not as English spelling.
   the ऋ /r̩/ target previewed in §26), v1.c02.l04–l05 (above and composite positions; ॐ's
   traditional a-u-m analysis, previewed one line in §4), v1.c02.l06 (visarga — the ः tails
   of §6/§16/§17 become readable there, as promised), v1.c05 (virāma for the -म् tails),
-  Volume 3 (the noun endings worn by कूलम्/मुकुलम्/उलूकः), Volume 2 (compounds —
+  Volume 3 (the noun endings worn by कूलम्/मुकुलम्/उलूकः), Volume 3, v3.c05 (compounds —
   कमल-मुकुलम् echoes कमल-माला); the Pañcatantra owl seed (§13) matures when connected
   reading begins.
 - **Glossary:** no new glossary terms introduced; reuses ह्रस्व, दीर्घ, मात्रा, स्वर, अक्षर

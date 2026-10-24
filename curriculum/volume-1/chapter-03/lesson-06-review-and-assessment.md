@@ -52,7 +52,7 @@ updated: 2026-07-21
 Five lessons ago the 5×5 grid of stops was a preview on a map — the course's second lesson
 showed it to you and promised it would one day be yours. Today it is: twenty-five letters,
 five places, five manners, every cell earned letter by letter. The readable word list has
-crossed ninety-five — मम to भोजन — and, for the first time in this course, you have read
+reached 114 — मम to भोजन — and, for the first time in this course, you have read
 complete Sanskrit sentences: बालकः चलति। कोकिलः कूजति। Nothing new enters this lesson.
 Today you prove the grid.
 
@@ -116,7 +116,7 @@ re-run of its tasks C and E. Four items, two minutes; log the scores next to the
 4. Retroflexes outside India: name one European language that has them — and which banned
    1.x claim does that fact retire?
 
-*Check against l03 §9, §14, §12, §5.*
+*Check against l03 §9, §14, §8, §4.*
 
 ### Station 4 — त-वर्गः (lesson 4)
 
@@ -127,7 +127,7 @@ re-run of its tasks C and E. Four items, two minutes; log the scores next to the
 3. नमः — read it, gloss it, and state exactly what still blocks नमस्ते in full.
 4. Read the discrimination set: धन, दिन, दान — then कथा and नदी.
 
-*Check against l04 §11, §9, §15, §14.*
+*Check against l04 §11, §9, §8, §14.*
 
 ### Station 5 — प-वर्गः (lesson 5)
 
@@ -135,10 +135,10 @@ re-run of its tasks C and E. Four items, two minutes; log the scores next to the
 2. Read the milestone sentences: बालकः चलति। कपिः चलति। कोकिलः कूजति।
 3. State the pause-form convention: how does Volume 1 read sentences, and what is honestly
    deferred?
-4. म closed a circle that began in the course's third lesson — what circle? (Two answers:
-   the helper letters, and ॐ.)
+4. म closed two circles — which? (One opened in the course's third lesson: the helper
+   letters; the other in Chapter 2: ॐ's closing [m].)
 
-*Check against l05 §9, §13, §15, §17.*
+*Check against l05 §9, §8, §8, §4.*
 
 Score yourself: 20+ of 24 prompts clean → proceed to the assessment. Below that, re-study
 the weakest station today and assess tomorrow — the extra spacing helps [REF:cepeda2006].
@@ -147,9 +147,10 @@ the weakest station today and assess tomorrow — the extra spacing helps [REF:c
 
 ऐतिहासिकः सन्दर्भः — one paragraph, as in every review lesson.
 
-The tradition that carried these twenty-five sounds across three millennia did it with
-exactly this tool — scheduled, structured repetition, recited in varga order, tested from
-memory — and memory science confirms the mechanism:
+The tradition that carried these sounds across three millennia relied on disciplined oral
+recitation, teacher to student [REF:jamison2014 p.5]. Scheduled, spaced review is a modern
+tool rather than that tradition's documented method — but memory science explains why
+repetition pays off most when it is spaced:
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
 > practice massed together. [REF:cepeda2006]
@@ -169,10 +170,10 @@ list of twenty-five facts; it is an engine with two axes, and both keep working 
 chapter. Chapter 4 has only eight letters left — the semivowels य र ल व and the sibilant
 row श ष स plus ह — and every one of them will be taught by *location on the place-axis you
 certify today*: श sits at the palatal station, ष at the retroflex, स at the dental.
-Chapter 5's conjuncts are grid-pairs — two letters you already own, welded, like the स्त
+Chapter 5's conjuncts are letter-pairs — two letters you will own by then, welded, like the स्त
 inside नमस्ते. Certify place and manner now and both chapters become cheap. Let an error
 survive today — a [z]-flavored ज, an alveolar त — and it gets rehearsed into every
-syllable and every conjunct that follows, at ten times the repair cost.
+syllable and every conjunct that follows, at a far higher repair cost.
 
 ## 6. Sanskrit Explanation
 
@@ -185,7 +186,7 @@ syllable and every conjunct that follows, at ten times the repair cost.
 > (namaḥ!) — "Homage — a greeting." — प्रणाम!
 
 ततः is Chapter 2's connector; बालकः and चलति arrived in this chapter; नमः is lesson 4's
-gift. Read the sentence in pause form — each word complete, as l05 §15 established.
+gift. Read the sentence in pause form — each word complete, as l05 §8 established.
 
 ## 7. Hindi Explanation
 
@@ -273,7 +274,7 @@ reading error should be caught by one of them.
 - **Throat-hand (voicing):** fingers flat on the larynx. ग hums from the first instant;
   क starts silent. घ hums AND moves the tissue — murmured breath on a voiced sound → l01 §11.
 - **Nose-pinch (nasality):** pinch the nose shut. ङ ञ ण न म die instantly; the other
-  twenty letters sail through → each varga lesson's §11.
+  twenty letters sail through → l01 §5, §9; l02 §11.
 - **Fingertip-on-teeth (place):** fingertip on the upper front teeth. त थ द ध न tap it;
   ट ठ ड ढ ण curl away to the roof. English t/d hit the ridge behind it — touching neither
   → l04 §11.
@@ -316,8 +317,8 @@ as a property of the sound — as worldview it could live in SYMBOL; as phonolog
 
 शब्दावली — no new words; the **cumulative readable list**, Chapters 1–3 complete: 54 words
 carried from Chapters 1–2 (compressed below; full rows in v1.c02.l07 §14) plus 60 from
-this chapter — **114 readable words**, comfortably past the ~95 the chapter overview
-promised. This table is the source for tasks B and C. Reading protocol as always: block by
+this chapter (the lessons' 59 words plus the name कठ from l03 §17) — **114 readable words**.
+This table is the source for tasks B and C. Reading protocol as always: block by
 block, then whole word, every vowel at full value, pause form.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
@@ -360,7 +361,7 @@ block, then whole word, every vowel at full value, pause form.
 | गुड | guḍa | /guɖɐ/ | jaggery, raw sugar | गुड़ | l03 · watch the ड़-habit — §12 row 7 |
 | गूढ | gūḍha | /guːɖʱɐ/ | hidden, secret | गूढ़, छिपा | l03 |
 | मूढ | mūḍha | /muːɖʱɐ/ | deluded, fool | मूर्ख | l03 |
-| कठ | kaṭha | /kɐʈʰɐ/ | name of an Upaniṣad | कठ | l03 · TRADITION: the Kaṭha Upaniṣad |
+| कठ | kaṭha | /kɐʈʰɐ/ | name of an Upaniṣad | कठ | l03 §17 · TRADITION: the Kaṭha Upaniṣad |
 | कथा | kathā | /kɐt̪ʰɑː/ | story | कथा, कहानी | l04 · §17's long-promised word |
 | दिन | dina | /d̪in̪ɐ/ | day | दिन | l04 |
 | दान | dāna | /d̪ɑːn̪ɐ/ | giving, charity | दान | l04 |
@@ -369,7 +370,7 @@ block, then whole word, every vowel at full value, pause form.
 | मधु | madhu | /mɐd̪ʱu/ | honey | शहद | l04 · mead-cognate card in task D |
 | नदी | nadī | /n̪ɐd̪iː/ | river | नदी | l04 · story cast |
 | नमः | namaḥ | /n̪ɐmɐh/ | homage, salutation | प्रणाम | l04 · half of नमस्ते — sentence cast |
-| मन | mana | /mɐn̪ɐ/ | mind (stem form of manas) | मन | l04 |
+| मनः | manaḥ | /mɐn̪ɐh/ | mind (nominative of the stem manas) | मन | l04 |
 | जन | jana | /d͡ʑɐn̪ɐ/ | person, people | जन, लोग | l04 |
 | नीति | nīti | /n̪iːt̪i/ | conduct, policy | नीति | l04 |
 | नील | nīla | /n̪iːlɐ/ | blue | नीला | l04 |
@@ -377,7 +378,7 @@ block, then whole word, every vowel at full value, pause form.
 | नल | nala | /n̪ɐlɐ/ | Nala (the king's name); reed | नल (राजा) | l04 |
 | फल | phala | /pʰɐlɐ/ | fruit; result | फल | l05 · trap word: फ = [pʰ] — story cast |
 | बल | bala | /bɐlɐ/ | strength | बल | l05 |
-| पथ | patha | /pɐt̪ʰɐ/ | path | पथ, मार्ग | l05 · genuine PIE kin of English "path" |
+| पथ | patha | /pɐt̪ʰɐ/ | path | पथ, मार्ग | l05 · NOT a cognate of English "path" (l05 §13) |
 | पाप | pāpa | /pɑːpɐ/ | evil, sin | पाप | l05 |
 | पिता | pitā | /pit̪ɑː/ | father | पिता | l05 · story cast — पितृ stem noted in l05 |
 | कपि | kapi | /kɐpi/ | monkey | बन्दर | l05 · sentence cast |
@@ -406,7 +407,7 @@ block, then whole word, every vowel at full value, pause form.
 
 Still ahead, honestly: **eight letters** — the semivowels य र ल व (ल at last getting its
 full home) and the sibilant row श ष स plus ह — in Chapter 4; then the virāma and conjuncts
-in Chapter 5, which are grid-pairs: two letters you own, welded. The नमस्ते promise
+in Chapter 5, which are letter-pairs: two letters you own, welded. The नमस्ते promise
 tracker: **नमः ✓** readable since lesson 4; **स्ते** waits for स (Chapter 4) and conjunct
 machinery (Chapter 5). अहम् still needs the virāma. The grid you certify today is the
 address system all of it will use.
@@ -418,9 +419,9 @@ swap and repeat. 🔊 glue: आम्, अस्ति, पश्य (the establ
 
 — अ: **नमः**! "Greetings!"
 — ब: **नमः**! **जल**? "Water?"
-— अ: आम्, **जल** — **नदी**! **ततः** **घट**। "Yes, water — the river! Then, the pot."
+— अ: आम्, **जल** — **नदी**! **ततः** **घटः**। "Yes, water — the river! Then, the pot."
 — ब: **फल**? "Fruit?"
-— अ: आम्, **एक** **फल**। "Yes, one fruit."
+— अ: आम्, **फल**! "Yes — fruit!"
 — ब: **कथा**? "A story?"
 — अ: आम्! पश्य — **बालकः** **चलति**! "Yes! Look — the boy walks!"
 — ब: **कौतुक**! "Delightful!"
@@ -447,8 +448,8 @@ with l05 §17's version, where this cast first assembled):
    Then, the story." — पिता: प्रणाम! फिर — कथा।
 
 (Glue verbs stay 🔊 and optional; nominal lines are honest at this level. The point is
-retrieval + recombination, the two strongest moves in the learning toolkit
-[REF:roediger2006].)
+retrieval practice [REF:roediger2006] plus recombination — known words rebuilt into new
+lines.)
 
 ## 18. Exercises
 
@@ -459,7 +460,7 @@ lesson audio; D against the key with reasoning.
 (planned) plays twelve items; circle what you heard: items 1–2 aspiration syllables (क or
 ख), 3 aspiration word — मुख vs a fake without the puff, 4–5 dental/retroflex syllables
 (त or ट, ता or टा), 6 place word — घट vs a fake with dental t, 7 voiced place syllables
-(द or ड), 8 place word — गुड vs a fake with dental d, 9–10 the ज-trap: जल twice, one
+(द or ड), 8 place word — गुड vs its dental-d counterpart, 9–10 the ज-trap: जल twice, one
 affricate and one with [z] — mark which is Sanskrit, 11–12 the फ-trap: फल twice, one [pʰ]
 and one [f] — mark which is Sanskrit. Self-study fallback: any reader uses §19's item key.
 
@@ -502,8 +503,8 @@ is yours. Complete and correct within five minutes = pass.
    physical check separates slots 1 and 2?
 2. (l01) The tissue test: what exactly does it measure — and what should घ do to the
    tissue that ग does not?
-3. (l02) What kind of sounds are the च-वर्ग five in this course's target pronunciation,
-   and what must English "ch" lose to become च?
+3. (l02) What kind of sounds are च छ ज झ in this course's target pronunciation, and what
+   must English "ch" lose to become च?
 4. (l02) चलति is a course milestone. Why? And what, honestly, is deferred to Volume 2?
 5. (l03) Describe the tongue position for ट-वर्ग. Name one language outside India with
    retroflexes — and which banned 1.x claim does that retire?

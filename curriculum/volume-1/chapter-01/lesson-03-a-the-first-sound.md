@@ -26,7 +26,7 @@ objectives:
     hi: "सीखे हुए वर्णों से बने अभ्यास-अक्षर (अक, अम, कम, मक, कमक) छपे रूप से ऊँची आवाज़ में पढ़ें।"
 new_letters: ["अ", "क", "म"]
 new_matras: []
-vocabulary_count: 6
+vocabulary_count: 7
 media:
   images:
     - "planned:assets/images/volume-1/v1c01l03-a-lettercard.svg"
@@ -56,7 +56,7 @@ partner *ā*) wins by a wide margin: it is the most frequent vowel of the langua
 [REF:whitney1889 §§19–22]. Every unmarked consonant on the page is silently carrying it too.
 Learn this one sound well, and a good part of everything you will ever say in Sanskrit is
 already right. Today you also write your first three letters — by tonight, you will have
-read Devanagari aloud for the first time in your life.
+read Sanskrit aloud from Devanagari — for many of you, for the first time in your life.
 
 ## 2. Learning Objective
 
@@ -146,18 +146,18 @@ mystical; it is economical.
 
 ## 6. Sanskrit Explanation
 
-संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit (🔊 recorded in the
-Chapter 1 drill pack; you can already *read* the first word of each line).
+संस्कृतव्याख्या — the lesson's idea in the simplest possible Sanskrit (🔊 planned for the
+Chapter 1 drill pack; you can already *read* the अ that opens each line).
 
 अ इति प्रथमः स्वरः।
 (a iti prathamaḥ svaraḥ.) "*a* is the first vowel." — अ पहला स्वर है।
 
-अत्र अ अस्ति।
-(atra a asti.) "Here is *a*." — यहाँ अ है।
+अत्र अकारः अस्ति।
+(atra akāraḥ asti.) "Here is the sound *a*." — यहाँ अकार है।
 
 Two familiar pieces: इति (iti), the little quoting word from lesson 2's dialogue, and स्वर
-(svara) "vowel" from the sound map. One new word to keep: प्रथम (prathama) "first" — अ is
-प्रथमः स्वरः, the first vowel of the varṇamālā.
+(svara) "vowel" from the sound map. One new word to hear (ear-only, not yet a §14
+headword): प्रथम (prathama) "first" — अ is प्रथमः स्वरः, the first vowel of the varṇamālā.
 
 ## 7. Hindi Explanation
 
@@ -170,8 +170,8 @@ Two familiar pieces: इति (iti), the little quoting word from lesson 2's di
 ध्यान से देखिए — हिन्दी में हम लिखते हैं धर्म, पर बोलते हैं "धर्म्" — अन्त की अ चुपचाप गिर जाती
 है। कमल लिखते हैं, बोलते हैं "कमल्"। यह कोई ग़लती नहीं, हिन्दी की अपनी स्वाभाविक ध्वनि-आदत है —
 भाषाविज्ञान में इसे अ-लोप (schwa deletion) कहते हैं। पर संस्कृत बोलते समय यह आदत उतारकर रखनी
-होगी: संस्कृत का धर्म पूरा *dharma* है — धर्-म, अन्त की अ खुलकर सुनाई देती है। कमल तीन पूरे
-अक्षर है — क-म-ल — और तीनों में अ बोली जाती है। उँगलियों पर गिनकर बोलिए: क (एक), म (दो), ल
+होगी: संस्कृत का धर्म पूरा *dharma* है — धर्-म, अन्त की अ खुलकर सुनाई देती है। कमल में तीन पूरे
+अक्षर हैं — क-म-ल — और तीनों में अ बोली जाती है। उँगलियों पर गिनकर बोलिए: क (एक), म (दो), ल
 (तीन)। हिन्दी बोलने वालों के लिए यही इस पाठ की सबसे बड़ी बात है — बाक़ी सब आपको पहले से आता है।
 
 दूसरी बात — व्यञ्जन के भीतर बैठी हुई अ। जब आप क लिखते हैं, तो वह केवल क् नहीं है — उसके भीतर
@@ -196,9 +196,9 @@ unrounded.
 
 English gets you close but not home, and honesty about anchors is course policy:
 
-- **Closest anchor: the vowel of "cup", "but" — English /ʌ/.** Good neighborhood, but English
-  /ʌ/ sits slightly more open and further back than अ. Start from "cup" and relax everything
-  toward the center.
+- **Closest anchor: the vowel of "cup", "but" — English /ʌ/.** Good neighborhood, but in
+  American speech /ʌ/ sits a touch higher and usually further back than अ; in southern British
+  speech it is already very close. Start from "cup" and relax everything toward the center.
 - **Second anchor: the first vowel of "about" — the schwa /ə/.** Central like अ, but a schwa
   is a *reduced*, weak, unstressed vowel — a mumble. अ is never a mumble: it is a full,
   steady vowel that can carry a syllable in any position, stressed or not.
@@ -348,9 +348,11 @@ now, unlock the spelling later. You can already spot today's letters inside them
 अक (aka) · अम (ama) · कम (kama) · मक (maka) · कमक (kamaka)
 
 Full honesty: these are **drill units**, not dictionary words. They exist so that your first
-reading uses only letters you have actually learned. Real readable words — मम "my", माता
+reading uses only letters you have actually learned. Real readable words — माता
 "mother", कमल "lotus" and more — arrive tomorrow, the moment आ and two more consonants join
-the set. One lesson of patience buys you twelve real words by the end of the chapter.
+the set. (One already hides in today's letters: मम (mama) "my" — just म twice; it joins the
+word list tomorrow.) One lesson of patience buys you twelve real words by the end of the
+chapter.
 
 ## 14. Vocabulary
 
@@ -402,7 +404,8 @@ top before bottom.**
 
 **क — 3 strokes.**
 1. The bowl and knot: from the stem-line at mid-height, curve left, down and around, coming
-   back to cross your starting point — the little knot closes the loop.
+   back to cross your starting point and run on into the small curl that hangs to the right
+   of the stem-line — the little knot closes the loop.
 2. The stem: vertical bar, top to bottom, through the crossing.
 3. The headline, last.
 
@@ -417,7 +420,7 @@ Write big at first — half a page per letter. Precision scales down; it never s
 ## 16. Conversation
 
 सम्भाषणम् — the smallest dialogue in the whole course, and the most important one: your first
-public act of reading. 🔊 audio recorded in the Chapter 1 drill pack (§27). The teacher
+public act of reading. 🔊 audio planned for the Chapter 1 drill pack (§27). The teacher
 points at a letter on the board.
 
 — शिष्यः: अ!
@@ -427,8 +430,8 @@ points at a letter on the board.
 (ām!) "Yes!" — हाँ!
 
 That is the entire exchange. आम् (ām) "yes" is ear-vocabulary — it begins with tomorrow's
-letter आ, so today you say it and hear it without reading it. By tomorrow evening you will
-read both sides of this dialogue.
+letter आ, so today you say it and hear it without reading it. Tomorrow you will read its आ;
+the whole word becomes readable in Chapter 5, when the virāma arrives for its final म्.
 
 ## 17. Story
 
@@ -543,8 +546,8 @@ Spaced review:
   ladder aloud once; re-answer quiz Q1 and Q5 from memory.
 - **In 1 week:** redo the dictation exercise (§18.3) with fresh randomization — the pass bar
   rises to 9/10; say अमृत, अग्नि, अर्थ, अहम् from memory with full final vowels.
-- **From lesson 2:** keep the tongue walk (क च ट त प) warm — it returns in every letter
-  lesson, and क now has a resident on the map.
+- **From lesson 2:** keep the tongue walk (क च ट त प) warm — it returns in lesson 5's
+  Station 2 and again in Chapter 3's stop lessons, and क now has a resident on the map.
 
 ## 21. Homework
 
@@ -629,8 +632,9 @@ dharma/dharm contrast as their stretch task.
 > "one finger" width indicator between the front teeth, lips neutral (annotated "no rounding,
 > no spreading"). Inset top-right: a simplified vowel quadrilateral with a solid dot at
 > near-open central labeled "अ /ɐ/" and three hollow reference dots labeled "English cat /æ/"
-> (front), "English cup /ʌ/" (lower right), "आ /ɑː/ — next lesson" (open back). Labels in
-> IAST + IPA, Devanagari in Noto Sans Devanagari, print-friendly, works in monochrome.
+> (front), "English cup /ʌ/" (open-mid back — up and to the right of अ), "आ /ɑː/ — next
+> lesson" (open back). Labels in IAST + IPA, Devanagari in Noto Sans Devanagari,
+> print-friendly, works in monochrome.
 
 **Asset 4 — `planned:assets/worksheets/volume-1/v1c01l03-tracing.pdf` (layout spec)**
 
@@ -672,9 +676,10 @@ narrator reads them as IPA, not as English spelling.
   every line. Today's whole lesson is that one sound: a [ɐ].
 - **00:35** Here is the entire technique. Jaw open one finger. Tongue — at rest, doing
   nothing. Lips — neutral. Switch on your voice: a [ɐ].
-- **00:55** Not the English "cup" — that vowel sits too far back and too open. Not the mumbled
-  first syllable of "about" — a schwa is weak; this vowel is full: a [ɐ], short and steady.
-- **01:15** Can't find it? Hum ma [mɐ]... hold the hum... now open one finger. Whatever fell
+- **00:55** Not quite the English "cup" — in American speech that vowel sits a touch too high
+  and too far back. Not the mumbled first syllable of "about" — a schwa is weak; this vowel
+  is full: a [ɐ], short and steady.
+- **01:15** Can't find it? Hum [m]... hold the hum... now open one finger. Whatever fell
   out of your mouth just then — that is a [ɐ].
 - **01:30** Now the rule that unlocks the whole script. This letter is ka [kɐ]. Not k — ka
   [kɐ]. Every consonant letter in Devanagari carries this vowel inside it, invisibly, for
@@ -694,8 +699,8 @@ narrator reads them as IPA, not as English spelling.
 - **05:00** One last thing. Pāṇini's grammar — four thousand rules — ends with a two-letter
   sūtra: a, a [ɐ ɐ]. Its job? To restore the true, closed pronunciation of this vowel for
   real speech. The grammar's final act is the sound you just learned.
-- **05:40** Tomorrow: the same mouth, held open twice as long — ā [ɑː] — and your first real
-  words in Devanagari. Namaste [n̪ɐmɐst̪eː].
+- **05:40** Tomorrow: the mouth opens wider, the tongue slides back, and the vowel is held
+  twice as long — ā [ɑː] — and your first real words in Devanagari. Namaste [n̪ɐmɐst̪eː].
 
 ## 26. Reel Script
 
@@ -725,7 +730,8 @@ narrator reads them as IPA, not as English spelling.
   - `assets/worksheets/volume-1/v1c01l03-tracing.pdf` — §18.1, layout spec in §23 asset 4
   - §6 lines and §16 dialogue audio are NOT in this manifest — record into the Chapter 1
     drill pack (chapter.md assets manifest) and back-link here when they exist.
-- **Related lessons:** reviews v1.c01.l01 (registers, loan/cognate stay warm via §17) and
+- **Related lessons:** reviews v1.c01.l01 (registers stay warm via the §4 TRADITION and §17
+  SYMBOL callouts; l01's loan/cognate distinction returns in v1.c01.l05) and
   v1.c01.l02 (places, grid, IPA notation, abugida preview → §15 full rule); feeds v1.c01.l04
   (आ, ā-mātrā, letters त ल, first readable words incl. कमल, माता), v1.c01.l05 (dictation and
   reading-aloud tasks reused in assessment); क and म get full varga treatment in v1.c03;
@@ -733,12 +739,11 @@ narrator reads them as IPA, not as English spelling.
 - **Glossary flags:** "अन्तर्निहित स्वर (inherent vowel)" used in §7/§15 — candidate for
   GLOSSARY.md addition with first-taught v1.c01.l03; ह्रस्व/दीर्घ deliberately NOT named here
   (GLOSSARY first-taught v1.c01.l04) — §9 length preview stays terminology-free.
-- **Verification flags for Pass C:** [REF:whitney1889 §§19–22] frequency locus — confirm §
-  number per research-notes open question; [REF:ashtadhyayi 8.4.68] saṃvṛta interpretation
-  — verify against Kāśikā/Cardona as logged.
-- **Count note for Pass D:** front matter `vocabulary_count: 6` (per chapter plan: 4 words +
-  helper letters क, म); the §14 table prints 7 rows because the target letter अ is also
-  listed as a writing-practice unit — reconcile counting rule project-wide.
+- **Pass C flags resolved:** Whitney §22 states the a-vowels' frequency (about twice all
+  other vowels and diphthongs together; exact counts in §75), so the §§19–22 citations in
+  §1/§5 stand; 8.4.68's saṃvṛta reading confirmed against the Kāśikā and Cardona.
+- **Count note:** `vocabulary_count: 7` = every §14 row (4 🔊 ear-words + the 3 letter units
+  अ क म).
 - **Export notes:** 🔊 markers in §13–14 map to `audio_only: true` in JSON export; §19 key
   stays inside `<details>` in all renders; IPA strings contain combining characters (t̪, d̪ʱ,
   r̩, ɐ̃) — NFC-normalize Devanagari fields only (STYLE_GUIDE §3), never IPA; §9 ladder table

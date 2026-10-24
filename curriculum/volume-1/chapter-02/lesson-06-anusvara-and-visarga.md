@@ -49,13 +49,13 @@ updated: 2026-07-21
 
 ## 1. Hook
 
-A dot. A colon. That is today's entire cast — and yet these two are probably the most *seen*
-marks in all of Sanskrit: open any verse, any prayer, any page, and within seconds a ं is
+A dot. A colon. That is today's entire cast — and yet these two turn up on
+almost every page of Sanskrit: open any verse, any prayer, any page, and within seconds a ं is
 floating over one syllable and a ः is closing another. रामः earns its ः today; संस्कृतम् its
 ं. Neither is a vowel. Neither is a consonant. The tradition gave them their own category and
-their own name — "the ones that ride along" — and lesson 2 of this course promised you the
-full story. Today the promise is paid: the smallest signs in the script, with the biggest
-attendance record in the language, become yours.
+their own name — "the ones that ride along" — and lesson 2 of this course gave you their
+name and count. Today the full story arrives: the smallest signs in the script
+become yours.
 
 ## 2. Learning Objective
 
@@ -82,7 +82,7 @@ Objective 1 is drilled in §15 and §18 (exercises 1–3) and tested in §19 (Q6
 2. ॐ — what is its careful phonetic reading, and to which register does the a-u-m analysis
    belong?
 3. From lesson 2 of Chapter 1, the honest count: 13 + ? + ?. And what is the last group called?
-4. The name ayogavāha was glossed there as "dependent sounds", full treatment promised later.
+4. The name ayogavāha was glossed there as "dependent sounds" — name and count, no details yet.
    What is the one thing you already know these two sounds cannot do?
 5. **Write from memory:** क wearing each of lesson 5's mātrās — को and कौ.
 
@@ -103,8 +103,8 @@ Objective 1 is drilled in §15 and §18 (exercises 1–3) and tested in §19 (Q6
 
 Every good classification system eventually meets items that will not fit its boxes. The
 ancient grammarians sorted speech into स्वर (svara) — vowels, sounds that can stand alone —
-and व्यञ्जन (vyañjana) — consonants, sounds that need a vowel to be pronounceable. Then two
-leftovers remained on the table: a nasal after-hum and a breath after-puff. Each needs a vowel
+and व्यञ्जन (vyañjana) — consonants, sounds that need a vowel to be pronounceable. Then
+leftovers remained on the table — chief among them a nasal after-hum and a breath after-puff. Each needs a vowel
 *in front of it*: you cannot begin a word with either, cannot sing either on its own, cannot
 even say either without first saying some vowel for it to lean on. A vowel they are not; but
 they are not consonants of the ordinary kind either — no closure, no place of their own.
@@ -114,17 +114,18 @@ they are not consonants of the ordinary kind either — no closure, no place of 
 > Whitney describes both as sounds that occur only after a vowel and never independently, and
 > documents the tradition's long discussion of their exact status. [REF:whitney1889 §§67–73]
 
-> **[TRADITION · परम्परा]** The grammarians' own name for the pair says it all: अयोगवाह
+> **[TRADITION · परम्परा]** The grammarians' own name for the class these two belong to says it all: अयोगवाह
 > (ayogavāha) is traditionally glossed "carried along without connection" — sounds *carried*
 > by the vowel they follow, holding no independent place of their own in the sound-lists.
 > They ride; they do not stand.
+> In the grammarians' discussion the class is wider than these two: it also takes in rarer sounds of the same kind — the jihvāmūlīya, the upadhmānīya and the yamas.
 
 Notice the honesty of the move. A lazier tradition would have stuffed the two into the vowel
 list and moved on — and indeed the schoolroom count "14 vowels" does exactly that, as we saw
 in Chapter 1. The grammarians refused. When something genuinely belongs to no existing
 category, you *say so* and make a new one. That refusal, made over two thousand years ago, is
 why this course could promise you in lesson 2 an honest count — 13 + 33 + 2 — and why today's
-lesson exists as the proper home of the "+ 2". With it, Chapter 2's inventory work is
+lesson exists as the proper home of the "+ 2" — the two members of that class that ordinary print still writes. With it, Chapter 2's inventory work is
 complete: every vowel owned, and now both of its riders.
 
 ## 5. Scientific Explanation
@@ -195,14 +196,14 @@ number for exactly two things; the full story is Volume 3's.
 अगला व्यञ्जन जिस वर्ग का, अनुस्वार उसी वर्ग का अनुनासिक। आपका मुँह यह बरसों से कर रहा है;
 आज सिर्फ़ उस आदत को नाम और नक्शा मिल रहा है।
 
-असली मेहनत विसर्ग ( ः ) पर है, क्योंकि हिन्दी में विसर्ग है ही नहीं। देखा आपने उसे ज़रूर है —
+असली मेहनत विसर्ग ( ः ) पर है, क्योंकि हिन्दी में विसर्ग बस कुछ तत्सम शब्दों में लिखा जाता है — अतः, दुःख, प्रातः — और उसकी अघोष साँस बोलचाल में शायद ही कभी ठीक से सुनाई देती है। देखा आपने उसे ज़रूर है —
 नमः में, ॐ शान्तिः शान्तिः शान्तिः में — पर हिन्दी की आदत उसे या तो चुपचाप छोड़ देती है, या
 पूरा "ह" बनाकर घोष कर देती है। दोनों ग़लत हैं। विसर्ग स्वर के बाद साँस की एक हल्की, बेआवाज़
 फूँक है — न कम, न ज़्यादा। अभ्यास कीजिए: हथेली होंठों से दो उँगल दूर रखिए और कः बोलिए —
 हथेली पर हवा का झोंका लगे, पर गले पर रखी दूसरी हथेली में कोई कम्पन न आए। यही 'साँस-परीक्षा'
 आज के हर शब्द पर चलेगी: ततः, अतः, इतः, कुतः, मतिः।
 
-एक ईमानदार बारीक़ी और — हिन्दी का बिंदु दो अलग-अलग काम करता है। कहीं वह सचमुच अनुस्वार है
+एक ईमानदार बारीकी और — हिन्दी का बिंदु दो अलग-अलग काम करता है। कहीं वह सचमुच अनुस्वार है
 (अंक, गंगा), और कहीं वह चन्द्रबिन्दु ( ँ ) की जगह लिखा गया है — यानी स्वर का नाक से बोला
 जाना: चाँद को अक्सर चांद लिखा जाता है, हँसी को हंसी। संस्कृत इन दोनों को अलग-अलग रखती है,
 इसलिए संस्कृत पढ़ते समय बिंदु देखकर हिन्दी का अन्दाज़ा मत लगाइए — नियम से पढ़िए: आगे स्पर्श
@@ -217,7 +218,7 @@ number for exactly two things; the full story is Volume 3's.
 ## 8. English Explanation
 
 Two small signs, one shared category, and — for the first time — a rule the grid computes for
-you. Take the signs one at a time, then put them to work on six new words.
+you. Take the signs one at a time, then put them to work on seven new words.
 
 ### The two signs, mechanically
 
@@ -244,7 +245,7 @@ that stop's row — the grid's fifth column, delivered to your door:
 | प-वर्ग (labial) | म (ma) — [m] | the two lips |
 | *no stop follows* | a nasal hum — [◌̃] or [m] | air through the nose, vowel color kept |
 
-Worked example, with the only stop you can read: **अंक** — अ, then the dot, then क. The क is
+Worked example, from the क-row, with today's own word: **अंक** — अ, then the dot, then क. The क is
 velar, so the dot is the velar nasal: [ɐŋkɐ]. Your tongue's back is already lifting toward
 the क position while your nose is still humming — that overlap *is* the homorganic nasal. The
 middle rows of the table are previews; their example words arrive with their consonants in
@@ -316,12 +317,12 @@ and put it back on its shelf — it belongs to chanting, not to plain speech.
 
 ## 10. IPA
 
-Today's signs break a pattern the course has followed so far: they get no single symbol.
+One of today's signs breaks a pattern the course has followed so far: the anusvāra gets no single symbol.
 
 **Anusvāra — transcribe contextually** (the course rule, from the STYLE_GUIDE table): [ŋ]
 before the क-row, [ɲ] [ɳ] [n̪] [m] before their rows, and a nasalized vowel [◌̃] (or [m])
-where no stop follows. This is why today's transcriptions appear in **brackets** — [ɐŋkɐ] —
-rather than slashes: brackets record what actually comes out of the mouth, and with the dot,
+where no stop follows. This is why today's running-text transcriptions appear in **brackets** — [ɐŋkɐ] —
+rather than slashes (the §14 table keeps its fixed slash column): brackets record what actually comes out of the mouth, and with the dot,
 *context decides* what comes out. The slash-vs-bracket distinction from Chapter 1 is finally
 earning its keep.
 
@@ -331,7 +332,7 @@ fricative. Same place, opposite switch: ः whispers, ह buzzes. Hold that cont
 keep your visarga honest when ह arrives.
 
 **Narrow note.** The recitation echo writes itself naturally in brackets: रामः plain is
-[rɑːmɐh], recited [rɑːmɐhɐ] — the added [ɐ] is the tradition's ornament (§5), never part of
+[ɾɑːmɐh], recited [rɑːmɐhɐ] (trill [r] acceptable in recitation) — the added [ɐ] is the tradition's ornament (§5), never part of
 the word.
 
 ## 11. Mouth Position
@@ -366,7 +367,7 @@ vocal folds stop buzzing and simply release breath. Checks:
    "tata-ha" — the vocal folds keep buzzing and a whole extra voiced syllable appears. *Fix:*
    the throat-hand test (§11): buzz through the vowel, silence during the breath. Whisper the
    ending until the habit sets, then restore normal volume to the rest of the word.
-2. **Dropping the visarga entirely (Hindi habit).** Hindi has no visarga, so the eye skips
+2. **Dropping the visarga entirely (Hindi habit).** Hindi writes visarga only in a few tatsama words and seldom sounds it, so the eye skips
    it: ततः read as तत, मतिः as मति. In Sanskrit that deletes real information — the ḥ is part
    of the word. *Fix:* the palm test on every word-final ः; dictation (§18, exercise 3) will
    catch what the palm misses.
@@ -390,8 +391,8 @@ vocal folds stop buzzing and simply release breath. Checks:
 **इतः** (itaḥ) "from here" — यहाँ से · /it̪ɐh/
 [REF:apte1890 s.v. ततः, अतः, इतः]
 
-Until today, every word you could read was a *thing* — a mother, a garland, a lotus. These
-three are different: they connect **sentences**. ततः moves a story through time ("then…"),
+Until today, the words you could read mostly named things and their qualities — a mother, a
+garland, a lotus, soft, worldly — plus a few small helpers like मम, इति and उत. These three are different: they connect **sentences**. ततः moves a story through time ("then…"),
 अतः through logic ("hence…"), इतः through space ("from here…"). Look at their skeletons: all
 three end in the same तः piece, hung on a different pointer — a family resemblance you can
 simply see on the page. (The suffix story behind it is Volume 4's; the *use* is yours today —
@@ -401,7 +402,7 @@ simply see on the page. (The suffix story behind it is Volume 4's; the *use* is 
 
 **कः** (kaḥ) "who? which?" — कौन · /kɐh/
 **कुतः** (kutaḥ) "from where?" — कहाँ से · /kut̪ɐh/
-[REF:apte1890 s.v. कः, कुतः]
+[REF:apte1890 s.v. किम्, कुतः]
 
 कः is the question word you have been *hearing* since Chapter 1's classroom dialogue — एषः कः
 वर्णः? "which letter is this?" — and today its key word finally moves from your ear to your
@@ -412,7 +413,7 @@ eye (§16). कुतः is its "from where?" sibling — and notice it answers 
 
 **मतिः** (matiḥ) "thought, mind" — मति, बुद्धि · /mɐt̪ih/ [REF:apte1890 s.v. मतिः]
 
-In lesson 1 of this chapter you read मति (mati). Dictionaries and word lists, though, cite
+In lesson 1 of this chapter you read मति (mati). Many dictionaries (Apte's among them) and word lists, though, cite
 the word as मतिः — the *citation form*, the ending a Sanskrit noun wears when it stands alone
 and names itself. That same naming ः is the one you have heard closing रामः, वर्णः and
 अभ्यासः since lesson 1 — it was never decoration. One honest line and no more: a noun's
@@ -485,8 +486,8 @@ teacher points at a letter on the board.
 — एषः **कः** वर्णः?
 (eṣaḥ kaḥ varṇaḥ?) "Which letter is this?" — यह कौन-सा वर्ण है?
 
-— **कः** **इति** वर्णः।
-(kaḥ iti varṇaḥ.) "The letter *ka*." — यह वर्ण 'क' है।
+— **क** **इति** वर्णः।
+(ka iti varṇaḥ.) "The letter *ka*." — यह वर्ण 'क' है।
 
 — **ततः** किम्?
 (tataḥ kim?) "Then what?" — फिर क्या?
@@ -497,10 +498,10 @@ teacher points at a letter on the board.
 Glue words, glossed and audio-only for now: एषः (eṣaḥ) "this" — यह 🔊 (ष arrives in Chapter
 4); वर्णः (varṇaḥ) "letter, sound" — वर्ण 🔊 (र and ण still to come — but its final ः is
 yours now); किम् (kim) "what?" — क्या 🔊 (final म् needs the virāma, Chapter 5); अभ्यासः
-(abhyāsaḥ) "practice" — अभ्यास 🔊, an ear-friend since lesson 1. One delicious detail before
-you go: the same कः is doing two different jobs here. In the question it is the word "which?";
-in the answer it is the letter क wearing its naming-ः (§13). Sanskrit heard the pun long
-before you did — enjoy it.
+(abhyāsaḥ) "practice" — अभ्यास 🔊, an ear-friend since lesson 1. One detail before
+you go: question and answer only look alike. In the question, कः is the word "which?"; in the
+answer the letter is cited bare — क इति, "ka", exactly as in Chapter 1's म इति वर्णः — with
+no ः attached.
 
 ## 17. Story
 
@@ -552,7 +553,7 @@ then the word row. Watch your own pen order — sign always last (§15).
 Self-check against §14, sign by sign: is every dot *above*? Every ः present? 7/8 is a pass;
 re-take tomorrow either way (§20).
 
-**अभ्यासः 4 · तर्कः (homorganic reasoning, written).** Using the lesson 2 grid and §8's
+**अभ्यासः 4 · तर्कः (homorganic reasoning, written).** Using the Chapter 1 lesson 2 grid and §8's
 table, answer in two or three written sentences: in अंक, *why* is the dot pronounced [ŋ] and
 not [m] or [n̪]? Your answer must mention the varga of क and the grid's fifth column. Bonus
 prediction: a word you cannot read yet has the dot before a प-row letter — which nasal will
@@ -613,15 +614,16 @@ Write the letters in story order, then read your rebuilt story aloud. (Check you
 > never buzzes on it, plain speech never echoes it. **The order:** letter, length, then the
 > riders — कं = k-a-ṃ, मतिः = m-a-t-i-ḥ. **The twins:** अङ्क = अंक, one reading. **The
 > prize:** कः, कुतः, ततः, अतः, इतः, मतिः, अंक — question words, your first sentence-
-> connectors, and every dictionary's naming-ending, all in one day.
+> connectors, and the naming-ending many dictionaries print, all in one day.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-take the dictation (exercise 3) cold; write the कं/कः series from memory;
   palm-test every final ः as you read §14 once.
-- **In 1 week:** lesson 7 — the chapter assessment — retests every vowel *and* both riders,
-  and re-runs the 13 + 33 + 2 can-do from Chapter 1. Re-read §14 and the story aloud the
-  evening before.
+- **Tomorrow (lesson 7):** the chapter assessment retests every vowel *and* both riders,
+  and re-runs the 13 + 33 + 2 can-do from Chapter 1. Re-read §14 and the story aloud tonight.
+- **In 1 week:** re-take the dictation (exercise 3) cold and read §14 at speed — this lands
+  early in Chapter 3.
 - **From lesson 7 onward:** ततः and अतः appear in every course story from now on; every
   appearance is a free review — notice them.
 
@@ -646,10 +648,11 @@ Tomorrow, before anything else: the 1-day re-dictation (§20) — the gap is the
 
 शिक्षक-टिप्पणी
 
-**This lesson closes a promise, and the class should feel it.** Lesson 2 of Chapter 1 parked
-अं and अः in a labeled box "full treatment in Chapter 2"; open today by pointing at that very
+**This lesson finishes what Chapter 1 started, and the class should feel it.** Lesson 2 of Chapter 1 gave
+अं and अः their own labeled box — ayogavāha, "dependent sounds" (v1.c01.l02 §8, §24) — and the
+volume plan assigned their full treatment to this chapter; open today by pointing at that very
 box. Students who fought the "not 14 vowels" correction back then tend to convert here — the
-homorganic rule is the *reason* the category exists, and deriving it feels like winning an
+homorganic rule shows *why* the dot is no vowel — it has no place of its own and borrows the next stop's — and deriving it feels like winning an
 argument with your own textbook. Let them win it.
 
 **Timing plan (45 min):** §3 retrieval, written (5) → hook: a projected verse page, students
@@ -723,7 +726,7 @@ it early and often.
 Lesson video, ~6 min, presenter + motion graphics.
 
 1. **Hook (0:00–0:40):** a page of Sanskrit verse fades in; every ं and ः lights up in accent
-   color until the page glitters. Caption: "The two most-seen marks in Sanskrit. Neither is a
+   color until the page glitters. Caption: "Two marks on almost every page of Sanskrit. Neither is a
    vowel." Title card: अयोगवाहौ — The Dependent Sounds.
 2. **The category (0:40–1:30):** callback animation from the Chapter 1 sound-map video: 13
    vowel cards, 33 consonant cards, and the two signs sliding into their own labeled box —
@@ -747,7 +750,7 @@ Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [bracket
 narrator reads them as IPA, not as English spelling.
 
 - **00:00** A dot. A colon. Open any page of Sanskrit ever written, and there they are —
-  everywhere. Today you learn the two most-seen marks in the language.
+  everywhere. Today you learn to read them both.
 - **00:15** Neither is a vowel. Neither is a consonant. The tradition called them ayogavāha
   [ɐjoːgɐʋɑːɦɐ] — the ones that ride along. They cannot stand alone; they lean on a vowel.
 - **00:40** Remember the honest count from Chapter 1? Thirteen vowels. Thirty-three
@@ -781,8 +784,8 @@ narrator reads them as IPA, not as English spelling.
 
 40–50 seconds, vertical, captions burned in.
 
-- **Hook (0:00–0:07):** presenter holds up two fingers: "A dot and a colon are in almost
-  every Sanskrit sentence ever written — and neither one is a real letter." (On-screen: a
+- **Hook (0:00–0:07):** presenter holds up two fingers: "A dot and a colon turn up on almost
+  every page of Sanskrit ever written — and neither one is a real letter." (On-screen: a
   verse page, every ं ः lighting up.)
 - **Demo (0:07–0:32):** "Watch the dot work. Say *ink* — freeze before the k. Feel that nasal
   in the back? Sanskrit writes it as one dot: अंक — aṃka [ɐŋkɐ]. Before k it's a back-nasal;
@@ -804,16 +807,14 @@ narrator reads them as IPA, not as English spelling.
   - `assets/worksheets/volume-1/v1c02l06-tracing.pdf` — §18 exercise 2, §23 prompt 3
   - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 2
     drill pack (chapter.md assets manifest) and back-link here when they exist.
-- **Related lessons:** delivers the full ayogavāha treatment promised in v1.c01.l02 (and
+- **Related lessons:** delivers the full ayogavāha treatment that v1.c01.l02 previewed (name and count only) (and
   corrects the predecessor curriculum's miscategorization of अं/अः as vowels — improvement
   report IR-008); reviews v1.c02.l05 (ओ औ, ॐ) and v1.c01.l02 (grid, counts); feeds
   v1.c02.l07 (chapter assessment re-tests the 13+33+2 can-do and both signs); conjunct
   mechanics incl. अङ्क-type spellings arrive v1.c05; declension behind the मतिः citation form
-  in Volume 3; the -तः adverb family in Volume 4. Prerequisite/review ids v1.c02.l01–l05 are
-  drafted in parallel with this lesson — the validator's reference check resolves once they land.
+  in Volume 3; the -तः adverb family in Volume 4. Prerequisite/review ids v1.c02.l01–l05 all resolve.
 - **Glossary:** अयोगवाह exists in GLOSSARY.md (first-taught v1.c01.l02 — consistent).
-  **अनुस्वार (anusvāra) and विसर्ग (visarga) are introduced here (§6, §8) but missing from
-  GLOSSARY.md — add in the post-chapter loop with first-taught v1.c02.l06.**
+  अनुस्वार (anusvāra) and विसर्ग (visarga), introduced here (§6, §8), are in GLOSSARY.md with first-taught v1.c02.l06 — consistent.
 - **Export notes:** bare signs ं and ः render with a dotted-circle carrier (◌ं, ◌ः) in some
   fonts — exporter should use bare signs in code-voice contexts and accept the carrier
   elsewhere; anusvāra transcriptions are bracketed contextual values ([ɐŋkɐ], [◌̃]) by design —

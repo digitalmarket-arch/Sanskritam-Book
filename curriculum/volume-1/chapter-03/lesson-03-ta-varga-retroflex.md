@@ -83,8 +83,8 @@ objective 2 in §15, §18 (exercises 1, 4) and §19 (Q6); objective 3 in §14, �
 2. **Recite both rows aloud:** क ख ग घ ङ (ka kha ga gha ṅa), then च छ ज झ ञ
    (ca cha ja jha ña) — with the tissue check on the aspirates.
 3. Which letter of the velar row throws the tissue hardest — and which barely stirs it?
-4. **Dictation from memory:** write जल चलति — the water word and the course's first verb,
-   both from the palatal lesson. Say it aloud as you write: every vowel full.
+4. **Dictation from memory:** write जल चलति — the water word and the course's first
+   readable verb, both from the palatal lesson. Say it aloud as you write: every vowel full.
 5. **Chapter 2 interval item:** in अंक (aṃka), which nasal does the dot stand for — and why
    that one?
 
@@ -93,7 +93,7 @@ objective 2 in §15, §18 (exercises 1, 4) and §19 (Q6); objective 3 in §14, �
 1. Voiceless, voiceless aspirated, voiced, voiced breathy, nasal.
 2. क ख ग घ ङ · च छ ज झ ञ — the aspirates ख and छ flutter the tissue.
 3. ख throws it; क barely moves it — that stillness is the un-aspirating work of the row.
-4. जल (jala) "water"; चलति (calati) "moves". Four full vowels between them — no "jal", no
+4. जल (jala) "water"; चलति (calati) "moves". Five full vowels between them — no "jal", no
    "calti".
 5. [ŋ] — the nasal of क's own varga: before a stop, anusvāra is pronounced at that stop's
    place (v1.c02.l06). Hold the thought: today the retroflex family gets its own nasal, ण.
@@ -167,8 +167,10 @@ The fix is physical, not acoustic: feel whether the tip actually traveled past t
 घटः अत्र अस्ति।
 (ghaṭaḥ atra asti.) "The pot is here." — घड़ा यहाँ है।
 
-Savor the last line: it is fully readable, letter by letter — घ from the velar lesson, ट
-from today, and the tail ः is the visarga you have owned since v1.c02.l06. इति is doing its
+Savor the last line's subject: घटः is fully readable, letter by letter — घ from the velar
+lesson, ट from today, and the tail ः is the visarga you have owned since v1.c02.l06; अत्र
+and अस्ति beside it are still 🔊 ear-words — their joined letters त्र and स्ति wait for
+Chapter 5. इति is doing its
 usual quoting work, and the sentence-name for today's family, टवर्गः (ṭavargaḥ), is built
 from ट itself plus वर्ग "group, row". Returning terms: वर्ण (varṇa) "speech sound", मूर्धन्य
 (mūrdhanya) "retroflex", and the word वर्ग from the velar lesson. As throughout Volume 1,
@@ -184,7 +186,7 @@ sandhi rules that arrive in Volume 3.
 आपको बस उस काम पर ध्यान देना सीखना है जो आप पहले से करते आए हैं। फिर भी — और अब तक आप इस
 "फिर भी" के अभ्यस्त हो चुके हैं — हिन्दी की तीन आदतें यहाँ संस्कृत से टकराती हैं।
 
-पहली आदत — बिन्दीवाले ड़ और ढ़। ये दोनों अक्षर हिन्दी की अपनी कमाई हैं: सदियों के बोलचाल
+पहली आदत — बिन्दीवाले ड़ और ढ़। ये दोनों अक्षर हिन्दी की अपनी कमाई हैं: सदियों की बोलचाल
 में स्वरों के बीच का ड घिसकर एक हल्का झटका बन गया, और लिखाई ने उसे नीचे बिन्दी देकर ड़ लिख
 दिया — सड़क, पढ़ना, गुड़। यह झटका आपकी ज़बान की स्वचालित आदत है। पर संस्कृत की वर्णमाला में
 ड़ है ही नहीं। इसलिए संस्कृत का गुड पढ़ते समय आदत को उल्टा घुमाइए: जीभ पूरा स्पर्श करे,
@@ -201,8 +203,8 @@ sandhi rules that arrive in Volume 3.
 हाज़िरी माँगता है।
 
 और अन्त में आज का उपहार, जो अब इस पाठमाला की परम्परा बन चला है: हिन्दी का घड़ा संस्कृत के
-इसी घट की पीढ़ियों में ढली हुई सन्तान है — वही मिट्टी का बर्तन, वही शब्द, बीच में बस वही
-ड-से-ड़ वाला रास्ता। आज आप घड़े के पुरखे से मिल रहे हैं।
+इसी घट की पीढ़ियों में ढली हुई सन्तान है — वही मिट्टी का बर्तन, वही शब्द, बीच में बस
+ट-से-ड, फिर वही ड-से-ड़ वाला रास्ता। आज आप घड़े के पुरखे से मिल रहे हैं।
 
 ## 8. English Explanation
 
@@ -214,7 +216,7 @@ twice does the rest. Third varga, fastest lesson so far. Letter cards: 🖼
 
 **ट** (ṭa) · /ʈ/ — the plain one. Curl, tap, release — and *no* puff of breath. The s-trick
 from the velar lesson transfers: the t of English *stop* is unaspirated; now say it with
-the tip curled back. Common everywhere: घट, तट, कटु.
+the tip curled back. Rare at the start of a native word, common inside: घट, तट, कटु.
 
 **ठ** (ṭha) · /ʈʰ/ — the tissue-thrower of this row. Same curl, released with a hard puff.
 You have been saying it since day one, in पाठः 🔊 "lesson". Rarely opens a native Sanskrit
@@ -233,7 +235,7 @@ rare: गुण, गण, कण, तृण. Volume 4 tells the famous story of *
 a rule (called ṇatva) that turns n into ṇ under retroflex influence. One line now, full
 treatment there.
 
-> **[FACT · तथ्यम्]** Frequency, honestly: ट is common in all positions; ठ ड ढ begin few
+> **[FACT · तथ्यम्]** Frequency, honestly: ट ठ ड ढ all begin few
 > native Sanskrit words but occur freely word-internally; ण essentially never opens a word
 > and is everywhere inside them. Equal cards, unequal workloads — both facts on the same
 > card. [REF:apte1890]
@@ -262,7 +264,7 @@ that contact is ट-position. Walk the path five times — teeth, ridge, dome �
 three stations feel like three floors of one building.
 
 **Drill 2 — the varga recital, third run.** ट ठ ड ढ ण (ṭa ṭha ḍa ḍha ṇa), with the full
-check kit: tissue still on ठ's puff, fingertips on the throat for ड's buzz, both at once
+check kit: tissue up for ठ's puff, fingertips on the throat for ड's buzz, both at once
 for ढ, nose-hum with the tip *held curled* for ण. Three slow rounds, one brisk. Then chain
 the tour so far: क ख ग घ ङ · च छ ज झ ञ · ट ठ ड ढ ण — three rows, one breath each.
 
@@ -275,11 +277,12 @@ the tour so far: क ख ग घ ङ · च छ ज झ ञ · ट ठ ड ढ �
 | ढु /ɖʱu/ | ढो /ɖʱoː/ | ढी /ɖʱiː/ |
 | णि /ɳi/ | णा /ɳɑː/ | णू /ɳuː/ |
 
-**Drill 4 — one English word, three tongues.** Say English "tap" three ways: (1) as habit —
-tip at the ridge; (2) tip curled back — you just said something close to ट; (3) tip pressed
-on the teeth — a preview of next lesson's त. Same manner, three floors. Feeling the
-*commute* between them is the skill; the dental floor gets its own lesson next. Finish with
-§14 words from the audio: precision first, speed never.
+**Drill 4 — one English word, three tongues.** Say English "tap" three ways: (1) as habit,
+but with the puff removed (the s-trick, §8) — tip at the ridge; (2) tip curled back — you
+just said something close to ट; (3) tip pressed on the teeth — a preview of next lesson's
+त. Same manner, three floors. Feeling the *commute* between them is the skill; the dental
+floor gets its own lesson next. Finish with §14 words from the audio: precision first,
+speed never.
 
 ## 10. IPA
 
@@ -321,9 +324,9 @@ To find ट /ʈ/ and its row:
 **Feel checks — this is a feel lesson, not a mirror lesson.** The action hides behind the
 teeth, so the mirror that served उ/ऊ retires today; your instrument is the tip itself.
 Check one: after saying ट, freeze — is the ridge-bump *in front of* your contact point? It
-must be. Check two: alternate English "ta" and ट ten times and feel the tip commute; if
-nothing moves, nothing changed. Check three: record the alternation and listen for the
-darker ring on every second syllable.
+must be. Check two: alternate a puff-free English "ta" (the s-trick, §8) and ट ten times
+and feel the tip commute; if nothing moves, nothing changed. Check three: record the
+alternation and listen for the darker ring on every second syllable.
 
 ## 12. Common Mistakes
 
@@ -358,22 +361,22 @@ breathy rhyme.
 
 **घट** (ghaṭa) "pot" — घड़ा · /gʱɐʈɐ/ [REF:apte1890 s.v. घट]
 
-A humble clay water-pot — and the most argued-about object in Sanskrit intellectual
-history.
+A humble clay water-pot — and the philosophers' favorite example.
 
 > **[TRADITION · परम्परा]** In the Nyāya school of Indian logic, the pot is the stock
-> example-object: घटः अस्ति (ghaṭaḥ asti) "the pot exists" is the demonstration sentence a
-> beginning logic student meets on page one, the way English philosophy reaches for
-> Socrates. Where an argument needs "some thing", the tradition hands it a pot.
+> example-object: घटः अस्ति (ghaṭaḥ asti) "the pot exists" is the kind of demonstration
+> sentence a beginning logic student meets early and often, the way English philosophy
+> reaches for a table or a chair. Where an argument needs "some thing", the tradition hands
+> it a pot.
 
 ### तट and कूल — two words, one riverbank
 
 **तट** (taṭa) "shore, bank" — तट, किनारा · /t̪ɐʈɐ/
 
 You already own कूल (kūla) "bank" from v1.c02.l02 — today its synonym arrives, and your
-first synonym pair is complete: two words, one riverbank. Sanskrit's wealth of synonyms is
+next synonym pair is complete: two words, one riverbank. Sanskrit's wealth of synonyms is
 a feature you will meet again and again. As a bonus, तट is a one-word articulation drill:
-the tongue starts at the teeth for त and curls back for ट — two stops, two floors, four
+the tongue starts at the teeth for त and curls back for ट — two stops, two floors, two
 letters.
 
 ### गुण — a word with range
@@ -451,9 +454,10 @@ One common convention, described here; teaching traditions vary in details. (Car
   on a stem.
 
 **Look-alike alarm 1 — ट vs ठ:** open bowl vs closed loop, nothing else differs. **Alarm 2
-— ड vs ङ:** the velar nasal ङ (v1.c03.l01) ends in a detached **dot**; ड ends in an
-attached inward **curl**. Dot = velar hum; curl = voiced retroflex. Write the two side by
-side once now, label them, and the confusion dies early.
+— ड vs ङ:** the velar nasal ङ (v1.c03.l01) is ड's curl-tailed body plus one
+detached **dot**; ड has no dot — its inward **curl** stands alone. Dot = velar hum; no dot =
+voiced retroflex. Write the two side by side once now, label them, and the confusion dies
+early.
 
 ### The grid gains its third row
 
@@ -509,10 +513,10 @@ Each line: Devanagari, IAST, English, Hindi.
 
 Yes — the same Kamalā who claimed मम कूलम् on this very riverbank in Chapter 2 has upgraded
 her vocabulary: last time the bank was कूल, today it is its synonym तट, and this time she
-can read every letter of her claim, visarga included. Glue words 🔊: पश्य (paśya) "look!",
-आम् (ām) "yes", अत्र (atra) "here", अस्ति (asti) "is"; कुतः (kutaḥ) "from where?" returns
-from the Chapter 2 story — and is now fully readable. Only जलम् still wears an unreadable
-tail (§16).
+can read every letter of her pot-and-bank claim, visarga included. Glue words 🔊: पश्य
+(paśya) "look!", आम् (ām) "yes", अत्र (atra) "here", अस्ति (asti) "is"; कुतः (kutaḥ) "from
+where?" returns from the Chapter 2 story — a readable word since v1.c02.l06. Only जलम्
+still wears an unreadable tail (§16).
 
 > **[TRADITION · परम्परा]** One more thing today's letters can spell: कठ (kaṭha) — the name
 > of the Kaṭha Upaniṣad, the celebrated dialogue in which young Naciketas questions Death
@@ -548,12 +552,12 @@ Devanagari. Self-check against §14 with three questions per word: right retrofl
 (ट/ठ? ड/ढ?)? Any Hindi ड़ that sneaked in? Final vowel written *and* said? 10/12 is a pass;
 re-take tomorrow either way (§20).
 
-**अभ्यासः 5 · स्पर्श-परीक्षा (the curl self-check, written).** Alternate English "ta" and
-ट ten times, then English "da" and ड ten times. Now write three or four sentences in your
-notebook answering: where exactly is your tongue tip for each of the two sounds? What do
-you feel it pass on the way back? Which of the two sounds rings darker, and could you hear
-it on your own recording from exercise 2? Naming the feeling in your own words is what
-makes the gesture repeatable.
+**अभ्यासः 5 · स्पर्श-परीक्षा (the curl self-check, written).** Alternate a puff-free
+English "ta" (§8's s-trick) and ट ten times, then English "da" and ड ten times. Now write
+three or four sentences in your notebook answering: where exactly is your tongue tip for
+each of the two sounds? What do you feel it pass on the way back? Which of the two sounds
+rings darker, and could you hear it on your own recording from exercise 2? Naming the
+feeling in your own words is what makes the gesture repeatable.
 
 **अभ्यासः 6 · शब्दनिर्माणम् (word building, written).** Tiles: क ग घ ज त म ल · ट ठ ड ढ ण ·
 ा ि ी ु ू ृ. Using only these (reuse allowed), build at least five real words from this
@@ -606,10 +610,10 @@ before you trust it.)
 > **The move:** curl the tip up and *past* the ridge, tap the dome — English t lives one
 > door short. **The row (third run):** ट /ʈ/ plain — ठ /ʈʰ/ tissue-thrower — ड /ɖ/ buzzing
 > — ढ /ɖʱ/ buzz + breath — ण /ɳ/ curled hum. **The letters:** ट open bowl, ठ closed loop;
-> ड curls in, ढ loops on; ण alone wears a stem; ङ's dot ≠ ड's curl. **The traps:** don't
+> ड curls in, ढ loops on; ण alone wears a stem; ङ = ड's body + a dot. **The traps:** don't
 > settle at the ridge; Sanskrit गुड has no flap; ण is not [n]; the final अ stays. **The
 > prize:** twelve words — घट तट कटु जटा कूट गुण गण कण तृण गुड गूढ मूढ — and a fully
-> readable sentence: घटः अत्र अस्ति।
+> readable phrase: मम घटः!
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -657,7 +661,7 @@ incl. the 1-day re-dictation (2).
 
 **Board work:** the 5×5 grid is the chapter's running board fixture — fill row 3 in front
 of the class, saying each manner label as the letter lands. Draw ड and ङ side by side,
-circle the dot and the curl, and leave them up all lesson.
+circle ङ's dot — the only difference — and leave them up all lesson.
 
 **The two audiences split sharply today.** English speakers: their battle is mistake 1 —
 the ridge feels like home. Give the "aim deeper than you need" license and let recordings
@@ -685,9 +689,9 @@ ear, is the referee this week.
 > "ṇa") in humanist serif italic and IPA ("/ʈ/", "/ʈʰ/", "/ɖ/", "/ɖʱ/", "/ɳ/") in
 > monospace-feel sans. Manner badges: ट "plain", ठ "puff" with a fluttering-tissue icon,
 > ड "voice" with a throat-buzz icon, ढ "voice + breath" with both icons, ण "nasal" with a
-> nose-hum icon. Thin honest-frequency footnote strip under ठ ड ढ ण: "rare at word-start —
-> common inside". Footer strip: घट तट गुण गुड with a small clay-pot line icon beside घट.
-> Minimal, high contrast, print-friendly, no decorative clutter.
+> nose-hum icon. Thin honest-frequency footnote strip under all five cards: "rare at
+> word-start — common inside". Footer strip: घट तट गुण गुड with a small clay-pot line
+> icon beside घट. Minimal, high contrast, print-friendly, no decorative clutter.
 
 **Asset 2 — `planned:assets/images/volume-1/v1c03l03-stroke-order.svg`**
 
@@ -695,8 +699,8 @@ ear, is the referee this week.
 > 1–5: ट ठ ड ढ ण, each drawn progressively in 4 panels left to right with numbered arrows;
 > headline always last. Inset A ("open vs closed"): ट and ठ enlarged side by side, the
 > closing segment of ठ's loop in the highlight color, caption "ठ closes the loop — ट stays
-> open". Inset B ("dot vs curl"): ड beside ङ, ङ's detached dot and ड's attached inward
-> curl highlighted, caption "ङ ends in a dot — ड curls in". Footer row: टि टी टु टू ठा डे
+> open". Inset B ("dot or no dot"): ड beside ङ, ङ's detached dot highlighted on the shared
+> curl-tailed body, caption "same body — ङ adds the dot". Footer row: टि टी टु टू ठा डे
 > ढो णा with mātrās in the highlight color, caption "no stem on ट ठ ड ढ — signs hang from
 > the curve". Faint grid guides. Workbook-clean.
 
@@ -717,7 +721,7 @@ ear, is the referee this week.
 > — one solid model each, five dotted outlines, stroke-order arrows on the model (matching
 > Asset 2). Row 6: टि टी टु टू ठा डे ढो णा dotted, mātrās printed in light gray. Row 7:
 > घट, तट, गुण, गुड dotted once, then empty guided boxes for freehand. Footer: the chants
-> "curve home = ठ, curve open = ट" and "dot is ङ — curl is ड". Generous spacing for child
+> "curve home = ठ, curve open = ट" and "dot is ङ — no dot is ड". Generous spacing for child
 > and adult hands alike.
 
 ## 24. AI Video Prompt
@@ -733,11 +737,11 @@ Lesson video, ~6 min, presenter + motion graphics.
    Recital with checks: tissue flutters on ठ, throat-buzz waveform on ड, both on ढ,
    nose-hum glow on ण.
 3. **Five equal cards (1:50–3:00):** the five cards (Asset 1) slide in one by one, each
-   with its check icon animating; honest frequency strips appear under ठ ड ढ ण with a
+   with its check icon animating; honest frequency strips appear under all five cards with a
    presenter aside: "equal letters, unequal workloads — both true."
 4. **Script alarms (3:00–4:00):** stroke-order animations for all five letters; then the
-   two alarms as split-screens — ठ's loop snapping shut vs ट staying open; ङ's dot vs ड's
-   curl pulsing in the highlight color.
+   two alarms as split-screens — ठ's loop snapping shut vs ट staying open; ङ's dot pulsing on
+   the body it shares with ड, in the highlight color.
 5. **Words + the pot (4:00–5:10):** twelve word-cards fly in (Devanagari + IAST + gloss);
    गुड morphs briefly into Hindi गुड़ and back with a "no flap in Sanskrit" caption; the
    riverbank scene returns — Kamalā spots a clay pot on the तट, the five story lines play
@@ -755,19 +759,20 @@ narrator reads them as IPA, not as English spelling.
   back — past the ridge — and tap the roof. ṭa [ʈɐ]. Hear that? Darker. Deeper. Half a
   centimeter, and you have left English.
 - **00:25** These are the retroflexes — the sounds the world associates with India. The
-  tradition calls the place mūrdhanya [muːrdʱɐnjɐ] — "of the crown of the head".
+  tradition calls the place mūrdhanya [muːɾd̪ʱɐn̪jɐ] — "of the crown of the head".
 - **00:45** Close your eyes. Tongue on the teeth. Slide back — feel the bump? That ridge is
   English t's home. Keep going. Curl. Tap: ṭa [ʈɐ]. That path is the whole lesson.
 - **01:15** Now the row you already know, third time through. ṭa [ʈɐ] — plain, no puff.
   ṭha [ʈʰɐ] — the tissue jumps. ḍa [ɖɐ] — the throat buzzes first. ḍha [ɖʱɐ] — buzz and
   breath together. ṇa [ɳɐ] — hum through the nose, tip still curled.
-- **02:00** Five letters, honest facts: ṭa works everywhere. ṭha, ḍa, ḍha rarely *start* a
-  word — inside words they are everywhere. And ṇa? No Sanskrit word begins with it. It
+- **02:00** Five letters, honest facts: ṭa, ṭha, ḍa, ḍha rarely *start* a
+  native word — inside words they are everywhere. And ṇa? Essentially no Sanskrit word
+  begins with it. It
   lives in the middle — guṇa [guɳɐ], tṛṇa [t̪r̩ɳɐ].
 - **02:40** Writing time. ṭa is an open bowl. ṭha closes the loop — that is the whole
   difference. ḍa curls in at the base; ḍha loops once more — extra breath, extra ink. And
   ṇa is the only one with a stem.
-- **03:20** Watch out: the velar nasal ends in a dot. ḍa ends in a curl. Dot — curl. Write
+- **03:20** Watch out: the velar nasal is ḍa's shape plus a dot. Dot — ṅa; no dot — ḍa. Write
   them side by side once, and you will never mix them.
 - **03:45** Twelve words. ghaṭa [gʱɐʈɐ] — a pot. taṭa [t̪ɐʈɐ] — a riverbank. kaṭu [kɐʈu] —
   bitter. jaṭā [d͡ʑɐʈɑː] — matted hair. kūṭa [kuːʈɐ] — a peak, or a trick. guṇa [guɳɐ] —
@@ -777,7 +782,7 @@ narrator reads them as IPA, not as English spelling.
   no flap here — the tongue parks, full stop. gūḍha [guːɖʱɐ] — hidden. mūḍha [muːɖʱɐ] —
   the fool it stays hidden from. Breath all the way through the ḍha [ɖʱɐ].
 - **04:50** The pot, by the way, is famous. When Sanskrit philosophers need "some object",
-  they reach for a clay pot: ghaṭaḥ asti [gʱɐʈɐhɐ ɐst̪i] — "the pot exists". You can now
+  they reach for a clay pot: ghaṭaḥ asti [gʱɐʈɐh ɐst̪i] — "the pot exists". You can now
   read the philosophers' favorite prop.
 - **05:15** Down at the riverbank, Kamalā has found one: mama ghaṭaḥ! mama taṭaḥ! My pot,
   my riverbank — and this time she can read every letter, tail included.
@@ -808,7 +813,8 @@ narrator reads them as IPA, not as English spelling.
   - `assets/images/volume-1/v1c03l03-stroke-order.svg` — §15 stroke order, §23 prompt 2
   - `assets/diagrams/volume-1/v1c03l03-retroflex-tongue.svg` — §11 walkthrough, §23 prompt 3
   - `assets/audio/volume-1/v1c03l03-varga-drill.mp3` — §9 drills 1–3, §18 exercise 2, §21
-  - `assets/audio/volume-1/v1c03l03-word-list.mp3` — §14 model reading, §18 exercises 3–4
+  - `assets/audio/volume-1/v1c03l03-word-list.mp3` — §14 model reading, §9 drill 4, §18
+    exercise 4
   - `assets/worksheets/volume-1/v1c03l03-tracing.pdf` — §18 exercise 1, §23 prompt 4
   - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 3
     drill pack (chapter.md assets manifest) and back-link here when they exist. No dedicated
@@ -824,7 +830,7 @@ narrator reads them as IPA, not as English spelling.
   fill), Chapter 5 (virāma — the -म् tail of जलम्), Volume 3 (noun endings; sandhi ends
   the pause-form convention), Volume 4 (ṇatva — the ण-rule previewed in §8), Volume 5
   (Kaṭha Upaniṣad — §17 TRADITION line).
-- **Glossary:** reuses मूर्धन्य, वर्ण, व्यञ्जन, स्वर, ह्रस्व, दीर्घ, मात्रा, विसर्ग — all
+- **Glossary:** reuses मूर्धन्य, वर्ण, स्वर, दीर्घ, मात्रा, विसर्ग — all
   consistent with GLOSSARY.md spellings. वर्ग is used as a working term (introduced
   v1.c03.l01); add to GLOSSARY in the Chapter 3 post-chapter loop.
 - **Export notes:** IPA strings contain combining characters (t̪, r̩, ʈʰ, ɖʱ) — NFC

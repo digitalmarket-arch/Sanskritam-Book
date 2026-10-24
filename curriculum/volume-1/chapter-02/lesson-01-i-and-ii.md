@@ -76,9 +76,9 @@ objective 4 in §18 (exercises 3, 5) and §19 (Q7).
 
 ## 3. Previous Lesson Review
 
-पिछले पाठ की पुनरावृत्तिः — answer from memory *before* checking. This section is also a
-promise kept: Chapter 1's assessment (v1.c01.l05 §20) scheduled its +1-week re-runs "inside
-Chapter 2's calendar" — the read-aloud and timed-writing re-runs sit in today's homework (§21).
+पिछले पाठ की पुनरावृत्ति — answer from memory *before* checking. This lesson also keeps a
+promise: Chapter 1's assessment (v1.c01.l05 §20) scheduled a +1-day re-dictation — it sits in
+today's homework (§21); its +1-week re-runs come due in lesson 7's Station 0.
 
 1. Every unmarked consonant letter carries a built-in vowel. Which vowel, and what is the
    rule called?
@@ -93,21 +93,21 @@ Chapter 2's calendar" — the read-aloud and timed-writing re-runs sit in today'
 2. आ word-initially as a full letter; ा after a consonant, replacing the inherent अ (l04 §15).
 3. The first vowel's length (and quality): कल (kala) "a sweet, indistinct sound" vs काल
    (kāla) "time" (l04 §13).
-4. Mātrā complete, always on the right; माता = मा + ता, माला = मा + ला.
+4. Consonant complete first, then the mātrā — always on the right; माता = मा + ता, माला = मा + ला.
 5. मम (mama), कमल (kamala), ताल (tāla) — no dropped finals, two beats on ताल's first vowel.
 </details>
 
 ## 4. Historical Context
 
-ऐतिहासिक सन्दर्भः — one small placement, no long history today.
+ऐतिहासिकः सन्दर्भः — one small placement, no long history today.
 
 You met the fourteen beats of Śiva's drum in lesson 2's story — and the fourteen sūtras the
 tradition hears in them, the sound-catalogue prefixed to Pāṇini's grammar. Today's vowels
 live in the catalogue's very first line.
 
 > **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī (composed around the 4th century BCE —
-> estimates vary) is organized around a fourteen-sūtra catalogue of sounds that its rules
-> reference throughout. [REF:cardona1997]
+> estimates vary) relies on a fourteen-sūtra catalogue of sounds, prefixed to it, that its
+> rules reference throughout. [REF:cardona1997]
 
 > **[TRADITION · परम्परा]** The first of those fourteen sūtras reads अइउण् (aiuṇ): the vowels
 > a, i, u, closed by a marker sound. In the tradition's ordering, इ stands in the opening
@@ -130,8 +130,9 @@ language.
 
 > **[FACT · तथ्यम्]** The vowel of English *bit* is not इ: it is lax /ɪ/ — lower and more
 > central than /i/. English *feet* comes close to ई in quality, though many accents glide it
-> slightly. Hindi speakers transfer इ/ई largely correctly, but often blur the length contrast
-> in fast speech. [REF:ladefoged2015], [REF:ohala1994]
+> slightly. Standard Hindi keeps the इ/ई contrast but says short इ as a lax [ɪ], close to
+> the *bit* vowel, and fast speech often blurs the length contrast too. [REF:ladefoged2015],
+> [REF:ohala1994]
 
 Two consequences for the learner:
 
@@ -180,7 +181,9 @@ adding कार (kāra), and च (ca) means "and". The seam in ईकारश�
 प्रायः ढीले पड़ जाते हैं और सन्दर्भ से काम चला लेते हैं। संस्कृत में, ख़ासकर पाठ और श्रुतलेखन
 में, यह छूट नहीं: यहाँ इति का अर्थ "इस प्रकार" है और सिर्फ़ एक मात्रा लम्बा ईति का अर्थ
 "विपत्ति"। गिनती वही पुरानी — ह्रस्व पर एक, दीर्घ पर ठीक दो। और ध्यान रहे: अ/आ वाली सुविधा
-यहाँ नहीं है — वहाँ ध्वनि का रंग भी बदलता था, यहाँ केवल अवधि।
+यहाँ नहीं है — वहाँ ध्वनि का रंग भी बदलता था, यहाँ केवल अवधि। एक बारीकी और: हिन्दी में दिन,
+मिल जैसे शब्दों की छोटी इ प्रायः ढीली [ɪ] बोली जाती है; संस्कृत की इ ठीक ई जैसी कसी हुई है —
+बस आधी लम्बी।
 
 दूसरा अनुशासन — बाएँ वाले हुक का होश। आप बरसों से ि को व्यञ्जन से पहले लिखते आ रहे हैं, पर
 कभी रुककर देखा है कि यह कितनी अनोखी व्यवस्था है? काग़ज़ पर चिह्न पहले खड़ा है, बोली में ध्वनि
@@ -190,8 +193,8 @@ adding कार (kāra), and च (ca) means "and". The seam in ईकारश�
 बाएँ घुमा देती है।)
 
 और एक ईमानदार चेतावनी: जल्दबाज़ी की लिखाई में कि/की की अदला-बदली हिन्दी लिखने वालों की
-जानी-पहचानी चूक है। संस्कृत का श्रुतलेखन इसे तुरन्त पकड़ लेगा, क्योंकि यहाँ मति और मित, इति
-और ईति अलग-अलग शब्द हैं। आज का अभ्यास आपकी हिन्दी वर्तनी भी चमका देगा — मुफ़्त में। और आज की
+जानी-पहचानी चूक है। संस्कृत का श्रुतलेखन इसे तुरन्त पकड़ लेगा, क्योंकि यहाँ इति और ईति
+अलग-अलग शब्द हैं — और हुक की जगह बदलते ही मति भी मित बन जाता है। आज का अभ्यास आपकी हिन्दी वर्तनी भी चमका देगा — मुफ़्त में। और आज की
 सूची का ख़ास मेहमान: इति — वही छोटा शब्द जो आप पाठ 2 से सुनते आ रहे हैं। आज से यह पढ़ा भी
 जाएगा।
 
@@ -321,7 +324,8 @@ To find इ /i/:
 1. **Tongue:** raise the body of the tongue high and forward, toward the hard palate — sides
    pressing lightly against the upper side teeth, tip resting low behind the lower teeth.
    Compared with अ, this is the tongue's first real journey from rest.
-2. **Jaw:** nearly closed — a pencil's width. (Lesson 4 asked for two fingers; today one.)
+2. **Jaw:** nearly closed — a pencil's width. (Chapter 1's lesson 4 asked for two fingers for
+   आ, and अ rests at about one; today, less than one.)
 3. **Lips:** unrounded, corners slightly spread — a hint of a smile, not a grin.
 4. **Hold it:** say ई for a slow two-count. The quality must not bend at the end — no glide,
    no drift toward *y*.
@@ -334,8 +338,9 @@ and the mouth-corners spread for every इ. Then the back of the hand under the 
 
 सामान्य-भ्रान्तयः — real errors, each with its fix. These feed the quiz distractors.
 
-1. **The lax substitute (English speakers).** *Bit*, *sit*, *hit* train the mouth to relax
-   into /ɪ/ whenever a vowel is short — so इ slumps into [ɪ] and stops matching ई in quality.
+1. **The lax substitute (English speakers — and Hindi speakers, whose short इ is [ɪ]).**
+   *Bit*, *sit*, *hit* — and Hindi दिन, मिल — train the mouth to relax into /ɪ/ whenever a
+   vowel is short — so इ slumps into [ɪ] and stops matching ई in quality.
    *Fix:* build इ *from* ई: say a pure long ई, then cut its duration in half without moving
    anything. The smile-corners in the mirror are your gauge.
 2. **Length blur in fast speech (Hindi speakers, and everyone at speed).** Careful इ/ई
@@ -444,8 +449,8 @@ teacher's consistent habit is fine. (Card:
 
 - **इ** — the body's double curve first, drawn top to bottom in one flowing movement, then
   the headline. Keep the curves round — a boxy इ collapses into scribble.
-- **ई** — write इ, then its extra closing curl on the right, tucked up against the headline;
-  headline last. The long twin wears one more curl — let the shape say "more".
+- **ई** — write इ with its headline, then the extra curl rising *above* the headline at its
+  right end — the one stroke that sits on top of the line. The long twin wears one more curl — let the shape say "more".
 - **ि** — complete the consonant first. Then the vertical bar to its **left**, and the
   canopy: an arc from the bar's top, rightward over the headline, landing on the consonant.
 - **ी** — complete the consonant. Then the vertical bar to its **right** — same bar as ा —
@@ -472,6 +477,13 @@ the honest gap: कति asks "how many?", but the number words that *answer* i
 lesson 4 of this chapter (एक "one") — until then, कति is answered the way children answer it
 everywhere: with fingers.
 
+Honesty box: real connected Sanskrit would dress these words differently. Calling someone
+takes a special address form — लीला would call out मातः (mātaḥ), not माता — and the answers
+would wear their endings: तिलाः (tilāḥ) "sesame seeds" and मिताः (mitāḥ) "measured ones",
+plural because कति asks about many. Those endings need the visarga (lesson 6), and address
+forms come with the case system (Volume 3); for now we speak in bare stems, use names whole,
+and add gestures.
+
 ## 17. Story
 
 कथा — तिलकथा · The Sesame Story. Five lines, almost entirely readable. Words you can read
@@ -487,13 +499,19 @@ are **bold**; glue words are glossed 🔊 below. Each line: Devanagari, IAST, En
    (mātā — mita, mita! paśya — kīla!) "Mother: A measured few! And look out — a pin!" —
    माता — थोड़े-से! और देखो — कील! *(a stray pin lies beside the seeds; mother flicks it away)*
 5. **माता** — **मम** **लीला**! **मम** **ममता**!
-   (mātā — mama līlā! mama mamatā!) "Mother: My Līlā! My darling!" — माता — मेरी लीला! मेरी ममता!
+   (mātā — mama līlā! mama mamatā!) "Mother: My Līlā! My whole 'mine'!" — माता — मेरी लीला! मेरी ममता!
 
 Glue words 🔊: अत्र (atra) "here" — यहाँ; अस्ति (asti) "is" — है; पश्य (paśya) "look!" —
-देखो — Chapter 1 ear-words, unchanged. Two pleasures to notice: the girl's name लीला *is* the
-word लीला "play" — she is named for what children do — and line 5's ममता is Chapter 1's मम
-grown into a noun: "my-ness", the possessive warmth of a mother. Read the story aloud twice:
-once block by block, once at story speed.
+देखो — Chapter 1 ear-words, unchanged. Honesty box: calling someone takes a special address
+form — real Sanskrit says लीले (līle) when mother calls her (lines 2 and 5) — and तिल, मित,
+कील would wear their endings: तिलाः (tilāḥ), मिताः (mitāḥ), कीलः (kīlaḥ). Today we speak in
+bare stems, because sounds and words are what we are training; endings start with the visarga
+in lesson 6 and become a system in Volume 3.
+
+Two pleasures to notice: the girl's name लीला *is* the word लीला "play" — she is named for
+what children do — and line 5's ममता is Chapter 1's मम grown into a noun: "my-ness",
+attachment — a mother's love is the warmer sense Hindi ममता has grown into. Read the story
+aloud twice: once block by block, once at story speed.
 
 ## 18. Exercises
 
@@ -512,7 +530,7 @@ following the stroke arrows, then the syllable row कि की मि मी �
 **अभ्यासः 3 · श्रुतलेखनम् (dictation, audio).** Play
 `planned:assets/audio/volume-1/v1c02l01-word-list.mp3` 🔊 with the book closed: eight words,
 each read twice. Pause after each and write it in Devanagari. Self-check against §14, three
-questions per word: hook on the correct side? every ई wearing its extra curl? any dīrgha
+questions per word: hook on the correct side? every ी's canopy curling back left? any dīrgha
 shortened? 7/8 is a pass; re-take tomorrow either way (§20).
 
 **अभ्यासः 4 · श्रवणभेदः (minimal-length discrimination, written answers).** Play the
@@ -536,8 +554,9 @@ write the correct form:
 4. intended *iti* — written **ईति**
 5. intended *līlā* — written **लिला**
 
-(Check your fixes against §14. Items 2 and 4 are the sneakiest: the "error" produced a real
-word — exactly why §12's mistakes 2 and 4 matter.)
+(Check your fixes against §14. Items 2, 3 and 4 are the sneakiest: each "error" produced a
+real word (किल (kila) is the particle "indeed, reportedly") — exactly why §12's mistakes 2–4
+matter.)
 
 ## 19. Quiz
 
@@ -599,9 +618,9 @@ Spaced review [REF:cepeda2006]:
 1. **(10 min)** Finish exercises 2 and 3 if not completed in class: tracing sheet, first
    dictation pass.
 2. **(5 min)** The length ladder (§9 drill 1), three rounds, metronome at 60.
-3. **(5 min, Chapter 1 debt)** The +1-week re-run promised by v1.c01.l05 §20: read the
-   Chapter 1 twelve-word list aloud once at speed, and re-do its timed writing (3 minutes,
-   from memory). Log both scores next to your Chapter 1 notes.
+3. **(5 min, Chapter 1 debt)** The +1-day re-run promised by v1.c01.l05 §20: re-take its
+   task B dictation (eight words, fresh order) and log the score next to your Chapter 1
+   notes. The +1-week read-aloud and timed-writing re-runs come due in lesson 7's Station 0.
 4. **(7 min, real world)** Hunt the left hook: in any Hindi text around you — newspaper,
    sign, chat — find and list ten words containing ि. For each, notice: the hook stands
    *before* a consonant your voice says *first*. Ten small confirmations of today's rule.
@@ -622,7 +641,7 @@ the surprise don't.
 **Timing plan (45 min):** §3 retrieval, written (5) → hook reveal on the board (4) → sound
 work: mirror, smile-check, length ladder (8) → left-hook rule + worked readings तिल मति कील
 लीला इति, then the मति/मित trap (10) → syllable grid + word list in pairs (8) → exercises 1
-and 6 (7) → homework briefing incl. the Chapter 1 +1-week re-run (3).
+and 6 (7) → homework briefing incl. the Chapter 1 +1-day re-dictation (3).
 
 **Board work:** keep the consonant-house from §8 on the side board all lesson — one big क
 with five labeled rooms; move sign-cards into rooms as they come up. Under it, a permanent
@@ -636,11 +655,12 @@ its letter?" (2) mid-word hooks read onto the wrong consonant — catch it in di
 hunt each other's hooks.
 
 **Dictation logistics:** natural speed, no exaggerated lengths; collect error types
-separately — wrong-side hook, missing curl on ी, length blur — each has a different fix
+separately — wrong-side hook, ी canopy curling the wrong way, length blur — each has a different fix
 (§15, §15, §9 respectively).
 
 **Differentiation — Hindi-literate learners:** the script mechanics are automatic; do not
-let them idle. Their genuine work is recitation-grade 2:1 length (दिन/दीन shows they own the
+let them idle. Their genuine work is keeping short इ tense — Hindi's own is lax [ɪ] — and
+recitation-grade 2:1 length (दिन/दीन shows they own the
 contrast; fast speech is where they leak) and the known weak spot of careless कि/की swaps in
 fast writing. Deputize them as hook-police for exercise 6 and recorders in pair reading;
 pair them with script-beginners under the Chapter 1 rule: guide the hand with words, never
@@ -648,7 +668,7 @@ take the pen.
 
 **What students find hard:** *believing* the reordering (the reveal handles this); mid-word
 hooks at reading speed (मति/मित — normalize slow block-by-block reading for another week);
-and, for English speakers, keeping short इ tense — the "cut ई in half" trick from §12 works
+and, for English and Hindi speakers alike, keeping short इ tense — the "cut ई in half" trick from §12 works
 better than any tongue-position description.
 
 ## 23. AI Image Prompt
@@ -665,8 +685,8 @@ better than any tongue-position description.
 
 > Stroke-order chart, four rows: इ, ई, ि (on carrier क), ी (on carrier क), Noto Serif
 > Devanagari outlines, each form drawn progressively 4 times with numbered arrows: body
-> curves first, extra curl for ई, headline last; in the mātrā rows the क is complete first
-> in gray, then bar + canopy in a highlight color — ि's bar LEFT with canopy arcing right,
+> curves first, then the headline, extra curl for ई drawn last, above the headline; in the
+> mātrā rows the क is complete first in gray, then bar + canopy in a highlight color — ि's bar LEFT with canopy arcing right,
 > ी's bar RIGHT with canopy arcing left. Footer: कि की मि मी, caption "written before,
 > spoken after — the canopy curls toward its consonant". Workbook-clean, two colors.
 
@@ -747,7 +767,7 @@ narrator reads them as IPA, not as English spelling.
   this little word since lesson two. Today you read it.
 - **04:20** Eight words, yours now. iti [it̪i], thus. tila [t̪ilɐ], sesame. mati [mɐt̪i],
   thought. kati [kɐt̪i], how many. kīla [kiːlɐ], pin. līlā [liːlɑː], play. mamatā
-  [mɐmɐt̪ɑː], a mother's my-ness. mita [mit̪ɐ], measured.
+  [mɐmɐt̪ɑː], mine-ness, attachment. mita [mit̪ɐ], measured.
 - **05:00** The dangerous pairs once more: mati [mɐt̪i] — mita [mit̪ɐ]. iti [it̪i] — īti
   [iːt̪i]. If those sound like four different words, today worked.
 - **05:30** Dictation tomorrow, the full list next week — the gap is the method. Next
@@ -782,9 +802,10 @@ narrator reads them as IPA, not as English spelling.
   - §16 dialogue and §17 story audio are NOT in this manifest — record into the Chapter 2
     drill pack (chapter.md assets manifest) and back-link here when they exist.
 - **Related lessons:** reviews v1.c01.l03 (inherent vowel) and v1.c01.l04 (mātrā rule,
-  length discipline); §3 + §21 discharge the +1-week re-runs promised in v1.c01.l05 §20;
-  feeds v1.c02.l02 (उ/ऊ — below-position mātrās) through v1.c02.l05 (composite positions);
-  इति/ईति and मति/मित discrimination re-tested in the chapter review v1.c02.l07; कति gets
+  length discipline); §21 discharges the +1-day re-dictation promised in v1.c01.l05 §20 (its
+  +1-week re-runs run in v1.c02.l07 Station 0); feeds v1.c02.l02 (उ/ऊ — below-position
+  mātrās) through v1.c02.l05 (composite positions); इति/ईति discrimination and the left-hook
+  rule re-tested in the chapter review v1.c02.l07; कति gets
   its answers when number words begin in v1.c02.l04 (एक); ईति is recognition-only per
   research note (vol1-ch2-vowels.md §4); sandhi note in §6 (ईकारश्च) resolves in Volume 3;
   the pratyāhāra system (§4) in Volume 4.

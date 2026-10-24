@@ -16,8 +16,8 @@ self_study_minutes: 40
 prerequisites: [v1.c01.l04]
 review_of: [v1.c01.l01, v1.c01.l02, v1.c01.l03, v1.c01.l04]
 objectives:
-  - en: "Demonstrate every Chapter 1 can-do: read the 12-word list aloud, write all six letters and the ā-mātrā from dictation, and distinguish length pairs by ear."
-    hi: "अध्याय 1 की हर can-do क्षमता दिखाएँ — 12 शब्द पढ़ें, छहों वर्ण और आ की मात्रा श्रुतलेखन से लिखें, और ह्रस्व-दीर्घ जोड़े सुनकर पहचानें।"
+  - en: "Demonstrate every Chapter 1 can-do: read the 12-word list aloud, write all six letters and the ā-mātrā from memory and dictation, and distinguish length pairs by ear."
+    hi: "अध्याय 1 की हर can-do क्षमता दिखाएँ — 12 शब्द पढ़ें, छहों वर्ण और आ की मात्रा स्मृति और श्रुतलेखन से लिखें, और ह्रस्व-दीर्घ जोड़े सुनकर पहचानें।"
   - en: "Sort claims about Sanskrit into the four registers (fact, history, tradition, symbol) correctly."
     hi: "संस्कृत के बारे में कथनों को चारों श्रेणियों (तथ्य, इतिहास, परम्परा, प्रतीक) में सही-सही बाँटें।"
   - en: "Self-assess with the rubric and name one personal weak point with its fix location."
@@ -49,7 +49,7 @@ updated: 2026-07-20
 ## 1. Hook
 
 Five days ago you could not read a single Devanagari letter. Today you will read twelve real
-Sanskrit words aloud, write six letters from dictation, hear the difference between "sweet
+Sanskrit words aloud, write six letters from memory and eight words from dictation, hear the difference between "sweet
 sound" and "time" in a single vowel-beat — and prove all of it. Nothing new enters this
 lesson. Everything you already own comes out and gets counted. That is not a lesser lesson;
 it is the one that makes the other four permanent.
@@ -60,7 +60,7 @@ it is the one that makes the other four permanent.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Demonstrate every Chapter 1 can-do: read the 12-word list aloud, write all six letters + ा from dictation, distinguish length pairs by ear. | अध्याय 1 की हर can-do क्षमता प्रदर्शित करें — पढ़ना, लिखना, सुनकर पहचानना। |
+| 1 | Demonstrate every Chapter 1 can-do: read the 12-word list aloud, write all six letters + ा from memory and dictation, distinguish length pairs by ear. | अध्याय 1 की हर can-do क्षमता प्रदर्शित करें — पढ़ना, लिखना, सुनकर पहचानना। |
 | 2 | Sort claims about Sanskrit into the four registers correctly. | कथनों को चारों श्रेणियों में सही बाँटें। |
 | 3 | Self-assess with the rubric and name one weak point with its fix location. | आत्म-परीक्षण करके एक कमज़ोरी और उसका उपाय बताएँ। |
 
@@ -83,8 +83,8 @@ station: answer from memory first [REF:roediger2006]; only then check the pointe
 
 ### Station 2 — The sound map (lesson 2)
 
-1. Recite the five places of articulation back-to-front, touching each with your tongue:
-   क… च… ट… त… प.
+1. Recite the five places of articulation back-to-front, feeling the closure move forward —
+   tongue for the first four, lips for the last: क… च… ट… त… प.
 2. What two axes organize the varṇamālā grid?
 3. The honest counts: vowels? consonants? and the two अं/अः are called what — and why are
    they not vowels?
@@ -96,7 +96,7 @@ station: answer from memory first [REF:roediger2006]; only then check the pointe
 
 1. Describe /ɐ/ in three phrases: jaw, tongue, lips.
 2. Why does क read *ka* and not *k*? Name the rule.
-3. Write from memory, body before headstroke: अ क म.
+3. Write from memory, body before headline: अ क म.
 4. Which §12 mistake do Hindi speakers make with धर्म — and is it carelessness?
 
 *Check against l03 §5, §11, §15, §12.*
@@ -145,8 +145,10 @@ strengthening happening. Budget for it.
 
 ## 6. Sanskrit Explanation
 
-संस्कृतेन विवरणम् — two lines you have earned, glossed. (🔊 for the verb — its letters come
-later; say it by ear.)
+संस्कृतेन विवरणम् — two lines you have earned, glossed. (🔊 for both lines — beyond अ, their
+akṣaras need letters and signs that come later; say them by ear. अहं is the everyday joined
+form of अहम् before a consonant; the careful pause form, and why the two differ, arrive with
+the virāma in Chapter 5.)
 
 > **अहं पठामि।**
 > (ahaṃ paṭhāmi.) — "I read/study." — मैं पढ़ता/पढ़ती हूँ।
@@ -156,6 +158,8 @@ later; say it by ear.)
 
 पुनः (punaḥ) "again" is the first half of this lesson's Sanskrit title — पुनरावृत्तिः
 (punarāvṛttiḥ), "turning again": the tradition's own word for what you are doing today.
+(The word's full form is punar; at a pause you hear punaḥ, and before a vowel the r returns —
+a sandhi preview, treated properly in Volume 3.)
 
 ## 7. Hindi Explanation
 
@@ -239,8 +243,8 @@ means *long* — माला /mɑːlɑː/ carries four beats of vowel across tw
 मुखस्थितिः — self-diagnosis version of the two checklists:
 
 - **अ check:** knuckle under chin, say मम — two equal, small jaw-drops. Final syllable
-  shrank? Lesson 3 §9.4 is your fix.
-- **आ check:** say माता — the first syllable's jaw-drop visibly larger and *longer* than the
+  shrank? Lesson 3 §9 drill 3 (the equality check) and §12 mistake 3 are your fix.
+- **आ check:** say काल — the first syllable's jaw-drop visibly larger and *longer* than the
   second's? Good. Both the same? Lesson 4 §9's length ladder.
 - **Mirror check:** twelve words, lips neutral throughout — any rounding or spreading means
   an English vowel got in.
@@ -254,10 +258,10 @@ from.
 | # | Error | Seen in | Fix |
 |---|---|---|---|
 | 1 | अ said as *cat* /æ/ or *father* /ɑː/ | task A, C | l03 §9.1–2, §12 |
-| 2 | Final vowel deleted (मम → *mam*) | task C | l03 §9.4, §12; l04 §14 protocol |
+| 2 | Final vowel deleted (मम → *mam*) | task C | l03 §9 drill 3, §12; l04 §14 protocol |
 | 3 | Length ignored or randomized (कल = काल) | tasks A, C | l04 §9 ladder, §13 pairs |
 | 4 | Mātrā on the wrong side or wrong shape (ा) | tasks B, E | l04 §15 |
-| 5 | Headstroke written first, body squeezed under it | tasks B, E | l03 §15 habit note |
+| 5 | Body squeezed under a headline drawn too early (cramped or broken shapes) | tasks B, E | l03 §15; l04 §15 |
 | 6 | Registers blurred ("the Gītā verse proves अ is supreme") | task D | l01 §8; l03 §17 |
 
 ## 13. Examples
@@ -265,8 +269,8 @@ from.
 उदाहरणानि — two worked model answers, so you know what "correct" looks like before you start.
 
 **Model dictation item (task B).** Audio says *mālā*. You hear: long ā twice. You write: मा
-(म + ा) + ला (ल + ा) → **माला**. Common wrong answers: मला (missed first mātrā), माल (dropped
-final vowel — error 2 striking in writing).
+(म + ा) + ला (ल + ा) → **माला**. Common wrong answers: मला — first mātrā missed; माल — final
+mātrā dropped, so it reads *māla*: error 3, length lost, striking in writing.
 
 **Model register sort (task D).** Card: "Of syllables, I am the *a* — Bhagavad Gītā 10.33."
 Reasoning: a real, locatable verse (so not a fabrication) — but the claim it makes about अ is
@@ -275,8 +279,9 @@ reverence, not phonology → **SYMBOL box**. It would be HISTORY only if the car
 
 ## 14. Vocabulary
 
-शब्दावली — nothing new; the cumulative Chapter 1 inventory as one revision table. Reading
-column: ✅ = you read it yourself; 🔊 = ear-first for now (letters arrive in Chapters 2–5).
+शब्दावली — nothing new; a revision table of the twelve readable words plus eight core course
+terms (the other fourteen 🔊 ear-words, including the place names and अयोगवाह, stay in
+l01–l03 §14). Reading column: ✅ = you read it yourself; 🔊 = ear-first for now (letters arrive in Chapters 2–5).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
@@ -366,7 +371,10 @@ marks per item = every letter, every mātrā, no dropped finals.
 **कार्यम् C · वाचनम् (reading aloud — production).** Record yourself reading all twelve ✅
 words in §14 order, cold — no warm-up read of the list itself (warm-up drills in §9 are
 fine). Compare against the l04 word-list audio. Score each word: clean /
-length-error / final-vowel-error / other. 10+ clean = pass.
+length-error / final-vowel-error / other. 10+ clean = pass. Then, still recording, say
+नमस्ते and संस्कृतम् three times each and compare with the recording you kept from lesson 1
+(l01 §9, §18): steady long /eː/, full final /ɐm/, syllabic ṛ — not "ri". Both words
+clearing all three checks on your final take = pass.
 
 **कार्यम् D · श्रेणीविभागः (register sort — 9 cards, production of reasoning).** Sort each
 claim into FACT / HISTORY / TRADITION / SYMBOL — or reject it outright if it belongs in no
@@ -375,7 +383,8 @@ box. Write one line of reasoning for each.
 1. "The Ṛgveda was composed around 1500–1200 BCE."
 2. "Of syllables, I am the *a*." (Bhagavad Gītā 10.33)
 3. "An unmarked consonant letter is read with अ."
-4. "Śiva's drum sounded fourteen times, and the fourteen sūtras were heard in its beats."
+4. "In the traditional telling, Śiva's drum sounded fourteen times, and Pāṇini received the
+   fourteen sūtras from its beats."
 5. "अ and आ together are the most frequent vowels in Sanskrit text."
 6. "In the Śikṣā tradition's measure, a short vowel is one mātrā, a long vowel two."
 7. "Pāṇini lived around the 4th century BCE."
@@ -384,7 +393,7 @@ box. Write one line of reasoning for each.
 
 **कार्यम् E · कालबद्धं लेखनम् (timed writing — production).** Three minutes, from memory, no
 reference: write अ आ क म त ल, then का मा ता ला. Check stroke order habits (body first,
-headstroke last) as well as shapes.
+headline last — or your teacher's one consistent convention, l04 §15) as well as shapes.
 
 ## 19. Quiz
 
@@ -400,9 +409,10 @@ headstroke last) as well as shapes.
 6. (l03) State the inherent-vowel rule in one sentence, and use it to read कम.
 7. (l03) Which of these is the Hindi-speaker's signature error with Sanskrit vowels:
    (a) rounding अ (b) deleting final अ (c) fronting अ to /æ/ — and what is the fix?
-8. (l04) When is आ written as a full letter, and when as ा? Give one example of each from
-   the word list.
-9. (l04) कल and काल differ in exactly one feature. Name the feature and both meanings.
+8. (l04) When is आ written as a full letter, and when as ा? Give one example of ा from
+   the word list, and say why the list has no full-letter example yet.
+9. (l04) कल and काल differ only in their first vowel. In what two ways does that vowel
+   differ, and what do the two words mean?
 10. (l04) Why is कमल three syllables and not "kamal"? Connect your answer to question 7.
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -418,22 +428,26 @@ headstroke last) as well as shapes.
 5. /k/ is a language-independent IPA value; "as in *kite*" imports English habits (here:
    aspiration) and so always lies a little. → l02 §10.
 6. An unmarked consonant letter is read with अ — so कम = *kama*. → l03 §15.
-7. (b) deleting final अ; fix: every written अ is spoken — jaw-hand check. → l03 §12.
-8. आ word-initially as a full letter (no word-list example yet — आम् 🔊 shows the pattern);
+7. (b) deleting final अ; fix: every written अ is spoken — jaw-hand check (l03 §11) or
+   finger-count the syllables (l03 §12). → l03 §11, §12.
+8. आ word-initially as a full letter — the list has none because every ā in its twelve
+   words follows a consonant (आम् 🔊 shows the full letter);
    ा after a consonant: माता, माला, काल, ताल, लता, कला, कमला. → l04 §15.
-9. Vowel length (hrasva vs dīrgha): कल "indistinct, sweet (of sound)" — काल "time". → l04 §13.
+9. Vowel length (hrasva vs dīrgha) and, with it, vowel quality (/ɐ/ central vs /ɑː/ open
+   back): कल "indistinct, sweet (of sound)" — काल "time". → l04 §10, §13.
 10. Because Sanskrit keeps every written अ — /kɐmɐlɐ/; "kamal" is the same Hindi
-    final-deletion habit as answer 7, applied twice. → l04 §14; l03 §12.
+    final-deletion habit as answer 7 — one dropped final vowel leaves two syllables.
+    → l04 §14; l03 §12.
 
 **Task keys.**
-A (pair test source list, for the reader/QA): का(D) कल(H) ताल(D) म(H) माला(D) तल(H) ला(D)
+A (pair test source list, for the reader/QA): का(D) कल(H) ताल(D) म(H) ता(D) तल(H) ला(D)
 काल(D) क(H) मा(D).
 B (dictation set): माला, कमल, तल, काल, मम, लता, ताल, माता.
 D: 1 HISTORY · 2 SYMBOL · 3 FACT · 4 TRADITION (the legend, told *as* legend) · 5 FACT ·
 6 TRADITION (the tradition's own measure; also matches phonetic fact — either box with that
 reasoning earns the point, TRADITION preferred for the attribution) · 7 HISTORY · 8 FACT ·
 9 **reject** — a banned misconception; Sanskrit is a sibling within Indo-European, ancestor
-of the Indo-Aryan languages only. Scoring: 7+/9 with sane reasoning = pass.
+of the modern Indo-Aryan languages only. Scoring: 7+/9 with sane reasoning = pass.
 E: अ आ क म त ल का मा ता ला — all ten, legible, ≤3 minutes.
 
 </details>
@@ -443,7 +457,7 @@ E: अ आ क म त ल का मा ता ला — all ten, legible, ≤
 पुनरावृत्तिः — the chapter on one screen, plus your schedule.
 
 > **Sounds:** अ /ɐ/ (rest, one beat) · आ /ɑː/ (open, two beats) — length carries meaning.
-> **Letters:** अ आ क म त ल + mātrā ा — body first, headstroke last.
+> **Letters:** अ आ क म त ल + mātrā ा — body first, headline last.
 > **Laws:** unmarked consonant = +अ · non-अ vowel after a consonant = mātrā.
 > **Words:** 12 readable, from मम to कमला.
 > **Registers:** fact / history / tradition / symbol — sorted, never blurred.
@@ -479,14 +493,14 @@ assessment block (§18–19). Stations 12 min · assessment 25 min · debrief 8 
 | A (10) | 8–10 correct | 6–7 | length not yet perceived → l04 §9 |
 | B (8) | 6–8 all-correct items | 4–5 | mātrā side/shape errors → l04 §15; dropped finals → l03 §12 |
 | C (12) | 10–12 clean | 8–9 | systematic length or final-vowel errors (§12 table) |
-| D (9) | 7–9 with reasoning | 5–6 | registers blurred → re-teach l01 §8 with the माता example |
+| D (9) | 7–9 with reasoning | 5–6 | registers blurred → re-teach l01 §8 with the संस्कृतम् example |
 | E (10) | 10 legible in 3 min | 8–9 | stroke order chaos → re-run l03/l04 worksheets |
 
-**Pass = every task at partial-or-better AND quiz 7+/10.** One task below partial →
-targeted retake tomorrow (only that task). Two or more → repeat the weak lessons before
+**Pass = every task at full credit (its §8 pass line) AND quiz 7+/10.** One task short of
+full credit → targeted retake tomorrow (only that task). Two or more → repeat the weak lessons before
 Chapter 2; frame it as scheduling, not failure ("your spacing interval is one lesson wider").
 
-**Remediation table:** error 1 → l03 §9/§12 · error 2 → l03 §9.4 · error 3 → l04 §9/§13 ·
+**Remediation table:** error 1 → l03 §9/§12 · error 2 → l03 §9 drill 3/§12 · error 3 → l04 §9/§13 ·
 error 4 → l04 §15 · error 5 → l03 §15 · error 6 → l01 §8 + l03 §17.
 
 **Running task D in class:** print the nine cards, four labeled boxes on the floor or board,
@@ -543,8 +557,8 @@ Timed narration; Sanskrit terms carry IPA cues.
   box? Not fact — it makes no claim about the tongue. Symbol. And card nine — 'mother of all
   languages' — no box at all. Some claims we sort; that one we retire."
 - 07:30 — "Your schedule: dictation again tomorrow. Reading and writing again in a week.
-  That spacing is not busywork — it is how memory is built. अध्याय समाप्तः [ɐd̪ʱjɑːjɐ
-  sɐmɑːpt̪ɐh] — chapter one, complete."
+  That spacing is not busywork — it is how memory is built.
+  अध्यायः समाप्तः [ɐd̪ʱjɑːjɐh sɐmɑːpt̪ɐh] — chapter one, complete."
 
 ## 26. Reel Script
 
@@ -562,12 +576,13 @@ bio."
   keys never ship on the same sheet — the 1.x book's inline-answer failure is the
   counter-model).
 - **Related lessons:** consolidates v1.c01.l01–l04; gates entry to v1.c02. The +1-week
-  re-runs (§20) land inside Chapter 2's calendar — its lesson 1 §3 re-summons this material.
+  re-runs (§20) land inside Chapter 2's calendar — its lesson 7 §3 (Station 0) runs them at the
+  one-week mark; the +1-day re-dictation is homework (§21 item 1).
 - **Rubric home:** §22 is the machine-readable rubric source for the app's assessment
   screens; export flag: `assessment: true` for this lesson.
 - **Integrator notes:** task keys deliberately live inside §19's collapsed block (self-study)
   AND will ship as the separate key file (classroom print) — single source is §19; the
-  quizzes/ files are generated from it. Glue-word inventory used in §16–17 (अत्र, अस्ति,
+  quizzes/ files are generated from it. Glue-word inventory used in §6 and §16–17 (एषः, कः, वर्णः, अत्र, अस्ति,
   पश्य, आम्, तव, इति, पुनः, अहम्) is the seed list for Chapter 2's 🔊 tracking.
-- **Register audit:** FACT ×3 (§4, §5, §15 ×2 laws) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 —
+- **Register audit:** FACT ×4 (§4, §5, §15 ×2 laws) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 —
   review lesson; task D handles registers as *content*. Quiz assesses FACT only.

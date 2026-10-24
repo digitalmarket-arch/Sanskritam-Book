@@ -83,8 +83,8 @@ objective 2 in §18 (exercises 2, 4) and §19 (Q6); objective 3 in §18 (exercis
 2. The tissue test: which of क/ख throws the tissue across the room — and what exactly is
    the puff made of?
 3. **Write from memory:** खग and मुख. What does खग literally say about birds?
-4. Which velar letter is the [ŋ] of English *sing* — and where does that letter mostly
-   live in real words?
+4. **Chapter 2 interval item:** read कोकिलः aloud. Which Chapter 2 word is inside it, and
+   what is the sign at its end?
 5. English *kite* begins closer to which Sanskrit sound, क or ख — and why does that battle
    matter again today?
 
@@ -96,8 +96,8 @@ objective 2 in §18 (exercises 2, 4) and §19 (Q6); objective 3 in §18 (exercis
    stop opens.
 3. खग "bird" — literally "sky-goer" (ख "sky" + ग "going" as bound elements); मुख "mouth,
    face".
-4. ङ — and it lives almost entirely next to its own varga stops, as in the spelling twins
-   अङ्क/अंक, rarely standing alone.
+4. कोकिल "cuckoo" (v1.c02.l05) wearing the visarga ः from v1.c02.l06, a light voiceless
+   breath: /koːkilɐh/ — and today the cuckoo gets its verb (§13).
 5. ख-ish: English aspirates its initial voiceless stops, so *kite* ≈ [kʰ]. The same habit
    will push English speakers from च toward छ — the un-aspirating battle transfers with
    the row.
@@ -109,7 +109,7 @@ objective 2 in §18 (exercises 2, 4) and §19 (Q6); objective 3 in §18 (exercis
 
 Since the sound map of v1.c01.l02, this row has carried the address label तालव्य — "of the
 palate". Today the label becomes muscle. But this particular row also carries the course's
-most interesting honesty note, promised when the grid was first drawn: the row where the
+most interesting honesty note, flagged in the course's pronunciation contract: the row where the
 ancient description and the modern mouth genuinely differ.
 
 > **[TRADITION · परम्परा]** The Pāṇinīya Śikṣā and the traditional sound catalogue file the
@@ -119,9 +119,9 @@ ancient description and the modern mouth genuinely differ.
 
 > **[HISTORY · इतिहासः]** Pāṇinian phonetics describes the च-row with the same
 > complete-contact manner as every other stop row — in modern terms, palatal stops, [c ɟ].
-> The pronunciation current across the Indic world, shared by the modern Indo-Aryan
+> The pronunciation current across the Indic world, shared by most modern Indo-Aryan
 > languages and by recitation practice as we have it, renders the row as affricates: a stop
-> released into friction. [REF:cardona1997]
+> released into friction. [REF:cardona1997] [REF:masica1991]
 
 Both descriptions are true to their object. The old grammarians described a system in which
 this row sat as pure stops; the living tradition of pronunciation moved, as pronunciations
@@ -173,15 +173,16 @@ of English *canyon* — with the imprecision stated: *canyon* holds a two-sound 
 जल अत्र अस्ति।
 (jala atra asti.) "Water is here." — जल यहाँ है।
 
-खग चलति।
-(khaga calati.) "The bird moves." — पक्षी चलता है।
+खगः चलति।
+(khagaḥ calati.) "The bird moves." — पक्षी चलता है।
 
-Savor the last two lines: every Devanagari sign in them is yours. जल and खग stand in their
-bare stem form, the citation shape this course's word lists have used since Chapter 1; in
-fully dressed sentences they would wear endings (the खः-style visarga you can already read,
-and a -म् tail that waits for Chapter 5's machinery). The dress rehearsal is staged for the
-chapter's sentence milestone in lesson 5. And खग चलति contains the course's first readable
-verb — a word that *does* something. Returning terms today: इति (iti) the quoting word,
+Savor the last two lines: apart from the ear-words अत्र and अस्ति 🔊, every Devanagari sign
+in them is yours. जल stands in its bare stem form, the citation shape this course's word
+lists have used since Chapter 1; in a fully dressed sentence it would wear a -म् tail that
+waits for Chapter 5's machinery, while खगः already wears the visarga you can read since
+v1.c02.l06. The dress rehearsal is staged for the chapter's sentence milestone in lesson 5.
+And खगः चलति contains the course's first readable verb — a word that *does* something.
+Returning terms today: इति (iti) the quoting word,
 तालव्य (tālavya) "of the palate", वर्ण (varṇa) "speech sound".
 
 ## 7. Hindi Explanation
@@ -189,8 +190,8 @@ verb — a word that *does* something. Returning terms today: इति (iti) th
 हिन्दी व्याख्या
 
 आज की पंक्ति पर आपका जन्मसिद्ध अधिकार है। च से चलना, छ से छाता, ज से जल, झ से झूला — ये
-ध्वनियाँ आप बचपन से बोलते आए हैं, और पाँचों अक्षरों की लिखावट भी आपके हाथ में बैठी हुई है।
-कल की क-पंक्ति वाला पूरा ढाँचा — पाँच खाने, तिनके वाली साँस की परीक्षा, गले की गूँज — आज
+ध्वनियाँ आप बचपन से बोलते आए हैं, और च से झ तक चारों अक्षरों की लिखावट भी आपके हाथ में बैठी हुई है।
+कल की क-पंक्ति वाला पूरा ढाँचा — पाँच खाने, टिशू वाली साँस की परीक्षा, गले की गूँज — आज
 ज्यों-का-त्यों एक क़दम आगे सरक आया है। इसलिए आज की असली कमाई दो बारीक सावधानियाँ हैं।
 
 पहली सावधानी — नुक़्ते वाला ज़। हिन्दी में ज़रूरत, ज़्यादा, बाज़ार का ज़ [z] फ़ारसी-अरबी से आया
@@ -201,14 +202,15 @@ verb — a word that *does* something. Returning terms today: इति (iti) th
 
 दूसरी सावधानी — अकेला ञ। ध्वनि आप जानते हैं: पञ्च, चञ्चल जैसे शब्दों के भीतर नाक से बजती
 वही झंकार। पर हिन्दी में ञ प्रायः संयुक्त रूपों के भीतर ही दिखता है, इसलिए उसकी अकेली
-शक्ल — बिना डण्डे की, चौड़ी तश्तरी जैसी — आँख को अजनबी लगेगी। आज का काम केवल पहचान और
+शक्ल — ज जैसी पूरी खड़ी पाई वाली, पर बाईं ओर सीधी पट्टी की जगह ऊपर गोल उभार और नीचे
+चौड़ी कटोरी — आँख को अजनबी लगेगी। आज का काम केवल पहचान और
 ध्वनि है; पञ्च जैसे जुड़े रूपों को पढ़ना अध्याय 5 का विषय है। और श्रुतलेख में ज/ञ की
-अदला-बदली पर नज़र रखिए — ज खड़ा है, ञ लेटा हुआ।
+अदला-बदली पर नज़र रखिए — दोनों की दाईं पाई पूरी है, अन्तर बाईं ओर है: ज की सीधी पट्टी, ञ का गोल उभार।
 
-बाक़ी अनुशासन पुराने हैं: छ की साँस पूरी (छल बोलने पर तिनका उड़े), झ की गूँज गहरी और
-भरी हुई, और शब्द के अन्त का अ हमेशा पूरा — जल ज-ल है, "jal" नहीं; चल च-ल है, "chal" नहीं।
+बाक़ी अनुशासन पुराने हैं: छ की साँस पूरी (छल बोलने पर टिशू उड़े), झ की गूँज गहरी और
+भरी हुई, और शब्द के अन्त का अ हमेशा पूरा — जल ज-ल है, "jal" नहीं; चल च-ल है, "cal" नहीं।
 
-अन्त में आज का उपहार: चलति। हिन्दी का "चलना" इसी कुटुम्ब की सन्तान है, इसलिए खग चलति सुनते
+अन्त में आज का उपहार: चलति। हिन्दी का "चलना" इसी कुटुम्ब की सन्तान है, इसलिए खगः चलति सुनते
 ही अर्थ अपने-आप खुल जाता है — पक्षी चलता है। संस्कृत की पहली क्रिया आपने आज पढ़ ली — और
 वह पहले से आपकी अपनी भाषा में धड़क रही थी।
 
@@ -276,7 +278,7 @@ letters live inside it — both of them yours as of this lesson.
 ### The verb moment
 
 For two chapters every word you could read has been a *thing*: a family, an owl, a
-riverbank. चलति is different: it *happens*. Read खग चलति and you have not named the world —
+riverbank. चलति is different: it *happens*. Read खगः चलति and you have not named the world —
 you have reported an event in it. How Sanskrit builds its verbs — roots, endings, persons —
 is Volume 2's story, told properly; today चलति is glossed as one whole word, "moves", and
 that is all you need to enjoy the first sentence that moves. One more honest line: the
@@ -291,8 +293,8 @@ stays an ear-word for now. You can hear it; चलति you can read.
 
 **Drill 1 — the recital, transferred.** Say the row with yesterday's labels, one beat each:
 च (plain) — छ (puff) — ज (hum) — झ (hum + sigh) — ञ (nose). Three rounds: first bare;
-second with the tissue held before your lips — it should barely stir, fly, stay calm, stay
-calm, stay calm; third with eyes closed, listening for the hiss-trail on every release.
+second with the tissue held before your lips — it should barely stir, fly, stay calm, stir
+warmly, stay calm; third with eyes closed, listening for the hiss-trail on every release.
 
 **Drill 2 — slow-motion release.** Freeze the start of च: tongue body sealed on the palate,
 tip down, no sound. Hold two seconds. Now release *slowly* — the seal peels into a hiss
@@ -389,8 +391,8 @@ the nose; if it sails on, you are saying ज.
 4. **ञ read as न, or written as ज.** The unfamiliar standalone shape sends readers to the
    nearest familiar nasal (न, the dental) and writers to its curly look-alike ज. *Fix:*
    for the sound — tip down, body up, nose-pinch check (§11). For the shape — the §15
-   chant: ज stands (full right stem), ञ lies low (no stem, a broad bowl). In dictation,
-   ask "did I write the stander or the lier?" before moving on.
+   chant: ज flat bar, ञ round hump — both keep a full right stem. In dictation,
+   ask "flat bar or round hump?" before moving on.
 
 ## 13. Examples
 
@@ -402,10 +404,11 @@ the nose; if it sails on, you are saying ज.
 **जलज** (jalaja) "water-born; lotus" — कमल · /d͡ʑɐlɐd͡ʑɐ/
 [REF:apte1890 s.v. जल, जलज]
 
-Sanskrit routinely welds meaning from parts, and here is a first taste you can read whole:
+Sanskrit routinely welds meaning from parts, and here is another taste you can read whole:
 जल "water" plus the bound element -ज "born (of)" gives "the water-born one" — the lotus.
-Chapter 1's कमल just gained a poetic synonym, and you just read your first transparent
-derivation. The full compound-building machinery is Volume 2's story; today, one flower.
+Chapter 1's कमल just gained a poetic synonym, and you just read another transparent
+derivation — built exactly like yesterday's खग, "sky-goer". The full compound-building
+machinery is Volume 3's story; today, one flower.
 
 ### अचल — the अ- switch returns
 
@@ -430,7 +433,7 @@ Sanskrit sentence, previewed ahead of the chapter's official milestone in lesson
 > **[FACT · तथ्यम्]** Connected Sanskrit speech joins words with regular sound-changes
 > (sandhi), treated properly in Volume 3. At this stage the course reads word-by-word in
 > pause form — each word in its full citation shape — which is exactly how word lists and
-> dictation are traditionally recited. [REF:whitney1889 §§100–101]
+> dictation are traditionally recited. [REF:whitney1889]
 
 ## 14. Vocabulary
 
@@ -474,9 +477,10 @@ Column numbers are the manner slots: 1 voiceless, 2 voiceless aspirated, 3 voice
 4 voiced breathy, 5 nasal. Two rows down, three to go — and every future row costs less
 than the last, because the columns never change.
 
-> **[FACT · तथ्यम्]** The mātrā system is letter-blind: every vowel sign attaches to the
-> new letters exactly as it does to क, म, त, ल — च + ि = चि, ज + ू = जू, छ + े = छे. New
-> consonants plug into the existing machine; nothing about the signs themselves changes.
+> **[FACT · तथ्यम्]** For today's letters the mātrā system works unchanged: every vowel
+> sign attaches to the new letters exactly as it does to क, म, त, ल — च + ि = चि,
+> ज + ू = जू, छ + े = छे. New consonants plug into the existing machine; nothing about the
+> signs themselves changes.
 > [REF:masica1991 ch.6]
 
 ### Stroke order — च छ ज झ ञ
@@ -495,15 +499,18 @@ tracing: `planned:assets/worksheets/volume-1/v1c03l02-tracing.pdf`.)
 - **झ** — the left body first, two stacked bowls like the numeral ३; then the connecting
   arm; then the right vertical stem; headline last.
 - **ञ** — the top arm with its leftward curl first; beneath it the broad, upward-opening
-  bowl; headline last. Nothing stands vertical.
+  bowl, swinging up to meet the stem-line; then the full vertical stem on the right,
+  exactly like ज's; headline last.
 
 ### ज vs ञ — the discrimination check
 
 The two curliest letters of the day are genuine look-alikes, and dictation will test you.
-The chant: **ज stands, ञ lies low.** ज carries a full stem from headline to baseline — the
-letter you have written in जल a thousand times. ञ has no stem at all; its parts stack flat,
-arm over bowl, hugging the line. When in doubt mid-dictation, ask which of the two your
-hand just made — the stander is ज, the lier is ञ.
+Both carry a full stem from headline to baseline, so the stem cannot separate them — look at
+what joins it on the left. The chant: **ज flat bar, ञ round hump.** ज meets its stem with a
+short, level bar, and its curve hangs below that bar — the letter you have written in जल a
+thousand times. ञ has no straight bar: its bowl rolls up into a round hump at the top, and
+only a short curved tail reaches the stem. When in doubt mid-dictation, ask what your hand
+drew left of the stem — a flat bar is ज, a round hump is ञ.
 
 ## 16. Conversation
 
@@ -574,7 +581,7 @@ hear the columns hold.
 §14 in random order — or play the word-list audio 🔊
 (`planned:assets/audio/volume-1/v1c03l02-word-list.mp3`), pausing after each word's first
 reading. Write each word in Devanagari. Self-check against §14 with three questions per
-word: right letter in the right slot (च or छ? ज or झ?)? Stander or lier (ज/ञ)? Every mātrā
+word: right letter in the right slot (च or छ? ज or झ?)? Flat bar or round hump (ज/ञ)? Every mātrā
 in its place? 7/8 is a pass; re-take tomorrow either way (§20).
 
 **अभ्यासः 3 · श्रवणभेदः (which one is Sanskrit? listening).** A partner — ideally a Hindi
@@ -598,9 +605,9 @@ means:
 Bonus: what do the two verbs share at their tails? (Notice it, enjoy it, and file it for
 Volume 2.)
 
-**अभ्यासः 6 · वाक्य-रचना (sentence assembly, tiles).** Make word tiles: खग, कोकिलः, जल,
+**अभ्यासः 6 · वाक्य-रचना (sentence assembly, tiles).** Make word tiles: खगः, कोकिलः, जल,
 चलति, कूजति, plus spoken-only tiles for अत्र and अस्ति 🔊. Assemble and say aloud, in
-pause form, at least three true word-sequences — for example: खग चलति। कोकिलः कूजति। जल
+pause form, at least three true word-sequences — for example: खगः चलति। कोकिलः कूजति। जल
 अत्र अस्ति। Then swap subjects: can the bird coo? Can the cuckoo move? (Yes and yes — say
 them.) Write down the two sequences you like best, using ear-spelling only for the 🔊
 tiles if you attempt them, and read your favorites to someone.
@@ -638,8 +645,9 @@ tiles if you attempt them, and read your favorites to someone.
    (§5, §11).
 5. (b) palatal stops with complete contact — the affricate value is the pan-Indic
    pronunciation this course teaches as target (§4, §10).
-6. The writer drew the lier instead of the stander: ञ for ज. The chant — ज stands (full
-   right stem), ञ lies low (no stem) — flags it; the word is जल (§15).
+6. The writer drew ञ for ज: a round hump where ज's flat bar belongs. Both letters stand
+   on a full right stem, so the chant — ज flat bar, ञ round hump — checks what joins the
+   stem on the left and flags the swap; the intended word is जल, as in §15.
 7. (b) moves — the course's first readable verb: a word that reports an event rather than
    naming a thing (§8, §14).
 8. (a) जलज = "water-born; lotus"; (b) अचल = "unmoving; mountain"; (c) कूजति = "coos,
@@ -653,7 +661,7 @@ tiles if you attempt them, and read your favorites to someone.
 > **The row:** same five slots, one step forward — च छ ज झ ञ, /t͡ɕ t͡ɕʰ d͡ʑ d͡ʑʱ ɲ/: tongue
 > body on the palate, tip down, lips flat. **The release:** stops pop, this row hisses.
 > **The traps:** no English lip-rounding or puff on च; no [z] anywhere — जल is *jala*;
-> ज stands, ञ lies low. **The pair:** चल/छल — one burst of breath between "moving" and
+> ज flat bar, ञ round hump. **The pair:** चल/छल — one burst of breath between "moving" and
 > "deceit". **The prize:** चलति, the first verb you can read — and कोकिलः कूजति, a whole
 > true sentence, previewed. **The honesty note:** the tradition describes palatal stops;
 > pan-Indic mouths say affricates; you learned both, in their proper registers.
@@ -726,7 +734,7 @@ reading aloud each want different remediation (tissue drill, chant + tracing row
 
 **What students find hard:** believing that च differs from English *ch* until the mirror
 shows them the rounding; keeping छ and च apart under speed (normalize the 1-day retest —
-contrasts settle after sleep); the standalone ञ shape (the "lies low" chant sticks fastest
+contrasts settle after sleep); the standalone ञ shape (the "flat bar, round hump" chant sticks fastest
 when students say it while writing); and resisting the urge to ask about verb endings —
 promise them Volume 2 and enjoy that they asked.
 
@@ -752,9 +760,10 @@ promise them Volume 2 and enjoy that they asked.
 > Educational stroke-order chart, Noto Serif Devanagari outlines. Five rows, one per
 > letter (च छ ज झ ञ), each shown 4 times left to right, progressively drawn, numbered
 > arrows: body strokes first, vertical stem where the letter has one, headline last; ञ's
-> panels visibly lack any vertical stem. Then a discrimination panel: ज and ञ side by
-> side, enlarged, the stem of ज highlighted in the accent color and the flat bowl of ञ
-> highlighted likewise, captioned "ज stands — ञ lies low". Footer row: the syllables चा
+> panels show its full right stem, drawn after the hump-and-bowl body. Then a
+> discrimination panel: ज and ञ side by side, enlarged, the flat bar of ज highlighted in
+> the accent color and the round hump of ञ highlighted likewise, both stems in plain ink,
+> captioned "ज flat bar — ञ round hump". Footer row: the syllables चा
 > चि चु चे चो with mātrās in the accent color. Faint grid guides and headline.
 > Workbook-clean, two colors only.
 
@@ -763,9 +772,9 @@ promise them Volume 2 and enjoy that they asked.
 > A4 tracing worksheet, portrait, row guides with Devanagari headline. Rows 1–5: च छ ज झ
 > ञ — one solid model each, five dotted outlines, stroke-order arrows on the model
 > (matching Asset 2). Row 6: the ज/ञ contrast pair alternating, dotted, with the caption
-> "ज stands — ञ lies low". Row 7: जल, छल, चल, जलज dotted once, then empty guided boxes
+> "ज flat bar — ञ round hump". Row 7: जल, छल, चल, जलज dotted once, then empty guided boxes
 > for freehand. Row 8: चलति dotted once, with a small walking-bird icon at the row's end,
-> then empty boxes. Footer: the chants "ज stands, ञ lies low" and "no dot in Sanskrit —
+> then empty boxes. Footer: the chants "ज flat bar, ञ round hump" and "no dot in Sanskrit —
 > जल, never ज़ल". Generous spacing for child and adult hands alike.
 
 ## 24. AI Video Prompt
@@ -779,13 +788,13 @@ Lesson video, ~6 min, presenter + motion graphics.
 2. **The hiss (0:40–1:50):** waveform comparison का vs चा — the palatal release visibly
    longer, a friction tail. Split-screen sagittal animation: tongue body sealing on the
    palate, tip down; the seal peels open into a hiss. Presenter does the tissue test down
-   the row: barely, flies, calm, calm, calm.
+   the row: barely, flies, calm, warm, calm.
 3. **Five cards (1:50–3:10):** each card flies in with its slot badge. On ज's card a
    nuqta dot approaches from a Hindi word (ज़रूरत) and dissolves at the border, caption
    "no [z] in Sanskrit". On ञ's card, पञ्च appears with the ञ highlighted inside,
    caption "a conjunct-dweller — reading it: Chapter 5".
 4. **The verb moment (3:10–4:10):** blocks assemble च-ल-ति → चलति. A simple 2D bird
-   (खग) walks across the screen as the caption खग चलति appears, word by word. Caption:
+   (खगः) walks across the screen as the caption खगः चलति appears, word by word. Caption:
    "Two chapters of naming. Today: something happens." The -ति of चलति and कूजति glow
    together for one beat, footnote "Volume 2".
 5. **The cuckoo (4:10–5:15):** riverside dusk scene, Kamalā and mother, water in the
@@ -820,13 +829,13 @@ narrator reads them as IPA, not as English spelling.
 - **03:10** Now the moment. Three blocks: ca [t͡ɕɐ], la [lɐ], ti [t̪i] — calati
   [t͡ɕɐlɐt̪i]. "Moves." For two chapters your words have named things. This one *does*
   something.
-- **03:35** khaga calati [kʰɐgɐ t͡ɕɐlɐt̪i] — the bird moves. You just read an event.
+- **03:35** khagaḥ calati [kʰɐgɐh t͡ɕɐlɐt̪i] — the bird moves. You just read an event.
 - **04:10** And an old friend kept her appointment. The cuckoo of Chapter 2 — kokila
   [koːkilɐ] — finally gets her verb: kūjati [kuːd͡ʑɐt̪i], "sings, coos".
 - **04:30** kokilaḥ kūjati [koːkilɐh kuːd͡ʑɐt̪i]. The cuckoo sings. Every letter, every
-  sign — yours. A complete Sanskrit sentence, two lessons ahead of schedule.
+  sign — yours. A complete Sanskrit sentence, three lessons ahead of schedule.
 - **05:15** The row, one last time, tissue in hand: ca — cha — ja — jha — ña. Barely —
-  flies — calm — calm — calm.
+  flies — calm — warm — calm.
 - **05:40** Dictation tomorrow; the gap is the method. Next lesson the row slides again —
   and the tongue curls back. jala [d͡ʑɐlɐ]. Take the water with you.
 
@@ -839,7 +848,7 @@ narrator reads them as IPA, not as English spelling.
 - **Demo (0:07–0:30):** "Say 'water': jala [d͡ʑɐlɐ] — full contact, no buzz. The dotted
   ज़ is Hindi's guest from Persian; Sanskrit never met it." (On-screen: जल vs ज़ल, the
   second crossed out.) "Now the verb. च-ल-ति: calati [t͡ɕɐlɐt̪i] — moves." (On-screen:
-  a little bird walks as खग चलति assembles.)
+  a little bird walks as खगः चलति assembles.)
 - **Payoff (0:30–0:42):** "And the cuckoo you met last chapter? कोकिलः कूजति — the cuckoo
   sings. A complete Sanskrit sentence, every letter yours." (Cards: कोकिलः कूजति with all
   signs highlighting in sequence.)
@@ -862,8 +871,8 @@ narrator reads them as IPA, not as English spelling.
   readable; ततः as story connector) and v1.c02.l03 (the अ- of अमृत returns in अचल); feeds
   v1.c03.l03–l05 (the row transfers again; sentence milestone बालकः चलति in l05),
   v1.c03.l06 (grid mastery assessment), v1.c05 (conjuncts: ज्ञ, च्छ of गच्छति, पञ्च-type
-  ञ knots), Volume 2 (verb morphology behind चलति/कूजति; compound machinery behind जलज),
-  Volume 3 (sandhi behind the pause-form convention, §13).
+  ञ knots), Volume 2 (verb morphology behind चलति/कूजति),
+  Volume 3 (compound machinery behind जलज; sandhi behind the pause-form convention, §13).
 - **Glossary:** reuses तालव्य, कण्ठ्य, वर्ण, व्यञ्जन, मात्रा per GLOSSARY.md spellings;
   the Chapter 3 terms introduced in v1.c03.l01 (वर्ग, the manner-slot labels) are reused
   here and should enter GLOSSARY.md in the post-chapter loop under l01's "first taught".

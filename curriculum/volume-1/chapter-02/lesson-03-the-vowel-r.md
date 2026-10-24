@@ -75,7 +75,7 @@ objective 4 in §18 (exercise 1 checklist), §21 (task 4) and §19 (Q3).
 
 ## 3. Previous Lesson Review
 
-पिछले पाठों की पुनरावृत्तिः — answer from memory *before* looking anything up.
+पिछले पाठों की पुनरावृत्ति — answer from memory *before* looking anything up.
 
 1. कुल (kula) and कूल (kūla) — which one is "family" and which "riverbank", and what single
    feature separates them?
@@ -91,7 +91,7 @@ objective 4 in §18 (exercise 1 checklist), §21 (task 4) and §19 (Q3).
 2. ा and ी to the right; ि to the left (the famous left-hook); ु and ू below.
 3. कि — the i-mātrā stands to the left although the vowel is spoken after the consonant.
 4. iti — mita — mūla; every vowel full, no lengthening, no dropping.
-5. ईti (īti) "plague, calamity" — one held beat turns "thus" into "calamity".
+5. ईति (īti) "plague, calamity" — one held beat turns "thus" into "calamity".
 </details>
 
 ## 4. Historical Context
@@ -115,13 +115,13 @@ India gradually lost the syllabic r; readers kept the letter and substituted the
 sound their own language offered.
 
 > **[HISTORY · इतिहासः]** Describing Sanskrit for Western readers in 1889, Whitney defined
-> ऋ as r "used with vowel-value" — and recorded, already then, that reciters of his day
-> commonly read it as *ri*, with *ru* usual in Maharashtra. The classical value and its
-> regional replacements have coexisted for a long time. [REF:whitney1889 §24]
+> ऋ as a smooth, untrilled r-sound doing a vowel's work in the syllable — and recorded,
+> already then, that the Indian pronunciation of his day was *ri*. The classical value and
+> its regional replacements have coexisted for a long time. [REF:whitney1889 §24]
 
 Say this part plainly, because this course exists to say it: the reciters who read ऋषि
 (ṛṣi) as "rishi" are not careless. They belong to real, living Sanskrit lineages, and their
-habit is the regular sound-change of their first languages carried into recitation — the
+habit is the sound system of their first languages carried into recitation — the
 same kind of process as the Hindi schwa-drop you studied in Chapter 1. Many textbooks —
 including the first edition of this very course — went one step further and printed "ri"
 *as the value of* ऋ. That step is the error: it promotes a regional habit to the classical
@@ -132,8 +132,8 @@ noted with respect.
 
 वैज्ञानिक व्याख्या — what makes a vowel a vowel, and how an r can be one.
 
-A vowel is not defined by "open mouth" or by the letters a e i o u. Phonetically, what makes
-something a vowel is its *job*: it sits at the centre of a syllable — the nucleus — and
+A vowel is not defined by "open mouth" or by the letters a e i o u. In the sound system, what makes
+something count as a vowel is its *job*: it sits at the centre of a syllable — the nucleus — and
 carries the beat. Usually vowels do this job. But other sounds can be hired.
 
 > **[FACT · तथ्यम्]** Consonants can serve as syllable nuclei. Ordinary English does it
@@ -169,7 +169,7 @@ with the tongue body; Sanskrit ऋ is made at the tap position, tongue-tip up (�
 (amṛtam atra asti.) "The nectar is here." — अमृत यहाँ है।
 
 Notice इति (iti) — lesson 1's quoting word — earning its keep twice. Glue, glossed and
-audio-only for now: सत्यम् (satyam) "truth" — सत्य 🔊; अत्र (atra) "here" and अस्ति (asti)
+audio-only for now: स्वरः (svaraḥ) "vowel" — स्वर 🔊, your sound-map word from Chapter 1, lesson 2; सत्यम् (satyam) "truth" — सत्य 🔊; अत्र (atra) "here" and अस्ति (asti)
 "is" you know by ear from the Chapter 1 story; the -म् endings (ṛtam, amṛtam, satyam) need
 the virāma, which arrives in Chapter 5. Everything else on these three lines, you can read.
 
@@ -183,7 +183,7 @@ the virāma, which arrives in Chapter 5. Everything else on these three lines, y
 
 सीधी बात पहले। हिन्दी में हम ऋ को "रि" पढ़ते हैं — ऋषि यानी "रिषि", कृपा यानी "क्रिपा",
 अमृत यानी "अम्रित"। यह ग़लती नहीं है। जैसे हिन्दी ने शब्द के अन्त का अ धीरे-धीरे छोड़ दिया
-(पाठ 1.4 का अ-लोप याद कीजिए), वैसे ही उसने सदियों पहले स्वर ऋ खो दिया और उसकी जगह अपनी
+(पाठ 1.3 का अ-लोप याद कीजिए), वैसे ही हिन्दी की पूर्वज प्राकृत भाषाएँ स्वर ऋ बहुत पहले खो चुकी थीं, और हिन्दी ने उसकी जगह अपनी
 सबसे नज़दीकी ध्वनि "रि" रख ली। मराठी भाषियों ने "रु" रखी — इसीलिए महाराष्ट्र में "रुषि"
 सुनाई देता है। यह हिन्दी और मराठी की अपनी ध्वनि-व्यवस्था है; भाषाएँ ऐसा करती ही हैं।
 
@@ -199,8 +199,8 @@ the virāma, which arrives in Chapter 5. Everything else on these three lines, y
 छापे — कई पुरानी किताबें, इस पाठ्यक्रम का पहला संस्करण भी, यही छापती थीं — तो अब आप जानते
 हैं कि वह आधुनिक आदत को शास्त्रीय लक्ष्य बता रही है।
 
-अन्तिम बात, और सबसे ज़रूरी: जिनके घर या मन्दिर की परम्परा में "रि" या "रु" चलता है, उनका
-संस्कृत झूठा नहीं है। परम्परा सच्ची है; शास्त्रीय लक्ष्य-ध्वनि भी सच्ची है। हम दोनों को
+अन्तिम बात, और सबसे ज़रूरी: जिनके घर या मन्दिर की परम्परा में "रि" या "रु" चलता है, उनकी
+संस्कृत झूठी नहीं है। परम्परा सच्ची है; शास्त्रीय लक्ष्य-ध्वनि भी सच्ची है। हम दोनों को
 उनके सही नाम से पहचानते हैं — और अभ्यास शास्त्रीय ध्वनि का करते हैं।
 
 ## 8. English Explanation
@@ -232,15 +232,15 @@ happen, but the target is a smooth hum, not a performance (§12).
 Like every vowel, ṛ has two written forms. Word-initially it is the independent letter ऋ:
 ऋत (ṛta), ऋतु (ṛtu). After a consonant it becomes a mātrā — the smallest one you have met:
 
-> **[FACT · तथ्यम्]** The ṛ-mātrā ृ attaches at the foot of the consonant's vertical stem —
-> below and to the right: कृ (kṛ), मृ (mṛ), तृ (tṛ). Like every mātrā, it replaces the
+> **[FACT · तथ्यम्]** The ṛ-mātrā ृ attaches below the consonant, hanging from the foot of
+> its vertical stem — the same below row as ु ू: कृ (kṛ), मृ (mṛ), तृ (tṛ). Like every mātrā, it replaces the
 > inherent अ. [REF:masica1991 ch.6]
 
-Your mātrā map now covers four of the five positions: **right** (ा ी), **left** (ि),
-**below** (ु ू), **below-right at the stem's foot** (ृ) — and lesson 4 finally sends mātrās
-**above** the headline (े ै).
+Your mātrā map now covers three of the five positions: **right** (ा ी), **left** (ि) and
+**below** (ु ू — and now ृ, hung at the stem's foot). Lesson 4 finally sends mātrās
+**above** the headline (े ै), and lesson 5 builds the composite ो ौ.
 
-One more thing: you have been writing this mātrā's sound since day one without knowing it.
+One more thing: you have been saying this mātrā's sound since day one without knowing it.
 Look at the middle of संस्कृतम् (saṃskṛtam) — there it is, ृ, inside the name of the
 language itself: *saṃ-s-kṛ-ta*, "put together well, refined", built on the root *kṛ* "to
 make, do" — the same root as today's word कृत (kṛta) "done".
@@ -249,10 +249,10 @@ make, do" — the same root as today's word कृत (kṛta) "done".
 
 > **[FACT · तथ्यम्]** ऋ has a long partner ॠ /r̩ː/ — the same syllabic r held for two
 > beats — and a cousin ऌ /l̩/, a syllabic l. Both are real and rare: ॠ appears almost only
-> inside certain grammatical endings, ऌ only in forms of one verbal root (√कॢप् "to be
+> in a few plural case-forms of ṛ-stems, ऌ only in forms of one verbal root (√कॢप् "to be
 > fit"). [REF:whitney1889 §§23–26]
 
-They exist mainly for the system's symmetry: every simple vowel gets a length partner —
+They also complete the system's symmetry: every simple vowel gets a length partner —
 अ/आ, इ/ई, उ/ऊ, ऋ/ॠ — and the grammarians even paired ऌ with a theoretical ॡ that no real
 word uses. Their mātrās (ॄ, ॢ) exist too. Learn to *recognize* ॠ and ऌ on sight; the course
 asks nothing more of them — no vocabulary, no drills. When ॠ finally appears inside a word
@@ -292,7 +292,7 @@ simply swaps the inherent अ for ऋ:
 the ridge when the sound ends. If it has dropped, "kri" crept in.
 
 **Drill 3 — words.** From §14: ऋत — ऋतु — कृत — मृत — मातृ — अमृत, each twice, one beat per
-akṣara. Then the discrimination sets: the initial-consonant pair कृत/मृत; the syllable-count
+short akṣara and two for the long मा of मातृ. Then the discrimination sets: the initial-consonant pair कृत/मृत; the syllable-count
 pair ऋत/ऋतु; and the chapter's best triple, slow then at speed: मत — मित — मृत. Same
 skeleton, three different vowels doing the same job.
 
@@ -340,7 +340,7 @@ escaped and you said "ri".
 सामान्य-भ्रान्तयः — real errors, each with a fix. These feed the quiz distractors.
 
 1. **The full "ri" substitution (Hindi and other north-Indian-language speakers — and
-   anyone raised on charts that print "ri").** ऋषि becomes [ɾɪʂi], मृत becomes [mrɪt̪ɐ]. It
+   anyone raised on charts that print "ri").** ऋषि becomes [ɾɪʂi], मृत becomes [mɾɪt̪ɐ]. It
    is a regional habit, not a character flaw — but it erases the vowel this lesson exists
    to teach. *Fix:* re-anchor on the brrr-ladder (§9 drill 1) before every practice
    session; run the freeze test on every ृ syllable. One shiver resets the target.
@@ -377,12 +377,14 @@ eyes now: मृत → अमृत, dead → deathless, one letter of differen
 
 > **[FACT · तथ्यम्]** Sanskrit अमृत (amṛta) and Greek *ámbrotos* "immortal" — source of
 > *ambrosía*, the gods' food — are parallel descendants of the same Proto-Indo-European
-> root \*mer- "die", each with the inherited negative prefix. Cognates, not loans: English
-> *ambrosia* did not come from Sanskrit, nor amṛta from Greek; they are siblings from one
-> ancestral family. [REF:mallory2006], [REF:burrow2001]
+> root \*mer- "die", each with the inherited negative prefix. Cognates, not loans: *ámbrotos*
+> did not come from Sanskrit, nor amṛta from Greek; they are siblings from one
+> ancestral family. English *ambrosia* is a much later borrowing of Greek *ambrosía*, via
+> Latin. [REF:mallory2006], [REF:burrow2001]
 
 The mātā/mother receipt from Chapter 1 was no fluke. Here is a second one, richer: your
-new readable word and the English word *ambrosia* are the same ancient "deathless",
+new readable word and Greek *ámbrotos* — the word behind English *ambrosia* — are the same
+ancient "deathless",
 grown apart for millennia and still recognizable.
 
 ### मातृ — mother, in dictionary dress
@@ -409,7 +411,7 @@ it is enough to recognize the pair: मातृ in the dictionary, माता
 One frame, म_त, and three vowels taking turns at its centre: /ɐ/, /i/, /r̩/ — each carrying
 the syllable exactly the same way. That is the whole argument of this lesson in three words:
 ऋ is not an r *plus* some vowel; it stands where vowels stand. If you can say and hear these
-three apart, ऋ is yours. (They return in §18, exercise 5, and in the chapter review.)
+three apart, ऋ is yours. (They return in §18, exercise 5, and in lesson 4's opening review.)
 
 ## 14. Vocabulary
 
@@ -451,9 +453,9 @@ Same decision procedure as ा, ि, ी, ु, ू — only the address is new. 
 |---|---|---|
 | right | ा ी | का की |
 | left | ि | कि |
-| below | ु ू | कु कू |
-| below-right, at the stem's foot | ृ | कृ |
+| below | ु ू ृ — ृ hung at the stem's foot | कु कू कृ |
 | above | े ै — lesson 4 | — |
+| composite (right + above) | ो ौ — lesson 5 | — |
 
 ### Stroke order — ऋ and ृ
 
@@ -469,10 +471,11 @@ teacher's consistent habit is fine too. (Card:
   (3) Headline last, across the top. Check your result against the letter card: short neck,
   left arm, right curl-and-hook.
 - **ृ** — after the consonant is *complete*: one short motion at the foot of its vertical
-  stem — drop from the stem, swing right, and curl back under so the tip points up-left.
+  stem — drop from the stem, swing left, and curl back under so the tail ends pointing right — a
+  little c that opens to the right.
   A tight little curl, hanging from the stem like a tendril. "Letter, then curl."
-- **ृ vs ु — don't swap the basement tenants.** Both live below the letter, but ु is a
-  wider, open swing under the body, while ृ is a small closed curl at the stem's foot.
+- **ृ vs ु — don't swap the basement tenants.** Both hang below the letter from the stem's foot,
+  but ु is a wider, open swing, while ृ is a small, tight curl.
   Fast-reading check: open swing = u, tight curl = ṛ.
 
 ### The walkthrough — अमृत and friends
@@ -501,8 +504,8 @@ pack (§27). Two friends at a window; the first rain of the season is falling.
 — आम्, तव ऋतु।
 (ām, tava ṛtu.) "Yes — your season." — हाँ, तुम्हारा मौसम।
 
-Honesty box, as usual: real connected Sanskrit would inflect these words (you will meet
-ऋतुः when the visarga arrives in lesson 6 — soon!). For now we speak in bare citation forms
+Honesty box, as usual: real connected Sanskrit would inflect these words (the visarga ending that
+turns ऋतु into ऋतुः arrives in lesson 6 — soon!). For now we speak in bare citation forms
 plus gestures, because sounds and words are what we are training. Glue by ear: आम् (ām)
 "yes" — हाँ 🔊; तव (tava) "your" — तुम्हारा 🔊. Everything else, you can read — including
 both ऋ's. One beat each, lips still.
@@ -515,9 +518,9 @@ Why does Sanskrit's word for "season", ऋतु, begin with today's vowel? Beca
 window into a very large idea.
 
 > **[FACT · तथ्यम्]** ऋत (ṛta) and ऋतु (ṛtu) are kin: the dictionaries derive both from the
-> root √ऋ (ṛ) "to go, move, fit". An ṛtu is literally a "fitting-time" — the appointed slot
-> in the year's motion where each thing belongs. [REF:apte1890 s.v. ऋतु],
-> [REF:monierwilliams1899 s.v. ऋत]
+> root √ऋ (ṛ) "to go, move". An ṛtu is a fixed, fitting time — Monier-Williams: "right or
+> fit time" — the appointed slot in the year's motion. [REF:apte1890 s.v. ऋतु],
+> [REF:monierwilliams1899 s.v. ऋत], [REF:monierwilliams1899 s.v. ऋतु]
 
 > **[TRADITION · परम्परा]** In the Ṛgveda's worldview, ṛta is the deep order of things —
 > the pattern by which rivers keep to their beds, dawns return on time, ritual reaches its
@@ -552,7 +555,7 @@ the stroke arrows, then कृ मृ तृ five times each — consonant compl
 **अभ्यासः 3 · परिवर्तनम् (mātrā transformation, writing).** Write क म त ल in a column. Next
 to each, its ṛ-form: कृ मृ तृ लृ. Then the wardrobe drill on क alone — one consonant wearing
 every mātrā you own: क का कि की कु कू कृ. Read the whole wardrobe aloud, then do it from
-memory for म. This drill is the chapter in miniature: same consonant, seven addresses.
+memory for म. This drill is the chapter in miniature: same consonant, seven vowels.
 
 **अभ्यासः 4 · श्रुतलेखनम् (dictation).** A partner or teacher reads — self-learners, play
 the word-list audio 🔊 and pause after each item: the six words of §14 plus the syllables
@@ -581,7 +584,7 @@ did every ऋ pass the freeze test, and did मातृ end in a clean /r̩/ �
    target (b) a regional habit — real in its own tradition, but not the classical target
    this course trains (c) proof that ऋ is a consonant (d) a spelling mistake
 4. The mātrā ृ attaches: (a) to the left of the consonant (b) above the headline (c) at
-   the foot of the consonant's stem, below-right (d) it stands separately after the letter
+   the foot of the consonant's stem, below the letter (d) it stands separately after the letter
 5. अमृत (amṛta) is built from: (a) a- "not" + mṛta "dead" (b) am + ṛta "order" (c) a
    borrowing from Greek *ambrosía* (d) मातृ plus a prefix
 6. मातृ and माता are related how? (a) unrelated words (b) मातृ is the dictionary stem;
@@ -600,13 +603,13 @@ did every ऋ pass the freeze test, and did मातृ end in a clean /r̩/ �
 3. (b) a regional habit — real in its own tradition, not the classical target. Note that
    (d) is wrong too: nobody misspelled anything; the letter is right and the habit is a
    sound-substitution, not an orthographic error.
-4. (c) at the foot of the stem, below-right.
+4. (c) at the foot of the stem, below the letter — the same below row as ु ू.
 5. (a) a- "not" + mṛta "dead" = "the deathless". (c) fails twice: the words are cognates —
    siblings from PIE \*mer- — and neither language borrowed from the other.
 6. (b) मातृ is the stem the dictionary lists (and compounds use: मातृभाषा); माता is the
    inflected form — full treatment in Volume 3.
 7. (a) ऋतु = "season"; (b) कृत = "done, made"; (c) मृत = "dead".
-8. (b) rare, recognition-only — ॠ lives in scattered grammatical endings, ऌ in forms of
+8. (b) rare, recognition-only — ॠ lives in a few plural case-forms, ऌ in forms of
    √कॢप्; the system keeps them for completeness.
 </details>
 
@@ -620,7 +623,7 @@ did every ऋ pass the freeze test, and did मातृ end in a clean /r̩/ �
 > (ऋत, ऋतु); the mātrā ृ at the foot of the stem after a consonant — क + ऋ = कृ, "letter,
 > then curl". Rare partners ॠ /r̩ː/ and ऌ /l̩/: recognize, don't drill. **The proof:** मत ≠
 > मित ≠ मृत — three vowels, one job. **The prize:** अमृत = a- + mṛta "the deathless",
-> cognate of *ambrosia*; मातृ, the dictionary's माता. **Six words:** ऋत, ऋतु, कृत, मृत,
+> cognate of Greek *ámbrotos* (whence *ambrosia*); मातृ, the dictionary's माता. **Six words:** ऋत, ऋतु, कृत, मृत,
 > मातृ, अमृत.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
@@ -679,8 +682,8 @@ freeze test, mirror checks (10) → letter + mātrā: board map, कृ मृ �
 (8) → the अमृत build + मातृ + the triple (8) → exercises 3–4 briefing, homework, incl. the
 curl-hunt (5).
 
-**Board work:** keep the mātrā geography map up all lesson — ा ी right · ि left · ु ू below
-· ृ at the stem's foot — and add a dotted "े ै above: next lesson" teaser. For the payoff,
+**Board work:** keep the mātrā geography map up all lesson — ा ी right · ि left · ु ू ृ below
+(ृ hung at the stem's foot) — and add a dotted "े ै above: next lesson" teaser. For the payoff,
 build अमृत on the board block by block (अ… मृ… त) and let a *student* read it aloud first.
 Then tell them how long they have been waiting: since Chapter 1, lesson 3. Someone usually
 gasps; that gasp is the lesson landing.
@@ -764,8 +767,8 @@ Lesson video, ~6 min, presenter + motion graphics.
 4. **The letter and the curl (2:30–3:30):** ऋ draws itself stroke by stroke (Asset 2
    order). Then the mātrā machine from Chapter 1 returns: क + ऋ → the letter shrinks into
    the little curl, docks at the stem's foot: कृ. Fast repeat: मृ तृ. Mātrā map graphic
-   fills its fourth address: right, left, below, **stem's foot** — "above" left dotted for
-   next lesson.
+   lights the below zone's new tenant at the **stem's foot** (right, left, below now filled) —
+   "above" left dotted for next lesson.
 5. **The अमृत moment (3:30–4:40):** blocks अ, मृ, त assemble: अमृत /ɐmr̩t̪ɐ/. Caption: "an
    ear-word since Chapter 1 — readable today." Then the etymology card: मृत "dead" → अमृत
    "deathless"; family tree: amṛta — ámbrotos — ambrosía branching from a PIE root card
@@ -798,14 +801,14 @@ narrator reads them as IPA, not as English spelling.
 - **02:30** Now the writing. At the start of a word, the full letter: ऋ. After a consonant,
   it shrinks — into the smallest mātrā yet, a tight little curl at the foot of the stem.
   ka [kɐ]… plus the curl… kṛ [kr̩]. Letter, then curl.
-- **03:00** mṛ [mr̩]. tṛ [t̪r̩]. Your mātrā map now: right, left, below — and the stem's
-  foot. Above the line? Next lesson.
+- **03:00** mṛ [mr̩]. tṛ [t̪r̩]. Your mātrā map now: right, left, below — and the ṛ-curl
+  joins the below row. Above the line? Next lesson.
 - **03:30** And now the word you've been owed since Chapter 1. a [ɐ]… mṛ [mr̩]… ta [t̪ɐ].
   amṛta [ɐmr̩t̪ɐ]. The deathless. The nectar.
 - **04:00** Look inside it: mṛta [mr̩t̪ɐ] means dead. Put a- in front: a-mṛta — not-dead.
   Deathless. And the Greeks built the very same word from the very same ancient root:
   ámbrotos — ambrosía, the food of the gods. Nobody borrowed it. One family, two branches,
-  four thousand years — and you can now read one of them.
+  thousands of years — and you can now read one of them.
 - **04:40** Six words today. ṛta [r̩t̪ɐ] — the cosmic order. ṛtu [r̩t̪u] — the season: the
   time that fits. kṛta [kr̩t̪ɐ] — done. mṛta [mr̩t̪ɐ] — dead. mātṛ [mɑːt̪r̩] — mother, the
   dictionary's own form of mātā [mɑːt̪ɑː]. And amṛta [ɐmr̩t̪ɐ] — the deathless.
@@ -826,10 +829,10 @@ narrator reads them as IPA, not as English spelling.
   — no vowel in that last syllable, just a humming consonant. Sanskrit heard it… and gave
   it a letter." (On-screen: brrr waveform → ऋ; button → [n̩].)
 - **Payoff (0:28–0:42):** "And it unlocks a famous word: मृत, dead. Add a-: अमृत — the
-  NOT-dead. The nectar of immortality. Same ancient root as… *ambrosia*. Not a borrowing —
-  a four-thousand-year-old family resemblance." (Cards: मृत → अमृत → ambrosía.)
-- **CTA (0:42–0:50):** "Most charts will tell you it's 'ri'. That's a habit — the real
-  vowel is better. This is Sanskritam, Chapter 2. Follow for the vowel system done
+  NOT-dead. The nectar of immortality. Same ancient root as Greek… *ambrosía*. Not a borrowing —
+  a family resemblance thousands of years old." (Cards: मृत → अमृत → ambrosía.)
+- **CTA (0:42–0:50):** "Some charts will tell you it's 'ri'. That's a regional habit, real in its own
+  tradition — the classical target is the hum. This is Sanskritam, Chapter 2. Follow for the vowel system done
   honestly." (End card: ऋकारः.)
 
 ## 27. Metadata
@@ -848,9 +851,9 @@ narrator reads them as IPA, not as English spelling.
   माता cognate moment of v1.c01.l04 (stem मातृ; full declension Volume 3); the consonant र
   /ɾ/ arrives with the semivowels later in Volume 1 — its lesson must cross-reference the
   ऋ/र vowel-vs-consonant contrast (§10); ॠ recognition pays off at the genitive plurals in
-  Volume 3; ऋतुः and other visarga citation forms arrive in v1.c02.l06; the Māheśvara
-  sūtras (§4) get their full treatment in v4.c01; feeds v1.c02.l07 (chapter review: all
-  length pairs, the triple, the six words).
+  Volume 3; visarga citation forms (मतिः) arrive in v1.c02.l06; the Māheśvara
+  sūtras (§4) get their full treatment in v4.c01; feeds v1.c02.l04 §3 (the triple) and v1.c02.l07 (chapter review: all
+  length pairs, the six words).
 - **Corrections ledger:** this lesson is the curriculum's fix for documented error IR-009
   (1.x taught "ri" as the value of ऋ) — see `analysis/IMPROVEMENT_REPORT.md`; the error is
   referenced honestly in §4/§7/§22 as a habit-promoted-to-target, per the banned-claims

@@ -19,7 +19,7 @@ objectives:
   - en: "Name Sanskrit's language family and give two evidence-based dates: the Ṛgveda range (c. 1500–1200 BCE) and Pāṇini's century (c. 4th century BCE)."
     hi: "संस्कृत का भाषा-परिवार बताएँ और दो प्रमाण-आधारित तिथियाँ दें — ऋग्वेद का काल (लगभग 1500–1200 ईसा पूर्व) और पाणिनि की शताब्दी (लगभग चौथी शताब्दी ईसा पूर्व)।"
   - en: "Tell apart a loanword and a cognate, with one English example of each."
-    hi: "उधार लिए गए शब्द (loanword) और सजात शब्द (cognate) का अंतर बताएँ — दोनों का एक-एक अंग्रेज़ी उदाहरण देकर।"
+    hi: "उधार लिए गए शब्द और सजात शब्द का अंतर बताएँ — दोनों का एक-एक अंग्रेज़ी उदाहरण देकर।"
   - en: "Say नमस्ते and संस्कृतम् with careful pronunciation: steady long -e, full final vowel, syllabic ṛ."
     hi: "नमस्ते और संस्कृतम् को ध्यानपूर्वक बोलें — सीधा दीर्घ ए, पूरा अन्तिम स्वर, और ऋ की सही ध्वनि के साथ।"
   - en: "Explain the four registers — fact, history, tradition, symbol — with one example of each."
@@ -118,8 +118,8 @@ regular sound correspondences across their oldest core vocabulary — family wor
 
 > **[FACT · तथ्यम्]** Sanskrit is **not** "the mother of all languages." It is not even the mother of Greek
 > or Latin — all three descend, as siblings, from a reconstructed common ancestor, Proto-Indo-European.
-> Sanskrit *is* the direct ancestor of Hindi and its Indo-Aryan siblings — a claim both true and impressive
-> enough. [REF:burrow2001] [REF:mallory2006]
+> Sanskrit *is* the ancestor, through the Prakrits, of Hindi and its Indo-Aryan siblings — a claim both true and impressive
+> enough. [REF:burrow2001] [REF:mallory2006] [REF:masica1991]
 
 The method hands you a sharp everyday tool — two different ways words travel:
 
@@ -140,6 +140,8 @@ cannot read the script yet (that starts in lesson 3) — so today, just listen a
 > अहं संस्कृतं पठामि। (ahaṃ saṃskṛtaṃ paṭhāmi।) "I study Sanskrit." — मैं संस्कृत पढ़ता/पढ़ती हूँ।
 
 Two honest sentences: it is a language — not a spell, not a code — and you now study it.
+
+Preview note: these sentences, like the one in §15, are heard in their joined everyday form — before a consonant a final m is written ṃ: *aham* → *ahaṃ*, *saṃskṛtam* → *saṃskṛtaṃ*. That joining is sandhi, taught in Volume 3; on its own the word stays *saṃskṛtam* (§9–§10).
 
 ## 7. Hindi Explanation
 
@@ -186,7 +188,7 @@ always know *what kind of claim* you are reading. Watch all four work on one wor
 > verse properly in lesson 3, with the sound अ itself.
 
 Four registers, one word, no confusion. Facts are checkable; history carries citations and ranges; tradition
-speaks with attribution; symbolism is honored *as* symbolism. Quizzes test only the first kind (and tradition only when framed "according to...").
+speaks with attribution; symbolism is honored *as* symbolism. Quizzes test facts, history only as the cited, hedged dates taught in the lesson, and tradition only when framed "according to...".
 
 **Where you are on the map** (`planned:assets/images/volume-1/v1c01l01-course-map.svg`): lesson 2 gives you
 the sound system as a map; lessons 3–4 teach अ and आ plus six letters and one vowel sign; lesson 5
@@ -199,7 +201,7 @@ Listen first, then echo — three careful repetitions beat thirty sloppy ones.
 
 **नमस्ते (namaste) "greetings; bow to you" — नमस्ते**
 
-- Four beats: *na-ma-s-te*. Both *a* vowels short and full, never swallowed.
+- Three beats: *na-ma-ste* — the s carries no vowel of its own. Both *a* vowels short and full, never swallowed.
 - The final -े is a **long, steady e** — /eː/ — held pure start to finish. Not English "day" or "-tay", which glide. Mirror check: jaw still on the final vowel; if it moves, you glided.
 
 **संस्कृतम् (saṃskṛtam) "Sanskrit" — संस्कृत**
@@ -212,7 +214,7 @@ Listen first, then echo — three careful repetitions beat thirty sloppy ones.
 light voiceless breath /h/; पाठः (pāṭhaḥ) "lesson" — long ā /ɑː/, then retroflex aspirated ṭh /ʈʰ/
 (tongue-tip curled back), then the same light breath.
 
-Drill: play the model, echo each word 3×, record the last round. Keep the recording for lesson 5.
+Drill: play the model, echo each word 3×, record the last round. Keep the recording; after lesson 5, record again and compare.
 
 ## 10. IPA
 
@@ -232,7 +234,7 @@ Two flags already planted: /eː/ in namaste (long, pure, no glide) and the full 
 
 ## 11. Mouth Position
 
-Everything in Volume 1 happens in about ten centimeters of your own head: lips, teeth, the ridge behind them,
+Everything in Volume 1 happens in about fifteen centimeters of your own head: lips, teeth, the ridge behind them,
 the hard palate, the soft palate, the throat. Sanskrit's sound system is famously organized by *where in that
 space* each sound is made, back of the mouth to the lips — lesson 2 shows the full map, and from lesson 3
 every new sound comes with a side-view **vocal tract diagram**: where the tongue sits, what to feel, plus a
@@ -262,10 +264,10 @@ Real errors, each with a fix. These feed the quiz — study them.
 |---|---|---|
 | yoga | ← Sanskrit directly | योग (yoga) "yoking; discipline" — योग |
 | karma | ← Sanskrit directly | कर्म (karma) "action, deed" — कर्म |
-| guru | ← Sanskrit directly | गुरु (guru) "heavy; venerable; teacher" — गुरु |
+| guru | ← Hindi *guru* ← Sanskrit | गुरु (guru) "heavy; venerable; teacher" — गुरु |
 | avatar | ← Sanskrit directly | अवतार (avatāra) "descent" — अवतार |
 | jungle | ← Hindi *jaṅgal* ← Sanskrit | जङ्गल (jaṅgala) "arid, wild land" — जंगल |
-| sugar | ← Old French ← Arabic ← Persian ← Prakrit ← Sanskrit | शर्करा (śarkarā) "gravel; sugar" — शक्कर |
+| sugar | ← Old French ← Medieval Latin / Italian ← Arabic ← Persian ← Prakrit ← Sanskrit | शर्करा (śarkarā) "gravel; sugar" — शक्कर |
 
 **Cognates** — never borrowed; English and Sanskrit each *inherited* these from Proto-Indo-European, their
 shared ancestor [REF:mallory2006]:
@@ -326,9 +328,9 @@ Practice with the model audio: greet the recording, greet a mirror, greet anothe
 
 *The three-thousand-year relay*
 
-> **[HISTORY · इतिहासः]** The Ṛgveda's hymns were composed c. 1500–1200 BCE — and for roughly a thousand
+> **[HISTORY · इतिहासः]** The Ṛgveda's hymns were composed c. 1500–1200 BCE — and for well over a thousand
 > years afterward, no one wrote them down. They survived entirely in human memory, teacher to student, in
-> an unbroken chain of recitation. [REF:jamison2014 p.5]
+> an unbroken chain of recitation. [REF:jamison2014]
 
 Think about what that requires: no backups, no printing, at first no writing at all — just schools of
 reciters, each generation holding tens of thousands of lines exactly and handing them on. When modern scholars
@@ -346,7 +348,7 @@ lesson, with the sound system itself. You are joining a very old relay, and the 
 
 **अभ्यासः 1 · उच्चारणम् (speaking / recording)** — *productive.* Using the model audio, record yourself saying
 नमस्ते (namaste) 3× and संस्कृतम् (saṃskṛtam) 3×. Check each take: ☐ final -e steady, no glide ☐ full final
--am ☐ ṛ as a single r-beat, not "ri". Keep the file — lesson 5 compares.
+-am ☐ ṛ as a single r-beat, not "ri". Keep the file — after lesson 5, record both words again and compare the two takes.
 
 **अभ्यासः 2 · वर्गीकरणम् (register sorting · written)** — *productive.* Write F (fact), H (history),
 T (tradition), or S (symbol) next to each statement:
@@ -373,7 +375,7 @@ row in §14. Second pass: echo each word, watching the Notes cue.
 
 1. Sanskrit belongs to which language family and branch? (a) Indo-European, Indo-Aryan branch (b) Dravidian
    (c) it is the ancestor of all languages, so it has no family (d) Sino-Tibetan
-2. The scholarly consensus dating for the composition of the Ṛgveda is: (a) c. 5000 BCE (b) c. 1500–1200 BCE (c) the 4th century BCE (d) c. 1000 CE
+2. The scholarly consensus dating for the composition of the Ṛgveda is: (a) c. 3000 BCE (b) c. 1500–1200 BCE (c) the 4th century BCE (d) c. 1000 CE
 3. Pāṇini's Aṣṭādhyāyī was composed around: (a) the 15th century BCE (b) the 4th century BCE, on scholarly
    estimates (c) 5,000 years ago (d) the 2nd century CE
 4. Which English word is a **loanword** from Sanskrit? (a) mother (b) three (c) karma (d) name
@@ -410,7 +412,7 @@ Exercise 4 key: yoga-L · mother-C · avatar-L · three-C · guru-L · name-C.
 - नमस्ते /n̪ɐmɐst̪eː/ — steady long e. संस्कृतम् /sɐ̃skr̩t̪ɐm/ — full ending, syllabic ṛ.
 
 **Spaced review:** in 1 day — say both words aloud from memory and recite the two dates. In 1 week — redo
-अभ्यासः 2 cold; you should hit 8/8. Lesson 2 opens by asking for exactly these.
+अभ्यासः 2 cold; you should hit 8/8. Lesson 2 opens by asking for the two dates and a register example; the say-aloud and the one-week redo are yours to run.
 
 ## 21. Homework
 
@@ -457,13 +459,14 @@ Eighth Schedule · daily radio news · spoken-Sanskrit communities". Dates exact
 
 ## 24. AI Video Prompt
 
-Lesson video, 4–5 min, 16:9, calm pacing, palette as §23. Scenes: (1) 0:00–0:40 — English words "yoga · karma
-· guru · avatar" float in; each flips to its Devanagari original (योग कर्म गुरु अवतार) with IAST captions;
-overlay "You already speak some Sanskrit." (2) 0:40–1:40 — the timeline asset draws itself; narration §25; the
-recitation band pulses during the relay story. (3) 1:40–2:40 — family tree animation: PIE root; Sanskrit,
+Lesson video, about 2 min 10 s (timed to §25), 16:9, calm pacing, palette as §23. Scenes: (1) 0:00–0:24 — English
+words "yoga · karma · guru · avatar" float in; each flips to its Devanagari original (योग कर्म गुरु अवतार) with IAST
+captions; overlay "You already speak some Sanskrit." (2) 0:24–0:45 — family tree animation: PIE root; Sanskrit,
 Greek, Latin as sibling branches; Sanskrit's branch continuing to Hindi/Marathi/Bengali; a red "mother of all
-languages" arrow appears and is struck through. (4) 2:40–4:00 — pronunciation close-up: waveform of नमस्ते;
-final /eː/ as a flat steady band vs English "-tay" as a bending glide; echo prompts with 3 s learner pauses. (5) 4:00–end — course map zooms to lesson 4; end card "Lesson 2: the sound map. धन्यवादः।"
+languages" arrow appears and is struck through. (3) 0:45–1:40 — the timeline asset draws itself; the recitation
+band pulses during the memory line; at 1:28 the four register labels FACT · HISTORY · TRADITION · SYMBOL appear.
+(4) 1:40–1:58 — pronunciation close-up: waveform of नमस्ते; final /eː/ as a flat steady band vs English "-tay" as a
+bending glide; echo prompts with 3 s learner pauses. (5) 1:58–end — course map zooms to lesson 4; end card "Lesson 2: the sound map. धन्यवादः।"
 
 ## 25. Voice-over Script
 
@@ -476,7 +479,7 @@ Narration for the lesson video; Sanskrit terms carry IPA cues in [brackets].
 - 00:31 — English "mother" and Sanskrit mātṛ [mɑːt̪r̩] are cousins — both inherited from one ancient ancestor
   language. Borrowed words show contact. Inherited words show family.
 - 00:45 — So what is Sanskrit? Let the evidence answer. The oldest text, the Ṛgveda, was composed around
-  fifteen hundred to twelve hundred BCE — and carried by pure memory, voice to voice, for about a thousand years before writing.
+  fifteen hundred to twelve hundred BCE — and carried by pure memory, voice to voice, for well over a thousand years before anyone wrote it down.
 - 01:05 — Around the fourth century BCE, the grammarian Pāṇini described the whole language in about four
   thousand compact rules.
 - 01:18 — And today? Daily Sanskrit news on All India Radio. Conversation camps. A small, real, living community.
@@ -484,7 +487,7 @@ Narration for the lesson video; Sanskrit terms carry IPA cues in [brackets].
   History with dates. Tradition with its sources. Symbolism as symbolism.
 - 01:40 — One skill starts now. Listen: namaste [n̪ɐmɐst̪eː]. The ending is one long, steady e. Not "-tay".
   Try it — namaste [n̪ɐmɐst̪eː].
-- 01:52 — Again, slowly: na — ma — s — te [n̪ɐ mɐ s t̪eː].
+- 01:52 — Again, slowly: na — ma — ste [n̪ɐ mɐ st̪eː].
 - 01:58 — Three lessons from now, you will read real Sanskrit words on this screen.
 - 02:04 — Next time: the map of every sound in the language. धन्यवादः [d̪ʱɐn̪jɐʋɑːd̪ɐh] — thank you.
 
@@ -494,7 +497,7 @@ Narration for the lesson video; Sanskrit terms carry IPA cues in [brackets].
 
 - **Hook (0–5 s)** — On camera: "You spoke Sanskrit today. You just didn't notice." Overlay: yoga · karma · avatar.
 - **Demo (5–35 s)** — Rapid flips: each English word reveals its Devanagari original (योग, कर्म, अवतार). Beat.
-  "But 'mother'? *Never borrowed.* English mother and Sanskrit mātṛ [mɑːt̪r̩] are cousins — same ancestor language." Flash: "Oldest text: c. 1500–1200 BCE · Grammar codified: 4th century BCE."
+  "But 'mother'? *Never borrowed.* English mother and Sanskrit mātṛ [mɑːt̪r̩] are cousins — same ancestor language." Flash: "Oldest text: c. 1500–1200 BCE · Grammar codified: c. 4th century BCE."
 - **Payoff (35–50 s)** — "One free upgrade: it's not namas-TAY. It's namaste [n̪ɐmɐst̪eː] — one long, steady
   e. Say it with me." (waveform overlay: flat band, no glide)
 - **CTA (50–60 s)** — "Three lessons from now, you'll be *reading* this script. Link in bio." End card:
@@ -506,12 +509,11 @@ Narration for the lesson video; Sanskrit terms carry IPA cues in [brackets].
   `assets/images/volume-1/v1c01l01-timeline.svg` (§4, §22, §23, §24);
   `assets/audio/volume-1/v1c01l01-namaste-model.mp3` (§9, §16, §18, §21).
 - **Related lessons:** next — v1.c01.l02 (opens by retrieving this lesson's dates and family tree). Forward
-  pointers made here: BG 10.33 + inherent-vowel rule → v1.c01.l03; mātrā and माता readable → v1.c01.l04; self-recording compared → v1.c01.l05; Sanskrit self-introductions → v1.c02.
+  pointers made here: BG 10.33 + inherent-vowel rule → v1.c01.l03; mātrā and माता readable → v1.c01.l04; Sanskrit self-introductions → v1.c06.l02.
 - **Vocabulary:** 8 items, all 🔊 audio-only (no glyphs taught yet); matches `vocabulary_count: 8`;
   consistent with GLOSSARY.md course meta-vocabulary.
 - **Export notes:** no new_letters/new_matras — no glyph animations needed. Quiz = 8 items, key in
   `<details>` (includes exercise 2/4 keys). §4 present-day usage claim (census/AIR/Saṃskṛta Bhāratī;
-  research note 1.7) is prose with inline attribution because its sources have no REFERENCES.md keys — flag
-  for Pass C.
+  research note 1.7) is prose: the census figure cites [REF:census2011]; AIR and Saṃskṛta Bhāratī carry inline attribution only.
 - **Registers used:** FACT ×5 · HISTORY ×4 · TRADITION ×2 · SYMBOL ×1; SYMBOL content (BG 10.33) is not
   assessed in §18/§19.
