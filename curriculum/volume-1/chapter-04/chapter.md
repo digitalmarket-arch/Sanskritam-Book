@@ -19,13 +19,13 @@ Eight letters remain, and they are the best eight in the box. The four antaḥst
 the in-between sounds, each the consonant shadow of a vowel — and the four ūṣman — श ष स ह,
 the breath sounds. With them the varṇamālā **completes**: every sound promised by the map in
 lesson two of Chapter 1 is now owned. The vocabulary unlock is the volume's largest — राम,
-गुरु, देव, सीता, भाषा, ऋषि, हिमालय, गृह — plus three new readable verbs, making pause-form
+गुरु, देव, सीता, भाषा, ऋषि, हिमालय, गृह — plus four new readable verbs, making pause-form
 sentences genuinely expressive: रामः वदति। गुरुः हसति। वायुः वहति।
 
 ## Goals
 
-- The four approximants to production quality, incl. व /ʋ/ (neither v nor w) and the र/ऋ
-  sibling pairing
+- The four antaḥsthā (approximants and liquids) to production quality, incl. व /ʋ/ (neither
+  v nor w) and the र/ऋ sibling pairing
 - The three sibilants kept distinct — श /ɕ/ vs ष /ʂ/ by tongue-position transfer from Ch 3
 - ह as what it is: voiced glottal fricative in the traditional ūṣman class
 - The complete varṇamālā recited and written from memory in traditional order
@@ -47,7 +47,7 @@ By the end of this chapter the learner can:
 |---|---|---|---|---|
 | 1 | v1.c04.l01 | अन्तःस्थाः — The In-Between Sounds | sound | य र व (+ल full); राम गुरु देव; verbs भवति वदति |
 | 2 | v1.c04.l02 | ऊष्माणः I — The Three Sibilants | sound | श ष स; the ś/ṣ contrast; सीता भाषा ऋषि |
-| 3 | v1.c04.l03 | हकारः — H and the Complete Alphabet | sound | ह; हिमालय गृह; verb हसति; the completion moment |
+| 3 | v1.c04.l03 | हकारः — H and the Complete Alphabet | sound | ह; हिमालय गृह; verbs हसति वहति; the completion moment |
 | 4 | v1.c04.l04 | पुनरावृत्तिः — The Alphabet Exam | review | none (full varṇamālā assessment) |
 
 ## Assets manifest

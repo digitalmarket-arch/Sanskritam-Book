@@ -81,7 +81,8 @@ Objective 1 is built in §8/§15 and tested in §18 task B and §19 (Q8–10); o
 
 The Alphabet Exam's spacing schedule (v1.c04.l04 §20) comes due today [REF:cepeda2006]:
 a compressed re-run of its tasks C and E. Two items, two minutes; log the scores next to
-the old ones.
+the old ones. (Its third due item — re-sort v1.c04.l04's task D cards from memory before
+this lesson's §19 quiz — runs on its own; log it here too.)
 
 1. Alphabet spot-write, from memory: the च-वर्ग row with its five members in order, then
    the four अन्तःस्थाः.
@@ -132,9 +133,10 @@ helps, it does not hurt [REF:cepeda2006].
 ऐतिहासिकः सन्दर्भः — one paragraph, as in every review lesson.
 
 The signs you meet today are the script's housekeeping, and most have been hiding in
-plain sight: every Sanskrit sentence this course has printed since Chapter 1 ended in a
-daṇḍa — you have read hundreds of । without once being told its name. Today the course
-pays that small debt too.
+plain sight: nearly every Sanskrit statement this course has printed since Chapter 1
+ended in a daṇḍa (questions and exclamations take ? and !). You have read hundreds of ।,
+and its name has been in use since v1.c03.l05 — but it never had an entry of its own.
+Today the course pays that small debt too.
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
 > practice massed together. [REF:cepeda2006]
@@ -154,9 +156,10 @@ context, production cannot. Chapter 6 — the reading bootcamp — will ask your
 dissect clusters *at speed*, in words you have never seen; the only preparation that
 transfers is having run the machinery both ways until it is boring. Hence task E's
 design: given components, build the conjunct; given the conjunct, name the components.
-And one honest scale note from the chapter's research: a few dozen conjuncts cover the
-overwhelming majority of classical text — the long tail is met by the mechanism, not by
-memorization [REF:apte1890] [REF:masica1991 ch.6]. The exam tests the mechanism.
+And one honest note on scope: the clusters drilled this chapter are a sample, not a
+list to memorize — the rarer clusters you will meet later are read by the same
+mechanism (plus Law 6's handful of irregular ligatures), not by memorization
+[REF:masica1991 ch.6]. The exam tests the mechanism.
 
 ## 6. Sanskrit Explanation
 
@@ -170,7 +173,7 @@ memorization [REF:apte1890] [REF:masica1991 ch.6]. The exam tests the mechanism.
 
 Four chapters of inventory and one chapter of combination stand inside these two lines:
 the weld in स्ते and अस्मि, the virāma under अहम् and सत्यम्, the ligature in अत्र.
-Pause form as always — and the daṇḍa that closes each sentence finally gets its name
+Pause form as always — and the daṇḍa that closes each statement gets its full entry
 today (§8).
 
 ## 7. Hindi Explanation
@@ -185,16 +188,17 @@ today (§8).
    विराम का काम करता हुआ। चन्द्रबिन्दु भी घर का चिह्न है: हाँ, माँ, आँख — स्वर के ऊपर
    चाँद-बिन्दी, और स्वर नाक से गूँजता है। अंक ०–९ भी बहुतों ने देवनागरी अख़बारों और
    पंचांगों में देखे हैं। यह सब आज सीधे काम आएगा।
-2. **जो नया है — अवग्रह ऽ।** यह चिह्न हिन्दी नहीं लिखती, और देखने में अंग्रेज़ी के S
+2. **जो नया है — अवग्रह ऽ।** लुप्त अ दिखाने के लिए हिन्दी यह चिह्न नहीं लिखती — छन्द
+   की मात्रा-गणना वाला गुरु-चिह्न ऽ एक अलग प्रयोग है। देखने में यह अंग्रेज़ी के S
    जैसा लगता है। याद रखिए: यह *पढ़ा नहीं जाता* — यह केवल बताता है कि सन्धि में एक अ
    लुप्त हुआ है। सोऽहम् में ऽ की कोई ध्वनि नहीं।
 3. **अनुस्वार बनाम चन्द्रबिन्दु — आज की बारीकी।** हिन्दी में दोनों प्रायः घुल-मिल गए हैं
-   (गंगा/गँगा दोनों दिखते हैं)। संस्कृत का हिसाब साफ़ है: बिन्दु ं व्यञ्जन-जैसी नाक-ध्वनि
+   (माँ/मां, हँसना/हंसना — दोनों रूप छपे दिखते हैं)। संस्कृत का हिसाब साफ़ है: बिन्दु ं व्यञ्जन-जैसी नाक-ध्वनि
    है, चाँद-बिन्दी ँ स्वर का ही नाक से गूँजना। कान से फ़र्क़ सुनने का अभ्यास §9 में है।
 
 और एक बात — आज की परीक्षा का समापन-समारोह। संस्कृतम् शब्द आप पहले अध्याय से सुनते आए
 हैं; आज उसे अपने हाथ से लिखेंगे। उस पंक्ति के नीचे तारीख़ और हस्ताक्षर — यह पत्र अध्याय
-4 की वर्णमाला-शीट के बग़ल में सम्भालकर रखिए। Volume 1 की अन्तिम परीक्षा में दोनों साथ
+4 की वर्णमाला-शीट के बग़ल में सम्भालकर रखिए। खण्ड 1 की अन्तिम परीक्षा में दोनों साथ
 काम आएँगे।
 
 ## 8. English Explanation
@@ -216,14 +220,15 @@ First the last signs — then the assessment architecture.
 
 - **Candrabindu ँ.** The moon-with-dot writes a **nasalized vowel** — the vowel itself
   rerouted through the nose, no consonant involved. Hindi speakers own this sound from
-  हाँ, माँ, आँख. Contrast the anusvāra: ं is a nasal *consonant* sound riding after the
-  vowel (before a stop it is read as that stop's own class nasal — v1.c02.l06); ँ is
-  the vowel itself going nasal. In classical Sanskrit prose ँ is uncommon — mostly at
+  हाँ, माँ, आँख. Contrast the anusvāra: ं adds a nasal element *after* the vowel (before
+  a stop it is read as that stop's own class nasal; elsewhere a nasal hum —
+  v1.c02.l06 §5); ँ is the vowel itself going nasal throughout. In classical Sanskrit prose ँ is uncommon — mostly at
   home in Vedic recitation and careful phonetic writing — so learn to recognize it, not
   to hunt it. [REF:whitney1889 §16] [REF:masica1991 ch.6]
 - **Daṇḍa । and double daṇḍa ॥.** The script's own punctuation: । closes a sentence
-  (or a verse's half), ॥ closes a verse or section. This course has ended every Sanskrit
-  sentence with । since Chapter 1 — today it is officially named. In verse numbering the
+  (or a verse's half), ॥ closes a verse or section. This course has closed nearly every
+  Sanskrit statement with । since Chapter 1, and has used its name since v1.c03.l05 —
+  today it gets its full entry. In verse numbering the
   double daṇḍa brackets the number: ॥१॥. [REF:masica1991 ch.6]
 - **The digits ०–९.** Devanagari has its own decimal digits, used in dates, page
   numbers, verse numbers and everyday life:
@@ -237,7 +242,7 @@ First the last signs — then the assessment architecture.
   subject; today you read and write the figures. Per course convention (STYLE_GUIDE §3),
   prose keeps Latin digits; ०–९ appear as content and in drills.
 
-> **[HISTORY · इतिहासः]** The international digits 0–9 descend from Indian numeral
+> **[HISTORY · इतिहासः]** The international digits 0–9 derive from Indian numeral
 > forms, transmitted westward through Arabic mathematical scholarship — which is why
 > Europe long called them "Arabic numerals" while Arabic tradition called the system
 > Indian (*ḥisāb al-hind*). [REF:ifrah2000]
@@ -253,7 +258,7 @@ you cannot name.**
 | A | Hearing clusters | 10 audio items: cluster-vs-inserted-vowel, gemination, repha timing, the कर्म/क्रम pair | 8/10 |
 | B | Writing | 10-word dictation across all four lessons + one signs row | 8/10 fully correct |
 | C | Reading aloud | the reading ladder: 12 words + the milestone line + the l04 timed set | 10/12 clean + line + under 60 s |
-| D | Register thinking | 9 fresh claim cards, four boxes + reject | 7/9 with reasoning |
+| D | Register thinking | 9 claim cards (cards 1 and 4 were modeled in §13), four boxes + reject | 7/9 with reasoning |
 | E | THE CONJUNCT EXAM | 12 two-way items (6 build, 6 dissect) + the संस्कृतम् ceremony | 10/12 + ceremony complete |
 
 The §19 quiz (10 questions) complements the tasks: §18 proves you can *do*; §19 proves
@@ -327,11 +332,11 @@ land here.
 |---|---|---|---|
 | 1 | Vowel inserted into a weld — "asati" for अस्ति | A, C | l02 §9 seam drill; §11 jaw check |
 | 2 | Gemination collapsed — बुद्ध read with one द | A, C | l03 §9; §11 hold check |
-| 3 | Repha timed late — धर्म read "dha-rma" or "dhrama" | A, C | l04 §9; §11 timing check |
+| 3 | Repha timed late — धर्म read "dha-rma" or "dhamra" | A, C | l04 §9; §11 timing check |
 | 4 | कर्म/क्रम swapped — the two faces confused | A, C, E | l04 §9 minimal-pair drill |
 | 5 | Irregular ligature dissected wrong — क्ष opened as क+स | E | l03 §8 component cards |
 | 6 | ऽ pronounced, or copied as Roman S | B, C | §8; §11 silence check |
-| 7 | ँ and ं merged — the Hindi habit imported | B | §8; §9 nose check |
+| 7 | ँ and ं merged — the Hindi habit imported | B | §8; §11 nose check |
 | 8 | Digit swaps — ९ for ७, ८ misread | B | §8 digits table; worksheet digit row |
 
 ## 13. Examples
@@ -341,9 +346,9 @@ land here.
 **Model dictation item (task B).** Audio says *śānti*. You hear: the palatal hiss श,
 long आ, then -nti with **no vowel between न and त** — a weld. Build block by block:
 श + ा = शा; then न् + त = न्त (न loses its stem, joins त); then the hook ि stands
-before the *whole block*: न्ति. Result: **शान्ति** — three blocks, शा-न्ति. Common
+before the *whole block*: न्ति. Result: **शान्ति** — two blocks, शा-न्ति. Common
 wrong answers: शानति (a vowel leaked into the seam — §12 row 1), शन्ति (the long आ
-clipped — Chapter 2's discipline never retires). One honest aside: Hindi print often
+clipped — Chapter 1's length discipline (v1.c01.l04) never retires). One honest aside: Hindi print often
 writes शांति with the anusvāra as a convenience spelling — read identically; this
 course writes the classical weld.
 
@@ -433,8 +438,9 @@ block by block, then whole word, every vowel at full value, pause form.
 | रूप | rūpa | /ɾuːpɐ/ | form | रूप | l04 · the रू irregular |
 
 (पश्य, retired in l03's dialogue, is listed with the l03 rows for completeness — l03
-§14 taught sixteen headwords; पश्य entered as the retiring glue word in its §8, making
-the chapter's honest total 57.) Ten verbs and verb-forms now readable across the
+§14 taught sixteen headwords; पश्य entered as the retiring glue word in its §8 — an
+upgrade like आम्, listed but not counted, leaving the chapter's honest total 57.) Twelve
+verb-forms (from ten verbs) now readable across the
 course; the exam sentences and Chapter 6's bootcamp run on them.
 
 ## 15. Grammar
@@ -470,7 +476,7 @@ The promise tracker, final Chapter 5 form:
 
 ## 16. Conversation
 
-सम्भाषणम् — the shortest scene in the course, and the first with **nothing borrowed**:
+सम्भाषणम् — four lines with **nothing borrowed**, like every dialogue this chapter:
 no 🔊 anywhere, every word readable, writable, yours. 🔊 model in the reading-ladder
 audio (§27).
 
@@ -508,7 +514,7 @@ attempt):
 2. अहम् वदामि — अहम् अत्र अस्मि!
    (aham vadāmi — aham atra asmi!) "I say: I am here!" — मैं कहता हूँ — मैं यहाँ हूँ!
 3. चन्द्रः तत्र अस्ति। मित्रम् अत्र अस्ति।
-   (candraḥ tatra asti. mitram atra asti.) "The moon is there. My friend is here." —
+   (candraḥ tatra asti. mitram atra asti.) "The moon is there. The friend is here." —
    चाँद वहाँ है। मित्र यहाँ है।
 
 (Recombining owned pieces into new sentences is retrieval practice at its strongest
@@ -594,13 +600,13 @@ the tasks.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. The virāma ् cancels the inherent vowel (क + ् = क्); हलन्त = "ending in हल्", the
-   Pāṇinian cover-term for 'any consonant' — a consonant-final word or letter. → l01
-   §5, §4.
+1. The virāma ् cancels the inherent vowel (क + ् = क्); हलन्त = "ending in a
+   consonant" — the name for a consonant-final word or letter, commonly used for the
+   sign itself too. → l01 §5, §4.
 2. The non-final member appears reduced (usually losing its vertical stem); the final
    member keeps full form and carries the vowel. → l02 §5.
 3. Horizontal stem-loss (स्त, न्त), vertical stacking (ट्ट, ङ्क), irregular fused
-   ligatures learned as units (क्ष, त्र, ज्ञ…). → l02 §5, l03 §5.
+   ligatures learned as units (क्ष, त्र, ज्ञ…). → l02 §15, l03 §5.
 4. क्ष = क् + ष; त्र = त् + र; ज्ञ = ज् + ञ. The varṇamālā's 33 consonants do not
    include क्ष — it is two of them in one costume. → l03 §5, §8.
 5. The virāma: every conjunct is encoded C₁ + ् + C₂ — the vowel-killer sits invisibly
@@ -611,8 +617,9 @@ the tasks.
    rather than the ordinary under-hooks. → l04 §8.
 8. It marks an अ elided in joined (sandhi) writing — सोऽहम् = सः + अहम्. It has no
    sound: you read straight through it. → §8.
-9. ं is a nasal consonant-sound riding the akṣara (read as the class nasal before a
-   stop); ँ is the vowel itself nasalized, mouth open throughout. → §8, §9.
+9. ं adds a nasal element after the vowel (read as the class nasal before a stop;
+   elsewhere a nasal hum — v1.c02.l06 §5); ँ nasalizes the vowel itself throughout,
+   mouth open. → §8, §9.
 10. । closes a sentence or half-verse; ॥ closes a verse or section. २ · ५ · ९. → §8.
 
 **Task keys.** A: 1 अस्ति (no seam vowel) 2 शान्ति 3 मुक्त 4 बुद्ध (double द held) 5
@@ -622,14 +629,15 @@ regional speech, not an error — the point is knowing which is which 9 स्�
 मन्त्र. B (dictation set): नमस्ते, अहम्, शान्ति, भक्त, ज्ञान, मित्र, धर्म, चन्द्र,
 स्वागतम्, मन्त्र — then । ॥ ऽ ँ and ३ ५ ७ ९. C: as printed in §18; the timed set is
 l04 §14's seventeen words. D: 1 **reject** — क् + ष in one costume; the 33-consonant
-count stands (l03 §8) · 2 FACT — the encoding is C + ् + C (l03 §5) · 3 FACT — the
+count stands (l03 §4, §8) · 2 FACT — the encoding is C + ् + C (l03 §5) · 3 FACT — the
 elision receipt (§8) · 4 **reject** — "must" kills it; classical [d͡ʑɲ] target beside
-respected regional variants, the ऋ precedent (l03 §9) · 5 FACT — repha writes late,
+respected regional variants, the ऋ precedent (l03 §5) · 5 FACT — repha writes late,
 sounds early (l04 §5) · 6 FACT — genuine loans, and the direction is correct
-[REF:apte1890] · 7 **reject** — ०–९ are the script's own working digits, ancestral to
-the international forms, not decoration [REF:ifrah2000] · 8 FACT (§8) · 9 **reject** —
+[REF:oed s.vv. dharma, karma, mantra] · 7 **reject** — ०–९ are the script's own working
+digits, cousins of the international forms (both grew from earlier Indian numeral
+forms), not decoration [REF:ifrah2000] · 8 FACT (§8) · 9 **reject** —
 the sound is identical; the weld is an orthographic convention, not a phonetic one
-(l01 §15: "you would be understood — but no printed page does it") — the nuance card.
+(l01 §15: "you would be understood, but no printed page does it that way") — the nuance card.
 Scoring: 7+/9 with sane reasoning. E: 1 स्थ 2 न्द 3 क्त 4 त्र 5 द्ध 6 धर्म · 7 क् + ष
 8 ज् + ञ 9 श् + र 10 स् + व 11 प् + र 12 न् + त् + र — then the ceremony line:
 संस्कृतम्, dated and signed.
@@ -706,7 +714,7 @@ discussion after the [REF:ifrah2000] reveal.
 **Heritage learners:** Hindi literacy hands them the daṇḍa, the digits and the
 candrabindu — deputize them there. Their genuine tests: the classical ज्ञ target, the
 गंगा-style anusvāra habit versus the classical weld (§13's honest aside), the ऽ (Hindi
-never writes it), and pause-form discipline through the milestone line. The two-way
+never uses it to mark elision; some know it only as the guru mark of scansion), and pause-form discipline through the milestone line. The two-way
 exam is usually *harder* for fluent Hindi readers than they expect — reading conjuncts
 whole is automatic for them; *dissecting* them is not. Say that in advance; it
 reframes a humbling task as the designed challenge.
@@ -724,9 +732,9 @@ never buys back a dropped अ"); and believing ऽ is truly silent.
 > monochrome-safe. Four panels in a row: (1) ऽ large, captioned "avagraha — marks a
 > dropped अ · SILENT", with सोऽहम् beneath, the ऽ haloed, and a small "not a Roman S!"
 > chip; (2) ँ large, captioned "candrabindu — the vowel goes nasal", with Hindi हाँ as
-> the anchor word and a tiny contrast chip ं vs ँ — "consonant nasal vs nasal vowel";
+> the anchor word and a tiny contrast chip ं vs ँ — "nasal after the vowel vs nasal vowel";
 > (3) । and ॥ captioned "sentence · verse", with ॥१॥ shown as verse numbering; (4) the
-> digits row ०–९ over 0–9, the pairs ९/7-trap and ८ flagged with a small warning dot.
+> digits row ०–९ over 0–9, the ९/७ trap pair and ८ flagged with a small warning dot.
 
 **Asset 2 — `planned:assets/images/volume-1/v1c05l05-digits-card.svg`**
 
@@ -781,14 +789,14 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 00:00 — "You can read the letters. You can read the joins. But this page still holds
   a few small marks with no names — a bar, a moon, something that looks like an S.
   Today the script hands over its last secrets."
-- 00:45 — "That bar: the daṇḍa [d̪ɐɳɖɐ]. You have read hundreds — every sentence this
-  course ever printed ended in one. One bar closes a sentence; two close a verse. And
+- 00:45 — "That bar: the daṇḍa [d̪ɐɳɖɐ]. You have read hundreds — nearly every statement this
+  course has printed ended in one. One bar closes a sentence; two close a verse. And
   the S-shaped mark: avagraha [ɐʋɐgɾɐɦɐ] — it marks a vowel that joined-up writing
   swallowed. Its sound? Nothing. You read straight through it."
 - 02:00 — "The moon with a dot — candrabindu [t͡ɕɐn̪d̪ɾɐbin̪d̪u]. Say the Hindi word
   हाँ [ɦɑ̃ː]. Feel the vowel go through your nose? That is the moon's whole job. And
   the digits: शून्य to nine — [ɕuːn̪jɐ] — zero itself is India's gift; the world's 0
-  to 9 grew from these shapes."
+  to 9 grew from the same Indian ancestors as these shapes."
 - 04:30 — "Now the exam, both directions. Build: s plus tha — स्थ [st̪ʰɐ]. Dissect:
   क्ष [kʂɐ] — two letters in one costume: k, ṣa. The triple: n, t, ra — न्त्र
   [n̪t̪ɾɐ], as in mantra [mɐn̪t̪ɾɐ]."
@@ -830,14 +838,14 @@ Follow for the finish." (End card: शेषचिह्नानि — nothing
 - **Rubric home:** §22 is the machine-readable rubric source; export flag
   `assessment: true`.
 - **Integrator notes:** §14's cumulative arithmetic is canonical: 157 (through ch4,
-  per v1.c04.l04 §14) + 57 (this chapter: l01 10, l02 14, l03 16 + पश्य, l04 17) =
-  **214**; the consolidated list is assembled in v1.c06 — until then the app's
+  per v1.c04.l04 §14) + 57 (this chapter: l01 10, l02 14, l03 16, l04 17; आम् and पश्य are
+  retired-glue-word upgrades, listed but not counted) = **214**; the consolidated list is assembled in v1.c06 — until then the app's
   spaced-repetition deck keys off the per-chapter §14 tables. The §19 task keys are
   the single source for the quiz/audio key files. Glue-word 🔊 inventory: **empty** —
   आम् (l01), अस्ति (l02), अत्र and पश्य (l03) all retired; the course's borrowed-word
   era ends with this chapter.
-- **Register audit:** FACT ×4 (§4 spacing, §5 testing effect, §8 signs block via
-  research notes 0.5, §15 six laws) · HISTORY ×1 (§8 digits ancestry
+- **Register audit:** FACT ×3 (§4 spacing, §5 testing effect, §15 six laws; the §8
+  signs bullets, per research notes 0.5, are plain prose, not a callout) · HISTORY ×1 (§8 digits ancestry
   [REF:ifrah2000]) · TRADITION ×1 (§8 सोऽहम् formula — attributed, deferred to V5) ·
   SYMBOL ×0. Task D handles registers as content; §19 and the task keys assess FACT
   only, with the two reject-nuance cards (4, 9) keyed to *wording*, not to disrespect

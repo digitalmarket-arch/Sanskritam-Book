@@ -69,8 +69,8 @@ learn, and the inherent vowel dies on command. The first word you write with it 
 | 4 | Explain why the script needs the virāma at all — the inherent-vowel bargain completed. | समझाएँ कि लिपि को विराम की ज़रूरत क्यों है। |
 
 Objective 1 is built in §5/§15, tested in §18 (exercises 1, 6) and §19 (Q1–2, Q6);
-objective 2 in §8/§15 and §18 (exercises 1, 2, 5), §19 (Q4, Q7); objective 3 in §9
-(drill 4) and §18 (exercises 2–4), §19 (Q5, Q8); objective 4 in §5/§7 and §19 (Q3).
+objective 2 in §8/§15 and §18 (exercises 1, 2, 3), §19 (Q4, Q7); objective 3 in §9
+(drill 4) and §18 (exercises 4, 5), §19 (Q5, Q8); objective 4 in §5/§7 and §19 (Q3).
 
 ## 3. Previous Lesson Review
 
@@ -78,9 +78,9 @@ objective 2 in §8/§15 and §18 (exercises 1, 2, 5), §19 (Q4, Q7); objective 3
 
 1. From v1.c01.l03, the oldest law you own: what does a bare, unmarked क read as — and why?
 2. That same lesson made a promise: "What if you need a bare consonant with no vowel? There
-   is a silencing stroke — full mechanics in Chapter 5." You could not write *k* alone;
+   is a silencing stroke (…) — full mechanics in Chapter 5." You could not write *k* alone;
    today you will. From memory: what was the stroke's name in that preview?
-3. Alphabet Exam spot-check (last week's task E, one week on): write from memory, in order,
+3. Alphabet Exam spot-check (yesterday's task E, one day on; the full one-week re-run comes in lesson 5's Station 0): write from memory, in order,
    the four अन्तःस्थाः and the four ऊष्माणः.
 4. **Dictation row** (self-read aloud, then write cold): हिमालय · भाषा · गृह · हसति —
    every ह present, every sibilant at its station, every mātrā in place.
@@ -112,7 +112,7 @@ translation of the first name.
 > (virāma) "stop, cessation, pause" — the sign stops the vowel. A word or letter it
 > produces — one ending in a bare consonant — is called हलन्त (halanta) "ending in a
 > consonant", and that name is commonly used for the sign itself as well.
-> [REF:whitney1889 §9]
+> [REF:whitney1889 §11] [REF:apte1890 s.v. हल्]
 
 > **[TRADITION · परम्परा]** The second name is a technical term of the Pāṇinian
 > grammatical tradition: there हल् (hal) is the compressed cover-label meaning "any
@@ -143,7 +143,7 @@ the word *aham* is unwritable forever.
 > क + ् = क् /k/ — the bare consonant, no vowel after it. On the page it is a short
 > stroke slanting down to the right, attached at the foot of the letter it silences.
 > Word-final bare consonants are written with it: अहम् (aham), तत् (tat), जगत् (jagat).
-> [REF:masica1991 ch.6] [REF:whitney1889 §9]
+> [REF:masica1991 ch.6] [REF:whitney1889 §11]
 
 > **[FACT · तथ्यम्]** This completes the abugida's characteristic design: write the
 > common case for free (consonant + अ), and mark only the departures — a different vowel
@@ -198,9 +198,9 @@ sandhi, Volume 3's story: noted today, taught there. In this course's pause-form
 देखिए — लिपि आपसे वादा कर रही है कि यह शब्द "अहम" नहीं, "अहम्" है।
 
 अब पहले अध्याय की वह बात याद कीजिए, जो उस दिन अधूरी छूटी थी। वहाँ आपने सीखा था: संस्कृत
-का धर्म पूरा "धर-म" है — अन्त की अ कभी नहीं गिरती। तब यह केवल अनुशासन लगा था; आज उसका
-कारण सामने है। संस्कृत अन्त की अ इसलिए नहीं गिराती, क्योंकि उसके पास "यहाँ स्वर नहीं"
-कहने का अपना औज़ार है। जहाँ अ लिखी है, वहाँ अ है ही — गिराने का सवाल नहीं; और जहाँ अ नहीं
+का धर्म पूरा "धर्-म" है — अन्त की अ कभी नहीं गिरती। तब यह केवल अनुशासन लगा था; आज उसका
+दूसरा पहलू सामने है। संस्कृत अन्त की अ बोलती ही है — इसलिए जहाँ स्वर सचमुच नहीं होता,
+वहाँ लिपि के पास "यहाँ स्वर नहीं" कहने का अपना औज़ार है। जहाँ अ लिखी है, वहाँ अ है ही — गिराने का सवाल नहीं; और जहाँ अ नहीं
 चाहिए, वहाँ विराम खड़ा है। लिखावट और बोली के बीच संस्कृत में कोई गुप्त समझौता नहीं — सब
 कुछ काग़ज़ पर है।
 
@@ -242,20 +242,20 @@ one, and in every word of this lesson the last one.
 - **जगत् (jagat) "world"** — your first final त् in a noun you will meet everywhere.
 - **वाक् (vāk) "speech"** — a final क्, and a fitting word for the day you learn to say I.
 - **भवान् (bhavān) "you (respectful)"** — a final न्. Learn it as a polite chunk said to
-  a man; its full family (including the forms for and by women) is Volume 2 grammar.
+  a man; its full family (including the form for addressing a woman) is Volume 2 grammar.
 
 ### The verbs — and the first sentences
 
 Three verbs join the roster, whole-word gloss as always: **वदामि (vadāmi) "I speak"**,
 **नमामि (namāmi) "I bow"**, **वसामि (vasāmi) "I dwell"**. Notice all three end the same
-way — that shape is no accident, and taking verbs apart is Volume 2's opening act; until
+way — that shape is no accident, and taking verbs apart is the job of Volume 2's verb chapter (v2.c04); until
 then, whole words, honestly labeled. One honest note now: a Sanskrit verb carries its
 person inside it — वदामि alone is already a complete sentence, "I speak". अहम् makes the
 "I" explicit and emphatic. Today we say both words anyway; ceremony demands it:
 
-**अहम् वदामि। अहम् नमामि।** — the first sentences of this course in which the subject is
-*you*. Every sentence until today was about रामः, गुरुः, बालकः — third persons, other
-people. This is the milestone the chapter overview promised: the first-person unlock.
+**अहम् वदामि। अहम् नमामि।** — the first sentences of this course in which you write yourself
+as अहम्, whole. Until today the first person came only sideways — मम "my", the ending
+of पठामि — or by ear: अहम् itself stayed 🔊. This is the milestone the chapter overview promised: the first-person unlock.
 And a small bonus, promised word for word in v1.c04.l03 §16: आम् (ām) "yes" — the very
 first word a गुरुः ever said to you in this course, back in v1.c01.l03's two-line
 dialogue — needed only its final म् to become readable. The 🔊 marker comes off: आम् is
@@ -302,7 +302,7 @@ No new sound values today — a new *absence*. The whole lesson in one bracket p
 वसामि /ʋɐsɑːmi/.
 
 **Narrow notes:** a final [m] means the lips close and stay closed — no vowel rides the
-release. Final [t̪] and [k] close cleanly and let go without any [ɐ]-colored puff after
+release. Final [t̪] and [k] close cleanly and stay closed — no [ɐ]-colored puff after
 them. भवान् ends in the dental nasal [n̪] — tongue on the teeth, air through the nose,
 then silence. And the milestone sentence in pause form: अहम् वदामि /ɐɦɐm ʋɐd̪ɑːmi/ — a
 closed [m], a hair of silence, then the verb.
@@ -385,8 +385,8 @@ the words themselves.
 
 ## 14. Vocabulary
 
-शब्दावली — ten new words plus one upgrade; your readable stock passes one hundred and
-sixty-five. Audio: 🔊 `planned:assets/audio/volume-1/v1c05l01-word-list.mp3` (model reading,
+शब्दावली — ten new words plus one retired glue word; your readable stock reaches one hundred and
+sixty-seven. Audio: 🔊 `planned:assets/audio/volume-1/v1c05l01-word-list.mp3` (model reading,
 each word twice, plus the dictation track). Every entry below is a complete citation
 form — the virāma is part of the spelling, not an add-on: proofread it into every final.
 
@@ -399,7 +399,7 @@ form — the virāma is part of the spelling, not an add-on: proofread it into e
 | जगत् | jagat | /d͡ʑɐgɐt̪/ | world | जगत्, संसार | "the moving one" (§13) |
 | वाक् | vāk | /ʋɑːk/ | speech | वाणी | a final क् |
 | भवान् | bhavān | /bʱɐʋɑːn̪/ | you (respectful, to a man) | आप | polite chunk (§8); family in V2 |
-| आम् | ām | /ɑːm/ | yes | हाँ | upgrade — ear-word since v1.c01.l03, 🔊 retired |
+| आम् | ām | /ɑːm/ | yes | हाँ | glue word retired — 🔊 since v1.c01.l03 §16; not counted in the ledger (see §27) |
 | वदामि | vadāmi | /ʋɐd̪ɑːmi/ | I speak | मैं बोलता/बोलती हूँ | whole-word gloss (§8) |
 | नमामि | namāmi | /n̪ɐmɑːmi/ | I bow | मैं प्रणाम करता/करती हूँ | whole-word gloss |
 | वसामि | vasāmi | /ʋɐsɑːmi/ | I dwell | मैं रहता/रहती हूँ | whole-word gloss |
@@ -437,8 +437,8 @@ Course convention as ever — the stroke card
 > mātrā geography:** the sign's position is fixed by the script — right, left, below,
 > above, composite — regardless of when the vowel is spoken. **Law 4 — the signs:**
 > ं and ः attach to the whole akṣara and are neither vowels nor consonants. **Law 5 —
-> virāma:** the stroke ् cancels the inherent vowel; a bare consonant, word-finally, is
-> always written with it. [REF:masica1991 ch.6] [REF:whitney1889 §9]
+> virāma:** the stroke ् cancels the inherent vowel; a word-final bare consonant before a
+> pause is written with it. [REF:masica1991 ch.6] [REF:whitney1889 §11]
 
 Laws 1–4 are Chapter 2's constitution (v1.c02.l07 §15); today adds the fifth article.
 For *single* consonants, the system is now complete: with, without, or with-another —
@@ -528,11 +528,11 @@ checking question on every final: *did I hear a vowel there? No? Where is my str
 **अभ्यासः 4 · द्रुतपठनम् (the timed grid, reading).** The grid on the worksheet: twenty
 cells mixing killed and unkilled spellings — अहम/अहम् · तत/तत् · किम/किम् · जगत/जगत् ·
 कु/क् — in random order. Read the grid aloud exactly as written, left to right, in 60
-seconds: bare column with full final अ, killed column ending on the consonant. Zero
+seconds: unkilled cells with their vowel (full final अ, or *u* in कु), killed cells ending on the consonant. Zero
 misreadings is the bar; the drill from §9 (drill 3) was the warm-up for exactly this.
 
 **अभ्यासः 5 · वाक्य-रचना (sentence assembly, record — production).** Word tiles: अहम् ·
-वदामि · नमामि · वसामि · your own name with ः. (a) Assemble and write the three milestone
+वदामि · नमामि · वसामि · your own name in its Sanskrit form (रामः and हरिः end in ः; सीता and गीता do not — the rule behind it is Volume 3's story). (a) Assemble and write the three milestone
 sentences: अहम् वदामि। अहम् नमामि। अहम् वसामि। (b) Write the identity line: अहम् + your
 name. (c) Record yourself reading all four in pause form — final म् closed, a hair of
 silence, no echo — and compare against the sentence audio 🔊.
@@ -571,7 +571,7 @@ the course will assume.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) the virāma cancels the inherent vowel (§5, §15). ((a) was true only until today.)
+1. (b) the virāma cancels the inherent vowel (§5, §15). ((a) overstates Law 1: only an *unmarked* consonant carries अ — a mātrā replaces it, and from today ् deletes it.)
 2. (b) bare /k/ — the vowel is deleted, not softened (§8).
 3. (b) a default is only usable if it can be switched off — the abugida bargain
    completed (§5).
@@ -594,15 +594,15 @@ the course will assume.
 > inherent, replaced, deleted; one state per akṣara. **The traps:** no echo vowel after a
 > killed final (अहम्, never "aham-uh"); no forgotten stroke (अहम is *ahama*); curl adds
 > *u*, slash kills *a*. **The words:** अहम् leading ten new ones — and आम् out of ear-word
-> retirement. **The milestone:** अहम् वदामि। — the first first-person sentence. **The
+> retirement. **The milestone:** अहम् वदामि। — the first sentence with अहम् written whole. **The
 > promise:** नमस्ते needs one more move — the joining. Tomorrow.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-take the dictation (exercise 2) cold; run the timed grid (exercise 4)
   once; read the story aloud — every final closed, no echo.
-- **In 1 week:** lesson 5's Station 0 returns today's words inside the conjunct exam's
-  reading ladder; the proofreader task (exercise 6) reappears there at full speed.
+- **In 1 week:** lesson 5's Station 1 returns today's law and words — अहम् · किम् ·
+  जगत् from dictation, then the stroke-less अहम read back: exercise 6's proofreader reflex, cold.
 - **From now on:** the checking question is a permanent writing habit — *did I hear a
   vowel? No? Then the stroke.* Run it on every final consonant you ever write.
 
@@ -614,8 +614,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
    through the sentence row, and the proofreading fixes said aloud.
 2. **(5 min)** The freeze test (§11) at a mirror: अहम् · तत् · वाक्, two seconds of held
    silence after each final. Then drill 3's spelling pairs once, both columns.
-3. **(10 min, real world)** The halanta hunt: Hindi print keeps the virāma exactly in
-   its Sanskrit-descended words — hunt for four on signs, in headlines, in book titles:
+3. **(10 min, real world)** The halanta hunt: Hindi print sometimes keeps the virāma in
+   words it borrowed from Sanskrit — hunt for four on signs, in headlines, in book titles:
    जगत्, भगवान्, श्रीमान्, विद्वान् are common catches. Copy each find, circle its
    virāma, and note which letter it silences. Bring the finds to class.
 4. **(5 min, teach-back)** Teach someone Law 5 with one word: write अहम, ask them to say
@@ -705,7 +705,7 @@ catches it; §11 check 3).
 
 Lesson video, ~6 min, presenter + motion graphics.
 
-1. **Hook (0:00–0:35):** black screen; the word अहम types itself and a honest robotic
+1. **Hook (0:00–0:35):** black screen; the word अहम types itself and an honest robotic
    voice reads it: "a-ha-ma". Caption: "That is not a word." Beat. "You have been unable
    to write 'I' for four chapters." Title card: विरामः — The Vowel-Killer.
 2. **The debt (0:35–1:30):** rapid montage of the course so far — क reading *ka*, कमल
@@ -738,15 +738,15 @@ narrator reads them as IPA, not as English spelling.
 - **00:35** That was the bargain: the script gives you अ [ɐ] free with every consonant,
   and the common case costs one letter. But a default you cannot switch off is a trap.
   Today, the switch.
-- **01:30** This is the virāma [ʋiɾɑːmɐɦ] — one short stroke at the foot of a letter.
+- **01:30** This is the virāma [ʋiɾɑːmɐ] — one short stroke at the foot of a letter.
   It does one thing: the free vowel dies. ka [kɐ] — stroke — k [k]. Not softened.
   Not shortened. Gone.
 - **02:30** Now build the oldest word you own. a [ɐ]. ha [ɦɐ]. ma [mɐ] — and the page
   says a-ha-ma, one vowel too many. The stroke, under the final letter: aham [ɐɦɐm] —
-  "I". Closed lips. Silence after. And a family secret four thousand years deep:
+  "I". Closed lips. Silence after. And an old family secret:
   Sanskrit aham, Latin ego, English I — the same ancient word, three ways.
 - **03:30** So say the sentence this volume has been walking toward. aham vadāmi
-  [ɐɦɐm ʋɐd̪ɑːmi] — "I speak." Every sentence before today was about someone else.
+  [ɐɦɐm ʋɐd̪ɑːmi] — "I speak." Until today, aham itself was out of reach of your pen.
   This one is yours. aham namāmi [ɐɦɐm n̪ɐmɑːmi] — "I bow." Now the naming line:
   aham [ɐɦɐm] — and your own name. Out loud. That is you, in Sanskrit, in your own hand.
 - **04:50** Five laws now govern everything you write: the free vowel, the mātrā, its
@@ -766,8 +766,8 @@ narrator reads them as IPA, not as English spelling.
   under म; the glow dies; the voice re-reads: aham [ɐɦɐm]. "One stroke. The vowel is
   gone. The word is 'I'."
 - **Payoff (0:30–0:43):** aham vadāmi [ɐɦɐm ʋɐd̪ɑːmi] assembles on screen. Caption:
-  "'I speak.' — learners of this course just said their first first-person sentence."
-  Fast bonus: aham · ego · I — "same word, 4,000 years apart."
+  "'I speak.' — learners of this course just wrote aham in full for the first time."
+  Fast bonus: aham · ego · I — "same word, one shared ancestor."
 - **CTA (0:43–0:50):** "This is Sanskritam. Tomorrow the script's best trick: how two
   letters fuse into one — and नमस्ते becomes writable. Follow along." (End card:
   विरामः — the vowel-killer.)
@@ -794,6 +794,6 @@ narrator reads them as IPA, not as English spelling.
   TRADITION ×1 (§4 हलन्त as Pāṇinian term — attributed); HISTORY ×0; SYMBOL ×0. §19
   quiz tests FACT only; the sandhi honesty note (§6) is tested as course convention
   (Q8), not as a claim about connected speech being wrong.
-- **Vocabulary ledger:** 10 new + 1 upgrade (आम्); cumulative readable stock 167 (157 + 10).
+- **Vocabulary ledger:** 10 new + 1 retired glue word (आम्, uncounted); cumulative readable stock 167 (157 + 10).
 - **Next lesson:** v1.c05.l02 संयुक्ताक्षराणि I — the conjunct mechanism; the स्त hinge;
   नमस्ते readable and writable, closing the tracker opened in Chapter 1.

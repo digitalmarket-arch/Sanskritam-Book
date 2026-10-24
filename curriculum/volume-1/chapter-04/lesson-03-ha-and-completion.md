@@ -129,7 +129,7 @@ Both halves of that sentence are true, and this course says both:
 > **[FACT · तथ्यम्]** विसर्ग ः /h/ and ह /ɦ/ are one gesture with the voice switched off
 > and on: both push breath through an open throat. ः is voiceless — the hand on the
 > throat feels nothing; ह is voiced — the hand feels a buzz the whole way through.
-> [REF:whitney1889 §65]
+> [REF:whitney1889 §§65, 67]
 
 Three consequences. **You already own the hardest part:** breathy voice cost real work
 in Chapter 3; ह is that skill with the stop removed — for once the new letter is
@@ -207,8 +207,8 @@ No tongue position, no lip work: ह is the one consonant whose mouth is entirel
   and the word is a picture: हिम "snow" + आलय "abode" (§13).
 - **गृह** = गृ + ह → gṛ-ha — /gr̩ɦɐ/ "house". The ृ mātrā from v1.c02.l03 riding ग,
   then a full ह with a full final अ.
-- **हसति** = ह + स + ति → ha-sa-ti — /ɦɐsɐt̪i/ "laughs" — verb four of the course,
-  after चलति, भवति and वदति (कूजति stays with the cuckoo). A fifth, वहति "carries,
+- **हसति** = ह + स + ति → ha-sa-ti — /ɦɐsɐt̪i/ "laughs" — verb five of the course,
+  after चलति, कूजति, भवति and वदति. A sixth, वहति "carries,
   flows", slips into today's list: वायुः वहति "the wind flows".
 
 ### The completion — no empty squares
@@ -288,7 +288,7 @@ producing [ɦ] inside every breathy stop since Chapter 3.
 **Narrow notes:** between vowels ह keeps full voicing — मही [mɐɦiː], बाहु [bɑːɦu] — the
 murmur at its softest, and the sound easiest to lose (§12). In careful pause-form
 reading गुरुः हसति is [guɾuh ɦɐsɐt̪i]: a voiceless breath closing the first word, a
-voiced one opening the second — the whole ः/ɦ contrast in four syllables.
+voiced one opening the second — the whole ः/ɦ contrast in five syllables.
 
 **Word transcriptions:** हिमालय /ɦimɑːlɐjɐ/ · गृह /gr̩ɦɐ/ (syllabic r̩ from ऋ's mātrā)
 · हसति /ɦɐsɐt̪i/ · इह /iɦɐ/.
@@ -340,7 +340,7 @@ rather, the absence of one.
 > **[FACT · तथ्यम्]** हिमालय is a transparent compound: हिम (hima) "snow" + आलय (ālaya)
 > "abode, dwelling" — "the abode of snow". And English *Himalaya* is a genuine
 > **loanword**: English borrowed the mountain range's Sanskrit name whole — like *yoga*
-> and *karma*, a loan, not a cognate. [REF:apte1890 s.v. हिमालय]
+> and *karma*, a loan, not a cognate. [REF:apte1890 s.v. हिमालय], [REF:oed]
 
 Remember lesson 1's rule: a loan is handed over; cognates are siblings from one
 ancestor. मातृ and *mother* are cognates; हिमालय and *Himalaya* are the same word, lent.
@@ -351,7 +351,7 @@ Today the borrowed name becomes readable in its own script.
 **गृह** (gṛha) "house" — घर · /gr̩ɦɐ/
 
 > **[FACT · तथ्यम्]** Sanskrit गृह is the ancestor of Hindi घर: the modern word descends
-> from the ancient one through the regular sound changes of Indo-Aryan. [REF:masica1991]
+> from the ancient one through Prakrit *ghara*. [REF:masica1991]
 
 One line, but savor it: your everyday word for *home* is today's Sanskrit word, worn
 smooth by some twenty centuries of mouths.
@@ -362,13 +362,14 @@ smooth by some twenty centuries of mouths.
 
 Chapter 3 gave you भूमि (bhūmi) "earth, ground"; today मही joins it — near-synonyms, and
 your first taste of a Sanskrit habit: rich stocks of synonyms that poetry draws on
-freely [REF:apte1890 s.v. मही]. Start a collection page: earth-words, two entries. (And
-no etymology story for बाहु "arm" — this course only tells the ones it has verified.)
+freely [REF:apte1890 s.v. मही], [REF:amarakosha 2.1]. Start a collection page:
+earth-words, two entries. (And no etymology story for बाहु "arm" — this course only tells
+the ones it has verified.)
 
 ## 14. Vocabulary
 
-शब्दावली — fourteen words, every one readable; your readable stock passes one hundred
-and thirty-five. Audio: 🔊 `planned:assets/audio/volume-1/v1c04l03-word-list.mp3` (model
+शब्दावली — fourteen words, every one readable; your readable stock reaches one hundred
+and fifty-seven. Audio: 🔊 `planned:assets/audio/volume-1/v1c04l03-word-list.mp3` (model
 reading, each word twice, plus the dictation track). Stems are listed bare, as always;
 sentences dress subjects with ः (§8).
 
@@ -386,8 +387,8 @@ sentences dress subjects with ः (§8).
 | देह | deha | /d̪eːɦɐ/ | body | देह, शरीर | pure long ए, full final अ |
 | गृह | gṛha | /gr̩ɦɐ/ | house | घर | ancestor of Hindi घर (§13); गृ = ग + ृ |
 | इह | iha | /iɦɐ/ | here | यहाँ | sentence-word (§6): इह रामः |
-| हसति | hasati | /ɦɐsɐt̪i/ | laughs | हँसता है | verb 4 (§8); गुरुः हसति |
-| वहति | vahati | /ʋɐɦɐt̪i/ | carries, flows | बहता है; ले जाता है | verb 5; वायुः वहति |
+| हसति | hasati | /ɦɐsɐt̪i/ | laughs | हँसता है | verb 5 (§8); गुरुः हसति |
+| वहति | vahati | /ʋɐɦɐt̪i/ | carries, flows | बहता है; ले जाता है | verb 6; वायुः वहति |
 
 Reading protocol, as always: block by block (हि-मा-ल-य), then the whole word, then the
 audio. Throat-hand on every ह; no ह dropped, no final vowel clipped.
@@ -421,14 +422,16 @@ traditions vary in details.
 > (conjuncts) that Chapter 5 opens. New combinations are coming; new letters are not.
 > [REF:whitney1889 §§19–75]
 
-(Plus a couple of editorial marks in due course: ॐ you own already; the avagraha ऽ
-arrives with sandhi in Volume 3.)
+(Plus a few signs in due course: ॐ, the single conventional ligature, you own already;
+the virāma ् is Chapter 5's first gift, and the avagraha ऽ, the candrabindu ँ, the
+daṇḍas । ॥ and the digits ०–९ get their own lesson in v1.c05.l05 — ऽ put to work with
+sandhi in Volume 3.)
 
 ### हरि and हर — the name-words, honestly labeled
 
 > **[FACT · तथ्यम्]** As dictionary words: हरि means "tawny, bay-colored" among other
 > senses, and is a proper name; हर means "taking away, removing, seizing", and is a
-> proper name. [REF:apte1890 s.v. हरि]
+> proper name. [REF:apte1890 s.v. हरि, हर]
 
 > **[TRADITION · परम्परा]** In the devotional tradition हरि is a beloved name of Viṣṇu
 > and हर of Śiva — paired to this day in the compound हरिहर (harihara). In this lesson
@@ -514,9 +517,10 @@ throat switch (§9 drill 1) and retest tomorrow — the ear sharpens overnight.
 **अभ्यासः 6 · वाक्य-वाचनम् (sentence reading, record — production).** Word tiles: रामः,
 गुरुः, बालकः, कविः, वायुः · वदति, हसति, चलति, वहति. (a) Read the sentence set aloud in
 pause form and record it: रामः वदति। गुरुः हसति। वायुः वहति। (b) Assemble **two new
-sentences** — keep predicates honest: वहति belongs to the wind, the rest walk with
-anyone — write them with daṇḍas, and record those too. Compare with the model sentences
-🔊: every word complete, visarga breathed, every ह voiced.
+sentences** — keep predicates honest: वहति belongs to the wind, वदति and हसति to
+people, and चलति walks with anyone — write them with daṇḍas, and record those too.
+Compare with the model sentences 🔊: every word complete, visarga breathed, every ह
+voiced.
 
 ## 19. Quiz
 
@@ -531,9 +535,9 @@ anyone — write them with daṇḍas, and record those too. Compare with the mo
 3. Hand on your throat through रामः and then हरि. You should feel: (a) a buzz during
    both breaths (b) silence during the ः breath, a buzz during ह (c) a buzz during ः
    only (d) nothing in either
-4. The completed varṇamālā counts: (a) 14 vowels + 32 consonants (b) 13 vowels + 33
-   consonants + 2 ayogavāha (c) 13 vowels + 33 consonants, nothing else (d) 50 letters,
-   all one category
+4. The completed varṇamālā counts: (a) 14 vowels (counting अं and अः) + 33 consonants
+   (b) 13 vowels + 33 consonants + 2 ayogavāha (c) 13 vowels + 33 consonants, nothing
+   else (d) 50 letters, all one category
 5. A learner reads मही as [mɐiː] and बाहु as [bɑːu]. What happened? (a) nothing — both
    are correct (b) the ह between vowels was dropped — a Hindi fast-speech habit (c) the
    vowel lengths were wrong (d) the words contain conjuncts
@@ -584,8 +588,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 30 minutes total. (Notice: for the first time you can read this
-heading's root — गृह is today's word.)
+गृहकार्यम् — about 30 minutes total. (Notice: for the first time you can read the first
+half of this heading — गृह is today's word.)
 
 1. **(10 min)** Finish exercises 3 and 4 if not completed in class: the dictation pass
    and the tracing sheet through the sentence row.
@@ -694,7 +698,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 5. **THE COMPLETION (3:25–5:10):** the screen quiets. The chart fills band by band as
    the recital audio plays; the last cell clicks in. The counts stamp on: 13 + 33 + 2.
    Beat of silence. Caption: "Every square. Yours."
-6. **Recap + CTA (5:10–6:00):** the नमस्ते tracker: न ✓ म ✓ स ✓ ते ✓ — the joining
+6. **Recap + CTA (5:10–6:00):** the नमस्ते tracker: न ✓ म ✓ स् ✗ ते ✓ — the स्-joining
    glows dim, labeled "Chapter 5". End card: "Next: पुनरावृत्तिः — the Alphabet Exam.
    Bring a blank page and 8 minutes."
 

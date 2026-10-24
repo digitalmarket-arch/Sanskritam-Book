@@ -46,7 +46,9 @@ the mechanism). Drill design per 0.6: timed known-word rereading, component-coun
 **Frame:** self-introduction — the course's first true conversation. **New (attested):**
 नाम (nāma) "name" — मम नाम …। "my name is …"; त्वम् (tvam) "you" — त्व by the mechanism;
 तव (tava) "your"; एतत् (etat) "this"; छात्रः (chātraḥ) "student" (MW s.v. chāttra; त्र ✓
-ch5); for a female speaker बालिका/बाला (attested earlier) — **Pass C: decide छात्रा
+ch5); for a female speaker बालिका/बाला (**corrected at audit: NOT attested earlier — neither
+occurs in any Ch 1–5 vocabulary; बालिका debuts as counted word 7 in v1.c06.l02, see l02 §14,
+§27**) — **Pass C: decide छात्रा
 (modern usage) vs बाला; default बाला/बालिका to stay classical**. Politeness pair: त्वम्
 (intimate) vs भवान् (respectful, ✓ ch5.l01) — one honest line, no paradigms.
 **Dialogue script (all parts certified):**
@@ -63,7 +65,7 @@ drafting decides; inventory lists it in L3.)
 **New (attested):** पठति (paṭhati) "reads, recites" — √पठ्, THE chapter verb (पठनम् is its
 noun); पठामि "I read" (1sg parallel to वदामि ✓ ch5); पुस्तकम् (pustakam) "book";
 तस्य (tasya) "his" — स्य ✓ mechanism; इति (iti) — quotative particle, already taught and
-readable since v1.c02.l01 (इ इति ह्रस्वः स्वरः) — reuse freely, no debut needed. **The passage (draft skeleton, every word certified):**
+readable since v1.c02.l01 (इ इति ह्रस्वः स्वरः) — reuse freely, no debut needed. **The passage (draft skeleton; every word certified except गच्छति — only a v1.c03.l02 🔊 ear-word, never in a §14 table; shipped v1.c06.l03 uses the certified चलति — corrected at audit):**
 
 > बालकः अत्र अस्ति। सः छात्रः अस्ति। तस्य नाम अर्जुनः। सः विद्यालयम् गच्छति।
 > सः पुस्तकम् पठति। सः संस्कृतम् पठति। छात्रः हसति। अहम् अपि संस्कृतम् पठामि।

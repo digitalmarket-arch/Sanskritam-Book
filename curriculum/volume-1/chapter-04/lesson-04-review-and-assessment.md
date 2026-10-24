@@ -74,12 +74,12 @@ checking [REF:roediger2006].
 ### Station 0 — Chapter 3's one-week interval
 
 The spacing schedule from v1.c03.l06 §20 comes due today [REF:cepeda2006]: a compressed re-run of
-its tasks E and B. Two items, two minutes; log the scores next to the old ones.
+its tasks C and E. Two items, two minutes; log the scores next to the old ones.
 
 1. Grid-fill: write one full varga row of the 5×5 grid from memory — today, the ट-वर्ग — saying
    the five manner labels as you go.
-2. Dictation row, self-read then written cold: भोजन · गुण · कथा · फल — every letter in its varga,
-   every mātrā in place.
+2. Reading row, aloud and cold (task C): खग · मेघ · गुण · भोजन — then बालकः चलति। कपिः चलति।
+   कोकिलः कूजति। — every aspirate breathed, pause form.
 
 ### Station 1 — अन्तःस्थाः (lesson 1)
 
@@ -89,7 +89,7 @@ its tasks E and B. Two items, two minutes; log the scores next to the old ones.
 3. Read aloud: राम · गुरु · देव · वीर · रवि · वायु — one tap per र, no English r anywhere.
 4. भवति and वदति — gloss both, and put one into a pause-form sentence with रामः.
 
-*Check against l01 §9, §5, §14, §13.*
+*Check against l01 §9, §5, §14, §8.*
 
 ### Station 2 — ऊष्माणः I (lesson 2)
 
@@ -109,7 +109,7 @@ its tasks E and B. Two items, two minutes; log the scores next to the old ones.
 3. हिमालय — decompose the compound and gloss both parts.
 4. Read aloud: गृह · देह · बाहु · इह · हसति — no dropped ह anywhere.
 
-*Check against l03 §9, §5, §13, §14.*
+*Check against l03 §9, §8 and §15, §13, §14; ॐ against v1.c02.l05 §15.*
 
 Score all fourteen prompts (Station 0's two included): 12+ clean → proceed. Below that, re-study
 the weakest station today and assess tomorrow — the extra spacing helps [REF:cepeda2006].
@@ -120,8 +120,8 @@ the weakest station today and assess tomorrow — the extra spacing helps [REF:c
 
 Today closes the arc opened by v1.c01.l02's sound map: thirteen vowels, two dependent signs and
 thirty-three consonants promised — and every promise now kept. The tradition that carried this
-inventory across three millennia used exactly the tool you are using today: scheduled, structured
-repetition, recited in fixed order, tested from memory.
+inventory down the centuries leaned on a related tool — structured repetition, recited in fixed
+order, tested from memory. The spacing schedule itself is modern memory science:
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
 > practice massed together. [REF:cepeda2006]
@@ -186,7 +186,7 @@ certificate.
 
 | Task | Skill | Format | Pass line |
 |---|---|---|---|
-| A | Hearing contrasts | 12 audio items: श/ष ×4, व-quality ×2, ह/visarga ×2, र/ऋ ×2, mixed ×2 | 10/12 |
+| A | Hearing contrasts | 12 audio items: श/ष ×4, व-quality ×2, ह voicing/dropping ×2, र/ऋ ×2, mixed ×2 | 10/12 |
 | B | Writing | 10-word dictation across the Chapter 4 letters | 8/10 fully correct |
 | C | Reading aloud | 15 words + the 5-sentence set, recorded, self-scored | 12/15 clean + all sentences |
 | D | Register thinking | 9 fresh claim cards, four boxes + reject | 7/9 with reasoning |
@@ -250,8 +250,9 @@ sentence set reads in pause form, every word complete: रामः वदति
 मुखस्थितिः — the consolidated self-diagnosis circuit, one check per family. These are the scoring
 rubric for task C: every reading error should be caught by one of them.
 
-- **व — mirror check:** lower lip rises to the upper teeth and touches *lightly*. Full closure =
-  ब; rounding with no teeth = [w]. → l01 §11.
+- **व — mirror check:** lower lip rises to the upper teeth and touches *lightly*. Lips meeting,
+  or full closure of lip on lip = ब; pressed into a buzz = [v]; rounding with no teeth = [w].
+  → l01 §11.
 - **र — tap count:** say राम slowly; the tongue tip strikes the ridge exactly once. An English r
   never strikes at all. → l01 §11.
 - **श vs ष — the ट-tongue:** freeze the tongue at Chapter 3's ट station and breathe: ष. Slide
@@ -260,7 +261,7 @@ rubric for task C: every reading error should be caught by one of them.
 - **ह vs ः — throat-hand:** fingers on the larynx. ह hums from the first instant; the visarga's
   puff is silent. → l03 §11.
 - **Order — memory, not mouth:** recite the varṇamālā once with §9 open, once without; wherever
-  you slip is your task-E risk. → l03 §15.
+  you slip is your task-E risk. → l03 §9 drill 4, §8.
 
 ## 12. Common Mistakes
 
@@ -275,7 +276,7 @@ rubric for task C: every reading error should be caught by one of them.
 | 5 | ह devoiced to English h | C | l03 §9 throat-hand, §12 |
 | 6 | Medial ह dropped (the बहुत habit) | B, C | l03 §12 |
 | 7 | ह and visarga confused — रामः read with a voiced h | C | l03 §9; v1.c02.l06 §9 |
-| 8 | Alphabet-order slips — ष before श, य र ल व scrambled | E | §9 tables; l03 §15 recitation drill |
+| 8 | Alphabet-order slips — ष before श, य र ल व scrambled | E | §9 tables; l03 §9 drill 4 recitation |
 
 ## 13. Examples
 
@@ -284,8 +285,8 @@ rubric for task C: every reading error should be caught by one of them.
 **Model dictation item (task B).** Audio says *himālaya*. You hear: a voiced breathing onset that
 hums — ह, never dropped. Then short इ: the LEFT-hook mātrā from Chapter 2, so the hook is written
 before the letter it follows in speech. Build it block by block: ह + ि = हि (hook on the left!),
-then म + ा = मा, then ल, then य → **हिमालय**. Common wrong answers: इमालय (the onset ह dropped —
-§12 row 6), हीमालय (short इ inflated to ई — Chapter 2's length discipline never retires).
+then म + ा = मा, then ल, then य → **हिमालय**. Common wrong answers: इमालय (the onset ह dropped — the
+same dropping habit as §12 row 6, here at the word's start), हीमालय (short इ inflated to ई — Chapter 2's length discipline never retires).
 
 **Model register sort (task D).** Card: "श and ष are the same sound." The reflex agrees — in
 modern Hindi the two really have merged. But the claim is about *Sanskrit*, and it is checkable
@@ -323,7 +324,7 @@ whole word, every vowel at full value, pause form.
 | युग | yuga | /jugɐ/ | age, era | युग | l01 · the *yoke/yoga* PIE family — loan-vs-cognate refresher |
 | भवति | bhavati | /bʱɐʋɐt̪i/ | is, becomes | होता है | l01 · verb — the roster grows |
 | वदति | vadati | /ʋɐd̪ɐt̪i/ | speaks | बोलता है | l01 · verb — रामः वदति |
-| शिव | śiva | /ɕiʋɐ/ | auspicious; Śiva | शिव | l02 · adjective sense first; name-status noted in l02 §17 |
+| शिव | śiva | /ɕiʋɐ/ | auspicious; Śiva | शिव | l02 · adjective sense first; name-status noted in l02 §13 |
 | शुभ | śubha | /ɕubʱɐ/ | auspicious, good | शुभ | l02 |
 | शत | śata | /ɕɐt̪ɐ/ | hundred | सौ | l02 · cognate Latin *centum* [REF:mallory2006] |
 | दश | daśa | /d̪ɐɕɐ/ | ten | दस | l02 · cognate Latin *decem* — cognate, never derivation |
@@ -365,8 +366,9 @@ Six verbs now readable — चलति कूजति (ch3) + भवति व
 > vowel is spoken. **Law 4 — the leaning signs:** ं and ः attach to the whole akṣara
 > (ayogavāha). **And the grid principle:** every stop is fully named by place × manner. **And
 > now the closure:** the letter inventory is complete — 13 vowels + 2 ayogavāha + 33
-> consonants. Every Sanskrit word you will ever read is spelled from this set.
-> [REF:whitney1889 §§19–75] [REF:masica1991 ch.6]
+> consonants. Every letter of every Sanskrit word you will ever read comes from this set;
+> what remains are joining devices and a few further signs (virāma and conjuncts, then ऽ and
+> ँ — all in Chapter 5). [REF:whitney1889 §§19–75] [REF:masica1991 ch.6]
 
 What remains, honestly, is not letters but *joining*: the virāma (bare consonants — अहम् still
 unwritable by you) and the conjuncts (two owned letters welded — स्त, स्क), both in Chapter 5.
@@ -411,7 +413,7 @@ continuation is writable. Worked lines for comparison (peek only after your own 
 2. **वायुः** **वहति।** **ऋषिः** **हसति।** (vāyuḥ vahati. ṛṣiḥ hasati.) "The wind flows. The seer
    laughs." — हवा बहती है। ऋषि हँसते हैं।
 3. **गुरुः**: **इह** **सुख**! **ततः** **कथा**। (guruḥ: iha sukha! tataḥ kathā.) "The teacher:
-   here, happiness! Then — a story." — गुरु: यहाँ सुख है! फिर — कथा।
+   here, happiness! Then — a story." — गुरु: यहाँ — सुख! फिर — कथा।
 
 (The 🔊 crutch is nearly gone — every word above is readable AND writable. The point is retrieval
 + recombination, the two strongest moves in the learning toolkit [REF:roediger2006].)
@@ -476,7 +478,8 @@ pass. This sheet, dated and signed, is the volume's central certificate.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. "Standing between" — the four approximants sit between vowels and stops in openness. → l01 §5.
+1. "Standing between" — the four in-between sounds (approximants य व, lateral ल, tap र) sit
+   between vowels and stops in openness, each paired with a vowel. → l01 §4, §5.
 2. /ʋ/, the labiodental approximant: [v] buzzes with friction, [w] rounds the lips and abandons
    the teeth; व touches lip to teeth lightly, no friction, no rounding. → l01 §9.
 3. र is the consonant tap /ɾ/; ऋ is its syllabic sibling /r̩/ — same gesture, one a consonant,
@@ -488,12 +491,15 @@ pass. This sheet, dated and signed, is the volume's central certificate.
 6. भ + ा = भा, then ष + ा = षा → भाषा. The letter ष — lesson 2 of this chapter; भ and ा were
    owned since Chapters 3 and 1. → l02 §14.
 7. The vocal folds vibrate while breath passes through the open glottis — the throat hums from
-   the first instant. The visarga ः is its voiceless partner: a silent puff. → l03 §5, §9.
+   the first instant. The visarga ः is its voiceless partner: a voiceless puff — audible breath, no hum.
+   → l03 §5, §9.
 8. The traditional ūṣman "heat/breath" class groups the four breath sounds; honest phonetics: श
-   ष स are sibilants, ह is not — a voiced glottal fricative. Both stand side by side. → l03 §5.
+   ष स are sibilants, ह is not — a voiced glottal fricative. Both stand side by side. → l03 §4, §5.
 9. हिम "snow" + आलय "abode" → "the snow-abode". → l03 §13.
 10. 13 vowels + 33 consonants + 2 ayogavāha (dependent signs — neither vowel nor consonant); ॐ
-    is a ligature of ओ + ं, a bonus symbol outside the count. Promised in v1.c01.l02. → l03 §15.
+    is one conventional ligature for the syllable om — a single sign (U+0950), read whole rather
+    than assembled, also spelled out ओम् — a bonus symbol outside the count. Counts promised in
+    v1.c01.l02. → l03 §8, §15; ॐ: v1.c02.l05 §15.
 
 **Task keys.** A: 1 शा 2 षि 3 शिव (the श version) 4 विष (the ष version) 5 the /ʋ/ version =
 Sanskrit वन 6 the [w]/[v] version — mark "not Sanskrit व" 7 ह (the voiced one — the hum) 8 मोह
@@ -520,7 +526,7 @@ Scoring: 7+/9 with sane reasoning. E: अ आ इ ई उ ऊ ऋ ॠ ऌ ए �
 > **The alphabet complete:** 13 vowels + 2 ayogavāha + 33 consonants — 48 symbols, plus ॐ.
 > **The contrasts:** श/ष (palatal vs retroflex), व (the middle ground), र (tap) beside
 > ऋ (syllabic), ह voiced beside ः voiceless.
-> **The laws:** all five hold; the inventory is closed — what remains is joining
+> **The laws:** all four hold, the grid principle beside them; the inventory is closed — what remains is joining
 > (virāma + conjuncts, Chapter 5).
 > **The words:** 157 readable, मम to हिमालय — with six verbs.
 > **The sentences:** रामः वदति। गुरुः हसति। कविः चलति। कोकिलः कूजति। वायुः वहति।
@@ -555,9 +561,9 @@ task E protected inside it) → debrief (5 min).
 |---|---|---|---|
 | A (12) | 10–12 | 8–9 | श/ष items 1–4 missed → §12 rows 3–4, l02 §9; व items → row 1; ह items → rows 5–6 |
 | B (10) | 8–10 all-correct | 6–7 | sibilant swapped → l02 §14 protocol; ह dropped → §12 row 6; mātrā slips → the Chapter 2 laws |
-| C (15+5) | 12+ clean, all sentences | 10–11, or one halting sentence | systematic tap/व/sibilant/ह errors → §12 rows 1–7; sentence trouble → v1.c03.l05 §15 pause form |
+| C (15+5) | 12+ clean, all sentences | 10–11, or one halting sentence | systematic tap/व/sibilant/ह errors → §12 rows 1–7; sentence trouble → v1.c03.l05 §8 pause form |
 | D (9) | 7–9 reasoned | 5–6 | registers blurred → re-teach with §13's श-ष walk-through |
-| E (48) | complete, ordered, in time | complete with 1–2 order slips | order slips → §12 row 8, recite-then-write daily for a week; blanks → the weak lesson's §14 |
+| E (48) | complete, ordered, in time | complete with 1–2 order slips | order slips → §12 row 8, recite-then-write daily for a week; blanks → the weak lesson's §8 letter cards and §15 stroke order |
 
 **Pass** = all tasks partial+, quiz 7+/10 → Chapter 5. One weak task → targeted retake tomorrow.
 Two+ → repeat the weak lessons; frame as scheduling, not failure.
@@ -574,7 +580,8 @@ gap between "traditionally grouped with" and "phonetically is" IS the register s
 students argue it. Card 8's trap is one word: "only". Card 9 is the course's oldest callback.
 
 **Heritage learners:** task E and much of B will be near-instant — the traditional order is
-Hindi's own alphabet. Their genuine tests are A and C on the merged pairs — श/ष, the व
+Hindi's own alphabet — except ॠ and ऌ, which Hindi school charts usually omit (watch those two
+slots), and the chart's extra क्ष त्र ज्ञ, which do not belong in task E. Their genuine tests are A and C on the merged pairs — श/ष, the व
 middle-ground against ब, the medial ह colloquial Hindi drops — plus D. Grade there, deputize
 everywhere else; a heritage learner running the ट-tongue station teaches it better than the book.
 
@@ -650,7 +657,7 @@ alphabet — from memory." **CTA** (40–45 s): "Chapter 5: the letters learn to
   consolidated list (157) is assembled in v1.c06 — until then the app's spaced-repetition deck
   keys off the per-chapter §14 tables. The §19 task keys are the single source for the quizzes/
   files. Glue-word 🔊 inventory: तव retires this chapter (त and व both taught); आम्, अस्ति,
-  पश्य, अत्र remain 🔊 pending Chapter 5's virāma and conjuncts.
+  पश्य, अत्र, धन्यवादः, संस्कृतम् remain 🔊 pending Chapter 5's virāma and conjuncts.
 - **Register audit:** FACT ×3 (§4, §5, §15) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 — review
   lesson; task D handles registers as content (keys include the card-2/card-3 nuance pair and the
   card-8 "only" trap). Quiz assesses FACT only.

@@ -116,15 +116,17 @@ must stay one block. So the block learns to hold two consonants — by fusing th
 
 वैज्ञानिक व्याख्या — one mechanism, learned once, applied everywhere.
 
-> **[FACT · तथ्यम्]** A conjunct writes a consonant cluster as a single akṣara: every consonant
+> **[FACT · तथ्यम्]** A conjunct writes a consonant cluster as a single akṣara. In the commonest
+> pattern, today's horizontal one, every consonant
 > before the last appears in a **reduced form** — usually its own body minus the vertical stem —
 > and the **last member stands complete and carries the vowel**. [REF:masica1991 ch.6]
 
 Watch it happen to स् + त. Write स; kill its vowel (स्); now, instead of leaving the hanging
 virāma hook, delete स's vertical stem and slide what remains against त: **स्त**. The reduced स
 has no stem because it has no vowel — the amputation *is* the virāma, absorbed into the joining.
-Whatever vowel comes next rides the survivor: स्ते, स्ता, स्ति. And here is the part worth
-telling friends about:
+Whatever vowel comes next rides the survivor: स्ते, स्ता, स्ति — though on the page ि still
+stands before the whole block, exactly as it stands before a single letter. And here is the part
+worth telling friends about:
 
 > **[FACT · तथ्यम्]** Type स + ् + त on any phone and the screen shows स्त. The encoding never
 > fuses: what the computer *stores* is always the three-character sequence consonant + virāma +
@@ -132,18 +134,17 @@ telling friends about:
 > fuses, the machine remembers — the virāma sits invisible inside every conjunct you will ever
 > read. (Unicode Standard, Devanagari block.)
 
-So Chapter 5's two lessons are one idea: lesson 1 showed the virāma standing visible at
+So Chapter 5's first two lessons are one idea: lesson 1 showed the virāma standing visible at
 word-ends (अहम्); today it goes undercover mid-word, and the fusion is its disguise. Finally,
-the honest scale of the task:
-
-> **[FACT · तथ्यम्]** A few dozen conjuncts cover the overwhelming majority of classical
-> Sanskrit text. The long tail of rare combinations follows the same mechanism you learn today —
-> met by recognition and analysis, not by memorizing hundreds of shapes. [REF:masica1991 ch.6]
+the honest shape of the task: no conjunct list to memorize. Rare combinations are met by
+recognition and analysis — today's mechanism, lesson 3's handful of units, lesson 4's r-forms —
+not by learning shapes one by one.
 
 ## 6. Sanskrit Explanation
 
 संस्कृतव्याख्या — today's संज्ञा is **संयुक्ताक्षरम्** (saṃyuktākṣaram) "joined akṣara" —
-संयुक्त "joined" + अक्षर. And the unlocked language, at once:
+संयुक्त "joined" + अक्षर. Its क्ष, like the ज्ञ of संज्ञा, arrives in lesson 3 — hear both terms 🔊
+for now. And the unlocked language, at once:
 
 नमस्ते! स्वागतम्!
 (namaste! svāgatam!) "Greetings! Welcome!" — नमस्ते! स्वागत है!
@@ -155,7 +156,8 @@ the honest scale of the task:
 (aham bālakaḥ asmi.) "I am a boy." — मैं बालक हूँ।
 
 One honest note: अस्मि (asmi) "I am" is glossed whole, like every verb so far. The अहम् … अस्मि
-identity frame is yours to *use* from today; how verbs conjugate is Volume 2's opening act, and
+identity frame is yours to *use* from today; how verbs conjugate is the work of Volume 2's verb
+chapter, and
 we will not smuggle it in early.
 
 ## 7. Hindi Explanation
@@ -192,7 +194,8 @@ Write स and त side by side, full form: सत. That is *sata* — Law 1 give
 the cluster /st̪/ you must silence स — and mid-word, the script silences by *reduction*: स
 loses its vertical stem and leans on त, one block, स्त. The rule in one breath: **the silent
 one shrinks; the speaker stands.** The final member keeps its full body and carries the vowel
-for the whole block. The transparent set, all built by that one move
+for the whole block. The transparent set, all built by that one move — with one twist: क, whose
+stem stands in the middle, keeps it and sheds its right-hand curl instead
 (`planned:assets/images/volume-1/v1c05l02-mechanism-plates.svg`):
 
 | Conjunct | Built from | Meet it in |
@@ -353,8 +356,8 @@ stay a mere "hello".
 
 ## 14. Vocabulary
 
-शब्दावली — fourteen words, every one built from parts you own; no 🔊 loans anywhere in this
-lesson, a first. Audio: 🔊 `planned:assets/audio/volume-1/v1c05l02-word-list.mp3` (model
+शब्दावली — fourteen words, every one built from parts you own; no 🔊 loans in the word list,
+the dialogue or the story. Audio: 🔊 `planned:assets/audio/volume-1/v1c05l02-word-list.mp3` (model
 reading, each word twice, plus the dictation track).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
@@ -384,9 +387,11 @@ performs it.
 
 ### Law 6 — the conjunct
 
-> **[FACT · तथ्यम्]** **Law 6 — the conjunct:** inside an akṣara, every consonant before the
+> **[FACT · तथ्यम्]** **Law 6 — the conjunct:** a vowel-less consonant inside a word joins the
+> next consonant as one akṣara; in the commonest, horizontal pattern every consonant before the
 > last is written in reduced form — usually its body minus the vertical stem — and the last
-> member alone stands complete and carries the vowel. The virāma is this law's invisible
+> member stands complete and carries the vowel (stacks, irregular ligatures and र reshape the
+> members — below, and lessons 3–4). The virāma is this law's invisible
 > engine: a conjunct *is* consonant + ् + consonant, fused for the eye but not for the machine
 > (§5). [REF:masica1991 ch.6] [REF:whitney1889 §9]
 
@@ -394,8 +399,8 @@ Law 5 silences a consonant at word-end with a visible mark (अहम्); Law 6
 by reduction. Two costumes, one vowel-killer.
 
 > **[FACT · तथ्यम्]** Devanagari forms conjuncts in three patterns: **horizontal** joining
-> (stem-loss — today's set), **vertical stacking** (one letter atop another, mostly the ट-varga
-> and क्क: ट्ट, ङ्क), and a small set of **irregular fused shapes** learned as units — क्ष,
+> (stem-loss — today's set), **vertical stacking** (one letter atop another, mostly letters with no vertical
+> stem to drop, such as ङ and the ट-varga: ट्ट, ङ्क), and a small set of **irregular fused shapes** learned as units — क्ष,
 > त्र, ज्ञ, श्र, द्ध and kin. [REF:masica1991 ch.6]
 
 Today's horizontal pattern is the workhorse. The stacks get a nod in the chapter exam; the
@@ -413,7 +418,7 @@ Course convention as ever — body first, headline last; the stroke card
 - **The नमस्ते line:** न (full), म (full), then the joined block स्ते. Three blocks, one word.
   The tracing sheet's ceremony row (§18, exercise 4) walks it stroke by stroke.
 - **Self-check:** cover the right member of your conjunct — what remains should look
-  *incomplete*, a body missing its stem. If it looks like a whole letter, you wrote mistake 2
+  *incomplete*, a body missing its stem — or, for क, its curl. If it looks like a whole letter, you wrote mistake 2
   (§12).
 
 ## 16. Conversation
@@ -433,7 +438,9 @@ self-read. 🔊 audio recorded into the Chapter 5 drill pack (§27).
 — अहम् बालकः अस्मि।
 (aham bālakaḥ asmi.) "I am a boy." — मैं बालक हूँ।
 
-Swap roles and answer as yourself — अहम् कमला अस्मि, अहम् रामः अस्मि — any name you own. The
+Swap roles and answer as yourself — अहम् रामः अस्मि, or any name you own. (कः भवान् is the
+question put to a man, as in lesson 1; a woman is asked with other forms, taught in Volume 2 —
+so a woman simply offers her line: अहम् कमला अस्मि।) The
 frame अहम् … अस्मि is used whole, like all our verbs; its grammar opens Volume 2. कः and भवान्
 are lesson 1's question kit doing its first full day's work.
 
@@ -455,7 +462,7 @@ Hindi.
    (guruḥ vadati — śāntiḥ! śāntiḥ! śāntiḥ!) "The teacher says: Peace! Peace! Peace!" — गुरु
    कहते हैं — शान्ति! शान्ति! शान्ति!
 6. ततः गुरुः हसति।
-   (tataḥ guruḥ hasati.) "Then the teacher laughs." — तभी गुरु भी हँस पड़ते हैं।
+   (tataḥ guruḥ hasati.) "Then the teacher laughs." — फिर गुरु हँसते हैं।
 
 Kamalā still wants the next story; the teacher's triple शान्तिः is a wink you can now read
 (§13). And one more thing — the meta-moment this lesson owes you. Here, verbatim, is the very
@@ -466,9 +473,10 @@ one letter of it:
 >
 > — नमस्ते! (namaste!)
 
-It has waited five chapters. Read it now — it is the easiest thing on this page, and that is
+It has waited four chapters. Read it now — it is the easiest thing on this page, and that is
 exactly the point. Its third line, back then, had to be English: *"My name is Maya. What's
-yours?"* Today you could answer her in Sanskrit: नमस्ते! अहम् माया अस्मि।
+yours?"* Today she could say it in Sanskrit — नमस्ते! अहम् माया अस्मि। — and you could answer in
+the same frame with your own name.
 
 ## 18. Exercises
 
@@ -499,7 +507,7 @@ pass untimed, straight pass timed. Log both the time and every stumble; stumbles
 checklist, the time is only a mirror.
 
 **अभ्यासः 6 · वाक्यरचना (sentence assembly — production).** Word tiles: नमस्ते · स्वागतम् ·
-अहम् · अस्मि · बालकः · रामः · कमला · सत्यम् · वदामि. (a) Assemble and write the §16 exchange
+अहम् · अस्मि · बालकः · रामः · कमला · कः · भवान् · सत्यम् · वदामि. (a) Assemble and write the §16 exchange
 from memory, daṇḍas included. (b) Build **two new** lines with the अहम् … अस्मि frame and one
 with सत्यम् वदामि; record yourself reading all of them — clusters one onset, final vowels full,
 the -ते of नमस्ते a steady long /eː/.
@@ -508,7 +516,7 @@ the -ते of नमस्ते a steady long /eː/.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. In a two-consonant conjunct, what happens to the first member? (a) it is written full, side
+1. In a horizontal conjunct such as स्त, what happens to the first member? (a) it is written full, side
    by side with the second (b) it loses its vertical stem and joins the second in reduced form
    (c) it is deleted entirely (d) it moves to the end of the word
 2. What does a computer store for the printed block स्त? (a) a single special character (b) स +
@@ -521,8 +529,9 @@ the -ते of नमस्ते a steady long /eː/.
    wrong (d) मुक्त contains no conjunct
 6. नमस्ते is, by formation: (a) a single unanalyzable word (b) नमः "homage" + ते "to you" —
    the ḥ→s change at the seam being a sound-joining rule (c) न + मस् + ते (d) a modern coinage
-7. In every conjunct, the vowel of the block is carried by: (a) the first member (b) the virāma
-   (c) the last member, which alone stands in full form (d) a separate letter
+7. In today's horizontal conjuncts (स्त, न्त, त्य …), the vowel of the block is carried by:
+   (a) the first member (b) the virāma (c) the last member, which stands in full form (d) a
+   separate letter
 8. Reading check — write the English meaning of each: (a) अस्ति (b) हस्त (c) स्थान
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -532,7 +541,7 @@ the -ते of नमस्ते a steady long /eː/.
 2. (c) consonant + virāma + consonant — the virāma is inside every conjunct (§5).
 3. (a) स्थ — the silent स shrinks, थ stands (§8). ((b) drops the aspiration; (c) is mistake 2.)
 4. (b) श + क् + त + ि — क is the silent, reduced member (§8, exercise 2).
-5. (b) a vowel smuggled into the cluster — §12 mistake 4; fix with the timing drill.
+5. (b) a vowel smuggled into the cluster — §12 mistakes 1 and 4; fix with the timing drill.
 6. (b) नमः + ते, "homage to you"; the seam-change is sandhi, Volume 3 (§13).
 7. (c) the last member — full form, vowel-carrier (§5). The silent one shrinks; the speaker
    stands.
@@ -554,8 +563,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-take the dictation (exercise 3) cold; re-run the timed grid — smoother, not
   rushed; read the story aloud, clusters one onset.
-- **In 1 week:** lesson 3 brings the irregular ligatures — they lean on today's mechanism and
-  the Unicode X-ray; the chapter exam's two-way conjunct task is exercises 1–2 at full speed.
+- **In 1 week:** lesson 5's Station 2 re-runs the weld rule and today's words; the chapter
+  exam's two-way conjunct task is exercises 1–2 at full speed.
 - **From now on:** the analysis habit rides along on every Devanagari sign you pass — see,
   split, say.
 
@@ -565,7 +574,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 1. **(10 min)** Finish exercises 3 and 4 if not completed in class — the dictation pass and the
    tracing sheet through the dated नमस्ते ceremony row.
-2. **(5 min)** Re-run the timed grid (exercise 5) once; log time and stumbles under yesterday's.
+2. **(5 min)** Re-run the timed grid (exercise 5) once; log time and stumbles under today's class run.
 3. **(10 min, real world)** The conjunct hunt: on Hindi signs, packaging, or headlines, find
    four conjuncts. Copy each and dissect it in the margin — which member lost its stem? Bring
    the finds to class; the strangest one wins the board.
@@ -603,8 +612,7 @@ and the स्त/स्थ contrast; make them dictation referees. English-habi
 timing natively (*stop*, *best*) — their work is the pen: which member shrinks, no daylight in
 the join. Watch both groups on mistake 3; it hides in neat handwriting.
 
-**What students find hard:** believing "a few dozen cover most text" (circle the conjuncts in
-any Sanskrit paragraph — the same few keep appearing); trusting the rule instead of memorizing
+**What students find hard:** trusting the rule instead of memorizing
 shapes (the अस्मि/गन्ध reveal in §8 is the cure — let them read those unprompted); and the
 quiet beat of §17 — give the reprinted first dialogue ten unhurried seconds.
 
@@ -625,7 +633,8 @@ quiet beat of §17 — give the reprinted first dialogue ten unhurried seconds.
 
 > Stroke-order chart, Noto Serif Devanagari outlines, numbered arrows, convention "body →
 > headline". Row 1: स्त in 3 panels — reduced स body (no stem), full त snug against it, shared
-> headline last. Row 2: same procedure on न्त, त्य, क्त. Inset A: the cover test — right member
+> headline last. Row 2: same procedure on न्त, त्य; then क्त, where क keeps its central stem
+> and loses its right-hand curl. Inset A: the cover test — right member
 > hidden, left member visibly incomplete, caption "the left piece must look unfinished". Inset
 > B: WRONG forms struck through — नमसते (full forms side by side) and a त-reduced हस्त. Row 3:
 > the guided word न, म, स्ते with numbered strokes, mātrā last. Footer: हस्त · अन्त · शान्ति ·
@@ -730,29 +739,29 @@ reads them as IPA, not as English spelling.
   v1.c05.l04 (चन्द्र redeems the न्द drill), v1.c05.l05 (two-way conjunct exam; milestone
   line), Volume 2 (अस्मि conjugation — promised, not smuggled), Volume 3 (the नमः + ते seam =
   sandhi), Volume 5 (the śānti-pāṭha in full).
-- **Glossary:** **संयुक्ताक्षर (saṃyuktākṣara) is first-taught here** — add to GLOSSARY.md in
-  the post-chapter loop (suggested hi gloss: जुड़े व्यञ्जनों का एक अक्षर); विराम is
-  first-taught in v1.c05.l01 — confirm both land together; अक्षर is still pending from the
-  v1.c01.l04 flag. Reuses वर्ण, स्वर, व्यञ्जन, विसर्ग, मात्रा per GLOSSARY.md.
+- **Glossary:** **संयुक्ताक्षर (saṃyuktākṣara) is first-taught here** — now in GLOSSARY.md with
+  the hi gloss जुड़े व्यञ्जनों का एक अक्षर, beside विराम (virāma), first-taught in v1.c05.l01, and
+  अक्षर (akṣara), first-taught in v1.c01.l04. Reuses वर्ण, स्वर, व्यञ्जन, विसर्ग, मात्रा per
+  GLOSSARY.md.
 - **Verification flags for Pass C:** Brāhmī dating + early conjuncts (§4 HISTORY) against
   [REF:masica1991 ch.6]; mechanism + three patterns (§5, §15) against research notes 0.2–0.3;
   the Unicode claim (§5, §15, §19 Q2) carries inline attribution (Unicode Standard, Devanagari
-  block) because no REFERENCES.md key exists — same handling as v1.c01.l01's census claim;
-  frequency claim (§5) kept number-free per the banned-claims rule (research note 0.7); सत्य
+  block) because no REFERENCES.md key exists; सत्य
   formation and नमस्ते = नमः + ते (§13) against [REF:apte1890 s.v. सत्य / s.v. नमस्], wording
   consistent with v1.c03.l04 §8; the śānti-pāṭha note stays TRADITION, source-named, never
   assessed. **Law-numbering flag for Pass D:** this lesson and chapter.md count the script-law
   series as 1–4 (v1.c02.l07) + 5 virāma (v1.c05.l01) + 6 conjunct (here); the c03/c04 reviews
-  used "Law 5" for the varga grid — editorial reconciliation needed before `in_review`.
-- **Export notes:** zero 🔊 audio-only items anywhere in this lesson — a course first (§14
-  note); अस्ति formally retires from the glue-word list (update the tracker data); §19 key
+  call the varga grid "the grid principle", unnumbered; reconciled at audit (v1.c04.l04 §20 now
+  reads "all four hold, the grid principle beside them").
+- **Export notes:** zero 🔊 audio-only items in §14, §16 and §17 (§14
+  note); the §6 terms संज्ञा and संयुक्ताक्षरम् carry 🔊 (`audio_only: true`) until v1.c05.l03
+  brings ज्ञ and क्ष; अस्ति formally retires from the glue-word list (update the tracker data); §19 key
   stays inside `<details>` in all renders; §8's tables and §14 may scroll horizontally on
   mobile, never wrap cells; IPA strings contain combining characters (t̪, n̪, d̪ʱ) — NFC
   applies to Devanagari fields only (STYLE_GUIDE §3), never to IPA; the deliberately wrong form
   नमसते (§12, §21–§23) is intentional — exclude it from auto-transliteration spot checks aimed
   at real words.
-- **Register audit:** FACT ×7 (§4 akṣara-unit ×1 · §5 mechanism + Unicode + frequency ×3 · §13
-  सत्य + नमस्ते ×2 · §15 Law 6 ×1; §15's three-patterns callout restates research note 0.3 and
-  is counted with Law 6's block) · HISTORY ×1 (§4 Brāhmī, cited) · TRADITION ×1 (§13
+- **Register audit:** FACT ×7 (§4 akṣara-unit ×1 · §5 mechanism + Unicode ×2 · §13
+  सत्य + नमस्ते ×2 · §15 Law 6 + three patterns ×2) · HISTORY ×1 (§4 Brāhmī, cited) · TRADITION ×1 (§13
   śānti-pāṭha, source-named) · SYMBOL ×0 — quiz Q1–Q8 all FACT-register content; the TRADITION
   note is never assessed.

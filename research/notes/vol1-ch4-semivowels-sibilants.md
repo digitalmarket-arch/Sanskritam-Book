@@ -3,8 +3,8 @@
 Verified facts and word inventories gathered **before** drafting v1.c04. Chapter 4 delivers
 the final 8 consonants — the four antaḥsthā (य र ल व) and the four ūṣman (श ष स ह) — and
 with them the **complete varṇamālā**. The readable-vocabulary unlock is the largest of the
-volume: र brings राम and गुरु; स brings सीता and भाषा; ह completes हिमालय and गृह; and three
-new readable verbs (भवति, वदति, हसति) make the pause-form sentence set genuinely expressive.
+volume: र brings राम and गुरु; स brings सीता and भाषा; ह completes हिमालय and गृह; and four
+new readable verbs (भवति, वदति, हसति, वहति) (corrected at audit) make the pause-form sentence set genuinely expressive.
 
 Cumulative glyph ledger entering Ch 4: all vowels + mātrās + ं ः + ॐ + 25 stops + क म त ल
 (long since full). Additions per lesson below. Every word checked against
@@ -32,7 +32,7 @@ deity"; जय (jaya) "victory"; नर (nara) "man"; वन (vana) "forest"; �
 (ravi) "sun"; वायु (vāyu) "wind"; नव (nava) "new; nine" — cognate with English *new*, Latin
 *novus* [REF:mallory2006] (v1.c01.l01's cognate table pays off in Devanagari); कवि (kavi)
 "poet"; युग (yuga) "age, era" — the *yoke/yoga* PIE family, loan-vs-cognate refresher;
-**भवति (bhavati) "is, becomes"** and **वदति (vadati) "speaks"** — verbs 2 and 3.
+**भवति (bhavati) "is, becomes"** and **वदति (vadati) "speaks"** — verbs 3 and 4 (after चलति, कूजति) (corrected at audit).
 Also readable now, reserve for examples: रथ, तरु, यव, नयन, भय, लय, वर, करुणा, विनय, वचन,
 कुमार, नारी.
 **Sentences:** रामः वदति। गुरुः भवति... (keep predicates honest: रामः वदति। कविः वदति। वीरः
@@ -61,7 +61,7 @@ nonce marked as such).
 showcase word; मही (mahī) "the earth"; बाहु (bāhu) "arm"; मोह (moha) "delusion"; देह (deha)
 "body"; गृह (gṛha) "house" — the 1.x book's घर confusion corrected in passing (गृह is the
 Sanskrit; Hindi घर is its descendant — FACT, one line, no 1.x mention); इह (iha) "here";
-**हसति (hasati) "laughs"** — verb 4; वहति (vahati) "carries, flows".
+**हसति (hasati) "laughs"** — verb 5; वहति (vahati) "carries, flows" — verb 6 (corrected at audit).
 **The completion moment:** all 46 letters + 2 signs owned; the full varṇamālā recited start
 to finish (the L4 assessment's centerpiece); नमस्ते status: न-म-स्-ते needs the स् virāma —
 "one chapter away" (Ch 5 promise tracker).

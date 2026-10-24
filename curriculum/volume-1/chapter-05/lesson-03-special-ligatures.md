@@ -100,7 +100,7 @@ objective 2 in §14 and §18 (exercises 3, 6), §19 (Q8); objective 3 in §8/§1
 > centuries. In hand-copied manuscripts the most frequent clusters were written countless
 > times, and the scribes' fluent shortcuts slowly became the standard: strokes merged,
 > parts shrank or rotated, and a few joins — क्ष, त्र and ज्ञ among them — fused so
-> completely that their components stopped being visible at all. The shapes are
+> far that their components became hard to see — in ज्ञ, not visible at all. The shapes are
 > conventions settled by long use, not designs. [REF:masica1991 ch.6]
 
 > **[FACT · तथ्यम्]** Many schoolbook charts print क्ष त्र ज्ञ (often श्र too) at the end
@@ -118,11 +118,12 @@ Your Chapter 4 completion certificate is safe. Nothing new is entering the alpha
 
 > **[FACT · तथ्यम्]** Conjuncts form in three patterns: horizontal stem-loss (स्त, न्त —
 > lesson 2), vertical stacking (ट्ट, ङ्क — met as they come), and a small irregular set of
-> fused forms that must be learned as units: क्ष त्र ज्ञ श्र द्ध द्व द्य, plus the rarer
-> ह्य and ह्म. Each is still, by composition, exactly two known consonants: क्+ष, त्+र,
-> ज्+ञ, श्+र, द्+ध, द्+व, द्+य. [REF:masica1991 ch.6]
+> fused forms: क्ष त्र ज्ञ श्र. Today's learned units are those four and the round-द
+> stacks द्ध द्व द्य, plus the rarer round-ह stacks ह्य and ह्म. Each is still, by
+> composition, exactly two known consonants: क्+ष, त्+र, ज्+ञ, श्+र, द्+ध, द्+व, द्+य.
+> [REF:masica1991 ch.6]
 
-Why did exactly these fuse? Frequency did part of it (§4). Geometry did the rest: द and ह
+Why did exactly these harden into units? Frequency did part of it (§4). Geometry did the rest: द and ह
 are round, stemless letters — lesson 2's "drop the stem" instruction has nothing to grab —
 so the script had to invent special joins for them; and the र hiding in त्र and श्र has
 costume forms of its own, the next lesson's whole subject. [REF:masica1991 ch.6]
@@ -135,7 +136,7 @@ costume forms of its own, the next lesson's whole subject. [REF:masica1991 ch.6]
 > **[FACT · तथ्यम्]** ज्ञ is written from ज् + ञ, and the classical value follows the
 > spelling: /d͡ʑɲ/ — the palatal affricate released into the palatal nasal. Modern
 > regional practice replaces it: [gj] across the Hindi belt (ज्ञान sounding like "gyāna"),
-> [dn̪j]-type in Marathi-influenced recitation. These are regional habits carried into
+> [d̪n̪j]-type in Marathi-influenced recitation. These are regional habits carried into
 > Sanskrit — real and respectable, and not the classical target. [REF:whitney1889]
 
 This course has stood exactly here before: ऋ (v1.c02.l03), where the northern "ri" is a
@@ -163,7 +164,7 @@ you संयुक्ताक्षर (saṃyuktākṣara) "joined akṣara";
 
 आज के अक्षर आपके लिए नये नहीं हैं — हिन्दी पढ़ने वाली हर आँख इन्हें रोज़ देखती है: क्षमा
 में क्ष, त्रिशूल में त्र, ज्ञान में ज्ञ, श्रीमान् में श्र, बुद्धि में द्ध, विद्या में द्य।
-नया केवल यह भेद है कि ये अक्षर हैं ही नहीं — हर एक के भीतर दो पुराने परिचित जुड़े बैठे
+नया केवल यह भेद है कि ये नये वर्ण हैं ही नहीं — हर एक के भीतर दो पुराने परिचित जुड़े बैठे
 हैं: क् + ष = क्ष, त् + र = त्र, ज् + ञ = ज्ञ, श् + र = श्र। स्कूल के चार्ट पर ये अकसर
 वर्णमाला की पूँछ बनकर लटकते हैं — "क्ष त्र ज्ञ" — यह पढ़ाने की सुविधा है, गिनती नहीं।
 गिनती वही रहेगी जो चौथे अध्याय में पूरी हुई: 13 स्वर, 33 व्यञ्जन, 2 अयोगवाह।
@@ -177,8 +178,8 @@ you संयुक्ताक्षर (saṃyuktākṣara) "joined akṣara";
 इज़्ज़त से उनका नाम देंगे।
 
 तीसरी बात, पुरानी साथी: अन्तिम अ। मित्र "मित्र्" नहीं — मि-त्र; पुत्र पु-त्र; क्षेत्र
-क्षे-त्र; शुद्ध शु-द्ध। हिन्दी की चाल में आख़िरी अ चुप रहता है; संस्कृत में वह हमेशा
-बोलता है — त्र जैसे भारी अक्षर के बाद भी।
+क्षे-त्र; शुद्ध शु-द्ध। हिन्दी की चाल में आख़िरी अ चुप रहती है; संस्कृत में वह हमेशा
+बोलती है — त्र जैसे भारी अक्षर के बाद भी।
 
 और आज का तोहफ़ा: अत्र, तत्र, यत्र — "यहाँ, वहाँ, जहाँ" — तीनों एक साथ पढ़ने में आ गये।
 हिन्दी में भी जोड़ी बनाने की यही आदत है — जहाँ मित्र, वहाँ सुख; संस्कृत ठीक उसी ढंग से
@@ -273,7 +274,7 @@ Chapter 3–4 values written as units:
 **Narrow notes:** the double closure in बुद्ध and शुद्ध is real duration — hold the
 dental contact a beat before the breathy release. For ज्ञ, the regional realizations are
 written in brackets because they are habits, not the phoneme sequence: [gj] (northern
-"gyāna"), [dn̪j] (Marathi-side practice). Classical target: /d͡ʑɲ/ — same policy, same
+"gyāna"), [d̪n̪j] (Marathi-side practice). Classical target: /d͡ʑɲ/ — same policy, same
 notation, as ऋ's [ɾɪ] in v1.c02.l03.
 
 ## 11. Mouth Position
@@ -287,8 +288,8 @@ notation, as ऋ's [ɾɪ] in v1.c02.l03.
 2. **क्ष — back, then curl.** The back of the tongue seals for क्; the release lands
    directly on ष's curled-back tip. Two articulators, zero vowel between them — palm on
    the jaw: it must not drop between क् and ष.
-3. **त्र — teeth, then tap.** त् on the teeth releasing into a single ɾ tap. श्र is its
-   sibling with the hiss of श in front: ɕ into tap.
+3. **त्र — teeth, then tap.** त् on the teeth releasing into a single /ɾ/ tap. श्र is its
+   sibling with the hiss of श in front: /ɕ/ into tap.
 4. **Mirror check:** run the beat test (§9 drill 3) watching the jaw — components bounce
    twice, the unit bounces once.
 
@@ -370,7 +371,7 @@ dress masculine subjects with ः and neuter ones with म् (§15).
 | पात्र | pātra | /pɑːt̪ɾɐ/ | vessel | पात्र, बरतन | neuter; also "worthy recipient" |
 | अत्र | atra | /ɐt̪ɾɐ/ | here | यहाँ | glue word retired — 🔊 since Chapter 1 (§8) |
 | तत्र | tatra | /t̪ɐt̪ɾɐ/ | there | वहाँ | pairs with ततः "then" in stories |
-| यत्र | yatra | /jɐt̪ɾɐ/ | where (relative) | जहाँ | points, never asks — pairs with तत्र (§15) |
+| यत्र | yatra | /jɐt̪ɾɐ/ | where (relative) | जहाँ | points, never asks — pairs with तत्र (§8) |
 | श्री | śrī | /ɕɾiː/ | radiance; honorific | श्री | the sign-board word; श्र + ी |
 | श्रम | śrama | /ɕɾɐmɐ/ | effort, toil | श्रम, मेहनत | masculine — श्रमः; tail check (§12) |
 | बुद्ध | buddha | /bud̪d̪ʱɐ/ | awakened | जागा हुआ; बुद्ध | past participle of √बुध्; the title *Buddha* is this word |
@@ -430,7 +431,7 @@ mechanism plus today's units generate the rest on sight.
 
 Two small sentence upgrades, both used above: neuter subjects wear म् where masculine
 ones wear ः — मित्रम्, ज्ञानम् beside पुत्रः, श्रमः (whole-word habit since जलम् in
-Chapter 3; the full case system is Volume 2's story). And the chapter's milestone line is
+Chapter 3; the full case system is Volume 3's story). And the chapter's milestone line is
 now fully readable: **नमस्ते! अहम् अत्र अस्मि।** (namaste! aham atra asmi.) "Namaste! I
 am here." — अस्मि (asmi) "I am", glossed whole-word like every verb so far, is lesson 2's
 mechanism applied to स् + मि. Lesson 5 will make it official; you could read it tonight.
@@ -533,9 +534,9 @@ and compared with the model audio 🔊. Speed never outranks the seams.
 2. The classical value of ज्ञ is: (a) [gj], as in modern northern "gyāna" (b) /d͡ʑɲ/ —
    ज released into ञ, matching its written components (c) /gɲ/ (d) whatever the local
    habit prefers — there is no classical target
-3. In Unicode, a printed क्ष is stored as: (a) one special क्ष code point (b) the three
-   code points क + ् + ष — the virāma sits invisibly inside (c) an image of the fused
-   shape (d) the IAST letters k-ṣ-a
+3. In Unicode, a printed क्ष is stored as: (a) one special क्ष code point (b) an image of the
+   fused shape (c) the three code points क + ् + ष — the virāma sits invisibly inside
+   (d) the IAST letters k-ṣ-a
 4. A learner's notes show त्त where the book has त्र. The reliable tell is: (a) nothing —
    they are the same sign (b) the tail: a straight diagonal stroke is र (त्र); a second
    त-body is त्त (c) त्र is taller (d) त्त never occurs in real words
@@ -545,10 +546,10 @@ and compared with the model audio 🔊. Speed never outranks the seams.
    a vowel leaked into the seam: the invisible virāma inside क्ष was ignored (c) the ष
    was read as श (d) the final आ was shortened
 7. A wall chart ends its varṇamālā with …श ष स ह क्ष त्र ज्ञ. The honest reading of that
-   chart is: (a) the varṇamālā has 36 consonants (b) क्ष त्र ज्ञ are printed by teaching
-   convention — useful to display, but they are conjuncts of members, and the count stays
-   13 + 33 + 2 (c) the chart is worthless and wrong (d) क्ष त्र ज्ञ were added to
-   Sanskrit later than the other letters
+   chart is: (a) the varṇamālā has 36 consonants (b) क्ष त्र ज्ञ were added to Sanskrit later
+   than the other letters (c) the chart is worthless and wrong (d) क्ष त्र ज्ञ are printed
+   by teaching convention — useful to display, but they are conjuncts of members, and the
+   count stays 13 + 33 + 2
 8. Reading check — write the English meaning of each: (a) मित्र (b) अत्र (c) विद्या
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -557,11 +558,11 @@ and compared with the model audio 🔊. Speed never outranks the seams.
    one *sign*, yes; one *sound* or one *letter*, no.)
 2. (b) /d͡ʑɲ/, following the components (§5, §9). ((a) is a real regional habit, named
    with respect and not the target; (d) overcorrects — the target exists.)
-3. (b) क + ् + ष — what print fuses, the encoding remembers (§5).
+3. (c) क + ् + ष — what print fuses, the encoding remembers (§5).
 4. (b) the tail check: diagonal = र (§12 mistake 3).
-5. (b) relative "where" — it points, never asks; it pairs with तत्र (§8, §15).
+5. (b) relative "where" — it points, never asks; it pairs with तत्र (§8, §17).
 6. (b) §12 mistake 2 — the beat test fixes it: क्ष is one beat.
-7. (b) convention honestly named (§4): real utility, no new letters, the count stands.
+7. (d) convention honestly named (§4): real utility, no new letters, the count stands.
 8. (a) मित्र = "friend"; (b) अत्र = "here"; (c) विद्या = "knowledge, learning" (§14).
 </details>
 
@@ -572,7 +573,7 @@ and compared with the model audio 🔊. Speed never outranks the seams.
 > **The set:** क्ष त्र ज्ञ श्र द्ध द्व द्य (+ ह्य ह्म to recognize) — units to the eye,
 > two known consonants underneath: क्+ष, त्+र, ज्+ञ, श्+र, द्+ध, द्+व, द्+य. **The law:**
 > the virāma sits invisibly inside; the vowel dresses the whole unit (क्षे, ज्ञा, श्री).
-> **The sound:** ज्ञ = /d͡ʑɲ/ classical target; [gj] and [dn̪j] are regional habits,
+> **The sound:** ज्ञ = /d͡ʑɲ/ classical target; [gj] and [d̪n̪j] are regional habits,
 > named with respect. **The traps:** no vowel in the seam; the tail is र (त्र ≠ त्त,
 > श्र ≠ श). **The family:** अत्र तत्र यत्र — and अत्र, the last 🔊 glue word, retired.
 > **The line:** नमस्ते! अहम् अत्र अस्मि। — readable tonight.
@@ -646,7 +647,7 @@ from collapsing mid-word (drill words, not syllables); the त्र/त्त t
 > large; beneath it the equation in smaller type (क् + ष = क्ष) with the two components
 > in a second color; IAST + IPA chip (kṣa · /kʂɐ/); one anchor word (क्षमा). The ज्ञ
 > card carries an extra chip row: "classical /d͡ʑɲ/ — target" with a check, "[gj] ·
-> [dn̪j] — regional habits" in neutral grey, no cross-out (respect, not correction).
+> [d̪n̪j] — regional habits" in neutral grey, no cross-out (respect, not correction).
 > Footer strip: ह्य and ह्म small, captioned "recognize by components". Minimal, two
 > colors, monochrome-safe.
 
@@ -712,7 +713,7 @@ narrator reads them as IPA, not as English spelling.
   simply correct. But look at its components: ja [d͡ʑɐ] and ña [ɲɐ]. The classical value
   follows the spelling: jña [d͡ʑɲɐ]. Hold the tongue still, open the nose, and let the
   sound walk out. A habit and a target — you can own both.
-- **04:10** And the oldest debt in this course is paid: atra [ɐt̪ɾɐ] — *here* — has been
+- **04:10** And one of the oldest debts in this course is paid: atra [ɐt̪ɾɐ] — *here* — has been
   audio-only since your very first story. Read it. Then its family: tatra [t̪ɐt̪ɾɐ] —
   there. yatra [jɐt̪ɾɐ] — where. Yatra mitram, tatra sukham — where there is a friend,
   there is happiness.
@@ -729,7 +730,7 @@ narrator reads them as IPA, not as English spelling.
   common Sanskrit signs aren't letters at all. They're disguises."
 - **Demo (0:07–0:30):** phone keyboard, live: क + ् + ष fuse into क्ष on screen.
   "Every fused sign hides two letters and a silencer — even your keyboard knows." Quick
-  x-rays: त्र splits into त + र, ज्ञ into ज + ञ. "That last one? Hindi says *gyaan* —
+  x-rays: त्र splits into त + र, ज्ञ into ज + ञ. "That last one? Hindi says "gyāna" —
   the classical spelling says ja-ña [d͡ʑɲɐ]. Both are real; only one is the target."
 - **Payoff (0:30–0:43):** ज्ञान assembles on screen. "Learners of this course just read
   *jñāna* — knowledge — the way it is written." Stamp: क्ष त्र ज्ञ — "combinations, not
@@ -761,15 +762,15 @@ narrator reads them as IPA, not as English spelling.
   note; stemless round letters); feeds v1.c05.l04 (र's costumes — the त्र/श्र tail
   named there; क्र foil in exercise 2; triple cluster promised in §15 lands as चन्द्र),
   v1.c05.l05 (exam Task E = two-way component game; register cards "क्ष is a single
-  sound" and "ज्ञ must be [gj]" — both reject, per this lesson's §5/§19), Volume 2
-  (जानाति and the √ज्ञा conjugations; case endings behind ः/म्), Volume 3 (sandhi —
-  the pause-form convention in all sentences here).
+  letter of the Sanskrit alphabet." and "ज्ञ must be pronounced [gj]." — both reject,
+  per this lesson's §5/§19), Volume 2 (जानाति and the √ज्ञा conjugations), Volume 3
+  (case endings behind ः/म्; sandhi — the pause-form convention in all sentences here).
 - **Glossary:** uses वर्ण, स्वर, व्यञ्जन, अयोगवाह, वर्णमाला, मात्रा per GLOSSARY.md;
   विराम/हलन्त and संयुक्ताक्षर are first-taught in v1.c05.l01/l02 — confirm entries land
   in the post-chapter loop. No new terms first-taught here (विशेषसंयोग is this lesson's
   descriptive title, not a glossary term).
 - **Verification flags for Pass C:** fused-forms taxonomy and component analyses (§5,
-  §15) against [REF:masica1991 ch.6]; ज्ñ classical value framing (§5, §10) — locate the
+  §15) against [REF:masica1991 ch.6]; ज्ञ classical value framing (§5, §10) — locate the
   precise Whitney § for j+ñ composition and log it (research note §7: Pass C confirms
   the variants framing mirrors v1.c02.l03); chart-convention claim (§4) stays FACT about
   convention, no dating; \*ǵneh₃- (know/gnōsis) and \*weid- (wit/vidēre) cognate sets
@@ -777,15 +778,15 @@ narrator reads them as IPA, not as English spelling.
   gnosis-borrowing nuance kept; Mitra line (§13) stays TRADITION, named to the Ṛgveda,
   never assessed; क्षेत्र → खेत descent (§13) against [REF:masica1991]; बुद्ध as past
   participle of √बुध् against [REF:apte1890 s.v. बुध्]; मित्र neuter gender against
-  [REF:apte1890 s.v. मित्र]; अस्मि first in-course use here (§15, §17) — whole-word
+  [REF:apte1890 s.v. मित्र]; अस्मि is an l02 headword (v1.c05.l02 §14), reused here (§15, §17) — whole-word
   gloss only, not counted in vocabulary_count 16, conjugation deferred per research
   note §7; §10/§14/§15 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A).
-- **Export notes:** this lesson contains **zero 🔊 audio-only items** — a course first;
-  the glue-word ledger closes here (आम् retired in l01; अस्ति, संस्कृत in l02; अत्र and
+- **Export notes:** this lesson, like l02's §14, §16 and §17, contains **zero 🔊 audio-only items**;
+  the glue-word ledger closes here (आम् retired in l01; अस्ति in l02; अत्र and
   पश्य today — cross-check l01/l02 metadata before publishing the claim in §8/§17).
   Component displays (क् + ष, ज ् ञ) are deliberate un-ligated forms — the exporter must
   not normalize them into ligatures (STYLE_GUIDE §3 permits explicit display forms);
-  bracketed [gj]/[dn̪j] are phonetic-detail notation, excluded from IPA charset linting
+  bracketed [gj]/[d̪n̪j] are phonetic-detail notation, excluded from IPA charset linting
   by design; §19 key stays inside `<details>` in all renders; the §15 units table and
   §23 discrimination grid must render in a font whose क्ष/त्र/ज्ञ match the stroke card.
 - **Register audit:** FACT ×9 (§4 chart convention ×1 · §5 taxonomy + Unicode + ज्ञ

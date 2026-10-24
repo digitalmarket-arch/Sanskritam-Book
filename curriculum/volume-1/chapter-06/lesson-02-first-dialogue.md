@@ -50,7 +50,7 @@ updated: 2026-07-31
 
 Every conversation this course has printed came with a script: रामः spoke, the boy laughed,
 you watched from outside. Today's central question breaks the pattern. तव नाम किम्? — "what
-is your name?" — is the first question in this book whose right answer appears nowhere in it.
+is your name?" — is a question whose right answer appears nowhere in this book.
 Only you can supply it. And one debt comes due: since the very first lesson, a girl named
 Maya has been waiting on a page she asked you a question from — a question the course could
 print only in English. Today you answer her in Sanskrit.
@@ -82,16 +82,23 @@ in §8–§9, §18 (exercises 2, 3), §19 (Q1, Q5, Q7); objective 3 in §8, §18
    Answer it as yourself.
 4. Translate both ways, cold: किम् तत्? — तत् हिमम्।
 5. मित्रम् अत्र अस्ति? — nothing on the page marks this as a question. What does?
+6. **Lesson 1's one-day re-runs** (v1.c06.l01 §20): re-take its dictation cold — eight long
+   words from its dictation track, classical spelling — then one timed count-race circuit
+   (l01 exercise 4), logged beside yesterday's time.
 
 <details><summary>उत्तराणि · Answers</summary>
 
 1. अहम् (aham) "I" — the virāma ्, Law 5's vowel-killer: the final म् is bare /m/.
 2. अस्मि (asmi) "I am" — glossed whole like every verb so far; how it conjugates is
-   Volume 2's opening act, and we do not smuggle it in early.
-3. Said respectfully to a man — the गुरुः in Chapter 5's story. Answer frame: अहम् +
-   your name, or अहम् … अस्मि.
+   Volume 2's verb chapter's business (v2.c04), and we do not smuggle it in early.
+3. Said respectfully to a man — in Chapter 5's snow-abode dialogue, Rāma and the गुरुः
+   ask it of each other. Answer frame: अहम् + your name, or अहम् … अस्मि.
 4. "What is that?" — "That is snow." किम् asks; तत् is its answer partner.
 5. The rising tune alone — a habit since Chapter 3's घटः अत्र अस्ति?
+6. Check spellings against l01 §14: ङ before the k-row (गङ्गा, अङ्गम्, सङ्घः), ञ before च
+   (पञ्च), the dot before स (संस्कृतम्). Block counts per l01 exercise 4: हिमालयः 4 ·
+   संस्कृतम् 4 · वर्णमाला 4 · विद्यालयः 4 · रामायणम् 5 · देवनागरी 5 · उपनिषद् 5 ·
+   महाभारतम् 6.
 </details>
 
 ## 4. Historical Context
@@ -100,7 +107,7 @@ in §8–§9, §18 (exercises 2, 3), §19 (Q1, Q5, Q7); objective 3 in §8, §18
 
 Today's संज्ञा names the lesson: **संवादः** (saṃvādaḥ) "dialogue". Take it apart and you
 find an old friend — the वद् of वदति "speaks" and वदामि "I speak", which you have been
-reading since Chapter 3, now wearing सम् "together". A dialogue is, literally, a
+reading since Chapters 4 and 5, now wearing सम् "together". A dialogue is, literally, a
 speaking-together.
 
 > **[FACT · तथ्यम्]** संवादः is built from सम् "together" + वादः "speech, speaking":
@@ -109,8 +116,9 @@ speaking-together.
 
 > **[HISTORY · इतिहासः]** Dialogue is not a late luxury of Sanskrit literature — it is one
 > of its oldest layers. The Ṛgveda, composed c. 1500–1200 BCE on the scholarly consensus
-> dating, already contains hymns cast entirely as exchanges between two speakers, with no
-> narrator at all. [REF:jamison2014 p.5]
+> dating [REF:jamison2014 p.5], already contains hymns cast entirely as exchanges between
+> two speakers, with no narrator at all — the Yama–Yamī hymn (10.10) is one.
+> [REF:rigveda 10.10]
 
 > **[TRADITION · परम्परा]** The tradition's great teaching texts keep that form: the
 > Upaniṣads stage instruction as question and answer between student and teacher, and the
@@ -127,7 +135,7 @@ answers, and the language happens between them.
 मम नाम …। is what language pedagogy calls a **formulaic chunk**: a fixed frame learned as
 a whole, with one open slot. You will use it correctly today without knowing what the -म
 of मम does or why नाम looks the way it does — exactly as you have used वदामि and अस्मि
-whole since Chapters 3 and 5.
+whole since Chapter 5 — as every verb has been glossed whole since Chapter 3.
 
 > **[FACT · तथ्यम्]** Learning high-frequency conversational frames as unanalyzed wholes —
 > chunks — is a standard, well-supported route into speaking: the frame becomes usable at
@@ -138,7 +146,7 @@ Two more design notes, honestly stated. First, everything in today's dialogue is
 from words you already read — that is the bootcamp principle: fluency grows by running
 *known* material at speed, not by piling on new material [REF:nation2013]. Second, every
 run through the scenes is retrieval practice — you produce the frames from memory, which
-is the strongest rehearsal there is [REF:roediger2006]. And one delivery fact for §9: when
+beats re-reading for long-term retention [REF:roediger2006]. And one delivery fact for §9: when
 a sentence carries a question word (किम्, कः, का), the word itself does the asking; when
 it carries none — त्वम् अपि छात्रः? — the rising tune alone turns statement into question,
 as it has in this course since Chapter 3.
@@ -168,9 +176,11 @@ work नाम's shape is doing — that machinery is Volume 3's. The frame is y
 
 आज आपके पास वह पूँजी है जो अंग्रेज़ी से आने वाले शिक्षार्थी के पास नहीं है — हिन्दी।
 देखिए कैसे: "मेरा नाम राम है" और मम नाम रामः — चाल लगभग वही है, फ़र्क़ बस इतना कि संस्कृत
-का यह साँचा "है" के बिना ही पूरा है। नामवाला वाक्य अध्याय 3 से बिना क्रिया के चलता आया है
-(अहम् रामः) — आज वही साँचा नाम के साथ बोलना है। दूसरी पूँजी: तुम और आप। यही जोड़ी संस्कृत
-में त्वम् और भवान् है — जिसे आप "तुम" कहते हैं, उसे त्वम्; जिसे "आप", उसे भवान्। और तीसरी:
+का यह साँचा "है" के बिना ही पूरा है। नामवाला वाक्य अध्याय 3 से बिना क्रिया के चलता आया है,
+और अध्याय 5 से अहम् के साथ भी — अहम् रामः। आज वही साँचा नाम के साथ बोलना है। दूसरी
+पूँजी: तुम और आप। यही जोड़ी संस्कृत में त्वम् और भवान् है — जिसे आप "तुम" कहते हैं, उसे
+त्वम्; जिस पुरुष को "आप" कहते हैं, उसे भवान् — आदरणीय स्त्री के लिए अलग रूप है, जो आगे
+आएगा। और तीसरी:
 "भी"। संस्कृत का अपि ठीक हिन्दी के भी की तरह अपने शब्द के *पीछे* चलता है — "मैं भी" =
 अहम् अपि। "यह क्या है?" = एतत् किम्? — यहाँ भी "है" नहीं चाहिए।
 
@@ -196,7 +206,8 @@ verb glossed whole. Today adds its partner, the name frame:
 
 **मम नाम …।** (mama nāma …) "My name is …" — say the frame, drop your name in the slot,
 done. And notice what is *not* there: no "is". मम नाम सीता is a complete sentence. The
-naming sentence has been verbless since Chapter 3 — अहम् रामः, मम पुत्रः — and today's
+naming sentence has been verbless since Chapter 3 — and in Chapter 5, अहम् रामः, मम पुत्रः —
+and today's
 frame simply joins that family. नाम is glossed as a chunk; which ending does what inside
 the frame is Volume 3's story, and we will not smuggle it in.
 
@@ -213,8 +224,8 @@ Three question words, all old acquaintances, finally doing a full day's work tog
 
 कः has waited since Chapter 2, का stood beside भाषा in Chapter 4's review as a fixed
 chunk, किम् arrived with Chapter 5's virāma. One honesty note: the questions addressed to
-*you* carry no verb — त्वम् अपि छात्रः? The you-form of अस्मि exists, and it opens
-Volume 2; until then the verbless question is complete, correct, and yours.
+*you* carry no verb — त्वम् अपि छात्रः? The you-form of अस्मि exists, and it arrives
+with Volume 2's first-verbs chapter (v2.c04); until then the verbless question is complete, correct, and yours.
 
 ### त्वम् or भवान् — one honest line
 
@@ -238,8 +249,8 @@ point at a person *through* it. The pointing words for persons themselves are Vo
 
 ### Seven words, one ledger
 
-Yesterday's long words brought the readable ledger to about 226; today's seven — नाम,
-त्वम्, तव, एतत्, अपि, छात्रः, बालिका — push it past 230. Nothing else is new. That is the
+Yesterday's long words brought the readable ledger to 226; today's seven — नाम,
+त्वम्, तव, एतत्, अपि, छात्रः, बालिका — bring it to 233. Nothing else is new. That is the
 bootcamp bargain: a tiny toll, then the whole lesson is spent *using* what you own.
 
 ## 9. Pronunciation
@@ -308,7 +319,7 @@ beat, not an afterthought.
 4. **अपि walking in front.** "अपि अहम्" for "I too". *Fix:* X अपि — it stands *behind*
    its word, exactly like Hindi भी: अहम् अपि, त्वम् अपि.
 5. **छात्रः from a girl.** The ः-word is masculine; classically a girl says अहम् बालिका
-   (or अहम् बाला). The modern feminine छात्रा exists and you will meet it in today's
+   — today's word 7. The modern feminine छात्रा exists and you will meet it in today's
    world — mentioned honestly here, taught in Volume 2 with the gender system.
 6. **The flat question.** त्वम् अपि छात्रः said level is a statement — "you too are a
    student." *Fix:* no question word means the rise carries everything; run §9 drill 1
@@ -322,8 +333,8 @@ beat, not an afterthought.
 
 **नाम** (nāma) "name" — नाम · /n̪ɑːmɐ/
 
-> **[FACT · तथ्यम्]** Sanskrit नामन् (nāman), Latin nōmen, and English *name* descend from
-> one shared Proto-Indo-European word — they are cognates, siblings from a common
+> **[FACT · तथ्यम्]** Sanskrit नामन् (nāman) — the dictionary stem behind today's नाम —
+> Latin nōmen, and English *name* descend from one shared Proto-Indo-European word — they are cognates, siblings from a common
 > ancestor, not borrowings and not parent and child. Your first question today is built on
 > a word your own language has carried all along. [REF:monierwilliams1899 s.v. नामन्]
 
@@ -333,17 +344,18 @@ beat, not an afterthought.
 
 > **[FACT · तथ्यम्]** The dictionaries connect छात्र to छत्र (chatra) "umbrella, parasol":
 > the pupil as the one under the teacher's umbrella — shelter and instruction in a single
-> image. [REF:monierwilliams1899 s.v. छात्र]
+> image. [REF:monierwilliams1899 s.v. छात्त्र]
 
 One reading note: the word carries Chapter 5 inside it — the छ puff, the ा mātrā, the त्र
-join, the ः close. Four chapters of script in seven sounds.
+join, the ः close. Four chapters of script in six sounds.
 
 ### मम नाम … — the frame with no verb
 
 **मम नाम माया।** (mama nāma māyā.) "My name is Māyā." — मेरा नाम माया है।
 
-No "is" — and nothing missing. The naming sentence has been verbless since अहम् रामः in
-Chapter 3; the name frame is the same sentence wearing नाम. Swap the name slot and the
+No "is" — and nothing missing. The naming sentence has been verbless since Chapter 3, and
+has spoken in the first person since अहम् रामः in Chapter 5; the name frame is the same
+sentence wearing नाम. Swap the name slot and the
 frame answers for anyone: मम नाम सीता। मम नाम रामः। And turn it around with किम् in the
 slot and तव in front, and it becomes the question: तव नाम किम्?
 
@@ -382,8 +394,8 @@ Three frames, all verbless or whole-verb, all complete:
 - **अहम् … अस्मि।** — identity frame; अस्मि glossed whole since v1.c05.l02.
 - **त्वम् कः? / त्वम् का? / तव नाम किम्?** — the questions; no verb, none needed.
 
-Two honest boundaries, so nothing is smuggled: the you-form of अस्मि exists and opens
-Volume 2 — until then questions to *you* stay verbless. And the endings inside मम, तव,
+Two honest boundaries, so nothing is smuggled: the you-form of अस्मि exists and arrives
+in Volume 2's first-verbs chapter (v2.c04) — until then questions to *you* stay verbless. And the endings inside मम, तव,
 नाम — why they look as they do — that is Volume 3's system, previewed by not one word here.
 
 ### The question kit
@@ -398,7 +410,7 @@ Volume 2 — until then questions to *you* stay verbless. And the endings inside
 Look at what stands in the naming frames: रामः and छात्रः wear ः; जलम् and मित्रम् wear
 म्; सीता, माया, बालिका stand unchanged. You have been *seeing* this split since Chapter 3
 — मालाs beside बालकःs — and today you are using all three shapes on purpose. Why the
-shapes exist is the gender-and-case story of Volume 2; today, match the shape you heard.
+shapes exist is the gender story of Volume 2 and the case story of Volume 3; today, match the shape you heard.
 
 ### अपि's one rule
 
@@ -420,7 +432,7 @@ Every word is self-read. 🔊 audio: `planned:assets/audio/volume-1/v1c06l02-dia
 नमस्ते! मैं राम हूँ। तुम्हारा नाम क्या है?
 
 — मम नाम सीता। त्वम् कः?
-(mama nāma sītā. tvam kaḥ?) "My name is Sītā. Who are you?" — मेरा नाम सीता। तुम कौन हो?
+(mama nāma sītā. tvam kaḥ?) "My name is Sītā. Who are you?" — मेरा नाम सीता है। तुम कौन हो?
 
 — अहम् छात्रः अस्मि। त्वम् का?
 (aham chātraḥ asmi. tvam kā?) "I am a student. Who are you?" — मैं छात्र हूँ। तुम कौन हो?
@@ -501,8 +513,8 @@ read one letter of it:
 > later in this volume.)*
 
 Chapter 5 let you *read* her greeting. Today the course pays the last line of its oldest
-page. Maya asked in English because you could not yet be asked in Sanskrit. Answer her now,
-aloud:
+page. Maya asked in English because you could not yet be asked in Sanskrit. Hear her in Sanskrit
+at last — say her line aloud:
 
 **मम नाम माया। तव नाम किम्?**
 (mama nāma māyā. tava nāma kim?)
@@ -598,7 +610,8 @@ pause. Write them in Devanagari, daṇḍas and question marks included. Self-ch
 > भवान् कः? respectfully — and where no question word stands, the rise alone asks: त्वम्
 > अपि छात्रः? **The walker:** X अपि = "X too" — always behind its word. **The pointer:**
 > एतत् किम्? — एतत् जलम्। **The words:** seven — छात्रः and बालिका leading. **The debt:**
-> Maya's question, answered after five chapters — मम नाम माया।
+> Maya's line, in Sanskrit after five chapters — मम नाम माया। तव नाम किम्? — answered with
+> your own name.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
@@ -643,7 +656,7 @@ name round: every student introduces themselves to the room in sequence (6) → 
 MOMENT staged as below (4) → dictation start + homework briefing (3).
 
 **Stage the Maya moment — do not narrate it.** Board or slide: the v1.c01.l01 dialogue
-card exactly as first printed, English third line and all. Silence. Let a student read the
+card exactly as v1.c01.l01 §16 now prints it, English third line and all. Silence. Let a student read the
 two Sanskrit lines; let the English line hang for ten unhurried seconds. Then write मम नाम
 माया। under it and step aside — the room will finish the arc before you explain it. Then
 have the whole class answer her question, one name at a time.
@@ -651,7 +664,7 @@ have the whole class answer her question, one name at a time.
 **The छात्रा question is coming — have the honest script ready.** Hindi-medium students
 will ask why Sītā does not say छात्रा. Answer exactly what the course prints: छात्रा is
 common modern usage and perfectly real; the classical default this course follows is अहम्
-बालिका / अहम् बाला, and Volume 2's gender system will give छात्रा its proper seat. Never
+बालिका, and Volume 2's gender system will give छात्रा its proper seat. Never
 "wrong" — "later, and here is the classical way today."
 
 **Names resist Devanagari — normalize that early.** Approximations are correct behavior,
@@ -708,7 +721,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    physically walks to stand behind अहम्; a rising-tune arc draws itself over त्वम् अपि
    छात्रः?; the pointing game runs on जलम् and मित्रम् with a laugh beat.
 5. **THE MOMENT (4:15–5:15):** the screen quiets. The lesson-one card returns, exactly as
-   first printed. The cursor stops under Maya's English line. Then, typed letter by
+   it now stands in v1.c01.l01 §16. The cursor stops under Maya's English line. Then, typed letter by
    letter: मम नाम माया। The stamp flips to "ANSWERED — Chapter 6". Beat of silence.
    Caption: "Now answer her with yours."
 6. **Recap + CTA (5:15–6:00):** the seven words flash in frames, not isolation; end card:
@@ -728,7 +741,7 @@ narrator reads them as IPA, not as English spelling.
   n̪ɑːmɐ mɑːjɑː].
 - **01:45** Three question words, one kit. kaḥ [kɐh] asks after the ḥ-words. kā [kɑː]
   after the ā-words. kim [kim] after things — and after names. And one honest pair: tvam
-  [t̪ʋɐm] to a friend, bhavān [bʱɐʋɑːn̪] with respect — exactly Hindi's tum and āp.
+  [t̪ʋɐm] to a friend, bhavān [bʱɐʋɑːn̪] with respect, to a man — close kin to Hindi's tum and āp.
 - **02:45** Scene one — two students, two questions, two names. Listen for the tune in
   scene two: no question word, so the rise alone asks — tvam api chātraḥ [t̪ʋɐm ɐpi
   t͡ɕʰɑːt̪ɾɐh]? Yes! aham api [ɐɦɐm ɐpi] — I too!
@@ -777,7 +790,7 @@ narrator reads them as IPA, not as English spelling.
   questions since Chapter 3), v1.c04.l01 (तव readable), v1.c04.l04 §16 (का as fixed
   chunk), v1.c05.l03 (त्र in छात्रः; मित्रम्; the म्/ः observation; milestone line quoted
   in §17 line 6), v1.c06.l01 (word-level fluency feeding dialogue speed); feeds
-  v1.c06.l03 (the connected passage; नाम returns mid-paragraph; बालिका mirror line),
+  v1.c06.l03 (the connected passage; नाम returns mid-paragraph; सीता/सा mirror line),
   v1.c06.l04 (Volume Exam reading ladder includes §16 lines; self-introduction re-recorded),
   Volume 2 (conjugation of अस्मि's family incl. the you-form; gender system incl. छात्रा
   and the polite family), Volume 3 (the endings inside मम / तव / नाम).
@@ -788,8 +801,8 @@ narrator reads them as IPA, not as English spelling.
 - **Verification flags for Pass C:** संवाद etymology (§4, §6) against [REF:apte1890 s.v.
   संवाद]; Ṛgveda dialogue-hymn claim (§4 HISTORY) — dating locator p.5 is established, but
   the dialogue-hymns statement needs its own locator in [REF:jamison2014] (introduction,
-  dialogue/ākhyāna hymns) — confirm or soften to TRADITION; धर्म्यं संवादम् wording and
-  locus (§4) against [REF:bhagavadgita 18.70]; नामन् cognate set (§13) against
+  dialogue/ākhyāna hymns) — RESOLVED: primary locus [REF:rigveda 10.10] added in §4;
+  धर्म्यं संवादम् wording and locus (§4) against [REF:bhagavadgita 18.70]; नामन् cognate set (§13) against
   [REF:monierwilliams1899 s.v. नामन्] — phrased sibling-not-mother per the banned-claims
   rule; छात्र ← छत्र derivation (§13) against [REF:monierwilliams1899 s.v. छात्र] — note
   MW's headword spelling छात्त्र beside common छात्र, add a spelling note if Pass C wants

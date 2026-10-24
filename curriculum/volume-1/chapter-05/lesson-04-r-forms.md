@@ -50,8 +50,8 @@ updated: 2026-07-31
 ## 1. Hook
 
 Three words have trailed this course since its opening week — धर्म (dharma), कर्म (karma), अर्थ
-(artha): the star of lesson 1's loan table, the word lesson 3 used to teach you the full final
-vowel, and the ear-word beside it. You can say all three, gloss all three, defend their endings
+(artha): the word v1.c01.l03 used to teach you the full final vowel, the star of
+v1.c01.l01's loan table, and the ear-word beside it. You can say all three, gloss all three, defend their endings
 against every "dharm" — but you have never read one of them. Between you and that trio stands a
 single letter with two secret costumes. Today you learn both, and the oldest ear-words in your
 notebook come home readable.
@@ -163,8 +163,8 @@ is: every word in it became readable in this chapter — अस्ति in less
 पहली बात — नियम का नाम। धर्म लिखते समय आप क्या करते हैं? पहले ध, फिर म, और सबसे आख़िर में ऊपर की
 टोपी। यानी जो ध्वनि बोलने में म से *पहले* आती है, उसे आप लिखने में सबसे *बाद* लगाते हैं — बरसों से,
 बिना सोचे। आज इस आदत को उसका नियम मिलता है: **रेफ लिखने में सबसे आख़िर, बोलने में सबसे पहले।** याद
-कीजिए ि की मात्रा — लिखने में पहले, बोलने में बाद में। रेफ ठीक उसका उलटा जुड़वाँ है। लिपि ने समय की
-यह उलट-फेर दूसरी बार की है, और अब आप दोनों को नाम लेकर समझा सकते हैं।
+कीजिए ि की मात्रा — लिखने में पहले, बोलने में बाद में। रेफ ठीक उसका उलटा जुड़वाँ है। लिपि ने समय का
+यह उलट-फेर दूसरी बार किया है, और अब आप दोनों को नाम लेकर समझा सकते हैं।
 
 दूसरी बात — कर्म और क्रम की जोड़ी। दोनों में वही तीन ध्वनियाँ हैं — क, र, म — फ़र्क़ बस इतना कि र
 पहले आता है या बाद में। ऊपर टोपी = र पहले (कर्म); नीचे तिरछी लकीर = र बाद में (क्रम)। हिन्दी पाठक
@@ -200,7 +200,7 @@ akṣara is one block, and your eye must learn its scanning order: **top first.*
 akṣara aloud, glance at its upper right; if a hook rides there, an r leaves your mouth first.
 
 Placement, precisely: the repha rides the following akṣara as a whole. In सूर्य (sūrya) the र
-comes before य, so the hook sits over the य — सू + र्य, sū-rya. And when that akṣara wears a
+comes before य, so the hook sits over the य — सू + र्य on paper, sūr-ya in the mouth. And when that akṣara wears a
 rightward mātrā, the hook slides to the very end, onto the mātrā's post: watch वार्ता (vārtā)
 "news" — a display word only — where the hook rides the ा of ता. Rightmost, always.
 
@@ -221,7 +221,8 @@ learn — the old machine running one gear longer.
 ### The third little face — रु and रू
 
 With उ and ऊ, र refuses the normal under-hooks and ties the vowel into its own body: **रु** (ru)
-and **रू** (rū) — learned units, like the lesson-3 ligatures. Your word for them today is रूप
+and **रू** (rū) — learned units, like the lesson-3 ligatures. You have read one since v1.c04.l01
+without being told it was irregular: गुरु (guru) ends in रु. Your word for the pair today is रूप
 (rūpa) "form" — and Hindi speakers have written the pair since childhood: रुपया begins with it.
 
 ### The trio's homecoming
@@ -230,7 +231,8 @@ Now read these, slowly, with full final vowels:
 
 **धर्म** (dharma) · **कर्म** (karma) · **अर्थ** (artha)
 
-In v1.c01.l03 these were sounds and glosses only — that lesson drilled you: *final अ full —
+In Chapter 1 these were sounds and glosses only — v1.c01.l01's loan table gave you *karma*, and
+v1.c01.l03 drilled you: *final अ full —
 artha, never "arth"* — and धर्म was the very word it used to name schwa deletion. For four
 chapters you have carried them by ear. Today the eye joins: ध + र्म. क + र्म. अ + र्थ. Read them
 again. Of the four ear-words that third lesson taught — अमृत, अग्नि, अर्थ, अहम् — अर्थ is the last
@@ -252,7 +254,7 @@ consonant: प्र क्र ग्र द्र ट्र (pra · kra · gra 
 reordering tricks sharing one block, and your eye handles both.
 
 **Drill 3 — the two-face switch.** Alternate slowly, naming the face before reading it: र्क — क्र,
-र्ग — ग्र, र्त — त्र. Then the minimal pair of the day, three times: **कर्म — क्रम** (karma —
+र्ग — ग्र, र्त — त्र. Then the r-position pair of the day, three times: **कर्म — क्रम** (karma —
 krama). Same three sounds; only the r's position differs. Finish with the ear test on the drill
 audio: twelve items, each कर्म or क्रम in random order — write which you heard.
 
@@ -307,7 +309,7 @@ on the stem.
    r in sound, rightmost element and all (सूर्य: over the य).
 3. **र्क and क्र swapped.** Both look like "क with something extra", and under time pressure the
    faces trade places. *Fix:* geography, chanted — above = र first, below = र second — and the
-   कर्म/क्रम minimal pair (§9 drill 3) until the switch feels physical.
+   कर्म/क्रम r-position pair (§9 drill 3) until the switch feels physical.
 4. **रु built from parts.** The regular under-hook produces a form that is simply not how रु is
    written. *Fix:* रु and रू are learned units, like क्ष and त्र — write them whole (रुपया is the
    anchor every Hindi writer owns), and keep कृ's vowel-curl out of their territory.
@@ -320,12 +322,13 @@ on the stem.
 
 > **[FACT · तथ्यम्]** English *dharma*, *karma* and *mantra* are genuine **loanwords** from
 > Sanskrit — borrowed whole, in that direction, like *yoga* and *guru* before them.
-> [REF:apte1890 s.v. धर्म]
+> [REF:oed s.vv. dharma, karma, mantra]
 
-Full circle, and worth a pause: lesson 1's loan table — yoga, karma, guru, avatar, jungle, sugar —
-was 🔊 listen-only, family silver you could touch but not read. With today's repha its last
-holdout falls: शर्करा (śarkarā) "gravel; sugar" wears the hook on its क. Every Sanskrit word in
-that first table now reads in the original script, with your own eyes.
+Full circle, and worth a pause: v1.c01.l01's loan table — yoga, karma, guru, avatar, jungle, sugar —
+was 🔊 listen-only, family silver you could touch but not read. Today's repha opens two of its
+holdouts: कर्म (karma), and शर्करा (śarkarā) "gravel; sugar", which wears the hook on its क. Five of
+that first table's six Sanskrit words now read in the original script; the sixth, जङ्गल (jaṅgala),
+waits for the ङ्ग stack of v1.c06.l01.
 
 ### चक्र and *wheel* — the marquee cognate
 
@@ -341,21 +344,23 @@ Loan and cognate in one lesson, the lesson-1 tool sharpened: *karma* was handed 
 
 ### सूर्य and सर्व — worked readings
 
-- **सूर्य** = सू + र्य → sū-rya — /suːɾjɐ/ "sun". The hook rides the य — the akṣara *after* the r
+- **सूर्य** = सू + र्य → spoken sūr-ya — /suːɾjɐ/ "sun". The hook rides the य — the akṣara *after* the r
   in sound. Beside it, आचार्य (ācārya) "teacher, preceptor" ends the same way: आ-चा-र्य.
-- **सर्व** = स + र्व → sa-rva — /sɐɾʋɐ/ "all". Hook over व; the व stays a light /ʋ/. पर्वत
+- **सर्व** = स + र्व → spoken sar-va — /sɐɾʋɐ/ "all". Hook over व; the व stays a light /ʋ/. पर्वत
   (parvata) "mountain" hides the same block mid-word: प-र्व-त.
 
 ## 14. Vocabulary
 
 शब्दावली — seventeen words, the chapter's biggest single haul, taking your readable stock to 214; every word is built from certified parts [REF:nation2013]. Audio: 🔊
 `planned:assets/audio/volume-1/v1c05l04-word-list.mp3` (model reading, each word twice, plus the
-dictation track). Stems are listed bare, as always; sentences dress subjects with ः.
+dictation track). Stems are listed bare, as always — except कर्म, already the nominative of the
+n-stem कर्मन् (karman); sentences dress masculine subjects with ः and neuter ones with म् — चक्रम्,
+रूपम् — while feminine प्रजा and neuter कर्म stand as they are.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | धर्म | dharma | /d̪ʱɐɾmɐ/ | dharma; duty, order | धर्म | the schwa-discipline word of v1.c01.l03, home at last (§8) |
-| कर्म | karma | /kɐɾmɐ/ | action | कर्म, काम | minimal pair with क्रम (§9); English loan (§13) |
+| कर्म | karma | /kɐɾmɐ/ | action | कर्म, काम | r-position pair with क्रम (§9); English loan (§13) |
 | अर्थ | artha | /ɐɾt̪ʰɐ/ | meaning, purpose | अर्थ, मतलब | trio member three; final अ full — *artha* |
 | वर्ण | varṇa | /ʋɐɾɳɐ/ | sound, letter; color | वर्ण (ध्वनि/अक्षर) | the course term itself, now readable |
 | सर्व | sarva | /sɐɾʋɐ/ | all | सब, सारा | hook over व (§13) |
@@ -364,7 +369,7 @@ dictation track). Stems are listed bare, as always; sentences dress subjects wit
 | पर्वत | parvata | /pɐɾʋɐt̪ɐ/ | mountain | पर्वत, पहाड़ | र्व mid-word; story cast |
 | प्रिय | priya | /pɾijɐ/ | dear | प्रिय, प्यारा | प्रि — diagonal r + i-hook in one block (§9) |
 | प्रजा | prajā | /pɾɐd͡ʑɑː/ | people, offspring | प्रजा, जनता | प्र again; final आ long |
-| क्रम | krama | /kɾɐmɐ/ | order, sequence | क्रम, सिलसिला | minimal pair with कर्म (§9) |
+| क्रम | krama | /kɾɐmɐ/ | order, sequence | क्रम, सिलसिला | r-position pair with कर्म (§9) |
 | चक्र | cakra | /t͡ɕɐkɾɐ/ | wheel | चक्र, पहिया | cognate of *wheel* (§13) |
 | ग्राम | grāma | /gɾɑːmɐ/ | village | गाँव | ग्रा — diagonal plus ā-post; story cast |
 | चन्द्र | candra | /t͡ɕɐn̪d̪ɾɐ/ | moon | चन्द्रमा, चाँद | triple cluster न्द्र (§8); dialogue star (§16) |
@@ -396,8 +401,8 @@ vanish into the hook.
 
 ### The writing-order convention
 
-Write the akṣara first; perch the hook last. For धर्म: ध, then म, then the repha on म's shoulder,
-headline closing as usual. Many Hindi writers do this automatically — today the habit becomes a
+Write the akṣara first; perch the hook last. For धर्म: ध, then म, the headline as usual, and only then the
+repha on म's shoulder. Many Hindi writers do this automatically — today the habit becomes a
 rule you can state: **the repha is written after the akṣara it is read before.** The pen and the
 ear disagree on purpose; the rule referees.
 
@@ -441,7 +446,7 @@ Housekeeping, honestly: every word above is self-read — कः since v1.c02.l0
 word is self-read.
 
 1. रविः चलति।
-   (raviḥ calati.) "The sun moves on." — सूरज ढल चलता है।
+   (raviḥ calati.) "The sun moves on." — सूरज आगे बढ़ता है।
 2. चन्द्रः तत्र अस्ति।
    (candraḥ tatra asti.) "The moon is there." — चाँद वहाँ है।
 3. अत्र ग्रामः। तत्र पर्वतः।
@@ -461,7 +466,7 @@ word is self-read.
 > you read; its depths belong to the tradition. [REF:brhadaranyaka 1.4.14]
 
 And the quiet milestone: the boy's question is the course's first *read* question about meaning
-itself — asked in words that were ear-only a week ago.
+itself — asked about a word that was ear-only until today.
 
 ## 18. Exercises
 
@@ -490,7 +495,7 @@ arrows, then धर्म, कर्म, सूर्य, चक्र, मन�
 चन्द्रः तत्र अस्ति। — daṇḍa included.
 
 **अभ्यासः 5 · लेखनक्रमः (the writing-order drill — production).** Write धर्म, कर्म, अर्थ, सूर्य,
-पर्वत large, narrating every stroke aloud as you go ("ध… म… hook on म… headline"). The narration
+पर्वत large, narrating every stroke aloud as you go ("ध… म… headline… hook on म"). The narration
 is the exercise: it forces the convention — akṣara first, hook last, on the akṣara the r is read
 before. Anyone watching should be able to *hear* the rule in your commentary.
 
@@ -625,7 +630,7 @@ first!" — the narration drill makes the discipline audible.
 **Asset 2 — `planned:assets/images/volume-1/v1c05l04-stroke-order.svg`**
 
 > Educational stroke-order chart, Noto Serif Devanagari outlines, numbered arrows. Row 1: धर्म
-> drawn progressively in 4 panels — ध; then म; then the repha sickle perched on म; headline last —
+> drawn progressively in 4 panels — ध; then म; then the headline; the repha sickle perched on म last —
 > caption "akṣara first, hook last". Row 2: क्र and प्र with the diagonal's single stroke
 > numbered; द्र on the round letter's tail; ट्र's caret. Row 3: रु and रू drawn as units, with a
 > crossed-out chip showing a wrongly assembled र + ु. Inset: सूर्य with the hook over य, and
@@ -646,7 +651,7 @@ first!" — the narration drill makes the discipline audible.
 
 Lesson video, ~6 min, presenter + motion graphics.
 
-1. **Hook (0:00–0:35):** three locked doors labeled धर्म, कर्म, अर्थ, waiting since "lesson 3" on
+1. **Hook (0:00–0:35):** three locked doors labeled धर्म, कर्म, अर्थ, waiting since "week 1" on
    a course timeline. A small hook-shape rattles the locks. Title card: रेफः — The Two Faces of R.
 2. **Face one (0:35–1:50):** the धर्म build animated: ध appears; the र folds into a sickle, flies
    a dotted flight path over म, lands. Caption stamps: "written right — read left." The ि-hook of
@@ -658,7 +663,8 @@ Lesson video, ~6 min, presenter + motion graphics.
 5. **THE HOMECOMING (3:20–5:00):** quiet screen. धर्म — कर्म — अर्थ appear unlabeled; the
    Chapter 1 audio-echo plays ("*artha*… full final vowel"); the words underline themselves as
    READ, not heard. The lesson-1 loan table scrolls — yoga, karma, guru, avatar, jungle, sugar —
-   each row's Devanagari lighting up, शर्करा last, its hook glowing.
+   each row's Devanagari lighting up except जङ्गल, which waits for Chapter 6; शर्करा last, its hook
+   glowing.
 6. **Recap + CTA (5:00–6:00):** the geography map recaps both faces; the कर्म/क्रम switch as a
    two-frame toggle. End card: "Next: शेषचिह्नानि — the last signs, the digits, and the conjunct
    exam. Bring everything."
@@ -668,7 +674,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the narrator
 reads them as IPA, not as English spelling.
 
-- **00:00** Three words have waited since your third lesson. dharma [d̪ʱɐɾmɐ]. karma [kɐɾmɐ].
+- **00:00** Three words have waited since your first week. dharma [d̪ʱɐɾmɐ]. karma [kɐɾmɐ].
   artha [ɐɾt̪ʰɐ]. You can say them. Today — at last — you read them.
 - **00:35** Watch dharma being written. dha [d̪ʱɐ]. Then ma [mɐ]. And the r? It folds into a hook,
   flies over the next block, and lands on top. Written to the right — read first. The script
@@ -679,14 +685,14 @@ reads them as IPA, not as English spelling.
 - **01:50** When r comes second, it plays tame: a short diagonal tucked into the letter before it.
   pra [pɾɐ]. kra [kɾɐ]. And it scales: mantra [mɐn̪t̪ɾɐ] welds three consonants with machinery you
   already own.
-- **02:50** Two spellings refuse the rules: ru [ɾu] and rū [ɾuː] — learned whole. Every rupee note
-  in India begins with one.
+- **02:50** Two spellings refuse the rules: ru [ɾu] and rū [ɾuː] — learned whole. Hindi's own word for
+  the rupee begins with one.
 - **03:20** And now — quiet. Read these. dharma [d̪ʱɐɾmɐ]. karma [kɐɾmɐ]. artha [ɐɾt̪ʰɐ]. Full
   final vowels — just as you were taught before you could read a single letter. The oldest
   ear-words of this course are ear-words no longer.
 - **04:20** One more door: the very first loan table — yoga, karma, guru, avatar, jungle, sugar.
-  With today's hook, śarkarā [ɕɐɾkɐɾɑː] — sugar — reads too. That whole table is now yours in the
-  original.
+  With today's hook, śarkarā [ɕɐɾkɐɾɑː] — sugar — reads too. All of that table but jungle is now
+  yours in the original; jungle's stacked letters arrive next chapter.
 - **05:00** Above — r first. Below — r second. karma [kɐɾmɐ] is not krama [kɾɐmɐ] — the hook and
   the diagonal keep them apart, and now, so do you. Next: the script's last signs, the digits, and
   the exam. Bring everything.
@@ -725,8 +731,8 @@ reads them as IPA, not as English spelling.
   extended here to the कृ/क्र/र्क triple); builds on v1.c02.l01 (the ि-hook — the first
   time-travel trick), v1.c05.l01 (virāma; आम् readable — §16), v1.c05.l02 (stem-loss mechanism;
   अस्ति; the Unicode insight applied in §15); closes the reading debt of v1.c01.l03 (धर्म/अर्थ
-  ear-words; the four-ear-word set completes) and v1.c01.l01 §13 (the loan table fully readable
-  via शर्करा); feeds v1.c05.l05 (conjunct exam: both-faces items; the trio in the reading task;
+  ear-words; the four-ear-word set completes) and v1.c01.l01 §13 (the loan table readable
+  via कर्म and शर्करा, all but जङ्गल, whose ङ्ग stack waits for v1.c06.l01); feeds v1.c05.l05 (conjunct exam: both-faces items; the trio in the reading task;
   the timed-reading bar of §18 exercise 6), Volume 2 (object endings deferred in §6's spirit),
   Volume 3 (sandhi; repha alternations with visarga).
 - **Glossary:** candidate addition — **रेफ (repha) "the r-sound; the superscript r-hook"
@@ -747,8 +753,9 @@ reads them as IPA, not as English spelling.
   to v1.c01.l01's loan-vs-cognate definitions; चक्र ~ *wheel* ~ *kúklos* cognate set and
   \*kʷekʷlos reconstruction (§13) against [REF:mallory2006] — direction honesty explicit; BU
   1.4.14 dharma-truth identification (§17 TRADITION) against [REF:brhadaranyaka 1.4.14] —
-  paraphrase, locus carried, never assessed; शर्करा readability claim (§13) assumes ङ्ग-type
-  stacking taught in v1.c05.l02 — confirm against the finalized l02 before review; all §10/§14
+  paraphrase, locus carried, never assessed; loan-table readability claim (§13) resolved at audit:
+  शर्करा needs only the repha; जङ्गल needs the ङ्ग stack, first taught in v1.c06.l01, so
+  §13 counts five of six readable and §24/§25 except जङ्गल; all §10/§14
   IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A).
 - **Register audit:** FACT ×6 (§4 रेफ naming ×1 · §5 positional variants + akṣara unit ×2 · §13
   loans + wheel cognate ×2 · §15 r-rules ×1) · HISTORY ×1 (§4 manuscript hook, cited) · TRADITION

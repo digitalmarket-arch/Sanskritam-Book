@@ -21,7 +21,7 @@ objectives:
   - en: "Count a śloka's syllables and state its shape: four pādas of eight syllables."
     hi: "श्लोक के अक्षर गिनें और उसका रूप बताएँ — आठ-आठ अक्षरों के चार चरण।"
   - en: "Pass the Volume Exam: alphabet + mātrā sweep, two-way conjuncts, the reading ladder, dictation, and the śloka task."
-    hi: "खण्ड-परीक्षा उत्तीर्ण करें — वर्णमाला व मात्रा, संयुक्ताक्षर दोनों दिशा, पठन-सोपान, श्रुतलेखन और श्लोक-कार्य।"
+    hi: "खण्ड-परीक्षा उत्तीर्ण करें — वर्णमाला व मात्रा, संयुक्ताक्षर दोनों दिशाओं में, पठन-सोपान, श्रुतलेखन और श्लोक-कार्य।"
 new_letters: []
 new_matras: []
 vocabulary_count: 0
@@ -90,7 +90,7 @@ the old ones.
 
 1. The homorganic rule: which nasal stands before a k-varga stop inside a word — and
    before a c-varga stop? One word each.
-2. Read aloud, top-scan first: संस्कृतम् · वर्णमाला · रामायणम् · उपनिषद्.
+2. Read aloud, block count first: संस्कृतम् · वर्णमाला · रामायणम् · उपनिषद्.
 3. Print shows गंगा where this course writes गङ्गा. What is the honest one-line account?
 
 *Check against l01 §5, §8, §14.*
@@ -99,7 +99,7 @@ the old ones.
 
 1. The frame, from memory: ask a peer's name; answer with your own.
 2. When does a speaker choose भवान् over त्वम्? One honest line.
-3. Say the pair a girl uses classically for "I am a student" — and the sentence Māyā
+3. Say what a girl classically answers where a boy says अहम् छात्रः अस्मि — and the sentence Māyā
    waited five chapters to hear.
 
 *Check against l02 §8, §12, §16.*
@@ -107,7 +107,7 @@ the old ones.
 ### Station 3 — अनुच्छेदः (lesson 3)
 
 1. Recite the passage's first three sentences from memory — the बालकः-सः-नाम thread.
-2. Why do विद्यालयम् and पुस्तकम् end in म् in the passage? Give the policy answer, not
+2. Why does lesson 1's विद्यालयः appear as विद्यालयम् in the passage? Give the policy answer, not
    a grammar lecture.
 3. Read line 8 aloud — and say why the chapter is named पठनम्.
 
@@ -142,7 +142,7 @@ chapter runs this exam's +1-week interval.
 > testing effect. [REF:roediger2006]
 
 Task C climbs exactly the ladder the volume climbed: single words, then dialogue turns,
-then the connected passage, then a line of literature never read before. Each rung
+then the connected passage, then a line of literature first met today. Each rung
 retrieves the one below it at speed — the fluency strand doing its work on known
 material [REF:nation2013] — so that by the top rung, decoding costs nothing and
 *meaning* gets your whole attention. That is the state Volume 2 assumes on its first
@@ -160,8 +160,8 @@ be free. Today's exam is the receipt that it is.
 > (satyam eva jayate.) — "Truth alone prevails." — सत्य ही जीतता है।
 
 Every word glossed whole, as always: ददाति "gives", एव "alone, indeed", जयते
-"prevails". Pause form, daṇḍa honored — and notice that both lines run on words this
-volume taught: विद्या and सत्य came home in Chapter 5; विनयम् wears lesson 1-of-5's
+"prevails". Pause form, daṇḍa honored — and notice that both lines run on script this
+volume taught: of their words only विद्या and सत्य are ledger words (Chapter 5); विनयम् wears lesson 1-of-5's
 virāma; जयते rides Chapter 2's ए. Literature was the plan all along.
 
 ## 7. Hindi Explanation
@@ -172,9 +172,9 @@ virāma; जयते rides Chapter 2's ए. Literature was the plan all along.
 लेबल।
 
 पहला: **विद्या ददाति विनयम्** — हितोपदेश की भूमिका का चरण। किताब का नाम-पता दर्ज है,
-इसलिए यह "इतिहास/स्रोत सहित" वाली श्रेणी में आराम से बैठता है। दूसरा: **सत्यम् एव
-जयते** — मुण्डक उपनिषद् 3.1.6। इसे आप बरसों से देखते आए हैं — हर सिक्के, हर नोट, हर
-सरकारी मुहर पर, राष्ट्रीय आदर्श-वाक्य के रूप में (1950 से)। आज पहली बार आप इसे *पढ़*
+इसलिए यह "तथ्य — स्रोत सहित" वाली श्रेणी में आराम से बैठता है। दूसरा: **सत्यम् एव
+जयते** — मुण्डक उपनिषद् 3.1.6। इसे आप बरसों से देखते आए हैं — नोटों, सिक्कों और
+सरकारी मुहरों पर, राष्ट्रीय आदर्श-वाक्य के रूप में (1950 से)। आज पहली बार आप इसे *पढ़*
 रहे हैं — जोड़कर लिखा रूप सत्यमेव भी पहचानिए, यह सन्धि की झलक है, जो तीसरे खण्ड का
 विषय है। तीसरा: **सर्वे भवन्तु सुखिनः** — वह मङ्गल-श्लोक जो अनगिनत सभाओं का समापन
 करता है। सच यह है कि इसका मूल ग्रन्थ दर्ज नहीं है — इसे प्रायः उपनिषदों के नाम मढ़ दिया
@@ -209,7 +209,7 @@ sandhi, a complete thought. Read it cold in task C.
 
 > **[HISTORY · इतिहासः]** The line is from the Muṇḍaka Upaniṣad — satyam eva jayate,
 > Muṇḍaka 3.1.6. In 1950 it was adopted as the national motto of India, inscribed
-> beneath the State Emblem — which is why you have seen it on every coin and banknote.
+> beneath the State Emblem.
 > [REF:mundaka 3.1.6] [REF:stateemblem1950]
 
 Two displays, one honesty note: in the source and on the emblem it is written joined —
@@ -225,11 +225,13 @@ form, and *recognize* the joined one.
 "May all be happy; may all be free of illness; may all see good things; may no one
 partake of sorrow."
 
-> **[TRADITION · परम्परा]** This maṅgala (benediction) verse is recited across India at
-> the close of gatherings and recitation sessions. Its source text is **unrecorded**: it
-> is often attributed to the Upaniṣads, but no principal Upaniṣad contains it. We label
-> it *traditional* because that is what the evidence supports — and that honest label is
-> itself today's register lesson.
+> **[TRADITION · परम्परा]** Traditional recitation practice across India closes gatherings
+> and recitation sessions with this maṅgala (benediction) verse.
+
+> **[FACT · तथ्यम्]** The verse's original source is **unrecorded** — no text is securely
+> identified as its origin: it is often attributed to the Upaniṣads, but no principal
+> Upaniṣad contains it. We label it *traditional* because that is what the evidence
+> supports — and that honest label is itself today's register lesson.
 
 Reading notes, honestly: the verse as recited carries two joining changes — कश्चिद् and
 दुःखभाग् — whose pause forms are कश्चित् and दुःखभाक् (the द्/ग् you see are sandhi,
@@ -258,7 +260,8 @@ Volume 2-and-beyond machinery, used today, taught later.
 The §19 quiz (10 questions) completes it: §18 proves you can *do*; §19 proves you know
 *what is so*. Pass = every task at partial-or-better (rubric §22) and quiz 7+/10.
 **Passing completes Volume 1.** The dated, signed exam sheet joins the Chapter 4
-alphabet sheet and the Chapter 5 संस्कृतम् line — three artifacts, one visible journey —
+alphabet sheet and the Chapter 5 संस्कृतम् line, taking the slot v1.c05.l05 §21 gave the
+Chapter 1 sample — three artifacts, one visible journey —
 and the gate to Volume 2 (शब्दाः वाक्यानि च) stands open: what you can now do is read
 and write the entire script, conjuncts included, across a 237-word stock, introduce
 yourself, read a connected passage and a śloka; what Volume 2 adds is vocabulary at
@@ -278,12 +281,13 @@ reading.
 
 **The pāda pause.** Read the śloka one pāda at a time — a hair of silence at each
 quarter's end, a full daṇḍa-stop at each half: सर्वे भवन्तु सुखिनः ‖ सर्वे सन्तु
-निरामयाः ॥ The 8-beat pulse will assert itself; let it — that pulse is the meter you
+निरामयाः । The 8-beat pulse will assert itself; let it — that pulse is the meter you
 will study in Volume 5, arriving early through your own mouth.
 
 **The seam discipline under pressure.** Verse tempo tempts old errors back: keep
-भवन्तु's न्त welded, पश्यन्तु's श्य one onset, भद्राणि's द्र riding the round द, and
-every final अ full — *bhavantu*, never "bhavant".
+भवन्तु's न्त welded, पश्यन्तु's श्य welded with no vowel between (paś-yan-tu),
+भद्राणि's द्र riding the round द, and every final vowel full — *bhavantu*, never
+"bhavant".
 
 **The two literature lines.** विद्या ददाति विनयम् — three words, three beats, daṇḍa.
 सत्यम् एव जयते — pause form first; then read the joined सत्यमेव जयते once, eyes open at
@@ -315,8 +319,8 @@ then the breath; and जयते ends on a steady long /eː/, no glide.
 मुखस्थितिः — the volume's consolidated circuit; these checks score task C. Six
 families, one check each — every reading error today should be caught by one of them.
 
-- **Length (Ch 1–2):** मा vs म — hold long vowels two beats; निरामयाः has three long
-  vowels in a row.
+- **Length (Ch 1–2):** मा vs म — hold long vowels two beats; निरामयाः alternates short and
+  long — नि-रा-म-याः: रा and याः two beats each, नि and म one.
 - **Station (Ch 3–4):** sibilants at their posts — पश्यन्तु's श palatal, सुखिनः's स
   dental; every ह voiced, every visarga voiceless.
 - **Seams (Ch 5):** no vowel inside भवन्तु's न्त or विद्या's द्या; jaw still at each weld.
@@ -335,11 +339,11 @@ families, one check each — every reading error today should be caught by one o
 | 1 | Attributing सर्वे भवन्तु to the Upaniṣads | E, quiz | §8 text three — *unrecorded source*, honestly labeled |
 | 2 | Reading सत्यमेव as an unanalyzed lump | C, quiz | §8 text two — see the seam: सत्यम् + एव; sandhi preview |
 | 3 | Singing the śloka instead of reading it | E | §9 — melody is TRADITION practice; the exam scores plain pause-form reading |
-| 4 | Counting akṣara-blocks instead of spoken syllables | E | §13 worked count — श्चि is one syllable however it is written |
+| 4 | Counting akṣara-blocks instead of spoken syllables — l01's count race gave a final म् its own block | E | §13 worked count — a virāma-final त्/द्/ग् adds no syllable, and a stack like श्च splits across the seam (kaś-cid), as l01 §10 split गङ्गा |
 | 5 | Verse tempo collapsing welds ("bhavantu" → "bhavantuh"/"bhavant") | C, E | §9 seam discipline; slow pāda pass first |
 | 6 | Final-vowel clipping under speed (विनयम् intact, but *dadāti* → "dadāt") | C | the volume's oldest law — accuracy before speed, always |
 | 7 | Alphabet-order slips returning under exam nerves | A | v1.c04.l04 §9 tables; recite before writing |
-| 8 | दुःख read without its mid-word visarga | C, E | v1.c02.l06; the voiceless /h/ is load-bearing |
+| 8 | दुःख read without its mid-word visarga | E | v1.c02.l06; the voiceless /h/ is load-bearing |
 
 ## 13. Examples
 
@@ -349,8 +353,10 @@ families, one check each — every reading error today should be caught by one o
 syllables, not written blocks: सर्-वे (2) भ-वन्-तु (3) सु-खि-नः (3) — **eight**. Now
 pāda 4 in its recited form: मा (1) कश्-चिद् (2) दुःख-भाग् — careful: दुः-ख-भाग् (3) —
 भ-वेत् (2) — **eight**. Four pādas, eight each, thirty-two: you have just verified the
-śloka form with no authority but your own count. (Trap in row 4 of §12: a conjunct like
-श्चि is one syllable — the eye sees a stack, the ear hears one beat.)
+śloka form with no authority but your own count. (Trap in row 4 of §12: lesson 1's count
+race gave every block a number, final म् included — but भवेत् is three blocks and two
+syllables, bha-vet; and the stack in कश्चिद् splits across the seam, kaś-cid, exactly as
+l01 §10 split गङ्गा.)
 
 **Model register sort (task E card).** Card: "सर्वे भवन्तु सुखिनः is from the
 Upaniṣads." It *sounds* right — the verse has the cadence and the company of Upaniṣadic
@@ -372,14 +378,14 @@ list ships as the word-appendix asset (§27); the app's deck keys off the per-ch
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | मम · माता · एक · लोक … | mama · mātā · eka · loka … | — | my · mother · one · world … | — | ch1–2, 54 words — full rows: v1.c02.l07 §14 |
-| खग · जल · चलति · कथा … | khaga · jala · calati · kathā … | — | bird · water · walks · story … | — | ch3, 60 words — full rows: v1.c03.l06 §14 |
+| खग · जल · चलति · कथा … | khaga · jala · calati · kathā … | — | bird · water · moves · story … | — | ch3, 60 words — full rows: v1.c03.l06 §14 |
 | राम · गुरु · भाषा · हिमालय … | rāma · guru · bhāṣā · himālaya … | — | Rāma · teacher · language · Himālaya … | — | ch4, 43 words — full rows: v1.c04.l04 §14 |
 | अहम् · नमस्ते · ज्ञान · धर्म … | aham · namaste · jñāna · dharma … | — | I · greetings · knowledge · dharma … | — | ch5, 57 words — full rows: v1.c05.l05 §14 |
 | गङ्गा | gaṅgā | /gɐŋgɑː/ | the Gaṅgā (river) | गंगा | l01 · ङ्ग stack |
 | अङ्गम् | aṅgam | /ɐŋgɐm/ | limb, part | अंग | l01 |
-| पञ्च | pañca | /pɐɲt͡ɕɐ/ | five | पाँच | l01 · ञ्च stack |
+| पञ्च | pañca | /pɐɲt͡ɕɐ/ | five | पाँच | l01 · ञ्च, side by side |
 | सङ्घः | saṅghaḥ | /sɐŋgʱɐh/ | assembly, community | संघ | l01 · spelling-audit word |
-| संस्कृतम् | saṃskṛtam | /sɐmskr̩t̪ɐm/ | Sanskrit — "the refined" | संस्कृत | l01 · the ceremony word, at speed |
+| संस्कृतम् | saṃskṛtam | /sɐ̃skr̩t̪ɐm/ | Sanskrit — "the refined" | संस्कृत | l01 · the ceremony word, at speed |
 | नमस्कारः | namaskāraḥ | /n̪ɐmɐskɑːɾɐh/ | salutation | नमस्कार | l01 |
 | वर्णमाला | varṇamālā | /ʋɐɾɳɐmɑːlɑː/ | alphabet | वर्णमाला | l01 · the course term |
 | देवनागरी | devanāgarī | /d̪eːʋɐn̪ɑːgɐɾiː/ | the Devanagari script | देवनागरी | l01 |
@@ -395,7 +401,7 @@ list ships as the word-appendix asset (§27); the app's deck keys off the per-ch
 | छात्रः | chātraḥ | /t͡ɕʰɑːt̪ɾɐh/ | student | छात्र | l02 |
 | बालिका | bālikā | /bɑːlikɑː/ | girl | बालिका | l02 |
 | पठति | paṭhati | /pɐʈʰɐt̪i/ | reads, recites | पढ़ता है | l03 · THE chapter verb |
-| पुस्तक | pustaka | /pust̪ɐkɐ/ | book | पुस्तक | l03 |
+| पुस्तकम् | pustakam | /pust̪ɐkɐm/ | book | पुस्तक | l03 |
 | तस्य | tasya | /t̪ɐsjɐ/ | his | उसका | l03 |
 | सः | saḥ | /sɐh/ | he | वह | l03 · with सा "she" as chunk |
 
@@ -412,7 +418,7 @@ its pieces as working words.
 > **2** mātrā · **3** mātrā geography · **4** the leaning signs (ayogavāha) · **5**
 > virāma · **6** the conjunct weld (with the repha, diagonal-र and रु/रू special
 > cases). Plus the sign set ऽ ँ । ॥ and digits ०–९. Everything on a Sanskrit page is
-> named and yours. [REF:masica1991 ch.6] [REF:whitney1889 §9]
+> named and yours. [REF:masica1991 ch.6] [REF:whitney1889]
 
 Verse conventions seen live today: the daṇḍa closes each half-verse, the double daṇḍa
 the verse — and in printed editions a verse number sits between the doubles: ॥१॥. The
@@ -429,7 +435,7 @@ The promise tracker, Volume 1's final edition — every row closed:
 | संस्कृतम् written by you (v1.c04.l04) | ✓ v1.c05.l05 ceremony |
 | Māyā answered in Sanskrit (v1.c01.l01 §16) | ✓ v1.c06.l02 |
 | अहं संस्कृतं पठामि read, not trusted (v1.c01.l01 §6) | ✓ v1.c06.l03 |
-| "Real connected words and a first śloka" (ROADMAP) | ✓ today |
+| "real connected words and a first (sandhi-light) śloka" (ROADMAP) | ✓ today |
 
 ## 16. Conversation
 
@@ -458,7 +464,7 @@ turns. 🔊 in the reading-ladder audio (§27).
 
 Housekeeping, one last time: a student quoting literature inside small talk — that is
 what six chapters bought. (आचार्य stands bare as the address form; the calling form of
-nouns is Volume 2 grammar, used here as a chunk the way names have been all volume.)
+nouns is Volume 3's case machinery, used here as a chunk the way names have been all volume.)
 
 ## 17. Story
 
@@ -477,18 +483,20 @@ Hindi. Every word self-read.
 4. बालिका हसति। छात्रः हसति। अहम् अपि हसामि।
    (bālikā hasati. chātraḥ hasati. aham api hasāmi.) "The girl laughs. The student
    laughs. I laugh too." — बालिका हँसती है। छात्र हँसता है। मैं भी हँसता हूँ।
-5. ततः सर्वे वदति — सर्वे भवन्तु सुखिनः!
-   (tataḥ sarve vadati — sarve bhavantu sukhinaḥ!) "Then all say together: 'May all be
+5. ततः सर्वे वदन्ति — सर्वे भवन्तु सुखिनः!
+   (tataḥ sarve vadanti — sarve bhavantu sukhinaḥ!) "Then all say together: 'May all be
    happy!'" — फिर सब मिलकर कहते हैं — सर्वे भवन्तु सुखिनः!
 6. ॐ शान्तिः शान्तिः शान्तिः।
    (oṃ śāntiḥ śāntiḥ śāntiḥ.) "Om — peace, peace, peace." — ॐ शान्तिः शान्तिः शान्तिः।
 
 Two honest footnotes and one bow. हसामि "I laugh" — the first-person shape you own from
-वदामि and पठामि, glossed whole like all its family. Line 5 stretches one word — सर्वे
-here plays "everyone", and its full grammar is Volume 2's; today it is the verse's own
-word come alive. And line 6 is the śānti-pāṭha close promised in v1.c05.l02 §13 —
-TRADITION register, read by you, every sign yours. The course's first story (v1.c01)
-was six lines you could not read. So is its last. That is the volume.
+वदामि and पठामि, glossed whole like all its family. Line 5 stretches two words — सर्वे
+here plays "everyone", and वदन्ति "they say" is वदति's plural partner, glossed whole like
+हसामि; their grammar comes in later volumes; today सर्वे is the verse's own word come
+alive. And line 6 is the śānti-pāṭha close promised in v1.c05.l02 §13 — TRADITION
+register, read by you, every sign yours. The course's first Sanskrit story (v1.c01.l04's
+माला) was six lines read half by ear. Its last is six lines too — every word read by
+you. That is the volume.
 
 ## 18. Exercises
 
@@ -514,7 +522,7 @@ lesson-3 passage, all eight sentences, under 90 seconds; (4) cold finish: **व�
 passage under its bar, the final line clean.
 
 **कार्यम् D · श्रुतलेखनम् (dictation — production).** The dictation track 🔊 reads
-eight words spanning all six chapters, each twice, pause form — write them in
+eight conjunct-bearing words from Chapters 5–6, each twice, pause form — write them in
 Devanagari — then one sentence, once at pace and once slowly: **सः संस्कृतम् पठति।**
 7/8 words fully correct + the sentence intact (daṇḍa included) is the bar.
 
@@ -548,7 +556,7 @@ tasks.
    Hitopadeśa (c) traditional benediction, source unrecorded (d) Pāṇini
 8. (l04) In the emblem's सत्यमेव, what happened at the seam — and which volume teaches
    that system?
-9. (l03) Why do विद्यालयम् and पुस्तकम् end in म् in the passage? Answer with the
+9. (l03) Why does lesson 1's विद्यालयः appear as विद्यालयम् in the passage? Answer with the
    course's policy line.
 10. (volume) Give the volume's closing counts: how many readable words, and what are
     the six laws of the script (names, not lectures)?
@@ -590,8 +598,8 @@ with "traditional, source unrecorded"; card 2 **FACT/HISTORY** — both halves c
 > self-introduction, question kit, first-person verbs वदामि नमामि वसामि पठामि. **The
 > texts:** a fable-book pāda, the emblem line with its locus, a benediction honestly
 > labeled. **The skill under it all:** four registers — say what is known as firmly as
-> it is known, and no firmer. **The artifacts:** three signed sheets. **खण्ड 1
-> सम्पूर्णम् — Volume 1, complete.**
+> it is known, and no firmer. **The artifacts:** three signed sheets. **खण्डः १
+> सम्पूर्णः — Volume 1, complete.**
 
 Schedule [REF:cepeda2006]: **+1 day** — re-read the passage and the śloka once, cold.
 **+1 week** — Volume 2's first lesson runs this exam's interval: the ladder's rungs 2–3
@@ -649,8 +657,8 @@ re-anchor: today's score is the plain reading, every word complete. Give melody 
 minutes at the end as celebration, after the scoring.
 
 **The certificate moment:** quiet room, three papers on each desk, date and sign. Say
-the counts out loud — six letters in Chapter 1's sample; forty-eight in Chapter 4's;
-two hundred thirty-seven words behind today's. Then the class reads line 6 of §17
+the counts out loud — forty-eight letters in Chapter 4's sheet; one hard-won word,
+संस्कृतम्, in Chapter 5's line; two hundred thirty-seven words behind today's. Then the class reads line 6 of §17
 together, and Volume 1 is closed.
 
 ## 23. AI Image Prompt
@@ -662,8 +670,8 @@ together, and Volume 1 is closed.
 > सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्
 > दुःखभाग् भवेत्॥ — with a small ॥१॥-style verse-number chip explained in a caption.
 > Below: syllable-count rail — each pāda's eight syllables as eight dots, "8 × 4 = 32 —
-> the śloka". Register banner across the top: "परम्परा · TRADITION — source
-> unrecorded, honestly labeled". Side chips: विद्या ददाति विनयम् — "Hitopadeśa,
+> the śloka". Register banner across the top: "परम्परा · TRADITION — recited across India",
+> with a FACT chip "तथ्यम् · FACT — source unrecorded, honestly labeled". Side chips: विद्या ददाति विनयम् — "Hitopadeśa,
 > prastāvikā"; सत्यमेव जयते — "Muṇḍaka 3.1.6 · national motto (1950)", with the seam
 > सत्यम् + एव marked by a small hinge icon.
 
@@ -688,7 +696,7 @@ spec)**
 > a flag icon; task D — eight dictation boxes + one ruled sentence line; task E — the
 > śloka printed in verse form with a dot-rail under each pāda for syllable marking, the
 > two register cards with verdict boxes and one-line reasoning rules; foot of page:
-> date + signature slots and the caption "तीन पत्राणि — three papers, one journey".
+> date + signature slots and the caption "त्रीणि पत्राणि — three papers, one journey".
 
 For the quiz files: v1c06l04-chapter-quiz.md mirrors §19's ten questions; the key lives
 only in v1c06l04-chapter-quiz-key.md (print policy: keys never on the question sheet).
@@ -709,15 +717,15 @@ Lesson video (8–10 min), scene list:
    dusk — सर्वे भवन्तु सुखिनः; the attribution "Upaniṣads?" flickers and dissolves into
    the banner "traditional — source unrecorded", presented as a win, not a loss.
 3. The count (3:30–4:30): the śloka's syllables light up as dots, eight per pāda; a
-   hand counts on fingers; "32. You just verified a verse form older than most
-   alphabets — with your own count."
+   hand counts on fingers; "32. You just verified the śloka form — with your own
+   count."
 4. The exam (4:30–7:00): the five tasks montage — the 48-blank grid filling, conjuncts
    building and splitting, the reading ladder climbing rung by rung with a small
    climber icon, the dictation pen, the śloka read plain.
 5. THE COMPLETION (7:00–8:40): quiet. Three papers slide together on a desk — the
    alphabet sheet, the संस्कृतम् line, today's signed exam. The counts stamp on: 6
    letters → 48 symbols → 237 words. The class voice reads ॐ शान्तिः शान्तिः शान्तिः।
-   Caption: "खण्ड १ सम्पूर्णम् — Volume 1, complete."
+   Caption: "खण्डः १ सम्पूर्णः — Volume 1, complete."
 6. Outro (8:40–9:30): the Volume 2 door: शब्दाः वाक्यानि च — "words, and sentences —
    at scale. The script will never be the hard part again." End card: certificate art.
 
@@ -780,7 +788,7 @@ Sanskritam. Volume 2: words and sentences, at scale. Come read with us." (End ca
 - **Related lessons:** consolidates v1.c06.l01–l03; runs v1.c05.l05's +1-week interval
   as Station 0; retires the promise tracker (§15 — all rows closed, incl. v1.c01.l01's
   Māyā line and अहं संस्कृतं पठामि); completes the ROADMAP's Volume 1 exit criterion
-  ("real connected words and a first sandhi-light śloka"). **Gates Volume 2**
+  ("real connected words and a first (sandhi-light) śloka"). **Gates Volume 2**
   (v2.c01 अभिवादनम् — which opens with this exam's +1-week re-run and the
   three-artifact photo). The śloka and register-card material feeds v2.c06 (first
   subhāṣitas) and v5.c01 (the subhāṣita canon); the sandhi seams previewed here
@@ -806,10 +814,10 @@ Sanskritam. Volume 2: words and sentences, at scale. Come read with us." (End ca
   course-observable (वाक् from v1.c05.l01 is the precedent), flag resolved in the
   verification log; हसामि first-person form follows the वदामि/पठामि pattern — used,
   whole-word glossed, not conjugation-taught.
-- **Register audit:** FACT ×5 (§4 spacing · §5 testing effect · §8 Hitopadeśa pāda +
-  śloka form ×2 · §15 six laws) · HISTORY ×1 (§8 Muṇḍaka + motto, both REFs) ·
-  TRADITION ×2 (§8 the maṅgala verse · §17 the śānti close, both attributed, never
-  assessed as fact) · SYMBOL ×0. Quiz Q4–Q8 test *sources and labels as facts about
+- **Register audit:** FACT ×6 (§4 spacing · §5 testing effect · §8 Hitopadeśa pāda +
+  maṅgala source-status + śloka form ×3 · §15 six laws) · HISTORY ×1 (§8 Muṇḍaka + motto,
+  both REFs) · TRADITION ×1 (§8 the maṅgala recitation practice, attributed, never
+  assessed; §17's śānti close is named TRADITION in prose, no callout) · SYMBOL ×0. Quiz Q4–Q8 test *sources and labels as facts about
   texts* — the register system itself is the assessed content, per the volume's
   design; no devotional claim is assessed anywhere.
 - **Gate:** pass per §8/§22 closes Volume 1 (status flows to the ROADMAP tracker); a

@@ -53,8 +53,9 @@ Two letters were certified in Chapter 3 and have been waiting ever since. ङ ha
 appeared inside a vocabulary word — not in 214 of them; its cameos were spelling
 demonstrations (अङ्क beside अंक, v1.c02.l06; the ङ्क preview of v1.c03.l01). ञ managed a
 single disguise, dissolved past
-recognition inside the ligature ज्ञ, where you had to be *told* it was there. Every other
-letter in the varṇamālā has worked for its keep; these two have sat on the bench for three
+recognition inside the ligature ज्ञ, where you had to be *told* it was there. Nearly every other
+letter in the varṇamālā has worked for its keep — the rare झ and the recognition-only vowels
+ॠ and ऌ are idle by rarity alone — but these two have sat on the bench for three
 chapters. Today you find out why — the reason is a rule, not an accident — and then both go
 to work at once: in the name of India's great river, in the number five, and in the longest
 words you have ever read.
@@ -174,16 +175,16 @@ name.
 
 पहली — गंगा बनाम गङ्गा। हिन्दी की छपाई प्रायः बिंदु से काम चलाती है: गंगा। शास्त्रीय
 संस्कृत वही ध्वनि पूरा अक्षर लिखकर दिखाती है: गङ्गा — ग के ऊपर बैठा ङ, वही "अंक/अङ्क" वाला
-पुराना जोड़ा, अध्याय 3 में आप इससे मिल चुके हैं। पढ़ने में दोनों एक हैं; लिखने में यह
+पुराना जोड़ा, अध्याय 2 में आप इससे मिल चुके हैं। पढ़ने में दोनों एक हैं; लिखने में यह
 पाठ्यक्रम शास्त्रीय रूप लिखता है। यह डाँट नहीं, हिसाब है — छपी दुनिया में आपको दोनों
 मिलेंगे, और अब आप दोनों को पहचानते हैं।
 
-दूसरी — पञ्च बनाम पाँच। हिन्दी का पाँच चन्द्रबिन्दु वाला स्वर है; संस्कृत का पञ्च एक असली
+दूसरी — पञ्च बनाम पाँच। हिन्दी के पाँच में नाक से बोला जाने वाला चन्द्रबिन्दु-स्वर है; संस्कृत का पञ्च एक असली
 व्यंजन ञ रखता है — जीभ तालु को छूती है, ठीक वहीं जहाँ च छूता है। और अन्त की अ पूरी बोलिए:
 *pañca* — "पंच" या "panch" नहीं। अ-लोप वाली पुरानी कसौटी यहाँ भी खड़ी है।
 
 तीसरी — लम्बे शब्दों की तरकीब। महाभारतम् देखकर घबराइए मत; अक्षर गिनिए — म-हा-भा-र-त-म् —
-छह खण्ड, और हर खण्ड चौथी कक्षा जितना आसान। पहले खण्ड-खण्ड, फिर पूरा शब्द, फिर घड़ी लगाकर।
+छह खण्ड, और हर खण्ड अध्याय 4 जितना आसान। पहले खण्ड-खण्ड, फिर पूरा शब्द, फिर घड़ी लगाकर।
 और एक जोड़ी देखिए: अध्याय 4 में आपने हिमालय पढ़ा था — हिम + आलय, "बर्फ़ का घर"। आज का
 विद्यालयः उसी साँचे का शब्द है: विद्या + आलयः, "विद्या का घर"। लिपि ही नहीं, शब्द बनाने का
 ढंग भी अब आपकी पकड़ में आ रहा है।
@@ -211,9 +212,10 @@ stand alone on the line. The bench was not neglect; it was scheduling.
 
 v1.c05.l02 named three conjunct patterns and left one nearly empty: vertical stacking.
 Today it fills. ङ has no vertical stem for the horizontal join to shave, so it stacks —
-ङ् above, partner below: ङ्ग (ṅga), ङ्क (ṅka), ङ्घ (ṅgha). ञ gives up its lower body and
-settles flat onto च: ञ्च (ñca). Fonts vary in the details; the encoding underneath is the
-same old story — C₁ + ् + C₂, the virāma invisible inside the stack exactly as inside स्त.
+ङ् above, partner below: ङ्ग (ṅga), ङ्क (ṅka), ङ्घ (ṅgha). ञ, which carries a full
+stem, takes the ordinary horizontal route instead: it drops its stem and leans against च,
+side by side — ञ्च (ñca), the स्त pattern again. Fonts vary in the details; the encoding
+underneath is the same old story — C₁ + ् + C₂, the virāma invisible inside the stack exactly as inside स्त.
 Read the new blocks in words: **गङ्गा** (gaṅgā), **अङ्गम्** (aṅgam), **सङ्घः** (saṅghaḥ),
 **पञ्च** (pañca). And one display-only stretch: **भगवद्गीता** (bhagavadgītā), whose द्ग is
 the plain Law-6 weld of द् + ग — no nasal involved, shown only to prove the mechanism
@@ -223,7 +225,7 @@ scales to famous names. It stays off your vocabulary list.
 
 Modern print often abbreviates the class nasal to the anusvāra dot: you will meet गंगा on a
 newspaper page where a classical text prints गङ्गा (gaṅgā). Both spell the same sounds; you
-read them identically — the pair you have known since Chapter 3's अंक (aṃka) and अङ्क
+read them identically — the pair you have known since Chapter 2's अंक (aṃka) and अङ्क
 (aṅka), now scaled to real words. This course writes the classical conjunct and asks you to
 recognize both without blinking. One boundary keeps the idea honest: the convenience trade
 concerns a nasal before a **stop**. In संस्कृतम् the dot stands before स — a sibilant — and
@@ -250,7 +252,7 @@ grid-call tracks).
 
 **Drill 1 — the nasal ladder.** Read across with the audio, nose opening before each stop:
 ङ्ग ङ्क ङ्घ ञ्च (ṅga · ṅka · ṅgha · ñca). Then inside words, block by block: अ-ङ्ग-म् —
-अङ्गम्; ग-ङ्गा — गङ्गा; स-ङ्घः — सङ्घः; प-ञ्च — पञ्च. No vowel inside any stack — the
+अङ्गम्; ग-ङ्गा — गङ्गा; स-ङ्घः — सङ्घः; प-ञ्च — पञ्च. No vowel inside any conjunct — the
 Chapter 5 seam discipline unchanged.
 
 **Drill 2 — the count race.** Before reading each word, say its block count aloud:
@@ -274,7 +276,7 @@ No new values. The two returning nasals: ङ /ŋ/ and ञ /ɲ/ — both from Cha
 unchanged.
 
 **Word transcriptions:** गङ्गा /gɐŋgɑː/ · अङ्गम् /ɐŋgɐm/ · पञ्च /pɐɲt͡ɕɐ/ · सङ्घः
-/sɐŋgʱɐh/ · संस्कृतम् /sɐmskr̩t̪ɐm/ · नमस्कारः /n̪ɐmɐskɑːɾɐh/ · वर्णमाला /ʋɐɾɳɐmɑːlɑː/ ·
+/sɐŋgʱɐh/ · संस्कृतम् /sɐ̃skr̩t̪ɐm/ · नमस्कारः /n̪ɐmɐskɑːɾɐh/ · वर्णमाला /ʋɐɾɳɐmɑːlɑː/ ·
 देवनागरी /d̪eːʋɐn̪ɑːgɐɾiː/ · महाभारतम् /mɐɦɑːbʱɑːɾɐt̪ɐm/ · रामायणम् /ɾɑːmɑːjɐɳɐm/ ·
 उपनिषद् /upɐn̪iʂɐd̪/ · विद्यालयः /ʋid̪jɑːlɐjɐh/.
 
@@ -282,9 +284,10 @@ unchanged.
 *first* syllable, exactly as the repha's tap did in [d̪ʱɐɾ.mɐ]; पञ्च is [pɐɲ.t͡ɕɐ]. The
 stack, like the hook, is read across a syllable seam.
 
-**Narrow note — the संस्कृतम् dot:** before स the anusvāra is realized as a light nasal in
-the lips' neighborhood; the course transcription keeps it simple as /sɐmskr̩t̪ɐm/, per the
-ayogavāha convention of the style contract. Before stops, as in गङ्गा, the realization is
+**Narrow note — the संस्कृतम् dot:** before स — a sibilant, not a stop — the anusvāra has no
+row nasal to become, so it stays a pure nasal hum on the vowel, with no lip closure and no
+tongue contact: [sɐ̃skr̩t̪ɐm], the Chapter 2 value (v1.c02.l06), transcribed /sɐ̃skr̩t̪ɐm/
+throughout the course. Before stops, as in गङ्गा, the realization is
 always the row nasal — which is precisely why the letters ङ and ञ exist.
 
 ## 11. Mouth Position
@@ -298,9 +301,9 @@ table with the fifth column lit and arrows into today's words.
    closure, two sounds, nose open then closed. Now पञ्च: the middle of the tongue holds
    च's station through the ञ. If you feel the tongue re-park between nasal and stop, you
    inserted a vowel — re-run drill 1.
-2. **The eye check — taller blocks.** Stacks grow downward: ङ्ग and ञ्च are taller than
-   their neighbors. Scan the *whole* block height before reading, the vertical twin of the
-   repha's top-first scan.
+2. **The eye check — taller blocks.** Stacks grow downward: ङ्ग, ङ्क and ङ्घ are taller
+   than their neighbors; ञ्च is not — it sits side by side, like स्त. Scan the *whole*
+   block height before reading, the vertical twin of the repha's top-first scan.
 3. **The count check.** Before any word of four blocks or more, count first (drill 2). If
    your eye is crawling letter by letter, the count resets it to block-vision.
 
@@ -345,15 +348,15 @@ component, at Chapter 5's closing ceremony. Today it joins your reading list at 
 > from a shared ancestor — not loans in any direction. [REF:mallory2006]
 
 The lesson-1 tool, third outing: *karma* was handed to English whole (a loan); चक्र and
-*wheel* are cousins; पञ्च and *five* are cousins too. The Sanskrit *names* of the numbers
-beyond पञ्च are Volume 2 Chapter 3's subject — today पञ्च is a reading word that happens
-to be the best count-race shout in the language.
+*wheel* are cousins; पञ्च and *five* are cousins too. The Sanskrit *names* of the numbers,
+one to ten, पञ्च among them, are Volume 2 Chapter 3's subject — today पञ्च is a reading
+word that happens to be the best count-race shout in the language.
 
 ### Built words — नमस्कारः and विद्यालयः
 
 - **नमस्कारः** = नमः (namaḥ) "a bow" + कारः (kāraḥ) "a making" — "the making of a bow",
   नमस्ते's formal sibling [REF:apte1890 s.v. नमस्कार]. You met the -कार element in
-  Chapter 5: the grammarians' ककार (kakāra), "the k-maker". Same worker, warmer job.
+  Chapter 5: the grammarians' ककार (kakāra), "the k" — literally "k-making". Same worker, warmer job.
 - **विद्यालयः** = विद्या (vidyā) "learning" + आलयः (ālayaḥ) "abode" — "abode of learning",
   the mold of Chapter 4's हिमालय, "abode of snow". As a word for "school" it is standard
   *modern* Sanskrit usage — the term on real school gates today — and we label it as that.
@@ -372,8 +375,8 @@ masculines ः.
 | गङ्गा | gaṅgā | /gɐŋgɑː/ | the Gaṅgā (river) | गंगा | ङ finally at work — ङ्ग stack (§8); print also shows गंगा |
 | अङ्गम् | aṅgam | /ɐŋgɐm/ | limb, part | अंग | neuter — wears म्; three blocks: अ-ङ्ग-म् |
 | पञ्च | pañca | /pɐɲt͡ɕɐ/ | five | पाँच | cognate of *five* (§13); never "panch" (§12) |
-| सङ्घः | saṅghaḥ | /sɐŋgʱɐh/ | assembly, community | संघ | ङ्घ — the stack with breathy घ; spelling-audit word |
-| संस्कृतम् | saṃskṛtam | /sɐmskr̩t̪ɐm/ | Sanskrit — "the refined" | संस्कृत | the ceremony word, now at speed (§13); dot before स is classical (§15) |
+| सङ्घः | saṅghaḥ | /sɐŋgʱɐh/ | assembly, community | संघ | ङ्घ — the stack with breathy घ; print also shows संघ |
+| संस्कृतम् | saṃskṛtam | /sɐ̃skr̩t̪ɐm/ | Sanskrit — "the refined" | संस्कृत | the ceremony word, now at speed (§13); dot before स is classical (§15) |
 | नमस्कारः | namaskāraḥ | /n̪ɐmɐskɑːɾɐh/ | salutation | नमस्कार | नमः + कारः (§13); नमस्ते's formal sibling |
 | वर्णमाला | varṇamālā | /ʋɐɾɳɐmɑːlɑː/ | alphabet — garland of sounds | वर्णमाला | the course term, readable whole; र्ण repha inside |
 | देवनागरी | devanāgarī | /d̪eːʋɐn̪ɑːgɐɾiː/ | the Devanagari script | देवनागरी | the script's own name; its biography debated (§4) |
@@ -397,8 +400,9 @@ finishes the nasal system.
 
 > **[FACT · तथ्यम्]** (1) Within a word, the nasal before a stop is that stop's own varga
 > nasal — ङ before k-row stops, ञ before c-row, ण before ṭ-row, न before t-row, म before
-> p-row. (2) In writing, these pairs form conjuncts — for ङ and ञ, vertical stacks: ङ्ग,
-> ङ्क, ङ्घ, ञ्च — which is why the two letters rarely stand alone. (3) Modern convenience
+> p-row. (2) In writing, these pairs form conjuncts — for ङ, which has no stem, vertical
+> stacks: ङ्ग, ङ्क, ङ्घ; for ञ, which has one, the ordinary side-by-side join with the stem
+> dropped: ञ्च — which is why the two letters rarely stand alone. (3) Modern convenience
 > spelling may abbreviate the class nasal to the anusvāra dot (गंगा for गङ्गा); both
 > spellings are read identically, and this course writes the classical conjunct. (4) Before
 > a sibilant — as in संस्कृतम् — the anusvāra is not an abbreviation but the classical
@@ -484,10 +488,8 @@ The quiet milestone: line 5 is the course's first story moment in which a charac
 अभ्यासाः — six exercises; 2, 3, 4 and 5 are production tasks. Do them in order.
 
 **अभ्यासः 1 · अन्वेषणम् (nasal-spotting — timed).** Sixty seconds: scan the §14 list and
-circle every place ङ or ञ is at work. Check: ङ three times (गङ्गा, अङ्गम्, सङ्घः), ञ once
-(पञ्च). Two follow-ups, ten seconds each: which listed word carries a nasal *dot* that is
-classical, not convenience? (संस्कृतम् — before स.) Which display word welds द् to ग?
-(भगवद्गीता.)
+circle every place ङ or ञ is at work. Two follow-ups, ten seconds each: which listed word
+carries a nasal *dot* that is classical, not convenience? Which display word welds द् to ग?
 
 **अभ्यासः 2 · निर्माणम् (build and dissect — production).** Write, then read your answers
 aloud. (a) Build: ग + ङ् + गा → ? · अ + ङ् + ग + म् → ? · प + ञ् + च → ? · स + ङ् + घः →
@@ -501,15 +503,15 @@ pause. Write them in Devanagari, classical spelling. Self-check with §15's gift
 did you write ङ? Before च, ञ? Before स, the dot? 7/8 is a pass; re-take tomorrow (§20).
 
 **अभ्यासः 4 · गणना-स्पर्धा (the count race — production, spoken).** Say each block count
-aloud *before* reading the word, fast as you can: हिमालयः (4) · संस्कृतम् (4) · वर्णमाला
-(4) · विद्यालयः (4) · रामायणम् (5) · देवनागरी (5) · उपनिषद् (5) · महाभारतम् (6). Shout
+aloud *before* reading the word, fast as you can: महाभारतम् · हिमालयः · देवनागरी · संस्कृतम् ·
+उपनिषद् · वर्णमाला · रामायणम् · विद्यालयः. Shout
 पञ्च! for the fives. Time the circuit; repeat tomorrow and log both times — the drop *is*
 the fluency.
 
 **अभ्यासः 5 · द्रुतपाठः (three-speed reading — production, recorded).** Record §9 drill 3's
 third pass: the twelve §14 words at target pace. The bar: **under 45 seconds, zero clipped
 final vowels, no vowel inside any stack.** Compare against the word-list audio 🔊; log your
-time — the Volume Exam's reading ladder (v1.c06.l04) will ask for it.
+time — it is the baseline for §20's one-week three-speed pass.
 
 **अभ्यासः 6 · शब्दजालम् (the speed grid — timed).** Print the grid ✍: today's twelve words
 mixed with thirteen old friends (नमस्ते · आचार्य · हिमालय · पर्वत · मन्त्र · चन्द्र ·
@@ -551,8 +553,15 @@ yourself in random order and play it back cold.
 4. (c) — cognates from \*pénkʷe; no loan in either direction (§13).
 5. (c) — sam + kṛta, "put together, refined" (§13).
 6. (b) — before a sibilant the anusvāra is classical, not convenience (§8, §15).
-7. (a) — नमः + कारः (§13). ((b) is seam confusion: स्का welds कारः's क to नमः's final स्.)
+7. (a) — नमः + कारः (§13). ((b) is seam confusion: in स्का, कारः's क welds to the स् that
+   नमः's ः becomes inside the word — the same change as in नमस्ते, v1.c03.l04.)
 8. (a) "limb, part"; (b) "assembly, community"; (c) "school"; (d) "alphabet" (§14).
+
+Exercise 1: ङ three times — गङ्गा, अङ्गम्, सङ्घः; ञ once — पञ्च; the classical dot —
+संस्कृतम्, before स; the द्ग weld — भगवद्गीता.
+
+Exercise 4 counts: महाभारतम् 6 · हिमालयः 4 · देवनागरी 5 · संस्कृतम् 4 · उपनिषद् 5 ·
+वर्णमाला 4 · रामायणम् 5 · विद्यालयः 4.
 </details>
 
 ## 20. Revision
@@ -560,9 +569,9 @@ yourself in random order and play it back cold.
 पुनरावृत्तिः — one screen to remember.
 
 > **The rule:** inside a word, the stop chooses its own nasal — ङ before the k-row, ञ
-> before the c-row. **The homes:** ङ्ग ङ्क ङ्घ ञ्च — vertical stacks, no vowel inside.
-> **The two spellings:** गङ्गा = गंगा, one reading; the course writes the classical
-> conjunct. **The classical dot:** संस्कृतम् — before a sibilant the anusvāra *is* the
+> before the c-row. **The homes:** ङ्ग ङ्क ङ्घ — vertical stacks; ञ्च — side by side, stem
+> dropped; no vowel inside any of them. **The two spellings:** गङ्गा = गंगा, one reading;
+> the course writes the classical conjunct. **The classical dot:** संस्कृतम् — before a sibilant the anusvāra *is* the
 > classical spelling. **The trick:** count blocks first — महाभारतम् is six easy blocks,
 > not one hard word. **The prize:** twelve long words, 226 total — the river, the number,
 > the school, and the course's own name at speed.
@@ -571,11 +580,13 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** re-take the dictation (exercise 3) cold; run the count race (exercise 4)
   once and log the time next to today's.
-- **This week:** Chapter 5's +1-week interval lands now — re-run v1.c05.l05 tasks C and E
-  (the reading ladder and the two-way conjunct exam) as scheduled there. Today's stacks
-  make task E's build items feel small; enjoy that.
-- **In 1 week:** the Volume Exam (v1.c06.l04) reading ladder includes today's list at
-  target pace — keep the 45-second bar warm with one three-speed pass.
+- **This week:** keep v1.c05.l05 tasks C and E warm
+  (the reading ladder and the two-way conjunct exam) — Chapter 5's +1-week interval comes
+  due as the Volume Exam's Station 0 (v1.c06.l04 §3), a compressed two-item re-run. Today's
+  stacks make task E's build items feel small; enjoy that.
+- **In 1 week:** the Volume Exam (v1.c06.l04) reading ladder opens with a twelve-word row
+  from the whole volume — गङ्गा, संस्कृतम् and पञ्च among them; keep today's list warm with
+  one three-speed pass.
 
 ## 21. Homework
 
@@ -601,7 +612,8 @@ method.
 अध्यापकटिप्पणी
 
 **Open with the bench, not the rule.** Put the varga table on the board and ask which
-letters the class has never read inside a word. Someone will find ङ and ञ; let the room
+letters the class has never read inside a word. Someone will find ङ and ञ — sharp eyes may
+also name the rare झ and the recognition-only ॠ ऌ, idle by rarity rather than by rule; let the room
 feel the oddity first. Then the rule lands as a *solution* — the stop chooses its own
 nasal, so these two only work in conjuncts — and the three-chapter wait turns from neglect
 into good scheduling. That narrative beat is the lesson.
@@ -700,13 +712,13 @@ narrator reads the cue, not the English spelling.
   Listen: gaṅgā [gɐŋgɑː] — gaṅgā [gɐŋgɑː]. You cannot hear the difference, because there
   is none. Two spellings, one reading. We write the classical one.
 - **03:00** And this word you have written before — slowly, at a ceremony, with your own
-  hand. saṃskṛtam [sɐmskr̩t̪ɐm]. The dot. The weld. The vowel that is a syllable. The
+  hand. saṃskṛtam [sɐ̃skr̩t̪ɐm]. The dot. The weld. The vowel that is a syllable. The
   killer stroke. Four chapters, four blocks. Now read it fast.
 - **04:20** Long words are just more blocks. Count: rā-mā-ya-ṇa-m [ɾɑː mɑː jɐ ɳɐ m] —
   five! In Sanskrit: pañca [pɐɲt͡ɕɐ]! mahābhāratam [mɐɦɑːbʱɑːɾɐt̪ɐm] — six. The titles
   of a literature, read block by block, by you.
-- **05:20** The bench is empty: every letter in the varṇamālā [ʋɐɾɳɐmɑːlɑː] now works for
-  its keep. Next — your first real dialogue: Sanskrit asks your name, and you answer.
+- **05:20** Off the bench at last: ṅa [ŋɐ] and ña [ɲɐ] now work for their keep in the
+  varṇamālā [ʋɐɾɳɐmɑːlɑː]. Next — your first real dialogue: Sanskrit asks your name, and you answer.
 
 ## 26. Reel Script
 
@@ -741,13 +753,13 @@ narrator reads the cue, not the English spelling.
 - **Related lessons:** reviews v1.c03.l01 and v1.c03.l02 (the ङ/ञ certifications and their
   "Chapter 5's business" IOUs — both paid today) and v1.c05.l02 (Law 6; the vertical-stack
   pattern named there, populated here); builds on v1.c02.l06 (anusvāra as class nasal) and
-  v1.c05.l05 (the संस्कृतम् ceremony; its +1-week task C/E re-run is scheduled in §20);
-  feeds v1.c06.l02 (नमस्कारः in live use), v1.c06.l03 (the passage), v1.c06.l04 (reading
-  ladder: today's list and the 45-second bar), Volume 2 Chapter 3 (number names — पञ्च is
+  v1.c05.l05 (the संस्कृतम् ceremony; its +1-week task C/E re-run runs as v1.c06.l04's
+  Station 0); feeds v1.c06.l02 (the first dialogue), v1.c06.l03 (the passage), v1.c06.l04
+  (नमस्कारः in live use; reading ladder rung 1 includes गङ्गा, संस्कृतम्, पञ्च), Volume 2 Chapter 3 (number names — पञ्च is
   the preview), Volume 3 (sandhi: nasal assimilation *between* words).
 - **Glossary:** reuses वर्ण, वर्णमाला, अनुस्वार, संयुक्ताक्षर, विराम per GLOSSARY.md;
-  candidate addition — **पञ्चम (pañcama) "the fifth — traditional name for a varga's
-  nasal member" (first-taught v1.c06.l01)**.
+  adds **पञ्चम (pañcama) "the fifth — traditional name for a varga's
+  nasal member"** — already entered in GLOSSARY.md, first-taught v1.c06.l01.
 - **Export notes:** vocabulary arithmetic is canonical: 214 (per v1.c05.l05 §14/§27) + 12
   = **226**. भगवद्गीता and the bare drill syllables (ङ्ग ङ्क ङ्घ ञ्च) are display-only —
   exclude from counts and decks. Export गंगा as `variant_spelling` (a real convenience

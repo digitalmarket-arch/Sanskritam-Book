@@ -90,7 +90,7 @@ objective 2 in §15 and §18 (exercise 4), §19 (Q6); objective 3 in §9 (drill 
 <details><summary>उत्तराणि · Answers</summary>
 
 1. Between English v and w: the lower lip approaches the upper teeth — a light touch, no
-   friction — व /ʋ/, the middle ground both languages miss.
+   friction — व /ʋ/, the middle ground both English sounds miss.
 2. य (ya) with इ; र (ra) with ऋ; ल (la) with ऌ; व (va) with उ — each glide the consonant
    shadow of its vowel.
 3. राम (rāma), वन (vana) — long आ-mātrā in राम, both final vowels full.
@@ -140,10 +140,11 @@ that never quite closes — so every stop you own is a recipe: say च and freez
 without moving anything, force breath through — out comes श. Say ट, freeze the curl,
 hiss — ष. Say त, freeze at the teeth, hiss — स. Three sounds, zero new tongue positions.
 
-Your ear gets a handle too: the farther back the constriction, the longer the resonating
-pocket in front of it and the lower the noise. श is the *bright* hiss, ष the *dark,
-hollow* one, स the plain sharp one — a pitch staircase you can hear yourself descend in
-the triangle drill (§9).
+Your ear gets a handle too: the bigger the resonating pocket in front of the constriction,
+the lower the noise — tiny at the teeth, small under the raised dome, and largest under
+ष's curled-back tip, which hollows a pocket beneath itself. श is the *bright* hiss, ष the
+*dark, hollow* one, स the plain sharp one — a pitch staircase you can hear yourself
+descend in the triangle drill (§9).
 
 > **[FACT · तथ्यम्]** Everyday modern Hindi has merged श and ष completely in speech —
 > both are pronounced alike, roughly as English "sh" — though the letters stay distinct
@@ -163,13 +164,14 @@ the triangle drill (§9).
 
 सीता वदति। ऋषिः अत्र अस्ति।
 (sītā vadati. ṛṣiḥ atra asti.)
-"Sītā speaks. The seer is here." — सीता बोलती है। ऋषि यहाँ है।
+"Sītā speaks. The seer is here." — सीता बोलती है। ऋषि यहाँ हैं।
 
 The place-labels of Chapters 1 and 3 are doing new work, इति quoting as always. In the
 second pair, सीता, वदति and ऋषिः are fully yours as of today; अत्र 🔊 and अस्ति 🔊 are
 ear-glue — heard and understood, not yet spelled, since each hides a conjunct (त्र, स्त),
-Chapter 5's business. अस्ति "is" joins the ear-glue stock today; भवति, from lesson 1, is
-its readable cousin.
+Chapter 5's business. अस्ति "is" has been ear-glue since the course's first Sanskrit
+sentence (v1.c01.l01 §6) and stays so even with स in hand; भवति, from this chapter's
+lesson 1, is its readable cousin.
 
 ## 7. Hindi Explanation
 
@@ -194,8 +196,8 @@ its readable cousin.
 केवल स्पर्श की जगह साँस रखनी है। "पेट-कटा ष" को आज उसकी अपनी आवाज़ वापस मिलती है।
 
 रहा स — वह सबसे सीधा है: दाँतों वाला, साफ़-सुथरा s. बस एक छोटी चौकसी: कुछ बोलियों और
-आदतों में सि/सी से पहले स हल्का "श" की ओर फिसल जाता है। संस्कृत में स हर जगह एक-सा साफ़
-रहता है — सीता में वही स, जो रस में।
+आदतों में इ/ई से पहले — सि, सी में — स हल्का "श" की ओर फिसल जाता है। संस्कृत में स हर
+जगह एक-सा साफ़ रहता है — सीता में वही स, जो रस में।
 
 और अन्त में आज का उपहार: भाषा। जो चीज़ आप सीख रहे हैं, उसका नाम आज से आप ख़ुद पढ़ और लिख
 सकते हैं — भा में आपका भ और आ की मात्रा, षा में आज का ष। छोटा शब्द, बड़ा क़दम।
@@ -321,9 +323,9 @@ cutaways side by side.
    [ʃ] or स — विष slides toward विस. *Fix:* the freeze-check — stop mid-word on the ष
    and hold: is the tip actually past the ridge? पुरुष and दोष are the test words.
 4. **ष written as य (the shape trap).** Both hang a rounded body on the same stem — a
-   hurried ष loses its diagonal sash and drifts toward य (or प). *Fix:* the sash *is*
-   the letter: प's bowl plus one clean diagonal = ष. In dictation, check every ष for its
-   sash, every य for its empty bowl (§15).
+   hurried ष loses its diagonal sash and becomes प — and with a curled left arm, य.
+   *Fix:* the sash *is* the letter: प's bowl plus one clean diagonal = ष. In dictation,
+   check every ष for its sash, every य for its empty bowl (§15).
 
 ## 13. Examples
 
@@ -338,15 +340,16 @@ cutaways side by side.
 > shared ancestor language — sister words descending side by side, not one language
 > borrowing from, or giving birth to, another. [REF:mallory2006]
 
-The cognate table of v1.c01.l01 paid its first installments in Latin letters; today two
-of its rows come home to Devanagari, and you can *read* the kinship.
+The cognate table of v1.c01.l01 (mother, two, three, name, all heard by ear) taught the
+idea; today two new rows join it, already readable in Devanagari, and you can *read* the
+kinship.
 
 ### शिव — the adjective before the name
 
 **शिव** (śiva) "auspicious, kind" — मंगलकारी; शिव · /ɕiʋɐ/
 
 > **[FACT · तथ्यम्]** As a dictionary word, शिव is an adjective: "auspicious, gracious,
-> kind, friendly." [REF:apte1890 s.v. शिव]
+> kind, friendly." [REF:apte1890 s.v. शिव], [REF:monierwilliams1899 s.v. शिव]
 
 > **[TRADITION · परम्परा]** In the Purāṇic and devotional traditions, Śiva is the name
 > of the great god — the auspicious one par excellence. In this lesson the word is
@@ -374,10 +377,11 @@ today, when this course says "the language," you can write which one.
 ## 14. Vocabulary
 
 शब्दावली — fifteen words, every one readable, no 🔊 crutches; the chapter's great unlock
-keeps rolling toward its ≈140-word finish line. Audio: 🔊
+keeps rolling: 143 readable words as of today, 157 by the chapter's end. Audio: 🔊
 `planned:assets/audio/volume-1/v1c04l02-word-list.mp3` (model reading, each word twice,
-plus the dictation track). Masculine a-stems appear in bare stem form, as always;
-sentences add ः — §17 shows ऋषिः doing exactly that.
+plus the dictation track). Nouns appear in bare stem form, as always; a masculine
+subject in a sentence adds ः — §17 shows ऋषिः doing exactly that, just as कविः did in
+lesson 1.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
@@ -413,23 +417,26 @@ Course convention as ever — body first, stem next, headline last; the stroke c
 handwriting traditions vary in details.
 
 - **श** — the small left curl first: a tight loop hanging just under headline height;
-  then the body — the open bowl sweeping right and down into the stem-line, with the
-  short tail flicking down-left from its base; then stem, headline. The closed curl is
-  श's signature.
-- **ष** — write प's bowl first; then the sash — one clean diagonal from the bowl's upper
-  right down through to its lower left; then stem, headline. Think of the sash as the
-  tongue-curl made visible: प with a slash is ष, and the slash is what your tongue does.
+  then the body — the line swinging right and back down to the left into a small hook,
+  from which the short tail runs diagonally down-right to the baseline, clear of the
+  stem; then stem, headline. The closed curl is श's signature.
+- **ष** — write प's bowl first; then the sash — one clean diagonal from the top of the
+  bowl's left arm down through the bowl to its lower right, where the stem will join it;
+  then stem, headline. Think of the sash as the tongue-curl made visible: प with a slash
+  is ष, and the slash is what your tongue does.
 - **स** — from below the headline, curve in and tie the small loop at mid-left; then
-  release the line down and rightward along the base into the stem; then stem, headline.
+  run the short bar from the loop across to the stem-line at mid-height, and let the tail
+  drop diagonally down-right to the baseline; then stem, headline.
   **स vs म:** म ties its loop down at the lower-left corner; स hangs its loop at
   mid-height. Loop low = म, loop high = स.
 
 ### The look-alike watch: ष vs य
 
 Lesson 1's य and today's ष hang similar rounded bodies on the same right-hand stem. The
-whole difference is interior: य's bowl is *empty*, entered by its small left-side wave;
-ष's bowl wears the diagonal sash. A ष that loses its sash reads as य (or drifts toward
-प); a य that grows one becomes ष. Dictation (§18, exercise 3) checks exactly this.
+difference sits at the left arm and inside the bowl: य's bowl is *empty*, entered by its
+small left-side wave; ष's bowl wears the diagonal sash. A ष that loses its sash *is* प;
+lose the sash *and* let the straight left arm curl into a wave, and it passes for य.
+Dictation (§18, exercise 3) checks exactly this.
 
 ### The class ledger
 
@@ -486,8 +493,8 @@ to move time along.
 5. सुख!
    (sukha!) "Happiness!" — सुख!
 
-The shouts वन! ऋषिः! सुख! are the naming form, as ever — pointing with the voice; ऋषिः
-wears the subject's ः exactly as बालकः did.
+The shouts वन! and सुख! are the naming form, as ever — pointing with the voice; the
+shout ऋषिः! is not: it wears the subject's ः exactly as बालकः did.
 
 > **[TRADITION · परम्परा]** A woman named Sītā meeting a seer in a forest will carry, for
 > many readers, an echo of the Vālmīki Rāmāyaṇa — where forests and seers frame Sītā's
@@ -626,7 +633,7 @@ pairs; the भाषा and ऋषि moment named aloud (6) → dialogue + stor
 **Stage the flagship for Hindi speakers without condescension.** Say it plainly: "Your
 script already knows these three letters — your everyday speech keeps two of the sounds.
 That is normal language change, not an error. Sanskrit needs the third sound back, and
-your tongue already knows where it lives — you learned ट's address two chapters ago."
+your tongue already knows where it lives — you learned ट's address last chapter."
 Then run the ट-recipe and let the room *hear* ष reappear. The recipe converts; lecturing
 does not.
 
@@ -724,7 +731,8 @@ narrator reads them as IPA, not as English spelling.
   apart — and the ṭa-trick just gave you the second sound back.
 - **03:00** Writing: śa [ɕɐ] keeps its little curl closed. ṣa [ʂɐ] is pa's bowl wearing
   a diagonal sash — the tongue-curl made visible. sa [sɐ] ties its loop at mid-height.
-  Watch the trap: lose the sash and your ṣa becomes ya.
+  Watch the trap: lose the sash and your ṣa becomes pa; curl its arm too and it passes
+  for ya.
 - **03:50** The payoff. bhā [bʱɑː] — ṣā [ʂɑː]. bhāṣā [bʱɑːʂɑː] — "language". You just
   wrote the name of the thing you are learning. And ṛ [r̩] — ṣi [ʂi]: ṛṣi [r̩ʂi], the
   seer — the word that taught you the vowel ṛ [r̩], spelled at last.
@@ -742,8 +750,8 @@ narrator reads them as IPA, not as English spelling.
 - **Hook (0:00–0:07):** extreme close-up, three hisses with pitch-bars. "Sanskrit has
   THREE s-sounds. Your tongue already knows all three addresses."
 - **Demo (0:07–0:30):** to camera: "Say ट — freeze — now hiss." (dark [ʂːː] lands) "That
-  sound? Most charts write it the same as श. It isn't. Bright one: श — ś. Dark one:
-  ष — ṣ. Two letters, two sounds, one freeze-trick."
+  sound? Casual romanization writes it 'sha', the same as श. It isn't. Bright one: श —
+  ś. Dark one: ष — ṣ. Two letters, two sounds, one freeze-trick."
 - **Payoff (0:30–0:43):** भाषा assembles on screen. "And with today's letters you can
   write this: bhāṣā — the word 'language' itself."
 - **CTA (0:43–0:50):** "This is Sanskritam. One letter left before the whole alphabet is
@@ -782,10 +790,9 @@ narrator reads them as IPA, not as English spelling.
   Whitney's s→ṣ rule before promotion, or softened; §14 IPA cells diffed against
   STYLE_GUIDE §2.2 (Pass A); counts 25+4+4=33 and 47-of-48 (§15) against
   [REF:whitney1889 §§19–75] and v1.c04.l01 §15's ledger.
-- **Word-stock harmonization flag:** this lesson deliberately states no exact cumulative
-  word count — v1.c04.l01 claims ≈128 and v1.c04.l03 "past 135", which the post-chapter
-  loop must reconcile before any of the three lessons is promoted; §14 here points only
-  at the chapter's ≈140 finish line.
+- **Word-stock ledger (reconciled):** 114 entering (v1.c03.l06 §14) + 14 (v1.c04.l01) =
+  128; + 15 here = 143, stated in §14; + 14 (v1.c04.l03) = 157, the chapter total
+  (v1.c04.l04 §14).
 - **Export notes:** 🔊 flags mark अत्र and अस्ति (§6), सत्य, शक्ति, नमस्ते (§8), and
   संस्कृत (§16) only — §14 and §17 carry no 🔊 at all (story exports all-`readable:
   true`); the pair-test audio must mark its nonce syllables as nonce in the transcript;

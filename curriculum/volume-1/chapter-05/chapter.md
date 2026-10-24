@@ -49,7 +49,7 @@ By the end of this chapter the learner can:
 |---|---|---|---|---|
 | 1 | v1.c05.l01 | विरामः — The Vowel-Killer | script | ् ; final consonants; अहम् किम् तत्; first-person sentences |
 | 2 | v1.c05.l02 | संयुक्ताक्षराणि I — The Mechanism | script | stem-loss joining; नमस्ते अस्ति सत्य शान्ति |
-| 3 | v1.c05.l03 | संयुक्ताक्षराणि II — The Special Ligatures | script | क्ष त्र ज्ञ श्र द्ध द्व; ज्ञान मित्र अत्र तत्र |
+| 3 | v1.c05.l03 | विशेषसंयोगाः — The Special Ligatures | script | क्ष त्र ज्ञ श्र द्ध द्व द्य; ज्ञान मित्र अत्र तत्र |
 | 4 | v1.c05.l04 | रेफः — The Two Faces of R | script | repha + r-second + रु रू; धर्म कर्म प्रिय चन्द्र |
 | 5 | v1.c05.l05 | शेषचिह्नानि — Signs, Digits & the Conjunct Exam | review | ऽ ँ । ॥ ०–९; two-way conjunct assessment |
 

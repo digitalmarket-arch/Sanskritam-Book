@@ -70,7 +70,7 @@ your own eyes, and your sentences will learn to speak: रामः वदति
 
 Objective 1 is drilled in §9/§11 and tested in §18 (exercises 1–2) and §19 (Q2, Q5–6); objective 2 in §15
 and §18 (exercises 4, 6), §19 (Q7); objective 3 in §5/§9 (drill 1) and §18 (exercise 1), §19 (Q3);
-objective 4 in §14 and §18 (exercises 3, 5), §19 (Q8).
+objective 4 in §14 and §18 (exercises 1, 3, 5), §19 (Q8).
 
 ## 3. Previous Lesson Review
 
@@ -101,9 +101,12 @@ objective 4 in §14 and §18 (exercises 3, 5), §19 (Q8).
 ऐतिहासिक सन्दर्भः — a class named after its address.
 
 On Chapter 1's sound map, after the five varga rows, came a slim row of four: य र ल व. The tradition calls
-them अन्तःस्थ (antaḥstha) — "standing between" — because that is exactly where they live: between the
-vowels, which flow with an open tract, and the stops, which block it. Four sounds made of *approach
-without collision*, each the consonant twin of a vowel you already own.
+them अन्तःस्थ (antaḥstha) — "standing between". Whitney reports two explanations of the name: their place
+between the stops and the spirants श ष स ह in the alphabet's order (which he thinks more probable), and
+their nature as sounds intermediate between vowel and consonant [REF:whitney1889 §51]. This lesson works
+with the second — they live between the vowels, which flow with an open tract, and the stops, which block
+it. Four sounds that shape the airstream *without ever holding it shut*, each the consonant twin of a
+vowel you already own.
 
 > **[FACT · तथ्यम्]** The अन्तःस्थ class — य र ल व — sits between vowels and stops in both senses: in
 > manner (approximants and liquids, more open than any stop) and in kinship (each pairs with a vowel:
@@ -116,7 +119,7 @@ hear that the twins are real.
 > **[HISTORY · इतिहासः]** As the modern Indo-Aryan languages grew out of Sanskrit's descendants, the
 > inherited व wandered: several languages and regional varieties merged it partly or wholly with ब —
 > Bengali almost completely, and the Hindi belt keeps doublets like विवाह beside ब्याह. Careful Sanskrit
-> recitation keeps व and ब distinct, as the classical language did. [REF:masica1991], [REF:ohala1994]
+> recitation keeps व and ब distinct, as the classical language did. [REF:masica1991]
 
 And one homecoming, the last of its kind: ल, a helper since v1.c01.l04, joins its own class today. क, त
 and म came home to their vargas in Chapter 3; with ल the helper era closes — from today, every letter you
@@ -126,21 +129,24 @@ use stands under its own family name.
 
 वैज्ञानिक व्याख्या — the physics of "in between".
 
-> **[FACT · तथ्यम्]** The four अन्तःस्थ sounds are made by approach without collision: the articulators
-> come close enough to shape the airstream but never close enough to stop it or make it hiss. य /j/ and
+> **[FACT · तथ्यम्]** The four अन्तःस्थ sounds are made without a stop's held closure: the articulators
+> come close enough to shape the airstream but never hold it shut or make it hiss. य /j/ and
 > व /ʋ/ are approximants; ल /l/ is a lateral — the tip touches while air flows around the sides; र /ɾ/ is
-> a tap — one contact so brief the stream barely notices. [REF:ladefoged2015]
+> a tap — a single contact so brief that the airflow is cut off only for an instant. [REF:ladefoged2015]
 
 Meet them through their vowel twins — the class's own logic:
 
 - **य /j/** is ई in motion: glide out of ई quickly and the exit-sound — high tongue, no friction — is य.
-  English *yes* has the same /j/; the small imprecision: some English habits harden an emphatic initial y
-  toward [dʒ] ("jes") — Sanskrit य never hardens.
+  English *yes* has the same /j/ — a near-exact anchor. The guard is for a regional Indian habit: Bengali
+  and Odia readers say initial य as [dʒ], and Hindi's inherited words show the same shift (युग → जुग,
+  योगी → जोगी) — Sanskrit य never hardens.
 - **र /ɾ/** is ऋ set free. In v1.c02.l03 you held /r̩/ at the ridge, humming — the vowel. Today the same
   tip touches the same spot and leaves at once: the tap of American *butter*. Hold it and it is ऋ; flick
   it and it is र. In recitation a light trill [r] is traditional and acceptable; the target is the tap.
-- **ल /l/** you have said since Chapter 1 — today it gets its papers. Tip to the teeth-ridge and *stay*;
-  voice flows around the sides. The clear l of *leaf*, never the dark l of *full*; Hindi ल is exact.
+- **ल /l/** you have said since Chapter 1 — today it gets its papers. Tip just behind the upper teeth —
+  the tradition files ल with the dentals, beside त and स — and *stay*; voice flows around the sides. The
+  clear l of *leaf* (English places it a touch further back, on the ridge), never the dark l of *full*;
+  Hindi ल is exact.
 - **व /ʋ/** is today's real work:
 
 > **[FACT · तथ्यम्]** व is /ʋ/ — a labiodental approximant: the lower lip rises toward the upper teeth in
@@ -177,11 +183,11 @@ the Chapter 1 story (अत्र's त्र-weld unlocks in Chapter 5); everyt
 
 पहली चौकसी — व बनाम ब। हिन्दी की कई बोलियों में व चुपके से ब बन जाता है: विवाह से ब्याह, वर्ष से बरस,
 व्रत से बरत। यह बोलियों का अपना, सदियों पुराना रास्ता है — ग़लती नहीं। पर संस्कृत में व और ब दो अलग वर्ण
-हैं, और दोनों अर्थ बदलते हैं। जाँच सीधी है: व बोलते समय दोनों होंठ आपस में मिलें ही नहीं — निचला होंठ ऊपर
+हैं, और एक की जगह दूसरा बोलने से अर्थ बदल जाता है। जाँच सीधी है: व बोलते समय दोनों होंठ आपस में मिलें ही नहीं — निचला होंठ ऊपर
 के दाँतों को हल्का-सा छुए, बस। होंठ भिड़ गये तो ब निकल गया।
 
-दूसरी चौकसी — व पर अंग्रेज़ी की परत मत चढ़ाइए। अच्छी ख़बर पहले: हिन्दी की अपनी व बिलकुल सही है — वही
-हल्की, बिना रगड़ की ध्वनि जो "वन" में है। गड़बड़ तब होती है जब अंग्रेज़ी की "v" संस्कृत में घुस आती है —
+दूसरी चौकसी — व पर अंग्रेज़ी की परत मत चढ़ाइए। अच्छी ख़बर पहले: हिन्दी का अपना व बिलकुल सही है — वही
+हल्की, बिना रगड़ की ध्वनि जो "वन" में है। गड़बड़ तब होती है जब अंग्रेज़ी का "v" संस्कृत में घुस आता है —
 दाँत निचले होंठ पर कसकर बैठते हैं और ध्वनि भिनभिनाने लगती है। रगड़ सुनाई दे तो समझिए अंग्रेज़ी बोल रही
 है, संस्कृत नहीं।
 
@@ -285,14 +291,14 @@ voiceless breath, the व a light touch, every final [ɐ] full: /ɾɑːmɐ/, nev
    the following vowel. Nothing to see in the mirror; everything to feel.
 2. **र:** tongue-tip flicks the ridge behind the upper teeth — one touch, gone. No contact at all means
    English r crept in; a rattle means you are reciting.
-3. **ल:** tip touches the teeth-ridge and *stays* while voice flows around the sides. Hold लललल and feel
+3. **ल:** tip touches just behind the upper teeth and *stays* while voice flows around the sides. Hold लललल and feel
    air slipping past the tongue's edges — that side-channel is what "lateral" means.
 4. **व — the day's mirror work:** lower lip rises to the upper front teeth, light as a feather, lips
    never rounding. Two checks: (rounding watch) say व five times watching only the lips — any circle
    means [w]; (buzz watch) a fingertip on the lower lip — strong vibration means [v]'s friction.
 
 > **[TRADITION · परम्परा]** The Pāṇinīya Śikṣā tradition gives व the label दन्त्योष्ठ्य (dantyoṣṭhya) —
-> "of the teeth and lips" — naming, two millennia early, the same articulators as "labiodental".
+> "of the teeth and lips" — naming, long before modern phonetics, the same articulators as "labiodental".
 
 ## 12. Common Mistakes
 
@@ -304,8 +310,9 @@ voiceless breath, the व a light touch, every final [ɐ] full: /ɾɑːmɐ/, nev
 2. **र over-trilled — or English-r'd.** A proud Spanish rrr is a performance, not a tap (save the light
    trill for recitation); the English bunched r of *red* never touches at all. *Fix:* the hold/flick
    ladder (§9 drill 1): one contact, felt on the ridge, then gone.
-3. **य hardened to [dʒ] (some English habits).** An emphatic initial y slides toward "j": युग becomes
-   "juga". *Fix:* glue य back to its twin — say ई first, then let it move; no closure, no [dʒ].
+3. **य hardened to [dʒ] (Bengali and Odia reading habits; the Hindi-belt जुग/जोगी pattern).** An initial
+   य slides toward "j": युग becomes "juga". *Fix:* glue य back to its twin — say ई first, then let it
+   move; no closure, no [dʒ].
 4. **The व/ब blur (Hindi regional habit).** Where the mother tongue says ब्याह for विवाह, संस्कृत व can
    drift lips-together into ब. *Fix:* the lip check — for व the lips never meet each other, only the
    teeth; drill ब-व, बा-वा at the mirror. (Keeping ब fully lips-together was l05's parting advice.)
@@ -325,16 +332,18 @@ voiceless breath, the व a light touch, every final [ɐ] full: /ɾɑːmɐ/, nev
 > name is treasured as a mantra — repeated, sung, and written across India daily. Here it is a word you
 > read; the reverence around it belongs to the tradition and is noted with respect.
 
-### नव — the cognate table comes home
+### नव — one more cognate you can read
 
 **नव** (nava) "new; nine" — नया; नौ · /n̪ɐʋɐ/
 
 > **[FACT · तथ्यम्]** Sanskrit नव, English *new* and Latin *novus* are parallel descendants of one
-> Proto-Indo-European word — cognates, not borrowings. (The "nine" sense runs in parallel beside Latin
-> *novem*.) [REF:mallory2006]
+> Proto-Indo-European word-family — cognates, not borrowings. (नव "nine" is a different word: the form of
+> the numeral नवन् (navan), from a separate PIE word, cognate with Latin *novem* and English *nine*.)
+> [REF:mallory2006]
 
-In v1.c01.l01 the cognate table was 🔊 listen-only — family resemblance taken on trust. नव is the first
-cognate to walk in *already readable*: the Devanagari and the four-thousand-year-old likeness, same breath.
+In v1.c01.l01 the cognate table was 🔊 listen-only — family resemblance taken on trust. नव joins माता,
+अमृत, मधु, पिता and पथ as a cognate to walk in *already readable*: the Devanagari and the ancient family
+likeness, same breath.
 
 ### युग — the yoke family, loan vs cognate one more time
 
@@ -396,7 +405,10 @@ Course convention as ever — body first, stem next, headline last; the stroke c
   wave = य.
 - **र** — the lightest consonant you will ever write: (1) one vertical drop from where the headline will
   sit; (2) from the stem's midpoint, one diagonal sweep down-left; (3) headline. Two strokes and a line —
-  the busiest sound in the language wears the simplest clothes.
+  a sound you will meet in word after word wears the simplest clothes.
+- **रु — one special face, early.** With the u-mātrā ु, र does not take the usual under-hook: the vowel
+  is tied into र's body at the waist — रु (ru), as in गुरु. Write it whole, never as र + ु. र's other
+  special forms (रू, the repha, the diagonal) are Chapter 5's lesson.
 - **व** — draw ब's clean left loop — down, around, back up to join the stem-line without crossing — but
   leave the room *empty*: no tick inside. Then stem, headline. **व vs ब:** the inner tick is ब's alone.
   Tick = ब, empty loop = व — exactly the pair v1.c03.l05 promised was coming.
@@ -448,7 +460,7 @@ since Chapter 2 for a verb worth asking about. 🔊 audio recorded into the Chap
 (vīraḥ calati!) "The hero walks!" — वीर चलता है!
 
 Every word self-read — question, answer, and all. Housekeeping on two old friends: तव (tava) "your", glue
-since Chapter 2, is mechanically readable as of today (त + व, no welds) and retires from the 🔊 list.
+since Chapter 1 (v1.c01.l04), is mechanically readable as of today (त + व, no welds) and retires from the 🔊 list.
 धन्यवादः (dhanyavādaḥ) — whose य and व you now own, as v1.c03.l05 promised — still hides one weld: the
 न्य joint needs Chapter 5's conjunct machinery. The promise tracker shortens; it does not yet close.
 
@@ -474,15 +486,15 @@ and no 🔊: **every word is self-read.**
 
 A poet's first poem is a list of names — he walks into the forest and *names* it. The shouts वन! वायु!
 रवि! जय! are the naming form you know from l05's फल! — pointing with the voice; dressed for full
-sentences these words would wear endings (Chapter 5 and Volume 3 machinery). The closing line is the
-course's first duet: two subjects, two verbs, read entirely by you.
+sentences these words would wear endings (Chapter 5 and Volume 3 machinery). The closing line is
+a true duet — two voices, the cuckoo's and the poet's, read entirely by you.
 
 ## 18. Exercises
 
 अभ्यासाः — six exercises; 1, 3, 4, 5 and 6 are production tasks. Do them in order.
 
 **अभ्यासः 1 · सोपान-पाठः (the glide ladder, recorded).** Record yourself climbing all three ladders
-(§9 drill 1): इ→य, उ→व, ऋ→र — then the row य र ल व, then राम, वायु, कवि, वदति. Compare against the drill
+(§9 drill 1): इ→य, उ→व, ऋ→र — then the row य र ल व, then all fourteen §14 words, भवति and वदति included. Compare against the drill
 audio 🔊. Checklist: व a light touch, no buzz? र one flick? ऋ still passing the freeze test? य soft,
 never "j"?
 
@@ -507,16 +519,16 @@ unaided, then राम, गुरु, देव, वायु, कवि — an
 वदति to speakers; चलति walks with anyone) — write them with daṇḍas, record those too. Compare with the
 sentences audio 🔊: every word complete, visarga breathed, the verbs' final इ short.
 
-**अभ्यासः 6 · शब्द-निर्माणम् (word-building, production).** Letter bank: र म व न क ग द ज य ु ा ि े ी.
-Build at least six §14 words from the bank and write each with its meaning. Two bonus hunts: which two
-words use the same letters in opposite order? Which bank letters build a word that is also a cheer?
-Check against §14 — वन/नव and जय.
+**अभ्यासः 6 · शब्द-निर्माणम् (word-building, production).** Letter bank: र रु म व न क ग द ज य ु ा ि े ी — रु is
+one unit (§15). Build at least six §14 words from the bank and write each with its meaning. Two bonus
+hunts: which two words use the same letters in opposite order? Which bank letters build a word that is
+also a cheer? Check against §14; bonus answers in the §19 key.
 
 ## 19. Quiz
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. अन्तःस्थ means "standing between". Between what and what? (a) Hindi and Sanskrit (b) vowels and stop
+1. In manner and kinship, the अन्तःस्थ sounds stand between what and what? (a) Hindi and Sanskrit (b) vowels and stop
    consonants — in manner and in kinship (c) short and long vowels (d) the headline and the stem
 2. The target व is: (a) English v as in *vine* — teeth pressed, buzzing (b) English w as in *wine* — lips
    rounded, no teeth (c) a light lip-to-teeth touch with no friction — between v and w (d) the same as ब
@@ -536,22 +548,24 @@ Check against §14 — वन/नव and जय.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) between vowels and stops — approach without collision, each sound twinned with a vowel (§4, §5).
+1. (b) between vowels and stops — the airstream shaped, never held shut, each sound twinned with a vowel (§4, §5).
 2. (c) the middle ground — /ʋ/, contact without friction (§5, §9 drill 2). ((a) and (b) are §12's
    mistake 1.)
 3. (b) hold = vowel ऋ /r̩/, flick = consonant र /ɾ/ (§5, §10 — the promise of v1.c02.l03 kept).
-4. य~इ · र~ऋ · ल~ऌ · व~उ (§5, §15 kinship table).
+4. य~इ · र~ऋ · ल~ऌ · व~उ (§4, §15 kinship table).
 5. (a) the [dʒ] hardening — §12 mistake 3; the fix is gluing य back to ई.
 6. (b) the व/ब blur (§12 mistake 4); the lip check referees it.
 7. (b) tick = ब, empty loop = व; knot = थ, open wave = य (§15).
 8. (a) वन = "forest"; (b) नव = "new; nine"; (c) कवि = "poet"; (d) वदति = "speaks" (§14).
+
+Exercise 6 bonus: वन/नव — same letters, opposite order; जय — the cheer.
 </details>
 
 ## 20. Revision
 
 पुनरावृत्तिः — one screen to remember.
 
-> **The class:** य र ल व — अन्तःस्थ, "standing between": approach without collision. **The twins:** य~इ ·
+> **The class:** य र ल व — अन्तःस्थ, "standing between": air shaped, never held shut. **The twins:** य~इ ·
 > र~ऋ · ल~ऌ · व~उ — every drill and every future sandhi rule rides on this. **The middle ground:** व /ʋ/
 > — lip to teeth, light touch, no buzz, no rounding; not v, not w. **The pair:** hold = ऋ, flick = र.
 > **The letters:** य's wave open (थ knots), व's loop empty (ब ticks), र — two strokes and a line; ल home,
@@ -560,11 +574,11 @@ Check against §14 — वन/नव and जय.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- **In 1 day:** re-take the dictation (exercise 3) cold; write य र व from memory checking wave, flag and
+- **In 1 day:** re-take the dictation (exercise 3) cold; write य र व from memory checking य's open wave, र's two strokes and व's
   empty loop; run the व laboratory once — the middle ground drifts fastest in the first days.
 - **In 1 week:** keep the ऋ/र pair and the sentence set warm; the chapter review (lesson 4) tests both.
-  Also due about now: Chapter 3's +1-week re-run (v1.c03.l06 §20 — tasks C and E). If it has not run yet,
-  run it tomorrow.
+  Also due about now: Chapter 3's +1-week re-run (v1.c03.l06 §20 — tasks C and E), which lesson 4
+  runs as its Station 0.
 - **Next lesson:** श ष स arrive — and with स, the स्ते of नमस्ते moves one letter closer.
 
 ## 21. Homework
@@ -722,7 +736,7 @@ them as IPA, not as English spelling.
     (chapter.md manifest) and back-link here when they exist.
 - **Related lessons:** reviews v1.c03.l06 (grid certification; dictation row) and v1.c02.l03 (ऋ /r̩/ —
   the vowel-vs-consonant pairing promised in its §10 is delivered in §5/§10 here); builds on v1.c03.l05
-  (pause form; the ब/व preview; थ/य lookalike from v1.c03.l04), v1.c02.l05 (कोकिल — story cast returns),
+  (pause form; the ब/व preview; थ's closed top-left loop from v1.c03.l04), v1.c02.l05 (कोकिल — story cast returns),
   v1.c01.l01 (गुरु and the loan/cognate tables — §13 payoffs), v1.c01.l04 (ल's helper debut — promotion
   closes that promise); feeds v1.c04.l02 (श ष स at the places certified in Chapter 3), v1.c04.l04
   (alphabet exam: kinship claims, sentence set), Chapter 5 (धन्यवादः's न्य weld; naming-form words
@@ -742,7 +756,7 @@ them as IPA, not as English spelling.
   `ipa`; §19 key stays inside `<details>` in all renders.
 - **Verification flags for Pass C:** antaḥstha kinship and class framing (§4/§5/§15) against
   [REF:whitney1889 §§51–58]; व /ʋ/ description (§5/§10/§11) against [REF:ladefoged2015] and STYLE_GUIDE
-  §2.2; व/ब merger HISTORY (§4) against [REF:masica1991]/[REF:ohala1994] — respectful framing, no
+  §2.2; व/ब merger HISTORY (§4) against [REF:masica1991] — respectful framing, no
   deficit language; राम senses (§13) against [REF:apte1890 s.v. राम] — devotional line stays TRADITION,
   never assessed; नव and युग cognate/loan claims (§13) against [REF:mallory2006] — direction arrows
   explicit; दन्त्योष्ठ्य attribution (§11) stays TRADITION with source named; trill-in-recitation note

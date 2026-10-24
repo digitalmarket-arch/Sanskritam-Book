@@ -23,7 +23,7 @@ argument from v1.c04.l04 §5). All words below checked against Apte/Monier-Willi
 | 0.4 | र has special forms: as FIRST member, repha — a hook above the following akṣara (धर्म, कर्म); as SECOND member, a diagonal stroke on the preceding consonant (प्र, क्र) with variants (ट्र). रु रू are irregular vowel-attachments (रु रू). | FACT | [REF:masica1991 ch.6] | The repha "writes right, reads left" surprise parallels the ि hook (v1.c02.l01 callback). |
 | 0.5 | Remaining signs: avagraha ऽ (marks an elided अ in sandhi writing — display only until V3), candrabindu ँ (nasalized vowel), daṇḍa । and double daṇḍa ॥, and the digits ०–९. | FACT | [REF:whitney1889 §16]; [REF:masica1991 ch.6] | Digits taught as content per STYLE_GUIDE §3. |
 | 0.6 | Unicode note (machine-layer relevance): conjuncts are encoded as C1 + ् + C2 — the virāma is *inside* every conjunct even when invisible. What print fuses, the encoding remembers. | FACT | Unicode Standard, Devanagari block | One paragraph; explains why क्ष "contains" ्. Delightful and true. |
-| 0.7 | Frequency honesty: a few dozen conjuncts cover the overwhelming majority of classical text; the long tail (rare stacks) is met by recognition + the mechanism, not memorization. | FACT | [REF:apte1890] survey; [REF:masica1991] | Anti-overwhelm framing. |
+| 0.7 | Frequency honesty: a few dozen conjuncts cover the overwhelming majority of classical text; the long tail (rare stacks) is met by recognition + the mechanism, not memorization. | FACT | [REF:masica1991 ch.6] (corrected at audit: [REF:apte1890] is a dictionary, not a frequency survey) | Anti-overwhelm framing. |
 
 ## 1. L1 — विरामः: the vowel-killer and final consonants
 
@@ -58,7 +58,7 @@ components shown via the Unicode insight 0.6). **Readable unlock (attested):** �
 — the location family completes the connector set; श्री (śrī) "radiance; honorific"; श्रम
 (śrama) "effort"; बुद्ध (buddha) "awakened"; शुद्ध (śuddha) "pure"; विद्या (vidyā)
 "knowledge, learning"; द्वि (dvi) "two" — cognate *two/duo* [REF:mallory2006]. ज्ञ
-pronunciation honesty: classical [d͡ʑɲ]; modern regional [gj]~[dn̪j] variants noted
+pronunciation honesty: classical [d͡ʑɲ]; modern regional [gj]~[d̪n̪j] variants noted
 respectfully (the ऋ-precedent framing from v1.c02.l03).
 
 ## 4. L4 — रेफः: the r-forms
@@ -72,7 +72,7 @@ schwa-discipline word from v1.c01.l03 §7, now readable; कर्म (karma) "a
 "village"; चन्द्र (candra) "moon"; भद्र (bhadra) "good, gentle"; मन्त्र (mantra) "mantra;
 instrument of thought" (triple cluster न्त्र — the mechanism scales); रूप (rūpa) "form"
 (the रु/रू irregular). Loan notes where genuine: dharma/karma/mantra are English LOANS
-(correct direction) — the v1.c01.l01 loan list now readable in the original.
+(correct direction) — five of the six v1.c01.l01 loan-table words now readable in the original; जङ्गल waits for the ङ्ग stack of v1.c06.l01 (corrected at audit).
 
 ## 5. L5 — शेषचिह्नानि + the conjunct exam
 
@@ -98,7 +98,7 @@ load higher (12–16) since every word is made of certified parts [REF:nation201
 - ज्ञान IPA: use /d͡ʑɲɑːn̪ɐ/ as classical target with variants note (mirror ऋ policy).
   Pass C confirms framing.
 - अस्मि "I am" (√अस् 1sg) glossed whole-word like all verbs; the अहम् ... अस्मि identity
-  frame is used but never conjugation-taught (Volume 2's opening act — say so).
+  frame is used but never conjugation-taught (Volume 2's verb chapter, v2.c04 — say so; corrected at audit).
 - Digits: Devanagari numerals in dates use Latin-digit convention in prose per STYLE_GUIDE §3;
   the lesson teaches ०–९ as content and uses them in drills only.
 

@@ -17,13 +17,13 @@ prerequisites: [v1.c06.l02]
 review_of: [v1.c06.l01, v1.c06.l02]
 objectives:
   - en: "Read the course's first connected passage — eight sentences about the student Arjuna — aloud in pause form, at three speeds, reaching the target time with full final vowels."
-    hi: "पाठ्यक्रम का पहला जुड़ा हुआ अनुच्छेद — छात्र अर्जुन के बारे में आठ वाक्य — विराम-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें और पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें।"
+    hi: "पाठ्यक्रम का पहला जुड़ा हुआ अनुच्छेद — छात्र अर्जुन के बारे में आठ वाक्य — ठहराव-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें और पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें।"
   - en: "Read and use the lesson's four new words — पठति, पुस्तकम्, तस्य and सः — with whole-word glosses, plus the first-person पठामि beside them."
     hi: "पाठ के चार नए शब्द — पठति, पुस्तकम्, तस्य और सः — पूरे-शब्द अर्थ के साथ पढ़ें और बरतें; साथ में उत्तम पुरुष का पठामि भी।"
   - en: "Answer Sanskrit comprehension questions on the passage — कः अत्र अस्ति? किम् सः पठति? — in full Sanskrit sentences."
     hi: "अनुच्छेद पर संस्कृत के प्रश्नों — कः अत्र अस्ति? किम् सः पठति? — के उत्तर पूरे संस्कृत वाक्यों में दें।"
-  - en: "State in one line why विद्यालयम् and पुस्तकम् end in म् — a word's ending shifts with its role; the system is Volume 3's subject."
-    hi: "एक पंक्ति में बताएँ कि विद्यालयम् और पुस्तकम् म् पर क्यों ख़त्म होते हैं — भूमिका बदलते ही शब्द का अन्त बदलता है; पूरी व्यवस्था तीसरे खण्ड की विषय-वस्तु है।"
+  - en: "State in one line why lesson 1's विद्यालयः appears in the passage as विद्यालयम् — a word's ending shifts with its role; the system is Volume 3's subject."
+    hi: "एक पंक्ति में बताएँ कि इस अध्याय के पहले पाठ का विद्यालयः अनुच्छेद में विद्यालयम् क्यों बन जाता है — भूमिका बदलते ही शब्द का अन्त बदलता है; पूरी व्यवस्था तीसरे खण्ड की विषय-वस्तु है।"
 new_letters: []
 new_matras: []
 vocabulary_count: 4
@@ -50,7 +50,7 @@ updated: 2026-07-31
 
 On the first day of this course — before you could read a single letter — lesson one played
 you a sentence and asked you to take it on trust: अहं संस्कृतं पठामि, "I study Sanskrit." You
-have chanted its verb in every review since, always by ear. Today the course hands you its
+chanted its verb by ear in the Chapter 1 and 2 reviews. Today the course hands you its
 first real text: eight sentences that read as one story — a boy, his book, his school. Seven
 sentences are about him. The eighth, read with your own eyes in your own voice, is that first
 sentence come home — and it is about you.
@@ -61,10 +61,10 @@ sentence come home — and it is about you.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Read the course's first connected passage — eight sentences about the student Arjuna — aloud in pause form, at three speeds, reaching the target time with full final vowels. | पहला जुड़ा हुआ अनुच्छेद विराम-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें; पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें। |
+| 1 | Read the course's first connected passage — eight sentences about the student Arjuna — aloud in pause form, at three speeds, reaching the target time with full final vowels. | पहला जुड़ा हुआ अनुच्छेद ठहराव-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें; पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें। |
 | 2 | Read and use the lesson's four new words — पठति, पुस्तकम्, तस्य and सः — with whole-word glosses, plus the first-person पठामि beside them. | चार नए शब्द — पठति, पुस्तकम्, तस्य और सः — पूरे-शब्द अर्थ के साथ पढ़ें और बरतें; साथ में पठामि भी। |
 | 3 | Answer Sanskrit comprehension questions on the passage — कः अत्र अस्ति? किम् सः पठति? — in full Sanskrit sentences. | अनुच्छेद पर संस्कृत के प्रश्नों के उत्तर पूरे संस्कृत वाक्यों में दें। |
-| 4 | State in one line why विद्यालयम् and पुस्तकम् end in म् — a word's ending shifts with its role; the system is Volume 3's subject. | एक पंक्ति में बताएँ कि विद्यालयम् और पुस्तकम् म् पर क्यों ख़त्म होते हैं। |
+| 4 | State in one line why lesson 1's विद्यालयः appears in the passage as विद्यालयम् — a word's ending shifts with its role; the system is Volume 3's subject. | एक पंक्ति में बताएँ कि इस अध्याय के पहले पाठ का विद्यालयः अनुच्छेद में विद्यालयम् क्यों बन जाता है। |
 
 Objective 1 is trained in §9/§17, tested in §18 (exercises 2, 5) and §19 (Q7); objective 2 in
 §8/§14, §18 (1, 3, 6), §19 (Q1–Q3, Q6); objective 3 in §16, §18 (1), §19 (Q5, Q8);
@@ -81,7 +81,7 @@ objective 4 in §15, §19 (Q4).
    with your own?
 4. Two dialogue glue words, glossed cold: अपि and एतत्.
 5. Held open since the very first lesson: what Sanskrit sentence did lesson 1 play you before
-   you could read? (Hint — you have chanted its verb in every chapter review: अहं पठामि।)
+   you could read? (Hint — you chanted its verb by ear in the Chapter 1 review: अहं पठामि।)
 
 <details><summary>उत्तराणि · Answers</summary>
 
@@ -91,7 +91,7 @@ objective 4 in §15, §19 (Q4).
 3. तव नाम किम्? — मम नाम …। ("What is your name?" — "My name is ….")
 4. अपि "also" · एतत् "this".
 5. अहं संस्कृतं पठामि — "I study Sanskrit." Today it stops being an ear-word: the passage
-   ends with its pause-form twin, and you will read it.
+   ends with its pause-form twin plus अपि — अहम् अपि संस्कृतम् पठामि — and you will read it.
 </details>
 
 ## 4. Historical Context
@@ -106,12 +106,12 @@ paragraph" is the standard *modern* term, the same word Hindi uses for a paragra
 as a living classroom language uses it daily.
 
 > **[FACT · तथ्यम्]** Today's verb is a whole family. The root पठ् means "to read aloud, to
-> recite" — in the tradition, reading *was* reading aloud. From it come पठति "he/she reads",
+> recite", and also "to study". From it come पठति "he/she reads",
 > पठनम् "reading" — this very chapter's title — and पाठः "a lesson, a recitation", the word
 > that lives on as Hindi पाठ. [REF:monierwilliams1899 s.v. पठ्]
 
 > **[HISTORY · इतिहासः]** अर्जुन (arjuna) is an old Sanskrit word for "bright, white,
-> silvery" and a personal name attested from the epics onward; its most famous bearer is the
+> silvery" and a personal name; its most famous bearer is the
 > third Pāṇḍava, the hero of the Mahābhārata. [REF:monierwilliams1899 s.v. अर्जुन]
 
 Our अर्जुनः is simply a schoolboy who likes his book; the name's famous bearer belongs to
@@ -164,12 +164,12 @@ sentence, complete and classical, exactly like धर्मः सत्यम�
 क्रिया आपकी ज़बान पर पहले से है; नया केवल उसका संस्कृत चेहरा है: पठति — "पढ़ता है", और
 पठामि — "मैं पढ़ता/पढ़ती हूँ"।
 
-एक बात ईमानदारी से। अनुच्छेद में विद्यालयम् और पुस्तकम् — दोनों म् पर ख़त्म होते हैं, जबकि
+एक बात ईमानदारी से। अनुच्छेद में विद्यालयम् म् पर ख़त्म होता है, जबकि
 इस अध्याय के पहले पाठ में आपने विद्यालयः पढ़ा था। क्यों? संस्कृत में शब्द की भूमिका बदलते ही
 उसका अन्त बदल जाता है — कौन कर रहा है, किस पर हो रहा है, किसका है। यह पूरी व्यवस्था तीसरे
 खण्ड की विषय-वस्तु है; आज हम पूरे शब्द का पूरा अर्थ साथ लेकर चलेंगे — विद्यालयम् = "विद्यालय
-की ओर", पुस्तकम् = "पुस्तक (को)"। कोई नया नियम याद नहीं करना — बस खुली आँख से अन्तों को काम
-करते देखिए।
+की ओर"। पुस्तकम् अलग है — संस्कृतम् की तरह नपुंसक शब्द, कर्ता हो या कर्म, उसका म् वही रहता
+है। कोई नया नियम याद नहीं करना — बस खुली आँख से अन्तों को काम करते देखिए।
 
 और अन्त में वह क्षण, जिसके लिए यह पूरा अध्याय बना है। सात वाक्य अर्जुन के बारे में हैं; आठवाँ
 वाक्य अचानक आईना बन जाता है: अहम् अपि संस्कृतम् पठामि — "मैं भी संस्कृत पढ़ता/पढ़ती हूँ।"
@@ -188,7 +188,7 @@ one before it. The lean has a visible mechanism: **सः** (saḥ) "he". Senten
 बालकः, a boy; from then on the passage just says सः, and your mind keeps supplying *the boy
 from sentence one*. That silent thread turns a pile of sentences into a story — and following
 it is a reading skill in its own right. You have technically met सः once before, fused into
-सोऽहम् in the last chapter's avagraha showcase; today it goes to work, five times in eight
+सोऽहम् in the last chapter's avagraha showcase; today it goes to work, four times in eight
 sentences, and earns its own row in §14. One honest line beside it: the feminine partner of
 सः is **सा** (sā) "she" — same job, female subject. You will put सा to work in §18.
 
@@ -197,18 +197,20 @@ sentences, and earns its own row in §14. One honest line beside it: the feminin
 - **पठति** (paṭhati) "reads, recites" — THE verb of this chapter: the title पठनम् "reading"
   is this verb's own noun. Whole-word gloss, as with every verb since Chapter 3. Beside it,
   its first-person twin **पठामि** (paṭhāmi) "I read" — the exact parallel of वदति/वदामि, and
-  an old friend: you have chanted अहं पठामि in review mantras since Chapter 1.
+  an old friend: you chanted अहं पठामि by ear in the Chapter 1 review, and पठामि again in
+  Chapter 2's.
 - **पुस्तकम्** (pustakam) "book" — dictionary stem पुस्तक; its स्त weld is the one you have
   read daily in अस्ति since the conjunct lesson.
-- **तस्य** (tasya) "his" — completing a family: मम "my" (Chapter 2), तव "your" (last
+- **तस्य** (tasya) "his" — completing a family: मम "my" (Chapter 1), तव "your" (last
   lesson), तस्य "his" (today). The स्य is the Chapter 5 stem-loss mechanism at work.
 
 ### The endings, honestly
 
-Lesson 1's विद्यालयः appears in this passage as विद्यालयम्, and पुस्तक wears म् too. Not a
+Lesson 1's विद्यालयः appears in this passage as विद्यालयम्. Not a
 typo — Sanskrit's ending system at work, and §15 says exactly as much about it as honesty
 allows: a word's ending shifts with its role. We gloss such words whole — विद्यालयम् "to
-school", पुस्तकम् "a book" — and keep walking.
+school" — and keep walking. पुस्तकम् is different: a neuter like संस्कृतम्, it wears म् as
+subject and object alike (lesson 1, §6).
 
 ### The text
 
@@ -241,9 +243,11 @@ passage under forty-five seconds with **zero clipped finals** — every final �
 final म् a closed-lip landing, every visarga a clean breath. A fast read with "pustak" in it
 scores nothing; re-time.
 
-**Drill 2 — the rising question.** §16's questions carry their asking in tone alone, as every
-question has since घटः अत्र अस्ति?: कः अत्र अस्ति? — pitch rising to the end. Ask each
-question twice at the mirror; make the rise unmistakable.
+**Drill 2 — the two question tunes.** Three of §16's questions carry a question word —
+कः अत्र अस्ति?, तस्य नाम किम्?, किम् सः पठति? — and the word does the asking, tune level,
+exactly as in the dialogue lesson. Only त्वम् अपि? has none, so the rise alone carries it, as
+it has since घटः अत्र अस्ति? Ask each question twice at the mirror; keep the two tunes
+distinct.
 
 ## 10. IPA
 
@@ -284,7 +288,7 @@ either one makes it a different Sanskrit sound.
    an unaspirated ट. *Fix:* §9 drill 1 — retroflex curl plus a paper-moving puff.
 3. **तस्य read "ta-sa-ya".** Three beats instead of two — the स्य weld ignored. *Fix:*
    Chapter 5's mechanism: तस्य = त + स् + य. Two blocks, two beats: ta-sya.
-4. **सः flattened to "sa".** The visarga dropped, five times in one passage. *Fix:* the
+4. **सः flattened to "sa".** The visarga dropped, four times in one passage. *Fix:* the
    Chapter 2 breath drill on the passage's visarga words in a row: बालकः — छात्रः —
    अर्जुनः — सः.
 5. **Eight islands instead of one text.** Every sentence read correctly, none connected —
@@ -300,7 +304,8 @@ either one makes it a different Sanskrit sound.
 **अर्जुनः** (arjunaḥ) "Arjuna" — अर्जुन · /ɐɾd͡ʑun̪ɐh/
 
 अ + र्जु + नः: the र vanishes from the line and perches as a hook on जु — written right,
-read first: a-rju-naḥ. Last chapter's rule, first proper name.
+read first: ar-ju-naḥ, the r closing the first syllable (§10). Last chapter's rule, first
+proper name.
 
 ### पुस्तकम् — the weld you already read daily
 
@@ -325,16 +330,16 @@ you the pattern; today it does narrative work inside a story.
 
 ## 14. Vocabulary
 
-शब्दावली — four words take the readable ledger from 233 to 237; the passage's
-other twenty words are all review. Audio: 🔊
+शब्दावली — four words take the readable ledger from 233 to 237; every other word in
+the passage is review, save the proper name अर्जुनः. Audio: 🔊
 `planned:assets/audio/volume-1/v1c06l03-words-and-dialogue.mp3` (each word twice, then the
-dialogue). पुस्तक is listed as a bare stem per course convention; the passage dresses it as
-पुस्तकम् (§15).
+dialogue). As this chapter's lists do since lesson 1, पुस्तकम् is printed sentence-dressed —
+a neuter wearing म् — with its dictionary stem पुस्तक in the notes.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | पठति | paṭhati | /pɐʈʰɐt̪i/ | reads, recites | पढ़ता है | THE chapter verb — the title पठनम् is its noun (§4); first person पठामि "I read" (§8) |
-| पुस्तक | pustaka | /pust̪ɐkɐ/ | book | पुस्तक, किताब | neuter — in sentences पुस्तकम् (§15); स्त as in अस्ति (§13) |
+| पुस्तकम् | pustakam | /pust̪ɐkɐm/ | book | पुस्तक, किताब | neuter, stem पुस्तक — wears म् as subject and object alike (§15); स्त as in अस्ति (§13) |
 | तस्य | tasya | /t̪ɐsjɐ/ | his | उसका | completes मम — तव — तस्य (§13); स्य by the Chapter 5 mechanism |
 | सः | saḥ | /sɐh/ | he | वह | half-review — met once inside सोऽहम् (v1.c05.l05); feminine partner सा (sā) "she" — §8, §18 |
 
@@ -351,9 +356,10 @@ vowel clipped at any speed.
 
 > **[FACT · तथ्यम्]** A Sanskrit word's ending shifts with its role in the sentence — who
 > acts, what is acted on, whose something is. That is why lesson 1's विद्यालयः stands in
-> this passage as विद्यालयम्, and why पुस्तक wears म् as the thing being read. The full
-> system is Volume 3's subject; today such words are glossed whole — विद्यालयम् "to school",
-> पुस्तकम् "a book". [REF:whitney1889]
+> this passage as विद्यालयम्, while पुस्तक, a neuter like जलम् and मित्रम्, wears म् both as
+> subject and as the thing acted on — §6's एतत् पुस्तकम् and the passage's सः पुस्तकम् पठति
+> alike. The full system is Volume 3's subject; today such words are glossed whole —
+> विद्यालयम् "to school". [REF:whitney1889]
 
 The same honest device the course has used since रामः वदति: whole-word glosses now, the
 machinery at its proper time. Notice the endings; do not memorize a rule about them — there
@@ -361,7 +367,7 @@ is none on the table today.
 
 ### The thread: how सः holds a text together
 
-सः "he" never introduces anyone — it *points back*. In this passage every सः points at
+Here सः "he" introduces no one — it *points back*: in this passage every सः points at
 बालकः from sentence one. The same job, female subject, is done by सा "she" — one line, no
 paradigm, put to work in §18. And तस्य "his" is the pointing family's possessive: तस्य नाम =
 "the name *of him*" — of that same boy.
@@ -377,8 +383,8 @@ consonant) being Volume 3's business, as previewed in the virāma lesson.
 ## 16. Conversation
 
 सम्भाषणम् — the comprehension check as a dialogue: one reader asks, one answers from the
-passage. Questions carried by rising tone alone, as always. 🔊 audio in the
-words-and-dialogue track (§27).
+passage. In the first three questions the question word does the asking; त्वम् अपि? has
+none, so the rising tone alone carries it. 🔊 audio in the words-and-dialogue track (§27).
 
 — कः अत्र अस्ति?
 (kaḥ atra asti?) "Who is here?" — यहाँ कौन है?
@@ -405,9 +411,10 @@ words-and-dialogue track (§27).
 (ām! aham api saṃskṛtam paṭhāmi!) "Yes! I too read Sanskrit!" — हाँ! मैं भी संस्कृत
 पढ़ता/पढ़ती हूँ!
 
-Housekeeping, honestly: every word above is self-read — कः since Chapter 2, अत्र and अस्ति
-since Chapter 5, नाम, किम्, त्वम् and अपि since the dialogue lesson, आम् since the virāma
-lesson, and the rest as of today. The answers are the passage's own sentences: comprehension
+Housekeeping, honestly: every word above is self-read — कः since Chapter 2, बालकः since
+Chapter 3, अत्र and अस्ति since Chapter 5, किम्, अहम् and आम् since the virāma lesson,
+संस्कृतम् since lesson 1, नाम, त्वम् and अपि since the dialogue lesson, and अर्जुनः, तस्य,
+सः, पठति and पठामि as of today. The answers are the passage's own sentences: comprehension
 here means *finding* them.
 
 ## 17. Story
@@ -434,13 +441,14 @@ line: Devanagari, IAST, English, Hindi. Every word is self-read. Illustration:
    (aham api saṃskṛtam paṭhāmi.) "I too read Sanskrit." — मैं भी संस्कृत पढ़ता/पढ़ती हूँ।
 
 Walk it once with open eyes. Lines 1–3 build the thread: बालकः is introduced, becomes सः,
-and line 3 names him with no verb at all. Lines 4–6 are where the endings quietly shift —
-विद्यालयम् "to school", पुस्तकम् "a book": noticed, glossed whole, postponed (§15). Line 7
+and line 3 names him with no verb at all. Line 4 is where an ending quietly shifts —
+विद्यालयम् "to school": noticed, glossed whole, postponed (§15); पुस्तकम् and संस्कृतम् in
+lines 5–6 are neuters, म् as subject or object alike. Line 7
 the passage does not explain — the student laughs, and the text trusts you to know why a boy
 alone with a book might. And line 8 breaks the frame: for seven sentences you watched
 Arjuna; the eighth is the reader, saying so in the reader's own person — पठामि. It is the
-course's first sentence come home: lesson one played it as pure sound, अहं संस्कृतं पठामि,
-and today its pause-form twin stands under your own eyes. The chapter is called पठनम् —
+course's first-person sentence come home: lesson one played it as pure sound, अहं संस्कृतं
+पठामि, and today its pause-form twin, with अपि added, stands under your own eyes. The chapter is called पठनम् —
 line 8 is पठनम् happening.
 
 ## 18. Exercises
@@ -466,19 +474,24 @@ Devanagari, daṇḍa included. Self-check against §17: visarga on the subjects
 
 **अभ्यासः 4 · दर्पण-अनुच्छेदः (the mirror passage — production).** Rewrite the passage's
 frame for a girl — सीता, whom you have read since Chapter 4 — using सा "she" (§8) in place of
-सः. Keep the sentence frames; change only who. Write four to five sentences, then read them
-aloud. A model is in the key — write yours first.
+सः. Keep the sentence frames; change only who — but mind two of them: for line 2 write
+सा बालिका अस्ति, since छात्रः is masculine, and skip line 3 (तस्य is the masculine 'his';
+the feminine is not taught yet). Write four to five sentences, then read them aloud. A model
+is in the key — write yours first.
 
 <details><summary>उत्तराणि · Model answer</summary>
 
 सीता अत्र अस्ति। सा पुस्तकम् पठति। सा संस्कृतम् पठति। सीता हसति। अहम् अपि संस्कृतम् पठामि।
 (sītā atra asti. sā pustakam paṭhati. sā saṃskṛtam paṭhati. sītā hasati. aham api saṃskṛtam
-paṭhāmi.) — Any version keeping the frames and the सा thread is correct.
+paṭhāmi.) — Any version keeping the frames and the सा thread is correct, with two cautions:
+line 2 must not read सा छात्रः अस्ति, since छात्रः is masculine — use सा बालिका अस्ति, taught
+in the dialogue lesson — and line 3 must be left out (तस्य is the masculine 'his'; its
+feminine partner is not taught yet).
 </details>
 
 **अभ्यासः 5 · अभिलेखनम् (record the milestone — production).** Record yourself reading
 (a) the full passage at speed 2, (b) the §16 dialogue — both roles, or with a partner,
-questions rising. Compare against the model audio 🔊. Keep this recording: it is your first
+each question in its own tune (§9 drill 2). Compare against the model audio 🔊. Keep this recording: it is your first
 recorded Sanskrit *text*, and lesson 4's reading ladder will ask for it again.
 
 **अभ्यासः 6 · स्मृतिलेखनम् (retrieval writing — production).** Book closed, from memory,
@@ -493,9 +506,10 @@ every akṣara against §17 — hooks, welds, finals [REF:roediger2006].
 2. The chapter title पठनम् is: (a) unrelated to पठति (b) the action-noun of the same root —
    "reading" (c) the plural of पठति (d) the word for "book"
 3. मम is "my" and तव is "your". तस्य is: (a) "his" (b) "this" (c) "who?" (d) "here"
-4. विद्यालयम् and पुस्तकम् end in म् because: (a) it is a misprint for ः (b) a word's ending
-   shifts with its role in the sentence — the full system arrives in Volume 3 (c) every
-   Sanskrit word may end in म् (d) the words were joined by sandhi
+4. Lesson 1 read विद्यालयः; the passage reads विद्यालयम् because: (a) it is a misprint for ः
+   (b) a word's ending shifts with its role in the sentence — the full system arrives in
+   Volume 3 (c) every Sanskrit word may end in म् (d) it was joined to the next word by
+   sandhi
 5. In सः छात्रः अस्ति, the word सः points to: (a) the reader (b) the बालकः of the first
    sentence — the thread that makes eight sentences one text (c) the school (d) the book
 6. तस्य is read in: (a) three beats — ta-sa-ya (b) two beats — ta-sya, because स् + य weld
@@ -512,7 +526,7 @@ every akṣara against §17 — hooks, welds, finals [REF:roediger2006].
 3. (a) "his" — the family मम, तव, तस्य completes (§13).
 4. (b) endings shift with a word's role; whole-word glosses today, the system in Volume 3
    (§15). ((d) is a real future topic, but this passage is pause form.)
-5. (b) the बालकः of sentence one — सः always points back (§15). ((a) is only true of the
+5. (b) the बालकः of sentence one — here सः points back (§15). ((a) is only true of the
    *eighth* sentence's अहम्.)
 6. (b) two beats, ta-sya — the weld (§12 mistake 3, §13).
 7. (a) "He reads a book." (b) "The student laughs." (c) "I too read Sanskrit." (§17)
@@ -524,10 +538,10 @@ every akṣara against §17 — hooks, welds, finals [REF:roediger2006].
 
 पुनरावृत्तिः — one screen to remember.
 
-> **The text:** eight sentences, one thread — बालकः becomes सः, five times; तस्य नाम
+> **The text:** eight sentences, one thread — बालकः becomes सः, four times; तस्य नाम
 > अर्जुनः names him without a verb. **The family:** पठति "reads" · पठामि "I read" · पठनम्
 > "reading" (the chapter's name) · पाठः "lesson" — one root, √पठ्. **The honesty line:**
-> विद्यालयम्, पुस्तकम् — endings shift with a word's role; glossed whole today, system in
+> विद्यालयः → विद्यालयम् — endings shift with a word's role; glossed whole today, system in
 > Volume 3. **The pair:** सः "he" · सा "she". **The protocol:** three speeds, target under
 > 45 seconds, zero clipped finals. **The milestone:** अहम् अपि संस्कृतम् पठामि — lesson
 > one's sentence, finally read.
@@ -536,7 +550,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - **In 1 day:** one cold speed-3 run, timed and logged; write तस्य, पुस्तकम्, अर्जुनः from
   memory; answer the three §16 questions aloud without the book.
-- **In 1 week:** lesson 4 is the Volume Exam — its reading ladder (Station C) climbs word
+- **In 1 week:** lesson 4 is the Volume Exam — its reading ladder (task C) climbs word
   list → dialogue → *this passage* → the first śloka. Your logged time is the baseline.
 - **From now on:** every passage has a thread. Find who सः is before you time yourself —
   comprehension first, speed second.
@@ -552,7 +566,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
    bookshop's पुस्तक भण्डार board, a school gate's विद्यालय. Find one of each (photos
    count) and read them aloud Sanskrit-style, final vowels full.
 4. **(5 min, teach-back)** Read the passage to someone. Ask them, in Sanskrit, कः अत्र
-   अस्ति? — and teach them to answer बालकः अत्र अस्ति। If they ask what the म् on पुस्तकम्
+   अस्ति? — and teach them to answer बालकः अत्र अस्ति। If they ask what the म् on विद्यालयम्
    is doing, give the one honest line from §15 — endings shift with a word's role — and
    nothing more. Holding back the rest is part of knowing it.
 
@@ -565,14 +579,14 @@ Tomorrow, before anything else: the 1-day cold run (§20). The gap is the method
 **Protect the eighth sentence.** On the board and in the first choral read, present lines
 1–7 only. Work the thread, the questions, the speeds — then write line 8 alone on a clean
 board and let the room read it cold. Give the beat its space, then name it: this was the
-first sentence of the course, ear-only for six chapters. Staged, the lesson is remembered;
+first-person sentence of lesson one, ear-only for six chapters. Staged, the lesson is remembered;
 unstaged, it is a reading drill.
 
 **Timing plan (45 min):** §3 retrieval, written (5) → new words on the board: the पठ्
 family tree, तस्य completing मम/तव, the सः-and-सा one-liner (8) → first read, speed 1,
 choral then pairs, lines 1–7 (7) → walkthrough: thread, verbless line 3, the endings honesty
 note delivered once and not expanded (8) → §16 question-answer in pairs, roles swapping,
-rising tone policed (6) → speed 2 and first speed-3 runs with the log (7) → THE EIGHTH
+both question tunes policed (6) → speed 2 and first speed-3 runs with the log (7) → THE EIGHTH
 SENTENCE, staged; homework incl. the 1-day cold run (4).
 
 **The honesty note disciplines the teacher, not the student.** Students will ask why
@@ -625,15 +639,15 @@ Lesson video, ~6 min, presenter + motion graphics.
    सः (an arrow curving back to बालकः; सा appears beside it, one line).
 3. **The text assembles (1:30–3:00):** the eight sentences appear one by one over the
    passage-card scene; every सः lights the same boy. Line 3 gets a "no verb — complete"
-   stamp; विद्यालयम् and पुस्तकम् a gentle underline and one caption: "endings shift with a
-   word's role — Volume 3."
+   stamp; विद्यालयम् a gentle underline and one caption: "endings shift with a word's role —
+   Volume 3."
 4. **Three speeds (3:00–4:15):** the passage scrolls at speed 1, 2, 3 with a timer; at speed
    3 a red flag on a clipped "pustak" resets the clock — "a fast wrong read scores zero."
 5. **THE MIRROR (4:15–5:15):** lines 1–7 fade; line 8 alone. The Lesson-1 cassette replays —
    then the same sentence appears as text: "Six chapters ago, sound. Today, you read it."
    Quiet beat.
-6. **Recap + CTA (5:15–6:00):** the revision box; the §16 questions flash with rising-tone
-   arrows. End card: "Next: श्लोकः परीक्षा च — your first śloka, and the Volume Exam. Bring
+6. **Recap + CTA (5:15–6:00):** the revision box; the §16 questions flash with tune arrows —
+   level under कः and किम्, rising only on त्वम् अपि. End card: "Next: श्लोकः परीक्षा च — your first śloka, and the Volume Exam. Bring
    your reading log."
 
 ## 25. Voice-over Script
@@ -651,8 +665,8 @@ narrator reads them as IPA, not as English spelling.
 - **01:30** Watch the thread. A boy is here — bālakaḥ [bɑːlɐkɐh]. From then on the text just
   says saḥ [sɐh], and you supply the boy. His name — tasya nāma arjunaḥ [t̪ɐsjɐ n̪ɑːmɐ
   ɐɾd͡ʑun̪ɐh] — no verb, nothing missing.
-- **02:30** Two words wear a new tail: vidyālayam [ʋid̪jɑːlɐjɐm], pustakam [pust̪ɐkɐm]. One
-  honest line: a word's ending shifts with its role. The system comes in Volume 3. Today —
+- **02:30** One word wears a new tail: vidyālayam [ʋid̪jɑːlɐjɐm] — in this chapter's first
+  lesson it was vidyālayaḥ [ʋid̪jɑːlɐjɐh]. One honest line: a word's ending shifts with its role. The system comes in Volume 3. Today —
   whole words, whole meanings, keep reading.
 - **03:00** Now the bootcamp. Same passage, three speeds: slow for accuracy, sentence pace
   for flow, reading pace — under forty-five seconds, every final vowel full. The clock never
@@ -660,8 +674,8 @@ narrator reads them as IPA, not as English spelling.
 - **04:15** And the eighth sentence. aham api saṃskṛtam paṭhāmi [ɐɦɐm ɐpi sɐ̃skr̩t̪ɐm
   pɐʈʰɑːmi] — I too read Sanskrit. Six chapters ago this was sound. Now it is text, and the
   text is telling the truth: you are reading it.
-- **05:15** Answer the questions — kaḥ atra asti [kɐh ɐt̪ɾɐ ɐst̪i]? — voice rising. Log your
-  times. Next: your first śloka, and the exam that closes Volume 1. Keep reading.
+- **05:15** Answer the questions — kaḥ atra asti [kɐh ɐt̪ɾɐ ɐst̪i]? — the question word
+  asks, voice level; tvam api [t̪ʋɐm ɐpi]? — voice rising. Log your times. Next: your first śloka, and the exam that closes Volume 1. Keep reading.
 
 ## 26. Reel Script
 
@@ -688,7 +702,7 @@ narrator reads them as IPA, not as English spelling.
     audio, §18 exercises 2–3 (must include a shuffled four-sentence dictation track with
     transcript)
   - `assets/audio/volume-1/v1c06l03-words-and-dialogue.mp3` — §14 word list (each word
-    twice), §16 dialogue model with rising-tone questions
+    twice), §16 dialogue model with both question tunes
   - `assets/worksheets/volume-1/v1c06l03-reading-log.pdf` — §18 exercises 2–4; layout spec
     in §23 asset 2
 - **Related lessons:** reviews v1.c06.l01 (संस्कृतम् at speed; विद्यालयः, whose changed form
@@ -698,15 +712,15 @@ narrator reads them as IPA, not as English spelling.
   joining preview), v1.c05.l05 (सोऽहम् — the one prior sighting of सः), v1.c04.l02 (सीता —
   the §18 mirror), v1.c03 (चलति; ठ), v1.c02.l06 (visarga; कः); closes the reading debt of
   v1.c01.l01 §6 (अहं संस्कृतं पठामि, ear-only since day one); feeds v1.c06.l04 (Volume Exam
-  reading ladder Station C uses this passage; the logged speed-3 time is the baseline) and
+  reading ladder task C uses this passage; the logged speed-3 time is the baseline) and
   Volume 3 (the endings system; sandhi resolving the pause forms).
 - **Glossary:** candidate addition — **अनुच्छेदः (anucchedaḥ) "passage, paragraph"
   (first-taught v1.c06.l03; modern standard term, flagged as such in §4)**; reuses पाठः,
   वर्ण, विसर्ग per GLOSSARY.md.
 - **Export notes:** §16 and §17 are fully self-read — export with all-`readable: true`
   spans, no 🔊 flags; अर्जुनः is a proper name — excluded from vocabulary_count and from
-  spaced-repetition decks; the ledger figures ≈232 → ≈236 (§14) are provisional pending
-  final v1.c06.l01–l02 word counts — recompute at chapter review; quoted error forms
+  spaced-repetition decks; the ledger figures 233 → 237 (§14) are final: 226
+  (v1.c06.l01) + 7 (v1.c06.l02) + 4 = 237, matching v1.c06.l04 §27; quoted error forms
   ("pustak", "vidyālay", "saṃskṛt", "ta-sa-ya") are documented errors — export as
   `error_form`, never as transliteration; the Lesson-1 callback quotes अहं संस्कृतं पठामि in
   its original joined spelling — export as quotation, do not "correct" it to pause form; IPA
