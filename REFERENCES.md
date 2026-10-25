@@ -50,6 +50,11 @@ gaṇa and marker letters; cited by gaṇa and root.
 <a id="bhagavadgita"></a>**bhagavadgita** — *Bhagavadgītā*. Cited chapter.verse (e.g. 2.47,
 10.33). Critical edition: BORI *Mahābhārata*, Bhīṣmaparvan.
 
+<a id="mahabharata"></a>**mahabharata** — *The Mahābhārata*, for the first time critically
+edited by V.S. Sukthankar, S.K. Belvalkar, P.L. Vaidya et al., 19 vols., Poona: Bhandarkar
+Oriental Research Institute, 1933–1966. Cited parvan.adhyāya.verse of the critical edition
+(e.g. 1.11.12); vulgate numbers, where different, are named as such.
+
 <a id="brhadaranyaka"></a>**brhadaranyaka** — *Bṛhadāraṇyaka Upaniṣad*. Cited
 adhyāya.brāhmaṇa.verse (e.g. 1.3.28 — asato mā sad gamaya). Ed./tr. Olivelle 1998.
 
@@ -63,7 +68,10 @@ section (prastāvikā / mitralābha …) and verse.
 the Gāyatrī/Sāvitrī mantra). Tr.: Jamison & Brereton 2014.
 
 <a id="panchatantra"></a>**panchatantra** — *Pañcatantra*. Textus simplicior unless noted;
-cited by tantra and story. Tr.: Olivelle 1997 (Oxford World's Classics).
+cited by tantra and story; the recension is named whenever a story is not in the textus
+simplicior (e.g. Pūrṇabhadra's recension of 1199 CE, tr. Ryder 1925 — see `ryder1925`).
+Tr.: Olivelle 1997 (Oxford World's Classics) — note that Olivelle translates Edgerton's 1924
+reconstruction of the original, not the textus simplicior.
 
 <a id="raghuvamsha"></a>**raghuvamsha** — Kālidāsa, *Raghuvaṃśa*. Cited sarga.verse (e.g. 1.1
 vāgarthāv iva…).
@@ -129,6 +137,18 @@ Phonetics*, 7th ed., Cengage 2015. IPA and articulatory descriptions.
 <a id="ohala1994"></a>**ohala1994** — M. Ohala, "Hindi", *Journal of the IPA* 24.1 (1994) —
 illustration of the IPA; baseline for Indic vowel/consonant values shared with Sanskrit
 pronunciation norms.
+
+<a id="perry1952"></a>**perry1952** — B.E. Perry, *Aesopica: A Series of Texts Relating to Aesop
+or Ascribed to Him*, vol. 1: Greek and Latin Texts, Urbana: University of Illinois Press, 1952.
+The "Perry Index" of Aesop's fables; cited by Perry number (e.g. 390, 150).
+
+<a id="lichtheim1980"></a>**lichtheim1980** — M. Lichtheim, *Ancient Egyptian Literature: A Book of
+Readings*, vol. III: The Late Period, Berkeley: University of California Press, 1980. Cited by
+page.
+
+<a id="ryder1925"></a>**ryder1925** — A.W. Ryder (tr.), *The Panchatantra*, Chicago: University of
+Chicago Press, 1925 — a translation of Pūrṇabhadra's recension (1199 CE). Cited by book and
+story title.
 
 ## Language-learning research (pedagogy design)
 

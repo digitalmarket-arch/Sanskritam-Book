@@ -39,7 +39,7 @@ Chapter 6 ends with the learner reading real connected words and a first (sandhi
 | 3 | संख्याः कालश्च — Numbers & Time | 5 | ✅ reviewed |
 | 4 | क्रियाः — First Verbs | 5 | ✅ reviewed |
 | 5 | संवादः — Daily Conversation | 5 | 🟨 research |
-| 6 | कथाः शब्दयात्राश्च — Stories & Word Journeys | 5 | ⬜ |
+| 6 | कथाः शब्दयात्राश्च — Stories & Word Journeys | 5 | 🟨 research |
 
 Carries the verified 1.x vocabulary sets (purged of Hindi loans), the 10-verb bank, the graded
 readers (Thirsty Crow; Lion & Mouse) with sandhi-resolved text, the first subhāṣitas, and the
