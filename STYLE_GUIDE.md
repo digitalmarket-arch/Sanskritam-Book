@@ -231,8 +231,11 @@ applied everywhere:
 3. **Upgrade row:** a noun or adjective already in the ledger that returns in sentence dress
    (-ः / -म्) or in its neuter form (दिन → दिनम्, शुभ → शुभम्, मास → मासः). It is drilled
    but never increments the ledger.
-4. **Verb forms count separately:** each distinct verb form is its own readable word
-   (वदति, then वदामि), as Volume 1 counted them.
+4. **Verbs:** from v2.c04 on, a verb enters the ledger once, as its 3sg citation form
+   (गच्छति). Forms the learner builds with the taught -मि/-सि/-ति pattern (गच्छामि,
+   गच्छसि) never re-enter. A form taught as a whole-word chunk does count as its own
+   readable word: an imperative such as पश्य or वदतु, or a stem-building form such as
+   असि. Volume 1, which predates the pattern, counted वदति and वदामि separately.
 5. **Display-only items** (seam previews, variant spellings, glossed plural titles) never
    count.
 
