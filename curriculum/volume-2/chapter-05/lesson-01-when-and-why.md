@@ -118,14 +118,14 @@ built for exactly that gap.
    the exam's task E take. 5/6 holds the line; below that, the remediation note under
    this key applies.
 1. गच्छामि · गच्छसि · गच्छति — and the stretch: the -मि row lengthens the joint vowel to
-   आ, so गच्छामि, never गच्छमि (v2.c04.l05 §15). Today's new verb runs on this exact row.
+   आ, so गच्छामि, never गच्छमि — v2.c04.l05 §15. Today's new verb runs on this exact row.
 2. Time. -ति marks the person; laṭ is the present, and tenses are later volumes' business
    (v2.c04.l05 §19 key, card 2). Hold that: §15 adds one honest line about श्वः.
 3. अद्य "today" · श्वः "tomorrow" · ह्यः "yesterday" (v2.c03.l03 §14); ह्यः points back,
    श्वः forward. Two of the three answer today's new question.
 4. कः का किम् कुतः कथम् कुत्र कति — seven askers (v2.c02.l04 §15's six, plus कति in
    v2.c03.l02 §15). In the location kit, कुत्र asks and यत्र points (v2.c02.l04 §14) —
-   keep that pair in mind for यतः (§8).
+   keep that pair in mind for यतः, §8.
 </details>
 
 A take below 5/6 sends you to v2.c04.l02 §15's pattern table tonight, and one more
@@ -262,9 +262,9 @@ long: इ-दा-नीम्.
 **यतः** (yataḥ) "because, since" — it opens the reason: यतः अहम् छात्रः अस्मि। "because
 I am a student." You have met its family. In v1.c02.l06, कुतः "from where?" asked and
 इतः "from here" answered; ततः "then" ran that lesson's story. यतः is the family's
-*pointing* member, the same ask/point pairing v2.c02.l04 drew between कुत्र (asks) and
-यत्र (points). The dictionaries give it both jobs — "from which" and "because, since"
-[REF:monierwilliams1899 s.v. yatas] — and today you use the second. A memory hook, not a
+*pointing* member, the same ask/point pairing v2.c02.l04 drew between कुत्र, which
+asks, and यत्र, which points. The dictionaries give it both jobs — "from which" and
+"because, since" [REF:monierwilliams1899 s.v. yatas] — and today you use the second. A memory hook, not a
 history claim: a reason is where a thing comes from.
 
 ### आगच्छति — going, turned around
@@ -363,7 +363,7 @@ on /m/, lips shut; कदा ends on a full /ɑː/ that survives at every speed.
 
 सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.
 
-1. **"किमर्थम् = what does it mean?"** The Hindi sense of अर्थ ("meaning") takes over;
+1. **"किमर्थम् = what does it mean?"** The Hindi sense of अर्थ, "meaning", takes over;
    inside किमर्थम्, अर्थ is *purpose*. *Fix:* §8 — learn it whole: "for what purpose".
 2. **The asker mix-up.** Answering कदा? with a place (अत्र) or कुत्र? with a time (श्वः):
    nine k-words blur as a list. *Fix:* §15's answer table, §18 exercise 2.
@@ -441,9 +441,9 @@ rule 4).
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | कदा | kadā | /kɐd̪ɑː/ | when? | कब | asker eight; answered by इदानीम्, अद्य, श्वः — bare answers legal (§8, §15); final आ two beats (§9) |
-| इदानीम् | idānīm | /id̪ɑːn̪iːm/ | now | अब, इस समय | classical time word, never changes shape (§8); दा and नी both long; dental द, न (§10) |
-| किमर्थम् | kimartham | /kimɐɾt̪ʰɐm/ | why? — lit. "for what purpose" | क्यों, किसलिए | asker nine; किम् + अर्थम्, taught whole (§8); अर्थ here = purpose, not "meaning" (§12); repha onto a puffed dental थ (§9) |
-| यतः | yataḥ | /jɐt̪ɐh/ | because, since | क्योंकि | opens the reason: यतः … (§15); also "from which" — the pointing partner of कुतः (§8); visarga breathed |
+| इदानीम् | idānīm | /id̪ɑːn̪iːm/ | now | अब, इस समय | classical time word, never changes shape (§8); दा and नी both long; dental द and न — §10 |
+| किमर्थम् | kimartham | /kimɐɾt̪ʰɐm/ | why? — lit. "for what purpose" | क्यों, किसलिए | asker nine; किम् + अर्थम्, taught whole (§8); अर्थ here = purpose, not "meaning" (§12); repha onto a puffed dental थ — §9 |
+| यतः | yataḥ | /jɐt̪ɐh/ | because, since | क्योंकि | opens the reason: यतः … (§15); also "from which" — the pointing partner of कुतः — §8; visarga breathed |
 | आगच्छति | āgacchati | /ɑːgɐt͡ɕt͡ɕʰɐt̪i/ | comes | आता है | आ + गच्छति — the prefix turns going into coming (§8); forms by the Chapter 4 pattern, आगच्छामि, आगच्छसि — built, never re-counted (§15) |
 
 Back on duty, review rows only — no re-entry to the ledger. The seven askers: **कः**
@@ -469,9 +469,10 @@ honesty lines that keep them safe.
 > stand bare (कदा? — श्वः।). (2) आगच्छति is आ + गच्छति: the prefix turns "goes" into
 > "comes", and the verb takes the present singular endings exactly as गच्छति does —
 > आगच्छामि, आगच्छसि, आगच्छति. (3) A reason is given in a clause opened by यतः
-> "because": किमर्थम्? — यतः अहम् छात्रः अस्मि। (4) The present form, with a time word,
-> can state a near and settled future (श्वः आगच्छामि "I am coming tomorrow"); the
-> ending still marks the person, not the time, and it cannot state a past.
+> "because": किमर्थम्? — यतः अहम् छात्रः अस्मि — a full sentence of its own. (4) The
+> present form, with a time word, can state a near and settled future (श्वः आगच्छामि
+> "I am coming tomorrow"); the ending still marks the person, not the time, and it
+> cannot state a past.
 > [REF:apte1890 s.v. गम् with आ]; [REF:monierwilliams1899 s.v. yatas]; [REF:whitney1889]
 
 ### The question kit — nine askers
@@ -493,11 +494,11 @@ keeps nine look-alike words apart (§5).
 
 ### आगच्छति on the Chapter 4 pattern
 
-| Person | गच्छति (v2.c04.l01) | आगच्छति (today) |
+| Person | v2.c04.l01: गच्छति | today: आगच्छति |
 |---|---|---|
-| अहम् (I) | गच्छामि | आगच्छामि |
-| त्वम् (you) | गच्छसि | आगच्छसि |
-| सः / सा (he / she) | गच्छति | आगच्छति |
+| I — अहम् | गच्छामि | आगच्छामि |
+| you — त्वम् | गच्छसि | आगच्छसि |
+| he / she — सः / सा | गच्छति | आगच्छति |
 
 The polite question rides the third row: **भवान् कदा आगच्छति?** "When are you (sir)
 coming?" — भवान् takes the he-form, the chunk-level fact of v2.c04.l03.
@@ -599,41 +600,41 @@ all five new words take a turn; the morning/evening bookends are v2.c04.l04's; l
 अभ्यासाः — seven exercises; 1, 3, 4, 5 and 6 are production tasks. Do them in order. All
 keys sit in §19's collapsed key — nothing is answered on this page.
 
-**अभ्यासः 1 · प्रश्नचक्रम् (the kit wheel — timed, spoken/recorded).** One recorded take:
+**अभ्यासः 1 · प्रश्नचक्रम् · the kit wheel (timed, spoken/recorded).** One recorded take:
 the nine askers in the §9 drill-4 order, three passes — slow, natural, timed. Log the
 timed pass against your drill-4 time. The standing law: visargas breathed, का long, every
 final full. This recording is tomorrow's baseline (§20).
 
-**अभ्यासः 2 · उत्तरमेलनम् (asker to answer — matching, then aloud).** Nine answer cards,
+**अभ्यासः 2 · उत्तरमेलनम् · asker to answer (matching, then aloud).** Nine answer cards,
 shuffled: अर्जुनः। · माया। · पुस्तकम्। · इतः। · कुशलम्। · अत्र। · पञ्च। · श्वः। · यतः
 अहम् छात्रः अस्मि। Deal one card to each asker of the wheel, then say each pair aloud as
 a two-line exchange: कदा? — श्वः। Which two answer cards could a careless matcher swap,
 and why would the swap be wrong?
 
-**अभ्यासः 3 · रूपनिर्माणम् (आगच्छति in three persons — production, spoken + written).**
+**अभ्यासः 3 · रूपनिर्माणम् · the three persons of आगच्छति — production, spoken + written.**
 Dealt a person card, say the form within a beat, then write it: (a) अहम् (b) त्वम् (c) सः
 (d) सा (e) भवान् (f) अहम्, with श्वः in front. Then parse: name the person of each of
 आगच्छसि · आगच्छामि · आगच्छति.
 
-**अभ्यासः 4 · श्रुतलेखनम् (dictation — production, written).** Play the dictation track
+**अभ्यासः 4 · श्रुतलेखनम् · dictation (production, written).** Play the dictation track
 🔊: the five headwords in random order, each read twice, then one frame sentence, twice.
 Write them in Devanagari. Self-check against §14: the long आ of आगच्छति written, च्छ
 welded, the repha sitting on थ, both long vowels of इदानीम्, the visarga of यतः. 5/5 plus
 the sentence intact is a pass.
 
-**अभ्यासः 5 · अनुवादः (translate — production, written).** Pause form: (a) "When does
+**अभ्यासः 5 · अनुवादः · translate (production, written).** Pause form: (a) "When does
 Father come?" (b) "Father is coming tomorrow." (c) "I am coming now." (d) "Why do you
 study Sanskrit?" (e) "Because my mother knows Sanskrit." (f) "When are you (sir, polite)
 coming?" Read your six aloud as one exchange.
 
-**अभ्यासः 6 · साक्षात्कारः (the when/why interview — production, spoken/recorded).** In
+**अभ्यासः 6 · साक्षात्कारः · the when/why interview (production, spoken/recorded).** In
 pairs (or with the reflex-gap track): ask four questions — two with कदा, two with
 किमर्थम् — and answer your partner's four, truthfully, in owned words only. Suggested
 openers: त्वम् कदा विद्यालयम् आगच्छसि? · त्वम् कदा गृहम् गच्छसि? · किमर्थम् त्वम्
 संस्कृतम् पठसि? · किमर्थम् त्वम् हससि? If your true reason needs words you do not own,
 give the nearest true reason you can say. Swap roles; record one full round.
 
-**अभ्यासः 7 · अङ्कनम् (the shelf sort).** Keep or reject, one reasoning line each:
+**अभ्यासः 7 · अङ्कनम् · the shelf sort.** Keep or reject, one reasoning line each:
 (a) "कः, Latin *quis* and English *who* share one ancestor — the PIE interrogative
 stem." (b) "English *who* comes from Sanskrit कः." (c) "किम् and Latin *quid* are a safe
 row: same stem, same job." (d) "कदा and English *when* are an exact word-for-word pair."
@@ -690,8 +691,8 @@ reason — and what is that reason?
 **Exercise keys.** 1: pass = all nine, order intact, visargas breathed, timed pass at or
 under the drill-4 log. 2: कः → अर्जुनः · का → माया · किम् → पुस्तकम् · कुतः → इतः ·
 कथम् → कुशलम् · कुत्र → अत्र · कति → पञ्च · कदा → श्वः · किमर्थम् → यतः अहम् छात्रः
-अस्मि; the tempting swap is अत्र ↔ श्वः (place for time — कुत्र wants a where, कदा a
-when), with कः ↔ का as the runner-up (accept either with its reason). 3: (a) आगच्छामि
+अस्मि; the tempting swap is अत्र ↔ श्वः — place for time: कुत्र wants a where, कदा a
+when — with कः ↔ का as the runner-up (accept either with its reason). 3: (a) आगच्छामि
 (b) आगच्छसि (c) आगच्छति (d) आगच्छति (e) आगच्छति (f) अहम् श्वः आगच्छामि; parse: आगच्छसि →
 त्वम्, आगच्छामि → अहम्, आगच्छति → सः/सा. 4: the five headwords per §14; sentence:
 **त्वम् कदा आगच्छसि?** 5: (a) पिता कदा आगच्छति? (b) पिता श्वः आगच्छति। (c) अहम्
@@ -774,7 +775,7 @@ present can lean forward with a time word, never back; the past is coming, later
 **Differentiation:** Hindi speakers own the meanings at once (कब, अब, क्यों, क्योंकि,
 आता है) — their work is the अर्थ trap (§12 mistake 1), the schwa-clipped "kimarth",
 and the कल ambiguity: Sanskrit splits it into श्वः and ह्यः, and only one of them works
-today. English speakers need the dental द/न/त, the puffed थ (no *th*), and the long
+today. English speakers need the dental द/न/त, the puffed थ with no English *th*, and the long
 gate of आगच्छति.
 
 **What students find hard:** the kit blur under speed (slow the wheel, answer-match
@@ -939,8 +940,8 @@ narrator reads the cue, not the English spelling.
 - **Verification flags for Pass C:** headword glosses against [REF:apte1890 s.vv.] and
   [REF:monierwilliams1899 s.vv. kadā, yatas] (notes §0.1, §0.4); §8's अर्थ sense list
   against [REF:apte1890 s.v. अर्थः]; आ + गच्छति against [REF:apte1890 s.v. गम् with आ]
-  (the root is NOT named in lesson prose); Whitney cited bare three times (§13 stem; §15
-  prefixes and the near-future present) — §15 point 4 is the lesson's one new
+  (the root is NOT named in lesson prose); Whitney cited bare twice (§13 stem; §15, covering
+  the prefix and the near-future present) — §15 point 4 is the lesson's one new
   grammatical claim: locate it in Whitney's uses of the present, or soften it; the §5
   lexical-set interference line against [REF:nation2013]; the \*kʷo-/\*kʷi- FACT, the two
   safe rows and the Germanic hw- line (§13) against [REF:mallory2006] — a web check at
