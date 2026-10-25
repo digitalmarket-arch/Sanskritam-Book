@@ -1032,9 +1032,10 @@ narrator reads the cue, not the English spelling.
   [REF:whitney1889] — cite bare unless a § is located; अस्तु as assent and शुभम् अस्तु
   (§13) against [REF:apte1890 s.v. अस्]; मन्दम् from मन्द (§8) against [REF:apte1890 s.v.
   मन्द]; तथास्तु display only, conditional framing; §5's input line keeps its "one
-  influential account" hedge ([REF:krashen1982] is used critically); the 1.x line (§4) is a paraphrase without quotation
-  marks — confirm against the 1.x PDF pp.44–46. Mechanical re-checks: no plurals, no
-  adjectives taught, no case talk, no vocatives, pause form, no time-depth figures.
+  influential account" hedge ([REF:krashen1982] is used critically); the 1.x line (§4)
+  is a paraphrase without quotation marks — confirm against the 1.x PDF pp.44–46.
+  Mechanical re-checks: no plurals, no adjectives taught, no case talk, no vocatives,
+  pause form, no time-depth figures.
   **Cross-file note:** l01, l03 and l05 landed during drafting; §3 matches l01 §20
   verbatim, §20's booking matches l03 §3, and §8/§15 carry the anchors l03 and l05 cite.
 - **Glossary:** no new terms; the mood is described in plain words ("command/request
