@@ -245,5 +245,5 @@ and display-only items are excluded; the ledger-new figure is stated in §14's o
 
 Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 counts मतिः
 beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
-· 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 (corrected at the 2026-10 deep audit,
-which removed eight double counts).
+· 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 (the first four corrected at the
+2026-10 deep audit, which removed eight double counts).

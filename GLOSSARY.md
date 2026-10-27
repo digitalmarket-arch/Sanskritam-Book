@@ -52,6 +52,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |
 | वर्ग | varga | class — one of the five stop rows, named by its first letter: क-वर्ग … प-वर्ग | वर्ग | v1.c01.l02 |
 | स्थान | sthāna | place of articulation | उच्चारण-स्थान | v1.c01.l02 |
+| विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun in gender, number and case (system: Volume 3) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
 
 ## Course meta-vocabulary
 

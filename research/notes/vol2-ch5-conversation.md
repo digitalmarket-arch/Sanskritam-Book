@@ -23,7 +23,7 @@ canonical after the 2026-10 audit).
 | 0.6 | अवगच्छति "understands" (अव + गम्) — classical. अहम् न अवगच्छामि "I don't understand" is a standard classroom phrase of living spoken Sanskrit; form classical, classroom use modern-common — say both. | FACT + usage label | [REF:monierwilliams1899] s.v. ava-gam | Classroom-survival lesson. |
 | 0.7 | वदतु "may (you) say" — an imperative (command-mood) 3sg used with the polite भवान्: भवान् पुनः वदतु "please say (it) again". Taught as a chunk; the command mood is Volume 3/4. मन्दम् "slowly" (adverbial neuter of मन्द) — classical. अस्तु "so be it / all right" — classical imperative of √अस्, used as a whole-word reply. | FACT | [REF:whitney1889] (imperative — cite bare); [REF:apte1890] s.vv. मन्द, अस् | The 1.x "पुनः वदतु = Say again" had no grammar note — 2.0 adds the honest one. |
 | 0.8 | इच्छति "wants, wishes" (√इष्) — takes the regular c04 pattern: इच्छामि, इच्छसि, इच्छति. | FACT | [REF:apte1890] s.v. इष् | Pass C: the इच्छति ~ English *ask* cognate (PIE *h₂eys-) is plausible but **verify in [REF:mallory2006] or cut** — do not teach it unverified. |
-| 0.9 | मह्यम् रोचते "I like (it)" — literally "it pleases me": the liked thing is the grammatical subject, the liker stands in a "to/for" form (मह्यम् "to me", तुभ्यम् "to you"), and रोचते carries a different ending family (the middle voice, ātmanepada). All three taught as whole-word chunks with that one honest line; cases and voice are Volume 3/4. फलम् मह्यम् रोचते। "I like the fruit." | FACT | [REF:apte1890] s.v. रुच्; [REF:whitney1889] (dative — cite bare) | THE honesty beat of the chapter: English and Sanskrit build "liking" from opposite ends (Hindi मुझे … पसंद है works like Sanskrit — a nice bridge). |
+| 0.9 | मह्यम् रोचते "I like (it)" — literally "it pleases me": the liked thing is the grammatical subject, the liker stands in a "to/for" form (मह्यम् "to me", तुभ्यम् "to you"), and रोचते carries a different ending family (the middle voice, ātmanepada). All three taught as whole-word chunks with that one honest line; cases and voice are Volume 3/4. फलम् मह्यम् रोचते। "I like the fruit." | FACT | [REF:apte1890] s.v. रुच्; [REF:whitney1889] (dative — cite bare) | THE honesty beat of the chapter: English and Sanskrit build "liking" from opposite ends (Hindi मुझे … पसंद है is a bridge in one respect: the liker sits in a को-form and the liked thing controls the verb's agreement [REF:masica1991]; do not call the Hindi liked thing the 'subject' — the standard analysis treats मुझे as a dative (experiencer) subject). |
 | 0.10 | Market words: आपणः "shop, market" (classical); कियत् "how much?" (classical); मूल्यम् "price, value" (classical); ददातु "please give" — imperative 3sg of √दा, chunk (भवान् ददातु); बहु "much, a lot"; अल्पम् "a little"; पर्याप्तम् "enough". | FACT | [REF:apte1890] s.vv.; [REF:monierwilliams1899] s.vv. āpaṇa, kiyat, mūlya, paryāpta | Prices answered with BARE numbers (c03 policy): कियत् मूल्यम्? — दश। No numeral agreement, no plural nouns. |
 | 0.11 | रूप्यकम् "rupee" is the modern Sanskrit word for the currency (MW records rūpya "silver, coined silver"). **Display only, modern label** — prices stay bare numbers. | FACT + usage label | [REF:monierwilliams1899] s.v. rūpya | Not counted. |
 | 0.12 | Adjectives agree with their nouns in gender, number and case; the course has only OBSERVED gender shapes so far. This chapter therefore teaches no descriptive adjectives (the 1.x list सुन्दर/महत्/लघु/उत्तम is deferred to Volume 3), only the quantity words बहु / अल्पम् / पर्याप्तम् as fixed answers. | policy | [REF:whitney1889] | Fixes the 1.x stem-list problem by sequencing, not by omission of honesty: say why. |
@@ -48,9 +48,10 @@ Ledger 313 → 317.
 ## 3. L3 — इच्छामि रोचते च: wanting and liking (vocabulary)
 
 **New (4):** इच्छति, मह्यम्, तुभ्यम्, रोचते. Objects from the ledger (जलम्, फलम्, अन्नम्,
-क्षीरम्, भोजनम्, पुस्तकम्). Frames: किम् इच्छसि? — अहम् जलम् इच्छामि। · फलम् मह्यम्
-रोचते। · किम् तुभ्यम् रोचते? The 0.9 honesty beat in §15, with the Hindi मुझे … पसंद है
-bridge. Ledger 317 → 321.
+क्षीरम्, पुस्तकम्) — भोजनम् dropped: only the stem भोजन holds a §14 row (v1.c03.l05) and
+its म्-dress appears in no lesson (corrected at review). Frames: किम् इच्छसि? — अहम् जलम्
+इच्छामि। · फलम् मह्यम् रोचते। · किम् तुभ्यम् रोचते? The 0.9 honesty beat in §15, with the
+Hindi मुझे … पसंद है bridge. Ledger 317 → 321.
 
 ## 4. L4 — आपणः: at the market (conversation)
 

@@ -237,9 +237,9 @@ requests, not statements.
 क्षमस्व की तरह। मित्र से भी अभी भवान् … वदतु ही कहिए — शिष्टता कभी ग़लत नहीं होती।
 
 तीसरी कड़ी में मन्दम् — "धीरे"; हिन्दी का मंद (मंद गति) वही शब्द है। मन्द "धीमा" अर्थ
-वाला विशेषण है, और मन्दम् उसका पक्का रूप जो क्रिया के साथ "धीरे" का काम करता है;
-विशेषणों का खेल खण्ड 3 में। कृपया और धन्यवादः का लेबल याद रखिए: शब्द पुराने, पर
-"प्लीज़" और "थैंक यू" वाला प्रयोग आधुनिक रीति।
+वाला विशेषण — यानी संज्ञा का गुण या मात्रा बताने वाला शब्द — है, और मन्दम् उसका पक्का
+रूप जो क्रिया के साथ "धीरे" का काम करता है; विशेषणों का खेल खण्ड 3 में। कृपया और
+धन्यवादः का लेबल याद रखिए: शब्द पुराने, पर "प्लीज़" और "थैंक यू" वाला प्रयोग आधुनिक रीति।
 
 अस्तु अस्ति का सगा भाई है — वही √अस् ("होना")। अस्ति कहता है "है", अस्तु कहता है "ऐसा
 ही हो" — यानी "ठीक है"। यह भी अनुरोध-भाव का रूप है, पर उत्तर में पूरे शब्द की तरह चलता
@@ -512,7 +512,8 @@ one honest line about a new mood, the chain in four steps, and one label table.
 > **[FACT · तथ्यम्]** (1) न negates what follows it, so the negated verb reads न
 > अवगच्छामि "I don't understand"; in pause form the words stay apart. (2) A yes/no
 > question asked in the you-form is answered about oneself in the I-form: अवगच्छसि? — आम्,
-> अवगच्छामि। / न, न अवगच्छामि। [REF:apte1890 s.v. न]
+> अवगच्छामि। / न, न अवगच्छामि। [REF:apte1890 s.v. न] (point 1; point 2 is the course's
+> person swap, v2.c04.l03)
 
 ### वदतु and अस्तु — one honest line
 
@@ -594,8 +595,10 @@ Because I am a student!" — हाँ! समझ गया। धन्यव�
 (satyam! aham api chātraḥ asmi.) "True! I am a student too." — सच! मैं भी छात्र हूँ।
 
 The ladder at work: अर्जुनः climbs every rung, the आचार्यः grants each request with अस्तु,
-and registers run true — त्वम् down to the student, भवान् … वदतु up to the teacher. The
-lost question was lesson 1's किमर्थम्; once it landed, अर्जुनः answered with a यतः.
+and the requests run up the register — भवान् … वदतु to the teacher, त्वम् down to the
+student (क्षमस्व, Chapter 1's whole-word plea, is itself a त्वम्-form, long said to elders
+as a fixed apology; its भवान् twin waits for the mood chapter). The lost question was
+lesson 1's किमर्थम्; once it landed, अर्जुनः answered with a यतः.
 
 ### Scene 2 — understand, or know?
 
@@ -1004,9 +1007,9 @@ narrator reads the cue, not the English spelling.
   (जानाति/जानामि), v2.c01.l02 (tune; भवती display), v2.c01.l03 (शुभम् अस्तु), v1.c05.l01
   (भवान्, आम्), v1.c05.l02/v1.c06.l01 (सत्य, सत्यम्); feeds v2.c05.l03 (Station 0; its key
   cites §8's "the speaker's reply" and chain table), v2.c05.l04 (अस्तु, पुनः वदतु at the
-  market), v2.c05.l05 (Station 2 cites §15's four steps and labels; task D's FACT card on
-  अहम् न अवगच्छामि and reject card on वदतु), and Volume 3/4 (request mood, prefixes,
-  sandhi of नावगच्छामि/पुनर्वदतु/तथास्तु, the adjective behind मन्दम्).
+  market), v2.c05.l05 (Station 2 cites §8's chain and §15's request line and labels; task
+  D's FACT card on अहम् न अवगच्छामि and reject card on वदतु), and Volume 3/4 (request mood,
+  prefixes, sandhi of नावगच्छामि/पुनर्वदतु/तथास्तु, the adjective behind मन्दम्).
 - **Editorial decisions (resolved):** vocabulary_count is the honest 4 — अवगच्छति as 3sg
   citation form with अवगच्छामि/अवगच्छसि built, never rows (STYLE_GUIDE §8 rule 4); वदतु
   and अस्तु count as whole-word imperative chunks (rule 4 names वदतु) beside the ledger's
@@ -1038,7 +1041,8 @@ narrator reads the cue, not the English spelling.
   pause form, no time-depth figures.
   **Cross-file note:** l01, l03 and l05 landed during drafting; §3 matches l01 §20
   verbatim, §20's booking matches l03 §3, and §8/§15 carry the anchors l03 and l05 cite.
-- **Glossary:** no new terms; the mood is described in plain words ("command/request
+- **Glossary:** one new Hindi term, विशेषण "adjective" (§7, glossed in place), added to
+  GLOSSARY.md at review; the mood is described in plain words ("command/request
   mood", आज्ञा या अनुरोध का रूप), its traditional name not introduced (Volume 3/4).
 - **Register audit:** FACT ×9 (§4 अव + गम् · §4 usage label · §5 comprehensible input ·
   §5 chunks/retrieval · §13 अव + गम् senses · §13 अस्तु · §15 repair rules · §15

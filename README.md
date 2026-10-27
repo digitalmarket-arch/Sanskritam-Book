@@ -82,5 +82,6 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md), then the style guide and editoria
 ## Status
 
 Bootstrapped 2026-07-20. Volume 1 (Sounds & Script) is content-complete — 31 lessons, all
-reviewed; Volume 2 (Words & Sentences) is in production. Chapter status: [ROADMAP.md](ROADMAP.md);
+reviewed; Volume 2 (Words & Sentences) is in production — Chapters 1–5 reviewed, Chapter 6
+drafted. Chapter status: [ROADMAP.md](ROADMAP.md);
 history: [CHANGELOG.md](CHANGELOG.md).

@@ -77,7 +77,7 @@ them turn out to share an ancestor with English *who* and *what*.
 Objective 1 is built in §8/§9/§14/§15 and tested in §18 (exercises 1, 2, 4) and §19 (Q1,
 Q2, Q9); objective 2 in §6/§8/§15/§16, §18 (exercises 3, 5, 6), §19 (Q3, Q4, Q8, Q10);
 objective 3 in §6/§15/§16, §18 (exercises 5, 6), §19 (Q5, Q10); objective 4 in §13, §18
-(exercise 7), §19 (Q6, Q7); objective 5 in §3.
+(exercise 7), §19 (Q6, Q7); objective 5 in §3, closing in §18 (exercise 6).
 
 ## 3. Previous Lesson Review
 
@@ -287,8 +287,8 @@ than "go" to "come" — and that system is later volumes' business. Today: one p
 tomorrow." The verb exam told you -ति marks person, not time, and that stays true: in
 श्वः आगच्छामि the ending marks only the person, the time word does the pointing, and
 Sanskrit, like English *I'm coming tomorrow*, lets the present stand for a near, settled
-future (§15). What the present cannot do is reach back: ह्यः आगच्छामि is not "I came
-yesterday" — that needs a past tense, which is later business.
+future (§15). What the present cannot do is reach back to ह्यः: ह्यः आगच्छामि is not
+"I came yesterday" — that needs a past tense, which is later business.
 
 **किमर्थम् त्वम् संस्कृतम् पठसि? — यतः अहम् छात्रः अस्मि।** Your real reason may need
 words you do not own yet; say the nearest true thing you *can* say — यतः मम माता
@@ -374,14 +374,15 @@ on /m/, lips shut; कदा ends on a full /ɑː/ that survives at every speed.
 5. **Person mismatch, new verb.** अहम् आगच्छति, त्वम् आगच्छामि — Chapter 4's flagged
    error. *Fix:* v2.c04.l02 §15 — the ending IS the person.
 6. **The present pushed into yesterday: ह्यः आगच्छामि for "I came yesterday".** The
-   present carries a near future with a time word (श्वः आगच्छामि), never a past. *Fix:*
-   §15's honesty line — इदानीम्, अद्य, श्वः until the past tense arrives.
+   present carries a near future with a time word (श्वः आगच्छामि), never a past with
+   ह्यः. *Fix:* §15's honesty line — इदानीम्, अद्य, श्वः until the past tense arrives.
 7. **Clipped finals: "kimarth", "yat", "idānim".** Hindi-rhythm schwa loss, a dropped
    visarga, a shortened ई. *Fix:* §9 drills 2–3 and §10's narrow notes.
 8. **The cognate reach, both directions.** "English *who* comes from Sanskrit कः" draws
    an arrow that does not exist; "कदा and *when* are a matched pair" claims more than the
    evidence gives. *Fix:* §13 — siblings, no arrows; the stem is shared, and only two
-   rows are paired word for word.
+   rows pair all three languages word for word (कति ~ *quot*, v2.c03.l02, stays a
+   two-language pair).
 
 ## 13. Examples
 
@@ -399,8 +400,9 @@ That is why the kit chants so easily — and why §5 warns that it blurs so easi
 > कति), the English wh-words (*who, what, when, where*) and the Latin qu-words (*quis,
 > quid, quando*) continue one Proto-Indo-European interrogative stem, reconstructed as
 > \*kʷo- beside \*kʷi-. Each branch reshaped the old \*kʷ- sound by regular rules of its
-> own — k- in these Sanskrit words, qu- in Latin, an older hw- that English now spells
-> wh-. Shared inheritance: nobody borrowed in any direction. [REF:mallory2006]
+> own — k- in these Sanskrit words (the k of किम् is a known irregularity), qu- in Latin,
+> an older hw- that English now spells wh-. Shared inheritance: nobody borrowed in any
+> direction. [REF:mallory2006]
 
 | Sanskrit | Latin | English | What the row claims |
 |---|---|---|---|
@@ -412,7 +414,10 @@ endings on it, and the stem itself came in two shapes, \*kʷo- and \*kʷi-, whic
 languages did not always use for the same word. So the rows match in stem and in job,
 not letter for letter. And the rest of the family stops at the stem: कदा and *when*,
 कुत्र and *where*, कथम् and *how* all carry it, but they are not word-for-word matches,
-and this shelf does not pair them.
+and this shelf does not pair them. One older pair stays where v2.c03.l02 shelved it:
+कति beside Latin *quot* "how many" [REF:burrow2001], a Sanskrit–Latin sibling row with
+no English partner — so today's two rows are the kit's only three-language pairs, not
+its only pairs.
 
 ### Hindi's k-words — the same stem, inherited
 
@@ -472,8 +477,10 @@ honesty lines that keep them safe.
 > "because": किमर्थम्? — यतः अहम् छात्रः अस्मि — a full sentence of its own. (4) The
 > present form, with a time word, can state a near and settled future (श्वः आगच्छामि
 > "I am coming tomorrow"); the ending still marks the person, not the time, and it
-> cannot state a past.
-> [REF:apte1890 s.v. गम् with आ]; [REF:monierwilliams1899 s.v. yatas]; [REF:whitney1889]
+> cannot make a past with ह्यः: ह्यः आगच्छामि is not "I came yesterday" — that needs a past
+> tense (the present's narrative uses for past events, e.g. with the particle स्म, are later
+> business).
+> [REF:apte1890 s.v. गम् with आ]; [REF:monierwilliams1899 s.v. yatas]; [REF:whitney1889 §§777–778]
 
 ### The question kit — nine askers
 
@@ -632,7 +639,9 @@ pairs (or with the reflex-gap track): ask four questions — two with कदा,
 किमर्थम् — and answer your partner's four, truthfully, in owned words only. Suggested
 openers: त्वम् कदा विद्यालयम् आगच्छसि? · त्वम् कदा गृहम् गच्छसि? · किमर्थम् त्वम्
 संस्कृतम् पठसि? · किमर्थम् त्वम् हससि? If your true reason needs words you do not own,
-give the nearest true reason you can say. Swap roles; record one full round.
+give the nearest true reason you can say. Swap roles; record one full round. If §3's
+Station 0 was skipped in class, record the मम दिनम् six first, with no notes, and log the
+take beside the exam's task E. The log line is part of this exercise.
 
 **अभ्यासः 7 · अङ्कनम् · the shelf sort.** Keep or reject, one reasoning line each:
 (a) "कः, Latin *quis* and English *who* share one ancestor — the PIE interrogative
@@ -680,7 +689,7 @@ reason — and what is that reason?
 5. (c) (§15). ((d) is §12 mistake 3 — कुतः asks, यतः gives the reason; (a) and (b)
    answer कदा and कुतः.)
 6. (c) — the §13 FACT; shared inheritance, no arrows. ((a) and (b) are §12 mistake 8.)
-7. (b) — the stem is shared; only कः and किम् are paired as rows (§13).
+7. (b) — the stem is shared; only कः and किम् are paired as three-language rows (§13).
 8. (b) — the present with a time word for the near future (§15 point 4). ((a) needs a
    past tense, §12 mistake 6; (c) and (d) are person mismatches, §12 mistake 5.)
 9. कः who? · का who? (f) · किम् what? · कुतः from where? · कथम् how? · कुत्र where? ·
@@ -770,7 +779,7 @@ Yes, a real and big system — later volumes' business; one prefix today, honest
 labelled. *Is कदा ~ when a pair too?* Honor the instinct, hold the line: they share the
 stem, and the shelf pairs only the two rows it can defend — "the evidence stops here" is
 part of the method. *So ह्यः आगच्छामि?* Expect it the moment श्वः आगच्छामि works: the
-present can lean forward with a time word, never back; the past is coming, later.
+present can lean forward with a time word, never back to ह्यः; the past is coming, later.
 
 **Differentiation:** Hindi speakers own the meanings at once (कब, अब, क्यों, क्योंकि,
 आता है) — their work is the अर्थ trap (§12 mistake 1), the schwa-clipped "kimarth",
@@ -940,9 +949,9 @@ narrator reads the cue, not the English spelling.
 - **Verification flags for Pass C:** headword glosses against [REF:apte1890 s.vv.] and
   [REF:monierwilliams1899 s.vv. kadā, yatas] (notes §0.1, §0.4); §8's अर्थ sense list
   against [REF:apte1890 s.v. अर्थः]; आ + गच्छति against [REF:apte1890 s.v. गम् with आ]
-  (the root is NOT named in lesson prose); Whitney cited bare twice (§13 stem; §15, covering
-  the prefix and the near-future present) — §15 point 4 is the lesson's one new
-  grammatical claim: locate it in Whitney's uses of the present, or soften it; the §5
+  (the root is NOT named in lesson prose); Whitney cited bare once (§13 stem); §15 point 4,
+  the lesson's one new grammatical claim, is located at [REF:whitney1889 §§777–778]
+  (near-future and narrative-past uses of the present) and narrowed to the ह्यः line; the §5
   lexical-set interference line against [REF:nation2013]; the \*kʷo-/\*kʷi- FACT, the two
   safe rows and the Germanic hw- line (§13) against [REF:mallory2006] — a web check at
   drafting (secondary sources only) agreed on one PIE stem with o- and i- shapes behind

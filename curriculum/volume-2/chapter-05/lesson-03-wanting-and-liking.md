@@ -470,7 +470,8 @@ right way. The diagram draws one arrow per row, always from the thing to the per
 
 > **[FACT · तथ्यम्]** Hindi इच्छा "wish, desire" and रुचि "interest, liking" are Sanskrit
 > words that Hindi uses unchanged. Inside Sanskrit, इच्छा belongs to the same word family
-> as इच्छति, and रुचि to the same family as रोचते. [REF:apte1890 s.vv. इच्छा, रुचि]
+> as इच्छति, and रुचि to the same family as रोचते. [REF:apte1890 s.vv. इच्छा, रुचि];
+> [REF:masica1991]
 
 So a Hindi speaker already holds a door-handle for each new verb: इच्छा → इच्छति "wants";
 रुचि → रोचते "pleases". The family is a memory hook, not a lesson in word-building — how
@@ -497,7 +498,8 @@ Back on duty, review only — no re-entry to the ledger: the pantry **जलम�
 **फलम्** "fruit", **पुस्तकम्** "book" (the object veterans) and **अन्नम्** "food",
 **क्षीरम्** "milk" (✓ v2.c04.l03); **संस्कृतम्** "Sanskrit" (✓ v1.c01.l01); **किम्**
 "what?", **न** "not", **अपि** "too, also", **च** "and", **आम्** "yes", **भवान्** "you,
-sir/madam", **सर्वम्** "everything"; and lesson 2's rescue chunks, on call in §16.
+sir" (respectful, to a man; to a woman it is भवती, display only, v2.c05.l02 §8),
+**सर्वम्** "everything"; and lesson 2's rescue chunks, on call in §16.
 
 Reading protocol unchanged: count the blocks, read the blocks, read the word — इ-च्छ-ति,
 मह्-यम्, तुभ्-यम्, रो-च-ते — then the roll-call (§9 drill 5), every final vowel full.
@@ -816,7 +818,9 @@ you?" — अन्नम् तुभ्यम् रोचते? (f) "Milk do
 6: (a) **reject** — literally "it pleases me" (§15); (b) **keep**; (c) **keep** — the
 Hindi bridge (§5, §8); (d) **reject** — the subject is the milk, an "it", so रोचते stays;
 (e) **keep**; (f) **reject** — मह्यम् is "to me"; the doer is अहम्. The pair that makes
-the same mistake: (a) and (f) — both treat the liker as the doer, English-style.
+the same mistake: (a) and (f) — both read मह्यम् itself as "I", the liker as the doer,
+English-style. ((d) is the verb-side cousin, §12 mistake 2; credit a pairing with (d)
+only if the reasoning names the liker taken as subject.)
 7: scored on the four required elements (want Q&A · like Q&A · a न answer · a real rescue
 chunk), both roles, every answer true. Log it; tomorrow's Station 0 runs against it.
 </details>

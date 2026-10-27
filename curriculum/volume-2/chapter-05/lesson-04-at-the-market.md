@@ -231,7 +231,8 @@ form learned whole — the sibling of lesson 2's वदतु.
 एक ज़रूरी सावधानी: ददातु त्वम् के साथ नहीं चलता — "त्वम् फलम् ददातु" वैसी ही गड़बड़ है
 जैसी "भवान् करोषि"। दोस्त से "तुम दो" कहने का शब्द अलग है, अभी नहीं। और दुकान पर कोई
 महिला हों तो? पाठ 2 की तरह, आदर का "आप" भवती अभी केवल झलक है, इसलिए सर्वनाम छोड़
-दीजिए: कृपया क्षीरम् ददातु। ददातु का रूप अपने-आप विनम्र है। कोई सम्बोधन-रूप नहीं।
+दीजिए: कृपया क्षीरम् ददातु। सर्वनाम छोड़ना आधुनिक बोलचाल का चलन है; पूरा रूप सर्वनाम
+रखता है — भवती क्षीरम् ददातु — जो भवती सीखने के बाद आएगा। कोई सम्बोधन-रूप नहीं।
 
 तीन मात्रा-शब्द: बहु — बहुत; अल्पम् — थोड़ा; पर्याप्तम् — काफ़ी, बस। हिन्दी के बहुवचन,
 अल्पविराम, पर्याप्त में ये पहचाने-से लगेंगे। पर आज ये केवल अकेले उत्तर हैं: बहु? अल्पम्?
@@ -313,9 +314,11 @@ not drill it. What you drill is the request without a pronoun:
 > **कृपया क्षीरम् ददातु।** (kṛpayā kṣīram dadātu.) "Please give (me) milk." — कृपया दूध
 > दीजिए।
 
-Sanskrit can leave a subject unsaid when the verb and the situation make it plain; face to
-face at a stall, ददातु is heard as a request to the person in front of you. No calling
-forms in either scene.
+Usage label: **modern spoken convention**. Modern spoken Sanskrit often drops the pronoun
+here: face to face at a stall, a bare ददातु is heard as a request to the person in front
+of you. On its own, a 3sg request can also read "let him/her give", so the fuller usage
+keeps the respectful pronoun — भवान् फलम् ददातु, and भवती क्षीरम् ददातु once भवती is
+taught. No calling forms in either scene.
 
 ### बहु · अल्पम् · पर्याप्तम् — three fixed answers
 
@@ -461,7 +464,7 @@ knowledge gives; the customer *asks* the seller to give [REF:apte1890 s.v. द�
 A complete haggle in five turns, not one ending assembled under pressure. The grammar load
 is zero; the speed load is everything — which is why §18 exercise 2 runs against a timer.
 
-### पर्याप्तम् — and its Hindi cousins
+### पर्याप्तम् — and the same words in Hindi
 
 **पर्याप्तम्? — आम्, पर्याप्तम्।** (paryāptam? — ām, paryāptam.) "Enough? — Yes,
 enough." — बस? — हाँ, बस।
@@ -680,14 +683,14 @@ English, Hindi.
    (mātā vadati — kṣīram kutra? māyā hasati — kṣīram mahyam rocate!) "Mother says: Where
    is the milk? Māyā laughs: I like milk!" — माता कहती हैं — दूध कहाँ है? माया हँसती है
    — मुझे दूध पसंद है!
-9. अर्जुनः वदति — बहु न पर्याप्तम्! अहम् पुनः आपणम् गच्छामि।
-   (arjunaḥ vadati — bahu na paryāptam! aham punaḥ āpaṇam gacchāmi.) "Arjuna says: A lot
-   is not enough! I'm going to the market again." — अर्जुन कहता है — बहुत भी काफ़ी नहीं!
+9. अर्जुनः वदति — न पर्याप्तम्! अहम् पुनः आपणम् गच्छामि।
+   (arjunaḥ vadati — na paryāptam! aham punaḥ āpaṇam gacchāmi.) "Arjuna says: Not
+   enough! I'm going to the market again." — अर्जुन कहता है — काफ़ी नहीं!
    मैं फिर बाज़ार जाता हूँ।
 
-Line 9 is the lesson grinning at itself: two fixed quantity words and न (before what it
-negates, v2.c01.l04) sum up the household's milk problem. The story never needs a plural,
-a "ten rupees" or a describing word; आपणम् in lines 2 and 9 is glossed whole.
+Line 9 is the lesson grinning at itself: one fixed quantity word and न, placed before what
+it negates as in v2.c01.l04, sum up the household's milk problem. The story never needs a
+plural, a "ten rupees" or a describing word; आपणम् in lines 2 and 9 is glossed whole.
 
 ## 18. Exercises
 
@@ -1029,8 +1032,9 @@ narrator reads the cue, not the English spelling.
   (§15) against [REF:whitney1889], cited bare; रूप्य and रूप्यकम् (§4) against
   [REF:monierwilliams1899 s.v. rūpya] (fact 0.11); English *rupee* as a loan via Hindi (§4)
   against [REF:oed s.v. rupee] — not in the fact base: verify or cut; the CEFR A2
-  paraphrase (§5) against [REF:cefr2020]; the pronoun-free request (§8), prose only:
-  confirm or soften; the Hindi observations (§7, §13) claim no derivation. **Cross-file:**
+  paraphrase (§5) against [REF:cefr2020]; the pronoun-free request (§7, §8), prose only:
+  softened to a modern spoken-convention label, the fuller pronoun usage noted — confirm
+  the label; the Hindi observations (§7, §13) claim no derivation. **Cross-file:**
   l03 §20's booking is quoted verbatim in §3, and l05's Station 0 runs §20's line verbatim
   — both checked against the files on disk at drafting.
 - **Glossary:** no new terms in the Sanskrit layers. The Hindi section uses विशेषण

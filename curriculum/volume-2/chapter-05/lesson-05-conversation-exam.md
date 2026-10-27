@@ -173,7 +173,7 @@ with the reason stated. The exam tests only what the chapter delivered.
 > **[FACT · तथ्यम्]** The Sanskrit k-question words (कः, किम्, कदा, कुत्र, कथम्, कति),
 > the English wh-words (*who, what, when, where*) and the Latin qu-words (*quis, quid,
 > quando*) continue one Proto-Indo-European interrogative stem, reconstructed as \*kʷo-
-> beside \*kʷi-. They share a descent; neither side borrowed. Word pairs are drawn only
+> beside \*kʷi-. They share a descent; neither side borrowed. Three-language word pairs are drawn only
 > on the two safe rows: कः ~ *quis* ~ *who* and किम् ~ *quid* ~ *what*.
 > [REF:mallory2006]; [REF:burrow2001]
 
@@ -196,8 +196,9 @@ works under pressure.
 
 Task A trains the move underneath every conversation: catch the asker first, because it
 announces the kind of answer wanted. Task D checks the boundary knowledge. English seats
-the person who likes as the subject (*I like*); Sanskrit and Hindi seat the liked thing
-there (फलम् मह्यम् रोचते · मुझे फल पसंद है). And the k-askers share one inherited stem
+the person who likes as the subject (*I like*); Sanskrit and Hindi put the liker in a
+"to me" form and let the liked thing run the verb (फलम् मह्यम् रोचते · मुझे फल पसंद है);
+in Sanskrit the liked thing is also the subject. And the k-askers share one inherited stem
 with *who* and *quis*; Hindi's कौन, क्या, कब carry the same k- stem [REF:masica1991].
 
 ## 6. Sanskrit Explanation
@@ -216,7 +217,7 @@ with *who* and *quis*; Hindi's कौन, क्या, कब carry the same k-
 > **कियत् मूल्यम्? — दश। — बहु! अष्ट? — नव। — आम्, नव। भवान् फलम् ददातु।**
 > (kiyat mūlyam? — daśa. — bahu! aṣṭa? — nava. — ām, nava. bhavān phalam dadātu.) "How
 > much is it? — Ten. — That's a lot! Eight? — Nine. — Yes, nine. Please give (me) a
-> fruit." — कितने का है? — दस। — बहुत है! आठ? — नौ। — हाँ, नौ। कृपया फल दीजिए।
+> fruit." — कितने का है? — दस। — बहुत है! आठ? — नौ। — हाँ, नौ। आप फल दीजिए।
 
 > **अहम् न अवगच्छामि। भवान् पुनः वदतु। — अस्तु! … — आम्! अवगच्छामि।**
 > (aham na avagacchāmi. bhavān punaḥ vadatu. — astu! … — ām! avagacchāmi.) "I don't
@@ -250,7 +251,8 @@ the second ending family, the prefix system) is named, deferred, and not tested.
 दूसरी — **"मह्यम् रोचते" का सच।** अंग्रेज़ी में पसंद करने वाला कर्ता होता है: I like
 fruit। संस्कृत में बनावट उलटी है: फलम् मह्यम् रोचते, यानी "फल मुझे भाता है"। जो चीज़ पसंद
 है, वही कर्ता है, और पसंद करने वाला "मुझे" वाले रूप (मह्यम्) में बैठा है। "मुझे फल पसंद
-है" ठीक इसी ढंग से बनता है। इसलिए "अहम् फलम् रोचामि" ग़लत है — यही अध्याय की सबसे आम भूल
+है" में भी पसंद करने वाला "मुझे" बनकर बैठता है, और क्रिया उस चीज़ के साथ चलती है जो
+पसंद आ रही है। इसलिए "अहम् फलम् रोचामि" ग़लत है — यही अध्याय की सबसे आम भूल
 है। और उलटी दिशा में भी सावधान: "मुझे पानी चाहिए" वाला ढाँचा चाहने पर मत लगाइए; वहाँ
 सीधा अहम् जलम् इच्छामि ही सही है।
 
@@ -336,8 +338,8 @@ The request tails are dental: वदतु /ʋɐd̪ɐt̪u/ · अस्तु /�
 - **Task C (mouth):** plan the seven moves, not the sentences. Know the chunk that opens
   each move (नमस्ते · मम नाम · कदा/किमर्थम् · इच्छामि/रोचते · कियत् · न अवगच्छामि ·
   धन्यवादः), then let the conversation fill in the rest.
-- **Task D (head):** say the rule aloud first ("the liked thing is the subject"), then
-  judge the card against it.
+- **Task D (head):** say the rule aloud first ("the liked thing is the subject; in Hindi
+  it runs the verb"), then judge the card against it.
 - **Task E (ears then mouth):** hear the asker, name its answer-kind silently, then
   answer. A beat of silence is fine; a long one is not. Use the chain.
 
@@ -355,7 +357,7 @@ The request tails are dental: वदतु /ʋɐd̪ɐt̪u/ · अस्तु /�
 | 6 | Prices dressed up: a currency word, an ending or a noun on the number | C | l04 §12, §15: bare numbers. कियत् मूल्यम्? — दश। |
 | 7 | Quantity words used as describing words: बहु फलम्, अल्पम् क्षीरम् | C, E | l04 §15: one-word answers only; agreement is Volume 3's |
 | 8 | Freezing at the rush instead of rescuing it | C, E | l02 §8: न अवगच्छामि is a legal move, not a failure; drill the chain at speed |
-| 9 | Cognate overreach: "Latin lent Sanskrit its askers"; every k-word paired with an English word | D, §19 | l01 §13: shared descent from one stem; only the two safe rows pair words |
+| 9 | Cognate overreach: "Latin lent Sanskrit its askers"; every k-word paired with an English word | D, §19 | l01 §13: shared descent from one stem; only the two safe rows pair all three languages |
 
 Dictation slips (a seam vowel in मह्यम्, च्छ split, a dropped visarga or final म्) are
 fixed at l03 §9 and l01 §14: re-copy the rows, saying each word while writing it.
@@ -391,7 +393,8 @@ pleasure. Farewell! — Farewell!"
 All seven moves happened in the present singular and in pause form. The price came back
 bare, liking came from the liked thing, the speaker granted the rescue with अस्तु, and
 the stall moves follow l04 §8's play. The learner uses त्वम् for small talk and भवान्
-for the requests; l02 §8 makes भवान् … वदतु right with anyone.
+for the requests; l02 §8 makes भवान् … वदतु right with any man, friend or stranger (to a
+woman, l04 §8's mirror).
 
 **Model unscripted round (task E).** Six of the nine askers, six of the simplest true
 answers:
@@ -459,8 +462,9 @@ finals, pause form.
 | कृपया · धन्यवादः | classical insides, modern spoken convention as "please" and "thank you" |
 | रूप्यकम् | modern word for the currency; display only, never in the answer |
 
-To a woman, drop the pronoun (कृपया पुनः वदतु। · कृपया क्षीरम् ददातु।), l04 §8's mirror
-rule. भवती (bhavatī) is display-only: accepted when used, never required.
+To a woman, this course drops the pronoun for now (कृपया पुनः वदतु। · कृपया क्षीरम्
+ददातु।) — a modern spoken convention (modern label), l04 §8's mirror rule.
+भवती (bhavatī) is display-only: accepted when used, never required.
 
 ## 16. Conversation
 
@@ -570,7 +574,7 @@ reasoning line each:
 7. "At the stall, a price is answered with a bare number: कियत् मूल्यम्? — दश।"
 8. "कृपया, as the everyday word for 'please', is a classical usage."
 9. "Hindi मुझे … पसंद है builds liking the way मह्यम् रोचते does: the liker in a 'to me'
-   form, the liked thing as the subject."
+   form, the liked thing running the verb."
 
 **कार्यम् E · प्रश्नोत्तरम् (THE UNSCRIPTED ROUND — recorded, production).** The
 examiner shuffles the nine-asker deck, draws six cards, and asks six questions, none
@@ -606,7 +610,7 @@ micro-check: the nine askers in order, and the survival chain once.
    (a source) · कथम् how (a manner) · कुत्र where (a place) · कति how many (a number) ·
    कदा when (a time) · किमर्थम् why (a purpose, opened by यतः) (l01 §15).
 2. Claim: they continue one Proto-Indo-European interrogative stem, a shared descent.
-   Refused: borrowing in either direction, and word pairs beyond the two safe rows, कः ~
+   Refused: borrowing in either direction, and three-language word pairs beyond the two safe rows, कः ~
    *quis* ~ *who* and किम् ~ *quid* ~ *what* (l01 §13).
 3. आ + गच्छति: the prefix turns "goes" into "comes". आगच्छामि, आगच्छसि by the c04
    pattern; prefixes as a system come later (l01 §15).
@@ -652,7 +656,8 @@ true: classical form, modern-common classroom use) · 5 **reject** (the you-form
 pattern) · 7 **FACT** (the c03 bare-number policy, carried to the stall) · 8 **reject**
 (the form is classical, "with compassion", but its everyday "please" use is a modern
 spoken convention) · 9 **FACT** (Hindi मुझे and Sanskrit मह्यम् both seat the liker in a
-"to me" form, with the liked thing as subject). Scoring: 7+/9 with sane reasoning.
+"to me" form, and in both the liked thing runs the verb; in Sanskrit it is also the
+subject). Scoring: 7+/9 with sane reasoning.
 
 E (the nine-asker deck: one question per card, with owned answers): कः — तव भ्राता कः?
 → एषः मम भ्राता। · का — तव माता का? → एषा मम माता। · किम् — किम् इच्छसि? → अहम् जलम्
@@ -730,7 +735,8 @@ asked, granting the rescue with अस्तु as l02 taught. The learner who s
 अवगच्छामि at that moment has done the chapter's most important thing: praise it on the
 recording. Prompt a move only after a long stall; a prompted move scores partial, not
 zero. A woman examiner is asked with no pronoun (कृपया पुनः वदतु।, l04 §8); accept भवती
-if a learner uses it, and never mark भवान् wrong.
+if a learner uses it; भवान् to a woman is a slip (l04 §19 Q9), counted toward the
+rubric's ≤2 slips, never a failed move.
 
 **The honesty cards do the chapter's deepest work.** Cards 1, 3, 5 and 8 each reject a
 tempting simplification: "I like" as the meaning, borrowing as the story, वदतु as a
@@ -819,11 +825,12 @@ next." (End card: संवादः।)
   cards.pdf).
 - **Sibling availability:** v2.c05.l01–l04 were drafted in parallel; all four landed on
   disk before this draft closed, and every "l0N §…" pointer was checked against them
-  (re-verify at review, since all are drafts). Checked: l01 §13, §14, §15; l02 §8, §14,
-  §15, §20; l03 §5, §8, §12, §15; l04 §8, §12, §14, §15, §20 (the Station-0 booking, run
-  verbatim in §3), §21 (two role cards, three lines each). Aligned to them: अस्तु is the
-  speaker's reply (l02 §8); task E's deck stays the nine askers (l04 §8); the family line
-  sits on the card (l04 §21); a woman is asked with no pronoun (l04 §8); tags run ५–१०.
+  (re-verified against the real files at review, Pass D). Checked: l01 §13, §14, §15;
+  l02 §8, §14, §15, §20; l03 §5, §8, §12, §15; l04 §8, §12, §14, §15, §19 (Q9), §20 (the
+  Station-0 booking, run verbatim in §3), §21 (two role cards, three lines each).
+  Aligned to them: अस्तु is the speaker's reply (l02 §8); task E's deck stays the nine
+  askers (l04 §8); the family line sits on the card (l04 §21); a woman is asked with no
+  pronoun (l04 §8); tags run ५–१०.
 - **Task D card sources:** 1 ← l03 §15 (notes §0.9) · 2 ← l01 §13 (notes §0.2) · 3 ←
   l01 §13 "what the shelf refuses" (notes §0.2) · 4 ← l02 §15 keystone (notes §0.6) · 5
   ← l02 §14, §15 (notes §0.7) · 6 ← l01 §15 (notes §0.5) · 7 ← l04 §15 price frame
@@ -832,7 +839,7 @@ next." (End card: संवादः।)
 - **Integrator notes:** ledger = 308 entering (the v2.c04 exit, STYLE_GUIDE §8) + 20
   (l01 5 · l02 4 · l03 4 · l04 7) = **328**; chain 308 → 313 → 317 → 321 → 328 → 328,
   as prescribed by research/notes/vol2-ch5-conversation.md §6. The four sibling §14
-  tables state the same steps at drafting; verify at review. वदतु, अस्तु, ददातु count
+  tables state the same steps (confirmed at review, Pass D). वदतु, अस्तु, ददातु count
   per STYLE_GUIDE §8 rule 4; रूप्यकम् and भवती are display-only (rule 5). STYLE_GUIDE
   §8's canonical-exit list gains 328 when the chapter ships. §19's task keys are the
   single source for the audio and exam key files.
