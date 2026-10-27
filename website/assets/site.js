@@ -26,9 +26,9 @@
   }
   // Lower-case and strip Latin diacritics only (IAST ā → a); Devanagari signs are kept.
   function norm(s) {
-    return String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+    return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
-  var DEVA = /[ऀ-ॿ]/;
+  var DEVA = /[\u0900-\u097F]/;
 
   /* ---------- progress marks ---------- */
   function paintDone() {

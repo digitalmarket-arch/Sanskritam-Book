@@ -98,9 +98,9 @@ DOC_PAGES = {
     "REFERENCES.md": ("references.html", "sources", "Sources"),
 }
 
-DEVA = "ऀ-ॿ꣠-ꣿ᳐-᳿"
+DEVA = "\u0900-\u097F\uA8E0-\uA8FF\u1CD0-\u1CFF"
 DV_RE = re.compile(
-    rf"[{DEVA}][{DEVA}‌‍]*(?:[\s,;:!?\-–—]+[{DEVA}][{DEVA}‌‍]*)*"
+    rf"[{DEVA}][{DEVA}\u200c\u200d]*(?:[\s,;:!?\-–—]+[{DEVA}][{DEVA}\u200c\u200d]*)*"
 )
 TAG_SPLIT_RE = re.compile(r"(<[^>]*>)")
 TAG_RE = re.compile(r"<(/?)([a-zA-Z][a-zA-Z0-9]*)([^>]*)>")
@@ -108,9 +108,11 @@ LANG_ATTR_RE = re.compile(r'\blang="([a-zA-Z-]+)"')
 NO_TEXT_TAGS = {"code", "pre", "script", "style", "svg", "title"}
 REF_RE = re.compile(r"\[REF:([a-z0-9-]+)((?:\s[^\]]*)?)\]")
 XREF_RE = re.compile(
-    r"(?<![\w.])(v[1-5]\.c\d{2}(?:\.l\d{2})?)(?!\w)(?:\s?§(\d{1,2})(?!\d))?"
-    r"|(?<![§\w])§(\d{1,2})(?!\d)"
+    r"(?<![\w.])(?P<id>v[1-5]\.c\d{2}(?:\.l\d{2})?)(?:['’]s)?(?!\w)(?:\s?§(?P<id_sec>\d{1,2})(?!\d))?"
+    r"|(?<![\w.])l(?P<sib>\d{2})(?:['’]s)?(?!\w)(?:\s?§(?P<sib_sec>\d{1,2})(?!\d))?"
+    r"|(?<![§\w])§(?P<bare>\d{1,2})(?!\d)"
 )
+LIST_JOIN_RE = re.compile(r"\s*(?:,|/|–|&|and|or)?\s*(?:and|or)?\s*")
 PLANNED_RE = re.compile(r"<code>planned:([^<]+)</code>")
 REGISTER_LABEL_RE = re.compile(r"^\*\*\[(FACT|HISTORY|TRADITION|SYMBOL)\s*·\s*([^\]]+)\]\*\*\s*")
 H1_RE = re.compile(r"^# .*\n?", re.MULTILINE)
@@ -136,13 +138,13 @@ def esc(text: object) -> str:
 
 
 def slugify(text: str) -> str:
-    text = re.sub(r"[̀-ͯ]", "", unicodedata.normalize("NFD", text))
+    text = re.sub(r"[\u0300-\u036f]", "", unicodedata.normalize("NFD", text))
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
 def fold(text: str) -> str:
     """Search key: lower-case, Latin diacritics removed (IAST ā → a), Devanagari kept."""
-    return re.sub(r"[̀-ͯ]", "", unicodedata.normalize("NFD", text)).lower()
+    return re.sub(r"[\u0300-\u036f]", "", unicodedata.normalize("NFD", text)).lower()
 
 
 def plain(md_text: str) -> str:
@@ -387,6 +389,7 @@ def _planned(m: re.Match) -> str:
 class Ctx:
     page: str                      # root-relative output path of the page being built
     lesson: Lesson | None = None   # enables bare §N links within a lesson page
+    chapter: tuple | None = None   # (volume, chapter): resolves sibling ids such as "l04 §12"
     ids: set = field(default_factory=set)
 
 
@@ -484,44 +487,63 @@ class Site:
         if not linkable:
             return tag(text)
         pieces, last = [], 0
+        prev: tuple[Lesson | None, int] = (None, -1)  # last lesson linked, and where it ended
         for m in re.finditer(f"{REF_RE.pattern}|{XREF_RE.pattern}", text):
             if m.group(0).startswith("[REF:"):
-                link = self.cite(REF_RE.match(m.group(0)), ctx, tag)
+                link, target = self.cite(REF_RE.match(m.group(0)), ctx, tag), None
             else:
-                link = self.xref(XREF_RE.match(m.group(0)), text[:m.start()], ctx)
+                # "l02 §14, §16 and §17": a § list continues the lesson named before it.
+                after_ref = prev[0] if prev[1] >= 0 and LIST_JOIN_RE.fullmatch(text[prev[1]:m.start()]) else None
+                link, target = self.xref(XREF_RE.match(m.group(0)), text[:m.start()], ctx, after_ref)
             if link is None:
                 continue
             pieces.append(tag(text[last:m.start()]))
             pieces.append(link)
             last = m.end()
+            prev = (target, m.end()) if target is not None else (None, -1)
         pieces.append(tag(text[last:]))
         return "".join(pieces)
 
-    def xref(self, m: re.Match, before: str, ctx: Ctx) -> str | None:
-        ident, sec, bare = m.group(1), m.group(2), m.group(3)
+    def xref(self, m: re.Match, before: str, ctx: Ctx,
+             after_ref: Lesson | None = None) -> tuple[str | None, Lesson | None]:
+        """Link one id or § reference; returns (html, lesson it points into)."""
+        ident, sec = m.group("id") or m.group("sib"), m.group("id_sec") or m.group("sib_sec")
+        if m.group("sib"):
+            # "l04 §12" names a lesson of the chapter being read.
+            if ctx.chapter is None:
+                return None, None
+            ident = "v{}.c{:02d}.l{}".format(*ctx.chapter, m.group("sib"))
         if ident:
+            target = None
             if ".l" in ident:
                 target = self.lesson_by_id.get(ident)
                 if target is None:
-                    return None
+                    return None, None
                 url = target.url
                 if sec and int(sec) in target.anchors:
                     url += "#" + target.anchors[int(sec)]
             else:
                 chapter = self.chapter_by_id.get(ident)
                 if chapter is None:
-                    return None
+                    return None, None
                 url = chapter.url
-            return f'<a class="xref" href="{href(ctx.page, url)}">{m.group(0)}</a>'
+            return f'<a class="xref" href="{href(ctx.page, url)}">{m.group(0)}</a>', target
+        n = int(m.group("bare"))
+        if after_ref is not None:
+            anchor = after_ref.anchors.get(n)
+            if anchor is None:
+                return None, None
+            return (f'<a class="xref" href="{href(ctx.page, after_ref.url + "#" + anchor)}">'
+                    f'{m.group(0)}</a>', after_ref)
         # A bare §N points into the current lesson, unless a capitalised word before it
         # makes it someone else's paragraph (Whitney §19, STYLE_GUIDE §4).
         if ctx.lesson is None:
-            return None
-        anchor = ctx.lesson.anchors.get(int(bare))
+            return None, None
+        anchor = ctx.lesson.anchors.get(n)
         word = re.search(r"([A-Za-z][A-Za-z_]*)[^A-Za-z]*$", before)
         if anchor is None or (word and word.group(1)[0].isupper()):
-            return None
-        return f'<a class="xref" href="#{anchor}">{m.group(0)}</a>'
+            return None, None
+        return f'<a class="xref" href="#{anchor}">{m.group(0)}</a>', ctx.lesson
 
     def doc_links(self, out: str, page: str) -> str:
         """Point links between root documents at their pages; others at GitHub."""
@@ -804,7 +826,7 @@ class Site:
 
     def build_chapter(self, chapter: Chapter) -> None:
         page = chapter.url
-        ctx = Ctx(page)
+        ctx = Ctx(page, chapter=(chapter.vol, chapter.ch))
         t = chapter.title
         vol = next(v for v in self.volumes if v.n == chapter.vol)
         parts = []
@@ -857,7 +879,7 @@ class Site:
 
     def build_lesson(self, lesson: Lesson) -> None:
         page = lesson.url
-        ctx = Ctx(page, lesson)
+        ctx = Ctx(page, lesson, (lesson.vol, lesson.ch))
         fm, t = lesson.fm, lesson.title
         chapter = self.chapter_by_id[f"v{lesson.vol}.c{lesson.ch:02d}"]
         vol = next(v for v in self.volumes if v.n == lesson.vol)
