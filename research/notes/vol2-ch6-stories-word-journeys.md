@@ -85,3 +85,24 @@ completes Volume 2 and gates Volume 3 (व्याकरणम् — Core Gram
 - Ledger 328 → 335 → 346 → 352 → 360 → 360 (32 ledger-new; STYLE_GUIDE §8).
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.
+
+## 7. Open items for review (drafting hand-off, 2026-10-27)
+
+All five lessons are drafted and validate clean. Points the drafts could not settle, for
+Passes A–D:
+
+1. **Pliny (0.1)** is left out of l01: REFERENCES.md has no Pliny key (the source research
+   proposes `rackham1940`). Add the key and the hedged sentence, or keep it out.
+2. **एव** is not a ledger headword (glossed whole as a verse word in v1.c06.l04); l01 keeps
+   it display-only, so the chain does not count it. Confirm.
+3. **The present-day sentence** in l01's HISTORY callout (a famous children's story in India;
+   Sanskrit school readers) is cited to perry1952, which cannot support it. Re-source or
+   reword without the citation.
+4. **No Avianus fable number** is given (unverified in the research).
+5. **Timing:** l05 rung 5 asks for the crow story "under 40 seconds"; l01 measures about 65
+   seconds at natural pace with a timed target under 50. Reconcile l05 with l01.
+6. **l01 §3** quotes v2.c05.l05 §20's +1-week booking as drafted; re-diff it after the c05
+   review lands.
+7. **IPA of anusvāra before s/h:** l03 writes अहिंसा /ɐɦimsɑː/, l02 and l05 use nasalized
+   vowels (/sĩɦɐh/, /ɐɦĩsɑː/). Both are allowed by STYLE_GUIDE §2; pick one across the
+   chapter (Volume 1 uses the nasalized vowel: /sɐ̃skr̩t̪ɐm/).
