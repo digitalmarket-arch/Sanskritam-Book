@@ -1049,6 +1049,220 @@
       ],
       "path": "curriculum/volume-2/chapter-04/lesson-05-the-verb-exam.md",
       "json": "json/volume-2/v2.c04.l05.json"
+    },
+    {
+      "id": "v2.c05.l01",
+      "title": {
+        "sa": "कदा? किमर्थम्?",
+        "sa_iast": "kadā? kimartham?",
+        "hi": "कब? क्यों? — प्रश्न-किट पूरी",
+        "en": "When and Why"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c04.l05"
+      ],
+      "review_of": [
+        "v2.c04.l05",
+        "v2.c03.l03",
+        "v2.c02.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-05/lesson-01-when-and-why.md",
+      "json": "json/volume-2/v2.c05.l01.json"
+    },
+    {
+      "id": "v2.c05.l02",
+      "title": {
+        "sa": "अवगच्छामि",
+        "sa_iast": "avagacchāmi",
+        "hi": "बातचीत को ज़िंदा रखना — \"समझ नहीं आया\" से आगे",
+        "en": "Keeping the Conversation Alive"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c05.l01"
+      ],
+      "review_of": [
+        "v2.c05.l01",
+        "v2.c01.l04",
+        "v2.c04.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-05/lesson-02-keeping-the-conversation-alive.md",
+      "json": "json/volume-2/v2.c05.l02.json"
+    },
+    {
+      "id": "v2.c05.l03",
+      "title": {
+        "sa": "इच्छामि",
+        "sa_iast": "icchāmi",
+        "hi": "चाहना और पसंद करना",
+        "en": "Wanting and Liking"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c05.l02"
+      ],
+      "review_of": [
+        "v2.c05.l02",
+        "v2.c04.l03",
+        "v2.c04.l01"
+      ],
+      "path": "curriculum/volume-2/chapter-05/lesson-03-wanting-and-liking.md",
+      "json": "json/volume-2/v2.c05.l03.json"
+    },
+    {
+      "id": "v2.c05.l04",
+      "title": {
+        "sa": "आपणः",
+        "sa_iast": "āpaṇaḥ",
+        "hi": "बाज़ार में — मोल-भाव",
+        "en": "At the Market"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c05.l03"
+      ],
+      "review_of": [
+        "v2.c05.l03",
+        "v2.c03.l02",
+        "v2.c01.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-05/lesson-04-at-the-market.md",
+      "json": "json/volume-2/v2.c05.l04.json"
+    },
+    {
+      "id": "v2.c05.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "पुनरावृत्ति — संवाद-परीक्षा",
+        "en": "The Conversation Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c05.l04"
+      ],
+      "review_of": [
+        "v2.c05.l01",
+        "v2.c05.l02",
+        "v2.c05.l03",
+        "v2.c05.l04"
+      ],
+      "path": "curriculum/volume-2/chapter-05/lesson-05-conversation-exam.md",
+      "json": "json/volume-2/v2.c05.l05.json"
+    },
+    {
+      "id": "v2.c06.l01",
+      "title": {
+        "sa": "पिपासितः काकः",
+        "sa_iast": "pipāsitaḥ kākaḥ",
+        "hi": "प्यासा कौआ",
+        "en": "The Thirsty Crow"
+      },
+      "status": "draft",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c05.l05"
+      ],
+      "review_of": [
+        "v2.c05.l05",
+        "v2.c04.l04",
+        "v2.c05.l03"
+      ],
+      "path": "curriculum/volume-2/chapter-06/lesson-01-the-thirsty-crow.md",
+      "json": "json/volume-2/v2.c06.l01.json"
+    },
+    {
+      "id": "v2.c06.l02",
+      "title": {
+        "sa": "सिंहः मूषकः च",
+        "sa_iast": "siṃhaḥ mūṣakaḥ ca",
+        "hi": "शेर और चूहा",
+        "en": "The Lion and the Mouse"
+      },
+      "status": "draft",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c06.l01"
+      ],
+      "review_of": [
+        "v2.c06.l01",
+        "v2.c04.l02",
+        "v2.c05.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-06/lesson-02-the-lion-and-the-mouse.md",
+      "json": "json/volume-2/v2.c06.l02.json"
+    },
+    {
+      "id": "v2.c06.l03",
+      "title": {
+        "sa": "सुभाषितानि",
+        "sa_iast": "subhāṣitāni",
+        "hi": "तीन सुभाषित",
+        "en": "Three Sayings"
+      },
+      "status": "draft",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c06.l02"
+      ],
+      "review_of": [
+        "v2.c06.l02",
+        "v1.c06.l04",
+        "v2.c02.l02"
+      ],
+      "path": "curriculum/volume-2/chapter-06/lesson-03-three-sayings.md",
+      "json": "json/volume-2/v2.c06.l03.json"
+    },
+    {
+      "id": "v2.c06.l04",
+      "title": {
+        "sa": "शब्दयात्राः",
+        "sa_iast": "śabdayātrāḥ",
+        "hi": "शब्दों की यात्राएँ",
+        "en": "Word Journeys"
+      },
+      "status": "draft",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c06.l03"
+      ],
+      "review_of": [
+        "v2.c06.l03",
+        "v2.c02.l02",
+        "v2.c03.l03"
+      ],
+      "path": "curriculum/volume-2/chapter-06/lesson-04-word-journeys.md",
+      "json": "json/volume-2/v2.c06.l04.json"
+    },
+    {
+      "id": "v2.c06.l05",
+      "title": {
+        "sa": "पुनरावृत्तिः",
+        "sa_iast": "punarāvṛttiḥ",
+        "hi": "पुनरावृत्ति — दूसरे खण्ड की परीक्षा",
+        "en": "The Volume 2 Exam"
+      },
+      "status": "draft",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c06.l04"
+      ],
+      "review_of": [
+        "v2.c06.l01",
+        "v2.c06.l02",
+        "v2.c06.l03",
+        "v2.c06.l04",
+        "v2.c05.l05",
+        "v2.c04.l05"
+      ],
+      "path": "curriculum/volume-2/chapter-06/lesson-05-volume-two-exam.md",
+      "json": "json/volume-2/v2.c06.l05.json"
     }
   ]
 }

@@ -45,12 +45,12 @@ media:
     - "planned:assets/quizzes/volume-2/v2c05l01-quiz-key.md"
 tags: [vocabulary, question-words, question-kit, when-why, reasons, prefix-preview, cognates,
        conversation, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-10-27"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ## 1. Hook

@@ -8,9 +8,9 @@ title:
 volume: 2
 chapter: 5
 cefr: A2
-status: draft
+status: reviewed
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 # Chapter 5 — संवादः · Daily Conversation

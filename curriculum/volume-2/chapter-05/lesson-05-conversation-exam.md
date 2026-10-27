@@ -40,12 +40,12 @@ media:
     - "planned:assets/quizzes/volume-2/v2c05l05-chapter-quiz-key.md"
 tags: [review, assessment, conversation, question-words, role-play, market, listening,
        dictation, production, unscripted]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-10-27"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ## 1. Hook

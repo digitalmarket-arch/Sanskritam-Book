@@ -38,12 +38,12 @@ media:
     - "planned:assets/worksheets/volume-2/v2c05l02-survival-chain.pdf"
   quizzes: []
 tags: [conversation, classroom-survival, clarification, imperative-chunks, usage-labels, politeness, know-vs-understand]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-10-27"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ## 1. Hook

@@ -331,6 +331,33 @@ Status change: v2.c03 lessons 01–05 `draft` → `reviewed`.
 
 Status change: v2.c04 lessons 01–05 `draft` → `reviewed`.
 
+## Chapter v2.c05 — research verdicts (2026-10-27)
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| कदा and किमर्थम् complete the question kit — nine askers; किमर्थम् taught whole ("for what purpose") | [REF:apte1890] s.vv. | ✅ | l01 |
+| *kʷ- stem: कः ~ *quis* ~ *who* and किम् ~ *quid* ~ *what* are the only three-language word pairs; कदा/कुत्र/कथम् share the stem without word-for-word matches | [REF:mallory2006] | ✅ reconciled at review with v2.c03.l02's कति ~ *quot* [REF:burrow2001], a two-language pair (l01/l05 had said "only two pairs") | l01 §12/§13/§19, l05 §4/§12/§19 |
+| Hindi question words carry the same inherited k- stem | [REF:masica1991] | ✅ stem-level only | l01 |
+| Present + a time word states a settled near future (श्वः आगच्छामि); ह्यः + present gives no past | [REF:whitney1889 §§777–778] | ✅ narrowed at review: the present has narrative and स्म past uses (named for later), so "cannot state a past" became "cannot make a past with ह्यः" | l01 §8/§12/§15/§22 |
+| अवगच्छति classical; अहम् न अवगच्छामि a modern-common classroom phrase | [REF:monierwilliams1899] s.v. ava-gam | ✅ usage label kept | l02 |
+| वदतु / ददातु / अस्तु as 3sg imperatives with भवान्; a bare ददातु to the person addressed | [REF:apte1890]; [REF:whitney1889] | ✅ the pronoun-free request labelled "modern spoken convention" at review; the fuller usage keeps भवान् / भवती | l02, l04 §7/§8, l05 §15 |
+| भवान् is masculine ("you, sir"); भवती is the feminine, display only | v1.c05.l01 §14 | ✅ l03's "sir/madam" corrected; l05 counts भवान् to a woman as a slip | l03 §14, l05 §13/§22 |
+| मह्यम् रोचते "it pleases me": the liked thing is the Sanskrit subject, the liker dative; Hindi मुझे … पसंद है has a dative (experiencer) subject and the liked thing runs the verb's agreement | [REF:apte1890 s.vv. इच्छा, रुचि]; [REF:masica1991] | ✅ l05 had called the Hindi liked thing the subject — aligned with l03 at review | l03, l05 §5/§7/card 9 |
+| इच्छति ~ English *ask* (PIE *h₂eys-) | — | ✂ not taught (unverified; fact base 0.8) | — |
+| रूप्यकम् is modern Sanskrit for the currency (MW *rūpya* "silver"); English *rupee* is a loan from this family | [REF:monierwilliams1899] s.v. rūpya; [REF:oed] s.v. rupee | ✅ display only, modern label | l04 |
+| Ledger chain 308 → 313 → 317 → 321 → 328 → 328 (20 ledger-new) | STYLE_GUIDE §8 | ✅ held across all five lessons | all |
+
+## Review-pass findings — v2.c05 (2026-10-27)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Adversarially verified review (4 dimensions; evidence verifier, domain expert and fix skeptic): 31 findings, 27 confirmed (10 major, 17 minor), 4 rejected — each rejected item's substance was covered by a confirmed sibling finding. Majors: l01's overclaim that the present "cannot state a past" (§8/§12/§15/§22; Whitney §§777–778); l03's भवान् "sir/madam"; l04's unlabelled pronoun-free ददातु (§7/§8) and its restatement in l05 §15; l05's Hindi-subject claim tested as FACT (card 9, §5, §7); the *kʷ- "only two pairs" line contradicting v2.c03.l02. Validator green ×5. | green |
+| B | Policy: no descriptive adjectives (बहु / अल्पम् / पर्याप्तम् only as fixed answers); no vocatives or plurals; भवती display-only; l04's story line given a fixed quantity word with न; विशेषण glossed in place and added to GLOSSARY. | pass |
+| C | Citations: Whitney located (§§777–778) where the new grammar claim rests; masica1991 added beside apte1890 for the Hindi word-family line; l02's repair-rule citation scoped. | pass |
+| D | Coherence: Station 0 chain c04.l05 → l01 → … → l05 verified; l05's pointers, role cards and keys audited against the final sibling files; the fact base's भोजनम् object corrected (only the stem has a §14 row). A post-fix verification re-read every changed file against the pre-fix commit: one stale l04 §27 glossary line found and fixed. | pass |
+
+Status change: v2.c05 chapter frame and lessons 01–05 `draft` → `reviewed`.
+
 ## Deep research audit — all shipped content (2026-10-22 → 2026-10-24)
 
 Scope: Volume 1 (31 lessons), Volume 2 Chapters 1–3 (15 lessons), their chapter frames and

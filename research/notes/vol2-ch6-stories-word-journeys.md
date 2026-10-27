@@ -101,8 +101,8 @@ Passes A–D:
 4. **No Avianus fable number** is given (unverified in the research).
 5. **Timing:** l05 rung 5 asks for the crow story "under 40 seconds"; l01 measures about 65
    seconds at natural pace with a timed target under 50. Reconcile l05 with l01.
-6. **l01 §3** quotes v2.c05.l05 §20's +1-week booking as drafted; re-diff it after the c05
-   review lands.
+6. **l01 §3** quotes v2.c05.l05 §20's +1-week booking — re-diffed after the c05 review
+   (2026-10-27): verbatim match. Resolved.
 7. **IPA of anusvāra before s/h:** l03 writes अहिंसा /ɐɦimsɑː/, l02 and l05 use nasalized
    vowels (/sĩɦɐh/, /ɐɦĩsɑː/). Both are allowed by STYLE_GUIDE §2; pick one across the
    chapter (Volume 1 uses the nasalized vowel: /sɐ̃skr̩t̪ɐm/).

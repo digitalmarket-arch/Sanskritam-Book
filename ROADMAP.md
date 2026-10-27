@@ -174,6 +174,14 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   with per-lesson citation counts, glossary, search). Drafts are never published.
   `.github/workflows/pages.yml` builds it on every push and deploys to GitHub Pages from
   `main` once Pages is switched to the GitHub Actions source.
+- **2026-10-27** — **v2.c05 संवादः complete and reviewed**: the nine-asker kit with the
+  *kʷ- shelf, the classroom-survival chain (अहम् न अवगच्छामि · भवान् पुनः वदतु · अस्तु),
+  wanting and liking with मह्यम् रोचते, the market with bare-number prices, and the
+  conversation exam with role cards and an unscripted round. Review passes A–D ran as a
+  verified workflow (27 findings fixed, 4 rejected), followed by a post-fix verification
+  of every changed file. 20 ledger-new (328 cumulative); 56 reviewed lessons, validator
+  green, exports current (0.11.0). **v2.c06 drafted in full** (five lessons, validator
+  green); its review is next and completes Volume 2.
 
 ## Content preservation map (from the 1.x curriculum)
 

@@ -4,13 +4,27 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.11.0] — 2026-10-27
+
+Volume 2 Chapter 5 — संवादः (Daily Conversation) complete and reviewed; Chapter 6 —
+कथाः शब्दयात्राश्च (Stories & Word Journeys) drafted in full; and the course's first public
+delivery target, the website.
 
 ### Added
 
+- v2.c05 five lessons: When and Why (कदा, किमर्थम्, यतः, इदानीम्, आगच्छति — the nine-asker
+  kit and the *kʷ- shelf), Keeping the Conversation Alive (अहम् न अवगच्छामि, भवान् पुनः
+  वदतु, मन्दम्, अस्तु — the classroom-survival chain with usage labels), Wanting and Liking
+  (इच्छति; मह्यम् / तुभ्यम् रोचते "it pleases me"), At the Market (आपणः, कियत्, मूल्यम्,
+  ददातु, बहु / अल्पम् / पर्याप्तम्; bare-number prices) and the Conversation Exam (role
+  cards, nine honesty cards, an unscripted round). 20 ledger-new words: 308 → 328.
+- v2.c06 five lessons drafted (status: draft, review next): The Thirsty Crow, The Lion
+  and the Mouse, Three Sayings, Word Journeys and the Volume 2 exam; open review items in
+  the fact base §7.
+- GLOSSARY: विशेषण.
 - **Website.** `scripts/build_site.py` builds a static site from the curriculum Markdown
   (reviewed files only): home page with the sound grid and course map, volume and chapter
-  pages, all 51 reviewed lessons with labelled register callouts, linked `[REF:]`
+  pages, every reviewed lesson with labelled register callouts, linked `[REF:]`
   citations and lesson cross-references, a teacher view for §22–§27, a word list of every
   §14 headword, a sources page listing where each reference is cited, glossary, method,
   roadmap, changelog and search. Styles and script live in `website/assets/`;
@@ -19,6 +33,18 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   site on every push and deploys it from `main` (one-time setup: Settings → Pages →
   Source: GitHub Actions).
 - `markdown-it-py` added to `scripts/requirements.txt`; `_site/` ignored.
+
+### Fixed
+
+- v2.c05 review (passes A–D, adversarially verified): 27 findings confirmed (10 major,
+  17 minor) and fixed, 4 rejected; a post-fix verification of every changed file found
+  one stale metadata line, also fixed. Majors: the present tense no longer "cannot state
+  a past" (it cannot make one with ह्यः; Whitney §§777–778); भवान् glossed "sir", with
+  भवती for a woman; the pronoun-free request ददातु labelled a modern spoken convention;
+  Hindi मुझे … पसंद है no longer said to make the liked thing the subject; the *kʷ- shelf
+  reconciled with v2.c03.l02's कति ~ *quot*.
+- Validator: the IPA check accepts the NFC-composed nasalized vowels (ĩ ũ ã ẽ õ) that
+  STYLE_GUIDE §2's [◌̃] transcription produces.
 
 ## [0.10.0] — 2026-10-24
 

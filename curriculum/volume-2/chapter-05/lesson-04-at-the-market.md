@@ -38,12 +38,12 @@ media:
     - "planned:assets/worksheets/volume-2/v2c05l04-price-tags-and-role-cards.pdf"
   quizzes: []
 tags: [conversation, market, prices, bare-numbers, request-chunk, quantity-words, register-labels, role-play]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-10-27"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ## 1. Hook
@@ -1038,8 +1038,8 @@ narrator reads the cue, not the English spelling.
   l03 §20's booking is quoted verbatim in §3, and l05's Station 0 runs §20's line verbatim
   — both checked against the files on disk at drafting.
 - **Glossary:** no new terms in the Sanskrit layers. The Hindi section uses विशेषण
-  "adjective", glossed in place — propose adding it to GLOSSARY.md with Volume 3's
-  agreement chapter. सम्भाषणम् remains the §16 section label only.
+  "adjective", glossed in place (§7) — added to GLOSSARY.md at review (first use
+  v2.c05.l02). सम्भाषणम् remains the §16 section label only.
 - **Register audit:** FACT ×8 (§4 classical market words · §4 रूप्यकम् and the *rupee*
   loan · §5 CEFR A2 · §5 chunks/retrieval · §15 ददातु imperative · §15 कियत् price frame ·
   §15 adjective agreement deferral · §15 label table) · HISTORY ×0 · TRADITION ×0 · SYMBOL
