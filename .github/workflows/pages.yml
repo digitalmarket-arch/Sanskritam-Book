@@ -1,0 +1,49 @@
+# Builds the website from the curriculum Markdown on every push and deploys it to GitHub
+# Pages from the default branch. Other branches get the build (a check that the site still
+# renders) without the deploy. One-time setup: Settings → Pages → Source: GitHub Actions.
+name: Website
+
+on:
+  push:
+    branches:
+      - main
+      - "claude/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      - name: Validate curriculum
+        run: python3 scripts/validate.py curriculum/
+      - name: Build site
+        run: python3 scripts/build_site.py --out _site --ref "${{ github.ref_name }}"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

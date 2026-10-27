@@ -168,6 +168,12 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   fixes applied, 109 claims rejected on verification. The Volume 2 ledger was corrected
   for eight double counts (exits now 258 · 277 · 297 · 308) and the counting rule written
   into STYLE_GUIDE §8. Details in research/verification-log.md and CHANGELOG 0.10.0.
+- **2026-10-27** — **Website target live**: `scripts/build_site.py` renders every reviewed
+  lesson into a static site (course map, 27-section lesson pages with register callouts,
+  linked citations and cross-references, teacher view for §22–§27, word list, sources
+  with per-lesson citation counts, glossary, search). Drafts are never published.
+  `.github/workflows/pages.yml` builds it on every push and deploys to GitHub Pages from
+  `main` once Pages is switched to the GitHub Actions source.
 
 ## Content preservation map (from the 1.x curriculum)
 

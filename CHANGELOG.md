@@ -4,6 +4,22 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **Website.** `scripts/build_site.py` builds a static site from the curriculum Markdown
+  (reviewed files only): home page with the sound grid and course map, volume and chapter
+  pages, all 51 reviewed lessons with labelled register callouts, linked `[REF:]`
+  citations and lesson cross-references, a teacher view for §22–§27, a word list of every
+  §14 headword, a sources page listing where each reference is cited, glossary, method,
+  roadmap, changelog and search. Styles and script live in `website/assets/`;
+  `website/README.md` documents the mapping and the publishing rule.
+- **GitHub Pages deploy.** `.github/workflows/pages.yml` validates, builds and uploads the
+  site on every push and deploys it from `main` (one-time setup: Settings → Pages →
+  Source: GitHub Actions).
+- `markdown-it-py` added to `scripts/requirements.txt`; `_site/` ignored.
+
 ## [0.10.0] — 2026-10-24
 
 Volume 2 Chapter 4 — क्रियाः (First Verbs) complete and reviewed, closing the Volume 2

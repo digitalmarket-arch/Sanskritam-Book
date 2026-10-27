@@ -40,9 +40,10 @@ professionally typeset printed book.
 | `research/` | Per-chapter research notes and the claim-verification log |
 | `assets/` | Images, audio, diagrams, worksheets, quizzes (per volume) |
 | `json/` | Machine-readable lesson exports + schemas |
-| `scripts/` | Validator, JSON exporter, transliterator |
+| `scripts/` | Validator, JSON exporter, transliterator, website builder |
 | `automation/` | AI production prompt templates, CI config |
-| `website/` `app/` `videos/` | Delivery-target content models |
+| `website/` | Website styles, script and content model; built by `scripts/build_site.py` |
+| `app/` `videos/` | Delivery-target content models |
 | `build/` | Print pipeline — **gated** until content maturity |
 | `Sanskritam-Curriculum.pdf` | The 1.x predecessor (reference artifact; see analysis/) |
 
@@ -73,6 +74,7 @@ matured Markdown — never written directly.
 pip install -r scripts/requirements.txt
 python3 scripts/validate.py curriculum/          # lint everything
 python3 scripts/export_json.py                   # regenerate machine layer
+python3 scripts/build_site.py                    # build the website into _site/
 ```
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md), then the style guide and editorial guidelines.
