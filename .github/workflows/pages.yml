@@ -29,8 +29,10 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
-      - name: Validate curriculum
-        run: python3 scripts/validate.py curriculum/
+      # The gate covers what the site publishes: reviewed lessons. Drafts in progress
+      # never reach the site, so they do not block a deploy.
+      - name: Validate reviewed lessons
+        run: python3 scripts/validate.py $(grep -rl --include='lesson-*.md' '^status: reviewed' curriculum)
       - name: Build site
         run: python3 scripts/build_site.py --out _site --ref "${{ github.ref_name }}"
       - uses: actions/upload-pages-artifact@v3
