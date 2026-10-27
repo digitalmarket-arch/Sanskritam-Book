@@ -70,6 +70,7 @@ IPA_CHARS = set(
     "ɐɑaeiourl̩ːkgŋʰʱɡ"
     "t̪dnɲʈɖɳcjpbmɾʋɕʑʂshɦ"
     "͡ ̯̃"
+    "ãẽĩõũ"  # vowel + U+0303 as NFC stores them (STYLE_GUIDE §2: anusvāra as [◌̃])
     "wəɪʊʌæɛ"  # appear in contrast/anchor notes about English sounds
     ".ˈˌ()"
 )
