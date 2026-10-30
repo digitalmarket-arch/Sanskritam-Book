@@ -1,0 +1,137 @@
+// Sound & Pronunciation Engine for Sanskritam
+// Combines Web Speech API (hi-IN / sa-IN) with Web Audio API formant/bell synthesis
+// so every interactive phoneme, word, shloka, and meditation exercise has immediate acoustic feedback.
+
+class SanskritSoundEngine {
+  private ctx: AudioContext | null = null;
+
+  private getContext(): AudioContext | null {
+    if (typeof window === 'undefined') return null;
+    if (!this.ctx) {
+      const AudioCtx = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+      if (AudioCtx) {
+        this.ctx = new AudioCtx();
+      }
+    }
+    if (this.ctx && this.ctx.state === 'suspended') {
+      this.ctx.resume().catch(() => {});
+    }
+    return this.ctx;
+  }
+
+  public speakSanskrit(text: string, rate = 0.82): void {
+    // Play a subtle acoustic tanpura/resonance pluck so user gets instant feedback
+    this.playResonanceTone(261.63, 0.35);
+
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      try {
+        window.speechSynthesis.cancel();
+        const cleanText = text.replace(/[✓•✦☉]/g, '').trim();
+        const utterance = new SpeechSynthesisUtterance(cleanText);
+        const voices = window.speechSynthesis.getVoices();
+        const indicVoice = voices.find(
+          (v) =>
+            v.lang.toLowerCase().includes('sa') ||
+            v.lang.toLowerCase().includes('hi-in') ||
+            v.lang.toLowerCase().includes('hi') ||
+            v.lang.toLowerCase().includes('mr')
+        );
+        if (indicVoice) {
+          utterance.voice = indicVoice;
+          utterance.lang = indicVoice.lang;
+        } else {
+          utterance.lang = 'hi-IN';
+        }
+        utterance.rate = rate;
+        utterance.pitch = 1.0;
+        window.speechSynthesis.speak(utterance);
+      } catch {
+        // Fallback already handled by resonance tone
+      }
+    }
+  }
+
+  public playResonanceTone(freq = 261.63, duration = 0.45): void {
+    const ctx = this.getContext();
+    if (!ctx) return;
+
+    const now = ctx.currentTime;
+    const osc = ctx.createOscillator();
+    const harmonic = ctx.createOscillator();
+    const gain = ctx.createGain();
+
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(freq, now);
+
+    harmonic.type = 'triangle';
+    harmonic.frequency.setValueAtTime(freq * 1.5, now);
+
+    gain.gain.setValueAtTime(0.001, now);
+    gain.gain.exponentialRampToValueAtTime(0.14, now + 0.03);
+    gain.gain.exponentialRampToValueAtTime(0.0001, now + duration);
+
+    osc.connect(gain);
+    harmonic.connect(gain);
+    gain.connect(ctx.destination);
+
+    osc.start(now);
+    harmonic.start(now);
+    osc.stop(now + duration);
+    harmonic.stop(now + duration);
+  }
+
+  public playMeditationBell(): void {
+    const ctx = this.getContext();
+    if (!ctx) return;
+
+    const now = ctx.currentTime;
+    const baseFreq = 432;
+    const partials = [1, 2.0, 2.756, 4.0];
+
+    partials.forEach((ratio, idx) => {
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = 'sine';
+      osc.frequency.setValueAtTime(baseFreq * ratio, now);
+
+      const amp = 0.12 / (idx + 1);
+      const decay = 2.2 / (idx * 0.6 + 1);
+
+      gain.gain.setValueAtTime(0.001, now);
+      gain.gain.exponentialRampToValueAtTime(amp, now + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + decay);
+
+      osc.connect(gain);
+      gain.connect(ctx.destination);
+
+      osc.start(now);
+      osc.stop(now + decay);
+    });
+  }
+
+  public playDamaruBeat(index = 0): void {
+    const ctx = this.getContext();
+    if (!ctx) return;
+
+    const now = ctx.currentTime;
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+
+    const basePitch = 190 + (index % 7) * 18;
+    osc.type = 'triangle';
+    osc.frequency.setValueAtTime(basePitch * 1.35, now);
+    osc.frequency.exponentialRampToValueAtTime(basePitch, now + 0.14);
+
+    gain.gain.setValueAtTime(0.001, now);
+    gain.gain.exponentialRampToValueAtTime(0.2, now + 0.015);
+    gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.22);
+
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+
+    osc.start(now);
+    osc.stop(now + 0.24);
+  }
+}
+
+export const soundEngine = new SanskritSoundEngine();
