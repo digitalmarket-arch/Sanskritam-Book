@@ -1,14 +1,44 @@
 // Sound & Pronunciation Engine for Sanskritam
 // Combines Web Speech API (hi-IN / sa-IN) with Web Audio API formant/bell synthesis
-// so every interactive phoneme, word, shloka, and meditation exercise has immediate acoustic feedback.
+// and master volume / mute control.
 
 class SanskritSoundEngine {
   private ctx: AudioContext | null = null;
+  private masterVolume = 0.85;
+  private muted = false;
+
+  public setVolume(vol: number): void {
+    this.masterVolume = Math.max(0, Math.min(1, vol));
+    if (this.masterVolume > 0 && this.muted) {
+      this.muted = false;
+    }
+  }
+
+  public getVolume(): number {
+    return this.masterVolume;
+  }
+
+  public setMuted(mute: boolean): void {
+    this.muted = mute;
+    if (mute && typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
+  }
+
+  public isMuted(): boolean {
+    return this.muted;
+  }
+
+  private getEffectiveVolume(): number {
+    return this.muted ? 0 : this.masterVolume;
+  }
 
   private getContext(): AudioContext | null {
     if (typeof window === 'undefined') return null;
     if (!this.ctx) {
-      const AudioCtx = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+      const AudioCtx =
+        window.AudioContext ||
+        (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
       if (AudioCtx) {
         this.ctx = new AudioCtx();
       }
@@ -20,7 +50,9 @@ class SanskritSoundEngine {
   }
 
   public speakSanskrit(text: string, rate = 0.82): void {
-    // Play a subtle acoustic tanpura/resonance pluck so user gets instant feedback
+    const effectiveVol = this.getEffectiveVolume();
+    if (effectiveVol <= 0) return;
+
     this.playResonanceTone(261.63, 0.35);
 
     if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -44,6 +76,7 @@ class SanskritSoundEngine {
         }
         utterance.rate = rate;
         utterance.pitch = 1.0;
+        utterance.volume = effectiveVol;
         window.speechSynthesis.speak(utterance);
       } catch {
         // Fallback already handled by resonance tone
@@ -52,6 +85,9 @@ class SanskritSoundEngine {
   }
 
   public playResonanceTone(freq = 261.63, duration = 0.45): void {
+    const effectiveVol = this.getEffectiveVolume();
+    if (effectiveVol <= 0) return;
+
     const ctx = this.getContext();
     if (!ctx) return;
 
@@ -66,8 +102,9 @@ class SanskritSoundEngine {
     harmonic.type = 'triangle';
     harmonic.frequency.setValueAtTime(freq * 1.5, now);
 
+    const peak = Math.max(0.002, 0.16 * effectiveVol);
     gain.gain.setValueAtTime(0.001, now);
-    gain.gain.exponentialRampToValueAtTime(0.14, now + 0.03);
+    gain.gain.exponentialRampToValueAtTime(peak, now + 0.03);
     gain.gain.exponentialRampToValueAtTime(0.0001, now + duration);
 
     osc.connect(gain);
@@ -81,6 +118,9 @@ class SanskritSoundEngine {
   }
 
   public playMeditationBell(): void {
+    const effectiveVol = this.getEffectiveVolume();
+    if (effectiveVol <= 0) return;
+
     const ctx = this.getContext();
     if (!ctx) return;
 
@@ -94,7 +134,7 @@ class SanskritSoundEngine {
       osc.type = 'sine';
       osc.frequency.setValueAtTime(baseFreq * ratio, now);
 
-      const amp = 0.12 / (idx + 1);
+      const amp = Math.max(0.002, (0.14 * effectiveVol) / (idx + 1));
       const decay = 2.2 / (idx * 0.6 + 1);
 
       gain.gain.setValueAtTime(0.001, now);
@@ -110,6 +150,9 @@ class SanskritSoundEngine {
   }
 
   public playDamaruBeat(index = 0): void {
+    const effectiveVol = this.getEffectiveVolume();
+    if (effectiveVol <= 0) return;
+
     const ctx = this.getContext();
     if (!ctx) return;
 
@@ -122,8 +165,9 @@ class SanskritSoundEngine {
     osc.frequency.setValueAtTime(basePitch * 1.35, now);
     osc.frequency.exponentialRampToValueAtTime(basePitch, now + 0.14);
 
+    const peak = Math.max(0.002, 0.22 * effectiveVol);
     gain.gain.setValueAtTime(0.001, now);
-    gain.gain.exponentialRampToValueAtTime(0.2, now + 0.015);
+    gain.gain.exponentialRampToValueAtTime(peak, now + 0.015);
     gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.22);
 
     osc.connect(gain);
