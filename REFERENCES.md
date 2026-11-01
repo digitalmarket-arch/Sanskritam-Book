@@ -5,7 +5,9 @@ anchor. Entries are grouped by role. Add entries in place (keep groups alphabeti
 never delete a key that lessons cite.
 
 Access notes: primary Sanskrit texts are cited by their own internal numbering
-(sūtra, chapter.verse, maṇḍala.hymn.verse), which is edition-independent.
+(sūtra, chapter.verse, maṇḍala.hymn.verse), which is usually edition-independent. Editions
+of the Mahābhārata and of the Hitopadeśa number verses differently, so the mahabharata and
+hitopadesha entries name the edition or e-text whose numbering the course follows.
 
 ---
 
@@ -62,7 +64,12 @@ adhyāya.brāhmaṇa.verse (e.g. 1.3.28 — asato mā sad gamaya). Ed./tr. Olive
 3.1.6 — satyam eva jayate). Ed./tr. Olivelle 1998.
 
 <a id="hitopadesha"></a>**hitopadesha** — Nārāyaṇa, *Hitopadeśa* (c. 9th–12th c. CE). Cited by
-section (prastāvikā / mitralābha …) and verse.
+section (prastāvikā / mitralābha …) and verse. Verse numbers differ between editions; the
+course numbers verses as in the GRETIL e-text (Nārāyaṇa: *Hitopadeśa*, version 1.1, input by
+J. Brzezinski, revised by U. Stiehl). For prastāvikā 36 (udyamena hi sidhyanti …) this agrees
+with the Nirṇaya Sāgara edition cited by `apte1890` ("H. Pr. 36"); elsewhere the two diverge
+(Apte's "H. Pr. 31" is GRETIL 0.33; his "H. 1. 70", vasudhaiva kuṭumbakam, is GRETIL 1.71,
+the course's mitralābha 71).
 
 <a id="rigveda"></a>**rigveda** — *Ṛgveda Saṃhitā*. Cited maṇḍala.hymn.verse (e.g. 3.62.10 —
 the Gāyatrī/Sāvitrī mantra). Tr.: Jamison & Brereton 2014.
@@ -71,10 +78,20 @@ the Gāyatrī/Sāvitrī mantra). Tr.: Jamison & Brereton 2014.
 cited by tantra and story; the recension is named whenever a story is not in the textus
 simplicior (e.g. Pūrṇabhadra's recension of 1199 CE, tr. Ryder 1925 — see `ryder1925`).
 Tr.: Olivelle 1997 (Oxford World's Classics) — note that Olivelle translates Edgerton's 1924
-reconstruction of the original, not the textus simplicior.
+reconstruction of the original, not the textus simplicior. Sanskrit text of the textus
+simplicior used for checks: ed. R. Jha, 6th ed., Varanasi: Chowkhamba Vidyabhavan, 1991
+(Vidyabhavan Sanskrit Grantha Mala 17), the base of the GRETIL e-text (input J. Brzezinski,
+M.R. Kale's ed. also consulted). Verse numbers differ between editions, so lessons cite by
+tantra and story; research notes may add the Jha edition's tantra.verse (e.g. 3.103).
 
 <a id="raghuvamsha"></a>**raghuvamsha** — Kālidāsa, *Raghuvaṃśa*. Cited sarga.verse (e.g. 1.1
 vāgarthāv iva…).
+
+<a id="sternbach1974"></a>**sternbach1974** — L. Sternbach (ed.), *Mahā-subhāṣita-saṃgraha*,
+Hoshiarpur: Vishveshvaranand Vedic Research Institute, 1974– (Vishveshvaranand Indological
+Series 64 ff.). Sanskrit sayings in alphabetical order, cited by subhāṣita number (e.g. 3587).
+Vol. I (1974) holds nos. 1–1873, so higher numbers are in later volumes. E-text of nos.
+1–9979: GRETIL msubhs_u.htm.
 
 ## Modern scholarship: grammars and dictionaries
 
@@ -149,6 +166,16 @@ page.
 <a id="ryder1925"></a>**ryder1925** — A.W. Ryder (tr.), *The Panchatantra*, Chicago: University of
 Chicago Press, 1925 — a translation of Pūrṇabhadra's recension (1199 CE). Cited by book and
 story title.
+
+<a id="rackham1940"></a>**rackham1940** — Pliny the Elder, *Natural History*, vol. III: Books
+8–11, Latin text with English translation by H. Rackham, Loeb Classical Library 353,
+Cambridge, MA: Harvard University Press; London: Heinemann, 1940. Cited by book.section in
+the standard numbering (e.g. 10.125).
+
+<a id="piyusham5"></a>**piyusham5** — संस्कृत पीयूषम् (saṃskṛta pīyūṣam), the Sanskrit reader
+for Class 5 of the Uttar Pradesh Basic Shiksha Parishad (Basic Education Council), current
+printings. A present-day schoolbook, cited only as evidence of a story's current use. Cited
+by lesson title (e.g. काकस्य उद्यमः), because lesson numbers differ between printings.
 
 ## Language-learning research (pedagogy design)
 

@@ -18,8 +18,8 @@ review_of: [v2.c06.l02, v1.c06.l04, v2.c02.l02]
 objectives:
   - en: "Read and recite the three sayings in pause form — अहिंसा परमः धर्मः; both lines of उद्यमेन हि सिध्यन्ति…; परोपकारः पुण्याय पापाय परपीडनम् with its usual first line — show the joined original of the first, and count the eight-syllable pādas of the two full verses."
     hi: "तीनों सुभाषित विराम-रूप में पढ़ें और सुनाएँ — अहिंसा परमः धर्मः; उद्यमेन हि सिध्यन्ति… की दोनों पंक्तियाँ; परोपकारः पुण्याय पापाय परपीडनम् अपनी प्रचलित पहली पंक्ति के साथ — पहले सुभाषित का जुड़ा मूल रूप दिखाएँ, और दोनों पूरे श्लोकों के आठ-आठ अक्षरों वाले चरण गिनें।"
-  - en: "Give each saying's source in one honest phrase — Mahābhārata 1.11.12 in the critical edition, and four more places there; Hitopadeśa, introduction, verse 36; traditionally quoted as the two-word essence of Vyāsa's teaching, its first line not traced to any Purāṇa — and identify the added line 'धर्महिंसा तथैव च' as a documented misquotation."
-    hi: "हर सुभाषित का स्रोत एक ईमानदार वाक्यांश में बताएँ — समीक्षित संस्करण में महाभारत 1.11.12, और वहीं चार और स्थान; हितोपदेश, प्रस्ताविका, श्लोक 36; परम्परा में व्यास के उपदेश का दो-शब्दों वाला सार, जिसकी पहली पंक्ति किसी पुराण में नहीं खोजी जा सकी — और जोड़ी गई पंक्ति 'धर्महिंसा तथैव च' को दर्ज किए गए ग़लत उद्धरण के रूप में पहचानें।"
+  - en: "Give each saying's source in one honest phrase — Mahābhārata 1.11.12 in the critical edition, and four more places there; Hitopadeśa, introduction, verse 36; traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas summed up in two sayings, its first line not traced to any Purāṇa — and identify the added line 'धर्महिंसा तथैव च' as a documented misquotation."
+    hi: "हर सुभाषित का स्रोत एक ईमानदार वाक्यांश में बताएँ — समीक्षित संस्करण में महाभारत 1.11.12, और वहीं चार और स्थान; हितोपदेश, प्रस्ताविका, श्लोक 36; परम्परा में व्यास के उपदेश का दो वचनों वाला सार, जिसकी पहली पंक्ति किसी पुराण में नहीं खोजी जा सकी — और जोड़ी गई पंक्ति 'धर्महिंसा तथैव च' को दर्ज किए गए ग़लत उद्धरण के रूप में पहचानें।"
   - en: "Gloss every word of the three sayings with the lesson's eight headwords — six ledger-new, two upgrades (346 → 352) — explain the one join परमः + धर्मः → परमो धर्मः (a final -अः becomes -ओ before a voiced consonant), and say why परमः describes धर्मः."
     hi: "पाठ के आठ मुख्य शब्दों — छह नए, दो उन्नत (346 → 352) — के सहारे तीनों सुभाषितों के हर शब्द का अर्थ बताएँ; एकमात्र सन्धि परमः + धर्मः → परमो धर्मः समझाएँ (घोष व्यञ्जन से पहले अन्त्य -अः, -ओ बन जाता है), और बताएँ कि परमः, धर्मः का विशेषण क्यों है।"
   - en: "Explain each saying in your own Sanskrit — ledger words, pause form, singular only — with one English sentence beside it, and record all three sayings recited cold."
@@ -50,12 +50,12 @@ updated: 2026-10-25
 
 Three sayings, three sources — and one trap. The first is perhaps the most quoted line in
 Sanskrit: अहिंसा परमो धर्मः, "non-harming is the highest dharma". It is real. Open the
-Mahābhārata's critical edition and you will find it five times. The trap is the second
-line people often attach to it, which you will not find there at all. The second saying
-puts lesson 2's lion to sleep and asks what he expects to eat. The third is a verse the
-tradition calls the whole of Vyāsa's teaching in two phrases. Today you read all three in
-pause form, recite them, and learn to say where each one comes from, and how sure anyone
-can be about it.
+Mahābhārata's critical edition and you will find it five times in its main text. The trap is
+the second line people often attach to it, which you will not find there at all. The second
+saying puts lesson 2's lion to sleep and asks what he expects to eat. The third is a verse
+the tradition calls the whole of Vyāsa's eighteen Purāṇas in two phrases. Today you read all
+three in pause form, recite them, and learn to say where each one comes from, and how sure
+anyone can be about it.
 
 ## 2. Learning Objective
 
@@ -227,18 +227,19 @@ it, then one English sentence.
 जुड़े रूप में छपी है: अहिंसा परमो धर्मः। नियम यह है: घोष व्यञ्जन से पहले (यहाँ ध्)
 पूरा अन्त -अः बदलकर -ओ हो जाता है। ध्यान रहे, "विसर्ग ने अ को ओ बना दिया" कहना ग़लत
 है; पूरा -अः, -ओ बनता है। कल के कोऽपि में भी यही -ओ था, बस वहाँ आगे अ था, जो लुप्त
-होकर ऽ बन गया। आज आगे व्यञ्जन है, इसलिए कुछ लुप्त नहीं होता।
+हो गया, और उसकी जगह अवग्रह ऽ लिखा गया। आज आगे व्यञ्जन है, इसलिए कुछ लुप्त नहीं होता।
 
 इसका स्रोत जाँचा जा सकता है। महाभारत के समीक्षित संस्करण में, यानी उस संस्करण में जो
-अनेक पाण्डुलिपियों की तुलना करके तैयार हुआ, यह पंक्ति पाँच बार आती है: 1.11.12,
+अनेक पाण्डुलिपियों की तुलना करके तैयार हुआ, यह पंक्ति मुख्य पाठ में पाँच बार आती है: 1.11.12,
 3.198.69, 13.116.1, 13.116.25 और 13.117.37। पहली बार आदिपर्व में एक ऋषि इसे युवा
 ब्राह्मण रुरु से कहते हैं, जिसने हर साँप को मारने की क़सम खाई थी।
 
-अब ईमानदारी वाली बात। आपने यह पंक्ति शायद एक और पंक्ति के साथ जुड़ी हुई सुनी या पढ़ी
-हो — "धर्महिंसा तथैव च", मानो महाभारत आगे यह भी कहता हो कि धर्म के लिए की गई हिंसा भी
-वैसी ही है। समीक्षित संस्करण में यह जोड़ कहीं नहीं है। पाँचों जगह श्लोक आगे कुछ और
-कहता है, और इस जोड़ी गई पंक्ति का कोई स्रोत अब तक नहीं मिला है। इसलिए यह पाठ उसे केवल
-एक दर्ज किए गए ग़लत उद्धरण के रूप में दिखाता है, सुभाषित के हिस्से के रूप में कभी नहीं।
+अब ईमानदारी वाली बात। आपने यह पंक्ति शायद एक और पंक्ति के साथ जुड़ी हुई सुनी या पढ़ी हो —
+"धर्महिंसा तथैव च", मानो महाभारत आगे यह भी कहता हो कि धर्म के लिए की गई हिंसा भी वैसी ही है।
+समीक्षित संस्करण ने महाभारत का जो रूप तय किया है, उसमें यह जोड़ कहीं नहीं है। पाँचों जगह
+श्लोक आगे कुछ और कहता है, और इस जोड़ी गई पंक्ति का कोई स्रोत अब तक नहीं मिला है। इसलिए यह
+पाठ उसे केवल एक दर्ज किए गए ग़लत उद्धरण के रूप में दिखाता है, सुभाषित के हिस्से के रूप में
+कभी नहीं।
 
 दूसरा: **उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे
 मृगाः॥** — "काम परिश्रम से सिद्ध होते हैं, केवल इच्छा करने से नहीं; सोते हुए शेर के
@@ -246,8 +247,9 @@ it, then one English sentence.
 प्रस्ताविका है जिससे आपने खण्ड 1 के अन्त में विद्या ददाति विनयम् पढ़ा था। इस श्लोक में
 बहुवचन और विभक्ति वाले कई रूप हैं: उद्यमेन "उद्यम से", कार्याणि "कार्य", सिध्यन्ति
 "सिद्ध होते हैं", मृगाः "हिरण"। इन्हें पूरा-का-पूरा अर्थ के साथ पढ़िए। ये आज पढ़ने और
-सुनाने के लिए हैं, ख़ुद बनाने के लिए नहीं। मनोरथ एक ही शब्द है, "मन का रथ", यानी
-इच्छा; हिन्दी में भी "मनोरथ" इसी अर्थ में चलता है। और सिंहस्य वही "शेर का" है जो कल
+सुनाने के लिए हैं, ख़ुद बनाने के लिए नहीं। मनोरथ एक ही शब्द है, मनस् + रथ, और इसका अर्थ है
+इच्छा। आप्टे का कोश इसे "मन का रथ" समझाता है, पर मोनियर-विलियम्स यहाँ रथ को "आनन्द"
+मानते हैं; हिन्दी में भी "मनोरथ" इच्छा के अर्थ में चलता है। और सिंहस्य वही "शेर का" है जो कल
 की कथा में चूहे के साथ आया था।
 
 तीसरा: **परोपकारः पुण्याय पापाय परपीडनम्** — "दूसरों की भलाई पुण्य के लिए, दूसरों को
@@ -311,8 +313,10 @@ stands before a consonant, so nothing disappears and no avagraha is written
 [REF:whitney1889 §175]. English keeps *dharma* untranslated because English borrowed the
 word (v2.c02.l02 §13).
 
-> **[HISTORY · इतिहासः]** In the critical edition of the Mahābhārata, the line अहिंसा
-> परमो धर्मः occurs five times: 1.11.12, 3.198.69, 13.116.1, 13.116.25 and 13.117.37. Its
+> **[HISTORY · इतिहासः]** In the main text of the critical edition of the Mahābhārata, the line
+> अहिंसा परमो धर्मः occurs five times: 1.11.12, 3.198.69, 13.116.1, 13.116.25 and 13.117.37;
+> three more times it stands only in passages the edition prints in its footnotes and an
+> appendix (2.38.31*374; Anuśāsana App. I no. 15). Its
 > first appearance is in the Ādiparvan. A sage who had been cursed to live as a harmless
 > snake, now freed from that body, speaks to the young brahmin Ruru, who has sworn to kill
 > every snake since one bit his bride. The half-verse runs on: अहिंसा परमो धर्मः
@@ -338,14 +342,15 @@ So the three-word saying has exactly one join, and the full Ādiparvan half-vers
 > recited with a second line attached: "धर्महिंसा तथैव च" (dharmahiṃsā tathaiva ca),
 > presented as the Mahābhārata's own words and taken to mean "and so is violence in the
 > service of dharma". It is not in the Mahābhārata as critically edited. At none of the
-> five places where अहिंसा परमो धर्मः occurs does the verse continue this way; at
+> five main-text places where अहिंसा परमो धर्मः occurs, nor at the three others, does the
+> verse continue this way; at
 > 1.11.12 it continues सर्वप्राणभृतां स्मृतः, as quoted above, and no source for the added
 > line has been found. [REF:mahabharata 1.11.12]; [REF:mahabharata 13.117.37]
 
 The course shows that line only here, labelled, and in the sorting tasks where you reject
 it. It is never part of the saying you learn. If someone quotes it to you as scripture,
 the honest reply is short: "Which verse? In the critical edition the line goes on
-differently, at all five places."
+differently, wherever it occurs."
 
 ### Saying 2 — उद्यमेन हि सिध्यन्ति…
 
@@ -360,11 +365,14 @@ In IAST: *udyamena hi sidhyanti kāryāṇi na manorathaiḥ / na hi suptasya si
 praviśanti mukhe mṛgāḥ*.
 
 > **[HISTORY · इतिहासः]** This verse is from the Hitopadeśa's introduction (prastāvikā),
-> verse 36 in the common numbering. That is the same introduction that gave you विद्या
+> verse 36 in the Nirṇaya Sāgara edition that Apte's dictionary cites and in the GRETIL
+> e-text (editions number this section differently, so another may print it under a
+> nearby number). That is the same introduction that gave you विद्या
 > ददाति विनयम् at the end of Volume 1. In the frame story, King Sudarśana of Pāṭaliputra
 > is troubled that his sons have learned no śāstra and keep straying from the right path,
-> and he weighs fate against effort. This verse ends his reflection. He then calls the
-> learned together, and the teacher Viṣṇuśarman takes the princes on.
+> and he weighs fate against effort. This verse closes that weighing; after a few
+> more verses on why a child must be taught, he calls the learned together, and the
+> teacher Viṣṇuśarman takes the princes on.
 > [REF:hitopadesha prastāvikā 36]; [REF:apte1890 s.v. सिध्]
 
 **Pause form = joined original.** The verse as printed has no joins between words, so
@@ -379,7 +387,7 @@ plurals and case endings this course has not taught, and every one is glossed wh
 | सिध्यन्ति | "succeed, are accomplished" | a plural ("they …") verb form, glossed whole |
 | कार्याणि | "tasks, things to be done" | plural of today's headword कार्यम् |
 | न | "not" | your ledger word (v2.c01.l04) |
-| मनोरथैः | "by wishes" | मनोरथः "a wish", literally "chariot of the mind" |
+| मनोरथैः | "by wishes" | मनोरथः "a wish", built from मनस् "mind" + रथ; Apte explains it as "the car of the mind" |
 | न हि | "for … not" | the two together: "for surely not" |
 | सुप्तस्य | "of (one) sleeping" | describes सिंहस्य |
 | सिंहस्य | "of a lion" | lesson 2's सिंहस्य, back in a real verse |
@@ -390,8 +398,13 @@ plurals and case endings this course has not taught, and every one is glossed wh
 [REF:apte1890 s.v. उद्यम]; [REF:apte1890 s.v. सुप्त]; [REF:apte1890 s.v. मनस्]
 
 Three notes. **मनोरथ is learned whole.** It is मनस् "mind" (your ledger word मनः,
-v1.c03.l04, is its pause form) + रथ "chariot", "the chariot of the mind", a wish; the
--अस् of मनस् became -ओ inside the word. Hindi uses मनोरथ in the same sense. **The two new
+v1.c03.l04, is its pause form) + रथ, and it means "a wish". Dictionaries differ on
+what this रथ is. Apte explains मनोरथ as "the car of the mind", रथ being the everyday
+word for "chariot"; Monier-Williams instead takes it as a separate रथ meaning "joy"
+and glosses मनोरथ "heart's joy" [REF:apte1890 s.v. मनस्];
+[REF:monierwilliams1899 s.v. manoratha]. So "chariot of the mind" is one explanation,
+not a settled literal meaning. The -अस् of मनस् became -ओ inside the word. Hindi uses
+मनोरथ in the same sense. **The two new
 headwords are the singular dictionary forms**: उद्यमः "effort" and कार्यम् "task". Those
 are the forms you use in your own sentences, never उद्यमेन or कार्याणि. **The lion is a
 callback**: lesson 2's lion slept, and a mouse walked over him. This lion sleeps too, and
@@ -412,15 +425,23 @@ parapīḍanam*.
 > **[TRADITION · परम्परा]** In the tradition of quoted sayings (subhāṣitas), the line
 > परोपकारः पुण्याय पापाय परपीडनम् is widely cited (Apte's dictionary quotes it under पर),
 > and it usually travels with the first line अष्टादशपुराणेषु व्यासस्य वचनद्वयम्.
-> Traditionally it is quoted as the two-word essence of Vyāsa's teaching. That first line
+> Traditionally the couplet is quoted as Vyāsa's teaching in the eighteen Purāṇas, summed
+> up in two sayings. That first line
 > has not been traced to any Purāṇa. It is a summary that credits the thought to Vyāsa,
 > and its own wording shows this: it speaks of Vyāsa from outside, as व्यासस्य, "of
 > Vyāsa". [REF:apte1890 s.v. पर]
 
+> **[HISTORY · इतिहासः]** The full couplet is recorded as no. 3587 of Sternbach's
+> collection of Sanskrit sayings, the Mahā-subhāṣita-saṃgraha. Its second line also stands,
+> under a different first line, in the common version (textus simplicior) of the
+> Pañcatantra, Book 3: there a cat posing as a holy man preaches it, then eats both animals
+> that came to him for judgment. [REF:sternbach1974 3587]; [REF:panchatantra tantra 3]
+
 What that means for your source line: never "the Purāṇas say". Say "traditionally quoted
-as the two-word essence of Vyāsa's teaching", and if someone asks "which Purāṇa?", the
+as Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings", and if someone asks
+"which Purāṇa?", the
 honest answer is that the first line has not been traced to one. "Not traced" means that
-no one has located it, which is a different claim from "proven absent". It is an exact
+no source has been found for it, which is a different claim from "proven absent". It is an exact
 answer, the same kind as v1.c06.l04's "source unrecorded".
 
 **Pause form = joined original** again: no joins between words. The visarga of परोपकारः
@@ -520,17 +541,17 @@ long, steady ओ /oː/ running straight into ध.
 No new values today. Every sound in the three sayings has been on your chart since
 Volume 1.
 
-**The headwords:** अहिंसा /ɐɦimsɑː/ · परमः /pɐɾɐmɐh/ · उद्यमः /ud̪jɐmɐh/ · कार्यम्
+**The headwords:** अहिंसा /ɐɦĩsɑː/ · परमः /pɐɾɐmɐh/ · उद्यमः /ud̪jɐmɐh/ · कार्यम्
 /kɑːɾjɐm/ · परोपकारः /pɐɾoːpɐkɑːɾɐh/ · पुण्यम् /puɳjɐm/ · धर्मः /d̪ʱɐɾmɐh/ · पापम्
 /pɑːpɐm/.
 
-**Saying 1:** pause form /ɐɦimsɑː pɐɾɐmɐh d̪ʱɐɾmɐh/; joined /ɐɦimsɑː pɐɾɐmoː d̪ʱɐɾmɐh/.
+**Saying 1:** pause form /ɐɦĩsɑː pɐɾɐmɐh d̪ʱɐɾmɐh/; joined /ɐɦĩsɑː pɐɾɐmoː d̪ʱɐɾmɐh/.
 The Ādiparvan half-verse continues, in pause form, /sɐɾʋɐpɾɑːɳɐbʱr̩t̪ɑːm smr̩t̪ɐh/.
 
 **Saying 2, pāda by pāda:**
 उद्यमेन हि सिध्यन्ति /ud̪jɐmeːn̪ɐ ɦi sid̪ʱjɐn̪t̪i/ ·
 कार्याणि न मनोरथैः /kɑːɾjɑːɳi n̪ɐ mɐn̪oːɾɐt̪ʰɐi̯h/ ·
-न हि सुप्तस्य सिंहस्य /n̪ɐ ɦi supt̪ɐsjɐ simɦɐsjɐ/ ·
+न हि सुप्तस्य सिंहस्य /n̪ɐ ɦi supt̪ɐsjɐ sĩɦɐsjɐ/ ·
 प्रविशन्ति मुखे मृगाः /pɾɐʋiɕɐn̪t̪i mukʰeː mr̩gɑːh/
 
 **Saying 3, pāda by pāda:**
@@ -540,13 +561,14 @@ The Ādiparvan half-verse continues, in pause form, /sɐɾʋɐpɾɑːɳɐbʱr̩t
 पापाय परपीडनम् /pɑːpɑːjɐ pɐɾɐpiːɖɐn̪ɐm/
 
 **Around the sayings:** सुभाषितानि /subʱɑːʂit̪ɑːn̪i/ · मनोरथः /mɐn̪oːɾɐt̪ʰɐh/ · हिंसा
-/ɦimsɑː/ · उपकारः /upɐkɑːɾɐh/ · न कोऽपि लघुः /n̪ɐ koːpi lɐgʱuh/.
+/ɦĩsɑː/ · उपकारः /upɐkɑːɾɐh/ · न कोऽपि लघुः /n̪ɐ koːpi lɐgʱuh/.
 
 **Narrow note — anusvāra where no stop follows.** STYLE_GUIDE §2 gives anusvāra before a
 non-stop two values, a nasalized vowel or [m]. Before स in अहिंसा and before ह in सिंहस्य,
-this lesson prints the [m] value: /ɐɦimsɑː/, /simɦɐsjɐ/. The nasalized-vowel reading,
-[ɐɦĩsɑː] (the value संस्कृतम् /sɐ̃skr̩t̪ɐm/ shows on अ), is equally correct. What is not
-correct is a full dental [n̪]: anusvāra takes a varga nasal only before a stop.
+this lesson prints the nasalized vowel, as Volume 1 prints संस्कृतम् /sɐ̃skr̩t̪ɐm/ and
+lesson 2 prints सिंहः /sĩɦɐh/: /ɐɦĩsɑː/, /sĩɦɐsjɐ/. The [m] value, [ɐɦimsɑː], is STYLE_GUIDE
+§2's other permitted value, not an error. What is not correct is a full dental [n̪]:
+anusvāra takes a varga nasal only before a stop.
 
 **Narrow note — the joins in sound.** In परमः धर्मः the breath /ɐh/ closes परमः before ध;
 in परमो धर्मः that breath is replaced by long /oː/. In the joined Ādiparvan line the
@@ -557,8 +579,9 @@ or, with the [m] value, much the same sound as the pause form.
 
 मुखस्थितिः — five checks, mirror in hand. Each one catches a real error from §12.
 
-1. **The anusvāra of अहिंसा.** After हि, close the lips lightly for the hum (or let the
-   vowel go through the nose), then open straight into स. The tongue tip must *not* touch
+1. **The anusvāra of अहिंसा.** After हि, let the vowel go through the nose with the lips
+   open (closing them lightly gives [m], the course's other permitted
+   value), then go straight into स. The tongue tip must *not* touch
    the teeth for an न before the स.
 2. **The ओ of परमो.** Lips rounded and still for the whole long vowel, no closing glide
    toward u. Then the breathy ध at the teeth.
@@ -580,7 +603,7 @@ or, with the [m] value, much the same sound as the pause form.
 | # | Error | Fix |
 |---|---|---|
 | 1 | Quoting the added line "धर्महिंसा तथैव च" as the Mahābhārata's continuation. | §8, the documented-misquotation callout: not in the critical edition at any of the five places; at 1.11.12 the verse goes on सर्वप्राणभृतां स्मृतः. |
-| 2 | Saying "the Purāṇas say परोपकारः पुण्याय…". | §8, the TRADITION callout: "traditionally quoted as the two-word essence of Vyāsa's teaching"; the first line is not traced to any Purāṇa and speaks *about* Vyāsa. |
+| 2 | Saying "the Purāṇas say परोपकारः पुण्याय…". | §8, the TRADITION callout: "traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings"; the first line is not traced to any Purāṇa and speaks *about* Vyāsa. |
 | 3 | Explaining परमो as "the visarga turns the a into o". | The whole ending -अः becomes -ओ before a voiced consonant (§8, §15). |
 | 4 | Reading परमः as describing अहिंसा: "the highest non-violence is dharma". | परमः wears धर्मः's -अः; it belongs to धर्मः, "the highest dharma" (§8). |
 | 5 | Treating अष्टादश as अष्ट + दश joined by a vowel sandhi, or reading it as two words. | One compound numeral; अष्टा- is the shape "eight" takes in it (§8 FACT). |
@@ -601,7 +624,7 @@ and the next word begins with a consonant, ध्. Ask: which pause-form ending 
 -ओ before a voiced consonant? The ending -अः. So परमो ← परमः, and the pause form is
 **अहिंसा परमः धर्मः** (ahiṃsā paramaḥ dharmaḥ). Check the meaning: परमः and धर्मः now
 visibly wear the same dress, "the highest dharma". Compare lesson 2's कोऽपि ← कः अपि: the
-same ending, but there the next word began with अ, which disappeared into ऽ.
+same ending, but there the next word began with अ, which disappeared, its place marked by ऽ.
 
 ### Counting a pāda — न हि सुप्तस्य सिंहस्य
 
@@ -618,8 +641,8 @@ One phrase, as firm as the evidence:
 - अहिंसा परमः धर्मः — "Mahābhārata 1.11.12, critical edition; four more times in the
   epic."
 - उद्यमेन हि सिध्यन्ति… — "Hitopadeśa, introduction (prastāvikā), verse 36."
-- परोपकारः पुण्याय… — "Traditionally quoted as the two-word essence of Vyāsa's teaching;
-  its first line is not traced to any Purāṇa."
+- परोपकारः पुण्याय… — "Traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas,
+  summed up in two sayings; its first line is not traced to any Purāṇa."
 
 A source line that says more than this (for saying 3, "from the Purāṇas") is wrong. One
 that says less (for saying 1, "a famous Hindu saying") throws away a locus anyone can
@@ -646,7 +669,7 @@ moves **346 → 352**. The chapter chain so far: 328 → 335 → 346 → 352. Au
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| अहिंसा | ahiṃsā | /ɐɦimsɑː/ | non-harming, non-violence | अहिंसा | new · अ- "not" + हिंसा "harm"; feminine, ends in आ; anusvāra before स (§10) |
+| अहिंसा | ahiṃsā | /ɐɦĩsɑː/ | non-harming, non-violence | अहिंसा | new · अ- "not" + हिंसा "harm"; feminine, ends in आ; anusvāra before स (§10) |
 | परमः | paramaḥ | /pɐɾɐmɐh/ | highest, supreme | परम, सर्वोच्च | new · describes धर्मः in saying 1; joined form परमो before a voiced consonant |
 | उद्यमः | udyamaḥ | /ud̪jɐmɐh/ | effort | उद्यम, परिश्रम | new · saying 2 shows it as उद्यमेन "by effort", glossed whole |
 | कार्यम् | kāryam | /kɑːɾjɐm/ | task, thing to be done | कार्य, काम | new · hook rides the य, as in आचार्य; saying 2 shows the plural कार्याणि |
@@ -681,7 +704,13 @@ one fence.
 > धर्मः, and a describing word wears the ending of the noun it describes: परमः with
 > धर्मः. [REF:whitney1889] (2) Before a voiced consonant, a word-final -अः becomes -ओ:
 > परमः + धर्मः → परमो धर्मः. Before अ the same ending also becomes -ओ, and the अ
-> disappears, marked ऽ: कः + अपि → कोऽपि. [REF:whitney1889 §175]; [REF:ashtadhyayi 6.1.114]
+> disappears, marked ऽ: कः + अपि → कोऽपि. This holds for an -अः that stands for -अस्, as in
+> परमः, धर्मः and कः. Three ledger words differ: सः and एषः simply drop the ः before any
+> consonant, as in स गच्छति, and पुनः, whose -अः stands for -अर्, keeps its र्, as in पुनरपि
+> and in the पुनर्मिलामः previewed in v2.c01.l04. [REF:whitney1889 §175]; [REF:whitney1889 §135];
+> [REF:whitney1889 §16]; [REF:whitney1889 §176]; [REF:whitney1889 §178];
+> [REF:ashtadhyayi 6.1.114]; [REF:ashtadhyayi 6.1.113]; [REF:ashtadhyayi 6.1.109];
+> [REF:ashtadhyayi 6.1.132]
 > (3) Before a consonant, a word-final म् becomes anusvāra: सर्वप्राणभृताम् + स्मृतः →
 > सर्वप्राणभृतां स्मृतः. [REF:whitney1889 §213]; [REF:ashtadhyayi 8.3.23] (4) Inside a
 > word, अ + उ → ओ: पर + उपकारः → परोपकारः. [REF:whitney1889 §127]; [REF:ashtadhyayi 6.1.87]
@@ -734,7 +763,7 @@ cards face down. Every question uses the owned kit. 🔊 in the recitation audio
 
 — अर्जुनः: सः न खादति! उद्यमः बलम्।
 (saḥ na khādati! udyamaḥ balam.) "He doesn't eat! Effort is strength." — वह नहीं खाता!
-उद्यम ही बल है।
+उद्यम बल है।
 
 — आचार्यः: मूषकः जालम् कृन्तति। किम् एतत्?
 (mūṣakaḥ jālam kṛntati. kim etat?) "The mouse cuts the net. What is this?" — चूहा जाल
@@ -782,7 +811,7 @@ English, Hindi. Every word is self-read, and the sayings are quoted whole.
    — वह नहीं खाता!
 6. माया हसति — उद्यमः बलम्!
    (māyā hasati — udyamaḥ balam!) "Māyā laughs: 'Effort is strength!'" — माया हँसती है —
-   उद्यम ही बल है!
+   उद्यम बल है!
 7. आचार्यः वदति — कः लघुः?
    (ācāryaḥ vadati — kaḥ laghuḥ?) "The teacher says: 'Who is small?'" — आचार्य कहते हैं —
    छोटा कौन है?
@@ -863,20 +892,20 @@ and श in their places, plain ड in परपीडनम्, every visarga an
    drops out (d) an avagraha is written for the lost अ
 3. In अहिंसा परमः धर्मः, the English word "is" corresponds to: (a) धर्मः (b) परमः (c) no
    word; Sanskrit leaves "is" unsaid here (d) the visarga
-4. In the critical edition of the Mahābhārata, the line अहिंसा परमो धर्मः: (a) never
-   occurs (b) occurs five times, first at 1.11.12 in the Ādiparvan (c) occurs once, in the
-   Bhagavadgītā (d) occurs only in vulgate editions
+4. In the main text of the critical edition of the Mahābhārata, the line अहिंसा परमो धर्मः:
+   (a) never occurs (b) occurs five times, first at 1.11.12 in the Ādiparvan (c) occurs
+   once, in the Bhagavadgītā (d) occurs only in vulgate editions
 5. उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः… is from: (a) Mahābhārata 1.11.12 (b) the
    Hitopadeśa's introduction (prastāvikā), verse 36 (c) the Hitopadeśa's first book,
    Mitralābha (d) the Ṛgveda
 6. Inside मनोरथैः, the word मनोरथ is: (a) two words, मनः and रथः, to be read apart (b) one
-   word, literally "chariot of the mind": a wish (c) a verb meaning "succeed" (d) a place
+   word, मनस् + रथ, meaning "a wish" (c) a verb meaning "succeed" (d) a place
    name
 7. कार्याणि, मृगाः and सिध्यन्ति in saying 2 are: (a) new headwords for your own
    sentences (b) plural forms glossed whole, to read and recite, not produce (c) joined
    forms of कार्यम्, मृगः, सिध्यति (d) misprints
 8. According to the tradition, परोपकारः पुण्याय पापाय परपीडनम् is: (a) a Ṛgveda hymn
-   (b) the two-word essence of Vyāsa's teaching in the eighteen Purāṇas (c) a sūtra of
+   (b) Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings (c) a sūtra of
    Pāṇini (d) the Mahābhārata's 1.11.12
 9. व्यासस्य in the first line of saying 3 means "of Vyāsa". What does that tell a careful
    reader? (a) Vyāsa is speaking in the first person (b) the line speaks *about* Vyāsa,
@@ -919,14 +948,14 @@ and श in their places, plain ड in परपीडनम्, every visarga an
   व्या-सस्-य व-च-नद्-व-यम् · प-रो-प-का-रः पुण्-या-य · पा-पा-य प-र-पी-ड-नम्.
 - **Exercise 4:** the three source lines of §13. Saying 3 may not say "from the Purāṇas"
   because its first line has not been traced to any Purāṇa and itself speaks about Vyāsa
-  from outside; the honest frame is "traditionally quoted as the two-word essence of
-  Vyāsa's teaching".
-- **Exercise 5:** (a) **accept**: cited HISTORY, five places in the critical edition.
-  (b) **reject**: a documented misquotation; at none of the five places does the verse go
-  on this way, and no source for the line has been found. (c) **reframe**: "According to
-  the tradition, this is the two-word essence of Vyāsa's teaching; the first line has not
-  been traced to any Purāṇa." (d) **reject and correct**: introduction (prastāvikā),
-  verse 36. (e) **reject**: one compound numeral.
+  from outside; the honest frame is "traditionally quoted as Vyāsa's teaching in the
+  eighteen Purāṇas, summed up in two sayings".
+- **Exercise 5:** (a) **accept**: cited HISTORY, five places in the critical edition's main
+  text. (b) **reject**: a documented misquotation; at none of the five places does the verse
+  go on this way, and no source for the line has been found. (c) **reframe**: "According to
+  the tradition, this is Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings;
+  the first line has not been traced to any Purāṇa." (d) **reject and correct**:
+  introduction (prastāvikā), verse 36. (e) **reject**: one compound numeral.
 - **Exercise 7 (models):** Saying 1: §13. Saying 2: उद्यमेन हि सिध्यन्ति… — उद्यमः
   बलम्। सिंहः स्वपिति — सः न खादति। "Wishing gets nothing done; only effort does."
   Saying 3: परोपकारः पुण्याय पापाय परपीडनम्। — परोपकारः पुण्यम्। मूषकः जालम्
@@ -941,20 +970,21 @@ and श in their places, plain ड in परपीडनम्, every visarga an
 
 पुनरावृत्तिः — one screen to remember.
 
-> **Saying 1:** अहिंसा परमः धर्मः, joined अहिंसा परमो धर्मः: no word for "is"; परमः
-> belongs to धर्मः; one join, -अः → -ओ before a voiced consonant. Source: Mahābhārata
-> 1.11.12 (critical edition), and four more places. **The misquotation:** the added line
-> "धर्महिंसा तथैव च" is not in the critical edition anywhere. **Saying 2:** उद्यमेन हि
-> सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥, already
-> in pause form, its forms glossed whole. Source: Hitopadeśa, introduction, verse 36.
-> **Saying 3:** परोपकारः पुण्याय पापाय परपीडनम्, with its usual first line. Source:
-> traditionally the two-word essence of Vyāsa's teaching; first line not traced to any
-> Purāṇa. **The shape:** two ślokas of 4 × 8; saying 1 one pāda of 8. **The ledger:** six
-> new + two upgrades, 346 → 352.
+> **Saying 1:** अहिंसा परमः धर्मः, joined अहिंसा परमो धर्मः: no word for "is"; परमः belongs
+> to धर्मः; one join, -अः → -ओ before a voiced consonant. Source: Mahābhārata 1.11.12
+> (critical edition), and four more places. **The misquotation:** the added line "धर्महिंसा
+> तथैव च" is not in the Mahābhārata as critically edited. **Saying 2:** उद्यमेन हि सिध्यन्ति
+> कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥, already in pause form,
+> its forms glossed whole. Source: Hitopadeśa, introduction, verse 36. **Saying 3:**
+> परोपकारः पुण्याय पापाय परपीडनम्, with its usual first line. Source: traditionally Vyāsa's
+> teaching in the eighteen Purāṇas, in two sayings; first line not traced to any Purāṇa.
+> **The shape:** two ślokas of 4 × 8; saying 1 one pāda of 8. **The ledger:** six new + two
+> upgrades, 346 → 352.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- +1 day: the three sayings recited cold, each with its source in one phrase — v2.c06.l04's Station 0 runs exactly this.
+- +1 day: the three sayings recited cold, each with its source in one phrase — v2.c06.l04's
+  Station 0 runs exactly this.
 - **At the exam (v2.c06.l05):** task C's reading ladder climbs from the chapter's two
   stories to one saying, read aloud; task D's honesty sort brings back verse-source cards,
   today's exercise 5 among them.
@@ -1056,8 +1086,8 @@ celebration, after the scoring.
 > सिंहस्य प्रविशन्ति मुखे मृगाः॥ with an 8-dot syllable rail under each pāda; a small
 > line drawing of a sleeping lion; footer "Hitopadeśa, introduction (prastāvikā), verse
 > 36". Card 3: अष्टादशपुराणेषु व्यासस्य वचनद्वयम्। परोपकारः पुण्याय पापाय परपीडनम्॥
-> with dot rails; register banner "परम्परा · TRADITION — traditionally the two-word
-> essence of Vyāsa's teaching; first line not traced to any Purāṇa". No deity imagery, no
+> with dot rails; register banner "परम्परा · TRADITION — traditionally Vyāsa's
+> teaching in two sayings; first line not traced to any Purāṇa". No deity imagery, no
 > ornament beyond a thin rule.
 
 **Asset 2 — `planned:assets/worksheets/volume-2/v2c06l03-sayings-sheet.pdf` (layout
@@ -1094,7 +1124,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    verse 36".
 5. **Saying 3 (3:50–4:50):** the couplet appears; the word व्यासस्य glows with the gloss
    "of Vyāsa". Caption: "The verse speaks about Vyāsa." TRADITION banner: "traditionally
-   the two-word essence of Vyāsa's teaching; first line not traced to any Purāṇa".
+   Vyāsa's teaching in two sayings; first line not traced to any Purāṇa".
 6. **The count (4:50–5:30):** syllable dots fill under each pāda, 8 at a time; a hand
    counts on fingers. "Two ślokas, 4 × 8. Saying 1: one pāda of 8."
 7. **Recap + CTA (5:30–6:00):** three cards in a row with their source lines. End card:
@@ -1107,26 +1137,26 @@ narrator reads the cue, not the English spelling.
 
 - **00:00** Three sayings, three sources, and one trap. Today: subhāṣitāni
   [subʱɑːʂit̪ɑːn̪i], things well said.
-- **00:35** ahiṃsā paramaḥ dharmaḥ [ɐɦimsɑː pɐɾɐmɐh d̪ʱɐɾmɐh]: non-harming is the
+- **00:35** ahiṃsā paramaḥ dharmaḥ [ɐɦĩsɑː pɐɾɐmɐh d̪ʱɐɾmɐh]: non-harming is the
   highest dharma. There is no word for "is"; Sanskrit leaves it out. Paramaḥ belongs to
   dharmaḥ: the highest dharma. In the book it is joined: paramo dharmaḥ [pɐɾɐmoː
   d̪ʱɐɾmɐh]. The whole ending -aḥ becomes -o before a voiced consonant.
 - **01:30** Where is it from? The Mahābhārata, critical edition, book one, chapter
   eleven, verse twelve, and four more places in the epic.
 - **01:50** Now the trap. The line is often quoted with a second half attached, about
-  violence in the service of dharma. At all five places in the critical edition the verse
+  violence in the service of dharma. Wherever the line occurs in the critical edition, the verse
   goes on differently, and no source for that added line has been found. We call it what
   it is: a misquotation.
 - **02:30** udyamena hi sidhyanti kāryāṇi na manorathaiḥ [ud̪jɐmeːn̪ɐ ɦi sid̪ʱjɐn̪t̪i
   kɑːɾjɑːɳi n̪ɐ mɐn̪oːɾɐt̪ʰɐi̯h]: tasks succeed through effort, not through wishing. na hi
-  suptasya siṃhasya [n̪ɐ ɦi supt̪ɐsjɐ simɦɐsjɐ]: deer do not walk into the mouth of a
+  suptasya siṃhasya [n̪ɐ ɦi supt̪ɐsjɐ sĩɦɐsjɐ]: deer do not walk into the mouth of a
   sleeping lion. The Hitopadeśa, introduction, verse thirty-six.
 - **03:50** paropakāraḥ puṇyāya pāpāya parapīḍanam [pɐɾoːpɐkɑːɾɐh puɳjɑːjɐ pɑːpɑːjɐ
   pɐɾɐpiːɖɐn̪ɐm]: helping others brings merit, harming others brings sin. Tradition calls
   it the essence of Vyāsa's teaching. But read the first line closely: vyāsasya
   [ʋjɑːsɐsjɐ], "of Vyāsa". The verse speaks about him, and its first line has not been
   traced to any Purāṇa.
-- **04:50** Count with me: u-dya-me-na hi si-dhyan-ti. Eight. Four pādas, eight each.
+- **04:50** Count with me: ud-ya-me-na hi sidh-yan-ti. Eight. Four pādas, eight each.
   Your fingers check your memory.
 - **05:30** Six new words and two old ones in new dress. Your ledger reads three hundred
   and fifty-two. Tomorrow: the three sayings, cold, each with its source. Then, word
@@ -1137,8 +1167,8 @@ narrator reads the cue, not the English spelling.
 40–50 seconds, vertical, captions burned in.
 
 - **Hook (0:00–0:07):** a poster of अहिंसा परमो धर्मः with a second line added. Caption:
-  "This famous Sanskrit line has a fake second half."
-- **Demo (0:07–0:28):** the real line in pause form, ahiṃsā paramaḥ dharmaḥ [ɐɦimsɑː
+  "This famous Sanskrit line has a second half no one has found in the Mahābhārata."
+- **Demo (0:07–0:28):** the real line in pause form, ahiṃsā paramaḥ dharmaḥ [ɐɦĩsɑː
   pɐɾɐmɐh d̪ʱɐɾmɐh], "non-harming is the highest dharma"; five locus chips stamp on
   (Mahābhārata 1.11.12, 3.198.69, 13.116.1, 13.116.25, 13.117.37). The added line is
   struck through: "not in the critical edition at any of the five places."
@@ -1189,12 +1219,11 @@ narrator reads the cue, not the English spelling.
   §24), never as content, never in a deck, never in audio as part of a saying. IPA strings
   contain combining characters; NFC applies to Devanagari fields only. §19's quiz key and
   every exercise key and model stay inside `<details>` in all renders.
-- **IPA decision (Pass A):** anusvāra where no stop follows (अहिंसा before स, सिंहस्य
-  before ह, हिंसा) is printed with STYLE_GUIDE §2's [m] value in /slashes/; the
-  nasalized-vowel value [ĩ] is given in brackets in §10 as equally correct. Reason: NFC
-  composes i + ◌̃ into the single character ĩ, which is outside the validator's §2 IPA
-  charset; the [m] value keeps the file warning-free without departing from §2. Sibling
-  reconciliation: v2.c06.l02's सिंहः should follow the same choice.
+- **IPA decision (Pass A):** anusvāra where no stop follows (अहिंसा before स, सिंहस्य before
+  ह, हिंसा) is printed with STYLE_GUIDE §2's nasalized-vowel value in /slashes/, as Volume 1
+  prints संस्कृतम् /sɐ̃skr̩t̪ɐm/ and as v2.c06.l02 and l05 print सिंहः and अहिंसा; §10 names
+  the [m] value as STYLE_GUIDE §2's other permitted value. The validator's IPA charset
+  accepts the NFC-composed ĩ, so the file stays warning-free.
 - **Sibling reconciliation (Pass D):** at drafting, only chapter.md was on disk for
   v2.c06; l01, l02, l04 and l05 were not. §3 quotes l02 §20's booking exactly as briefed;
   §3's answers and §6/§16/§17 rely on the fact base's l01 and l02 texts (research note §1,
@@ -1212,7 +1241,9 @@ narrator reads the cue, not the English spelling.
   Viṣṇuśarman), [REF:hitopadesha prastāvikā 36] and [REF:apte1890 s.v. सिध्] ("H. Pr. 36");
   no Pañcatantra locus cited (the §22 mention is locus-free by design). (4) Saying 3:
   TRADITION framing only; first line "not traced to any Purāṇa"; [REF:apte1890 s.v. पर]
-  for the line's currency; Sternbach's anthology is not cited (no key). (5) Glosses
+  for the line's currency; [REF:sternbach1974 3587] for the couplet;
+  [REF:panchatantra tantra 3] for the second line under another first line (Jha ed.
+  3.103, the cat's sermon; no verse number in the lesson). (5) Glosses
   against Apte s.vv. अहिंसा, परम, धर्म, उद्यम, सुप्त, मनस्, पर, पीडन, पुण्य, पाप; मृग
   "deer; wild animal". (6) Sandhi statements: Whitney §175, §213, §127, §476; Aṣṭādhyāyī
   6.1.114, 8.3.23, 6.1.87, 8.4.47 (verified in the research evidence); §287 for the "for"
@@ -1227,9 +1258,10 @@ narrator reads the cue, not the English spelling.
   vocative reading is described, not quoted); no 1.x text quoted (the 1.x note in §4 is a
   paraphrase of IR-039); no dates anywhere in the lesson; "descend" not used.
 - **Register audit:** FACT ×6 (§4 subhāṣita ×1 · §5 formulaic sequences + testing effect
-  ×2 · §8 अष्टादश + śloka shape ×2 · §15 four points ×1) · HISTORY ×4 (§4 critical
+  ×2 · §8 अष्टादश + śloka shape ×2 · §15 four points ×1) · HISTORY ×5 (§4 critical
   edition ×1 · §8 the five loci + 1.11.12 context ×1 · §8 the documented misquotation ×1
-  · §8 Hitopadeśa prastāvikā 36 ×1), every one with a REF · TRADITION ×1 (§8 the Vyāsa
+  · §8 Hitopadeśa prastāvikā 36 ×1 · §8 the couplet's anthology record and the
+  Pañcatantra line ×1), every one with a REF · TRADITION ×1 (§8 the Vyāsa
   couplet, attributed to the tradition of quoted sayings, assessed only "According to the
   tradition…" in Q8) · SYMBOL ×0. Quiz Q1–Q3, Q6, Q7, Q9, Q10 are FACT; Q4 and Q5 are
   cited HISTORY taught in this lesson (no dating involved); Q8 is TRADITION framed

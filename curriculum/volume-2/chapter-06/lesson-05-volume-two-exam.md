@@ -52,7 +52,7 @@ updated: 2026-10-25
 
 Volume 2 began with one question: अपि कुशलम्? Six chapters later you can count, name the
 day, conjugate a verb, ask why, buy something at a stall, and read two whole stories. You
-also know where those stories come from, which is more than the 1.x book knew. Today all
+also know where those stories are found, which the 1.x book never said. Today all
 of it counts at once. You hear a story, read another aloud, sort ten claims the volume
 taught you to check, and then tell a story yourself in Sanskrit you own. 360 words.
 Pass, and Volume 2 is complete.
@@ -93,7 +93,7 @@ sort.
 middle ~ मध्यम्. **Loan** (English took the word itself from Sanskrit): yoga ← योगः
 "yoking, union" (not युग) · karma ← कर्म. **Latin route** (an English word from Latin
 whose root is cognate with the Sanskrit one): dental (Latin *dēns*) · serpent (Latin
-*serpēns*) · video (Latin *videō* "I see"). **False:** juggle (from Latin *ioculārī* "to
+*serpēns*) · video (Latin *vidēre* "to see"). **False:** juggle (from Latin *ioculārī* "to
 jest"), unrelated to युग. 8+/10 clean → on to Station 1. → l04 §13; notes §0.9.
 </details>
 
@@ -113,7 +113,8 @@ jest"), unrelated to युग. 8+/10 clean → on to Station 1. → l04 §13; n
 3. It is an Aesopic fable ("The Crow and the Pitcher", Perry 390); its earliest known
    versions are Greek and Latin, and no version is known in the Pañcatantra, the
    Hitopadeśa or the Jātakas. Refused: "it does not come from India". The evidence shows
-   that no version is attested, and says nothing about origin. → l01 §4; §4 below.
+   that no version is attested in those books, and says nothing about
+   origin. → l01 §4; §4 below.
 </details>
 
 ### Station 2 — सिंहः मूषकः च (lesson 2)
@@ -145,7 +146,8 @@ jest"), unrelated to युग. 8+/10 clean → on to Station 1. → l04 §13; n
 1. अहिंसा परमो धर्मः: परमः + धर्मः → परमो धर्मः, because -अः becomes -ओ before a voiced
    consonant. → l03 §8, §15.
 2. "धर्महिंसा तथैव च". It is not in the critical edition of the Mahābhārata at any of the
-   line's five places; it is a documented modern misquotation, never scripture. → l03 §4.
+   line's five main-text places, and no source for it has been found: a documented
+   misquotation. → l03 §8.
 3. उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। "Tasks succeed through effort, not through
    wishing." Hitopadeśa, introduction (prastāvikā), verse 36. → l03 §8.
 </details>
@@ -163,8 +165,8 @@ jest"), unrelated to युग. 8+/10 clean → on to Station 1. → l04 §13; n
    poetry) given the modern sense "aeroplane". → l04 §13, §14.
 2. दूर "far" + दर्शन "seeing": a modern calque on *tele-vision*, labelled modern.
    → l04 §14.
-3. *Yoga* is a loan: English took the word itself from Sanskrit योग. *Video* is Latin
-   *videō* "I see", whose root is cognate with Sanskrit √विद् "know". English got it from
+3. *Yoga* is a loan: English took the word itself from Sanskrit योग. *Video* was built from Latin
+   *vidēre* "to see", whose root is cognate with Sanskrit √विद् "know". English got it from
    Latin, and Sanskrit lent nothing. → l04 §13.
 </details>
 
@@ -188,27 +190,34 @@ checkable sources. The 1.x course printed much of this material. The 2.0 course 
 and corrected it in the open, and today's exam tests only what the volume delivered.
 
 > **[HISTORY · इतिहासः]** "The Thirsty Crow" is an Aesopic fable ("The Crow and the
-> Pitcher", Perry 390). Its earliest known versions are Greek and Latin, and no version
-> is known in the Pañcatantra, the Hitopadeśa or the Jātakas; the "Pañcatantra story"
-> label it often carries today is modern. "The Lion and the Mouse" is also Aesopic
-> (Perry 150), and the same tale is told inside an Egyptian narrative written in Demotic
-> in the 2nd century CE. India's fable books have cousins of it: in Pūrṇabhadra's
-> recension of the Pañcatantra (Book 2), mice gnaw through the ropes that tie a herd of
-> elephants. Stories like these travelled widely; the course makes no claim about which
-> came first. [REF:perry1952] (nos. 390, 150); [REF:lichtheim1980]; [REF:ryder1925]
+> Pitcher", Perry 390). Its earliest known versions are Greek and Latin, and no version is
+> known in the Pañcatantra, the Hitopadeśa or the Jātakas; the "Pañcatantra story" label it
+> often carries today is modern. "The Lion and the Mouse" is also Aesopic (Perry 150), and
+> the same tale is told inside an Egyptian narrative written in Demotic in the 2nd century
+> CE. India's fable books have cousins of it: in Pūrṇabhadra's recension of the Pañcatantra
+> (Book 2), mice gnaw through the ropes that tie a herd of elephants. Stories like these
+> travelled widely; the course makes no claim about which came first.
+> [REF:perry1952 nos. 390, 150]; [REF:lichtheim1980 pp. 156–159];
+> [REF:ryder1925 Book II, "The Mice That Set Elephants Free"]
 
-> **[HISTORY · इतिहासः]** अहिंसा परमो धर्मः "non-harming is the highest dharma" occurs
-> five times in the critical edition of the Mahābhārata (1.11.12; 3.198.69; 13.116.1;
-> 13.116.25; 13.117.37). The popular continuation "धर्महिंसा तथैव च" is not in the
-> critical edition at any of these places; it is a documented modern misquotation.
-> उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः… is Hitopadeśa, introduction (prastāvikā),
-> verse 36. [REF:mahabharata 1.11.12]; [REF:hitopadesha prastāvikā 36]
+> **[HISTORY · इतिहासः]** अहिंसा परमो धर्मः "non-harming is the highest dharma" occurs five
+> times in the main text of the critical edition of the Mahābhārata (1.11.12; 3.198.69;
+> 13.116.1; 13.116.25; 13.117.37). The popular continuation "धर्महिंसा तथैव च" is not in the
+> critical edition at any of these places, and no source for it has been found: it is a
+> documented misquotation. उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः… is Hitopadeśa,
+> introduction (prastāvikā), verse 36. [REF:mahabharata 1.11.12];
+> [REF:hitopadesha prastāvikā 36]
 
 > **[TRADITION · परम्परा]** In the subhāṣita collections, परोपकारः पुण्याय पापाय
-> परपीडनम् is traditionally quoted as the two-word essence of Vyāsa's teaching, usually
-> after the line अष्टादशपुराणेषु व्यासस्य वचनद्वयम्. That first line is not traced to any
-> Purāṇa; it is a later summary that attributes the thought to Vyāsa.
+> परपीडनम् is traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas, summed up
+> in two sayings, usually after the line अष्टादशपुराणेषु व्यासस्य वचनद्वयम्. That first line
+> is not traced to any Purāṇa; it is a summary that attributes the thought to Vyāsa.
 > [REF:apte1890 s.v. पर]
+
+> **[HISTORY · इतिहासः]** The full couplet is recorded as no. 3587 of Sternbach's
+> Mahā-subhāṣita-saṃgraha, and its second line also stands, under a different first line,
+> in the Pañcatantra (textus simplicior, Book 3). [REF:sternbach1974 3587];
+> [REF:panchatantra tantra 3]
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
 > practice massed together. [REF:cepeda2006]
@@ -274,23 +283,23 @@ role-dependent endings (घटे, वने, सिंहस्य) read whole.
 स्वाभाविक गति से, और सबसे ऊपर हितोपदेश का श्लोक — उद्यमेन हि सिध्यन्ति कार्याणि न
 मनोरथैः।
 
-दूसरी — **कार्य E: कथा आपकी अपनी।** पिछले पाठ के गृहकार्य में आपने एक कथा चुनी थी। आज
-उसे बिना पन्ने के, अपनी संस्कृत में, कम से कम छह वाक्यों में सुनाना है। कथा को रटकर दोहराना
-नहीं है; उसे फिर से गढ़ना है। आप क्रम बदल सकते हैं, कोई छोटा ब्योरा छोड़ सकते हैं, और
-चाहें तो कौए को ख़ुद बोलने दें: अहम् पिपासितः अस्मि। अहम् पाषाणम् क्षिपामि। — "मैं"
-वाला रूप चौथे अध्याय के नियम से अपने-आप बनता है। शर्त बस इतनी है कि कथा वही रहे: शुरुआत,
-समस्या, मोड़, अन्त और नीति-वाक्य। उसके बाद पाँचवें अध्याय के भूमिका-कार्डों से एक छोटा
-संवाद होगा, जिसमें परीक्षक एक बार जान-बूझकर तेज़ बोलेगा। तब चुप मत होइए; कहिए — अहम्
-न अवगच्छामि। भवान् पुनः वदतु।
+दूसरी — **कार्य E: कथा आपकी अपनी।** पिछले पाठ के गृहकार्य में आपने एक कथा चुनी थी। आज उसे
+बिना पन्ने के, अपनी संस्कृत में, कम से कम छह वाक्यों में सुनाना है। कथा को रटकर दोहराना नहीं
+है; उसे फिर से गढ़ना है। आप क्रम बदल सकते हैं, कोई छोटा ब्योरा छोड़ सकते हैं, और चाहें तो
+कौए को ख़ुद बोलने दें: अहम् पिपासितः अस्मि। अहम् पाषाणम् क्षिपामि। — "मैं" वाला रूप क्षिपामि
+चौथे अध्याय के नियम से बनता है; अस्मि पहचान-त्रयी का रूप है, जिसे पूरे शब्द की तरह याद किया
+जाता है। शर्त बस इतनी है कि कथा वही रहे: शुरुआत, समस्या, मोड़, अन्त और नीति-वाक्य। उसके बाद
+पाँचवें अध्याय के भूमिका-कार्डों से एक छोटा संवाद होगा, जिसमें परीक्षक एक बार जान-बूझकर तेज़
+बोलेगा। तब चुप मत होइए; कहिए — अहम् न अवगच्छामि। भवान् पुनः वदतु।
 
-तीसरी — **ईमानदारी की छँटाई।** दस कार्ड, पूरे खण्ड से। हर कार्ड पर निर्णय (तथ्य या
-अस्वीकार) और एक तर्क-पंक्ति। "धन्यवादः रोज़ के 'thank you' के रूप में शास्त्रीय प्रयोग है"
-— अस्वीकार: शब्द पुराना है, पर रोज़ का धन्यवाद आधुनिक चलन है। "प्यासे कौए की कथा
-पञ्चतन्त्र की है" — अस्वीकार: पञ्चतन्त्र, हितोपदेश या जातकों में इसका कोई ज्ञात रूप
-नहीं; यह ईसप की कथा-परम्परा की है। पर ध्यान रहे, हम यह भी नहीं कहते कि "यह भारत से नहीं
-आई" — प्रमाण केवल इतना बताता है कि कोई भारतीय रूप दर्ज नहीं है। "Video संस्कृत की विद्
-धातु से आया" — अस्वीकार: video लैटिन videō से आया, जिसकी धातु विद् की सजात है।
-जितना पक्का है उतना कहना, उससे ज़्यादा नहीं — यही इस खण्ड की सबसे बड़ी सीख है।
+तीसरी — **ईमानदारी की छँटाई।** दस कार्ड, पूरे खण्ड से। हर कार्ड पर निर्णय (तथ्य या अस्वीकार)
+और एक तर्क-पंक्ति। "धन्यवादः रोज़ के 'thank you' के रूप में शास्त्रीय प्रयोग है" — अस्वीकार:
+शब्द पुराना है, पर रोज़ का धन्यवाद आधुनिक चलन है। "प्यासे कौए की कथा पञ्चतन्त्र की है" —
+अस्वीकार: पञ्चतन्त्र, हितोपदेश या जातकों में इसका कोई ज्ञात रूप नहीं; यह ईसप की कथा-परम्परा
+की है। पर ध्यान रहे, हम यह भी नहीं कहते कि "यह भारत से नहीं आई" — प्रमाण केवल इतना बताता है
+कि पुराने भारतीय कथा-ग्रन्थों में इसका कोई रूप दर्ज नहीं मिलता। "Video संस्कृत की विद् धातु
+से आया" — अस्वीकार: video लैटिन vidēre ("देखना") से बना, जिसकी धातु विद् की सजात है। जितना
+पक्का है उतना कहना, उससे ज़्यादा नहीं — यही इस खण्ड की सबसे बड़ी सीख है।
 
 ## 8. English Explanation
 
@@ -389,7 +398,7 @@ chapters: धन्यवादः /d̪ʱɐn̪jɐʋɑːd̪ɐh/ · मह्य�
 | # | Error | Surfaces in | Fix |
 |---|---|---|---|
 | 1 | "The thirsty crow is a Pañcatantra story", or the overcorrection "it does not come from India" | D, §19 | l01 §4: no known version in the Indian fable books; absence of attestation, not a claim about origin |
-| 2 | "धर्महिंसा तथैव च" recited as part of the Mahābhārata line | C, D | l03 §4: not in the critical edition; a documented misquotation |
+| 2 | "धर्महिंसा तथैव च" recited as part of the Mahābhārata line | D, Station 3 | l03 §8: not in the critical edition; a documented misquotation |
 | 3 | One-way arrows for every look-alike: *video*, *serpent*, *ignite* "from Sanskrit"; *juggle* from युग | D, Station 0, §19 | l04 §13: the four kinds; Latin route is not a loan from Sanskrit |
 | 4 | "मान means vehicle" in विमानम् | §19 | l04 §13: वि + √मा; a classical word with a modern sense |
 | 5 | The moral's seam described as "the visarga turns a into o" | §19 | l02 §15: the whole ending -अः becomes -ओ; the अ after it drops, marked ऽ |
@@ -422,16 +431,16 @@ owned Sanskrit, with the original's words reused and its order changed:
 
 In Hindi: एक बार एक शेर जंगल में सोता है। एक चूहा आता है। शेर क्रोधित होकर चूहे को पकड़
 लेता है। चूहा कहता है — मुझे छोड़ दो! शेर हँसता है और चूहे को छोड़ देता है। एक दिन शेर
-जाल में बँध जाता है। चूहा जाल काट देता है। शेर मुक्त और सुखी हो जाता है। कोई भी छोटा
+जाल में फँस जाता है। चूहा जाल काट देता है। शेर मुक्त और सुखी हो जाता है। कोई भी छोटा
 नहीं है।
 
-Why it scores in full: एकदा moved to the opening; the "friend" line was cut and the
-story still turns; सुखी was borrowed from the crow story; every verb is a he-form the
-learner owns; वने, जाले and माम् are the story's own whole-word forms. Beginning, problem,
-turn, ending and moral are all there.
+Why it scores in full: एकदा also opens the story; the "friend" line was cut and the story
+still turns; सुखी was borrowed from the crow story; every verb but the quoted you-form मुञ्च
+is a he-form the learner owns; वने, जाले and माम् are the story's own whole-word forms.
+Beginning, problem, turn, ending and moral are all there.
 
 **Model honesty cards (task D).** Card: "The thirsty-crow story is a Pañcatantra tale."
-It sounds right, and many school readers print it that way. But it names a source, so
+It sounds right, and many children's storybooks print it that way. But it names a source, so
 it must survive a source-check, and it does not: no version is known in the Pañcatantra,
 the Hitopadeśa or the Jātakas. **Reject**, and replace rather than just delete: "an
 Aesopic fable (Perry 390); the Pañcatantra label is modern" is the full-credit line.
@@ -489,7 +498,11 @@ deferral tracker handed on to Volume 3.
 > **The request chunks:** वदतु, ददातु, अस्तु, मुञ्च are imperatives learned whole.
 > **Pause form:** every word complete at every seam. **The seams seen, not yet taught:**
 > a final -अः becomes -ओ before a voiced consonant (परमः धर्मः → परमो धर्मः), and before
-> अ, where the अ also drops, marked ऽ (कः अपि → कोऽपि). [REF:whitney1889]; [REF:apte1890]
+> अ, where the अ also drops, marked ऽ (कः अपि → कोऽपि). This holds for an -अः that stands for
+> -अस्, as in परमः and कः; सः and एषः drop the ः before any consonant, and पुनः, whose -अः
+> stands for -अर्, keeps its र्: पुनर्मिलामः, पुनरपि. [REF:whitney1889 §175];
+> [REF:whitney1889 §135]; [REF:whitney1889 §16]; [REF:whitney1889 §176];
+> [REF:whitney1889 §178]; [REF:whitney1889]; [REF:apte1890]
 
 > **[FACT · तथ्यम्]** **The direction toolkit:** a **cognate** pair shares descent from
 > one ancestor, and nobody borrowed (माता ~ Latin *māter* ~ *mother*). A **loan** is a word
@@ -579,10 +592,11 @@ English, Hindi.
    (aham sukhī asmi. buddhiḥ eva balam!) "I am happy. Intelligence itself is strength!"
    — मैं सुखी हूँ। बुद्धि ही बल है!
 
-Three honest footnotes. Every verb is built by the Chapter 4 pattern: क्षिपामि from
-क्षिपति, पश्यामि, पिबामि, इच्छामि, each with the stretch to -आमि. Line 5 keeps one
-he-form, because the water is still a "he/she/it". And घटे and अल्पम् जलम् are the
-story's own phrases, kept whole; the case and the agreement behind them are Volume 3's.
+Three honest footnotes. Every I-form here except अस्मि is built by the Chapter 4 pattern:
+क्षिपामि from क्षिपति, पश्यामि, पिबामि, इच्छामि, each with the stretch to -आमि; अस्मि "I am"
+is the identity trio's I-form, learned whole (v1.c05.l02; v2.c04.l02 §15). Lines 3 and 5
+each keep one he-form, because the water is still a "he/she/it". And घटे and अल्पम् जलम् are
+the story's own phrases, kept whole; the case and the agreement behind them are Volume 3's.
 
 Now rehearse your own chosen story twice before the exam block: once slowly with every
 seam open, once at natural pace, no page in hand. If you chose the crow, try telling it
@@ -692,9 +706,9 @@ Once, anywhere in the take, the examiner rushes a line. Rescue it: अहम् 
 2. कर्म → *karma* is a loan: English took the word from Sanskrit. माता ~ *mother* and
    दुहिता ~ *daughter* are cognates: shared descent from one ancestor, and nobody
    borrowed (v2.c02.l02 §13).
-3. *November* is Latin *novem* "nine": the ninth month of the old Roman year, which began
-   in March. Sanskrit नव and Latin *novem* are cognates, siblings by descent; नव is not
-   the source (v2.c03.l02 §13).
+3. *November* is named from Latin *novem* "nine": it was the ninth month of the old Roman
+   year, which began in March. Sanskrit नव and Latin *novem* are cognates, siblings by
+   descent; नव is not the source (v2.c03.l02 §13).
 4. पिबामि (I) · पिबसि (you) · पिबति (he/she/it). -ति marks the person, not the time: it
    is not a future (v2.c04.l02 §15).
 5. अहम् न अवगच्छामि। → भवान् पुनः वदतु। → कृपया मन्दम् वदतु। The speaker grants it with
@@ -708,8 +722,9 @@ Once, anywhere in the take, the examiner rushes a line. Rescue it: अहम् 
    disappears, marked by the avagraha ऽ. Avoid: "the visarga turns the a into o" (l02
    §15; §15 above).
 8. (a) Hitopadeśa, introduction (prastāvikā), verse 36. (b) Vyāsa's: the line is
-   traditionally quoted as the two-word essence of his teaching. The line usually quoted
-   before it is not traced to any Purāṇa; it is a later summary (§4; l03 §8).
+   traditionally quoted as his teaching in the eighteen Purāṇas, summed up in two sayings.
+   The line usually quoted before it is not traced to any Purāṇa; it is a summary that
+   credits the thought to Vyāsa and speaks of him from outside (§4; l03 §8).
 9. *name* ~ नाम cognate · *yoga* ← योगः loan · *October* Latin route (Latin *octō*,
    cognate with अष्ट) · *juggle* false (Latin *ioculārī*, unrelated to युग) (l04 §13;
    v2.c03.l02 §13).
@@ -750,16 +765,16 @@ track. Scored on the §22 rubric.
 
 D — 1 **reject** (the word is attested, but its everyday "thank you" use is a modern
 spoken convention; v2.c01.l04 §15) · 2 **FACT** (shared descent from one reconstructed
-ancestor; no arrow, nobody borrowed; v2.c02.l02 §13) · 3 **reject** (October is Latin
-*octō*, the eighth month of the old Roman year; अष्ट and *octō* are cognates, so
+ancestor; no arrow, nobody borrowed; v2.c02.l02 §13) · 3 **reject** (October is named from Latin
+*octō* "eight": it was the eighth month of the old Roman year; अष्ट and *octō* are cognates, so
 the English word took the Latin route; v2.c03.l02 §13) · 4 **FACT** (a loan into Sanskrit
 from Greek *hṓra*, arriving with Hellenistic astronomy; HISTORY also scores if the
 reasoning keeps that coarse dating; v2.c03.l03 §4, §13) · 5 **reject** (an Aesopic fable,
 Perry 390; no version is known in the Pañcatantra, the Hitopadeśa or the Jātakas; the
 label is modern. "It doesn't come from India" does NOT score: that overclaims the other
-way; §4) · 6 **reject** (the line occurs five times in the critical edition and the
+way; §4) · 6 **reject** (the line occurs five times in the critical edition's main text and the
 continuation is at none of them; a documented misquotation; §4) · 7 **reject** (*video*
-is Latin *videō* "I see"; its root is cognate with √विद् "know", but the word reached
+was built from Latin *vidēre* "to see"; its root is cognate with √विद् "know", but the word reached
 English from Latin; l04 §13) · 8 **FACT** (English took the word itself from योग
 "yoking, union", not from युग; l04 §13) · 9 **reject** (literally "it pleases me": the
 liked thing is the subject, and मह्यम् "to me" names the liker; v2.c05.l03 §15) · 10
@@ -793,7 +808,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - +1 day: the dictation set re-run cold, plus the ten honesty cards sorted once more
   with the key closed.
-- +1 week: one story retold cold and one role-card conversation — v3.c01.l01's Station 0 runs exactly this.
+- +1 week: one story retold cold and one role-card conversation — v3.c01.l01's Station 0
+  runs exactly this.
 - **Monthly until Volume 3 ends:** one story told aloud, one saying recited with its
   source, the nine askers once. Five minutes that keep six chapters warm. Volume 3
   (व्याकरणम् — Core Grammar) is being written next.
@@ -807,8 +823,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
    recording (the courtesy ladder) if you kept it. The first is a greeting; the last is a
    story you told. That pair is Volume 2 in your own voice.
 3. **(5 min, real world)** Tell the thirsty-crow story to someone at home, in any
-   language, and finish with its honest history: an Aesopic fable, loved across India,
-   with no known version in the Pañcatantra. Watch their face at the last part.
+   language, and finish with its honest history: an Aesopic fable, told in Hindi as
+   प्यासा कौआ, with no known version in the Pañcatantra. Watch their face at the last part.
 4. **(5 min, teach-back)** Teach someone the four kinds with one example each: *mother*
    (cognate), *yoga* (loan), *video* (Latin route), *juggle* (false). If they ask
    "so English comes from Sanskrit?", you have the honest answer.
@@ -831,7 +847,7 @@ recorded slots; schedule it, and say why.
 | A (12) | 10–12 | 8–9 | conversation items missed → v2.c05.l01 §15 asker table, re-heard; story items missed → l02's story at the three speeds (l02 §9), then a task A re-run |
 | B (10+2) | 8–10 + both sentences intact | 7, or one sentence with one slip | welds split or seam vowels → v2.c05.l03 §9 drills and the source lesson's §14 rows re-copied; ष/श/स swaps → v2.c03.l04 §9; dropped finals → §9's pause-form check |
 | C (ladder) | complete; ≤5 errors; rung 5 under 40 s; verse ≤1 slip | ≤8 errors, or rung 5 under 55 s | rung 1 → v2.c01.l02 §9; rung 2 → v2.c02.l02 §8; rung 3 → v2.c03.l04 §15; rung 4 → v2.c04.l04 §9; rung 5 → l01's three-speed protocol (l01 §9); rung 6 → l03 §9 recitation pass |
-| D (10) | 8–10 reasoned | 6–7 | card 1 → v2.c01.l04 §15; 2 → v2.c02.l02 §13; 3 → v2.c03.l02 §13; 4 → v2.c03.l03 §13; 5 → l01 §4; 6 → l03 §4; 7–8 → l04 §13; 9 → v2.c05.l03 §15; 10 → v2.c04.l02 §15 |
+| D (10) | 8–10 reasoned | 6–7 | card 1 → v2.c01.l04 §15; 2 → v2.c02.l02 §13; 3 → v2.c03.l02 §13; 4 → v2.c03.l03 §13; 5 → l01 §4; 6 → l03 §8; 7–8 → l04 §13; 9 → v2.c05.l03 §15; 10 → v2.c04.l02 §15 |
 | E1 (retelling) | 6+ sentences; five beats; moral; ≤3 slips | 4–5 sentences, or one beat missing, or 4–6 slips | person slips → v2.c04.l02 §15; recitation only, or stalls → §17's I-form exercise and l01/l02 §17 re-told twice; plurals or tenses imported → §15 deferral tracker |
 | E2 (5 moves) | all five unprompted + the rush rescued | one move prompted or missing | froze at the rush → v2.c05.l02 §8 chain at speed; liking from अहम् → v2.c05.l03 §15; skipped move → §18's move list as a cue card, re-run tomorrow |
 
@@ -939,7 +955,7 @@ Timed narration; Sanskrit terms carry IPA cues, and the narrator follows the cue
 
 30–45 s vertical. **Hook** (0–6 s): a crow at a pot, big text "Is this a Pañcatantra
 story?" **Demo** (6–24 s): "No known version is in the Pañcatantra. It's an Aesopic fable,
-and India made it one of its best-loved children's stories." Cut: एकः काकः अस्ति… read at
+retold in Hindi as प्यासा कौआ." Cut: एकः काकः अस्ति… read at
 natural speed by a learner, then retold in the I-form: अहम् काकः अस्मि। अहम् पाषाणम्
 क्षिपामि। **Payoff** (24–38 s), the bridge on screen, two columns. **What you can now
 do:** greet and take leave with honest labels; introduce your family; count, name the day
@@ -962,8 +978,8 @@ Grammar, starting with v3.c01 सुबन्तप्रवेशः — Nouns 
   when this draft closed. The validator's unknown-id errors for v2.c06.l01–l04 in
   `review_of` are expected until they land. Every pointer into them follows the binding
   contracts and is **assumed — verify at review**: l01 §4 (HISTORY callout), §9 (three
-  speeds), §14, §17 (the story text); l02 §4, §9, §14, §15 (the कोऽपि seam), §17; l03 §4
-  (the misquotation), §8 (the three sayings with sources), §9, §14, §15 (the परमो seam);
+  speeds), §14, §17 (the story text); l02 §4, §9, §14, §15 (the कोऽपि seam), §17; l03 §8
+  (the misquotation and the three sayings with sources), §9, §14, §15 (the परमो seam);
   l04 §13 (the four-kind sort, विमान), §14, §20 (the +1-day booking, run verbatim in §3
   Station 0), §21 (one story chosen, the two v2.c05 cards packed). Station 0's ten pairs
   are drawn from notes §0.9; if l04 §20 or §21 names its own ten, swap them in. The two
@@ -978,7 +994,7 @@ Grammar, starting with v3.c01 सुबन्तप्रवेशः — Nouns 
   cards); v2.c05.l05 §16 (परीक्षा display-only).
 - **Task D card sources:** 1 ← v2.c01.l04 §13–§15 (also v2.c01.l05 D1) · 2 ← v2.c02.l02
   §13 · 3 ← v2.c03.l02 §13 · 4 ← v2.c03.l03 §4, §13 · 5 ← v2.c06.l01 §4 (notes §0.1;
-  assumed) · 6 ← v2.c06.l03 §4 (notes §0.6; assumed) · 7 ← v2.c06.l04 §13 (notes §0.9;
+  assumed) · 6 ← v2.c06.l03 §8 (notes §0.6; assumed) · 7 ← v2.c06.l04 §13 (notes §0.9;
   assumed) · 8 ← v2.c06.l04 §13 (notes §0.9; assumed) · 9 ← v2.c05.l03 §8, §15 · 10 ←
   v2.c04.l02 §4, §15. Verdicts: FACT 2, 4, 8, 10; reject 1, 3, 5, 6, 7, 9.
 - **Integrator notes:** volume ledger = 237 + 123 = **360**; chapter exits 258 · 277 · 297
@@ -994,20 +1010,21 @@ Grammar, starting with v3.c01 सुबन्तप्रवेशः — Nouns 
   prastāvikā 36, no Pañcatantra locus (notes §0.7); परोपकारः in TRADITION framing, first
   line not traced to a Purāṇa (notes §0.8); four-kind verdicts against [REF:mallory2006]
   and [REF:oed] (notes §0.9), incl. *October* as Latin route in Q9; विमान from वि + √मा
-  (notes §0.10); sandhi wording per notes §0.5–§0.6; Whitney cited bare; no time-depth
+  (notes §0.10); sandhi wording per notes §0.5–§0.6,
+  against Whitney §175, §135, §16, §176 and §178; Whitney otherwise cited bare; no time-depth
   figure for any reconstruction; 1.x paraphrased throughout, never quoted.
 - **Policy audit:** pause form throughout (joined forms कोऽपि, परमो धर्मः shown only as
-  labelled seams); present singular only, the 1sg crow built by the c04 pattern; no
-  plurals produced; no case teaching (घटे, वने, सिंहस्य, माम्, मह्यम् read whole); no
-  vocatives (names appear only in मम नाम …); usage labels on धन्यवादः, सुप्रभातम्,
-  कृपया, विमानम्, दूरदर्शनम्; परीक्षा display-only; "descent" used only of cognacy (§3,
-  §15, §19).
+  labelled seams); present singular only, the 1sg crow built by the c04 pattern except
+  अस्मि, kept whole as in v2.c04.l02 §15; no plurals produced; no case teaching (घटे, वने,
+  सिंहस्य, माम्, मह्यम् read whole); no vocatives (names appear only in मम नाम …); usage
+  labels on धन्यवादः, सुप्रभातम्, कृपया, विमानम्, दूरदर्शनम्; परीक्षा display-only;
+  "descent" used only of cognacy (§3, §15, §19).
 - **Register audit:** FACT ×5 (§4 spacing · §5 testing effect · §15 volume rules · §15
-  direction toolkit · Station keys' FACT items) · HISTORY ×2 (§4 fable origins; §4 verse
-  sources, each with REFs) · TRADITION ×1 (§4 परोपकारः, attributed) · SYMBOL ×0. Task D
-  and §19 assess FACT content, the two cited HISTORY callouts with their hedges kept
-  (cards 4–6; Q6, Q8a), and TRADITION only as "According to…" (Q8b), per STYLE_GUIDE §4
-  rule 4.
+  direction toolkit · Station keys' FACT items) · HISTORY ×3 (§4 fable origins; §4 verse
+  sources; §4 the couplet's records, each with REFs) · TRADITION ×1 (§4 परोपकारः,
+  attributed) · SYMBOL ×0. Task D and §19 assess FACT content, the two cited HISTORY
+  callouts with their hedges kept (cards 4–6; Q6, Q8a), and TRADITION only as "According
+  to…" (Q8b), per STYLE_GUIDE §4 rule 4.
 - **Related lessons:** consolidates v2.c06.l01–l04 and reaches back through v2.c05.l05
   and v2.c04.l05 to the whole volume. Station 0 runs l04 §20's +1-day booking; l01's
   Station 0 carried v2.c05.l05's +1-week; this exam's +1-week (§20) is booked for

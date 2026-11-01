@@ -15,23 +15,24 @@ updated: 2026-10-25
 
 # Chapter 6 — कथाः शब्दयात्राश्च · Stories & Word Journeys
 
-Volume 2 ends where reading begins: the learner reads whole stories, recites real
-wisdom verses, and follows words across languages. The two stories are the graded readers
-the 1.x course printed — the thirsty crow and the lion and the mouse — retold within
-the toolkit and given their true history. Both are Aesopic fables. No version is known
-in the Pañcatantra, and the course says so, while showing the Indian cousin of the lion
-story, in which mice gnaw an elephant herd free. The three sayings come with sources a
-reader can check, and one popular misquotation of अहिंसा परमो धर्मः is exposed. The
-word-journey lesson re-sorts the 1.x "English from Sanskrit" list into four honest kinds
-(cognate, loan, Latin route, false) and corrects its errors: *video*, *ignite* and
-*serpent* came to English through Latin, and *juggle* is unrelated to yoke. The chapter
+Volume 2 ends where reading begins: the learner reads whole stories, recites real wisdom
+verses, and follows words across languages. The two stories are the graded readers the 1.x
+course printed — the thirsty crow and the lion and the mouse — retold within the toolkit and
+given their true history. Both are Aesopic fables. No version is known in the Pañcatantra,
+and the course says so, while showing the Indian cousins of the lion story — in one, from
+Pūrṇabhadra's Pañcatantra, mice gnaw an elephant herd free. The three sayings come with
+source lines as firm as the evidence, and one popular misquotation of अहिंसा परमो धर्मः is
+exposed. The word-journey lesson re-sorts the 1.x "English from Sanskrit" list into four
+honest kinds (cognate, loan, Latin route, false) and corrects its errors: *video*, *ignite*
+and *serpent* came to English through Latin, and *juggle* is unrelated to yoke. The chapter
 closes with the Volume 2 exam.
 
 ## Goals
 
 - Read two graded stories at pace, retell them, and answer questions with the nine askers
-- Give each story's true history (Aesopic fables; the Pañcatantra's cousin of the lion story)
-- Recite and explain three sayings with checkable sources; spot a famous misquotation
+- Give each story's true history (Aesopic fables; the lion story's Indian cousins in
+  Pūrṇabhadra's Pañcatantra and the Hitopadeśa)
+- Recite and explain three sayings with honest source lines; spot a famous misquotation
 - Sort word pairs into cognate, loan, Latin route or false, and correct the 1.x arrows
 - Label modern Sanskrit coinages honestly, and pass the Volume 2 exam
 
@@ -59,7 +60,7 @@ By the end of this chapter the learner can:
 ## Assets manifest
 
 All `planned:`; per-lesson §23–24 prompts: illustrated story strips for both fables, the
-three-speed story audio, a "where stories travel" map with hedged arrows, the three
+three-speed story audio, a "where the stories are found" map with no arrows, the three
 sayings as recitation cards, the four-kind word-journey sorter, the Volume 2 exam booklet,
 chapter quiz and key.
 

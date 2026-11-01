@@ -53,7 +53,7 @@ updated: 2026-10-25
 A lion asleep in the forest, a mouse that walks across him, a paw that comes down — and a
 plea the lion finds so funny that he lets the mouse go. You may have heard it in Hindi as a
 child. Today you read it in Sanskrit: eleven lines, eleven new words, and a moral you will
-say two ways, once with the words apart and once joined. And you will learn what many
+say two ways, once with the words apart and once joined. And you will learn what some
 retellings get wrong about it: no lion-and-mouse version is known in the Pañcatantra — but
 India's fable books do have its cousins, and in one of them mice gnaw a whole herd of
 elephants free.
@@ -81,8 +81,9 @@ prompts. Everything from memory *before* any key opens [REF:roediger2006].
 
 ### Station 0 — lesson 1's +1-day arrives
 
-v2.c06.l01 §20 booked today's station in one line: "+1 day: the crow story read once at natural speed, timed and logged, and retold in five sentences without the text."
-Run exactly that — about four minutes, scores logged beside lesson 1's [REF:cepeda2006].
+v2.c06.l01 §20 booked today's station in one line: "+1 day: the crow story read once at
+natural speed, timed and logged, and retold in five sentences without the text." Run exactly
+that — about four minutes, scores logged beside lesson 1's [REF:cepeda2006].
 
 1. **One natural-speed read, timed.** The crow story from v2.c06.l01 §17, once, at
    sentence pace — whole words, a breath at each daṇḍa. Stop the clock on the moral and
@@ -129,16 +130,16 @@ course.
 
 > **[HISTORY · इतिहासः]** "The Lion and the Mouse" is an Aesopic fable: no. 150 in B.E.
 > Perry's catalogue of the fables of Aesop. [REF:perry1952 no. 150] The same tale — a lion
-> spares a mouse, and the mouse later frees him by gnawing through ropes — is also told
+> spares a mouse, and the mouse later frees him by gnawing through his bonds — is also told
 > inside an Egyptian narrative written in Demotic in the 2nd century CE, the "Myth of the
-> Sun's Eye". [REF:lichtheim1980] No lion-and-mouse version is known in the Pañcatantra or
-> the Hitopadeśa, but India's fable books have cousins of it. In Pūrṇabhadra's recension of
-> the Pañcatantra (1199 CE), Book 2, mice repay a herd of elephants by gnawing through the
-> ropes that tie them after a trap has caught the herd [REF:ryder1925 Book II, "The Mice
-> That Set Elephants Free"]; and in the frame story of the first book of the Hitopadeśa, a
-> mouse gnaws through a net to free a flock of birds [REF:hitopadesha mitralābha]. Stories
-> like these travelled widely. Scholars disagree about the routes, and the course makes no
-> claim about which came first.
+> Sun's Eye". [REF:lichtheim1980 pp. 156–159] No lion-and-mouse version is known in the
+> Pañcatantra or the Hitopadeśa, but India's fable books have cousins of it. In
+> Pūrṇabhadra's recension of the Pañcatantra (1199 CE), Book 2, mice repay a herd of
+> elephants by gnawing through the ropes that tie them after a trap has caught the herd
+> [REF:ryder1925 Book II, "The Mice That Set Elephants Free"]; and in the frame story of the
+> first book of the Hitopadeśa, a mouse gnaws through a net to free a flock of birds
+> [REF:hitopadesha mitralābha]. Stories like these travelled widely. Scholars disagree about
+> the routes, and the course makes no claim about which came first.
 
 Read that callout twice, because every clause is doing a job. *Aesopic* says where the
 lion-and-mouse telling is best known. *Also told* in Egypt says the tale was in circulation
@@ -147,17 +148,18 @@ creature who frees the great one — with other animals. And the last sentence r
 two easy stories people like to tell: "India invented it and the Greeks copied" and "the
 Greeks invented it and India borrowed". The evidence supports neither.
 
-> **[TRADITION · परम्परा]** In Pūrṇabhadra's Pañcatantra, Book 2 ("Winning Friends"), the
-> deer Citrāṅga asks to join three friends — a mouse, a crow and a turtle. To show that
-> small creatures make worthy friends, he tells how mice once freed a herd of elephants by
-> gnawing through the ropes that tied them to trees after a king's trappers had caught
-> them. Ryder's English gives the point as a verse: "Make friends, make friends, however
-> strong or weak they be: / Recall the captive elephants that mice set free."
-> [REF:ryder1925 Book II, "The Mice That Set Elephants Free"]
+> **[TRADITION · परम्परा]** In Pūrṇabhadra's Pañcatantra, Book 2 ("The Winning of Friends"
+> in Ryder's English), the deer Citrāṅga asks to join three friends — a mouse, a crow and a
+> turtle. To show that small creatures make worthy friends, he tells how mice once freed a
+> herd of elephants by gnawing through the ropes that tied them to trees after a king's
+> trappers had caught them. Ryder's English gives the point as a verse: "Make friends, make
+> friends, however strong or weak they be: / Recall the captive elephants that mice set
+> free." [REF:ryder1925 Book II, "The Mice That Set Elephants Free"]
 
 Notice the detail the course keeps right: in that story the elephants are tied with ropes
-after a trap, not caught in nets. Nets belong to the Hitopadeśa's birds — and to modern
-retellings that blend the two.
+after a trap, not caught in nets. Nets belong to the pigeons that open the book of friends —
+Pañcatantra Book 2 [REF:panchatantra tantra 2, frame story], Hitopadeśa Book 1
+[REF:hitopadesha mitralābha] — and to modern retellings that blend the two stories.
 
 One line of course history. The 1.x graded reader printed a "Lion & Mouse" text; it is
 today's starting point, and four of its choices are changed in the open (§8). The Sanskrit
@@ -233,12 +235,12 @@ usually show it. Same sentence, same meaning; only the writing differs (§15).
 ढंग से बनाती हैं, ठीक शृणोति और जानाति की तरह। इन्हें पूरे शब्द की तरह याद रखिए,
 जोड़-तोड़ से मत बनाइए।
 
-कथा के बीच चूहा शेर से कहता है — माम् मुञ्च! — मुझे छोड़ दो! यह मुञ्च आज्ञा या विनती
-का रूप है, वही भाव जो आपने अध्याय 5 में वदतु और ददातु में सीखा था। अन्तर एक ही है:
-वदतु और ददातु आदर वाले भवान् के साथ चलने वाले वह-रूप हैं, जबकि मुञ्च त्वम् से कहा
-जाने वाला तुम-रूप है — जैसे हिन्दी में "छोड़िए" और "छोड़ो"। कथा में जानवर एक-दूसरे
-से तुम कहकर ही बात करते हैं। आज्ञा-भाव की पूरी व्यवस्था खण्ड 3–4 में आएगी; आज मुञ्च
-एक पूरा शब्द है।
+कथा के बीच चूहा शेर से कहता है — माम् मुञ्च! — मुझे छोड़ दो! यह मुञ्च आज्ञा या विनती का रूप
+है, वही भाव जो आपने अध्याय 5 में वदतु और ददातु में सीखा था। अन्तर एक ही है: वदतु और ददातु
+आदर वाले भवान् के साथ चलने वाले वह-रूप हैं, जबकि मुञ्च त्वम् से कहा जाने वाला तुम-रूप है —
+जैसे हिन्दी में "छोड़िए" और "छोड़ो"। हमारी कथा में चूहा शेर से तुम कहकर ही बात करता है; पर
+भारत की पुरानी कथा-पुस्तकों में जानवर एक-दूसरे को भवान् भी कहते हैं। आज्ञा-भाव की पूरी
+व्यवस्था खण्ड 3–4 में आएगी; आज मुञ्च एक पूरा शब्द है।
 
 कुछ शब्द कथा में अपनी भूमिका के हिसाब से रूप बदलकर आते हैं: वने — वन में; सिंहस्य —
 शेर का; मूषकम् — चूहे को; माम् — मुझे; जाले — जाल में; जालम् — जाल को। हिन्दी यह
@@ -254,7 +256,7 @@ usually show it. Same sentence, same meaning; only the writing differs (§15).
 में देख चुके हैं — सः और अहम्। ध्यान रहे: "विसर्ग अ को ओ बना देता है" कहना ग़लत वर्णन
 है; बदलता पूरा -अः है।
 
-अन्त में इतिहास, ईमानदारी से। बहुत-सी किताबें इसे पञ्चतन्त्र की कहानी कहती हैं। सच यह
+अन्त में इतिहास, ईमानदारी से। कहीं-कहीं इसे पञ्चतन्त्र की कहानी कहा जाता है। सच यह
 है कि यह ईसप की परम्परा की कथा है, और यही कथा दूसरी शताब्दी ईसवी में डेमोटिक में लिखे
 गए एक मिस्री आख्यान में भी मिलती है। शेर और चूहे वाला कोई रूप पञ्चतन्त्र या हितोपदेश
 में ज्ञात नहीं; पर भारत की कथा-पुस्तकों में इसकी बहनें हैं — पूर्णभद्र के पञ्चतन्त्र में
@@ -292,14 +294,16 @@ still *parse* them by their tails: -ति is he/she/it. §15 shows their rows, 
 
 ### मुञ्च — one honest line
 
-The mouse's plea is **माम् मुञ्च!** (mām muñca!) "Let me go!" The honest line: **मुञ्च is
-an imperative — the command/request mood of वदतु and ददातु — in the you-form.** वदतु and
-ददातु are that mood's he-forms, which walk with भवान् (v2.c05.l02, v2.c05.l04); मुञ्च is
-what you say to someone you address as त्वम्, the familiar way — the shape of पश्य!
-"look!" and क्षमस्व "forgive (me)" before it. Animals in fables address each other as
-त्वम्, so the mouse uses it to the lion. The mood's full set of forms waits for Volume
-3/4; today मुञ्च is one whole word, and it counts as its own readable word: मुञ्चति is its
-relative, not its duplicate (STYLE_GUIDE §8 rule 4).
+The mouse's plea is **माम् मुञ्च!** (mām muñca!) "Let me go!" The honest line: **मुञ्च is an
+imperative — the command/request mood of वदतु and ददातु — in the you-form.** वदतु and ददातु
+are that mood's he-forms, which walk with भवान् (v2.c05.l02, v2.c05.l04); मुञ्च is what you
+say to someone you address as त्वम्, the familiar way — the shape of पश्य! "look!" before
+it; क्षमस्व "forgive (me)" is the same mood and person with a different ending, -स्व. In
+this telling the mouse addresses the lion as त्वम्, so he says मुञ्च. In India's old fable
+books, animals address each other both ways, as त्वम् and as भवान्
+[REF:hitopadesha mitralābha]. The mood's full set of forms waits for Volume 3/4; today मुञ्च
+is one whole word, and it counts as its own readable word: मुञ्चति is its relative, not its
+duplicate (STYLE_GUIDE §8 rule 4).
 
 ### Three state words and two old friends
 
@@ -336,16 +340,16 @@ write the pause form as your own.
 > basic present of √कृत्. कर्तयति, the form the 1.x text used, is causative in form and is
 > also used in the plain sense "cuts"; it is not wrong, but कृन्तति is the basic present.
 > मुञ्च is the you-form imperative of √मुच्, the root of मुञ्चति and of मुक्त.
-> [REF:apte1890 s.vv. स्वप्, ग्रह्, मुच्, कृत्]; [REF:monierwilliams1899 s.v. kṛt]
+> [REF:apte1890 s.vv. स्वप्, ग्रह्, मुच्, कृत्]; [REF:monierwilliams1899 s.vv. kṛt, yā]
 
-| 1.x printed | Today's text | Why |
+| 1.x text (final ं written म्) | Today's text | Why |
 |---|---|---|
 | एकः सिंहः वने निद्राम् करोति। | एकः सिंहः वने स्वपिति। | the classical verb for "sleeps" |
 | एकः मूषकः सिंहस्य उपरि धावति। | एकः मूषकः सिंहस्य उपरि चलति। | धावति "runs" is not in the ledger; चलति is, since v1.c03 |
 | no catch, no release | सः मूषकम् गृह्णाति। … सिंहः हसति। सः मूषकम् मुञ्चति। | the plot gap: in the Aesopic and the Egyptian tellings alike, the lion lets the mouse go |
-| माम् मुञ्च! अहम् तव साहाय्यम् करिष्यामि। | माम् मुञ्च! अहम् अपि तव मित्रम्। | करिष्यामि "I will do" is a future — outside the present-only toolkit |
+| माम् मुञ्च! अहम् तव सहायम् करिष्यामि। | माम् मुञ्च! अहम् अपि तव मित्रम्। | करिष्यामि "I will do" is a future — outside the present-only toolkit |
 | मूषकः जालम् कर्तयति। | सः जालम् कृन्तति। | the basic present, as the callout says; कर्तयति was never an error |
-| न कोऽपि लघुः। | न कः अपि लघुः। — joined: न कोऽपि लघुः। | both right: pause form first, the joined form previewed (§15) |
+| न कोऽपि लघुः | न कः अपि लघुः। — joined: न कोऽपि लघुः। | both right: pause form first, the joined form previewed (§15) |
 
 The left column is display only — the old text, shown so you can recognize it if you meet
 it. Nothing in it is taught.
@@ -414,9 +418,12 @@ No new values today — every sound in the story has been on your chart since Vo
 लघु /lɐgʱu/ · कदा /kɐd̪ɑː/.
 
 **Narrow note — the hum in सिंहः:** the anusvāra stands before ह, which is not a stop, so
-it is not a consonant at all here: the vowel itself goes nasal, [sĩɦɐh], with no closure
+it need not be a consonant at all: in the value drilled here the vowel itself goes nasal,
+[sĩɦɐh], with no closure
 anywhere in the mouth — the rule you met with संस्कृतम् [sɐ̃skr̩t̪ɐm] (v1.c02.l06). Before
-a stop the same dot would be that stop's own nasal; ह gives it nothing to borrow.
+a stop the same dot would be that stop's own nasal; ह gives it nothing to borrow. The
+course's other value here, [m] with the lips closed (STYLE_GUIDE §2; v1.c02.l06), is not
+drilled today, but it is not an error. The error is a dental [n̪], "sinha".
 
 **Narrow note — the join:** pause form [n̪ɐ kɐh ɐpi lɐgʱuh], joined form
 [n̪ɐ koːpi lɐgʱuh]. The /ɐh/ of कः and the /ɐ/ of अपि are gone; one long /oː/ stands in
@@ -432,13 +439,14 @@ tend to slip an /ɐ/ in; the Sanskrit word has none.
 
 1. **सिंहः — no contact (the hum).** Say सिं- and watch: the lips stay open and the
    tongue touches nothing. Air goes through the nose while the vowel sounds. If your lips
-   close, you have said "simha"; if your tongue touches the teeth, "sinha".
+   close, you have made [m]: the course's other value here, not an error, but not today's
+   drill (§10). If your tongue touches the teeth, you have said "sinha", and that is wrong.
 2. **गृह्णाति — breath, then curl.** After गृ, keep the voice on and let a breathy ह
    pass, then curl the tongue tip back to the dome for ण. No vowel between ह and ण.
 3. **मुञ्च, मुञ्चति — the nasal waits at the palate.** The middle of the tongue rises to
    the hard palate for ञ, and stays there for the च that follows: one movement, nasal
    then release. Hindi spelling writes मुंच; the mouth does the same thing.
-4. **कृन्तति — curl-free ऋ, then the teeth.** ऋ is a syllable on its own, /r̩/ — not
+4. **कृन्तति — ऋ at the tap position, then the teeth.** ऋ is a syllable on its own, /r̩/ — not
    "ri". Then the tongue tip goes to the back of the upper teeth for न्त and stays there
    for the second त.
 5. **बद्धः, क्रुद्धः — hold, then breathe.** The tongue tip closes on the teeth for the
@@ -477,6 +485,9 @@ quiz distractors.
    words change, plural forms and the future are later business (§15 fence).
 8. **Speed strips the finals.** "sinh", "mūṣak", "jāl" for सिंहः, मूषकः, जालम्. *Fix:* drop
    one speed, rebuild, re-time (§9 speed 3).
+9. **A dental न in सिंहः.** "sinha": the tongue touches the teeth before ह. *Fix:* ह is not
+   a stop, so the dot borrows no stop's nasal: a hum on the vowel, or [m] with the lips
+   closed, never [n̪] (§10, §11 check 1).
 
 ## 13. Examples
 
@@ -538,7 +549,7 @@ review list below the table is that check, printed.
 | मुञ्चति | muñcati | /muɲt͡ɕɐt̪i/ | lets go, releases | छोड़ता है | regular for you: मुञ्चामि, मुञ्चसि by the c04 pattern; root √मुच्, the root of मुक्त (§15) |
 | मुञ्च | muñca | /muɲt͡ɕɐ/ | let go! | छोड़ो! | whole-word chunk: an imperative — the वदतु mood — in the you-form, said to त्वम्; the पश्य shape (§8); counts as its own word (STYLE_GUIDE §8 rule 4) |
 | जालम् | jālam | /d͡ʑɑːlɐm/ | net | जाल | neuter, cited in म् like मित्रम्; जाले "in the net" glossed whole (§8) |
-| कृन्तति | kṛntati | /kr̩n̪t̪ɐt̪i/ | cuts, gnaws through | काटता है, कुतरता है | the basic present of √कृत्; replaces 1.x कर्तयति (§8); regular for you: कृन्तामि |
+| कृन्तति | kṛntati | /kr̩n̪t̪ɐt̪i/ | cuts, cuts through | काटता है | the basic present of √कृत् "cut"; in the story the mouse cuts with his teeth (Hindi कुतरता है); replaces 1.x कर्तयति (§8); regular for you: कृन्तामि |
 | बद्धः | baddhaḥ | /bɐd̪d̪ʱɐh/ | bound, caught | बँधा हुआ, फँसा हुआ | state word before भवति, glossed whole (§8); द्ध held, then breathed (§11) |
 | क्रुद्धः | kruddhaḥ | /kɾud̪d̪ʱɐh/ | angry | क्रुद्ध, गुस्से में | state word before भवति, glossed whole (§8); tap र inside क्र |
 | एकदा | ekadā | /eːkɐd̪ɑː/ | one day, once | एक दिन, एक बार | एक + the time-ending of कदा (§13); the story's turning word |
@@ -562,7 +573,7 @@ Display only, excluded from all counts and decks: the joined moral **न को�
 (na ko'pi laghuḥ) and its join **कोऽपि** (ko'pi); the polite imperative **मुञ्चतु**
 (muñcatu), named in §12 only; the whole-word rows of §15 — स्वपिमि, स्वपिषि, गृह्णामि,
 गृह्णासि; the 1.x forms of §8's table, shown as the old text: निद्राम् करोति, धावति,
-साहाय्यम् करिष्यामि, कर्तयति.
+सहायम् करिष्यामि, कर्तयति.
 
 Reading protocol unchanged: count the blocks, read the blocks, read the word — स्व-पि-ति,
 गृ-ह्णा-ति, कृ-न्त-ति — then the words *in* the story at slow speed before any clock.
@@ -599,9 +610,11 @@ previewed, one fence.
 | he/she/it | स्वपिति | गृह्णाति |
 
 Read them by their tails like any verb; produce them only as learned wholes. Notice that
-गृह्णाति's row runs exactly like जानाति's (जानामि, जानासि), and that स्वपिमि has no long
-आ before its -मि — the bank pattern would have given you a wrong word. That is the whole
-reason these two are taught whole.
+गृह्णाति's row runs exactly like जानाति's (जानामि, जानासि), and that स्वपिमि has no long आ
+before its -मि, and that the you-form स्वपिषि has ष, not स — the bank pattern would have
+given you "स्वपामि" or "स्वपिसि". Both build their stems differently from the bank's regular
+verbs, and the difference shows even more beyond the singular; that is the reason these two
+are taught whole.
 
 ### The nasal in मुञ्चति and कृन्तति
 
@@ -618,7 +631,10 @@ is freed.
 
 > **[FACT · तथ्यम्]** Before a word beginning with अ, a final -अः becomes -ओ, and the अ
 > of the next word drops out; the avagraha ऽ marks where it was: कः + अपि → कोऽपि.
-> [REF:whitney1889]
+> This is the -अः of words like कः and सः; पुनः, whose -अः stands for -अर्, keeps र्
+> instead: पुनः + अपि → पुनरपि. [REF:whitney1889 §175]; [REF:whitney1889 §135];
+> [REF:whitney1889 §16]; [REF:whitney1889 §178]; [REF:ashtadhyayi 6.1.113];
+> [REF:ashtadhyayi 6.1.109]
 
 The whole ending changes, not just its vowel: कः is /kɐh/ and कोऽपि is /koːpi/ — the
 visarga is gone with the अ, and one long ओ stands for both. You have met this join once
@@ -826,7 +842,7 @@ for 'cuts'."
 
 1. In सिंहः the dot (anusvāra) stands before ह, which is not a stop. Read aloud, it is:
    (a) the velar nasal of अंक (b) a nasal hum on the vowel, with no closure anywhere —
-   /sĩɦɐh/ (c) an /m/ with the lips closed (d) silent
+   /sĩɦɐh/ (c) a full न, the tongue on the teeth (d) silent
 2. स्वपिति and गृह्णाति are: (a) built like चलति, so "I sleep" is स्वपामि (b) two forms
    of शृणोति (c) whole words — they build their stems differently, like शृणोति and
    जानाति, and are recalled, never assembled (d) imperatives
@@ -858,8 +874,10 @@ for 'cuts'."
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — before a non-stop the anusvāra is a nasalized vowel, the संस्कृतम् rule (§10,
-   §11). ((c) is the "simha" error; (a) would need a velar stop after it.)
+1. (b) — before a non-stop the course models the anusvāra as a nasalized vowel, the
+   संस्कृतम् rule (§10, §11). ((c) is §12 mistake 9, the "sinha" error; (a) would need a
+   velar stop after it. A lips-closed [m] would not be wrong: it is the course's other value
+   here (§10).)
 2. (c) — whole-word rows (§8, §15). ((a) is §12 mistake 1: the I-form is स्वपिमि.)
 3. (a) — the you-form imperative (§8, §15 point 2). ((b) and (c) are §12 mistake 3.)
 4. (b) — the role word मूषकम् is the one caught (§8, §15 point 3). ((a) is §12 mistake 4;
@@ -897,15 +915,15 @@ for 'cuts'."
   सिंहः मुक्तः भवति।
 - **Exercise 6:** the dictated lines are §17 lines 1, 5 and 10 and the moral in pause
   form; the transcript prints the shuffled order. Joined: न कोऽपि लघुः।
-- **Exercise 7:** (a) कोऽपि · सोऽहम् — "Before a word beginning with अ, a final -अः
-  becomes -ओ and the अ drops out, marked by ऽ." (b) (i) "It is an Aesopic fable (Perry
-  150). No lion-and-mouse version is known in the Pañcatantra, which has a cousin
-  instead." (ii) "In Pūrṇabhadra's recension, mice gnaw through the ropes that tie a herd
-  of elephants after a trap." (iii) "The tale is also told in a 2nd-century-CE Egyptian
-  Demotic narrative and has Indian cousins; such stories travelled widely, scholars
-  disagree about the routes, and the course makes no claim about which came first."
-  (iv) "कर्तयति is causative in form and is also used for 'cuts'; the basic present is
-  कृन्तति, the form this course reads."
+- **Exercise 7:** (a) कोऽपि · सोऽहम् — "Before a word beginning with अ, a final -अः becomes
+  -ओ and the अ drops out, marked by ऽ." (b) (i) "It is an Aesopic fable (Perry 150). No
+  lion-and-mouse version is known in the Pañcatantra; Pūrṇabhadra's recension has a cousin
+  instead." (ii) "In Pūrṇabhadra's recension, mice gnaw through the ropes that tie a herd of
+  elephants after a trap." (iii) "The tale is also told in a 2nd-century-CE Egyptian Demotic
+  narrative and has Indian cousins; such stories travelled widely, scholars disagree about
+  the routes, and the course makes no claim about which came first." (iv) "कर्तयति is
+  causative in form and is also used for 'cuts'; the basic present is कृन्तति, the form this
+  course reads."
 </details>
 
 ## 20. Revision
@@ -925,7 +943,8 @@ for 'cuts'."
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- +1 day: the lion story read once at natural speed and its moral न कः अपि लघुः said in both forms (pause and joined) — v2.c06.l03's Station 0 runs exactly this.
+- +1 day: the lion story read once at natural speed and its moral न कः अपि लघुः said in both
+  forms (pause and joined) — v2.c06.l03's Station 0 runs exactly this.
 - **At the Volume 2 exam (v2.c06.l05):** task C reads aloud a ladder that starts from this
   chapter's two stories, and task E asks you to retell a story in your own Sanskrit —
   exercise 5's retelling is the rehearsal. Keep the recording.
@@ -1100,12 +1119,12 @@ narrator reads the cue, not the English spelling.
 40–50 seconds, vertical, captions burned in.
 
 - **Hook (0:00–0:07):** a lion asleep, a mouse on his back. Caption: "The lion and the
-  mouse — in Sanskrit. And it's NOT from the Pañcatantra."
+  mouse — in Sanskrit. And no known Pañcatantra has it."
 - **Demo (0:07–0:28):** three lines light up in turn: mām muñca [mɑːm muɲt͡ɕɐ] — "let me
   go!"; ekadā [eːkɐd̪ɑː] — "one day…"; siṃhaḥ muktaḥ bhavati [sĩɦɐh mukt̪ɐh bʱɐʋɐt̪i] —
   "the lion is free." Caption: "Eleven lines. One turning word."
 - **Payoff (0:28–0:42):** the moral types out — na kaḥ api laghuḥ — then joins itself into
-  na ko'pi laghuḥ [n̪ɐ koːpi lɐgʱuh]. Caption: "No one is small. The Pañcatantra has a
+  na ko'pi laghuḥ [n̪ɐ koːpi lɐgʱuh]. Caption: "No one is small. Pūrṇabhadra's Pañcatantra has a
   cousin: mice that free elephants."
 - **CTA (0:42–0:50):** "Next: सुभाषितानि — Three Sayings (v2.c06.l03). Three real sayings,
   with sources you can check. Follow for the last chapter of Volume 2." (End card: सिंहः
@@ -1116,7 +1135,7 @@ narrator reads the cue, not the English spelling.
 - **Asset manifest (all planned, none existing yet):**
   - `assets/images/volume-2/v2c06l02-story-strip.svg` — the six-panel story strip: §17
     illustration, §22 board model, §23 prompt 1; the एकदा divider must be visible, and the
-    net must be a rope net between trees (the lion's net — not the Pañcatantra elephants,
+    net must be a rope net between trees (the lion's net — not Pūrṇabhadra's elephants,
     who are tied with ropes).
   - `assets/images/volume-2/v2c06l02-story-cousins-map.svg` — the cousins map: §23 prompt
     2, §24 scene 6; no arrows and no connecting lines, by design (§4's last sentence).
@@ -1145,10 +1164,10 @@ narrator reads the cue, not the English spelling.
   (`chunk: imperative`, `relative_of` मुञ्चति). The role words (वने, सिंहस्य, मूषकम्,
   माम्, जाले) and एकः export as `glossed_whole`, excluded from counts and decks; the §15
   rows (स्वपिमि, स्वपिषि, गृह्णामि, गृह्णासि), मुञ्चतु, कोऽपि and न कोऽपि लघुः export as
-  `display`. §8's 1.x column (निद्राम् करोति, धावति, साहाय्यम् करिष्यामि, कर्तयति, and the
+  `display`. §8's 1.x column (निद्राम् करोति, धावति, सहायम् करिष्यामि, कर्तयति, and the
   old lines) exports as `display` with role `old_text` — never as content; कर्तयति is NOT
-  an `error_form`. Quoted misreadings ("svapti", "gṛhaṇāti", "kṛtati", "sinh", "mūṣak",
-  "jāl", "स्वपामि", "गृह्णति") export as `error_form`. §16 and §17 are fully self-read —
+  an `error_form`. Quoted misreadings ("svapti", "gṛhaṇāti", "kṛtati", "sinh", "sinha", "mūṣak",
+  "jāl", "स्वपामि", "स्वपिसि", "गृह्णति") export as `error_form`. §16 and §17 are fully self-read —
   export with all-`readable: true` spans. §19's quiz key and every exercise key/model stay
   inside `<details>` in all renders. IPA strings contain combining characters — NFC
   applies to Devanagari fields only.
@@ -1162,24 +1181,25 @@ narrator reads the cue, not the English spelling.
   align with l01's target at review. The validator's prerequisite/review_of errors for
   v2.c06.l01 are expected until l01 exists.
 - **Verification flags for Pass C:** the §4 HISTORY callout against [REF:perry1952] (no.
-  150), [REF:lichtheim1980] (cited bare; research gives pp. 157–159 from a secondary site —
-  check against the book), [REF:ryder1925] (Book II; ropes after a trap, not nets) and
+  150), [REF:lichtheim1980] (pp. 156–159, "The Lion in Search of Man", the whole piece per
+  the book's table of contents; the mouse episode's own page not yet seen in print — check
+  against the book), [REF:ryder1925] (Book II; ropes after a trap, not nets) and
   [REF:hitopadesha] (mitralābha frame); the "no lion-and-mouse version is known in the
   Pañcatantra or the Hitopadeśa" clause against research item 2 and chapter.md; the §4
   TRADITION callout — the deer Citrāṅga's request to join, and Ryder's verse wording —
   against [REF:ryder1925]; §8's FACT (स्वपिति; निद्राम् करोति not the idiom; कृन्तति;
-  कर्तयति causative in form and also used for "cuts", MW s.v. kṛt) against
-  [REF:apte1890] and [REF:monierwilliams1899]; §13's FACT (एकदा = एक + the -दा of कदा)
-  against [REF:whitney1889] — cited bare, § locator to add — and [REF:apte1890 s.v.
-  एकदा]; §15's four-point FACT, cited bare to [REF:whitney1889] — confirm the display
-  rows स्वपिमि, स्वपिषि, गृह्णामि, गृह्णासि; §15's nasal FACT against
-  [REF:ashtadhyayi 7.1.59] (शे मुचादीनाम्; research verified via the Kāśikā example
-  कृन्तति); §15's join FACT (fact 0.5 wording) against [REF:whitney1889], cited bare. No
-  cognate claim is made for any word in this lesson. The 55-second target for 45 words is
-  a course benchmark scaled from v2.c04.l04 (35 words, 45 seconds), not a research claim.
-  Every story word traced to its §14 locus (repo grep, at drafting). All §10/§14 IPA
-  diffed against STYLE_GUIDE §2: house /u/ in मुञ्च, मुञ्चति, क्रुद्धः; ञ्च = /ɲt͡ɕ/;
-  anusvāra before ह = nasalized vowel, as in संस्कृतम् (Pass A).
+  कर्तयति causative in form and also used for "cuts", MW s.v. kṛt) against [REF:apte1890]
+  and [REF:monierwilliams1899]; §13's FACT (एकदा = एक + the -दा of कदा) against
+  [REF:whitney1889] — cited bare, § locator to add — and [REF:apte1890 s.v. एकदा]; §15's
+  four-point FACT, cited bare to [REF:whitney1889] — confirm the display rows स्वपिमि,
+  स्वपिषि, गृह्णामि, गृह्णासि; §15's nasal FACT against [REF:ashtadhyayi 7.1.59] (शे
+  मुचादीनाम्; research verified via the Kāśikā example कृन्तति); §15's join FACT (fact 0.5
+  wording) against [REF:whitney1889 §175]; [REF:whitney1889 §135]; [REF:whitney1889 §16];
+  [REF:whitney1889 §178]. No cognate claim is made for any word in this lesson. The
+  55-second target for 45 words is a course benchmark scaled from v2.c04.l04 (35 words, 45
+  seconds), not a research claim. Every story word traced to its §14 locus (repo grep, at
+  drafting). All §10/§14 IPA diffed against STYLE_GUIDE §2: house /u/ in मुञ्च, मुञ्चति,
+  क्रुद्धः; ञ्च = /ɲt͡ɕ/; anusvāra before ह = nasalized vowel, as in संस्कृतम् (Pass A).
 - **Register audit:** FACT ×7 (§5 four strands + testing effect ×2 · §8 the 1.x
   corrections ×1 · §13 एकदा ×1 · §15 reading facts, the nasal, the join ×3) · HISTORY ×1
   (§4) · TRADITION ×1 (§4, Pūrṇabhadra's frame, named source) · SYMBOL ×0. Quiz Q1–Q7

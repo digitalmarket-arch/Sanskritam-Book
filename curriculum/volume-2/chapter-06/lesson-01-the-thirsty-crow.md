@@ -22,8 +22,8 @@ objectives:
     hi: "सात नए शब्द — काकः, पिपासितः, पाषाणः, क्षिपति, उपरि, सुखी, बुद्धिः — और वाक्य-वेश में लौटे दो उन्नत शब्द घटः तथा बलम् पढ़ें, बोलें और उनका अर्थ बताएँ; कथा के भूमिका वाले रूप — एकम्, घटम्, घटे, पाषाणम् — और उसकी मेल वाली जोड़ी अल्पम् जलम् पूरे शब्द मानकर पढ़ें, और उनके बारे में एक ईमानदार पंक्ति कहें।"
   - en: "Answer comprehension questions on the story with all nine askers — कः का किम् कुतः कथम् कुत्र कति कदा किमर्थम् — in Sanskrit, saying न जानामि where the story is silent."
     hi: "कथा पर नौ प्रश्न-शब्दों — कः का किम् कुतः कथम् कुत्र कति कदा किमर्थम् — वाले प्रश्नों के उत्तर संस्कृत में दें; जहाँ कथा चुप है, वहाँ न जानामि कहें।"
-  - en: "Retell the story in five sentences without the text — aloud, written and recorded, the story's own words only — and state its history without overclaiming in either direction: an Aesopic fable (Perry 390) with no known version in the Pañcatantra, the Hitopadeśa or the Jātakas, and today one of India's best-known children's stories."
-    hi: "बिना पाठ देखे कथा को पाँच वाक्यों में दोबारा सुनाएँ — बोलकर, लिखकर और रिकॉर्ड करके, केवल कथा के अपने शब्दों में — और उसका इतिहास किसी भी ओर बढ़ा-चढ़ाकर कहे बिना बताएँ: ईसप की परम्परा की नीतिकथा, पेरी की सूची में क्रमांक 390; पञ्चतन्त्र, हितोपदेश या जातकों में इसका कोई ज्ञात रूप नहीं; और आज यह भारत की सबसे जानी-मानी बाल-कथाओं में से एक है।"
+  - en: "Retell the story in five sentences without the text — aloud, written and recorded, the story's own words only — and state its history without overclaiming in either direction: an Aesopic fable (Perry 390) with no known version in the Pañcatantra, the Hitopadeśa or the Jātakas, and with its earliest known versions in Greek and Latin."
+    hi: "बिना पाठ देखे कथा को पाँच वाक्यों में दोबारा सुनाएँ — बोलकर, लिखकर और रिकॉर्ड करके, केवल कथा के अपने शब्दों में — और उसका इतिहास किसी भी ओर बढ़ा-चढ़ाकर कहे बिना बताएँ: ईसप की परम्परा की नीतिकथा, पेरी की सूची में क्रमांक 390; पञ्चतन्त्र, हितोपदेश या जातकों में इसका कोई ज्ञात रूप नहीं; और इसके सबसे पुराने ज्ञात रूप यूनानी और लातिनी में हैं।"
 new_letters: []
 new_matras: []
 vocabulary_count: 9
@@ -51,9 +51,9 @@ updated: 2026-10-25
 
 ## 1. Hook
 
-A thirsty crow, a pot with a little water at the bottom, and a stone. You probably know
-this story already: across India it is told as प्यासा कौआ, and many children hear it long
-before they can read. Today you read it in Sanskrit — ten short sentences and a moral,
+A thirsty crow, a pot with a little water at the bottom, and a stone. You may know
+this story already: in Hindi it is प्यासा कौआ, a story told to small
+children. Today you read it in Sanskrit — ten short sentences and a moral,
 every word yours by the end of §14. Seven new words carry the plot, and two Volume 1
 words, घट and बल, come back in sentence dress. Then you find out what the evidence says
 about where the story is first found, which is not what many storybook covers say. Read
@@ -82,9 +82,9 @@ Then five memory prompts, all from memory *before* any key opens [REF:roediger20
 
 ### Station 0 — the Conversation Exam's +1 week arrives
 
-v2.c05.l05 §20 booked today's station in one line: "+1 week: the role-card conversation re-run with any two cards and one nine-asker round."
-Run exactly that — about six minutes, scores logged beside your exam recordings
-[REF:cepeda2006].
+v2.c05.l05 §20 booked today's station in one line: "+1 week: the role-card conversation
+re-run with any two cards and one nine-asker round." Run exactly that — about six minutes,
+scores logged beside your exam recordings [REF:cepeda2006].
 
 1. **The role-card conversation, re-run.** Any two of your role cards from v2.c05.l04 §21,
    shuffled face-down; draw one, and your partner plays the other, then keeps the stall.
@@ -133,24 +133,28 @@ today.
 ऐतिहासिकः सन्दर्भः — where this story is first found, and what the evidence can and cannot
 say.
 
-Ask a room of Hindi speakers for the thirsty crow and almost everyone can tell it. Many
-will also say where it comes from — "the Pañcatantra" is the usual answer — and that is
-where the history needs care.
+Ask a room of Hindi speakers for the thirsty crow and someone will tell it. Ask where it
+comes from and you may well hear "the Pañcatantra" — and that is where the history needs
+care.
 
 > **[HISTORY · इतिहासः]** "The Thirsty Crow" is an Aesopic fable: "The Crow and the
 > Pitcher", no. 390 in B. E. Perry's index of the fables of Aesop. No version of it is
 > known in the Pañcatantra, the Hitopadeśa or the Jātakas. Its earliest known versions are
-> Greek and Latin — a short Greek epigram of the 1st century CE, and the Latin verse
-> fables of Avianus (c. 400 CE), whose moral is that cleverness beats force. Today it is
-> one of India's best-known children's stories — in Hindi, प्यासा कौआ — and Sanskrit
-> school readers tell it too. Labels that call it "a Pañcatantra story" are modern.
-> [REF:perry1952 no. 390]
+> Greek and Latin and date from the 1st century CE — among them a short Greek epigram,
+> and a report, passed on by Pliny the Elder, that a raven was seen dropping stones into
+> an urn of rainwater on a tomb until the water rose within reach. Later, the Latin verse
+> fables of Avianus (c. 400 CE) tell it as a fable, with the moral that cleverness beats
+> force. Labels that call it "a Pañcatantra story" are modern.
+> [REF:perry1952 no. 390]; [REF:rackham1940 10.125]
 
 *No version is known* reports what has and has not been found in those books: evidence
 about where the story is attested, not proof of where it began. So say "no known version",
 and never "it does not come from India". The evidence shows where the story is first
 written down, not where it was first told, and carries no claim about origin in either
-direction.
+direction. Where the story lives today is another matter: in Hindi it is told as
+प्यासा कौआ, and at least one state-board Sanskrit reader retells it — Uttar Pradesh's
+Class 5 reader संस्कृत पीयूषम् (saṃskṛta pīyūṣam), in the lesson
+काकस्य उद्यमः (kākasya udyamaḥ) "The Crow's Effort" [REF:piyusham5 lesson काकस्य उद्यमः].
 
 > **[HISTORY · इतिहासः]** The third book of the Pañcatantra, काकोलूकीय (kākolūkīya) "Of
 > Crows and Owls", tells of a war between the crows and the owls.
@@ -325,7 +329,7 @@ verbless shape of ज्ञानम् बलम् "knowledge is strength" in 
 word in the middle. एव "itself, alone" puts its weight on the word before it, as in सत्यम्
 एव जयते of v1.c06.l04; it stays display-only here (§14). Both words are nouns, so they
 keep their own endings and need not match. The line was written for this course and quotes
-no text; it says in owned words what Avianus's moral says (§4).
+no text; it makes, in owned words, much the same point as Avianus's moral (§4).
 
 ### The text
 
@@ -756,8 +760,8 @@ own four aloud, level tune on every one (§9 drill 3).
    इच्छति। (b) घटे। (c) त्रीणि! (d) न जानामि।
 8. Which statement matches the evidence in §4? (a) it is a story from the Pañcatantra (b)
    it is an Aesopic fable, Perry 390, with no known version in the Pañcatantra, the
-   Hitopadeśa or the Jātakas; its earliest known versions are Greek and Latin — a Greek
-   epigram of the 1st century CE and Avianus, c. 400 CE (c) it is proven to come from
+   Hitopadeśa or the Jātakas; its earliest known versions are Greek and Latin and date from
+   the 1st century CE — among them a Greek epigram and Pliny's report (c) it is proven to come from
    Greece and was never told in India before modern times (d) it first appears in the
    Hitopadeśa
 9. पाषाणः is pronounced: (a) /pɑːsɑːn̪ɐh/ (b) /pɑːʂɑːɳɐh/ — ष and ण both retroflex (c)
@@ -777,7 +781,8 @@ own four aloud, level tune on every one (§9 drill 3).
 6. (b) — §16; (d) means "I don't understand", v2.c05.l02 §8; (a) is §12 mistake 8.
 7. (a) — किमर्थम् wants a purpose, opened with यतः, as v2.c05.l01 taught; (b) answers
    कुत्र and (c) कति, and (d) is wrong because the story says why.
-8. (b) — the §4 HISTORY callout, dates hedged as there [REF:perry1952 no. 390]. (a) is the
+8. (b) — the §4 HISTORY callout, dates hedged as there [REF:perry1952 no. 390];
+   [REF:rackham1940 10.125]. (a) is the
    modern label; (c) overclaims the other way, since "no known version" is not proof of
    origin; (d) fails because no version is known there either.
 9. (b) — §10, §11. (a) and (c) are §12 mistake 2; (d) is mistake 3.
@@ -833,7 +838,8 @@ before the water comes up.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- +1 day: the crow story read once at natural speed, timed and logged, and retold in five sentences without the text — v2.c06.l02's Station 0 runs exactly this.
+- +1 day: the crow story read once at natural speed, timed and logged, and retold in five
+  sentences without the text — v2.c06.l02's Station 0 runs exactly this.
 - **At the Volume 2 exam (v2.c06.l05):** the reading ladder in task C climbs through this
   story at natural speed, and the retelling in task E may be this story — keep today's log
   and recording.
@@ -998,7 +1004,7 @@ narrator reads the cue, not the English spelling.
 
 40–50 seconds, vertical, captions burned in.
 
-- **Hook (0:00–0:07):** a crow at a clay pot. Caption: "India's favourite crow story — in
+- **Hook (0:00–0:07):** a crow at a clay pot. Caption: "A crow story you may know — in
   Sanskrit. And no known Pañcatantra has it."
 - **Demo (0:07–0:30):** three lines light up in turn: saḥ pipāsitaḥ asti
   [sɐh pipɑːsit̪ɐh ɐst̪i] — "he is thirsty"; saḥ punaḥ punaḥ kṣipati
@@ -1007,7 +1013,7 @@ narrator reads the cue, not the English spelling.
   plural needed."
 - **Payoff (0:30–0:42):** the moral fills the screen: buddhiḥ eva balam
   [bud̪d̪ʱih eːʋɐ bɐlɐm] — "intelligence itself is strength". Caption: "Earliest known
-  versions: Greek and Latin. Today: one of India's best-known children's stories."
+  versions: Greek and Latin. Today, in Hindi: प्यासा कौआ."
 - **CTA (0:42–0:50):** "Next: सिंहः मूषकः च — The Lion and the Mouse, v2.c06.l02. Follow
   for the next fable." End card: पिपासितः काकः — The Thirsty Crow.
 
@@ -1062,12 +1068,16 @@ narrator reads the cue, not the English spelling.
   (सिंहः मूषकः च — The Lion and the Mouse).
 - **Verification flags for Pass C:** §4's first callout against [REF:perry1952 no. 390] —
   the Perry number, the 1st-century-CE Greek epigram, Avianus c. 400 CE (no fable number
-  given; the research could not verify one). Its present-day sentence rests on the
-  research file's evidence (Hindi retellings; a state-board Sanskrit reader), not on Perry
-  — confirm, or relabel it as a usage FACT; NCERT is deliberately not named. Fact 0.1's
-  Pliny sentence is **not used**: REFERENCES.md has no Pliny key yet (the research
-  proposes `rackham1940`); if one is added, keep the corrected wording — he passes on a
-  report, of a bird most translations call a raven. §4's second callout against
+  given in the lesson; fact 0.1 records Fabulae 27). Its present-day sentence now stands
+  outside the callout, after the *No version is known* paragraph, with no superlative: the
+  Hindi title is present-day usage, uncited; the Uttar Pradesh reader is cited to
+  [REF:piyusham5] by lesson title, from third-party reproductions only — check it against
+  the official print; NCERT is deliberately not named. Fact 0.1's
+  Pliny sentence is used in §4's first callout, cited to [REF:rackham1940 10.125]: he
+  passes on a report and does not vouch for it; the bird is a raven, as the Latin's
+  masculine forms and his chapter on ravens show (Bostock–Riley renders it "crow").
+  Avianus stays in the callout as the fable telling, not as one of the earliest
+  versions. §4's second callout against
   [REF:panchatantra tantra 3], as in v1.c02.l02. The 1.x telling is paraphrased, never
   quoted, except the single word तृष्णार्तः, shown as not wrong (fact 0.3). Cited bare to
   [REF:whitney1889], § locators to add: §4's usage FACT, §15's two FACT callouts, the
@@ -1085,8 +1095,8 @@ narrator reads the cue, not the English spelling.
   1.x plural is described, never printed); no adjective teaching beyond the one honest
   line; no vocatives; no inheritance verbs; no uncited time-depth figure; usage labels on
   the graded-reader opening (§4) and on the moral's status (§8).
-- **Register audit:** FACT ×5 (§4 usage label · §5 fluency strand, testing effect · §15
-  the honest line, the four reading facts) · HISTORY ×2 (§4, [REF:perry1952] and
-  [REF:panchatantra]) · TRADITION ×0 · SYMBOL ×0. Quiz Q1–Q7, Q9 and Q10 assess FACT
-  content; Q8 assesses the cited §4 HISTORY callout with its dating hedged as there ("1st
-  century CE", "c. 400 CE") — STYLE_GUIDE §4 rule 4.
+- **Register audit:** FACT ×5 (§4 usage label · §5 fluency strand, testing effect · §15 the
+  honest line, the four reading facts) · HISTORY ×2 (§4, [REF:perry1952] with
+  [REF:rackham1940], and [REF:panchatantra]) · TRADITION ×0 · SYMBOL ×0. Quiz Q1–Q7, Q9 and
+  Q10 assess FACT content; Q8 assesses the cited §4 HISTORY callout with its dating hedged
+  as there ("1st century CE") — STYLE_GUIDE §4 rule 4.

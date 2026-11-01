@@ -23,7 +23,7 @@ objectives:
   - en: "Correct the 1.x arrows one by one — video, ignite and serpent came to English through Latin; √विद् means 'know', not 'see'; yoga comes from योग, not युग — and explain why the Latin-route words look more like Sanskrit than the inherited English ones: the Germanic consonant shift."
     hi: "1.x के तीर एक-एक कर सुधारें — video, ignite और serpent लैटिन के रास्ते अंग्रेज़ी में आए; √विद् का अर्थ 'जानना' है, 'देखना' नहीं; yoga योग से है, युग से नहीं — और समझाएँ कि लैटिन-मार्ग वाले शब्द विरासत वाले अंग्रेज़ी शब्दों से ज़्यादा संस्कृत जैसे क्यों दिखते हैं: जर्मनिक व्यञ्जन-परिवर्तन।"
   - en: "Label modern Sanskrit words honestly: दूरदर्शनम् and अन्तर्जालम् translate tele-vision and inter-net part by part; विमानम् is a classical word — from वि + √मा 'measure out, traverse' — given the new sense 'aeroplane'; and building words from parts is ordinary across languages."
-    hi: "आधुनिक संस्कृत शब्दों पर ईमानदार लेबल लगाएँ: दूरदर्शनम् और अन्तर्जालम् tele-vision और inter-net का हिस्सा-दर-हिस्सा अनुवाद हैं; विमानम् पुराना शब्द है — वि + √मा 'नापना, पार करना' से — जिसे 'हवाई जहाज़' का नया अर्थ मिला; और हिस्से जोड़कर शब्द बनाना हर भाषा में आम है।"
+    hi: "आधुनिक संस्कृत शब्दों पर ईमानदार लेबल लगाएँ: दूरदर्शनम् और अन्तर्जालम् tele-vision और inter-net का हिस्सा-दर-हिस्सा अनुवाद हैं; विमानम् पुराना शब्द है — वि + √मा 'नापना, पार करना' से — जिसे 'हवाई जहाज़' का नया अर्थ मिला; और हिस्से जोड़कर शब्द बनाना बहुत-सी भाषाओं में आम है।"
 new_letters: []
 new_matras: []
 vocabulary_count: 8
@@ -104,14 +104,14 @@ source in one phrase. Three minutes, no page in sight; log the score beside less
 
 <details><summary>उत्तराणि · Answers</summary>
 
-0. Station 0, in pause form: (1) **अहिंसा परमः धर्मः।** — the Mahābhārata, at five
-   places in the critical edition (e.g. 1.11.12), joined there as परमो धर्मः; the
-   popular added half-line is not in it [REF:mahabharata 1.11.12]. (2) **उद्यमेन हि
-   सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥** — the
-   Hitopadeśa, introduction, verse 36 [REF:hitopadesha prastāvikā 36]. (3) **परोपकारः
-   पुण्याय पापाय परपीडनम्।** — traditionally quoted as the two-word essence of Vyāsa's
-   teaching; the framing line is not traced to any Purāṇa [REF:apte1890 s.v. पर]. Score
-   /6 — three recitations, three sources; log it.
+0. Station 0, in pause form: (1) **अहिंसा परमः धर्मः।** — the Mahābhārata, at five places in
+   the critical edition's main text (e.g. 1.11.12), joined there as परमो धर्मः; the popular
+   added half-line is not in it [REF:mahabharata 1.11.12]. (2) **उद्यमेन हि सिध्यन्ति
+   कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥** — the Hitopadeśa,
+   introduction, verse 36 [REF:hitopadesha prastāvikā 36]. (3) **परोपकारः पुण्याय पापाय
+   परपीडनम्।** — traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas, summed up
+   in two sayings; the framing line is not traced to any Purāṇa [REF:apte1890 s.v. पर].
+   Score /6 — three recitations, three sources; log it.
 1. मातृ ~ *māter* ~ *mother* · पितृ ~ *pater* ~ *father* · भ्रातृ ~ *frāter* ~
    *brother* (also दुहितृ ~ *thygátēr* ~ *daughter*, स्वसृ ~ *soror* ~ *sister*). No
    arrow at all: siblings from one reconstructed ancestor (v2.c02.l02 §13).
@@ -133,7 +133,7 @@ halt today.
 ऐतिहासिकः सन्दर्भः — how English came by its words, and one list that drew every arrow
 the same way.
 
-Every English word has a recorded route, and today the routes are the whole story.
+Most English words have a recorded route, and today the routes are the whole story.
 English is a Germanic language. Its oldest everyday words — *mother*, *foot*, *tooth*,
 *night*, *widow* — were never borrowed from anyone: they were inherited, generation to
 generation, exactly as Sanskrit inherited its own. Alongside that core, English took in a
@@ -148,7 +148,8 @@ Indian languages — *yoga* among them.
 > [REF:mallory2006]; [REF:oed]
 
 > **[HISTORY · इतिहासः]** English *yoga* is a genuine loan from Sanskrit योग (yoga)
-> "yoking, union". It is first recorded in English around 1820. That is a first
+> "yoking, union". It is first recorded in English in Charles Wilkins's 1785
+> translation of the Bhagavad Gītā. That date is a first
 > attestation — the earliest written use the dictionary has found — not the date the
 > word was borrowed; *yogi* is recorded earlier. [REF:oed s.vv. yoga, yogi]
 
@@ -174,9 +175,10 @@ one language answering the same sound in the other, again and again. A single ec
 > **[FACT · तथ्यम्]** Cognacy is established by regular sound correspondences, not by
 > resemblance. Between Sanskrit, Latin and English the best-known set is the Germanic
 > consonant shift (Grimm's Law): where Sanskrit and Latin keep *p*, *t* and *d*, the
-> inherited English word shows *f*, *th* and *t*; where Sanskrit has *bh* and *dh*,
-> English shows *b* and *d*. Latin did not take part in that shift.
-> [REF:mallory2006]; [REF:burrow2001]
+> inherited English word as a rule shows *f*, *th* and *t* (a *t* right after *s* or *k*
+> stays *t*: Latin *stāre* ~ *stand*, *noctis* ~ *night*); where Sanskrit has *bh* and *dh*,
+> English shows *b* and *d*. Latin did not take part in that shift. [REF:mallory2006];
+> [REF:burrow2001]
 
 ### The shift ladder
 
@@ -257,18 +259,19 @@ words, singular throughout, as always.
 शब्दों के तद्भव रूप हैं — वही शब्द, सदियों के बोलचाल में घिसकर बदले हुए। इसलिए आज के
 तीन शब्द आपकी ज़बान पर पहले से हैं; काम बस उनका पूरा संस्कृत रूप पकड़ना है।
 
-उच्चारण की चार चौकियाँ। पहली — विधवा: हिन्दी में "विध्वा" बोलने की आदत है; संस्कृत में
-बीच का अ पूरा रहता है — वि-ध-वा, तीन अक्षर। दूसरी — दूरदर्शनम्: चैनल के नाम वाली लय
-नहीं; दू-र-द-र्श-नम् — हर अ पूरा, अन्त में होंठ म् पर बन्द। तीसरी — योगः: हिन्दी का "योग"
-या अंग्रेज़ी का ढीला "योगा" नहीं; शुद्ध लम्बा ओ और अन्त में विसर्ग की साँस। चौथी — पादः
-और पद: आ की लम्बाई अर्थ बदल देती है — पादः पैर है, पद कदम या शब्द।
+उच्चारण की चार चौकियाँ। पहली — विधवा: हिन्दी में "विध्वा" बोलने की आदत है; संस्कृत में बीच
+का अ पूरा रहता है — वि-ध-वा, तीन अक्षर। दूसरी — दूरदर्शनम्: चैनल के नाम वाली लय नहीं;
+दू-र-द-र्श-नम् — हर अ पूरा, अन्त में होंठ म् पर बन्द। तीसरी — योगः: हिन्दी का "योग" या
+अंग्रेज़ी का ढीला "योगा" नहीं; शुद्ध लम्बा ओ और अन्त में विसर्ग की साँस। चौथी — पादः और पद:
+आ की लम्बाई शब्द बदल देती है — पादः पैर है; पद अलग शब्द है — कदम, निशान या शब्द, और कभी-कभी
+पैर भी।
 
-अब नये ज़माने के शब्द। दूरदर्शनम् आधुनिक शब्द है — दूर + दर्शन, अंग्रेज़ी tele-vision का
-हिस्सा-दर-हिस्सा अनुवाद। विमानम् पुराना शब्द है — काव्य में देवताओं का आकाश-रथ — जिसे
-आज हवाई जहाज़ का नया काम मिला है। यह वि + √मा "नापना, पार करना" से बना है; मान का
-अर्थ "माप" या "सम्मान" है, "वाहन" कभी नहीं। और हिस्से जोड़कर नया शब्द गढ़ना केवल
-संस्कृत की कोई अनोखी प्रतिभा नहीं — अंग्रेज़ी tele-vision और जर्मन Fern-seh-er भी यही
-करते हैं। संस्कृत की ख़ूबी इस मशीन का विस्तार है, उसका अकेलापन नहीं।
+अब नये ज़माने के शब्द। "टेलीविज़न" के अर्थ में दूरदर्शनम् आधुनिक शब्द है — दूर + दर्शन,
+अंग्रेज़ी tele-vision का हिस्सा-दर-हिस्सा अनुवाद। विमानम् पुराना शब्द है — काव्य में देवताओं
+का आकाश-रथ — जिसे आज हवाई जहाज़ का नया काम मिला है। यह वि + √मा "नापना, पार करना" से बना है;
+मान का अर्थ "माप" या "सम्मान" है, "वाहन" कभी नहीं। और हिस्से जोड़कर नया शब्द गढ़ना केवल
+संस्कृत की कोई अनोखी प्रतिभा नहीं — अंग्रेज़ी tele-vision और जर्मन Fern-seh-er भी यही करते
+हैं। संस्कृत की ख़ूबी इस मशीन का विस्तार है, उसका अकेलापन नहीं।
 
 ## 8. English Explanation
 
@@ -284,9 +287,9 @@ name of the त-row. Its English sibling is *tooth*; English *dental* is a cousi
 through Latin (§13).
 
 **पादः** (pādaḥ) "foot" — two beats on पा. Do not confuse it with पद (pada) "step;
-word", from the same root but a different word; the 1.x list printed पद beside *foot*,
-and the closer match is पाद. Sibling: *foot*; cousins through Latin: *pedal*,
-*pedestrian*.
+footprint; word" (and sometimes "foot"), from the same root but a different word; the 1.x
+list printed पद beside *foot*, and the closer match is पाद. Sibling: *foot*; cousins through
+Latin: *pedal*, *pedestrian*.
 
 **मध्यम्** (madhyam) "middle" — you have said its first half since v2.c01.l03: मध्याह्नः
 "midday" opens with it. Siblings: *mid* and *middle*.
@@ -299,15 +302,15 @@ full syllables.
 (present सर्पति "creeps"). English *serpent* came through Latin *serpēns*, "creeping
 thing" — a cousin, not a loan. English *snake* is a different word altogether.
 
-**योगः** (yogaḥ) "yoking, union; yoga" — the one word on today's list that English truly
-borrowed. Not from युग: योग and युग are two words from one root, √युज् (yuj) "join,
-harness" (§15).
+**योगः** (yogaḥ) "yoking, union; yoga" — the source of *yoga*, the one word on the 1.x list
+that English truly borrowed from Sanskrit. Not from युग: योग and युग are two words from one
+root, √युज् (yuj) "join, harness" (§15).
 
 **विमानम्** (vimānam) "the gods' aerial car (classical); aeroplane (modern)" — an old
 word with a new job. It is built from वि + √मा (mā) "measure out, traverse" — not from
 any word for "vehicle" (§13).
 
-**दूरदर्शनम्** (dūradarśanam) "television" — **modern**, and labelled so: दूर "far" +
+**दूरदर्शनम्** (dūradarśanam) "television" — **modern** in this sense, and labelled so: दूर "far" +
 दर्शन "seeing", a piece-by-piece translation of *tele-vision*. Five syllables, every a
 full.
 
@@ -319,25 +322,26 @@ asked in this order, put it there:
 1. **Did English take this word from Sanskrit, on the record?** Then it is a **loan**
    (kind b): *yoga*, *dharma*, *karma*. The arrow is real and is named by its origin:
    from Sanskrit into English.
-2. **Did English take it from Latin or Greek?** Then it is the **Latin route** (kind
-   c) — and the interesting check follows: is the Latin or Greek word Sanskrit's cognate?
-   For *dental*, *serpent* and *video* it is. English got the word from Latin; Latin and
-   Sanskrit are siblings; so the English word and the Sanskrit word are cousins through
-   Latin.
+2. **Did English take it from Latin or Greek?** Then it is the **Latin route** (kind c) —
+   but only if the interesting check that follows says yes: is the Latin or Greek word
+   Sanskrit's cognate? For *dental*, *serpent* and *video* it is. English got the word from
+   Latin; Latin and Sanskrit are siblings; so the English word and the Sanskrit word are
+   cousins through Latin.
 3. **Did English inherit it, with regular correspondences to the Sanskrit word?** Then
    they are **cognates** (kind a): *tooth*, *foot*, *widow*. No arrow at all.
 
-If all three answers are no and only the sound matches, the pair is **false** (kind d):
-*juggle* and युग. Ask the questions in order: the dictionary's route comes first,
-because a word's look is exactly what the Latin route disguises.
+If no question turns up a relation — *juggle* did come from Latin, but from *ioculārī* "to
+jest", no cognate of युग — and only the sound matches, the pair is **false** (kind d):
+*juggle* and युग. Ask the questions in order: the dictionary's route comes first, because a
+word's look is exactly what the Latin route disguises.
 
 ### Two honest kinds of modern word
 
-Modern Sanskrit makes new words in two ways, and the course labels both. Some are
+Modern Sanskrit makes new words in several ways, and the course labels the two met here. Some are
 **calques** — loan translations built from classical parts: दूरदर्शनम् (far + seeing),
 अन्तर्जालम् "internet" (between + net). Others are **old words with new jobs**: विमानम्,
 the gods' aerial car of classical poetry, now also an aeroplane. Neither method is unique
-to Sanskrit — English built *television* from Greek *tele-* and Latin *vision*, and
+to Sanskrit — *television* was built from Greek *têle* "far" and *vision* (from Latin *vīsiō*), and
 German built *Fern-seh-er* from "far", "see" and a doer-suffix.
 
 ### The toolkit's final exam in miniature
@@ -364,9 +368,9 @@ there for न, and releases from there for त. Then the visarga: a soft breath,
 vowel. If your tongue drifts up to the gum ridge, that is English *d* and *t* — slide it
 forward and re-climb.
 
-**Drill 2 — the length pair.** पद — पादः · पद — पादः. One beat on प, then two beats on
-पा. Clap it: short-short, then long-short-breath. Length is meaning here: a step, a
-foot.
+**Drill 2 — the length pair.** पद — पादः · पद — पादः. One beat on प, then two beats on पा.
+Clap it: short-short, then long-short-breath. Length makes a different word here: पद, a
+step, and पादः, a foot.
 
 **Drill 3 — the breathy welds.** First the bridge you own: मध्याह्नः, then मध्यम्. The ध
 releases with a breathy puff straight into य — one block, no vowel inside. Then
@@ -374,7 +378,7 @@ releases with a breathy puff straight into य — one block, no vowel inside. T
 without letting that middle अ disappear.
 
 **Drill 4 — the long one.** Build दूरदर्शनम् from the front: दू — दूर — दूरद — दूरदर्श —
-दूरदर्शनम्. Five syllables: dū-ra-da-rśa-nam. The र्श is a tap welded to the palatal hush;
+दूरदर्शनम्. Five syllables: dū-ra-dar-śa-nam. The र्श is a tap welded to the palatal hush;
 the final म् closes the lips. Say it three times slower than feels natural.
 
 **Drill 5 — the pure ओ.** Alternate the English loan and the Sanskrit word: *yoga*
@@ -418,8 +422,9 @@ Sanskrit word.
    visible at the edge of the upper teeth for all of द, न and त. A hidden tongue means it
    has retreated to the gum ridge.
 2. **Grimm's Law in your mouth (पादः, *foot*).** Say पादः, then *foot*. For प both lips
-   close; for *f* the lower lip meets the upper teeth. That small change of contact,
-   repeated across a language's history, is the shift of §5 — felt, not just read.
+   close and then release; for *f* the lower lip rests on the upper teeth and the air never
+   stops, hissing through. That change from a stop to a hiss (a fricative), repeated across
+   a language's history, is one part of the shift of §5 — felt, not just read.
 3. **The breath check (मध्यम्, विधवा).** Palm before the lips: ध releases a breathy puff
    you can feel, softer and voiced. No puff means plain द.
 4. **The lip check (विमानम्, दूरदर्शनम्, मध्यम्).** Every final म् closes the lips; every
@@ -445,8 +450,8 @@ Sanskrit word.
    meaning. *Fix:* §13 kind (c), the video row.
 6. **मान as "vehicle".** The word is वि + √मा "measure out, traverse"; मान means
    "measure" or "honour, pride", never "vehicle". *Fix:* §13, the modern words.
-7. **The genius overclaim.** Saying only Sanskrit can build words from parts. Every
-   language does; *tele-vision* and *Fern-seh-er* are built the same way. *Fix:* §8 and
+7. **The genius overclaim.** Saying only Sanskrit can build words from parts. Many
+   languages do; *tele-vision* and *Fern-seh-er* are built the same way. *Fix:* §8 and
    §13.
 8. **Hindi rhythm on Sanskrit words.** विधवा squeezed to "vidhvā"; दूरदर्शनम् said with
    the broadcaster's Hindi rhythm; योगः clipped to "yog" or stretched into English
@@ -476,11 +481,11 @@ have had — usually none. Ledger words appear in today's dress; roots carry √
 | द्वि (dvi) · two | (a) cognate | d ~ t |
 | द्वि (dvi) · dual | (c) Latin route | from Latin *duālis*, from *duo* |
 | दन्तः (dantaḥ) · tooth | (a) cognate | d ~ t; English lost the *n* that German *Zahn* keeps |
-| दन्तः (dantaḥ) · dental | (c) Latin route | from Latin *dēns, dentis* "tooth" |
+| दन्तः (dantaḥ) · dental | (c) Latin route | from Latin *dentālis*, built on *dēns, dentis* "tooth" |
 | √ज्ञा (jñā) · know | (a) cognate | the root of जानाति (v2.c04.l01) |
 | √ज्ञा (jñā) · gnosis | (c) Greek route | from Greek *gnôsis* |
-| √विद् (vid) · video | (c) Latin route | built in English from Latin *videō* "I see"; √विद् means "know" |
-| अग्निः (agniḥ) · ignite | (c) Latin route | from Latin *ignis* "fire"; English *fire* is a different word |
+| √विद् (vid) · video | (c) Latin route | built in English from Latin *vidēre* "to see", on the pattern of *audio*; √विद् means "know" |
+| अग्निः (agniḥ) · ignite | (c) Latin route | from Latin *ignīre* "set on fire", built on *ignis* "fire"; English *fire* is a different word |
 | युग (yuga) · yoke | (a) cognate | Latin *iugum* and Greek *zygón* further siblings |
 | युग (yuga) · yoga | (b) loan — from the wrong headword | English borrowed योग, not युग |
 | युग (yuga) · juggle | (d) false | from Latin *ioculārī* "to jest"; kin to *joke* |
@@ -491,7 +496,7 @@ have had — usually none. Ledger words appear in today's dress; roots carry √
 | √स्था (sthā) · stand | (a) cognate | the root of तिष्ठति "stands" |
 | √स्था (sthā) · state, station | (c) Latin route | through Old French from Latin *status*, *statiō* |
 | पादः (pādaḥ) · foot | (a) cognate | p ~ f, d ~ t; the 1.x list printed पद, and the closer match is पाद |
-| पादः (pādaḥ) · pedal, pedestrian | (c) Latin route | from Latin *pēs, pedis* |
+| पादः (pādaḥ) · pedal, pedestrian | (c) Latin route | *pedal* through French *pédale*, from Italian *pedale*, from Latin *pedālis* "of the foot"; *pedestrian* from Latin *pedester* "on foot"; both built on *pēs, pedis* |
 | विधवा (vidhavā) · widow | (a) cognate | dh ~ d; Latin *vidua* a third sibling |
 | सर्पः (sarpaḥ) · serpent | (c) Latin route | through Old French from Latin *serpēns* "creeping"; English *snake* is a different word |
 
@@ -520,20 +525,20 @@ four more. Two rows need a footnote. नक्त (nakta) "night" — more often
 > and a borrowed one, *yoga*. [REF:oed s.v. yoga]; [REF:monierwilliams1899 s.vv. योग,
 > युग]
 
-The date sits in §4's HISTORY callout, where it belongs: first recorded around 1820, a
-first attestation and nothing more precise. Note what the correction gives back. The
+The date sits in §4's HISTORY callout, where it belongs: first recorded in 1785 — a first
+attestation, nothing more. Note what the correction gives back. The
 1.x list drew one right arrow; today you know its true starting point, and युग keeps its
 own honest sibling, *yoke*.
 
 ### (c) Cousins through Latin and Greek
 
-> **[FACT · तथ्यम्]** √विद् (vid) "know" — as in वेद (veda) "knowledge" — and Latin
-> *vidēre* "see" are cognates. In their common ancestor the root \*weyd- meant "see",
-> and its perfect, "I have seen", came to mean "I know": Sanskrit वेद (veda) "I know" and
-> Greek *oîda* "I know" both keep that old perfect. English *video* was built from Latin
-> *videō* "I see", so it is a cousin through Latin, not a loan from Sanskrit; the
-> English words inherited from that root are *wit* and *wise*. [REF:mallory2006];
-> [REF:monierwilliams1899 s.v. विद्]; [REF:oed s.v. video]
+> **[FACT · तथ्यम्]** √विद् (vid) "know" — as in वेद (veda) "knowledge" — and Latin *vidēre*
+> "see" are cognates. In their common ancestor the root \*weyd- meant "see", and its
+> perfect, "I have seen", came to mean "I know": Sanskrit वेद (veda) "I know" and Greek
+> *oîda* "I know" both keep that old perfect. English *video* was built from Latin *vidēre*
+> "to see", on the pattern of *audio*, so it is a cousin through Latin, not a loan from
+> Sanskrit; the English words inherited from that root are *wit* and *wise*.
+> [REF:mallory2006]; [REF:monierwilliams1899 s.v. विद्]; [REF:oed s.v. video]
 
 > **[FACT · तथ्यम्]** अग्निः and Latin *ignis* "fire" are cognates; English *ignite*
 > came later from Latin. सर्पः, from √सृप् "creep", and Latin *serpēns* "creeping
@@ -541,13 +546,14 @@ own honest sibling, *yoke*.
 > English word was borrowed from Sanskrit. [REF:mallory2006]; [REF:oed s.vv. ignite,
 > serpent]
 
-The rest of kind (c) follows the same pattern: *dental* from Latin *dēns*, *pedal* and
-*pedestrian* from Latin *pēs*, *triple* and *dual* from Latin, *nocturnal* from Late
-Latin, *state* and *station* and *voice* through Old French, *novel* through Italian and
-Old French, and *gnosis* from Greek [REF:oed s.vv.]. In every case the English word's
-parent is the Latin or Greek word, and that parent is Sanskrit's sibling. You met this
-kind once already without a name: *November* is Latin's own "nine"-month, taken by
-English from Latin (v2.c03.l02).
+The rest of kind (c) follows the same pattern: *dental* from Latin *dēns*, *pedal* (through
+Italian and French) and *pedestrian* from Latin *pēs*, *triple* and *dual* from Latin,
+*nocturnal* from Late Latin, *state* and *station* and *voice* through Old French, *novel*
+through Italian and Old French, and *gnosis* from Greek [REF:oed s.vv.]. In every case the
+English word's history runs back, often through French or Italian, to a Latin or Greek word
+that is, or is built on, a cognate of the Sanskrit one. You met this kind once already
+without a name: *November* is Latin's own "nine"-month, taken by English from Latin
+(v2.c03.l02).
 
 ### (d) The false friend — juggle
 
@@ -562,20 +568,20 @@ is not a historian.
 
 ### The modern words — labelled honestly
 
-> **[FACT · तथ्यम्]** दूरदर्शनम् "television" is a modern calque — a loan translation
-> built from classical parts: दूर (dūra) "far" + दर्शन (darśana) "seeing", answering
-> *tele-* + *vision*. अन्तर्जालम् "internet" is built the same way: अन्तर् (antar)
+> **[FACT · तथ्यम्]** दूरदर्शनम् "television" is a modern calque — a loan translation built
+> from classical parts: दूर (dūra) "far" + दर्शन (darśana) "seeing", answering *tele-* +
+> *vision*; the compound itself is older, recorded as "far-seeing; foresight", but the sense
+> "television" is new. अन्तर्जालम् "internet" is built the same way: अन्तर् (antar)
 > "between" + जाल (jāla) "net". संगणकः "computer" joins सम् (sam) "together" to गणक
-> (gaṇaka), classically a reckoner — an arithmetician or astrologer who calculates.
-> विमानम् is different: a classical word, from वि + √मा "measure out, traverse", whose
-> classical senses include the gods' aerial car, a palace and a temple tower, given the
-> modern sense "aeroplane". मान (māna) means "measure" or "honour, pride", never
-> "vehicle". [REF:monierwilliams1899 s.vv. विमान, दूर, दर्शन, गणक]; [REF:apte1890 s.vv.
-> गणक, मान]
+> (gaṇaka), classically a reckoner — an arithmetician or astrologer who calculates. विमानम्
+> is different: a classical word, from वि + √मा "measure out, traverse", whose classical
+> senses include the gods' aerial car, a palace and a temple tower, given the modern sense
+> "aeroplane". मान (māna) means "measure" or "honour, pride", never "vehicle".
+> [REF:monierwilliams1899 s.vv. विमान, दूर, दर्शन, गणक]; [REF:apte1890 s.vv. गणक, मान, दूर]
 
-- **दूरदर्शनम्** — today's headword, labelled **modern**. India's public broadcaster
-  carries the name. The course names no coiner and gives no date: no source in hand
-  settles either.
+- **दूरदर्शनम्** — today's headword, labelled **modern** in the sense "television". India's
+  public broadcaster carries the name. The course names no coiner and gives no date: no
+  source in hand settles either.
 - **अन्तर्जालम्** (antarjālam) — display-only. Its second half is the जालम् "net" that
   held the lion in lesson 2.
 - **संगणकः** (saṃgaṇakaḥ) — display-only, hedged: it is the standard word in written
@@ -606,13 +612,13 @@ dress: masculines in ः, neuters in म्, विधवा in its own आ.
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | दन्तः | dantaḥ | /d̪ɐn̪t̪ɐh/ | tooth | दाँत | cognate of *tooth*; *dental* is the Latin route (§13); base of दन्त्य "dental" (v1.c01.l02); tongue on the teeth throughout (§9) |
-| पादः | pādaḥ | /pɑːd̪ɐh/ | foot | पैर, पाँव | cognate of *foot*; *pedal*, *pedestrian* via Latin (§13); not पद "step; word" — length decides (§9, §12) |
+| पादः | pādaḥ | /pɑːd̪ɐh/ | foot | पैर, पाँव | cognate of *foot*; *pedal*, *pedestrian* via Latin (§13); not पद "step; word", a different word that can also mean "foot" [REF:apte1890 s.v. पद]; [REF:monierwilliams1899 s.v. पद] — length decides which word (§9, §12) |
 | मध्यम् | madhyam | /mɐd̪ʱjɐm/ | middle | बीच, मध्य | cognate of *mid*, *middle*; the first half of मध्याह्नः (v2.c01.l03); ध्य welded (§9) |
 | विधवा | vidhavā | /ʋid̪ʱɐʋɑː/ | widow | विधवा | cognate of *widow*, Latin *vidua* (§13); three full syllables — the middle अ kept (§12) |
 | सर्पः | sarpaḥ | /sɐɾpɐh/ | snake | साँप, सर्प | "the creeper", from √सृप् (§8); *serpent* is the Latin route, not a loan (§13); repha on प |
-| योगः | yogaḥ | /joːgɐh/ | yoking, union; yoga | जोड़, मेल; योग | the one true loan into English (§4, §13); a separate word from युग, same root √युज् (§15); ओ pure, visarga breathed |
+| योगः | yogaḥ | /joːgɐh/ | yoking, union; yoga | जोड़, मेल; योग | the 1.x list's one true loan, from Sanskrit into English (§4, §13); a separate word from युग, same root √युज् (§15); ओ pure, visarga breathed |
 | विमानम् | vimānam | /ʋimɑːn̪ɐm/ | the gods' aerial car (classical); aeroplane (modern) | देवताओं का आकाश-रथ; हवाई जहाज़, विमान | classical word, modern sense; वि + √मा "measure out, traverse" — मान never meant "vehicle" (§13) |
-| दूरदर्शनम् | dūradarśanam | /d̪uːɾɐd̪ɐɾɕɐn̪ɐm/ | television | दूरदर्शन, टेलीविज़न | MODERN — a calque: दूर "far" + दर्शन "seeing" = *tele-vision* (§13); five full syllables (§9) |
+| दूरदर्शनम् | dūradarśanam | /d̪uːɾɐd̪ɐɾɕɐn̪ɐm/ | television | दूरदर्शन, टेलीविज़न | MODERN in this sense — a calque: दूर "far" + दर्शन "seeing" = *tele-vision*; the compound itself is older, "far-seeing; foresight" (§13); five full syllables (§9) |
 
 Back on duty, review row only — no re-entry to the ledger: **युग** (yuga) "yoke; age,
 era" (✓ v1.c04.l01), standing beside योगः so the two words never merge again. On the
@@ -650,7 +656,7 @@ from.
 |---|---|---|---|---|
 | (a) Cognate | none — one ancestor, two heirs | inherited by both languages; regular sound correspondences | माता ~ mother · दन्तः ~ tooth · पादः ~ foot · विधवा ~ widow | a sibling drawn as an arrow from Sanskrit into English |
 | (b) Loan from Sanskrit | from Sanskrit into English | the dictionary records English taking it from Sanskrit | yoga from योगः · dharma · karma | yoga filed under युग |
-| (c) Latin or Greek route | from Latin or Greek into English; none between Latin and Sanskrit | English took it from Latin or Greek, and that word is Sanskrit's cognate | dental (dēns ~ दन्तः) · serpent (serpēns ~ सर्पः) · video (videō ~ √विद्) | video, ignite and serpent marked as coming from Sanskrit |
+| (c) Latin or Greek route | from Latin or Greek into English; none between Latin and Sanskrit | English took it from Latin or Greek, and that word is Sanskrit's cognate | dental (dēns ~ दन्तः) · serpent (serpēns ~ सर्पः) · video (vidēre ~ √विद्) | video, ignite and serpent marked as coming from Sanskrit |
 | (d) False | none — no relation at all | only the sound matches; no correspondences | juggle (from Latin ioculārī) beside युग · go beside गच्छति | juggle filed with yoke and yoga |
 
 Read the arrows the way v2.c03.l03 taught: an arrow is named by where the word comes
@@ -721,14 +727,14 @@ Hindi. माया sets the riddles; अर्जुनः answers.
 1. सायम् अस्ति। माया वदति — कः अहम्? अहम् चलामि। मम पादः न अस्ति।
    (sāyam asti. māyā vadati — kaḥ aham? aham calāmi. mama pādaḥ na asti.) "It is
    evening. Māyā says: Who am I? I move. I have no foot." — शाम है। माया कहती है — मैं
-   कौन हूँ? मैं चलती हूँ। मेरा पैर नहीं है।
+   कौन हूँ? मैं चलता हूँ। मेरा पैर नहीं है।
 2. अर्जुनः हसति। सः वदति — सर्पः!
    (arjunaḥ hasati. saḥ vadati — sarpaḥ!) "Arjuna laughs. He says: A snake!" — अर्जुन
    हँसता है। वह कहता है — साँप!
 3. माया वदति — आम्! किम् अहम्? अहम् उपरि गच्छामि। अहम् न काकः।
    (māyā vadati — ām! kim aham? aham upari gacchāmi. aham na kākaḥ.) "Māyā says: Yes!
    What am I? I go up high. I am not a crow." — माया कहती है — हाँ! मैं क्या हूँ? मैं
-   ऊपर जाती हूँ। मैं कौआ नहीं हूँ।
+   ऊपर जाता हूँ। मैं कौआ नहीं हूँ।
 4. अर्जुनः वदति — विमानम्!
    (arjunaḥ vadati — vimānam!) "Arjuna says: An aeroplane!" — अर्जुन कहता है — हवाई
    जहाज़!
@@ -751,8 +757,9 @@ The quiet craft notes: listen to the asker before you guess. माया asks �
 masculine answers (सर्पः, दन्तः) and किम् for the neuter ones (विमानम्, दूरदर्शनम्) — the
 v2.c05 rule, catch the asker and you know the answer's kind, now doing riddle work. The
 crow of lesson 1 and its उपरि return in line 3; lesson 2's कृन्तति "cuts" becomes the
-tooth's I-form in line 7, built with the taught -मि pattern. In the Hindi of lines 5 and
-7 the riddle-objects speak in the masculine, as Hindi speaks of टेलीविज़न and दाँत.
+tooth's I-form in line 7, built with the taught -मि pattern. In the Hindi of lines 1, 3, 5
+and 7 the riddle-objects speak in the masculine, as Hindi speaks of साँप, हवाई जहाज़,
+टेलीविज़न and दाँत.
 
 ## 18. Exercises
 
@@ -810,8 +817,8 @@ sentence on why *pedal* looks more like पादः than *foot* does.
    (b) a loan: English took *tooth* from Sanskrit (c) a Latin-route pair (d) unrelated
    look-alikes
 3. English *dental*: (a) was borrowed from Sanskrit दन्त (b) came to English from Latin
-   *dēns, dentis*, whose sibling is दन्तः — the Latin route (c) is inherited English,
-   like *tooth* (d) is unrelated to दन्तः
+   *dentālis*, built on *dēns, dentis*, whose sibling is दन्तः — the Latin route (c) is
+   inherited English, like *tooth* (d) is unrelated to दन्तः
 4. English *yoga*: (a) is a loan from Sanskrit योग "yoking, union" (b) is a loan from
    युग "yoke; age" (c) is inherited in parallel, like *yoke* (d) came from Latin *iugum*
 5. *Juggle* and युग: (a) are cognates (b) are unrelated — *juggle* came from Latin
@@ -838,7 +845,7 @@ sentence on why *pedal* looks more like पादः than *foot* does.
 1. (a) foot (§8, §14). ((b) is पद, a different word — §12 mistake 9.)
 2. (a) — kind (a), no arrow (§13). ((b) is §12 mistake 1.)
 3. (b) — kind (c), the Latin route (§5, §13). ((a) is §12 mistake 2.)
-4. (a) — the one true loan; first recorded in English around 1820 (§4, §13). ((b) is
+4. (a) — the 1.x list's one true loan; first recorded in English in 1785 (§4, §13). ((b) is
    §12 mistake 4.)
 5. (b) — kind (d) (§13). ((a) is §12 mistake 3; the sound-alike proves nothing.)
 6. (b) — the corrected video row (§13). ((a) is §12 mistake 5.)
@@ -855,13 +862,13 @@ sentence on why *pedal* looks more like पादः than *foot* does.
   from योग (5) Latin route (6) false (7) cognate (8) Latin route (9) loan (10) false.
   Pass: 9/10, every reason naming the kind's test (§15). Typical slips: (3), (5) and (8)
   sorted as loans — §12 mistake 2.
-- **Exercise 2 (fix the arrow):** (a) Kind (c): English built *video* from Latin
-  *videō* "I see"; √विद् means "know", and Latin *vidēre* is its cognate. (b) Kind (c):
-  *ignite* came from Latin *ignis*, the cognate of अग्निः. (c) Kind (c): *serpent* came
-  through Old French from Latin *serpēns*, the cognate of सर्पः. (d) Kind (b), corrected:
-  *yoga* is a loan from योग, a separate word from युग. (e) Kind (d): *juggle* comes from
-  Latin *ioculārī* "to jest" and is unrelated to *yoke* and युग. (f) Kind (a): *mother*
-  and मातृ are cognates — no arrow.
+- **Exercise 2 (fix the arrow):** (a) Kind (c): English built *video* from Latin *vidēre*
+  "to see"; √विद् means "know", and Latin *vidēre* is its cognate. (b) Kind (c): *ignite*
+  came from Latin *ignīre* "set on fire", built on *ignis*, the cognate of अग्निः. (c) Kind
+  (c): *serpent* came through Old French from Latin *serpēns*, the cognate of सर्पः. (d)
+  Kind (b), corrected: *yoga* is a loan from योग, a separate word from युग. (e) Kind (d):
+  *juggle* comes from Latin *ioculārī* "to jest" and is unrelated to *yoke* and युग. (f)
+  Kind (a): *mother* and मातृ are cognates — no arrow.
 - **Exercise 3:** the eight headwords as in §14; 7/8 passes.
 - **Exercise 4:** (a) एषः मम पादः। (b) सर्पः चलति। (c) पश्य — विमानम्! (d) सः
   दूरदर्शनम् पश्यति। (e) एतत् मध्यम्। (f) अर्जुनः योगम् जानाति।
@@ -869,11 +876,12 @@ sentence on why *pedal* looks more like पादः than *foot* does.
   or *middle*. Part B — (a) *pedal* or *pedestrian* (b) *dental* (c) *triple*
   (d) *fraternal* (e) *medium* or *median*. Part C — Latin kept the old consonants that
   the inherited English words shifted (§5).
-- **Exercise 6:** (a) दूर + दर्शन — calque from classical parts. (b) अन्तर् + जाल —
-  calque from classical parts. (c) सम् + गणक — modern word from classical parts.
-  (d) वि + √मा — classical word, new sense. (e) Greek *tele-* + Latin *vision* — built
-  from parts in another language. (f) *fern* "far" + *seh-* "see" + *-er* — built from
-  parts in another language.
+- **Exercise 6:** (a) दूर + दर्शन — calque from classical parts (the compound is older, but
+  the sense "television" translates *tele-vision*, §13). (b) अन्तर् + जाल — calque from
+  classical parts. (c) सम् + गणक — modern word from classical parts. (d) वि + √मा —
+  classical word, new sense. (e) Greek *têle* "far" + *vision* (from Latin *vīsiō*) — built
+  from parts in another language. (f) *fern* "far" + *seh-* "see" + *-er* — built from parts
+  in another language.
 - **Exercise 7:** scored on four checks — one pair per kind, each reason naming the
   kind's test, the *pedal*/*foot* sentence citing the shift, and §9's pronunciation
   standard held.
@@ -894,7 +902,8 @@ sentence on why *pedal* looks more like पादः than *foot* does.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- +1 day: ten word pairs sorted cold into the four kinds (cognate / loan / Latin route / false) — the Volume 2 exam's Station 0 (v2.c06.l05) runs exactly this.
+- +1 day: ten word pairs sorted cold into the four kinds (cognate / loan / Latin route /
+  false) — the Volume 2 exam's Station 0 (v2.c06.l05) runs exactly this.
 - **At the exam (v2.c06.l05):** task D, the volume's honesty sort, draws cards from this
   lesson's four kinds beside the chapter's fable and verse cards; task E asks you to
   retell one of the chapter's two stories in your own Sanskrit and to hold a short
@@ -991,15 +1000,15 @@ cold, the chosen story, and the two role cards from v2.c05.
 
 **Asset 2 — `planned:assets/images/volume-2/v2c06l04-sound-shift-ladder.svg`**
 
-> A three-column ladder chart, same style. Columns: Sanskrit · Latin · English
-> (inherited). Rungs: पादः · pēs · foot; पितृ · pater · father; दन्तः · dēns · tooth;
-> द्वि · duo · two; त्रि · trēs · three; भ्रातृ · frāter · brother; मध्यम् · medius ·
-> mid; विधवा · vidua · widow. The shifted English consonant is highlighted in each rung
-> (f, t, th, b, d). A fourth faint column on the right, "English via Latin": pedal,
-> dental, dual, triple, fraternal, medium — with a caption "these kept Latin's
-> consonants — that is why they look closer". Footer word-anatomy strip: a side-view
-> mouth for दन्तः (tongue tip on the upper teeth) and a pair of lip diagrams — प with both
-> lips closed, *f* with lower lip on upper teeth — captioned "the shift, felt".
+> A three-column ladder chart, same style. Columns: Sanskrit · Latin · English (inherited).
+> Rungs: पादः · pēs · foot; पितृ · pater · father; दन्तः · dēns · tooth; द्वि · duo · two;
+> त्रि · trēs · three; भ्रातृ · frāter · brother; मध्यम् · medius · mid; विधवा · vidua ·
+> widow. The shifted English consonant is highlighted in each rung (f, t, th, b, d). A
+> fourth faint column on the right, "English via Latin": pedal, dental, dual, triple,
+> fraternal, medium — with a caption "these kept Latin's consonants — that is why they look
+> closer". Footer word-anatomy strip: a side-view mouth for दन्तः (tongue tip on the upper
+> teeth) and a pair of lip diagrams — प with both lips closed, *f* with lower lip on upper
+> teeth and an unbroken airflow arrow passing between them — captioned "the shift, felt".
 
 **Asset 3 — `planned:assets/worksheets/volume-2/v2c06l04-sorter-cards.pdf` (layout spec)**
 
@@ -1027,10 +1036,11 @@ Lesson video, ~6 min, presenter + motion graphics.
    tiles and each pair drops into its bin: *mother* and *tooth* into "cognate", *yoga*
    into "loan" (a युग tile bounces off the loan bin and lands with *yoke* in "cognate"),
    *serpent* and *dental* into "Latin route", *juggle* into "false" with a soft buzzer.
-4. **The shift (3:20–4:30):** the ladder animates: पादः, *pēs*, *foot* side by side;
-   the *p* of *pēs* stays, the *p* of the English line morphs into *f* while a lip
-   diagram shows the contact change. Then *pedal* drops in beside *pēs* and glows:
-   "this one kept Latin's *p* — that's why it looks closer."
+4. **The shift (3:20–4:30):** the ladder animates: पादः, *pēs*, *foot* side by side; the *p*
+   of *pēs* stays, the *p* of the English line morphs into *f* while a lip diagram shows the
+   full lip closure giving way to air hissing between lip and teeth — a stop becoming a
+   fricative. Then *pedal* drops in beside *pēs* and glows: "this one kept Latin's *p* —
+   that's why it looks closer."
 5. **New words (4:30–5:20):** दूरदर्शनम् splits into दूर + दर्शन beside *tele* +
    *vision* and German *Fern-seh-er*; विमानम् shows वि + √मा over a classical chariot
    in clouds that turns into a modern aeroplane; a "मान = vehicle" tag peels off and
@@ -1073,7 +1083,7 @@ narrator reads the cue, not the English spelling.
   from Sanskrit?"
 - **Demo (0:07–0:30):** four bins snap onto the screen. *tooth* + dantaḥ drop into
   "cognate — no arrow". *yoga* drops into "loan — from yoga, not yuga". *video* drops
-  into "Latin route — from Latin *videō*". *juggle* drops into "false" — buzzer. Then
+  into "Latin route — from Latin *vidēre*". *juggle* drops into "false" — buzzer. Then
   the twist: *pedal* and *foot* side by side — "*foot* is the real sibling; *pedal*
   came through Latin."
 - **Payoff (0:30–0:43):** "Learners of this course can sort any English word honestly:
@@ -1143,17 +1153,18 @@ narrator reads the cue, not the English spelling.
   modern`. Quoted error forms ("vidhvā", "yog", "dūrdarśan") export as `error_form`,
   never as transliteration. §19's key (quiz + exercise keys) stays in `<details>` in all
   renders.
-- **Verification flags for Pass C:** every §13 row against [REF:mallory2006] and
-  [REF:oed] per fact 0.9 and the research evidence file (topic "cognates"), including the
-  skeptic's corrections (novel via Italian and Old French; the √विद् perfect "I have
-  seen" → "I know"; yoga's c. 1820 as first attestation; *yogi* recorded earlier — confirm
-  in OED); the Grimm's Law statement and ladder rows (§5) against [REF:mallory2006] and
-  [REF:burrow2001]; विमान, मान, दूर, दर्शन, गणक senses (§13) against MW and Apte;
-  संगणकः's Marathi status (hedged as written and official usage); the Hindi tadbhava
-  pairs दाँत, पाँव, साँप (§7, §22) — not in the fact base: verify against
-  [REF:masica1991] or soften; the [REF:cardona1997] line on the Pāṇinian tradition's
-  detail (§13) — not in the fact base: confirm or cut; the Station 0 source phrases
-  against l03 when it exists; all §10/§14 IPA diffed against STYLE_GUIDE §2 (Pass A).
+- **Verification flags for Pass C:** every §13 row against [REF:mallory2006] and [REF:oed]
+  per fact 0.9 and the research evidence file (topic "cognates"), including the skeptic's
+  corrections (novel via Italian and Old French; the √विद् perfect "I have seen" → "I know";
+  yoga's first attestation, 1785 (Wilkins's Bhagavad Gītā), as the online OED and
+  Merriam-Webster give it — OED1 and Etymonline had c. 1820; *yogi* recorded earlier — check
+  the OED quotation itself when access allows); the Grimm's Law statement and ladder rows
+  (§5) against [REF:mallory2006] and [REF:burrow2001]; विमान, मान, दूर, दर्शन, गणक senses
+  (§13) against MW and Apte; संगणकः's Marathi status (hedged as written and official usage);
+  the Hindi tadbhava pairs दाँत, पाँव, साँप (§7, §22) — not in the fact base: verify against
+  [REF:masica1991] or soften; the [REF:cardona1997] line on the Pāṇinian tradition's detail
+  (§13) — not in the fact base: confirm or cut; the Station 0 source phrases against l03
+  when it exists; all §10/§14 IPA diffed against STYLE_GUIDE §2 (Pass A).
 - **Register audit:** FACT ×11 (§4 English's layers · §5 correspondences, learning
   burden, spacing ×3 · §13 siblings, yoga loan, √विद्, ignite/serpent, juggle, modern
   words ×6 · §15 headword dress and word parts ×1) · HISTORY ×1 (§4 yoga's first

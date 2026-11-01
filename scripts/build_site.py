@@ -80,6 +80,8 @@ REF_NAMES = {
     "mallory2006": "Mallory & Adams 2006", "masica1991": "Masica 1991",
     "ladefoged2015": "Ladefoged & Johnson 2015", "ohala1994": "Ohala 1994",
     "perry1952": "Perry 1952", "lichtheim1980": "Lichtheim 1980", "ryder1925": "Ryder 1925",
+    "rackham1940": "Rackham 1940", "sternbach1974": "Sternbach 1974",
+    "piyusham5": "Saṃskṛta Pīyūṣam, Class 5",
     "roediger2006": "Roediger & Karpicke 2006", "cepeda2006": "Cepeda et al. 2006",
     "nation2013": "Nation 2013", "krashen1982": "Krashen 1982", "cefr2020": "CEFR 2020",
 }
