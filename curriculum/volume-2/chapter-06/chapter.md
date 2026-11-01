@@ -8,9 +8,9 @@ title:
 volume: 2
 chapter: 6
 cefr: A2
-status: draft
+status: reviewed
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 # Chapter 6 — कथाः शब्दयात्राश्च · Stories & Word Journeys

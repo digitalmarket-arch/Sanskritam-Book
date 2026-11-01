@@ -257,7 +257,7 @@ Status change: v2.c01 lessons 01–05 `draft` → `reviewed`.
 | Kinship cognate shelf मातृ/पितृ/भ्रातृ/दुहितृ/स्वसृ ~ māter/pater/frāter/thygátēr/soror ~ mother/father/brother/daughter/sister — shared PIE descent, direction-honest | [REF:mallory2006]; [REF:burrow2001] | ✅ THE flagship; f/p correspondence note correct | l02 §5, §13 |
 | Jones 1786 "sprung from some common source" address | [REF:mallory2006] | ✅ quote verbatim (Third Anniversary Discourse) | l02 §5 HISTORY |
 | Kinship terms attested from Ṛgveda | [REF:jamison2014 p.5]; [REF:burrow2001] | ✅ | l02 §4 |
-| वसुधैव कुटुम्बकम् — Hitopadeśa Mitralābha 71 (common editions) + Mahopaniṣad parallel | [REF:hitopadesha mitralābha 71] | ✅ hedged locus, TRADITION register | l02 §4 |
+| वसुधैव कुटुम्बकम् — Hitopadeśa Mitralābha 71 + Mahopaniṣad parallel | [REF:hitopadesha mitralābha 71] | ✅ hedged locus, TRADITION register; re-hedged at the v2.c06 review from "common editions" to the GRETIL numbering (the Nirṇaya Sāgara edition Apte cites has 70) | l02 §4 |
 | भगिनी everyday / स्वसा cognate-carrier; Hindi बहन < भगिनी; दुहिता beside पुत्री | [REF:apte1890]; [REF:monierwilliams1899]; [REF:masica1991] | ✅ division-of-labor honesty | l01 |
 | एषः/एषा chunks; तस्याः display | [REF:apte1890 s.v. एतद्] | ✅ no paradigm claims | l02 |
 | World set s.vv. incl. पृथिवी/पृथ्वी variant; नगर-in-देवनागरी callback | [REF:apte1890]; [REF:monierwilliams1899] | ✅ | l03 |
@@ -357,6 +357,58 @@ Status change: v2.c04 lessons 01–05 `draft` → `reviewed`.
 | D | Coherence: Station 0 chain c04.l05 → l01 → … → l05 verified; l05's pointers, role cards and keys audited against the final sibling files; the fact base's भोजनम् object corrected (only the stem has a §14 row). A post-fix verification re-read every changed file against the pre-fix commit: one stale l04 §27 glossary line found and fixed. | pass |
 
 Status change: v2.c05 chapter frame and lessons 01–05 `draft` → `reviewed`.
+
+## Chapter v2.c06 — research verdicts (2026-10-25 → 2026-11-01)
+
+Drafted against the fact base in research/notes/vol2-ch6-stories-word-journeys.md, then
+re-verified claim by claim in a deep research pass (2026-11-01): six topic researchers
+(crow, lion, Mahābhārata verse, Hitopadeśa and subhāṣita, etymology, forms) checked 159
+claims on the web and in the primary texts; every flagged claim was challenged by an
+independent skeptic and adjudicated in the main loop. 86 held as written; of 73 flagged,
+67 were corrected (219 edits) and 6 kept when the skeptic showed the wording held. The full
+record is research/evidence/vol2-ch6-deep-research.json.
+
+| Claim | Source | Verdict | Used in |
+|---|---|---|---|
+| The Thirsty Crow is an Aesopic fable (Perry 390); no version is known in the Pañcatantra, the Hitopadeśa or the Jātakas; "a Pañcatantra story" is a modern label | [REF:perry1952 no. 390] | ✅ hedged: absence of attestation, not origin — never "it does not come from India" | l01 §4, l05 §4, task D card 5 |
+| Its earliest known versions are Greek and Latin of the 1st century CE — a Greek epigram (Anth. Pal. 9.272) and Pliny's report of a raven at a tomb urn (NH 10.125); Avianus (Fabulae 27, c. 400 CE) tells it later as a fable | [REF:rackham1940 10.125]; [REF:perry1952 no. 390] | ✅ corrected at deep research (Avianus had been given as the earliest) | l01 §4 |
+| Today it is retold in a state-board Sanskrit reader (UP Class 5, lesson काकस्य उद्यमः) | [REF:piyusham5] | ✅ cited by lesson title; no popularity superlative | l01 §4 |
+| The Lion and the Mouse is Aesopic (Perry 150) and also told in an Egyptian Demotic narrative of the 2nd century CE | [REF:perry1952 no. 150]; [REF:lichtheim1980 pp. 156–159] | ✅ | l02 §4, l05 §4 |
+| Two Indian cousins: Pūrṇabhadra's Pañcatantra, Book 2 (mice gnaw the ropes tying a herd of elephants) and the Hitopadeśa's Mitralābha frame (a mouse gnaws a net to free birds) | [REF:ryder1925 Book II]; [REF:hitopadesha mitralābha] | ✅ ropes, not nets, in the Pañcatantra; no claim about which came first; the exam accepts either cousin (review) | l02 §4, l05 §3/§4/§19 |
+| The 1.x lion text needs five changes: four word choices (स्वपिति, चलति, the future plea, कृन्तति) and one plot gap | 1.x PDF p. 65 | ✅ count reconciled at review (had been "four") | l02 §4/§8 |
+| अहिंसा परमो धर्मः stands at Mahābhārata (critical edition) 1.11.12, 3.198.69, 13.116.1, 13.116.25 and 13.117.37, and three more times only in star and appendix passages (2.38.31*374; 13 App. I no. 15, lines 1026 and 1203) | [REF:mahabharata] (BORI e-text, GRETIL) | ✅ appendix lines added at review | l03 §8 |
+| "… धर्महिंसा तथैव च" is not in the critical edition at any of those loci — a modern misquotation | [REF:mahabharata] | ✅ stated narrowly (not attested in the edition) | l03 §8/§22, l05 card 6 |
+| उद्यमेन हि सिध्यन्ति… is Hitopadeśa prastāvikā 36 (the GRETIL and Nirṇaya Sāgara numberings agree there); it also circulates in the Pañcatantra (textus simplicior, Book 2, with the last line विशन्ति वदने मृगाः) | [REF:hitopadesha prastāvikā 36]; [REF:apte1890 s.v. सिध्] | ✅ the lessons cite only the Hitopadeśa locus and give no Pañcatantra verse number | l03 §8/§22, l05 rung 6 |
+| परोपकारः पुण्याय पापाय परपीडनम् is quoted as Vyāsa's teaching in the eighteen Purāṇas; the first line is not traced to any Purāṇa; the second line is spoken by the cat as judge in Pañcatantra Book 3; Sternbach no. 3587 | [REF:sternbach1974 3587]; [REF:panchatantra tantra 3, the cat as judge]; [REF:apte1890 s.v. पर] | ✅ TRADITION framing; story named at review | l03 §8, l04 §3, l05 §4/Q8 |
+| वसुधैव कुटुम्बकम् is Hitopadeśa Mitralābha 71 in the GRETIL numbering (70 in the Nirṇaya Sāgara edition Apte cites) | [REF:hitopadesha mitralābha 71] | ✅ re-hedged at review here and in v2.c02.l02 (was "in common editions") | l03 §3, v2.c02.l02 §4 |
+| The 1.x "English from Sanskrit" list sorts into four kinds: 15 cognates, 12 Latin/Greek-route words, 1 loan (yoga), 1 false pair (juggle) | [REF:mallory2006]; [REF:oed] s.vv. | ✅ the sorting claim scoped to that list at review | l04 §8/§13 |
+| *yoga* is an English loan from योग "yoking, union", not from युग; first recorded in 1785 (Wilkins's Bhagavad Gītā) | [REF:oed] s.v. yoga | ✅ corrected at deep research (had been "around 1820") | l04 §13 |
+| *video* is from Latin *vidēre* "to see", cognate with √विद् "know"; *ignite* from Latin *ignīre*; *serpent* through Old French from *serpēns* | [REF:oed]; [REF:mallory2006] | ✅ corrected at deep research (*videō* "I see" → *vidēre*) | l04 §13, l05 card 7 |
+| Grimm's Law, with its exception: *t* after *s* or *k* stays *t* (*stand*, *night*) | [REF:mallory2006] | ✅ exception added at deep research | l04 §5 |
+| Hindi दाँत, पाँव, साँप are the tadbhava forms of दन्त, पाद, सर्प | Turner's CDIAL via Wiktionary (dossier WJ-42); [REF:masica1991] for the term | ✅ kept as written at review | l04 §7/§22 |
+| दूरदर्शनम् is an older compound ("far-seeing; foresight") used in a new sense, "television"; विमानम् a classical word (वि + √मा) in a new sense; संगणकः modern, not called a calque | [REF:monierwilliams1899]; [REF:apte1890] | ✅ corrected at deep research; exercise 6 offers the key's label (review) | l04 §13/§18 |
+| A describing word agrees with its noun in gender, number and case (the endings match only within one declension) | [REF:whitney1889] | ✅ l03 §15 corrected at review (had said it "wears the ending of the noun") | l03 §15 |
+| Anusvāra before *s* or *h* transcribed as a nasalized vowel throughout, as in Volume 1 | STYLE_GUIDE §2 | ✅ unified at deep research | all |
+| Ledger chain 328 → 335 → 346 → 352 → 360 → 360 (32 ledger-new); Volume 2 adds 123; exit 360 | STYLE_GUIDE §8 | ✅ held across all five lessons | all |
+
+## Review-pass findings — v2.c06 (2026-11-01)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Adversarially verified review, run after the deep research and informed by its dossier (four dimensions, two parallel workflows; evidence verifier on every finding, domain expert and fix skeptic on blockers and majors): 67 findings, 65 confirmed (1 blocker, 29 major, 35 minor), 2 rejected; merged to 34 distinct issues and 83 fixes, applied mechanically. Accuracy (19): the exam marked the Hitopadeśa cousin wrong; rung 5's "under 40 s" was faster than l01's own timed bar; Station 0 ran a different deck from the one l04 booked; exam pointers in l02/l03 put the lion story on the reading ladder; volume.md still printed the plan (~450 words, 10–16 per lesson, third person only). | green |
+| B | Policy (18 confirmed; "for centuries" refuted as an unquantified, true phrase): the l03 §15 blocker (agreement, not "the same ending"); crow retelling beats aligned with l01 §8; conversation moves in Chapter 5's order; superlatives cut from l03 §1, l02 §4, l05 §5 and §7; l04's "any English–Sanskrit pair" and reel claim scoped. | pass |
+| C | Citations (12): the Mahābhārata appendix lines; the Pañcatantra story named (the cat as judge); verse 71 in the GRETIL numbering; the वि gloss sourced to Apte and Monier-Williams; roediger2006 cited only for what it shows; the l04 tadbhava flag closed with the record of what was checked; STYLE_GUIDE §8 exits gain 360. | pass |
+| D | Coherence (16 confirmed; Volume 3 "is being written next" refuted as house convention): stale drafting notes in every §27 firmed against the files; the fact base's change count; l04 Station 0 quotes l03's booking verbatim; pointer repairs in l05 (§3, §12). | pass |
+
+Post-fix verification: one verifier per changed file (11 files, including volume.md, the
+fact base, REFERENCES, STYLE_GUIDE and v2.c02.l02) re-read the applied fixes against the
+pre-review commit, re-solved the keys and checked every restatement; each claimed defect
+faced a skeptic. Six files were clean; five minor defects survived and were fixed (the l05
+§27 list of checked pointers; l04 §7's Hindi restatement of the "every pair" claim; stale
+§27 flags in l03 and l04; the fact base's task D clause).
+
+Status change: v2.c06 chapter frame, lessons 01–05 and the Volume 2 frame `draft` →
+`reviewed`. **Volume 2 complete.**
 
 ## Deep research audit — all shipped content (2026-10-22 → 2026-10-24)
 

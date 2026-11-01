@@ -4,6 +4,72 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.12.0] — 2026-11-01
+
+Volume 2 Chapter 6 — कथाः शब्दयात्राश्च (Stories & Word Journeys) reviewed and shipped:
+**Volume 2 (Words & Sentences) is complete** — 30 lessons, 123 ledger-new words, 360
+readable words at its exit. Before its review, the chapter had a deep research pass of its
+own: every factual claim re-verified on the web and challenged by an independent skeptic.
+
+### Added
+
+- v2.c06 five lessons, reviewed: The Thirsty Crow (the crow story in pause form; an Aesopic
+  fable, Perry 390, with no known version in India's old fable books), The Lion and the
+  Mouse (Perry 150, also told in an Egyptian Demotic narrative; its two Indian cousins; the
+  1.x text compared and corrected in the open), Three Sayings (अहिंसा परमो धर्मः at its
+  five critical-edition loci and the धर्महिंसा misquotation; उद्यमेन हि सिध्यन्ति… from the
+  Hitopadeśa; परोपकारः पुण्याय… in TRADITION framing), Word Journeys (the 1.x "English from
+  Sanskrit" list re-sorted into cognate, loan, Latin route and false; modern coinages
+  labelled) and the Volume 2 exam (Station 0, four review stations and five tasks; it
+  gates Volume 3). 32 ledger-new words: 328 → 360.
+- `research/evidence/vol2-ch6-deep-research.json`: the chapter's deep-research dossier —
+  159 claims in six topics, each with its evidence, sources, the skeptic's challenge and the
+  decision taken.
+- REFERENCES: `rackham1940` (Pliny, *Natural History* 10.125, Loeb), `sternbach1974`
+  (*Mahā-subhāṣita-saṃgraha*, cited by subhāṣita number), `piyusham5` (the Uttar Pradesh
+  Class 5 Sanskrit reader, cited by lesson title). The `hitopadesha` entry names the course's
+  verse numbering (the GRETIL e-text) and where it diverges from the Nirṇaya Sāgara edition
+  that Apte cites; `panchatantra` names its Sanskrit text (Jha, Chowkhamba 1991);
+  `mahabharata` gains the citing form for star and appendix passages and the e-text credit.
+
+### Fixed
+
+- v2.c06 deep research: 159 claims re-verified; 86 held as written, 73 were flagged, and
+  after the skeptic's challenge 67 were corrected (219 edits) and 6 kept as written. Main
+  corrections: the crow fable's earliest known versions are Greek and Latin of the 1st
+  century CE (a Greek epigram and Pliny's report), with Avianus (c. 400 CE) later; *yoga* is
+  first recorded in English in 1785 (Wilkins's Bhagavad Gītā), not c. 1820; *video* is from
+  Latin *vidēre* "to see"; Grimm's Law carries its exception (*t* after *s* or *k* stays:
+  *stand*, *night*); दूरदर्शनम् is an older compound ("far-seeing; foresight") in a new
+  sense; anusvāra before *s*/*h* transcribed as a nasalized vowel throughout, as in
+  Volume 1.
+- v2.c06 review (passes A–D, adversarially verified): 65 findings confirmed (1 blocker,
+  29 major, 35 minor) and 2 rejected, merging to 34 distinct issues; 83 fixes. The blocker:
+  l03's grammar callout said a describing word "wears the ending of the noun it describes"
+  — now agreement in gender, number and case. Majors: the exam accepts either Indian
+  cousin of the lion story, with the Hitopadeśa's added to its cited callout; the reading
+  ladder's story bar follows l01's natural pace (under 65 s; was "under 40 s", faster than
+  l01's own timed bar); Station 0 runs the deck l04 booked; the crow retelling is scored on
+  l01's plot map; exam pointers in l02/l03 corrected (the lion story is task A's listening
+  text); "where the story comes from" → "where it is found"; unsourced superlatives cut;
+  "sources you can check" → "source lines as firm as the evidence". A post-fix
+  verification re-read all 11 changed files against the pre-review commit: six were clean,
+  and five minor defects (stale §27 notes, one Hindi restatement of a claim the review had
+  scoped, one fact-base clause) were fixed.
+- `curriculum/volume-2/volume.md` describes Volume 2 as built: 360 readable words at exit,
+  123 ledger-new (never more than 11 in a lesson), the present singular in all three persons,
+  the four-kind word sort.
+- v2.c02.l02: वसुधैव कुटुम्बकम् located as Mitralābha 71 in the GRETIL numbering (was "in
+  common editions"; the Nirṇaya Sāgara edition has 70).
+- STYLE_GUIDE §8: the canonical Volume 2 exits gain 360.
+
+### Known follow-up
+
+- A course-wide superlative audit (STYLE_GUIDE §7): earlier exams still say retrieval plus
+  recombination is "the strongest rehearsal pair there is" (v2.c03.l05, v2.c04.l05,
+  v2.c05.l05; similar lines in v2.c04.l03 and v2.c05.l02), and some Volume 1 hooks use "the
+  most famous" lines. Chapter 6 was cleaned; the rest is logged for one sweep.
+
 ## [0.11.0] — 2026-10-27
 
 Volume 2 Chapter 5 — संवादः (Daily Conversation) complete and reviewed; Chapter 6 —

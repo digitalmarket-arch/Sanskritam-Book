@@ -8,9 +8,9 @@ title:
 volume: 2
 cefr: "A1 → A2"
 chapters: 6
-status: draft
+status: reviewed
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-11-01
 ---
 
 # Volume 2 — शब्दाः वाक्यानि च · Words & Sentences

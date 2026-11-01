@@ -39,11 +39,13 @@ Chapter 6 ends with the learner reading real connected words and a first (sandhi
 | 3 | संख्याः कालश्च — Numbers & Time | 5 | ✅ reviewed |
 | 4 | क्रियाः — First Verbs | 5 | ✅ reviewed |
 | 5 | संवादः — Daily Conversation | 5 | ✅ reviewed |
-| 6 | कथाः शब्दयात्राश्च — Stories & Word Journeys | 5 | 🟦 drafting |
+| 6 | कथाः शब्दयात्राश्च — Stories & Word Journeys | 5 | ✅ reviewed |
 
 Carries the verified 1.x vocabulary sets (purged of Hindi loans), the 10-verb bank, the graded
 readers (Thirsty Crow; Lion & Mouse) with sandhi-resolved text, the first subhāṣitas, and the
-Indo-European cognates unit — reframed as *shared descent*, not "English from Sanskrit".
+1.x "English from Sanskrit" list — re-sorted into cognates (*shared descent*), loans,
+Latin-route words and false pairs. **Complete 2026-11-01:** 30 lessons, 360 readable words
+at exit.
 
 ## Volume 3 — व्याकरणम् · Core Grammar (A2 → B1)
 
@@ -182,6 +184,18 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   of every changed file. 20 ledger-new (328 cumulative); 56 reviewed lessons, validator
   green, exports current (0.11.0). **v2.c06 drafted in full** (five lessons, validator
   green); its review is next and completes Volume 2.
+- **2026-11-01** — **v2.c06 कथाः शब्दयात्राश्च complete and reviewed — VOLUME 2 COMPLETE**:
+  two graded readers in pause form (the thirsty crow, an Aesopic fable with no known
+  version in India's old fable books; the lion and the mouse, with its two Indian
+  cousins), three sayings with honest source lines (अहिंसा परमो धर्मः at its
+  critical-edition loci and the धर्महिंसा misquotation; उद्यमेन हि सिध्यन्ति…; परोपकारः
+  पुण्याय… as tradition), the 1.x "English from Sanskrit" list re-sorted into cognate,
+  loan, Latin route and false, and the Volume 2 exam. A deep research pass re-verified all
+  159 claims before review (67 corrected after a skeptic challenge); review passes A–D ran
+  as two verified workflows (65 findings confirmed, 83 fixes), followed by a post-fix
+  verification of every changed file. 32 ledger-new (360 cumulative; Volume 2 adds 123);
+  61 reviewed lessons, validator green, exports current (0.12.0). Next: Volume 3
+  व्याकरणम् — Core Grammar, starting with v3.c01 सुबन्तप्रवेशः — Nouns & Cases I.
 
 ## Content preservation map (from the 1.x curriculum)
 

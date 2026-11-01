@@ -40,12 +40,12 @@ media:
     - "planned:assets/quizzes/volume-2/v2c06l05-volume-quiz-key.md"
 tags: [review, assessment, milestone, volume-final, stories, retelling, honesty-sort,
        listening, dictation, reading-ladder, role-play, production]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-01"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 ## 1. Hook

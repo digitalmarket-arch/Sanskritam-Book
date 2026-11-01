@@ -40,12 +40,12 @@ media:
     - "planned:assets/worksheets/volume-2/v2c06l02-reading-log.pdf"
   quizzes: []
 tags: [reading, story, fable, fluency, three-speeds, comprehension, nine-askers, retelling, imperative-chunk, sandhi-preview, history-honesty]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-01"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 ## 1. Hook

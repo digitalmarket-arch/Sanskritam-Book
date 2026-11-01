@@ -1164,7 +1164,7 @@
         "hi": "प्यासा कौआ",
         "en": "The Thirsty Crow"
       },
-      "status": "draft",
+      "status": "reviewed",
       "cefr": "A2",
       "prerequisites": [
         "v2.c05.l05"
@@ -1185,7 +1185,7 @@
         "hi": "शेर और चूहा",
         "en": "The Lion and the Mouse"
       },
-      "status": "draft",
+      "status": "reviewed",
       "cefr": "A2",
       "prerequisites": [
         "v2.c06.l01"
@@ -1206,7 +1206,7 @@
         "hi": "तीन सुभाषित",
         "en": "Three Sayings"
       },
-      "status": "draft",
+      "status": "reviewed",
       "cefr": "A2",
       "prerequisites": [
         "v2.c06.l02"
@@ -1227,7 +1227,7 @@
         "hi": "शब्दों की यात्राएँ",
         "en": "Word Journeys"
       },
-      "status": "draft",
+      "status": "reviewed",
       "cefr": "A2",
       "prerequisites": [
         "v2.c06.l03"
@@ -1248,7 +1248,7 @@
         "hi": "पुनरावृत्ति — दूसरे खण्ड की परीक्षा",
         "en": "The Volume 2 Exam"
       },
-      "status": "draft",
+      "status": "reviewed",
       "cefr": "A2",
       "prerequisites": [
         "v2.c06.l04"
