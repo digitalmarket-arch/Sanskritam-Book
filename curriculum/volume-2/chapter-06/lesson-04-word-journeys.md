@@ -18,8 +18,8 @@ review_of: [v2.c06.l03, v2.c02.l02, v2.c03.l03]
 objectives:
   - en: "Read and say the eight new words — दन्तः, पादः, मध्यम्, विधवा, सर्पः, योगः, विमानम्, दूरदर्शनम् — every dental on the teeth, every a full, every visarga breathed, and use them in pause-form sentences: एषः मम पादः। सर्पः चलति। सः दूरदर्शनम् पश्यति।"
     hi: "आठों नये शब्द — दन्तः, पादः, मध्यम्, विधवा, सर्पः, योगः, विमानम्, दूरदर्शनम् — पढ़ें-बोलें: हर दन्त्य वर्ण दाँतों पर, हर अ पूरा, हर विसर्ग साँस समेत; और इन्हें विराम-रूप के वाक्यों में बरतें: एषः मम पादः। सर्पः चलति। सः दूरदर्शनम् पश्यति।"
-  - en: "Sort any English–Sanskrit pair into one of four kinds — cognate (no arrow), loan from Sanskrit, Latin or Greek route, or false — and give the reason in one line: tooth and दन्तः are cognates; yoga is a loan from योग; dental came through Latin; juggle is unrelated to युग."
-    hi: "अंग्रेज़ी-संस्कृत के किसी भी शब्द-जोड़े को चार में से एक खाने में रखें — सजातीय (कोई तीर नहीं), संस्कृत से उधार, लैटिन या यूनानी का रास्ता, या झूठा रिश्ता — और कारण एक पंक्ति में दें: tooth और दन्तः सजातीय; yoga योग से उधार; dental लैटिन के रास्ते; juggle का युग से कोई नाता नहीं।"
+  - en: "Sort an English–Sanskrit pair into one of four kinds — cognate (no arrow), loan from Sanskrit, Latin or Greek route, or false — and give the reason in one line: tooth and दन्तः are cognates; yoga is a loan from योग; dental came through Latin; juggle is unrelated to युग."
+    hi: "अंग्रेज़ी-संस्कृत के शब्द-जोड़े को चार में से एक खाने में रखें — सजातीय (कोई तीर नहीं), संस्कृत से उधार, लैटिन या यूनानी का रास्ता, या झूठा रिश्ता — और कारण एक पंक्ति में दें: tooth और दन्तः सजातीय; yoga योग से उधार; dental लैटिन के रास्ते; juggle का युग से कोई नाता नहीं।"
   - en: "Correct the 1.x arrows one by one — video, ignite and serpent came to English through Latin; √विद् means 'know', not 'see'; yoga comes from योग, not युग — and explain why the Latin-route words look more like Sanskrit than the inherited English ones: the Germanic consonant shift."
     hi: "1.x के तीर एक-एक कर सुधारें — video, ignite और serpent लैटिन के रास्ते अंग्रेज़ी में आए; √विद् का अर्थ 'जानना' है, 'देखना' नहीं; yoga योग से है, युग से नहीं — और समझाएँ कि लैटिन-मार्ग वाले शब्द विरासत वाले अंग्रेज़ी शब्दों से ज़्यादा संस्कृत जैसे क्यों दिखते हैं: जर्मनिक व्यञ्जन-परिवर्तन।"
   - en: "Label modern Sanskrit words honestly: दूरदर्शनम् and अन्तर्जालम् translate tele-vision and inter-net part by part; विमानम् is a classical word — from वि + √मा 'measure out, traverse' — given the new sense 'aeroplane'; and building words from parts is ordinary across languages."
@@ -64,7 +64,7 @@ and the four-way sort that tells every journey truthfully.
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Read and say the eight new words — every dental on the teeth, every a full — and use them in pause-form sentences: एषः मम पादः। सर्पः चलति। | आठों नये शब्द पढ़ें-बोलें — हर दन्त्य दाँतों पर, हर अ पूरा — और विराम-रूप के वाक्यों में बरतें। |
-| 2 | Sort any English–Sanskrit pair into cognate, loan, Latin or Greek route, or false — with a one-line reason. | किसी भी शब्द-जोड़े को चार खानों में रखें — सजातीय, उधार, लैटिन-मार्ग, झूठा — एक पंक्ति के कारण के साथ। |
+| 2 | Sort an English–Sanskrit pair into cognate, loan, Latin or Greek route, or false — with a one-line reason. | शब्द-जोड़े को चार खानों में रखें — सजातीय, उधार, लैटिन-मार्ग, झूठा — एक पंक्ति के कारण के साथ। |
 | 3 | Correct the 1.x arrows (video, ignite, serpent, yoga, juggle) and explain why the Latin-route words look more like Sanskrit than the inherited English ones. | 1.x के तीर सुधारें, और समझाएँ कि लैटिन-मार्ग वाले शब्द ज़्यादा संस्कृत जैसे क्यों दिखते हैं। |
 | 4 | Label the modern words honestly: दूरदर्शनम् and अन्तर्जालम् as part-by-part translations, विमानम् as an old word with a new job. | आधुनिक शब्दों पर सही लेबल लगाएँ: दूरदर्शनम्, अन्तर्जालम् अनुवाद-शब्द; विमानम् पुराना शब्द, नया काम। |
 
@@ -80,21 +80,21 @@ prompts. Everything from memory *before* any key opens [REF:roediger2006].
 
 ### Station 0 — lesson 3's +1-day arrives
 
-v2.c06.l03 §20 booked today's station: the three sayings recited cold, each with its
-source in one phrase. Three minutes, no page in sight; log the score beside lesson 3's
-[REF:cepeda2006].
+v2.c06.l03 §20 booked today's station in one line: "+1 day: the three sayings recited
+cold, each with its source in one phrase." Run exactly that — three minutes, no page in
+sight; log the score beside lesson 3's [REF:cepeda2006].
 
-1. **The first saying** — the four-word line on non-harming, pause form; then its source
+1. **The first saying** — the three-word line on non-harming, pause form; then its source
    in one phrase.
 2. **The second saying** — the two-line verse on effort and the sleeping lion, at an even
    recitation pace; then its source in one phrase.
-3. **The third saying** — the one line on helping and harming; then its source in one
-   phrase, framed as honestly as lesson 3 framed it.
+3. **The third saying** — the couplet on helping and harming, its usual first line
+   included; then its source in one phrase, framed as honestly as lesson 3 framed it.
 
 ### The prompts
 
 1. From v2.c02.l02: the kinship shelf. Give three rows — the Sanskrit stem, its Latin
-   cousin, the English word — and draw the arrow between them.
+   sibling, the English word — and say which arrow, if any, joins them.
 2. From v2.c03.l03: होरा. Which way does its arrow run, and what is the relation between
    होरा and English *hour*?
 3. From v1.c04.l01: युग. Its gloss, its first sense, and the two English relatives the
@@ -108,9 +108,10 @@ source in one phrase. Three minutes, no page in sight; log the score beside less
    the critical edition's main text (e.g. 1.11.12), joined there as परमो धर्मः; the popular
    added half-line is not in it [REF:mahabharata 1.11.12]. (2) **उद्यमेन हि सिध्यन्ति
    कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥** — the Hitopadeśa,
-   introduction, verse 36 [REF:hitopadesha prastāvikā 36]. (3) **परोपकारः पुण्याय पापाय
-   परपीडनम्।** — traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas, summed up
-   in two sayings; the framing line is not traced to any Purāṇa [REF:apte1890 s.v. पर].
+   introduction, verse 36 [REF:hitopadesha prastāvikā 36]. (3) **अष्टादशपुराणेषु व्यासस्य
+   वचनद्वयम्। परोपकारः पुण्याय पापाय परपीडनम्॥** — traditionally quoted as Vyāsa's teaching
+   in the eighteen Purāṇas, summed up in two sayings; the first line is not traced to any
+   Purāṇa [REF:apte1890 s.v. पर]; [REF:sternbach1974 3587].
    Score /6 — three recitations, three sources; log it.
 1. मातृ ~ *māter* ~ *mother* · पितृ ~ *pater* ~ *father* · भ्रातृ ~ *frāter* ~
    *brother* (also दुहितृ ~ *thygátēr* ~ *daughter*, स्वसृ ~ *soror* ~ *sister*). No
@@ -316,8 +317,8 @@ full.
 
 ### The four kinds — the sorting machine
 
-Every English–Sanskrit pair lands in exactly one of four boxes, and three questions,
-asked in this order, put it there:
+Every pair on the 1.x list lands in exactly one of four boxes, and three questions, asked
+in this order, put it there:
 
 1. **Did English take this word from Sanskrit, on the record?** Then it is a **loan**
    (kind b): *yoga*, *dharma*, *karma*. The arrow is real and is named by its origin:
@@ -588,8 +589,9 @@ is not a historian.
   and official Marathi, while everyday Hindi mostly says कंप्यूटर.
 - **विमानम्** — today's headword, labelled **classical word, modern sense**. The 1.x card
   explained it as a special vehicle. The vehicle half is the error; the word is built on
-  √मा. (Glossing the prefix वि as "special" is loose but has traditional precedent; its
-  basic senses are "apart, out".)
+  √मा. (Glossing the prefix वि as "special" is loose but has precedent: the dictionaries
+  list "distinction", as in विशेष, among its senses; its basic senses are "apart,
+  asunder, away" [REF:apte1890 s.v. वि]; [REF:monierwilliams1899 s.v. vi].)
 - **आकाशवाणी** (ākāśavāṇī) — display-only: आकाश "sky" (your आकाशः, v2.c02.l03) + वाणी
   "voice", the name of India's public radio. The 1.x gloss of its parts, sky-voice, was
   right. Who first proposed the name for radio is disputed in the sources, so the course
@@ -799,9 +801,10 @@ word instead. Part C, one line: why do the Part B words look more like the Sansk
 the Part A words do?
 
 **अभ्यासः 6 · नवशब्दाः (label the new words — written).** For each word, split it into
-its parts and give one label — *calque from classical parts* · *classical word, new
-sense* · *built from parts in another language*: (a) दूरदर्शनम् (b) अन्तर्जालम्
-(c) संगणकः (d) विमानम् (e) English *television* (f) German *Fernseher*.
+its parts and give the most exact label — *calque from classical parts* · *modern word
+from classical parts* · *classical word, new sense* · *built from parts in another
+language*: (a) दूरदर्शनम् (b) अन्तर्जालम् (c) संगणकः (d) विमानम् (e) English *television*
+(f) German *Fernseher*.
 
 **अभ्यासः 7 · प्रतिशिक्षणम् (teach-back — production, spoken, recorded).** One take,
 about sixty seconds, in English or Hindi: one pair of each kind, each with its reason in
@@ -1086,8 +1089,8 @@ narrator reads the cue, not the English spelling.
   into "Latin route — from Latin *vidēre*". *juggle* drops into "false" — buzzer. Then
   the twist: *pedal* and *foot* side by side — "*foot* is the real sibling; *pedal*
   came through Latin."
-- **Payoff (0:30–0:43):** "Learners of this course can sort any English word honestly:
-  sibling, loan, Latin route, or no relation. One textbook arrow survived. One."
+- **Payoff (0:30–0:43):** "With a dictionary of word histories, you can sort a pair
+  honestly: sibling, loan, Latin route, or no relation. One textbook arrow survived. One."
 - **CTA (0:43–0:50):** "Next: पुनरावृत्तिः — The Volume 2 Exam. Follow for the finale."
   (End card: शब्दयात्राः — word journeys.)
 
@@ -1111,8 +1114,8 @@ narrator reads the cue, not the English spelling.
   three sayings recited cold, each with its source in one phrase"; this lesson's §20
   books v2.c06.l05's Station 0 verbatim: "+1 day: ten word pairs sorted cold into the
   four kinds (cognate / loan / Latin route / false) — the Volume 2 exam's Station 0
-  (v2.c06.l05) runs exactly this." Pass D must diff l03 §20 against §3 and l05 §3
-  against §20 when those files exist. The ten pairs are §18 exercise 1's deck.
+  (v2.c06.l05) runs exactly this." Pass D re-diffed l03 §20 against §3 and l05 §3
+  against §20 at review. The ten pairs are §18 exercise 1's deck.
 - **Related lessons:** reviews v2.c06.l03 (Station 0), v2.c02.l02 (the kinship shelf —
   kind a) and v2.c03.l03 (होरा, the inbound arrow; arrows named by origin); builds on
   v1.c01.l02 (दन्त्य), v1.c04.l01 (युग; the yoke/yoga split, completed here with योगः's
@@ -1161,8 +1164,10 @@ narrator reads the cue, not the English spelling.
   the OED quotation itself when access allows); the Grimm's Law statement and ladder rows
   (§5) against [REF:mallory2006] and [REF:burrow2001]; विमान, मान, दूर, दर्शन, गणक senses
   (§13) against MW and Apte; संगणकः's Marathi status (hedged as written and official usage);
-  the Hindi tadbhava pairs दाँत, पाँव, साँप (§7, §22) — not in the fact base: verify against
-  [REF:masica1991] or soften; the [REF:cardona1997] line on the Pāṇinian tradition's detail
+  the Hindi tadbhava pairs दाँत, पाँव, साँप (§7, §22) — not in the fact base; kept as written
+  at review: the three chains checked against Turner's CDIAL s.vv. dánta, pā́da, sarpá, as
+  Wiktionary cites it (deep-research evidence, WJ-42), and the term तद्भव as
+  [REF:masica1991] uses it; the [REF:cardona1997] line on the Pāṇinian tradition's detail
   (§13) — not in the fact base: confirm or cut; the Station 0 source phrases against l03
   when it exists; all §10/§14 IPA diffed against STYLE_GUIDE §2 (Pass A).
 - **Register audit:** FACT ×11 (§4 English's layers · §5 correspondences, learning

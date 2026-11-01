@@ -55,7 +55,10 @@ gaṇa and marker letters; cited by gaṇa and root.
 <a id="mahabharata"></a>**mahabharata** — *The Mahābhārata*, for the first time critically
 edited by V.S. Sukthankar, S.K. Belvalkar, P.L. Vaidya et al., 19 vols., Poona: Bhandarkar
 Oriental Research Institute, 1933–1966. Cited parvan.adhyāya.verse of the critical edition
-(e.g. 1.11.12); vulgate numbers, where different, are named as such.
+(e.g. 1.11.12); vulgate numbers, where different, are named as such. Passages the edition
+prints only in its footnotes or appendices are cited by its own star and appendix numbers
+(e.g. 2.38.31*374; 13 App. I no. 15); counts of a line's occurrences rest on the edition's
+electronic text (entered by M. Tokunaga et al., rev. J.D. Smith, © BORI 1999; GRETIL).
 
 <a id="brhadaranyaka"></a>**brhadaranyaka** — *Bṛhadāraṇyaka Upaniṣad*. Cited
 adhyāya.brāhmaṇa.verse (e.g. 1.3.28 — asato mā sad gamaya). Ed./tr. Olivelle 1998.

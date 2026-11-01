@@ -41,7 +41,7 @@ closes with the Volume 2 exam.
 By the end of this chapter the learner can:
 
 - [ ] Read both stories at natural speed and retell one in their own Sanskrit
-- [ ] Say where each story comes from, without overclaiming in either direction
+- [ ] Say where each story is found, without overclaiming in either direction
 - [ ] Recite अहिंसा परमः धर्मः, उद्यमेन हि सिध्यन्ति… and परोपकारः पुण्याय…, with sources
 - [ ] Explain why *video* is not "from Sanskrit" but *yoga* is, and why *juggle* is unrelated
 - [ ] Read 32 ledger-new words (360 cumulative; Volume 2 total: 123)

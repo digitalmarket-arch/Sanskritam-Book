@@ -125,7 +125,7 @@ A slow run or a missing sentence sends you to v2.c06.l01 §17 tonight — not to
 
 ## 4. Historical Context
 
-ऐतिहासिकः सन्दर्भः — where this story comes from, said straight, and where it sits in the
+ऐतिहासिकः सन्दर्भः — where this story is found, said straight, and where it sits in the
 course.
 
 > **[HISTORY · इतिहासः]** "The Lion and the Mouse" is an Aesopic fable: no. 150 in B.E.
@@ -141,8 +141,8 @@ course.
 > [REF:hitopadesha mitralābha]. Stories like these travelled widely. Scholars disagree about
 > the routes, and the course makes no claim about which came first.
 
-Read that callout twice, because every clause is doing a job. *Aesopic* says where the
-lion-and-mouse telling is best known. *Also told* in Egypt says the tale was in circulation
+Read that callout twice, because every clause is doing a job. *Aesopic* names the fable
+family the story belongs to. *Also told* in Egypt says the tale was in circulation
 far from Greece in antiquity. *Cousins* says India's books tell the same idea — the small
 creature who frees the great one — with other animals. And the last sentence refuses the
 two easy stories people like to tell: "India invented it and the Greeks copied" and "the
@@ -162,11 +162,11 @@ Pañcatantra Book 2 [REF:panchatantra tantra 2, frame story], Hitopadeśa Book 1
 [REF:hitopadesha mitralābha] — and to modern retellings that blend the two stories.
 
 One line of course history. The 1.x graded reader printed a "Lion & Mouse" text; it is
-today's starting point, and four of its choices are changed in the open (§8). The Sanskrit
-you read in §17 is a new retelling written for this course — not a quotation from any old
-book. Yesterday's crow and today's lion give two different honest answers to one question:
-the crow story has no known version in India's old fable books at all; the lion story has
-no Indian twin, but it has Indian cousins.
+today's starting point: four of its word choices are changed and one gap in its plot is
+filled, all in the open (§8). The Sanskrit you read in §17 is a new retelling written for
+this course — not a quotation from any old book. Yesterday's crow and today's lion give two
+different honest answers to one question: the crow story has no known version in India's
+old fable books at all; the lion story has no Indian twin, but it has Indian cousins.
 
 ## 5. Scientific Explanation
 
@@ -561,7 +561,7 @@ Back on duty, review only — no re-entry to the ledger: चलति (v1.c03.l0
 noted there) · अपि and तव (v1.c06.l02) · सः (v1.c06.l03) · अहम् (v1.c05.l01) · कः
 (v1.c02.l06) · न (v2.c01.l04) · च (v2.c02.l04) · आगच्छति (v2.c05.l01) · उपरि
 (v2.c06.l01). एकः is एक (v1.c02.l04) in sentence dress, read as in lesson 1's opening line
-and glossed whole. For §16 and §18: the nine askers (v2.c01.l02 to v2.c05.l01), एषा
+and glossed whole. For §16 and §18: the nine askers (v1.c02.l01 to v2.c05.l01), एषा
 (v2.c02.l02), कथा (v1.c03.l04), यतः (v2.c05.l01), न जानामि (v2.c05.l02), मम (v1.c01.l04),
 चत्वारि and त्रीणि as counting dress (v2.c03.l01).
 
@@ -659,8 +659,8 @@ built on.
 ## 16. Conversation
 
 सम्भाषणम् — the comprehension check as a dialogue: the आचार्यः asks, कमला answers with
-the book closed. All nine askers appear once, in story order; every asker question keeps
-the level tune (§9 drill 3). 🔊
+the book closed. All nine askers appear, in story order, and कः returns for the moral;
+every asker question keeps the level tune (§9 drill 3). 🔊
 `planned:assets/audio/volume-2/v2c06l02-comprehension-dialogue.mp3`.
 
 — आचार्यः: एषा का कथा?
@@ -900,9 +900,11 @@ for 'cuts'."
   The question about you has no key — only the shape: … मम मित्रम्।
 - **Exercise 3:** (a) सिंहः, स्वपिति (line 1) · मूषकः (2) · क्रुद्धः (3) · गृह्णाति (4) ·
   मुञ्च (5) · मुञ्चति (7) · एकदा, बद्धः (8) · जालम्, कृन्तति (10) · मुक्तः (11) · लघुः
-  (moral) — and सिंहः, मूषकः again wherever they recur. (b) स्वपिति, गृह्णाति. (c) Seven
-  appearances, six words: वने (1), सिंहस्य (2), मूषकम् (4, 7), माम् (5), जाले (8),
-  जालम् (10). (d) बद्धः ↔ मुक्तः. (e) मुञ्च, मुञ्चति, मुक्तः — the root √मुच्.
+  (moral) — and सिंहः, मूषकः again wherever they recur. (b) स्वपिति, गृह्णाति. (c) Six
+  appearances, five words — वने (1), सिंहस्य (2), मूषकम् (4, 7), माम् (5), जाले (8), the
+  role words of §14, §15 and §20; seven and six if you also count जालम् (10), as §8 does —
+  its ending shows its role too, but it is the headword's own form. (d) बद्धः ↔ मुक्तः.
+  (e) मुञ्च, मुञ्चति, मुक्तः — the root √मुच्.
 - **Exercise 4:** d – b – f – e – c – h – a – g. Missing: line 2 (एकः मूषकः सिंहस्य
   उपरि चलति।), line 5 (मूषकः वदति — माम् मुञ्च! अहम् अपि तव मित्रम्।), line 7 (सः
   मूषकम् मुञ्चति।).
@@ -945,9 +947,10 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - +1 day: the lion story read once at natural speed and its moral न कः अपि लघुः said in both
   forms (pause and joined) — v2.c06.l03's Station 0 runs exactly this.
-- **At the Volume 2 exam (v2.c06.l05):** task C reads aloud a ladder that starts from this
-  chapter's two stories, and task E asks you to retell a story in your own Sanskrit —
-  exercise 5's retelling is the rehearsal. Keep the recording.
+- **At the Volume 2 exam (v2.c06.l05):** task A plays this story aloud for its listening
+  questions; Station 2 and the quiz bring back its cousins and its moral; and task E asks
+  you to retell a story in your own Sanskrit — exercise 5's retelling is the rehearsal.
+  Keep the recording.
 - **From now on:** before you time any story, find its turning word — एकदा here — and the
   pairs that answer each other across it. A story read as a shape is read faster.
 
@@ -1069,7 +1072,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 
 1. **Hook (0:00–0:40):** a sleeping lion fills the frame; a mouse walks across. A paw
    comes down. Caption: "You know this story. Now read it in Sanskrit — and learn where it
-   really comes from." Title card: सिंहः मूषकः च — The Lion and the Mouse.
+   is found." Title card: सिंहः मूषकः च — The Lion and the Mouse.
 2. **The knots (0:40–1:30):** close-ups of the mouth for सिंहः (open lips, nasal hum),
    गृह्णाति (breath, then curl), मुञ्च (tongue on the palate). Each word holds on screen
    with its IPA.
@@ -1081,9 +1084,10 @@ Lesson video, ~6 min, presenter + motion graphics.
 5. **The moral, two ways (3:40–4:30):** न कः अपि लघुः types out; कः and अ slide together,
    the visarga and अ fade, ओ appears, and ऽ drops into the gap with the label "silent".
    The presenter says both forms.
-6. **Where it comes from (4:30–5:20):** the cousins map — three pins appear one at a time,
-   Greece, Egypt, India, with their captions. No arrows are drawn. Caption: "Stories
-   travel. Scholars disagree about the routes. We make no claim about which came first."
+6. **Where the stories are found (4:30–5:20):** the cousins map — three pins appear one
+   at a time, Greece, Egypt, India, with their captions. No arrows are drawn. Caption:
+   "Stories travel. Scholars disagree about the routes. We make no claim about which came
+   first."
 7. **Recap + CTA (5:20–6:00):** the revision box; the ledger counter ticks 335 → 346. End
    card: "Next: सुभाषितानि — Three Sayings. Bring the moral in both forms."
 
@@ -1092,7 +1096,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the
 narrator reads the cue, not the English spelling.
 
-- **00:00** A sleeping lion, a mouse that walks across him, and a promise that sounds like
+- **00:00** A sleeping lion, a mouse that walks across him, and a plea that sounds like
   a joke. Today: siṃhaḥ mūṣakaḥ ca [sĩɦɐh muːʂɐkɐh t͡ɕɐ] — the lion and the mouse.
 - **00:40** Three knots first. siṃhaḥ [sĩɦɐh] — lips open, the vowel hums through the
   nose. gṛhṇāti [gr̩ɦɳɑːt̪i] — breath, then curl, no vowel between. muñca [muɲt͡ɕɐ] — the
@@ -1106,7 +1110,7 @@ narrator reads the cue, not the English spelling.
 - **03:40** The moral: na kaḥ api laghuḥ [n̪ɐ kɐh ɐpi lɐgʱuh] — no one is small. In printed
   books it is joined: na ko'pi laghuḥ [n̪ɐ koːpi lɐgʱuh]. The whole ending becomes o, the
   next a drops, and a silent sign marks the gap.
-- **04:30** Where does the story come from? It is an Aesopic fable. It is also told in an
+- **04:30** Where is the story found? It is an Aesopic fable. It is also told in an
   Egyptian Demotic narrative of the second century CE. India's fable books have its
   cousins — mice that gnaw the ropes tying a herd of elephants, a mouse that gnaws a net
   to free birds. Which came first? Scholars disagree about the routes, and we make no
@@ -1127,8 +1131,8 @@ narrator reads the cue, not the English spelling.
   na ko'pi laghuḥ [n̪ɐ koːpi lɐgʱuh]. Caption: "No one is small. Pūrṇabhadra's Pañcatantra has a
   cousin: mice that free elephants."
 - **CTA (0:42–0:50):** "Next: सुभाषितानि — Three Sayings (v2.c06.l03). Three real sayings,
-  with sources you can check. Follow for the last chapter of Volume 2." (End card: सिंहः
-  मूषकः च — the lion and the mouse.)
+  with source lines as firm as the evidence. Follow for the last chapter of Volume 2."
+  (End card: सिंहः मूषकः च — the lion and the mouse.)
 
 ## 27. Metadata
 
@@ -1154,8 +1158,8 @@ narrator reads the cue, not the English spelling.
   मुञ्च shares; न जानामि in §16); builds on v1.c05.l05 (सोऽहम् — the same join), v1.c02.l06
   (the anusvāra hum), v2.c05.l01 (कदा, यतः, आगच्छति), v2.c05.l04 (ददातु), v1.c04.l01 (the
   quote dash; वन), v2.c03.l01 (counting dress); feeds v2.c06.l03 (Station 0 per §20),
-  v2.c06.l04 (any word-pair question deferred in §22) and v2.c06.l05 (task C reading
-  ladder; task E retelling).
+  v2.c06.l04 (any word-pair question deferred in §22) and v2.c06.l05 (Station 2; task A's
+  listening story; task E retelling; §19 Q6–Q7).
 - **Glossary:** candidate terms — अवग्रह (avagraha, the sign ऽ; already used in
   v1.c05.l05), सन्धि (sandhi, "joining", previewed). No new glossary entries required.
 - **Export notes:** vocabulary_count 13 = 11 ledger-new + 2 upgrade rows; ledger **335 →
@@ -1171,15 +1175,13 @@ narrator reads the cue, not the English spelling.
   export with all-`readable: true` spans. §19's quiz key and every exercise key/model stay
   inside `<details>` in all renders. IPA strings contain combining characters — NFC
   applies to Devanagari fields only.
-- **Sibling reconciliation (Pass D):** at drafting only `chapter.md` was on disk in
-  chapter-06 — l01, l03, l04 and l05 were not. §3 quotes l01 §20's booking as fixed in the
-  chapter brief ("+1 day: the crow story read once at natural speed, timed and logged, and
-  retold in five sentences without the text."); §3's answers assume l01 §17's story and §4's
-  history per research notes §1 and fact 0.1 — re-check against l01 once it lands. §20's
-  +1-day line is the booking v2.c06.l03 §3 Station 0 must run verbatim. §26 points to
-  v2.c06.l03 (सुभाषितानि — Three Sayings). The 55-second timed target is this lesson's own;
-  align with l01's target at review. The validator's prerequisite/review_of errors for
-  v2.c06.l01 are expected until l01 exists.
+- **Sibling reconciliation (Pass D):** l01, l03, l04 and l05 are on disk and were diffed at
+  review. §3 quotes l01 §20's booking verbatim ("+1 day: the crow story read once at natural
+  speed, timed and logged, and retold in five sentences without the text."); §3's answers
+  match l01 §17 (the story, the moral) and §4 (the history). §20's +1-day line is the
+  booking v2.c06.l03 §3 Station 0 runs verbatim. §26 points to v2.c06.l03 (सुभाषितानि —
+  Three Sayings). The 55-second timed target is scaled like l01's (38 words, under 50),
+  both from v2.c04.l04 (35 words, under 45).
 - **Verification flags for Pass C:** the §4 HISTORY callout against [REF:perry1952] (no.
   150), [REF:lichtheim1980] (pp. 156–159, "The Lion in Search of Man", the whole piece per
   the book's table of contents; the mouse episode's own page not yet seen in print — check

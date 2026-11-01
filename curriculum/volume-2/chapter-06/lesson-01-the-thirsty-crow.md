@@ -815,7 +815,8 @@ before the water comes up.
   घटे क्षिपति। जलम् उपरि आगच्छति। सः जलम् पिबति। — Any five that keep the story's order
   and use only its words are correct; घटे अल्पम् जलम् अस्ति। or सः सुखी भवति। may take a
   place, and the moral may close as a sixth line. Score it as tomorrow's Station 0 will:
-  five sentences · in story order · no word from outside the story.
+  five sentences in order · no word from outside the story — plus, at Station 0, the logged
+  time.
 - **Exercise 7 (model):** कः घटम् पश्यति? — काकः। · किम् उपरि आगच्छति? — जलम्। · काकः,
   जलम् — कति? — द्वे! · घटः कुत्र अस्ति? — न जानामि: the story never says where the pot
   stands. Score answers for fit to the asker and for honesty.
@@ -1059,13 +1060,12 @@ narrator reads the cue, not the English spelling.
   assumes उपरि from here and एकः read whole, and starts its ledger at this lesson's exit, 335.
   §16 follows l02's routine — एषा का कथा? for का, a state word for कथम्, न जानामि for the
   silent question. l05's pointers hold: Station 1 ← §17, §8, §4; §12 row 1 and task D card
-  5 ← §4; task C rung 5 reads the §17 text unchanged. **Open item:** l05 rung 5 asks for
-  "natural speed, under 40 seconds", while this lesson's natural pace is ≈ 65 seconds and
-  its timed bar under 50, scaled like l02's (45 words, under 55) — reconcile at review;
-  l05 is not changed here. **Re-diff after the c05 review:** §3 quotes v2.c05.l05 §20's
-  +1-week booking as it stands on disk at this draft; v2.c05 is under review, so re-diff
-  §3 Station 0 against v2.c05.l05 §20 when that review lands. §26 points to v2.c06.l02
-  (सिंहः मूषकः च — The Lion and the Mouse).
+  5 ← §4; task C rung 5 reads the §17 text unchanged. **Reconciled at review:** l05 rung 5
+  asks for the story at natural speed under 65 seconds, this lesson's natural pace (§9),
+  with partial credit under 105 seconds, its slow pace; the timed bar here stays under 50,
+  scaled like l02's (45 words, under 55). **Re-diffed after the c05 review** (2026-10-27)
+  and at this review: §3 quotes v2.c05.l05 §20's +1-week booking verbatim, without its
+  tail. §26 points to v2.c06.l02 (सिंहः मूषकः च — The Lion and the Mouse).
 - **Verification flags for Pass C:** §4's first callout against [REF:perry1952 no. 390] —
   the Perry number, the 1st-century-CE Greek epigram, Avianus c. 400 CE (no fable number
   given in the lesson; fact 0.1 records Fabulae 27). Its present-day sentence now stands

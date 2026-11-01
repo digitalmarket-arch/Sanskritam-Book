@@ -114,10 +114,12 @@ Sibilants + h (ऊष्माणः): श **/ɕ/** · ष /ʂ/ · स /s/ · �
 
 - Unicode NFC normalization mandatory (`scripts/validate.py` enforces).
 - No ZWJ/ZWNJ except when deliberately displaying an un-ligated form (e.g. teaching क्‌ + ष vs क्ष).
-- Fonts: Noto Serif Devanagari (print body), Noto Sans Devanagari (web/headings). See `build/fonts.md`.
+- Fonts: Noto Serif Devanagari (print body), Noto Sans Devanagari (web/headings). See
+  `build/fonts.md`.
 - Punctuation: daṇḍa । and double daṇḍa ॥ inside Sanskrit text and verses; Western punctuation
   in English/Hindi prose.
-- Digits: Latin digits in prose and numbering; Devanagari digits ०–९ appear as *content* when taught.
+- Digits: Latin digits in prose and numbering; Devanagari digits ०–९ appear as *content*
+  when taught.
 - Never retype long Devanagari passages from memory — copy from the verified vocabulary tables
   or GLOSSARY, then adjust. (Defense against silent mātrā typos.)
 
@@ -245,5 +247,5 @@ and display-only items are excluded; the ledger-new figure is stated in §14's o
 
 Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 counts मतिः
 beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
-· 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 (the first four corrected at the
-2026-10 deep audit, which removed eight double counts).
+· 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 · 360 (the first four corrected at
+the 2026-10 deep audit, which removed eight double counts).

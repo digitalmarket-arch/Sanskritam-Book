@@ -111,7 +111,7 @@ classical word for the family as one living unit — परिवारः names
 you; कुटुम्बम् names the whole household they make. The word carries one of the
 tradition's most quoted lines:
 
-> **[TRADITION · परम्परा]** The Hitopadeśa (Mitralābha, verse 71 in common editions;
+> **[TRADITION · परम्परा]** The Hitopadeśa (Mitralābha, verse 71 in the GRETIL numbering;
 > the line also appears in the Mahopaniṣad) says of the generous-hearted: वसुधैव
 > कुटुम्बकम् (vasudhaiva kuṭumbakam) — "the earth itself is one household." A statement
 > of the tradition's ideal, quoted for the word inside it. (In the Hitopadeśa's tale
@@ -775,19 +775,18 @@ narrator reads them as IPA, not as English spelling.
   "cognate/सजात" stays prose-explained (candidate for a future loop if chapter 6
   promotes it to a taught term). Reuses संवाद, संज्ञा, विसर्ग, वर्णमाला per GLOSSARY.md.
 - **Verification flags for Pass C:** every §13 row against [REF:mallory2006] (kinship
-  chapter) and [REF:burrow2001] — direction phrasing checked line by line; the
-  \*méh₂tēr notation against Mallory & Adams' printed form; दुहितृ paired with Greek
-  thygátēr (not Latin) and स्वसृ with soror — confirm set membership; कुटुम्ब
-  attestation and "household" gloss against [REF:apte1890 s.v. कुटुम्ब] and
-  [REF:monierwilliams1899 s.v. kuṭumba]; वसुधैव कुटुम्बकम् locus (§4) — Mitralābha 71
-  stated with an "in common editions" hedge, Mahopaniṣad parallel noted — confirm or
-  re-hedge; एतद् shapes एषः/एषा/एतत् against [REF:apte1890 s.v. एतद्] — chunk framing,
-  no paradigm claims; तस्याः form (display only); the एष visarga-seam preview (§15) —
-  one line, no rule stated; बहन ← भगिनी descent (§7, §22) against [REF:masica1991];
-  Jones 1786 wording (§5) against [REF:mallory2006]; the "mother of all languages"
-  myth appears only as a named, corrected misconception beside the 1.x p.61 arrow card
-  (§13) per the banned-claims
-  rule — log as the IR-033 flagship fix delivered.
+  chapter) and [REF:burrow2001] — direction phrasing checked line by line; the \*méh₂tēr
+  notation against Mallory & Adams' printed form; दुहितृ paired with Greek thygátēr (not
+  Latin) and स्वसृ with soror — confirm set membership; कुटुम्ब attestation and "household"
+  gloss against [REF:apte1890 s.v. कुटुम्ब] and [REF:monierwilliams1899 s.v. kuṭumba];
+  वसुधैव कुटुम्बकम् locus (§4) — Mitralābha 71 re-hedged at the v2.c06 review to the GRETIL
+  numbering (the Nirṇaya Sāgara edition that Apte cites has 70), Mahopaniṣad parallel noted;
+  एतद् shapes एषः/एषा/एतत् against [REF:apte1890 s.v. एतद्] — chunk framing, no paradigm
+  claims; तस्याः form (display only); the एष visarga-seam preview (§15) — one line, no rule
+  stated; बहन ← भगिनी descent (§7, §22) against [REF:masica1991]; Jones 1786 wording (§5)
+  against [REF:mallory2006]; the "mother of all languages" myth appears only as a named,
+  corrected misconception beside the 1.x p.61 arrow card (§13) per the banned-claims rule —
+  log as the IR-033 flagship fix delivered.
 - **Export notes:** Latin, Greek and PIE forms (māter, thygátēr, \*méh₂tēr) are not
   IAST — exclude from transliteration lints; answer keys stay inside `<details>` (§3,
   §19); the ___ blanks in §18 exercise 2 are intentional non-words; §13 and §15 tables

@@ -48,8 +48,8 @@ updated: 2026-10-25
 
 ## 1. Hook
 
-Three sayings, three sources — and one trap. The first is perhaps the most quoted line in
-Sanskrit: अहिंसा परमो धर्मः, "non-harming is the highest dharma". It is real. Open the
+Three sayings, three sources — and one trap. The first is a line you may already know:
+अहिंसा परमो धर्मः, "non-harming is the highest dharma". It is real. Open the
 Mahābhārata's critical edition and you will find it five times in its main text. The trap is
 the second line people often attach to it, which you will not find there at all. The second
 saying puts lesson 2's lion to sleep and asks what he expects to eat. The third is a verse
@@ -115,9 +115,10 @@ exactly that — three minutes, scores logged beside lesson 2's [REF:cepeda2006]
 3. The Hitopadeśa's introduction (prastāvikā); "traditional, source unrecorded"; four
    pādas of eight syllables, thirty-two in all, counted yourself (v1.c06.l04 §8, §13).
    Today's second saying comes from the same introduction.
-4. In its first book, Mitralābha (verse 71 in common editions); in the tale a scheming
-   jackal speaks it (v2.c02.l02 §4). Noble lines in the mouths of tricksters: keep that
-   in mind for §22.
+4. In its first book, Mitralābha (verse 71 in the GRETIL e-text the course follows; the
+   Nirṇaya Sāgara edition that Apte's dictionary cites numbers it 70); in the tale a
+   scheming jackal speaks it (v2.c02.l02 §4). Noble lines in the mouths of tricksters:
+   keep that in mind for §22.
 5. A loan: English borrowed *dharma* (and *karma*, *yoga*) from Sanskrit (v2.c02.l02
    §13). That is why today's English translation can keep the word dharma.
 </details>
@@ -316,7 +317,7 @@ word (v2.c02.l02 §13).
 > **[HISTORY · इतिहासः]** In the main text of the critical edition of the Mahābhārata, the line
 > अहिंसा परमो धर्मः occurs five times: 1.11.12, 3.198.69, 13.116.1, 13.116.25 and 13.117.37;
 > three more times it stands only in passages the edition prints in its footnotes and an
-> appendix (2.38.31*374; Anuśāsana App. I no. 15). Its
+> appendix (2.38.31*374; Anuśāsana App. I no. 15, lines 1026 and 1203). Its
 > first appearance is in the Ādiparvan. A sage who had been cursed to live as a harmless
 > snake, now freed from that body, speaks to the young brahmin Ruru, who has sworn to kill
 > every snake since one bit his bride. The half-verse runs on: अहिंसा परमो धर्मः
@@ -435,7 +436,8 @@ parapīḍanam*.
 > collection of Sanskrit sayings, the Mahā-subhāṣita-saṃgraha. Its second line also stands,
 > under a different first line, in the common version (textus simplicior) of the
 > Pañcatantra, Book 3: there a cat posing as a holy man preaches it, then eats both animals
-> that came to him for judgment. [REF:sternbach1974 3587]; [REF:panchatantra tantra 3]
+> that came to him for judgment. [REF:sternbach1974 3587];
+> [REF:panchatantra tantra 3, the cat as judge]
 
 What that means for your source line: never "the Purāṇas say". Say "traditionally quoted
 as Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings", and if someone asks
@@ -701,8 +703,9 @@ or ending clipped at any speed.
 one fence.
 
 > **[FACT · तथ्यम्]** (1) Sanskrit leaves "is" unsaid in a sentence like अहिंसा परमः
-> धर्मः, and a describing word wears the ending of the noun it describes: परमः with
-> धर्मः. [REF:whitney1889] (2) Before a voiced consonant, a word-final -अः becomes -ओ:
+> धर्मः, and a describing word matches the noun it describes in gender, number and
+> case; here that gives परमः the same ending as धर्मः. [REF:whitney1889] (2) Before a
+> voiced consonant, a word-final -अः becomes -ओ:
 > परमः + धर्मः → परमो धर्मः. Before अ the same ending also becomes -ओ, and the अ
 > disappears, marked ऽ: कः + अपि → कोऽपि. This holds for an -अः that stands for -अस्, as in
 > परमः, धर्मः and कः. Three ledger words differ: सः and एषः simply drop the ः before any
@@ -985,9 +988,9 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 - +1 day: the three sayings recited cold, each with its source in one phrase — v2.c06.l04's
   Station 0 runs exactly this.
-- **At the exam (v2.c06.l05):** task C's reading ladder climbs from the chapter's two
-  stories to one saying, read aloud; task D's honesty sort brings back verse-source cards,
-  today's exercise 5 among them.
+- **At the exam (v2.c06.l05):** task C's reading ladder climbs from a Chapter 1 greeting
+  through the crow story to saying 2, read aloud; task D's honesty sort brings back one
+  verse-source card, today's exercise 5 (b).
 - **From now on:** whenever you meet a quoted saying, on a wall, in a book, in a message,
   ask the source-line question before you repeat it: which text, which verse, how sure?
 
@@ -1203,7 +1206,7 @@ narrator reads the cue, not the English spelling.
   the shape of उद्यमः बलम्), v1.c05.l04 (धर्म, सर्व), v1.c03.l05 (पाप), v1.c03.l04 (मनः),
   v1.c03.l01 (मुख), v2.c03.l02 (अष्ट), v1.c04.l02 (दश), v2.c01.l04 (न), v1.c06.l01
   (महाभारतम्); feeds v2.c06.l04 (Station 0 per §20), v2.c06.l05 (task C's ladder ends on
-  a saying; task D's verse-source cards, incl. the धर्महिंसा card → reject), Volume 3
+  a saying; task D's one verse-source card, the धर्महिंसा card → reject), Volume 3
   (the joins, plurals and case endings glossed whole here) and v5 (meter proper).
 - **Glossary:** candidate term सुभाषितम् (subhāṣitam) "a well-said thing, a saying" —
   GLOSSARY entry to be added at review if the chapter keeps it. No other new term.
@@ -1224,13 +1227,11 @@ narrator reads the cue, not the English spelling.
   prints संस्कृतम् /sɐ̃skr̩t̪ɐm/ and as v2.c06.l02 and l05 print सिंहः and अहिंसा; §10 names
   the [m] value as STYLE_GUIDE §2's other permitted value. The validator's IPA charset
   accepts the NFC-composed ĩ, so the file stays warning-free.
-- **Sibling reconciliation (Pass D):** at drafting, only chapter.md was on disk for
-  v2.c06; l01, l02, l04 and l05 were not. §3 quotes l02 §20's booking exactly as briefed;
-  §3's answers and §6/§16/§17 rely on the fact base's l01 and l02 texts (research note §1,
-  §2: एकः सिंहः वने स्वपिति … सिंहस्य उपरि … न कः अपि लघुः; बुद्धिः एव बलम्) and must be
-  re-checked against the drafted lessons (§17 line numbers, the natural-speed bar). §20's
-  +1-day line is the exact booking v2.c06.l04's Station 0 must run. The prerequisites and
-  review_of ids v2.c06.l02 resolve once l02 is on disk.
+- **Sibling reconciliation (Pass D):** l01, l02, l04 and l05 are on disk and were diffed at
+  review. §3 quotes l02 §20's booking verbatim; §3's answers and §6/§16/§17 match l01 and
+  l02 §17 (सिंहस्य उपरि in l02's line 2; न कः अपि लघुः; बुद्धिः एव बलम्), and §3 sets no
+  numeric bar for the natural-speed run. §20's +1-day line is the exact booking
+  v2.c06.l04's Station 0 runs.
 - **Verification flags for Pass C:** (1) the five critical-edition loci, the 1.11.12
   context (Sahasrapād, Ruru; 1.11.14–15 set brahmin against kṣatriya dharma) and the
   13.117.37 chain, against [REF:mahabharata]; vulgate 1.11.13 numbering and wording named
