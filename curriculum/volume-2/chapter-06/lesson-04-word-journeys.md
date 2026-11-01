@@ -238,9 +238,9 @@ words, singular throughout, as always.
 
 हिन्दी में समझिए
 
-आज का पाठ शब्दों की यात्राओं का है, और यात्रा की पहली शर्त है सही नक़्शा। अंग्रेज़ी का
-कोई शब्द संस्कृत के किसी शब्द के पास रखिए — तो चार में से कोई एक बात सच होगी। हमें
-पहचानना है कि कौन-सी।
+आज का पाठ शब्दों की यात्राओं का है, और यात्रा की पहली शर्त है सही नक़्शा। 1.x की सूची का
+कोई भी जोड़ा लीजिए — अंग्रेज़ी का शब्द और उसके पास छपा संस्कृत शब्द — तो चार में से
+कोई एक बात सच होगी। हमें पहचानना है कि कौन-सी।
 
 पहली — सजातीय शब्द, यानी एक ही पुरखे की सन्तानें। दन्तः और अंग्रेज़ी *tooth*, पादः और
 *foot*, विधवा और *widow* — इनमें किसी ने किसी से उधार नहीं लिया; दोनों भाषाओं ने एक
@@ -1168,8 +1168,8 @@ narrator reads the cue, not the English spelling.
   at review: the three chains checked against Turner's CDIAL s.vv. dánta, pā́da, sarpá, as
   Wiktionary cites it (deep-research evidence, WJ-42), and the term तद्भव as
   [REF:masica1991] uses it; the [REF:cardona1997] line on the Pāṇinian tradition's detail
-  (§13) — not in the fact base: confirm or cut; the Station 0 source phrases against l03
-  when it exists; all §10/§14 IPA diffed against STYLE_GUIDE §2 (Pass A).
+  (§13) — not in the fact base: confirm or cut; the Station 0 sayings and source phrases
+  matched to l03 §8, §13 at review; all §10/§14 IPA diffed against STYLE_GUIDE §2 (Pass A).
 - **Register audit:** FACT ×11 (§4 English's layers · §5 correspondences, learning
   burden, spacing ×3 · §13 siblings, yoga loan, √विद्, ignite/serpent, juggle, modern
   words ×6 · §15 headword dress and word parts ×1) · HISTORY ×1 (§4 yoga's first

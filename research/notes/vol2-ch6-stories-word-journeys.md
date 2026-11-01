@@ -71,12 +71,11 @@ The volume exam, mirroring v1.c06.l04: five tasks spanning v2.c01–c06. A liste
 conversation and a story read aloud — comprehension questions); B dictation; C reading
 aloud — a six-rung ladder from a Chapter 1 greeting through the crow story to one saying
 (corrected at review: the lion story is task A's listening text); D the volume's honesty
-sort — cards
-on classical vs modern usage, cognate vs loan vs false, fable origins, verse sources (incl.
-"धर्महिंसा तथैव च is part of the Mahābhārata verse" → reject); E production — retell one
-story in the learner's own Sanskrit and hold a short role-card conversation. Passing
-completes Volume 2 and gates Volume 3 (व्याकरणम् — Core Grammar). Ledger stays 360 (chapter:
-32 new; Volume 2: 123 new, 237 → 360).
+sort — cards on classical vs modern usage, cognate vs loan vs false, fable origins, verse
+sources (one card: "धर्महिंसा तथैव च is part of the Mahābhārata verse" → reject); E
+production — retell one story in the learner's own Sanskrit and hold a short role-card
+conversation. Passing completes Volume 2 and gates Volume 3 (व्याकरणम् — Core Grammar).
+Ledger stays 360 (chapter: 32 new; Volume 2: 123 new, 237 → 360).
 
 ## 6. Pass C checklist
 

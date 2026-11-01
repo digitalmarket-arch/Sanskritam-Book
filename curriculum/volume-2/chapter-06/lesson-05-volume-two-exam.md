@@ -981,11 +981,12 @@ Grammar, starting with v3.c01 सुबन्तप्रवेशः — Nouns 
   (v2c05l04-price-tags-and-role-cards.pdf).
 - **Sibling availability:** v2.c06.l01–l04 were drafted in parallel; all four are on disk,
   and at review (Pass D) every pointer into them was checked against the real files: l01
-  §4 (HISTORY callout), §9 (three speeds), §14, §17 (the story text); l02 §4, §9, §14, §15
-  (the कोऽपि seam), §17; l03 §8 (the misquotation and the three sayings with sources), §9,
-  §14, §15 (the परमो seam);
-  l04 §13 (the four-kind sort, विमान), §14, §20 (the +1-day booking, run verbatim in §3
-  Station 0), §21 (one story chosen, the two v2.c05 cards packed). Station 0's ten pairs
+  §4 (HISTORY callout), §8 (एव; the plot map), §9 (three speeds), §14, §17 (the story
+  text); l02 §4, §9, §14, §15 (the कोऽपि seam), §17; l03 §8 (the misquotation and the
+  three sayings with sources), §9, §14, §15 (the परमो seam); l04 §13 (the four-kind sort,
+  विमान), §14, §15 (the four-kind card), §18 (exercise 1's deck), §20 (the +1-day booking,
+  run verbatim in §3 Station 0), §21 (one story chosen, the two v2.c05 cards
+  packed). Station 0's ten pairs
   are the deck of l04 §18 exercise 1, as l04 §18 and §27 book them. The two
   story texts (rung 5; task A, part 2) match l01 and l02 §17 word for word, re-diffed at
   review. Rung 5's bar is l01 §9's natural pace, under 65 seconds, with partial

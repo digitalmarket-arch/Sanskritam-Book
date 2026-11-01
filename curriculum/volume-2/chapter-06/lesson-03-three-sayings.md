@@ -1232,28 +1232,28 @@ narrator reads the cue, not the English spelling.
   l02 §17 (सिंहस्य उपरि in l02's line 2; न कः अपि लघुः; बुद्धिः एव बलम्), and §3 sets no
   numeric bar for the natural-speed run. §20's +1-day line is the exact booking
   v2.c06.l04's Station 0 runs.
-- **Verification flags for Pass C:** (1) the five critical-edition loci, the 1.11.12
-  context (Sahasrapād, Ruru; 1.11.14–15 set brahmin against kṣatriya dharma) and the
-  13.117.37 chain, against [REF:mahabharata]; vulgate 1.11.13 numbering and wording named
-  as such, the vulgate reading not quoted (it is a vocative, and the course quotes the
-  critical edition). (2) The misquotation: zero hits in the critical-edition e-text,
-  including star and appendix passages; phrased "no source has been found", with no
-  claim about origin or date. (3) Hitopadeśa prastāvikā 36 and its frame (King Sudarśana,
-  Viṣṇuśarman), [REF:hitopadesha prastāvikā 36] and [REF:apte1890 s.v. सिध्] ("H. Pr. 36");
-  no Pañcatantra locus cited (the §22 mention is locus-free by design). (4) Saying 3:
-  TRADITION framing only; first line "not traced to any Purāṇa"; [REF:apte1890 s.v. पर]
-  for the line's currency; [REF:sternbach1974 3587] for the couplet;
-  [REF:panchatantra tantra 3] for the second line under another first line (Jha ed.
-  3.103, the cat's sermon; no verse number in the lesson). (5) Glosses
-  against Apte s.vv. अहिंसा, परम, धर्म, उद्यम, सुप्त, मनस्, पर, पीडन, पुण्य, पाप; मृग
-  "deer; wild animal". (6) Sandhi statements: Whitney §175, §213, §127, §476; Aṣṭādhyāyī
-  6.1.114, 8.3.23, 6.1.87, 8.4.47 (verified in the research evidence); §287 for the "for"
-  endings; §15 point (1) cited bare pending a § locator. (7) सुभाषितम् "a well-said
-  thing", root shared with भाषा: [REF:monierwilliams1899 s.v. subhāṣita], not in the fact
-  base; confirm at Pass C. (8) Syllable counts 8 / 8+8 / 4×8 / 4×8 verified by hand
-  (§19 key, exercise 3). (9) §22's optional notes: ānṛśaṃsya "highest dharma" (e.g.
-  3.203.41) and the Hitopadeśa cat (Mitralābha, the prose before verse 1.65 in GRETIL
-  numbering), both from the research evidence's teacher notes.
+- **Verification flags for Pass C:** (1) the five critical-edition loci, the 1.11.12 context
+  (Sahasrapād, Ruru; 1.11.14–15 set brahmin against kṣatriya dharma) and the 13.117.37
+  chain, against [REF:mahabharata]; vulgate 1.11.13 numbering and wording named as such, the
+  vulgate reading not quoted (it is a vocative, and the course quotes the critical edition).
+  (2) The misquotation: zero hits in the critical-edition e-text, including star and
+  appendix passages; phrased "no source has been found", with no claim about origin or date.
+  (3) Hitopadeśa prastāvikā 36 and its frame (King Sudarśana, Viṣṇuśarman),
+  [REF:hitopadesha prastāvikā 36] and [REF:apte1890 s.v. सिध्] ("H. Pr. 36"); no Pañcatantra
+  locus cited (the §22 mention is locus-free by design). (4) Saying 3: TRADITION framing
+  only; first line "not traced to any Purāṇa"; [REF:apte1890 s.v. पर] for the line's
+  currency; [REF:sternbach1974 3587] for the couplet;
+  [REF:panchatantra tantra 3, the cat as judge] for the second line under another first line
+  (Jha ed. 3.103, the cat's sermon; no verse number in the lesson). (5) Glosses against Apte
+  s.vv. अहिंसा, परम, धर्म, उद्यम, सुप्त, मनस्, पर, पीडन, पुण्य, पाप; मृग "deer; wild
+  animal". (6) Sandhi statements: Whitney §175, §213, §127, §476; Aṣṭādhyāyī 6.1.114,
+  8.3.23, 6.1.87, 8.4.47 (verified in the research evidence); §287 for the "for" endings;
+  §15 point (1) cited bare pending a § locator. (7) सुभाषितम् "a well-said thing", root
+  shared with भाषा: [REF:monierwilliams1899 s.v. subhāṣita], not in the fact base; confirm
+  at Pass C. (8) Syllable counts 8 / 8+8 / 4×8 / 4×8 verified by hand (§19 key, exercise 3).
+  (9) §22's optional notes: ānṛśaṃsya "highest dharma" (e.g. 3.203.41) and the Hitopadeśa
+  cat (Mitralābha, the prose before verse 1.65 in GRETIL numbering), both from the research
+  evidence's teacher notes.
 - **Policy checks:** pause form for all taught text; plurals and case forms only inside
   the verses, glossed whole; no vocatives (no one is addressed by name; the vulgate's
   vocative reading is described, not quoted); no 1.x text quoted (the 1.x note in §4 is a
