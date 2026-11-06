@@ -8,99 +8,14 @@ import {
   DhatuGanaClass,
 } from '../data/curriculumData';
 import { soundEngine } from '../utils/soundEngine';
-
-interface SandhiRuleCase {
-  id: string;
-  category: string;
-  sutra: string;
-  leftWord: string;
-  rightWord: string;
-  mergedResult: string;
-  stepExplanation: string;
-}
-
-const SANDHI_WORKBENCH_CASES: SandhiRuleCase[] = [
-  {
-    id: 'yan-1',
-    category: 'Yaṇ Sandhi (यण् सन्धि)',
-    sutra: 'इको यणचि (6.1.77)',
-    leftWord: 'इति',
-    rightWord: 'अपि',
-    mergedResult: 'इत्यपि',
-    stepExplanation: 'इति ends in इ (member of इक्). Followed by अ (member of अच्), इ undergoes आदेश (substitution) to palatal semi-vowel य् → इत्यपि.',
-  },
-  {
-    id: 'yan-2',
-    category: 'Yaṇ Sandhi (यण् सन्धि)',
-    sutra: 'इको यणचि (6.1.77)',
-    leftWord: 'सु',
-    rightWord: 'आगतम्',
-    mergedResult: 'स्वागतम्',
-    stepExplanation: 'सु ends in उ (member of इक्). Before आ (अच्), उ substitutes to labial semi-vowel व् → स्वागतम् ("Welcome").',
-  },
-  {
-    id: 'guna-1',
-    category: 'Guṇa Sandhi (गुण सन्धि)',
-    sutra: 'आद्गुणः (6.1.87) + अदेङ् गुणः (1.1.2)',
-    leftWord: 'सूर्य',
-    rightWord: 'उदयः',
-    mergedResult: 'सूर्योदयः',
-    stepExplanation: 'अ + उ blend into Throat+Lips Guṇa vowel ओ (एङ् class) → सूर्योदयः ("Sunrise").',
-  },
-  {
-    id: 'dirgha-1',
-    category: 'Dīrgha Sandhi (दीर्घ सन्धि)',
-    sutra: 'अकः सवर्णे दीर्घः (6.1.101)',
-    leftWord: 'देव',
-    rightWord: 'आलयः',
-    mergedResult: 'देवालयः',
-    stepExplanation: 'Homorganic vowels अ + आ merge into long दीर्घ vowel आ → देवालयः ("Temple").',
-  },
-  {
-    id: 'visarga-1',
-    category: 'Visarga Sandhi (विसर्ग सन्धि)',
-    sutra: 'अतो रोरप्लुतादप्लुते (6.1.113) + एङः पदान्तादति (6.1.109)',
-    leftWord: 'रामः',
-    rightWord: 'अहम्',
-    mergedResult: 'रामोऽहम्',
-    stepExplanation: 'अः before short अ becomes ओ, and the following अ undergoes लोप (deletion) marked by avagraha (ऽ) → रामोऽहम्.',
-  },
-  {
-    id: 'natva-1',
-    category: 'Ṇatva Cerebralization (णत्वम्)',
-    sutra: 'रषाभ्यां नो णः समानपदे (8.4.1) + अट्कुप्वाङ्नुम्व्यवायेऽपि (8.4.2)',
-    leftWord: 'रामे',
-    rightWord: 'न (Instrumental suffix)',
-    mergedResult: 'रामेण',
-    stepExplanation: 'Preceding र in राम triggers retroflexion of dental न → ण even across intervening vowels/labials (अट्/प-वर्ग) → रामेण.',
-  },
-];
+import { SANDHI_WORKBENCH_CASES, SandhiRuleCase } from '../data/sandhiWorkbench';
 
 export const PaniniEngine: React.FC = () => {
   const [selectedPratyahara, setSelectedPratyahara] = useState<PratyaharaPreset>(PRATYAHARA_PRESETS[0]);
   const [selectedSandhi, setSelectedSandhi] = useState<SandhiRuleCase>(SANDHI_WORKBENCH_CASES[0]);
   const [selectedGana, setSelectedGana] = useState<DhatuGanaClass>(DASHAGANI_VERB_CLASSES[0]);
 
-  const getIncludedLetters = (preset: PratyaharaPreset): string[] => {
-    const [startSutra, endSutra] = preset.sutraSpan;
-    const collected: string[] = [];
-    let started = false;
-
-    for (const s of MAHESHVARA_SUTRAS) {
-      if (s.number < startSutra || s.number > endSutra) continue;
-      for (const letter of s.letters) {
-        if (s.number === startSutra && letter === preset.startLetter) {
-          started = true;
-        }
-        if (started) {
-          collected.push(letter);
-        }
-      }
-    }
-    return collected;
-  };
-
-  const activeLetters = getIncludedLetters(selectedPratyahara);
+  const activeLetters = selectedPratyahara.letters;
 
   return (
     <div className="space-y-8">
@@ -366,19 +281,19 @@ export const PaniniEngine: React.FC = () => {
           <div className="flex flex-wrap gap-1.5">
             {DASHAGANI_VERB_CLASSES.map((g) => (
               <button
-                key={g.ganaNumber}
+                key={g.n}
                 type="button"
                 onClick={() => {
                   setSelectedGana(g);
-                  soundEngine.speakSanskrit(g.example3sgPresent);
+                  soundEngine.speakSanskrit(g.examples[0].form);
                 }}
                 className={`px-3 py-1.5 text-xs font-mono font-semibold rounded-lg border transition-colors cursor-pointer ${
-                  selectedGana.ganaNumber === g.ganaNumber
+                  selectedGana.n === g.n
                     ? 'border-sky-600 bg-sky-700 text-white'
                     : 'border-slate-200 bg-slate-50 text-slate-700 hover:bg-white'
                 }`}
               >
-                Gana {g.ganaNumber} · {g.sanskritName}
+                Gana {g.n} · {g.name}
               </button>
             ))}
           </div>
@@ -387,35 +302,40 @@ export const PaniniEngine: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-center">
           <div className="lg:col-span-5 bg-slate-900 text-slate-100 rounded-xl p-5 border border-slate-800 space-y-3">
             <div className="flex items-center justify-between text-xs font-mono text-sky-400 tabular-nums">
-              <span>CLASS {selectedGana.ganaNumber} OF 10 · ~{selectedGana.rootCount} ROOTS</span>
-              <span>{selectedGana.vikaranaSutra}</span>
+              <span>CLASS {selectedGana.n} OF 10</span>
+              <span>{selectedGana.sutra}</span>
             </div>
             <div className="text-2xl font-bold font-devanagari text-white">
-              {selectedGana.sanskritName} ({selectedGana.iastName})
+              {selectedGana.name} ({selectedGana.iast})
             </div>
             <div className="text-xs text-slate-300 font-devanagari">
-              Head Root: <span className="text-white font-semibold">{selectedGana.firstRoot}</span> · Vikaraṇa Affix:{' '}
+              Dhātupāṭha entry: <span className="text-white font-semibold">{selectedGana.entry}</span> · Vikaraṇa:{' '}
               <span className="text-amber-400 font-semibold">{selectedGana.vikarana}</span>
             </div>
-            <p className="text-xs text-slate-300 leading-relaxed pt-2 border-t border-slate-800">
-              {selectedGana.formationRule}
+            <p className="text-xs text-slate-300 leading-relaxed pt-2 border-t border-slate-800 font-devanagari">
+              {selectedGana.rule}
             </p>
-            <div className="p-3 rounded-lg bg-slate-950 border border-slate-800 flex items-center justify-between">
-              <div>
-                <div className="text-[11px] font-mono text-slate-400">{selectedGana.exampleRoot}</div>
-                <div className="text-lg font-bold font-devanagari text-emerald-400">
-                  → {selectedGana.example3sgPresent}
+            <div className="space-y-2">
+              {selectedGana.examples.map((ex) => (
+                <div
+                  key={ex.form}
+                  className="p-3 rounded-lg bg-slate-950 border border-slate-800 flex items-center justify-between"
+                >
+                  <div>
+                    <div className="text-[11px] font-mono text-slate-400 font-devanagari">{ex.root}</div>
+                    <div className="text-lg font-bold font-devanagari text-emerald-400">→ {ex.form}</div>
+                    <div className="text-xs text-slate-400">{ex.meaning}</div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => soundEngine.speakSanskrit(ex.form)}
+                    className="px-3 py-2 bg-sky-600 hover:bg-sky-500 text-white text-xs font-semibold rounded-lg flex items-center gap-1.5 cursor-pointer"
+                  >
+                    <Volume2 className="w-4 h-4" />
+                    Play
+                  </button>
                 </div>
-                <div className="text-xs text-slate-400">{selectedGana.meaning}</div>
-              </div>
-              <button
-                type="button"
-                onClick={() => soundEngine.speakSanskrit(selectedGana.example3sgPresent)}
-                className="px-3 py-2 bg-sky-600 hover:bg-sky-500 text-white text-xs font-semibold rounded-lg flex items-center gap-1.5 cursor-pointer"
-              >
-                <Volume2 className="w-4 h-4" />
-                Play
-              </button>
+              ))}
             </div>
           </div>
 
@@ -427,29 +347,29 @@ export const PaniniEngine: React.FC = () => {
                   <th className="py-2 px-2">Gaṇa Name</th>
                   <th className="py-2 px-2">Vikaraṇa</th>
                   <th className="py-2 px-2">Pāṇini Sūtra</th>
-                  <th className="py-2 pl-2">3rd Sg Example</th>
+                  <th className="py-2 pl-2">3rd Sg Examples</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-slate-200 font-devanagari">
                 {DASHAGANI_VERB_CLASSES.map((g) => {
-                  const isAct = selectedGana.ganaNumber === g.ganaNumber;
+                  const isAct = selectedGana.n === g.n;
                   return (
                     <tr
-                      key={g.ganaNumber}
+                      key={g.n}
                       onClick={() => {
                         setSelectedGana(g);
-                        soundEngine.speakSanskrit(g.example3sgPresent);
+                        soundEngine.speakSanskrit(g.examples[0].form);
                       }}
                       className={`cursor-pointer transition-colors ${
                         isAct ? 'bg-sky-50 font-semibold text-sky-950' : 'hover:bg-slate-50 text-slate-700'
                       }`}
                     >
-                      <td className="py-2 pr-2 font-mono tabular-nums">{g.ganaNumber}</td>
-                      <td className="py-2 px-2">{g.sanskritName}</td>
+                      <td className="py-2 pr-2 font-mono tabular-nums">{g.n}</td>
+                      <td className="py-2 px-2">{g.name}</td>
                       <td className="py-2 px-2 font-semibold text-amber-800">{g.vikarana}</td>
-                      <td className="py-2 px-2 font-mono text-slate-500">{g.vikaranaSutra}</td>
+                      <td className="py-2 px-2 font-mono text-slate-500">{g.sutra}</td>
                       <td className="py-2 pl-2 font-semibold text-slate-900">
-                        {g.example3sgPresent}
+                        {g.examples.map((ex) => ex.form).join(' / ')}
                       </td>
                     </tr>
                   );

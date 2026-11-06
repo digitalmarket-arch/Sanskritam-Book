@@ -1,7 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Volume2, Play, RotateCcw, CheckCircle2, AlertTriangle, ArrowRight, Sparkles } from 'lucide-react';
-import { CurriculumExercise } from '../data/curriculumData';
+import { CurriculumExercise, ExerciseType } from '../data/curriculumData';
 import { soundEngine } from '../utils/soundEngine';
+import { scrambled } from '../utils/scramble';
+
+/** Exercise types answered by choosing one of the options. */
+const QUESTION_TYPES: ExerciseType[] = ['listening', 'quiz', 'memory', 'listen_pick', 'recital'];
 
 interface ExercisePlayerProps {
   exercise: CurriculumExercise;
@@ -68,8 +72,7 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
     }
 
     if (exercise.type === 'order' && exercise.orderItems) {
-      const reversed = [...exercise.orderItems].reverse();
-      setAvailableOrderItems(reversed);
+      setAvailableOrderItems(scrambled(exercise.orderItems, exercise.id));
       setPickedOrderItems([]);
     }
   }, [exercise]);
@@ -149,7 +152,7 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
 
   const resetOrder = () => {
     if (!exercise.orderItems) return;
-    setAvailableOrderItems([...exercise.orderItems].reverse());
+    setAvailableOrderItems(scrambled(exercise.orderItems, exercise.id));
     setPickedOrderItems([]);
     setOrderSubmitted(false);
   };
@@ -182,8 +185,9 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
               <h3 className="text-xl font-semibold text-slate-900 font-devanagari">
                 {exercise.sanskritPrompt}
               </h3>
-              <p className="text-base text-slate-700 font-devanagari">{exercise.hindiPrompt}</p>
-              <p className="text-sm text-slate-600 leading-relaxed">{exercise.englishPrompt}</p>
+              <p className="text-base text-slate-700 font-devanagari leading-relaxed whitespace-pre-line">
+                {exercise.bodyText}
+              </p>
             </div>
 
             <div className="flex flex-col items-center shrink-0">
@@ -241,7 +245,7 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
                   </span>
                   <div>
                     <div className="text-xl font-semibold text-sky-700 font-mono">
-                      {exercise.transliteration} · {exercise.pronunciationGuide}
+                      {exercise.pronunciationGuide}
                     </div>
                     <div className="text-sm text-slate-600 font-devanagari mt-1">
                       {exercise.hindiExample}
@@ -259,7 +263,7 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
                 className="w-full py-2.5 px-4 bg-sky-700 hover:bg-sky-800 text-white text-xs font-semibold rounded-lg transition-colors flex items-center justify-center gap-2 whitespace-nowrap cursor-pointer"
               >
                 <Volume2 className="w-4 h-4" />
-                Pronounce {exercise.letter} ({exercise.transliteration})
+                Pronounce {exercise.letter}
               </button>
             </div>
 
@@ -274,15 +278,17 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
                   <p className="text-sm text-slate-600 mt-1 leading-relaxed">{exercise.lore}</p>
                 </div>
 
-                <div className="pt-3 border-t border-slate-200">
-                  <div className="text-xs text-slate-500">Presiding Deity / अधिष्ठातृ देवता</div>
-                  <div className="text-sm font-semibold text-slate-900 font-devanagari">
-                    {exercise.deity}
+                {exercise.deity && (
+                  <div className="pt-3 border-t border-slate-200">
+                    <div className="text-xs text-slate-500">Deity association / देवता</div>
+                    <div className="text-sm font-semibold text-slate-900 font-devanagari">
+                      {exercise.deity}
+                    </div>
+                    <p className="text-sm text-slate-600 mt-0.5 leading-relaxed">
+                      {exercise.deityLore}
+                    </p>
                   </div>
-                  <p className="text-sm text-slate-600 mt-0.5 leading-relaxed">
-                    {exercise.deityLore}
-                  </p>
-                </div>
+                )}
 
                 <div className="pt-3 border-t border-slate-200">
                   <div className="text-xs text-slate-500">Articulation Mechanics (उच्चारण स्थान)</div>
@@ -349,30 +355,32 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
           </div>
 
           <div className="divide-y divide-slate-200 border border-slate-200 rounded-lg bg-slate-50/50">
-            {exercise.infoLines?.map((line, idx) => (
-              <div
-                key={idx}
-                className="p-3.5 flex items-start justify-between gap-4 hover:bg-white transition-colors"
-              >
-                <div className="text-sm text-slate-800 font-devanagari leading-relaxed">
-                  <span className="font-mono text-xs text-slate-400 mr-2.5 tabular-nums">
-                    {String(idx + 1).padStart(2, '0')}.
-                  </span>
-                  {line}
-                </div>
-                <button
-                  type="button"
-                  onClick={() => {
-                    soundEngine.speakSanskrit(line.split('=')[0].split('→')[0]);
-                    onComplete();
-                  }}
-                  className="p-1.5 text-slate-500 hover:text-sky-700 rounded transition-colors shrink-0 cursor-pointer"
-                  title="Pronounce line"
+            {exercise.infoLines?.map((line, idx) => {
+              const devanagari = line.match(/[\u0900-\u097F][\u0900-\u097F\s]*/g)?.join(' ').trim();
+              return (
+                <div
+                  key={idx}
+                  className="px-3.5 py-2.5 flex items-start justify-between gap-4 hover:bg-white transition-colors"
                 >
-                  <Volume2 className="w-4 h-4" />
-                </button>
-              </div>
-            ))}
+                  <div className="text-sm text-slate-800 font-devanagari leading-relaxed whitespace-pre-wrap">
+                    {line}
+                  </div>
+                  {devanagari && (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        soundEngine.speakSanskrit(devanagari);
+                        onComplete();
+                      }}
+                      className="p-1.5 text-slate-500 hover:text-sky-700 rounded transition-colors shrink-0 cursor-pointer"
+                      title="Pronounce the Sanskrit in this line"
+                    >
+                      <Volume2 className="w-4 h-4" />
+                    </button>
+                  )}
+                </div>
+              );
+            })}
           </div>
 
           {!isCompleted && (
@@ -389,9 +397,37 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
         </div>
       )}
 
-      {/* 4. LISTENING (SHRUTI) & 5. QUIZ & 6. MEMORY QUIZ */}
-      {(exercise.type === 'listening' || exercise.type === 'quiz' || exercise.type === 'memory') && (
+      {/* 4. LISTENING (SHRUTI), QUIZ, MEMORY QUIZ, LISTEN & PICK, SEQUENCE RECITAL (KRAMA) */}
+      {QUESTION_TYPES.includes(exercise.type) && (
         <div className="space-y-6">
+          {exercise.preText && (
+            <p className="text-sm text-slate-700 font-devanagari whitespace-pre-line">{exercise.preText}</p>
+          )}
+
+          {/* Recital sequence shown before the question */}
+          {exercise.type === 'recital' && exercise.sequenceItems && (
+            <div className="p-5 bg-slate-50 border border-slate-200 rounded-lg space-y-3">
+              <div className="flex items-center justify-between gap-3">
+                <span className="text-sm font-semibold text-slate-900 font-devanagari">{exercise.sequenceTitle}</span>
+                <button
+                  type="button"
+                  onClick={() => soundEngine.speakSanskrit(exercise.sequenceItems!.join(' । '))}
+                  className="p-1.5 text-slate-500 hover:text-sky-700 rounded transition-colors shrink-0 cursor-pointer"
+                  title="Recite the sequence"
+                >
+                  <Volume2 className="w-4 h-4" />
+                </button>
+              </div>
+              <ol className="space-y-1.5 list-decimal list-inside">
+                {exercise.sequenceItems.map((item, i) => (
+                  <li key={i} className="text-sm text-slate-800 font-devanagari">
+                    {item}
+                  </li>
+                ))}
+              </ol>
+            </div>
+          )}
+
           {/* Memory Phase Box */}
           {exercise.type === 'memory' && (
             <div className="p-5 bg-slate-50 border border-slate-200 rounded-lg">
@@ -415,13 +451,18 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
                 </button>
               </div>
               {memoryPhase === 'memorize' && (
-                <ul className="space-y-2">
-                  {exercise.memorizeItems?.map((item, i) => (
-                    <li key={i} className="text-sm font-medium text-slate-800 font-devanagari">
-                      • {item}
-                    </li>
-                  ))}
-                </ul>
+                <div className="space-y-2">
+                  {exercise.memorizeTitle && (
+                    <div className="text-sm font-semibold text-slate-900 font-devanagari">{exercise.memorizeTitle}</div>
+                  )}
+                  <ul className="space-y-2">
+                    {exercise.memorizeItems?.map((item, i) => (
+                      <li key={i} className="text-sm font-medium text-slate-800 font-devanagari whitespace-pre-wrap">
+                        • {item}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
               )}
             </div>
           )}
@@ -450,7 +491,7 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
           )}
 
           {exercise.revealText && listeningRevealed && (
-            <div className="p-4 bg-sky-50/70 border border-sky-200 rounded-lg text-sm text-slate-800 font-devanagari">
+            <div className="p-4 bg-sky-50/70 border border-sky-200 rounded-lg text-sm text-slate-800 font-devanagari whitespace-pre-line">
               {exercise.revealText}
             </div>
           )}
@@ -588,15 +629,27 @@ export const ExercisePlayer: React.FC<ExercisePlayerProps> = ({
       {exercise.type === 'order' && exercise.orderItems && (
         <div className="space-y-5">
           <div className="flex flex-wrap items-center justify-between gap-2">
-            <h3 className="text-base font-semibold text-slate-900">{exercise.orderPrompt}</h3>
-            <button
-              type="button"
-              onClick={resetOrder}
-              className="px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-slate-900 border border-slate-200 rounded-lg flex items-center gap-1.5 cursor-pointer"
-            >
-              <RotateCcw className="w-3.5 h-3.5" />
-              Reset Sequence
-            </button>
+            <h3 className="text-base font-semibold text-slate-900 font-devanagari">{exercise.orderPrompt}</h3>
+            <div className="flex items-center gap-2">
+              {exercise.audioPlayed && (
+                <button
+                  type="button"
+                  onClick={() => soundEngine.speakSanskrit(exercise.audioPlayed!)}
+                  className="px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-slate-900 border border-slate-200 rounded-lg flex items-center gap-1.5 cursor-pointer"
+                >
+                  <Volume2 className="w-3.5 h-3.5" />
+                  Hear it
+                </button>
+              )}
+              <button
+                type="button"
+                onClick={resetOrder}
+                className="px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-slate-900 border border-slate-200 rounded-lg flex items-center gap-1.5 cursor-pointer"
+              >
+                <RotateCcw className="w-3.5 h-3.5" />
+                Reset Sequence
+              </button>
+            </div>
           </div>
 
           {/* Constructed Sequence */}

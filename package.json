@@ -7,7 +7,10 @@
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "lint": "tsc --noEmit",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "node --test tests/*.test.cjs",
+    "sync:app": "node scripts/syncFromApp.mjs",
+    "pdf": "node scripts/updatePdfCurriculum.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.511.0",
@@ -15,6 +18,11 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@expo-google-fonts/noto-sans": "0.4.2",
+    "@expo-google-fonts/noto-sans-devanagari": "0.4.2",
+    "@expo-google-fonts/noto-sans-math": "0.4.2",
+    "@expo-google-fonts/noto-sans-symbols": "0.4.1",
+    "@expo-google-fonts/noto-sans-symbols-2": "0.4.1",
     "@pdf-lib/fontkit": "^1.1.1",
     "@tailwindcss/vite": "^4.1.4",
     "@types/node": "^22.14.0",

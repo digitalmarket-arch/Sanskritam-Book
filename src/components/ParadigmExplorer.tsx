@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { Volume2 } from 'lucide-react';
-import { DECLENSION_TABLES, VERB_BHU_TABLES } from '../data/curriculumData';
+import { NOUN_TABLES, VERB_TABLES } from '../data/curriculumData';
 import { soundEngine } from '../utils/soundEngine';
 
 export const ParadigmExplorer: React.FC = () => {
-  const [selectedNounId, setSelectedNounId] = useState<string>(DECLENSION_TABLES[0].id);
-  const [selectedVerbId, setSelectedVerbId] = useState<string>(VERB_BHU_TABLES[0].id);
+  const [selectedNounId, setSelectedNounId] = useState<string>(NOUN_TABLES[0].id);
+  const [selectedVerbId, setSelectedVerbId] = useState<string>(VERB_TABLES[0].id);
 
   // Interactive 5-Step Sentence Composer (Unit 39 · रचना)
   const [subjectChoice, setSubjectChoice] = useState<number>(0);
@@ -50,8 +50,8 @@ export const ParadigmExplorer: React.FC = () => {
     },
   ];
 
-  const activeNoun = DECLENSION_TABLES.find((t) => t.id === selectedNounId) || DECLENSION_TABLES[0];
-  const activeVerb = VERB_BHU_TABLES.find((t) => t.id === selectedVerbId) || VERB_BHU_TABLES[0];
+  const activeNoun = NOUN_TABLES.find((t) => t.id === selectedNounId) || NOUN_TABLES[0];
+  const activeVerb = VERB_TABLES.find((t) => t.id === selectedVerbId) || VERB_TABLES[0];
 
   const sub = SUBJECTS[subjectChoice];
   const obj = OBJECTS[objectChoice];
@@ -172,7 +172,7 @@ export const ParadigmExplorer: React.FC = () => {
               <p className="text-xs text-slate-500">{activeNoun.subtitle}</p>
             </div>
             <div className="flex flex-wrap gap-1 bg-slate-100 p-1 rounded-lg">
-              {DECLENSION_TABLES.map((t) => (
+              {NOUN_TABLES.map((t) => (
                 <button
                   key={t.id}
                   type="button"
@@ -183,7 +183,7 @@ export const ParadigmExplorer: React.FC = () => {
                       : 'text-slate-600 hover:text-slate-900'
                   }`}
                 >
-                  {t.stem.split(' ')[0]}
+                  {t.title}
                 </button>
               ))}
             </div>
@@ -201,11 +201,11 @@ export const ParadigmExplorer: React.FC = () => {
               </thead>
               <tbody className="divide-y divide-slate-200 font-devanagari">
                 {activeNoun.rows.map((row) => (
-                  <tr key={row.caseName} className="hover:bg-slate-50">
+                  <tr key={row.label} className="hover:bg-slate-50">
                     <td className="py-2.5 pr-2 font-sans text-xs font-medium text-slate-700">
-                      {row.caseName}
+                      {row.label}
                     </td>
-                    {[row.sg, row.du, row.pl].map((cell, cIdx) => (
+                    {row.forms.map((cell, cIdx) => (
                       <td key={cIdx} className="py-2 px-2">
                         <button
                           type="button"
@@ -228,12 +228,12 @@ export const ParadigmExplorer: React.FC = () => {
           <div className="flex flex-wrap items-center justify-between gap-2">
             <div>
               <h3 className="text-base font-semibold text-slate-900 font-devanagari">
-                √भू ("to be") — {activeVerb.lakara} · {activeVerb.title}
+                {activeVerb.title}
               </h3>
-              <p className="text-xs text-slate-500 font-mono">{activeVerb.formula}</p>
+              <p className="text-xs text-slate-500 font-devanagari">{activeVerb.subtitle}</p>
             </div>
             <div className="flex flex-wrap gap-1 bg-slate-100 p-1 rounded-lg">
-              {VERB_BHU_TABLES.map((v) => (
+              {VERB_TABLES.map((v) => (
                 <button
                   key={v.id}
                   type="button"
@@ -244,7 +244,7 @@ export const ParadigmExplorer: React.FC = () => {
                       : 'text-slate-600 hover:text-slate-900'
                   }`}
                 >
-                  {v.lakara.split(' ')[0]}
+                  {v.title.split('· ').pop()}
                 </button>
               ))}
             </div>
@@ -262,11 +262,11 @@ export const ParadigmExplorer: React.FC = () => {
               </thead>
               <tbody className="divide-y divide-slate-200 font-devanagari">
                 {activeVerb.rows.map((row) => (
-                  <tr key={row.person} className="hover:bg-slate-50">
+                  <tr key={row.label} className="hover:bg-slate-50">
                     <td className="py-3 pr-2 font-sans text-xs font-medium text-slate-700">
-                      {row.person}
+                      {row.label}
                     </td>
-                    {[row.sg, row.du, row.pl].map((cell, cIdx) => (
+                    {row.forms.map((cell, cIdx) => (
                       <td key={cIdx} className="py-3 px-2">
                         <button
                           type="button"

@@ -1,5 +1,5 @@
 {
   "name": "Sanskritam — Complete Interactive Curriculum",
-  "description": "Interactive Sanskrit learning platform featuring all 12 chapters, 45 units, 86 lessons, and 459 exercises from Varnamala phonetics to Panini's Ashtadhyayi and Chandas prosody.",
+  "description": "Interactive Sanskrit learning platform featuring all 17 chapters, 60 units, 101 lessons, and 545 exercises, from Varnamala phonetics to Panini's Ashtadhyayi, Chandas prosody, Vedic Sanskrit, Darshana, poetics, the scientific shastras and the Dhatupatha.",
   "requestFramePermissions": ["microphone"]
 }

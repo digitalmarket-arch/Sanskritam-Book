@@ -1,19 +1,35 @@
 import React, { useState, useMemo } from 'react';
 import { Download, Printer, Volume2, Eye, EyeOff, FileText, BookOpen, Search } from 'lucide-react';
-import { CURRICULUM_CHAPTERS, CurriculumChapter } from '../data/curriculumData';
+import {
+  CURRICULUM_CHAPTERS,
+  CURRICULUM_TOTALS,
+  CurriculumChapter,
+  PDF_PAGE_COUNT,
+} from '../data/curriculumData';
 import { soundEngine } from '../utils/soundEngine';
+import { scrambled } from '../utils/scramble';
+
+/** The śāstra chapters (13–17) were added after the core course. */
+const FIRST_NEW_CHAPTER = 13;
+const NEW_CHAPTERS = CURRICULUM_CHAPTERS.filter((c) => c.number >= FIRST_NEW_CHAPTER);
+const NEW_UNITS = NEW_CHAPTERS.flatMap((c) => c.units);
+const ALL_UNITS = CURRICULUM_CHAPTERS.flatMap((c) => c.units);
+const NEW_FIRST_PAGE = NEW_UNITS[0]?.pageStart || 1;
+const unitRange = (units: { number: number }[]) =>
+  `${Math.min(...units.map((u) => u.number))}–${Math.max(...units.map((u) => u.number))}`;
+const QUESTION_TYPES = ['quiz', 'listening', 'memory', 'listen_pick', 'recital'];
 
 export const PdfBookStudio: React.FC = () => {
   const [viewMode, setViewMode] = useState<'book_pages' | 'embedded_pdf'>('book_pages');
   const [selectedChapterNum, setSelectedChapterNum] = useState<number | 'all' | 'new_only'>('new_only');
   const [showAnswerKeys, setShowAnswerKeys] = useState<boolean>(true);
   const [searchQuery, setSearchQuery] = useState<string>('');
-  const [pdfPageAnchor, setPdfPageAnchor] = useState<number>(138);
+  const [pdfPageAnchor, setPdfPageAnchor] = useState<number>(NEW_FIRST_PAGE);
 
   const visibleChapters: CurriculumChapter[] = useMemo(() => {
     let list = CURRICULUM_CHAPTERS;
     if (selectedChapterNum === 'new_only') {
-      list = CURRICULUM_CHAPTERS.filter((c) => c.number >= 13);
+      list = NEW_CHAPTERS;
     } else if (typeof selectedChapterNum === 'number') {
       list = CURRICULUM_CHAPTERS.filter((c) => c.number === selectedChapterNum);
     }
@@ -56,7 +72,7 @@ export const PdfBookStudio: React.FC = () => {
       <div className="border-b border-slate-200 pb-5 flex flex-col lg:flex-row lg:items-end justify-between gap-4">
         <div>
           <div className="text-xs font-mono text-slate-500 tabular-nums">
-            SANSKRITAM — COMPLETE CURRICULUM PDF EDITION · 17 CHAPTERS · 60 UNITS · 161 PAGES
+            SANSKRITAM — COMPLETE CURRICULUM PDF EDITION · {CURRICULUM_TOTALS.chapters} CHAPTERS · {CURRICULUM_TOTALS.units} UNITS · {PDF_PAGE_COUNT} PAGES
           </div>
           <h2 className="text-2xl font-bold text-slate-900 mt-1">
             Curriculum PDF Book Viewer & Export Studio
@@ -88,7 +104,7 @@ export const PdfBookStudio: React.FC = () => {
               }`}
             >
               <FileText className="w-3.5 h-3.5" />
-              Embedded PDF File (161p)
+              Embedded PDF File ({PDF_PAGE_COUNT}p)
             </button>
           </div>
 
@@ -118,7 +134,7 @@ export const PdfBookStudio: React.FC = () => {
             className="px-4 py-2 text-xs font-semibold text-white bg-sky-700 hover:bg-sky-800 rounded-lg flex items-center gap-1.5 whitespace-nowrap shrink-0"
           >
             <Download className="w-3.5 h-3.5" />
-            Download PDF (161 Pages)
+            Download PDF ({PDF_PAGE_COUNT} Pages)
           </a>
         </div>
       </div>
@@ -134,7 +150,7 @@ export const PdfBookStudio: React.FC = () => {
                 type="button"
                 onClick={() => {
                   setSelectedChapterNum('new_only');
-                  setPdfPageAnchor(138);
+                  setPdfPageAnchor(NEW_FIRST_PAGE);
                 }}
                 className={`px-3 py-1.5 text-xs font-semibold rounded-lg border transition-colors whitespace-nowrap shrink-0 cursor-pointer ${
                   selectedChapterNum === 'new_only'
@@ -142,7 +158,7 @@ export const PdfBookStudio: React.FC = () => {
                     : 'border-slate-200 bg-slate-50 text-slate-700 hover:bg-white'
                 }`}
               >
-                New Chapters 13–17 (Units 46–60 · p.138–161)
+                New Chapters {FIRST_NEW_CHAPTER}–{CURRICULUM_TOTALS.chapters} (Units {unitRange(NEW_UNITS)} · p.{NEW_FIRST_PAGE}–{PDF_PAGE_COUNT})
               </button>
               <button
                 type="button"
@@ -156,7 +172,7 @@ export const PdfBookStudio: React.FC = () => {
                     : 'border-slate-200 bg-slate-50 text-slate-700 hover:bg-white'
                 }`}
               >
-                All 17 Chapters (Units 1–60 · p.1–161)
+                All {CURRICULUM_TOTALS.chapters} Chapters (Units {unitRange(ALL_UNITS)} · p.1–{PDF_PAGE_COUNT})
               </button>
             </div>
 
@@ -175,7 +191,7 @@ export const PdfBookStudio: React.FC = () => {
           {viewMode === 'embedded_pdf' ? (
             <div className="bg-white border border-slate-200 rounded-xl overflow-hidden">
               <div className="px-6 py-3 bg-slate-900 text-slate-100 flex items-center justify-between text-xs font-mono">
-                <span>FILE: /Sanskritam-Curriculum.pdf (161 Pages · Chapters 1–17)</span>
+                <span>FILE: /Sanskritam-Curriculum.pdf ({PDF_PAGE_COUNT} Pages · Chapters 1–{CURRICULUM_TOTALS.chapters})</span>
                 <div className="flex items-center gap-3">
                   <button
                     type="button"
@@ -186,10 +202,10 @@ export const PdfBookStudio: React.FC = () => {
                   </button>
                   <button
                     type="button"
-                    onClick={() => setPdfPageAnchor(138)}
+                    onClick={() => setPdfPageAnchor(NEW_FIRST_PAGE)}
                     className="text-emerald-400 hover:underline cursor-pointer"
                   >
-                    Jump to New Ch.13–17 (p.138)
+                    Jump to New Ch.{FIRST_NEW_CHAPTER}–{CURRICULUM_TOTALS.chapters} (p.{NEW_FIRST_PAGE})
                   </button>
                 </div>
               </div>
@@ -201,7 +217,7 @@ export const PdfBookStudio: React.FC = () => {
               >
                 <div className="p-8 text-center space-y-4">
                   <p className="text-sm text-slate-600">
-                    Your browser’s inline PDF plugin is restricted in this sandboxed frame. Use the button below to download the complete 161-page PDF directly, or switch to the Typeset Book Pages view.
+                    Your browser’s inline PDF plugin is restricted in this sandboxed frame. Use the button below to download the complete {PDF_PAGE_COUNT}-page PDF directly, or switch to the Typeset Book Pages view.
                   </p>
                   <div className="flex items-center justify-center gap-3">
                     <a
@@ -210,7 +226,7 @@ export const PdfBookStudio: React.FC = () => {
                       className="px-4 py-2 text-xs font-semibold text-white bg-sky-700 hover:bg-sky-800 rounded-lg inline-flex items-center gap-1.5"
                     >
                       <Download className="w-4 h-4" />
-                      Download Updated PDF (161 Pages)
+                      Download Updated PDF ({PDF_PAGE_COUNT} Pages)
                     </a>
                     <button
                       type="button"
@@ -233,7 +249,7 @@ export const PdfBookStudio: React.FC = () => {
                 >
                   {/* Top-Right Running Header matching PDF */}
                   <div className="flex items-center justify-between text-xs text-slate-400 font-mono border-b border-slate-100 pb-3">
-                    <span>CHAPTER {String(ch.number).padStart(2, '0')} OF 17</span>
+                    <span>CHAPTER {String(ch.number).padStart(2, '0')} OF {CURRICULUM_TOTALS.chapters}</span>
                     <span>Sanskritam — Complete Curriculum</span>
                   </div>
 
@@ -316,14 +332,29 @@ export const PdfBookStudio: React.FC = () => {
                                           {ex.meaning}
                                         </div>
                                         <div className="italic text-slate-600">{ex.lore}</div>
-                                        <div>
-                                          <span className="font-semibold">Deity: </span>
-                                          {ex.deity}
-                                        </div>
+                                        {ex.deity && (
+                                          <div>
+                                            <span className="font-semibold">Deity: </span>
+                                            {ex.deity}
+                                            {ex.deityLore && <div className="italic text-slate-600">{ex.deityLore}</div>}
+                                          </div>
+                                        )}
                                         <div>
                                           <span className="font-semibold">Articulation: </span>
                                           {ex.articulationPoint}
+                                          {ex.articulationDetail && (
+                                            <div className="italic text-slate-600">{ex.articulationDetail}</div>
+                                          )}
                                         </div>
+                                        {ex.exampleWords && (
+                                          <ul className="pl-4">
+                                            {ex.exampleWords.map((w, wi) => (
+                                              <li key={wi}>
+                                                • {w.sanskrit} ({w.translit}) — {w.meaning}
+                                              </li>
+                                            ))}
+                                          </ul>
+                                        )}
                                       </div>
                                     )}
 
@@ -333,13 +364,13 @@ export const PdfBookStudio: React.FC = () => {
                                         <div className="font-semibold text-slate-900">
                                           {ex.infoTitle}
                                         </div>
-                                        <ul className="space-y-1.5 pl-3">
+                                        <div className="space-y-1 pl-3">
                                           {ex.infoLines?.map((ln, i) => (
-                                            <li key={i} className="text-slate-800 leading-relaxed">
+                                            <div key={i} className="text-slate-800 leading-relaxed whitespace-pre-wrap">
                                               {ln}
-                                            </li>
+                                            </div>
                                           ))}
-                                        </ul>
+                                        </div>
                                       </div>
                                     )}
 
@@ -349,23 +380,40 @@ export const PdfBookStudio: React.FC = () => {
                                         <div className="font-semibold">
                                           Duration: {ex.durationSeconds} seconds · {ex.sanskritPrompt}
                                         </div>
-                                        <div className="text-slate-700">{ex.hindiPrompt}</div>
-                                        <div className="text-slate-600">{ex.englishPrompt}</div>
+                                        <div className="text-slate-700 whitespace-pre-line">{ex.bodyText}</div>
                                       </div>
                                     )}
 
-                                    {/* Quiz / Listening / Memory in Book View */}
-                                    {(ex.type === 'quiz' ||
-                                      ex.type === 'listening' ||
-                                      ex.type === 'memory') && (
+                                    {/* Questions (quiz, listening, memory, listen & pick, recital) in Book View */}
+                                    {QUESTION_TYPES.includes(ex.type) && (
                                       <div className="space-y-1.5 text-sm font-devanagari">
+                                        {ex.preText && <div className="text-slate-700 whitespace-pre-line">{ex.preText}</div>}
+                                        {ex.audioPlayed && (
+                                          <div className="text-xs text-slate-500">Audio played: {ex.audioPlayed}</div>
+                                        )}
+                                        {ex.revealText && (
+                                          <div className="text-slate-700 whitespace-pre-line">
+                                            <span className="font-semibold">Reveal text: </span>
+                                            {ex.revealText}
+                                          </div>
+                                        )}
                                         {ex.memorizeItems && (
                                           <div className="p-2.5 bg-slate-50 rounded border border-slate-200 text-xs space-y-1">
                                             <div className="font-semibold text-slate-700">
-                                              Memorize ({ex.memorizeSeconds}s):
+                                              Memorize (shown {ex.memorizeSeconds}s){ex.memorizeTitle ? ` — ${ex.memorizeTitle}` : ':'}
                                             </div>
                                             {ex.memorizeItems.map((m, mi) => (
-                                              <div key={mi}>• {m}</div>
+                                              <div key={mi} className="whitespace-pre-wrap">• {m}</div>
+                                            ))}
+                                          </div>
+                                        )}
+                                        {ex.sequenceItems && (
+                                          <div className="p-2.5 bg-slate-50 rounded border border-slate-200 text-xs space-y-1">
+                                            <div className="font-semibold text-slate-700">{ex.sequenceTitle}</div>
+                                            {ex.sequenceItems.map((m, mi) => (
+                                              <div key={mi}>
+                                                {mi + 1}. {m}
+                                              </div>
                                             ))}
                                           </div>
                                         )}
@@ -416,16 +464,19 @@ export const PdfBookStudio: React.FC = () => {
                                       </div>
                                     )}
 
-                                    {/* Order / Sequence Recital in Book View */}
-                                    {ex.type === 'order' && (
+                                    {/* Tap in Order in Book View: the answer key shows the order */}
+                                    {ex.type === 'order' && ex.orderItems && (
                                       <div className="space-y-1.5 text-sm font-devanagari">
                                         <div className="font-semibold text-slate-900">
-                                          {ex.orderPrompt}
+                                          Task: {ex.orderPrompt}
+                                        </div>
+                                        <div className="text-xs text-slate-500">
+                                          {showAnswerKeys ? 'Correct order:' : 'Put these in order:'}
                                         </div>
                                         <ul className="space-y-1 pl-4">
-                                          {ex.orderItems?.map((it, iIdx) => (
-                                            <li key={iIdx} className="text-slate-800">
-                                              • {it}
+                                          {(showAnswerKeys ? ex.orderItems : scrambled(ex.orderItems, ex.id)).map((it, iIdx) => (
+                                            <li key={iIdx} className={showAnswerKeys ? 'text-emerald-800' : 'text-slate-800'}>
+                                              {showAnswerKeys ? `${iIdx + 1}.` : '•'} {it}
                                             </li>
                                           ))}
                                         </ul>
@@ -453,13 +504,13 @@ export const PdfBookStudio: React.FC = () => {
               <h3 className="text-base font-semibold text-slate-900">
                 Complete Table of Contents
               </h3>
-              <p className="text-xs text-slate-500">17 Chapters · 60 Units · 161 PDF Pages</p>
+              <p className="text-xs text-slate-500">{CURRICULUM_TOTALS.chapters} Chapters · {CURRICULUM_TOTALS.units} Units · {PDF_PAGE_COUNT} PDF Pages</p>
             </div>
           </div>
 
           <div className="divide-y divide-slate-200 max-h-[640px] overflow-y-auto pr-1">
             {CURRICULUM_CHAPTERS.map((ch) => {
-              const isNew = ch.number >= 13;
+              const isNew = ch.number >= FIRST_NEW_CHAPTER;
               const isSelected = selectedChapterNum === ch.number;
               return (
                 <div key={ch.id} className="py-2.5 first:pt-0 last:pb-0">

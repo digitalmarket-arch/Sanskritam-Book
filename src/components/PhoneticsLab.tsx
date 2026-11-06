@@ -281,21 +281,27 @@ export const PhoneticsLab: React.FC = () => {
             </div>
 
             <div className="space-y-3 text-sm">
-              <div>
-                <span className="text-xs text-slate-500 block">Meaning & Essence</span>
-                <span className="font-semibold text-slate-900 font-devanagari">
-                  {activePhoneme.meaning}
-                </span>
-              </div>
-              <div>
-                <span className="text-xs text-slate-500 block">Deity / Cosmic Principle</span>
-                <span className="font-medium text-slate-800 font-devanagari">
-                  {activePhoneme.deity}
-                </span>
-              </div>
+              {activePhoneme.meaning && (
+                <div>
+                  <span className="text-xs text-slate-500 block">
+                    Meaning association{activePhoneme.lesson ? ` (Lesson ${activePhoneme.lesson})` : ''}
+                  </span>
+                  <span className="font-semibold text-slate-900 font-devanagari">
+                    {activePhoneme.meaning}
+                  </span>
+                </div>
+              )}
+              {activePhoneme.deity && (
+                <div>
+                  <span className="text-xs text-slate-500 block">Deity association (as the letter card gives it)</span>
+                  <span className="font-medium text-slate-800 font-devanagari">
+                    {activePhoneme.deity}
+                  </span>
+                </div>
+              )}
               <div>
                 <span className="text-xs text-slate-500 block mb-1.5">
-                  Curriculum Example Words (Click to pronounce):
+                  Example Words (Click to pronounce):
                 </span>
                 <div className="flex flex-wrap gap-2">
                   {activePhoneme.examples.map((ex, i) => (

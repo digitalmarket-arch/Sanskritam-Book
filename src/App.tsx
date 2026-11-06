@@ -17,7 +17,7 @@ import {
   MicOff,
   X,
 } from 'lucide-react';
-import { CURRICULUM_CHAPTERS } from './data/curriculumData';
+import { CURRICULUM_CHAPTERS, CURRICULUM_TOTALS, PDF_PAGE_COUNT } from './data/curriculumData';
 import { ExercisePlayer } from './components/ExercisePlayer';
 import { PhoneticsLab } from './components/PhoneticsLab';
 import { PaniniEngine } from './components/PaniniEngine';
@@ -38,40 +38,22 @@ interface CurriculumVolume {
   pages: string;
 }
 
-const CURRICULUM_VOLUMES: CurriculumVolume[] = [
-  {
-    id: 'vol1',
-    number: 'Vol. I',
-    sanskritLabel: 'प्रथमः खण्डः',
-    title: 'Foundations, Script, Sandhi & Syntax (Ch. 1–6)',
-    chapterRange: [1, 6],
-    pages: 'pp. 1–50',
-  },
-  {
-    id: 'vol2',
-    number: 'Vol. II',
-    sanskritLabel: 'द्वितीयः खण्डः',
-    title: 'Classical Grammar, Samāsa, Chandas & Literature (Ch. 7–10)',
-    chapterRange: [7, 10],
-    pages: 'pp. 51–67',
-  },
-  {
-    id: 'vol3',
-    number: 'Vol. III',
-    sanskritLabel: 'तृतीयः खण्डः',
-    title: 'Pāṇini’s Aṣṭādhyāyī & Grand Synthesis (Ch. 11–12)',
-    chapterRange: [11, 12],
-    pages: 'pp. 68–137',
-  },
-  {
-    id: 'vol4',
-    number: 'Vol. IV',
-    sanskritLabel: 'चतुर्थः खण्डः',
-    title: 'Vedic, Darśana, Nāṭya-Kāvya, Śāstras & Dhātupāṭha (Ch. 13–17)',
-    chapterRange: [13, 17],
-    pages: 'pp. 138–161',
-  },
+const VOLUME_DEFS: Omit<CurriculumVolume, 'title' | 'pages'>[] = [
+  { id: 'vol1', number: 'Vol. I', sanskritLabel: 'प्रथमः खण्डः', chapterRange: [1, 6] },
+  { id: 'vol2', number: 'Vol. II', sanskritLabel: 'द्वितीयः खण्डः', chapterRange: [7, 10] },
+  { id: 'vol3', number: 'Vol. III', sanskritLabel: 'तृतीयः खण्डः', chapterRange: [11, 12] },
+  { id: 'vol4', number: 'Vol. IV', sanskritLabel: 'चतुर्थः खण्डः', chapterRange: [13, 17] },
 ];
+
+/** A volume's title lists its chapters; its pages run from its first unit to the next volume. */
+const CURRICULUM_VOLUMES: CurriculumVolume[] = VOLUME_DEFS.map((v) => {
+  const chapters = CURRICULUM_CHAPTERS.filter((c) => c.number >= v.chapterRange[0] && c.number <= v.chapterRange[1]);
+  const titles = chapters.map((c) => c.title);
+  const title = `${titles.length > 1 ? `${titles.slice(0, -1).join(', ')} & ${titles[titles.length - 1]}` : titles[0]} (Ch. ${v.chapterRange[0]}–${v.chapterRange[1]})`;
+  const first = v.chapterRange[0] === 1 ? 1 : chapters[0]?.units[0]?.pageStart || 1;
+  const next = CURRICULUM_CHAPTERS.find((c) => c.number === v.chapterRange[1] + 1)?.units[0]?.pageStart;
+  return { ...v, title, pages: `pp. ${first}–${next ? next - 1 : PDF_PAGE_COUNT}` };
+});
 
 function getVolumeForChapter(chapterNumber: number): CurriculumVolume {
   return (
@@ -178,52 +160,46 @@ interface RecentSyllabusItem {
   searchTerm?: string;
 }
 
+/** Chapters 13–17 (the śāstras) were added after the core course. */
+const SASTRA_FIRST_CHAPTER = 13;
+const SASTRA_CHAPTERS = CURRICULUM_CHAPTERS.filter((c) => c.number >= SASTRA_FIRST_CHAPTER);
+
 const RECENT_STORAGE_KEY = 'sanskritam_recent_syllabus_v1';
 const BOOKMARKS_STORAGE_KEY = 'sanskritam_bookmarked_units_v1';
 
-const DEFAULT_BOOKMARK_ITEMS: RecentSyllabusItem[] = [
-  {
-    id: 'ch-13-unit-47',
-    chapterIdx: 12,
-    unitIdx: 1,
-    chapterNumber: 13,
-    unitNumber: 47,
-    title: 'Ṛgveda Sūktas / ऋग्वेद-सूक्तानि',
-    pageStart: 141,
-  },
-];
+/** A syllabus shortcut to a unit, with its current title and PDF page. */
+function unitItem(chapterNumber: number, unitNumber: number, searchTerm?: string): RecentSyllabusItem | null {
+  const chapterIdx = CURRICULUM_CHAPTERS.findIndex((c) => c.number === chapterNumber);
+  const unitIdx = chapterIdx < 0 ? -1 : CURRICULUM_CHAPTERS[chapterIdx].units.findIndex((u) => u.number === unitNumber);
+  if (unitIdx < 0) return null;
+  const unit = CURRICULUM_CHAPTERS[chapterIdx].units[unitIdx];
+  return {
+    id: `ch-${chapterNumber}-unit-${unitNumber}`,
+    chapterIdx,
+    unitIdx,
+    chapterNumber,
+    unitNumber,
+    title: unit.title,
+    pageStart: unit.pageStart,
+    ...(searchTerm ? { searchTerm } : {}),
+  };
+}
 
-const DEFAULT_RECENT_ITEMS: RecentSyllabusItem[] = [
-  {
-    id: 'ch-1-unit-1',
-    chapterIdx: 0,
-    unitIdx: 0,
-    chapterNumber: 1,
-    unitNumber: 1,
-    title: 'अ & आ (a & aa)',
-    pageStart: 4,
-  },
-  {
-    id: 'ch-11-unit-30',
-    chapterIdx: 10,
-    unitIdx: 0,
-    chapterNumber: 11,
-    unitNumber: 30,
-    title: 'Maheshvara Sutras / माहेश्वराणि सूत्राणि',
-    pageStart: 69,
-    searchTerm: 'Maheshvara',
-  },
-  {
-    id: 'ch-17-unit-58',
-    chapterIdx: 16,
-    unitIdx: 0,
-    chapterNumber: 17,
-    unitNumber: 58,
-    title: 'The 10 Verb Classes / दशगणी',
-    pageStart: 170,
-    searchTerm: 'Dhatu',
-  },
-];
+/** Saved shortcuts keep their place but take the unit's current title and page. */
+function refreshItems(items: (RecentSyllabusItem | null)[]): RecentSyllabusItem[] {
+  return items
+    .filter((item): item is RecentSyllabusItem => !!item && typeof item.chapterNumber === 'number')
+    .map((item) => unitItem(item.chapterNumber, item.unitNumber, item.searchTerm))
+    .filter((item): item is RecentSyllabusItem => item !== null);
+}
+
+const DEFAULT_BOOKMARK_ITEMS: RecentSyllabusItem[] = refreshItems([unitItem(13, 47)]);
+
+const DEFAULT_RECENT_ITEMS: RecentSyllabusItem[] = refreshItems([
+  unitItem(1, 1),
+  unitItem(11, 30, 'Maheshvara'),
+  unitItem(17, 58, 'Dhatu'),
+]);
 
 export function App() {
   const [activeTab, setActiveTab] = useState<WorkspaceTab>('curriculum');
@@ -259,7 +235,7 @@ export function App() {
       const saved = window.localStorage.getItem(RECENT_STORAGE_KEY);
       if (saved) {
         const parsed = JSON.parse(saved);
-        if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+        if (Array.isArray(parsed) && parsed.length > 0) return refreshItems(parsed);
       }
     } catch {
       // ignore storage errors
@@ -280,7 +256,7 @@ export function App() {
       const saved = window.localStorage.getItem(BOOKMARKS_STORAGE_KEY);
       if (saved) {
         const parsed = JSON.parse(saved);
-        if (Array.isArray(parsed)) return parsed;
+        if (Array.isArray(parsed)) return refreshItems(parsed);
       }
     } catch {
       // ignore storage errors
@@ -928,7 +904,7 @@ export function App() {
                 : 'hover:text-slate-900'
             }`}
           >
-            PDF Book (161p)
+            PDF Book ({PDF_PAGE_COUNT}p)
           </a>
         </nav>
 
@@ -941,7 +917,7 @@ export function App() {
             }}
             className="px-4 py-2 text-xs font-semibold text-white bg-slate-900 rounded-lg hover:bg-slate-800 transition-colors whitespace-nowrap shrink-0 cursor-pointer"
           >
-            Open 17-Chapter PDF
+            Open {CURRICULUM_TOTALS.chapters}-Chapter PDF
           </button>
         </div>
       </header>
@@ -957,21 +933,28 @@ export function App() {
                 <div className="flex flex-wrap items-center gap-2 text-xs text-slate-500 font-mono tabular-nums">
                   <span>4 Volumes (चत्वारः खण्डाः)</span>
                   <span aria-hidden="true">·</span>
-                  <span>17 Chapters</span>
+                  <span>{CURRICULUM_TOTALS.chapters} Chapters</span>
                   <span aria-hidden="true">·</span>
                   <span>{totalUnitsCount} Units</span>
                   <span aria-hidden="true">·</span>
-                  <span>{totalLessonsCount}+ Lessons</span>
+                  <span>{totalLessonsCount} Lessons</span>
                   <span aria-hidden="true">·</span>
-                  <span>161-Page Complete PDF</span>
+                  <span>{PDF_PAGE_COUNT}-Page Complete PDF</span>
                 </div>
 
                 <h1 className="text-3xl sm:text-4xl font-bold text-slate-900 tracking-tight">
-                  संस्कृतम् — Complete 17-Chapter Interactive Curriculum
+                  संस्कृतम् — Complete {CURRICULUM_TOTALS.chapters}-Chapter Interactive Curriculum
                 </h1>
 
                 <p className="text-base text-slate-600 max-w-2xl leading-relaxed">
-                  Complete 60-unit syllabus spanning foundational <span className="font-devanagari font-semibold text-slate-900">वर्णमाला</span>, <span className="font-devanagari font-semibold text-slate-900">Pāṇini’s Aṣṭādhyāyī</span>, and the 5 newly researched advanced modules: <span className="font-devanagari font-semibold text-slate-900">वैदिक-संस्कृतम्</span> (Ch.13), <span className="font-devanagari font-semibold text-slate-900">षड्दर्शनानि उपनिषदश्च</span> (Ch.14), <span className="font-devanagari font-semibold text-slate-900">नाट्यशास्त्रं महाकाव्यञ्च</span> (Ch.15), <span className="font-devanagari font-semibold text-slate-900">विज्ञानशास्त्राणि</span> (Ch.16), and <span className="font-devanagari font-semibold text-slate-900">धातुपाठः गणपाठश्च</span> (Ch.17).
+                  Complete {CURRICULUM_TOTALS.units}-unit syllabus spanning foundational <span className="font-devanagari font-semibold text-slate-900">वर्णमाला</span>, <span className="font-devanagari font-semibold text-slate-900">Pāṇini’s Aṣṭādhyāyī</span>, and the {SASTRA_CHAPTERS.length} śāstra modules:{' '}
+                  {SASTRA_CHAPTERS.map((c, i) => (
+                    <React.Fragment key={c.id}>
+                      {i > 0 && (i === SASTRA_CHAPTERS.length - 1 ? ', and ' : ', ')}
+                      <span className="font-devanagari font-semibold text-slate-900">{c.sanskritTitle}</span> (Ch.{c.number})
+                    </React.Fragment>
+                  ))}
+                  .
                 </p>
               </div>
 
@@ -1007,8 +990,8 @@ export function App() {
               {/* Interactive Workspace Mode Segmented Control */}
               <div className="flex flex-wrap items-center gap-1.5 pt-1">
                 {[
-                  { id: 'curriculum', label: '01. Guided Curriculum (Ch.1–17)', icon: BookOpen },
-                  { id: 'pdf_book', label: '02. PDF Book Viewer & Download (161p)', icon: FileText },
+                  { id: 'curriculum', label: `01. Guided Curriculum (Ch.1–${CURRICULUM_TOTALS.chapters})`, icon: BookOpen },
+                  { id: 'pdf_book', label: `02. PDF Book Viewer & Download (${PDF_PAGE_COUNT}p)`, icon: FileText },
                   { id: 'phonetics', label: '03. Varnamala Lab (46 Sounds)', icon: Compass },
                   { id: 'panini', label: '04. Pāṇini & Daśagaṇī Engine', icon: Cpu },
                   { id: 'chandas', label: '05. Chandas Prosody Scanner', icon: Music },
@@ -1039,7 +1022,7 @@ export function App() {
             <div className="lg:col-span-4 bg-slate-900 text-slate-100 rounded-xl p-6 flex flex-col justify-between border border-slate-800">
               <div className="space-y-2.5">
                 <div className="flex items-center justify-between text-xs font-mono text-sky-400">
-                  <span>UPDATED PDF EDITION (161 PAGES)</span>
+                  <span>UPDATED PDF EDITION ({PDF_PAGE_COUNT} PAGES)</span>
                   <button
                     type="button"
                     onClick={() =>
@@ -1057,7 +1040,7 @@ export function App() {
                   अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed">
-                  Chapters 13–17 (Units 46–60) have been researched and appended to <span className="font-mono text-white">Sanskritam-Curriculum.pdf</span> (Pages 138–161).
+                  All {CURRICULUM_TOTALS.chapters} chapters ({CURRICULUM_TOTALS.lessons} lessons, {CURRICULUM_TOTALS.exercises} exercises) are typeset in <span className="font-mono text-white">Sanskritam-Curriculum.pdf</span> from the same corrected text as the app; the śāstra chapters {SASTRA_CHAPTERS[0]?.number}–{SASTRA_CHAPTERS[SASTRA_CHAPTERS.length - 1]?.number} start on page {SASTRA_CHAPTERS[0]?.units[0]?.pageStart}.
                 </p>
                 <div className="pt-1 flex flex-wrap gap-2">
                   <a
@@ -1138,7 +1121,7 @@ export function App() {
                     VOLUME IV ADVANCED CHAPTERS (13–17):
                   </span>
                   <div className="flex flex-wrap gap-1.5">
-                    {CURRICULUM_CHAPTERS.filter((c) => c.number >= 13).map((ch) => {
+                    {SASTRA_CHAPTERS.map((ch) => {
                       const cIdx = CURRICULUM_CHAPTERS.findIndex((c) => c.id === ch.id);
                       const isAct = selectedChapterIdx === cIdx;
                       return (
@@ -1417,17 +1400,17 @@ export function App() {
               <div className="space-y-3">
                 <div className="flex items-center justify-between">
                   <h3 className="text-base font-semibold text-slate-900">
-                    17-Chapter Syllabus Index
+                    {CURRICULUM_TOTALS.chapters}-Chapter Syllabus Index
                   </h3>
                   <span className="text-xs font-mono text-slate-500 tabular-nums">
-                    4 Vols · 60 Units · 161p
+                    4 Vols · {CURRICULUM_TOTALS.units} Units · {PDF_PAGE_COUNT}p
                   </span>
                 </div>
 
                 {/* Volume Filter Tabs in Syllabus Index */}
                 <div className="flex flex-wrap gap-1">
                   {[
-                    { id: 'all', label: 'All (17)' },
+                    { id: 'all', label: `All (${CURRICULUM_TOTALS.chapters})` },
                     { id: 'vol1', label: 'Vol. I (1–6)' },
                     { id: 'vol2', label: 'Vol. II (7–10)' },
                     { id: 'vol3', label: 'Vol. III (11–12)' },
@@ -1477,7 +1460,7 @@ export function App() {
                     type="text"
                     value={chapterFilter}
                     onChange={(e) => setChapterFilter(e.target.value)}
-                    placeholder="Filter 17 chapters or 60 units (press Enter to jump)..."
+                    placeholder={`Filter ${CURRICULUM_TOTALS.chapters} chapters or ${CURRICULUM_TOTALS.units} units (press Enter to jump)...`}
                     className="w-full px-3 py-2 pr-8 text-xs rounded-lg border border-slate-200 bg-slate-50 focus:bg-white focus:outline-none focus:border-sky-600"
                   />
                   {chapterFilter && (
@@ -1640,7 +1623,7 @@ export function App() {
                 {filteredChapters.map(({ ch, idx }) => {
                   const isCurrent = idx === selectedChapterIdx;
                   const isSearching = chapterFilter.trim().length > 0;
-                  const isNewChap = ch.number >= 13;
+                  const isNewChap = ch.number >= SASTRA_FIRST_CHAPTER;
                   return (
                     <div key={ch.id} className="py-3 first:pt-0 last:pb-0">
                       <button
@@ -1717,7 +1700,7 @@ export function App() {
       <footer className="border-t border-slate-200 bg-white py-6 px-6 mt-12 print:hidden">
         <div className="max-w-[1360px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="font-devanagari">
-            संस्कृतम् — Complete Curriculum (17 Chapters · 60 Units · 161 PDF Pages) · शुभं भवतु · सत्यमेव जयते
+            संस्कृतम् — Complete Curriculum ({CURRICULUM_TOTALS.chapters} Chapters · {CURRICULUM_TOTALS.units} Units · {PDF_PAGE_COUNT} PDF Pages) · शुभं भवतु · सत्यमेव जयते
           </div>
           <div className="flex items-center gap-4">
             <a
@@ -1725,7 +1708,7 @@ export function App() {
               download="Sanskritam-Curriculum-17-Chapters.pdf"
               className="text-sky-700 hover:underline font-medium"
             >
-              Download Updated PDF (161p)
+              Download Updated PDF ({PDF_PAGE_COUNT}p)
             </a>
           </div>
         </div>
