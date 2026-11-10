@@ -79,7 +79,7 @@ and §17, tested in §18 (exercise 4) and §19 (Q6, Q7); objective 4 in §17, te
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, lesson 3's +1-day and lesson 2's
-+1-week. Then the thread verse उद्यमेन हि सिध्यन्ति, read for the last time with its overlay,
++1-week. Then the thread verse उद्यमेन हि सिध्यन्ति, read with no gloss at the overlay's last stop,
 and five memory prompts. Everything from memory *before* any key opens: in the one claim
 this course makes for it, retrieval practice beats re-reading for long-term retention
 [REF:roediger2006].
@@ -265,7 +265,7 @@ grammar terms श्लोकः and अन्वयः, glossed, not vocabulary
 7. **गद्य-क्रम में पढ़िए:** कर्ता — बाक़ी विभक्तियाँ — कर्म — क्रिया।
 
 एक नियम सबसे ऊपर: अन्वय किसी शब्द का रूप नहीं बदलता, केवल उसका स्थान बदलता है। विनयम् को
-विनयः बना देना अन्वय नहीं, ग़लती है। जो शब्द आप जोड़ते हैं, वह बड़े कोष्ठक में लिखा जाता है,
+विनयः बना देना अन्वय नहीं, ग़लती है। जो शब्द आप जोड़ते हैं, वह वर्गाकार कोष्ठक [ ] में लिखा जाता है,
 ताकि पता रहे कि वह श्लोक में नहीं था।
 
 अब पहला श्लोक। विद्या ददाति विनयम् — क्रिया ददाति, कर्ता विद्या, कर्म विनयम्: विद्या विनय
@@ -431,8 +431,8 @@ visarga [h].
 /ʋɐn̪eː sĩɦoː mɐd̪oːn̪mɐt̪t̪ɐh ɕɐɕɐkeːn̪ɐ n̪ipɑːt̪it̪ɐh/
 — सिंहो: the anusvāra before ह is a nasalised vowel; मत्तः before श: the visarga [h].
 
-**Narrow note — ए and ओ stay long and pure.** वेति /ʋeːt̪i/ and कुतो /kut̪oː/ end their first
-syllable on a steady [eː] and [oː], never on an English glide.
+**Narrow note — ए and ओ stay long and pure.** वेति /ʋeːt̪i/ ends its first syllable, and कुतो
+/kut̪oː/ its second, on a steady [eː] and [oː], never on an English glide.
 
 **Narrow note — every अ sounded.** लघुचेतसाम् is five syllables, la-ghu-ce-ta-sām: /lɐgʱut͡ɕeːt̪ɐsɑːm/, never \*laghuchetsām. The quarter's eight depend on it.
 
@@ -440,8 +440,10 @@ syllable on a steady [eː] and [oː], never on an English glide.
 
 मुखस्थितिः — four checks for the verses, mirror in hand.
 
-1. **प्न in आप्नोति — the lips hold, the nose releases.** Close the lips for प; keep them
-   closed and let the air out through the nose for न. No vowel between them: not \*āpanoti.
+1. **प्न in आप्नोति — the tongue gets ready while the lips hold.** Close the lips for प;
+   while they are still closed, put the tongue tip on the back of the upper teeth. Then open
+   the lips, and the air goes out through the nose for न. No vowel between them: not
+   \*āpanoti, and not \*āpmoti.
 2. **द्ध in धनाद्धर्मं and बुद्धिः — hold at the teeth, release with breath.** The tongue tip
    closes on the back of the upper teeth for the first द, holds, and releases into a
    breathy ध. One closure, two sounds.
@@ -466,7 +468,7 @@ distractors.
 3. **Changing a form to make the prose "sound right".** \*विनयः ददाति, \*विद्या विनयः ददाति.
    *Fix:* the anvaya moves words; it never changes them. विनयम् stays accusative.
 4. **Splitting वेति wrongly** — \*वा + एति, \*वे + इति. *Fix:* an ए at a seam hides अ/आ + इ/ई,
-   lesson 1's guṇa: वा + इति. (वा + ए would have given ऐ.) इति closes the quoted thought.
+   the guṇa of v3.c04.l01: वा + इति. (वा + ए would have given ऐ.) इति closes the quoted thought.
 5. **Reading लघुचेतसाम् as two words**, "of the light minds". *Fix:* one compound, a
    bahuvrīhi, glossed: "of the small-minded".
 6. **The Hindi-speaker habit with वसुधैव कुटुम्बकम्** — quoting it as a free-standing saying,
@@ -532,7 +534,7 @@ headword twice, at the start of the track).
 | विनयः | vinayaḥ | /ʋin̪ɐjɐh/ | discipline; modesty | विनय, विनम्रता | ledger-new — m. a-stem, like रामः; Apte s.v. विनय, -यः sense 1 "Guidance, discipline, instruction (in one's duties), moral training", sense 4 "Modesty, humility", where Apte quotes this very verse, *vidyā dadāti vinayam*; MW *vinaya* |
 | याति | yāti | /jɑːt̪i/ | goes; reaches, attains | जाता है; प्राप्त करता है | ledger-new — verb, class 2, P.; its cells learned whole, as जानाति was: याति, यान्ति, अयात् ✓; Apte s.v. या sense 1 "To go, move, walk, proceed", sense 9 "To go or be reduced to any state, be or become (usually with the acc. of abstract noun)" — पात्रतां याति; MW *yā* |
 | आप्नोति | āpnoti | /ɑːpn̪oːt̪i/ | obtains, gets | पाता है, प्राप्त करता है | ledger-new — verb, class 5, P.; its cells learned whole, as शृणोति was: आप्नोमि, आप्नोषि, आप्नोति ✓; आप्नुवन्ति ◐ — read, never asked; आप्नोषि's ष is the change after ओ named in v3.c04.l04, as in शृणोषि; Apte s.v. आप् "To obtain, attain, get"; MW *āp* |
-| वसुधा | vasudhā | /ʋɐsud̪ʱɑː/ | the earth | पृथ्वी, वसुधा | ledger-new — f. ā-stem, like सभा; MW *vasu-dhā* "the earth"; Apte gives it as a compound under वसु [Pass C quotes the entry] |
+| वसुधा | vasudhā | /ʋɐsud̪ʱɑː/ | the earth | पृथ्वी, वसुधा | ledger-new — f. ā-stem, like सभा; MW *vasu-dhā* "the earth"; Apte s.v. वसु, the compound ˚धा, sense 1 "the earth" |
 | मदः | madaḥ | /mɐd̪ɐh/ | intoxication; pride, arrogance | मद, घमण्ड | ledger-new — m. a-stem; Apte s.v. मदः sense 1 "Intoxication, drunkenness, inebriety", sense 6 "Pride, arrogance, conceit"; MW *mada*; in मदोन्मत्तः "mad with pride" (§17) |
 | धनम् | dhanam | /d̪ʱɐn̪ɐm/ | wealth | धन | upgrade — v1.c03.l04 धन → धनम्, n. a-stem, like फलम्; Apte s.v. धनं "Property, wealth, riches, treasure, money"; drilled, not counted |
 
@@ -629,7 +631,7 @@ turns; each turn printed joined, its pause form beneath, then the gloss. Audio: 
 — छात्राः: विद्या ददाति विनयं विनयाद्याति पात्रताम्। (vidyā dadāti vinayaṃ vinayād yāti pātratām.)
   विद्या ददाति विनयम् विनयात् याति पात्रताम्। (vidyā dadāti vinayam vinayāt yāti pātratām.)
   "Learning gives discipline; through discipline one comes to worthiness." — विद्या विनय
-  देती है; विनय से पात्रता आती है।
+  देती है; विनय से मनुष्य पात्रता पाता है।
 
 — गुरुः: अत्र कर्ता कः? (atra kartā kaḥ?)
   अत्र कर्ता कः? (atra kartā kaḥ?)
@@ -918,7 +920,8 @@ worthiness") earns half: the doer of याति is missing.
 
 **Exercise 6** (4 marks). कार्याणि उद्यमेन हि सिध्यन्ति, मनोरथैः न [सिध्यन्ति]। मृगाः हि सुप्तस्य
 सिंहस्य मुखे न प्रविशन्ति। Subjects: कार्याणि of सिध्यन्ति, and of the supplied [सिध्यन्ति]; मृगाः of
-प्रविशन्ति. हि may stand after the first word of each clause, as here, or where the verse has it.
+प्रविशन्ति. हि may stand where the verse has it (उद्यमेन हि …, न हि …) or after the first word of its
+clause (कार्याणि हि …, मृगाः हि … as in the second clause here); both are accepted.
 
 **Exercise 7** — no key: the recording is your own check. One breath per half-verse; eight
 beats per quarter; no breath at a seam.
@@ -1016,8 +1019,9 @@ the course's numbering it is 1.71.
 **The third verse's two readings.** The Pañcatantra reading यस्य बुद्धिर्बलं तस्य is also the one
 Apte's dictionary quotes from the Pañcatantra (s.v. तद्) [REF:apte1890 s.v. तद्]; the
 Hitopadeśa (2.122, GRETIL numbering) has बुद्धिर्यस्य बलं तस्य. Verse numbers differ between
-Pañcatantra editions, so the course cites it by book and story. In the Pañcatantra the line
-before the verse names its speaker only as *sa*, Damanaka by the frame story: that is an
+Pañcatantra editions, so the course cites it by book and story. In the Pañcatantra the e-text
+names the speaker only as *sa* (*so 'bravīt*, l. 1280, before the crow story the verse closes;
+*sa āha*, after Karaṭaka's question, l. 1378), Damanaka by the frame story: that is an
 inference, so the lesson does not ask for the Pañcatantra speaker. In the Hitopadeśa the crow
 speaks it, answering his wife (*vāyaso brūte*, `hitop_u.htm` l. 2027).
 
@@ -1203,8 +1207,8 @@ narrator reads the cue, not the English spelling.
   quotations s.v. अन्वयः / *anvaya* (`ap90.txt` l. 22919 ff.; `mw.txt` l. 31924–31925); §5's
   Apte s.v. अनुष्टुभ् [l. 19083–19088]; §8's Apte s.v. पात्रम् sense 5 (l. 160900–160902, quoted
   exactly); §14's Apte quotations s.v. विनय [l. 226797 ff.], या [l. 206391 ff.], आप् (l. 56545
-  ff.), मदः [l. 194352 ff.], धनं [l. 137211] and the वसुधा sub-entry under वसु (still to be quoted,
-  or the row cites MW alone); §22's Apte s.v. तद् note (l. 122659–122660). The Hindi of §7 and of
+  ff.), मदः [l. 194352 ff.], धनं [l. 137211] and the वसुधा sub-entry under वसु (l. 220521, "the
+  earth", quoted); §22's Apte s.v. तद् note (l. 122659–122660). The Hindi of §7 and of
   the glosses at Pass B, including the अन्वय statement (fact base row 0.17d) and the school
   line (search-confirmed lead only; nothing more printed). Every claim about an earlier lesson
   was grep-checked at drafting: v1.c06.l04 ("your first line of real literature", "the chain

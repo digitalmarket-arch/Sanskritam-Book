@@ -20,8 +20,8 @@ objectives:
     hi: "कथा के पहले वाक्य में आरम्भ-सूत्र के तीन अंश — स्थान सहित अस्ति, X नाम Y, स्म सहित वर्तमान — पहचानें और बताएँ कि हर एक क्या करता है।"
   - en: "Read the opening of the Pañcatantra's fourth book with its glosses and answer questions on it."
     hi: "पञ्चतन्त्र के चौथे तन्त्र का आरम्भ टिप्पणियों सहित पढ़ें और उस पर प्रश्नों के उत्तर दें।"
-  - en: "Write the first two sentences of a story of your own with the formula, joined, with the pause form beneath."
-    hi: "आरम्भ-सूत्र से अपनी एक कथा के पहले दो वाक्य लिखें — जोड़कर, नीचे विराम-रूप सहित।"
+  - en: "Write the first sentence of two stories of your own with the formula, joined, with the pause form beneath."
+    hi: "आरम्भ-सूत्र से अपनी दो कथाओं के पहले वाक्य लिखें — जोड़कर, नीचे विराम-रूप सहित।"
   - en: "Turn a past sentence between the imperfect and the present with स्म."
     hi: "भूतकाल के वाक्य को लङ् और स्म-सहित लट् के बीच बदलें।"
 new_letters: []
@@ -50,9 +50,9 @@ updated: 2026-11-10
 
 ## 1. Hook
 
-A child at bedtime says "tell me a story", and every storyteller knows how to begin: once,
-somewhere, there was someone. Sanskrit's story books begin the same way, and they do it with a
-fixed set of pieces. On the board today stand four first sentences from two books, the
+A child at bedtime says "tell me a story", and the storyteller knows how to begin: once,
+somewhere, there was someone. Sanskrit story books can begin the same way, and when they do, they
+use a fixed set of pieces. On the board today stand four first sentences from two books, the
 Hitopadeśa and the Pañcatantra — and every one of them begins with the same word, अस्ति, "there
 is". Then a puzzle. Two of them say प्रतिवसति स्म. प्रतिवसति is a present tense, "he lives near" —
 and yet the story means "he lived". By the end of the lesson you will know why, you will have
@@ -67,7 +67,7 @@ your own the way those books do.
 |---|---|---|
 | 1 | Find the three pieces of the story-opening formula — अस्ति with a place, X नाम Y, the present with स्म — in a story's first sentence, and say what each does. | कथा के पहले वाक्य में आरम्भ-सूत्र के तीन अंश — स्थान सहित अस्ति, X नाम Y, स्म सहित वर्तमान — पहचानें और बताएँ कि हर एक क्या करता है। |
 | 2 | Read the opening of the Pañcatantra's fourth book with its glosses and answer questions on it. | पञ्चतन्त्र के चौथे तन्त्र का आरम्भ टिप्पणियों सहित पढ़ें और उस पर प्रश्नों के उत्तर दें। |
-| 3 | Write the first two sentences of a story of your own with the formula, joined, with the pause form beneath. | आरम्भ-सूत्र से अपनी एक कथा के पहले दो वाक्य लिखें — जोड़कर, नीचे विराम-रूप सहित। |
+| 3 | Write the first sentence of two stories of your own with the formula, joined, with the pause form beneath. | आरम्भ-सूत्र से अपनी दो कथाओं के पहले वाक्य लिखें — जोड़कर, नीचे विराम-रूप सहित। |
 | 4 | Turn a past sentence between the imperfect and the present with स्म. | भूतकाल के वाक्य को लङ् और स्म-सहित लट् के बीच बदलें। |
 
 Objective 1 is built in §8 (the five steps and the sūtra) and §13 (the four first sentences),
@@ -137,6 +137,7 @@ tell the same kind of past a second way.
    speaker is talking *to* the listener?
 6. From v3.c04.l04: take काकस्तत्र जलमपिबत् to its pause form by the six steps, and name each seam.
 
+The prompts are asked aloud in class: 1–3 before the formula card, 4–6 before the text (§22).
 The answers are in §19's key, under "§3 prompts". A slip in item 1 of Station 0 sends you to
 lesson 2's speech-frame card tonight; a slip in item 2, to lesson 1's §17. Neither stops
 today's lesson.
@@ -231,7 +232,7 @@ before स keeps its ः, and every other word ends in a vowel before a consonan
 हिन्दी में कहानी कैसे शुरू होती है? "किसी गाँव में एक राजा रहता था।" इस एक वाक्य में तीन
 टुकड़े हैं: एक जगह, "किसी" के साथ — किसी गाँव में; एक कोई — एक राजा; और बीता हुआ समय — रहता था।
 संस्कृत की कथाएँ भी ठीक इन्हीं तीन टुकड़ों से खुलती हैं: अस्ति कस्मिंश्चिद्ग्रामे … निवसति स्म —
-"किसी गाँव में … रहता था।" आज के पाठ का नाम है आरम्भ-सूत्र, यानी कथा शुरू करने का बँधा हुआ
+"किसी गाँव में … रहता था।" आज के पाठ का विषय है आरम्भ-सूत्र, यानी कथा शुरू करने का बँधा हुआ
 ढाँचा। [REF:kachru2006]
 
 फ़र्क़ कहाँ है? हिन्दी बीता हुआ समय क्रिया में ही रखती है — "रहता था", यह अभ्यस्त भूतकाल है।
@@ -303,12 +304,12 @@ missing piece is a finding, not a failure.
 4. **The name.** रक्तमुखो नाम वानरः: a monkey called Raktamukha. रक्तमुखो is रक्तमुखः before a
    voiced sound (Chapter 4, lesson 2).
 5. **The verb and its time.** प्रतिवसति स्म — present + स्म: "lived". प्रतिवसति is प्रति + वसति,
-   "lives near" or "dwells"; the prefix प्रति is one of the upasarga card's display verbs
+   "lives near" or "dwells"; प्रति is on the upasarga card's list, and प्रतिवसति is one of its display verbs
    (v3.c05.l03). Pieces present: the place (as तत्र), the name, the स्म-past; अस्ति is missing.
 
 ### The sūtra behind स्म
 
-The puzzle of the hook has an old answer. Pāṇini states the rule in two words.
+The puzzle of the hook has an answer in Pāṇini's grammar. Pāṇini states the rule in two words.
 
 > **[TRADITION · परम्परा]** According to Pāṇini, **3.2.118 लट् स्मे** (*laṭ sme*) — "the present
 > (लट्), when स्म stands with it": for something past, the present tense is used with स्म.
@@ -330,7 +331,7 @@ past with स्म — निवसति स्म, भक्षयति स�
 ### Imperfect or स्म?
 
 Both are past. The course's own narration uses the imperfect (v3.c03.l03), and it stays right:
-न्यवसत् "he lived" is as good a past as निवसति स्म. The स्म-present belongs above all to the
+न्यवसत् "he lived" is as good a past as निवसति स्म. The स्म-present belongs to the
 story's opening and to what someone "used to" do. In exercise 4, in your own stories and in the
 Volume 3 exam's composition, you may use either. What you may not do is put स्म after an
 imperfect: स्म goes with the present, and the present + स्म is already past.
@@ -672,7 +673,7 @@ pause form (ours): अस्ति कस्मिंश्चित् सम�
 "Near a certain sea-shore there is a great rose-apple tree, always in fruit." — किसी समुद्र-तट के
 पास एक बड़ा जामुन का पेड़ है, जिस पर सदा फल रहते हैं।
 ° उपकण्ठ "near-region, shore", inside समुद्रोपकण्ठे. The e-text leaves महान् जम्बू° unjoined; full
-sandhi gives महाञ्जम्बू° — editions vary (v3.c04.l04 §15 showed this line).
+sandhi gives महाञ्जम्बू° — editions vary (v3.c04.l04 §15 showed this seam).
 
 **P2.**
 तत्र च रक्तमुखो नाम वानरः प्रतिवसति स्म। (tatra ca raktamukho nāma vānaraḥ prativasati sma.)
@@ -948,7 +949,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 4. **(6 min)** Exercise 6, six compounds resolved.
 5. **(5 min, recorded)** Exercise 5: P1–P6 aloud joined, recorded, compared with the audio.
 6. **(3 min)** The three callouts of §4 re-read; say each HISTORY statement aloud with its
-   "according to".
+   source, as the callout names it.
 7. **(1 min)** The formula card of §15, copied from memory.
 8. **(3 min, real world)** Begin a story for a child in Sanskrit with the formula — one sentence
    with अस्ति, a place, X नाम Y and स्म — then tell the rest in Hindi or English.
@@ -965,12 +966,13 @@ then put the puzzle: प्रतिवसति is a present, and the story mea
 the sūtra.
 
 **Timing plan (45 min):** Station 0, two items, scores logged (7) → hook: D1–D4 on the board and
-the puzzle (2) → the formula card and the sūtra, §8 and §15 (7) → P1–P6 at three speeds with the
-glosses, §17 and §9 drill 1 (10) → exercise 2, six questions on P1–P6 (5) → exercise 1, the formula
-drill (6) → exercise 3 begun (5) → the three callouts of §4 read (2) → the bookings and homework,
-§20 (1). Exercises 1 and 2 are done in class and exercise 3 is begun there; exercise 3's finish,
-exercises 4, 5 and 6 and the §19 quiz are homework (§21). §16 is a reading text with its audio,
-for any spare minute; it carries no task and has no slot.
+the puzzle (2) → §3 prompts 1–3, oral, the class answering together (1), then the formula card and
+the sūtra, §8 and §15 (6) → §3 prompts 4–6, oral (1), then P1–P6 at three speeds with the glosses,
+§17 and §9 drill 1 (9) → exercise 2, six questions on P1–P6 (5) → exercise 1, the formula drill (6)
+→ exercise 3 begun (5) → the three callouts of §4 read (2) → the bookings and homework, §20 (1).
+Exercises 1 and 2 are done in class and exercise 3 is begun there; exercise 3's finish, exercises
+4, 5 and 6 and the §19 quiz are homework (§21). §16 is a reading text with its audio; it carries no
+task and has no class slot.
 
 **Board work:** left, D1–D4 with the pieces boxed in three colours — अस्ति + place + subject; X नाम
 Y; present + स्म; middle, the sūtra 3.2.118 with प्रतिवसति स्म = "lived"; right, P3 cut into its four
@@ -1023,8 +1025,8 @@ and here; learner text says "the Pañcatantra (text of the GRETIL e-text)".
 
 **Loci, with Jha's numbers (here only).** P1–P5 are the first five daṇḍa-sentences of the prose
 block at `vispancu.htm` l. 5213, after verse Jha 4.1, the heading *tad yathānuśrūyate* and two more
-heading lines, *prastāvanā-kathā* and *vānara-makara-vṛttāntaḥ* (l. 5207–5211); the block ends *uktaṃ
-ca*, and four verses on the guest (Jha 4.2–4.5, l. 5216–5222) are omitted and marked; P6 is the
+heading lines, *prastāvanā-kathā* and *vānara-makara-vṛttāntaḥ* (l. 5209–5211); the block ends *uktaṃ
+ca*, and four verses on the guest (Jha 4.2–4.5, l. 5215–5222) are omitted and marked; P6 is the
 first sentence of the block at l. 5224. Another edition may number or count the guest verses
 differently: Apte's "Pt." citations run one lower from Jha 4.6 on (unverified). D1: prose after Hit
 0.9, heading *atha kathā-mukham*, `hitop_u.htm` l. 131. D2: `hitop_u.htm` l. 298 (lesson 2's first
@@ -1125,8 +1127,8 @@ Lesson video, ~6 min, presenter + motion graphics.
 Narration for the lesson video (§24); Sanskrit terms carry IPA cues in [brackets] — the narrator
 reads the cue, not the English spelling.
 
-- **00:00** Every storyteller begins the same way: once, somewhere, there was someone. Sanskrit
-  books begin with one word: asti [ɐst̪i], "there is".
+- **00:00** A storyteller begins: once, somewhere, there was someone. The four Sanskrit
+  openings on today's board begin with one word: asti [ɐst̪i], "there is".
 - **00:40** Three pieces. A place: kasmiṃścid vanoddeśe [kɐsmĩɕt͡ɕid̪ ʋɐn̪oːd̪d̪eːɕeː], "in a
   certain region of the forest". A name: madotkaṭo nāma siṃhaḥ [mɐd̪oːt̪kɐʈoː n̪ɑːmɐ sĩɦɐh], "a lion
   called Madotkaṭa". And a past: prativasati sma [pɾɐt̪iʋɐsɐt̪i smɐ], "lived".
@@ -1170,8 +1172,8 @@ reads the cue, not the English spelling.
 - **Station 0 chain:** §3 runs v3.c06.l02's +1-day booking (S0-bb, six frames turned) and
   v3.c06.l01's +1-week booking (S0-ba, the past crow from memory), verbatim from the chapter fact
   base (research/notes/vol3-ch6-connected-reading.md row 0.30), whose wording the booking lessons
-  use too; keys as its table 0.A. v3.c06.l01 and l02 were not on disk at drafting (the chapter's
-  teaching lessons are drafted in parallel): Pass D diffs §3 against their §20 once they are. §20
+  use too; keys as its table 0.A. §3 agrees word for word with the §20 bookings of
+  v3.c06.l01 and v3.c06.l02 (checked in Pass A). §20
   books S0-bd (+1 day, your own story opening, run by v3.c06.l04) and S0-be (+1 week, the monkey and
   the crocodile retold, run by v3.c06.l05), verbatim from row 0.30; their keys are table 0.A's.
   Exam guard: no item of S0-be is an item of the exam's tasks A–F.
@@ -1207,8 +1209,8 @@ reads the cue, not the English spelling.
   this draft: §777–§779); §450 as cited through the Chapter 5 fact base; Apte s.v. वानरः, मकरः, जंबु-बू,
   सलिलं, महत्, स्म, अस्ति and MW s.v. jambu (जामुन; the botanical synonym still to be confirmed); the
   counts of §22 re-run on `vispancu.htm`; the gloss ratio (6 of 44) recounted; §7's Hindi contrast
-  against Kachru. The claim that v3.c06.l02 labels adverbial तत् and that its H text has
-  प्रियसुहृत् and चित्रवने rests on the fact base until l02 is on disk.
+  against Kachru. v3.c06.l02 labels adverbial तत् (§15, तन्मे), and its H2 and H4 carry
+  चित्रवने and प्रियसुहृत्, as exercise 6 says (checked in Pass A).
 - **Register audit:** FACT ×3 (§5 Whitney on the present, chunks · §8 Whitney §778; the formula and
   the printing are plain text) · HISTORY ×2 (§4 the Middle Persian translation; the Jātaka) ·
   TRADITION ×2 (§4 Viṣṇuśarman; §8 the sūtra 3.2.118, printed once) · SYMBOL ×0. Quiz Q1, Q3–Q8

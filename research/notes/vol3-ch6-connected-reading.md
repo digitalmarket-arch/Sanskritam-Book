@@ -892,8 +892,8 @@ storyteller-present, history, jataka] · media (planned): images `v3c06l03-monke
    तीन अंश — स्थान सहित अस्ति, X नाम Y, स्म सहित वर्तमान — पहचानें और बताएँ कि हर एक क्या करता है।"
 2. en "Read the opening of the Pañcatantra's fourth book with its glosses and answer questions on it." ·
    hi "पञ्चतन्त्र के चौथे तन्त्र का आरम्भ टिप्पणियों सहित पढ़ें और उस पर प्रश्नों के उत्तर दें।"
-3. en "Write the first two sentences of a story of your own with the formula, joined, with the pause form
-   beneath." · hi "आरम्भ-सूत्र से अपनी एक कथा के पहले दो वाक्य लिखें — जोड़कर, नीचे विराम-रूप सहित।"
+3. en "Write the first sentence of two stories of your own with the formula, joined, with the pause form
+   beneath." · hi "आरम्भ-सूत्र से अपनी दो कथाओं के पहले वाक्य लिखें — जोड़कर, नीचे विराम-रूप सहित।"
 4. en "Turn a past sentence between the imperfect and the present with स्म." · hi "भूतकाल के वाक्य को लङ्
    और स्म-सहित लट् के बीच बदलें।"
 
@@ -948,9 +948,9 @@ and in the exam's composition.
 line: "Pañcatantra 4, frame story, the opening prose — text of the GRETIL e-text [REF:panchatantra]";
 P6: "… the prose after the verses on the guest"). Research note (Jha numbering; Teacher Notes only):
 the e-text's Book 4 opens with verse Jha 4.1, the heading line *tad yathānuśrūyate* (R3) and **two
-more heading lines**, *prastāvanā-kathā* and *vānara-makara-vṛttāntaḥ* (`vispancu.htm` l. 5207–5211);
+more heading lines**, *prastāvanā-kathā* and *vānara-makara-vṛttāntaḥ* (`vispancu.htm` l. 5209–5211);
 P1–P5 are the first five daṇḍa-sentences of the prose block at l. 5213; the block ends *uktaṃ ca*, and
-four verses on the guest (Jha 4.2–4.5, l. 5216–5222) are **omitted and marked**; P6 is the first
+four verses on the guest (Jha 4.2–4.5, l. 5215–5222) are **omitted and marked**; P6 is the first
 sentence of the block at l. 5224. (Another edition may number or count the guest verses differently:
 Apte's "Pt." citations run one lower from Jha 4.6 on; unverified.)
 
