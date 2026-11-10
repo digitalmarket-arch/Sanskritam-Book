@@ -4,10 +4,73 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.18.0] — 2026-11-10
+
+Volume 3, Chapter 6 — सम्पूर्णपठनम् · Connected Reading — is reviewed and shipped, and with it
+**Volume 3 (Core Grammar) is complete**: 30 lessons in six chapters of five, 148 ledger-new
+words, 508 readable words at its exit (360 → 508; every planned chapter exit reached). The
+chapter adds no new table. It puts the cases, the verb, the joins, the pronouns and the
+compounds to work on connected text, first the course's own and then the books': the two
+Volume 2 stories read joined; eight sentences of the Hitopadeśa and six of the Pañcatantra,
+printed as the GRETIL e-text has them with the course's pause form beneath; three verses put
+in prose order; and the Volume 3 exam, which gates Volume 4. Five lessons, 20 ledger-new
+words, 488 → 508. The course now has 91 reviewed lessons (61 in Volumes 1–2, 30 in Volume 3).
 
 ### Added
 
+- **v3.c06, five lessons, reviewed** — every course-written line printed joined, with its pause
+  form beneath; every authentic passage under the source line "text of the GRETIL e-text":
+  - द्वे कथे · The Two Stories, Joined (reading): the Volume 2 crow and lion printed joined and
+    read straight through at three speeds, with no pause at a seam; the crow told in the past
+    with the 1.x details restored (तृष्णार्तः, the stones in the plural, the moral
+    बुद्धिर्बलाच्छ्रेष्ठा); the recognition card R5 for the absolutive in -त्वा / -य, "having
+    …-ed" — recognised, never produced, never scored (formation v4.c04); the benediction parsed
+    word by word, which closes its thread; headwords उपायः, इतस्ततः, तृष्णा and आर्तः, four in
+    all (488 → 492).
+  - कपोताः मूषकः च · The Doves and the Mouse (reading): the speech frame, X उवाच — "…" and "…"
+    इति X अवदत्, with no join across the dash or the closing quotation mark; the lion and the
+    mouse in dialogue in the past, with the 1.x lines restored (साहाय्यम् for सहायम्); eight
+    sentences of the Hitopadeśa's own text on the doves and the mouse (Book 1, frame story),
+    with a bridge over the gaps. Here the course's serial ends and hands over to the source:
+    Teacher Notes list every place where the retelling of Chapters 1–5 departs from the text. A
+    HISTORY callout on the Hitopadeśa (its compiler Nārāyaṇa and the patron Dhavalacandra, as
+    its closing verses name them; roughly the 9th–12th centuries CE on the scholarly estimate;
+    the oldest dated manuscript, of 1373 CE); headwords सुहृत्, बन्धनम्, नाना, शाल्मली, साहाय्यम्
+    and प्रत्युपकारः, six in all (492 → 498).
+  - वानरः मकरः च · The Monkey and the Crocodile (reading): six sentences of the Pañcatantra
+    (Book 4, frame story); the story-opening formula — अस्ति + a place + the subject; X नाम Y;
+    the present + स्म — with four first sentences from two books; sūtra 3.2.118 लट् स्मे, the one
+    sūtra quoted to the learner in this chapter; HISTORY callouts on the Pañcatantra's
+    translation into Middle Persian under Khosrow I, according to the Encyclopaedia Iranica, and
+    on the Suṃsumāra-jātaka (no. 208), with no claim of priority either way; a TRADITION line
+    on Viṣṇuśarman; headwords वानरः, मकरः, जम्बूः, सलिलम् and महान्, five in all (498 → 503).
+  - त्रयः श्लोकाः · Three Verses (reading): अन्वयः, a verse's prose order, in seven fixed
+    steps, written in pause form, on three verses — विद्या ददाति विनयम्, Hitopadeśa,
+    introductory verses, 6; अयं निजः परो वेति … वसुधैव कुटुम्बकम् with its speaker, a jackal
+    (Hitopadeśa 1.71), beside its Pañcatantra locus (Book 5, the third of the brahmins who made
+    a lion); यस्य बुद्धिर्बलं तस्य, from the Pañcatantra, Book 1; rhythm by ear and by count, four
+    quarters of eight syllables; उद्यमेन हि सिध्यन्ति read once more with no gloss, which closes
+    the thread-verse overlay; headwords विनयः, याति, आप्नोति, वसुधा and मदः, with धनम् as an
+    upgrade (503 → 508).
+  - तृतीयखण्डपरीक्षा · The Volume 3 Exam (review): six tasks in two closed-book 45-minute
+    sittings (duration 90) — the lion dialogue heard joined, with ten questions; a dictation
+    of five joined sentences, none of them a sentence of the lessons; an unseen passage of the
+    Pañcatantra (Book 4) with five marginal glosses in 33 words, translated, with six questions
+    in Sanskrit; twenty forms from the volume's productive cells; a Volume 3 story retold in ten
+    sentences; an honesty sort of eight cards — with Station 0, about 8 minutes, before the
+    first sitting and outside both. The volume on one page and its paradigm ledger audited
+    (§15); the monthly task Volume 2's exam booked is closed; the first Station 0 items of
+    v4.c01.l01 and v4.c01.l02 are booked. Passing gates Volume 4; the ledger stays at 508.
+
+  The Hindi parallels are exact contrasts: Hindi -कर / -करके beside the absolutive; कि before
+  a quotation in Hindi, इति after it in Sanskrit; किसी गाँव में एक राजा रहता था beside अस्ति
+  कस्मिंश्चिद्ग्रामे … निवसति स्म; अन्वय, a word Hindi uses for the same exercise. Vocabulary counts
+  4 · 6 · 5 · 6 · 0; cells drilled 0 · 0 · 0 · 6 · 0 new. Self-study minutes: 40 · 44 · 40 · 44
+  · 60.
+- GLOSSARY: लिट्, स्म, क्त्वा · ल्यप्, अन्वय and the speech frame (उद्धरण-ढाँचा); the row श्लोक
+  updated.
+- `research/notes/vol3-plan.md` §7.6: the corrections the Chapter 6 fact base and review made to
+  the plan, and the rules its review settled.
 - **Research: the v4.c01 fact base** (`research/notes/vol4-ch1-the-fourteen-sutras.md`), verified
   before drafting by three checkers with every finding challenged, and the chapter frame
   `curriculum/volume-4/chapter-01/chapter.md` (draft). Volume 4, Chapter 1 — माहेश्वराणि सूत्राणि ·
@@ -23,9 +86,30 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   exam's task D asks only for joins that a teaching lesson derives; the pass rule includes the
   §19 quiz. Nine editor's decisions are recorded in its §7, among them the re-timed class plans
   of lessons 1–3 (self-study 43 · 40 · 45 · 40).
+- **v4.c01 lessons 1–3, first drafts** (status draft; not reviewed, and not counted among the
+  reviewed lessons) — अइउण् · The Fourteen Sūtras; सवर्णम् · One Letter for Its Whole Family;
+  इको यणचि · How a Rule Speaks. Each validated when drafted; after drafting, notes and tier marks
+  that stood in parentheses directly after Devanagari words were moved into square brackets.
 
 ### Changed
 
+- **The Volume 3 frame** (`curriculum/volume-3/volume.md`): `reviewed`. It now states what
+  Chapter 6 delivered (four reading lessons and the Volume 3 exam in two 45-minute sittings,
+  which gates Volume 4; the reading skills; the authentic texts read) and the exit profile as
+  delivered: the exam's unseen passage measures 5 glossed of 33 words; the storyteller's present
+  + स्म is taught in v3.c06.l03; the source lines of the verses as the Chapter 6 callouts word
+  them (Hitopadeśa 1.71 and the Pañcatantra, Book 5; no Mahā Upaniṣad); the paradigm ledger at
+  exit as audited in v3.c06.l05 §15; the ledger at 508, every chapter exit reached; 30 lessons;
+  and what goes to Volume 4.
+- STYLE_GUIDE §8: 508 reached; Volume 3 complete. STYLE_GUIDE §3.1: an anvaya (the prose order
+  of a verse) is written in pause form, as a paradigm table and a vigraha are.
+- ROADMAP: Chapter 6 reviewed and Volume 3 complete; the status log; the preservation-map row of
+  the 1.x graded readers (the crow in v3.c06.l01, the lion and mouse in v3.c06.l02). README: the
+  counts.
+- **REFERENCES:** `torzsok2007`, entered under 0.17.0, is withdrawn, and the `hitopadesha` entry
+  keeps the range (c. 9th–12th c. CE on the scholarly estimate) and the manuscript (MS Add.
+  2564, 1373 CE) only: the 800–950 CE estimate it was cited for could not be confirmed (see
+  Fixed).
 - **Volume 4 plan §7.6:** eleven rows from the v4.c01 fact base (the entry pattern of Station 0;
   the spelling list of the e-texts; the pratyāhāra count as the Kāśikā's own; four-column
   derivation tables; the आत् of 6.1.87 is not tapara; 1.3.4 and the endings; the pass rule of the
@@ -33,6 +117,49 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 ### Fixed
 
+- **v3.c06 review (passes A–D, every finding verified by skeptics, each reviewer returning a
+  coverage record of what was opened; Pass C in two rounds):** 84 findings confirmed (no
+  blockers, 35 major, 49 minor) and 3 rejected. Pass A, lesson by lesson, 50 — lesson 1: 12,
+  lesson 2: 8, lesson 3: 10, lesson 4: 9, lesson 5: 11; Pass B 15; Pass C 6; Pass D 13. 209
+  fixes applied (49 for lessons 1–2, 29 for lessons 3–4, 131 for the exam's Pass A with
+  Passes B, C and D, applied in one run), 4 found already made, 32 duplicates between passes;
+  three of the applied fixes collided with another pass's fix on the same lines and were set
+  aside by the editor, so 206 stand (the exam's quiz keeps one spread of keys; the dictation's
+  first sentence has one wording). Pass C was run a second time on the chapter as reviewed,
+  with the whole checklist again, and returned no finding (a coverage record of 25 lines).
+  Among the findings: the estimate "800–950 CE, printed with the Clay Sanskrit Library
+  translation" for the Hitopadeśa could not be confirmed by search and does not print — lesson
+  2 dates the book as the fourteen shipped lessons do (9th–12th centuries CE on the scholarly
+  estimate) and keeps the oldest dated manuscript (Cambridge University Library MS Add. 2564,
+  Nepāla saṃvat 493 = 1373 CE; search-confirmed; page not opened); lesson 1 gave the wrong
+  reason for Volume 2's पिपासितः — Volume 2 preferred it because तृष्णा also means "craving" — and
+  its hook said that the pause line said fast gives the joined line's sounds; lesson 2's model
+  line used अष्टौ, which is display only (अष्ट is owned), and asked a yes/no question with a
+  final वा where the course teaches अपि; it now records H8's बन्धनानि छिन्नानि as a seam the e-text
+  leaves unjoined (6.1.73; Whitney §227) and lists every departure of the serial that earlier
+  lessons put on the record; lesson 3's objective 3 and exercise 3 ask for the same thing (the
+  first sentence of two stories), two universal claims about how stories begin were reworded to
+  what the lesson shows, the Pañcatantra's date stays with the reign the Encyclopaedia Iranica
+  gives, attributed, and no word of kinship stands between the Pañcatantra story and the Jātaka;
+  lesson 4's mouth check for न no longer keeps the lips closed, and its class plan gives the
+  second and third verses the time they need (self-study 40 → 44 minutes); in the exam,
+  Station 0's retelling is said aloud and keyed by a checklist, no dictation sentence is a
+  sentence of lessons 1–4, Teacher Notes say why the retelling, the dictation and the unseen
+  passage share one story, cards 4 and 6 of task F carry the sūtra numbers Volume 3 printed in
+  learner text (8.3.34; 6.1.77 against the 1.x book's 1.1.45), task C's translation rule no
+  longer asks for one tense where the passage has two, जम्बूः is an ū-stem, and three phrases
+  printed as quotations of earlier lessons are verbatim or unquoted; the quiz keys of lessons 1,
+  3, 4 and 5 are spread (they had been (a) throughout); the Hindi school term पूर्वकालिक क्रिया
+  prints without Guru's key. At the merge of the passes the editor carried the withdrawal of
+  the estimate through REFERENCES.md, lesson 2's Teacher Notes, the fact base and plan §7.6,
+  corrected the list of lessons that put the serial's departures on the record, and moved
+  three notes out of parentheses directly after a Devanagari word. A post-fix verification
+  re-read ten files (the five lessons, chapter.md, the fact base, the Volume 3 frame,
+  GLOSSARY.md, the plan and REFERENCES.md) against the commits before the review fixes, in four
+  runs, with every claimed leftover challenged: 37 claimed, 4 refuted; of the 33 that stood, 26
+  were distinct and were fixed (4 major, 22 minor) and 7 were duplicates between verifiers. The
+  four majors were one point: places in the fact base and in this changelog's 0.17.0 notes
+  that still stated the withdrawn 800–950 CE estimate as live.
 - **Erratum, v1.c01.l02 §4** (the Māheśvara sūtras): the lesson said the Aṣṭādhyāyī "opens
   with" the fourteen sound-lists; they are handed down at its head and are not among its numbered
   rules. The same passage called the arrangement one of "maximum rule-writing efficiency" and

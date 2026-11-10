@@ -8,7 +8,7 @@ title:
 volume: 3
 cefr: "A2 → B1"
 chapters: 6
-status: draft
+status: reviewed
 created: 2026-11-10
 updated: 2026-11-10
 ---
@@ -79,10 +79,17 @@ pause-form reading and writing; the present singular in all three persons.
 chapter exits 387 · 411 · 439 · 460 · 488 · 508, all reached; 30 lessons, six chapters of
 five). The learner reads a course-graded story in joined Sanskrit at first sight and an
 unseen passage of classical narrative prose with marginal glosses (the Volume 3 exam's
-Pañcatantra passage: 5 glossed of 33 words); describes with agreeing adjectives, narrates in the past, makes requests
-and prohibitions; writes a paragraph joined and gives its pause form; resolves a compound
-into its parts; and can say what each case does in a sentence and where case and role
-part company — the B1 threshold that Volume 4's study of the Pāṇinian system assumes.
+Pañcatantra passage: 5 glossed of 33 words, names excluded — the plan's §2.2 had 6); puts a
+verse of the difficulty of Hitopadeśa 0.6 into prose order (अन्वयः); describes with agreeing
+adjectives, narrates in the past — in the imperfect and in the storyteller's present + स्म,
+taught in v3.c06.l03 — with direct speech closed by इति, makes requests and prohibitions;
+writes a paragraph joined and gives its pause form; resolves a compound into its parts; can
+say what each case does in a sentence and where case and role part company; and gives the
+source line of every verse read in the volume as the lessons word it — वसुधैव कुटुम्बकम्, for
+one, is Hitopadeśa 1.71, spoken by a jackal, and stands also in the Pañcatantra, Book 5; no
+Mahā Upaniṣad locus is given. This is the B1 threshold that Volume 4's study of the Pāṇinian
+system assumes. The paradigm ledger at exit — every productive and every recognition-only
+cell of the volume, with the lesson that taught it — is the one audited in v3.c06.l05 §15.
 The labels are CEFR-informed descriptions of function; Sanskrit has no official CEFR
 mapping [REF:cefr2020].
 
@@ -99,7 +106,14 @@ introductory verses, 6; Hitopadeśa 1.71, spoken by a jackal, also in the Pañca
 यस्य बुद्धिर्बलं तस्य, Pañcatantra, Book 1); and the exam's unseen Pañcatantra passage. The
 serial "the doves and the mouse" ended in v3.c06.l02, where the Hitopadeśa's own sentences
 were read; the thread-verse overlay closed in v3.c06.l01 (the benediction) and v3.c06.l04
-(Hitopadeśa, introductory verses, 36). The paradigm ledger at exit is the one audited in
-v3.c06.l05 §15. Volume 4 takes up the absolutive's formation (v4.c04) and the perfect as a
-system (v4.c03), and opens with the three Station 0 items that v3.c06.l04 and v3.c06.l05
-booked for v4.c01.l01 and v4.c01.l02.
+(Hitopadeśa, introductory verses, 36). The chapter adds 20 ledger-new words (488 → 492 → 498
+→ 503 → 508; the exam adds none), so the volume ends at 508 readable words: 148 ledger-new
+across its 30 lessons (360 → 508), every planned chapter exit (387 · 411 · 439 · 460 · 488 ·
+508) reached. The paradigm ledger at exit is the one audited in v3.c06.l05 §15.
+
+**What goes to Volume 4.** Everything the plan's §6 leaves to it, unchanged by Chapter 6 —
+among them the Māheśvara sūtras and the Aṣṭādhyāyī's architecture, roots and the ten present
+classes, kāraka theory, participles and the other derivations, the consonant stems (सुहृत्,
+महत्) and the ū-stem जम्बूः. Chapter 6 adds three items: the absolutive's formation (v4.c04),
+the perfect as a system, from which उवाच and आह come (v4.c03), and the three Station 0 items that
+v3.c06.l04 and v3.c06.l05 booked for v4.c01.l01 and v4.c01.l02, with which Volume 4 opens.

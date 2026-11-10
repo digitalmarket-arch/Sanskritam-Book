@@ -2778,7 +2778,12 @@ still to come: a later fact base follows this table, not the lines it corrects.
 | v3.c06 | adverbial तत् "so" taught in c05.l03 | labelled in c06.l02–l03, not taught in Volume 3 |
 | v3.c06 | कस्मिंश्चित् ◐ (c05.l02 display) | ✓ as a word of the story-opening formula (c06.l03); its न् + च seam stays ◐ |
 | v3.c06 | task D compounds | वानरमकरौ and स्वपत्नी: a जम्बू- compound would need the ū-stem genitive जम्ब्वाः (v4.c05) |
-| v3.c06 | no self-study minutes for c06 | 40 · 44 · 40 · 44 · 60, each §21 adding up; l05 duration 90 (two sittings of 45) |
+| v3.c06 | no self-study minutes for c06 | 40 · 44 · 40 · 44 · 60, each §21 adding up; l05 duration 90 (two sittings of 45). First set at 40 · 44 · 40 · 40 · 60; Pass B moved lesson 4's exercise 2 to homework, because its class plan could not give the second and third verses the time they need (deviation 19) |
+| v3.c06 | H2's नाम and B2's सत्यम् read before any lesson names their use | नाम "by name" (H2) and सत्यम् "truly" (B2 line 9) are owned words used as adverbs (Whitney §1111b, c), each labelled once where met; the X नाम Y formula is named in c06.l03 (deviation 6) |
+| v3.c06 | the Chapter 6 text: the Bhāsuraka story among the openings with अस्ति | That story opens without अस्ति — *kasmiṃścid vane bhāsurako nāma siṃhaḥ prativasati sma* — as do 35 prose lines of the e-text; it is never used as an example of the अस्ति formula, and no lesson says that every story opens with it (deviation 11) |
+| v3.c06 | the c06.l04 block: अन्वयः as "the commentators' method" | No commentary was opened, so the TRADITION line is attributed to "Sanskrit readers and teachers" only; a named commentary waits until one is opened (v5.c01, anvaya in depth) (deviation 12) |
+| v3.c06 | §1.2 and §1.3: R5, the absolutive, a recognition card | R5 is never an objective, a required answer or a scored item, in Station 0 keys as elsewhere; no course-written model sentence uses an absolutive, and the learner produces none until v4.c04 teaches its formation (deviation 14) |
+| v3.c06 | §5.4, V3: यस्य बुद्धिर्बलं तस्य with its Hitopadeśa variant, speaker not named | Hit 2.122 reads बुद्धिर्यस्य बलं तस्य and is spoken by the crow; its locator is suhṛdbheda (Book 2). The Pañcatantra verse introduces the story of the lion Bhāsuraka and the hare (Book 1) and is cited by book and story, since its verse numbers differ between editions (deviation 20) |
 
 Rules the chapter reviews settled, binding on later chapters: a form that is not yet taught
 may not stand even as a wrong option of a quiz or exercise item; `self_study_minutes` covers
@@ -2809,3 +2814,12 @@ contingency clause stands in a timing plan; a statement about what an earlier le
 is checked by grep; an exam's unseen passage repeats no line of the lessons, and each of its
 questions is answerable from the passage alone; a reviewer returns a record of what was
 opened and checked.
+Added at the Chapter 6 review: an anvaya is written in pause form (STYLE_GUIDE §3.1); a
+quoted earlier lesson is quoted verbatim or not in quotation marks; a Volume exam may name by
+number a sūtra that an earlier lesson of the volume printed by number in learner text; a
+Station 0 item run before a sitting is said aloud and keyed by a checklist when a task of the
+sitting uses the same story; no dictation sentence is a sentence printed in the lessons; quiz
+keys are spread over the options; an estimate or date that cannot be tied to a source that
+was opened or quoted by search does not print, whoever is said to have printed it; when
+passes are applied together, colliding fixes are compared and one is kept; a second citation
+round runs until it returns nothing.

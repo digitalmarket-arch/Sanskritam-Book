@@ -41,10 +41,10 @@ media:
     - "planned:assets/worksheets/volume-3/v3c06l02-frames.pdf"
   quizzes: []
 tags: [reading, hitopadesha, speech-frame, iti, authentic-text, serial-ends, mosaic, history]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---

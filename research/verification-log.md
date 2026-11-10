@@ -967,6 +967,134 @@ plan gives it; (10) यदा … ततः is good Sanskrit: keys expect तद
 option offers ततः as wrong; (11) the errata of the fact base's §8 (two lines of v2.c06.l04)
 are approved and applied.
 
+## Chapter v3.c06 — research verdicts (2026-11-10)
+
+Fact base: research/notes/vol3-ch6-connected-reading.md, written from a research dossier (six
+topics, web-verified, every finding challenged) and checked before drafting by three checkers
+(forms, facts, contract), every finding challenged: 35 findings confirmed (16 major, 19 minor), 4
+rejected; 60 fixes applied, 5 found already made, 9 duplicates between checkers. The editor's
+twelve decisions after the verification are in its §7, after the decisions taken from the
+dossier; its §7 also lists 22 deviations from the plan. (Recorded under 0.17.0 in CHANGELOG.md.)
+
+The evidence rule of the dossier (fact base §7): a reading, a quotation, a verse number or a
+locus prints only from a text the project opened itself; bibliographic data may rest on search
+results that quote a title page, a library catalogue or the publisher's page; a hedged statement
+of scholarship may rest on search results that quote the source's own page, is attributed in
+the text and is marked here "search-confirmed; page not opened"; anything else does not print.
+
+| Claim | Source checked | Verdict | Lands in |
+|---|---|---|---|
+| The status marks, one wording everywhere (✓ productive, ◐ recognition, ○ display); the inventory codes T, C, L, G of the reading texts; no objective, exercise, quiz item, homework task, Station 0 key or exam task demands or scores a ◐ item | STYLE_GUIDE §8; plan §0; the Chapter 5 fact base, row 0.1 | ✅ policy, unchanged from Chapter 5; R5 is never an objective or a scored item (deviation 14) | all |
+| The printing: every course-written text joined, with its pause form beneath; authentic text keeps the e-text's sounds, with its division kept where the e-text departs from full sandhi (महान् जम्बूपादपः, पात्रत्वात् धनम्) and "editions vary" said once | STYLE_GUIDE §3.1; the Chapter 4 and 5 fact bases, row 0.2; editor's decision 1 | ✅ corrected at review: H8's बन्धनानि छिन्नानि recorded in lesson 2's Teacher Notes as a seam the e-text leaves unjoined [REF:ashtadhyayi 6.1.73]; [REF:whitney1889 §227]; an anvaya is written in pause form (settled at review; STYLE_GUIDE §3.1) | all |
+| The joins and stops of Chapter 4's maps; course-written texts use ✓ seams only, with two labelled ◐ seams in quoted material (बलाच्छ्रेष्ठा; तन्मे, प्रियसुहृन्मे) | the Chapter 4 fact base, tables 0.A–0.C; [REF:whitney1889 §161]; [REF:whitney1889 §203] | ✅ every seam of Texts A1, A2, B1, B2 derived from the maps; keys accept बलाच्श्रेष्ठा and तद्मे | l01–l05 |
+| Authentic text: 22 passages (H1–H8, P1–P6, D1–D4, V1–V3, Hit 0.36, T5) against the GRETIL e-texts | `hitop_u.htm`; `vispancu.htm`, by line; `scripts/translit.py` run backwards | ✅ all 22 agree sound for sound; the source line is "text of the GRETIL e-text" and nothing more; no printed edition could be opened, so none is named (editor's decision 1); the e-text corrections (*prativasa ti*, *nahi*) listed in Teacher Notes | l02–l05 |
+| Loci: the Hitopadeśa by GRETIL numbering, the Pañcatantra by book and story only; Jha's numbers in research notes and Teacher Notes only | editor's decisions 1, 8; Apte's list of abbreviations (the Nirṇaya Sāgara edition: his "H. 1. 70" is GRETIL 1.71) | ✅ "textus simplicior" stays in REFERENCES and Teacher Notes; the shipped Volume 2 lines that use the label are left as they are (an open point) | l02–l05 |
+| R5, the absolutive in -त्वा / -य, "having …-ed"; its doer the doer of the main verb, or in an R2 sentence the instrumental | [REF:whitney1889 §989]; [REF:whitney1889 §990]; [REF:whitney1889 §994]; [REF:ashtadhyayi 1.1.40], 3.4.21, 7.1.37 in Teacher Notes | ✅ recognition only; no absolutive in any v3.c01–c04 lesson (grep), so the card is the learner's first meeting; formation v4.c04; the Hindi school term पूर्वकालिक क्रिया prints without Guru's key (outcome at Pass C) | l01 |
+| The speech frame: X उवाच / आह / अब्रवीत् / अवदत् — "…", and "…" इति X अवदत्; the quoted words keep their persons | [REF:whitney1889 §1102]; [REF:whitney1889 §801] | ✅ the promise of v3.c03.l01 ("the frame is named and taught in v3.c06.l02") kept | l02 |
+| The story-opening formula: अस्ति + a locative + the subject; X नाम Y; the storyteller's present + स्म | [REF:apte1890 s.v. अस्ति]; [REF:whitney1889 §777]; [REF:whitney1889 §778]; [REF:whitney1889 §1111] | ✅ the Bhāsuraka story opens without अस्ति and is not used as an example of it (deviation 11); corrected at review: two universal claims about how stories begin reworded to what the lesson shows | l03 |
+| Sūtra 3.2.118 लट् स्मे, the one sūtra quoted to the learner in this chapter (the volume's count stays 28) | [REF:ashtadhyayi 3.2.118]; [REF:kashika 3.2.118]; [REF:laghukaumudi on 3.2.118] | ✅ text and anuvṛtti in the data file; the Kāśikā (*liṭo 'pavādaḥ*) and the Laghukaumudī (*yajati sma yudhiṣṭhiraḥ*) in Teacher Notes | l03 |
+| The corpus counts in Teacher Notes: 27 prose passages open with अस्ति कस्मिंश्चित्, 35 more lines with कस्मिंश्चित् alone; प्रतिवसति स्म 32 times | `vispancu.htm`, grep of line-initial matches | ✅ method stated; no claim beyond this e-text; "opens many tales" and "a famous fable" not printed | l03 |
+| अन्वयः, prose order, in seven steps; reading a verse through its अन्वयः as TRADITION | [REF:apte1890 s.v. अन्वयः]; [REF:monierwilliams1899 s.v. anvaya] | ✅ attributed to "Sanskrit readers and teachers" only, because no commentary was opened (deviation 12); the school-course lead (CBSE *Śāradā*) not printed | l04 |
+| The rhythm of the verses: four quarters of eight syllables, counted; metre itself v5.c04 | [REF:apte1890 s.v. अनुष्टुभ्]; GLOSSARY श्लोक | ✅ | l04 |
+| Hitopadeśa 1.71 (वसुधैव कुटुम्बकम्), spoken by the jackal Kṣudrabuddhi; its other locus, the Pañcatantra, Book 5, where the third of the brahmins who made a lion speaks it | [REF:hitopadesha mitralābha 71] (`hitop_u.htm` l. 570, 660–667); [REF:panchatantra tantra 5] (`vispancu.htm` l. 6241–6266) | ✅ editor's decision 3: the Mahā Upaniṣad locus is not verified and does not print; no claim about which text has it first; the erratum to v2.c02.l02 recorded under 0.17.0 | l04, l05 |
+| यस्य बुद्धिर्बलं तस्य introduces the story of the lion Bhāsuraka and the hare (Pañcatantra, Book 1); its Hitopadeśa variant (2.122) is spoken by the crow | [REF:panchatantra tantra 1]; [REF:hitopadesha suhṛdbheda 122]; [REF:apte1890 s.v. तद्] | ✅ the speaker of the Pañcatantra verse is inferred from the frame, not named on the line | l04, l05 |
+| The Hitopadeśa callout: Nārāyaṇa and Dhavalacandra from its closing verses and the Book 3 colophon; the prologue's statement that it draws on the Pañcatantra "and another work"; the same cast in the frame of the Pañcatantra's second book | [REF:hitopadesha sandhi 141, 143]; [REF:hitopadesha prastāvikā 9]; [REF:panchatantra tantra 2, frame story] | ✅ e-text lines 4010, 4017–4018, 3244–3245, 126–127; no claim about which came first; v2.c06.l02's sentence on the mouse and the net restated exactly | l02 |
+| The Hitopadeśa's date | [REF:hitopadesha] | ✅ corrected at Pass C: "on the scholarly estimate … roughly the 9th–12th centuries CE", as the fourteen shipped Volume 3 lessons have it, and the oldest dated manuscript (1373 CE); the 800–950 CE estimate withdrawn (table below) | l02 |
+| The Pañcatantra's date: no range prints; the Middle Persian translation under Khosrow I, attributed to the Encyclopaedia Iranica | [REF:iranica s.v. Borzūya]; [REF:iranica s.v. Kalila wa Demna] | ✅ search-confirmed; page not opened (table below); IR-030's "c. 200 BCE–300 CE" not printed; no translator's name for the Syriac, no year for any version | l03 |
+| The Suṃsumāra-jātaka (no. 208): a crocodile's wife craves a monkey's heart; the monkey says his heart hangs on a fig tree | [REF:cowell1895 vol. II, no. 208] | ✅ the story read in a transcription of Cowell vol. II and in the GRETIL Pali e-text; the bibliographic data search-confirmed (table below); corrected at review: no word of kinship and none of priority | l03 |
+| The Pañcatantra names Viṣṇuśarman as its author (TRADITION) | [REF:panchatantra kathāmukha, opening verses] (`vispancu.htm` l. 106–107) | ✅ printed as the text's own statement | l03 |
+| साहाय्यम्, not सहायम्, for "help"; साहाय्यं करोति with the genitive | [REF:apte1890 s.v. सहायः]; [REF:monierwilliams1899 s.v. sāhāyya]; [REF:mahabharata 1.142.26]; [REF:panchatantra] | ✅ editor's decision 2; the 1.x line stays a display quotation; the Purāṇic readings in Teacher Notes only | l02 |
+| The 1.x graded readers (pp. 64–65), carried in their original form | `Sanskritam-Curriculum.pdf`, read from page images | ✅ restored in Text B1 (तृष्णार्तः, पाषाणान्, the moral) and Text B2 (धावति, the mouse's promise); corrected at review: lesson 1 gave the wrong reason for Volume 2's पिपासितः: Volume 2 preferred it because तृष्णा also means "craving" | l01, l02 |
+| The serial's departures from the Hitopadeśa, 23 rows | the fact bases of Chapters 1–3 and 5; `hitop_u.htm` by line | ✅ corrected at review: lesson 2 lists every departure the earlier lessons put on the record (the §22 of v3.c01.l03, v3.c02.l01, l03, l04, v3.c03.l01–l03, v3.c05.l02, l04, l05) | l02 |
+| Hindi parallels: -कर / -करके and the absolutive; कि before a quotation against इति after it; the Hindi story opening; अन्वय | [REF:kachru2006], cited bare; the Hindi school term without a key | ✅ the quotation contrast limited to position; no claim about pronoun shift in Hindi reported speech | l01–l04 |
+| Gloss ratios: H 4 of 55, P 6 of 44, V1 0 of 13, V2 2 of 12, V3 2 of 13, T5 5 of 33 (names excluded) | the drafts, recounted | ✅ exit can-do 2 measured on 5 of 33 (about 1 in 6.6), not the plan's 6 | l02–l05 |
+| The headwords against Apte and Monier-Williams; जामुन for जम्बूः | [REF:apte1890]; [REF:monierwilliams1899] (MW s.v. jambu) | ✅ Apte sub-entries quoted or the row cites MW alone (decision 7) | l01–l04 |
+| Ledger 488 → 492 → 498 → 503 → 508 → 508 (20 ledger-new; the upgrade row धनम्; vocabulary_count 4 · 6 · 5 · 6 · 0; cells drilled 0 · 0 · 0 · 6 · 0 new) | STYLE_GUIDE §8 rules 1–15; `ledger-all.tsv` and the Chapter 4–5 headwords (539 owned strings) | ✅ no double count; names, absolutives, perfects other than उवाच and आह and prefixed forms met only in reading never count; Volume 3: 148 ledger-new, 360 → 508 | all |
+| Station 0 bookings, worded once: three arriving from Chapter 5, ten booked in Chapter 6, three of them for v4.c01.l01 and v4.c01.l02; the monthly task of v2.c06.l05 closed | the Chapter 5 lessons' §20; [REF:cepeda2006] | ✅ diffed against the files on disk: identical; corrected at review: the exam's Station 0 retelling is said aloud and keyed by a checklist; the Volume 4 plan amended to carry the three items (editor's decision 1) | l01–l05 |
+
+**Statements that rest on "search-confirmed; page not opened".** Each prints only as the
+evidence rule allows; each is to be re-checked against the page when the host can be opened.
+This session's network policy refused archive.org, catalog.hathitrust.org,
+www.iranicaonline.org and worldcat.org; web search worked.
+
+| Statement | What was found, and where | Status | Lands in |
+|---|---|---|---|
+| The Hitopadeśa composed between 800 and 950 CE, "on the estimate printed with the Clay Sanskrit Library translation" (Törzsök, 2007) | At the dossier, search results that were taken to quote the publisher's description. At Pass C the estimate could not be tied by search to Törzsök's translation or to any source that could be opened or quoted: the publisher's pages found give no such range, and pages that give it name other sources or none | withdrawn: does not print; the key `torzsok2007` is withdrawn from REFERENCES.md (outcome under editor's decision 9) | — |
+| The oldest dated manuscript of the Hitopadeśa: Cambridge University Library MS Add. 2564, dated Nepāla saṃvat 493 = 1373 CE | search results quoting the Cambridge University Library's record of the manuscript; the record itself not opened | prints, in lesson 2's HISTORY callout ("the oldest dated manuscript known is of 1373 CE") and in the `hitopadesha` entry of REFERENCES.md; it dates a copy, not the composition | l02 |
+| A physician named Borzūya, of the time of the Sasanian king Khosrow I (reigned 531–579 CE), translated the Pañcatantra from Sanskrit into Middle Persian; that version was soon translated into Syriac and later into Arabic | search results quoting Encyclopaedia Iranica, s.v. "Borzūya" (Djalal Khaleghi-Motlagh, published 15 December 1989), and s.v. "Kalila wa Demna i. Redactions and circulation" (Dagmar Riedel, vol. XV, fasc. 4, 2010, pp. 386–395); the articles at www.iranicaonline.org not opened | prints, attributed ("According to the Encyclopaedia Iranica"), with [REF:iranica]; no translator's name for the Syriac and no year for any version | l03 |
+| E. B. Cowell (ed.), *The Jātaka*, 6 vols., Cambridge University Press, 1895–1907; vol. II tr. W. H. D. Rouse, 1895; the Suṃsumāra-jātaka is no. 208 | the bibliographic data from search results; the story itself read in a transcription of Cowell vol. II and in the GRETIL Pali e-text; the printed volume (archive.org) not opened | prints, with [REF:cowell1895 vol. II, no. 208]; only what both texts show | l03 |
+
+## Review-pass findings — v3.c06 (2026-11-10)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Accuracy, lesson by lesson, every finding verified by skeptics, each reviewer returning a coverage record (29 lines for lessons 1–2, 33 for lessons 3–4, 17 for the exam): 50 confirmed (17 major, 33 minor), 1 rejected. Lesson 1: 12 (3 major, 9 minor), 1 rejected — Volume 2 preferred पिपासितः because तृष्णा also means "craving", not because compounds were untaught; the hook no longer says that the pause line said fast gives the joined line's sounds; the locus of the Pañcatantra sentence in exercise 5 is the prose after the verses on the guest; the Teacher-Notes sūtras carry their texts and keys. Lesson 2: 8 (4 major, 4 minor) — the model line uses the owned अष्ट, since अष्टौ is display only; a yes/no question is asked with अपि, as taught, not with a final वा; H8's बन्धनानि छिन्नानि is recorded as a seam the e-text leaves unjoined (6.1.73; Whitney §227); fourteen shipped lessons, not twelve, date the Hitopadeśa, and the 1373 manuscript dates a copy. Lesson 3: 10 (3 major, 7 minor) — objective 3 and exercise 3 ask for the same thing (the first sentence of two stories); two universal claims about how stories begin reworded to what the lesson shows; the §3 prompts get class slots and the timing plan loses its contingency clause; two e-text line locators corrected. Lesson 4: 9 (1 major, 8 minor) — the mouth check for न in आप्नोति no longer keeps the lips closed; the वसुधा row cites its dictionary entry; a Hindi gloss that made पात्रता the subject corrected. Lesson 5: 11 (6 major, 5 minor), applied in one run with Passes B, C and D (the exam's fixes are in the row below that covers that run). | fixed; pass |
+| B | Policy and load (15 confirmed: 7 major, 8 minor; 1 rejected; coverage record 19 lines), applied in one run with the exam's Pass A and Passes C and D: among them, lesson 4's class plan gives the second and third verses the time they need, exercise 2 going to homework (self-study 40 → 44 minutes). | fixed; pass |
+| C, first round | Citations (6 confirmed: 5 major, 1 minor; 1 rejected; coverage record 24 lines): the estimate "800–950 CE, printed with the Clay Sanskrit Library translation" could not be confirmed by search and is withdrawn — lesson 2 dates the Hitopadeśa as the fourteen shipped lessons do and keeps the manuscript of 1373 CE, and the key `torzsok2007` is withdrawn from REFERENCES.md; the Hindi school term पूर्वकालिक क्रिया prints without Guru's key. | fixed; pass |
+| D | Coherence (13 confirmed: 6 major, 7 minor; none rejected; coverage record 14 lines): GLOSSARY gains five rows (लिट्, स्म, क्त्वा · ल्यप्, अन्वय, the speech frame) and an updated श्लोक row; the Volume 3 frame brought up to what Chapter 6 delivered; plan §7.6 gains the v3.c06 rows. | fixed; pass |
+| A (exam), B, C, D in one run | Also found in this run, each with the passes that found it (a point found by more than one pass was fixed once): in the exam, Station 0's retelling is said aloud and keyed by a checklist, no dictation sentence is a sentence of lessons 1–4, and Teacher Notes say why the retelling, the dictation and the unseen passage share one story (A, B); cards 4 and 6 of task F carry the sūtra numbers Volume 3 printed in learner text, 8.3.34 and 6.1.77 against the 1.x book's 1.1.45 (A, B, D); task C's translation rule no longer asks for one tense where the passage has two (A); जम्बूः is an ū-stem, not a consonant stem (A, D); three phrases printed as quotations of earlier lessons are verbatim or unquoted (A). In the chapter: the quiz keys of lessons 1, 3, 4 and 5 are spread over the options, where they had been (a) throughout (A, B); lesson 2 lists every departure of the serial that earlier lessons put on the record (D); the Pañcatantra's date stays with the reign the Encyclopaedia Iranica gives, attributed (B, C, D); no word of kinship stands between the Pañcatantra story and the Jātaka (B, C). | fixed |
+| C, second round | Citations again, on the chapter as reviewed, with the whole checklist (authentic text letter for letter, the HISTORY callouts clause by clause, the sūtras, Whitney, the dictionaries, the Hindi statements, the 1.x pages, the registers); coverage record 25 lines. No finding. | pass |
+
+Totals: the four passes confirmed 84 findings (no blockers, 35 major, 49 minor) and rejected 3.
+209 fixes applied (49 for lessons 1–2, 29 for lessons 3–4, 131 for the exam's Pass A with Passes
+B, C and D, applied in one run), 4 found already made, 32 duplicates between passes. Three of
+the applied fixes collided with another pass's fix on the same lines and were set aside by the
+editor, so 206 stand (the exam's quiz keeps one spread of keys; the dictation's first sentence
+has one wording). The second citation round returned nothing.
+
+The editor's corrections at the merge of the passes: the withdrawal of the 800–950 CE estimate
+carried through REFERENCES.md (the key `torzsok2007` withdrawn; the `hitopadesha` entry keeps
+the range and the manuscript), lesson 2's Teacher Notes, the fact base and plan §7.6; the list
+of lessons that put the serial's departures "on the record"; three notes moved out of
+parentheses directly after a Devanagari word.
+
+Post-fix verification: ten files (lessons 1–5, chapter.md, the fact base,
+curriculum/volume-3/volume.md, GLOSSARY.md, research/notes/vol3-plan.md and REFERENCES.md) were
+re-read in four runs against the commits before the review fixes — 55d6670 for lessons 1–4;
+55e55d0 for the fact base and chapter.md; e70976a for lesson 5, the volume frame, GLOSSARY.md,
+the plan and REFERENCES.md — with every claimed leftover challenged. 37 leftovers were claimed
+and 4 refuted; of the 33 that stood, 26 were distinct and were fixed (4 major, 22 minor) and 7
+were duplicates between verifiers. The four majors were all the same point: places in the fact
+base and in CHANGELOG.md (the 0.17.0 notes) that still stated the withdrawn 800–950 CE estimate
+as live. Among the minor ones: the booking "your own story openings" asks for the first sentence
+of two stories in lesson 3 §20, lesson 4 §3 and the fact base, as the objective and the exercise
+do; the exam's list of lessons that put the serial's departures on the record gains v3.c02.l04;
+the fact base's quiz specs, class timings and self-study figures (40 · 44 · 40 · 44 · 60) follow
+the lessons as reviewed.
+
+Status change: v3.c06 chapter frame and lessons 01–05 `draft` → `reviewed`; with them the
+Volume 3 frame (curriculum/volume-3/volume.md) goes to `reviewed`, its text brought to what the
+fact base's §8 (c) says it must state when the chapter ships. **Volume 3 is complete:** 30
+lessons, 508 readable words (148 ledger-new, 360 → 508); canonical exits 387 · 411 · 439 · 460
+· 488 · 508, all reached.
+
+Decisions recorded with this chapter: an anvaya is written in pause form; a quoted earlier
+lesson is quoted verbatim or not in quotation marks; a Volume exam may name by number a sūtra
+that an earlier lesson of the volume printed by number in learner text; a Station 0 item run
+before a sitting is said aloud and keyed by a checklist when a task of the sitting uses the
+same story; no dictation sentence is a sentence printed in the lessons; quiz keys are spread
+over the options; an estimate or date that cannot be tied to a source that was opened or quoted
+by search does not print, whoever is said to have printed it; when passes are applied together,
+colliding fixes are compared and one is kept; a second citation round runs until it returns
+nothing.
+
+The editor's twelve decisions on the fact base (its §7), 2026-11-10: (1) the Station 0 items
+S0-bh and S0-bg run in v4.c01.l01 and S0-bi in v4.c01.l02, and the Volume 4 plan is amended to
+say so; (2) the Chapter 5 bookings are closed by the verification, and Pass D diffs them again
+against the Chapter 5 lessons as reviewed; (3) अन्वयः prints as TRADITION attributed to Sanskrit
+readers and teachers, no commentary named; (4) the exam's room time, about 98 minutes plus the
+break, is accepted; (5) the Hindi gloss जामुन prints, on MW s.v. jambu; (6) the drafter of lesson
+5 writes one alternative item set each for tasks D and F into §22; (7) each Apte sub-entry is
+quoted at Pass C, or the row cites Monier-Williams alone; (8) Pass C confirms each Hindi
+statement on the web, or rewords or cuts it; (9) the fourteen shipped lessons that date the
+Hitopadeśa to the 9th–12th centuries CE stay as they are — outcome at Pass C: the 800–950 CE
+estimate could not be tied to a source, does not print, and `torzsok2007` is withdrawn; (10)
+each statement that rests on search results is marked here "search-confirmed; page not opened"
+and is re-checked when the hosts can be opened (the table above); (11) the key of S0-aw accepts
+either analysis of नीलकण्ठः, अल्पशक्तिः and शुभरात्रिः when it comes with its matching vigraha;
+(12) the errata of the fact base's §8 (a) and the REFERENCES entries of §8 (b2) are approved
+and applied.
+
 ## Erratum — v1.c01.l02 §4, the Māheśvara sūtras (2026-11-10)
 
 Found by the v4.c01 fact base (its §8 and open item 4) and decided by the editor (its §7,

@@ -8,7 +8,7 @@ title:
 volume: 3
 chapter: 6
 cefr: B1
-status: draft
+status: reviewed
 created: 2026-11-10
 updated: 2026-11-10
 ---

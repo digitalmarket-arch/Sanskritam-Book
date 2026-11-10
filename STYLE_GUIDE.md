@@ -146,6 +146,9 @@ uses both, in a fixed order.
 - **A compound is one word in the pause form.** Where a line shows a compound's inner seam
   (v3.c04.l01–l03), its members are printed hyphenated, never as free words: सूर्य-उदये →
   सूर्योदये.
+- **An anvaya (अन्वयः, the prose order of a verse) is written in pause form**, as a paradigm
+  table and a vigraha are: it sets out the verse's words one by one, so no seam is joined in
+  it (v3.c06.l04; settled at that chapter's review).
 - **Authentic text** keeps the word division of the e-text that REFERENCES names. Evident
   typos of the e-text are corrected, and each correction is listed in Teacher Notes, with
   every departure from full sandhi noted beside it (महान् जम्बूपादपः for महाञ्जम्बू°).
@@ -383,7 +386,7 @@ Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 co
 beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
 · 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 · 360 (the first four corrected at
 the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned in
-`research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (387, 411, 439, 460 and 488 reached, at
-the reviews of v3.c01, v3.c02, v3.c03, v3.c04 and v3.c05; 508 is a planned figure until its
-chapter ships); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
+`research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (all six reached, at
+the reviews of v3.c01, v3.c02, v3.c03, v3.c04, v3.c05 and v3.c06; Volume 3 is complete at
+508); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
 591 · 617 · 627 (119 new headwords, 508 → 627; planned figures until their chapters ship).

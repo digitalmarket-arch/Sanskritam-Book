@@ -1919,6 +1919,137 @@
       ],
       "path": "curriculum/volume-3/chapter-05/lesson-05-chapter-exam.md",
       "json": "json/volume-3/v3.c05.l05.json"
+    },
+    {
+      "id": "v3.c06.l01",
+      "title": {
+        "sa": "द्वे कथे",
+        "sa_iast": "dve kathe",
+        "hi": "दो कहानियाँ, जुड़े रूप में",
+        "en": "The Two Stories, Joined"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c05.l05"
+      ],
+      "review_of": [
+        "v3.c05.l05",
+        "v3.c05.l04",
+        "v2.c06.l01",
+        "v2.c06.l02",
+        "v3.c04.l04",
+        "v3.c03.l03",
+        "v1.c06.l04",
+        "v3.c02.l05"
+      ],
+      "path": "curriculum/volume-3/chapter-06/lesson-01-the-two-stories-joined.md",
+      "json": "json/volume-3/v3.c06.l01.json"
+    },
+    {
+      "id": "v3.c06.l02",
+      "title": {
+        "sa": "कपोताः मूषकः च",
+        "sa_iast": "kapotāḥ mūṣakaḥ ca",
+        "hi": "कबूतर और चूहा",
+        "en": "The Doves and the Mouse"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c06.l01"
+      ],
+      "review_of": [
+        "v3.c06.l01",
+        "v3.c05.l05",
+        "v2.c06.l02",
+        "v3.c05.l04",
+        "v3.c05.l01",
+        "v3.c03.l04",
+        "v3.c03.l03",
+        "v3.c03.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-06/lesson-02-the-doves-and-the-mouse.md",
+      "json": "json/volume-3/v3.c06.l02.json"
+    },
+    {
+      "id": "v3.c06.l03",
+      "title": {
+        "sa": "वानरः मकरः च",
+        "sa_iast": "vānaraḥ makaraḥ ca",
+        "hi": "बंदर और मगरमच्छ",
+        "en": "The Monkey and the Crocodile"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c06.l02"
+      ],
+      "review_of": [
+        "v3.c06.l02",
+        "v3.c06.l01",
+        "v3.c05.l02",
+        "v3.c05.l03",
+        "v3.c05.l04",
+        "v3.c03.l03",
+        "v3.c03.l04",
+        "v3.c04.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-06/lesson-03-the-monkey-and-the-crocodile.md",
+      "json": "json/volume-3/v3.c06.l03.json"
+    },
+    {
+      "id": "v3.c06.l04",
+      "title": {
+        "sa": "त्रयः श्लोकाः",
+        "sa_iast": "trayaḥ ślokāḥ",
+        "hi": "तीन श्लोक",
+        "en": "Three Verses"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c06.l03"
+      ],
+      "review_of": [
+        "v3.c06.l03",
+        "v3.c06.l02",
+        "v3.c05.l03",
+        "v3.c05.l04",
+        "v3.c04.l04",
+        "v2.c06.l03",
+        "v1.c06.l04",
+        "v3.c01.l02"
+      ],
+      "path": "curriculum/volume-3/chapter-06/lesson-04-three-verses.md",
+      "json": "json/volume-3/v3.c06.l04.json"
+    },
+    {
+      "id": "v3.c06.l05",
+      "title": {
+        "sa": "तृतीयखण्डपरीक्षा",
+        "sa_iast": "tṛtīyakhaṇḍaparīkṣā",
+        "hi": "तीसरे खण्ड की परीक्षा",
+        "en": "The Volume 3 Exam"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v3.c06.l04"
+      ],
+      "review_of": [
+        "v3.c06.l01",
+        "v3.c06.l02",
+        "v3.c06.l03",
+        "v3.c06.l04",
+        "v3.c05.l05",
+        "v3.c04.l05",
+        "v3.c03.l05",
+        "v3.c02.l05",
+        "v3.c01.l05"
+      ],
+      "path": "curriculum/volume-3/chapter-06/lesson-05-volume-three-exam.md",
+      "json": "json/volume-3/v3.c06.l05.json"
     }
   ]
 }

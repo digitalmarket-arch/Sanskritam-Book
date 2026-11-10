@@ -56,7 +56,7 @@ at exit.
 | 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ✅ reviewed |
 | 4 | सन्धिः — Sandhi in Use | 5 | ✅ reviewed |
 | 5 | सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds | 5 | ✅ reviewed |
-| 6 | सम्पूर्णपठनम् — Connected Reading | 5 | ⬜ |
+| 6 | सम्पूर्णपठनम् — Connected Reading | 5 | ✅ reviewed |
 
 Sequencing fix vs 1.x: sandhi is taught **before** connected reading, and conjugation gets
 real practice chapters before any lakāra survey. Kāraka is introduced functionally here;
@@ -66,6 +66,8 @@ its Pāṇinian theory waits for Volume 4.
 forms, headwords and ledger figure (30 lessons; 148 ledger-new words, 360 → 508; chapter
 exits 387 · 411 · 439 · 460 · 488 · 508), the Chapter 6 texts with a status for every
 word-form, and what is left to Volume 4. Volume frame: `curriculum/volume-3/volume.md`.
+**Complete 2026-11-10:** 30 lessons, 508 readable words at exit (148 ledger-new; every
+planned chapter exit reached).
 
 ## Volume 4 — पाणिनीयम् · The Pāṇinian System (B1 → B2)
 
@@ -331,6 +333,26 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   major). 28 ledger-new (488 cumulative); 86 reviewed lessons (61 in Volumes 1–2, 25 in
   Volume 3), validator green, exports current. Next: v3.c06 सम्पूर्णपठनम् — Connected Reading
   (fact base verified; lessons 1–4 drafted and in review).
+- **2026-11-10** — **v3.c06 सम्पूर्णपठनम् complete and reviewed — VOLUME 3 COMPLETE (0.18.0)**:
+  four reading lessons and the Volume 3 exam. The two Volume 2 stories read joined at three
+  speeds, the crow told in the past with the 1.x details restored, the absolutive in -त्वा / -य
+  read on the recognition card R5 and the benediction parsed word by word; eight sentences of
+  the Hitopadeśa's doves and mouse read with the speech frame, where the course's serial ends
+  and every departure of the retelling is listed; six sentences of the Pañcatantra's monkey and
+  crocodile with the story-opening formula and sūtra 3.2.118 लट् स्मे, the one sūtra quoted to the learner in this
+  chapter; three verses put in prose order (अन्वयः), with वसुधैव कुटुम्बकम् at its Hitopadeśa
+  locus (1.71, a jackal) and its Pañcatantra locus (Book 5); the Volume 3 exam in two
+  closed-book 45-minute sittings, with an unseen Pañcatantra passage, which gates Volume 4.
+  Fact base verified before drafting (35 confirmed findings); review passes A–D, Pass A lesson
+  by lesson, with a second citation round that returned nothing (84 findings confirmed, none
+  blocking, 35 major; 209 fixes applied, of which three that collided were set aside, so 206
+  stand); post-fix verification of ten files in four runs (26 leftovers fixed, 4 of them
+  major). An estimate of the Hitopadeśa's date that could not be traced to a source (800–950
+  CE) was withdrawn before release. 20 ledger-new (508 cumulative; Volume 3 adds 148, every
+  planned chapter exit reached); 91 reviewed lessons (61 in Volumes 1–2, 30 in Volume 3),
+  validator green, exports current. Next: Volume 4 पाणिनीयम् — The Pāṇinian System, starting
+  with v4.c01 माहेश्वराणि सूत्राणि — The Fourteen Sūtras (fact base verified; lessons 1–3
+  drafted, not yet reviewed; the chapter exam, lesson 4, not yet drafted).
 
 ## Content preservation map (from the 1.x curriculum)
 
@@ -343,7 +365,7 @@ Verified-correct 1.x material and where it lands in 2.0:
 | Thematic vocab sets (pp.27–36) | v2.c01–c03 |
 | 10-verb bank (p.40) | v2.c04 |
 | rāma/गच्छ paradigms, vowel sandhi, samāsa (pp.37–43) | v3.c01, c03; the samāsa types (pp.42–43) v3.c05.l04 — taught as four kinds (द्वन्द्वः, तत्पुरुषः, कर्मधारयः, बहुव्रीहिः) with their vigrahas, द्विगुः, उपपद and अव्ययीभावः read on the recognition card of §15, the 1.x errors (with those of the six-types lesson, pp.83–84) listed with their corrections in §22; the vowel-sandhi worked examples (pp.41–42) v3.c04.l01 — देव + आलय → देवालय and सूर्य + उदय → सूर्योदय carried in §13, the 1.x errors listed with their corrections in §22 |
-| Graded readers (pp.64–66) | v2.c06 (sandhi-resolved), v3.c06 (original) |
+| Graded readers (pp.64–66) | v2.c06 (sandhi-resolved); v3.c06 (original): the 1.x crow (p.64) v3.c06.l01 — Text B1, the crow told in the past with the 1.x details restored (तृष्णार्तः, the stones in the plural, the moral बुद्धिर्बलाच्छ्रेष्ठा), the 1.x error (जलं इच्छति, neither pause form nor joined) listed with its correction in §22; the 1.x lion and mouse (p.65) v3.c06.l02 — Text B2, the dialogue in the past with the 1.x lines restored (the mouse runs over the lion; the mouse's promise, with साहाय्यम् for सहायम्), the 1.x error (सहायं करिष्यामि for "I will help") listed with its correction in §22 |
 | IE word pairs, 19 of 20 real relatives (pp.61–62) | v2.c06 (re-sorted: cognate, loan, Latin route, false) |
 | Subhāṣita set + three śānti (pp.47–51) | v2.c06 (first three), v5.c01 |
 | Visarga sandhi (pp.71–73) | v3.c04.l02 — the examples built from owned words carried in §13: रामः + अहम् → रामोऽहम्, रामः + गच्छति → रामो गच्छति, रामः + च → रामश्च, रामः + करोति → रामः करोति; the 1.x errors listed with their corrections in §22 |

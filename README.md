@@ -84,6 +84,8 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md), then the style guide and editoria
 Bootstrapped 2026-07-20. Volume 1 (Sounds & Script) is content-complete — 31 lessons, all
 reviewed; Volume 2 (Words & Sentences) is content-complete — 30 lessons, all reviewed
 (2026-11-01). Both volumes went through an independent error sweep on 2026-11-10
-(0.12.1). Volume 3 (Core Grammar) is planned in full and under way: Chapters 1 to 5 of 6
-are reviewed (25 lessons; 0.17.0, 2026-11-10). Chapter status: [ROADMAP.md](ROADMAP.md);
+(0.12.1). Volume 3 (Core Grammar) is content-complete — 30 lessons, all reviewed (0.18.0,
+2026-11-10). That makes 91 reviewed lessons in Volumes 1–3. Volume 4 (The Pāṇinian System)
+is planned in full; the fact base of its first chapter is verified and that chapter's lessons
+are being drafted. Chapter status: [ROADMAP.md](ROADMAP.md);
 history: [CHANGELOG.md](CHANGELOG.md).
