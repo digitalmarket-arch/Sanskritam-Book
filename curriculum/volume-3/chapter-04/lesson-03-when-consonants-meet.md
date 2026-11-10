@@ -117,7 +117,7 @@ it, and say why.
 0. Station 0, item 1 — रामः करोति · रामश्च · रामस्तत्र · रामः शृणोति, or रामश्शृणोति ·
    रामो वदति · रामोऽपि · राम आगच्छति · रामो रक्षति · रामः। — then स गच्छति · सोऽपि. Before
    क and before श the visarga stands; before च and त it is श् and स्; before a voiced consonant
-   (व, र) and before अ the -अः is -ओ (and the अ after it drops: ऽ); before another vowel it is
+   (व, र) and before अ the -अः is -ओ, and the अ after it drops: ऽ; before another vowel it is
    -अ with a gap; at a pause it stays. सः drops its ः before any consonant, and before अ
    behaves like any -अः. Score /11. Item 2 — नावगच्छामि, सवर्णदीर्घः · तत्रागच्छत्,
    सवर्णदीर्घः · गणेशः, गुणः · परोपकारः, गुणः · तत्रैव, वृद्धिः · अप्यस्ति, यण् · इत्येकः, यण् ·
@@ -463,7 +463,7 @@ said through the nose, with no consonant after it.
 तत्पश्य — a voiceless प keeps the त् voiceless.
 
 **Drill 3 — the long closure and the held न्न.** In जगच्च, तच्च, तज्जलम् the त् is never
-heard: the tongue goes straight to the palate and holds the च (or ज) for two beats. In
+heard: the tongue goes straight to the palate and holds the च, or the ज, for two beats. In
 तस्मिन्नेव, अगच्छन्नपि the न्न is held, as in Hindi अन्न; in तानपश्यत्, धीमानपि there is one
 light न. Say तस्मिन्नेव — तानपश्यत् five times as a pair.
 
@@ -818,7 +818,7 @@ ends in श्). Final ङ् doubled after a short vowel has no owned word.
   neighbor": 8.2.39, before the vowel आ.
 - सर्वं कुशलम्, v2.c01.l02's "the म् of सर्वम् dressing as anusvāra before the following क":
   8.3.23.
-- सत्यमेव, कश्चिद्, दुःखभाग् (v1.c06.l04), and v1.c01.l01's *aham → ahaṃ*: rows 2, 3 and 1.
+- v1.c06.l04's सत्यमेव, कश्चिद् and दुःखभाग्, and v1.c01.l01's *aham → ahaṃ*: rows 2, 3 and 1.
 - v1.c06.l01's "nasal assimilation *between* words": rows 1 and 4 — the homorganic nasal of
   गङ्गा and पञ्च, now across a word boundary.
 
@@ -830,7 +830,7 @@ ends in श्). Final ङ् doubled after a short vowel has no owned word.
 | vowel map (l01) | सवर्णदीर्घः with अ/आ and इ/ई; गुणः; वृद्धिः; यण् with इ/ई and उ; अयादि at word end (-ए, -ऐ, -औ); पूर्वरूपम् with -ए; प्रगृह्यम् | ✓ (as l01) |
 | vowel map (l01) | उ + उ; यण् with ऋ | ○ display |
 | visarga map (l02) | the -अः column; the -आः column; the other-vowel column; the r-finals and बहिः; सः/एषः; भोः + voiced consonant | ✓ (as l02) |
-| visarga map (l02) | र + र (गुरू रक्षति, पुना रक्षति) | ◐ |
+| visarga map (l02) | the र + र row: गुरू रक्षति, पुना रक्षति | ◐ |
 | consonant map (today) | rows 1, 2, 3, 5, 9, 9a, 11 — म् → ं, म् + vowel, voicing, त् + च/छ/ज, न्न and न्, written together | ✓ |
 | consonant map (today) | rows 4, 5a, 6, 7, 8, 10 — stop + nasal, न् + ज, त् + ल, त् + श, त् + ह, न् + च/ट/त | ◐ |
 | consonant map (today) | the cases of Step 6, "not covered" | ○ |
@@ -1133,7 +1133,7 @@ are required for full marks.
 > consonant ं and a space (सत्यं वद, सर्वं कुशलम्), before a vowel म् written together
 > (सत्यमेव, जलमस्ति) — 8.3.23 मोऽनुस्वारः. **The final stop:** voiced before a voiced sound
 > (षडत्र, तदपि, वागस्ति, ग्रामाद्गच्छति) — 8.2.39 झलां जशोऽन्ते; the pause form षट् is not
-> wrong. **The place:** त् + च → च्च, त् + ज → ज्ज (जगच्च, तज्जलम्) — 8.4.40 स्तोः श्चुना श्चुः,
+> wrong. **The place:** त् + च → च्च, त् + ज → ज्ज, as in जगच्च and तज्जलम् — 8.4.40 स्तोः श्चुना श्चुः,
 > the same sūtra as रामश्च. **न्:** doubled after a short vowel before a vowel (तस्मिन्नेव), not
 > after a long one (तानपश्यत्). **Written together:** every consonant-final word
 > (वृक्षात्पतति, धीमान्बालकः). **The option:** किं करोति or किङ्करोति, both right. **◐, read

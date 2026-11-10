@@ -1090,8 +1090,8 @@ trigger list for both changes; for ṇ the triggers are only र, ऋ, ॠ and �
 [REF:whitney1889 §180]. (2) It credits the ण of रामेण to an इ; the trigger is the र of राम, and
 the आ, म, ए between do not block [REF:ashtadhyayi 8.4.2]. (3) Its ब्रह्मन् + अस्ति → ब्रह्माणि is
 no seam: ब्रह्माणि is a case form of the neuter ब्रह्मन्. (4) Its हरेस् + सुत → हरेष्षुत is no ṣ
-change: a word-final स् is never made ष् [REF:whitney1889 §180], and the सु of the next word is
-untouched. Its रामस्य, no change after अ, and its text of 8.4.2 are right.
+change: the ṣ rule does not reach a word-final स् [REF:whitney1889 §180], and the सु of the next
+word is untouched. Its रामस्य, no change after अ, and its text of 8.4.2 are right.
 
 **The Nirukta passage.** §4's TRADITION line rests on the GRETIL e-text of the Nirukta, based
 on Sarup's edition (6.28: *veti ca ya iti ca cakāra śākalyaḥ / udāttaṃ tv evam ākhyātam
@@ -1252,10 +1252,11 @@ narrator reads the cue, not the English spelling.
   is this lesson's §17 split key (§19, exercise 6).
 - **Related lessons:** reviews v3.c04.l03 (Station 0 item 1; the consonant map backwards),
   v3.c04.l02 (Station 0 item 2; the visarga map backwards), v3.c04.l01 (the vowel map
-  backwards; प्रगृह्यम्, फले अपि), v2.c06.l03 (अहिंसा परमो धर्मः; the उद्यमेन verse; §3 prompt 2),
-  v1.c06.l04 (the benediction, सत्यमेव जयते; §3 prompt 1; "editions vary" (a)), v2.c06.l01 (the
-  crow story, exercise 7), v3.c01.l03 (रामेण), v3.c02.l01 (रामेषु; §3 prompt 3), v3.c02.l03
-  (गुरवे, हरीणाम्, the i-stem declension of सन्धिः), v3.c03.l01 (करोषि); builds on v3.c03.l03
+  backwards; प्रगृह्यम्, फले अपि; एकदैकः, §3 prompt 4), v2.c06.l03 (अहिंसा परमो धर्मः; the
+  उद्यमेन verse; §3 prompt 2), v1.c06.l04 (the benediction, सत्यमेव जयते; §3 prompt 1; "editions
+  vary" (a)), v2.c06.l01 (the crow story, exercise 7; §3 prompt 4), v3.c01.l03 (रामेण; §3
+  prompt 4), v3.c02.l01 (रामेषु; §3 prompt 3), v3.c02.l03 (गुरवे, हरीणाम्, the i-stem
+  declension of सन्धिः; §3 prompt 4), v3.c03.l01 (करोषि; §3 prompt 4); builds on v3.c03.l03
   (§17's source text), v2.c06.l02 (न कोऽपि लघुः), v3.c03.l04 (भवेत्, दुःखम्), v3.c02.l02
   (छात्रा; संहिता declined like सभा), v1.c02.l01 (the -कार names); feeds v3.c04.l05 (Station 0
   S0-al; task C, the learner's own crow join), v3.c05.l01 (Station 0 S0-am; joined
