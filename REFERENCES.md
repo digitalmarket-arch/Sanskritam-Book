@@ -163,6 +163,18 @@ cases. Cited bare until a locator has been checked in the book.
 Nāgarīpracāriṇī Sabhā, 1952. A Hindi grammar in the school tradition, with its eight
 कारक; cited bare, as a TRADITION source for what Hindi school grammar teaches.
 
+<a id="fillmore1968"></a>**fillmore1968** — C. J. Fillmore, "The Case for Case", in E. Bach and
+R. T. Harms (eds.), *Universals in Linguistic Theory*, New York: Holt, Rinehart and Winston,
+1968, pp. 1–88. The proposal of "deep cases" (semantic roles) in modern grammar; cited bare,
+for the fact and date of the proposal only.
+
+<a id="kiparskystaal1969"></a>**kiparskystaal1969** — P. Kiparsky and J. F. Staal, "Syntactic and
+Semantic Relations in Pāṇini", *Foundations of Language* 5.1 (1969), pp. 83–117; reprinted in
+J. F. Staal, *Universals: Studies in Indian Logic and Linguistics*, Chicago and London:
+University of Chicago Press, 1988, pp. 184–218. Describes Pāṇini's grammar as a hierarchy of
+levels, with the kārakas between meaning and the case endings. Cited bare until a locator
+has been checked in the article.
+
 <a id="ladefoged2015"></a>**ladefoged2015** — P. Ladefoged & K. Johnson, *A Course in
 Phonetics*, 7th ed., Cengage 2015. IPA and articulatory descriptions.
 
