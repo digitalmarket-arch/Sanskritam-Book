@@ -1136,7 +1136,7 @@ listed in the c03 inventory at synthesis but on no card, is now a Teacher-Notes 
 
 ### 4.0.5 Station 0 chain and review
 
-- v4.c01.l01's Station 0 carries v3.c06.l05's +1-week booking. From c02 on, each chapter's
+- v4.c01.l01's Station 0 carries v3.c06.l05's +1-day booking (the exam text again) and v3.c06.l04's +1-week booking (the Volume 3 entry check); v4.c01.l02's carries v3.c06.l05's +1-week booking (one story told in Volume 3 Sanskrit), as the v3.c06 fact base words them (row 0.30, S0-bh, S0-bg, S0-bi). From c02 on, each chapter's
   l01 runs the previous exam's +1-day item and the previous chapter's last teaching
   lesson's +1-week item. Its l02 runs the previous exam's +1-week item. Each exam books +1
   day for the next l01 and +1 week for the next l02; each chapter's last teaching lesson
@@ -1246,7 +1246,7 @@ gives it, भोभगोअघोअपूर्वस्य योऽशि).
 
 #### v4.c01.l01 — अइउण् · "The Fourteen Sūtras"
 
-- **lesson_type:** grammar. **Station 0:** v3.c06.l05's +1 week. **review_of:**
+- **lesson_type:** grammar. **Station 0:** v3.c06.l05's +1 day and v3.c06.l04's +1 week. **review_of:**
   v3.c06.l05, v3.c04.l01 (the vowel sūtras), v1.c04.l04 (the complete varṇamālā),
   v1.c03.l01 (the varga grid).
 - **The one grammar point:**
@@ -1377,7 +1377,7 @@ gives it, भोभगोअघोअपूर्वस्य योऽशि).
 
 #### v4.c01.l02 — सवर्णम् · "One Letter for Its Whole Family"
 
-- **lesson_type:** grammar. **review_of:** v4.c01.l01, v3.c04.l01 (6.1.101), v3.c03.l01
+- **lesson_type:** grammar. **Station 0:** v4.c01.l01's +1 day and v3.c06.l05's +1 week. **review_of:** v4.c01.l01, v3.c04.l01 (6.1.101), v3.c03.l01
   (7.3.101, the V2 "stretch"), v1.c02.l01–l03 (vowel length).
 - **The one grammar point:**
   - In a rule, a short vowel (and a letter marked with उ) stands for its whole family. That
@@ -5157,10 +5157,10 @@ Rejected on challenge: post:restate-1#4 (v4.c01.l03, the grammar point (genitive
 
 A chapter fact base is checked against the sources before its lessons are drafted, and it
 corrects this plan where the plan is wrong; each fact base lists its deviations in its §7.
-The plan's text above is left as it was reviewed. The corrections that matter to chapters
-still to come are recorded in this table as the chapters ship, and a later fact base follows
-the table, not the lines it corrects.
+The plan's text above is left as it was reviewed, except where a row of this table says that
+the text itself was amended. The corrections that matter to chapters still to come are
+recorded in this table, and a later fact base follows the table, not the lines it corrects.
 
 | From | The plan says | Correction (where it matters next) |
 |---|---|---|
-| — | — | none yet: no Volume 4 fact base has been written |
+| v3.c06 fact base (2026-11-10, verification) | §4.0.5 and the v4.c01.l01 block gave v4.c01.l01 only "v3.c06.l05's +1-week booking"; the v4.c01.l02 block named no Station 0 | Amended in the text: v4.c01.l01 runs v3.c06.l05's +1-day item and v3.c06.l04's +1-week item; v4.c01.l02 runs v4.c01.l01's +1-day item and v3.c06.l05's +1-week item, as the v3.c06 fact base words them (its Station 0 row: S0-bh, S0-bg, S0-bi). Matters to the v4.c01 fact base. |

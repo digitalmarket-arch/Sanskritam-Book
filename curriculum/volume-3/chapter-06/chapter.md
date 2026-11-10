@@ -21,7 +21,7 @@ connected text, first the course's own and then the books'. The first lesson rea
 stories, the crow and the lion, joined as a book prints them, straight through and at three speeds,
 and then a telling of the crow in the past that restores the 1.x reader's own details — तृष्णार्तः, the
 stones in the plural, the moral बुद्धिर्बलाच्छ्रेष्ठा. It also gives the recognition card for the
-absolutive (-त्वा, -य: "having …-ed"), which the old books use on every page and Volume 4 will teach
+absolutive (-त्वा, -य: "having …-ed"), which the chapter's Hitopadeśa and Pañcatantra passages use and Volume 4 will teach
 to build; and it closes the thread-verse overlay for the benediction, every word now parsed. The second
 lesson names the speech frame — X उवाच — "…", and "…" इति — and with it the serial ends: after five
 chapters of our retelling, the learner reads eight of the Hitopadeśa's own sentences on the doves and
@@ -44,7 +44,7 @@ e-text"; the Pañcatantra is cited by book and story.
 - The speech frame: X उवाच / आह / अब्रवीत् / अवदत् — "…", and "…" इति X अवदत्; no join across the dash or
   the closing quotation mark; quoted words keep their persons
 - The story-opening formula: अस्ति + a locative + the subject; X नाम Y; the storyteller's present + स्म
-  (sūtra 3.2.118 लट् स्मे); कस्मिंश्चित् as a word of the formula
+  — sūtra 3.2.118 लट् स्मे; कस्मिंश्चित् as a word of the formula
 - अन्वयः in seven steps, on verses of the difficulty of Hitopadeśa 0.6; the śloka's four quarters of
   eight syllables by ear (metre v5.c04)
 - Authentic text with honest source lines: the Hitopadeśa (Book 1, the doves and the mouse; introductory
@@ -79,7 +79,7 @@ By the end of this chapter the learner can:
 |---|---|---|---|---|
 | 1 | v3.c06.l01 | द्वे कथे · The Two Stories, Joined | reading | the three-speed protocol on joined print; the Volume 2 crow and lion joined; the crow in the past with the 1.x details; the R5 absolutive card; the benediction fully parsed; उपायः · इतस्ततः · तृष्णा · आर्तः |
 | 2 | v3.c06.l02 | कपोताः मूषकः च · The Doves and the Mouse | reading | the speech frame; the lion-and-mouse dialogue in the past with the 1.x lines; Hitopadeśa 1, eight sentences with a bridge; the serial ends: our retelling against the text; सुहृत् · बन्धनम् · नाना · शाल्मली · साहाय्यम् · प्रत्युपकारः |
-| 3 | v3.c06.l03 | वानरः मकरः च · The Monkey and the Crocodile | reading | the story-opening formula; the storyteller's present + स्म (sūtra 3.2.118); Pañcatantra 4, frame story, six sentences; four first sentences from two books; वानरः · मकरः · जम्बूः · सलिलम् · महान् |
+| 3 | v3.c06.l03 | वानरः मकरः च · The Monkey and the Crocodile | reading | the story-opening formula; the storyteller's present + स्म, sūtra 3.2.118; Pañcatantra 4, frame story, six sentences; four first sentences from two books; वानरः · मकरः · जम्बूः · सलिलम् · महान् |
 | 4 | v3.c06.l04 | त्रयः श्लोकाः · Three Verses | reading | अन्वयः in seven steps; Hitopadeśa 0.6, Hitopadeśa 1.71 with its speaker, the Pañcatantra's यस्य बुद्धिर्बलं तस्य; Hit 0.36 read with no gloss; विनयः · याति · आप्नोति · वसुधा · मदः; upgrade धनम् |
 | 5 | v3.c06.l05 | तृतीयखण्डपरीक्षा · The Volume 3 Exam | review | the volume on one page and the paradigm ledger audited; the thread verses with the whole overlay; six tasks in two 45-minute sittings |
 
@@ -103,8 +103,8 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
   the conversation audio; the anvaya worksheet.
 - **l05:** the volume page (the eight tables, the three maps, the four compound kinds); the task A audio
   (the lion dialogue); the task B dictation audio; the two exam booklets; the volume quiz and key.
-- **Serial:** the earlier episode illustrations reused in l02's hand-over table; one new illustration,
-  the mouse cutting the doves' snares (l02).
+- **Serial:** the earlier episode illustrations reused in l02's hand-over table; no new serial
+  illustration (l02's own images are listed above).
 
 ## Assessment
 

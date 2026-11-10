@@ -44,6 +44,18 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   `research/evidence/vol4-plan/`.
 - `curriculum/volume-4/volume.md`: the Volume 4 frame (draft).
 
+- **v3.c05 lessons 1–5, first drafts** (status draft; review passes A–D in progress) — I, you,
+  your honour; this, that, which; the words that never change; compounds; the Chapter 5 exam.
+- **v3.c06 fact base and chapter frame** (`research/notes/vol3-ch6-connected-reading.md`;
+  draft): four reading lessons and the Volume 3 exam, 20 ledger-new words (488 → 508), with
+  every authentic passage re-found by line in the e-texts. Verified before drafting by three
+  checkers, every finding challenged: 35 confirmed (16 major, 19 minor), 4 rejected; 60 fixes
+  applied, 5 found already made, 9 duplicates between checkers. Twelve editor's decisions
+  followed (its §7).
+- **REFERENCES:** `cowell1895` (the Jātaka translation), `iranica` (Encyclopaedia Iranica, two
+  articles) and `torzsok2007` (the Clay Sanskrit Library Hitopadeśa), each search-confirmed;
+  page not opened.
+
 ### Changed
 
 - STYLE_GUIDE §8, rules 16–23: from Volume 4 on the ledger also covers derivation — roots,
@@ -60,6 +72,22 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   (Q8).
 - research/verification-log.md: how the Volume 4 plan was made and checked, and the rule
   that a chapter fact base corrects the plan where the plan is wrong.
+- **REFERENCES `hitopadesha`:** the entry keeps "c. 9th–12th c. CE" and adds, inside that
+  range, the estimate printed with `torzsok2007` (800–950 CE) and the oldest dated manuscript
+  known (1373 CE); the citation format names all five sections.
+- **Volume 4 plan, the Station 0 chain into Volume 4:** v4.c01.l01 runs the two items that
+  v3.c06.l05 and v3.c06.l04 book for it, and v4.c01.l02 the third, as the v3.c06 fact base
+  words them; the amendment is recorded in the plan's §7.6.
+
+### Fixed
+
+- **Erratum, v2.c02.l02 §4 and its Teacher Notes** (वसुधैव कुटुम्बकम्): the statement that the
+  line "also appears in the Mahopaniṣad" is withdrawn — no edition was opened and no key
+  supports it — and replaced by the locus the project has read, the Pañcatantra, Book 5,
+  where one of four brahmin friends speaks the verse; "a famous line" is now "a line". The
+  two matching rows of the verification log say the same.
+- **v3.c05 Pass A (accuracy), lessons 1–4:** 48 findings confirmed (2 blockers, 22 major, 24
+  minor), none rejected; 103 fixes applied.
 
 ## [0.16.0] — 2026-11-10
 

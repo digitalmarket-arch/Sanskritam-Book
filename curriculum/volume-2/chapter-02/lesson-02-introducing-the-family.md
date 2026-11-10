@@ -108,15 +108,16 @@ fully formed, in the earliest layer of the tradition.
 
 Today's third word widens the circle. **कुटुम्बम्** (kuṭumbam) "household" is the
 classical word for the family as one living unit — परिवारः names the people around
-you; कुटुम्बम् names the whole household they make. The word carries a famous line of
+you; कुटुम्बम् names the whole household they make. The word carries a line of
 the tradition:
 
 > **[TRADITION · परम्परा]** The Hitopadeśa (Mitralābha, verse 71 in the GRETIL numbering;
-> the line also appears in the Mahopaniṣad) says of the generous-hearted: वसुधैव
+> the line also stands in the Pañcatantra, Book 5) says of the generous-hearted: वसुधैव
 > कुटुम्बकम् (vasudhaiva kuṭumbakam) — "the earth itself is one household." A statement
 > of the tradition's ideal, quoted for the word inside it. (In the Hitopadeśa's tale
-> the line is spoken by a scheming jackal; the Mahopaniṣad states it as plain
-> teaching.) [REF:hitopadesha mitralābha 71]
+> the line is spoken by a scheming jackal; in the Pañcatantra, by one of four
+> brahmin friends, arguing that their unlearned friend should share what they earn.)
+> [REF:hitopadesha mitralābha 71]; [REF:panchatantra tantra 5]
 
 Hold that line until §16 — the आचार्यः has plans for it.
 
@@ -780,7 +781,7 @@ narrator reads them as IPA, not as English spelling.
   Latin) and स्वसृ with soror — confirm set membership; कुटुम्ब attestation and "household"
   gloss against [REF:apte1890 s.v. कुटुम्ब] and [REF:monierwilliams1899 s.v. kuṭumba];
   वसुधैव कुटुम्बकम् locus (§4) — Mitralābha 71 re-hedged at the v2.c06 review to the GRETIL
-  numbering (the Nirṇaya Sāgara edition that Apte cites has 70), Mahopaniṣad parallel noted;
+  numbering (the Nirṇaya Sāgara edition that Apte cites has 70); the Pañcatantra Book 5 locus added and the unverified Mahopaniṣad clauses withdrawn (v3.c06 fact base, 2026-11-10);
   एतद् shapes एषः/एषा/एतत् against [REF:apte1890 s.v. एतद्] — chunk framing, no paradigm
   claims; तस्याः form (display only); the एष visarga-seam preview (§15) — one line, no rule
   stated; बहन ← भगिनी descent (§7, §22) against [REF:masica1991]; Jones 1786 wording (§5)
