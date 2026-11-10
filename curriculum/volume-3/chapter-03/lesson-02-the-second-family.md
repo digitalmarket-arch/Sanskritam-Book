@@ -1073,7 +1073,7 @@ Conditional, also in the Desiderative)" [REF:apte1890 s.v. वृध्]. Irrele
 which is A. throughout; mention it only if a learner meets a first-family form of वृध् in a
 text.
 
-**Verbs in both families.** Apte's U. means both: करोति beside कुरुते is the course's first
+**Verbs in both families.** Apte's U. means both: such a root is उभयपदी (ubhayapadī), "of both families". करोति beside कुरुते is the course's first
 example, and it is v4.c03's, where the 1.x कृ error is also fixed. One line, if asked. The
 course teaches lesson 1's चिन्तयति and lesson 4's भक्षयति in the first family only, though
 Apte marks both roots c10 U.; never mark a learner's first-family form of either wrong.
@@ -1259,8 +1259,9 @@ narrator reads the cue, not the English spelling.
   locus "Pañcatantra 4, frame story"; the Muṇḍaka line and its locus 3.1.6 (§4 HISTORY); the
   sūtra texts of §22 (1.3.12, 1.3.19, 1.3.78, 1.4.99, 1.4.100) against the Aṣṭādhyāyī data
   file; the Hitopadeśa departures of §22 (the plan after Hit 1.34, the hunter's verse Hit 1.37)
-  against `hitop_u.htm`; the Hindi of §5 and §7 (no second family; the liking frame; मिलना
-  turned round) against [REF:kachru2006], cited bare, or reworded; the evidence-table loci
+  against `hitop_u.htm`; the Hindi of §5 and §7 (no second family; मिलना turned round) against
+  [REF:kachru2006], and the liking frame (the liker in a को-form, the verb agreeing with the
+  liked thing) against [REF:masica1991], cited bare, or reworded; the evidence-table loci
   (रोचते's §14 row v2.c05.l03; "the second ending family is Volume 3–4" v2.c05.l03 §8, with §15 Step
   4; क्षमस्व v2.c01.l04; सत्यम् एव जयते v1.c06.l04) re-found by grep; the Hindi of every
   gloss, objective and of §7, §16 and §17 at Pass B.

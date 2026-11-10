@@ -343,7 +343,7 @@ forest and from your own two hands. The last row is v2.c04.l02's promise, kept t
 ### Step 4 — the pattern, named
 
 **Three persons × three numbers = nine cells.** The persons are the पुरुषाः you own from
-v2.c04.l02: उत्तमः (I, we), मध्यमः (you), प्रथमः (he, she, it, they). The numbers are the
+v2.c04.l02: उत्तमः — I, we; मध्यमः — you; प्रथमः — he, she, it, they. The numbers are the
 वचनानि of Chapter 2: एकवचनम्, द्विवचनम्, बहुवचनम्. Each cell has one ending, and the ending
 says both things at once.
 
@@ -735,7 +735,7 @@ three cases on one page: one boy, two girls, a group.
 ### Step 6 — the R4 card: five whole words to read
 
 Some verbs you own build their stems differently: शृणोति, जानाति, गृह्णाति, स्वपिति, ददाति.
-Volume 2 gave you their singular whole, and v3.c01.l03 gave you ददाति. Today, one more cell of each, the 3rd person plural,
+Volume 2 gave you the first four whole in the singular, and v3.c01.l03 gave you ददाति. Today, one more cell of each, the 3rd person plural,
 as a whole word to read. Read them; do not build them; no other cell of these five verbs is
 taught.
 
@@ -1283,7 +1283,7 @@ narrator reads the cue, not the English spelling.
 - **Related lessons:** reviews v3.c02.l05 (Station 0 item 1), v3.c02.l04 (Station 0 item 2;
   the dual card; पितरौ … गच्छतः, स्तः), v2.c04.l02 (the singular row, the person names,
   §12's promise; §3 prompt 1), v2.c01.l04 (पुनः मिलामः; §3 prompt 2; §13), v3.c02.l01 (-अन्ति,
-  सन्ति), v2.c04.l03 (करोमि, करोषि, करोति), v2.c04.l04 (the two-doer fence; §3 prompt 3);
+  सन्ति; §3 prompt 5), v2.c04.l03 (करोमि, करोषि, करोति; §3 prompt 4), v2.c04.l04 (the two-doer fence; §3 prompt 3);
   builds on v1.c05.l02 (अस्मि, अस्ति), v2.c06.l03 (सिध्यन्ति, प्रविशन्ति), v3.c02.l03
   (अतिथयः, अतिथिभ्यः in §16), v3.c02.l02 (तस्याः, ताः), v3.c01.l04 (समीपम्, the vocative
   मित्र), v1.c02.l01 (इति); feeds v3.c03.l02 (Station 0 S0-v; the second family), v3.c03.l03
