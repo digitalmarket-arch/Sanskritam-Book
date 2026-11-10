@@ -1273,7 +1273,7 @@ as prādi. Both are defensible descriptions, so no item asks "karmadhāraya or n
 Indra" against a bahuvrīhi "whose slayer is Indra", told apart by accent — is v4.c04's. §5
 says so in one line, without the word; do not teach it now.
 
-**The 1.x page on compounds (pp. 42–43), line by line.** (1) "राम + सीता = रामसीतौ": a
+**The 1.x pages on compounds (pp. 42–43, 82–84), line by line.** (1) "राम + सीता = रामसीतौ": a
 dvandva of two named things takes the gender of its last member [REF:whitney1889 §1253], and
 Pāṇini says the same — 2.4.26 परवल्लिङ्गं द्वन्द्वतत्पुरुषयोः [REF:ashtadhyayi 2.4.26] — so राम +
 सीता gives रामसीते. The lesson uses सीतारामौ in §18 exercise 3, in the order of its vigraha
@@ -1287,7 +1287,13 @@ slayer prosper" and "May the slayer of Indra prosper"; the tatpuruṣa is "slaye
 bahuvrīhi "whose slayer is Indra", as the note above has it. (6) The 1.x book's four kinds
 are not the lesson's: it lists the avyayībhāva as its fourth kind and has no karmadhāraya. The
 lesson's four are the dvandva, the tatpuruṣa, the karmadhāraya and the bahuvrīhi, and the
-avyayībhāva is read on the recognition card (§15 Step 5).
+avyayībhāva is read on the recognition card (§15 Step 5). (7) The 1.x lesson "6 Samāsa Types"
+(pp. 83–84) is headed "All compound types Panini classifies" and drills six kinds in a fixed
+order, although it calls the karmadhāraya an "appositional Tatpuruṣa" and the dvigu a
+"numerical Karmadhāraya". Pāṇini names both as kinds of tatpuruṣa — 1.2.42 तत्पुरुषः
+समानाधिकरणः कर्मधारयः [REF:ashtadhyayi 1.2.42]; 2.1.23 द्विगुश्च [REF:ashtadhyayi 2.1.23] — so
+the tradition counts four, as §4 says; six is the count of the Hindi school textbooks (§4,
+§7). The same pages gloss उपनगरम् "near the city = suburb" again: see (2).
 
 **जगदीशः, सज्जनः.** v3.c04.l03 read them whole and sent their analysis here (its §27). §15
 Step 6 labels them; जगतः and सन् [the masculine nominative of सत्] are display forms, not drilled.

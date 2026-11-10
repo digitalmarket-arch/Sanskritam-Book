@@ -1579,6 +1579,10 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
    kinds of समास, counting कर्मधारय and द्विगु separately; the Sanskrit tradition counts four, with those
    two inside तत्पुरुष". No "commonly", no count of books. Pass C confirms each Hindi statement on the
    web, as for the earlier chapters, and rewords or cuts what it cannot confirm.
+   *Outcome at Pass C (2026-11-10, two rounds):* the web confirmed the six kinds of समास and the six
+   सर्वनाम names in current school material only; Guru's own page was not opened. Both lines are
+   therefore credited to the Hindi school textbooks and carry no key (lesson 4 §4 and §7 at the first
+   round; lesson 2 §7 at the second). [REF:guru1952] is not cited in this chapter.
 2. **कश्चिन्नृपः (item 2).** The model sentence uses only ✓ seams: कश्चिद्व्याध आसीत्. कश्चिन्नृपः may
    stand beneath it as one labelled recognition line (a stop before a nasal is ◐ in Chapter 4).
 3. **अदस् (item 3).** One Teacher-Notes line in lesson 2: असौ "that one yonder" is not taught in

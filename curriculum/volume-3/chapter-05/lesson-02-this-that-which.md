@@ -315,9 +315,8 @@ fourth is the storyteller's opening. The tradition's name for the whole family i
 रहता है: कश्चित् पुल्लिंग, काचित् स्त्रीलिंग, किञ्चित् नपुंसकलिंग। अपि लगाकर भी: कोऽपि, कापि,
 किमपि; और न कोऽपि — "कोई नहीं"।
 
-> **[TRADITION · परम्परा]** हिन्दी व्याकरण की परम्परा — कामताप्रसाद गुरु का हिन्दी व्याकरण —
-> सर्वनाम के छह भेद गिनाती है: पुरुषवाचक, निश्चयवाचक, अनिश्चयवाचक, सम्बन्धवाचक, प्रश्नवाचक
-> और निजवाचक। [REF:guru1952]
+> **[TRADITION · परम्परा]** हिन्दी की स्कूली व्याकरण-पुस्तकें सर्वनाम के छह भेद गिनाती हैं:
+> पुरुषवाचक, निश्चयवाचक, अनिश्चयवाचक, सम्बन्धवाचक, प्रश्नवाचक और निजवाचक।
 
 आज के शब्द इन नामों के साथ ऐसे बैठते हैं: निश्चयवाचक "यह, वह" — सः, एषः, अयम्;
 अनिश्चयवाचक "कोई, कुछ" — कश्चित्, किञ्चित्; सम्बन्धवाचक "जो" — यः; प्रश्नवाचक "कौन, क्या"
@@ -1319,11 +1318,11 @@ The burrow's hundred doors are omitted. Episode 5 tells again a moment the seria
 passed (v3.c03.l03–l04), this time with names. These departures are on the record for
 v3.c06.l02, which reads the text itself.
 
-**The Hindi school-grammar line (§7).** It is printed as attributed TRADITION with
-[REF:guru1952] cited bare. Pass C (web) confirmed the six names — पुरुषवाचक, निजवाचक,
-निश्चयवाचक, अनिश्चयवाचक, सम्बन्धवाचक, प्रश्नवाचक — as the standard list of Hindi grammars and
-school material. Guru's own page was not opened, so the line stays attributed and is never
-assessed.
+**The Hindi school-grammar line (§7).** It is printed as attributed TRADITION, credited to
+the Hindi school textbooks, with no key. Pass C (web) confirmed the six names — पुरुषवाचक,
+निजवाचक, निश्चयवाचक, अनिश्चयवाचक, सम्बन्धवाचक, प्रश्नवाचक — in current school material, but
+Guru's own page was not opened, so [REF:guru1952] is not attached to it, as in lesson 4's
+six kinds of समास. The line is never assessed.
 
 **Differentiation.** Hindi-medium learners say यह for all three and write \*अयम् बालिका: give
 them the first turns in §18 exercise 4, pointing at real people, and have them begin homework item 5 with §9 Drill 3. English speakers reach for
@@ -1493,8 +1492,8 @@ narrator reads the cue, not the English spelling.
   1.1.35, 7.1.25, 6.1.132 in §22 against the data file; the headwords against Apte and MW as
   cited in §14 — अयम् cites Apte s.v. इदम् (its own headword, spelled *idaM* in the e-text;
   located at Pass C, editor's decision 7), MW and Whitney; the TRADITION line of
-  §7 (Guru's six सर्वनाम names) against [REF:guru1952], cited bare — confirmed on the web as
-  the standard list;
+  §7 (the six सर्वनाम names of the Hindi school textbooks) — confirmed on the web in school
+  material; Guru's own list not confirmed, so no key;
   the Hindi facts of §7 and §15 Step 7 against [REF:kachru2006], cited bare; the §22 Hitopadeśa
   lines against `hitop_u.htm` (l. 467, 472); the evidence-table loci of §8 Step 3 re-found by
   grep (done for this draft: सः, तस्य v1.c06.l03; तत् v1.c05.l01; एतत् v1.c06.l02; एषः, एषा

@@ -665,7 +665,7 @@ as … so long", the same pattern with two more grid words, see Volume 4 (v4.c04
 > तु "but" do not either. They follow the first word of their clause, or the word they join:
 > रामश्च सीता च; त्वं हि सदा मन्दं गच्छसि; रामस्तु. एव, इव and अपि follow the word they mark:
 > अहमपि "I too", अहमेव "I alone", सिंह इव "like a lion". [REF:whitney1889 §1133]
-> [REF:whitney1889 §1122] [REF:apte1890 s.v. हि] [REF:apte1890 s.v. तु]
+> [REF:whitney1889 §1102] [REF:whitney1889 §1122] [REF:apte1890 s.v. हि] [REF:apte1890 s.v. तु]
 
 ### The placed words
 
