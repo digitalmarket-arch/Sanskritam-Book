@@ -1102,7 +1102,7 @@ v4.c02).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | gender / class | status |
 |---|---|---|---|---|---|---|
-| पदम् | padam | /pɐd̪ɐm/ | word (an inflected word); step, foot | पद, शब्द; कदम | n. a-stem | ledger-new — Apte s.v. पदम् (sense 1 "A foot", later senses "a step", "a word" — Pass C quotes the "word" sense; MW s.v. pada "a word or an inflected word or the stem of a noun in the middle of a compound"); the course's sense: "a word as it stands in a sentence" (1.4.14 सुप्तिङन्तं पदम्, c01.l05) |
+| पदम् | padam | /pɐd̪ɐm/ | word (an inflected word); step, foot | पद, शब्द; कदम | n. a-stem | ledger-new — Apte s.v. पदम् (sense 1 "A foot", later senses "a step", "a word" — Pass C quotes the "word" sense; MW s.v. pada "a word or an inflected word or the stem of a noun in the middle cases and before some Taddhitas"); the course's sense: "a word as it stands in a sentence" (1.4.14 सुप्तिङन्तं पदम्, c01.l05) |
 | वाक्यम् | vākyam | /ʋɑːkjɐm/ | sentence; speech, words | वाक्य | n. a-stem | ledger-new — Apte s.v. वाक्यम् "Speech, words, a sentence, saying" |
 | सन्धिः | sandhiḥ | /sɐn̪d̪ʱih/ | joining, union; (in grammar) sandhi | सन्धि, जोड़ | m. i-stem | ledger-new — Apte s.v. संधिः "Union, junction, combination, connection"; MW s.v. saṃdhi; the technical sense is the GLOSSARY row सन्धि (row 0.25); declined like अग्निः (c02.l03) |
 | अवसानम् | avasānam | /ɐʋɐsɑːn̪ɐm/ | stopping, end; (in grammar) the pause | अन्त, विराम | n. a-stem | ledger-new — Apte s.v. अवसानम् "Stopping. Conclusion, termination"; 1.4.110 |

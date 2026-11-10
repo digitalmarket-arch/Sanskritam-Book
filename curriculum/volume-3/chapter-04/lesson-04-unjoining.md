@@ -16,7 +16,7 @@ self_study_minutes: 40
 prerequisites: [v3.c04.l03]
 review_of: [v3.c04.l03, v3.c04.l02, v3.c04.l01, v2.c06.l03, v1.c06.l04, v2.c06.l01, v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01]
 objectives:
-  - en: "Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method (row 0.13), writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?)."
+  - en: "Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method of §8, writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?)."
     hi: "पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें (मूषक आगच्छति: मूषकः या मूषके?)।"
   - en: "Read aloud the owned joined lines — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, the benediction and the serial so far — and give each one's pause form (पदपाठः)."
     hi: "अपनी जानी-पहचानी जुड़ी पंक्तियाँ — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, मंगल-श्लोक और अब तक की कथा — ज़ोर से पढ़ें और हर एक का विराम-रूप (पदपाठ) दें।"
@@ -64,7 +64,7 @@ writes is printed joined, with its pause form beneath it.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method (row 0.13), writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?). | पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें (मूषक आगच्छति: मूषकः या मूषके?)। |
+| 1 | Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method of §8, writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?). | पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें (मूषक आगच्छति: मूषकः या मूषके?)। |
 | 2 | Read aloud the owned joined lines — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, the benediction and the serial so far — and give each one's pause form (पदपाठः). | अपनी जानी-पहचानी जुड़ी पंक्तियाँ — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, मंगल-श्लोक और अब तक की कथा — ज़ोर से पढ़ें और हर एक का विराम-रूप (पदपाठ) दें। |
 | 3 | Say, according to Pāṇini (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) and to the Vedic tradition, what संहिता, अवसानम् and पदपाठः are, and show with one example that printed texts vary in how they divide words. | पाणिनि (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) और वैदिक परम्परा के अनुसार बताएँ कि संहिता, अवसान और पदपाठ क्या हैं, और एक उदाहरण से दिखाएँ कि छपे ग्रन्थ शब्दों को अलग-अलग ढंग से बाँटते हैं। |
 | 4 | Name, without applying, the four changes inside words you have seen: the ण of रामेण, the ष of रामेषु and करोषि, the guṇa inside गुरवे, and भवति = भो + अति. | शब्दों के भीतर देखे चार बदलावों के नाम बताएँ (लागू करना नहीं): रामेण का ण, रामेषु और करोषि का ष, गुरवे के भीतर गुण, और भवति = भो + अति। |
@@ -174,11 +174,11 @@ and the padapāṭha beneath it.
 the unit you split.
 
 > **[FACT · तथ्यम्]** Joining loses information: one joined shape can come from more than
-> one pair of words. Whitney's own transliteration convention exists for this reason: where
+> one pair of words. Whitney's own transliteration marks the loss: where
 > a vowel of a following word has fused with the final of the one before, he marks it with
 > an apostrophe, "single if the initial vowel be the shorter, double if it be the longer, of
 > the two different initials which in every case of combination yield the same result".
-> [REF:whitney1889 §126]
+> [REF:whitney1889 §126a]
 
 Take one case from lesson 1's map: तत्रागच्छत् prints the same whether the writer joined तत्र +
 आगच्छत् "came there" or तत्र + अगच्छत् "went there". The joiner knows which word he started
@@ -211,7 +211,7 @@ form beneath, then the gloss:
 
 > अवसाने सन्धिर्नास्ति। (avasāne sandhir nāsti.)
 > अवसाने सन्धिः न अस्ति। (avasāne sandhiḥ na asti.)
-> "At the pause there is no joining." — अवसान (विराम) पर सन्धि नहीं होती।
+> "At the pause there is no joining." — अवसान यानी विराम पर सन्धि नहीं होती।
 
 > वयं संहितां पठामः, पदानि लिखामः। (vayaṃ saṃhitāṃ paṭhāmaḥ, padāni likhāmaḥ.)
 > वयम् संहिताम् पठामः, पदानि लिखामः। (vayam saṃhitām paṭhāmaḥ, padāni likhāmaḥ.)
@@ -236,10 +236,10 @@ are cells of today's पदम् and वाक्यम्, संहिता�
 आगच्छत् — "वहाँ आया" — लिखा था या तत्र + अगच्छत् — "वहाँ गया" — दोनों से वही रूप बनता है। मूषक आगच्छति में मूषक के पीछे मूषकः भी हो
 सकता है और मूषके भी। इसलिए आज की विधि छह चरणों की है, और उसका सबसे ज़रूरी नियम यह है:
 चुनने से पहले हर सम्भव विभाजन लिख डालिए, फिर वाक्य से पूछिए कि कौन-सा ठीक बैठता है।
-आती कौन है? मूषकः — चूहा। मूषके "चूहे पर" होता, और तब वाक्य में आने वाला कोई होता ही नहीं।
+आता कौन है? मूषकः — चूहा। मूषके "चूहे पर" होता, और तब वाक्य में आने वाला कोई होता ही नहीं।
 
 दूसरा उदाहरण आपकी अपनी हिन्दी आदत से जुड़ा है। छात्रा गच्छन्ति में छात्रा पढ़कर हिन्दी भाषी
-तुरन्त "छात्रा" (लड़की) सोचता है। पर घोष ध्वनि से पहले -आः भी -आ बन जाता है, और क्रिया
+तुरन्त "छात्रा" यानी लड़की सोचता है। पर घोष ध्वनि से पहले -आः भी -आ बन जाता है, और क्रिया
 गच्छन्ति बहुवचन है: यह छात्राः है — छात्र जाते हैं। छात्रा गच्छति अकेली छात्रा है। अन्तिम
 फ़ैसला व्याकरण करता है, जोड़ नहीं।
 
@@ -275,7 +275,7 @@ lessons 1–3. Learn the order; it is what stops guessing.
 2. **The spaces.** A space in joined print follows a vowel, an anusvāra or a visarga: undo
    the word before it — ं → -म्; a final -ओ before a voiced consonant → -अः, as परमो → परमः; a
    final -अ before a vowel → -अः or -ए; स or एष before a consonant → सः, एषः, by lesson 2; a
-   final -आ before a voiced sound → -आः, or -ऐ before a vowel; a final -ए/-ऐ/-ओ/-औ standing →
+   final -आ before a voiced sound → -आः or, before a consonant, a word in -आ, or -ऐ before a vowel; a final -ए/-ऐ/-ओ/-औ standing →
    itself; a final ः stays.
 3. **The signs inside a written block.** Look in this order: ऽ — restore अ: ओऽ ← -अः or -ओ;
    एऽ ← -ए; र्, श्, स् before a consonant at a likely word boundary (a visarga or an
@@ -322,7 +322,7 @@ Now the same check on the third quarter:
 > "may all see good things" — सब शुभ देखें
 
 No seams. Every word ends in a vowel before a consonant, which changes nothing. The method
-proves it: step 2 finds three spaces after vowels, step 3 finds no sign at a boundary, and
+proves it: step 2 finds two spaces after vowels, step 3 finds no sign at a boundary, and
 step 6 re-joins nothing. A line with no seam is a result, not a failure.
 
 ### The reverse table — what a joined shape may hide
@@ -332,9 +332,9 @@ when met; you are never asked to produce them.
 
 | Joined shape | May hide (pause form) | Lesson |
 |---|---|---|
-| आ inside a block | अ+अ · अ+आ · आ+अ · आ+आ — नास्ति, तत्रागच्छत्, गङ्गापि, कुत्रासीत् | l01 |
+| आ inside a block | अ+अ · अ+आ · आ+अ · आ+आ — नास्ति, तत्रागच्छत्, गङ्गापि, विद्यालयः | l01 |
 | ई / ऊ | इ/ई + इ/ई; उ/ऊ + उ/ऊ — इतीव | l01 |
-| ए inside a block | अ/आ + इ/ई — नेति, गणेशः — or a word in -ए before a consonant — वने पतति | l01 |
+| ए inside a block | अ/आ + इ/ई — नेति, गणेशः — or simply a word in -ए — वने, विद्यालये | l01 |
 | ओ inside a block | अ/आ + उ/ऊ — सूर्योदयः, सिंहस्योपरि | l01 |
 | ओ at a word end before a voiced consonant | -अः — परमो धर्मः ← परमः — or a word in -ओ such as the vocative गुरो | l02 |
 | ओऽ | -अः + अ — कोऽपि ← कः अपि — or -ओ + अ | l02, l01 |
@@ -545,7 +545,7 @@ the last two are the ambiguity examples.
 
 Step 2 finds two spaces. स before a consonant → सः, by lesson 2; जलं → जलम्, by lesson 3.
 
-### 2. घटेऽल्पं जलमस्ति। — three seams, three lessons
+### 2. घटेऽल्पं जलमस्ति। — three seams, two lessons
 
 घटेऽल्पं जलमस्ति। (ghaṭe 'lpaṃ jalam asti.)
 घटे अल्पम् जलम् अस्ति। (ghaṭe alpam jalam asti.)
@@ -593,19 +593,20 @@ The same first word in print, two different words in pause form. The verb's numb
 
 ## 14. Vocabulary
 
-शब्दावली — 5 ledger-new · 0 upgrades · ledger 455 → 460 · cells drilled: 0 new (the three maps run backwards).
+शब्दावली — 5 ledger-new · 0 upgrades · ledger 455 → 460.
 
 cells drilled: 0 new (the three maps run backwards)
 
 Five headword rows, all drilled (vocabulary_count 5), all new to the ledger: none of them is
 in the word list of Volumes 1–3 so far. These five are ordinary words with ordinary senses,
-usable in sentences (वाक्यम् पठ; एकम् पदम्); their grammar senses are GLOSSARY terms. Audio: 🔊
+usable in sentences — वाक्यं पठ (vākyaṃ paṭha), pause form वाक्यम् पठ; एकं पदम् (ekaṃ padam),
+pause form एकम् पदम्. Their grammar senses are GLOSSARY terms. Audio: 🔊
 in `planned:assets/audio/volume-3/v3c04l04-benediction-joined.mp3` (each headword twice, at
 the start of the track).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| पदम् | padam | /pɐd̪ɐm/ | word (an inflected word); step, foot | पद, शब्द; कदम | ledger-new — n. a-stem; Apte s.v. पदम्, sense 1 "A foot", later senses "a step", "a word"; MW s.v. pada "a word or an inflected word or the stem of a noun in the middle of a compound"; the course's sense: "a word as it stands in a sentence" — beside the owned शब्दः "word; sound" (v3.c01.l04) |
+| पदम् | padam | /pɐd̪ɐm/ | word (an inflected word); step, foot | पद, शब्द; कदम | ledger-new — n. a-stem; Apte s.v. पदम्, sense 1 "A foot", later senses "a step", "a word"; MW s.v. pada "a word or an inflected word or the stem of a noun in the middle cases and before some Taddhitas"; the course's sense: "a word as it stands in a sentence" — beside the owned शब्दः "word; sound" (v3.c01.l04) |
 | वाक्यम् | vākyam | /ʋɑːkjɐm/ | sentence; speech, words | वाक्य | ledger-new — n. a-stem; Apte s.v. वाक्यम् "Speech, words, a sentence, saying" |
 | सन्धिः | sandhiḥ | /sɐn̪d̪ʱih/ | joining, union; (in grammar) sandhi | सन्धि, जोड़ | ledger-new — m. i-stem, declined like अग्निः (v3.c02.l03); Apte s.v. संधिः "Union, junction, combination, connection"; MW s.v. saṃdhi; the technical sense is the GLOSSARY row सन्धि |
 | अवसानम् | avasānam | /ɐʋɐsɑːn̪ɐm/ | stopping, end; (in grammar) the pause | अन्त, विराम | ledger-new — n. a-stem; Apte s.v. अवसानम् "Stopping. Conclusion, termination"; the grammar sense by 1.4.110 (§8) |
@@ -635,12 +636,12 @@ parked. Then the paradigm ledger.
 
 ### The printing convention — read it, and it reads the line for you
 
-> **[FACT · तथ्यम्]** From this lesson on the course prints its Sanskrit joined, with full
-> sandhi between words. Words are written together where the seam fuses into one akṣara or a
-> conjunct, or where the first word ends in a consonant; they are separated by a space where
-> the first word, after sandhi, ends in a vowel, an anusvāra or a visarga. No sandhi applies
-> across a daṇḍa, "?", "!", a comma, the dash of a speech frame, or the closing quotation mark
-> before इति, and the word before any of these stands in its pause form. (STYLE_GUIDE §3.1)
+In this course, from this lesson on, Sanskrit is printed joined, with full sandhi between
+words. Words are written together where the seam fuses into one akṣara or a conjunct, or
+where the first word ends in a consonant; they are separated by a space where the first
+word, after sandhi, ends in a vowel, an anusvāra or a visarga. No sandhi applies across a
+daṇḍa, "?", "!", a comma, the dash of a speech frame, or the closing quotation mark before
+इति, and the word before any of these stands in its pause form (STYLE_GUIDE §3.1).
 
 For the reader that is three free clues. (1) A space means the word before it ends in a
 vowel, ं or ः — so step 2 knows what to undo. (2) A word written into the next means a fusion
@@ -686,7 +687,7 @@ seam between words, so none is split in पदच्छेदः, and none is dr
   (v3.c02.l03; likewise अग्नये). Lesson 1 showed the same अयादि inside नयनम्, ने + अनम्.
 - **भवति = भो + अति** — inside a word — named here, taught in Volume 4 (v4.c02): भवति, the
   course's first verb, is भो + अति by lesson 1's अयादि; the ओ is a guṇa substitute of the
-  root's ऊ, the ऊ of भू — not an "insertion", as the 1.x book said.
+  root's ऊ, the ऊ of भू — not an insertion, as the 1.x book had it.
 
 > **[FACT · तथ्यम्]** The diphthong → semivowel rule of lesson 1 works inside words too;
 > Whitney's internal example is *bhava*, from *bho-a*. [REF:whitney1889 §131]
@@ -898,7 +899,7 @@ form beneath.
    each word in its own form (c) in prose order (d) with a translation
 9. The ण of रामेण is: (a) a sandhi between words (b) a change inside the word, named here,
    taught in Volume 4 (c) a spelling mistake (d) the anusvāra
-10. भवति is: (a) भव + ति, nothing joined (b) भो + अति, by अयादि (c) भू + इति (d) भ + अवति
+10. भवति is: (a) भू + अति, nothing changed (b) भो + अति, by अयादि (c) भू + इति (d) भ + अवति
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -918,7 +919,7 @@ form beneath.
 8. (b) — the word-recitation, each word in its original form, without regard to sandhi (§4).
    · TRADITION, asked "According to the Vedic tradition"
 9. (b) — §15, inside a word; ((a) is §12 mistake 4's confusion.) · FACT
-10. (b) — §15: भो + अति by अयादि; the ओ a guṇa substitute of the root's ऊ. ((c) and (d) are
+10. (b) — §15: भो + अति by अयादि; the ओ a guṇa substitute of the root's ऊ. ((a) leaves the root's ऊ unchanged, which cannot give भवति; (c) and (d) are
     not splits into real parts.) · FACT
 
 **Station 0** — its key sits with it, in §3.
@@ -992,7 +993,7 @@ character; the ◐ seams count only as splits, never as joins you were asked to 
 **Exercise 7** — no key in this lesson. The printed text of the sandhi exam's task C is its
 key, and you compare it after the sitting (v3.c04.l05).
 
-**Dictation** (§9; played in this order, each twice). First: स जलं पिबति। — सः जलम् पिबति। Second:
+**Dictation** (§9; played in this order, each twice). First: स जलं पिबति। — सः जलम् पिबति। — the class nasal, स जलम्पिबति, is also correct as the joined line. Second:
 कपोता जाले पतन्ति। — कपोताः जाले पतन्ति। Third: तस्मिन्वृक्षे कपोताः सन्ति। — तस्मिन् वृक्षे कपोताः
 सन्ति। — the doubled sibilant, कपोतास्सन्ति, is also correct as the joined line. Fourth:
 मूषकस्तस्योपरि धावति। — मूषकः तस्य उपरि धावति।
@@ -1004,7 +1005,7 @@ key, and you compare it after the sitting (v3.c04.l05).
 
 > **The six steps of पदच्छेदः:** (1) stops first (daṇḍa, ?, !, dash, quotation mark, comma);
 > (2) the spaces — undo the word before each (ं → -म्; -ओ → -अः; -अ → -अः or -ए; स, एष → सः,
-> एषः; -आ → -आः); (3) the signs inside a block — ऽ, र्/श्/स्, consonant + vowel, the conjunct
+> एषः; -आ → -आः or a word in -आ); (3) the signs inside a block — ऽ, र्/श्/स्, consonant + vowel, the conjunct
 > seams, the vowel fusions; (4) candidates; (5) choose by real words and the sentence;
 > (6) re-join and check. **The reverse table:** every joined shape and what it may hide —
 > count the "or"s (§8). **Two ambiguities:** मूषक आगच्छति — मूषकः, not मूषके; छात्रा गच्छन्ति —
@@ -1271,8 +1272,8 @@ narrator reads the cue, not the English spelling.
   prints none): Pass B checks it. Every pause line of §17 re-diffed against v3.c03.l03 §17 on
   disk (done at drafting: identical); every joined line against the fact base §4 text and the
   rules of row 0.2 and 0.3. §3's two bookings diffed against l02 §20 and l03 §20 on disk: identical.
-- **Register audit:** FACT ×6 (§5 information loss, chunks · §8 the ambiguity · §15 the
-  printing convention, editions vary, *bhava*; the inner-change lines are labelled plain text) ·
+- **Register audit:** FACT ×5 (§5 information loss, chunks · §8 the ambiguity · §15 editions
+  vary, *bhava*; the printing convention and the inner-change lines are plain text) ·
   TRADITION ×4 (§4 saṃhitā and padapāṭha, Śākalya, the Nirukta; §8 the two sūtras) · HISTORY ×0
   · SYMBOL ×0. Quiz Q1–Q5, Q9, Q10 assess FACT; Q6–Q8 assess TRADITION in the form "According
   to …". No date, superlative, frequency word or claim of scale.

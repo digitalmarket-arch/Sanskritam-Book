@@ -50,8 +50,8 @@ updated: 2026-11-10
 ## 1. Hook
 
 Volume 2 gave a whole chapter a name you could read but not open: परिवारः जगच्च, "family and
-world". The next chapter was called षडादिदशान्ताः, "six to ten", and its षड् was not the षट् you
-had just counted with. A greeting taught you to answer सर्वं कुशलम्, "all is well", with a dot
+world". In the next chapter a lesson was called षडादिदशान्ताः, "six to ten", and its षड् was not the
+षट् you had just counted with. A greeting taught you to answer सर्वं कुशलम्, "all is well", with a dot
 where सर्वम् had an म्. Each time the course said: the reason is Volume 3. Today is that day.
 Two lessons gave you the vowels and the visarga; this one gives you the last kind of seam —
 what a word that ends in a consonant does to the word after it — and with it, the tale of
@@ -142,7 +142,7 @@ today's voicing rule is a word of yours, before a vowel, and the change is exact
 षडादि- shows (§8 Step 5).
 
 > **[TRADITION · परम्परा]** Hindi school grammar teaches joining under three heads, स्वर
-> सन्धि, व्यंजन संधि and विसर्ग सन्धि; today's joins are its व्यंजन संधि, "consonant
+> संधि, व्यंजन संधि and विसर्ग संधि; today's joins are its व्यंजन संधि, "consonant
 > sandhi". [REF:guru1952]
 
 The Sanskrit name is व्यञ्जनसन्धिः (vyañjanasandhiḥ). The schoolbook spelling व्यंजन संधि
@@ -232,9 +232,10 @@ lesson 2's एषः before a consonant.
 रहे: स्वर से पहले अनुस्वार कभी नहीं — \*सत्यंएव ग़लत है।
 
 **दूसरा नियम — घोषत्व।** क्, ट्, त् अघोष हैं। शब्द के अन्त में इनके बाद कोई घोष ध्वनि आए —
-हर स्वर, और ग, ज, द, ब, य, र, ल, व, ह जैसे व्यञ्जन — तो ये अपने घोष साथी बन जाते हैं: क् → ग्,
-ट् → ड्, त् → द्। षट् + अत्र → षडत्र, वाक् + अस्ति → वागस्ति, ग्रामात् + गच्छति → ग्रामाद्गच्छति।
-दूसरे खण्ड के अध्याय का नाम षडादिदशान्ताः इसी नियम से है: षट् + आदि। अघोष ध्वनि से पहले कुछ नहीं
+हर स्वर, और ग, द, ब, य, र, व जैसे व्यञ्जन — तो ये अपने घोष साथी बन जाते हैं: क् → ग्,
+ट् → ड्, त् → द्। ध्यान रहे: त् + ज पर तीसरा नियम लगता है, जैसे तज्जलम्; त् + ल और त् + ह के
+जोड़ केवल पहचानने के लिए हैं, §15 Step 6 देखिए। षट् + अत्र → षडत्र, वाक् + अस्ति → वागस्ति, ग्रामात् + गच्छति → ग्रामाद्गच्छति।
+दूसरे खण्ड के एक पाठ का नाम षडादिदशान्ताः इसी नियम से है: षट् + आदि। अघोष ध्वनि से पहले कुछ नहीं
 बदलता: वृक्षात् + पतति → वृक्षात्पतति।
 
 **तीसरा नियम — स्थान।** त् के बाद च या ज आए, तो त् भी उसी स्थान (तालु) पर चला जाता है:
@@ -276,7 +277,7 @@ Three things you own, written on the board as Volume 2 printed them:
 | owned shape | IAST | where | gloss |
 |---|---|---|---|
 | परिवारः जगच्च | parivāraḥ jagacca | v2.c02, the chapter title | "family and world" |
-| षडादिदशान्ताः | ṣaḍādidaśāntāḥ | v2.c03, the chapter title | "the ones from six to ten" |
+| षडादिदशान्ताः | ṣaḍādidaśāntāḥ | v2.c03.l02, the lesson title | "the ones from six to ten" |
 | सर्वं कुशलम् | sarvaṃ kuśalam | v2.c01.l02, the greeting's answer | "all is well" |
 
 You can read every one. You know the words inside them: परिवारः, जगत्, च; षट्, दश; सर्वम्,
@@ -306,15 +307,15 @@ shape tells you; then uncover and compare.
 Read the right-hand column down. Three habits show. A final म् turns into a dot before a
 consonant and stays a full म् before a vowel. A final stop (ट्, त्, क्) turns voiced — ड्, द्,
 ग् — when the next sound is voiced (a vowel, or द, भ). And a final त् takes on the place of a
-palatal च after it, exactly as the visarga of रामः did in lesson 2. The last two rows show the
+palatal च after it, exactly as the visarga of रामः did in lesson 2. The गङ्गा row shows the
 same habit inside a word: the nasal of गङ्गा is made where ग is made. Today's rules are that
 habit applied across a word boundary.
 
 ### Step 4 — the pattern, named
 
 **The name.** The joins of a word-final consonant are व्यञ्जनसन्धिः (vyañjanasandhiḥ),
-"consonant sandhi" — in Hindi व्यञ्जन-सन्धि. With स्वरसन्धिः (lesson 1) and
-विसर्गसन्धिः (lesson 2) the three heads are complete.
+"consonant sandhi" — in Hindi व्यञ्जन-सन्धि. With lesson 1's स्वरसन्धिः and
+lesson 2's विसर्गसन्धिः the three heads are complete.
 
 **The scope.** The left word, in its pause form, ends in म्, in a stop (क्, ट्, त्) or in न्
 — the consonant finals you own. The right word begins with a vowel or a consonant. Nothing —
@@ -363,8 +364,8 @@ together for a vowel after it: that is the whole of row 1 and row 2 of the map.
 > the end of a word, a stop is replaced by the plain voiced stop of its row (ग्, ज्, ड्, द्,
 > ब्). So षट् is षड् in Pāṇini's grammar, and stays so before a vowel or a voiced consonant:
 > षट् + अत्र → षडत्र. Before a voiceless sound it becomes voiceless again, and at a pause it
-> may (the course prints the voiceless pause form) — षट्, षट् पठति (Teacher Notes give the
-> sūtras). [REF:ashtadhyayi 8.2.39] [REF:kashika 8.2.39]
+> may (the course prints the voiceless pause form) — षट्, षट् पठति, both in pause form;
+> Teacher Notes give the sūtras. [REF:ashtadhyayi 8.2.39] [REF:kashika 8.2.39]
 
 So the blanks are षडत्र, तदपि — and वृक्षात्पतति: प is voiceless, so the त् stays त्, and the
 two words are written together because the first ends in a consonant. The last sentence of
@@ -418,7 +419,7 @@ print. Read each, say what it hides, and stop there: you are never asked to make
 
 A stop before a nasal becomes the nasal of its row; न् before ज becomes ञ्; त् before ल becomes
 ल्; त् + श gives च्छ and त् + ह gives द्ध, where the second sound changes too; न् before च becomes
-ं with श् (before त, ं with स्). §15 Step 6 has the whole set.
+ं with श्, and before त, ं with स्. §15 Step 6 has the whole set.
 
 ### Step 6 — production
 
@@ -455,8 +456,9 @@ light न. Say तस्मिन्नेव — तानपश्यत् fi
 **Drill 4 — listening: vowel or consonant?** Eight joined phrases are played once each, in the
 order of the track; the list is in §19's key, not here. For each, write **V** if the second
 word began with a vowel and **C** if it began with a consonant. The ear test is the anusvāra
-and the doubled or voiced sound: a dot means a consonant came next; a full म्, a ड्, a द् or a
-न्न written together means a vowel.
+and the doubled or voiced sound: a dot means a consonant came next; a full म् or a न्न written
+together, or a ड or द followed at once by a vowel, means a vowel; a ड् or द् before a voiced
+consonant, as in ग्रामाद्गच्छति, does not.
 
 **Drill 5 — dictation, both forms.** Six items, read twice in pause form at speaking speed
 (the teacher reads them from §22, or the track plays them). Write each in pause form; then,
@@ -517,8 +519,8 @@ margin of rows 1, 3, 5 and 9.
 2. **Voicing missed or wrong: \*षटत्र, \*तत्अपि; or voicing before a voiceless sound,
    \*ग्रामाद्पतति.** *Fix:* voiced before a voiced sound only — षडत्र, तदपि; but
    ग्रामात्पतति, where प is voiceless.
-3. **\*जगत्च for जगच्च.** The words glued but the त् left at the teeth. *Fix:* त् + च →
-   च्च (8.4.40); the त् moves to the palate.
+3. **\*जगत्च for जगच्च.** The words glued but the त् left at the teeth. *Fix:* by 8.4.40, त् + च →
+   च्च; the त् moves to the palate.
 4. **Doubling after a long vowel: \*तान्नपश्यत्.** *Fix:* न् doubles only after a short vowel
    (तस्मिन्नेव), not after a long one (तानपश्यत्).
 5. **A consonant-final word left apart in joined text: \*वृक्षात् पतति as joined print.**
@@ -565,19 +567,19 @@ below them.
 
 <details><summary>पदपाठः · Split key</summary>
 
-1. सत्यम् वद। सत्यम् एव वद। — सत्यम् + वद → सत्यं वद (8.3.23); सत्यम् + एव → सत्यमेव (म् +
-   vowel); एव + वद: a vowel before a consonant, no seam.
-2. जलम् उपरि आगच्छति। — जलम् + उपरि → जलमुपरि (म् + vowel, today); उपरि + आगच्छति →
-   उपर्यागच्छति (यण्, lesson 1). One written block, three words.
-3. परिवारः जगत् च। — परिवारः + जगत् → परिवारो जगत् (the -अः column before a voiced
-   consonant, lesson 2); जगत् + च → जगच्च: 8.4.40, today.
+1. सत्यम् वद। सत्यम् एव वद। — सत्यम् + वद → सत्यं वद [8.3.23]; सत्यम् + एव → सत्यमेव [म् +
+   vowel]; एव + वद: a vowel before a consonant, no seam.
+2. जलम् उपरि आगच्छति। — जलम् + उपरि → जलमुपरि [म् + vowel, today]; उपरि + आगच्छति →
+   उपर्यागच्छति [यण्, lesson 1]. One written block, three words.
+3. परिवारः जगत् च। — परिवारः + जगत् → परिवारो जगत् [the -अः column before a voiced
+   consonant, lesson 2]; जगत् + च → जगच्च: 8.4.40, today.
 4. सत्यम् एव जयते। — सत्यम् + एव → सत्यमेव: म् + vowel, today.
-5. षट् अत्र आम्राणि सन्ति। — षट् + अत्र → षडत्र (8.2.39, today); अत्र + आम्राणि → अत्राम्राणि
-   (सवर्णदीर्घः, lesson 1); आम्राणि सन्ति: no seam.
-6. तस्मिन् एव वने सिंहः स्वपिति। — तस्मिन् + एव → तस्मिन्नेव (न् doubled after a short vowel,
-   today); सिंहः + स्वपिति: ः before स stays (lesson 2).
-7. बुद्धिः बलात् श्रेष्ठा। — बुद्धिः + बलात् → बुद्धिर्बलात् (-इः before a voiced consonant → र्,
-   lesson 2); बलात् + श्रेष्ठा → बलाच्छ्रेष्ठा (त् + श → च्छ, a ◐ row: read, not required).
+5. षट् अत्र आम्राणि सन्ति। — षट् + अत्र → षडत्र [8.2.39, today]; अत्र + आम्राणि → अत्राम्राणि
+   [सवर्णदीर्घः, lesson 1]; आम्राणि सन्ति: no seam.
+6. तस्मिन् एव वने सिंहः स्वपिति। — तस्मिन् + एव → तस्मिन्नेव [न् doubled after a short vowel,
+   today]; सिंहः + स्वपिति: ः before स stays (lesson 2).
+7. बुद्धिः बलात् श्रेष्ठा। — बुद्धिः + बलात् → बुद्धिर्बलात् [-इः before a voiced consonant → र्,
+   lesson 2]; बलात् + श्रेष्ठा → बलाच्छ्रेष्ठा [त् + श → च्छ, a ◐ row: read, not required].
 </details>
 
 Notes on the seven. Sentence 1 is §8 Step 5 row 1 in one line: the same word सत्यम्, once
@@ -622,9 +624,9 @@ compound; जगदीशः and जगन्नाथः are compounds of owned
 Review words in sentence dress, no rows: सत्यम्, सर्वम्, कुशलम्, जलम्, जगत्, परिवारः, षट्,
 दश, वाक्, ग्रामः, मार्गः, वृक्षः, वनम्, सिंहः, मित्रम्, बालकः, छात्रः, गुरुः, बुद्धिः, बलम्,
 आम्रम्, घटः, आकाशः, विवरम्, तण्डुलः, जालम्, कपोतः, नृपः, मूषकः, व्याधः, तीरम्, हस्तः,
-अन्नम्, पाशः, कालः, ईशः (lesson 1), दुःखम्; the adjectives श्रेष्ठः, एकः;
+अन्नम्, पाशः, कालः, lesson 1's ईशः, दुःखम्; the adjectives श्रेष्ठः, एकः;
 the pronouns अहम्, वयम्, सः, तत्, तम्, तान्, तस्मिन्, किम्, एतत्, भवान्; the indeclinables
-अपि, एव (lesson 1), च, तत्र, अत्र, ततः, सदा, उपरि, पुनः, तु (lesson 2); the verbs अस्ति,
+अपि, lesson 1's एव, च, तत्र, अत्र, ततः, सदा, उपरि, पुनः, lesson 2's तु; the verbs अस्ति,
 करोति, गच्छति, आगच्छति, अवगच्छति, जानाति, वदति, पश्यति, पिबति, पतति, पठति, इच्छति, लभते,
 स्वपिति, निवसति, भवति, निर्गच्छति, and their taught cells (अगच्छत्, अवदत्, आसीत्, गच्छ,
 भवेत्).
@@ -770,8 +772,8 @@ nothing in the sound changes, and the words are still written together.
 
 You read and split these when you meet them; no exercise asks you to make one, and none is
 ever a wrong option. The key also accepts the variants Whitney records: the voiced stop
-before a nasal (तद्मम, तद्न, विवराद्निरगच्छत् — §161); द्ह for त् + ह (तद्हितम्, §163); च्श for
-त् + श (बलाच्श्रेष्ठा, §203); न्ज for न् + ज (§202). तल्लभते is Whitney's own example (*tál
+before a nasal (तद्मम, तद्न, विवराद्निरगच्छत् — §161); §163: द्ह for त् + ह, as in तद्हितम्; §203: च्श
+for त् + श, as in बलाच्श्रेष्ठा; §202: न्ज for न् + ज. तल्लभते is Whitney's own example (*tál
 labhate*, §162), and तद्धितम् his *taddhita* (§163).
 
 **Not covered, never drilled** (○, said once): न् before ल, श or स; ट् before स; a short vowel
@@ -798,7 +800,7 @@ ends in श्). Final ङ् doubled after a short vowel has no owned word.
 
 - जगच्च, the v2.c02 chapter title and v2.c02.l04's "rules (sandhi) are Volume 3's subject; the
   pause form जगत् च is today's reading": त् + च → च्च, 8.4.40.
-- षड्, in the v2.c03 title षडादिदशान्ताः, "षट् wearing a company dress … before a voiced
+- षड्, in the v2.c03.l02 title षडादिदशान्ताः, "षट् wearing a company dress … before a voiced
   neighbor": 8.2.39, before the vowel आ.
 - सर्वं कुशलम्, v2.c01.l02's "the म् of सर्वम् dressing as anusvāra before the following क":
   8.3.23.
@@ -868,20 +870,20 @@ Turn by turn — the pause form, then each seam and its rule:
 1. गुरो, ग्रामस्य मार्गः कः? — no seam: गुरो stands apart before the comma (a comma is a pause);
    मार्गः कः: ः before क stays.
 2. एषा दिक्। तत् पश्य! — तत् + पश्य → तत्पश्य: no change, written together.
-3. सम्यक् अवगच्छामि। — सम्यगवगच्छामि (8.2.39).
-4. तत्र एकः वृक्षः अस्ति। तम् वृक्षम् गच्छ। — तत्र + एकः → तत्रैकः (वृद्धिः, lesson 1); एकः +
-   वृक्षः → एको वृक्षः, वृक्षः + अस्ति → वृक्षोऽस्ति (lesson 2); तम् वृक्षम् गच्छ → तं वृक्षं गच्छ
-   (8.3.23).
+3. सम्यक् अवगच्छामि। — सम्यगवगच्छामि [8.2.39].
+4. तत्र एकः वृक्षः अस्ति। तम् वृक्षम् गच्छ। — तत्र + एकः → तत्रैकः [वृद्धिः, lesson 1]; एकः +
+   वृक्षः → एको वृक्षः, वृक्षः + अस्ति → वृक्षोऽस्ति [lesson 2]; तम् वृक्षम् गच्छ → तं वृक्षं गच्छ
+   [8.3.23].
 5. ततः किम्? — ः before क stays.
-6. ततः ग्रामम् पश्यसि। तत्र तव मित्रम् निवसति। — ततः + ग्रामम् → ततो ग्रामम् (lesson 2);
+6. ततः ग्रामम् पश्यसि। तत्र तव मित्रम् निवसति। — ततः + ग्रामम् → ततो ग्रामम् [lesson 2];
    ग्रामम् + पश्यसि → ग्रामं पश्यसि, or ग्रामम्पश्यसि; मित्रम् + निवसति → मित्रं निवसति.
 7. मम मित्रम् धीमान् बालकः। सत्यम् एव! — मित्रम् + धीमान् → मित्रं धीमान्; धीमान् + बालकः →
-   धीमान्बालकः (न् unchanged before ब, written together); सत्यम् + एव → सत्यमेव.
-8. तत् जानामि। सः सदा सत्यम् वदति। — तत् + जानामि → तज्जानामि (8.4.40); सः + सदा → स सदा
-   (6.1.132, lesson 2); सत्यम् + वदति → सत्यं वदति.
-9. तत् च सम्यक्! अहम् अपि सत्यम् वदामि। — तत् + च → तच्च (8.4.40); अहम् + अपि → अहमपि;
+   धीमान्बालकः [न् unchanged before ब, written together]; सत्यम् + एव → सत्यमेव.
+8. तत् जानामि। सः सदा सत्यम् वदति। — तत् + जानामि → तज्जानामि [8.4.40]; सः + सदा → स सदा
+   [6.1.132, lesson 2]; सत्यम् + वदति → सत्यं वदति.
+9. तत् च सम्यक्! अहम् अपि सत्यम् वदामि। — तत् + च → तच्च [8.4.40]; अहम् + अपि → अहमपि;
    सत्यम् + वदामि → सत्यं वदामि.
-10. भद्रम्। गच्छ, पुनः मिलामः। — पुनः + मिलामः → पुनर्मिलामः (the r-final, lesson 2); गच्छ
+10. भद्रम्। गच्छ, पुनः मिलामः। — पुनः + मिलामः → पुनर्मिलामः [the r-final, lesson 2]; गच्छ
     stands apart before the comma.
 </details>
 
@@ -916,7 +918,7 @@ read them. Audio: 🔊 `planned:assets/audio/volume-3/v3c04l03-story.mp3`.
    (sa kapotena vinā grāmaṃ gacchati.) "He goes to the village without the dove." — वह
    कबूतर के बिना गाँव जाता है।
 5. तीरे तण्डुलाः सन्ति, जालमप्यस्ति।
-   (tīre taṇḍulāḥ santi, jālam apy asti.) "On the bank there are grains, and there is a net
+   (tīre taṇḍulāḥ santi, jālam apy asti.) "On the bank there are grains — and there is a net
    too." — किनारे पर चावल हैं, जाल भी है।
 6. तस्मिन्वृक्षे कपोता निवसन्ति।
    (tasmin vṛkṣe kapotā nivasanti.) "In that tree the doves live." — उस पेड़ पर कबूतर रहते
@@ -943,33 +945,33 @@ Each line: its source (the lesson and its §17 line, as on disk), the pause form
 there, then each seam with its rule and lesson.
 
 1. v3.c01.l01 lines 2–4 — सः जालम् नयति। व्याधः मार्गम् त्यजति। सः वनम् गच्छति। — सः जालम् →
-   स जालम् (6.1.132, l02); जालम् नयति → जालं नयति (8.3.23, l03); व्याधः मार्गम् → व्याधो
-   मार्गम् (l02); मार्गम् त्यजति → मार्गं त्यजति; सः वनम् → स वनम्; वनम् गच्छति → वनं गच्छति
-   (l03)
+   स जालम् [6.1.132, l02]; जालम् नयति → जालं नयति [8.3.23, l03]; व्याधः मार्गम् → व्याधो
+   मार्गम् [l02]; मार्गम् त्यजति → मार्गं त्यजति; सः वनम् → स वनम्; वनम् गच्छति → वनं गच्छति
+   [l03]
 2. v3.c01.l02 line 4 — प्रभाते व्याधः ग्रामात् वनम् आगच्छति। — व्याधः ग्रामात् → व्याधो ग्रामात्
-   (l02); ग्रामात् वनम् → ग्रामाद्वनम् (8.2.39, l03); वनम् आगच्छति → वनमागच्छति (l03)
-3. v3.c01.l03 line 1 — व्याधः हस्तेन अन्नम् तीरे क्षिपति। — व्याधः हस्तेन → व्याधो हस्तेन (ह is
-   voiced, l02); हस्तेन अन्नम् → हस्तेनान्नम् (l01); अन्नम् तीरे → अन्नं तीरे (l03)
-4. v3.c01.l04 line 11 — सः कपोतेन विना ग्रामम् गच्छति। — सः कपोतेन → स कपोतेन (6.1.132, l02);
-   ग्रामम् गच्छति → ग्रामं गच्छति (l03)
-5. v3.c02.l03 line 4 — तीरे तण्डुलाः सन्ति, जालम् अपि अस्ति। — तण्डुलाः सन्ति (ः before स stays,
-   l02); जालम् अपि → जालमपि (l03); अपि अस्ति → अप्यस्ति (l01)
-6. v3.c02.l02 line 3 — तस्मिन् वृक्षे कपोताः निवसन्ति। — तस्मिन् वृक्षे → तस्मिन्वृक्षे (न्
-   unchanged, written together, l03); कपोताः निवसन्ति → कपोता निवसन्ति (l02)
+   [l02]; ग्रामात् वनम् → ग्रामाद्वनम् [8.2.39, l03]; वनम् आगच्छति → वनमागच्छति [l03]
+3. v3.c01.l03 line 1 — व्याधः हस्तेन अन्नम् तीरे क्षिपति। — व्याधः हस्तेन → व्याधो हस्तेन [ह is
+   voiced, l02]; हस्तेन अन्नम् → हस्तेनान्नम् [l01]; अन्नम् तीरे → अन्नं तीरे [l03]
+4. v3.c01.l04 line 11 — सः कपोतेन विना ग्रामम् गच्छति। — सः कपोतेन → स कपोतेन [6.1.132, l02];
+   ग्रामम् गच्छति → ग्रामं गच्छति [l03]
+5. v3.c02.l03 line 4 — तीरे तण्डुलाः सन्ति, जालम् अपि अस्ति। — तण्डुलाः सन्ति [ः before स stays,
+   l02]; जालम् अपि → जालमपि [l03]; अपि अस्ति → अप्यस्ति [l01]
+6. v3.c02.l02 line 3 — तस्मिन् वृक्षे कपोताः निवसन्ति। — तस्मिन् वृक्षे → तस्मिन्वृक्षे [न्
+   unchanged, written together, l03]; कपोताः निवसन्ति → कपोता निवसन्ति [l02]
 7. v3.c03.l01 line 8 — नृपः चिन्तयति। सः एकम् मित्रम् स्मरति — मूषकम्। — नृपः चिन्तयति →
-   नृपश्चिन्तयति (l02); सः एकम् → स एकम् (-अः before a vowel other than अ, l02); एकम् मित्रम्
-   → एकं मित्रम्; मित्रम् स्मरति → मित्रं स्मरति (l03); no seam across the dash
-8. v3.c03.l03 line 2 — तस्मिन् वृक्षे बहवः कपोताः न्यवसन्। — तस्मिन्वृक्षे (l03); बहवः कपोताः
-   (ः before क stays); कपोताः न्यवसन् → कपोता न्यवसन् (l02)
+   नृपश्चिन्तयति [l02]; सः एकम् → स एकम् [-अः before a vowel other than अ, l02]; एकम् मित्रम्
+   → एकं मित्रम्; मित्रम् स्मरति → मित्रं स्मरति [l03]; no seam across the dash
+8. v3.c03.l03 line 2 — तस्मिन् वृक्षे बहवः कपोताः न्यवसन्। — तस्मिन्वृक्षे [l03]; बहवः कपोताः
+   [ः before क stays]; कपोताः न्यवसन् → कपोता न्यवसन् [l02]
 9. v3.c03.l03 lines 12–13 — ततः मूषकः विवरात् निरगच्छत्। सः जालम् कपोतान् च अपश्यत्, आह च —
-   "हे मित्र! किम् एतत्?" — ततः मूषकः → ततो मूषकः, मूषकः विवरात् → मूषको विवरात् (l02);
-   विवरात् निरगच्छत् → विवरान्निरगच्छत् (stop + nasal, ◐; विवराद्निरगच्छत् also correct); सः
-   जालम् → स जालम्; जालम् कपोतान् → जालं कपोतान्; कपोतान् च → कपोतांश्च (◐); च अपश्यत् →
-   चापश्यत् (l01); किम् एतत् → किमेतत् (l03); no seam across the comma or the dash
+   "हे मित्र! किम् एतत्?" — ततः मूषकः → ततो मूषकः, मूषकः विवरात् → मूषको विवरात् [l02];
+   विवरात् निरगच्छत् → विवरान्निरगच्छत् [stop + nasal, ◐; विवराद्निरगच्छत् also correct]; सः
+   जालम् → स जालम्; जालम् कपोतान् → जालं कपोतान्; कपोतान् च → कपोतांश्च [◐]; च अपश्यत् →
+   चापश्यत् [l01]; किम् एतत् → किमेतत् [l03]; no seam across the comma or the dash
 10. v3.c03.l04 line 9 — मूषकः कपोतेभ्यः अन्नम् प्रायच्छत्, अवदत् च — "हे कपोताः! अन्नम् भक्षयत,
-    सुखम् जीवत!" — मूषकः कपोतेभ्यः (ः before क stays); कपोतेभ्यः अन्नम् → कपोतेभ्योऽन्नम्
-    (l02); अन्नम् प्रायच्छत् → अन्नं प्रायच्छत् (l03); अवदत् च → अवदच्च (8.4.40, l03); अन्नम्
-    भक्षयत → अन्नं भक्षयत; सुखम् जीवत → सुखं जीवत (l03)
+    सुखम् जीवत!" — मूषकः कपोतेभ्यः [ः before क stays]; कपोतेभ्यः अन्नम् → कपोतेभ्योऽन्नम्
+    [l02]; अन्नम् प्रायच्छत् → अन्नं प्रायच्छत् [l03]; अवदत् च → अवदच्च [8.4.40, l03]; अन्नम्
+    भक्षयत → अन्नं भक्षयत; सुखम् जीवत → सुखं जीवत [l03]
 </details>
 
 The quiet craft notes. Lines 1–4 are episode 1, now fully joined: see how much of the "look"
@@ -1029,13 +1031,13 @@ write each in pause form, then joined.
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz. "Joined" means joined as this
 course prints joined text (STYLE_GUIDE §3.1).
 
-1. सत्यम् वद, joined: (a) सत्यमवद (b) सत्यं वद (c) सत्यंवद (d) सत्य वद
+1. सत्यम् वद, joined: (a) सत्यमवद (b) सत्यं वद (c) सत्यम्वद (d) सत्य वद
 2. सत्यम् एव, joined: (a) सत्यं एव (b) सत्यमेव (c) सत्यंएव (d) सत्यैव
 3. जगत् च, joined: (a) जगद्च (b) जगच्च (c) जगत्च (d) जगश्च
 4. षट् अत्र, joined: (a) षटत्र (b) षडत्र (c) षट् अत्र (d) षडात्र
 5. तस्मिन् एव, joined: (a) तस्मिनेव (b) तस्मिन्नेव (c) तस्मिंएव (d) तस्मिन् एव
 6. तान् अपश्यत्, joined: (a) तान्नपश्यत् (b) तानपश्यत् (c) तांपश्यत् (d) तानापश्यत्
-7. ग्रामाद्गच्छति, split into its pause form: (a) ग्रामात् गच्छति (b) ग्रामाद् गच्छति (c) ग्रामः
+7. ग्रामाद्गच्छति, split into its pause form: (a) ग्रामात् गच्छति (b) ग्रामाः गच्छति (c) ग्रामः
    गच्छति (d) ग्रामे गच्छति
 8. किं करोति may also be written: (a) किम करोति (b) किङ्करोति (c) किन्करोति (d) किःकरोति
 9. According to Pāṇini (8.4.40 स्तोः श्चुना श्चुः), a त् before च becomes: (a) द् (b) च् (c) न्
@@ -1046,7 +1048,7 @@ course prints joined text (STYLE_GUIDE §3.1).
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) — म् before a consonant → ं, then a space (§8 Step 5, §15 Step 2). ((a) treats व as a
-   vowel; (c) has no space after the dot, against the course's printing; (d) drops the म्.)
+   vowel; (c) leaves the म् unchanged before a consonant, against 8.3.23; (d) drops the म्.)
 2. (b) — before a vowel the म् stays and joins (§15 Step 2). ((a) and (c) are §12's mistake 1;
    (d) drops the म् and fuses the vowels.)
 3. (b) — त् + च → च्च (8.4.40; §15 Step 4). ((a) voices the त् before a voiceless च; (c) is
@@ -1057,13 +1059,13 @@ course prints joined text (STYLE_GUIDE §3.1).
    (c) puts a dot before a vowel; (d) is the pause form.)
 6. (b) — after the long आ, no doubling; written together (§15 Step 5). ((a) is §12's mistake
    4; (c) drops the अ; (d) lengthens a vowel that does not meet another.)
-7. (a) — the pause form keeps the voiceless त् (§8 Step 5, §15 Step 3). ((b) keeps the
-   joined द्; (c) and (d) are other words: ग्रामः गच्छति would be joined ग्रामो गच्छति, and
-   ग्रामे गच्छति stays as it is.)
+7. (a) — the pause form, as this course prints it, keeps the voiceless त् (§8 Step 5, §15
+   Step 3). ((b), (c) and (d) are other words: ग्रामाः गच्छति would be joined ग्रामा गच्छति,
+   ग्रामः गच्छति would be joined ग्रामो गच्छति, and ग्रामे गच्छति stays as it is.)
 8. (b) — before a stop the class nasal may be written out (§15 Step 2). ((a) drops the
    virāma; (c) is the dental nasal before a velar; (d) is not a nasal.)
-9. (b) — "According to Pāṇini, स् and the त-row, meeting श् or the च-row, become श् and the
-   च-row" (§8 Step 5, TRADITION).
+9. (b) — according to Pāṇini (8.4.40 स्तोः श्चुना श्चुः), a त् before च becomes च्; the
+   sūtra's wording is in §8 Step 5's TRADITION callout.
 10. (b) — the dot before a stop is the convenience spelling of the class nasal (§7, §15 Step
     7; v1.c06.l01).
 
@@ -1072,8 +1074,9 @@ course prints joined text (STYLE_GUIDE §3.1).
 1: (a) सत्यम् वद — anusvāra (b) जलम् अस्ति — म् + vowel, joined (c) जगत् च — place (d) तत्
 अपि — voicing (e) षट् अत्र — voicing (f) ग्रामात् गच्छति — voicing (g) तस्मिन् एव — doubling
 (h) तान् अपश्यत् — no doubling after आ; written together (i) सर्वम् कुशलम् — anusvāra (j) अहम्
-अपि — म् + vowel. One point each for the pause form; the name of the change is checked, not
-scored.
+अपि — म् + vowel. One point each for the pause form: the course prints the voiceless final, and तद्, षड्,
+ग्रामाद् at a pause, which Pāṇini allows as an option, also score. The name of the change is
+checked, not scored.
 
 2 (◐, self-check): (a) तत् मम — row 4 (b) जगत्-नाथः — row 4 (c) तत् लभते — row 6 (d) बलात्
 श्रेष्ठा — row 7 (e) तत् हितम् — row 8 (f) तान् च — row 10.
@@ -1160,7 +1163,7 @@ with a star, and leave it there until §8 Step 5's third callout removes it.
 **Timing plan (45 min):** Station 0, two items, scores logged (8) → the scene and the question
 (3) → the evidence table (5) → the three questions named (3) → the map assembled: म्,
 voicing, place, न् (8) → the three sūtras at their rows (3) → the vowel-or-consonant sort
-aloud (2) → production: exercise 1 split (4), exercise 3 join (4) → §9 pairs and the dictation
+aloud (2) → production: exercise 1 split (4), exercise 3 join (4) → §9 pairs, the Drill 4 listening and the dictation
 (3) → §17 read, the bookings, homework (2). Exercises 2, 4, 5, 6 and 7 and the §19 quiz are
 homework (§21), with exercises 1 and 3 checked at home against the key; the dictation is
 marked in class.
@@ -1269,7 +1272,7 @@ card)**
 
 Lesson video, ~6 min, presenter + motion graphics.
 
-1. **Hook (0:00–0:40):** the Volume 2 chapter cards परिवारः जगच्च and षडादिदशान्ताः and the
+1. **Hook (0:00–0:40):** the Volume 2 title cards परिवारः जगच्च and षडादिदशान्ताः and the
    greeting सर्वं कुशलम् appear; on each, the changed sound glows — च्च, ड, the dot. Caption:
    "Three promises from Volume 2." Title card: जगच्च — When Consonants Meet.
 2. **The question (0:40–1:10):** जगच्च splits slowly into जगत् and च; the त् slides toward the
@@ -1315,7 +1318,7 @@ narrator reads the cue, not the English spelling.
   + vada → satyaṃ vada, but satyam + eva → satyam eva — "a dot for a consonant, an m for a
   vowel".
 - **Payoff (0:30–0:43):** "Learners of this course can now split and join the consonant seams
-  they have owned since Volume 1 — सत्यमेव, सर्वं कुशलम्, जगच्च."
+  they have owned since Volumes 1 and 2 — सत्यमेव, सर्वं कुशलम्, जगच्च."
 - **CTA (0:43–0:50):** "Next: un-joining any line. Follow for Chapter 4." (End card: जगच्च —
   when consonants meet.)
 
