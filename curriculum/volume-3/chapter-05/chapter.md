@@ -31,7 +31,7 @@ to the words that never change (1.1.37 स्वरादिनिपातम�
 built clause for clause as Hindi builds जो …, वह …, with gender marked as well; the particles that never stand first; and the reference
 card of the tradition's twenty-two upasargas (1.4.59 उपसर्गाः क्रियायोगे), with the 1.x list's errors
 named. The fourth lesson teaches compounds through their विग्रहः in four kinds — द्वन्द्वः, तत्पुरुषः
-with its subtypes, बहुव्रीहिः and अव्ययीभावः (2.2.29, 2.2.24) — and resolves the compounds of Volumes
+with its subtypes, बहुव्रीहिः and अव्ययीभावः [2.2.29, 2.2.24] — and resolves the compounds of Volumes
 1–2, from विद्यालयः and मातृभाषा to जलज and खग. The serial goes back to the day the doves flew with
 the net and tells it again with names: our retelling, after Hitopadeśa 1 (Mitralābha), of the
 dove-king चित्रग्रीवः, "whose neck is bright", and his friend the mouse हिरण्यकः. From the first lesson
@@ -39,7 +39,7 @@ on the learner's own compositions are written joined, with their pause form bene
 
 ## Goals
 
-- अस्मद् and युष्मद् (Whitney §491): every singular cell and the plural nominative, accusative,
+- अस्मद् and युष्मद् [Whitney §491]: every singular cell and the plural nominative, accusative,
   instrumental and genitive productive; the short forms मे, ते, नः, वः and the rule that they never
   stand first; the duals and the other plural cells for recognition; sūtra 8.1.22; the नमस्ते thread,
   step 3

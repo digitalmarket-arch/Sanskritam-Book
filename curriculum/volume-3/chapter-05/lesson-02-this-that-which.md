@@ -1107,7 +1107,7 @@ Keep §13 closed. Write each sentence joined, as heard; then write its pause for
 7. (b) — का + अपि, the feminine (§15 Step 5, §12 mistake 4). ((a) and (d) are masculine;
    (c) is neuter, "something".)
 8. (b) — "According to Pāṇini (1.1.27), सर्व and the words listed after it are called
-   सर्वनाम" (§4, TRADITION).
+   सर्वनाम" [§4, TRADITION].
 9. (b) — -साम् after आ — §15 Step 1, §9 Drill 2. ((a) puts रामः's -नाम् on the pronoun; (c)
    is the masculine; (d) has ष where आ keeps स.)
 10. (b) — the adjective स्व, agreeing with वृक्षम् — §13 model 6, §15 Step 6. ((a) is the

@@ -147,8 +147,8 @@ Two minutes, aloud, in pairs; the key follows the station key.
   reason, e.g. यतोऽहं छात्रोऽस्मि। (yato 'haṃ chātro 'smi.), pause form यतः अहम् छात्रः अस्मि। ·
   एकदा "once, one day" (v2.c06.l02); सदा "always" (v3.c03.l04).
 - **Prompt 4.** अव — अव + गच्छति. The card in §15 has twenty-two such prefixes.
-- **Prompt 5.** कुशलम्। "Well." — or अहं कुशली। (ahaṃ kuśalī.), pause form अहम् कुशली। (a male
-  speaker, v2.c01.l02).
+- **Prompt 5.** कुशलम्। "Well." — or अहं कुशली। (ahaṃ kuśalī.), pause form अहम् कुशली। [a male
+  speaker, v2.c01.l02].
 - **Prompt 6.** तथास्तु — सवर्णदीर्घः [आ + अ → आ]; मैवम् — वृद्धिः [आ + ए → ऐ]. तु never stands first:
   रामस्तु … (v3.c04.l02). Today तथा and एवम् stop being display words and become headwords.
 </details>
@@ -473,7 +473,7 @@ then four more, and one authentic verse to read.
 यः पठति सः जानाति। (yaḥ paṭhati saḥ jānāti.)
 "Whoever studies, knows." — जो पढ़ता है, वह जानता है।
 
-सः before a consonant drops its ः: स जानाति (v3.c04.l02).
+सः before a consonant drops its ः: स जानाति [v3.c04.l02].
 
 ### 2. यत्र वृक्षास्तत्र कपोताः। — place
 
@@ -586,7 +586,7 @@ grid, one is a particle, one a placed word. Audio: 🔊
 | तथा | tathā | /t̪ɐt̪ʰɑː/ | so, thus, in that way | वैसे, वैसा | ledger-new — indeclinable; the त- column, -था row; inside तथास्तु "so be it" and तथापि "even so" (display since v2.c05.l02 and v3.c04.l01). Apte s.v. तथा "So, thus, in that manner" |
 | एवम् | evam | /eːʋɐm/ | thus, so, in this way | ऐसे, इस प्रकार | ledger-new — indeclinable; the near column of the -था row, beside इत्थम्; मैवम् = मा एवम्. Apte s.v. एवम् "Thus, so, in this manner or way"; MW s.v. *evam* "ind. … thus, in this way"; the Kāśikā lists it among the nipātas (§22) |
 | क्व | kva | /kʋɐ/ | where? whither? | कहाँ | ledger-new — indeclinable; a second asker beside कुत्र, from the stem कु- (Whitney §505). Apte s.v. क्व "Whither, where"; one syllable (§10) |
-| हि | hi | /ɦi/ | for, because; indeed | क्योंकि; ही | ledger-new — particle; never first in its clause. Apte s.v. हि "(Never used at the beginning of a sentence)", sense 1 "For, because"; Whitney §1133c; read in उद्यमेन हि (v2.c06.l03) |
+| हि | hi | /ɦi/ | for, because; indeed | क्योंकि; ही | ledger-new — particle; never first in its clause. Apte s.v. हि "(Never used at the beginning of a sentence)", sense 1 "For, because"; Whitney §1133c; read in उद्यमेन हि [v2.c06.l03] |
 | अधः | adhaḥ | /ɐd̪ʱɐh/ | below, under (+ genitive) | नीचे | ledger-new — indeclinable, an s-final (*adhas*), joined like any -अः word: वृक्षस्याधः, अधोऽपृच्छत्. Apte s.v. अधस्, अधः "Below, down"; Whitney §1130 (with the genitive) |
 
 ### The grid, with every owned word's lesson
@@ -600,16 +600,16 @@ yours; *today* = a headword of this lesson; built = made from the grid's own par
 | from (-तः) | **कुतः** v1.c02.l06 | **इतः** v1.c02.l06 · **अतः** "hence" v1.c02.l06 | **ततः** v1.c02.l06 | **यतः** "because" v2.c05.l01 | सर्वतः built |
 | time (-दा) | **कदा** v2.c05.l01 | **इदानीम्** v2.c05.l01 | तदा *today* | यदा *today* | सर्वदा built; beside it **एकदा** v2.c06.l02, **सदा** v3.c03.l04 |
 | manner (-था, -थम्) | **कथम्** v2.c01.l02 | इत्थम् built · एवम् *today* | तथा *today* | यथा *today* | सर्वथा built |
-| + चित् / अपि | कुत्रचित्, कुत्रापि · कुतश्चित्, कुतोऽपि · कदाचित् (v3.c05.l02), कदापि · कथञ्चित् | — | — | — | — |
+| + चित् / अपि | कुत्रचित्, कुत्रापि · कुतश्चित्, कुतोऽपि · कदाचित् [v3.c05.l02], कदापि · कथञ्चित् | — | — | — | — |
 
 Twenty-five grid words drilled: the twenty-three cells of rows 1–4 and the two neighbours एकदा
 and सदा. Six of them are today's headwords; fourteen are owned; सर्वत्र, सर्वतः, सर्वदा, सर्वथा and
 इत्थम् are built and add 0 (STYLE_GUIDE §8 rule 15), as do the चित्/अपि words except कदाचित्, which
 lesson 2 counted.
 
-Back on duty, review only — no re-entry to the ledger: the particles च (v2.c02.l04), वा, एव, इव (v3.c04.l01), तु
-(v3.c04.l02), अपि, न, मा, इति; the placed words उपरि (v2.c06.l01) and समीपे, a cell of समीपम्
-(v3.c01.l04); the pronouns यः, सः, सा, तत् and their cells (lesson 2), सखा and सखे (lesson 1); and
+Back on duty, review only — no re-entry to the ledger: the particles च [v2.c02.l04], वा, एव, इव [v3.c04.l01], तु
+(v3.c04.l02), अपि, न, मा, इति; the placed words उपरि [v2.c06.l01] and समीपे, a cell of समीपम्
+(v3.c01.l04); the pronouns यः, सः, सा, तत् and their cells (lesson 2), सखा and सखे [lesson 1]; and
 the words of the sentences: पठति, जानाति, वृक्षः, कपोतः, गुरुः, आगच्छति, छात्रः, उपविशति, शिष्यः,
 गच्छति, पृच्छति, तरुः, मूषकः, पाशः, कृन्तति, मम, पश्यति, बालिका, भगिनी, फलम्, रोचते, खादति,
 वदति, आपणः, माता, अहम्, त्वम्, वयम्, मधुरः, बालकः, करोति, अस्ति, नदी, तीरम्, विशालः, शीघ्रम्,
@@ -618,7 +618,7 @@ imperfect अशृणोत्, R4, labelled), बहिः, सिंहः, �
 
 Display only, never counted: the joined spellings तथास्तु, तथापि, मैवम्, कुत्रास्ति, तत्रैव (rule
 11); the verse words of §13 (यावत्, तावत्, शुभाशुभम्, आत्मकर्म, विधातृवशात्, उपैति); the card's
-display verbs उत्तिष्ठति, प्रतिवसति, सम्भाषते (§15); the names चित्रग्रीवः and हिरण्यकः, gloss-line
+display verbs उत्तिष्ठति, प्रतिवसति, सम्भाषते [§15]; the names चित्रग्रीवः and हिरण्यकः, gloss-line
 items (rule 12). The terms अव्ययम्, उपसर्गः and निपातः are GLOSSARY items, not vocabulary rows.
 
 ## 15. Grammar
@@ -724,7 +724,7 @@ Two errors of the 1.x list are put right on this card: अति and उप appe
 |---|---|---|---|
 | The grid (rows 1–4) | all 23 cells, and एकदा, सदा | — | — |
 | The चित्/अपि row | कुत्रचित्, कुत्रापि, कुतश्चित्, कुतोऽपि, कदाचित्, कदापि, कथञ्चित् / कथंचित् | — | — |
-| The relative sentence | यः/या/यत् … सः/सा/तत् in every ✓ cell of the यद् and तद् tables; यत्र … तत्र; यदा … तदा, with ततः accepted; यथा … तथा | — | यावत् … तावत् (v4.c04) |
+| The relative sentence | यः/या/यत् … सः/सा/तत् in every ✓ cell of the यद् and तद् tables; यत्र … तत्र; यदा … तदा, with ततः accepted; यथा … तथा | — | यावत् … तावत् [v4.c04] |
 | Particles | च, वा, हि, तु never first; एव, इव, अपि after their word | — | — |
 | Placed words | अधः, उपरि, समीपे + genitive | — | — |
 | The upasarga card | naming the prefix in an owned word (आगच्छति, अवगच्छति, निर्गच्छति, प्रविशति, उपविशति, निवसति, प्रयच्छति) | the list of 22, read | उत्तिष्ठति, प्रतिवसति, सम्भाषते |
@@ -785,12 +785,12 @@ turn by turn).
   शीघ्रम् आगच्छ! त्वम् हि सदा मन्दम् गच्छसि। (śīghram āgaccha! tvam hi sadā mandam gacchasi.)
   "Come quickly! For you always walk slowly." — जल्दी आओ! तुम तो हमेशा धीरे चलते हो।
 
-Housekeeping. Owned: आपणः (v2.c05.l04), मधुरः and विशालः (v3.c02.l02), बालकः (v1.c03.l05), मन्दम् (v2.c05.l02),
-शीघ्रम् and सदा (v3.c03.l04). In turn 7 करोमि "I'll do" is the present for a near future, as the
+Housekeeping. Owned: आपणः [v2.c05.l04], मधुरः and विशालः [v3.c02.l02], बालकः [v1.c03.l05], मन्दम् [v2.c05.l02],
+शीघ्रम् and सदा [v3.c03.l04]. In turn 7 करोमि "I'll do" is the present for a near future, as the
 Hindi करूँगा glosses it; the future itself is v4.c03. In turn 10 हि stands second, after त्वं, and
 Sītā's last line leans on it without a pause (§9 drill 2). In turn 9 the comma after तीरे is a
 stop: नद्याः joins तीरे, but तीरे stands as it is before the comma. In turn 1 सीते is the calling
-form of सीता, as बालिके is of बालिका (v3.c02.l02).
+form of सीता, as बालिके is of बालिका [v3.c02.l02].
 
 ## 17. Story
 
@@ -834,7 +834,7 @@ natural pace, then the pause form line by line).
    वह बिल से बाहर आया।
 
 Glossed: चित्रग्रीवः "Bright-neck", the dove-king, and हिरण्यकः "Goldie", the mouse — names, gloss-line
-items (चित्रग्रीवः, a compound, is opened in lesson 4); अशृणोत् "heard", the imperfect of शृणोति (R4, labelled).
+items (चित्रग्रीवः, a compound, is opened in lesson 4); अशृणोत् "heard", the imperfect of शृणोति [R4, labelled].
 
 Walk it with the seams. Line 2: the comma closes the relative clause; आगच्छन् stands before it
 in its pause form, because the न् + त join is for recognition only (v3.c04.l03). Line 5: ततः + च → ततश्च; अगच्छत् before
@@ -950,7 +950,7 @@ this order, from what you heard; play it a second time only to check:
 
 **Quiz.**
 
-1. (b) तदा (§8, §14). (a), (c), (d) are other cells of the grid: the place pair and the manner word.
+1. (b) तदा [§8, §14]. (a), (c), (d) are other cells of the grid: the place pair and the manner word.
 2. (a) वृक्षस्याधः = वृक्षस्य अधः — अधः takes the genitive (§15). (b) वृक्षे अधः is §12 mistake 4;
    (c) वृक्षः अधः is the nominative and (d) वृक्षेण अधः the instrumental: neither says "under the tree".
 3. (b) हि — it leans on the word before it (§8, §15). The other three open their clause.
@@ -1132,13 +1132,13 @@ the item asks, not as a string of Sanskrit.
 closed; then they answer the six questions in the printed order; a second play is for checking
 only. The questions are printed; the conversation is not reread before answering.
 
-**What not to teach.** यावत् … तावत् (v4.c04); the -वत्/-मात्र adverbs (v4.c04); gati prefixes
+**What not to teach.** यावत् … तावत् [v4.c04]; the -वत्/-मात्र adverbs (v4.c04); gati prefixes
 (v4.c04); the meanings of the twenty-two upasargas. If a learner brings अथ "then, now", it is owned
 (v3.c03.l03); Whitney groups it with the -था words, but it is not on today's grid.
 
 **Differentiation.** Hindi-medium learners own the frame — जो … वह, जब … तब — and slip in two places:
 they drop the correlative, as colloquial Hindi may (§12 mistake 3), and they put the relative in
-the case of the main clause, by analogy with जिसको … वह (§12 mistake 2). English-medium learners
+the case of the main clause, by analogy with जिसको … वह [§12 mistake 2]. English-medium learners
 put च between the words, as "and" (\*रामः च सीता), and read ततः as "then" everywhere (§12 mistake 5).
 
 **What students find hard:** the case of the correlative (rule 2); हि after the first word; the

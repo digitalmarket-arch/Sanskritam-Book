@@ -1078,7 +1078,7 @@ in the form you hear.
 8. मातृभाषा shows that: (a) the first member stands in stem form (b) the first member is in
    the nominative (c) the compound is a dvandva (d) भाषा is masculine
 9. चित्रग्रीवः, "the dove-king", is a bahuvrīhi because: (a) it names someone who has a
-   bright neck (b) it names a neck (c) it is a pair (d) it begins with a numeral
+   bright neck (b) it names a neck (c) it is a pair (d) its vigraha puts the first member in the genitive
 10. The mouse says अहमल्पशक्तिः. The vigraha of his अल्पशक्तिः: (a) अल्पा शक्तिः यस्य सः
     (b) अल्पस्य शक्तिः (c) अल्पम् च शक्तिः च (d) अल्पा शक्तिः
 
@@ -1102,7 +1102,8 @@ in the form you hear.
    TRADITION).
 8. (a) — rule 1: मातृ, the stem, not माता [§8 Step 4, §12 mistake 1].
 9. (a) — the context test: someone who has it (§15 Step 4). ((b) is the tatpuruṣa reading;
-   (c) describes a dvandva; (d) a dvigu.)
+   (c) describes a dvandva; (d) makes a case relation that is not there: चित्रा and ग्रीवा are
+   both nominative in its vigraha.)
 10. (a) — the mouse speaks of himself: "one whose strength is little" (§15 Step 4). ((b) is a
     case relation that is not there; (c) makes a pair; (d) is the reading "little strength",
     which does not fit अहम्: the mouse is not strength.)
@@ -1283,8 +1284,10 @@ avyayībhāva is यथाशक्ति. (3) "राज + पुत्र": th
 as §7 says. (4) "दश + आनन = दशानन": as a word, दशाननः, a bahuvrīhi — दश आननानि यस्य सः.
 (5) The 1.x accent example (p. 82) glosses both readings of इन्द्रशत्रु alike, "May Indra's
 slayer prosper" and "May the slayer of Indra prosper"; the tatpuruṣa is "slayer of Indra", the
-bahuvrīhi "whose slayer is Indra", as the note above has it. Otherwise the 1.x book's four
-kinds are the lesson's.
+bahuvrīhi "whose slayer is Indra", as the note above has it. (6) The 1.x book's four kinds
+are not the lesson's: it lists the avyayībhāva as its fourth kind and has no karmadhāraya. The
+lesson's four are the dvandva, the tatpuruṣa, the karmadhāraya and the bahuvrīhi, and the
+avyayībhāva is read on the recognition card (§15 Step 5).
 
 **जगदीशः, सज्जनः.** v3.c04.l03 read them whole and sent their analysis here (its §27). §15
 Step 6 labels them; जगतः and सन् [the masculine nominative of सत्] are display forms, not drilled.
