@@ -406,7 +406,7 @@ English — Hindi; 🔊 `v3c05l01-conversation.mp3`, read in this order, turns 1
    गृहे अस्ति। सीते! अर्जुनः आगच्छति। (sītā gṛhe asti. sīte! arjunaḥ āgacchati.) "Sītā is at home.
    Sītā! Arjuna is coming." — सीता घर पर है। सीता! अर्जुन आ रहा है।
 7. सीता — अर्जुन, भद्रं ते! अत्रोपविश। (arjuna, bhadraṃ te! atropaviśa.) / अर्जुन, भद्रम् ते! अत्र
-   उपविश। (arjuna, bhadram te! atra upaviśa.) "Arjuna, good to see you! Sit here." — अर्जुन, तुम्हारा
+   उपविश। (arjuna, bhadram te! atra upaviśa.) "Arjuna, blessings to you! Sit here." — अर्जुन, तुम्हारा
    भला हो! यहाँ बैठो।
 8. अर्जुनः — धन्यवादः। एतत्फलं तुभ्यम्। (dhanyavādaḥ. etat phalaṃ tubhyam.) / धन्यवादः। एतत्
    फलम् तुभ्यम्। (dhanyavādaḥ. etat phalam tubhyam.) "Thank you. This fruit is for you." —
@@ -561,9 +561,8 @@ exception) — **row 6 is a §12 warning only; no exercise asks for अस्म
    nominative (c) the plural (d) the vocative — **a** · TRADITION ("According to …").
 8. "Your (madam's) daughter": (a) भवत्याः पुत्री (b) भवतः पुत्री (c) भवती पुत्री (d) भवताम् पुत्री — **a**
    (भवतः is "sir's"; भवताम् "your honours'") · FACT.
-9. "Friend!" (calling): (a) सखा (b) सखे (c) सखायम् (d) सख्युः — **b** · FACT. (सखायम्, सख्युः are ◐
-   cells shown as **wrong options** — they are taught as displays in this lesson (row 0.9), so they
-   are not untaught forms; they are never required.)
+9. "Friend!" (calling): (a) सखा (b) सखे (c) सखि (d) सखः — **b** · FACT. (सखा is the nominative; सखि is
+   the stem the dictionary lists; *सखः is an error form built on the a-stems — no ◐ cell is an option.)
 10. In भवान्कुत आगच्छति, भवान् and कुत are written together because (a) भवान् ends in a consonant
     (b) they are a compound (c) कुतः lost its visarga (d) both are pronouns — **a** · FACT (STYLE_GUIDE
     §3.1 / c04).
@@ -1227,24 +1226,23 @@ the dvandva माता- is the one listed exception, 6.3.25); (2) the dvandva 
 two → सिंहमूषकौ; (3) bahuvrīhi read as tatpuruṣa: नीलकण्ठः "a blue throat" → "one whose throat is blue";
 (4) the inner seam left open: *पर-उपकारः in print → परोपकारः; (5) the vigraha without cases: *विद्या आलयः
 → विद्यायाः आलयः; (6) a bahuvrīhi in the wrong gender: the compound takes the gender of the person
-described (अल्पशक्तिः for a man, अल्पशक्तिः … for a woman? — **the f. of an i-final bahuvrīhi keeps -इः
-(Whitney §1293 ff.; no new form)** — the row says only: "the compound agrees with the one it describes:
-नीलकण्ठः m. for Śiva; उदारचरिता for a woman" (an a-final bahuvrīhi takes -आ, as चित्रा). **Pass C
-confirms उदारचरिता** (Whitney §1294 ff., open item 4).
+described: "the compound agrees with the one it describes: नीलकण्ठः m. for Śiva; उदारचरिता for a
+woman" (an a-final bahuvrīhi takes -आ in the feminine, as an a-adjective does). **Pass C confirms
+उदारचरिता** in Whitney §1294 ff. before the row prints it (open item 4); otherwise the row keeps only
+नीलकण्ठः.
 
 **Exercises (§18):**
 - *Ex 1 (obj. 1; class, 6 min):* six vigrahas: गुरुशिष्यौ → गुरुः च शिष्यः च · हिमालयः → हिमस्य आलयः ·
   जलपात्रम् → जलस्य पात्रम् · चित्रवनम् → चित्रम् वनम् · अल्पशक्तिः → अल्पा शक्तिः यस्य सः · नीलकण्ठः → नीलः
-  कण्ठः यस्य सः. **Key** as given (cases named). **Exam guard:** these six items are not in task C or
-  S0-av? — **हिमालयः, गुरुशिष्यौ, जलपात्रम्, चित्रवनम् are S0-av items** (S0 rehearses the lesson's own
-  items — allowed; the guard is S0 vs exam). Fine.
+  कण्ठः यस्य सः. **Key** as given (cases named). (Four of these return in S0-av — a booking may rehearse
+  its lesson's items; the exam guard concerns S0 and the exam, row 0.30.)
 - *Ex 2 (obj. 2; class, 5 min):* name the kind, six: सुखदुःखे (dvandva) · मातृभाषा (tatpuruṣa) · प्रियमित्रम्
   (karmadhāraya) · उदारचरितः (bahuvrīhi) · समुद्रतीरम् (tatpuruṣa) · शुभरात्रिः (karmadhāraya). **Key**
   (karmadhāraya also accepted as "tatpuruṣa").
 - *Ex 3 (obj. 3; class, 6 min — production):* coin from the vigraha, joined: कमलस्य मुकुलम् → कमलमुकुलम्
-  · सीता च रामः च → सीतारामौ · प्रियः सखा → **(सखा → -सख 5.4.91: avoid)** — use प्रियम् मित्रम् → प्रियमित्रम्
-  · सिंहस्य मुखम् → सिंहमुखम् · शुभम् दिनम् → शुभदिनम् · अल्पम् बलम् यस्य सः → अल्पबलः. **Key** as given;
-  each accepts the hyphenated pause form with ½.
+  · सीता च रामः च → सीतारामौ · प्रियम् मित्रम् → प्रियमित्रम् · सिंहस्य मुखम् → सिंहमुखम् · शुभम् दिनम् →
+  शुभदिनम् · अल्पम् बलम् यस्य सः → अल्पबलः. **Key** as given; a hyphenated pause form (कमल-मुकुलम्)
+  earns ½. (No item ends in सखा: -सख at a compound's end is 5.4.91, v4.c04.)
 - *Ex 4 (obj. 1, 2; homework, 8 min):* the twelve owned compounds of §8 step 3 (the evidence list
   minus the ◐ kinds and the display-member ones): kind + vigraha. **Key:** table 0.F.
 - *Ex 5 (obj. 3; homework, 8 min — writing):* four sentences about your family or the serial, each with
@@ -1336,17 +1334,16 @@ item.
 
 **§3 Station 0 (runs S0-av and S0-au, verbatim).** About 8 minutes, before the sitting and outside its 45.
 Keys 0.G. **Stations (1 minute, the volume spiral; plan §4.0.5):** one prompt each from l01–l04 (मे in a
-sentence; the dat. sg. of सा; the correlative of यत्र; the vigraha of मातृभाषा? — **no: मातृभाषा is a task C
-item; use "join पर-उपकारः"**), and the spiral's three items sit inside the tasks (a case question in A, a
-verb form in D's questions, a join in E's checklist).
+sentence; the dat. sg. of सा; the correlative of यत्र; join पर-उपकारः — none of them an exam item), and the
+spiral's three items sit inside the tasks (a case question in A, a verb form in D's questions, a join in
+E's checklist).
 
 **§16 Conversation** (two students before the exam; 8 turns; joined, pause beneath; uses **none of the
 exam's items**):
-1. अर्जुनः — सीते, सर्वं पठितवती? — participle: **not allowed**. → सीते, सर्वमपठः? (sīte, sarvam
-   apaṭhaḥ?) / सीते, सर्वम् अपठः? "Sītā, did you study everything?" — सीता, सब पढ़ लिया?
-2. सीता — आम्। यदा माता सुप्ता — R2/participle: **no** → यदा गृहे शान्तिः — शान्तिः not owned. → आम्। ह्यो
-   रात्रौ सर्वमपठम्। (ām. hyo rātrau sarvam apaṭham.) / आम्। ह्यः रात्रौ सर्वम् अपठम्। "Yes. I studied
-   it all last night." — हाँ। कल रात सब पढ़ा।
+1. अर्जुनः — सीते, सर्वमपठः? (sīte, sarvam apaṭhaḥ?) / सीते, सर्वम् अपठः? "Sītā, did you study
+   everything?" — सीता, सब पढ़ लिया?
+2. सीता — आम्। ह्यो रात्रौ सर्वमपठम्। (ām. hyo rātrau sarvam apaṭham.) / आम्। ह्यः रात्रौ सर्वम् अपठम्।
+   "Yes. I studied it all last night." — हाँ। कल रात सब पढ़ा।
 3. अर्जुनः — अहं तु समासान्न जानामि। (ahaṃ tu samāsān na jānāmi.) / अहम् तु समासान् न जानामि। "But I
    don't know compounds." — पर मुझे समास नहीं आते।
 4. सीता — मैवं वद! यः पठति स जानाति। (maivaṃ vada! yaḥ paṭhati sa jānāti.) / मा एवम् वद! यः पठति सः
@@ -1519,8 +1516,7 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
   (v2.c06.l02), जानाति (v2.c04.l01), दन्तः (v2.c06.l04), कोमलः (v3.c02.l01), लघुः (v2.c06.l02), बलम्
   (v2.c06.l01), मन्दम् (v2.c05.l02), आपणः (v2.c05.l04), मधुरः, विशालः (v3.c02.l02), कथा (v1.c03.l04), हिम
   (v1.c04.l03), पात्र (v1.c05.l03), दुःखम् (v3.c03.l04), देशः (v3.c01.l02), बहिः (v3.c04.l02), सम्यक्, पदम्
-  (v3.c04.l03–l04), गीता (task A item 7 — **Pass C greps; if not owned, replace by रमा or another owned
-  name**). **Re-run after drafting.**
+  (v3.c04.l03–l04), the names अर्जुनः (v2.c04.l04), सीता (v1.c04.l02) and रामः (the course's model word). **Re-run after drafting.**
 - **Hindi:** rows 0.H a–j against Kachru (bare) and, for j and the सर्वनाम names, against Guru (open item 1);
   the Hindi of every gloss at Pass B; Hindi grammar terms in Hindi spellings.
 - **IPA:** every headword's IPA against STYLE_GUIDE §2 (ष /ʂ/ in युष्माकम्; श /ɕ/; anusvāra rule).
