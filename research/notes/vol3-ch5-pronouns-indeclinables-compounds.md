@@ -579,9 +579,7 @@ the ते to them in Hindi (3).
 
 **§22 Class timing (45 min):** Station 0 and prompts (8) → §1 hook + §8 steps 1–4 (8) → step 5: the
 learner fills table 0.A (5) → Ex 1 (5) → Ex 2 (4) → §16 read and the role-play, Ex 4 (8) → Ex 5 (4)
-→ quiz §19 (3, the remaining items in homework? **No** — the quiz is done in class in 3 minutes as a
-quick-fire oral check; self-scoring after class is part of Ex 7's time) — **the drafter checks the
-sum: 8 + 8 + 5 + 5 + 4 + 8 + 4 + 3 = 45**. §17 is read in homework. Teacher Notes also print: the
+→ quiz §19, quick-fire, self-scored in class (3) = 45. §17 is read in homework (§21). Teacher Notes also print: the
 serial departures (table 0.I rows 1–5); the Kāśikā line; 8.1.18, 8.1.20–21, 8.1.23–24; Whitney's
 view of भवत् (row 0.7); the vocative भवति (◐) with *bhavati bhikṣāṃ dehi* **not** printed (no locus
 checked).
@@ -759,8 +757,8 @@ The Kāśikā illustrates it with सर्वः सर्वौ सर्व�
 अनिश्चयवाचक (कोई, कुछ), सम्बन्धवाचक (जो), प्रश्नवाचक (कौन, क्या), निजवाचक (आप, ख़ुद), पुरुषवाचक —
 TRADITION, [REF:guru1952] bare, one sentence, **Pass C confirms the six names in Guru** (open item 1)).
 
-**§9–§11:** the stress-light pronoun before its noun (तस्मिन्वने); the ṣ of एषः, एतेषाम्, तेषाम्, इमेषाम्?
-— **no: the form is एषाम्** (इदम्, ◐); keep तेषाम्, एतेषाम्; the s of तासाम्, तासु (after आ: no ṣ). IPA:
+**§9–§11:** the pronoun said with its noun in one breath (तस्मिन्वने); the ṣ of एषः, तेषाम्, एतेषाम्
+(after ए) against the s of तासाम्, तासु (after आ) — the s → ṣ law named in c04.l04. IPA:
 /ɐjɐm/ /ijɐm/ /id̪ɐm/ /jɐh/ /ɐn̪jɐh/ /pɐɾɐh/ /kɐɕt͡ɕit̪/ /kɐd̪ɑːt͡ɕit̪/ /sʋɐh/ /n̪id͡ʑɐh/ /t̪ɐsmɐi̯/ /t̪ɐsjɐi̯/.
 
 **§12 (six rows):** (1) *सर्वाः for the m. pl. (the a-noun pattern रामाः) → सर्वे (सर्वाः is right for
@@ -775,9 +773,10 @@ obliques" (1.x, IR-025) → two stems, स- only in सः/सा; (4) *को�
   एतानि. **Key** as given.
 - *Ex 2 (obj. 2; class, 6 min):* Δ cells, six: सर्व m. nom. pl. → सर्वे · सर्व n. nom. sg. → सर्वम् · अन्य n.
   nom. sg. → अन्यत् · किम् f. instr. → कया · एक m. loc. → एकस्मिन् · यद् f. gen. sg. → यस्याः. **Key** as given.
-- *Ex 3 (obj. 2; homework, 6 min):* replace the noun phrase with the right form of सर्व or अन्य, six
-  sentences (joined, pause form beneath): सर्वे बालकाः पठन्ति — "all girls" → सर्वा बालिकाः · "to all
-  (m. sg.)" … **The drafter writes six; key accepts the joined or the pause form.**
+- *Ex 3 (obj. 2; homework, 6 min):* put सर्व or अन्य in the form the noun needs, six (pause form given,
+  answer joined or in pause form): (a) ___ बालिकाः पठन्ति ("all") (b) ___ बालकाः पठन्ति ("all") (c) ___ जलम्
+  ("all") (d) ___ पुस्तकम् ("another") (e) ___ छात्राय ददाति ("to another") (f) ___ ग्रामे ("in every", m.
+  sg.). **Key:** (a) सर्वाः (b) सर्वे (c) सर्वम् (d) अन्यत् (e) अन्यस्मै (f) सर्वस्मिन्.
 - *Ex 4 (obj. 3; class, 6 min — speaking):* point and say, six objects/people in the room: अयम्/इयम्/
   इदम् + noun; then "with this (m.)" अनेन सह, "of this (f.)" अस्याः, "in this (m.)" अस्मिन्. **Key:** gender
   of each noun decides; ✓ cells only.
@@ -797,8 +796,8 @@ and तम् come from two stems (b) "स् becomes त् in the oblique case
 genitive — **b**. 7. "Some woman": (a) कोऽपि (b) कापि (c) किमपि (d) कश्चित् — **b**. 8. According to
 Pāṇini (1.1.27), सर्वनाम names (a) every noun (b) सर्व and the words listed after it (c) only सः (d)
 the verbs — **b** · TRADITION. 9. Gen. pl. f. of तद्: (a) तानाम् (b) तासाम् (c) तेषाम् (d) ताषाम् — **b**.
-10. In कपोताः स्वं वृक्षमगच्छन्, स्वम् means (a) "we two are" (b) "own" (c) "heaven" (d) "self" — **b**
-(स्वर्, "heaven", is not taught: **drafter replaces (c) by "their (pl. gen.)"**).
+10. In कपोताः स्वं वृक्षमगच्छन्, स्वम् means (a) "we two are" (b) "own" (c) "their" (gen. pl.) (d) "by
+oneself" — **b** (a is the §12 homograph; d is स्वयम्, l01).
 
 **§20 Bookings:** S0-ar (+1 day, l03), S0-as (+1 week, l04), verbatim. Ledger 472; cells drilled 34.
 
@@ -983,9 +982,8 @@ are printed as it gives them, with the owned pause forms beside them: प्र�
 अधः.)
 
 **§5:** closed-class function words; correlative systems in Hindi (table 0.H g) and the English
-*wh-/th-* pairs (where/there, when/then — FACT, observable); no claim of common origin beyond
-"Sanskrit, English and Hindi are Indo-European languages; the *t-/k-* pairing in pronoun adverbs is
-inherited" — **cut**: no REF for an etymological claim; keep the observable pairing only.
+*wh-/th-* pairs (where/there, when/then) — the observable pairing only; **no claim of common origin**
+(no REF checked for it).
 
 **§7 Hindi:** row g (built exactly like), row h (the prefixes in तत्सम words).
 
@@ -994,15 +992,12 @@ inherited" — **cut**: no REF for an etymological claim; keep the observable pa
 lean on the word before them (no pause before them). IPA as the table.
 
 **§12 (six rows):** (1) च/हि/तु first: *हि त्वं … → त्वं हि …; (2) the correlative in the relative's case:
-*यं पश्यसि तं मम सखा → स मम सखा; (3) the main clause first with a dangling correlative (*स जानाति यः
-पठति is **not** wrong — Whitney §512a: "the other arrangement … frequent enough") → the course
-teaches the relative-first order; the key **accepts** the other order — so this row is about
-*omitting* the correlative where Sanskrit needs it, as Hindi sometimes does (*यः पठति जानाति — Hindi
-"जो पढ़ता है जानता है"): in this course's drills keep सः; (4) अधः with the locative or accusative (*वृक्षे
-अधः) → genitive वृक्षस्य अधः (Hindi "पेड़ के नीचे" = genitive-like के); (5) क्व vs कुत्र: both "where?"
-— no mistake, a choice (the row says so); replace with: तदा for "then (next)" in a story vs ततः: ततः "after
-that", तदा "at that time" (as correlative of यदा); (6) एव/अपि confused: "too" is अपि, "only/very" is एव
-(अहमपि vs अहमेव).
+*यं पश्यसि तं मम सखा → स मम सखा; (3) the correlative dropped, as colloquial Hindi may drop वह
+(*यः पठति जानाति) → यः पठति स जानाति (the main-clause-first order स जानाति यः पठति is **not** a mistake —
+Whitney §512a — and keys accept it); (4) अधः with the locative or accusative (*वृक्षे अधः) → the genitive
+वृक्षस्य अधः (Hindi "पेड़ के नीचे" has the के of the genitive); (5) ततः and तदा confused: ततः "after that,
+then (next)", तदा "at that time", the correlative of यदा (*यदा … ततः → यदा … तदा); (6) एव and अपि confused:
+"too" is अपि, "only, just" is एव (अहमपि "I too" vs अहमेव "I alone").
 
 **Exercises (§18):**
 - *Ex 1 (obj. 1; class, 5 min):* the grid from memory (table 0.E rows 1–4), then six blanks: "___ गच्छसि?"
@@ -1038,9 +1033,9 @@ means (a) always (b) everywhere (c) in every way (d) from everywhere — **b**. 
 …, why is there no join between गच्छसि and इति? (a) the closing quotation mark is a stop (b) इ never joins
 (c) गच्छसि is a verb (d) a typo — **a**. 7. According to Pāṇini (1.1.37), अव्ययम् names (a) the words
 from स्वर् on, and the particles (b) the pronouns (c) the verbs (d) the compounds — **a** · TRADITION.
-8. How many upasargas does the tradition's list count? (a) 10 (b) 19 (c) 22 (d) 28 — **c** · TRADITION
-(19: Whitney's count, shown on the card: **a real number**, so option (b) is a *documented alternative
-count*, not a wrong form — **drafter replaces (b) by 12**). 9. The prefix in अवगच्छति: (a) अ (b) अव (c)
+8. According to the tradition's list (1.4.58), how many upasargas are there? (a) 10 (b) 12 (c) 22 (d) 28
+— **c** · TRADITION (Whitney's 19, printed on the card, is not offered as an option: it is a documented
+count, not an error). 9. The prefix in अवगच्छति: (a) अ (b) अव (c)
 अवग (d) गच्छ — **b**. 10. "As the teacher, so the student": (a) यथा गुरुस्तथा शिष्यः (b) यदा गुरुस्तदा शिष्यः
 (c) यत्र गुरुस्तत्र शिष्यः (d) यो गुरुः स शिष्यः — **a** (b–d are well-formed sentences with other
 meanings: they are wrong *answers*, not unattested constructions — acceptable; the item tests meaning).
@@ -1086,16 +1081,14 @@ bahuvrihi, word-building, joined-text, spaced-review] · media (planned): images
 4. en "Recognise a dvigu, an upapada and an avyayībhāva when you meet one (सप्ताहः, जलजम्, यथाशक्ति)." ·
    hi "द्विगु, उपपद और अव्ययीभाव को पहचानें।"
 
-(Objective 4 is recognition: no item asks for their vigraha; an item may ask "which kind?" with a ◐
-kind as the answer? **No** — row 0.1: ◐ is never scored. Objective 4 is therefore tested only in the
-§19 key's *unscored* reading item and in Ex 6, marked "read, not scored". **Drafter: phrase objective
-4 as "read … (not scored)"** — or drop it; the note keeps it, unscored, because the plan names the three
-kinds.)
+(Objective 4 is recognition: ◐ is never scored (row 0.1), so it is exercised only in Ex 6, marked
+"read, not scored"; the front-matter wording is "Read and name … (not scored)". Open item 5.)
 
 **The one grammar point:** a compound joins stems into one word and is understood by its विग्रहः;
 four kinds (rows 0.21–0.22; table 0.F).
 
-**Six steps (§8):**
+**Six steps (§8)** — note on objective 4: it is printed "Read and name a dvigu, an upapada and an
+avyayībhāva when you meet one (not scored)" (open item 5); no item scores it.
 1. **Scene:** the serial's names — why is the dove-king called चित्रग्रीवः?
 2. **The question:** what does a word made of two words mean, and how do you know which kind it is?
 3. **Evidence (owned compounds, grep-checked):** विद्यालयः (v1.c06.l01), हिमालयः (v1.c04.l03),
