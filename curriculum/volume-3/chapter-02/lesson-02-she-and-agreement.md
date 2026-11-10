@@ -4,7 +4,7 @@ schema_version: 1
 title:
   sa: सा प्रिया
   sa_iast: sā priyā
-  hi: वह प्यारी — स्त्रीलिङ्ग और उसके पीछे चलने वाले शब्द
+  hi: वह प्यारी — स्त्रीलिंग और उसके पीछे चलने वाले शब्द
   en: "She, and the Words that Follow Her"
 volume: 3
 chapter: 2
@@ -17,13 +17,13 @@ prerequisites: [v3.c02.l01]
 review_of: [v3.c02.l01, v3.c01.l05, v2.c02.l01, v2.c02.l02, v2.c05.l04, v2.c06.l01, v1.c05.l01]
 objectives:
   - en: "From owned feminines — बालिका, सीता, एषा, कमले, कृपया — say why an ā-stem nominative has no ः, assemble the feminine table (T3) of बालिका with सा and ताः, and produce any of its cells."
-    hi: "अपने जाने-पहचाने स्त्रीलिङ्ग रूपों — बालिका, सीता, एषा, कमले, कृपया — से बताएँ कि आकारान्त प्रथमा में ः क्यों नहीं होता, बालिका की स्त्रीलिङ्ग तालिका (T3) सा और ताः के साथ जोड़ें, और उसका कोई भी रूप बनाएँ।"
+    hi: "अपने जाने-पहचाने स्त्रीलिंग रूपों — बालिका, सीता, एषा, कमले, कृपया — से बताएँ कि आकारान्त प्रथमा में ः क्यों नहीं होता, बालिका की स्त्रीलिंग तालिका (T3) सा और ताः के साथ जोड़ें, और उसका कोई भी रूप बनाएँ।"
   - en: "Derive the ī-stem cells of नदी that differ from बालिका (नद्या, नद्यै, नद्याः, नद्याम्, हे नदि, नद्यः, नदीः) and use them for नदी, देवी, पत्नी, भगिनी and पुत्री."
     hi: "नदी के वे रूप निकालें जो बालिका से भिन्न हैं (नद्या, नद्यै, नद्याः, नद्याम्, हे नदि, नद्यः, नदीः) और उन्हें नदी, देवी, पत्नी, भगिनी और पुत्री के लिए प्रयोग करें।"
   - en: "Make an a-adjective agree with a masculine, feminine or neuter noun in gender, number and case (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), and count feminine things with एका, तिस्रः, चतस्रः."
-    hi: "अकारान्त विशेषण को पुंलिङ्ग, स्त्रीलिङ्ग या नपुंसकलिङ्ग संज्ञा से लिङ्ग, वचन और विभक्ति में मिलाएँ (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), और स्त्रीलिङ्ग वस्तुएँ एका, तिस्रः, चतस्रः से गिनें।"
+    hi: "अकारान्त विशेषण को पुल्लिंग, स्त्रीलिंग या नपुंसकलिंग संज्ञा से लिंग, वचन और विभक्ति में मिलाएँ (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), और स्त्रीलिंग वस्तुएँ एका, तिस्रः, चतस्रः से गिनें।"
   - en: "State the Hindi contrast exactly: Hindi अच्छा/अच्छी/अच्छे marks two genders and तीन never changes; Sanskrit marks three genders, and 1–4 change with them."
-    hi: "हिन्दी से अन्तर ठीक बताएँ: हिन्दी अच्छा/अच्छी/अच्छे दो लिङ्ग दिखाते हैं और तीन कभी नहीं बदलता; संस्कृत तीन लिङ्ग दिखाती है, और 1–4 उनके साथ बदलते हैं।"
+    hi: "हिन्दी से अन्तर ठीक बताएँ: हिन्दी अच्छा/अच्छी/अच्छे दो लिंग दिखाते हैं और तीन कभी नहीं बदलता; संस्कृत तीन लिंग दिखाती है, और 1–4 उनके साथ बदलते हैं।"
 new_letters: []
 new_matras: []
 vocabulary_count: 7
@@ -64,10 +64,10 @@ river, three girls become four, and you can describe every one of them.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | From owned feminines — बालिका, सीता, एषा, कमले, कृपया — say why an ā-stem nominative has no ः, assemble the feminine table (T3) of बालिका with सा and ताः, and produce any of its cells. | अपने जाने-पहचाने स्त्रीलिङ्ग रूपों — बालिका, सीता, एषा, कमले, कृपया — से बताएँ कि आकारान्त प्रथमा में ः क्यों नहीं होता, बालिका की स्त्रीलिङ्ग तालिका (T3) सा और ताः के साथ जोड़ें, और उसका कोई भी रूप बनाएँ। |
+| 1 | From owned feminines — बालिका, सीता, एषा, कमले, कृपया — say why an ā-stem nominative has no ः, assemble the feminine table (T3) of बालिका with सा and ताः, and produce any of its cells. | अपने जाने-पहचाने स्त्रीलिंग रूपों — बालिका, सीता, एषा, कमले, कृपया — से बताएँ कि आकारान्त प्रथमा में ः क्यों नहीं होता, बालिका की स्त्रीलिंग तालिका (T3) सा और ताः के साथ जोड़ें, और उसका कोई भी रूप बनाएँ। |
 | 2 | Derive the ī-stem cells of नदी that differ from बालिका (नद्या, नद्यै, नद्याः, नद्याम्, हे नदि, नद्यः, नदीः) and use them for नदी, देवी, पत्नी, भगिनी and पुत्री. | नदी के वे रूप निकालें जो बालिका से भिन्न हैं (नद्या, नद्यै, नद्याः, नद्याम्, हे नदि, नद्यः, नदीः) और उन्हें नदी, देवी, पत्नी, भगिनी और पुत्री के लिए प्रयोग करें। |
-| 3 | Make an a-adjective agree with a masculine, feminine or neuter noun in gender, number and case (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), and count feminine things with एका, तिस्रः, चतस्रः. | अकारान्त विशेषण को पुंलिङ्ग, स्त्रीलिङ्ग या नपुंसकलिङ्ग संज्ञा से लिङ्ग, वचन और विभक्ति में मिलाएँ (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), और स्त्रीलिङ्ग वस्तुएँ एका, तिस्रः, चतस्रः से गिनें। |
-| 4 | State the Hindi contrast exactly: Hindi अच्छा/अच्छी/अच्छे marks two genders and तीन never changes; Sanskrit marks three genders, and 1–4 change with them. | हिन्दी से अन्तर ठीक बताएँ: हिन्दी अच्छा/अच्छी/अच्छे दो लिङ्ग दिखाते हैं और तीन कभी नहीं बदलता; संस्कृत तीन लिङ्ग दिखाती है, और 1–4 उनके साथ बदलते हैं। |
+| 3 | Make an a-adjective agree with a masculine, feminine or neuter noun in gender, number and case (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), and count feminine things with एका, तिस्रः, चतस्रः. | अकारान्त विशेषण को पुल्लिंग, स्त्रीलिंग या नपुंसकलिंग संज्ञा से लिंग, वचन और विभक्ति में मिलाएँ (प्रियः पुत्रः · प्रिया पुत्री · प्रियम् मित्रम्), और स्त्रीलिंग वस्तुएँ एका, तिस्रः, चतस्रः से गिनें। |
+| 4 | State the Hindi contrast exactly: Hindi अच्छा/अच्छी/अच्छे marks two genders and तीन never changes; Sanskrit marks three genders, and 1–4 change with them. | हिन्दी से अन्तर ठीक बताएँ: हिन्दी अच्छा/अच्छी/अच्छे दो लिंग दिखाते हैं और तीन कभी नहीं बदलता; संस्कृत तीन लिंग दिखाती है, और 1–4 उनके साथ बदलते हैं। |
 
 Objective 1 is built in §6/§8/§15 Steps 1 and 5 and tested in §18 (exercises 1, 5, 7) and
 §19 (Q1–Q3, Q7); objective 2 in §8/§9–§11/§15 Step 2, §18 (exercise 2), §19 (Q4);

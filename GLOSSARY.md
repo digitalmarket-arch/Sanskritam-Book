@@ -62,7 +62,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | प्रयत्न | prayatna | manner of articulation ("effort") — the voicing, aspiration and nasal slots of a varga row | उच्चारण-प्रयत्न | v1.c01.l02 |
 | -कार | -kāra | suffix that names a sound or letter: अकार "the sound a", इकार "the sound i" | -कार (अकार, इकार) | v1.c02.l01 |
 | संज्ञा | saṃjñā | technical term, name — the label for each lesson's key term (संयुक्ताक्षरम्, संवादः); in Hindi grammar also "noun" | संज्ञा (पारिभाषिक नाम; हिन्दी व्याकरण में नाम-शब्द) | v1.c05.l02 |
-| विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun in gender, number and case (system: Volume 3) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
+| विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun (विशेष्यम्) in gender, number and case (taught in v3.c02) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
 | आत्मनेपद | ātmanepada | the tradition's name for the "middle voice" — Sanskrit's second family of verb endings (रोचते; system: Volumes 3–4) | आत्मनेपद — क्रिया के अन्त-चिह्नों का दूसरा परिवार | v2.c05.l03 |
 | सन्धि | sandhi | joining — the regular sound-changes where words meet (system: Volume 3) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
 | कर्ता | kartā | the doer — in Pāṇini's grammar the kāraka of the one who acts (v3.c01.l01); Volume 1's rough label "subject" | कर्ता (क्रिया करने वाला) | v1.c06.l03 |
@@ -79,13 +79,19 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | धातु | dhātu | verbal root: √युज् "join, yoke" | धातु (शब्द की जड़) | v2.c06.l04 |
 | प्रथमा · द्वितीया · तृतीया · चतुर्थी · पञ्चमी · षष्ठी · सप्तमी | prathamā · dvitīyā · tṛtīyā · caturthī · pañcamī · ṣaṣṭhī · saptamī | the tradition's numbered case names, "first" … "seventh": nominative, accusative, instrumental, dative, ablative, genitive, locative | प्रथमा … सप्तमी (विभक्तियों के क्रम-नाम) | v3.c01.l01 |
 | सम्बोधनम् | sambodhanam | "calling": the vocative (हे राम) | सम्बोधन | v3.c01.l01 |
-| कारकम् | kārakam | in Pāṇini's grammar, a role a noun plays in an action; six of them | कारक (क्रिया में भूमिका) | v3.c01.l01 |
+| कारकम् | kārakam | in Pāṇini's grammar, a role a noun plays in an action; six of them (plural कारकाणि; the roles map of v3.c02.l05 sets each beside its usual case) | कारक (क्रिया में भूमिका) | v3.c01.l01 |
 | अपादानम् · अधिकरणम् | apādānam · adhikaraṇam | the fixed point moved away from · the place where (kāraka names) | अपादान · अधिकरण | v3.c01.l02 |
 | करणम् · सम्प्रदानम् | karaṇam · sampradānam | the means · the receiver (kāraka names) | करण (साधन) · सम्प्रदान (पाने वाला) | v3.c01.l03 |
 | सम्बन्धः | sambandhaḥ | "relation": the name grammar books use for the genitive's job; according to Pāṇini not a kāraka | सम्बन्ध | v3.c01.l04 |
 | सुप् · तिङ् | sup · tiṅ | the tradition's names for the whole set of noun endings · of verb endings | सुप् · तिङ् | v3.c01.l05 |
 | सुबन्तम् · तिङन्तम् | subantam · tiṅantam | "ending in a sup": a noun form · "ending in a tiṅ": a verb form | सुबन्त · तिङन्त | v3.c01.l05 |
 | पदम् | padam | a word in the grammar's sense: what ends in a sup or a tiṅ ending (1.4.14) | पद | v3.c01.l05 |
+| द्विवचनम् · बहुवचनम् | dvivacanam · bahuvacanam | the dual (exactly two) · the plural (three or more); with एकवचन, the three numbers of Sanskrit | द्विवचन · बहुवचन | v3.c02.l01 |
+| पुंलिङ्गम् · स्त्रीलिङ्गम् · नपुंसकलिङ्गम् | puṃliṅgam · strīliṅgam · napuṃsakaliṅgam | masculine · feminine · neuter: the three genders (लिङ्ग); gender belongs to the word, not to the thing | पुल्लिंग · स्त्रीलिंग · नपुंसकलिंग | v3.c02.l02 |
+| विशेष्यम् | viśeṣyam | the noun an adjective (विशेषण) describes; the adjective takes its gender, number and case | विशेष्य | v3.c02.l01 |
+| सङ्ख्या | saṅkhyā | number; a number word (numeral) — one to four change with gender | संख्या | v3.c02.l01 |
+| अकारान्त · आकारान्त · ईकारान्त · इकारान्त · उकारान्त · ऋकारान्त | akārānta · ākārānta · īkārānta · ikārānta · ukārānta · ṛkārānta | "ending in a · ā · ī · i · u · ṛ": the tradition's names for noun stems by their final sound (रामः is अकारान्त, बालिका आकारान्त, नदी ईकारान्त, अग्निः इकारान्त, गुरुः उकारान्त, पिता ऋकारान्त) | अकारान्त · आकारान्त · ईकारान्त · इकारान्त · उकारान्त · ऋकारान्त | v3.c02.l01–l04 |
+| एकशेषः | ekaśeṣaḥ | "one remains": one word standing for a pair, as पितरौ "parents" for माता and पिता (sūtra 1.2.70; a Teacher Notes term) | एकशेष | v3.c02.l04 |
 
 ## Course meta-vocabulary
 

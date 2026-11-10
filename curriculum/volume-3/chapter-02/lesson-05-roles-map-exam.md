@@ -19,7 +19,7 @@ objectives:
   - en: "Move any taught noun between singular, dual and plural in the case asked, within each lesson's ✓ cells (the dual's -भ्याम्/-ओः and the ṛ-stem oblique plurals stay recognition), twelve times against the clock, with the ṇ and ṣ spellings right."
     hi: "किसी भी पढ़े हुए शब्द को पूछी गई विभक्ति में एकवचन, द्विवचन और बहुवचन के बीच बदलें — हर पाठ के ✓ रूपों के भीतर (द्विवचन के -भ्याम्/-ओः और ऋकारान्त के तिर्यक् बहुवचन केवल पहचान के लिए) — समय के भीतर बारह बार, ण और ष की वर्तनी ठीक रखते हुए।"
   - en: "Make one adjective agree with ten nouns of all three genders, in all three numbers, and put 3 and 4 into the gender of their noun."
-    hi: "एक विशेषण को तीनों लिङ्गों और तीनों वचनों की दस संज्ञाओं से मिलाएँ, और 3 व 4 को उनकी संज्ञा के लिङ्ग में रखें।"
+    hi: "एक विशेषण को तीनों लिंगों और तीनों वचनों की दस संज्ञाओं से मिलाएँ, और 3 व 4 को उनकी संज्ञा के लिंग में रखें।"
   - en: "Name the job of every noun in eight sentences and show three places where case and job part company, having assembled (§15, unscored) the roles map, the 8×3 table of रामः, the dual card, the recurring endings and the free facts, and read the 'X-ed by Y' frame (मया कृतम्)."
     hi: "आठ वाक्यों की हर संज्ञा का काम बताएँ और तीन जगह दिखाएँ जहाँ विभक्ति और काम अलग हो जाते हैं — भूमिकाओं का मानचित्र, रामः की 8×3 तालिका, द्विवचन-पत्र, बार-बार आने वाले अन्त और मुफ़्त तथ्य (§15 में, बिना अंक) जोड़ लेने के बाद — और 'Y के द्वारा X किया गया' का ढाँचा (मया कृतम्) पढ़ें।"
   - en: "Parse उद्यमेन हि सिध्यन्ति… word by word (case and number), and describe your family and home in six or more recorded sentences with kinship words, one dual, three adjectives and two numerals."
@@ -69,7 +69,7 @@ neuter a-stem in -आणि, and you can read it now. 411 words. Pass, and Chapt
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Move any taught noun between singular, dual and plural in the case asked, within each lesson's ✓ cells (the dual's -भ्याम्/-ओः and the ṛ-stem oblique plurals stay recognition), twelve times against the clock, with the ṇ and ṣ spellings right. | किसी भी पढ़े हुए शब्द को पूछी गई विभक्ति में एकवचन, द्विवचन और बहुवचन के बीच बदलें — हर पाठ के ✓ रूपों के भीतर (द्विवचन के -भ्याम्/-ओः और ऋकारान्त के तिर्यक् बहुवचन केवल पहचान के लिए) — समय के भीतर बारह बार, ण और ष की वर्तनी ठीक रखते हुए। |
-| 2 | Make one adjective agree with ten nouns of all three genders, in all three numbers, and put 3 and 4 into the gender of their noun. | एक विशेषण को तीनों लिङ्गों और तीनों वचनों की दस संज्ञाओं से मिलाएँ, और 3 व 4 को उनकी संज्ञा के लिङ्ग में रखें। |
+| 2 | Make one adjective agree with ten nouns of all three genders, in all three numbers, and put 3 and 4 into the gender of their noun. | एक विशेषण को तीनों लिंगों और तीनों वचनों की दस संज्ञाओं से मिलाएँ, और 3 व 4 को उनकी संज्ञा के लिंग में रखें। |
 | 3 | Name the job of every noun in eight sentences and show three places where case and job part company, having assembled (§15, unscored) the roles map, the 8×3 table of रामः, the dual card, the recurring endings and the free facts, and read the 'X-ed by Y' frame (मया कृतम्). | आठ वाक्यों की हर संज्ञा का काम बताएँ और तीन जगह दिखाएँ जहाँ विभक्ति और काम अलग हो जाते हैं — भूमिकाओं का मानचित्र, रामः की 8×3 तालिका, द्विवचन-पत्र, बार-बार आने वाले अन्त और मुफ़्त तथ्य (§15 में, बिना अंक) जोड़ लेने के बाद — और 'Y के द्वारा X किया गया' का ढाँचा (मया कृतम्) पढ़ें। |
 | 4 | Parse उद्यमेन हि सिध्यन्ति… word by word (case and number), and describe your family and home in six or more recorded sentences with kinship words, one dual, three adjectives and two numerals. | उद्यमेन हि सिध्यन्ति… का शब्द-शब्द विश्लेषण करें (विभक्ति और वचन), और अपने परिवार और घर का वर्णन छह या अधिक रिकॉर्ड किए वाक्यों में करें — रिश्तों के शब्द, एक द्विवचन, तीन विशेषण और दो संख्याएँ। |
 
@@ -287,7 +287,7 @@ number terms — terms you use, not ledger words.
 "किसके अनुसार" के साथ कहिए: "पाणिनि के अनुसार…"।
 
 आज की परीक्षा के पाँच कार्य: A — रूप बदलना (एकवचन, द्विवचन, बहुवचन के बीच, बारह बार);
-B — एक विशेषण, विशाल, को दस संज्ञाओं से मिलाना, और 3 व 4 को सही लिङ्ग में रखना; C —
+B — एक विशेषण, विशाल, को दस संज्ञाओं से मिलाना, और 3 व 4 को सही लिंग में रखना; C —
 आठ वाक्यों की हर संज्ञा का रूप और काम; D — उद्यमेन हि सिध्यन्ति… श्लोक का शब्द-शब्द
 विश्लेषण; E — अपने परिवार और घर के बारे में कम-से-कम छह वाक्य, रिकॉर्ड करके। कार्य E में
 अंक पहले समझ के मिलते हैं, फिर शुद्धता के। छोटे, साफ़ वाक्य बोलिए; एक अन्त ग़लत हो जाए तो
