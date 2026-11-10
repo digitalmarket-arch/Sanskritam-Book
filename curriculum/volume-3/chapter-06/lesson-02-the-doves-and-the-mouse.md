@@ -1021,23 +1021,23 @@ no pause at a seam, a breath at every dash and at every closing quotation mark, 
 
 1. In मूषकोऽवदत् — "मां मुञ्च", the quotation is opened by — (a) the dash after the verb ·
    (b) इति · (c) the avagraha
-2. In "…करिष्यामि" इति, the course does not join करिष्यामि and इति because — (a) there is no
-   sandhi across the closing quotation mark (b) इ + इ never join (c) इति is a pause word
+2. In "…करिष्यामि" इति, the course does not join करिष्यामि and इति because — (a) इ + इ never
+   join (b) there is no sandhi across the closing quotation mark (c) इति is a pause word
 3. In the quotation "अहमपि तव साहाय्यं करिष्यामि", अहम् refers to — (a) the mouse (b) the lion
    (c) the narrator
-4. साहाय्यं करोति takes the helped person in the — (a) genitive, तव · (b) accusative, त्वाम् ·
-   (c) locative
+4. साहाय्यं करोति takes the helped person in the — (a) accusative, त्वाम् · (b) locative ·
+   (c) genitive, तव
 5. In sentence 8 of the Hitopadeśa passage, the one who cuts the bonds is shown by — (a) तेन ·
    (b) बन्धनानि · (c) कपोतानाम्
-6. Sentence 2 of the passage says that Hiraṇyaka lives — (a) on the Gaṇḍakī's bank (b) beside
-   the doves' tree (c) in the hunter's village
-7. In the Hitopadeśa, the doves are warned about the grains by — (a) their king (b) a free dove
-   (c) the mouse
-8. प्रत्युपकारः means — (a) a kindness returned (b) a bond (c) help
-9. मा मैवं कुरु is built with — (a) मा + the imperative (b) न + the imperative (c) a question
+6. Sentence 2 of the passage says that Hiraṇyaka lives — (a) beside the doves' tree (b) on the
+   Gaṇḍakī's bank (c) in the hunter's village
+7. In the Hitopadeśa, the doves are warned about the grains by — (a) a free dove (b) the mouse
+   (c) their king
+8. प्रत्युपकारः means — (a) help (b) a kindness returned (c) a bond
+9. मा मैवं कुरु is built with — (a) न + the imperative (b) मा + the imperative (c) a question
    word
 10. According to this lesson's HISTORY callout, the Hitopadeśa's prologue says its books are
-    drawn — (a) from the Pañcatantra and another work (b) from the Jātakas (c) from Aesop
+    drawn — (a) from the Jātakas (b) from Aesop (c) from the Pañcatantra and another work
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -1045,22 +1045,22 @@ no pause at a seam, a breath at every dash and at every closing quotation mark, 
 
 1. (a) — frame first: the verb of saying, then the dash (§8 Step 4; §15 point 1). (b) closes a
    quotation, it does not open one; (c) marks a lost अ in मूषकोऽवदत्. · FACT
-2. (a) — the closing quotation mark is a stop (§8, "editions vary"; §12 mistake 2). (b) is
+2. (b) — the closing quotation mark is a stop (§8, "editions vary"; §12 mistake 2). (a) is
    false: इ + इ → ई by सवर्णदीर्घः [v3.c04.l01], which is what full sandhi does there; (c) is no
    rule of the course: इति joins like any other word beyond the stop. · FACT
 3. (a) — quoted words keep their own persons: the mouse says "I" (§15 point 3; §12 mistake 3).
    · FACT
-4. (a) — साहाय्यं करोति with the genitive: तव साहाय्यम् — §15. · FACT
+4. (c) — साहाय्यं करोति with the genitive: तव साहाय्यम् — §15. · FACT
 5. (a) — तेन, the instrumental: "by him … were cut" (§8, the table; the R2 card). बन्धनानि is
    what is cut; कपोतानाम् whose. · FACT
-6. (a) — H2: गण्डकीतीरे चित्रवने निवसति. (b) is our retelling's (§17, the hand-over, row 1).
+6. (b) — H2: गण्डकीतीरे चित्रवने निवसति. (a) is our retelling's (§17, the hand-over, row 1).
    · FACT
-7. (a) — the bridge after H1: the king himself asks how there can be grains in a lonely
-   forest. (b) is our retelling's (row 2). · FACT
-8. (a) — §14. (b) is बन्धनम्; (c) is साहाय्यम्. · FACT
-9. (a) — मा with the imperative कुरु [v3.c03.l04; §8, the table]. न does not forbid with the
+7. (c) — the bridge after H1: the king himself asks how there can be grains in a lonely
+   forest. (a) is our retelling's (row 2). · FACT
+8. (b) — §14. (a) is साहाय्यम्; (c) is बन्धनम्. · FACT
+9. (b) — मा with the imperative कुरु [v3.c03.l04]. न does not forbid with the
    imperative. · FACT
-10. (a) — §4: "drawn from the Pañcatantra and another work", the prologue's own statement.
+10. (c) — §4: "drawn from the Pañcatantra and another work", the prologue's own statement.
     · HISTORY (the cited callout of §4, this lesson)
 
 **§3 — the prompts.**
