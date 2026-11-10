@@ -289,7 +289,7 @@ and पदपाठे is the locative of the term पदपाठः.
 तीन बातें जिन पर अंक कटते हैं, अभी याद कर लीजिए। पहली: अन्तराल यानी खाली जगह। -ए, -अः
 या -आः के बाद स्वर से पहले जो अन्तराल बचता है, वह फिर नहीं भरता — त आगच्छन्ति, मूषक
 आगच्छति; तागच्छन्ति या मूषकागच्छति ग़लत हैं। दूसरी: रिक्त स्थान का नियम। जुड़ी छपाई में
-जगह केवल स्वर, अनुस्वार या विसर्ग पर समाप्त होने वाले शब्द के बाद आती है; व्यञ्जन पर
+जगह केवल उस शब्द के बाद आती है जो सन्धि के बाद स्वर, अनुस्वार या विसर्ग पर समाप्त होता है; जहाँ दो स्वर मिलकर एक हो जाते हैं, जैसे नास्ति में, वहाँ कोई जगह नहीं रहती; व्यञ्जन पर
 समाप्त होने वाला शब्द अगले से सटकर लिखा जाता है (तस्मिन्वृक्षे)। तीसरी: दण्ड, प्रश्नचिह्न,
 विस्मयादिबोधक चिह्न, अल्पविराम, कथन से पहले की रेखा (—) और इति से पहले के समापन उद्धरण-चिह्न के
 पार कोई सन्धि नहीं होती, और इनसे पहले शब्द अपने
@@ -464,7 +464,7 @@ next sound first, then the dot.
   first sound after it. Write the pause form; then ask which map the left word's pause-form
   ending sends you to, and name the rule from that map.
 - **Task B (pen):** the same question first — how does the left word end? — then the right
-  word's first sound. Decide the space last: a space only after a vowel, ं or ः.
+  word's first sound. Decide the space last: a space only where the left word, after the join, still ends in a vowel, ं or ः.
 - **Task C (mouth):** two minutes' silent reading first: mark each daṇḍa and comma with a
   breath sign, and nothing else. Then read with the lips and tongue already on the next sound
   at every seam: the lips closed for the anusvāra before प, the tongue already at the palate
@@ -975,7 +975,7 @@ sitting.
    visarga; where two vowels have fused (नास्ति) there is no space, and a consonant-final word is
    written into the next (l04 §15, the printing convention). (a)
    forgets the consonant-final words; (c) is the reverse of the rule; (d) confuses the space
-   with a stop. Where two vowels fuse (नास्ति) no space is left at all. FACT about this
+   with a stop. FACT about this
    course's printing convention (STYLE_GUIDE §3.1); editions vary (§15 (3)).
 9. (b) — the word-recitation, "each word … separately in its original form … without regard
    to the rules of Saṃdhi" (§4; l04 §4). TRADITION, asked in the form "According to the Vedic
