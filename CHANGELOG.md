@@ -4,6 +4,29 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **Fact base for v3.c04** (सन्धिः · Sandhi in Use), `research/notes/vol3-ch4-sandhi-in-use.md`,
+  and the chapter frame (status draft). Verified by three checkers with every finding
+  challenged: 40 confirmed findings (32 distinct: 13 major, 19 minor), 2 rejected; the
+  editor's decisions are in its §7.
+- **REFERENCES key `nirukta`** (Yāska's *Nirukta*, ed. Sarup; the course quotes the GRETIL
+  e-text), for one TRADITION line in v3.c04.l04 on a disputed word division (Nirukta 6.28
+  on Ṛgveda 10.29.1).
+
+### Changed
+
+- **STYLE_GUIDE §3.1:** the stops that sandhi does not cross now include the question mark,
+  the exclamation mark and the comma, and the word before a stop stands in its pause form.
+
+### Fixed
+
+- **v1.c03.l04 §14 (the मनः row)** promised the "full noun story" of मनस् in Volume 3. The
+  Volume 3 plan teaches its seam in v3.c04.l02 and leaves the declension of s-stems to
+  Volume 4 (v4.c05); the line now says so.
+
 ## [0.15.0] — 2026-11-10
 
 Volume 3, Chapter 3 — तिङन्तप्रवेशः (The Present-System Verb) — is reviewed and shipped:

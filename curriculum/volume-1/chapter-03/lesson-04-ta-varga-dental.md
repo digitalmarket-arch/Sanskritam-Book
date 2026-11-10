@@ -415,7 +415,7 @@ every one readable: no 🔊 crutches. Audio: 🔊
 | मधु | madhu | /mɐd̪ʱu/ | honey; sweet | मधु, शहद | mead-cognate (§13); below-hook on ध |
 | नदी | nadī | /n̪ɐd̪iː/ | river | नदी | pairs with तट and कूल — now a river runs between your two bank-words |
 | नमः | namaḥ | /n̪ɐmɐh/ | homage, salutation | नमन, प्रणाम | first half of नमस्ते (§8); palm test on ः |
-| मनः | manaḥ | /mɐn̪ɐh/ | mind | मन | नमः with its two consonants swapped; pause form of the noun मनस् (manas), as नमः is of नमस् (namas) — full noun story in Volume 3 |
+| मनः | manaḥ | /mɐn̪ɐh/ | mind | मन | नमः with its two consonants swapped; pause form of the noun मनस् (manas), as नमः is of नमस् (namas) — its seam in Volume 3 (v3.c04.l02), its full declension in Volume 4 (v4.c05) |
 | जन | jana | /d͡ʑɐn̪ɐ/ | person, people | जन, लोग | च-row ज meets today's न |
 | नीति | nīti | /n̪iːt̪i/ | conduct, policy | नीति | long ī then short i — clock discipline |
 | नील | nīla | /n̪iːlɐ/ | blue | नीला | full final अ: nī-la |

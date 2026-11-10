@@ -137,9 +137,10 @@ uses both, in a fixed order.
   first word ends in a consonant (जलमस्ति, तन्मे, जगच्च, गुरुर्वदति). Words are separated by
   a space where the first word, after sandhi, ends in a vowel, anusvāra or visarga (स
   पिपासितोऽस्ति, सत्यं वद, परमो धर्मः, मूषक आगच्छति).
-- **No sandhi across** a daṇḍa, across the dash of a speech frame (उवाच — "…"), or across
-  the closing quotation mark before इति ("…करिष्यामि" इति); beyond इति sandhi resumes
-  ("…लघुरसि" इत्यवदत्).
+- **No sandhi across** a daṇḍa, a question mark or an exclamation mark, a comma, the dash
+  of a speech frame (उवाच — "…"), or the closing quotation mark before इति
+  ("…करिष्यामि" इति); beyond इति sandhi resumes ("…लघुरसि" इत्यवदत्). The word before any
+  of these stops stands in its pause form (अहं तव मित्रम्, कपोतानां नृपः).
 - **Below every joined line** from v3.c04.l04 on: the pause form (पदपाठः), then IAST and
   the gloss.
 - **A compound is one word in the pause form.** Where a line shows a compound's inner seam

@@ -37,6 +37,13 @@ school). Versified phonetics: articulation places, effort, the sound inventory. 
 <a id="pratishakhya-rv"></a>**pratishakhya-rv** — *Ṛgveda-Prātiśākhya*. Vedic phonetic treatise;
 cited by paṭala.sūtra.
 
+<a id="nirukta"></a>**nirukta** — Yāska, *Nirukta*. A treatise on the etymology and meaning of
+Vedic words; cited by adhyāya.khaṇḍa (e.g. 6.28). Ed. Lakshman
+Sarup, *The Nighaṇṭu and the Nirukta* (introduction, text, English translation and notes), first
+published 1920–1927; repr. Delhi: Motilal Banarsidass, 1967. The course quotes the GRETIL
+e-text "based on the edition by Lakshman Sarup" (input by Munoe Tokunaga and M. Kobayashi,
+1999); the printed text was not opened.
+
 <a id="maheshvarasutras"></a>**maheshvarasutras** — The 14 varṇa-samāmnāya sūtras
 (अइउण् … हल्) prefixed to the Aṣṭādhyāyī tradition. Cited by sūtra number 1–14.
 
