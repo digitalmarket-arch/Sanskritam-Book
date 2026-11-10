@@ -12,16 +12,16 @@ lesson: 3
 lesson_type: grammar
 cefr: A2
 duration_minutes: 45
-self_study_minutes: 35
+self_study_minutes: 38
 prerequisites: [v3.c04.l02]
 review_of: [v3.c04.l02, v3.c04.l01, v2.c02.l04, v2.c03.l02, v2.c01.l02, v1.c06.l04, v1.c06.l01, v1.c01.l01, v1.c05.l01, v2.c06.l01]
 objectives:
   - en: "Split the owned joined shapes जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति and तस्मिन्नेव into their pause forms and name what changed at each seam (anusvāra, voicing, place, doubling)."
-    hi: "अपने जाने-पहचाने जुड़े रूपों — जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति, तस्मिन्नेव — को विराम-रूप में अलग करें और बताएँ कि हर जोड़ पर क्या बदला (अनुस्वार, घोषत्व, स्थान, द्वित्व)।"
+    hi: "अपने जाने-पहचाने जुड़े रूपों — जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति, तस्मिन्नेव — को विराम-रूप में अलग करें और बताएँ कि हर जोड़ पर क्या बदला: अनुस्वार, घोषत्व, स्थान, द्वित्व।"
   - en: "Join a word ending in म्, क्, ट्, त् or न् to the next word: म् → ं before a consonant and joined before a vowel; a final stop voiced before a voiced sound; त् + च/छ/ज; न् doubled after a short vowel; a consonant-final word written together with the next."
     hi: "म्, क्, ट्, त् या न् पर ख़त्म होने वाले शब्द को अगले शब्द से जोड़ें: व्यञ्जन से पहले म् → ं और स्वर से पहले जुड़कर; घोष ध्वनि से पहले अन्तिम स्पर्श घोष; त् + च/छ/ज; ह्रस्व स्वर के बाद न् का द्वित्व; व्यञ्जनान्त शब्द अगले शब्द से मिलाकर लिखा जाए।"
   - en: "State, according to Pāṇini, what 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते and 8.4.40 स्तोः श्चुना श्चुः say, and state the anusvāra contrast with Hindi exactly (संगीत / सङ्गीत; किं करोति or किङ्करोति)."
-    hi: "पाणिनि के अनुसार बताएँ कि 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते और 8.4.40 स्तोः श्चुना श्चुः क्या कहते हैं, और हिन्दी से अनुस्वार का अन्तर ठीक-ठीक बताएँ (संगीत / सङ्गीत; किं करोति या किङ्करोति)।"
+    hi: "पाणिनि के अनुसार बताएँ कि 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते और 8.4.40 स्तोः श्चुना श्चुः क्या कहते हैं, और हिन्दी से अनुस्वार का अन्तर ठीक-ठीक बताएँ — संगीत / सङ्गीत; किं करोति या किङ्करोति।"
   - en: "Read aloud a line joined at every seam taught so far, and write one from dictation in both forms."
     hi: "अब तक सिखाए हर जोड़ पर जुड़ी पंक्ति ज़ोर से पढ़ें, और श्रुतलेख में उसे दोनों रूपों में लिखें।"
 new_letters: []
@@ -63,9 +63,9 @@ the doves joined at every seam.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Split the owned joined shapes जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति and तस्मिन्नेव into their pause forms and name what changed at each seam (anusvāra, voicing, place, doubling). | अपने जाने-पहचाने जुड़े रूपों — जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति, तस्मिन्नेव — को विराम-रूप में अलग करें और बताएँ कि हर जोड़ पर क्या बदला (अनुस्वार, घोषत्व, स्थान, द्वित्व)। |
+| 1 | Split the owned joined shapes जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति and तस्मिन्नेव into their pause forms and name what changed at each seam (anusvāra, voicing, place, doubling). | अपने जाने-पहचाने जुड़े रूपों — जगच्च, षडादि-, सर्वं कुशलम्, सत्यमेव, कश्चिद्दुःखभाग्भवेत्, जलमस्ति, तस्मिन्नेव — को विराम-रूप में अलग करें और बताएँ कि हर जोड़ पर क्या बदला: अनुस्वार, घोषत्व, स्थान, द्वित्व। |
 | 2 | Join a word ending in म्, क्, ट्, त् or न् to the next word: म् → ं before a consonant and joined before a vowel; a final stop voiced before a voiced sound; त् + च/छ/ज; न् doubled after a short vowel; a consonant-final word written together with the next. | म्, क्, ट्, त् या न् पर ख़त्म होने वाले शब्द को अगले शब्द से जोड़ें: व्यञ्जन से पहले म् → ं और स्वर से पहले जुड़कर; घोष ध्वनि से पहले अन्तिम स्पर्श घोष; त् + च/छ/ज; ह्रस्व स्वर के बाद न् का द्वित्व; व्यञ्जनान्त शब्द अगले शब्द से मिलाकर लिखा जाए। |
-| 3 | State, according to Pāṇini, what 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते and 8.4.40 स्तोः श्चुना श्चुः say, and state the anusvāra contrast with Hindi exactly (संगीत / सङ्गीत; किं करोति or किङ्करोति). | पाणिनि के अनुसार बताएँ कि 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते और 8.4.40 स्तोः श्चुना श्चुः क्या कहते हैं, और हिन्दी से अनुस्वार का अन्तर ठीक-ठीक बताएँ (संगीत / सङ्गीत; किं करोति या किङ्करोति)। |
+| 3 | State, according to Pāṇini, what 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते and 8.4.40 स्तोः श्चुना श्चुः say, and state the anusvāra contrast with Hindi exactly (संगीत / सङ्गीत; किं करोति or किङ्करोति). | पाणिनि के अनुसार बताएँ कि 8.3.23 मोऽनुस्वारः, 8.2.39 झलां जशोऽन्ते और 8.4.40 स्तोः श्चुना श्चुः क्या कहते हैं, और हिन्दी से अनुस्वार का अन्तर ठीक-ठीक बताएँ — संगीत / सङ्गीत; किं करोति या किङ्करोति। |
 | 4 | Read aloud a line joined at every seam taught so far, and write one from dictation in both forms. | अब तक सिखाए हर जोड़ पर जुड़ी पंक्ति ज़ोर से पढ़ें, और श्रुतलेख में उसे दोनों रूपों में लिखें। |
 
 Objective 1 is built in §8 Steps 1–3 and §15 Steps 2–6, and tested in §18 (exercises 1, 2)
@@ -272,13 +272,19 @@ map, production. Splitting comes before joining, as in lessons 1 and 2.
 
 ### Step 1 — the scene
 
-Three things you own, written on the board as Volume 2 printed them:
+A morning at home. A friend at the door asks how you are, and you answer as Volume 2 taught
+you (v2.c01.l02):
 
-| owned shape | IAST | where | gloss |
-|---|---|---|---|
-| परिवारः जगच्च | parivāraḥ jagacca | v2.c02, the chapter title | "family and world" |
-| षडादिदशान्ताः | ṣaḍādidaśāntāḥ | v2.c03.l02, the lesson title | "the ones from six to ten" |
-| सर्वं कुशलम् | sarvaṃ kuśalam | v2.c01.l02, the greeting's answer | "all is well" |
+> **सर्वं कुशलम्।**
+> (sarvaṃ kuśalam.) "All is well." — सब कुशल है।
+
+On the table lies your Volume 2 book, open at two titles, printed as Volume 2 printed them:
+
+> **परिवारः जगच्च**
+> (parivāraḥ jagacca) "family and world" — परिवार और जगत् — the chapter title of v2.c02
+
+> **षडादिदशान्ताः**
+> (ṣaḍādidaśāntāḥ) "the ones from six to ten" — छह से दस तक — the lesson title of v2.c03.l02
 
 You can read every one. You know the words inside them: परिवारः, जगत्, च; षट्, दश; सर्वम्,
 कुशलम्. And in each something is not the word you know.
@@ -453,7 +459,7 @@ heard: the tongue goes straight to the palate and holds the च (or ज) for two
 तस्मिन्नेव, अगच्छन्नपि the न्न is held, as in Hindi अन्न; in तानपश्यत्, धीमानपि there is one
 light न. Say तस्मिन्नेव — तानपश्यत् five times as a pair.
 
-**Drill 4 — listening: vowel or consonant?** Eight joined phrases are played once each, in the
+**Drill 4 — listening: vowel or consonant? (homework, §21)** Eight joined phrases are played once each, in the
 order of the track; the list is in §19's key, not here. For each, write **V** if the second
 word began with a vowel and **C** if it began with a consonant. The ear test is the anusvāra
 and the doubled or voiced sound: a dot means a consonant came next; a full म् or a न्न written
@@ -1020,8 +1026,8 @@ the ten lines you read with no pause at its seams.
 **अभ्यासः 7 · मम परिवारः — "my family in the morning": production, homework, written.**
 Write six sentences of your own, first in pause form, then joined at every ✓ seam you have
 learned — vowel, visarga and consonant. Use at least two म् seams before a vowel and two
-before a consonant. If a sentence of yours has a seam from a ◐ row, join it if you can or
-leave the sentence out: you are not marked on it.
+before a consonant. If a sentence of yours would need a seam from a ◐ row, change the
+sentence or leave it out: ◐ rows are for reading and splitting, never for joining.
 
 **श्रुतलेखः · Dictation (6): production, in class.** §9 Drill 5: six items heard in pause form;
 write each in pause form, then joined.
@@ -1134,7 +1140,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 35 minutes total.
+गृहकार्यम् — about 38 minutes total.
 
 1. **(4 min)** §18 exercise 2: split the six ◐ shapes; check against §19's key. Not scored.
 2. **(4 min)** §18 exercise 4: the vowel-or-consonant sort, then the joins.
@@ -1146,7 +1152,9 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 6. **(3 min)** The §19 quiz, from memory, then checked against its key. Every wrong answer
    sends you to the § named beside it in the key. Check exercises 1 and 3 from class against
    the key at the same time.
-7. **(3 min, real world)** Find one Hindi word printed with the anusvāra dot before a stop —
+7. **(3 min)** §9 Drill 4, the listening: play the eight phrases from the track once each, in
+   its order, write V or C for each, then check against §19's key.
+8. **(3 min, real world)** Find one Hindi word printed with the anusvāra dot before a stop —
    on a sign, a packet, a newspaper: संगीत, हिंदी, गंगा, पंजाब … Write it in the classical
    spelling (सङ्गीत, हिन्दी, गङ्गा, पञ्जाब), then say in one Hindi line that both are read
    alike.
@@ -1163,9 +1171,9 @@ with a star, and leave it there until §8 Step 5's third callout removes it.
 **Timing plan (45 min):** Station 0, two items, scores logged (8) → the scene and the question
 (3) → the evidence table (5) → the three questions named (3) → the map assembled: म्,
 voicing, place, न् (8) → the three sūtras at their rows (3) → the vowel-or-consonant sort
-aloud (2) → production: exercise 1 split (4), exercise 3 join (4) → §9 pairs, the Drill 4 listening and the dictation
-(3) → §17 read, the bookings, homework (2). Exercises 2, 4, 5, 6 and 7 and the §19 quiz are
-homework (§21), with exercises 1 and 3 checked at home against the key; the dictation is
+aloud (2) → production: exercise 1 split (4), exercise 3 join (4) → §9 pairs and the dictation
+(3) → §17 read, the bookings, homework (2). Exercises 2, 4, 5, 6 and 7, the §9 Drill 4
+listening and the §19 quiz are homework (§21), with exercises 1 and 3 checked at home against the key; the dictation is
 marked in class.
 
 **The dictation (§9 Drill 5), to be read aloud in this order, twice each, in pause form:** 1
@@ -1303,7 +1311,7 @@ narrator reads the cue, not the English spelling.
 - **02:10** A final stop goes voiced before a voiced sound: ṣaṭ atra [ʂɐɖɐt̪ɾɐ]. And a final n
   after a short vowel doubles: tasminn eva [t̪ɐsmin̪n̪eːʋɐ].
 - **03:50** Pāṇini says it in three short lines — eight three twenty-three, eight two
-  thirty-nine, eight four forty. In Hindi print, saṅgīta is often written with a dot: both
+  thirty-nine, eight four forty. In Hindi print, saṅgīta may be written with a dot: both
   are read alike.
 - **05:00** The doves' tale, joined at every seam. Four new words today — four hundred and
   fifty-five.

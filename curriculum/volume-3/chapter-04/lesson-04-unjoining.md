@@ -17,13 +17,13 @@ prerequisites: [v3.c04.l03]
 review_of: [v3.c04.l03, v3.c04.l02, v3.c04.l01, v2.c06.l03, v1.c06.l04, v2.c06.l01, v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01]
 objectives:
   - en: "Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method of §8, writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?)."
-    hi: "पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें (मूषक आगच्छति: मूषकः या मूषके?)।"
+    hi: "पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें — मूषक आगच्छति: मूषकः या मूषके?"
   - en: "Read aloud the owned joined lines — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, the benediction and the serial so far — and give each one's pause form (पदपाठः)."
-    hi: "अपनी जानी-पहचानी जुड़ी पंक्तियाँ — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, मंगल-श्लोक और अब तक की कथा — ज़ोर से पढ़ें और हर एक का विराम-रूप (पदपाठ) दें।"
+    hi: "अपनी जानी-पहचानी जुड़ी पंक्तियाँ — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, मंगल-श्लोक और अब तक की कथा — ज़ोर से पढ़ें और हर एक का विराम-रूप — पदपाठ — दें।"
   - en: "Say, according to Pāṇini (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) and to the Vedic tradition, what संहिता, अवसानम् and पदपाठः are, and show with one example that printed texts vary in how they divide words."
-    hi: "पाणिनि (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) और वैदिक परम्परा के अनुसार बताएँ कि संहिता, अवसान और पदपाठ क्या हैं, और एक उदाहरण से दिखाएँ कि छपे ग्रन्थ शब्दों को अलग-अलग ढंग से बाँटते हैं।"
+    hi: "पाणिनि — 1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम् — और वैदिक परम्परा के अनुसार बताएँ कि संहिता, अवसान और पदपाठ क्या हैं, और एक उदाहरण से दिखाएँ कि छपे ग्रन्थ शब्दों को अलग-अलग ढंग से बाँटते हैं।"
   - en: "Name, without applying, the four changes inside words you have seen: the ण of रामेण, the ष of रामेषु and करोषि, the guṇa inside गुरवे, and भवति = भो + अति."
-    hi: "शब्दों के भीतर देखे चार बदलावों के नाम बताएँ (लागू करना नहीं): रामेण का ण, रामेषु और करोषि का ष, गुरवे के भीतर गुण, और भवति = भो + अति।"
+    hi: "शब्दों के भीतर देखे चार बदलावों के नाम बताएँ, लागू किए बिना: रामेण का ण, रामेषु और करोषि का ष, गुरवे के भीतर गुण, और भवति = भो + अति।"
 new_letters: []
 new_matras: []
 vocabulary_count: 5
@@ -64,10 +64,10 @@ writes is printed joined, with its pause form beneath it.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method of §8, writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?). | पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें (मूषक आगच्छति: मूषकः या मूषके?)। |
-| 2 | Read aloud the owned joined lines — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, the benediction and the serial so far — and give each one's pause form (पदपाठः). | अपनी जानी-पहचानी जुड़ी पंक्तियाँ — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, मंगल-श्लोक और अब तक की कथा — ज़ोर से पढ़ें और हर एक का विराम-रूप (पदपाठ) दें। |
-| 3 | Say, according to Pāṇini (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) and to the Vedic tradition, what संहिता, अवसानम् and पदपाठः are, and show with one example that printed texts vary in how they divide words. | पाणिनि (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) और वैदिक परम्परा के अनुसार बताएँ कि संहिता, अवसान और पदपाठ क्या हैं, और एक उदाहरण से दिखाएँ कि छपे ग्रन्थ शब्दों को अलग-अलग ढंग से बाँटते हैं। |
-| 4 | Name, without applying, the four changes inside words you have seen: the ण of रामेण, the ष of रामेषु and करोषि, the guṇa inside गुरवे, and भवति = भो + अति. | शब्दों के भीतर देखे चार बदलावों के नाम बताएँ (लागू करना नहीं): रामेण का ण, रामेषु और करोषि का ष, गुरवे के भीतर गुण, और भवति = भो + अति। |
+| 1 | Take any joined line built from the seams of lessons 1–3 into its pause form by the six-step method of §8, writing every candidate split at an ambiguous seam before choosing (मूषक आगच्छति: मूषकः or मूषके?). | पाठ 1–3 के जोड़ों से बनी किसी भी जुड़ी पंक्ति को छह चरणों की विधि से विराम-रूप में लाएँ, और जहाँ जोड़ अस्पष्ट हो वहाँ चुनने से पहले हर सम्भव विभाजन लिखें — मूषक आगच्छति: मूषकः या मूषके? |
+| 2 | Read aloud the owned joined lines — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, the benediction and the serial so far — and give each one's pause form (पदपाठः). | अपनी जानी-पहचानी जुड़ी पंक्तियाँ — अहिंसा परमो धर्मः, सत्यमेव जयते, न कोऽपि लघुः, मंगल-श्लोक और अब तक की कथा — ज़ोर से पढ़ें और हर एक का विराम-रूप — पदपाठ — दें। |
+| 3 | Say, according to Pāṇini (1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम्) and to the Vedic tradition, what संहिता, अवसानम् and पदपाठः are, and show with one example that printed texts vary in how they divide words. | पाणिनि — 1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम् — और वैदिक परम्परा के अनुसार बताएँ कि संहिता, अवसान और पदपाठ क्या हैं, और एक उदाहरण से दिखाएँ कि छपे ग्रन्थ शब्दों को अलग-अलग ढंग से बाँटते हैं। |
+| 4 | Name, without applying, the four changes inside words you have seen: the ण of रामेण, the ष of रामेषु and करोषि, the guṇa inside गुरवे, and भवति = भो + अति. | शब्दों के भीतर देखे चार बदलावों के नाम बताएँ, लागू किए बिना: रामेण का ण, रामेषु और करोषि का ष, गुरवे के भीतर गुण, और भवति = भो + अति। |
 
 Objective 1 is built in §8 (the six steps, the reverse table, the ambiguity) and §13, and
 tested in §18 (exercises 1, 2, 7 and the dictation) and §19 (Q1–Q5); objective 2 in §8 (the

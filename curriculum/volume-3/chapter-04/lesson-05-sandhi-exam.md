@@ -23,7 +23,7 @@ objectives:
   - en: "Write five sentences from dictation, joined, then give their pause form."
     hi: "श्रुतलेख में पाँच वाक्य जुड़े रूप में लिखें, फिर उनका विराम-रूप दें।"
   - en: "Explain in three lines each why नमस्ते, विद्यालयः, परोपकारः and न कोऽपि लघुः look as they do, and name, having assembled them on one page (§15, unscored), the three sandhi maps and the tradition's names संहिता and पदपाठः."
-    hi: "तीन-तीन पंक्तियों में समझाएँ कि नमस्ते, विद्यालयः, परोपकारः और न कोऽपि लघुः ऐसे क्यों दिखते हैं, और तीनों सन्धि-मानचित्रों तथा परम्परा के नाम संहिता और पदपाठ बताएँ — उन्हें एक पृष्ठ पर जोड़ लेने के बाद (§15, बिना अंक)।"
+    hi: "तीन-तीन पंक्तियों में समझाएँ कि नमस्ते, विद्यालयः, परोपकारः और न कोऽपि लघुः ऐसे क्यों दिखते हैं, और तीनों सन्धि-मानचित्रों तथा परम्परा के नाम संहिता और पदपाठ बताएँ — उन्हें एक पृष्ठ पर जोड़ लेने के बाद — §15, बिना अंक।"
 new_letters: []
 new_matras: []
 vocabulary_count: 0
@@ -69,7 +69,7 @@ sentences from dictation, four short explanations. The title, **सन्धि�
 | 1 | Split sixteen joined phrases, naming the rule at each seam, and join sixteen pause-form pairs of mixed types, against the clock. | सोलह जुड़े पद-समूहों को अलग करें और हर जोड़ का नियम बताएँ, और मिले-जुले प्रकार के सोलह विराम-रूप युग्मों को समय के भीतर जोड़ें। |
 | 2 | Read the Volume 2 crow story aloud, joined, at natural pace, with no pause at any seam. | दूसरे खण्ड की कौए की कथा जुड़े रूप में, स्वाभाविक गति से, किसी जोड़ पर रुके बिना ज़ोर से पढ़ें। |
 | 3 | Write five sentences from dictation, joined, then give their pause form. | श्रुतलेख में पाँच वाक्य जुड़े रूप में लिखें, फिर उनका विराम-रूप दें। |
-| 4 | Explain in three lines each why नमस्ते, विद्यालयः, परोपकारः and न कोऽपि लघुः look as they do, and name, having assembled them on one page (§15, unscored), the three sandhi maps and the tradition's names संहिता and पदपाठः. | तीन-तीन पंक्तियों में समझाएँ कि नमस्ते, विद्यालयः, परोपकारः और न कोऽपि लघुः ऐसे क्यों दिखते हैं, और तीनों सन्धि-मानचित्रों तथा परम्परा के नाम संहिता और पदपाठ बताएँ — उन्हें एक पृष्ठ पर जोड़ लेने के बाद (§15, बिना अंक)। |
+| 4 | Explain in three lines each why नमस्ते, विद्यालयः, परोपकारः and न कोऽपि लघुः look as they do, and name, having assembled them on one page (§15, unscored), the three sandhi maps and the tradition's names संहिता and पदपाठः. | तीन-तीन पंक्तियों में समझाएँ कि नमस्ते, विद्यालयः, परोपकारः और न कोऽपि लघुः ऐसे क्यों दिखते हैं, और तीनों सन्धि-मानचित्रों तथा परम्परा के नाम संहिता और पदपाठ बताएँ — उन्हें एक पृष्ठ पर जोड़ लेने के बाद — §15, बिना अंक। |
 
 Objective 1 is assessed in §18 tasks A and B and in §19 (Q1–Q7); objective 2 in task C;
 objective 3 in task D and §19 (Q8, the spaces of joined print); objective 4 in task E and,
@@ -111,7 +111,9 @@ Answer aloud, then in one written word or line: (1) **from v3.c04.l01:** name th
 सदैव. (2) **from v3.c04.l02:** name the rule of पुनर्मिलामः. (3) **from v3.c04.l03:** name
 the rule of जगच्च. (4) **from v3.c04.l04:** give the pause form of तीर एकः. The volume
 spiral's two prompts, a case and a verb form, are not here: they sit inside task A (items 14
-and 15).
+and 15). The other lessons this exam reviews are reached in the sitting as well: v3.c03.l05 by
+task A's item 15 (the imperfect), v3.c02.l05 by the duals of task B (items 3, 5 and 7), and
+v2.c06.l01 by task C, its crow story.
 
 <details><summary>उत्तराणि · Station 0 Key</summary>
 
@@ -171,7 +173,8 @@ form "According to …".
 
 > **[TRADITION · परम्परा]** Hindi school grammar sorts these joins under three heads, स्वर
 > सन्धि, व्यंजन सन्धि and विसर्ग सन्धि, and the vowel joins under five names — दीर्घ, गुण,
-> वृद्धि, यण्, अयादि — the same five the Pāṇinian tradition uses. [REF:guru1952]
+> वृद्धि, यण्, अयादि — the same five the Pāṇinian tradition uses; the tradition's पूर्वरूपम् and
+> प्रगृह्यम् are names Hindi school grammar does not need for Hindi words. [REF:guru1952]
 
 The course writes the GLOSSARY spelling व्यञ्जन-सन्धि; a schoolbook prints व्यंजन संधि, the same
 words in the dot spelling (l03 §15 Step 7). Nothing in today's lesson carries a date, and none
@@ -187,7 +190,7 @@ taught. The new thing is the frame that holds them.
 
 > **[FACT · तथ्यम्]** Sanskrit avoids certain meetings of sounds across a word boundary.
 > Whitney: "The concurrence of two vowels, or of vowel and diphthong, without intervening
-> consonant, is forbidden by the euphonic habit of the later language"; and among consonants,
+> consonant, is forbidden by the euphony of the later or classical language"; and among consonants,
 > "the collision of surd and sonant sounds is avoided … by assimilating the final to the
 > following initial". [REF:whitney1889 §125]; [REF:whitney1889 §159]
 
@@ -199,7 +202,7 @@ question into your page.
 
 > **[FACT · तथ्यम्]** Joining loses information: one joined shape can come from more than
 > one pair of words, so splitting needs the grammar of the sentence to choose. [REF:whitney1889
-> §126]
+> §126a]
 
 That is lesson 4's finding (l04 §5), and it is why task A gives half its marks for the rule
 and task D asks for the pause form after the joined line: a split is a decision, not a
@@ -288,7 +291,8 @@ and पदपाठे is the locative of the term पदपाठः.
 आगच्छति; तागच्छन्ति या मूषकागच्छति ग़लत हैं। दूसरी: रिक्त स्थान का नियम। जुड़ी छपाई में
 जगह केवल स्वर, अनुस्वार या विसर्ग पर समाप्त होने वाले शब्द के बाद आती है; व्यञ्जन पर
 समाप्त होने वाला शब्द अगले से सटकर लिखा जाता है (तस्मिन्वृक्षे)। तीसरी: दण्ड, प्रश्नचिह्न,
-विस्मयादिबोधक चिह्न और अल्पविराम के पार कोई सन्धि नहीं होती, और इनसे पहले शब्द अपने
+विस्मयादिबोधक चिह्न, अल्पविराम, कथन से पहले की रेखा (—) और इति से पहले के समापन उद्धरण-चिह्न के
+पार कोई सन्धि नहीं होती, और इनसे पहले शब्द अपने
 विराम-रूप में रहता है।
 
 हिन्दी यहाँ मदद भी करती है और धोखा भी देती है। मदद इसलिए कि विद्यालय, सूर्योदय, परोपकार,
@@ -412,7 +416,7 @@ heard as two vowels one after the other, with no glide and no catch in the throa
 anusvāra takes the place of the next sound. And every short अ is sounded, inside a block as
 much as anywhere: four syllables in जलमस्ति, not three.
 
-**The model block.** §16's turn 5 is the longest block on today's page and the model for
+**The model block.** §16's turn 5 is the block with the most seams on today's page and the model for
 task C: गुरुरप्यत्रैवागच्छति — four seams, one of lesson 2 (गुरुः + अपि) and three of lesson 1
 (यण्, वृद्धिः, सवर्णदीर्घः), said in one breath. Say it three times before the sitting, slowly, then at natural pace, then at
 natural pace with your eyes off the page (§10 gives its IPA).
@@ -463,8 +467,8 @@ next sound first, then the dot.
   word's first sound. Decide the space last: a space only after a vowel, ं or ः.
 - **Task C (mouth):** two minutes' silent reading first: mark each daṇḍa and comma with a
   breath sign, and nothing else. Then read with the lips and tongue already on the next sound
-  at every seam: the lips closed for the anusvāra before प, the tongue at the teeth for the
-  held न्न.
+  at every seam: the lips closed for the anusvāra before प, the tongue already at the palate
+  for the य् of उपर्यागच्छति.
 - **Task D (ears, then pen):** listen for the joined shape, not the words: a long आ, a र्
   before a consonant, an ओ before a voiced sound. Write it as heard; take it apart only when all
   five are down.
@@ -480,9 +484,9 @@ and the lesson that fixes it.
 |---|---|---|---|
 | 1 | Joining a pragṛhya dual: द्वे फले अत्र → \*द्वे फलेऽत्र | B item 7, §19 Q3 | a dual in -ई, -ऊ, -ए is checked first and never joins — l01 §15 Step 7; l01 §12 mistake 1 |
 | 2 | Closing the gap after -ए, -अः, -आः: \*तागच्छन्ति, \*रामागच्छति | A item 7, B item 10, C lines 4 and 6, §19 Q2 | the gap left at a word end is not joined again — l01 §15 Step 5; l02 §15 Step 1; l01 §12 mistake 2 |
-| 3 | सः treated as an ordinary -अः: \*सो गच्छति | A item 12, B item 12, C lines 2–4, 6, 7, 9, 10, §19 Q5 | सः and एषः drop their ः before any consonant — l02 §15 Step 3; l02 §12 mistake 3 |
+| 3 | सः treated as an ordinary -अः: \*सो गच्छति | A item 12, B item 12, C lines 2, 3, 7, 9, 10, §19 Q5 | सः and एषः drop their ः before any consonant — l02 §15 Step 3; l02 §12 mistake 3 |
 | 4 | An r-final treated as -अः: \*पुनो मिलामः | B item 16, D sentence 4 | पुनः, प्रातः, अन्तः keep र् before a voiced sound — l02 §15 Step 2; l02 §12 mistake 4 |
-| 5 | Double application of the anusvāra: \*सत्यंएव | B item 13, C lines 3–6, 8, 9, §19 Q6 | ं only before a consonant; before a vowel म् stays and joins — l03 §15 Step 2; l03 §12 mistake 1 |
+| 5 | Double application of the anusvāra: \*सत्यंएव | B item 13, C lines 3, 5, 8, §19 Q6 | ं only before a consonant; before a vowel म् stays and joins — l03 §15 Step 2; l03 §12 mistake 1 |
 | 6 | Guessing a split without the candidate list: \*मूषके for मूषक in मूषक आगच्छति | A items 7 and 13, D | write every candidate, then let the sentence choose — l04 §8, "Splitting can be ambiguous"; l04 §12 mistake 1 |
 
 The chapter's other mistakes are fixed in the lesson that taught them: l01 §12 (the wrong grade
@@ -627,8 +631,8 @@ sound after it. Every cell is ✓ unless it is marked.
 | त थ | स् — नमस्ते · कस्त्वम् · व्याधस्तत्र | -आस्त- — कपोतास्तत्र · नद्यास्तीरे | -इस्त- — हरिस्तत्र · बहिस्तिष्ठति | -स्त- — पुनस्तत्र · अन्तस्तिष्ठति |
 | श ष स | ः printed, the doubled sibilant also correct — रामः सीता / रामस्सीता · शनैः शनैः / शनैश्शनैः | ः — छात्राः सन्ति | ः — गुरुः शृणोति | ः — पुनः सः |
 | a voiced consonant: ग घ ज झ ड ढ द ध ब भ ङ ञ ण न म य र ल व ह | ओ — परमो धर्मः · सिंहो हसति · क्रुद्धो भवति · परिवारो जगच्च · पाठो नमस्ते | आ — छात्रा गच्छन्ति · कपोता हसन्ति · बद्धा भवन्ति | र् — गुरुर्वदति · उच्चैर्वदति · शत्रोर्जाले · बहिर्गच्छति | र् — पुनर्मिलामः · पुनर्वदतु · प्रातर्गच्छति |
-| अ | ओऽ — कोऽपि · सोऽपि · अनुगृहीतोऽस्मि · सोऽहम् · एको व्याधोऽस्ति | आ + gap — देवा अत्र · छात्रा अपि | र् — हरिरत्र · गुरुरपि | र् — पुनरपि · प्रातरपि |
-| another vowel: आ इ ई उ ऊ ए ऐ ओ औ | अ + gap — राम आगच्छति · मूषक आगच्छति · नृप उवाच · इकार ईकारश्च | आ + gap — छात्रा आगच्छन्ति · बद्धा अभवन् | र् — बुद्धिरेव · शनैरागच्छामि | र् — प्रातरेव · पुनरागच्छति · अन्तरागच्छ |
+| अ | ओऽ — कोऽपि · सोऽपि · अनुगृहीतोऽस्मि · सोऽहम् · एको व्याधोऽस्ति | आ + gap — देवा अत्र · छात्रा अपि · बद्धा अभवन् | र् — हरिरत्र · गुरुरपि | र् — पुनरपि · प्रातरपि |
+| another vowel: आ इ ई उ ऊ ए ऐ ओ औ | अ + gap — राम आगच्छति · मूषक आगच्छति · नृप उवाच · इकार ईकारश्च | आ + gap — छात्रा आगच्छन्ति | र् — बुद्धिरेव · शनैरागच्छामि | र् — प्रातरेव · पुनरागच्छति · अन्तरागच्छ |
 | र | ओ, as र is a voiced consonant — रामो रक्षति | आ — देवा रक्षन्ति | ◐ the र् drops, a short vowel lengthens — गुरुः रक्षति → गुरू रक्षति · हरिः रक्षति → हरी रक्षति | ◐ the same — पुनः रक्षति → पुना रक्षति |
 
 The special words: सः and एषः lose the ः before any consonant (स गच्छति, एष बालकः, 6.1.132) and
@@ -686,15 +690,15 @@ before a vowel follow the -अः column (सोऽपि, स एकम्); �
 
 ### (2) The six steps of पदच्छेदः
 
-> **[FACT · तथ्यम्]** A joined line is taken back into its words by a fixed order of checks:
-> (1) stops first — every daṇḍa, "?", "!", dash, quotation mark and comma, across which no
-> seam runs; (2) the spaces — undo the word before each (ं → -म्; a final -ओ before a voiced
-> consonant → -अः; a final -अ before a vowel → -अः or -ए; स or एष before a consonant → सः,
-> एषः; a final -आ before a voiced sound → -आः, or -ऐ before a vowel); (3) the signs inside a
-> written block — ऽ, then र्, श्, स् at a likely boundary, then a consonant + vowel, then the
-> conjunct seams, then the vowel fusions; (4) candidates — every pause-form pair that could
-> give the seam; (5) choose — both halves real words, fitting the sentence; (6) check —
-> re-join, and the line must come back. (l04 §8) [REF:whitney1889 §126]
+In this course, a joined line is taken back into its words by a fixed order of checks (l04 §8):
+(1) stops first — every daṇḍa, "?", "!", dash, quotation mark and comma, across which no
+seam runs; (2) the spaces — undo the word before each (ं → -म्; a final -ओ before a voiced
+consonant → -अः; a final -अ before a vowel → -अः or -ए; स or एष before a consonant → सः,
+एषः; a final -आ before a voiced sound → -आः, or -ऐ before a vowel); (3) the signs inside a
+written block — ऽ, then र्, श्, स् at a likely boundary, then a consonant + vowel, then the
+conjunct seams, then the vowel fusions; (4) candidates — every pause-form pair that could
+give the seam; (5) choose — both halves real words, fitting the sentence; (6) check —
+re-join, and the line must come back.
 
 ### (3) The honest lines
 
@@ -853,7 +857,8 @@ seams. Pause forms and glosses are copied from l04 §8, where you took the lines
 
 ## 18. Exercises
 
-अभ्यासाः — the five exam tasks, one 45-minute sitting: 2 minutes of instructions and the
+अभ्यासाः — the five exam tasks, one 45-minute sitting, closed-book (no notes, no maps, no lesson
+open): 2 minutes of instructions and the
 hand-out of the booklet, then the five tasks in this order. A, B, D and E score against §19's
 key; C against the rubric below and in §22. Production: B is written production, C is spoken
 production (recorded), D is written from dictation, E is written explanation; A splits and
@@ -933,12 +938,12 @@ sitting.
 2. तेऽपि split: (a) ते अपि (b) तः अपि (c) तेः पि (d) त अपि
 3. Which pair is joined wrongly? (a) सदा एव → सदैव (b) द्वे बालिके अत्र → द्वे बालिकेऽत्र
    (c) न अस्ति → नास्ति (d) इति अवदत् → इत्यवदत्
-4. गुरुः अपि joined: (a) गुरोऽपि (b) गुरुरपि (c) गुरु अपि (d) गुरुस्अपि
+4. गुरुः अपि joined: (a) गुरुऽपि (b) गुरुरपि (c) गुरु अपि (d) गुरुस्अपि
 5. सः अपि joined: (a) स अपि (b) सोऽपि (c) सोअपि (d) सरपि
 6. जलम् अस्ति joined: (a) जलं अस्ति (b) जलमस्ति (c) जलंस्ति (d) जलामस्ति
 7. तत् च joined: (a) तद्च (b) तच्च (c) तत्च (d) तश्च
-8. In joined print, a space stands after: (a) any word (b) a word ending in a vowel, ं or ः
-   (c) a word ending in a consonant (d) only before a daṇḍa
+8. In joined print, a space stands after: (a) any word (b) a word that, after the join, still
+   ends in a vowel, ं or ः (c) a word ending in a consonant (d) only before a daṇḍa
 9. According to the Vedic tradition, a पदपाठः gives: (a) the joined text (b) each word in its
    own form (c) the meaning (d) the metre
 10. According to Pāṇini, which sūtra says that the ः of सः drops before a consonant?
@@ -954,7 +959,8 @@ sitting.
    अयादि gap put where a short अ follows the ए, which merges instead. FACT.
 3. (b) — a dual in -ए is pragṛhya and never joins (l01 §15 Step 7; §12 mistake 1). (a), (c),
    (d) are the right joins. FACT.
-4. (b) — any other vowel + ः before a vowel gives र् (l02 §15 Step 1). (a) treats -उः as -अः;
+4. (b) — any other vowel + ः before a vowel gives र् (l02 §15 Step 1). (a) drops the अ of अपि as
+   -अः + अ does, with no ओ to carry the ऽ;
    (c) leaves a gap where none belongs; (d) keeps the स् of the त-row before a vowel. FACT.
 5. (b) — before अ, सः follows the -अः column: ओऽ (l02 §15 Step 3). (a) applies 6.1.132, which
    works only before a consonant (§12 mistake 3 the other way round); (c) keeps the अ that ओऽ
@@ -963,10 +969,12 @@ sitting.
    and (c) are §12 mistake 5; (d) lengthens a vowel that meets no vowel. FACT.
 7. (b) — त् + च → च्च, 8.4.40 (l03 §15 Step 4). (a) voices the त् before a voiceless sound; (c)
    leaves the त् at the teeth (l03 §12 mistake 3); (d) treats तत् as a visarga word. FACT.
-8. (b) — a space follows a word that ends, after sandhi, in a vowel, an anusvāra or a visarga;
-   a consonant-final word is written into the next (l04 §15, the printing convention). (a)
+8. (b) — a space follows a word that still ends, after the join, in a vowel, an anusvāra or a
+   visarga; where two vowels have fused (नास्ति) there is no space, and a consonant-final word is
+   written into the next (l04 §15, the printing convention). (a)
    forgets the consonant-final words; (c) is the reverse of the rule; (d) confuses the space
-   with a stop. FACT.
+   with a stop. Where two vowels fuse (नास्ति) no space is left at all. FACT about this
+   course's printing convention (STYLE_GUIDE §3.1); editions vary (§15 (3)).
 9. (b) — the word-recitation, "each word … separately in its original form … without regard
    to the rules of Saṃdhi" (§4; l04 §4). TRADITION, asked in the form "According to the Vedic
    tradition".
@@ -1394,8 +1402,9 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 - **Glossary:** the chapter's terms of the fact base §7 item 4 (स्वरसन्धिः, विसर्गसन्धिः,
   व्यञ्जनसन्धिः, सवर्णदीर्घः, गुणः, वृद्धिः, यण्, अयादि, पूर्वरूपम्, प्रगृह्यम्, संहिता, पदपाठः,
   पदच्छेदः, अवसानम्), with their Hindi forms; adding no ledger row today.
-- **Register audit:** FACT ×7 (§4 editions vary · §5 ×5: the avoided meetings, joining loses
-  information, retrieval, chunks, spacing · §15 (2) the six steps) · HISTORY ×0 · TRADITION ×2
+- **Register audit:** FACT ×6 (§4 editions vary · §5 ×5: the avoided meetings, joining loses
+  information, retrieval, chunks, spacing; §15 (2), the six steps, is the course's method in
+  plain text, with no register label) · HISTORY ×0 · TRADITION ×2
   (§4 the padapāṭha · §4 the Hindi school names) · SYMBOL ×0. Quiz Q1–Q8 assess FACT; Q9
   TRADITION framed "According to the Vedic tradition"; Q10 TRADITION framed "According to
   Pāṇini".

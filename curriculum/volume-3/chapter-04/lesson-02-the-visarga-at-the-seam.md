@@ -12,7 +12,7 @@ lesson: 2
 lesson_type: grammar
 cefr: A2
 duration_minutes: 45
-self_study_minutes: 40
+self_study_minutes: 44
 prerequisites: [v3.c04.l01]
 review_of: [v3.c04.l01, v3.c03.l05, v1.c01.l01, v1.c05.l02, v2.c06.l02, v2.c06.l03, v2.c01.l01, v2.c01.l04, v1.c02.l01, v2.c03.l03, v1.c05.l04, v1.c05.l05, v1.c03.l04, v2.c05.l02, v3.c01.l03, v3.c01.l04]
 objectives:
@@ -562,9 +562,10 @@ before क, प, श, स; it is not said where the seam has changed it. Say र
 are heard one after the other, /ɐ/ and /ɑː/, with no glide and no stop between them. Do not
 fuse them into \*रामागच्छति; do not put a breath in the gap.
 
-**Drill 4 — dictation.** Seven items, played in the order printed, each read twice at
-speaking speed. Write each item first in pause form, then joined: नमः ते · कः अपि · रामः च
-· गुरुः वदति · सः गच्छति · पुनः अपि · छात्राः अत्र. Key in §19.
+**Drill 4 — dictation.** Seven items, played in the order of the track, each read twice at
+speaking speed in pause form (the teacher reads them from §22, or the track plays them).
+Write each item first in pause form, then joined. The items are not printed here; the key is
+in §19.
 
 ## 10. IPA
 
@@ -784,8 +785,8 @@ cell unless it is marked.
 | त थ | स् — नमस्ते · कस्त्वम् · व्याधस्तत्र | -आस्त- — कपोतास्तत्र · नद्यास्तीरे | -इस्त- — हरिस्तत्र · बहिस्तिष्ठति | -स्त- — पुनस्तत्र · अन्तस्तिष्ठति |
 | श ष स | ः printed, the doubled sibilant also correct — रामः सीता / रामस्सीता · शनैः शनैः / शनैश्शनैः | ः — छात्राः सन्ति | ः — गुरुः शृणोति | ः — पुनः सः |
 | a voiced consonant: ग घ ज झ ड ढ द ध ब भ ङ ञ ण न म य र ल व ह | ओ — परमो धर्मः · सिंहो हसति · क्रुद्धो भवति · परिवारो जगच्च · पाठो नमस्ते | आ — छात्रा गच्छन्ति · कपोता हसन्ति · बद्धा भवन्ति | र् — गुरुर्वदति · उच्चैर्वदति · शत्रोर्जाले · बहिर्गच्छति | र् — पुनर्मिलामः · पुनर्वदतु · प्रातर्गच्छति |
-| अ | ओऽ — कोऽपि · सोऽपि · अनुगृहीतोऽस्मि · सोऽहम् · एको व्याधोऽस्ति | आ + gap — देवा अत्र · छात्रा अपि | र् — हरिरत्र · गुरुरपि | र् — पुनरपि · प्रातरपि |
-| another vowel: आ इ ई उ ऊ ए ऐ ओ औ | अ + gap — राम आगच्छति · मूषक आगच्छति · नृप उवाच · इकार ईकारश्च | आ + gap — छात्रा आगच्छन्ति · बद्धा अभवन् | र् — बुद्धिरेव · शनैरागच्छामि | र् — प्रातरेव · पुनरागच्छति · अन्तरागच्छ |
+| अ | ओऽ — कोऽपि · सोऽपि · अनुगृहीतोऽस्मि · सोऽहम् · एको व्याधोऽस्ति | आ + gap — देवा अत्र · छात्रा अपि · बद्धा अभवन् | र् — हरिरत्र · गुरुरपि | र् — पुनरपि · प्रातरपि |
+| another vowel: आ इ ई उ ऊ ए ऐ ओ औ | अ + gap — राम आगच्छति · मूषक आगच्छति · नृप उवाच · इकार ईकारश्च | आ + gap — छात्रा आगच्छन्ति | र् — बुद्धिरेव · शनैरागच्छामि | र् — प्रातरेव · पुनरागच्छति · अन्तरागच्छ |
 | र | ओ, as र is a voiced consonant — रामो रक्षति | आ — देवा रक्षन्ति | ◐ the र् drops, a short vowel lengthens — गुरुः रक्षति → गुरू रक्षति · हरिः रक्षति → हरी रक्षति | ◐ the same — पुनः रक्षति → पुना रक्षति |
 
 The 26 ✓ cells: in the -अः column the seven shapes of §8 Step 5 (ः, श्, स्, ः before a
@@ -1068,8 +1069,8 @@ to two questions. Line 10 has the two gaps, -अः and -आः, and one seam fr
 
 अभ्यासाः — seven exercises and a dictation; 3, 4, 6 and 7 are production tasks, 1 and 2 split
 and place, 5 explains. Splitting first, then joining. All keys sit in §19's collapsed key —
-nothing is answered on this page. Exercises 1 and 3 and the dictation are done in class; the
-rest is homework (§21, §22).
+nothing is answered on this page. Exercises 1 and 3 are done in class; the dictation and the
+rest are homework (§21, §22).
 
 **अभ्यासः 1 · पदच्छेदः — split and place on the map (10; objective 1; in class).** Write each
 in pause form, then name its column (the vowel before the ः) and its row (the sound after it):
@@ -1107,8 +1108,8 @@ again, joined at its vowel and visarga seams only — leave every म्, त्
 form. Do not put a word in -इः, -उः, -एः, -ऐः, -ओः, or पुनः, प्रातः, अन्तः, before a word
 that begins with र: that row is ◐, for reading only.
 
-**श्रुतलेखः · dictation (7; objective 4; in class, §9 Drill 4).** Seven items, played in the
-order printed in §9, each twice. Write each in pause form, then joined.
+**श्रुतलेखः · dictation (7; objective 4; homework, §9 Drill 4).** Seven items, played in the
+order of the track (§22 lists them), each twice. Write each in pause form, then joined.
 
 ## 19. Quiz
 
@@ -1219,7 +1220,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 40 minutes total.
+गृहकार्यम् — about 44 minutes total.
 
 1. **(5 min)** Exercise 2: finish the titles; check against §19's key.
 2. **(4 min)** Exercise 4: the special words; check against the key.
@@ -1232,7 +1233,10 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
    sends you to the § named beside it in the key.
 7. **(3 min)** Draw the visarga map from memory, the four columns and the seven rows, and check
    it against §15 Step 1. Then check exercises 1 and 3 from class against the key.
-8. **(3 min, real world)** Say नमस्ते to someone and tell them, in one line of Hindi, its two
+8. **(4 min)** The dictation, §9 Drill 4: play the seven items from the track
+   (`planned:assets/audio/volume-3/v3c04l02-seams-drill.mp3`), each twice; write each in pause
+   form, then joined; check against §19's key.
+9. **(3 min, real world)** Say नमस्ते to someone and tell them, in one line of Hindi, its two
    words and why the स् is there: नमः + ते — त से पहले विसर्ग स् बन जाता है।
 
 ## 22. Teacher Notes
@@ -1246,11 +1250,15 @@ question of §8 Step 2 is on the board before anyone opens a book.
 
 **Timing plan (45 min):** Station 0, two items, scores logged (8) → the scene and the question
 (3) → the evidence table (5) → the map's three questions named (4) → the map assembled, -अः
-column first, then -आः, other vowels, r-finals, special words (8) → 8.3.34 and 6.1.132 read at
-their cells (3) → production: exercise 1 split (4), exercise 3 join (5) → §9 pairs and
-dictation (3) → §17 read joined so far, the bookings, homework (2). Exercises 1 and 3 and the
-dictation are done in class; exercises 2, 4, 5, 6 and 7 and the §19 quiz are homework (§21),
+column first, then -आः, other vowels, r-finals, special words (9) → 8.3.34 and 6.1.132 read at
+their cells (3) → production: exercise 1 split (4), exercise 3 join (5) → §9 pairs (2) → §17
+read joined so far, the bookings, homework (2). Exercises 1 and 3 are done in class; exercises
+2, 4, 5, 6 and 7, the dictation (played from the track) and the §19 quiz are homework (§21),
 and the learner checks exercises 1 and 3 at home against the key.
+
+**The dictation (§9 Drill 4), to be read aloud in this order, twice each, in pause form:** 1
+नमः ते · 2 कः अपि · 3 रामः च · 4 गुरुः वदति · 5 सः गच्छति · 6 पुनः अपि · 7 छात्राः अत्र. The key
+is in §19.
 
 **Board work:** on the left, the visarga wheel
 (`planned:assets/images/volume-3/v3c04l02-visarga-wheel.svg`) drawn as the four-column frame of

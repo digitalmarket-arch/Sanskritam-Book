@@ -91,10 +91,10 @@ v3.c03.l04 §20 booked the second:
 
 - +1 week: the request role-play — a guest at a teacher's door, played with a partner in both roles: three requests with भवान् and the 3rd person (आगच्छतु भवान्), two with the 2nd person (उपविश!), one prohibition with मा; v3.c04.l01's Station 0 runs exactly this.
 
-Run exactly those two — about eight minutes in all, scores logged beside the Chapter 3
-scores [REF:cepeda2006].
+Run exactly those two — six minutes — then the three prompts below (one minute) and a minute
+to log the scores beside the Chapter 3 scores, about eight minutes in all [REF:cepeda2006].
 
-1. **Five verbs, four lakāras (4 min).** Copy the frame and fill it without notes; then say
+1. **Five verbs, four lakāras (3 min).** Copy the frame and fill it without notes; then say
    each row aloud, left to right.
 
    | लट् | लङ् | लोट् | विधिलिङ् |
@@ -105,7 +105,7 @@ scores [REF:cepeda2006].
    | करोति | ___ | ___ | ___ |
    | वदति | ___ | ___ | ___ |
 
-2. **The request role-play (4 min).** One partner is the guest at the door, the other the
+2. **The request role-play (3 min).** One partner is the guest at the door, the other the
    teacher; then swap. Each round: three requests with भवान् and the 3rd person, two with
    the 2nd person, one prohibition with मा. Pause form, as in Chapter 3.
 
@@ -422,19 +422,12 @@ here the य् inside बालिकाया belongs to the word, and the gap
 तत्रागच्छत्। One breath-group to the daṇḍa, every seam sounded as written. The spaces in
 the print are word boundaries; your voice does not stop at them.
 
-**Drill 4 — dictation (pause form first, then joined).** Six items, played in the order
-printed, each read twice at speaking speed in pause form. Write each in pause form; then,
-under it, write it joined. Item 5 is one compound word: write its members with a hyphen.
-Key in §19.
-
-1. न अस्ति
-2. सदा एव
-3. इति अवदत्
-4. ते अपि
-5. सूर्य-उदये
-6. तत्र एकः कपोतः अस्ति।
-
-The last item has one vowel seam and two that are not today's: join only the one.
+**Drill 4 — dictation (pause form first, then joined).** Six items, played in the order of
+the track, each read twice at speaking speed in pause form (the teacher reads them from §22,
+or the track plays them). Write each in pause form; then, under it, write it joined. Item 5
+is one compound word: write its members with a hyphen. The last item has one vowel seam and
+two that are not today's: join only the one. The items are not printed here; the key is in
+§19.
 
 ## 10. IPA
 
@@ -1202,6 +1195,10 @@ Step 8 (6) → the seven sūtras read once each at their rows (4) → production
 split (4), exercise 3, join (4) → §9 pairs and the dictation (3) → §17 read joined so far,
 the bookings, homework (3). Exercises 2, 4, 5, 6 and 7 and the §19 quiz are homework (§21);
 exercises 1 and 3 are checked at home against the key.
+
+**The dictation (§9 Drill 4), to be read aloud in this order, twice each, in pause form:** 1 न
+अस्ति · 2 सदा एव · 3 इति अवदत् · 4 ते अपि · 5 सूर्य-उदये, one compound · 6 तत्र एकः कपोतः अस्ति।
+The key is in §19.
 
 **Board work:** on the left, the decision path as a flow — "left word ends in? right word
 begins with?" — with the seven rows of §15 Step 8. In the middle, the four-column strip
