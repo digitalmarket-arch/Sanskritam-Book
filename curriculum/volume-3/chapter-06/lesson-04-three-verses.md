@@ -280,7 +280,7 @@ grammar terms श्लोकः and अन्वयः, glossed, not vocabulary
 दूसरा श्लोक शायद आपने आधा सुना हो: वसुधैव कुटुम्बकम्। आज इसे पूरा पढ़िए, उसकी किताब में,
 उसके वक्ता के साथ। हितोपदेश में इसे एक सियार बोलता है, जिसने एक हिरन से दोस्ती इसलिए की है
 कि उसे खा सके; पञ्चतन्त्र में एक ब्राह्मण, जो अपने अनपढ़ मित्र को भी कमाई में हिस्सा दिलाना
-चाहता है (§4)। तीसरा श्लोक, यस्य बुद्धिर्बलं तस्य, वही बात कहता है जो इस पाठ्यक्रम की अपनी
+चाहता है [§4]। तीसरा श्लोक, यस्य बुद्धिर्बलं तस्य, वही बात कहता है जो इस पाठ्यक्रम की अपनी
 सीख बुद्धिः एव बलम् कहती है — और उसमें यः … सः का वही जोड़ा है जो पाँचवें अध्याय ने सिखाया:
 जिसके पास बुद्धि है, बल उसी के पास है।
 
@@ -346,7 +346,7 @@ read one step further.
   nothing to the sense here: "family".
 - **निर्बुद्धेः** — निर् "without" + बुद्धिः, the kind of word that v3.c05.l04 labels in
   निरामयाः and asks you to read whole: "one without intelligence". It is a genitive singular
-  masculine in -एः, like अग्नेः (v3.c02.l03).
+  masculine in -एः, like अग्नेः [v3.c02.l03].
 
 ### The three verses and their sources
 
@@ -384,7 +384,7 @@ natural pace).
 
 **Drill 1 — three speeds, the first verse.** (1) Pause form, slowly, word by word, a small
 stop after each: विद्या · ददाति · विनयम् · विनयात् · याति · पात्रताम्. (2) Joined, at a steady
-pace, no stop inside a half-verse: विद्या ददाति विनयं विनयाद्याति पात्रताम्। (3) Joined, at
+pace, no stop inside a half-verse: विद्या ददाति विनयं विनयाद्याति पात्रताम्। Then (3) joined, at
 natural pace, timed. The joined half-verse is one breath-group; the space after विनयं is a
 word boundary, not a breath.
 
@@ -501,7 +501,7 @@ together, lesson 3). The first three words are the ones you read in Volume 1.
 पात्रता से धन पाता है; धन से धर्म, और उससे सुख।
 
 One verb only, आप्नोति; the last clause borrows it twice. Three seams: धनम् + आ → धनमाप्नोति
-(म् + vowel), धनात् + ध → धनाद्धर्मम् (त् voiced before ध), धर्मम् + त → धर्मं; and one place
+(म् + vowel), धनात् + ध → धनाद्धर्मम् [त् voiced before ध], धर्मम् + त → धर्मं; and one place
 where the e-text does *not* join, पात्रत्वात् धनम् — editions vary (§8).
 
 ### 3. The course's own line, joined
@@ -532,7 +532,7 @@ headword twice, at the start of the track).
 | विनयः | vinayaḥ | /ʋin̪ɐjɐh/ | discipline; modesty | विनय, विनम्रता | ledger-new — m. a-stem, like रामः; Apte s.v. विनय, -यः sense 1 "Guidance, discipline, instruction (in one's duties), moral training", sense 4 "Modesty, humility", where Apte quotes this very verse, *vidyā dadāti vinayam*; MW *vinaya* |
 | याति | yāti | /jɑːt̪i/ | goes; reaches, attains | जाता है; प्राप्त करता है | ledger-new — verb, class 2, P.; its cells learned whole, as जानाति was: याति, यान्ति, अयात् ✓; Apte s.v. या sense 1 "To go, move, walk, proceed", sense 9 "To go or be reduced to any state, be or become (usually with the acc. of abstract noun)" — पात्रतां याति; MW *yā* |
 | आप्नोति | āpnoti | /ɑːpn̪oːt̪i/ | obtains, gets | पाता है, प्राप्त करता है | ledger-new — verb, class 5, P.; its cells learned whole, as शृणोति was: आप्नोमि, आप्नोषि, आप्नोति ✓; आप्नुवन्ति ◐ — read, never asked; आप्नोषि's ष is the change after ओ named in v3.c04.l04, as in शृणोषि; Apte s.v. आप् "To obtain, attain, get"; MW *āp* |
-| वसुधा | vasudhā | /ʋɐsud̪ʱɑː/ | the earth | पृथ्वी, वसुधा | ledger-new — f. ā-stem, like सभा; MW *vasu-dhā* "the earth"; Apte gives it as a compound under वसु (Pass C quotes the entry) |
+| वसुधा | vasudhā | /ʋɐsud̪ʱɑː/ | the earth | पृथ्वी, वसुधा | ledger-new — f. ā-stem, like सभा; MW *vasu-dhā* "the earth"; Apte gives it as a compound under वसु [Pass C quotes the entry] |
 | मदः | madaḥ | /mɐd̪ɐh/ | intoxication; pride, arrogance | मद, घमण्ड | ledger-new — m. a-stem; Apte s.v. मदः sense 1 "Intoxication, drunkenness, inebriety", sense 6 "Pride, arrogance, conceit"; MW *mada*; in मदोन्मत्तः "mad with pride" (§17) |
 | धनम् | dhanam | /d̪ʱɐn̪ɐm/ | wealth | धन | upgrade — v1.c03.l04 धन → धनम्, n. a-stem, like फलम्; Apte s.v. धनं "Property, wealth, riches, treasure, money"; drilled, not counted |
 
@@ -708,8 +708,8 @@ worthiness one gains wealth; through wealth, dharma; and from that, happiness." 
 (vidyā vinayam dadāti. [naraḥ] vinayāt pātratām yāti. [saḥ] pātratvāt dhanam āpnoti. dhanāt dharmam [āpnoti], tataḥ sukham [āpnoti].)
 
 Thirteen words, none glossed: every one is a headword of yours, today's or earlier, or read
-whole with its label (पात्रताम्, पात्रत्वात्, §8). Seams: विनयं and धर्मं (म् → ं);
-विनयाद्याति and धनाद्धर्मम् (त् → द before a voiced sound); धनमाप्नोति (म् + a vowel). Editions
+whole with its label (पात्रताम्, पात्रत्वात्, §8). Seams: विनयं and धर्मं [म् → ं];
+विनयाद्याति and धनाद्धर्मम् [त् → द before a voiced sound]; धनमाप्नोति [म् + a vowel]. Editions
 vary: the e-text leaves पात्रत्वात् धनम् unjoined (full sandhi पात्रत्वाद्धनम्) while it joins
 धनाद्धर्मम्. Syllables: 8 + 8 + 8 + 8.
 
@@ -747,8 +747,8 @@ Twelve words, two glossed: गणना "reckoning, counting" (an ā-stem like �
 the small-minded" (a bahuvrīhi on चेतस् "mind", genitive plural; its stem class is v4.c05's).
 अयम्, निजः, परः are v3.c05.l02's; वा v3.c04.l01's; उदारचरितानाम् is the genitive plural of
 v3.c05.l04's own example उदारचरितः; वसुधा is today's; कुटुम्बकम् is read whole (§8). Seams:
-अयं (म् → ं); परो (-अः before a voiced sound → ओ); वेति (वा + इति → वेति, guṇa); उदारचरितानां
-(म् → ं); वसुधैव (आ + ए → ऐ, vṛddhi). Syllables: 8 + 8 + 8 + 8.
+अयं [म् → ं]; परो [-अः before a voiced sound → ओ]; वेति [वा + इति → वेति, guṇa]; उदारचरितानां
+[म् → ं]; वसुधैव [आ + ए → ऐ, vṛddhi]. Syllables: 8 + 8 + 8 + 8.
 
 What the jackal wants: to be counted family, so that the crow stops calling him an outsider
 (§4). The words are generous; the speaker is not.
@@ -785,8 +785,8 @@ tatpuruṣa, मदेन उन्मत्तः "maddened by pride", its seam
 निपातितः "brought down" (its formation is v4.c03's). यस्य … तस्य are v3.c05.l02's cells in
 v3.c05.l03's relative sentence; बुद्धिः, बलम्, कुतः, वने, सिंहः, शशकः are yours from Volumes 1–3;
 निर्बुद्धेः is read whole (§8); शशकेन … निपातितः is the "X-ed by Y" frame of v3.c02.l05. Seams:
-बुद्धिर्बलं (-इः before a voiced sound → र्; म् → ं); निर्बुद्धेस्तु (-एः before त → स्त);
-कुतो, सिंहो (-अः before a voiced sound → ओ); मदोन्मत्तः (guṇa inside the compound). Syllables:
+बुद्धिर्बलं [-इः before a voiced sound → र्; म् → ं]; निर्बुद्धेस्तु [-एः before त → स्त];
+कुतो, सिंहो [-अः before a voiced sound → ओ]; मदोन्मत्तः [guṇa inside the compound]. Syllables:
 8 + 8 + 8 + 8.
 
 Set it beside the crow story's moral of §13: बुद्धिः एव बलम् says it in three words; this verse
@@ -889,7 +889,7 @@ half-verse, and any quarter where you heard more or fewer than eight beats.
    निरामयाः is read whole — as today's निर्बुद्धेः is.
 
 **Exercise 1** (7 marks). (1) विद्या ददाति विनयम् विनयात् याति पात्रताम्। पात्रत्वात् धनम्
-आप्नोति धनात् धर्मम् ततः सुखम्॥ (2) ददाति, याति, आप्नोति; [आप्नोति] supplied in the last clause.
+आप्नोति धनात् धर्मम् ततः सुखम्॥ — (2) ददाति, याति, आप्नोति; [आप्नोति] supplied in the last clause.
 (3) ददाति — विद्या; याति — [नरः]; आप्नोति — [सः] or understood. (4) विनयम् → ददाति; विनयात्,
 पात्रताम् → याति; पात्रत्वात्, धनम् → आप्नोति; धनात्, धर्मम्, ततः, सुखम् → [आप्नोति]. (5) none.
 (6) none. (7) विद्या विनयम् ददाति। [नरः] विनयात् पात्रताम् याति। [सः] पात्रत्वात् धनम् आप्नोति।
@@ -917,7 +917,7 @@ half-verse translated in verse order ("learning gives discipline, from disciplin
 worthiness") earns half: the doer of याति is missing.
 
 **Exercise 6** (4 marks). कार्याणि उद्यमेन हि सिध्यन्ति, मनोरथैः न [सिध्यन्ति]। मृगाः हि सुप्तस्य
-सिंहस्य मुखे न प्रविशन्ति। Subjects: कार्याणि of सिध्यन्ति (and of the supplied [सिध्यन्ति]); मृगाः of
+सिंहस्य मुखे न प्रविशन्ति। Subjects: कार्याणि of सिध्यन्ति, and of the supplied [सिध्यन्ति]; मृगाः of
 प्रविशन्ति. हि may stand after the first word of each clause, as here, or where the verse has it.
 
 **Exercise 7** — no key: the recording is your own check. One breath per half-verse; eight
@@ -1005,7 +1005,7 @@ ca*, Jha 5.37); only three of the four brahmins revive the lion. The thread vers
 
 **One e-text correction, the editor's.** The thread verse's second half: the e-text has *nahi*;
 the lesson prints न हि, as Volume 2 printed it. No other reading is touched. The first verse
-keeps the e-text's unjoined पात्रत्वात् धनम् (full sandhi पात्रत्वाद्धनम्): "editions vary", said
+keeps the e-text's unjoined पात्रत्वात् धनम् [full sandhi पात्रत्वाद्धनम्]: "editions vary", said
 once in §8.
 
 **Numbering.** Verse numbers of the Hitopadeśa differ between the GRETIL e-text and at least
@@ -1039,7 +1039,7 @@ first verse 0 of 13; the second 2 of 12 (गणना, लघुचेतसा�
 मदोन्मत्तः, निपातितः). The thread verse: nothing ◐, every form ✓ or read whole.
 
 **What not to teach.** The metre's long–short rules (v5.c04): count syllables, nothing more.
-The formation of -ता / -त्व (v4.c04), the causative behind निपातितः (v4.c03), the s-stem
+The formation of -ता / -त्व [v4.c04], the causative behind निपातितः [v4.c03], the s-stem
 चेतस् and its compounds (v4.c05). आप्नुवन्ति is ◐: say it if asked, never ask for it. The
 anvaya is a procedure, not a translation contest: mark the steps, not the elegance.
 
@@ -1095,7 +1095,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 1. **Hook (0:00–0:40):** a blackboard; the first verse writes itself joined. A question
    floats over याति: "Who goes?" Title card: त्रयः श्लोकाः — Three Verses.
 2. **The seven steps (0:40–2:10):** the verse splits into words (step 1); the three verbs
-   glow (step 2); an empty bracket appears before विनयात् and fills with नरः (step 3); the
+   glow (step 2); an empty bracket appears before विनयात् and fills with नरः [step 3]; the
    cases slide to their verbs (step 4); the words settle onto the rungs of a ladder in prose
    order (step 7). Caption: "No form changes. Only the order."
 3. **The rhythm (2:10–2:50):** the first quarter, eight dots lighting one per syllable; the
@@ -1161,8 +1161,9 @@ narrator reads the cue, not the English spelling.
 - **Station 0 chain:** §3 runs v3.c06.l03's +1-day booking (S0-bd, your own story opening)
   and v3.c06.l02's +1-week booking (S0-bc, the Hitopadeśa aloud), both verbatim from the
   chapter fact base (research/notes/vol3-ch6-connected-reading.md row 0.30), whose wording the
-  booking lessons use too; keys as table 0.A, printed in §3's own `<details>`. v3.c06.l02 and
-  v3.c06.l03 were not on disk at drafting: Pass D diffs both items against their §20. §20 books
+  booking lessons use too; keys as table 0.A, printed in §3's own `<details>`. Item 1 diffed
+  against v3.c06.l03 §20 on disk (2026-11-10): identical. Item 2 diffed
+  against v3.c06.l02 §20 on disk (2026-11-10): identical. §20 books
   S0-bf (+1 day, the prose order of विद्या ददाति विनयम्, run by v3.c06.l05) and S0-bg (+1 week,
   the Volume 3 entry check, run by v4.c01.l01), verbatim from row 0.30; S0-bf's key is §19's
   exercise 1 key, S0-bg's anvaya item is keyed by §17's three anvayas. The Volume 4 plan must
@@ -1200,9 +1201,9 @@ narrator reads the cue, not the English spelling.
   HISTORY callouts against their REFs and the e-text lines of §22 (Hit 1.71's speaker l. 570,
   660–667; Pañcatantra 5 l. 6241–6266; Hit 2.122's speaker l. 2027); §8's Apte and MW
   quotations s.v. अन्वयः / *anvaya* (`ap90.txt` l. 22919 ff.; `mw.txt` l. 31924–31925); §5's
-  Apte s.v. अनुष्टुभ् (l. 19083–19088); §8's Apte s.v. पात्रम् sense 5 (l. 160900–160902, quoted
-  exactly); §14's Apte quotations s.v. विनय (l. 226797 ff.), या (l. 206391 ff.), आप् (l. 56545
-  ff.), मदः (l. 194352 ff.), धनं (l. 137211) and the वसुधा sub-entry under वसु (still to be quoted,
+  Apte s.v. अनुष्टुभ् [l. 19083–19088]; §8's Apte s.v. पात्रम् sense 5 (l. 160900–160902, quoted
+  exactly); §14's Apte quotations s.v. विनय [l. 226797 ff.], या [l. 206391 ff.], आप् (l. 56545
+  ff.), मदः [l. 194352 ff.], धनं [l. 137211] and the वसुधा sub-entry under वसु (still to be quoted,
   or the row cites MW alone); §22's Apte s.v. तद् note (l. 122659–122660). The Hindi of §7 and of
   the glosses at Pass B, including the अन्वय statement (fact base row 0.17d) and the school
   line (search-confirmed lead only; nothing more printed). Every claim about an earlier lesson
