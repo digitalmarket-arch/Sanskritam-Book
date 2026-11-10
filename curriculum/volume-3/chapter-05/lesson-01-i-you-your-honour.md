@@ -364,8 +364,8 @@ show a "you" that takes the verb of "he".
 
 Copy the frame (worksheet 🖨 `planned:assets/worksheets/volume-3/v3c05l01-pronoun-cells.pdf`)
 and fill, from memory, the twelve cells you own that the frame holds: the ten singular cells
-of Step 3 and the nominatives वयम् and यूयम् (the dual nominatives आवाम् and युवाम्, which
-Chapter 3 labelled, are not in the frame: the dual is ◐).
+of Step 3 and the nominatives वयम् and यूयम्. The dual nominatives आवाम् and युवाम्, which
+Chapter 3 labelled, are not in the frame: the dual is ◐.
 Then your teacher dictates the new cells one by one — the ablatives मत्, त्वत्; the locatives
 मयि, त्वयि; the plurals अस्मान्, युष्मान्, अस्माभिः, युष्माभिः, अस्माकम्, युष्माकम्; and the
 four short forms — and you write each in its cell. Check against §15.
@@ -880,7 +880,7 @@ so that you are not misled when you meet them.
 - **सखा:** सखा, सखे ✓; the rest ◐.
 - **स्वयम्:** one form, ✓.
 - **R6:** a recognition card; भवान्'s cells ✓ as listed, श्रीमान्, धीमान्, श्रीमन्, भगवन् ◐,
-  पुण्यवान्, महान् and the feminines ○.
+  भगवान्, धीमन्, पुण्यवान्, महान् and the feminines ○.
 - **Carried, as before:** T1–T7 and their Δ cards, the dual card, R1–R4, every seam of
   Chapter 4's three maps.
 - **○ display — the addresses ahead:** तद् and its family (v3.c05.l02); the relative sentence
@@ -1186,7 +1186,7 @@ no short form. The sentences are not printed here; the key is in §19.
 > a group, नमो वः. **भवान्:** "Your Honour" + the 3rd person — भवान् गच्छति, भवती गच्छति,
 > भवन्तः गच्छन्ति; listed cells भवन्तम्, भवता, भवते, भवतः, भवति, भवन्; भवन्तौ; भवद्भिः, भवताम्,
 > भवत्सु; भवती like नदी. **R6:** -वान्/-मान्, voc. -वन्/-मन्, fem. -वती/-मती — recognition.
-> **सखा, सखे** (the rest read). **स्वयम्** never changes. **Watch:** भवति = "is" · "in you, sir"
+> **सखा, सखे** — the rest read. **स्वयम्** never changes. **Watch:** भवति = "is" · "in you, sir"
 > · "O lady". **The ledger:** 464; cells drilled: 46.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):

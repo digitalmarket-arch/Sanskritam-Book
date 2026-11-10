@@ -1383,8 +1383,8 @@ net is the serial's earlier telling (Chapter 3). These departures stand on the r
 v3.c06.l02, which reads the text itself.
 
 **The Hindi angles.** Hindi-medium learners slip in three places the exam watches: भवान् with
-the plural verb of आप (task E), one form for "this" in all genders (Q5), and the correlative
-dropped as colloquial Hindi may drop वह (task B). The Hindi points follow Kachru
+the plural verb of आप [task E], one form for "this" in all genders (Q5), and the correlative
+dropped as colloquial Hindi may drop वह [task B]. The Hindi points follow Kachru
 [REF:kachru2006], cited bare, and the §4 six-kind line is credited to the Hindi school
 textbooks with no key; this exam assesses none of them directly.
 

@@ -440,7 +440,7 @@ The answers are §15 Steps 1 and 3. Step 2's question is answered on card 4: स
 
 §18 runs it five ways: the table and six cells on demand; six Δ cells; सर्व and अन्य fitted to
 the noun they go with; अयम्, इयम्, इदम् said of the people and things in the room; the
-indefinites built, and a story opened with कश्चित् … आसीत्. Then §16 in pairs. The relative
+indefinites built, and a story opened with कश्चित् … आसीत्. Then §16, read at home in both roles. The relative
 sentence, यः … सः, waits for lesson 3: today यद् stands in its table only.
 
 ## 9. Pronunciation
@@ -1281,7 +1281,7 @@ no emphasis falls [REF:whitney1889 §500]. It is not taught; gloss it where it i
 
 **The 1.x pages on pronouns (pp. 111–114), line by line.** (1) "Note स् → त् in oblique
 cases": withdrawn — two stems, स- in सः and सा only, as §5 and §15 Step 2 show
-[REF:whitney1889 §495]. (2) सर्व, अन्य, विश्व, स्व, पूर्व, उत्तर "are called सर्वनाम-स्थानीय": the
+[REF:whitney1889 §495]. (2) सर्व, अन्य, विश्व, स्व, पूर्व, उत्तर — "they're called सर्वनाम-स्थानीय": the
 term is not Pāṇini's. His name for the whole list headed by सर्व is सर्वनाम, by 1.1.27, as §4
 prints it. अन्य goes like तद् throughout [REF:whitney1889 §523]; सर्व, विश्व and एक go like तद्
 except सर्वम्, विश्वम्, एकम् [REF:whitney1889 §524]; पूर्व, उत्तर and स्व follow the model only
@@ -1326,7 +1326,7 @@ school material. Guru's own page was not opened, so the line stays attributed an
 assessed.
 
 **Differentiation.** Hindi-medium learners say यह for all three and write \*अयम् बालिका: give
-them §9 Drill 3 and §18 exercise 4 first, pointing at real people. English speakers reach for
+them the first turns in §18 exercise 4, pointing at real people, and have them begin homework item 5 with §9 Drill 3. English speakers reach for
 "स् → त्" as a sound rule, because the 1.x book taught it: have them sort the तद् cells into
 two columns, स- and त-, and count — two against the rest. Script-side learners fill §8 Step
 5's frame on the worksheet (`planned:assets/worksheets/volume-3/v3c05l02-pronoun-family.pdf`)
