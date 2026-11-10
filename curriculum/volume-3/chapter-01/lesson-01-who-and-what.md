@@ -115,8 +115,9 @@ Score /5; silence is the only failing move.
 done-to · 4: घटम्, what he sees, done-to · 5: जलम्, the water that is there, the doer of
 अस्ति · 6: पाषाणम्, what he throws, done-to · 8: जलम्, the water that comes up, the doer ·
 9: जलम्, what he drinks, done-to. एकम् and अल्पम् walk with their nouns; that agreement is
-c02.l01's. **Lion:** 4 and 7: मूषकम्, done-to · 5: माम्, done-to — "let go of *me*" · 5:
-मित्रम्, what the mouse *is* — neither doer nor done-to, the word that names him · 10:
+c02.l02's. **Lion:** 4 and 7: मूषकम्, done-to · 5: माम्, done-to — "let go of *me*" · 5:
+अहम्, the speaker, the doer of "I (am)" — the pronoun's doer cell happens to end in -म्
+too, and §15 Step 3 sets it beside माम् · 5: मित्रम्, what the mouse *is* — neither doer nor done-to, the word that names him · 10:
 जालम्, done-to. Notice
 जलम्: one shape, two jobs. §8 Step 3 cashes that.
 </details>
@@ -191,8 +192,8 @@ word order:
 their order tells you who sees. Sanskrit puts that information into the ending of each
 noun.
 
-> **[FACT · तथ्यम्]** In a Sanskrit sentence the doer of the verb stands in the
-> nominative and the thing acted on, or the goal a mover goes to, in the accusative. For a
+> **[FACT · तथ्यम्]** In an active Sanskrit sentence — every sentence you own — the doer of
+> the verb stands in the nominative and the thing acted on, or the goal a mover goes to, in the accusative. For a
 > masculine a-stem the nominative singular ends in -ः and the accusative in -म्: व्याधः,
 > व्याधम्. Because the endings carry the roles, व्याधः मृगम् पश्यति and मृगम् व्याधः पश्यति
 > both say that the hunter sees the deer. [REF:whitney1889 §267] [REF:whitney1889 §269]
@@ -292,7 +293,7 @@ terms: no ledger rows (§14).
 
 दो क्रियाएँ आज दो-दो कर्म ले सकती हैं। नयति — ले जाता है: व्याधः मृगम् ग्रामम् नयति — शिकारी
 हिरन को गाँव ले जाता है। पृच्छति — पूछता है: गुरुः शिष्यम् नाम पृच्छति — गुरु शिष्य से उसका नाम
-पूछते हैं। दोनों कर्म द्वितीया में। और नाम भी नपुंसक जैसा है — उसका एक ही रूप दोनों कामों में
+पूछते हैं। दोनों कर्म द्वितीया में। और नाम भी नपुंसकलिंग है — उसका एक ही रूप दोनों कामों में
 चलता है।
 
 अन्त में नामों की बात। पाणिनि के व्याकरण में करने वाले की भूमिका का नाम कर्ता है, और जिस पर
@@ -624,7 +625,7 @@ terms on display, not ledger words: प्रथमा, द्वितीया
 व्याकरणम् — THE pattern: the doer in the first case, the done-to and the goal in the
 second. Work through it in order, with the two-jobs card in your hand.
 
-> **[FACT · तथ्यम्]** (1) The nominative (प्रथमा) singular marks the doer of the verb; the
+> **[FACT · तथ्यम्]** (1) In an active sentence the nominative (प्रथमा) singular marks the doer of the verb; the
 > accusative (द्वितीया) singular marks what the verb acts on and the goal of a verb of
 > motion. (2) Masculine a-stem: nominative -ः, accusative -म् — रामः, रामम्; देवः, देवम्.
 > Neuter a-stem: -म् in both — फलम्. (3) The interrogative कः declines like सः except in
@@ -776,8 +777,8 @@ Twelve turns, pause form; audio in the story track (§27). Every word is self-re
 12. **अर्जुनः** — आम्। अहम् त्वाम् पश्यामि!
     (ām. aham tvām paśyāmi!) "Yes. I see you!" — हाँ। मैं तुम्हें देख रहा हूँ!
 
-Housekeeping: v2.c02.l02's एषः, v1.c05.l03's पश्य, v1.c05.l01's आम् and वनम्, the forest
-of v1.c04.l01 in its sentence dress, are owned. Turn 2 is the identity frame of Volume 2:
+Housekeeping: v2.c02.l02's एषः, v1.c05.l03's पश्य, v1.c05.l01's आम्, and वनम् — v1.c04.l01's वन, the forest,
+in its sentence dress — are owned. Turn 2 is the identity frame of Volume 2:
 एषः and व्याधः are both in the प्रथमा — व्याधः is a predicate word, the name for the man,
 not a done-to. Turns 3 and 9 ask with the neuter किम्; turn 5 with कम्; the answers come
 back in one word, in the matching case. Turn 7 is a yes/no question: the tune rises, the
@@ -858,7 +859,8 @@ a. व्याधः मृगम् पश्यति। b. छात्र�
 मूषकम् मुञ्चति। e. मूषकः जालम् कृन्तति। f. काकः घटम् पश्यति।
 
 **अभ्यासः 5 · कः -म् कर्ता? — which -म् is the doer? Written.** For each sentence, say
-whether the -म् word is the doer or done-to, and give the reason in one line. a. पुस्तकम्
+whether the neuter -म् word (पुस्तकम्, जलम्, फलम् or जालम्) is the doer or done-to, and give
+the reason in one line; in c, मह्यम् is neither — its case is l03's. a. पुस्तकम्
 अस्ति। b. जलम् उपरि आगच्छति। c. फलम् मह्यम् रोचते। d. काकः जलम् पिबति। e. बालकः फलम्
 खादति। f. मूषकः जालम् कृन्तति।
 
@@ -1151,7 +1153,7 @@ narrator reads the cue, not the English spelling.
   paśyati [pɐɕjɐt̪i] — sees. Now shuffle them. mṛgam vyādhaḥ paśyati. Same picture. The
   hunter still sees the deer.
 - **00:40** You have been saying this pattern for two volumes. saḥ vidyālayam calati — he
-  walks to school. muñca mām [mɑːm] — let me go. Every one of those m-endings marks the one
+  walks to school. mām [mɑːm] muñca — let me go. Every one of those m-endings marks the one
   something is done to.
 - **01:50** The tradition numbers the cases. prathamā [pɾɐt̪ʰɐmɑː], the first, for the
   doer — the kartā [kɐɾt̪ɑː]. dvitīyā [d̪ʋit̪iːjɑː], the second, for the done-to — the karma

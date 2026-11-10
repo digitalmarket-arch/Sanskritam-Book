@@ -109,7 +109,7 @@ While you ask, notice one thing: every question so far asked *who* or *whom*. No
 0. Station 0, a model set (any ten correct pairs from l01 score): कः मृगम् पश्यति? —
    व्याधः। · कः विद्यालयम् गच्छति? — छात्रः। · कः शिष्यम् नाम पृच्छति? — गुरुः। · कः जालम्
    नयति? — व्याधः। · कः व्याधम् पश्यति? — मूषकः। · व्याधः कम् पश्यति? — मृगम्। · गुरुः कम्
-   पृच्छति? — शिष्यम्। · व्याधः कम् अपि पश्यति? — कपोतम्। · कपोतः कम् न पश्यति? — व्याधम्। ·
+   पृच्छति? — शिष्यम्। · व्याधः कम् त्यजति? — मार्गम्। · कपोतः कम् न पश्यति? — व्याधम्। ·
    मूषकः कम् पश्यति? — व्याधम्। Score /10: one point per pair with the answer in the
    matching case.
 1. कपोतम् and फलम्. फलम् is neuter: a neuter has one form for the doer and the done-to
@@ -320,7 +320,7 @@ one and *in* for the other.
 Now the sixth row. कुतः, ततः, इतः, अतः share another shape, -तः, and each carries a
 "from": "from where", "from there, then", "from here", "from this, hence". They are adverbs and never change. A noun has its own "from"-ending, and
 it is the one new ending of the day: **-आत्**. कुतः? — ग्रामात्। "From where? — From the
-village." The last row is a promise: v2.c02.l04 answered every "where" with तत्र and said
+village." The last row is a promise: v2.c02.l04 answered every "where" with अत्र or तत्र and said
 that "in the house" needed case machinery. Here it is: गृहे.
 
 (मृगाः in the verse is a plural, glossed whole; the plural is Chapter 2's.)
@@ -386,16 +386,18 @@ said complete, with no joins.
 उच्चारणम् — no new sounds; the work is two endings heard and said clearly. Audio: 🔊
 `planned:assets/audio/volume-3/v3c01l02-triplets.mp3` (drills 1–4 and the dictation track).
 
-**Drill 1 — the dictation triplets.** The three cases you now own, on one noun, as one
-breath-group each: रामः · रामम् · रामे, then व्याधः · व्याधम् · व्याधे. Say each triplet
+**Drill 1 — the dictation triplets.** Three of the four cases you now own, on one noun,
+as one breath-group each: रामः · रामम् · रामे, then व्याधः · व्याधम् · व्याधे. Say each triplet
 three times, slowly, then at speaking speed. The ear's work: a breath (-ः), closed lips
 (-म्), a long open-mouthed /eː/ (-े). Three different endings, three different mouths.
 
 **Drill 2 — the long pure -े.** The locative ends in a long, steady /eː/: रामे, वने, वृक्षे,
 गृहे. Hold it two beats, and keep it pure — not the "ay" of English *day*. Then the
-contrast with two owned words that also end in -े: रोचते and नमस्ते. Their -े comes after a
-त; the locative's does not. Say the pairs: रामे — रोचते · वने — नमस्ते. If you hear a त
-before your locative's -े, you have said "रामते", which is no word.
+contrast with two owned words that also end in -े: रोचते and नमस्ते. In both, the त comes
+with what is added (रोचते's ending, नमस्ते's ते); the locative adds no त of its own: रामे,
+वने. (A word whose stem itself ends in त keeps it: प्रभातम् → प्रभाते.) Say the pairs:
+रामे — रोचते · वने — नमस्ते. If you hear a त before रामे's -े, you have said "रामते",
+which is no word.
 
 **Drill 3 — the final त्.** The ablative ends on a dental stop: रामात्, ग्रामात्, वृक्षात्.
 Tongue tip on the back of the upper front teeth, held there; the word ends with the
@@ -522,7 +524,7 @@ One ending each time.
 
 > **कस्मिन् कपोतः निवसति? — वृक्षे।**
 > (kasmin kapotaḥ nivasati? — vṛkṣe.) "In what does the dove live? — In a tree." — कबूतर
-> किसमें रहता है? — पेड़ पर।
+> किस पर रहता है? — पेड़ पर।
 
 > **वृक्षः तीरे अस्ति। तस्मिन् कपोतः निवसति।**
 > (vṛkṣaḥ tīre asti. tasmin kapotaḥ nivasati.) "A tree is on the bank. In it lives a
@@ -589,6 +591,7 @@ here it stands in one place.
 > "where?" and कुतः "from where?" ask the same questions as कस्मिन् and कस्मात्; with
 > गच्छति, कुत्र asks "where to?" and is answered in the accusative. [REF:whitney1889 §327]
 > [REF:whitney1889 §330] [REF:whitney1889 §495] [REF:whitney1889 §504]
+> [REF:whitney1889 §1098] [REF:monierwilliams1899 s.v. kutra]
 
 ### Table T1 — the rows you own after today
 
@@ -729,7 +732,7 @@ net into the forest. Today the story finds its place. Audio: 🔊
    to the forest." — सुबह-सुबह शिकारी गाँव से जंगल में आता है।
 5. सः मार्गात् तीरम् गच्छति।
    (saḥ mārgāt tīram gacchati.) "He goes from the road to the bank." — वह रास्ते से किनारे
-   की ओर जाता है।
+   पर जाता है।
 6. व्याधः तीरे तिष्ठति।
    (vyādhaḥ tīre tiṣṭhati.) "The hunter stands on the bank." — शिकारी किनारे पर खड़ा है।
 7. कपोतः वृक्षात् व्याधम् पश्यति।
@@ -845,7 +848,7 @@ ending against the track: -ः breath, -म् lips, -े long and pure, -आत
 8. (b) तस्मिन् "in it": निवसति takes the place lived in, -े (§13). ((a) would be "from it".)
 9. (b) अधिकरणम् — according to Pāṇini's grammar (§8 Step 4). (अपादानम् is the point moved
    away from; करणम् is lesson 3's.)
-10. (c) ततः "then" — one of the -तः words of v1.c02.l06 (§8 Step 3). अत्र, तत्र and कुत्र
+10. (c) ततः "from there, then" — one of the -तः words of v1.c02.l06 (§8 Step 3). अत्र, तत्र and कुत्र
     are -त्र words: "here", "there", "where?".
 
 **Exercise keys.**
@@ -942,8 +945,11 @@ names for jobs.
 **The "pregnant" locative.** Whitney §301c: "by a pregnant construction, the locative is
 used to denote the place of rest or cessation of action or motion (into or on to instead
 of in or on)". That is the whole account of कूपे पतति and घटे क्षिपति the learner needs.
-Do not turn it into a rule about verbs of motion in general: गच्छति keeps its accusative
-goal (Whitney §269), and the course teaches only the accusative with गच्छति. Line 7 of the
+Do not turn it into a rule about verbs of motion in general: the goal of गच्छति is normally
+accusative (Whitney §269), and the course teaches only the accusative with गच्छति. Know,
+though, that Whitney §304a records a locative goal even with गम्, with a Ṛgveda example
+(*sá íd devéṣu gacchati* "that goes to the gods"): correct \*विद्यालये गच्छति as "not our
+pattern — say विद्यालयम्", never as impossible Sanskrit [REF:whitney1889 §304]. Line 7 of the
 story (कपोतः वृक्षात् व्याधम् पश्यति) is Whitney §291's ablative of the point from which
 something issues, like *vāyur antarikṣād abhāṣata* "the wind spoke from the sky".
 [REF:whitney1889 §301] [REF:whitney1889 §291]
