@@ -948,7 +948,7 @@ endings, and a silence loses the sentence.
 sitting.
 
 1. In गुरवे नमः, गुरवे is: (a) a dative with no receiver, required by नमः (b) an
-   accusative (c) a genitive (d) a dative of a recipient of a gift
+   accusative (c) a genitive (d) a dative of the receiver of a gift
 2. In मया कृतम्, who did it? (a) मया "by me" (b) कृतम् (c) no one (d) it cannot be told
 3. According to Pāṇini, the genitive (षष्ठी) is: (a) not a kāraka (b) the कर्ता (c) the
    कर्म (d) the अधिकरणम्
@@ -1174,7 +1174,7 @@ or मत्याः, मतौ or मत्याम्) [REF:whitney1889 §33
 गत comes from a verb of motion, whose goal is still a कर्म (ग्रामम् गच्छति), and सुप्त, the
 owned क्रुद्धः and पिपासितः from verbs with no object. In the course's sentences all four agree
 with their doer. 3.4.72 lets the -त form name the doer after both kinds; with a verb of
-motion the R2 frame is also possible (तेन ग्रामः गतः), but the course does not print it: सुप्तस्य सिंहस्य is "of the
+motion the R2 frame is also possible (तेन ग्रामः गतः), but no learner-facing text of the course uses it: सुप्तस्य सिंहस्य is "of the
 sleeping lion", with no hidden instrumental. बद्धः in सिंहः जाले बद्धः भवति is a transitive
 -त form used as a predicate adjective (v2.c06.l02): it agrees with the one bound, and the
 binder is not named. Do not teach the formation (v4.c04) or voice (v4.c05).
