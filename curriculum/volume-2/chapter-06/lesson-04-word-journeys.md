@@ -648,8 +648,8 @@ from.
 > in आ. (2) The pointing word matches the word it points at: एषः मम पादः। · एतत्
 > विमानम्। (3) Sanskrit builds words from parts — a root (धातु), prefixes (उपसर्ग),
 > suffixes and compounding: वि + √मा gives विमान; दूर + दर्शन gives दूरदर्शन; √सृप् stands
-> behind सर्प, and √युज् behind both योग and युग. The machinery itself is Volume 3's
-> business; today you only read the joins. [REF:whitney1889];
+> behind सर्प, and √युज् behind both योग and युग. Prefixes and compounds are Volume 3's
+> business (v3.c05.l03–l04); roots and suffixes are Volume 4's; today you only read the joins. [REF:whitney1889];
 > [REF:monierwilliams1899 s.vv.]
 
 ### The four kinds — the volume's direction toolkit on one card
@@ -1126,7 +1126,7 @@ narrator reads the cue, not the English spelling.
   (इच्छामि), v2.c05.l04 (the two role cards, recalled in §21), v2.c06.l01 (काकः, उपरि),
   v2.c06.l02 (मूषकः, जालम्, कृन्तति); feeds v2.c06.l05 (Station 0 booked in §20; task D's
   honesty cards; task E's retelling and role-card conversation prepared in §21) and
-  Volume 3 (word-building machinery, deferred in §15).
+  Volume 3 (prefixes and compounds, v3.c05.l03–l04) and Volume 4 (roots v4.c03, suffixes v4.c04), deferred in §15.
 - **Editorial decisions (resolved):** (1) विधवा's traditional वि + धव analysis is
   omitted: the fact base found it under-sourced (no named commentator, Nirukta locus
   unchecked, no Nirukta key in REFERENCES). (2) The 1.x mobile-phone coinage is omitted:

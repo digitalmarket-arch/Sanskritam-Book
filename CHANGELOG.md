@@ -15,6 +15,10 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 - **REFERENCES key `nirukta`** (Yāska's *Nirukta*, ed. Sarup; the course quotes the GRETIL
   e-text), for one TRADITION line in v3.c04.l04 on a disputed word division (Nirukta 6.28
   on Ṛgveda 10.29.1).
+- **Fact base for v3.c05** (सर्वनाम-अव्यय-समासाः · Pronouns, Indeclinables, Compounds),
+  `research/notes/vol3-ch5-pronouns-indeclinables-compounds.md`, and the chapter frame
+  (status draft). Verified by three checkers with every finding challenged: 52 confirmed
+  findings (3 blockers, 19 major, 30 minor), 3 rejected; the editor's decisions are in its §7.
 
 ### Changed
 
@@ -26,6 +30,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 - **v1.c03.l04 §14 (the मनः row)** promised the "full noun story" of मनस् in Volume 3. The
   Volume 3 plan teaches its seam in v3.c04.l02 and leaves the declension of s-stems to
   Volume 4 (v4.c05); the line now says so.
+- **v2.c06.l04 (§15 and §27)** sent all "word-building machinery" to Volume 3. Volume 3
+  teaches prefixes and compounds (v3.c05.l03–l04); roots and suffixes are Volume 4's. Both
+  lines now say so.
 - **v3.c03.l05 §20 (a Station 0 booking)** printed the four example forms in a parenthesis
   directly after the Devanagari word विधिलिङ्, where only IAST may stand; they now follow a
   dash. v3.c04.l01, which runs that booking, carries the same wording.

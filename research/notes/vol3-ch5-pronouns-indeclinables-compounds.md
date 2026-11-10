@@ -29,7 +29,7 @@ headword; `ledger-all.tsv` (872 rows: Volumes 1–2, v3.c01–c03) plus the 21 C
 headwords (chapter frame, `curriculum/volume-3/chapter-04/chapter.md`) for ledger status; the
 Chapter 4 fact base (`vol3-ch4-sandhi-in-use.md`: row 0.2 layout, row 0.3 stops, tables
 0.A–0.C rules, row 0.24 Station 0, §17 episode 4) and the Chapter 4 lessons on disk
-(`lesson-01` … `lesson-04`; **`lesson-05-sandhi-exam.md` is not on disk**, so the two bookings
+(`lesson-01` … `lesson-04`; `lesson-05-sandhi-exam.md`, whose §20 was diffed against row 0.24 on 2026-11-10: identical; the two bookings
 it makes are quoted from row 0.24 of the Chapter 4 fact base; the l04 booking was diffed
 against `lesson-04-unjoining.md` §20: identical). Entering ledger: **460** (v3.c04 exit as
 planned, STYLE_GUIDE §8). Exit: **488**. The four teaching lessons will be drafted in parallel
@@ -46,14 +46,14 @@ the running lesson.
 | 0.1 | **Status marks, one wording everywhere** (STYLE_GUIDE §8; plan §0 item 5). Every table in this chapter carries, cell by cell or row by row: **✓ productive** — "you produce it: exercises, quiz and exam may ask for it"; **◐ recognition** — "you read it when you meet it; nothing asks you to produce it, and nothing scores it"; **○ display** — "shown once, with its address; not yours yet". The lessons print exactly these three phrases in the legend under every table (en; hi: ✓ "उत्पादक — आप इसे स्वयं बनाते हैं; अभ्यास, प्रश्नोत्तरी और परीक्षा इसे माँग सकती हैं" · ◐ "पहचान — मिलने पर पढ़ते हैं; कोई इसे बनाने को नहीं कहता, और इस पर अंक नहीं" · ○ "प्रदर्शन — एक बार दिखाया गया, पता सहित; अभी आपका नहीं"). **No objective, exercise, quiz item, homework task, Station 0 key or exam task demands or scores a ◐ cell** (verification log, c03 decisions); a ◐ cell may stand in a reading text with a gloss, and a key may *accept* it where it is also correct. | policy | STYLE_GUIDE §8; plan §0, §1.3, D15; verification-log "Decisions recorded" (c02, c03) | The §15 of each lesson ends with its paradigm ledger in these marks; l05 audits it (§5). |
 | 0.2 | **Printing (binding; Chapter 4 row 0.2 (c), (d), (e) taken over unchanged).** Every course-written text — model sentences, the §16 conversation, the §17 serial, exercise texts, quiz items that quote a sentence, exam texts — is printed **joined, with its pause form beneath**: line 1 the joined line, its IAST in parentheses directly after it; line 2 the pause form (पदपाठः), its IAST in parentheses directly after it; line 3 the English gloss and the Hindi. **Paradigm tables, single cited forms, vigrahas laid out as tables, and the word lists stay in pause form.** IAST of a joined line: a space at every word boundary, the avagraha as an apostrophe after a space (*so 'smān*), words written together only where two vowels have fused (*sahāham*, *tatraiva*). **A compound is one word in the pause form** (चित्रग्रीवः, never चित्र ग्रीवः); in the vigraha tables its members are separated by a hyphen in a column of their own (चित्र-ग्रीवः · *citra-grīvaḥ*), never directly before a parenthesis (the validator reads only the run after a hyphen). Learner writing: from l01 on, compositions are written joined with their pause form beneath (plan §1.2, D10); keys accept a correct join with the alternatives Chapter 4 allows (the anusvāra or the class nasal before a stop: किञ्चित् / किंचित्; अहं गच्छामि / अहङ्गच्छामि). | policy | STYLE_GUIDE §3.1; Chapter 4 fact base row 0.2; plan §1.4, D10 | Tried in Chapter 4 on the validator; nothing new is needed. |
 | 0.3 | **Joins allowed in this chapter: exactly Chapter 4's rules** (its tables 0.A–0.C), and its stops: no sandhi across a daṇḍa, ?, !, a comma, the dash of a speech frame, or the closing quotation mark before इति; the word before a stop stands in its pause form; हे never joined to a following vowel. **Every seam in §§1–5 was re-derived against those tables (each seam is listed in §6's walk).** Seams Chapter 4 marks ◐ (read, never required) are **avoided** in this chapter's texts, with two printed exceptions, each labelled where it stands: कश्चिन्नृपः (त् before a nasal → न्; l02 model 3, the plan's own sentence; कश्चिद्नृपः is also correct, Whitney §161) and the oblique indefinites of the l02 display (कस्मिंश्चित्, न् + च). The न् + त seam (आगच्छंस्तदा) is **not** taught in Chapter 4, so a relative clause ending in -न् is closed by a comma before its correlative (यदा कपोतास्तत्रागच्छन्, तदा …): the comma is a stop (row 0.3 of Chapter 4). | policy; FACT | Chapter 4 fact base rows 0.3, 0.4–0.12, tables 0.A–0.C; [REF:whitney1889 §161]; [REF:whitney1889 §208] | Re-worded where a seam would need an untaught rule (§7, deviation 6). |
-| 0.4 | **T8, first half — अस्मद् and युष्मद्** (table 0.A). The personal pronouns have no gender; they are "made up of fragments coming from various roots" (Whitney §491). The short forms (मा, त्वा; नौ, वाम्; नः, वः; मे, ते) exist only for the accusative, dative and genitive; they are **accentless, and hence never stand at the beginning of a sentence, or where emphasis is laid** (Whitney §491b). **Production (D15):** all singular cells ✓; plural nominative, accusative, instrumental and genitive ✓ (वयम् अस्मान् अस्माभिः अस्माकम्; यूयम् युष्मान् युष्माभिः युष्माकम्); the short forms मे ते नः वः ✓ (never first; not directly with च, वा, एव — row 0.6); the duals ◐ (with नौ, वाम्); plural dative, ablative, locative ◐ (अस्मभ्यम्, अस्मत्, अस्मासु …); the short accusatives मा, त्वा ◐. **The free-facts exception lives here:** dative plural ≠ ablative plural (अस्मभ्यम् vs अस्मत्; युष्मभ्यम् vs युष्मत्), unlike every noun and third-person pronoun (रामेभ्यः, तेभ्यः). | FACT | [REF:whitney1889 §491]; [REF:whitney1889 §494] | Every cell re-derived against Whitney §491a (the "later language" table); the plan's table (§4.5, c05.l01) matches cell for cell, including the dual short forms नौ / वाम् for acc., dat. and gen. only (Whitney: "and A. D. G. नौ … वाम्"). |
+| 0.4 | **T8, first half — अस्मद् and युष्मद्** (table 0.A). The personal pronouns have no gender; they are "made up of fragments coming from various roots" (Whitney §491). The short forms (मा, त्वा; नौ, वाम्; नः, वः; मे, ते) exist only for the accusative, dative and genitive; they are **accentless, and hence never stand at the beginning of a sentence, or where emphasis is laid** (Whitney §491b). **Production (D15):** all singular cells ✓; plural nominative, accusative, instrumental and genitive ✓ (वयम् अस्मान् अस्माभिः अस्माकम्; यूयम् युष्मान् युष्माभिः युष्माकम्); the short forms मे ते नः वः ✓ (never first, row 0.6 (a); the च/वा/एव restriction, row 0.6 (b), is Teacher Notes only); the duals ◐ (with नौ, वाम्); plural dative, ablative, locative ◐ (अस्मभ्यम्, अस्मत्, अस्मासु …); the short accusatives मा, त्वा ◐. **The free-facts exception lives here:** dative plural ≠ ablative plural (अस्मभ्यम् vs अस्मत्; युष्मभ्यम् vs युष्मत्), unlike every noun and third-person pronoun (रामेभ्यः, तेभ्यः). | FACT | [REF:whitney1889 §491]; [REF:whitney1889 §494] | Every cell re-derived against Whitney §491a (the "later language" table); the plan's table (§4.5, c05.l01) matches cell for cell, including the dual short forms नौ / वाम् for acc., dat. and gen. only (Whitney: "and A. D. G. नौ … वाम्"). |
 | 0.5 | **Sūtra quoted to the learner in l01 (one; TRADITION; plan §4.0.4): 8.1.22 तेमयावेकवचनस्य** (*temayāv ekavacanasya*) — learner wording, fixed: "In the singular, ते and मे stand for the 'to you / of you' and 'to me / of me' of त्वम् and अहम्." The Kāśikā glosses it: for युष्मद् and अस्मद् in the singular, standing in the genitive or dative, ते and मे are the substitutes, with the examples *grāmas te svam* "the village is yours", *grāmo me dīyate* "a village is given to me". This is the **नमस्ते thread, step 3**: the learner writes the three-line proof — (1) नमः takes the dative (2.3.16, quoted in v3.c01.l03); (2) ते is the short dative of त्वम्, = तुभ्यम् (8.1.22); (3) ः before त becomes स् (8.3.34, quoted in v3.c04.l02) — so नमः + ते → नमस्ते. | TRADITION; FACT (the proof) | [REF:ashtadhyayi 8.1.22]; [REF:kashika 8.1.22]; [REF:ashtadhyayi 2.3.16]; [REF:ashtadhyayi 8.3.34] | Data file: 81022 तेमयावेकवचनस्य ✓. Kāśikā (`jvkasixu.htm` l. 77016 ff.) read: *yuṣmadasmadoḥ ekavacanāntayoḥ ṣaṣṭhīcaturthīsthayoḥ yathāsaṅkhyaṃ te me ity etau ādeśau bhavataḥ*. **Teacher Notes only:** 8.1.20 युष्मदस्मदोः षष्ठीचतुर्थीद्वितीयास्थयोर्वान्नावौ (वाम्, नौ), 8.1.21 बहुवचनस्य वस्नसौ (वः, नः), 8.1.23 त्वामौ द्वितीयायाः (त्वा, मा), 8.1.18 अनुदात्तं सर्वमपादादौ, 8.1.24 न चवाहाहैवयुक्ते — all ✓ in the data file. |
 | 0.6 | **Where a short form may not stand** (learner text, l01 §8 and §12; FACT, with the tradition's extra rules named once): (a) never first in a sentence, and never where the word carries emphasis (Whitney §491b): *मे फलं रोचते is wrong, फलं मे रोचते is right; for "to ME (not to him)" the full form मह्यम् stands; (b) the grammarians add that they do not open a verse-quarter (8.1.18, Teacher Notes) and are not used when च, वा, ह, अह or एव is attached to the pronoun itself (8.1.24, Teacher Notes; the Kāśikā: *grāmas tava ca svam*, not *te ca*). (b) is never tested; (a) is ✓. The Hitopadeśa's *dantāś ca me komalāḥ* (the च belongs to दन्ताः, not to the pronoun) is correct and is printed in l01 §13. | FACT; TRADITION | [REF:whitney1889 §491]; [REF:ashtadhyayi 8.1.18]; [REF:ashtadhyayi 8.1.24]; [REF:kashika 8.1.24]; [REF:hitopadesha mitralābha] (prose after verse 41) | **Correction to the plan** (its own review c05#2 confirmed it): the verse-quarter rule is 8.1.18's, not Whitney §491b's. Locus of *dantāś ca me komalāḥ*: `hitop_u.htm` l. 492. |
 | 0.7 | **भवत् m. "Your Honour" and भवती f.** (table 0.B). A stem in -वत्, declined like the -मत्/-वत् adjectives (Whitney §§452–453), "frequently used in respectful address as substitute for the pronoun of the second person (but construed, of course, with a verb in the third person)" (Whitney §456). **Listed cells ✓:** भवान् · भवन्तम् · भवता · भवते · भवतः (abl. = gen.) · भवति (loc.!) · voc. भवन्; du. भवन्तौ (nom./acc.); pl. भवन्तः (nom.) · भवद्भिः · भवताम् · भवत्सु. **◐:** acc. pl. भवतः (same spelling as the abl./gen. sg.), dat./abl. pl. भवद्भ्यः, the oblique duals भवद्भ्याम्, भवतोः. **भवती** is declined like नदी (the ī-stem Δ of c02.l02, ✓ there): ✓ भवती, भवतीम्, भवत्या, भवत्यै, भवत्याः, pl. भवत्यः; its vocative भवति ◐ (three words share the spelling भवति: "is", "in Your Honour", "O lady!" — the §12 warning). Plural भवन्तः "Your Honours" redeems v3.c03.l04's preview. **Whitney's account of the origin** (Teacher Notes only, hedged): "Its origin has been variously explained; but it is doubtless a contraction of *bhágavant*"; and the owned भोः is "the contracted form *bhos* of its old-style vocative *bhavas*" (§456). | FACT; HISTORY (Whitney's view, Teacher Notes) | [REF:whitney1889 §452]; [REF:whitney1889 §453]; [REF:whitney1889 §456]; [REF:whitney1889 §364] | §452: the -मत्/-वत् stems differ from -अन्त् participles "only by lengthening अ in the nom. sing. masc."; the voc. in -अन्; the feminine from the weak stem (-वती). Strong cells (भवन्तम्, भवन्तौ, भवन्तः) vs weak (भवता, भवद्भिः …) re-derived from §453's भगवन्त् table. |
 | 0.8 | **R6 — the -वत् / -मत् / -अत् nominatives (recognition card; no production target).** The nominative singular masculine of these stems ends in -वान् / -मान् (long आ), the vocative in -वन् / -मन्, the feminine in -वती / -मती, the neuter in -वत् / -मत्. Card words: भवान् (✓ by its own listed cells, row 0.7), श्रीमान् (owned v1.c05.l01; voc. श्रीमन्, owned v2.c01.l04), धीमान् (c04.l03 headword), पुण्यवान् ("meritorious"; display, the mouse's *puṇyavān asmi*, Hit, read in c06.l02), भगवन् (voc. of भगवान्, display, owned v2.c01.l04 as a calling shape); and महान् "great", an -अत् stem that lengthens its अ in the strong cells (महान्, महान्तम्; Whitney §450b) — display, c06.l03. The card redeems v2.c01.l04's "the calling shapes श्रीमन्, भगवन् … with the case machinery in Volume 3". Other cells: v4.c05. | FACT | [REF:whitney1889 §450]; [REF:whitney1889 §452]; [REF:whitney1889 §453] | Plan §1.3 R6, §4.0.3 last row, §6. पुण्यवान्: `hitop_u.htm` l. 474. |
-| 0.9 | **सखा "friend"** (Whitney §343a), an irregular i-stem, learned as whole words: sg. सखा · सखायम् · सख्या · सख्ये · सख्युः (abl. = gen.) · सख्यौ (loc.) · voc. सखे; du. सखायौ · सखिभ्याम् · सख्योः; pl. सखायः · सखीन् · सखिभिः · सखिभ्यः · सखीनाम् · सखिषु. **Production:** सखा and सखे ✓; every other cell ◐. In compounds सख्- is often replaced by सख- (5.4.91; Whitney §343b "unless (1315 b) *sakha* be substituted"): display at most, v4.c04. The feminine सखी is declined like देवी (§343c): not taught. The Hitopadeśa's Citragrīva calls the mouse *sakhe* (l. 472, 479, 481). | FACT | [REF:whitney1889 §343]; [REF:apte1890 s.v. सखि]; [REF:monierwilliams1899 s.v. sakhi] | Whitney: "for the five strong cases a peculiarly strengthened base (vriddhied), namely *sákhāy* … the abl.-gen. sing. adds *us*; and the loc. sing. adds *āu*: the rest is like *agní*". The dual and plural cells beyond Whitney's printed ones follow "the rest is like *agní*": सखिभ्याम्, सखिभिः, सखिभ्यः, सखीनाम्, सखिषु (as अग्निभ्याम् …). |
-| 0.10 | **T8, second half — तद् in three genders** (table 0.C; all cells ✓). "The simplest demonstrative … may be taken as model of … the general pronominal declension" (Whitney §495). Its marks against रामः / बालिका (Whitney §496): neuter nom./acc. sg. in -त् (तत्); -स्मै -स्मात् -स्मिन् in m./n. dat., abl., loc. sg.; -स्यै -स्याः -स्याम् in the f.; m. nom. pl. ते (not *ताः); gen. pl. -षाम् / -साम् (तेषाम्, तासाम्), not -नाम्. **The 1.x error corrected in the open (IR-025):** not "स् → त् in the oblique cases": the स- forms are only सः and सा; every other cell is from त- — two stems in one paradigm (Whitney §495a: "in the nom. sing. masc. and fem. it has *sás* … and *sā*, instead of *tás* and *tā́*"). The सः seam (स before a consonant) is c04.l02's (6.1.132, Whitney §176a). | FACT | [REF:whitney1889 §495]; [REF:whitney1889 §496]; [REF:whitney1889 §176] | Table re-derived cell by cell against §495's printed paradigm: identical to the plan's (§4.5 c05.l02). |
-| 0.11 | **The Δ cards on तद् (l02).** (a) **एतद्** "this (here)" = ए- + the तद् cells, nom. एषः एषा एतत् (owned v2.c02.l02, v1.c06.l02) — "It prefixes *e* to the simple root … and so on through the whole inflection" (Whitney §499b); the ṣ of एषः, एतेषाम्, एतेषु is the s → ṣ law (named c04.l04). All cells ✓. The short एनम्, एनेन … (Whitney §500): Teacher Notes only. (b) **यद्** "who, which" (relative): "inflected with entire regularity according to the usual pronominal declension" (Whitney §509): यः या यत्; यम् याम् यत् … All cells ✓ in l02 **as table cells**; in sentences from l03 (G6). (c) **किम्** "who? what?": the whole declension from क- except n. nom./acc. sg. किम् (Whitney §504) — the m./n. cells owned from v3.c01; **f. का काम् कया कस्यै कस्याः कस्याम्; pl. काः काभिः काभ्यः कासाम् कासु** (◐ in c02.l02, now ✓). (d) **सर्व** "all": pronominal except n. nom./acc. sg. सर्वम् (Whitney §524) — m. pl. **सर्वे** (not *सर्वाः, which is the feminine plural), सर्वस्मै, सर्वस्मात्, सर्वस्मिन्, सर्वेषाम्; n. pl. सर्वाणि; f. सर्वा … सर्वस्यै, सर्वासाम्. (e) **अन्य** "other": "declined like *ta* throughout" (Whitney §523), so n. **अन्यत्** (7.1.25, Teacher Notes). (f) **एक** "one": like सर्व (Whitney §524): एकस्मै, एकस्मात्, एकस्मिन्; f. एकस्यै, एकस्याः, एकस्याम्; n. एकम्. Singular only in this course (its plural एके "some" ○, v4). **पर** "other, another; further" (D25) is taught as a plain a-adjective परः परा परम्; Apte: "Declined optionally like a pronoun"; Whitney §525c lists *pára* among words that take pronominal forms "usually, or in some of their significations, or optionally"; 1.1.34 (Teacher Notes). **स्व** "own" (l02 headword) likewise: plain a-adjective स्वः स्वा स्वम् in drills, its optional pronominal forms (1.1.35 स्वमज्ञातिधनाख्यायाम्; Whitney §525c) Teacher Notes only. | FACT; TRADITION (1.1.34–35, 7.1.25, Teacher Notes) | [REF:whitney1889 §499]; [REF:whitney1889 §500]; [REF:whitney1889 §504]; [REF:whitney1889 §509]; [REF:whitney1889 §523]; [REF:whitney1889 §524]; [REF:whitney1889 §525]; [REF:apte1890 s.v. पर]; [REF:ashtadhyayi 7.1.25]; [REF:ashtadhyayi 1.1.34]; [REF:ashtadhyayi 1.1.35] | §509's table is not printed in the e-text extract (blank lines), but its sentence "with entire regularity according to the usual pronominal declension" carries the claim. सर्वेण: र … व … ए … न, no blocker → ण (c04.l04's named law). Data file: 71025 अद्ड् डतरादिभ्यः पञ्चभ्यः, 11034, 11035 ✓. |
+| 0.9 | **सखा "friend"** (Whitney §343a), an irregular i-stem, learned as whole words: sg. सखा · सखायम् · सख्या · सख्ये · सख्युः (abl. = gen.) · सख्यौ (loc.) · voc. सखे; du. सखायौ · सखिभ्याम् · सख्योः; pl. सखायः · सखीन् · सखिभिः · सखिभ्यः · सखीनाम् · सखिषु. **Production:** सखा and सखे ✓; every other cell ◐. At the end of a tatpuruṣa सखि is replaced by -सख (5.4.91 राजाहस्सखिभ्यष्टच्; Whitney §343b: compounds are declined like the simple word "unless (1315 b) *sakha* be substituted"): display at most, v4.c04. The feminine सखी is declined like देवी (§343c): not taught. In the Hitopadeśa Citragrīva calls the mouse *sakhe* (l. 472, 481), and the mouse answers in kind (l. 479). | FACT | [REF:whitney1889 §343]; [REF:apte1890 s.v. सखि]; [REF:monierwilliams1899 s.v. sakhi] | Whitney: "for the five strong cases a peculiarly strengthened base (vriddhied), namely *sákhāy* … the abl.-gen. sing. adds *us*; and the loc. sing. adds *āu*: the rest is like *agní*". The dual and plural cells beyond Whitney's printed ones follow "the rest is like *agní*": सखिभ्याम्, सखिभिः, सखिभ्यः, सखीनाम्, सखिषु (as अग्निभ्याम् …). |
+| 0.10 | **T8, second half — तद् in three genders** (table 0.C; every cell ✓ except the oblique duals ताभ्याम्, तयोः, which stay ◐ as on the v3.c02.l04 dual card). "The simplest demonstrative … may be taken as model of … the general pronominal declension" (Whitney §495). Its marks against रामः / बालिका (Whitney §496): neuter nom./acc. sg. in -त् (तत्); -स्मै -स्मात् -स्मिन् in m./n. dat., abl., loc. sg.; -स्यै -स्याः -स्याम् in the f.; m. nom. pl. ते (not *ताः); gen. pl. -षाम् / -साम् (तेषाम्, तासाम्), not -नाम्. **The 1.x error corrected in the open (IR-025):** not "स् → त् in the oblique cases": the स- forms are only सः and सा; every other cell is from त- — two stems in one paradigm (Whitney §495a: "in the nom. sing. masc. and fem. it has *sás* … and *sā*, instead of *tás* and *tā́*"). The सः seam (स before a consonant) is c04.l02's (6.1.132, Whitney §176a). | FACT | [REF:whitney1889 §495]; [REF:whitney1889 §496]; [REF:whitney1889 §176] | Table re-derived cell by cell against §495's printed paradigm: identical to the plan's (§4.5 c05.l02). |
+| 0.11 | **The Δ cards on तद् (l02).** (a) **एतद्** "this (here)" = ए- + the तद् cells, nom. एषः एषा एतत् (owned v2.c02.l02, v1.c06.l02) — "It prefixes *e* to the simple root … and so on through the whole inflection" (Whitney §499b); the ṣ of एषः, एतेषाम्, एतेषु is the s → ṣ law (named c04.l04). All cells ✓ except the oblique duals एताभ्याम्, एतयोः (◐, as on the dual card). The short एनम्, एनेन … (Whitney §500): Teacher Notes only. (b) **यद्** "who, which" (relative): "inflected with entire regularity according to the usual pronominal declension" (Whitney §509): यः या यत्; यम् याम् यत् … All cells ✓ in l02 **as table cells**, except the oblique duals याभ्याम्, ययोः (◐, as on the dual card); in sentences from l03 (G6). (c) **किम्** "who? what?": the whole declension from क- except n. nom./acc. sg. किम् (Whitney §504) — the m./n. cells owned from v3.c01; **f. का काम् कया कस्यै कस्याः कस्याम्; pl. काः काभिः काभ्यः कासाम् कासु** (◐ in c02.l02, now ✓). (d) **सर्व** "all": pronominal except n. nom./acc. sg. सर्वम् (Whitney §524) — m. pl. **सर्वे** (not *सर्वाः, which is the feminine plural), सर्वस्मै, सर्वस्मात्, सर्वस्मिन्, सर्वेषाम्; n. pl. सर्वाणि; f. सर्वा … सर्वस्यै, सर्वासाम्. (e) **अन्य** "other": "declined like *ta* throughout" (Whitney §523), so n. **अन्यत्** (7.1.25, Teacher Notes). (f) **एक** "one": like सर्व (Whitney §524): एकस्मै, एकस्मात्, एकस्मिन्; f. एकस्यै, एकस्याः, एकस्याम्; n. एकम्. Singular only in this course (its plural एके "some" ○, v4). **पर** "other, another; further" (D25) is taught as a plain a-adjective परः परा परम्; Apte: "Declined optionally like a pronoun"; Whitney §525c lists *pára* among words that take pronominal forms "usually, or in some of their significations, or optionally"; 1.1.34 (Teacher Notes). **स्व** "own" (l02 headword) likewise: plain a-adjective स्वः स्वा स्वम् in drills, its optional pronominal forms (1.1.35 स्वमज्ञातिधनाख्यायाम्; Whitney §525c) Teacher Notes only. | FACT; TRADITION (1.1.34–35, 7.1.25, Teacher Notes) | [REF:whitney1889 §499]; [REF:whitney1889 §500]; [REF:whitney1889 §504]; [REF:whitney1889 §509]; [REF:whitney1889 §523]; [REF:whitney1889 §524]; [REF:whitney1889 §525]; [REF:apte1890 s.v. पर]; [REF:ashtadhyayi 7.1.25]; [REF:ashtadhyayi 1.1.34]; [REF:ashtadhyayi 1.1.35] | §509's table is not printed in the e-text extract (blank lines), but its sentence "with entire regularity according to the usual pronominal declension" carries the claim. सर्वेण: र … व … ए … न, no blocker → ण (c04.l04's named law). Data file: 71025 अद्ड् डतरादिभ्यः पञ्चभ्यः, 11034, 11035 ✓. |
 | 0.12 | **इदम् "this"** (Whitney §501; table 0.D). "So irregularly made up that [it has] to be given in full" — "pieced together from a number of defective stems" (§502a): अय-/इय-/इद-, इम-, अन-, अ- (with -स्मै -स्य -स्मिन्), ए-/आ- (plural obliques). **Key cells ✓:** the nominatives and accusatives in all three numbers and genders (अयम् इयम् इदम्; इमम् इमाम् इदम्; इमौ इमे; इमे इमाः इमानि; इमान् इमाः इमानि), and अनेन, अस्य, अस्याः, अस्मिन्. **Every other cell ◐** (plan c05#3: the plan's §1.3 marked the key cells ◐ by mistake; c05.l02 and §2.2 make them ✓ — this note follows c05.l02). | FACT | [REF:whitney1889 §501]; [REF:whitney1889 §502] | Every cell re-derived against §501a's table: identical to the plan's. The neuter shares the m. obliques (अनेन, अस्मै …). अदस् "yon" (असौ, §501) is **not taught** in Volume 3 (Teacher Notes, one line; open item 3). |
 | 0.13 | **Sūtra quoted to the learner in l02 (one; TRADITION): 1.1.27 सर्वादीनि सर्वनामानि** (*sarvādīni sarvanāmāni*) — learner wording: "The words of the list that begins with सर्व are called सर्वनाम ('pronoun')." The Kāśikā's examples are exactly the forms the lesson drills: *sarvaḥ, sarvau, sarve; sarvasmai; sarvasmāt; sarveṣām*. The term सर्वनाम is a class named after its first member — "the all-word class" — which is why सर्व declines like सः. | TRADITION | [REF:ashtadhyayi 1.1.27]; [REF:kashika 1.1.27] | Data file 11027 ✓; Kāśikā `jvkasixu.htm` l. 874 ff. The Kāśikā's notes on 1.1.28–1.1.31 (no pronominal endings in a dvandva or bahuvrīhi of these words) are not printed (v4.c04). No count of the gaṇa is printed (the gaṇa's length varies by source). |
 | 0.14 | **The indefinites (l02).** कः / का / किम् + चित् or अपि → "some-, any-": कश्चित् (कः + चित्, ः + च → श्च, c04.l02), काचित्, किञ्चित् (or किंचित्; म् before च, c04.l03); कोऽपि (c04.l02), कापि (**the feminine का + अपि**, not कः + अपि), किमपि; with न: "no one, nothing" (न कोऽपि, v2.c06.l02). Whitney §507: the interrogative "is by various added particles converted to an indefinite meaning: thus, by *ca, caná, cid, ápi*", with *ná kó 'pi* "not any one". **✓:** the nominatives (कश्चित्, काचित्, किञ्चित्; कोऽपि, कापि, किमपि) and the headwords कश्चित्, कदाचित्. **◐ display:** केनचित्, कस्मिंश्चित्, कस्याश्चित् (the seams are c04's; न् + च is ◐ there). -चन forms (कश्चन): Teacher Notes only. **Ledger (rule 15):** only कश्चित् and कदाचित् count. | FACT | [REF:whitney1889 §507]; [REF:whitney1889 §1103] | Plan c05#7 (कापि ← का) confirmed and applied. कदाचित्: Whitney §1103b cites *kadācid divase* (R.) "on a certain day". |
@@ -61,9 +61,9 @@ the running lesson.
 | 0.16 | **The relative–correlative sentence (l03; G6).** The relative clause (यः …, यत्र …, यदा …, यथा …) comes first and its correlative (सः, तत्र, तदा, तथा) after: Whitney §512a — "a very decided preference for putting the relative clause before that to which it relates … The other arrangement, though frequent enough, is notably less usual"; among his examples one from the Hitopadeśa (*sarvasya locanaṃ śāstraṃ yasya nāsty andha eva saḥ*). The relative and its correlative agree in gender and number with the noun they point to; each takes **its own case** from its own clause (यं पश्यसि स मम सखा "the one you see is my friend": यम् acc. in its clause, सः nom. in the main one). **Production ✓:** यः/या/यत् … सः/सा/तत् in any case of the ✓ table; यत्र … तत्र; यदा … तदा; यथा … तथा. यावत् … तावत्: v4.c04 (§6). | FACT | [REF:whitney1889 §512]; [REF:whitney1889 §1132] | §1132: "The relative derivative adverbs … may properly be regarded as conjunctions". |
 | 0.17 | **Particles (l03; Whitney §§1122, 1133).** च "and" and वा "or": "toneless, and never having the first place in a sentence or clause" (§1133); हि "for, indeed" (Apte: "Never used at the beginning of a sentence"; Whitney §1133c: "Of illative value is *hí* for"); तु "but" (§1133b; never first: c04.l02's headword); एव "only, just, indeed" (asseverative, §1122a); इव "like, as if" (§1122); न, मा (§1122c: "*ná*, signifying simple negation; *mā́*, signifying prohibition"); अपि "also, even" (Whitney §1077a: "of very limited use as prefix in the later language, having become a conjunction"); इति "thus" (closing quotation). **Learner rule (✓):** च, वा, हि, तु never stand first; they follow the first word of their clause or the word they join. | FACT | [REF:whitney1889 §1122]; [REF:whitney1889 §1133]; [REF:whitney1889 §1077]; [REF:apte1890 s.v. हि] | All owned but हि (l03 headword). |
 | 0.18 | **Words placed with the genitive (l03): उपरि (owned), समीपे (c01.l04), अधः (new)** — "with *upari* above (common later)", "with … *adhas*" (Whitney §1130). तरोः अधः "under the tree", वृक्षस्य उपरि, गृहस्य समीपे. ✓. अधः ends in -अः: joined like any -अः word (अधोऽपृच्छत्, अधः शशकः). | FACT | [REF:whitney1889 §1130]; [REF:apte1890 s.v. अधस्] | Apte s.v. अधस्, अधः ind.; MW *adhas*. |
-| 0.19 | **Sūtras quoted to the learner in l03 (two; TRADITION):** **1.1.37 स्वरादिनिपातमव्ययम्** (*svarādinipātam avyayam*) — learner wording: "The words of the list that begins with स्वर्, and the particles (निपाताः), are called अव्यय — 'unchanging'." (The Kāśikā's list includes prātar, uccais, śanais, hyas, śvas, bahis, adhas, svayam — six of them owned.) **1.4.59 उपसर्गाः क्रियायोगे** (*upasargāḥ kriyāyoge*) — "When they are joined to a verb, प्र and the rest are called उपसर्ग." (1.4.58 प्रादयः, which defines "प्र and the rest" as nipātas, and gives the list, is Teacher Notes.) | TRADITION | [REF:ashtadhyayi 1.1.37]; [REF:kashika 1.1.37]; [REF:ashtadhyayi 1.4.59]; [REF:kashika 1.4.59]; [REF:ashtadhyayi 1.4.58] | Data file 11037, 14059, 14058 ✓. Kāśikā l. 1123 ff., 6584 ff., 6621 ff. 1.4.57 चादयोऽसत्त्वे (the particles च … as nipātas) and 1.4.60 गतिश्च: Teacher Notes. |
+| 0.19 | **Sūtras quoted to the learner in l03 (two; TRADITION):** **1.1.37 स्वरादिनिपातमव्ययम्** (*svarādinipātam avyayam*) — learner wording: "The words of the list that begins with स्वर्, and the particles (निपाताः), are called अव्यय — 'unchanging'." (The Kāśikā's list includes antar, prātar, punar, uccais, śanais, hyas, śvas, sāyam, bahis, purā, vinā, svasti, namas — all owned before l03 — and adhas, svayam, this chapter's headwords.) **1.4.59 उपसर्गाः क्रियायोगे** (*upasargāḥ kriyāyoge*) — "When they are joined to a verb, प्र and the rest are called उपसर्ग." (1.4.58 प्रादयः, which defines "प्र and the rest" as nipātas, and gives the list, is Teacher Notes.) | TRADITION | [REF:ashtadhyayi 1.1.37]; [REF:kashika 1.1.37]; [REF:ashtadhyayi 1.4.59]; [REF:kashika 1.4.59]; [REF:ashtadhyayi 1.4.58] | Data file 11037, 14059, 14058 ✓. Kāśikā l. 1123 ff., 6584 ff., 6621 ff. 1.4.57 चादयोऽसत्त्वे (the particles च … as nipātas) and 1.4.60 गतिश्च: Teacher Notes. |
 | 0.20 | **The upasarga card (reference; IR-025; no production target).** The tradition's list (1.4.58 प्रादयः, as the Kāśikā gives it) has **22** members: प्र परा अप सम् अनु अव निस् निर् दुस् दुर् वि आ(ङ्) नि अधि अपि अति सु उत् अभि प्रति परि उप — निस्/निर् and दुस्/दुर् are counted as two each. The 1.x book printed अति and उप twice, left out नि and अपि, and still said "22" (IR-025). Whitney's list of the prefixes "which have value as such throughout the whole history of the language" (§1077) has 19 (with अन्तर्, without सु and दुस्, which he treats as inseparable prefixes, §1121) — the card says "22 in the tradition's list; Western grammars count differently" and prints both. Owned prefixed words (one per line on the card): आगच्छति (आ), अवगच्छति (अव), निर्गच्छति (निर्), प्रविशति, प्रयच्छति (प्र), उपविशति (उप), निवसति (नि), संस्कृतम् (सम्), परिवारः (परि), अनुगृहीतः (अनु, v2.c01.l04 chunk), सुप्रभातम् (सु), उपकारः (in परोपकारः). Display: उत्तिष्ठति, प्रतिवसति (c06.l03), सम्भाषते (c06.l02). The meanings are Whitney §1077's "leading ones", with his caution: "In combinations of root and prefix they undergo much modification". | TRADITION (the list); FACT (the meanings) | [REF:ashtadhyayi 1.4.58]; [REF:kashika 1.4.58]; [REF:whitney1889 §1077]; [REF:whitney1889 §1121] | Kāśikā e-text (l. 6587 ff.) has two typos, corrected here and in Teacher Notes: *rus* for दुस्, *up* for उप (and *ut abhi* run together). No other count is printed. |
-| 0.21 | **Compounds (l04).** "The frequent combination of declinable stems with one another to form compounds which then are treated as if simple, in respect to accent, inflection, and construction, is a conspicuous feature of the language" (Whitney §1246). **Four rules (learner text):** (1) every member but the last stands **in stem form** (मातृभाषा, not *माताभाषा — v1.c02.l03's promise; a stem with strong and weak forms enters in its weak form, Whitney §1249b–c); (2) **only the last member is inflected**; (3) **sandhi applies at the inner seam** as between words (Whitney §1249a: "according to the general rules for external combination") — पर-उपकारः → परोपकारः (c04.l01), मनस्-रथः → मनोरथः (c04.l02); (4) the compound is understood through its **विग्रहः**, the phrase with case endings it compresses. **The four kinds** (table 0.F): द्वन्द्वः, तत्पुरुषः (with its subtypes named: the case-tatpuruṣa, कर्मधारयः, द्विगुः; उपपद as a note), बहुव्रीहिः, अव्ययीभावः. **Production ✓:** the vigraha of dvandva, case-tatpuruṣa, karmadhāraya and bahuvrīhi, and coining transparent compounds of those kinds from owned words; **◐:** dvigu, upapada, avyayībhāva (recognised and named; never required). The names are examples of themselves: तत्पुरुषः "his man" (Whitney §1263a), बहुव्रीहिः "(having) much rice" (§1293c), द्विगुः "(worth) two cows" (§1312a), अव्ययीभावः "conversion to an indeclinable" (§1313a); कर्मधारयः is "of obscure application" (§1263a) — the lesson says so and gives no etymology. | FACT; TRADITION (the names) | [REF:whitney1889 §1246]; [REF:whitney1889 §1247]; [REF:whitney1889 §1249]; [REF:whitney1889 §1263]; [REF:whitney1889 §1293]; [REF:whitney1889 §1312]; [REF:whitney1889 §1313] | Whitney's own classes (copulative, determinative = dependent + descriptive, possessive, §1247) are printed beside the tradition's names in l04 §5. |
+| 0.21 | **Compounds (l04).** "The frequent combination of declinable stems with one another to form compounds which then are treated as if simple, in respect to accent, inflection, and construction, is a conspicuous feature of the language" (Whitney §1246). **Four rules (learner text):** (1) every member but the last stands **in stem form** (मातृभाषा, not *माताभाषा — v1.c02.l03's promise; a stem with strong and weak forms enters in its weak form, Whitney §1249b–c); an a-adjective enters as its dictionary stem even where the vigraha shows its feminine: चित्रा ग्रीवा → चित्रग्रीवः (not *चित्राग्रीवः), अल्पा शक्तिः → अल्पशक्तिः, शुभा रात्रिः → शुभरात्रिः (the tradition's 6.3.34 for the bahuvrīhi and 6.3.42 for the karmadhāraya are Teacher Notes only; the learner rule is "the adjective goes in as its dictionary stem"); (2) **only the last member is inflected**; (3) **sandhi applies at the inner seam** as between words (Whitney §1249a: "according to the general rules for external combination") — पर-उपकारः → परोपकारः (c04.l01), मनस्-रथः → मनोरथः (c04.l02); (4) the compound is understood through its **विग्रहः**, the phrase with case endings it compresses. **The four kinds** (table 0.F): द्वन्द्वः, तत्पुरुषः (with its subtypes named: the case-tatpuruṣa, कर्मधारयः, द्विगुः; उपपद as a note), बहुव्रीहिः, अव्ययीभावः. **Production ✓:** the vigraha of dvandva, case-tatpuruṣa, karmadhāraya and bahuvrīhi, and coining transparent compounds of those kinds from owned words; **◐:** dvigu, upapada, avyayībhāva (recognised and named; never required). Three of the four names are examples of themselves: तत्पुरुषः "his man" (Whitney §1263a), बहुव्रीहिः "(having) much rice" (§1293c), द्विगुः "(worth) two cows" (§1312a); अव्ययीभावः is **not** an example of itself — it is a derivative of the compound verb avyayī-√bhū, "conversion to an indeclinable" (§1313a); कर्मधारयः is "of obscure application" (§1263a) — the lesson says so and gives no etymology. | FACT; TRADITION (the names) | [REF:whitney1889 §1246]; [REF:whitney1889 §1247]; [REF:whitney1889 §1249]; [REF:whitney1889 §1263]; [REF:whitney1889 §1293]; [REF:whitney1889 §1312]; [REF:whitney1889 §1313] | Whitney's own classes (copulative, determinative = dependent + descriptive, possessive, §1247) are printed beside the tradition's names in l04 §5. |
 | 0.22 | **Sūtras quoted to the learner in l04 (two; TRADITION):** **2.2.29 चार्थे द्वन्द्वः** (*cārthe dvandvaḥ*) — "Words in the sense of 'and' (च) make a द्वन्द्व." **2.2.24 अनेकमन्यपदार्थे** (*anekam anyapadārthe*) — "Two or more words that point to something else make a बहुव्रीहि" (2.2.23 शेषो बहुव्रीहिः supplies the name; Teacher Notes). The Kāśikā on 2.2.24: *prāptam udakaṃ yaṃ grāmaṃ prāptodako grāmaḥ* "a village that water has reached". **Teacher Notes only:** 2.1.22 तत्पुरुषः; 2.2.8 षष्ठी; 2.1.57 विशेषणं विशेष्येण बहुलम् (karmadhāraya); 2.1.52 संख्यापूर्वो द्विगुः; 2.1.6 अव्ययं विभक्तिसमीप… and 2.1.7 यथासादृश्ये (avyayībhāva, यथाशक्ति); 2.2.19 उपपदमतिङ् (upapada); 2.2.18 कुगतिप्रादयः (prādi); 2.2.6 नञ् (अ-हिंसा); 6.3.25 आनङ् ऋतो द्वन्द्वे (माता-पितरौ); 5.4.91 राजाहस्सखिभ्यष्टच् (-राज, -सख at a compound's end: v4.c04). | TRADITION | [REF:ashtadhyayi 2.2.29]; [REF:kashika 2.2.29]; [REF:ashtadhyayi 2.2.24]; [REF:kashika 2.2.24] | All numbers ✓ in the data file (22029, 22024, 22023, 21022, 22008, 21057, 21052, 21006, 21007, 22019, 22018, 22006, 63025, 54091). |
 | 0.23 | **Deferred, with addresses (each said once, where met):** compound accent and the इन्द्रशत्रु contrast (IR-026; tatpuruṣa "slayer of Indra" vs bahuvrīhi "whose slayer is Indra") → **v4.c04** (plan §6, G8; the IMPROVEMENT_REPORT's "v4.c02" is superseded); prādi, gati and upapada as kinds of their own, samāsānta (5.4.91), the finer tatpuruṣa subtypes (नञ्, एकदेशि …) → v4.c04; roots (v4.c03) and suffixes (v4.c04) — "of v2.c06.l04's four word-building parts, the prefix (l03) and the compound (l04) are now taught"; यावत् … तावत्, the -वत्/-मात्र adverbs, gati prefixes → v4.c04; the s-stem declension (मनसः in मनोरथः's vigraha is display) and the consonant stems beyond R6 → v4.c05; the absolutive (R5) → c06.l01; X नाम Y and the present + स्म → c06.l03; अदस् → not in Volume 3 (open item 3). | policy | plan §4.5, §6, §4.0.3; IMPROVEMENT_REPORT IR-026 | — |
 | 0.24 | **Policy: what is allowed in Chapter 5's taught text, lesson by lesson** (everything Chapter 4 row 0.18 allowed — the present P and Ā, imperfect, imperative, optative 3rd person, T1–T5 ✓ cells, the dual card, R1–R4 labelled, every seam of tables 0.A–0.C — plus): **l01** — the ✓ cells of अस्मद्/युष्मद् (row 0.4) and of भवत्/भवती (0.7); सखा, सखे; स्वयम्; R6 nominatives as labelled recognition; learner compositions joined. **l02** — + तद् all cells; the Δ cards एतद्, किम् (f. included), सर्व, अन्य, एक (sg.) ✓; यद् ✓ in table drills only (no relative sentence yet); इदम् key cells ✓; the indefinite nominatives (0.14); पर, स्व, निज as a-adjectives. **l03** — + the relative–correlative sentence (0.16); the grid (0.15); particles (0.17) incl. हि; अधः + gen.; the upasarga card read. **l04** — + compounds as a system: dvandva, case-tatpuruṣa, karmadhāraya, bahuvrīhi ✓ (coined and resolved); dvigu, upapada, avyayībhāva ◐ (read, named). **l05** — no new forms. **Not allowed anywhere in Chapter 5:** any ◐ cell as a required output; अदस्; the absolutive (R5, c06.l01); the present + स्म (c06.l03); X नाम Y as a built formula (c06.l03; the owned frame मम नाम … / तस्य नाम … stays usable, v1.c06.l02); the future (Hit's *chetsyati* is not printed); participles beyond the owned predicate adjectives (बद्धः, मुक्तः …) and R2; यावत् … तावत्; -तर/-तम; compounds whose vigraha needs a member that is not owned, unless the member is glossed as display (उपकारः, मनसः, ख); -राज/-सख at a compound's end (5.4.91). **Before the lesson that teaches it:** no pronoun cell, Δ cell, grid word, particle, relative sentence or compound analysis stands in l01–l04 texts unless it is owned (Volumes 1–2, v3.c01–c04) or carries one honest label. | policy | plan §1.2, §4.5; Chapter 4 row 0.18 | Walk check done for every text in §§1–5 (§6 re-runs it). Owned whole compounds (विद्यालयः, हिमालयः, परोपकारः, सुप्रभातम्, शुभरात्रिः, मध्याह्नः, रविवासरः, सप्ताहः, दूरदर्शनम्, वर्णमाला, महाभारतम्, गोपाल, जलज, खग, मनोरथैः in the verse) stay usable everywhere in the form owned; their analysis is l04's. The names चित्रग्रीवः and हिरण्यकः are gloss-line items in l01–l03 (rule 12) and चित्रग्रीवः is resolved in l04. |
@@ -72,7 +72,7 @@ the running lesson.
 | 0.27 | **Pedagogy anchors** (the error sweep's binding decisions): retrieval before re-reading [REF:roediger2006] (only: retrieval practice beats re-reading for long-term retention); spaced review across days [REF:cepeda2006]; chunks first, analysed later [REF:nation2013] (only: teaching formulaic chunks whole and analysing them later — this chapter is that "later" for मम, तव, मह्यम्, नमस्ते, कश्चित्, विद्यालयः). No "strongest" or "fastest" claims. | policy | verification-log "Decisions recorded" (2026-11-10) | — |
 | 0.28 | **No frequency or scale words without a count and a source.** The chapter says no form is "common", "frequent" or "usual" in its own voice. Where a preference is stated, it is Whitney's own words, quoted and cited: the relative clause first, "a very decided preference … The other arrangement, though frequent enough, is notably less usual" (§512a); the prefixes' frequency order "as estimated by the number of roots with which they are found used in RV. and AV." (§1077a) — **not printed** (it concerns the Veda). The plan's "the prefix in अवगच्छति is one of 22" is a count from the cited list, not a scale claim. | policy | STYLE_GUIDE §7; plan §7.6 | — |
 | 0.29 | **§9–§11: connected speech** (every lesson). Continuing Chapter 4's rule — a seam is spoken without a pause; a space in joined print is a word boundary, not a breath — this chapter adds one fact: **the short forms are unaccented and lean on the word before them** (Whitney §491b "accentless"): फलं मे रोचते is said as two stress groups, *phalaṃ-me rocate*; नमस्ते is one word. No accent marks are printed (Vedic accent v5.c03); the lessons speak only of "leaning", not of pitch. §10 IPA: the headwords of each lesson (row in each §), anusvāra by STYLE_GUIDE §2 (homorganic nasal before a stop; nasalized vowel before sibilants and ह). | FACT; policy | [REF:whitney1889 §491]; STYLE_GUIDE §2 | — |
-| 0.30 | **Station 0 bookings — canonical wording** (each printed verbatim in the booking lesson's §20 and in the running lesson's §3, **without** the S0 labels, as "- +1 day: …"). **Arriving from Chapter 4** (quoted from the Chapter 4 fact base row 0.24; S0-am also diffed against `curriculum/volume-3/chapter-04/lesson-04-unjoining.md` §20, 2026-11-10: identical; `lesson-05-sandhi-exam.md` is not on disk — **Pass C diffs S0-an and S0-ao against it when it is**): **S0-am** (v3.c04.l04 §20, run by l01): "+1 week: one serial episode split — the thirteen joined lines of the whole tale so far (v3.c04.l04 §17) read aloud joined, then three lines of your choice written in pause form, each seam named with the lesson that taught it; v3.c05.l01's Station 0 runs exactly this." **S0-an** (v3.c04.l05 §20, run by l01): "+1 day: five joins, five splits — join सः अपि, नमः ते, गुरुः अत्र, तत् च and जलम् अस्ति; split तस्मिन्नेव, सदैव, पुनर्मिलामः, कोऽपि and सत्यं वद; each with its rule's name; v3.c05.l01's Station 0 runs exactly this." **S0-ao** (v3.c04.l05 §20, run by l02): "+1 week: the crow story at speed — the Volume 2 crow story read aloud joined, as task C of the sandhi exam printed it, once slowly and once at natural pace, the second reading timed and under one minute; v3.c05.l02's Station 0 runs exactly this." **Booked in Chapter 5:** **S0-ap** (l01 → l02): "+1 day: the I-and-you cells — अहम् and त्वम् said and written down the seven cases of the singular, then the plural nominative, accusative, instrumental and genitive (वयम् अस्मान् अस्माभिः अस्माकम्; यूयम् युष्मान् युष्माभिः युष्माकम्), then मे, ते, नः and वः each in a short sentence of your own where it does not stand first; v3.c05.l02's Station 0 runs exactly this." **S0-aq** (l01 → l03): "+1 week: the नमस्ते proof from memory — नमः + ते → नमस्ते written as three lines (नमः takes the dative, 2.3.16; ते is the short form of तुभ्यम्, 8.1.22; ः before त becomes स्, 8.3.34), then the same three lines for नमो वः; v3.c05.l03's Station 0 runs exactly this." **S0-ar** (l02 → l03): "+1 day: तद् in three genders, singular — सः, सा and तत् said and written down the seven cases, then एषः, एषा and एतत् in the nominative and the accusative; v3.c05.l03's Station 0 runs exactly this." **S0-as** (l02 → l04): "+1 week: the यद्, किम् and सर्व cells — यः, या, यत् and कः, का, किम् down the seven cases of the singular, then सर्वः, सर्वा, सर्वम् in the nominative singular and plural, and सर्वस्मै, सर्वस्मिन्, सर्वेषाम्; v3.c05.l04's Station 0 runs exactly this." **S0-at** (l03 → l04): "+1 day: the grid from memory — the rows place, from where, time and manner across the columns क-, इ-/अ-, त-, य- and सर्व-, written as a table, then two words of it used in a sentence each; v3.c05.l04's Station 0 runs exactly this." **S0-au** (l03 → l05): "+1 week: relative pairs — six sentences of your own about the doves and the mouse, one each with यः … सः, या … सा, यत् … तत्, यत्र … तत्र, यदा … तदा and यथा … तथा, written joined with the pause form beneath; v3.c05.l05's Station 0 runs exactly this." **S0-av** (l04 → l05): "+1 day: ten vigrahas — परोपकारः, हिमालयः, समुद्रतीरम्, सभामध्ये, अमृततुल्यम्, सिंहमूषकौ, गुरुशिष्यौ, चित्रवनम्, पाशबद्धाः and जलपात्रम्, each resolved into its phrase with the case of every member named; v3.c05.l05's Station 0 runs exactly this." **S0-aw** (l04 → v3.c06.l01): "+1 week: name the kind — वर्णमाला, शुभरात्रिः, नीलकमलम्, मातापितरौ, सिंहमूषकौ, नीलकण्ठः, अल्पशक्तिः, चित्रग्रीवः, परोपकारः and रविवासरः, each named द्वन्द्वः, तत्पुरुषः, कर्मधारयः or बहुव्रीहिः, with its vigraha said aloud; v3.c06.l01's Station 0 runs exactly this." **S0-ax** (l05 → v3.c06.l01): "+1 day: the crow story read joined — the Volume 2 crow story read aloud joined, as task C of the sandhi exam printed it, once at natural pace, recorded; v3.c06.l01's Station 0 runs exactly this." **S0-ay** (l05 → v3.c06.l02): "+1 week: the serial in two minutes — the five episodes of the doves and the mouse (Chapters 1–5) retold aloud in your own Sanskrit, in the imperfect, in two minutes, timed; v3.c06.l02's Station 0 runs exactly this." **Standing** (l05 §20, from v2.c06.l05 via every Volume 3 l05, verbatim): "Monthly until Volume 3 ends: one story told aloud, one saying recited with its source, the nine askers once." | policy | plan §4.0.5 and the c05 blocks' "S0 → next" lines; [REF:cepeda2006] | **Chain:** l01 §3 runs S0-an and S0-am; l02 §3 runs S0-ap and S0-ao; l03 §3 runs S0-ar and S0-aq; l04 §3 runs S0-at and S0-as; l05 §3 runs S0-av and S0-au; v3.c06.l01 runs S0-ax and S0-aw; v3.c06.l02 runs S0-ay. **Keys:** table 0.G (✓ cells only). **Exam guard** (Chapter 3 decision 4): no item of S0-au or S0-av is an item of the exam's tasks A–E (§5); task C's ten compounds and S0-av's ten are disjoint. |
+| 0.30 | **Station 0 bookings — canonical wording** (each printed verbatim in the booking lesson's §20 and in the running lesson's §3, **without** the S0 labels, as "- +1 day: …"). **Arriving from Chapter 4** (quoted from the Chapter 4 fact base row 0.24; S0-am also diffed against `curriculum/volume-3/chapter-04/lesson-04-unjoining.md` §20, 2026-11-10: identical; S0-an and S0-ao diffed against `curriculum/volume-3/chapter-04/lesson-05-sandhi-exam.md` §20, 2026-11-10: identical): **S0-am** (v3.c04.l04 §20, run by l01): "+1 week: one serial episode split — the thirteen joined lines of the whole tale so far (v3.c04.l04 §17) read aloud joined, then three lines of your choice written in pause form, each seam named with the lesson that taught it; v3.c05.l01's Station 0 runs exactly this." **S0-an** (v3.c04.l05 §20, run by l01): "+1 day: five joins, five splits — join सः अपि, नमः ते, गुरुः अत्र, तत् च and जलम् अस्ति; split तस्मिन्नेव, सदैव, पुनर्मिलामः, कोऽपि and सत्यं वद; each with its rule's name; v3.c05.l01's Station 0 runs exactly this." **S0-ao** (v3.c04.l05 §20, run by l02): "+1 week: the crow story at speed — the Volume 2 crow story read aloud joined, as task C of the sandhi exam printed it, once slowly and once at natural pace, the second reading timed and under one minute; v3.c05.l02's Station 0 runs exactly this." **Booked in Chapter 5:** **S0-ap** (l01 → l02): "+1 day: the I-and-you cells — अहम् and त्वम् said and written down the seven cases of the singular, then the plural nominative, accusative, instrumental and genitive (वयम् अस्मान् अस्माभिः अस्माकम्; यूयम् युष्मान् युष्माभिः युष्माकम्), then मे, ते, नः and वः each in a short sentence of your own where it does not stand first; v3.c05.l02's Station 0 runs exactly this." **S0-aq** (l01 → l03): "+1 week: the नमस्ते proof from memory — नमः + ते → नमस्ते written as three lines (नमः takes the dative, 2.3.16; ते is the short form of तुभ्यम्, 8.1.22; ः before त becomes स्, 8.3.34), then the same three lines for नमो वः; v3.c05.l03's Station 0 runs exactly this." **S0-ar** (l02 → l03): "+1 day: तद् in three genders, singular — सः, सा and तत् said and written down the seven cases, then एषः, एषा and एतत् in the nominative and the accusative; v3.c05.l03's Station 0 runs exactly this." **S0-as** (l02 → l04): "+1 week: the यद्, किम् and सर्व cells — यः, या, यत् and कः, का, किम् down the seven cases of the singular, then सर्वः, सर्वा, सर्वम् in the nominative singular and plural, and सर्वस्मै, सर्वस्मिन्, सर्वेषाम्; v3.c05.l04's Station 0 runs exactly this." **S0-at** (l03 → l04): "+1 day: the grid from memory — the rows place, from where, time and manner across the columns क-, इ-/अ-, त-, य- and सर्व-, written as a table, then two words of it used in a sentence each; v3.c05.l04's Station 0 runs exactly this." **S0-au** (l03 → l05): "+1 week: relative pairs — six sentences of your own about the doves and the mouse, one each with यः … सः, या … सा, यत् … तत्, यत्र … तत्र, यदा … तदा and यथा … तथा, written joined with the pause form beneath; v3.c05.l05's Station 0 runs exactly this." **S0-av** (l04 → l05): "+1 day: ten vigrahas — परोपकारः, हिमालयः, समुद्रतीरम्, सभामध्ये, अमृततुल्यम्, सिंहमूषकौ, गुरुशिष्यौ, चित्रवनम्, कमलमुकुलम् and जलपात्रम्, each resolved into its phrase with the case of every member named; v3.c05.l05's Station 0 runs exactly this." **S0-aw** (l04 → v3.c06.l01): "+1 week: name the kind — वर्णमाला, शुभरात्रिः, नीलकमलम्, मातापितरौ, सिंहमूषकौ, नीलकण्ठः, अल्पशक्तिः, चित्रग्रीवः, परोपकारः and रविवासरः, each named द्वन्द्वः, तत्पुरुषः, कर्मधारयः or बहुव्रीहिः, with its vigraha said aloud; v3.c06.l01's Station 0 runs exactly this." **S0-ax** (l05 → v3.c06.l01): "+1 day: the crow story read joined — the Volume 2 crow story read aloud joined, as task C of the sandhi exam printed it, once at natural pace, recorded; v3.c06.l01's Station 0 runs exactly this." **S0-ay** (l05 → v3.c06.l02): "+1 week: the serial in two minutes — the five episodes of the doves and the mouse (Chapters 1–5) retold aloud in your own Sanskrit, in the imperfect, in two minutes, timed; v3.c06.l02's Station 0 runs exactly this." **Standing** (l05 §20, from v2.c06.l05 via every Volume 3 l05, verbatim): "Monthly until Volume 3 ends: one story told aloud, one saying recited with its source, the nine askers once." | policy | plan §4.0.5 and the c05 blocks' "S0 → next" lines; [REF:cepeda2006] | **Chain:** l01 §3 runs S0-an and S0-am; l02 §3 runs S0-ap and S0-ao; l03 §3 runs S0-ar and S0-aq; l04 §3 runs S0-at and S0-as; l05 §3 runs S0-av and S0-au; v3.c06.l01 runs S0-ax and S0-aw; v3.c06.l02 runs S0-ay. **Keys:** table 0.G (✓ cells only). **Exam guard** (Chapter 3 decision 4): no item of S0-au or S0-av is an item of the exam's tasks A–E (§5); task C's ten compounds and S0-av's ten are disjoint. |
 | 0.31 | **GLOSSARY terms this chapter adds or updates** (grammar terms, not ledger words): §7 item 6 (the full list, with the Hindi form the lessons must use). | policy | GLOSSARY.md; Chapter 3 decision 3; Chapter 4 decision 4 | — |
 | 0.32 | **1.x assets carried (plan §4.0.2; ROADMAP preservation map).** (a) the tad/idam paradigms (pp. 111–113): re-derived (tables 0.C, 0.D), with IR-025's suppletion correction in the open; (b) the 22 upasargas (p. 114): the corrected list (row 0.20); (c) the four samāsa types (pp. 37–43 per the plan; Pass C confirms the pages): taught as four kinds with the tatpuruṣa subtypes; the इन्द्रशत्रु example → v4.c04. Pass C opens those pages in `Sanskritam-Curriculum.pdf` and lists each 1.x line the chapter corrects. | policy | plan §4.0.2; analysis/IMPROVEMENT_REPORT.md IR-025, IR-026 | — |
 | 0.33 | **The serial, episode 5** (plan §1.5) — **"the same flight, told again with names".** The serial reached the freeing of the doves in v3.c03.l04 (episode 3; re-read joined in Chapter 4). Episode 5 goes back to the moment after the hunter turned away and tells it again with what the earlier telling left out: the king's name (चित्रग्रीवः) and the mouse's (हिरण्यकः), the king's words in the sky ("my friend … would protect us"; "the one who cuts snares is my friend"), the flight to the burrow, the mouse's silence and coming out, his words *aham alpa-śaktiḥ, dantāś ca me komalāḥ*. Four parts, one per teaching lesson, each in that lesson's grammar (§§1–4); the exam's task D is a new course-written passage on the same episode (§5). Label on every page: "our retelling, after Hitopadeśa 1 (Mitralābha)". Departures (Teacher Notes, every lesson): table 0.I. | policy; HISTORY (what the text says, by line) | [REF:hitopadesha mitralābha]; GRETIL `hitop_u.htm` | Every statement in table 0.I was re-found by line in the e-text. |
@@ -96,7 +96,7 @@ Owned before the chapter (evidence, each grep-checked, `ledger-all.tsv` and the 
 (v1.c01.l01; "the short form of तुभ्यम्", previewed v3.c01.l03) and in भद्रम् ते (v2.c01.l01).
 New cells in l01: मत्, त्वत्, मयि, त्वयि, अस्मान्, युष्मान्, अस्माभिः, युष्माभिः, अस्माकम्, युष्माकम्,
 the four ✓ short forms, and the ◐ cells. **Cells drilled in l01: 26** (14 singular + 8 plural ✓ +
-4 short forms; भवत्'s listed cells are counted with it: + 14 → **40**, §1).
+4 short forms; the listed cells of भवत् (14) and भवती (6) are counted with it: + 20 → **46**, §1).
 
 ### 0.B भवत् (Whitney §§452–453, 456) and भवती (like नदी) — l01
 
@@ -115,7 +115,7 @@ The verb with भवान् / भवती / भवन्तः is **3rd perso
 v3.c03.l04 आगच्छतु भवान्). (The f. ◐ cells are ✓ in नदी's own table, c02.l02; they are ◐ here only
 because l01 does not drill them for भवती.)
 
-### 0.C तद् (Whitney §495) — l02 (all ✓)
+### 0.C तद् (Whitney §495) — l02 (all ✓ except the oblique duals ताभ्याम्, तयोः: ◐)
 
 | विभक्तिः | सः m. sg. · du. · pl. | तत् n. sg. · du. · pl. | सा f. sg. · du. · pl. |
 |---|---|---|---|
@@ -133,16 +133,15 @@ the duals तौ ते ताभ्याम् तयोः (v3.c02.l04 dual c
 T8's second half from owned cells; the new cells are the Δ cards' and इदम्'s. (The only ✓ dual cells
 remain nom./acc., D13; the oblique duals ताभ्याम्, तयोः stay ◐ as on the dual card.)
 
-**Δ cards (l02):** एतद् = ए + every cell (एषः एतम् एतेन … ; एषा एताम् …; एतत्, pl. एतानि) ✓ ·
+**Δ cards (l02):** एतद् = ए + every cell (एषः एतम् एतेन … ; एषा एताम् …; एतत्, pl. एतानि) ✓ (the oblique duals एताभ्याम्, एतयोः ◐) ·
 यद् (यः यम् येन यस्मै यस्मात् यस्य यस्मिन्; ये यान् यैः येभ्यः येषाम् येषु; या याम् यया यस्यै यस्याः
 यस्याम्; याः याभिः याभ्यः यासाम् यासु; यत्, pl. यानि) ✓ (tables only in l02) · किम् (कः कम् … ;
 का काम् कया कस्यै कस्याः कस्याम्; काः काभिः काभ्यः कासाम् कासु; किम्, pl. कानि) ✓ · सर्व (as तद् but
 n. sg. सर्वम्; सर्वे, सर्वाणि, सर्वेषाम्, सर्वेण) ✓ · अन्य (as तद्, n. अन्यत्) ✓ · एक (sg. only, as सर्व:
 एकः एकम् एकेन एकस्मै एकस्मात् एकस्य एकस्मिन्; एका … एकस्यै एकस्याः एकस्याम्; n. एकम्) ✓.
-**Cells drilled in l02: 34** (एतद् 6 new nom./acc. ✓ beyond the owned three, यद् 21 sg. cells and the
+**Cells drilled in l02: 73** (एतद् 6 new nom./acc. ✓ beyond the owned three, यद् 21 sg. cells and the
 three nominative plurals, किम् f. 6 sg. + 5 pl. new, सर्व 6 marked cells, अन्यत्, एकस्मै/एकस्मिन्/एकस्यै,
-इदम् key cells 22 — the §14 line prints the count the drafter's tables actually drill; the floor is
-"cells drilled: 34", the l05 audit uses that figure).
+इदम् key cells 22 — 6 + 24 + 11 + 6 + 1 + 3 + 22 = 73; the §14 line prints "cells drilled: 73", and the l05 audit uses that figure).
 
 ### 0.D इदम् (Whitney §501) — l02 (key cells ✓, the rest ◐)
 
@@ -180,7 +179,7 @@ the word अधः). Built and never counted (rule 15): सर्वत्र, �
 
 | Kind (status) | Definition (one line) | Compound (pause form) · members | विग्रहः (cases named) |
 |---|---|---|---|
-| द्वन्द्वः "pair" ✓ (2.2.29) | X and Y; the whole is dual (two) or plural (more) and takes the gender of the last member (Whitney §1253a) | सिंहमूषकौ · सिंह-मूषकौ | सिंहः च मूषकः च (nom. + nom.) |
+| द्वन्द्वः "pair" ✓ (2.2.29) | X and Y; in the kind taught here the whole is dual (two) or plural (more) and takes the gender of the last member (Whitney §1253a); a dvandva can also be a neuter singular collective (समाहार: अहोरात्रम्, Whitney §1253c; the Kāśikā on 2.2.29: *vāk-tvacam*) — read, not produced | सिंहमूषकौ · सिंह-मूषकौ | सिंहः च मूषकः च (nom. + nom.) |
 | | | मातापितरौ · माता-पितरौ | माता च पिता च (माता- not मातृ-: 6.3.25, Teacher Notes; Whitney §1254a) |
 | | | गुरुशिष्यौ · गुरु-शिष्यौ | गुरुः च शिष्यः च |
 | | | सुखदुःखे · सुख-दुःखे | सुखम् च दुःखम् च (n. du.) |
@@ -190,6 +189,7 @@ the word अधः). Built and never counted (rule 15): सर्वत्र, �
 | | | मनोरथः · मनस्-रथः | मनसः रथः (gen.; मनसः display, the s-stem v4.c05) |
 | | | मातृभाषा · मातृ-भाषा | मातुः भाषा (gen.) |
 | | | रविवासरः · रवि-वासरः | रवेः वासरः (gen.) |
+| | | दूरदर्शनम् · दूर-दर्शनम् | दूरात् दर्शनम् (abl.; "seeing from afar"; दूर and दर्शन are the parts v2.c06.l04 labels, the sense "television" its MODERN calque; दूरात् display; Pass C confirms the vigraha against MW *dūra-darśana* before it prints) |
 | | | वर्णमाला · वर्ण-माला | वर्णानाम् माला (gen. pl.) |
 | | | कमलमुकुलम् · कमल-मुकुलम् | कमलस्य मुकुलम् (gen.) |
 | | | जलपात्रम् · जल-पात्रम् | जलस्य पात्रम् (gen.) |
@@ -203,7 +203,7 @@ the word अधः). Built and never counted (rule 15): सर्वत्र, �
 | | | शुभरात्रिः · शुभ-रात्रिः | शुभा रात्रिः |
 | — (c) **द्विगुः** ◐ (2.1.52, Teacher Notes) | a numeral first | सप्ताहः · सप्त-अहः | सप्तानाम् अह्नाम् समाहारः (display; "seven days") |
 | | | पञ्चतन्त्रम् · पञ्च-तन्त्रम् | "the five books" (display) |
-| — (d) **उपपद** (note) ◐ (2.2.19, Teacher Notes) | the second member a verb-noun made from a root | जलजम् · जल-जम् | जले जायते ("is born in water"; जायते display) |
+| — (d) **उपपद** (note) ◐ (2.2.19, Teacher Notes) | the second member a verb-noun made from a root | जलजम् · जल-जम् | जले जायते ("is born in water"; जायते owned, v3.c03.l02) |
 | | | खगः · ख-गः | खे गच्छति (ख "sky", glossed, display) |
 | | | पादपः · पाद-पः | पादैः पिबति ("drinks by the feet") |
 | बहुव्रीहिः "(having) much rice" ✓ (2.2.24) | the compound describes **someone or something else**, named outside it | नीलकण्ठः · नील-कण्ठः | नीलः कण्ठः यस्य सः (Śiva; the peacock) |
@@ -236,7 +236,7 @@ vigraha: 24 compounds resolved").
 - **S0-ap** (l02): अहम् माम् मया मह्यम् मत् मम मयि; त्वम् त्वाम् त्वया तुभ्यम् त्वत् तव त्वयि; वयम्
   अस्मान् अस्माभिः अस्माकम्; यूयम् युष्मान् युष्माभिः युष्माकम्; four sentences, any wording, each
   with the short form after at least one word (model: फलं मे रोचते · नमस्ते · गुरुर्नः पश्यति · नमो वः).
-  Wrong: a short form first (*मे फलं रोचते), or with च on the pronoun itself (*ते च).
+  Wrong: a short form first (*मे फलं रोचते). (The च/वा/एव restriction, 8.1.24, is Teacher Notes only and is not marked — row 0.6 (b).)
 - **S0-aq** (l03): (1) नमः + dative — 2.3.16 (रामाय नमः); (2) ते = तुभ्यम्, the short form — 8.1.22;
   (3) नमः + ते → नमस्ते, ः before त → स् — 8.3.34. For नमो वः: (1) as above; (2) वः = युष्मभ्यम्, the
   plural short form (8.1.21, Teacher Notes — the learner says "the plural short form"); (3) -अः before a
@@ -252,8 +252,7 @@ vigraha: 24 compounds resolved").
   the comma before the correlative where the relative clause ends in -न् (row 0.3).
 - **S0-av** (l05): परस्य उपकारः (gen.; उपकारः glossed) · हिमस्य आलयः (gen.) · समुद्रस्य तीरम्
   (gen.) · सभायाः मध्ये (gen.) · अमृतेन तुल्यम् (instr.) or अमृतस्य तुल्यम् (gen.) · सिंहः च मूषकः च ·
-  गुरुः च शिष्यः च · चित्रम् वनम् (karmadhāraya; both nom.) · पाशैः बद्धाः (instr.; पाशेन बद्धाः also
-  right) · जलस्य पात्रम् (gen.).
+  गुरुः च शिष्यः च · चित्रम् वनम् (karmadhāraya; both nom.) · कमलस्य मुकुलम् (gen.) · जलस्य पात्रम् (gen.).
 - **S0-aw** (c06.l01): वर्णमाला तत्पुरुषः (वर्णानाम् माला) · शुभरात्रिः कर्मधारयः (शुभा रात्रिः) ·
   नीलकमलम् कर्मधारयः · मातापितरौ द्वन्द्वः · सिंहमूषकौ द्वन्द्वः · नीलकण्ठः बहुव्रीहिः · अल्पशक्तिः
   बहुव्रीहिः · चित्रग्रीवः बहुव्रीहिः · परोपकारः तत्पुरुषः · रविवासरः तत्पुरुषः. (A learner who says
@@ -264,14 +263,14 @@ vigraha: 24 compounds resolved").
 
 | | Lesson | Hindi | Sanskrit | The exact contrast |
 |---|---|---|---|---|
-| a | l01 | मैं · हम | अहम् · वयम् (आवाम्) | Hindi has two numbers, Sanskrit three; Hindi हम is the plural, and in much speech also stands for "I" — Sanskrit वयम् is only plural, and "we two" is आवाम्. |
-| b | l01 | तू · तुम · आप | त्वम् · यूयम् · भवान्/भवती | Hindi grades respect in three steps and agrees तुम and आप with plural verb forms even for one person (तुम जाते हो, आप जाते हैं); Sanskrit त्वम् is singular at any level of respect, यूयम् is only plural, and भवान् is a third-person word that takes the 3rd-person singular (भवान् गच्छति) — so "आप जाते हैं" is भवान् गच्छति, not *भवान् गच्छथ. |
+| a | l01 | मैं · हम | अहम् · वयम् (आवाम्) | Hindi has two numbers, Sanskrit three; Hindi हम is the plural, and is also used by a single speaker for "I" — Sanskrit वयम् is the plural and "we two" is आवाम्, and this course writes वयम् only for three or more; the grammarians also allow वयम् for one speaker or two (1.2.59 अस्मदो द्वयोश्च; the Kāśikā: अहं ब्रवीमि, वयं ब्रूमः — TRADITION, Teacher Notes) [REF:ashtadhyayi 1.2.59] [REF:kashika 1.2.59]. |
+| b | l01 | तू · तुम · आप | त्वम् · यूयम् · भवान्/भवती | Hindi grades respect in three steps and agrees तुम and आप with plural verb forms even for one person (तुम जाते हो, आप जाते हैं); Sanskrit त्वम् is singular at any level of respect, यूयम् is plural (the Kāśikā on 1.2.59 records that some allow it for one revered person, यूयं मे गुरवः — Teacher Notes), and भवान् is a third-person word that takes the 3rd-person singular (भवान् गच्छति) — so "आप जाते हैं" is भवान् गच्छति, not *भवान् गच्छथ. |
 | c | l01 | मुझे · मुझको · मुझसे · मेरा/मेरी/मेरे | माम् / मह्यम् (मे) · मया / मत् · मम (मे) | Hindi मुझे covers both "me" (object) and "to me" (मुझे दो); Sanskrit keeps them apart: माम् पश्यति, मह्यम् ददाति. Hindi मेरा changes with the thing owned (मेरा घर, मेरी किताब); Sanskrit मम never changes (मम गृहम्, मम पुस्तकम्, मम माता). The liking sentence: मुझे फल अच्छा लगता है = फलं मे रोचते — the liker is a को-form (मुझे) in Hindi and a dative in Sanskrit; only the verb's agreement with the liked thing is shared (Chapter 3 decision). |
 | d | l01 | आपको नमस्ते / नमस्कार | नमस्ते = नमः ते | Hindi uses नमस्ते as one fixed greeting, even to a group or with आप; in Sanskrit its ते is "to you" (one person, singular short form), and to a group one says नमो वः. |
 | e | l02 | यह · वह · ये · वे | अयम्/इयम्/इदम्, एषः · सः/सा/तत् · इमे, एते · ते, ताः | Hindi has one form for all genders (यह लड़का, यह लड़की, यह घर); Sanskrit marks gender (अयम् बालकः, इयम् बालिका, इदम् गृहम्). Both use "that" as the plain "he/she" (वह आया · सः आगच्छत्). |
 | f | l02 | कोई · कुछ · कभी | कश्चित्/काचित् · किञ्चित् · कदाचित् | Hindi कोई and कुछ do not change for gender; Sanskrit builds the indefinite from the gendered asker: कश्चित् m., काचित् f., किञ्चित् n. |
 | g | l03 | जो … वह · जब … तब · जहाँ … वहाँ · जैसा/जैसे … वैसा/वैसे | यः … सः · यदा … तदा · यत्र … तत्र · यथा … तथा | **Built exactly like the Sanskrit sentence**: the relative clause first, the correlative after (जो पढ़ता है वह जानता है = यः पठति स जानाति; जब गुरु आते हैं तब छात्र बैठते हैं = यदा गुरुरागच्छति तदा छात्रा उपविशन्ति). The differences: Hindi जो does not show gender (जो लड़का / जो लड़की), Sanskrit यः / या / यत् does; Hindi changes जो to जिस/जिन before a postposition (जिसको, जिनका), Sanskrit puts यद् itself in the case (यम्, येन, यस्य). |
-| h | l03 | प्र-, अ-, अनु-, उप-, सु- … in तत्सम words (प्रयोग, उपकार, अनुवाद, सुपुत्र) | the 22 upasargas | Hindi keeps the prefixes inside borrowed words, where they no longer join a Hindi verb; in Sanskrit they join verbs (आ + गच्छति). |
+| h | l03 | प्र-, आ-, अनु-, उप-, सु- … in तत्सम words (प्रयोग, उपकार, अनुवाद, सुपुत्र) | the 22 upasargas | Hindi keeps the prefixes inside borrowed words, where they no longer join a Hindi verb; in Sanskrit they join verbs (आ + गच्छति). |
 | i | l04 | राजपुत्र, देशभक्ति, नीलकमल, त्रिभुवन, पीताम्बर, प्रतिदिन, यथाशक्ति, माता-पिता | the four kinds | Sorted (Hindi school grammar's own sorting, TRADITION): **तत्पुरुष** राजपुत्र (राजा का पुत्र), देशभक्ति (देश की भक्ति); **कर्मधारय** नीलकमल (नीला कमल); **द्विगु** त्रिभुवन (तीन भुवनों का समाहार); **बहुव्रीहि** पीताम्बर (पीला है अम्बर जिसका — कृष्ण; read as "yellow cloth" it is a कर्मधारय — Hindi grammars use it to show the double reading); **अव्ययीभाव** प्रतिदिन, यथाशक्ति; **द्वन्द्व** माता-पिता (माता और पिता). Hindi prints a dvandva with a hyphen (माता-पिता) and does not inflect it as a dual; Sanskrit writes मातापितरौ as one word, in the dual. In Sanskrit the first member is a stem: Hindi राजपुत्र has राज- because Sanskrit राजन् enters a compound as राज- (Whitney §1249c) — the Sanskrit members राजन्, भक्ति, भुवन, पीत, अम्बर are **not** taught; these are Hindi words. |
 | j | l04 | समास के भेद | द्वन्द्वः, तत्पुरुषः, कर्मधारयः, द्विगुः, बहुव्रीहिः, अव्ययीभावः | Hindi school grammar commonly lists **six** kinds of समास — अव्ययीभाव, तत्पुरुष, कर्मधारय, द्विगु, द्वन्द्व, बहुव्रीहि — counting कर्मधारय and द्विगु as kinds of their own; the Sanskrit tradition counts four, with कर्मधारय and द्विगु as kinds of तत्पुरुष. TRADITION, [REF:guru1952] bare — **Pass C confirms Guru's own grouping before the key prints** (open item 1). |
 
@@ -280,7 +279,7 @@ vigraha: 24 compounds resolved").
 | # | The text (GRETIL `hitop_u.htm`, by line) | Our retelling |
 |---|---|---|
 | 1 | The dove-king is named at his first appearance: *citragrīva-nāmā kapota-rājaḥ* (l. 307, prose after verse 4) | the serial named no one in episodes 1–4; episode 5 gives both names |
-| 2 | After the hunter turns back, the doves ask *svāmin! kim idānīṃ kartum ucitam?* (l. 468, prose after verse 37); Citragrīva answers with a verse (1.38, not used) and *tan me mitraṃ hiraṇyako nāma mūṣika-rājo gaṇḍakī-tīre citra-vane nivasati* (l. 472) | the doves ask in the sky "हे नृप! इदानीं वयं किं कुर्मः?"; Hiraṇyaka is "a mouse", not king of the mice; he lives "near a tree on the river bank" — the serial's one river — not in Citravana on the Gaṇḍakī |
+| 2 | After the hunter turns back, the doves ask *svāmin! kim idānīṃ kartum ucitam?* (l. 467, prose after verse 37); Citragrīva answers with a verse (1.38, not used) and *tan me mitraṃ hiraṇyako nāma mūṣika-rājo gaṇḍakī-tīre citra-vane nivasati* (l. 472) | the doves ask in the sky "हे नृप! इदानीं वयं किं कुर्मः?"; Hiraṇyaka is "a mouse", not king of the mice; he lives "near a tree on the river bank" — the serial's one river — not in Citravana on the Gaṇḍakī |
 | 3 | *so 'smākaṃ pāśāṃś chetsyati* "he will cut our snares" (l. 472; a future) | सोऽस्मान्रक्षेत् "he would protect us" (optative, c03.l04) and, in l03, our relative sentence यो मूषकः पाशान्कृन्तति स मम सखा |
 | 4 | The burrow has a hundred doors (*śata-dvāraṃ vivaram*, l. 472) | omitted |
 | 5 | Hiraṇyaka, afraid, stays silent (*tūṣṇīṃ sthitaḥ*); Citragrīva: *sakhe hiraṇyaka! katham asmān na sambhāṣase?* (l. 472) | मूषको न किमप्यवदत् · "हे हिरण्यक! अहं चित्रग्रीवः, तव सखा। किमर्थं न वदसि?" — a close paraphrase in owned words |
@@ -351,7 +350,7 @@ centre, with a role-play drill; §17 the serial. Six steps for §8:
 6. **Production:** the §16 role-play; Ex 4–6.
 
 **Forms taught:** tables 0.A and 0.B; R6 card; सखा card; 8.1.22 (row 0.5); the enclitic rule
-(row 0.6). **Cells drilled: 40** (§14 line).
+(row 0.6). **Cells drilled: 46** (§14 line).
 
 **Headwords (4; ledger 460 → 464):**
 
@@ -363,7 +362,7 @@ centre, with a role-play drill; §17 the serial. Six steps for §8:
 | विश्वासः | viśvāsaḥ | /ʋiɕʋɑːsɐh/ | trust, confidence (in: loc.) | विश्वास, भरोसा | m. a-stem | ledger-new | Apte s.v. विश्वासः "Trust, confidence, faith"; MW *vi-śvāsa* "confidence, trust … in (loc. gen. instr. …)" |
 
 (IPA: स्न /sn̪/ — the dental n̪ after s; STYLE_GUIDE §2. The ledger line: "Ledger 460 → 464 (4
-ledger-new). Cells drilled: 40.")
+ledger-new). Cells drilled: 46.")
 
 **Model sentences (§13; joined, pause form beneath, English — Hindi):**
 1. फलं मे रोचते। (phalaṃ me rocate.) / फलम् मे रोचते। (phalam me rocate.) "I like the fruit." —
@@ -448,7 +447,7 @@ not a compound).
    mūṣako 'sti. so 'smān rakṣet.") / चित्रग्रीवः उवाच — "मम सखा मूषकः अस्ति। सः अस्मान् रक्षेत्।"
    (citragrīvaḥ uvāca — "mama sakhā mūṣakaḥ asti. saḥ asmān rakṣet.") "Citragrīva said: 'My friend
    is a mouse. He would protect us.'" — चित्रग्रीव ने कहा — "मेरा मित्र एक चूहा है। वह हमारी रक्षा
-   करेगा।"
+   कर सकता है।"
 5. चित्रग्रीवः पुनरवदत् — "तस्य नाम हिरण्यकः। स मे सखा, अहं च तस्य सखा।" (citragrīvaḥ punar
    avadat — "tasya nāma hiraṇyakaḥ. sa me sakhā, ahaṃ ca tasya sakhā.") / चित्रग्रीवः पुनः अवदत् —
    "तस्य नाम हिरण्यकः। सः मे सखा, अहम् च तस्य सखा।" "Citragrīva said again: 'His name is Hiraṇyaka.
@@ -457,8 +456,8 @@ not a compound).
 6. एकः कपोतोऽपृच्छत् — "भवतः सखा कुत्र निवसति?" (ekaḥ kapoto 'pṛcchat — "bhavataḥ sakhā kutra
    nivasati?") / एकः कपोतः अपृच्छत् — "भवतः सखा कुत्र निवसति?" "One dove asked: 'Where does your
    friend live, sir?'" — एक कबूतर ने पूछा — "आपका मित्र कहाँ रहता है?"
-7. नृपोऽवदत् — "स विवरे निवसति। तत्र गच्छामः। मया सहागच्छत!" (nṛpo 'vadat — "sa vivare
-   nivasati. tatra gacchāmaḥ. mayā sahāgacchata!") / नृपः अवदत् — "सः विवरे निवसति। तत्र गच्छामः।
+7. नृपोऽवदत् — "स विवरे निवसति। तत्र गच्छाम। मया सहागच्छत!" (nṛpo 'vadat — "sa vivare
+   nivasati. tatra gacchāma. mayā sahāgacchata!") / नृपः अवदत् — "सः विवरे निवसति। तत्र गच्छाम।
    मया सह आगच्छत!" "The king said: 'He lives in a burrow. Let us go there. Come with me!'" — राजा ने
    कहा — "वह बिल में रहता है। वहाँ चलें। मेरे साथ आओ!"
 8. कपोतास्तस्य वचनमशृण्वन्। (kapotās tasya vacanam aśṛṇvan.) / कपोताः तस्य वचनम् अशृण्वन्।
@@ -492,11 +491,11 @@ printed joined as quoted, glossed; दीयते R3.)
 preceding word are what linguists call *clitics* (FACT, general definition, no claim about Sanskrit
 beyond Whitney §491b); English "I'm, you're" and Hindi have no exact equivalent of मे/ते — Hindi
 मुझे is a full word that can start a sentence (मुझे फल चाहिए). Suppletion in "I/me", English and
-Sanskrit alike (अहम् / माम् / मया — different roots, Whitney §491 "fragments coming from various
+Sanskrit alike (अहम् against माम्, मया — different roots, Whitney §491 "fragments coming from various
 roots").
 
-**§6 (Sanskrit Explanation), graded:** अहम्, त्वम् — एतयोः लिङ्गं नास्ति। मे, ते, नः, वः — एतानि
-लघूनि रूपाणि; तानि वाक्यस्यादौ न तिष्ठन्ति। भवान् प्रथमपुरुषेण सह वदति। (each line joined, pause form
+**§6 (Sanskrit Explanation), graded:** अहम्, त्वम् — अत्र लिङ्गं नास्ति। मे, ते, नः, वः —
+लघूनि रूपाणि; तानि वाक्यस्यादौ न तिष्ठन्ति। "भवान् गच्छति" — न "भवान् गच्छसि"। (each line joined, pause form
 beneath; लिङ्गम्, रूपम्, आदिः: लिङ्गम् is a GLOSSARY term; रूपाणि and आदौ are glossed in the line.)
 — the drafter keeps §6 to five lines and glosses every word not owned.
 
@@ -505,8 +504,8 @@ beneath; लिङ्गम्, रूपम्, आदिः: लिङ्ग�
 
 **§9–§11:** the leaning words (row 0.29): फलं मे | रोचते; नमो वः said as one group; the
 three-way भवति (is / in you / O lady) — the §9 minimal set with context sentences. IPA row:
-/sʋɐjɐm/ /sɐkʰɑː/ /sn̪eːɦɐh/ /ʋiɕʋɑːsɐh/ /ɐsmɑːkɐm/ /jusmɑːkɐm/ → **ष**: /juʂmɑːkɐm/ ·
-/bʱɐʋɑːn̪/ /bʱɐʋɐn̪t̪ɐh/ /mɐhjɐm/ /t̪ubʱjɐm/.
+/sʋɐjɐm/ /sɐkʰɑː/ /sn̪eːɦɐh/ /ʋiɕʋɑːsɐh/ /ɐsmɑːkɐm/ /juʂmɑːkɐm/ ·
+/bʱɐʋɑːn̪/ /bʱɐʋɐn̪t̪ɐh/ /mɐɦjɐm/ /t̪ubʱjɐm/.
 
 **§12 Common mistakes (six rows):** (1) a short form first: *मे फलं रोचते → फलं मे रोचते (English and
 Hindi speakers both start with "me/मुझे"); (2) भवान् with the 2nd person: *भवान् गच्छसि → भवान्
@@ -522,11 +521,11 @@ exception) — **row 6 is a §12 warning only; no exercise asks for अस्म
   ___ पश्यति ("me") · ___ सह गच्छामि ("with you") · फलम् ___ रोचते ("to me", full form) · ___ गृहम् ("our")
   · गुरुः ___ पश्यति ("you all") · ___ विना ("without us"). **Key:** माम् (मा ◐ also correct, not
   required) · त्वया · मह्यम् · अस्माकम् (नः also correct: अस्माकं गृहम्; *नः गृहम् first is wrong — the
-  key accepts गृहं नः) · युष्मान् (वः also correct after गुरुः) · अस्माभिः.
+  key accepts गृहं नः) · युष्मान् (वः also correct after गुरुः) · अस्माभिः (अस्मान् also correct: विना takes the acc., instr. or abl., v3.c01.l03; अस्मत् ◐ accepted, not required).
 - *Ex 2 (obj. 2; class, 4 min):* rewrite with the short form, moving it after a word where it would
   stand first; six items: (a) गुरुः मम पिता (b) पुस्तकम् तुभ्यम् ददामि (c) गृहम् अस्माकम् (d) मह्यम् फलम्
   रोचते (e) युष्माकम् गुरुः आगच्छति (f) नमः तुभ्यम्. **Key:** (a) गुरुर्मे पिता (b) पुस्तकं ते ददामि (c) गृहं नः
-  (d) फलं मे रोचते (e) गुरुर्वः आगच्छति (f) नमस्ते. Each accepts the joined or the pause form of the answer.
+  (d) फलं मे रोचते (e) गुरुर्व आगच्छति (f) नमस्ते. Each accepts the joined or the pause form of the answer.
   (No item uses the ◐ dative plural अस्मभ्यम्; rule 0.6 (b) is not tested.)
 - *Ex 3 (obj. 2; homework, 5 min — production):* write the three-line proof for नमस्ते, then the same
   for नमो वः (key: S0-aq's key, 0.G).
@@ -561,15 +560,15 @@ exception) — **row 6 is a §12 warning only; no exercise asks for अस्म
    nominative (c) the plural (d) the vocative — **a** · TRADITION ("According to …").
 8. "Your (madam's) daughter": (a) भवत्याः पुत्री (b) भवतः पुत्री (c) भवती पुत्री (d) भवताम् पुत्री — **a**
    (भवतः is "sir's"; भवताम् "your honours'") · FACT.
-9. "Friend!" (calling): (a) सखा (b) सखे (c) सखि (d) सखः — **b** · FACT. (सखा is the nominative; सखि is
-   the stem the dictionary lists; *सखः is an error form built on the a-stems — no ◐ cell is an option.)
+9. "Friend!" (calling a male friend): (a) सखा (b) सखे (c) सखि (d) सखः — **b** · FACT. (सखा is the nominative; सखि is
+   the stem the dictionary lists, and also the vocative of the feminine सखी, which "male" rules out; *सखः is an error form built on the a-stems — no ◐ cell is an option.)
 10. In भवान्कुत आगच्छति, भवान् and कुत are written together because (a) भवान् ends in a consonant
     (b) they are a compound (c) कुतः lost its visarga (d) both are pronouns — **a** · FACT (STYLE_GUIDE
     §3.1 / c04).
 
 **§20 Bookings:** S0-ap (+1 day, run by l02) and S0-aq (+1 week, run by l03), verbatim (row 0.30).
 Revision box: tables 0.A (✓ cells) and 0.B (listed cells); the short-form rule; 8.1.22; the R6 card;
-सखा, सखे; ledger 464, cells drilled 40.
+सखा, सखे; ledger 464, cells drilled 46.
 
 **§21 Homework (35 minutes = self_study_minutes):** Ex 3 (5) · Ex 6 (10) · Ex 7 (5) · fill the blank
 table 0.A from memory and check it (8) · read §17 aloud joined, once slowly, once at natural pace,
@@ -602,8 +601,8 @@ joined-text, spaced-review] · media (planned): images `v3c05l02-tad-table.svg`,
 `v3c05l02-conversation.mp3`, `v3c05l02-story.mp3`; worksheets `v3c05l02-pronoun-family.pdf`.
 
 **Objectives:**
-1. en "Produce every cell of सः, सा, तत् and of एषः, एषा, एतत् on demand." · hi "सः, सा, तत् और
-   एषः, एषा, एतत् का हर रूप माँगने पर बनाएँ।"
+1. en "Produce every singular and plural cell, and the nominative and accusative duals, of सः, सा, तत् and of एषः, एषा, एतत् on demand." · hi "सः, सा, तत् और
+   एषः, एषा, एतत् के एकवचन और बहुवचन के सभी रूप, और द्विवचन के प्रथमा तथा द्वितीया रूप, माँगने पर बनाएँ।"
 2. en "Decline यद्, किम् (feminine included), सर्व, अन्य and एक from the तद् table, naming the cells
    where each differs (सर्वम्, अन्यत्, सर्वे)." · hi "यद्, किम् (स्त्रीलिंग सहित), सर्व, अन्य और एक को तद्
    की तालिका से बनाएँ, और बताएँ कि कहाँ भिन्न हैं (सर्वम्, अन्यत्, सर्वे)।"
@@ -632,13 +631,13 @@ joined-text, spaced-review] · media (planned): images `v3c05l02-tad-table.svg`,
 6. **Production:** Ex 2–6, §16.
 
 **Forms taught:** tables 0.C, 0.D; the Δ cards (row 0.11); the indefinites (row 0.14); 1.1.27 (row
-0.13); IR-025 line (row 0.10). **Cells drilled: 34** (row 0.C note).
+0.13); IR-025 line (row 0.10). **Cells drilled: 73** (row 0.C note).
 
 **Headwords (8; ledger 464 → 472):**
 
 | देवनागरी | IAST | IPA | English | हिन्दी | gender / class | status | Check |
 |---|---|---|---|---|---|---|---|
-| अयम् | ayam | /ɐjɐm/ | this (m.; f. इयम्, n. इदम्) | यह | pron. (इदम्) | ledger-new (rule 6: m. nom. sg.) | MW *idam* (*ayam, iyam, idam*); Whitney §501; Apte: under इदम् (Pass C locates the entry) |
+| अयम् | ayam | /ɐjɐm/ | this (m.; f. इयम्, n. इदम्) | यह | pron. (इदम्) | ledger-new (rule 6: m. nom. sg.) | Apte s.v. इदम् "This here" (अयम् m., इयम् f., इदम् n.); MW *idam* (*ayam, iyam, idam*); Whitney §501 |
 | यः | yaḥ | /jɐh/ | who, which (relative; f. या, n. यत्) | जो | rel. pron. (यद्) | ledger-new | Apte s.v. यद् "(Nom. sing. m. यः, f. या, n. यत्-द्) The relative pronoun"; Whitney §§508–509 |
 | अन्यः | anyaḥ | /ɐn̪jɐh/ | other, another (n. अन्यत्) | अन्य, दूसरा | pron. adj. -न्या -न्यत् | ledger-new | Apte s.v. अन्य "[अन्यः, ˚न्यस्मै …; n. अन्यत्] Another"; Whitney §523 |
 | परः | paraḥ | /pɐɾɐh/ | other, another; stranger; further | पराया, दूसरा | adj. -रा -रम् (D25) | ledger-new | Apte s.v. पर "(Declined optionally like a pronoun …)"; Hit 1.71 *paro vā* |
@@ -668,7 +667,7 @@ Further §13 (same layout): कदाचित्सिंहो मूषकम
 कदाचित् सिंहः मूषकम् अपश्यत्। "Once a lion saw a mouse." — एक बार एक सिंह ने चूहे को देखा। ·
 सर्वस्मै फलं ददाति। (sarvasmai phalaṃ dadāti.) / सर्वस्मै फलम् ददाति। "He gives fruit to everyone." ·
 अनेन सह गच्छ। (anena saha gaccha.) / the same in pause form "Go with this one." · अस्य नाम किम्?
-अस्याः नाम किम्? (asya nāma kim? asyāḥ nāma kim?) "What is his name? What is her name?" · न
+अस्या नाम किम्? (asya nāma kim? asyā nāma kim?) / अस्य नाम किम्? अस्याः नाम किम्? (asya nāma kim? asyāḥ nāma kim?) "What is his name? What is her name?" · न
 कोऽपि लघुः। (owned, v2.c06.l02).
 
 **§16 Conversation — "Who is this?"** (12 turns; joined + IAST; pause + IAST; English — Hindi;
@@ -690,7 +689,7 @@ Further §13 (same layout): कदाचित्सिंहो मूषकम
 9. गुरुः — सर्वे छात्राः स्वानि पुस्तकानि पठन्तु। (sarve chātrāḥ svāni pustakāni paṭhantu.) / the
    same in pause form. "Let all the students read their own books." — सब छात्र अपनी-अपनी किताबें
    पढ़ें।
-10. सीता — वयं किं पठामः? (vayaṃ kiṃ paṭhāmaḥ?) / वयम् किम् पठामः? "What are we reading?" — हम
+10. सीता — वयं किं पठाम? (vayaṃ kiṃ paṭhāma?) / वयम् किम् पठाम? "What shall we read?" — हम
     क्या पढ़ें?
 11. गुरुः — सिंहस्य मूषकस्य च कथाम्। (siṃhasya mūṣakasya ca kathām.) / the same. "The story of
     the lion and the mouse." — सिंह और चूहे की कथा।
@@ -707,7 +706,7 @@ Further §13 (same layout): कदाचित्सिंहो मूषकम
    went along with the king." — आकाश में सब कबूतर राजा के साथ चले।
 2. एकः कपोतोऽपृच्छत् — "एको मूषकोऽस्मान्कथं रक्षेत्?" (ekaḥ kapoto 'pṛcchat — "eko mūṣako 'smān
    kathaṃ rakṣet?") / एकः कपोतः अपृच्छत् — "एकः मूषकः अस्मान् कथम् रक्षेत्?" "One dove asked: 'How
-   could one mouse protect us?'" — एक कबूतर ने पूछा — "एक चूहा हमारी रक्षा कैसे करेगा?"
+   could one mouse protect us?'" — एक कबूतर ने पूछा — "एक चूहा हमारी रक्षा कैसे कर सकता है?"
 3. चित्रग्रीव उवाच — "तस्य मूषकस्य बुद्धिरेव बलम्।" (citragrīva uvāca — "tasya mūṣakasya buddhir
    eva balam.") / चित्रग्रीवः उवाच — "तस्य मूषकस्य बुद्धिः एव बलम्।" "Citragrīva said: 'That
    mouse's strength is his wits.'" — चित्रग्रीव ने कहा — "उस चूहे की बुद्धि ही उसका बल है।"
@@ -742,11 +741,11 @@ Seams: l.1 कपोताः + न → आ; सह + अ → सहा; l.2 ए
 v3.c01.l05 — the singular pronoun column of कः and सः; (2) v3.c02.l01 — "those (m.) boys": ते बालकाः,
 तान् बालकान्; (3) v3.c02.l02 — "that girl, her book": सा बालिका, तस्याः पुस्तकम्; (4) v3.c02.l04 — the
 two doves: तौ कपोतौ; (5) v2.c02.l02 — this man, this woman: एषः, एषा; (6) v1.c06.l04 — recite सर्वे
-भवन्तु सुखिनः …; v1.c05.l04 — सर्व "all".
+भवन्तु सुखिनः …; v1.c05.l04 — सर्व "all"; (7) v2.c06.l01 — read the story opener with कश्चित् aloud and say what it means.
 
 **§4 TRADITION callout** (1.1.27, row 0.13): "Pāṇini's word for 'pronoun' is सर्वनाम, 'the
 सर्व-name': 1.1.27 सर्वादीनि सर्वनामानि — 'सर्व and the words listed after it are called सर्वनाम'.
-The Kāśikā illustrates it with सर्वः सर्वौ सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम् — the very cells in which
+The Kāśikā illustrates it with सर्वः सर्वौ सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम् — among them सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम्, the cells in which
 सर्व leaves the pattern of रामः." [REF:ashtadhyayi 1.1.27] [REF:kashika 1.1.27].
 
 **§5:** suppletion as a general fact of languages (English *go/went*, *I/me*; Sanskrit सः/त-, अयम्/इम-/
@@ -761,7 +760,7 @@ TRADITION, [REF:guru1952] bare, one sentence, **Pass C confirms the six names in
 /ɐjɐm/ /ijɐm/ /id̪ɐm/ /jɐh/ /ɐn̪jɐh/ /pɐɾɐh/ /kɐɕt͡ɕit̪/ /kɐd̪ɑːt͡ɕit̪/ /sʋɐh/ /n̪id͡ʑɐh/ /t̪ɐsmɐi̯/ /t̪ɐsjɐi̯/.
 
 **§12 (six rows):** (1) *सर्वाः for the m. pl. (the a-noun pattern रामाः) → सर्वे (सर्वाः is right for
-the feminine: सर्वाः बालिकाः); (2) *सर्वत् → सर्वम् (only अन्य has -त्: अन्यत्); (3) "स् → त् in the
+the feminine: सर्वाः बालिकाः); (2) *सर्वत् → सर्वम् (of this lesson's Δ adjectives सर्व, अन्य, एक, only अन्य has -त्: अन्यत्); (3) "स् → त् in the
 obliques" (1.x, IR-025) → two stems, स- only in सः/सा; (4) *कोऽपि for "some woman" → कापि (का + अपि);
 (5) अयम् with a feminine noun (*अयम् बालिका) → इयम् बालिका (Hindi यह has no gender, table 0.H e);
 (6) स्वः "own" vs स्वः "we two are" (c03.l01): read the sentence — स्वं गृहम् vs आवाम् स्वः.
@@ -798,7 +797,7 @@ the verbs — **b** · TRADITION. 9. Gen. pl. f. of तद्: (a) ताना�
 10. In कपोताः स्वं वृक्षमगच्छन्, स्वम् means (a) "we two are" (b) "own" (c) "their" (gen. pl.) (d) "by
 oneself" — **b** (a is the §12 homograph; d is स्वयम्, l01).
 
-**§20 Bookings:** S0-ar (+1 day, l03), S0-as (+1 week, l04), verbatim. Ledger 472; cells drilled 34.
+**§20 Bookings:** S0-ar (+1 day, l03), S0-as (+1 week, l04), verbatim. Ledger 472; cells drilled 73.
 
 **§21 (40 min):** Ex 3 (6) · Ex 6 (8) · Ex 7 (4) · write table 0.C and the five Δ cards from memory, check
 (10) · §17 read aloud joined, recorded (5) · read §15's इदम् table, mark the ◐ cells in pencil (4) ·
@@ -861,7 +860,7 @@ lesson; §8 groups by job (where · from where · when · how · some-/any- · p
 | तदा | tadā | /t̪ɐd̪ɑː/ | then, at that time | तब | ind. | ledger-new | Apte s.v. तदा "Then … (corr. of यदा)" |
 | यथा | yathā | /jɐt̪ʰɑː/ | as; in which way | जैसे | ind. | ledger-new | Apte s.v. यथा; Whitney §1101a |
 | तथा | tathā | /t̪ɐt̪ʰɑː/ | so, thus, in that way | वैसे, वैसा | ind. (and तथास्तु, तथापि) | ledger-new | Apte s.v. तथा "So, thus, in that manner"; display since v2.c05.l02, c04.l01 |
-| एवम् | evam | /eːʋɐm/ | thus, so, in this way | ऐसे, इस प्रकार | ind. | ledger-new | MW *evam* "ind. … thus, in this way"; Apte: sub-entry (Pass C); Hit *maivam* (A6) |
+| एवम् | evam | /eːʋɐm/ | thus, so, in this way | ऐसे, इस प्रकार | ind. | ledger-new | Apte s.v. एवम् "Thus, so, in this manner or way"; MW *evam* "ind. … thus, in this way"; Hit *maivam* (A6) |
 | क्व | kva | /kʋɐ/ | where? | कहाँ | ind. | ledger-new | Apte s.v. क्व "Whither, where"; Whitney §505 |
 | हि | hi | /ɦi/ | for, because; indeed | क्योंकि, ही | particle | ledger-new | Apte s.v. हि "(Never used at the beginning of a sentence)"; Whitney §1133c; उद्यमेन हि (v2.c06.l03) |
 | अधः | adhaḥ | /ɐd̪ʱɐh/ | below, under (+ gen.) | नीचे | ind. | ledger-new | Apte s.v. अधस्, अधः ind.; Whitney §1130 |
@@ -974,10 +973,10 @@ l02 — join तथा अस्तु, मा एवम् (display words, now 
 
 **§4 TRADITION callout** (1.1.37, 1.4.59): "Pāṇini calls a word that never changes अव्ययम्: 1.1.37
 स्वरादिनिपातमव्ययम् — the words listed from स्वर् on, and the particles (निपाताः), are 'unchanging'. The
-Kāśikā's list includes six words you own: प्रातर्, उच्चैस्, शनैस्, ह्यस्, श्वस्, बहिस् — and अधस् and
+Kāśikā's list includes, among others you own (अन्तर्, पुनर्, सायम्, विना, नमस्, स्वस्ति …), these six: प्रातर्, उच्चैस्, शनैस्, ह्यस्, श्वस्, बहिस् — and अधस् and
 स्वयम्. Of प्र and the rest, 1.4.59 उपसर्गाः क्रियायोगे says: when they join a verb, they are उपसर्गाः."
 [REF:ashtadhyayi 1.1.37] [REF:kashika 1.1.37] [REF:ashtadhyayi 1.4.59]. (The Kāśikā's stem forms in -स्/-र्
-are printed as it gives them, with the owned pause forms beside them: प्रातः, उच्चैः, शनैः, ह्यः, श्वः, बहिः,
+are printed as it gives them, with the owned pause forms beside them: अन्तः, प्रातः, पुनः, उच्चैः, शनैः, ह्यः, श्वः, बहिः, नमः,
 अधः.)
 
 **§5:** closed-class function words; correlative systems in Hindi (table 0.H g) and the English
@@ -995,7 +994,7 @@ lean on the word before them (no pause before them). IPA as the table.
 (*यः पठति जानाति) → यः पठति स जानाति (the main-clause-first order स जानाति यः पठति is **not** a mistake —
 Whitney §512a — and keys accept it); (4) अधः with the locative or accusative (*वृक्षे अधः) → the genitive
 वृक्षस्य अधः (Hindi "पेड़ के नीचे" has the के of the genitive); (5) ततः and तदा confused: ततः "after that,
-then (next)", तदा "at that time", the correlative of यदा (*यदा … ततः → यदा … तदा); (6) एव and अपि confused:
+then (next)", तदा "at that time", the correlative this chapter pairs with यदा (यदा … ततः is not wrong: the epic uses it, e.g. MBh 12.167.8 [REF:mahabharata 12.167.8]; keys expect तदा and accept ततः; the mistake is ततः read as "at that time" outside such a sentence); (6) एव and अपि confused:
 "too" is अपि, "only, just" is एव (अहमपि "I too" vs अहमेव "I alone").
 
 **Exercises (§18):**
@@ -1005,7 +1004,7 @@ then (next)", तदा "at that time", the correlative of यदा (*यदा
   (each accepts both where two are listed).
 - *Ex 2 (obj. 2; class, 8 min):* join six pairs (pause-form pairs given, the learner writes joined):
   (a) बालकः पठति। सः जानाति। → यो बालकः पठति स जानाति। (b) सिंहः तत्र अस्ति। तत्र मूषकः न गच्छति। →
-  यत्र सिंहस्तत्र मूषको न गच्छति। (c) गुरुः वदति। तदा छात्राः शृण्वन्ति (R4 — **replace**: तदा छात्राः लिखन्ति) →
+  यत्र सिंहस्तत्र मूषको न गच्छति। (c) गुरुः वदति। तदा छात्राः लिखन्ति। →
   यदा गुरुर्वदति तदा छात्रा लिखन्ति। (d) माता वदति। तथा अहम् करोमि। → यथा माता वदति तथाहं करोमि।
   (e) बालिका गृहे अस्ति। सा मम भगिनी। → या बालिका गृहेऽस्ति सा मम भगिनी। (f) फलम् मधुरम् अस्ति। तत्
   अहम् खादामि। → यत्फलं मधुरमस्ति तदहं खादामि। **Key** as given; the pause form of the answer earns ½.
@@ -1025,7 +1024,7 @@ then (next)", तदा "at that time", the correlative of यदा (*यदा
   · आपणः कुत्रास्ति? (नद्यास्तीरे, वृक्षस्याधः) · सीता किं वदति? (शीघ्रमागच्छ) · अर्जुनः कथं गच्छति? (मन्दम्).
   **Key** as given.
 
-**Quiz (10):** 1. Correlative of यदा: (a) तत्र (b) तदा (c) ततः (d) तथा — **b**. 2. "Under the tree": (a)
+**Quiz (10):** 1. Correlative of यदा: (a) तत्र (b) तदा (c) यत्र (d) तथा — **b**. 2. "Under the tree": (a)
 वृक्षस्य अधः (b) वृक्षे अधः (c) वृक्षम् अधः (d) वृक्षेण अधः — **a**. 3. Which may not stand first? (a)
 यदा (b) हि (c) कुत्र (d) यत्र — **b**. 4. यं पश्यसि ___ मम सखा: (a) तम् (b) सः (c) यः (d) तस्य — **b**. 5. सर्वत्र
 means (a) always (b) everywhere (c) in every way (d) from everywhere — **b**. 6. In "क्व गच्छसि?" इति स
@@ -1111,10 +1110,10 @@ labels. **Cells drilled: 0** (line: "24 compounds resolved").
 | नीलकण्ठः | nīlakaṇṭhaḥ | /n̪iːlɐkɐɳʈʰɐh/ | Śiva; the peacock ("blue-throated") | नीलकण्ठ (शिव; मोर) | m. (lexicalised bahuvrīhi) | ledger-new (rule 10) | MW *nīla-kaṇṭha* "m. a peacock … N. of Śiva (as having a black throat …), R.; Hit." |
 | ग्रीवा | grīvā | /gɾiːʋɑː/ | neck | गर्दन, ग्रीवा | f. ā-stem | ledger-new | Apte s.v. ग्रीवा "The neck" |
 | चित्रः | citraḥ | /t͡ɕit̪ɾɐh/ | bright; many-coloured | चमकीला, रंग-बिरंगा | adj. -त्रा -त्रम् | ledger-new | Apte s.v. चित्र "Bright, clear …"; MW *citra* |
-| पादपः | pādapaḥ | /pɑːd̪ɐpɐh/ | tree ("drinking by the feet") | पेड़, पादप | m. (lexicalised upapada) | ledger-new (rule 10) | MW *pāda-pa* "'drinking at foot or root', a tree, plant"; Apte: sub-entry (Pass C) |
+| पादपः | pādapaḥ | /pɑːd̪ɐpɐh/ | tree ("drinking by the feet") | पेड़, पादप | m. (lexicalised upapada) | ledger-new (rule 10) | MW *pāda-pa* "'drinking at foot or root', a tree, plant"; Apte s.v. पादः, Comp. ˚पः "a tree" |
 | तुल्यः | tulyaḥ | /t̪uljɐh/ | equal, like (+ instr. or gen.) | तुल्य, समान | adj. -ल्या -ल्यम् | ledger-new | Apte s.v. तुल्य "Of the same kind … equal" |
 | उदारः | udāraḥ | /ud̪ɑːɾɐh/ | noble; generous | उदार | adj. -रा -रम् | ledger-new | Apte s.v. उदार "Generous, liberal … Noble, exalted"; Hit 1.71 |
-| चरितम् | caritam | /t͡ɕɐɾit̪ɐm/ | conduct, deeds | चरित्र, आचरण | n. a-stem | ledger-new | Apte s.v. चरित (n. "Behaviour, conduct" — Pass C confirms the n. sense line); Hit 1.71 |
+| चरितम् | caritam | /t͡ɕɐɾit̪ɐm/ | conduct, deeds | चरित्र, आचरण | n. a-stem | ledger-new | Apte s.v. चरित (n. "doing, practice, behaviour, acts, deeds"); Hit 1.71 |
 | शक्तिः | śaktiḥ | /ɕɐkt̪ih/ | power, strength | शक्ति | f. i-stem | **upgrade** (शक्ति v1.c05.l02) | — |
 
 (Ledger line: "Ledger 480 → 488 (8 ledger-new; upgrade शक्तिः drilled, not counted)." The IPA of नील
@@ -1202,10 +1201,10 @@ Further §13: पाशबद्धाः कपोताः (Hit *pāśa-baddh�
 (4) v1.c03.l02 — what does जलज mean, and what is ज? (5) v2.c03.l04 — रविवासरः: whose day? (6) v2.c06.l04 —
 दूरदर्शनम्: which two parts? (v1.c02.l03 — मातृ in the dictionary, माता in the sentence.)
 
-**§4 TRADITION callout** (2.2.29, 2.2.24, the names): "Pāṇini defines the dvandva in three words —
+**§4 TRADITION callout** (2.2.29, 2.2.24, the names): "Pāṇini defines the dvandva in two words —
 2.2.29 चार्थे द्वन्द्वः, 'in the sense of च, a dvandva' — and the bahuvrīhi in two: 2.2.24 अनेकमन्यपदार्थे,
-'two or more words, pointing to something else'. The names are examples of themselves: तत्पुरुषः 'his
-man', बहुव्रीहिः '(one who has) much rice', द्विगुः '(worth) two cows', अव्ययीभावः 'becoming an
+'two or more words, pointing to something else'. Three of the four names are examples of themselves: तत्पुरुषः 'his
+man', बहुव्रीहिः '(one who has) much rice', द्विगुः '(worth) two cows'; the fourth, अव्ययीभावः, is not one of its own kind: it means 'becoming an
 indeclinable'." [REF:ashtadhyayi 2.2.29] [REF:ashtadhyayi 2.2.24] [REF:whitney1889 §1263]
 [REF:whitney1889 §1293] [REF:whitney1889 §1312] [REF:whitney1889 §1313]. Second callout (TRADITION,
 Hindi school grammar, row 0.H j) [REF:guru1952] — prints only after Pass C (open item 1).
@@ -1221,8 +1220,8 @@ Accent and the इन्द्रशत्रु contrast: one line, "v4.c04".
 **§9–§11:** a compound is said as one word: one breath, no pause at the inner seam (विद्यालयः,
 मातापितरौ, नीलकण्ठः); the Hindi habit of a pause in "माता-पिता" is not carried over. IPA as the table.
 
-**§12 (six rows):** (1) the first member inflected: *माताभाषा, *नीलःकमलम् → मातृभाषा, नीलकमलम् (rule 1;
-the dvandva माता- is the one listed exception, 6.3.25); (2) the dvandva in the singular: *सिंहमूषकः for
+**§12 (six rows):** (1) the first member inflected: *माताभाषा, *नीलःकमलम्, *चित्राग्रीवः → मातृभाषा, नीलकमलम्, चित्रग्रीवः (rule 1;
+the dvandva माता-, 6.3.25, and the label महा- are this chapter's two exceptions); (2) the dvandva in the singular: *सिंहमूषकः for
 two → सिंहमूषकौ; (3) bahuvrīhi read as tatpuruṣa: नीलकण्ठः "a blue throat" → "one whose throat is blue";
 (4) the inner seam left open: *पर-उपकारः in print → परोपकारः; (5) the vigraha without cases: *विद्या आलयः
 → विद्यायाः आलयः; (6) a bahuvrīhi in the wrong gender: the compound takes the gender of the person
@@ -1243,7 +1242,7 @@ woman" (an a-final bahuvrīhi takes -आ in the feminine, as an a-adjective does
   · सीता च रामः च → सीतारामौ · प्रियम् मित्रम् → प्रियमित्रम् · सिंहस्य मुखम् → सिंहमुखम् · शुभम् दिनम् →
   शुभदिनम् · अल्पम् बलम् यस्य सः → अल्पबलः. **Key** as given; a hyphenated pause form (कमल-मुकुलम्)
   earns ½. (No item ends in सखा: -सख at a compound's end is 5.4.91, v4.c04.)
-- *Ex 4 (obj. 1, 2; homework, 8 min):* the twelve owned compounds of §8 step 3 (the evidence list
+- *Ex 4 (obj. 1, 2; homework, 8 min):* the eight owned compounds of §8 step 3 that table 0.F resolves — विद्यालयः, हिमालयः, मातृभाषा, रविवासरः, वर्णमाला, कमलमुकुलम्, शुभरात्रिः, मातापितरौ (not दूरदर्शनम्, मध्याह्नः, महाभारतम्, निरामयाः: their vigrahas need members or subtypes this chapter does not teach; the evidence list
   minus the ◐ kinds and the display-member ones): kind + vigraha. **Key:** table 0.F.
 - *Ex 5 (obj. 3; homework, 8 min — writing):* four sentences about your family or the serial, each with
   a compound you coin (one of each kind), joined with pause form. **Key:** checklist.
@@ -1272,7 +1271,7 @@ Hindi तत्सम compounds of row 0.H i, then check against the key (3).
 
 **§22 timing (45):** Station 0 + prompts (8) → §8 steps 1–4 (7) → step 5 sort (5) → Ex 1 (6) → the context
 test + Ex 2 (5) → Ex 3 (6) → §16 in pairs (3) → Ex 7 (2) → quiz (3) = 45. **Teacher Notes:** 2.1.22, 2.2.8,
-2.1.57, 2.1.52, 2.1.6–7, 2.2.19, 2.2.18, 2.2.6, 6.3.25, 5.4.91, 2.2.23; Whitney's classes; IR-026 →
+2.1.57, 2.1.52, 2.1.6–7, 2.2.19, 2.2.18, 2.2.6, 6.3.25, 5.4.91, 2.2.23, 6.3.34, 6.3.42; Whitney's classes; IR-026 →
 v4.c04; जगदीशः, सज्जनः (v3.c04.l03 pointer); serial departures; the Hindi six-kind sorting.
 
 **Payoff (plan, corrected):** the compounds of Volumes 1–2 resolved by the learner (most of them ledger
@@ -1320,7 +1319,7 @@ c06.l01); the four compound kinds ✓, dvigu/upapada/avyayībhāva ◐; (5) **pr
 rows: मम/तव/मह्यम् in their tables — l01; नमस्ते's ते — l01; भवान्'s forms and भवन्तः — l01; कश्चित् —
 l02; prefixes as a system — l03; मातृभाषा — l04; जलज, खग — l04; the calling shapes श्रीमन्, भगवन् — l01
 R6); tracker row 6 closed: "Compounds (मनोरथः, परोपकारः, दूरदर्शनम्, रविवासरः) — redeemed v3.c05.l04".
-Ledger stays **488**; cells drilled: 0 new (74 reviewed: 40 + 34).
+Ledger stays **488**; cells drilled: 0 new (119 reviewed: 46 + 73).
 
 **§17 — the thread verses, c05 column of the overlay** (plan §1.5; the c01–c04 columns stand; each verse
 printed joined with its pause form beneath, its locus as the earlier overlays give it): उद्यमेन हि
@@ -1334,7 +1333,7 @@ item.
 
 **§3 Station 0 (runs S0-av and S0-au, verbatim).** About 8 minutes, before the sitting and outside its 45.
 Keys 0.G. **Stations (1 minute, the volume spiral; plan §4.0.5):** one prompt each from l01–l04 (मे in a
-sentence; the dat. sg. of सा; the correlative of यत्र; join पर-उपकारः — none of them an exam item), and the
+sentence; the gen. pl. of सा (तासाम्); the correlative of यथा; join पर-उपकारः — none of them an exam item), and the
 spiral's three items sit inside the tasks (a case question in A, a verb form in D's questions, a join in
 E's checklist).
 
@@ -1387,11 +1386,11 @@ correlative):
 2. बालिका गृहेऽस्ति। तां माता पश्यति। / बालिका गृहे अस्ति। ताम् माता पश्यति।
 3. वृक्षो विशालोऽस्ति। तस्मिन्कपोता निवसन्ति। / वृक्षः विशालः अस्ति। तस्मिन् कपोताः निवसन्ति।
 4. तत्र नद्यस्ति। तत्र व्याधस्तिष्ठति। / तत्र नदी अस्ति। तत्र व्याधः तिष्ठति।
-5. गुरुर्वदति। तदा छात्रा लिखन्ति। / गुरुः वदति। तदा छात्राः लिखन्ति।
+5. गुरुर्गच्छति। तदा छात्राः क्रीडन्ति। / गुरुः गच्छति। तदा छात्राः क्रीडन्ति।
 6. सिंहः स्वपिति। तदा मूषको धावति। / सिंहः स्वपिति। तदा मूषकः धावति।
 **Key:** 1. यो बालकः पुस्तकं पठति स विद्यालयेऽस्ति। 2. या बालिका गृहेऽस्ति तां माता पश्यति। 3. यो वृक्षो
-विशालोऽस्ति तस्मिन्कपोता निवसन्ति। 4. यत्र नद्यस्ति तत्र व्याधस्तिष्ठति। 5. यदा गुरुर्वदति तदा छात्रा
-लिखन्ति। 6. यदा सिंहः स्वपिति तदा मूषको धावति। The other order (main clause first) is accepted (Whitney
+विशालोऽस्ति तस्मिन्कपोता निवसन्ति। 4. यत्र नद्यस्ति तत्र व्याधस्तिष्ठति। 5. यदा गुरुर्गच्छति तदा छात्राः
+क्रीडन्ति। 6. यदा सिंहः स्वपिति तदा मूषको धावति। The other order (main clause first) is accepted (Whitney
 §512a). Scoring 2 each: 1 the relative + correlative in the right forms, 1 the joined writing; **12 marks,
 pass 8.**
 
@@ -1416,9 +1415,9 @@ beneath; 🔊 `v3c05l05-task-d-passage.mp3` after the sitting):
    कपोताः व्याधस्य जाले अपतन्। "One day all the doves fell into a hunter's net."
 4. जालं च तैः सहाकाशमगच्छत्। (jālaṃ ca taiḥ sahākāśam agacchat.) / जालम् च तैः सह आकाशम्
    अगच्छत्। "And the net went into the sky with them."
-5. चित्रग्रीवोऽवदत् — "मम सखा हिरण्यकोऽस्ति। यत्र स निवसति तत्र गच्छामः।" (citragrīvo 'vadat —
-   "mama sakhā hiraṇyako 'sti. yatra sa nivasati tatra gacchāmaḥ.") / चित्रग्रीवः अवदत् — "मम सखा
-   हिरण्यकः अस्ति। यत्र सः निवसति तत्र गच्छामः।" "Citragrīva said: 'My friend is Hiraṇyaka. Let us go
+5. चित्रग्रीवोऽवदत् — "मम सखा हिरण्यकोऽस्ति। यत्र स निवसति तत्र गच्छाम।" (citragrīvo 'vadat —
+   "mama sakhā hiraṇyako 'sti. yatra sa nivasati tatra gacchāma.") / चित्रग्रीवः अवदत् — "मम सखा
+   हिरण्यकः अस्ति। यत्र सः निवसति तत्र गच्छाम।" "Citragrīva said: 'My friend is Hiraṇyaka. Let us go
    where he lives.'"
 6. हिरण्यको मूषकः, तस्य विवरं नद्याः समीपे। (hiraṇyako mūṣakaḥ, tasya vivaraṃ nadyāḥ samīpe.) /
    हिरण्यकः मूषकः, तस्य विवरम् नद्याः समीपे। "Hiraṇyaka was a mouse; his burrow was near the river."
@@ -1436,10 +1435,10 @@ beneath; 🔊 `v3c05l05-task-d-passage.mp3` after the sitting):
     "Then with his teeth he cut all the snares, and the doves were free."
 **Questions** (answers in Sanskrit, one word or a phrase): 1. कपोतानां नृपस्य नाम किम्? 2. किमर्थं तस्य
 नाम चित्रग्रीवः? 3. के जालेऽपतन्? 4. जालं कुत्रागच्छत्? 5. हिरण्यकः कः? 6. हिरण्यकस्य विवरं कुत्र? 7. यदा
-कपोता आगच्छन्, तदा हिरण्यकः कुत्रातिष्ठत्? 8. हिरण्यकः केन पाशानकृन्तत्? 9. (compound) पाशबद्धान् — which
+कपोता आगच्छन्, तदा हिरण्यकः कुत्रातिष्ठत्? 8. हिरण्यकः केन पाशानकृन्तत्? 9. (compound) चित्रग्रीवः (line 2) — which
 kind, and its vigraha? 10. (pronoun and spiral) In line 10, to whom does स refer, and which lakāra is
 अकृन्तत्? **Key:** 1. चित्रग्रीवः 2. तस्य ग्रीवा चित्रा (आसीत्) 3. सर्वे कपोताः 4. आकाशम् 5. मूषकः (चित्रग्रीवस्य
-सखा) 6. नद्याः समीपे 7. विवरे (एव) 8. दन्तैः 9. तत्पुरुषः · पाशैः बद्धान् (instr.) 10. हिरण्यकः · लङ् (the
+सखा) 6. नद्याः समीपे 7. विवरे (एव) 8. दन्तैः 9. बहुव्रीहिः · चित्रा ग्रीवा यस्य सः 10. हिरण्यकः · लङ् (the
 imperfect), 3sg. Scoring 1 each (Q9, Q10 ½ + ½); **10 marks, pass 7.** Seams of the passage (key, after
 the sitting): l.1 नद्याः + त → स्त; कपोतानाम् + ए; एकः + न → ओ; नृपः + आ → अ (gap). l.2 चित्रा + आ → आ
 (सवर्णदीर्घः); अतः + त → स्त. l.3 कपोताः + व → आ; जाले + अ → एऽ. l.4 जालम् + च → ं; सह + आ; आकाशम् +
@@ -1467,7 +1466,7 @@ new dialogue to the teacher.
 
 **§19 quiz (10; homework after the sitting):** one item each on: the short-form rule; भवान् + 3sg; the dat.
 sg. of सा; the m. nom. pl. of सर्व; इयम् with a feminine noun; the correlative of यदा; the particle that never
-stands first (हि); 1.1.27 (TRADITION, "According to Pāṇini"); the kind of चित्रग्रीवः; मातृभाषा's stem form —
+stands first (हि); the chapter's six sūtras, numbers matched to gists (8.1.22, 1.1.27, 1.1.37, 1.4.59, 2.2.29, 2.2.24; TRADITION, "According to Pāṇini"); the kind of चित्रग्रीवः; मातृभाषा's stem form —
 **the drafter writes them with keys, distractors from §12 of l01–l04, no ◐ cell and no untaught form**.
 
 **§20 Bookings:** S0-ax (+1 day, v3.c06.l01), S0-ay (+1 week, v3.c06.l02), the standing monthly item —
@@ -1566,6 +1565,34 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
 8. **Task D printed joined only** in the booklet (as c04's task C): accept.
 9. **The Kāśikā e-text typos** (row 0.20: *rus*, *up*): recorded here; the lesson prints the corrected list.
 
+**Editor's decisions (2026-11-10, after the fact-base verification):**
+
+1. **Hindi school grammar on समास and सर्वनाम (item 1).** Both lines print as attributed TRADITION
+   with [REF:guru1952] cited bare, as the course cites Guru everywhere: "Hindi school grammar lists six
+   kinds of समास, counting कर्मधारय and द्विगु separately; the Sanskrit tradition counts four, with those
+   two inside तत्पुरुष". No "commonly", no count of books. Pass C confirms each Hindi statement on the
+   web, as for the earlier chapters, and rewords or cuts what it cannot confirm.
+2. **कश्चिन्नृपः (item 2).** The model sentence uses only ✓ seams: कश्चिद्व्याध आसीत्. कश्चिन्नृपः may
+   stand beneath it as one labelled recognition line (a stop before a nasal is ◐ in Chapter 4).
+3. **अदस् (item 3).** One Teacher-Notes line in lesson 2: असौ "that one yonder" is not taught in
+   Volume 3 and is glossed where met. Its home is recorded in the plan's §7.6 when the chapter
+   ships (Volume 4 leaves it recognition-only; Volume 5 meets it in reading).
+4. **The feminine of a bahuvrīhi (item 4).** It prints only if Pass C opens the Whitney section and it
+   says so; otherwise row 6 of lesson 4's §12 drops it.
+5. **Lesson 4's objective 4 (item 5).** Dropped as an objective of its own: an objective is something
+   the lesson can score. Its content stays as the recognition card of §15, and objective 3 ends
+   "…; the labels द्विगु, उपपद and अव्ययीभाव are recognised when met and never scored".
+6. **The Chapter 4 exam's bookings (item 6): closed.** The verification diffed S0-an and S0-ao
+   against `lesson-05-sandhi-exam.md` §20: identical.
+7. **Apte sub-entries (item 7).** Pass C quotes each, or the row cites Monier-Williams alone.
+8. **Whitney §364, §1121, §1250 (item 8).** None is cited in a lesson unless Pass C opens it and it
+   says what it is cited for.
+9. **Upgrade rows (item 9).** None beyond the plan's शक्तिः; vocabulary_count stays as the plan gives it.
+10. **यदा … ततः.** The verification found that the note starred it as a mistake; it is good Sanskrit.
+    Keys expect तदा and accept ततः, and no quiz option offers ततः as wrong.
+11. **The errata of §8 (two lines of v2.c06.l04): approved and applied** in the same commit as these
+    decisions.
+
 ### Deviations from the plan (with reasons)
 
 1. **Whitney locators** (§6): §491b holds for "never first / not where emphasis falls"; the verse-quarter
@@ -1594,7 +1621,7 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
 8. **The relative sentence is l03's** (G6) and **यः** stays l02's headword, drilled in tables only there;
    §§1–2 contain no relative sentence.
 9. **Exam timing**: 2 minutes of instructions inside the 45 (as c04): B 7 and C 9 instead of the plan's 8 and
-   10. Task A item 7 avoids a dual (three persons → वयम्).
+   10. Task A item 7 avoids a dual (three persons → वयम्). Task A prints eight separate sentences, not the plan's (and chapter.md's) eight-sentence paragraph: each item needs its own antecedent and speaker, and the frame line in chapter.md is to be read accordingly (editor to confirm or ask for a connected rewrite). Task D line 2 stays close to l04 §17 line 2 (तस्य ग्रीवा चित्रा …), against the plan's "new wording, not the lessons' lines"; question 2 therefore can be answered from the lesson as well as from the passage. Pass C rewords line 2 (and checks line 8 against l03 §17 line 7) or the editor accepts the overlap.
 10. **Station 0 items made concrete** (row 0.30): the plan's short "S0 → next" lines kept in substance;
     S0-av's ten vigrahas chosen disjoint from task C (exam guard), and with no display member (मनोरथः, with
     the display मनसः, is replaced by हिमालयः).
@@ -1611,6 +1638,7 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
 14. **Self-study minutes** set: 35 · 40 · 40 · 40 · 45 (the plan gives none), each §21 adding up.
 15. **R6**: पुण्यवान् and भगवन् as card displays (Hit l. 474; v2.c01.l04), so the card redeems the v2.c01.l04
     promise in full.
+16. **Hit 1.40 in l03 §13** (not in the plan): an authentic verse built on the य-/त- pairs the lesson teaches (यस्मात्/तस्मात्, येन/तेन, यथा/तथा, यदा/तदा, यत्/तत्, यत्र/तत्र), printed as display with its gloss, its unowned words glossed and यावत्/तावत् labelled v4.c04; read in §21 homework only, never drilled, asked or scored, so it adds no class time to the lesson whose load is the main risk.
 
 ---
 
