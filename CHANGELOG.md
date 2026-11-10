@@ -4,6 +4,45 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **v4.c01 lesson 4, first draft** — the Chapter 1 exam (one closed-book 45-minute sitting, five
+  tasks, the chapter on one page, the retake sets). Not reviewed.
+- **Research: the v4.c02 fact base** (`research/notes/vol4-ch2-inside-the-ashtadhyayi.md`),
+  verified before drafting by three checkers with every finding challenged, and the chapter frame
+  `curriculum/volume-4/chapter-02/chapter.md` (draft). Volume 4, Chapter 2 — अष्टाध्यायीप्रवेशः ·
+  Inside the Aṣṭādhyāyī: base and affix, with the three names a base takes before an ending (अङ्ग,
+  पद, भ) shown on राजन्; substitute, augment and deletion, with guṇa and vṛddhi as names of vowel
+  sets; words carried down and headings, shown on the rules that make ण and ष; the Chapter 2
+  exam. 16 ledger-new words planned, 521 → 537; 31 tools, 43 in the toolbox after the chapter.
+  The verification confirmed 32 findings (1 blocker, 8 major, 23 minor) and rejected 5; 44 fixes
+  were applied, 1 was found already made and 16 were duplicates between checkers. The blocker:
+  the Hindi parallel credited the ण of रामायण and प्रमाण to 8.4.1–2 — other rules make them
+  (8.4.3; 8.4.29), and the examples are now words the chapter's own rules explain (कारण, हरण,
+  मरण; भविष्य). Other corrections: two replies to 1.x cards that argued against claims the cards
+  did not make; a neuter form in -अम् is accepted as nominative or accusative; a Whitney
+  quotation cut mid-sentence gets its ellipsis; the exam's guard notes say what is really shared
+  between Station 0 and the tasks. Eleven editor's decisions are recorded in its §7; by one of
+  them the exam's last task no longer ends on a form that is not a word (रामाय is reached through
+  a printed step of a later lesson).
+
+### Changed
+
+- **Volume 4 plan §7.6:** eleven rows from the v4.c02 fact base (the 1.x page's own example; the
+  न carried into 8.4.37 is the negative; how a heading's own row is printed; 1.4.17 and the
+  Kāśikā; 3.4.100; the spelling list of the e-texts; Whitney §235; the toolbox card in an exam;
+  the Teacher-Notes sūtras; no derivation ending on a non-word; the Hindi examples of ṇatva and
+  ṣatva).
+
+### Fixed
+
+- **v4.c01 lessons 1–3, accuracy review** (one reviewer per lesson, every finding verified): 36
+  confirmed findings (1 blocker, 11 major, 24 minor), none rejected; 91 fixes applied. The
+  blocker: चय् names the first member of each of the five series, not of four. The other passes
+  and the post-fix verification follow before the chapter ships.
+
 ## [0.18.0] — 2026-11-10
 
 Volume 3, Chapter 6 — सम्पूर्णपठनम् · Connected Reading — is reviewed and shipped, and with it
