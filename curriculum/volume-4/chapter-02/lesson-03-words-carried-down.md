@@ -1025,18 +1025,18 @@ mid-quiz.
 
 1. According to Pāṇini (8.4.1), in रामेण the ण is caused by: (a) the इ; (b) the र; (c) the ए;
    (d) the म
-2. According to Pāṇini (8.4.1), समानपदे means: (a) before the same word; (b) within one and
-   the same word; (c) after a word; (d) in place of a word
+2. According to Pāṇini (8.4.1), समानपदे means: (a) before the same word; (b) in place of a
+   word; (c) after a word; (d) within one and the same word
 3. According to Pāṇini, रथेन keeps न because: (a) it has no र; (b) थ stands between, and 8.4.2
    does not allow it; (c) the न is word-final; (d) its ending is different
 4. According to Pāṇini, the final न् of रामान् stays because of: (a) 8.4.2; (b) 7.1.12; (c) 8.4.37;
    (d) 8.3.59
-5. According to Pāṇini, 6.4.1 अङ्गस्य is: (a) an operation; (b) a heading over the rules to the
-   end of Book 7; (c) the definition of aṅga; (d) a marker
+5. According to Pāṇini, 6.4.1 अङ्गस्य is: (a) an operation; (b) a marker; (c) the definition of aṅga;
+   (d) a heading over the rules to the end of Book 7
 6. According to Pāṇini's commentators, anuvṛtti is: (a) a word carried down from an earlier
    sūtra; (b) a heading; (c) a substitute; (d) a marker
-7. According to Whitney, the dental s becomes ṣ when it is immediately preceded by: (a) any vowel
-   except a and ā, or k or r; (b) any vowel; (c) r only; (d) i only
+7. According to Whitney, the dental s becomes ṣ when it is immediately preceded by: (a) r only;
+   (b) any vowel; (c) any vowel except a and ā, or k or r; (d) i only
 8. According to Pāṇini, बालिकासु keeps स because: (a) आ is not an इण् sound; (b) the स् is not part
    of an affix; (c) the word is feminine; (d) the स् is word-final
 9. According to Pāṇini, the ष of करोषि comes from: (a) the root कृ; (b) the ओ before the स् of the
@@ -1050,16 +1050,16 @@ mid-quiz.
 
 1. (b) — 8.4.1 रषाभ्यां नो णः समानपदे: §8 Step 3 and §13 derivation (a), TRADITION. ((a) is the
    1.x card, §12 mistake 1; (c) and (d) stand between and are allowed by 8.4.2.)
-2. (b) — a locative of place, the Kāśikā's "both standing in the same word" (§8 Step 3). ((a) is
+2. (d) — a locative of place, the Kāśikā's "both standing in the same word" (§8 Step 3). ((a) is
    §12 mistake 3.)
 3. (b) — थ is a dental, none of 8.4.2's interveners (§8 Step 5). ((a): रथेन has a र; (c): the न
    is followed by अ.)
 4. (c) — 8.4.37 पदान्तस्य, with "not" carried from 8.4.34 (§8 Step 3). ((a) allows the change
    across interveners; it does not stop it.)
-5. (b) — a heading, according to the Kāśikā to the end of Book 7 (§4, §8 Step 4). ((c): aṅga is
+5. (d) — a heading, according to the Kāśikā to the end of Book 7 (§4, §8 Step 4). ((c): aṅga is
    defined by 1.4.13, lesson 1.)
 6. (a) — carrying down (§8 Step 3, §15), TRADITION. ((b) is adhikāra.)
-7. (a) — FACT, Whitney §180, quoted in §5 [REF:whitney1889 §180]. ((b) cannot be right:
+7. (c) — FACT, Whitney §180, quoted in §5 [REF:whitney1889 §180]. ((b) cannot be right:
    बालिकासु keeps स after आ.)
 8. (a) — इण् leaves out अ and आ — §8 Steps 4 and 5. ((b): the स् of सु is the affix's; (d):
    the उ follows it.)

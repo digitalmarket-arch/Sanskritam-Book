@@ -1025,8 +1025,8 @@ mid-quiz.
    vowel (b) before an ending that begins with a sibilant and a vowel (c) after य; (d) in place of य
 7. The instrumental plural of राजन् is: (a) राजैः; (b) राजभिः; (c) राज्ञभिः; (d) राजानभिः
 8. The instrumental singular of राजन् is: (a) राजना; (b) राजेन; (c) राज्ञा; (d) राजा
-9. According to Pāṇini, the स् of नमस्ते is: (a) the स् of the stem नमस्, kept (b) a substitute
-   for the visarga (8.3.34) (c) the स् of the ending सुँ, kept (d) part of ते
+9. According to Pāṇini, the स् of नमस्ते is: (a) the स् of the stem नमस्, kept (b) the स् of the
+   ending सुँ, kept (c) part of ते (d) a substitute for the visarga (8.3.34)
 10. According to Patañjali, one purpose of studying grammar is: (a) asandeha, freedom from doubt
     (b) speed in reading (c) learning to write Devanagari (d) dating the Veda
 
@@ -1047,8 +1047,8 @@ mid-quiz.
    from taught material — the bha shape, the strong shape — put before a pada ending.
 8. (c) — FACT [REF:whitney1889 §424]. (a) keeps the अ that 6.4.134 drops; (b) treats राजन् as an
    a-stem; (d) is the nominative, a headword form.
-9. (b) — §13 derivation (d): the visarga arises before ते, and 8.3.34 puts स् in its place,
-   TRADITION. ((a) is §12 mistake 6; (c) forgets that after an avyaya the ending is deleted, 2.4.82.)
+9. (d) — §13 derivation (d): the visarga arises before ते, and 8.3.34 puts स् in its place,
+   TRADITION. ((a) is §12 mistake 6; (b) forgets that after an avyaya the ending is deleted, 2.4.82.)
 10. (a) — asandeha is the last of the five purposes in the Paspaśāhnika line (§17), TRADITION,
     "according to Patañjali".
 

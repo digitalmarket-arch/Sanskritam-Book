@@ -898,16 +898,16 @@ mid-quiz.
    long vowels
 2. According to Pāṇini (1.1.2), guṇa is: (a) अ ए ओ; (b) आ ऐ औ; (c) adding अ to a vowel; (d) ए and
    ओ only
-3. According to Pāṇini, the guṇa of ऋ is: (a) ऋ; (b) अर्; (c) आर्; (d) रि
+3. According to Pāṇini, the guṇa of ऋ is: (a) ऋ; (b) आर्; (c) रि; (d) अर्
 4. According to Pāṇini, the vṛddhi of उ is: (a) ओ; (b) ऊ; (c) औ; (d) अव्
 5. According to Pāṇini (1.1.46), an augment marked with ट्: (a) replaces its host; (b) goes at
-   the beginning; (c) goes at the end; (d) goes after the last vowel
-6. In अगच्छत्, the अ at the front is, according to Pāṇini: (a) a substitute; (b) an augment; (c)
-   a marker; (d) part of the root
+   the end; (c) goes at the beginning; (d) goes after the last vowel
+6. In अगच्छत्, the अ at the front is, according to Pāṇini: (a) a substitute; (b) a marker; (c)
+   part of the root; (d) an augment
 7. According to Pāṇini, in अगच्छत् the इ of ति: (a) is replaced by अ; (b) is dropped; (c) is an
    augment; (d) becomes त्
-8. According to Pāṇini, in भवति: (a) guṇa inserts व; (b) ऊ → ओ is one substitute and ओ → अव् a
-   second; (c) व is an augment; (d) the root is unchanged
+8. According to Pāṇini, in भवति: (a) ऊ → ओ is one substitute and ओ → अव् a
+   second; (b) guṇa inserts व; (c) व is an augment; (d) the root is unchanged
 9. Whitney describes a guṇa vowel as: (a) a vowel put in by rule; (b) the simple vowel with a
    prefixed a-element; (c) a lengthened vowel; (d) a vowel with व inserted
 10. According to Patañjali, one who knows deletion, augment and the change of sounds will: (a)
@@ -920,17 +920,17 @@ mid-quiz.
 
 1. (b) — 1.1.1 वृद्धिरादैच्: §8 Step 4, TRADITION. ((a) is guṇa, 1.1.2.)
 2. (a) — 1.1.2 अदेङ् गुणः: §8 Step 4. ((c) is §12 mistake 1; (d) leaves out the short अ of अत्.)
-3. (b) — guṇa अ, with र् by the card 1.1.51 (§15 ladder). ((a) is no change; (d) is §12 mistake
+3. (d) — guṇa अ, with र् by the card 1.1.51 (§15 ladder). ((a) is no change; (c) is §12 mistake
    6.)
 4. (c) — vṛddhi of उ is औ, nearest by the lips (§15 ladder). ((a) is the guṇa; (d) is what ओ
    becomes before a vowel, 6.1.78.)
-5. (b) — ṭ-marked at the beginning, k-marked at the end (§8 Step 3). ((c) is the k-marked augment;
+5. (c) — ṭ-marked at the beginning, k-marked at the end (§8 Step 3). ((b) is the k-marked augment;
    (d) the m-marked one, §12 mistake 4.)
-6. (b) — the augment अट्, 6.4.71, placed by its ट् [1.1.46]: §13 derivation (b). ((c): the ट् is
+6. (d) — the augment अट्, 6.4.71, placed by its ट् [1.1.46]: §13 derivation (b). ((b): the ट् is
    the marker, not the अ.)
 7. (b) — dropped by 3.4.100 इतश्च, with लोपः carried (§13 derivation (b), step 3). ((d): after the
    इ goes, त् is what remains; the इ does not "become" त्.)
-8. (b) — two substitutes, ऊ → ओ and ओ → अव् [§8 Steps 4 and 7]. ((a) is the 1.x card, §12 mistake
+8. (a) — two substitutes, ऊ → ओ and ओ → अव् [§8 Steps 4 and 7]. ((b) is the 1.x card, §12 mistake
    2.)
 9. (b) — FACT, Whitney §235a, quoted in §5 [REF:whitney1889 §235]. ((a) is Pāṇini's account, not
    Whitney's description.)
