@@ -51,7 +51,7 @@ updated: 2026-11-10
 
 Since Volume 2 you have said भवान् पुनः वदतु "please say it again" whenever a sentence went
 past you, and you have answered a friend with अस्तु "so be it". The mouse begged the lion
-माम् मुञ्च! "let me go!", and every Volume 1 story opened with पश्य! "look!". None of these
+माम् मुञ्च! "let me go!", and from the course's first story on, Volume 1 said पश्य! "look!". None of these
 words was explained: each was a chunk, kept whole. Today they all turn out to be cells of one
 small table — the request mood — and that table is only four changes away from the story
 tense you built yesterday. Beside it comes a second card for the word "should": छात्रः सत्यम्
@@ -194,8 +194,8 @@ The two moods are built the way lessons 1–3 built tenses — not from scratch,
 change on a table you already own:
 
 > **[FACT · तथ्यम्]** The imperative of the first family is the imperfect without its
-> augment, with four cells changed: गच्छतु, गच्छन्तु, गच्छ, गच्छानि. The optative puts -ए-
-> between the stem and the imperfect's endings, again without the augment: गच्छेत्,
+> augment, with four cells changed: गच्छतु, गच्छन्तु, गच्छ, गच्छानि. The optative turns the
+> stem's final -अ into -ए before the imperfect's endings, again without the augment: गच्छेत्,
 > गच्छेताम्, with two cells of its own, गच्छेयम् and गच्छेयुः. [REF:whitney1889 §739]
 > [REF:whitney1889 §738]
 
@@ -253,13 +253,13 @@ the past; the -ए- inside is the wish.
 
 लोट् बनाना आसान है, क्योंकि कल आपने लङ् (भूतकाल; परम्परा में "आज से पहले का भूत") बनाया
 था। लङ् से आगम — आगे लगने वाला अ- — हटा दीजिए, और केवल चार खाने बदलिए: अगच्छत् → गच्छतु
-(वह जाए), अगच्छन् → गच्छन्तु (वे जाएँ), अगच्छः → गच्छ (तू/तुम जाओ — केवल मूल रूप, कोई अन्त
+(वह जाए), अगच्छन् → गच्छन्तु (वे जाएँ), अगच्छः → गच्छ (तू जा / तुम जाओ — केवल मूल रूप, कोई अन्त
 नहीं), अगच्छम् → गच्छानि (मैं जाऊँ?)। बाकी पाँच खाने लङ् जैसे ही हैं, बस आगे का अ- नहीं:
 गच्छत (तुम सब जाओ), गच्छाम (चलो, हम चलें)।
 
 अब हिन्दी से पहला बड़ा अन्तर। हिन्दी में आज्ञा के तीन स्तर हैं: तू जा (बहुत निकट का), तुम
-जाओ (परिचित), आप जाइए (आदर वाला)। संस्कृत में मध्यम पुरुष के बस दो रूप हैं — एक व्यक्ति के
-लिए गच्छ, कई लोगों के लिए गच्छत। आदर संस्कृत क्रिया के अन्त से नहीं, भवान् से आता है: भवान्
+जाओ (परिचित), आप जाइए (आदर वाला)। संस्कृत के मध्यम पुरुष में आदर का कोई अलग रूप नहीं — एक
+व्यक्ति के लिए गच्छ, कई लोगों के लिए गच्छत (दो के लिए गच्छतम्)। आदर संस्कृत क्रिया के अन्त से नहीं, भवान् से आता है: भवान्
 के साथ क्रिया प्रथम पुरुष में आती है — गच्छतु भवान्, "आप जाइए"; भवान् उपविशतु, "आप बैठिए"।
 इसलिए "भवान् उपविश" ग़लत है — भवान् के साथ मध्यम पुरुष नहीं चलता। और याद रखिए, संस्कृत में
 त्वम् के साथ गच्छ कहना असभ्य नहीं है: मित्र से, बच्चे से, और प्रार्थना में भगवान से भी यही
@@ -333,8 +333,8 @@ nothing at all after मुञ्च and पश्य, which are just the stems 
 
 - **लोट्** (loṭ) "the request mood", the imperative: the imperfect without its augment, four
   cells changed. Its uses: a command, a request, a blessing.
-- **विधिलिङ्** (vidhiliṅ) "the 'should' mood", the optative: -ए- between the stem and the
-  imperfect's endings, again without the augment. Its uses: advice, a rule, a wish.
+- **विधिलिङ्** (vidhiliṅ) "the 'should' mood", the optative: the stem's -अ turned to -ए before
+  the imperfect's endings, again without the augment. Its uses: advice, a rule, a wish.
 - **मा** (mā) "do not": with the imperative it forbids — मा गच्छ.
 
 According to Pāṇini, the imperative is "treated like the imperfect", and its -इ "becomes
@@ -430,7 +430,7 @@ middle: **the अ- in front is the past; the -ए- inside is the wish.** अग�
 
 Preview (○): the aorist, with मा भैषीः (v4.c03); the plural भवन्तः (v3.c05.l01). Deferred: the
 benedictive, the other use of लिङ्, and the other moods' systems (v4.c03). The verse's मा …
-भवेत् in the benediction (मा कश्चिद्दुःखभाग्भवेत्) is that verse's own construction, a rare
+भवेत् in the benediction (मा कश्चिद् दुःखभाग् भवेत्) is that verse's own construction, a rare
 one, and is not built (§15).
 
 ### The ledger
@@ -479,7 +479,7 @@ order 1 to 8. For each number write which one you heard — the first or the sec
 pair. Key in §19.
 
 **Dictation.** Eight items, each played twice with a pause, in the order numbered in §19's
-key: six single forms and two sentences, all from this section's pairs and §13's model
+key: five single forms, one prohibition and two sentences, all from this section's pairs and §13's model
 sentences. Write each in Devanagari, then check every ending against the key.
 
 ## 10. IPA
@@ -502,8 +502,8 @@ No new symbols — known values in the new cells. Pause form, word by word.
 /sukʰɐm d͡ʑiːʋɐ/ · क्षमताम् भवान् /kʂɐmɐt̪ɑːm bʱɐʋɑːn̪/.
 
 **Narrow note — the optative's /eː/:** in गच्छेत् the vowel before the ending is a long,
-pure /eː/; in अगच्छत् the only vowel there is a short /ɐ/. Count the length: गच्-छे-त् has a
-heavy middle syllable, अ-गच्-छत् does not.
+pure /eː/; in अगच्छत् the only vowel there is a short /ɐ/. Count the length: the last
+syllable's vowel is long in गच्-छेत्, short in अ-गच्-छत्.
 
 **Narrow note — दुःखम्:** the visarga is a voiceless /h/ before the aspirated /kʰ/:
 /d̪uhkʰɐm/. Two breaths, not one — the /h/ of the visarga, then the aspiration of ख.
@@ -520,7 +520,7 @@ closure, then release with aspiration.
 
 1. **The न्तु of गच्छन्तु.** Freeze after गच्छ- and place the tongue tip on the back of the
    upper teeth for the dental /n̪/; keep it there for /t̪/ — one contact, two sounds. A
-   mirror shows the tongue tip just visible between the teeth.
+   mirror shows the tongue tip pressed against the upper teeth, not pushed out between them.
 2. **The held /eː/.** For गच्छेत्, the jaw stays half-open and the tongue still through the
    /eː/; if the jaw rises toward [i] at the end, the vowel has become English "ay".
 3. **The breath of दुःखम्.** Open mouth, a light voiceless breath for the visarga, then
@@ -581,7 +581,8 @@ Sentence 4 holds both halves of the optative's use: the rule (वदेत्) a
 **गुरवे पुस्तकम् प्रयच्छ।**
 (gurave pustakam prayaccha.) "Give the book to the teacher." — गुरुजी को पुस्तक दो।
 
-प्रयच्छति takes the receiver in the dative (गुरवे, Chapter 2's u-stem), like ददाति.
+प्रयच्छति takes the receiver in the dative (गुरवे, Chapter 2's u-stem), like ददाति; the dictionary
+also allows the genitive or the locative, as in §4's verse (ईश्वरे).
 
 **सुखम् जीव!**
 (sukham jīva!) "Live happily!" — सुखी रहो!
@@ -655,7 +656,7 @@ the optative गच्छेत्, गच्छेताम् and गच्छ
 | जीवति | jīvati | /d͡ʑiːʋɐt̪i/ | lives | जीता है | ledger-new; verb, P., stem जीव-. Apte s.v. जीव् "c1 P. To live, be alive". सुखम् जीव! "live happily!" |
 | दुःखम् | duḥkham | /d̪uhkʰɐm/ | sorrow, pain | दुःख, पीड़ा | ledger-new; n. a-stem. MW s.v. duḥkha "n. uneasiness, pain, sorrow"; Apte s.v. दुःख. The opposite of your सुख (v1.c04.l02) |
 | भक्षयति | bhakṣayati | /bʱɐkʂɐjɐt̪i/ | eats | खाता है | ledger-new; verb, P. (stem भक्षय-, given). Apte s.v. भक्ष् "c10 U. To eat, devour"; the course teaches it in the first family only. The Pañcatantra's monkey: भवान् … भक्षयतु |
-| प्रयच्छति | prayacchati | /pɾɐjɐt͡ɕt͡ɕʰɐt̪i/ | gives, offers | देता है, भेंट करता है | ledger-new; verb, P., prefixed (प्र + यच्छ-, stem given), its own lemma. MW s.v. pra-√yam "to offer, present, give, grant", the receiver in the dative. Imperfect प्रायच्छत्: the augment after प्र (lesson 3) |
+| प्रयच्छति | prayacchati | /pɾɐjɐt͡ɕt͡ɕʰɐt̪i/ | gives, offers | देता है, भेंट करता है | ledger-new; verb, P., prefixed (प्र + यच्छ-, stem given), its own lemma. MW s.v. pra-√yam "to offer, present, give, grant" (with dat., gen. or loc. of the person); the course uses the dative, as with ददाति — §4's verse has the locative ईश्वरे. Imperfect प्रायच्छत्: the augment after प्र (lesson 3) |
 | वदतु | vadatu | /ʋɐd̪ɐt̪u/ | let him say; (with भवान्) please say | कहिए | **review** — counted in v2.c05.l02; today the 3sg imperative of वदति |
 | ददातु | dadātu | /d̪ɐd̪ɑːt̪u/ | (with भवान्) please give | दीजिए | **review** — counted in v2.c05.l04; the 3sg imperative of ददाति (R4, athematic: a whole word) |
 | अस्तु | astu | /ɐst̪u/ | so be it, all right | ठीक है, ऐसा ही हो | **review** — counted in v2.c05.l02; the 3sg imperative of अस्ति |
@@ -694,9 +695,9 @@ prohibition, the optative card, the R4 words, the Hindi contrast, and the paradi
 
 | पुरुषः | एकवचनम् | द्विवचनम् | बहुवचनम् | Δ from T7 without अ- |
 |---|---|---|---|---|
-| उत्तमः (I / we two / we) | गच्छानि gacchāni ✓ | गच्छाव gacchāva ◐ | गच्छाम gacchāma ✓ | 1sg -अम् → **-आनि**; 1du, 1pl unchanged |
-| मध्यमः (you / you two / you all) | गच्छ gaccha ✓ | गच्छतम् gacchatam ◐ | गच्छत gacchata ✓ | 2sg -ः → **(nothing)**; 2du, 2pl unchanged |
-| प्रथमः (he, she, it / the two / they) | गच्छतु gacchatu ✓ | गच्छताम् gacchatām ✓ | गच्छन्तु gacchantu ✓ | 3sg -त् → **-तु**; 3pl -अन् → **-अन्तु**; 3du unchanged |
+| उत्तमः — I / we two / we | गच्छानि gacchāni ✓ | गच्छाव gacchāva ◐ | गच्छाम gacchāma ✓ | 1sg -अम् → **-आनि**; 1du, 1pl unchanged |
+| मध्यमः — you / you two / you all | गच्छ gaccha ✓ | गच्छतम् gacchatam ◐ | गच्छत gacchata ✓ | 2sg -ः → **(nothing)**; 2du, 2pl unchanged |
+| प्रथमः — he, she, it / the two / they | गच्छतु gacchatu ✓ | गच्छताम् gacchatām ✓ | गच्छन्तु gacchantu ✓ | 3sg -त् → **-तु**; 3pl -अन् → **-अन्तु**; 3du unchanged |
 
 The owned chunks find their cells: वदतु (3sg), पश्य and मुञ्च (2sg), भवन्तु (3pl, the
 benediction). The 2sg has no ending at all — which is why पश्य and मुञ्च looked like bare
@@ -742,7 +743,7 @@ met, never asked.
 > imperative it makes the polite request: भवान् पुनः वदतु, भवान् उपविशतु. The plain त्वम् +
 > 2nd-person imperative is the command or request to one person (गच्छ); to many, the 2nd
 > plural (गच्छत). In the Pañcatantra (Book 4, frame story) a monkey invites a crocodile with
-> भवान् … भक्षयतु. [REF:whitney1889 §572] [REF:panchatantra]
+> भवान् … भक्षयतु. [REF:whitney1889 §572] [REF:whitney1889 §456] [REF:panchatantra]
 
 ### Prohibition — मा, and न with the optative
 
@@ -796,8 +797,8 @@ their 2sg imperatives are whole words, read when met. Do not build other cells f
 
 ### The Hindi contrast, exactly
 
-> **[FACT · तथ्यम्]** Hindi's imperative has three levels — तू जा (intimate), तुम जाओ
-> (familiar), आप जाइए (polite); Sanskrit has one 2nd-person imperative for one person (गच्छ),
+> **[FACT · तथ्यम्]** Hindi's imperative has three levels — intimate तू जा, familiar
+> तुम जाओ, polite आप जाइए; Sanskrit has one 2nd-person imperative for one person (गच्छ),
 > one for many (गच्छत), and makes the polite request with भवान् and the 3rd person (गच्छतु
 > भवान्). Hindi "should" is छात्र को सच बोलना चाहिए — the doer with को, the verb in the
 > infinitive, and चाहिए; Sanskrit keeps the doer in the nominative and puts "should" into the
@@ -807,10 +808,10 @@ their 2sg imperatives are whole words, read when met. Do not build other cells f
 
 ### Paradigm ledger (end of lesson 4)
 
-- **T6 (the present, both families) and T7 (the imperfect): as lessons 1–3** — the first
-  family's singular and plural in all persons and the 3rd-person dual ✓, the other duals ◐;
-  अस्, कृ and the second family by their listed cells (अलभत alone ✓ in the second family's
-  imperfect).
+- **T6 (the present, both families) and T7 (the imperfect): as lessons 1–3** — the present of
+  both families and the first family's imperfect: singular and plural in all persons and the
+  3rd-person dual ✓, the other duals ◐; अस् and कृ by their listed cells; the second family's
+  imperfect ◐ except अलभत ✓.
 - **लोट्, first family:** singular and plural in all persons and the 3rd-person dual ✓;
   गच्छाव, गच्छतम् ◐.
 - **लोट्, second family:** the 2sg and 3sg ✓ (लभस्व, लभताम् and the same cells of every owned
@@ -886,7 +887,7 @@ person, asking leave: गच्छानि. Optatives: पठेत् twice, o
 Conventions, said once. The teacher speaks to the student with त्वम् and the 2nd person, the
 student to the teacher with भवान् and the 3rd person — the two sides of Hindi's तुम and आप,
 made in two different ways. गुरो and अर्जुन are vocatives (Chapter 2's गुरो, Chapter 1's
-bare stem). तिष्ठति in turn 11 is "stays, waits" (v3.c01.l02's gloss). In turn 7,
+bare stem). तिष्ठति in turn 11 is "stays" (v3.c01.l02's gloss "stands, stays"), here "waits". In turn 7,
 पठामि is a present used for what the speaker is about to do — "I'll read it". स्वागतम्
 (v1.c05.l02), धन्यवादः (v1.c01.l01), कुशली (v2.c01.l02), मन्दम् and इदानीम् (v2.c05.l02,
 v2.c05.l01) are owned.
@@ -962,9 +963,9 @@ the short run of 7 are done in class; 1, 3, 4, 6 and the recorded 7 are homework
 
 **अभ्यासः 1 · लोट् (the imperative cell — production, written).** Write the imperative for
 the doer in brackets:
-(a) वदति → (त्वम्) ___ (b) वदति → (यूयम्) ___ (c) वदति → (सः) ___ (d) वदति → (ते) ___
+(a) वदति → (त्वम्) ___ (b) वदति → (यूयम्) ___ (c) वदति → (सः) ___ (d) वदति → (ते बालकाः) ___
 (e) वदति → (तौ) ___ (f) पठति → (अहम्) ___ (g) पठति → (वयम्) ___ (h) लभते → (त्वम्) ___
-(i) लभते → (सः) ___ (j) अस्ति → (ते) ___ (k) करोति → (त्वम्) ___ (l) करोति → (ते) ___
+(i) लभते → (सः) ___ (j) अस्ति → (ते बालकाः) ___ (k) करोति → (त्वम्) ___ (l) करोति → (ते बालकाः) ___
 
 **अभ्यासः 2 · अन्तर-पत्रम् (the Δ card — production, written, in class).** From the
 imperfect, the imperative: (a) अगच्छत् (b) अगच्छन् (c) अगच्छः (d) अगच्छम् (e) अगच्छताम्
@@ -1008,16 +1009,16 @@ nominative; मा, never न, with the imperative; pause form throughout.
 1. "Go!" (to one friend): (a) गच्छसि (b) गच्छ (c) गच्छतु (d) गच्छेत्
 2. "Please sit down, sir": (a) भवान् उपविश (b) भवान् उपविशतु (c) भवान् उपविशति
    (d) भवान् उपविशेत
-3. "Don't go!": (a) न गच्छ (b) मा गच्छ (c) मा गच्छेत् (d) न गच्छति
+3. "Don't go!": (a) न गच्छ (b) मा गच्छ (c) मा अगच्छ (d) न गच्छति
 4. "A student should speak the truth": (a) छात्रः सत्यम् अवदत् (b) छात्रः सत्यम् वदेत्
-   (c) छात्राय सत्यम् वदेत् (d) छात्रः सत्यम् वदतु
+   (c) छात्राय सत्यम् वदेत् (d) छात्रः सत्यम् वदेयुः
 5. गच्छेत् means: (a) "he went" (b) "he should go" (c) "go!" (d) "they go"
 6. The 3pl imperative of भवति: (a) भवन्ति (b) भवन्तु (c) भवेयुः (d) अभवन्
 7. According to Pāṇini (3.4.86 एरुः), the -इ of -ति becomes: (a) -ए (b) -उ (c) -आ (d) -अ
 8. क्षमस्व is: (a) the 2sg imperative of the second family (b) a 3sg imperative (c) a past
    (d) a passive
-9. In the Hitopadeśa verse मा प्रयच्छ ईश्वरे धनम्, the speaker is: (a) an old tiger luring
-   a traveller (b) the king of the doves (c) a mouse (d) Pāṇini
+9. In the Hitopadeśa, the verse मा प्रयच्छ ईश्वरे धनम् is quoted, inside the story, by: (a) an
+   old tiger luring a traveller (b) a traveller (c) a mouse (d) Pāṇini
 10. Hindi छात्र को सच बोलना चाहिए; Sanskrit छात्रः सत्यम् वदेत्. The Sanskrit doer is: (a) in
     the dative, like को (b) in the nominative (c) in the instrumental (d) left out
 
@@ -1029,11 +1030,11 @@ nominative; मा, never न, with the imperative; pause form throughout.
    (c) is the 3sg, for भवान्; (d) "he should go".
 2. (b) — भवान् + the 3rd-person imperative (§8, §15). (a) is §12 mistake 3; (c) "your
    honour sits" is a statement; (d) is the 2pl optative, which does not agree with भवान्.
-3. (b) — मा + imperative (§8, §15). (a) is §12 mistake 2; (c) builds मा with the optative,
-   which the course does not build (§15); (d) "he does not go" is a statement.
+3. (b) — मा + imperative (§8, §15). (a) is §12 mistake 2; (c) *अगच्छ keeps the past's अ-, but
+   the imperative is the imperfect without it (§8, §15); (d) "he does not go" is a statement.
 4. (b) — the optative, doer in the nominative (§8, §15). (a) "spoke" is the imperfect;
-   (c) is §12 mistake 5, the Hindi को reflex; (d) "let the student speak" is a request to
-   or about one student, not a rule.
+   (c) is §12 mistake 5, the Hindi को reflex; (d) puts the 3pl वदेयुः with one student: the verb
+   must agree with छात्रः.
 5. (b) — the -ए- inside is the wish (§8, §15). (a) is §12 mistake 1: "he went" is अगच्छत्.
 6. (b) — -न्ति → -न्तु (3.4.86; §15). (a) is the present, (c) the optative, (d) the
    imperfect.
@@ -1055,8 +1056,9 @@ nominative; मा, never न, with the imperative; pause form throughout.
   is also right.) (e) मा गच्छ। (f) अत्र मा क्रीडत। (g) भवान् पुनः वदतु। (भवान् पुनः भाषताम्।
   is also right.) (h) गुरवे पुस्तकम् प्रयच्छ। (the R4 word देहि — गुरवे पुस्तकम् देहि। — is
   also right).
-- **Exercise 4:** (a) छात्रः सदा पठेत्। (b) छात्रः विद्यालये न क्रीडेत्। (c) बालकाः मातरम्
-  नमेयुः। (d) नृपः प्रजाः रक्षेत्। (e) अतिथिः भक्षयेत्। (अतिथिः खादेत्। is also right.) (f)
+- **Exercise 4** (word order free; any owned word with the same meaning is right): (a)
+  छात्रः सदा पठेत्। (b) छात्रः विद्यालये न क्रीडेत्। (c) बालकाः मातरम् नमेयुः। (बालकाः मात्रे
+  नमेयुः। is also right: नम् takes the accusative or the dative.) (d) नृपः प्रजाः रक्षेत्। (e) अतिथिः भक्षयेत्। (अतिथिः खादेत्। is also right.) (f)
   गृहे जलम् स्यात्। (g) सः तत् कुर्यात्। (h) छात्रः ज्ञानम् लभेत।
 - **Exercise 5:** अगच्छत् past · गच्छेत् should · अपठत् past · पठेत् should · अवदन् past ·
   वदेयुः should · आसीत् past · स्यात् should — the अ- in front / the -ए- inside; आसीत् and
@@ -1171,19 +1173,25 @@ through, the four changed cells rewritten in a second colour. Right, three boxed
 wish".
 
 **Sūtras (Teacher Notes only; not printed in learner text, except 3.4.85 and 3.4.86).**
-3.4.87 सेर्ह्यपिच्च (the 2sg -सि → -हि) and 6.4.105 अतो हेः (-हि dropped after -अ: गच्छ);
-3.4.89 मेर्निः and 3.4.92 आडुत्तमस्य पिच्च (गच्छानि); 3.4.90 आमेतः, 3.4.91 सवाभ्यां वामौ, 3.4.93
-एत ऐ (the second family's -ताम्, -न्ताम्, -स्व, -ध्वम्, -ऐ, -वहै, -महै); 3.4.99 नित्यं ङितः
-and 3.4.101 तस्थस्थमिपां तांतंतामः (the -ताम्, -तम्, -त, -अम्); 3.3.162 लोट् च. For the
-optative: 3.3.161 विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् (its uses), 3.4.102–103,
-7.2.80 अतो येयः (the -ए-), 3.4.108 झेर्जुस् (-युः). The Kāśikā on 3.4.85 limits the atideśa to
+3.4.87 सेर्ह्यपिच्च [REF:ashtadhyayi 3.4.87] (the 2sg -सि → -हि) and 6.4.105 अतो हेः
+[REF:ashtadhyayi 6.4.105] (-हि dropped after -अ: गच्छ); 3.4.89 मेर्निः [REF:ashtadhyayi 3.4.89]
+and 3.4.92 आडुत्तमस्य पिच्च [REF:ashtadhyayi 3.4.92] (गच्छानि); 3.4.90 आमेतः
+[REF:ashtadhyayi 3.4.90], 3.4.91 सवाभ्यां वामौ [REF:ashtadhyayi 3.4.91], 3.4.93 एत ऐ
+[REF:ashtadhyayi 3.4.93] (the second family's -ताम्, -न्ताम्, -स्व, -ध्वम्, -ऐ, -वहै, -महै);
+3.4.99 नित्यं ङितः [REF:ashtadhyayi 3.4.99] (-वस्, -मस् → -व, -म) and 3.4.101
+तस्थस्थमिपां तांतंतामः [REF:ashtadhyayi 3.4.101] (the -ताम्, -तम्, -त, -अम्); 3.3.162 लोट् च
+[REF:ashtadhyayi 3.3.162]. For the optative: 3.3.161
+विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् [REF:ashtadhyayi 3.3.161] (its uses),
+3.4.102–103 [REF:ashtadhyayi 3.4.102] [REF:ashtadhyayi 3.4.103], 7.2.80 अतो येयः
+[REF:ashtadhyayi 7.2.80] (the -ए-), 3.4.108 झेर्जुस् [REF:ashtadhyayi 3.4.108] (-युः). The Kāśikā on 3.4.85 limits the atideśa to
 the tām-type endings and the loss of s (pacatām, pacatam, pacata, pacāva, pacāma) and does not
 give the imperative the augment; on 3.4.86 it gives pacatu, pacantu. That is why the learner
 line names only those cells.
 
 **Prohibition, the honest line.** The older construction is मा + an augmentless aorist (मा
 भैषीः "don't be afraid", मा शुचः "don't grieve", Whitney §579), and with स्म, मा स्म + the
-augmentless imperfect (3.3.175 माङि लुङ्, 3.3.176 स्मोत्तरे लङ् च, 6.4.74 न माङ्योगे). The
+augmentless imperfect (3.3.175 माङि लुङ् [REF:ashtadhyayi 3.3.175], 3.3.176 स्मोत्तरे लङ् च
+[REF:ashtadhyayi 3.3.176], 6.4.74 न माङ्योगे [REF:ashtadhyayi 6.4.74]). The
 tradition is stricter than epic and later usage: the Kāśikā on 3.3.175 calls मा + imperative
 (मा भवतु तस्य पापम्) not correct, while noting that some hold another view [REF:kashika 3.3.175]. Whitney (§579c)
 records the construction as "an ordinary form of prohibition" in the epics and later, with

@@ -23,7 +23,7 @@ objectives:
   - en: "Tell a short story in the past with ह्यः, पुरा, एकदा or अथ, quoting speech with the chunks उवाच, अब्रवीत् and आह (नृपः उवाच — '…'), and read the R4 whole words (अशृणोत्, अगृह्णात्, अददात्, अस्वपत्)."
     hi: "ह्यः, पुरा, एकदा या अथ के साथ भूतकाल में एक छोटी कथा कहें, उवाच, अब्रवीत् और आह से किसी की बात उद्धृत करें (नृपः उवाच — '…'), और R4 के पूरे शब्द (अशृणोत्, अगृह्णात्, अददात्, अस्वपत्) पढ़ें।"
   - en: "State the Hindi contrast exactly: the Hindi perfective of a transitive verb takes ने and agrees with the thing done (मैंने फल खाया), while the Sanskrit imperfect keeps its doer in the nominative and agrees with it (अहम् फलम् अखादम्); मया कृतम् (R2) is the frame that looks like Hindi's."
-    hi: "हिन्दी से अन्तर ठीक बताएँ: सकर्मक क्रिया का हिन्दी पूर्ण भूत ने लेता है और कर्म से मेल खाता है (मैंने फल खाया), जबकि संस्कृत लङ् कर्ता को प्रथमा में रखता है और उसी से मेल खाता है (अहम् फलम् अखादम्); हिन्दी जैसा ढाँचा मया कृतम् (R2) है।"
+    hi: "हिन्दी से अन्तर ठीक बताएँ: सकर्मक क्रिया का हिन्दी सामान्य भूत ने लेता है और कर्म से मेल खाता है (मैंने फल खाया), जबकि संस्कृत लङ् कर्ता को प्रथमा में रखता है और उसी से मेल खाता है (अहम् फलम् अखादम्); हिन्दी जैसा ढाँचा मया कृतम् (R2) है।"
 new_letters: []
 new_matras: []
 vocabulary_count: 9
@@ -65,7 +65,7 @@ be told as stories are told: पुरा … "long ago …".
 | 1 | From owned आसीत् and ह्यः, assemble the imperfect (T7) of गच्छति, and produce the singular and plural in all persons and the 3rd-person dual of any regular verb you own (अगच्छम्, अगच्छः, अगच्छत्, अगच्छताम्, अगच्छाम, अगच्छत, अगच्छन्), telling अगच्छत 'you all went' from अगच्छत् 'he went' by the virāma. | अपने जाने-पहचाने आसीत् और ह्यः से गच्छति का लङ् (T7) जोड़ें, और अपनी हर नियमित क्रिया के सभी पुरुषों के एकवचन और बहुवचन तथा प्रथम पुरुष द्विवचन बनाएँ (अगच्छम्, अगच्छः, अगच्छत्, अगच्छताम्, अगच्छाम, अगच्छत, अगच्छन्), और हलन्त के चिह्न से अगच्छत 'तुम सब गए' और अगच्छत् 'वह गया' में अन्तर करें। |
 | 2 | Put the augment after the prefix in the six prefixed verbs you own (आगच्छत्, अवागच्छत्, न्यवसत्, प्राविशत्, उपाविशत्, निरगच्छत्), and use ऐच्छत्, आसीत्, आसन्, आसम्, अकरोत्, अकुर्वन् and अलभत as whole listed cells. | अपनी छह उपसर्ग वाली क्रियाओं में आगम (अ-) उपसर्ग के बाद रखें (आगच्छत्, अवागच्छत्, न्यवसत्, प्राविशत्, उपाविशत्, निरगच्छत्), और ऐच्छत्, आसीत्, आसन्, आसम्, अकरोत्, अकुर्वन् तथा अलभत को सूची के पूरे रूपों की तरह बरतें। |
 | 3 | Tell a short story in the past with ह्यः, पुरा, एकदा or अथ, quoting speech with the chunks उवाच, अब्रवीत् and आह (नृपः उवाच — '…'), and read the R4 whole words (अशृणोत्, अगृह्णात्, अददात्, अस्वपत्). | ह्यः, पुरा, एकदा या अथ के साथ भूतकाल में एक छोटी कथा कहें, उवाच, अब्रवीत् और आह से किसी की बात उद्धृत करें (नृपः उवाच — '…'), और R4 के पूरे शब्द (अशृणोत्, अगृह्णात्, अददात्, अस्वपत्) पढ़ें। |
-| 4 | State the Hindi contrast exactly: the Hindi perfective of a transitive verb takes ने and agrees with the thing done (मैंने फल खाया), while the Sanskrit imperfect keeps its doer in the nominative and agrees with it (अहम् फलम् अखादम्); मया कृतम् (R2) is the frame that looks like Hindi's. | हिन्दी से अन्तर ठीक बताएँ: सकर्मक क्रिया का हिन्दी पूर्ण भूत ने लेता है और कर्म से मेल खाता है (मैंने फल खाया), जबकि संस्कृत लङ् कर्ता को प्रथमा में रखता है और उसी से मेल खाता है (अहम् फलम् अखादम्); हिन्दी जैसा ढाँचा मया कृतम् (R2) है। |
+| 4 | State the Hindi contrast exactly: the Hindi perfective of a transitive verb takes ने and agrees with the thing done (मैंने फल खाया), while the Sanskrit imperfect keeps its doer in the nominative and agrees with it (अहम् फलम् अखादम्); मया कृतम् (R2) is the frame that looks like Hindi's. | हिन्दी से अन्तर ठीक बताएँ: सकर्मक क्रिया का हिन्दी सामान्य भूत ने लेता है और कर्म से मेल खाता है (मैंने फल खाया), जबकि संस्कृत लङ् कर्ता को प्रथमा में रखता है और उसी से मेल खाता है (अहम् फलम् अखादम्); हिन्दी जैसा ढाँचा मया कृतम् (R2) है। |
 
 Objective 1 is built in §8 Steps 1–5 and §15 Steps 1–2 and tested in §18 (exercises 1, 2,
 6, 7) and §19 (Q1, Q2); objective 2 in §8 Step 5 and §15 Steps 3–5, §18 (exercises 3, 4)
@@ -273,10 +273,10 @@ ledger words.
 अकुर्वन् ("उन्होंने किया"), और लभते का अलभत ("पाया, उसे मिला") — ये सूची के पूरे रूप हैं।
 
 कथा में किसी की बात उद्धृत करने के लिए तीन पूरे शब्द हैं: उवाच, अब्रवीत् और आह — तीनों
-का अर्थ "(उसने) कहा"। आह कथा में "कहा" भी है और "कहता है" भी। ये केवल प्रथम पुरुष एकवचन
-में चलते हैं: नृपः उवाच — "…" ("राजा ने कहा — '…'")। "मैंने कहा" के लिए अहम् अवदम् कहिए।
+का अर्थ "(उसने) कहा"। आह कथा में "कहा" भी है और "कहता है" भी। इस पाठ में ये केवल प्रथम पुरुष एकवचन
+में आते हैं (इनके बाकी रूप चौथे खण्ड में): नृपः उवाच — "…" ("राजा ने कहा — '…'")। "मैंने कहा" के लिए अहम् अवदम् कहिए।
 
-अब हिन्दी से एक ज़रूरी अन्तर। हिन्दी में सकर्मक क्रिया के पूर्ण भूत में कर्ता के साथ ने
+अब हिन्दी से एक ज़रूरी अन्तर। हिन्दी में सकर्मक क्रिया के सामान्य भूत में कर्ता के साथ ने
 लगता है, और क्रिया कर्म से मेल खाती है: "मैंने फल खाया", "लड़के ने किताब पढ़ी" (पढ़ी —
 किताब स्त्रीलिंग है इसलिए)। संस्कृत लङ् में ऐसा कुछ नहीं: कर्ता प्रथमा में ही रहता है और
 क्रिया कर्ता से मेल खाती है — अहम् फलम् अखादम्, बालकः पुस्तकम् अपठत्। इसलिए \*मया फलम्
@@ -317,7 +317,7 @@ each form tells you; then uncover and compare.
 | owned form | where owned | what it shows |
 |---|---|---|
 | आसीत् "there was" — a display, with the line "the past tense waits for Volumes 3–4" | v2.c06.l01 §4 | the past of अस्ति, with an आ- in front |
-| ह्यः "yesterday" — and "never back to ह्यः" with the present | v2.c03.l03; v2.c05.l01 §15 | a time word waiting for a tense |
+| ह्यः "yesterday" — and "never back to ह्यः" with the present | v2.c03.l03; v2.c05.l01 §15, §22 | a time word waiting for a tense |
 | एकदा "one day" | v2.c06.l02 | a story opener |
 | आगच्छति = आ + गच्छति; अवगच्छति = अव + गच्छति | v2.c05.l01; v2.c05.l02 | a prefix in front of the verb |
 | निवसति = नि + वसति; वसामि "I dwell" | v3.c01.l02; v1.c05.l01 | a prefix; the plain verb |
@@ -502,7 +502,7 @@ the mouth open for -अ.
    word for word into Sanskrit. *Fix:* the imperfect's doer is nominative — अहम् फलम्
    अखादम्; सः ग्रामम् अगच्छत्. मया कृतम् is a different frame (R2), not the imperfect.
 6. **The chunks conjugated: \*अहम् उवाचम्, \*अब्रवीमि for "I said".** उवाच and अब्रवीत् taken
-   for ordinary verbs. *Fix:* the chunks are 3rd person singular only; "I said" is अहम्
+   for ordinary verbs. *Fix:* the chunks are taught in the 3rd person singular only; "I said" is अहम्
    अवदम्, the imperfect of वदति.
 
 ## 13. Examples
@@ -601,7 +601,7 @@ regular verb), the three listed cells of अस् (आसम् आसीत्
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| प्रविशति | praviśati | /pɾɐʋiɕɐt̪i/ | enters | प्रवेश करता है, भीतर जाता है | ledger-new — verb, P., prefixed (प्र + विश-), its own lemma (ledger rule 9); imperfect प्राविशत्, the augment after the prefix; Hit 0.36's प्रविशन्ति is its 3pl — MW s.v. pra-√viś "to enter, go into (acc. or loc.)"; Apte s.v. विश् "c6 P. To enter" |
+| प्रविशति | praviśati | /pɾɐʋiɕɐt̪i/ | enters | प्रवेश करता है, भीतर जाता है | ledger-new — verb, P., prefixed (प्र + विश-), its own lemma (ledger rule 9); imperfect प्राविशत्, the augment after the prefix; Hit 0.36's प्रविशन्ति is its 3pl — MW s.v. pra-√viś "to enter, go into, resort to (acc. or loc.)"; Apte s.v. विश् "c6 P. To enter" |
 | उपविशति | upaviśati | /upɐʋiɕɐt̪i/ | sits down | बैठता है | ledger-new — verb, P., prefixed (उप + विश-); imperfect उपाविशत् — MW s.v. upa-√viś "to sit down, take a seat … Hit."; the Hitopadeśa's *tatropaviṣṭāḥ* |
 | निर्गच्छति | nirgacchati | /n̪iɾgɐt͡ɕt͡ɕʰɐt̪i/ | goes out | बाहर निकलता है | ledger-new — verb, P., prefixed (निर् + गच्छ-); imperfect निरगच्छत्; "from" in the ablative (गृहात्) — MW s.v. nir-√gam "to go out, come forth … depart from (abl.)" |
 | अब्रवीत् | abravīt | /ɐbɾɐʋiːt̪/ | (he/she) said | (उसने) कहा, बोला | ledger-new (chunk, ledger rule 8) — the imperfect 3sg of √ब्रू (class 2; its system is v4.c03), used whole, 3sg only; its 3pl अब्रुवन् is an R4 word — Whitney §632; Apte s.v. ब्रू "c2 U."; Hit l. 474 *abravīt* |
@@ -744,8 +744,9 @@ nominative, the chunk, a dash, the words in quotation marks:
 - मूषकः अब्रवीत् — "अहम् तव मित्रम्।" "The mouse said: 'I am your friend.'"
 - गुरुः आह — "वयम् विद्यालयम् गच्छामः।" "The teacher says: 'We are going to school.'"
 
-The chunks are 3rd person singular only. For "I said", "they said" use the imperfect of
-वदति: अहम् अवदम्, ते अवदन्. आह in a story can be Englished "says" or "said"; the Hitopadeśa
+The chunks are taught in the 3rd person singular only; their other cells wait for Volume 4,
+except the read-only R4 word अब्रुवन् (Step 7). For "I said", "they said" use the imperfect
+of वदति: अहम् अवदम्, ते अवदन्. आह in a story can be Englished "says" or "said"; the Hitopadeśa
 uses it in narration beside उवाच and अब्रवीत् (§4).
 
 ### Step 7 — the R4 card, imperfect: whole words
@@ -793,8 +794,8 @@ No other cells of these verbs: no \*अशृणोम, no \*अददाम. Th
 Display only.
 
 **एकः "a certain".** Later Sanskrit uses एकः almost as "a, a certain" (Whitney cites the
-Hitopadeśa: एकः व्याघ्रः "a certain tiger"); the classical word for "a certain" is कश्चित्,
-in v3.c05.l02. [REF:whitney1889 §482] Preview only: व्याघ्रः "tiger" and कश्चित् are not your
+Hitopadeśa: एकः व्याघ्रः "a certain tiger"); the indefinite word for "a certain", कश्चित्,
+is v3.c05.l02's. [REF:whitney1889 §482c] Preview only: व्याघ्रः "tiger" and कश्चित् are not your
 words today.
 
 ### Promises kept
@@ -1022,7 +1023,7 @@ its transcript.
    mistake 2; (d) has the wrong vowel.)
 5. (b) — the 3rd plural of अस्, a listed cell (§15 Step 3). ((a) is singular; (c) is the
    present "are"; (d) is "I was".)
-6. (b) — the chunk, "he said", 3rd singular only (§15 Step 6). ((a) is the present value of आह,
+6. (b) — the chunk, "he said", taught in the 3rd singular only (§15 Step 6). ((a) is the present value of आह,
    not of उवाच; (c) "they said" is ते अवदन्, or the R4 word अब्रुवन्; (d) is a command.)
 7. (b) — आ + अगच्छत् → आगच्छत्: the augment after the prefix, the two vowels one long आ (§8
    Step 5, §15 Step 5). ((a) is §12's mistake 1; (c) and (d) put no augment where it stands.)
@@ -1082,7 +1083,7 @@ each; 6/8 passes. **§9 dictation:** the text printed in §9 Drill 4 is the key.
 > whole; आसीत् is अस्ति's. **The listed cells:** आसम् आसीत् आसन् · अकरोत् अकुर्वन् · अलभत.
 > **The chunks:** X-ः उवाच / अब्रवीत् / आह — "…"। (3rd sg. only). **R4, read whole:** अशृणोत्,
 > अगृह्णात्, अददात्, अस्वपत् … **The future** (गमिष्यति) is real Sanskrit and Volume 4's.
-> **Hindi (c):** मैंने फल खाया — अहम् फलम् अखादम्: no ने, the doer nominative; मया कृतम् (R2)
+> **Hindi:** मैंने फल खाया — अहम् फलम् अखादम्: no ने, the doer nominative; मया कृतम् (R2)
 > is the Hindi-like frame. **The ledger:** eight new — 432; cells drilled: 13.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
@@ -1094,12 +1095,13 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 गृहकार्यम् — about 40 minutes total.
 
-1. **(25 min)** Finish the §18 exercises not done in class — exercises 1, 2, 4, 5 and 6 —
-   and check them, with exercise 3 from class, against §19's key. Then take §9 Drill 4 (the
-   dictation) from the audio and check it against the text printed there.
-2. **(10 min, recorded)** Exercise 7 at home: record your "Yesterday", play it back once,
+1. **(5 min)** The §19 quiz, from memory, then checked against its key. Every wrong answer
+   sends you to the § named beside it in the key.
+2. **(20 min)** Finish the §18 exercises not done in class — exercises 1, 2, 4, 5 and 6 —
+   and check them, with exercise 3 from class, against §19's key.
+3. **(10 min, recorded)** Exercise 7 at home: record your "Yesterday", play it back once,
    and write the transcript. Ring every virāma you wrote; check each against §15 Step 2.
-3. **(5 min, real world)** Tomorrow morning, tell someone at home what you did yesterday in
+4. **(5 min, real world)** Tomorrow morning, tell someone at home what you did yesterday in
    three Sanskrit sentences, each beginning with ह्यः — the imperfect is the past not of
    today. If they do not speak Sanskrit, give them the Hindi after each sentence.
 
@@ -1117,8 +1119,9 @@ the lesson.
 question (3) → evidence: आसीत्, ह्यः, आगच्छति (4) → the pattern named: augment + short endings
 (5) → T7 assembled from the present, the listed cells (7) → the augment gate, six prefixed
 verbs, ऐच्छत् (6) → §9 virāma pairs and dictation (4) → production: exercise 3 and a round of
-exercise 7 aloud (5) → story, bookings, homework (3). Exercises 1, 2, 4, 5 and 6 and the
-recorded exercise 7 are homework (§21); exercise 3 is checked at home against the key.
+exercise 7 aloud (5) → story, bookings, homework (3). The §19 quiz, exercises 1, 2, 4, 5 and
+6 and the recorded exercise 7 are homework (§21); exercise 3 is checked at home against the
+key.
 
 **Board work:** on the left, the present and the imperfect of गच्छति side by side (§8 Step
 4), the augment in a second colour and each shortened ending boxed. In the middle, the
@@ -1148,7 +1151,7 @@ the 2nd and 3rd singular imperfect [REF:whitney1889 §631]. Print अस्व�
 **What not to teach.** The storyteller's present with स्म is c06.l03's (G4): say nothing
 about it to learners, and do not mark a present in a story wrong if a learner writes one —
 redirect to the imperfect. The 1.x "future" of गच्छ is real Sanskrit, गमिष्यति, an s-future
-(Whitney §§931–935: Pass C re-opens the locator before it prints); one line in §15 Step 9,
+(Whitney §§931–935); one line in §15 Step 9,
 nothing more. The perfect and the aorist as systems, and the class system behind R4, are
 v4.c03's.
 

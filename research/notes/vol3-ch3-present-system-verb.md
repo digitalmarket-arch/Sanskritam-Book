@@ -753,7 +753,7 @@ today it is a cell of अस्.
 4. en "State the Hindi contrast exactly: the Hindi perfective of a transitive verb takes ने
    and agrees with the thing done (मैंने फल खाया), while the Sanskrit imperfect keeps its doer in
    the nominative and agrees with it (अहम् फलम् अखादम्); मया कृतम् (R2) is the frame that looks
-   like Hindi's." · hi "हिन्दी से अन्तर ठीक बताएँ: सकर्मक क्रिया का हिन्दी पूर्ण भूत ने लेता है
+   like Hindi's." · hi "हिन्दी से अन्तर ठीक बताएँ: सकर्मक क्रिया का हिन्दी सामान्य भूत ने लेता है
    और कर्म से मेल खाता है (मैंने फल खाया), जबकि संस्कृत लङ् कर्ता को प्रथमा में रखता है और उसी
    से मेल खाता है (अहम् फलम् अखादम्); हिन्दी जैसा ढाँचा मया कृतम् (R2) है।"
 
