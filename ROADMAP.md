@@ -62,6 +62,11 @@ Sequencing fix vs 1.x: sandhi is taught **before** connected reading, and conjug
 real practice chapters before any lakāra survey. Kāraka is introduced functionally here;
 its Pāṇinian theory waits for Volume 4.
 
+**Planned 2026-11-10:** `research/notes/vol3-plan.md` fixes every lesson's grammar point,
+forms, headwords and ledger figure (30 lessons; 148 ledger-new words, 360 → 508; chapter
+exits 387 · 411 · 439 · 460 · 488 · 508), the Chapter 6 texts with a status for every
+word-form, and what is left to Volume 4. Volume frame: `curriculum/volume-3/volume.md`.
+
 ## Volume 4 — पाणिनीयम् · The Pāṇinian System (B1 → B2)
 
 | Ch | Title | Lessons | Status |
@@ -205,6 +210,14 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   files, then a post-fix verification of every changed file (23 leftovers fixed). GLOSSARY
   gained 30 entries. No lesson added, no ledger figure changed; 61 reviewed lessons,
   validator green, exports current. Next: Volume 3, as above.
+- **2026-11-10** — **Volume 3 planned.** Three independent syllabus designs (function-first,
+  paradigm-economy, reading-backward) were judged by a Sanskritist, a pedagogue and a house
+  editor; all three ranked function-first first, and the plan merges it with the other
+  two's Chapter 6 texts and memory budget. A completeness critique found 24 gaps (8 major);
+  the editor decided the open questions; the repaired plan was then reviewed block by
+  block by seven independent readers with every finding challenged (68 confirmed fixes, 21
+  of them major; 12 rejected). The plan, the volume frame and the lemma-counting rules
+  (STYLE_GUIDE §8, rules 6–15) are in the repository; v3.c01 is next.
 
 ## Content preservation map (from the 1.x curriculum)
 

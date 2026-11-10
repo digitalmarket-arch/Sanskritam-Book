@@ -245,7 +245,57 @@ Front-matter `vocabulary_count` = the number of §14 headword rows the lesson **
 ledger-new rows plus upgrade rows (Volume 1's audio-only ear-words included). Review rows
 and display-only items are excluded; the ledger-new figure is stated in §14's opening line.
 
+**From Volume 3 on the ledger counts lemmas.** Rules 6–15 extend rules 1–5 without changing
+them. The guiding test: a word counts once, when the learner first owns its lemma as a
+headword; nothing a taught pattern builds ever counts again.
+
+6. **Nominal lemma.** A noun counts once, as its nominative singular with gender (मृगः m.,
+   तीरम् n., सभा f.); an adjective once, in the masculine nominative singular with its
+   three-gender citation (मधुरः -रा -रम्); a pronoun once, as its masculine nominative
+   singular (अयम्, यः) or its only form (स्वयम्); a dual-only word as its masculine
+   nominative dual (उभौ).
+7. **Paradigm forms never count**, regular or suppletive. Every cell of a taught table
+   belongs to its lemma: इयम्, इमम्, अनेन to अयम्; मया, अस्माकम् to अहम्; पितरौ to पिता; कम्,
+   केन, कस्मै to the owned कः; त्रयः, तिस्रः to the owned numeral. Cells counted in Volumes
+   1–2 (मम, तव, मह्यम्, तुभ्यम्, तस्य, एतत्) stay counted: the ledger never decreases.
+8. **Verb lemma** (rule 4, unchanged). One entry per verb, as its 3sg present (गच्छति; a
+   middle verb as its 3sg middle, लभते). Every cell of every taught lakāra belongs to the
+   lemma (अगच्छत्, गच्छतु, गच्छेत्, गच्छन्ति). A form taught whole because its system or its
+   stem formation is taught later counts once as its own word: the perfects उवाच and आह,
+   and the imperfect अब्रवीत् of class-2 ब्रू. Chunks counted earlier (वदतु, ददातु, अस्तु,
+   मुञ्च, पश्य, क्षमस्व, मिलामः) stay counted and are not re-counted when they gain a table.
+   A lemma first headworded after its chunk counts once (ददाति beside ददातु). Verbs have
+   no upgrade rows.
+9. **Prefixed verbs** count as their own lemma when headworded (आगच्छति, निवसति,
+   प्रविशति). The upasargas themselves are grammar items, not ledger words. A prefixed
+   form met only in a read text is not ledgered.
+10. **Compounds** count only when headworded because they are lexicalised (नीलकण्ठः,
+    पादपः), never when transparent and built from owned members. A member first met
+    inside a compound counts when it first stands as its own headword (आलयः from
+    विद्यालयः).
+11. **Sandhi spellings never count** (नास्ति, कोऽपि). A word first seen joined counts when
+    it is first a pause-form headword. नमस्ते, counted in v1.c01.l01 before its seam was
+    taught, stays counted.
+12. **Proper names** count only when headworded for the learner's own sentences (the
+    Volume 2 precedent अर्जुनः). Names met only in a read text are gloss-line items
+    (rule 5).
+13. **Recognition-only forms are display** (rule 5) unless headworded: absolutives,
+    participles, passives in -यते, and perfect or future forms other than the chunk
+    headwords.
+14. **Stems outside the taught classes** count once when headworded by their nominative
+    (दिक्, धीमान्, सुहृत्, पक्षी, सखा); their other cells never count.
+15. **Lexicalised indefinites and pairs.** The indefinites in -चित् and the pair इतस्ततः
+    count once when headworded (कश्चित्, कदाचित्, इतस्ततः). Every other -चित् or -अपि form
+    and every unheadworded cell of the correlative grid (कोऽपि, किञ्चित्, सर्वत्र, सर्वदा)
+    is pattern-built and never counts.
+
+In Volume 3 each grammar lesson's §14 adds one line, "cells drilled: n", and its §15 ends
+with the lesson's **paradigm ledger**: ✓ productive (the learner produces every cell),
+◐ recognition (parse when met; produce only the listed cells), ○ labelled preview or
+display.
+
 Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 counts मतिः
 beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
 · 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 · 360 (the first four corrected at
-the 2026-10 deep audit, which removed eight double counts).
+the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned in
+`research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508.

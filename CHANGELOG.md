@@ -4,6 +4,28 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **The Volume 3 plan** (`research/notes/vol3-plan.md`): the binding contract for the six
+  chapter fact bases of Volume 3 — व्याकरणम् · Core Grammar. For each of the 30 lessons
+  it fixes the one grammar point, the forms (every paradigm cell in Devanagari and IAST),
+  the model sentences, the headwords and the ledger figure; for the volume, what becomes
+  allowed when, the eight memorised tables and their delta cards, the recognition cards,
+  the 28 sūtras quoted to the learner, every promise Volumes 1–2 made to Volume 3 with
+  the lesson that keeps it, the Chapter 6 texts (a Hitopadeśa passage, a Pañcatantra story
+  opening, three verses, the unseen exam passage) with a status for every word-form and
+  measured gloss ratios, and what is left to Volume 4. It records how it was made: three
+  independent designs, three judges, a synthesis, a critique (24 gaps), the editor's
+  decisions on 14 open questions, and a block-by-block review of the repaired plan (68
+  confirmed fixes, 12 rejected).
+- `curriculum/volume-3/volume.md`: the Volume 3 frame (draft).
+- STYLE_GUIDE §8, rules 6–15: from Volume 3 on the ledger counts lemmas — one entry per
+  noun, adjective, pronoun or verb; no cell of a taught table ever counts again — and each
+  grammar lesson reports the cells it drills and keeps a paradigm ledger. Planned Volume 3
+  exits: 387 · 411 · 439 · 460 · 488 · 508.
+
 ## [0.12.1] — 2026-11-10
 
 A correction release: an independent error sweep of everything shipped through 0.12.0 —
