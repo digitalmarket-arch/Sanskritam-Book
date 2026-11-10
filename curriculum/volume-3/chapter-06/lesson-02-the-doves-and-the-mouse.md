@@ -113,7 +113,7 @@ and you will see where we told it differently.
   आ + अगच्छत्, the augment after the prefix (v3.c03.l03).
 - **Item 2.** Any retelling in the imperfect. The check list: the hunter and the net (episode
   1); the flock lands and is caught (episode 2); the flight with the net, the mouse frees them
-  (episode 3); the whole tale joined (episode 4, no new event); the names चित्रग्रीवः and
+  (episode 3); the whole tale joined (episode 4, no new event: nothing to tick); the names चित्रग्रीवः and
   हिरण्यकः, the burrow, the mouse's words (episode 5); every verb an imperfect, or one of the
   chunks उवाच, आह, अब्रवीत्; two minutes. One tick a point, /6. Log both items beside the
   earlier scores.
@@ -207,8 +207,8 @@ review helps retention [REF:cepeda2006].
 संस्कृतेन विवरणम् — the lesson in three lines you own, printed joined, its pause form beneath,
 then the gloss:
 
-> अद्य हितोपदेशस्याष्टौ वाक्यानि पठामः। (adya hitopadeśasyāṣṭau vākyāni paṭhāmaḥ.)
-> अद्य हितोपदेशस्य अष्टौ वाक्यानि पठामः। (adya hitopadeśasya aṣṭau vākyāni paṭhāmaḥ.)
+> अद्य हितोपदेशस्याष्ट वाक्यानि पठामः। (adya hitopadeśasyāṣṭa vākyāni paṭhāmaḥ.)
+> अद्य हितोपदेशस्य अष्ट वाक्यानि पठामः। (adya hitopadeśasya aṣṭa vākyāni paṭhāmaḥ.)
 > "Today we read eight sentences of the Hitopadeśa." — आज हम हितोपदेश के आठ वाक्य पढ़ते हैं।
 
 > कपोता मूषकश्च तत्र वदन्ति। (kapotā mūṣakaś ca tatra vadanti.)
@@ -219,10 +219,10 @@ then the gloss:
 > वचनस्य अन्ते इति तिष्ठति। (vacanasya ante iti tiṣṭhati.)
 > "At the end of the words spoken stands इति." — कथन के अन्त में इति खड़ा होता है।
 
-Five seams, all Chapter 4's: हितोपदेशस्य + अष्टौ fuse to आ; कपोताः before म loses its ः;
+Five seams, all Chapter 4's: हितोपदेशस्य + अष्ट fuse to आ; कपोताः before म loses its ः;
 मूषकः + च gives श्च; वचनस्य + अन्ते fuse to आ; and अन्ते before इति becomes अन्त with a gap, the
--ए before a vowel. Every word is owned: वाक्यम् of v3.c04.l04, अष्टौ, the numeral 8, of
-v3.c02.l01, वचनम् of v3.c01.l04, and अन्ते, the locative of अन्त, v1.c05.l02. हितोपदेशः is the
+-ए before a vowel. Every word is owned: वाक्यम् of v3.c04.l04, अष्ट, the numeral 8, of
+v2.c03.l02, वचनम् of v3.c01.l04, and अन्ते, the locative of अन्त, v1.c05.l02. हितोपदेशः is the
 book's name, a gloss-line item.
 
 ## 7. Hindi Explanation
@@ -576,7 +576,7 @@ start of the track).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| सुहृत् | suhṛt | /suɦr̩t̪/ | friend | मित्र, सुहृद् | ledger-new (rule 14) — m., a consonant stem, stem सुहृद्; the nominative and the vocative सुहृत् are yours to produce, its other cells are recognition only (consonant stems, v4.c05); in sentence 4 inside प्रियसुहृत्, joined प्रियसुहृन्मे; MW s.v. suhṛd "a friend, ally"; Apte, the sub-entry -hṛd under सु: "(m.) a friend" — Pass C quotes it |
+| सुहृत् | suhṛt | /suɦr̩t̪/ | friend | मित्र, सुहृद् | ledger-new (rule 14) — m., a consonant stem, stem सुहृद्; the nominative and the vocative सुहृत् are yours to produce, its other cells are recognition only (consonant stems, v4.c05); in sentence 4 inside प्रियसुहृत्, joined प्रियसुहृन्मे; MW s.v. suhṛd "a friend, ally"; Apte, the compound -hṛda under सु: "(m.) 1 a friend … 2 an ally" |
 | बन्धनम् | bandhanam | /bɐn̪d̪ʱɐn̪ɐm/ | a bond, a tie | बन्धन | ledger-new — n., a-stem; Apte s.v. बंधन, sense 3: "A bond, tie"; MW s.v. bandhana; in sentence 8, बन्धनानि "the bonds" |
 | नाना | nānā | /n̪ɑːn̪ɑː/ | various, of many kinds | तरह-तरह के, नाना | ledger-new — indeclinable, used as the first member of compounds; Apte s.v. नाना: "(Used as an adjective at the beginning of comp.) Manifold, various, sundry"; MW s.v. nānā; in sentence 1, नानादिग्देशात् "from lands in every direction" |
 | शाल्मली | śālmalī | /ɕɑːlmɐliː/ | silk-cotton tree | सेमल का पेड़ | ledger-new — f., ī-stem, declined like नदी; Apte s.v. शाल्मली: "The silk-cotton tree"; MW s.v. śālmalī; in sentence 1, शाल्मलीतरुः |
@@ -594,7 +594,7 @@ Review words in their sentences, no rows: उवाच, आह, अब्रव�
 imperfect of §13; इति; सखा and सखे, मे, अस्मान् [v3.c05.l01]; मा, कुरु, शीघ्रम् [v3.c03.l04];
 कदाचित्, कश्चित्, कः, किम्, एतत्, तेन, सर्वेषाम् [v3.c05.l02]; एवम् [v3.c05.l03]; अल्पशक्तिः,
 चित्रवनम् as compounds of owned members [v3.c05.l04]; सिंहः, मूषकः, जालम्, व्याधः, दन्तः, लघुः,
-मित्रम्, कपोतः, विशालः, तरुः, रात्रिः, पक्षी, कोमलः, वचनम्, वाक्यम्, अष्टौ; the names सीता and
+मित्रम्, कपोतः, विशालः, तरुः, रात्रिः, पक्षी, कोमलः, वचनम्, वाक्यम्, अष्ट; the names सीता and
 अर्जुनः of §16.
 
 Display-only items, with their labels: करिष्यामि "I will do", the future (v4.c03), glossed in §13;
@@ -931,8 +931,8 @@ Answer in Sanskrit, one word or a phrase, from §17.
 3\. हिरण्यकः कुत्र निवसति? (hiraṇyakaḥ kutra nivasati?)
    हिरण्यकः कुत्र निवसति? (hiraṇyakaḥ kutra nivasati?)
 
-4\. हिरण्यकस्य दन्ताः कोमला वा? (hiraṇyakasya dantāḥ komalā vā?)
-   हिरण्यकस्य दन्ताः कोमलाः वा? (hiraṇyakasya dantāḥ komalāḥ vā?)
+4\. अपि हिरण्यकस्य दन्ताः कोमलाः? (api hiraṇyakasya dantāḥ komalāḥ?)
+   अपि हिरण्यकस्य दन्ताः कोमलाः? (api hiraṇyakasya dantāḥ komalāḥ?)
 
 5\. को बन्धनान्यकृन्तत्? (ko bandhanāny akṛntat?)
    कः बन्धनानि अकृन्तत्? (kaḥ bandhanāni akṛntat?)
@@ -1023,7 +1023,7 @@ no pause at a seam, a breath at every dash and at every closing quotation mark, 
    (b) इति · (c) the avagraha
 2. In "…करिष्यामि" इति, the course does not join करिष्यामि and इति because — (a) इ + इ never
    join (b) there is no sandhi across the closing quotation mark (c) इति is a pause word
-3. In the quotation "अहमपि तव साहाय्यं करिष्यामि", अहम् refers to — (a) the mouse (b) the lion
+3. In the quotation "अहमपि कदाचित्तव साहाय्यं करिष्यामि", अहम् refers to — (a) the mouse (b) the lion
    (c) the narrator
 4. साहाय्यं करोति takes the helped person in the — (a) accusative, त्वाम् · (b) locative ·
    (c) genitive, तव
@@ -1184,8 +1184,8 @@ for lessons 3 and 4.
 with the e-text line (`hitop_u.htm`), compiled from the fact bases of Chapters 1, 2, 3 and 5 and
 re-checked against the e-text. §17 prints the same list for the learner without line numbers.
 These are the departures that the Teacher Notes of the serial's lessons put "on the record for
-v3.c06.l02" (a grep finds the phrase in v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01–l03 and
-v3.c05.l04; v3.c05.l05 says "stand on the record").
+v3.c06.l02" (a grep finds the phrase in v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01–l03,
+v3.c05.l02 and v3.c05.l04; v3.c05.l05 says "stand on the record").
 
 | # | Episode | Our retelling | The text |
 |---|---|---|---|
@@ -1221,7 +1221,11 @@ is not printed.
 
 **The e-text corrections.** One normalisation only: the e-text's hyphen after a verb of saying
 (*so 'bravīt-asti*, *uvāca-sakhe*, *āha-aham*) is printed as the dash of a speech frame, in the
-Devanagari and in the IAST. Nothing else in H1–H8 is changed. No printed edition was opened for
+Devanagari and in the IAST. Nothing else in H1–H8 is changed. One seam stands as the e-text
+writes it: H8's *bandhanāni chinnāni*, where full sandhi doubles छ after a short vowel
+(बन्धनानि च्छिन्नानि; 6.1.73 छे च [REF:ashtadhyayi 6.1.73]; Whitney notes that "the manuscripts in
+general write simple ch" [REF:whitney1889 §227]). §8's line that editions vary covers it for the
+learner, and no course-written joined line puts a word in छ- after a short vowel. No printed edition was opened for
 this passage; the source line is "text of the GRETIL e-text" and nothing more.
 
 **Numbering.** Verse numbers of the Hitopadeśa differ between the GRETIL e-text and at least one
@@ -1233,9 +1237,11 @@ numbering it is 1.71. Today's loci ("prose after verse 38") are the e-text's.
 4.143 (`hitop_u.htm` l. 4010, 4017–4018) and the colophon of Book 3 (l. 3244–3245). These are
 closing verses of the e-text; whether every printed edition has them was not checked. The date
 clause (800–950 CE, the estimate printed with Törzsök's translation) and the manuscript (Cambridge
-University Library MS Add. 2564, 1373 CE) are search-confirmed; the pages were not opened. Twelve
-shipped Volume 3 lessons date the Hitopadeśa "on the usual scholarly estimate, to roughly the
-9th–12th centuries CE"; that stays true — both figures lie inside the span. Do not add a claim
+University Library MS Add. 2564, 1373 CE) are search-confirmed; the pages were not opened. Fourteen
+shipped Volume 3 lessons (v3.c01.l02–l05, v3.c02.l01–l05, v3.c03.l03–l05, v3.c05.l04–l05) date the
+Hitopadeśa in their HISTORY callouts to the 9th–12th centuries CE on the scholarly estimate (the
+wording varies); that stays true: the 800–950 CE estimate lies inside the span, and the 1373 CE
+manuscript dates a copy, not the composition. Do not add a claim
 about which book, the Hitopadeśa or the Pañcatantra, tells the story first.
 
 **The ◐ seams.** तन्मे — तत् + मे — and प्रियसुहृन्मे — °सुहृत् + मे — a stop before a nasal, are
@@ -1431,10 +1437,10 @@ reads the cue, not the English spelling.
   sāhāyya, `mbh_01_u.htm` l. 18019 and `vispancu.htm` l. 2041; the labels' Whitney §1111;
   the headwords against Apte and MW as §14 cites them (Apte s.v. बंधन sense 3, नाना, शाल्मली quoted
   at drafting; the सुहृत् sub-entry under सु located at drafting, "-hṛd … (m.) 1 a friend", to be
-  quoted by Pass C). **One flag for the editor:** H8 prints *bandhanāni chinnāni*; by 6.1.73 छे च a
+  quoted by Pass C). **Settled:** H8 prints *bandhanāni chinnāni*; by 6.1.73 छे च a
   short final vowel before छ doubles it in full sandhi (बन्धनानि च्छिन्नानि), so the e-text leaves
-  this seam unjoined, like महान् जम्बूपादपः; the fact base lists no "editions vary" note for it, and
-  none is printed. For the same reason exercise 2 asks its questions 5 and 6 with अकृन्तत्, and no
+  this seam unjoined, like महान् जम्बूपादपः; §22 says so in one line with the sūtra number, and
+  §8's sentence that editions vary covers it for the learner. For the same reason exercise 2 asks its questions 5 and 6 with अकृन्तत्, and no
   course-written line puts छिन्नानि after a vowel.
 - **Register audit:** FACT ×4 (§5 quotation marking, the mosaic, chunks · §8 the speech frame) ·
   HISTORY ×1 (§4, the Hitopadeśa) · TRADITION ×1 (§4, Viṣṇuśarman) · SYMBOL ×0. The printing rule,

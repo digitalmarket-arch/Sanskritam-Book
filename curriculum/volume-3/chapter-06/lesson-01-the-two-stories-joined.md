@@ -53,8 +53,8 @@ updated: 2026-11-10
 
 Write two lines on the board, one above the other. Top: एकः काकः अस्ति। सः पिपासितः अस्ति। —
 the crow story as Volume 2 printed it, every word in its pause form. Bottom: एकः काकोऽस्ति। स
-पिपासितोऽस्ति। — the same two sentences as a book prints them. Same words; and said at speed,
-the same sounds. Today you read both Volume 2 stories the book's way, straight through, with no
+पिपासितोऽस्ति। — the same two sentences as a book prints them. Same words; the bottom
+line is how they sound said together. Today you read both Volume 2 stories the book's way, straight through, with no
 stop at a seam. Then you read a crow you have not met: the 1.x book's crow, told in the past,
 with the harder words Volume 2 put aside — and every one of them is now yours.
 
@@ -170,8 +170,8 @@ history. What it has is course history, told plainly.
 
 The 1.x course printed two graded readers, a crow and a lion and mouse (1.x book, pp. 64–65).
 Volume 2 retold both in pause form, in v2.c06.l01 and v2.c06.l02, and changed the 1.x wording
-only where it needed a form not yet taught — or, in the lion, where a 1.x choice was not
-idiomatic. The crow that Volume 2 printed is today's Text A1; the lion is Text A2. Both are
+where it needed a form not yet taught, where a clearer word was wanted (पिपासितः for
+तृष्णार्तः), or, in the lion, where a 1.x choice was not idiomatic. The crow that Volume 2 printed is today's Text A1; the lion is Text A2. Both are
 reprinted unchanged, only joined.
 
 Text B1, in §17, goes back to the 1.x crow. It puts back the 1.x details that Volume 2 set
@@ -263,14 +263,14 @@ voice does not stop.
 कहानियाँ आपकी जानी-पहचानी हैं: प्यासा कौआ और शेर-चूहा। खण्ड 2 ने इन्हें विराम-रूप में छापा था;
 आज वही पाठ, बिना एक शब्द बदले, जुड़कर छपा है। फिर एक नई कहानी — वही कौआ, पर भूतकाल में, और
 1.x पुस्तक के मूल शब्दों के साथ। 1.x पुस्तक ने प्यासे कौए के लिए तृष्णार्तः लिखा था। खण्ड 2 ने
-उसकी जगह पिपासितः रखा, क्योंकि तृष्णार्तः एक समास है और समास तब तक सिखाए नहीं गए थे। आज यह
+उसकी जगह पिपासितः रखा, क्योंकि तृष्णा का अर्थ "लालसा" भी है, जबकि पिपासितः का अर्थ केवल "प्यासा" है। आज यह
 शब्द आपका है: तृष्णा "प्यास" और आर्तः "पीड़ित" — तृष्णया आर्तः, "प्यास से पीड़ित", तृतीया
 तत्पुरुष, बिल्कुल पाशबद्धाः = पाशैः बद्धाः की तरह। 1.x के कंकड़ बहुवचन में थे — पाषाणान्; और उसकी
 सीख थी बुद्धिः बलात् श्रेष्ठा, "बुद्धि बल से श्रेष्ठ है", जिसमें बलात् पञ्चमी है और "से" (तुलना)
-का काम करती है। इनमें से कोई भी ग़लत नहीं था; खण्ड 2 ने इन्हें केवल इसलिए हटाया कि ये रूप तब
-तक पढ़ाए नहीं गए थे।
+का काम करती है। इनमें से कोई भी ग़लत नहीं था; बहुवचन और सीख को खण्ड 2 ने इसलिए हटाया कि ये रूप तब
+तक पढ़ाए नहीं गए थे, और तृष्णार्तः को इसलिए कि पिपासितः का अर्थ अधिक स्पष्ट है।
 
-अब एक नया पत्ता, केवल पहचान के लिए — पूर्वकालिक कृदन्त।
+अब एक नया पत्र, केवल पहचान के लिए — पूर्वकालिक कृदन्त।
 अगले पाठों में हितोपदेश और पञ्चतन्त्र के वाक्यों में ऐसे रूप मिलेंगे: उक्त्वा "कहकर", गत्वा
 "जाकर", आगत्य "आकर"। हिन्दी बोलने वाले के लिए यह बात जानी-पहचानी है:
 
@@ -285,11 +285,11 @@ voice does not stop.
 दूसरा: हिन्दी का रूप उसी धातु-रूप पर बनता है जो आप बोलते हैं — देख से देखकर; संस्कृत में धातु
 का रूप बदल सकता है — पश्यति से दृष्ट्वा, गच्छति से गत्वा। उक्त्वा "कहकर" का परिवार उवाच और
 उक्तम् है, वदति नहीं। इसीलिए यह पुस्तक इन्हें अभी पूरे शब्द की तरह पढ़ती है; इन्हें बनाना चौथे
-खण्ड के पाठ v4.c04 में आएगा। तीसरा: आप इन्हें पढ़ेंगे, लिखेंगे नहीं — कोई अभ्यास, कोई प्रश्न इनका रूप नहीं
+खण्ड के अध्याय v4.c04 में आएगा। तीसरा: आप इन्हें पढ़ेंगे, लिखेंगे नहीं — कोई अभ्यास, कोई प्रश्न इनका रूप नहीं
 माँगता, और कोई अंक इन पर नहीं।
 
 अन्त में मंगल-श्लोक। सर्वे भवन्तु सुखिनः — पहले खण्ड से आप इसे बोलते आए हैं। आज इसका हर शब्द
-खुल गया: कुछ पढ़ाए गए, कुछ किसी पत्ते से पहचाने गए, और दो टुकड़ों — आमयः और -भाक् — का अर्थ
+खुल गया: कुछ पढ़ाए गए, कुछ किसी पत्र से पहचाने गए, और दो टुकड़ों — आमयः और -भाक् — का अर्थ
 दिया गया।
 
 ## 8. English Explanation
@@ -351,8 +351,9 @@ then at speed. Three things in it are new to this text, and all three are yours:
 **Which 1.x details were never wrong.** v2.c06.l01 §4 already said it of तृष्णार्तः: "not wrong
 either". Today you can check the other two yourself. The plural पाषाणान् is a regular a-stem
 cell, and the moral is grammatical Sanskrit: श्रेष्ठः takes the ablative for "than", and v3.c02.l03 already taught
-the moral in pause form. Volume 2 changed these three only because they needed
-forms you did not yet own. The one thing in the 1.x crow that was not a form of Sanskrit at all
+the moral in pause form. Volume 2 changed the plural and the moral because they needed
+forms you did not yet own, and तृष्णार्तः because पिपासितः means "thirsty" and nothing else
+(v2.c06.l01 §4). The one thing in the 1.x crow that was not a form of Sanskrit at all
 is its spacing, which §22 shows.
 
 ### The R5 card — read it for the texts of the next lessons
@@ -403,7 +404,7 @@ target under 75 seconds. A run counts only with every अ sounded and every fina
 Log both times; compare with your Station 0 recording.
 
 **Drill 6 — the past crow.** Text B1 at the three speeds, audio:
-`planned:assets/audio/volume-3/v3c06l01-past-crow.mp3`. Its longest block, line 1's
+`planned:assets/audio/volume-3/v3c06l01-past-crow.mp3`. Line 1's block,
 कश्चित्काकस्तृष्णार्त, runs without a break; then a hiatus before आसीत् [§10, §11].
 
 ## 10. IPA
@@ -442,7 +443,7 @@ closes at the teeth, and the back of the tongue releases the [k]. No [ɐ] slips 
 \*kaścitakāka-.
 
 **Narrow note — every अ sounded.** However long the block, every short अ keeps its beat:
-जलमुपर्यागच्छति has [ɐ] in जल-, in -म-, in -प-, in -ग-, in -च्छ-: never \*jalmupryāgacchti.
+जलमुपर्यागच्छति has [ɐ] in ज-, in -ल-, in -प-, in -ग-, in -च्छ-: never \*jalmupryāgacchti.
 
 ## 11. Mouth Position
 
@@ -525,8 +526,8 @@ text (v3.c04.l05)*
 consonant → स [स पिपासितः, स जलम्; v3.c04.l02] · सः before ए → स by the ordinary -अः + vowel rule
 (स एकम्; v3.c04.l02) · -म् + a vowel written together, -म् + a consonant → ं [जलमिच्छति, एकं घटं;
 v3.c04.l03] · -ए + अ → एऽ, पूर्वरूपम् [घटेऽल्पम्; v3.c04.l01] · इ + आ → या, यण् [उपर्यागच्छति;
-v3.c04.l01] · -इः + a vowel → -इर् [बुद्धिरेव; v3.c04.l02] · -अः before क and प stays (एकः काकः,
-पुनः पुनः; v3.c04.l02). **Untaught: none.** Words: 38.
+v3.c04.l01] · -इः + a vowel → -इर् [बुद्धिरेव; v3.c04.l02] · -अः before क stays (एकः काकः; v3.c04.l02) · पुनः is an
+r-final, and before प it keeps its ः (पुनः पुनः; v3.c04.l02). **Untaught: none.** Words: 38.
 
 ### Text A2 — सिंहः मूषकः च, the Volume 2 lion
 
@@ -812,7 +813,7 @@ like A1's moral, and अस्ति understood.
 **The seams, line by line** (Chapter 4's maps): (1) कश्चित् + क: त् before a voiceless stop
 unchanged, written together · काकः + त → काकस्त · तृष्णार्तः + आ → तृष्णार्त + gap; inside the
 compound तृष्णा-आर्तः → तृष्णार्तः [सवर्णदीर्घः]. (2) सः + ज → स · जलाय + इतः → जलायेतः [गुणः] ·
-इतस्ततः + अ → इतस्ततोऽ [-अः + अ → ओऽ]. (3) तदा + स: no seam · सः + ए → स · एकम्, + a consonant → ं ·
+इतस्ततः + अ → इतस्ततोऽ [-अः + अ → ओऽ]. (3) तदा + स: no seam · सः + ए → स · एकम् + a consonant → ं ·
 घटम् + अ → घटमपश्यत्. (4) as A1 line 5, with आसीत्. (5) काकः + उ → काक + gap · उपायम् + अ. (6) सः + प →
 स · पाषाणान् + घ: न् before a consonant unchanged, written together · घटे + अ → घटेऽ. (7) शनैः + श: ः
 stays · शनैः + ज → शनैर् · जलम् + उ · उपरि + आ → उपर्या [यण्]. (8) काकः + ज → काको · जलम् + अ · the
@@ -885,7 +886,7 @@ by Chapter 4's maps 3; pause form beneath every line 1. A model is in §19.
 
 **अभ्यासः 5 · पठ — the R5 card (homework, 4 min; unscored, marked so).** Read and say "having
 …-ed" for each card word with its owned relative: उक्त्वा [उक्तम्, उवाच] · दृष्ट्वा [पश्यति] ·
-गत्वा [गच्छति, गतः] · आगत्य [आगच्छति] · निष्क्रम्य [निस् "out"; glossed]. Then read two
+गत्वा [गच्छति, गत] · आगत्य [आगच्छति] · निष्क्रम्य [निस् "out"; glossed]. Then read two
 authentic sentences, from the texts of lessons 2 and 3, and point to the doer of each
 absolutive:
 
@@ -894,13 +895,13 @@ absolutive:
 > "Having said this, he cut the bonds of all the doves" (literally "by him … [were] cut"). —
 > यह कहकर उसने सब कबूतरों के बन्धन काट दिए।
 > — Hitopadeśa 1, prose after verse 49; text of the GRETIL e-text [REF:hitopadesha mitralābha].
-> Glosses: बन्धनानि "bonds" (lesson 2's headword बन्धनम्); छिन्नानि "cut".
+> Glosses: बन्धनानि "bonds" (lesson 2's headword बन्धनम्); छिन्नानि "were cut".
 
 > एवमुक्त्वा तस्मै जम्बूफलानि ददौ। (evam uktvā tasmai jambū-phalāni dadau.)
 > Pause form, ours: एवम् उक्त्वा तस्मै जम्बूफलानि ददौ। (evam uktvā tasmai jambūphalāni dadau.)
 > "Having said this, he gave him rose-apples." — यह कहकर उसने उसे जामुन दिए।
-> — Pañcatantra 4, frame story, the opening prose; text of the GRETIL e-text
-> [REF:panchatantra 4, frame story]. Glosses: जम्बूफलानि "rose-apples" (lesson 3's headword
+> — Pañcatantra 4, frame story, the prose after the verses on the guest; text of the GRETIL
+> e-text [REF:panchatantra tantra 4, frame story]. Glosses: जम्बूफलानि "rose-apples" (lesson 3's headword
 > जम्बूः); ददौ "gave" (a perfect form, Volume 4).
 
 This is a self-check, not a scored task: its list is in §19, and no mark is recorded.
@@ -1072,8 +1073,10 @@ following श "may be" converted to छ, and "some authorities regard the conver
 obligatory, others as only optional" [REF:whitney1889 §203].
 
 **The sūtras behind the seam names.** Learner text names the rules by their names and lessons
-only. For the teacher: सवर्णदीर्घः 6.1.101; गुणः 6.1.87; यण् 6.1.77; पूर्वरूपम् 6.1.109; सः before a
-consonant 6.1.132 [REF:ashtadhyayi 6.1.132]; the visarga before a voiced sound and before a vowel
+only. For the teacher: सवर्णदीर्घः 6.1.101 अकः सवर्णे दीर्घः [REF:ashtadhyayi 6.1.101]; गुणः
+6.1.87 आद्गुणः [REF:ashtadhyayi 6.1.87]; यण् 6.1.77 इको यणचि [REF:ashtadhyayi 6.1.77]; पूर्वरूपम्
+6.1.109 एङः पदान्तादति [REF:ashtadhyayi 6.1.109]; सः before a consonant 6.1.132
+एतत्तदोः सुलोपोऽकोरनञ्समासे हलि [REF:ashtadhyayi 6.1.132]; the visarga before a voiced sound and before a vowel
 as in v3.c04.l02. None is printed in learner text in this chapter.
 
 **The R5 card, for the teacher.** The tradition's names are क्त्वा (ktvā) for -त्वा and ल्यप् (lyap)
