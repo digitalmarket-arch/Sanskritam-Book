@@ -1230,7 +1230,7 @@ lesson does not teach. Model sentence 1 is the learner's own pair instead.
 
 **The serial (§17) — departures.** The lines keep every departure from the Hitopadeśa that
 their lessons state: the mouse's hole beside the tree (c01); the free dove's warning and the
-river bank (c02); the parents in the net and the king's rule in the optative (c03; the Chapter
+parents in the net (c02); the warning set on the bank and the king's rule in the optative (c03; the Chapter
 3 fact base, row 0.26). Episode 4 adds none: it re-reads lines already printed
 [REF:hitopadesha mitralābha]. Line 9 sets two ◐ seams; if a learner joins विवरात् निरगच्छत् as
 विवराद्निरगच्छत्, it is correct (Whitney §161).

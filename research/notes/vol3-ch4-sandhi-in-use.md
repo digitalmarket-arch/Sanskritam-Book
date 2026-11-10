@@ -158,7 +158,7 @@ The plan's c04#5 items (untaught words in the table) are avoided: every example 
 | a | l01 (and l05 task E) | Hindi writes its words apart and applies no sandhi between independent words in writing (वह घर जाता है); the joined shapes a Hindi speaker uses every day are **tatsama words and compounds taken whole from Sanskrit**: विद्यालय (विद्या + आलय), हिमालय, सूर्योदय (सूर्य + उदय), महोत्सव (महा + उत्सव), परोपकार, सदैव (सदा + एव), इत्यादि (इति + आदि), स्वागत (सु + आगत), नमस्ते (नमः + ते). A Hindi speaker already says Sanskrit sandhis, the nine above among them — inside words. | FACT · [REF:kachru2006] (cited bare; Pass C locates the sandhi/tatsama discussion or rewords) |
 | b | l01–l03 | Hindi school grammar sorts these joins under three heads: **स्वर सन्धि**, **व्यंजन सन्धि**, **विसर्ग सन्धि**; and the स्वर सन्धि under five names — **दीर्घ**, **गुण**, **वृद्धि**, **यण्**, **अयादि** — the same five the Pāṇinian tradition uses (सवर्णदीर्घः; गुणः; वृद्धिः; यण्; अयादि); the tradition's पूर्वरूपम् and प्रगृह्यम् are names Hindi school grammar does not need for Hindi words (attributed: "Hindi school grammar teaches …"). | TRADITION · [REF:guru1952] (cited bare) |
 | c | l03 | **The anusvāra spelling.** Modern Hindi print may write the anusvāra dot where classical Sanskrit print writes the class nasal before a stop (संगीत / सङ्गीत, गंगा / गङ्गा, पंच / पञ्च — v1.c06.l01); before स the dot is the classical spelling in both (संस्कृत). At a Sanskrit **word end** the same choice is the optional rule of l03: किं करोति or किङ्करोति, both correct. The course's Hindi follows GLOSSARY spellings (व्यञ्जन, सन्धि); a Hindi schoolbook prints व्यंजन संधि — the same words, the dot spelling. | FACT · [REF:masica1991 ch.6] (as v1.c06.l01); [REF:kachru2006] |
-| d | l02 | Hindi keeps the visarga only in tatsama words (प्रातः, अतः, दुःख, नमः) and has no visarga seams between Hindi words; its tatsama compounds keep the Sanskrit shapes: मनोरथ (मनः + रथ), नमस्कार, पुनर्जन्म (पुनः + जन्म: the r-final before a voiced sound), निराशा (निः + आशा). | FACT · [REF:kachru2006]; TRADITION (that school books list them as विसर्ग सन्धि) · [REF:guru1952] |
+| d | l02 | Hindi keeps the visarga in tatsama words (प्रातः, अतः, दुःख, नमः) and has no visarga seams between Hindi words; its tatsama compounds keep the Sanskrit shapes: मनोरथ (मनः + रथ), नमस्कार, पुनर्जन्म (पुनः + जन्म: the r-final before a voiced sound), निराशा (निः + आशा). | FACT · [REF:kachru2006]; TRADITION (that school books list them as विसर्ग सन्धि) · [REF:guru1952] |
 | e | l01–l05 (§9, §12) | Hindi drops the final and many medial short a's (schwa deletion: Hindi सदैव said [sɐd̪ɛːʋ]); the joined Sanskrit word keeps every अ (सदैव /sɐd̪ɐi̯ʋɐ/, इत्यवदत् /it̪jɐʋɐd̪ɐt̪/). | FACT · STYLE_GUIDE §1.1; [REF:ohala1994] (only if Pass C finds the schwa-deletion statement there; else STYLE_GUIDE §1.1 alone, which is a course rule, not a source) |
 
 No row claims that a Hindi form "comes from" or "descends from" a Sanskrit one (no cognacy or borrowing claim is made beyond "taken whole from Sanskrit", the standard meaning of tatsama, which Pass C checks in Kachru).
@@ -788,8 +788,8 @@ by one rule; every visarga seam previewed in Volumes 1–2 (कोऽपि, प
 the ट ठ row; the homograph अन्तः; मा-free: no prohibition drill here. **Timing (45 min):** Station
 0, two items (8) → the scene and the question (3) → the evidence table (5) → the map's three
 questions named (4) → the map assembled, -अः column first, then -आः, other vowels, r-finals,
-special words (8) → 8.3.34 and 6.1.132 read at their cells (3) → production: Ex 1 split (4), Ex 3
-join (5) → §9 pairs and dictation (3) → §17 read joined so far, the bookings, homework (2).
+special words (9) → 8.3.34 and 6.1.132 read at their cells (3) → production: Ex 1 split (4), Ex 3
+join (5) → §9 pairs (2) → §17 read joined so far, the bookings, homework (2); the dictation is homework (§21).
 
 ---
 

@@ -450,8 +450,8 @@ voiced sound, write your guess on the worksheet, then check it here:
 | छात्राः आगच्छन्ति | chātrāḥ āgacchanti | छात्रा आगच्छन्ति | chātrā āgacchanti |
 
 Before voiceless sounds the -आः column copies the -अः column. Before every voiced sound it
-has one shape: the ः goes, -आ remains, and a gap is left — before a consonant, before अ,
-before any vowel. Five cells, one of them doing the work of three rows.
+has one shape: the ः goes and -आ remains — before a consonant, before अ, before any vowel.
+Before a vowel the two vowels stay apart, with a gap between them. Five cells, one of them doing the work of three rows.
 
 **Column 3 — any other vowel + ः.** Your words here are गुरुः, हरिः, बुद्धिः, शत्रोः, and two
 of today's headwords, उच्चैः and शनैः:
@@ -792,7 +792,7 @@ material of the lesson.
 > before क ख प फ, श् before च छ, ष् before ट ठ, स् before त थ, and ः or the doubled sibilant
 > before श ष स. Before a voiced sound -अः becomes ओ before a voiced consonant and before अ,
 > whose अ then drops (ओऽ), and अ before any other vowel, the gap left; -आः becomes आ before any
-> voiced sound, the gap left; any other vowel + ः, and the r-finals, become र्.
+> voiced sound, with a gap before a vowel; any other vowel + ः, and the r-finals, become र्.
 > [REF:whitney1889 §169] [REF:whitney1889 §170] [REF:whitney1889 §172]
 > [REF:whitney1889 §174] [REF:whitney1889 §175] [REF:whitney1889 §177]
 > [REF:whitney1889 §178]
@@ -1226,7 +1226,7 @@ sentence by the map.
 > **The visarga map (§15 Step 1), with its three questions:** what vowel precedes the ः? what
 > follows it? is it सः/एषः? **-अः:** ः before क प and at a pause · श् before च · स् before त
 > · ः before श ष स · ओ before a voiced consonant · ओऽ before अ · अ + gap before another vowel.
-> **-आः:** like -अः before voiceless sounds; आ + gap before every voiced sound. **Other vowel +
+> **-आः:** like -अः before voiceless sounds; आ before every voiced sound, with a gap before a vowel. **Other vowel +
 > ः:** like -अः before voiceless sounds; र् before every voiced sound. **The r-finals पुनः,
 > प्रातः, अन्तः:** र् before every voiced sound, after अ too; **बहिः** is *bahis*, and goes by
 > the other-vowel column. **सः/एषः:** no ः before any consonant (स गच्छति, एष बालकः); before a
@@ -1375,7 +1375,7 @@ stops. Answer the last with a hand on the throat.
 **The serial.** Today's part re-reads ten lines of episodes 1–3, joined at the vowel seams of
 lesson 1 and the visarga seams of today. The lines keep every departure from the Hitopadeśa
 that their lessons state (the mouse's hole beside the tree, Chapter 1; the free dove's warning
-and the river bank, Chapter 2; the parents in the net and the king's rule, Chapter 3); episode
+and the parents in the net, Chapter 2; the warning set on the bank and the king's rule, Chapter 3); episode
 4 adds none, since it re-reads lines already printed. Every pause line in the split key was
 copied from the §17 of the source lesson on disk.
 
@@ -1517,14 +1517,14 @@ narrator reads the cue, not the English spelling.
   §16 and §17 and the Station 0 key of §3.
 - **Verification flags for Pass C:** every cell of §15 Step 1 against [REF:whitney1889 §170]
   (b–d), §172, §174, §175 (a, c), §176a, §177, §178 (a, b), §179, as the fact base re-opened
-  them; §145 and §170 for §5's first FACT box, and the three quotations of §5's second box
+  them; §67, §145 and §170 for §5's first FACT box, and the three quotations of §5's second box
   against §174, §175a and §177; §169a–b for the r-finals and बहिः; §171b for नमस्कारः, as quoted
   in §8 Step 5; §173a (§22); 6.1.132 and 8.3.34 and the Kāśikā on both against the data file
   and GRETIL; the Teacher Notes sūtras (8.2.66, 8.3.15, 6.1.113, 6.1.114, 8.3.14, 6.3.111,
   8.3.35, 8.3.36, 8.3.37, 8.3.17, 8.3.19, 8.3.22, 8.3.40, 8.4.41) against the data file —
   8.3.37 कुप्वोः ≍क≍पौ च, which the fact base cited from memory, was found in the data file
-  (2026-11-10); the headwords against Apte and MW as cited in §14 — Apte's entry for अन्तः
-  (*antar*) is not quoted (MW only), as the fact base asks; the §13 model 2 locus (prose after
+  (2026-11-10); the headwords against Apte and MW as cited in §14 — Apte's entry for अन्तः, the r-final
+  *antar*, quoted at Pass C (s.v. अन्तर्, used adverbially); the §13 model 2 locus (prose after
   Hit 1.53, GRETIL `hitop_u.htm` l. 553); every split-key pause line of §17 re-diffed against
   its source §17 on disk (done 2026-11-10: v3.c01.l01 line 1, v3.c02.l01 line 1, v3.c01.l02
   lines 1 and 3, v3.c01.l03 line 7, v3.c01.l04 line 10, v3.c02.l03 lines 6 and 9, v3.c03.l01

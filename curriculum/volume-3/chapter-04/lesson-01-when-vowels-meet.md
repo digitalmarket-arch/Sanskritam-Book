@@ -843,7 +843,7 @@ the dual card's cells (v3.c02.l04).
 Your §8 Step 5 frame should now read: 1 आ, ई · 2 ए, ओ, अर् · 3 ऐ, औ · 4 य्, व् · 5 अ + gap,
 आ + gap · 6 आव् · 7 ए/ओ + ऽ · 8 no join. If a row differs, find the step above that gives it.
 
-### Step 9 — inside a word: observed, named later
+### Step 9 — inside a word: the prefix seams named, the rest observed
 
 The same vowel grades appear inside words, between a stem and its ending or a prefix and its
 verb. One line each — the prefix seams named today, the other inner-word changes named in
@@ -1438,7 +1438,7 @@ narrator reads the cue, not the English spelling.
   re-found by grep; every §17 pause line re-diffed against its source §17 (v3.c01.l02,
   v3.c01.l04, v3.c02.l04, v3.c03.l02, v3.c03.l03, v3.c03.l04); the 1.x pp. 37–43 examples
   (row 0.28a, §22; done, 2026-11-10: re-derived, two carried into §13, errors listed in §22); the headwords against Apte and MW as cited in §14 (Apte's noun sense of
-  उदयः to be quoted); the Hindi of every gloss, objective and of §7, §16 at Pass B.
+  उदयः now quoted in §14); the Hindi of every gloss, objective and of §7, §16 at Pass B.
 - **Register audit:** FACT ×11 (§5 Whitney §125, the Hindi tatsama fact · §15 scope and
   order, Steps 1–7 one each, Step 10 the heuristic) · HISTORY ×1 (§4 the avagraha in
   manuscripts and print, cited, no date) · TRADITION ×9 (§4 Pāṇini's heading, unnumbered;
