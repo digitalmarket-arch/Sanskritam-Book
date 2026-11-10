@@ -28,7 +28,7 @@ learner already owns and derives its family from it — एतद्, यद्,
 1.x rule "स् → त्" is corrected in the open: सः and तम् come from two stems. The third lesson turns
 to the words that never change (1.1.37 स्वरादिनिपातमव्ययम्): the correlative grid, in which अत्र,
 तत्र, यत्र, कुतः, ततः, कदा and इदानीम् turn out to be one system; the relative sentence यः …, सः …,
-built exactly as Hindi builds जो …, वह …; the particles that never stand first; and the reference
+built clause for clause as Hindi builds जो …, वह …, with gender marked as well; the particles that never stand first; and the reference
 card of the tradition's twenty-two upasargas (1.4.59 उपसर्गाः क्रियायोगे), with the 1.x list's errors
 named. The fourth lesson teaches compounds through their विग्रहः in four kinds — द्वन्द्वः, तत्पुरुषः
 with its subtypes, बहुव्रीहिः and अव्ययीभावः (2.2.29, 2.2.24) — and resolves the compounds of Volumes
@@ -94,8 +94,8 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 - **l01:** the I-and-you table (the short forms in a second colour); the नमस्ते proof card (three
   lines); the R6 card; the guest-at-the-door conversation audio; the leaning-words listening audio; the
   serial audio; the pronoun-cells worksheet.
-- **l02:** the तद् table with the five Δ cards around it; the इदम् stems diagram (अय-, इम-, अन-, अ-, ए-/आ-,
-  key cells marked); the model-sentences audio; the "Who is this?" conversation audio; the serial audio;
+- **l02:** the तद् table with the five Δ cards around it; the इदम् stems diagram (इ-, इम-, अन-, अ-, the four of
+  Whitney §502a; key cells marked); the model-sentences audio; the "Who is this?" conversation audio; the serial audio;
   the pronoun-family worksheet.
 - **l03:** the correlative grid (owned words in bold); the upasarga card (22, with the owned verbs); the
   grid-chant audio; the "Where and when?" conversation audio; the serial audio; the relative-pairs
@@ -111,7 +111,7 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 ## Assessment
 
 Lesson 5 is the chapter exam, one 45-minute sitting (2 minutes of instructions, then five tasks): A
-replace the nouns of an eight-sentence paragraph with the right pronoun cells, with one volume-spiral
+replace the noun named in each of eight sentences with the right pronoun cell, with one volume-spiral
 case question (8 min); B join six pairs of sentences with a relative and its correlative, written joined
 (7 min); C name the kind of ten compounds and give each vigraha with its cases (9 min); D read at sight a
 new course-written passage on the serial's fifth episode, ten joined sentences, and answer ten questions

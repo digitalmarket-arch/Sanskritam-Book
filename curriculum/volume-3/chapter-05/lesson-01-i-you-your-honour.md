@@ -32,6 +32,7 @@ media:
     - "planned:assets/images/volume-3/v3c05l01-i-and-you-table.svg"
     - "planned:assets/images/volume-3/v3c05l01-namaste-proof-card.svg"
     - "planned:assets/images/volume-3/v3c05l01-r6-card.svg"
+    - "planned:assets/images/volume-3/v3c05l01-serial-dove-king.svg"
   audio:
     - "planned:assets/audio/volume-3/v3c05l01-conversation.mp3"
     - "planned:assets/audio/volume-3/v3c05l01-leaning-words.mp3"
@@ -882,7 +883,8 @@ so that you are not misled when you meet them.
   पुण्यवान्, महान् and the feminines ○.
 - **Carried, as before:** T1–T7 and their Δ cards, the dual card, R1–R4, every seam of
   Chapter 4's three maps.
-- **○ preview:** तद् and its family (v3.c05.l02); the relative sentence (v3.c05.l03).
+- **○ display — the addresses ahead:** तद् and its family (v3.c05.l02); the relative sentence
+  (v3.c05.l03).
 
 ## 16. Conversation
 
@@ -1351,6 +1353,13 @@ the sentence: "is a word there yet?"); भवति read as "is" in मम भ�
 > forms". Legend at the bottom: ✓ productive, ◐ recognition, ○ display, with भवान्'s tiles marked
 > ✓ and the rest ◐ or ○. Devanagari exactly as given.
 
+**Asset 4 — `planned:assets/images/volume-3/v3c05l01-serial-dove-king.svg` (§17, lines 2–3)**
+
+> Storybook illustration in the style of the serial's earlier episodes, warm palette: high in
+> a blue sky a flock of grey doves flies on, the hunter's net hanging from their feet; at their
+> head their king, his neck shimmering in bright colours, turns to answer the dove beside him;
+> far below, a river bank and a large tree. No text in the image.
+
 ## 24. AI Video Prompt
 
 Lesson video, ~6 min, presenter + motion graphics.
@@ -1413,6 +1422,8 @@ narrator reads the cue, not the English spelling.
   - `assets/images/volume-3/v3c05l01-namaste-proof-card.svg` — the three-line proof; §23 asset 2.
   - `assets/images/volume-3/v3c05l01-r6-card.svg` — the -वान् / -मान् recognition card; §23
     asset 3.
+  - `assets/images/volume-3/v3c05l01-serial-dove-king.svg` — §17 (lines 2–3), §23 asset 4; the
+    chapter frame's new serial illustration for l01.
   - `assets/audio/volume-3/v3c05l01-conversation.mp3` — §8 step 1 and §16, turns 1–12 in order
     (joined at natural pace, then pause form slowly, then a role-play track with one side
     silent; transcript required), then the §14 word list.

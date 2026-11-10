@@ -11,7 +11,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 |---|---|---|---|---|
 | अक्षर | akṣara | syllable block — the script's writing unit | अक्षर | v1.c01.l04 |
 | अभिवादन | abhivādana | greeting, respectful salutation | अभिवादन | v2.c01.l01 |
-| अव्यय | avyaya | indeclinable — a word that never changes shape | अव्यय | v2.c02.l04 |
+| अव्यय | avyaya | indeclinable — a word that never changes shape; named by 1.1.37, with the correlative grid and the particles: v3.c05.l03 | अव्यय | v2.c02.l04 |
 | अनुच्छेद | anuccheda | passage, paragraph (standard modern term) | अनुच्छेद | v1.c06.l03 |
 | अनुस्वार | anusvāra | the nasal sign ं; for a word-final म् before a consonant, 8.3.23: v3.c04.l03; the class nasal optional before a stop | अनुस्वार | v1.c02.l06 |
 | अन्तर्निहित स्वर | antarnihita svara | inherent vowel — the अ carried by every unmarked consonant letter | अन्तर्निहित स्वर — भीतर बैठा हुआ स्वर | v1.c01.l03 |
@@ -69,13 +69,13 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | कर्म | karma | the done-to, and the goal of motion — in Pāṇini's grammar the kāraka of what the doer acts on or goes to (v3.c01.l01); Volume 1's rough label "object"; as a word also "action, deed" | कर्म | v1.c06.l03 |
 | विभक्ति | vibhakti | case; a case ending — seven numbered cases and the vocative, eight forms in the singular (v3.c01) | विभक्ति (वाक्य में संज्ञा का काम दिखाने वाला रूप) | v2.c02.l04 |
 | लिङ्ग | liṅga | grammatical gender: masculine, feminine, neuter | लिंग (पुल्लिंग, स्त्रीलिंग, नपुंसक) | v2.c03.l01 |
-| समास | samāsa | compound word: सोमवार = सोम + वार | समास | v2.c03.l04 |
+| समास | samāsa | compound word: सोमवार = सोम + वार; the system, the vigraha and four kinds: v3.c05.l04 | समास | v2.c03.l04 |
 | क्रिया | kriyā | verb ("action") — a word that tells an action or event | क्रिया (काम या घटना बताने वाला शब्द) | v1.c03.l02 |
 | पुरुष | puruṣa | grammatical person, carried in the verb ending | पुरुष | v2.c04.l02 |
 | प्रथम / मध्यम / उत्तम पुरुष | prathama / madhyama / uttama puruṣa | the three persons, counted from the far end: प्रथम = he/she/it, मध्यम = you, उत्तम = I (Hindi school grammar's अन्य पुरुष = प्रथम) | प्रथम पुरुष (वह) / मध्यम पुरुष (तुम) / उत्तम पुरुष (मैं) | v2.c04.l02 |
 | एकवचन | ekavacana | singular (वचन = grammatical number) | एकवचन | v2.c04.l01 |
 | लट् | laṭ | the tradition's label for the present tense (nine cells: v3.c03.l01) | लट् (वर्तमान काल) | v2.c04.l02 |
-| उपसर्ग | upasarga | verbal prefix: आ in आगच्छति | उपसर्ग (क्रिया के आगे जुड़ने वाला अंश) | v2.c05.l01 |
+| उपसर्ग | upasarga | verbal prefix: आ in आगच्छति; 22 in the tradition's list (1.4.58–59), read on a card: v3.c05.l03 | उपसर्ग (क्रिया के आगे जुड़ने वाला अंश) | v2.c05.l01 |
 | धातु | dhātu | verbal root: √युज् "join, yoke" | धातु (शब्द की जड़) | v2.c06.l04 |
 | प्रथमा · द्वितीया · तृतीया · चतुर्थी · पञ्चमी · षष्ठी · सप्तमी | prathamā · dvitīyā · tṛtīyā · caturthī · pañcamī · ṣaṣṭhī · saptamī | the tradition's numbered case names, "first" … "seventh": nominative, accusative, instrumental, dative, ablative, genitive, locative | प्रथमा … सप्तमी (विभक्तियों के क्रम-नाम) | v3.c01.l01 |
 | सम्बोधनम् | sambodhanam | "calling": the vocative (हे राम) | सम्बोधन | v3.c01.l01 |
@@ -115,6 +115,17 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | पदपाठः | padapāṭhaḥ | the word-by-word (pause-form) text of the Vedic tradition; the course's pause form is the same idea | पदपाठ | v3.c04.l04 |
 | पदच्छेदः | padacchedaḥ | splitting a joined text into its words: the six-step method | पदच्छेद | v3.c04.l04 |
 | अवसानम् | avasānam | the pause, "stopping" (1.4.110); as an ordinary word "end", a ledger headword of v3.c04.l04 | अवसान (विराम) | v3.c04.l04 |
+| सर्वनाम | sarvanāma | pronoun — and, by 1.1.27, Pāṇini's class of words beginning with सर्व: अहम्, त्वम्, भवान् in v3.c05.l01; तद् and its family in v3.c05.l02 | सर्वनाम | v3.c05.l01 |
+| निपात | nipāta | particle, by 1.4.57: च, वा, एव, हि, तु …; with the स्वर्-list, called अव्यय by 1.1.37 | निपात | v3.c05.l03 |
+| विग्रह | vigraha | the phrase with case endings that a compound compresses: विद्यालयः = विद्यायाः आलयः | विग्रह (समास-विग्रह) | v3.c05.l04 |
+| द्वन्द्व | dvandva | the "and"-compound, by 2.2.29: सिंहमूषकौ = सिंहः च मूषकः च; Hindi schoolbooks print द्वंद्व, the course writes the GLOSSARY spelling | द्वन्द्व | v3.c05.l04 |
+| तत्पुरुष | tatpuruṣa | the dependent compound, a case relation between its members: विद्यालयः = विद्यायाः आलयः | तत्पुरुष | v3.c05.l04 |
+| कर्मधारय | karmadhāraya | adjective + noun, one referent, a kind of tatpuruṣa: नीलकमलम् = नीलम् कमलम् | कर्मधारय | v3.c05.l04 |
+| द्विगु | dvigu | a numeral first, a kind of tatpuruṣa, recognised but not scored in Volume 3: सप्ताहः | द्विगु | v3.c05.l04 |
+| बहुव्रीहि | bahuvrīhi | a compound that describes someone else, who has what it names (2.2.24): नीलकण्ठः = नीलः कण्ठः यस्य सः | बहुव्रीहि | v3.c05.l04 |
+| अव्ययीभाव | avyayībhāva | an indeclinable first, the whole indeclinable; recognised but not scored in Volume 3: यथाशक्ति | अव्ययीभाव | v3.c05.l04 |
+| उपपद | upapada | (label) a verb-noun as the second member, its kinds v4.c04: जलजम्, खगः, पादपः | उपपद | v3.c05.l04 |
+| प्रादि | prādi | (label) प्र and the rest as the first member, taught v4.c04: सुप्रभातम् | प्रादि | v3.c05.l04 |
 
 ## Course meta-vocabulary
 

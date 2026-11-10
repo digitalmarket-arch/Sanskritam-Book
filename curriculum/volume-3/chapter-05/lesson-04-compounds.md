@@ -205,9 +205,8 @@ bahuvrīhi points to some *other* word, outside it. The other sūtra numbers beh
 kinds stay in the teacher's notes (§22); in this lesson the rest is "according to Pāṇini",
 without a number.
 
-> **[TRADITION · परम्परा]** Hindi school grammar lists six kinds of समास, counting कर्मधारय
+> **[TRADITION · परम्परा]** Hindi school textbooks list six kinds of समास, counting कर्मधारय
 > and द्विगु separately; the Sanskrit tradition counts four, with those two inside तत्पुरुष.
-> [REF:guru1952]
 
 §7 sorts eight Hindi words both ways.
 
@@ -318,8 +317,8 @@ and the names of the kinds are GLOSSARY items, not ledger words.
 बहुव्रीहि। चित्रग्रीव भी गर्दन नहीं, कबूतरों का राजा है, जिसकी गर्दन रंगीन है।
 
 अब हिन्दी से तुलना। हिन्दी में ये शब्द तत्सम हैं, और हिन्दी व्याकरण इन्हें अपनी परम्परा के
-अनुसार छाँटता है [§4 में देखें — हिन्दी स्कूली व्याकरण छह भेद गिनता है, संस्कृत परम्परा
-चार] [REF:guru1952]:
+अनुसार छाँटता है [§4 में देखें — हिन्दी की स्कूली पाठ्यपुस्तकें छह भेद गिनती हैं, संस्कृत
+परम्परा चार]:
 
 | हिन्दी शब्द | हिन्दी व्याकरण का भेद | विग्रह [हिन्दी में] |
 |---|---|---|
@@ -938,8 +937,8 @@ way.
 Nine lines; each line printed joined with its IAST, its pause form with its IAST beneath,
 then the English and the Hindi. Audio: 🔊 `planned:assets/audio/volume-3/v3c05l04-story.mp3`
 (the joined text at natural pace, then the pause form line by line). The episode goes back
-to the day of the flight and tells it again with names: today the doves reach the burrow,
-and the mouse cuts the snares.
+to the day of the flight and tells it again with names: line 1 recalls where part 3 left the
+doves, at Hiraṇyaka's burrow, and today the mouse, out among them, cuts the snares.
 
 1. चित्रग्रीवः कपोतैः सह हिरण्यकस्य विवरमगच्छत्। (citragrīvaḥ kapotaiḥ saha hiraṇyakasya vivaram agacchat.)
    चित्रग्रीवः कपोतैः सह हिरण्यकस्य विवरम् अगच्छत्। (citragrīvaḥ kapotaiḥ saha hiraṇyakasya vivaram agacchat.)
@@ -1273,6 +1272,20 @@ as prādi. Both are defensible descriptions, so no item asks "karmadhāraya or n
 Indra" against a bahuvrīhi "whose slayer is Indra", told apart by accent — is v4.c04's. §5
 says so in one line, without the word; do not teach it now.
 
+**The 1.x page on compounds (pp. 42–43), line by line.** (1) "राम + सीता = रामसीतौ": a
+dvandva of two named things takes the gender of its last member [REF:whitney1889 §1253], and
+Pāṇini says the same — 2.4.26 परवल्लिङ्गं द्वन्द्वतत्पुरुषयोः [REF:ashtadhyayi 2.4.26] — so राम +
+सीता gives रामसीते. The lesson uses सीतारामौ in §18 exercise 3, in the order of its vigraha
+सीता च रामः च. (2) "उप + नगर = उपनगर", glossed "Near city = suburb", as the avyayībhāva: an
+avyayībhāva is an indeclinable, उपनगरम् "near the city" — compare Whitney's *upanadam* "near
+the river" [REF:whitney1889 §1313]; "suburb", a noun, is not that kind. The lesson's
+avyayībhāva is यथाशक्ति. (3) "राज + पुत्र": the stem is राजन्, which enters a compound as राज-,
+as §7 says. (4) "दश + आनन = दशानन": as a word, दशाननः, a bahuvrīhi — दश आननानि यस्य सः.
+(5) The 1.x accent example (p. 82) glosses both readings of इन्द्रशत्रु alike, "May Indra's
+slayer prosper" and "May the slayer of Indra prosper"; the tatpuruṣa is "slayer of Indra", the
+bahuvrīhi "whose slayer is Indra", as the note above has it. Otherwise the 1.x book's four
+kinds are the lesson's.
+
 **जगदीशः, सज्जनः.** v3.c04.l03 read them whole and sent their analysis here (its §27). §15
 Step 6 labels them; जगतः and सन् [the masculine nominative of सत्] are display forms, not drilled.
 
@@ -1281,9 +1294,10 @@ and प्रियमित्रम् can each be read two ways. Every prompt
 compound's use. When a learner offers the other reading of a bare compound, accept the
 reasoning and ask for the context.
 
-**The Hindi six-kind sorting.** §4 and §7 print the Hindi school grammar's six kinds as
-attributed TRADITION [REF:guru1952], and the Hindi facts (the hyphen of माता-पिता, no dual)
-with [REF:kachru2006]. Learners trained in Hindi grammar will call कर्मधारय and द्विगु kinds
+**The Hindi six-kind sorting.** §4 and §7 print the six kinds of the Hindi school textbooks
+as attributed TRADITION, with no key. Pass C confirmed the six-kind count on the web in
+current school material but could not confirm Guru's own count, so [REF:guru1952] is not
+attached to it. The Hindi facts (the hyphen of माता-पिता, no dual) cite [REF:kachru2006]. Learners trained in Hindi grammar will call कर्मधारय and द्विगु kinds
 of their own; that is right in Hindi grammar. In Sanskrit work, accept "कर्मधारयः" and
 "तत्पुरुषः" for a karmadhāraya.
 
@@ -1424,9 +1438,9 @@ narrator reads the cue, not the English spelling.
 - **Station 0 chain:** §3 runs v3.c05.l03's +1-day booking (S0-at) and v3.c05.l02's +1-week
   booking (S0-as), both worded verbatim as in the chapter fact base
   (research/notes/vol3-ch5-pronouns-indeclinables-compounds.md, row 0.30). S0-at diffed
-  against v3.c05.l03 §20 on disk (2026-11-10): identical. v3.c05.l02 was not on disk at
-  drafting (the teaching lessons are drafted in parallel): the diff of S0-as against its §20,
-  and the pointer "v3.c05.l02 §15" of §3, are Pass D items. Keys from that note's table 0.G (✓ cells
+  against v3.c05.l03 §20 on disk (2026-11-10): identical. S0-as diffed against
+  v3.c05.l02 §20 at review (2026-11-10): identical; the pointer "v3.c05.l02 §15" of §3 resolves
+  to that lesson's §15 Step 3, the Δ cards of यद्, किम् and सर्व. Keys from that note's table 0.G (✓ cells
   only). §20 books S0-av (+1 day, ten vigrahas, run by v3.c05.l05) and S0-aw (+1 week, name
   the kind, run by v3.c06.l01), verbatim from row 0.30. Four of S0-av's ten return from
   exercise 1 and §15 (a booking may rehearse its own lesson's items); S0-av's ten are
@@ -1469,8 +1483,9 @@ narrator reads the cue, not the English spelling.
   \*चित्राग्रीवः, \*सिंहमूषकः [for two], \*सिंहौमूषकौ, \*पर-उपकारः [as the word], \*विद्या
   आलयः, \*चित्रग्रीवा [for the king], \*मातापितरो. The §19 key (quiz + exercise keys) and the
   §3 keys stay in `<details>` in all renders.
-- **Verification flags for Pass C:** (1) Guru 1952 on the six kinds of समास [§4 callout,
-  §7 table, §22]: confirm or reword, per the fact base's editor's decision 1; (2) the
+- **Verification flags for Pass C:** (1) the six kinds of समास [§4 callout,
+  §7 table, §22]: confirmed on the web for current Hindi school textbooks; Guru's own count
+  was not, so no key is attached (editor's decision 1); (2) the
   feminine of a bahuvrīhi: §12 mistake 6 prints only the masculine examples (the
   उदारचरिता line of the fact base is withheld until Whitney §1294 ff. is opened, decision
   4); (3) दूरदर्शनम्: no case vigraha printed — MW *dūra-darśana* gives "long-sightedness",
@@ -1491,6 +1506,6 @@ narrator reads the cue, not the English spelling.
 - **Register audit:** FACT ×4 (§5 Whitney on compounds, Whitney's classes · §15 the
   rules, the context test; the §15 Step 3 notes cite Whitney inline) · HISTORY ×1 (§4 the
   Hitopadeśa names, hedged date, cited) · TRADITION ×2 (§4 Pāṇini's two sūtras and the names;
-  §4 Hindi school grammar, [REF:guru1952]) · SYMBOL ×0. Quiz Q1–Q6 and Q8–Q10 assess FACT;
+  §4 Hindi school textbooks, no key) · SYMBOL ×0. Quiz Q1–Q6 and Q8–Q10 assess FACT;
   Q7 assesses the TRADITION item in the form "According to Pāṇini …". No superlative, ranking
   or claim of scale.

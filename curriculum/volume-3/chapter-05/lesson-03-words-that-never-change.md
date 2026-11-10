@@ -584,7 +584,7 @@ grid, one is a particle, one a placed word. Audio: 🔊
 | तदा | tadā | /t̪ɐd̪ɑː/ | then, at that time | तब | ledger-new — indeclinable; the त- column, -दा row. Apte s.v. तदा "Then, at that time", and "(corr. of यदा)"; not ततः "after that" (§12, mistake 5) |
 | यथा | yathā | /jɐt̪ʰɑː/ | as; in which way | जैसे | ledger-new — indeclinable; the य- column, -था row; partner of तथा. Apte s.v. यथा "as, in the manner mentioned"; Whitney §1101 |
 | तथा | tathā | /t̪ɐt̪ʰɑː/ | so, thus, in that way | वैसे, वैसा | ledger-new — indeclinable; the त- column, -था row; inside तथास्तु "so be it" and तथापि "even so" (display since v2.c05.l02 and v3.c04.l01). Apte s.v. तथा "So, thus, in that manner" |
-| एवम् | evam | /eːʋɐm/ | thus, so, in this way | ऐसे, इस प्रकार | ledger-new — indeclinable; the near column of the -था row, beside इत्थम्; मैवम् = मा एवम्. MW s.v. *evam* "ind. … thus, in this way"; the Kāśikā lists it among the nipātas (§22) |
+| एवम् | evam | /eːʋɐm/ | thus, so, in this way | ऐसे, इस प्रकार | ledger-new — indeclinable; the near column of the -था row, beside इत्थम्; मैवम् = मा एवम्. Apte s.v. एवम् "Thus, so, in this manner or way"; MW s.v. *evam* "ind. … thus, in this way"; the Kāśikā lists it among the nipātas (§22) |
 | क्व | kva | /kʋɐ/ | where? whither? | कहाँ | ledger-new — indeclinable; a second asker beside कुत्र, from the stem कु- (Whitney §505). Apte s.v. क्व "Whither, where"; one syllable (§10) |
 | हि | hi | /ɦi/ | for, because; indeed | क्योंकि; ही | ledger-new — particle; never first in its clause. Apte s.v. हि "(Never used at the beginning of a sentence)", sense 1 "For, because"; Whitney §1133c; read in उद्यमेन हि (v2.c06.l03) |
 | अधः | adhaḥ | /ɐd̪ʱɐh/ | below, under (+ genitive) | नीचे | ledger-new — indeclinable, an s-final (*adhas*), joined like any -अः word: वृक्षस्याधः, अधोऽपृच्छत्. Apte s.v. अधस्, अधः "Below, down"; Whitney §1130 (with the genitive) |
@@ -844,7 +844,7 @@ the final stop voiced; बहिः + आ → बहिरा. Line 4 uses व�
 are friends", as Hindi says हम मित्र हैं. Three relative pairs carry the part: यत्र … तत्र [line
 1], यदा … तदा [lines 2 and 8], यथा … तथा [line 4], and Citragrīva's यः … सः [line 3]. Line 2 tells
 again, with a relative, what v3.c03.l03 told in line 10 (मूषकस्तानपश्यत्, विवरं च प्राविशत्); lines
-5–8 tell with names what v3.c03.l03 line 11 told without them.
+5–8 tell with names what v3.c03.l03 lines 11–12 told without them.
 
 ## 18. Exercises
 
@@ -1082,6 +1082,14 @@ the same prefixes [REF:ashtadhyayi 1.4.60] (gati is Volume 4's, v4.c04). Learner
 evam ity-ādayaḥ*, and closes *avyayam ity anvartha-sañjñā* — "avyaya" is a name that means what
 it says [REF:kashika 1.1.37]. Give either if the room asks why एवम् counts as a particle.
 
+**The 1.x pages on avyaya (pp. 114–115), line by line.** (1) 1.1.37 is glossed there
+"स्व-readings, particles, and the like are avyaya": the list is the one headed by स्वर् (svar),
+not स्व, and §4 gives the sūtra as the Kāśikā reads it [REF:kashika 1.1.37]. (2) Its list of
+twenty-two upasargas (p. 115) prints अति and उप twice and leaves out नि and अपि; the §15 card
+prints the Kāśikā's list [REF:kashika 1.4.58]. (3) It files श्वः and ह्यः under a heading
+"TADDHITĀNTA-AVYAYA" beside यथा and तथा; the Kāśikā lists *hyas, śvas* among the स्वरादि
+[REF:kashika 1.1.37]. The course uses none of the 1.x headings.
+
 **The Kāśikā e-text's typos.** In the GRETIL Kāśikā on 1.4.58 the list reads *rus* for *dus* and
 *up* for *upa*, and runs *ut abhi* together; the card prints the corrected list (दुस्, उप; उत्, अभि
 as two). Nothing else in the list is changed.
@@ -1291,7 +1299,7 @@ reads the cue, not the English spelling.
   with the genitive (Whitney's list: *anti, adhas, avas, puras*; *upari*); §5's Hindi FACT against
   Kachru (bare); §12's MBh 12.167.8 pairing of यदा and ततः; Hit 1.40 against `hitop_u.htm`
   l. 483–486 (done at drafting; the speaker is Citragrīva, l. 481); the headwords against Apte
-  and MW as §14 cites them (एवम्: MW only, Apte's sub-entry still to be quoted); the Hindi gloss of
+  and MW as §14 cites them (एवम्: Apte's own headword, quoted at Pass C, and MW); the Hindi gloss of
   Hit 1.40 is new (Pass B). Whitney §1121 is not cited (editor's decision 8). Walk check: every
   word of §6, §13, §16, §17 and §18 owned, a headword of today, or labelled (§14 lists).
 - **Register audit:** FACT ×5 (§5 Hindi relative sentence, spacing · §15 the relative sentence,

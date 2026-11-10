@@ -625,7 +625,7 @@ cell: every one of them was yours before today.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| अयम् | ayam | /ɐjɐm/ | this (m.; f. इयम्, n. इदम्) | यह | ledger-new — pronoun, lemma इदम्, counted as its m. nom. sg. (rule 6); key cells ✓, the rest ◐ (§15 Step 4) — MW s.v. *ayam* "this one. See *idam*", s.v. *idam* (*ayam, iyam, idam*; "g. sarvādi, Pāṇ. i, 1, 27"); Whitney §501 |
+| अयम् | ayam | /ɐjɐm/ | this (m.; f. इयम्, n. इदम्) | यह | ledger-new — pronoun, lemma इदम्, counted as its m. nom. sg. (rule 6); key cells ✓, the rest ◐ (§15 Step 4) — Apte s.v. इदम् "This here, referring to something near the speaker"; MW s.v. *ayam* "this one. See *idam*", s.v. *idam* (*ayam, iyam, idam*; "g. sarvādi, Pāṇ. i, 1, 27"); Whitney §501 |
 | यः | yaḥ | /jɐh/ | who, which (relative; f. या, n. यत्) | जो | ledger-new — relative pronoun, lemma यद्; today in its table only, in sentences from v3.c05.l03 — Apte s.v. यद् "(Nom. sing. m. यः, f. या, यत्-द् n.) The relative pronoun"; Whitney §§508–509 |
 | अन्यः | anyaḥ | /ɐn̪jɐh/ | other, another (n. अन्यत्) | अन्य, दूसरा | ledger-new — pronominal adjective -न्या -न्यत्, declined like तद् throughout — Apte s.v. अन्य "[अन्यः, ˚न्यस्मै …; n. अन्यत्] Another"; Whitney §523 |
 | परः | paraḥ | /pɐɾɐh/ | other, another; stranger; further | पराया, दूसरा | ledger-new — adjective -रा -रम्, taught as a plain a-adjective (रामः's endings) — Apte s.v. पर "(Declined optionally like a pronoun …)"; Hit 1.71 *paro vā* (v3.c06.l04) |
@@ -1279,6 +1279,17 @@ no emphasis falls [REF:whitney1889 §500]. It is not taught; gloss it where it i
 
 **असौ.** असौ "that one yonder" is not taught in Volume 3 and is glossed where met.
 
+**The 1.x pages on pronouns (pp. 111–114), line by line.** (1) "Note स् → त् in oblique
+cases": withdrawn — two stems, स- in सः and सा only, as §5 and §15 Step 2 show
+[REF:whitney1889 §495]. (2) सर्व, अन्य, विश्व, स्व, पूर्व, उत्तर "are called सर्वनाम-स्थानीय": the
+term is not Pāṇini's. His name for the whole list headed by सर्व is सर्वनाम, by 1.1.27, as §4
+prints it. अन्य goes like तद् throughout [REF:whitney1889 §523]; सर्व, विश्व and एक go like तद्
+except सर्वम्, विश्वम्, एकम् [REF:whitney1889 §524]; पूर्व, उत्तर and स्व follow the model only
+usually, in some senses or optionally [REF:whitney1889 §525]. (3) "among the most common
+words" and "They appear in EVERY sentence" — the key to its exercise 8 — are claims of scale
+with no count; the lesson does not repeat them. The cells the 1.x pages print for तद्, इदम्,
+किम्, यद् and एक agree with §15.
+
 **कश्चिन्नृपः and the model sentence.** The model sentence is कश्चिद्व्याध आसीत्, with ✓ seams
 only (त् voiced before व). कश्चिन्नृपः stands beneath it as one labelled recognition line: a
 stop before a nasal is ◐ in Chapter 4, and the voiced कश्चिद्नृपः is also correct — Whitney:
@@ -1309,8 +1320,10 @@ passed (v3.c03.l03–l04), this time with names. These departures are on the rec
 v3.c06.l02, which reads the text itself.
 
 **The Hindi school-grammar line (§7).** It is printed as attributed TRADITION with
-[REF:guru1952] cited bare. Pass C confirms the six names in Guru and rewords or cuts what it
-cannot confirm.
+[REF:guru1952] cited bare. Pass C (web) confirmed the six names — पुरुषवाचक, निजवाचक,
+निश्चयवाचक, अनिश्चयवाचक, सम्बन्धवाचक, प्रश्नवाचक — as the standard list of Hindi grammars and
+school material. Guru's own page was not opened, so the line stays attributed and is never
+assessed.
 
 **Differentiation.** Hindi-medium learners say यह for all three and write \*अयम् बालिका: give
 them §9 Drill 3 and §18 exercise 4 first, pointing at real people. English speakers reach for
@@ -1478,9 +1491,10 @@ narrator reads the cue, not the English spelling.
   the data file and `jvkasixu.htm` (l. 874 ff.: *sarvaḥ, sarvau, sarve / sarvasmai /
   sarvasmāt / sarveṣām / sarvasmin / sarvakaḥ*; the list at the end of the gloss); 1.1.34,
   1.1.35, 7.1.25, 6.1.132 in §22 against the data file; the headwords against Apte and MW as
-  cited in §14 — अयम् cites MW and Whitney alone (Apte has no headword *idam* in this
-  e-text: the fact base's "sub-entry, Pass C" — editor's decision 7); the TRADITION line of
-  §7 (Guru's six सर्वनाम names) against [REF:guru1952], cited bare, confirmed or reworded;
+  cited in §14 — अयम् cites Apte s.v. इदम् (its own headword, spelled *idaM* in the e-text;
+  located at Pass C, editor's decision 7), MW and Whitney; the TRADITION line of
+  §7 (Guru's six सर्वनाम names) against [REF:guru1952], cited bare — confirmed on the web as
+  the standard list;
   the Hindi facts of §7 and §15 Step 7 against [REF:kachru2006], cited bare; the §22 Hitopadeśa
   lines against `hitop_u.htm` (l. 467, 472); the evidence-table loci of §8 Step 3 re-found by
   grep (done for this draft: सः, तस्य v1.c06.l03; तत् v1.c05.l01; एतत् v1.c06.l02; एषः, एषा

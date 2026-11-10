@@ -16,8 +16,8 @@ self_study_minutes: 45  # 15 before the sitting (§3 read through, the §15 asse
 prerequisites: [v3.c05.l04]
 review_of: [v3.c05.l01, v3.c05.l02, v3.c05.l03, v3.c05.l04, v3.c04.l05, v3.c03.l05, v3.c02.l05, v2.c06.l01]
 objectives:
-  - en: "Replace nouns with the right pronoun cells in a paragraph, and join pairs of sentences with a relative and its correlative."
-    hi: "अनुच्छेद में संज्ञाओं की जगह सही सर्वनाम-रूप रखें, और वाक्य-युग्मों को सम्बन्धवाचक और उसके सहसम्बन्धी से जोड़ें।"
+  - en: "Replace nouns with the right pronoun cells in eight sentences, and join pairs of sentences with a relative and its correlative."
+    hi: "आठ वाक्यों में संज्ञाओं की जगह सही सर्वनाम-रूप रखें, और वाक्य-युग्मों को सम्बन्धवाचक और उसके सहसम्बन्धी से जोड़ें।"
   - en: "Name the kind of ten compounds and give each vigraha with its cases."
     hi: "दस समासों का प्रकार बताएँ और हर एक का विग्रह विभक्तियों सहित दें।"
   - en: "Read a new joined passage about the doves and the mouse at sight and answer ten questions."
@@ -65,7 +65,7 @@ complete.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Replace nouns with the right pronoun cells in a paragraph, and join pairs of sentences with a relative and its correlative. | अनुच्छेद में संज्ञाओं की जगह सही सर्वनाम-रूप रखें, और वाक्य-युग्मों को सम्बन्धवाचक और उसके सहसम्बन्धी से जोड़ें। |
+| 1 | Replace nouns with the right pronoun cells in eight sentences, and join pairs of sentences with a relative and its correlative. | आठ वाक्यों में संज्ञाओं की जगह सही सर्वनाम-रूप रखें, और वाक्य-युग्मों को सम्बन्धवाचक और उसके सहसम्बन्धी से जोड़ें। |
 | 2 | Name the kind of ten compounds and give each vigraha with its cases. | दस समासों का प्रकार बताएँ और हर एक का विग्रह विभक्तियों सहित दें। |
 | 3 | Read a new joined passage about the doves and the mouse at sight and answer ten questions. | कबूतरों और चूहे पर एक नया जुड़ा अनुच्छेद देखते ही पढ़ें और दस प्रश्नों के उत्तर दें। |
 | 4 | Write a dialogue with a guest using भवान् or भवती, two relative sentences and two compounds of your own, joined, with its pause form. | अतिथि से संवाद लिखें — भवान् या भवती, दो सम्बन्धवाचक वाक्य और अपने बनाए दो समास — जोड़कर, विराम-रूप सहित। |
@@ -167,9 +167,8 @@ Each sūtra's own wording stands in its lesson (l01 §4, l02 §4, l03 §4, l04 �
 return by number and name only, and §19 Q8 asks you to match each number to its gist, in the
 form "According to Pāṇini".
 
-> **[TRADITION · परम्परा]** Hindi school grammar lists six kinds of समास, counting कर्मधारय
+> **[TRADITION · परम्परा]** Hindi school textbooks list six kinds of समास, counting कर्मधारय
 > and द्विगु separately; the Sanskrit tradition counts four, with those two inside तत्पुरुष.
-> [REF:guru1952]
 
 The exam asks for the tradition's four. A karmadhāraya named "तत्पुरुषः" is not wrong, since it
 is a kind of tatpuruṣa; the keys accept it and give it the kind's ½ (§19).
@@ -294,7 +293,7 @@ word परीक्षा stands only in the heading: read it whole; it is not 
 में; और हिन्दी "हम" एक व्यक्ति के लिए भी चलता है, जबकि यह पाठ्यक्रम वयम् केवल तीन या अधिक के
 लिए लिखता है — कार्य A का सातवाँ वाक्य यही परखता है।
 
-आज के पाँच कार्य: A — वाक्यों में कोष्ठक में बताई गई संज्ञा की जगह सही सर्वनाम-रूप, और एक प्रश्न
+आज के पाँच कार्य: A — आठ वाक्यों में कोष्ठक में बताई गई संज्ञा की जगह सही सर्वनाम-रूप, और एक प्रश्न
 विभक्ति का [आठ मिनट]; B — छह वाक्य-युग्मों को सम्बन्धवाचक और सहसम्बन्धी से एक वाक्य बनाना,
 जुड़े रूप में [सात मिनट]; C — दस समासों का प्रकार और विग्रह, विभक्तियों सहित [नौ मिनट]; D —
 कबूतरों और चूहे पर एक नया जुड़ा अनुच्छेद, देखते ही पढ़कर दस प्रश्नों के उत्तर [दस मिनट]; E —
@@ -705,7 +704,7 @@ outside (l04 §15 Step 1). A bahuvrīhi takes the gender of the one it describes
 
 ### (4) Paradigm ledger audit (end of Chapter 5)
 
-Legend: ✓ productive · ◐ recognition · ○ preview.
+Legend: ✓ productive · ◐ recognition · ○ display.
 
 | table or card | cells or items | status |
 |---|---|---|
@@ -1311,9 +1310,9 @@ learner's own, and task B's pairs are not among the lesson models; the four one-
 task D joined only: the exam tests reading the joined form, and the pause form stands in §19's
 key, which the learner opens after the sitting.
 
-**Task A's frame.** The chapter frame (`chapter.md`, Assessment) speaks of "an eight-sentence
-paragraph"; the task prints eight separate sentences, because each item needs its own noun and,
-in items 7 and 8, its own speaker and listener. Read the frame accordingly. रामः as the speaker of
+**Task A's frame.** The task prints eight separate sentences, not a paragraph, because each item
+needs its own noun and, in items 7 and 8, its own speaker and listener; the chapter frame
+(`chapter.md`, Assessment) and objective 1 say so. रामः as the speaker of
 item 7 is the course's model name, used throughout Volume 3.
 
 **Task D.** Printed joined only; the label *our retelling, after Hitopadeśa 1 (Mitralābha)* stands
@@ -1358,8 +1357,8 @@ the same.
 त्वम्, no plural dative, ablative or locative of them, no ◐ cell of भवत्, सखा or इदम्, no oblique
 indefinite, no dvigu, upapada or avyayībhāva, and none of them stands as a wrong option. No ◐ seam
 of Chapter 4 is required; task D contains none. No SYMBOL content is assessed; the one TRADITION
-item (Q8) is asked only in the form "According to Pāṇini". The Hindi school grammar's six kinds
-(§4) are not asked.
+item (Q8) is asked only in the form "According to Pāṇini". The six kinds of the Hindi school
+textbooks (§4) are not asked.
 
 **Sūtras (Teacher Notes only; this lesson quotes none to the learner).** §4 and Q8 name the six
 sūtras of the chapter by number and name only; their learner wordings stand in l01–l04 §4. The
@@ -1386,8 +1385,8 @@ v3.c06.l02, which reads the text itself.
 **The Hindi angles.** Hindi-medium learners slip in three places the exam watches: भवान् with
 the plural verb of आप (task E), one form for "this" in all genders (Q5), and the correlative
 dropped as colloquial Hindi may drop वह (task B). The Hindi points follow Kachru
-[REF:kachru2006] and the school names Guru [REF:guru1952], both cited bare; this exam assesses
-none of them directly.
+[REF:kachru2006], cited bare, and the §4 six-kind line is credited to the Hindi school
+textbooks with no key; this exam assesses none of them directly.
 
 **What students find hard.** Task A item 7 (three persons, one word, the plural) and item 8 (the
 listener inside the quotation); task B item 2 (the correlative in the accusative) and item 3
@@ -1530,8 +1529,8 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   lines 2, 8 and 10 (reworded at review) against l01–l04 §17, so that none repeats a lesson
   line; the HISTORY callout's dating against REFERENCES ("c. 9th–12th c. CE"); the Whitney
   quotations of §5 (§491, §495, §1246) against the local text; [REF:whitney1889 §512] for the
-  main clause first; [REF:guru1952] and [REF:kachru2006] cited bare, and the Hindi six-kind line
-  confirmed as for l04 (editor's decision 1); निरामयाः's vigraha (§17) against MW and the
+  main clause first; [REF:kachru2006] cited bare, and the Hindi six-kind line credited to the
+  school textbooks with no key, as in l04 (Guru's own count not confirmed); निरामयाः's vigraha (§17) against MW and the
   recognition status l04 §15 Step 6 gives it; the sūtras of §4 and §22 against the Aṣṭādhyāyī data
   file; all Hindi at Pass B; the A–E keys and the quiz re-solved.
 - **Ledger:** 488 → 488; vocabulary_count 0; cells drilled 0 new (119 reviewed: 46 + 73); chapter
