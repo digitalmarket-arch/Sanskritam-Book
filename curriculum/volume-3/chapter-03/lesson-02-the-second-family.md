@@ -113,7 +113,7 @@ three words per line, one beat per word; then write the 8×3 grid from memory, w
 
 Item 1 — the nine cells: अहम् गच्छामि · आवाम् गच्छावः · वयम् गच्छामः · त्वम् गच्छसि ·
 युवाम् गच्छथः · यूयम् गच्छथ · सः गच्छति · तौ गच्छतः · ते गच्छन्ति. The six spins: वयम्
-पठामः · यूयम् धावथ · ते क्रीडन्ति · तौ स्मरतः · त्वम् भ्रमसि · अहम् नृत्यामि. Score /9 and
+पठामः · यूयम् धावथ · ते क्रीडन्ति · तौ स्मरतः · त्वम् भ्रमसि · अहम् नृत्यामि. Score /7 (the seven ✓ cells) and
 /6; the 1st- and 2nd-person duals आवाम् गच्छावः and युवाम् गच्छथः are recognition cells —
 say them, but a slip there does not cost a point.
 

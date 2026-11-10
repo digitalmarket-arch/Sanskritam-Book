@@ -63,7 +63,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | -कार | -kāra | suffix that names a sound or letter: अकार "the sound a", इकार "the sound i" | -कार (अकार, इकार) | v1.c02.l01 |
 | संज्ञा | saṃjñā | technical term, name — the label for each lesson's key term (संयुक्ताक्षरम्, संवादः); in Hindi grammar also "noun" | संज्ञा (पारिभाषिक नाम; हिन्दी व्याकरण में नाम-शब्द) | v1.c05.l02 |
 | विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun (विशेष्यम्) in gender, number and case (taught in v3.c02) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
-| आत्मनेपद | ātmanepada | the tradition's name for the "middle voice" — Sanskrit's second family of verb endings (रोचते; system: Volumes 3–4) | आत्मनेपद — क्रिया के अन्त-चिह्नों का दूसरा परिवार | v2.c05.l03 |
+| आत्मनेपद | ātmanepada | the tradition's name for the "middle voice" — Sanskrit's second family of verb endings (रोचते, लभते; system: v3.c03.l02; ubhayapada v4.c03) | आत्मनेपद — क्रिया के अन्त-चिह्नों का दूसरा परिवार | v2.c05.l03 |
 | सन्धि | sandhi | joining — the regular sound-changes where words meet (system: Volume 3) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
 | कर्ता | kartā | the doer — in Pāṇini's grammar the kāraka of the one who acts (v3.c01.l01); Volume 1's rough label "subject" | कर्ता (क्रिया करने वाला) | v1.c06.l03 |
 | कर्म | karma | the done-to, and the goal of motion — in Pāṇini's grammar the kāraka of what the doer acts on or goes to (v3.c01.l01); Volume 1's rough label "object"; as a word also "action, deed" | कर्म | v1.c06.l03 |
@@ -74,7 +74,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | पुरुष | puruṣa | grammatical person, carried in the verb ending | पुरुष | v2.c04.l02 |
 | प्रथम / मध्यम / उत्तम पुरुष | prathama / madhyama / uttama puruṣa | the three persons, counted from the far end: प्रथम = he/she/it, मध्यम = you, उत्तम = I (Hindi school grammar's अन्य पुरुष = प्रथम) | प्रथम पुरुष (वह) / मध्यम पुरुष (तुम) / उत्तम पुरुष (मैं) | v2.c04.l02 |
 | एकवचन | ekavacana | singular (वचन = grammatical number) | एकवचन | v2.c04.l01 |
-| लट् | laṭ | the tradition's label for the present tense | लट् (वर्तमान काल) | v2.c04.l02 |
+| लट् | laṭ | the tradition's label for the present tense (nine cells: v3.c03.l01) | लट् (वर्तमान काल) | v2.c04.l02 |
 | उपसर्ग | upasarga | verbal prefix: आ in आगच्छति | उपसर्ग (क्रिया के आगे जुड़ने वाला अंश) | v2.c05.l01 |
 | धातु | dhātu | verbal root: √युज् "join, yoke" | धातु (शब्द की जड़) | v2.c06.l04 |
 | प्रथमा · द्वितीया · तृतीया · चतुर्थी · पञ्चमी · षष्ठी · सप्तमी | prathamā · dvitīyā · tṛtīyā · caturthī · pañcamī · ṣaṣṭhī · saptamī | the tradition's numbered case names, "first" … "seventh": nominative, accusative, instrumental, dative, ablative, genitive, locative | प्रथमा … सप्तमी (विभक्तियों के क्रम-नाम) | v3.c01.l01 |
@@ -86,12 +86,21 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | सुप् · तिङ् | sup · tiṅ | the tradition's names for the whole set of noun endings · of verb endings | सुप् · तिङ् | v3.c01.l05 |
 | सुबन्तम् · तिङन्तम् | subantam · tiṅantam | "ending in a sup": a noun form · "ending in a tiṅ": a verb form | सुबन्त · तिङन्त | v3.c01.l05 |
 | पदम् | padam | a word in the grammar's sense: what ends in a sup or a tiṅ ending (1.4.14) | पद | v3.c01.l05 |
-| द्विवचनम् · बहुवचनम् | dvivacanam · bahuvacanam | the dual (exactly two) · the plural (three or more); with एकवचन, the three numbers of Sanskrit | द्विवचन · बहुवचन | v3.c02.l01 |
+| द्विवचनम् · बहुवचनम् | dvivacanam · bahuvacanam | the dual (exactly two) · the plural (three or more); with एकवचन, the three numbers of Sanskrit, in the noun and (from v3.c03.l01) in the verb | द्विवचन · बहुवचन | v3.c02.l01 |
 | पुंलिङ्गम् · स्त्रीलिङ्गम् · नपुंसकलिङ्गम् | puṃliṅgam · strīliṅgam · napuṃsakaliṅgam | masculine · feminine · neuter: the three genders (लिङ्ग); gender belongs to the word, not to the thing | पुल्लिंग · स्त्रीलिंग · नपुंसकलिंग | v3.c02.l02 |
 | विशेष्यम् | viśeṣyam | the noun an adjective (विशेषण) describes; the adjective takes its gender, number and case | विशेष्य | v3.c02.l01 |
 | सङ्ख्या | saṅkhyā | number; a number word (numeral) — one to four change with gender | संख्या | v3.c02.l01 |
 | अकारान्त · आकारान्त · ईकारान्त · इकारान्त · उकारान्त · ऋकारान्त | akārānta · ākārānta · īkārānta · ikārānta · ukārānta · ṛkārānta | "ending in a · ā · ī · i · u · ṛ": the tradition's names for noun stems by their final sound (रामः is अकारान्त, बालिका आकारान्त, नदी ईकारान्त, अग्निः इकारान्त, गुरुः उकारान्त, पिता ऋकारान्त) | अकारान्त · आकारान्त · ईकारान्त · इकारान्त · उकारान्त · ऋकारान्त | v3.c02.l01–l04 |
 | एकशेषः | ekaśeṣaḥ | "one remains": one word standing for a pair, as पितरौ "parents" for माता and पिता (sūtra 1.2.70; a Teacher Notes term) | एकशेष | v3.c02.l04 |
+| परस्मैपदम् | parasmaipadam | the first family of verb endings ("a word for another"): गच्छति, गच्छन्ति | परस्मैपद (क्रिया के अन्त-चिह्नों का पहला परिवार) | v3.c03.l02 |
+| उभयपदी | ubhayapadī | taking both families of endings (Apte's U.); a Teacher Notes term | उभयपदी | v3.c03.l02 |
+| कर्मवाच्य | karmavācya | Hindi grammar's term for the passive, used in the R3 card's Hindi lines | कर्मवाच्य | v3.c03.l02 |
+| लङ् | laṅ | the imperfect, the story tense: the augment अ- + the present stem + the secondary endings (अगच्छत्) | लङ् (भूतकाल; परम्परा में 'आज से पहले का भूत') | v3.c03.l03 |
+| लकारः | lakāraḥ | the tradition's name for a tense or mood (ten in all; the present system's four are लट्, लङ्, लोट्, विधिलिङ्) | लकार | v3.c03.l03 |
+| आगमः | āgamaḥ | the augment: the अ- before the stem in the imperfect, after a prefix if there is one (प्राविशत्) | आगम (भूतकाल में धातु-रूप के आगे लगने वाला अ-) | v3.c03.l03 |
+| लोट् | loṭ | the imperative, the request mood (गच्छ, गच्छतु) | लोट् (आज्ञा और अनुरोध का रूप, आज्ञार्थ) | v3.c03.l04 |
+| विधिलिङ् | vidhiliṅ | the optative, the "should" mood (गच्छेत्) | विधिलिङ् ('चाहिए' वाला रूप: विधि, सलाह, इच्छा) | v3.c03.l04 |
+| निषेधः | niṣedhaḥ | prohibition: मा + imperative (मा गच्छ) | निषेध (मना करना) | v3.c03.l04 |
 
 ## Course meta-vocabulary
 

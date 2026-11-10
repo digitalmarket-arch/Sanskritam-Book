@@ -123,7 +123,8 @@ lesson 2's [REF:cepeda2006].
 2. उत्तमः लभे · लभावहे ◐ · लभामहे; मध्यमः लभसे · लभेथे ◐ · लभध्वे; प्रथमः लभते · लभेते ·
    लभन्ते. Model sentences (any three correct ones pass): पुस्तकम् मह्यम् रोचते। ·
    पुष्पाणि मह्यम् रोचन्ते। · आम्रम् मह्यम् न रोचते। The verb agrees with the liked thing:
-   one thing रोचते, many रोचन्ते. Score /9 + /3.
+   one thing रोचते, many रोचन्ते. Score /7 + /3: the seven ✓ cells; a slip in लभावहे or
+   लभेथे ◐ costs no point.
 </details>
 
 ### The prompts
@@ -142,8 +143,8 @@ shaky prompt sends you back to that lesson's §15 tonight — not to a halt toda
 
 ऐतिहासिकः सन्दर्भः — a verse in the request mood, and who speaks it.
 
-Today's prohibition, मा with the imperative, has a famous instance in the book our serial
-follows. It is spoken by a liar:
+Today's prohibition, मा with the imperative, has an instance in the book our serial
+follows, one that Whitney's grammar quotes. It is spoken by a liar:
 
 > **[HISTORY · इतिहासः]** In the Hitopadeśa (dated, on the scholarly estimate, to c.
 > 9th–12th c. CE), the first story told inside the frame tale of book 1, Mitralābha, is
@@ -151,7 +152,8 @@ follows. It is spoken by a liar:
 > golden bangle, quotes a verse: दरिद्रान् भर कौन्तेय मा प्रयच्छ ईश्वरे धनम् "Support the
 > poor, son of Kuntī; do not give wealth to the mighty" (Hit 1.15) — an imperative (भर) and
 > a prohibition with मा and the imperative of today's प्रयच्छति. Whitney's grammar quotes
-> the second half-line as its example of मा with the imperative. The same tiger reports
+> the verse's second quarter as the first of its two examples of मा with the imperative.
+> The same tiger reports
 > the advice a pious man once gave him: दानधर्मादिकम् चरतु भवान् "let your honour practise
 > charity and the like" — भवान् with the 3rd-person imperative. The tiger is lying: the
 > scripture is bait. [REF:hitopadesha mitralābha 15] [REF:whitney1889 §579]
@@ -1064,7 +1066,7 @@ nominative; मा, never न, with the imperative; pause form throughout.
   वदेयुः should · आसीत् past · स्यात् should — the अ- in front / the -ए- inside; आसीत् and
   स्यात् are learned whole.
 - **Exercise 6:** (a) गच्छ। (b) गच्छत। (c) भवान् गच्छतु। (d) छात्रः सत्यम् वदेत्। (e) सः
-  तत्र न गच्छेत्। (सा तत्र न गच्छेत्। for a woman.) (f) मा गच्छ। (g) मा क्रीडत। (h) भवान्
+  तत्र न गच्छेत्। (सा तत्र न गच्छेत्। for a woman.) (f) मा गच्छ। (मा गच्छत। is also right: Hindi जाओ may address one or many.) (g) मा क्रीडत। (h) भवान्
   उपविशतु। — Contrast lines: (a)–(c) Hindi has three levels; Sanskrit has one person (गच्छ),
   many (गच्छत), and भवान् + the 3rd person for politeness. (d)–(e) Hindi puts the doer in को
   and adds चाहिए to an infinitive; Sanskrit keeps the doer nominative and puts "should" into

@@ -135,7 +135,8 @@ Step 4 puts two of its cells, अस्ति and करोति, into the past
    P. is the first family, A. the second; no verb moves (\*लभति, \*गच्छते). Score /12 for
    the family and /12 for the two forms. Item 2: अस् — अस्मि स्वः◐ स्मः · असि स्थः◐ स्थ ·
    अस्ति स्तः सन्ति; कृ — करोमि कुर्वः◐ कुर्मः · करोषि कुरुथः◐ कुरुथ · करोति कुरुतः
-   कुर्वन्ति. Score /18; log both items beside the earlier scores.
+   कुर्वन्ति. Score /14, the fourteen ✓ cells; a slip in a ◐ cell costs no point. Log both
+   items beside the earlier scores.
 1. एकः काकः अस्ति। — and the display आसीत् "there was". Today: एकः काकः आसीत्।
 2. ह्यः "yesterday" · अद्य "today" · श्वः "tomorrow". ह्यः is the one: v2.c05.l01 said ह्यः
    आगच्छामि is not "I came yesterday". Today it gets its verb.
@@ -171,7 +172,7 @@ retelling never prints them (§17, §22). What matters today is the verb at the 
 phrase. Every one of them is a past form you will read in §17 and use in §18.
 
 > **[TRADITION · परम्परा]** According to Pāṇini, लङ् (laṅ), the imperfect, is the past that
-> is not of today: ह्यः अगच्छम् "yesterday I went" is the textbook case. [REF:ashtadhyayi]
+> is not of today: ह्यः अगच्छम् "yesterday I went" is such a past. [REF:ashtadhyayi]
 
 The tradition names every tense and mood with a short word in ल्; the name of the whole set
 is लकारः (lakāraḥ). You met लट् (laṭ), the present, in lesson 1; today's is लङ्. The rule's

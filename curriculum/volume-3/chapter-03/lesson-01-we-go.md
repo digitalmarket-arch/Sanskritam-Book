@@ -77,7 +77,7 @@ Q5, Q8); objective 3 in §15 Steps 5 and 7, §16 and §17, §18 (exercises 4, 5 
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, the Chapter 2 exam's +1-day and
-lesson 4's +1-week. Then three memory prompts, each holding a piece of today's table.
+lesson 4's +1-week. Then five memory prompts, each holding a piece of today's table.
 Everything from memory *before* any key opens: in the one claim this course makes for it,
 retrieval practice beats re-reading for long-term retention [REF:roediger2006].
 
@@ -107,6 +107,8 @@ sentence: स्तः. In §15 it gets its cell.
 2. From v2.c01.l04: what does पुनः मिलामः say, word by word?
 3. From v2.c04.l04: how did Volume 2 handle two doers? (Arjuna and Sītā both go home: how
    would Volume 2 have written it?)
+4. From v2.c04.l03: say "I do", "you do", "he does" in Sanskrit.
+5. From v3.c02.l01: say "there are five crows in the tree" and "the doves eat the grains".
 
 <details><summary>उत्तराणि · Station 0 Key</summary>
 
@@ -129,10 +131,14 @@ sentence: स्तः. In §15 it gets its cell.
    the ending of "we" (§8 Step 3).
 3. Two sentences and अपि: अर्जुनः गृहम् गच्छति। सीता अपि गृहम् गच्छति। Still correct. Today's
    other answer is one dual verb: अर्जुनः सीता च गृहम् गच्छतः। (§15 Step 5).
+4. करोमि · करोषि · करोति — कृ's singular row, learned whole in Volume 2. Hold it: §15 Step 4
+   gives कृ its other cells (कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः).
+5. वृक्षे पञ्च काकाः सन्ति। · कपोताः तण्डुलान् खादन्ति। — Chapter 2's labelled partners. Today
+   सन्ति is the 3rd plural of अस् (§15 Step 4), and -अन्ति is the ending of "they" (§15 Step 1).
 </details>
 
 A slip in item 1 sends you to v3.c02.l05 §15 (1) tonight; a slip in item 2, to v3.c02.l04
-§15 Step 3. Neither stops today's lesson.
+§15 Steps 3–4. Neither stops today's lesson.
 
 ## 4. Historical Context
 
@@ -151,9 +157,10 @@ pronoun.
 > युवाम् भवथः · यूयम् भवथ · अहम् भवामि · आवाम् भवावः · वयम् भवामः. The tradition's names
 > for the persons count from the far end: प्रथमः पुरुषः "the first person" is he, she, it,
 > they; मध्यमः "the middle" is you; उत्तमः "the last" is I and we. Printed here in pause
-> form; the e-text writes the joined *tvaṃ*, *yuvāṃ*, *ahaṃ*. [REF:laghukaumudi on 7.3.101]
+> form; the e-text writes the joined *sa*, *tvaṃ*, *yuvāṃ*, *yūyaṃ*, *ahaṃ*, *āvāṃ*, *vayaṃ*. [REF:laghukaumudi on 7.3.101];
+> [REF:laghukaumudi on 1.4.101]
 
-So the recital you will meet in any traditional classroom runs सः भवति first and वयम्
+So the Laghukaumudī's recital runs सः भवति first and वयम्
 भवामः last. Both orders hold the same nine cells; the course prints उत्तमः on top, as
 v2.c04.l02 did, and you learn the names as names: प्रथमः is never "I" (§12, mistake 5).
 The sūtras that give the names are not quoted today (§22).

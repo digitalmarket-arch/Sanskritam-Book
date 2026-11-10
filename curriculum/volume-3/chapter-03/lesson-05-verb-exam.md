@@ -178,7 +178,8 @@ second use, the benedictive, which waits for Volume 4.
 > **[TRADITION · परम्परा]** In the tradition's names, the persons count from the far end:
 > प्रथमः पुरुषः is he, she, it, they; मध्यमः is you; उत्तमः is I and we. The two families
 > of endings are परस्मैपदम् (parasmaipadam) "a word for another" and आत्मनेपदम्
-> (ātmanepadam) "a word for oneself". [REF:laghukaumudi on 7.3.101]; [REF:whitney1889 §529]
+> (ātmanepadam) "a word for oneself". [REF:laghukaumudi on 1.4.101]; [REF:laghukaumudi on 1.4.99];
+> [REF:laghukaumudi on 1.4.100]; [REF:whitney1889 §529]
 
 Lesson 1 showed the recital that counts from the far end, सः भवति first and वयम् भवामः
 last (l01 §4); lesson 2 showed that the family names describe a difference of meaning that
@@ -292,7 +293,7 @@ words; असत्यम् is lesson 4's display word.
 बनवाए नहीं जाएँगे।
 
 तीन बातें जिन पर अंक कटते हैं, अभी याद कर लीजिए। पहली: अन्तिम चिह्न। अगच्छत्
-(हल् चिह्न के साथ) "वह गया", अगच्छत (बिना हल्) "तुम सब गए"। दूसरी: उपसर्ग वाली क्रिया में
+(हलन्त सहित) "वह गया", अगच्छत (हलन्त के बिना) "तुम सब गए"। दूसरी: उपसर्ग वाली क्रिया में
 आगम उपसर्ग के बाद आता है — प्र + अविशत् = प्राविशत्, निर् + अगच्छत् = निरगच्छत्। अप्रविशत्
 ग़लत है। और इच्छति का भूतकाल ऐच्छत् है, जो पूरा का पूरा याद रखा जाता है। तीसरी: गच्छेत्
 और अगच्छत् के अन्त एक जैसे हैं, पर आगे का अ- भूतकाल है और भीतर का -ए- "चाहिए"।
@@ -1454,7 +1455,9 @@ cue.
   lists; §599 quoted and §600 cited from the local text (opened at drafting);
   [REF:laghukaumudi on 3.4.69] — the ten-lakāra list re-found in the e-text at the head of
   the tiṅanta section, before VLk 375, and against a printed edition where possible;
-  [REF:laghukaumudi on 7.3.101] for the person names; [REF:whitney1889 §529] for the family
+  [REF:laghukaumudi on 1.4.101] for the person names (VLk 383; the recital under 7.3.101 gives
+  the order only); [REF:laghukaumudi on 1.4.99] and [REF:laghukaumudi on 1.4.100] (VLk 378–379)
+  and [REF:whitney1889 §529] for the family
   names; every Teacher-Notes sūtra text against the Aṣṭādhyāyī data file (looked up
   2026-11-10, including 3.4.69); [REF:hitopadesha prastāvikā 36] and [REF:mundaka 3.1.6]; the
   benediction's "traditional" label as v1.c06.l04; Whitney §579b for the labelled मा; task B
