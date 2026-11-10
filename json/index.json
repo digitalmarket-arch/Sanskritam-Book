@@ -1263,6 +1263,121 @@
       ],
       "path": "curriculum/volume-2/chapter-06/lesson-05-volume-two-exam.md",
       "json": "json/volume-2/v2.c06.l05.json"
+    },
+    {
+      "id": "v3.c01.l01",
+      "title": {
+        "sa": "कः किम् — कर्ता कर्म च",
+        "sa_iast": "kaḥ kim — kartā karma ca",
+        "hi": "कौन और क्या — कर्ता और कर्म",
+        "en": "Who and What: the Doer and the Done-to"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v2.c06.l05"
+      ],
+      "review_of": [
+        "v2.c06.l05",
+        "v2.c06.l01",
+        "v2.c06.l02",
+        "v2.c04.l04",
+        "v1.c06.l03"
+      ],
+      "path": "curriculum/volume-3/chapter-01/lesson-01-who-and-what.md",
+      "json": "json/volume-3/v3.c01.l01.json"
+    },
+    {
+      "id": "v3.c01.l02",
+      "title": {
+        "sa": "कुत्र कुतः — अधिकरणम् अपादानम् च",
+        "sa_iast": "kutra kutaḥ — adhikaraṇam apādānam ca",
+        "hi": "कहाँ और कहाँ से — अधिकरण और अपादान",
+        "en": "Where and From Where"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c01.l01"
+      ],
+      "review_of": [
+        "v3.c01.l01",
+        "v2.c02.l04",
+        "v1.c02.l06",
+        "v2.c03.l03"
+      ],
+      "path": "curriculum/volume-3/chapter-01/lesson-02-where-and-from-where.md",
+      "json": "json/volume-3/v3.c01.l02.json"
+    },
+    {
+      "id": "v3.c01.l03",
+      "title": {
+        "sa": "केन कस्मै — करणम् सम्प्रदानम् च",
+        "sa_iast": "kena kasmai — karaṇam sampradānam ca",
+        "hi": "किससे और किसके लिए — करण और सम्प्रदान",
+        "en": "With What, For Whom"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c01.l02"
+      ],
+      "review_of": [
+        "v3.c01.l02",
+        "v3.c01.l01",
+        "v2.c05.l03",
+        "v2.c01.l01",
+        "v2.c05.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-01/lesson-03-with-what-for-whom.md",
+      "json": "json/volume-3/v3.c01.l03.json"
+    },
+    {
+      "id": "v3.c01.l04",
+      "title": {
+        "sa": "कस्य हे — सम्बन्धः सम्बोधनम् च",
+        "sa_iast": "kasya he — sambandhaḥ sambodhanam ca",
+        "hi": "किसका? और हे …! — सम्बन्ध और सम्बोधन",
+        "en": "Whose? and O …!"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c01.l03"
+      ],
+      "review_of": [
+        "v3.c01.l03",
+        "v3.c01.l02",
+        "v3.c01.l01",
+        "v1.c06.l02",
+        "v2.c06.l02",
+        "v2.c01.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-01/lesson-04-whose-and-o.md",
+      "json": "json/volume-3/v3.c01.l04.json"
+    },
+    {
+      "id": "v3.c01.l05",
+      "title": {
+        "sa": "विभक्तयः",
+        "sa_iast": "vibhaktayaḥ",
+        "hi": "विभक्तियाँ — आठ विभक्तियाँ, अध्याय 1 की परीक्षा",
+        "en": "The Eight Cases — Chapter 1 Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c01.l04"
+      ],
+      "review_of": [
+        "v3.c01.l01",
+        "v3.c01.l02",
+        "v3.c01.l03",
+        "v3.c01.l04",
+        "v2.c06.l05"
+      ],
+      "path": "curriculum/volume-3/chapter-01/lesson-05-cases-exam.md",
+      "json": "json/volume-3/v3.c01.l05.json"
     }
   ]
 }

@@ -39,10 +39,10 @@ media:
     - "planned:assets/worksheets/volume-3/v3c01l03-n-sort.pdf"
   quizzes: []
 tags: [grammar, cases, instrumental, dative, kāraka, natva, sutra, namaste-thread, hindi-bridge, serial, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---

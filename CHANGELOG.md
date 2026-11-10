@@ -4,27 +4,89 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.13.0] — 2026-11-10
+
+Volume 3 — व्याकरणम् · Core Grammar opens. The volume is planned in full, and its first
+chapter, सुबन्तप्रवेशः (Nouns & Cases I), is reviewed and shipped: five lessons, 27
+ledger-new words, 360 → 387 readable words.
 
 ### Added
 
+- **v3.c01, five lessons, reviewed** — the masculine and neuter a-stem singular in all
+  eight cells, two cases a lesson, each case arriving as the answer to its question word;
+  pause form throughout:
+  - कः किम् — कर्ता कर्म च · Who and What: the nominative and the accusative; the goal of
+    motion; two accusatives with नयति and पृच्छति (360 → 367).
+  - कुत्र कुतः — अधिकरणम् अपादानम् च · Where and From Where: the locative (place, the
+    place reached, time) and the ablative (367 → 374).
+  - केन कस्मै — करणम् सम्प्रदानम् च · With What, For Whom: the instrumental and the dative;
+    सह and विना; नमः, स्वस्ति and रोचते with the dative; the ṇ of रामेण as an observed
+    spelling in three columns; sūtras 2.3.16 and 2.3.19 (374 → 381).
+  - कस्य हे — सम्बन्धः सम्बोधनम् च · Whose? and O …!: the genitive and the vocative;
+    possession with the genitive; the two cases that, according to Pāṇini, are not kārakas
+    (381 → 387).
+  - विभक्तयः · The Eight Cases, the chapter exam: Station 0, four stations and five tasks —
+    listening with case questions, dictation, the production grid, the case detective over
+    both Volume 2 stories, a recorded scene description — with the singular column
+    assembled and sūtra 1.4.14.
+
+  Every grammar lesson follows one recipe (a scene; the question the new form answers; the
+  forms the learner already owns that answer it; the pattern named; the table built by the
+  learner; production), reports the cells it drills, and ends its grammar section with a
+  paradigm ledger. The Hindi parallels (को, से, के साथ, में / पर, का / के / की, ने, हे)
+  are taught as exact contrasts. The §17 story is a serial: our retelling of the doves and
+  the mouse, after Hitopadeśa 1, labelled as a retelling on every page.
 - **The Volume 3 plan** (`research/notes/vol3-plan.md`): the binding contract for the six
-  chapter fact bases of Volume 3 — व्याकरणम् · Core Grammar. For each of the 30 lessons
-  it fixes the one grammar point, the forms (every paradigm cell in Devanagari and IAST),
-  the model sentences, the headwords and the ledger figure; for the volume, what becomes
-  allowed when, the eight memorised tables and their delta cards, the recognition cards,
-  the 28 sūtras quoted to the learner, every promise Volumes 1–2 made to Volume 3 with
-  the lesson that keeps it, the Chapter 6 texts (a Hitopadeśa passage, a Pañcatantra story
-  opening, three verses, the unseen exam passage) with a status for every word-form and
-  measured gloss ratios, and what is left to Volume 4. It records how it was made: three
-  independent designs, three judges, a synthesis, a critique (24 gaps), the editor's
-  decisions on 14 open questions, and a block-by-block review of the repaired plan (68
-  confirmed fixes, 12 rejected).
-- `curriculum/volume-3/volume.md`: the Volume 3 frame (draft).
+  chapter fact bases. For each of the 30 lessons it fixes the one grammar point, the forms
+  (every paradigm cell in Devanagari and IAST), the model sentences, the headwords and the
+  ledger figure; for the volume, what becomes allowed when, the eight memorised tables and
+  their delta cards, the recognition cards, the 28 sūtras quoted to the learner, every
+  promise Volumes 1–2 made to Volume 3 with the lesson that keeps it, the Chapter 6 texts
+  (a Hitopadeśa passage, a Pañcatantra story opening, three verses, the unseen exam
+  passage) with a status for every word-form and measured gloss ratios, and what is left
+  to Volume 4. It records how it was made: three independent designs, three judges, a
+  synthesis, a critique (24 gaps), the editor's decisions on 14 open questions, and a
+  block-by-block review of the repaired plan (68 confirmed fixes, 12 rejected).
+- `curriculum/volume-3/volume.md`: the Volume 3 frame (draft until the volume is complete).
+- `research/notes/vol3-ch1-cases-singular.md`: the Chapter 1 fact base — table T1 checked
+  cell by cell against Whitney, the ṇ sort, the Hindi parallels, the Station 0 bookings
+  worded once for both lessons, and each lesson's texts, exercises and keys.
 - STYLE_GUIDE §8, rules 6–15: from Volume 3 on the ledger counts lemmas — one entry per
   noun, adjective, pronoun or verb; no cell of a taught table ever counts again — and each
-  grammar lesson reports the cells it drills and keeps a paradigm ledger. Planned Volume 3
-  exits: 387 · 411 · 439 · 460 · 488 · 508.
+  grammar lesson reports the cells it drills and keeps a paradigm ledger. Volume 3 exits as
+  planned: 387 · 411 · 439 · 460 · 488 · 508 (387 reached with this release).
+- REFERENCES: `kachru2006` (Y. Kachru, *Hindi*, 2006) and `guru1952` (K. Guru, *Hindī
+  vyākaraṇ*, 1952), both cited bare; `laghukaumudi` is cited by the sūtra under which a
+  passage stands.
+- GLOSSARY: the seven numbered case names and सम्बोधनम्; कारकम् and the role names करणम्,
+  सम्प्रदानम्, अपादानम्, अधिकरणम्; सम्बन्धः; सुप्, तिङ्, सुबन्तम्, तिङन्तम्, पदम्. कर्ता and
+  कर्म are re-glossed as role names (Volume 1's "subject" and "object" kept as the rough
+  labels they were), and विभक्ति as "case".
+
+### Fixed
+
+- **v3.c01 fact base, before drafting:** three independent lenses (forms, facts, contract)
+  and an evidence verifier confirmed 40 findings (16 major, 24 minor) and rejected 8. Among
+  them: दण्डेन सह for a carried stick, which undid the means / company contrast the chapter
+  teaches; a Hindi prompt that used को with पूछना; "-म् on every masculine object" (true of
+  the singular only); a folk etymology of मनोरथ; "owned" lines quoted from lessons that do
+  not contain them; two headwords never used in a sentence.
+- **v3.c01 review (passes A–D, every finding verified):** 58 findings confirmed (15 major,
+  43 minor), 5 rejected; 74 fixes. Majors: सह stated to follow its partner as a rule of
+  Sanskrit (it is the course's practice order; both orders are correct); "the च-row (but
+  not य)" among the ṇ blockers, which put य in the च-row; two HISTORY callouts that had the
+  Hitopadeśa's hunter spread his net under the tree; कम् अपि, the indefinite, used as a
+  कम्? question; a drill that said the locative's -े never follows त (प्रभाते does); the
+  error *अहम् पुस्तकम् अस्ति blamed on Hindi word order; विभक्ति defined in Hindi as a
+  "kāraka-form" in the lesson that teaches two cases that are not kārakas; an exam item
+  with two defensible answers; an exam that needs about 55 minutes in the room while its
+  front matter said 45 (now stated); lesson 3 naming a different pair of departures from
+  the Hitopadeśa than its siblings; the glossary missing every case and role name the
+  lessons point to. A post-fix verification re-read all
+  eight changed files against their pre-review text, with every claimed defect challenged:
+  six files were clean, and three minor defects were fixed (two fixes had each added five
+  minutes to the exam's homework; the fact base kept the exam's old model sentence; the
+  chapter frame counted 25 "nouns" where the exam scores 25 noun tokens).
 
 ## [0.12.1] — 2026-11-10
 

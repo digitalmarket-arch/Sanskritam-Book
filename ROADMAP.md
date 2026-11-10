@@ -51,7 +51,7 @@ at exit.
 
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
-| 1 | सुबन्तप्रवेशः — Nouns & Cases I | 5 | ⬜ |
+| 1 | सुबन्तप्रवेशः — Nouns & Cases I | 5 | ✅ reviewed |
 | 2 | सुबन्तविस्तारः — Nouns & Cases II | 5 | ⬜ |
 | 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ⬜ |
 | 4 | सन्धिः — Sandhi in Use | 5 | ⬜ |
@@ -218,6 +218,18 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   block by seven independent readers with every finding challenged (68 confirmed fixes, 21
   of them major; 12 rejected). The plan, the volume frame and the lemma-counting rules
   (STYLE_GUIDE §8, rules 6–15) are in the repository; v3.c01 is next.
+- **2026-11-10** — **v3.c01 सुबन्तप्रवेशः complete and reviewed — Volume 3 opens (0.13.0)**:
+  the masculine and neuter a-stem singular in all eight cells, two cases a lesson, each
+  arriving as the answer to its question word (कः कम् · कुत्र कुतः · केन कस्मै · कस्य, and हे
+  for calling), in pause form; the six role names, with the genitive and the vocative named
+  as the two cases that are not kārakas; the ṇ of रामेण as an observed spelling; the Hindi
+  parallels as exact contrasts; the serial of the doves and the mouse begun; the chapter
+  exam reads both Volume 2 stories noun by noun. Fact base verified before drafting (40
+  fixes); four lessons drafted in parallel and the exam after them; review passes A–D with
+  one accuracy reviewer per lesson (58 findings confirmed, 15 of them major; 5 rejected);
+  post-fix verification of all eight changed files (3 minor leftovers fixed). 27 ledger-new
+  (387 cumulative); 66 reviewed lessons, validator green, exports current. Next: v3.c02
+  सुबन्तविस्तारः — Nouns & Cases II.
 
 ## Content preservation map (from the 1.x curriculum)
 

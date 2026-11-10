@@ -67,7 +67,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | सन्धि | sandhi | joining — the regular sound-changes where words meet (system: Volume 3) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
 | कर्ता | kartā | the doer — in Pāṇini's grammar the kāraka of the one who acts (v3.c01.l01); Volume 1's rough label "subject" | कर्ता (क्रिया करने वाला) | v1.c06.l03 |
 | कर्म | karma | the done-to, and the goal of motion — in Pāṇini's grammar the kāraka of what the doer acts on or goes to (v3.c01.l01); Volume 1's rough label "object"; as a word also "action, deed" | कर्म | v1.c06.l03 |
-| विभक्ति | vibhakti | case ending; the case system (Volume 3) | विभक्ति (कारक-रूप) | v2.c02.l04 |
+| विभक्ति | vibhakti | case; a case ending — seven numbered cases and the vocative, eight forms in the singular (v3.c01) | विभक्ति (वाक्य में संज्ञा का काम दिखाने वाला रूप) | v2.c02.l04 |
 | लिङ्ग | liṅga | grammatical gender: masculine, feminine, neuter | लिंग (पुल्लिंग, स्त्रीलिंग, नपुंसक) | v2.c03.l01 |
 | समास | samāsa | compound word: सोमवार = सोम + वार | समास | v2.c03.l04 |
 | क्रिया | kriyā | verb ("action") — a word that tells an action or event | क्रिया (काम या घटना बताने वाला शब्द) | v1.c03.l02 |

@@ -38,10 +38,10 @@ media:
   worksheets: []
   quizzes: []
 tags: [grammar, cases, locative, ablative, kāraka, place, time, question-words, hindi-bridge, serial, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---

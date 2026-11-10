@@ -42,10 +42,10 @@ media:
     - "planned:assets/quizzes/volume-3/v3c01l05-chapter-quiz-key.md"
 tags: [review, assessment, cases, singular-column, listening, dictation, production-grid,
        case-detective, scene, thread-verses, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---
@@ -384,7 +384,7 @@ quiz at 7/10 or more.
 **A** is the column by ear: catch the asker, then answer in its case. **B** is the column
 by hand, every ending spelled, ण included. **C** is the column at speed; two of its twelve
 items hide a ṇ decision. **D** is the payoff of two volumes: the two stories you met with
-their role forms glossed, reprinted unchanged in §17, and 25 a-stem nouns to name. **E** is
+their role forms glossed, reprinted unchanged in §17, and 25 a-stem noun tokens to name. **E** is
 six recorded sentences about the scene picture; a listener should be able to draw the
 picture from what you say.
 
@@ -906,7 +906,7 @@ has it):
 12. वचनम् + किम्? (the doer)
 
 **कार्यम् D · कारकान्वेषणम् (the case detective — reading, written).** Work through both
-stories in §17 in order, as §17's reading note says: for each of the 25 a-stem nouns, one
+stories in §17 in order, as §17's reading note says: for each of the 25 a-stem noun tokens, one
 line with its line number, case and job ("L3 जलम् — द्वितीया · कर्म").
 
 **कार्यम् E · दृश्यवर्णनम् (the scene description — production, recorded).** Look at the
@@ -1062,7 +1062,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 1. **(10 min, closed-book)** The §19 quiz, then its key. 7/10 or more completes the exam.
 2. **(15 min)** Re-listen to the task A audio with the §16 script open, and underline every
    ending you missed in the sitting. Then mark each line's cases in the margin.
-3. **(20 min, recorded — production)** Task E once more, on a different picture: the court
+3. **(15 min, recorded — production)** Task E once more, on a different picture: the court
    scene of lesson 4 or any photo from home. Six sentences, every case at least once.
    Compare it with your exam take and with §13's model *after* you record.
 4. **(5 min, real world)** Teach someone at home the column on one name — theirs, if it is

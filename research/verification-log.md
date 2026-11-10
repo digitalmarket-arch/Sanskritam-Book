@@ -559,3 +559,60 @@ Not done in this sweep: the 46 lessons audited in October were not read line by 
 second time; they were covered by the chapter-coherence and course-wide audits above.
 
 Status: all 61 lessons validate with 0 errors and 0 warnings; JSON exports regenerated (61).
+
+## Volume 3 — the volume plan (2026-11-10)
+
+`research/notes/vol3-plan.md` binds the six chapter fact bases of Volume 3. Three independent
+syllabus designs (function-first, paradigm-economy, reading-backward) were judged by a
+Sanskritist, a pedagogue and a house editor, who all ranked function-first first; the
+synthesis took the other two's Chapter 6 texts, form inventories, memory budget and
+recognition cards and fixed the 29 errors the judges had found. A completeness critique
+found 24 gaps (8 major); the editor decided 14 open questions; and seven independent
+reviewers then re-derived the repaired plan block by block, each finding challenged by a
+skeptic: 68 confirmed (21 major, 47 minor), 12 rejected. The plan's §7 records all of it.
+Corrections with consequences for every later chapter: the middle imperative is built on
+the present's endings, not the imperfect's (3.4.90–93); अब्रवीत् is an imperfect, not a
+perfect; बहिः ends in s, not r; class-4 middles in -यते (मन्यते, जायते) are not passives;
+नमस्ते stays a counted word; the Pañcatantra is cited by tantra and story in learner text.
+
+## Chapter v3.c01 — research verdicts (2026-11-10)
+
+Fact base: research/notes/vol3-ch1-cases-singular.md, written from the plan's §4.1 and
+checked before drafting by three lenses (forms, facts, contract) and an evidence verifier:
+40 findings confirmed (16 major, 24 minor), 8 rejected.
+
+| Claim | Source checked | Verdict | Lands in |
+|---|---|---|---|
+| The a-stem singular, masculine and neuter (रामः, देवः, फलम्): -ः/-म्, -म्, -एन, -आय, -आत्, -स्य, -े, the bare stem; the neuter's nominative and accusative are one form | [REF:whitney1889 §327]; [REF:whitney1889 §330], cell by cell | ✅ | all; assembled in l05 §15 |
+| The singular cells of कः/किम्, सः/तत्, अहम्, त्वम् that each lesson uses | [REF:whitney1889 §504]; [REF:whitney1889 §495]; [REF:whitney1889 §491] | ✅ | l01–l04 |
+| -एन is written -एण when र्, ऋ or ष् stands earlier in the word and nothing between but vowels, ह य व र, the क-row or the प-row; the च-row and श, the ट-row, the त-row, स and ल block it; य does not; a word-final न is never affected | [REF:whitney1889 §189]; [REF:ashtadhyayi 8.4.1]; [REF:ashtadhyayi 8.4.2]; [REF:ashtadhyayi 8.4.37]; counts over the local GRETIL mirror | ✅ taught as an observed spelling in three columns; "the च-row (but not य)" corrected at review (य is not in the च-row); the rule is v4.c02's | l03 |
+| रामः is the memorised model; the instrumental is taught as -एन on देवः and रामेण shown as the same ending after र् | plan §7.3, decision 11 | ✅ editor's decision | l03, l05 |
+| Case uses taught: accusative of the done-to and of the goal; two accusatives with नयति and पृच्छति; locative of place, of the place reached, and of time; ablative "from"; instrumental of means, and of company with सह; dative of the recipient, with नमः, स्वस्ति and रोचते, and of purpose; genitive of possession, with उपरि and समीपे | [REF:whitney1889 §§267–305]; [REF:apte1890 s.v. नी, कथ्, विना, समीप, क्षिप्] | ✅ ("the locative keeps to place while गच्छति keeps its accusative goal" softened at review: Whitney §304a allows the locative of the goal) | l01–l04 |
+| सह takes the instrumental; its position is free | [REF:whitney1889 §1127]; [REF:ashtadhyayi 2.3.19]; counts over the local GRETIL mirror (both orders frequent) | ✅ corrected at review: "सह comes after its partner" is the course's practice order, not a rule | l03 |
+| The six kāraka names; the genitive and the vocative are not kārakas | [REF:ashtadhyayi 1.4.24] … [REF:ashtadhyayi 1.4.55]; [REF:ashtadhyayi 2.3.50]; [REF:ashtadhyayi 2.3.47] | ✅ TRADITION, assessed only as "According to Pāṇini"; the sūtras stay in Teacher Notes | l01–l05 |
+| Sūtras quoted to the learner: 2.3.16, 2.3.19 (l03); 1.4.14 (l05); 4.1.2 shown once as a picture | the local Aṣṭādhyāyī text | ✅ numbers and texts match | l03, l05 |
+| The Laghukaumudī lists the endings in seven triplets and works राम through them case by case; its two-accusative example is ग्राममजां नयति | [REF:laghukaumudi on 4.1.2]; [REF:laghukaumudi on 1.4.51] (GRETIL e-text) | ✅ cited by the sūtra under which the passage stands; the plan's अजां ग्रामं नयति is Apte's wording s.v. नी | l01, l05 Teacher Notes |
+| Hindi parallels: को for the definite object and the recipient; से for instrument and source; के साथ for company; में and पर against one locative; को with days; का/के/की agreeing with the thing possessed; के पास; ने in perfective clauses, mainly with transitive verbs; हे | [REF:kachru2006], cited bare; web check at Pass C | ✅ with corrections: company is के साथ, not से; पूछना takes से, not को; ने "mainly with transitive verbs" | l01–l04 |
+| Hindi school grammar teaches eight कारक, counting सम्बन्ध and सम्बोधन | [REF:guru1952], cited bare | ✅ printed as attributed TRADITION; assessed only as "According to …" | l04, l05 |
+| The serial's source: the frame story of Hitopadeśa 1 (a tree on a river bank where birds roost; a hunter scatters grain and spreads a net) | [REF:hitopadesha mitralābha] (GRETIL e-text, re-found by line) | ✅ corrected at review: two callouts had put the net under the tree; the retelling's departures (one dove first, the mouse's hole beside the tree, the mouse's warning) are stated | l01–l04 §4, §17 |
+| Ledger 360 → 367 → 374 → 381 → 387 → 387 (27 ledger-new; upgrade rows ग्रामः, हस्तः, पुत्रः, मित्रम्, अर्थः); the case and role names are glossary terms | STYLE_GUIDE §8 rules 1–15; the Volumes 1–2 vocabulary list | ✅ no double count | all |
+
+## Review-pass findings — v3.c01 (2026-11-10)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | One accuracy reviewer per lesson (forms re-derived; every exercise, quiz item and Station 0 prompt re-solved; every "owned since" claim and citation checked), each finding through an evidence check, majors also through a domain expert and a fix skeptic: 37 confirmed, 1 rejected. Majors: l01's Station 0 key left अहम् out of the -म् words; l02's model pair used कम् अपि (the indefinite) as a कम्? question; l02's drill said the locative's -े never follows त (प्रभाते); l02's Teacher Note overstated Whitney on the goal of motion; l03 stated the position of सह as a rule; l04 blamed *अहम् पुस्तकम् अस्ति on Hindi word order; l04's possession frame cited the wrong Whitney section; l04's Hindi defined विभक्ति as a kāraka-form; l05's quiz item 6 had two defensible answers. | fixed; pass |
+| B | Policy (9 confirmed): the exam needs about 55 minutes in the room, not 45 — now stated; l03 named a different pair of departures from the Hitopadeśa than l02 and l04; गुरवे in an evidence table without its honest line (a u-stem dative); the unlabelled plural पदानि; contradictory forward addresses; audio lines that did not match their drills; a missing paradigm-ledger row. | fixed; pass |
+| C | Citations (3 confirmed): the Hitopadeśa callouts (the net is not under the tree); Hindi ने; the kāraka range 1.4.24–1.4.55 in every lesson. | fixed; pass |
+| D | Coherence (9 confirmed, 4 rejected): the ṇ blockers stated correctly in four places and in Hindi; GLOSSARY gains the case and role names; the chapter frame says what task D scores; stale drafting notes; a tracker row quoted non-verbatim; homework minutes. | fixed; pass |
+
+Post-fix verification: one verifier per changed file (eight files: the five lessons, the
+chapter frame, the fact base and GLOSSARY) re-read the applied fixes against the pre-review
+commits, re-solved the keys and checked every restatement; each claimed defect faced a
+skeptic. Six files were clean; three minor defects survived and were fixed (two findings
+had each added five minutes to l05's homework, so its items summed to 50 against a stated
+45; the fact base kept task E's old model sentence; the chapter frame said "25 a-stem
+nouns" where l05 scores 25 noun tokens).
+
+Status change: v3.c01 chapter frame and lessons 01–05 `draft` → `reviewed`. The Volume 3
+frame stays `draft` until the volume is complete.
