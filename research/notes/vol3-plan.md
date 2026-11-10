@@ -2729,3 +2729,28 @@ Rejected on challenge (kept as written):
 | c05#0 | v3.c05.l01, model sentence 4 | The sentence uses the simple verb वसति, which the learner does not own at this point. |
 | volume#8 | §1.4 first bullet | The joined-text rule covers a final consonant (written together), a final vowel, anusvāra or visarga (space), and fusion. |
 | volume#11 | §1.5 thread-verse table, benediction row | The benediction is attributed to v1.c06.l04 but is printed fully joined (मा कश्चिद्दुःखभाग्भवेत्). |
+
+### 7.6 Corrections made by the chapter fact bases
+
+A chapter fact base is checked against the sources before its lessons are drafted, and it
+corrects this plan where the plan is wrong; each fact base lists its deviations in its §7.
+The plan's text above is left as it was reviewed. The corrections below matter to chapters
+still to come: a later fact base follows this table, not the lines it corrects.
+
+| From | The plan says | Correction (where it matters next) |
+|---|---|---|
+| v3.c02 | §1.3 (the R2 row) and the c02.l05 block list गतः, क्रुद्धः and पिपासितः among the R2 forms and say "with one as the verb, the doer goes into the instrumental"; §1.5, the c02.l05 block and §5 label सुप्तस्य "(R2)" | R2 is the frame of a **transitive** verb's -त participle (बद्धः, मुक्तः, कृत, उक्त): the doer in the instrumental, the participle agreeing with the thing done. गत is from a verb of motion, whose goal is still a कर्म (3.4.72 lists such verbs apart); क्रुद्धः, पिपासितः and सुप्त are from verbs with no object. In the course's sentences these agree with their doer, and सुप्तस्य in the verse is not R2 (c06.l04; v4.c04–c05) |
+| v3.c02 | c02.l05 block: उक्तं च "330 times" in the Pañcatantra e-text | 329 as a whole word; the bare string gives 330 because of one *yuktaṃ caitat*. The Hitopadeśa e-text has 7 by the same method (8 as a bare string). Later counts use the whole-word method and say so (c06.l03) |
+| v3.c02 | §1.1 and the c02.l05 TRADITION line: "1.4.24–1.4.54 … 2.3.2 ff." | 1.4.24–1.4.55 and 2.3.1 ff., as the v3.c01 review fixed the range (v4.c05) |
+| v3.c02 | c02.l04 block, the dual card's row for 2: "(द्वाभ्याम्, ◐) (द्वयोः, ◐)" | The numeral's oblique cells are printed nowhere in Volume 3 (D11: v4.c05); the row shows द्वौ / द्वे only |
+| v3.c02 | c02.l04 block, model sentence 3: नमति + accusative "contrasted" with नमः + dative | नम् takes the accusative or the dative (Apte s.v. नम्): मात्रे नमामि is never marked wrong; the contrast taught is verb against indeclinable |
+| v3.c02 | c02.l03 block: the ṇ of the genitive plural shown on गुरूणाम् only | The triggers are र, ऋ and ष with nothing blocking, on the i-side too: हरीणाम्, ऋषीणाम् (c04.l04 names the law; v4.c02 teaches it) |
+| v3.c02 | §1.5, serial episode 2: "the king of the doves; two feet in the net" | As built: the free dove of episode 1 gives the warning (in the Hitopadeśa the king warns and is overruled); the king is caught last, with two feet in the snare; the hunter's wife and the young dove's parents are ours; the river, its bank and the silk-cotton tree are the text's. Episode 3 starts from the king in the snare (c03); c06.l02's Teacher Notes list every departure |
+| v3.c01 | (see that fact base's §7, "Deviations from the plan") | Among them: the two-accusative example is the Laghukaumudī's ग्राममजां नयति (the plan's wording is Apte's); the kāraka sūtras run from 1.4.24 to 1.4.55 |
+
+Rules the chapter reviews settled, binding on later chapters: a form that is not yet taught
+may not stand even as a wrong option of a quiz or exercise item; `self_study_minutes` covers
+everything a lesson asks of the learner outside class time, and §21 adds up to it; a
+Whitney section is cited only after it has been opened and found to say what it is cited
+for; in Hindi text grammar terms take their Hindi spellings (पुल्लिंग, स्त्रीलिंग,
+नपुंसकलिंग, लिंग), in Sanskrit text their Sanskrit ones (पुंलिङ्गम् …).

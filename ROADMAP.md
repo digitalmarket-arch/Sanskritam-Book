@@ -52,7 +52,7 @@ at exit.
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
 | 1 | सुबन्तप्रवेशः — Nouns & Cases I | 5 | ✅ reviewed |
-| 2 | सुबन्तविस्तारः — Nouns & Cases II | 5 | ⬜ |
+| 2 | सुबन्तविस्तारः — Nouns & Cases II | 5 | ✅ reviewed |
 | 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ⬜ |
 | 4 | सन्धिः — Sandhi in Use | 5 | ⬜ |
 | 5 | सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds | 5 | ⬜ |
@@ -230,6 +230,20 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   post-fix verification of all eight changed files (3 minor leftovers fixed). 27 ledger-new
   (387 cumulative); 66 reviewed lessons, validator green, exports current. Next: v3.c02
   सुबन्तविस्तारः — Nouns & Cases II.
+- **2026-11-10** — **v3.c02 सुबन्तविस्तारः complete and reviewed (0.14.0)**: the a-stem
+  plural with agreement in number and case and the numerals 1–10 by gender; the feminine
+  (बालिका, with नदी as a delta card) and agreement in gender; the i- and u-stems, where गुरवे
+  नमः explains itself; the ṛ-stems and the dual as a card, with sūtra 1.2.70 for पितरौ; the
+  roles map, which sets the six kārakas beside their usual cases and shows where case and
+  job part company; the 1.x rāma table restored and verified; the serial's second episode.
+  Fact base verified before drafting (39 fixes, among them a recognition card that held
+  only for transitive verbs); four lessons drafted in parallel and the exam after them;
+  review passes A–D with one accuracy reviewer per lesson (56 distinct findings confirmed,
+  one of them blocking: a dual said to look like a locative); post-fix verification of all
+  changed files (19 minor leftovers fixed). The v2.c03 numeral erratum shipped with it
+  (gender in counting is v3.c02's; the numeral system v4.c05's). 24 ledger-new (411
+  cumulative); 71 reviewed lessons, validator green, exports current. Next: v3.c03
+  तिङन्तप्रवेशः — The Present-System Verb (fact base written, under verification).
 
 ## Content preservation map (from the 1.x curriculum)
 

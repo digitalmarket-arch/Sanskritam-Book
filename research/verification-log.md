@@ -616,3 +616,69 @@ nouns" where l05 scores 25 noun tokens).
 
 Status change: v3.c01 chapter frame and lessons 01–05 `draft` → `reviewed`. The Volume 3
 frame stays `draft` until the volume is complete.
+
+## Chapter v3.c02 — research verdicts (2026-11-10)
+
+Fact base: research/notes/vol3-ch2-plural-stems-dual.md, written from the plan's §4.2 and
+checked before drafting by three lenses (forms, facts, contract) and an evidence verifier:
+39 findings confirmed (3 blocker, 8 major, 28 minor), 1 rejected.
+
+| Claim | Source checked | Verdict | Lands in |
+|---|---|---|---|
+| Sanskrit has three numbers; the plural begins at three | [REF:whitney1889 §264]; [REF:whitney1889 §265]; [REF:ashtadhyayi 1.4.21]; [REF:ashtadhyayi 1.4.22] | ✅ the plan's §265 for "three numbers" corrected to §264 (§265 is the dual's use); the two sūtras stay in Teacher Notes | l01, l04 |
+| T2, the a-stem plural, masculine and neuter (रामाः, फलानि), cell by cell; देवानाम् is the model for the genitive plural and रामाणाम् the same ending after र् | [REF:whitney1889 §329]; [REF:whitney1889 §330]; plan §7.3, decision 11 | ✅ | l01; assembled in l05 §15 |
+| The ṇ of रामाणाम्, गुरुणा, गुरूणाम्, हरीणाम्, पितॄणाम्, त्रीणि and the ṣ of रामेषु, अग्निषु, गुरुषु against बालिकासु | [REF:whitney1889 §180]; [REF:whitney1889 §189] | ✅ observed spellings (rules: v4.c02); corrected at review: the triggers are र, ऋ and ष, so हरीणाम् and ऋषीणाम् take ṇ; the ṣ of -एषु depends only on the vowel before it | l01–l05 |
+| The verb's 3rd-person plural -अन्ति and सन्ति beside a plural doer | [REF:whitney1889 §§541–553]; plan §1.2 | ✅ a labelled partner here, taught fully in v3.c03.l01; the plan's locator for the a-class present corrected (§§733 ff.) | l01 |
+| Agreement: an adjective takes the gender, number and case of its noun; a-adjectives make the feminine in -आ | [REF:whitney1889 §332]; [REF:whitney1889 §368] | ✅ "three stems" reworded at review (two stems, three sets of endings) | l01, l02 |
+| Numerals 1–10 in the nominative and accusative by gender: एकः/एका/एकम्; द्वौ/द्वे; त्रयः, त्रीन्, त्रीणि, तिस्रः; चत्वारः, चतुरः, चत्वारि, चतस्रः; 5–10 unchanged | [REF:whitney1889 §482]; [REF:whitney1889 §483] | ✅ the 1.x book's "ततस्रः" corrected in the open to तिस्रः (IR-025); the numerals' oblique cells are printed nowhere in the chapter (v4.c05) — removed from the dual card at review | l01, l02, l04 |
+| T3, the ā-stem feminine (बालिका) with सा/ताः; the नदी delta card; the feminine asker as a display | [REF:whitney1889 §363]; [REF:whitney1889 §364]; [REF:whitney1889 §495]; [REF:whitney1889 §504] | ✅ | l02 |
+| T4, i- and u-stems (अग्निः, गुरुः): the stem vowel strengthens in the dative, ablative-genitive and vocative singular and the nominative plural; the locative singular is -औ; the feminine delta cells (मत्या, मतीः, धेन्वा, धेनूः; the optional feminine set) | [REF:whitney1889 §§336–339]; [REF:whitney1889 §341] | ✅ | l03 |
+| साधु as an adjective has two feminines, साधुः and साध्वी | [REF:apte1890 s.v. साधु] | ✅ corrected at review (the row gave -ध्वी only) | l03 |
+| R1: पक्षी, an -इन् stem, recognised in seven cells | [REF:whitney1889 §440]; [REF:apte1890 s.v. पक्षिन्] | ✅ recognition only | l03 |
+| The ablative of comparison with श्रेष्ठः | [REF:whitney1889 §292]; [REF:monierwilliams1899 s.v. śreṣṭha] ("abl. or gen."); [REF:apte1890 s.v. श्रेष्ठ] | ✅ the genitive is accepted in keys and never offered as a wrong option | l03 |
+| T5, ṛ-stems (पिता, माता; दाता, स्वसा): strong stem -अर्- / -आर्-, the nominative singular in -आ, the genitive singular in -उः | [REF:whitney1889 §§369–373] | ✅ | l04 |
+| The dual: three forms for every noun and pronoun; द्वौ/द्वे; उभौ/उभे | [REF:whitney1889 §328]; [REF:whitney1889 §337]; [REF:whitney1889 §364]; [REF:whitney1889 §373]; [REF:apte1890 s.v. उभ] | ✅ a card (nominative-accusative productive, the rest recognised); Whitney gives no paradigm for उभ (his §525c is उभय); corrected at review: the feminine dual बालिके coincides with the vocative singular, not with a locative | l04, l05 |
+| Sūtra 1.2.70 पिता मात्रा: पितरौ may stand for mother and father (एकशेष) | [REF:ashtadhyayi 1.2.70]; [REF:ashtadhyayi 1.2.64]; the Kāśikā on 1.2.70 | ✅ TRADITION; the chapter's one sūtra quoted to the learner | l04 |
+| नम् takes the accusative or the dative; नमः takes the dative | [REF:apte1890 s.v. नम्]; [REF:ashtadhyayi 2.3.16] | ✅ corrected before drafting: मात्रे नमामि is never marked wrong | l04, l05 |
+| R2: a transitive verb's -त participle with its doer in the instrumental (मया कृतम्) | [REF:whitney1889 §952]; [REF:whitney1889 §282]; [REF:ashtadhyayi 2.3.18]; [REF:ashtadhyayi 3.4.70]; [REF:ashtadhyayi 3.4.72] | ✅ corrected twice: before drafting (the card holds for transitive verbs only) and at review (गत is from a verb of motion, whose goal is still a कर्म; क्रुद्धः, पिपासितः, सुप्त from verbs with no object) | l05 |
+| The roles map: six kārakas with their usual cases; places where case and job part company (the neuter's one form, नमः + dative, सह + instrumental, the R2 doer); with रोचते the one pleased is a सम्प्रदानम् for Pāṇini | [REF:ashtadhyayi 1.4.24] … [REF:ashtadhyayi 1.4.55]; [REF:ashtadhyayi 1.4.33]; [REF:ashtadhyayi 2.3.1]; [REF:cardona1997] | ✅ TRADITION, assessed only as "According to Pāṇini"; the ranges 1.4.24–1.4.55 and 2.3.1 ff. named by number, 2.3.16 and 2.3.19 recalled from v3.c01.l03, every other number in Teacher Notes | l05 |
+| Fillmore proposed "deep cases" in 1968; Kiparsky and Staal (1969) describe Pāṇini's grammar as working through levels, with the kārakas between meaning and the case endings | [REF:fillmore1968]; [REF:kiparskystaal1969] — bibliographic data confirmed on the web (Fillmore pp. 1–88 in most indexes; *Foundations of Language* 5.1, pp. 83–117; the 1988 reprint is Staal's own statement); the description of levels follows standard summaries, the article itself unopened | ✅ HISTORY, both keys cited bare; a parallel only, no claim of influence either way | l05 |
+| Hindi parallels: the oblique plural (लड़कों; गुरुओं); adjectives in -ā/-ī/-e against three genders; दो with a plural against the dual; the plural of respect; tatsama nominatives (माता, पिता, दाता) | [REF:kachru2006], cited bare; web check at Pass C | ✅ with corrections: Hindi गुरु does change in the oblique plural; Kachru is cited for Hindi facts only (the Sanskrit nominatives rest on Whitney §373) | l01–l04 |
+| The serial's source: Hitopadeśa 1, the frame (a silk-cotton tree on the bank of the Godāvarī where birds roost at night; the hunter's grains and net; the king of the doves warns and is overruled; all are bound) | [REF:hitopadesha mitralābha] (GRETIL e-text, re-found by line) | ✅ "our retelling" on every page; departures listed in l05's Teacher Notes (the hunter's wife, the free dove's warning, the young dove's parents and the king caught last are ours; the river, bank and tree are the text's) — the list corrected at review | l01–l05 §4, §17, §22 |
+| The thread verse उद्यमेन हि सिध्यन्ति … (Hitopadeśa, prastāvikā 36) and the count of उक्तं च | [REF:hitopadesha prastāvikā 36]; whole-word counts over the local e-texts: 329 in the Pañcatantra's, 7 in the Hitopadeśa's | ✅ counts given by one method (corrected at review: 8 was a bare-string count) | l05 |
+| Ledger 387 → 392 → 399 → 406 → 411 → 411 (24 ledger-new; upgrade rows लोकः, कणः, नेत्रम्, कोमलः); the grammar terms are glossary items; कर्ता is a ledger word from l04 | STYLE_GUIDE §8 rules 1–15; the learner's word list | ✅ no double count | all |
+| Volume 2 said numeral gender waits for Volume 4 (v2.c03 lessons 1, 2, 3, 5) | plan D11 and decision 7 | ✅ erratum applied: gender in counting is v3.c02's, the full numeral system v4.c05's (24 lines, two related-lessons notes found at verification, and the ROADMAP's preservation-map row) | v2.c03; ROADMAP |
+
+## Review-pass findings — v3.c02 (2026-11-10)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | One accuracy reviewer per lesson, each finding through an evidence check, majors also through a domain expert and a fix skeptic: 36 confirmed, 8 rejected (7 of them already fixed by another pass). Blocker: l04 said the feminine dual बालिके looks like a locative singular (it coincides with the vocative singular). Majors: untaught forms used as wrong quiz options (तिस्रः in l01, the i-stem instrumental in l02); l02's and l03's reel lines claimed more than the lessons teach; l03 said Hindi गुरु never changes; l03's rule for the genitive plural would have produced *हरीनाम्; l03 gave the crow story's moral to "the crow and the lion"; l04's listening pair had no locative in its "locative" phrase; l04's key rejected correct answers; l04's dual card printed the numeral's oblique cells; l05 filed गत under verbs with no object; l05's exam-day check applied the ṇ rule to the ṣ of -एषु. | fixed; pass |
+| B | Policy and load (10 confirmed, 3 rejected; 5 of the 10 were Pass D's findings again): untaught बह्वी as a quiz option; ते and के labelled a preview in l01 although productive there; exercises of l01 and l04 placed in neither class nor homework; ददातु without भवान्; listening-pair tasks in l02 and l03 with no stated order and no key. | fixed; pass |
+| C | Citations (6 confirmed, 1 rejected): l05's record of the serial's departures called the river "ours"; [REF:kachru2006] attached to a statement about the course's Sanskrit; the Sanskrit nominatives of the ṛ-stems cited to a Hindi grammar; the two उक्तं च counts made by different methods; the grains placed at the tree; साधु given one feminine. | fixed; pass |
+| D | Coherence (9 confirmed, 1 rejected): the exam's dual card printed the numeral's oblique cells again; its examples printed five of the eight task C sentences; its preparation sat outside both time figures (self-study is now 65 minutes: 20 before the sitting, 45 after); l04's review section missed three of its review_of lessons; the task C key did not say that an extra marked sentence costs nothing; l03's homework did not add up; a Vedic form as a quiz option; "recipient" beside "receiver". | fixed; pass |
+
+After the passes the editor normalised the gender terms in Hindi text (पुल्लिंग, स्त्रीलिंग,
+नपुंसकलिंग, लिंग; 28 lines) and added the chapter's terms to GLOSSARY.
+
+Post-fix verification: one verifier per changed file (twelve files: the five lessons, the
+fact base, GLOSSARY, the four v2.c03 lessons of the erratum and ROADMAP) re-read the applied
+fixes against the pre-review commits, re-solved the keys and checked every restatement; each
+claimed defect faced a skeptic (one refuted). GLOSSARY, ROADMAP and two of the v2.c03
+lessons were clean. Nineteen minor defects survived and were fixed: a drill that implied
+वे is longer in देवेभ्यः than in देवेषु; "mostly" restored where a key cites Monier-Williams
+on मित्र; l03's R1 homework named the wrong column of its card, and its genitive-plural rule
+had lost "with nothing blocking"; l04's written exercise 2 was assigned to neither class
+nor homework; "recipient" in one quiz option of l05, and a Teacher Note that printed a
+frame it said the course does not print; two related-lessons notes in v2.c03 that still
+filed the numeral machinery under Volume 4 alone; and nine places where the fact base had
+not followed a correction made in a lesson.
+
+Status change: v3.c02 chapter frame and lessons 01–05 `draft` → `reviewed`. The Volume 3
+frame stays `draft` until the volume is complete.
+
+Decisions recorded with this chapter: an untaught form may not stand even as a wrong option
+of a quiz or exercise item; everything a lesson asks of the learner outside class time is
+counted in `self_study_minutes`, and §21 adds up to it; in Hindi text the gender terms take
+their Hindi spellings; a chapter fact base corrects the plan where research finds it wrong,
+and corrections that later chapters need are listed in the plan's §7.6.

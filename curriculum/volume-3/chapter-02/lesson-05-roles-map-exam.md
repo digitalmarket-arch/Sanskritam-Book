@@ -42,10 +42,10 @@ media:
     - "planned:assets/quizzes/volume-3/v3c02l05-chapter-quiz-key.md"
 tags: [review, assessment, karaka, roles-map, plural, dual, agreement, numerals,
        recognition-card, thread-verses, family, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---

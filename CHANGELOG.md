@@ -4,15 +4,101 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.14.0] — 2026-11-10
+
+Volume 3, Chapter 2 — सुबन्तविस्तारः (Nouns & Cases II) — is reviewed and shipped: five
+lessons, 24 ledger-new words, 387 → 411 readable words. The noun is now open beyond the
+a-stem singular: the plural, the feminine with agreement, the i-, u- and ṛ-stems, the dual,
+and a map of the six roles.
+
+### Added
+
+- **v3.c02, five lessons, reviewed** — pause form throughout:
+  - बहवः · Many: the a-stem plural in every case (table T2: रामाः, फलानि, with देवानाम्
+    beside रामाणाम्); the plural askers and answers; adjectives agreeing in number and case;
+    the numerals 1, 3, 4 and 5–10 with masculine and neuter nouns (त्रयः, त्रीन्, त्रीणि);
+    the verb's -अन्ति and सन्ति beside a plural doer, labelled as Chapter 3's (387 → 392).
+  - सा प्रिया · She, and the Words that Follow Her: the ā-stem feminine (T3, बालिका) with सा
+    and ताः; नदी as a delta card; agreement in gender; एका, तिस्रः, चतस्रः, with the 1.x
+    book's "ततस्रः" corrected in the open (392 → 399).
+  - अग्निः गुरुः च · Fire and Teacher: the i- and u-stems (T4), where the stem vowel
+    strengthens and गुरवे नमः, owned since Volume 2, explains itself; the feminine delta
+    card (मतिः, धेनुः); बहु; the ablative "than"; a recognition card for पक्षी (399 → 406).
+  - पितरौ · Parents: the ṛ-stems (T5: पिता, माता, दाता, स्वसा); the dual as a card of three
+    endings, productive in the nominative and accusative; द्वौ / द्वे and उभौ; sūtra 1.2.70
+    पिता मात्रा (406 → 411).
+  - कारकाणि · The Roles Map, the chapter exam: the six kārakas each beside its usual case,
+    and the places where case and job part company (नमः with a dative and no receiver; सह
+    with an instrumental of company; the doer in the instrumental in मया कृतम्); the 8×3
+    table of रामः restored from the 1.x book and verified; a recognition card for the -त
+    participle of transitive verbs; five tasks in one 45-minute sitting, with Station 0
+    before it.
+
+  The serial continues (our retelling, after Hitopadeśa 1): the hunter comes back with
+  grains and snares, the flock flies down, and the king of the doves is caught. The Hindi
+  parallels are exact contrasts again: the oblique plural, अच्छा / अच्छी / अच्छे against
+  three genders, दो with a plural against the dual, the plural of respect.
+- `research/notes/vol3-ch2-plural-stems-dual.md`: the Chapter 2 fact base — tables T2–T5
+  and the dual card checked cell by cell against Whitney, the numerals by gender, the roles
+  map, the Station 0 bookings worded once for both lessons, each lesson's texts, exercises
+  and keys, and the editor's decisions.
+- REFERENCES: `fillmore1968` (C. J. Fillmore, "The Case for Case", 1968) and
+  `kiparskystaal1969` (P. Kiparsky and J. F. Staal, "Syntactic and Semantic Relations in
+  Pāṇini", 1969), both cited bare, for one HISTORY note in lesson 5 that sets Pāṇini's
+  kārakas beside the semantic roles of modern grammar as a parallel, with no claim of
+  influence either way.
+- GLOSSARY: द्विवचनम् and बहुवचनम्; पुंलिङ्गम्, स्त्रीलिङ्गम्, नपुंसकलिङ्गम्; विशेष्यम्;
+  सङ्ख्या; the stem-class names अकारान्त … ऋकारान्त; एकशेषः. विशेषण and कारकम् updated.
+- `research/notes/vol3-plan.md` §7.6: the corrections the chapter fact bases have made to
+  the plan, listed for the chapters still to come.
+- `research/notes/vol3-ch3-present-system-verb.md` and
+  `curriculum/volume-3/chapter-03/chapter.md`: the Chapter 3 fact base and frame as first
+  written; their verification is in progress and no lesson is drafted from them yet.
+
+### Changed
+
+- STYLE_GUIDE §8: 411 reached. Two rules the review settled are recorded in
+  `research/verification-log.md`: a form that is not yet taught may not stand even as a
+  wrong option of a quiz or exercise item, and everything a lesson asks of the learner
+  outside class time is counted in `self_study_minutes`.
 
 ### Fixed
 
 - **v2.c03 (numbers), erratum** — lessons 1, 2, 3 and 5 said that the gender of the number
   words waits for Volume 4. The Volume 3 plan teaches the numerals 1–10 in the nominative
   and accusative, by gender, in v3.c02, and leaves the full numeral system to v4.c05. The
-  24 lines that carried the old pointer now say so; the ROADMAP's preservation-map row for
-  the numeral paradigms names v3.c02, v3.c05 and v4.c05.
+  24 lines that carried the old pointer now say so, as do two related-lessons notes found
+  at verification; the ROADMAP's preservation-map row for the numeral paradigms names
+  v3.c02, v3.c05 and v4.c05.
+- **v3.c02 fact base, before drafting:** three independent lenses (forms, facts, contract)
+  and an evidence verifier confirmed 39 findings (3 blocker, 8 major, 28 minor) and
+  rejected 1. The blockers: the recognition card for the -त participle was stated for
+  every verb, with intransitive examples (found by two lenses) — it holds for transitive
+  verbs; and मात्रे नमामि was starred as an error although नम् takes the accusative or the
+  dative. Among the majors: sūtra numbers meant for Teacher Notes printed in learner text;
+  three wrong Whitney locators; an objective that promised production of recognition-only
+  cells; a key that accepted कर्णः but not कर्णम् for the singular of कर्णौ.
+- **v3.c02 review (passes A–D, every finding verified):** 61 findings confirmed — 56
+  distinct, since Pass B confirmed five that Pass D had already fixed — and 13 rejected,
+  seven of them because another pass had fixed the same thing first; 108 fixes. One
+  blocker: lesson 4 said the feminine dual बालिके looks like a locative singular (it
+  coincides with the vocative singular; the locative is बालिकायाम्). Majors (18 distinct):
+  untaught forms used as wrong quiz options; reel lines in lessons 2 and 3 that claimed
+  more than the lessons teach; "Hindi गुरु never changes" (it does, in the oblique plural);
+  a rule for the genitive plural that would have produced *हरीनाम्; the crow story's moral
+  given to "the crow and the lion"; a listening pair with no locative in its "locative"
+  phrase; an exercise key that rejected correct answers; the numeral's oblique cells on
+  the dual card, in lesson 4 and again in the exam; गत filed under verbs with no object
+  although the goal of motion is a कर्म; an exam-day check that applied the ṇ rule to the
+  ṣ of -एषु; the exam's record of the serial's departures, which called the river "ours";
+  a Hindi grammar cited for a statement about the course's Sanskrit; the exam's examples
+  printing five of the eight sentences of the task they prepare; preparation counted in
+  neither time figure (self-study is now 65 minutes: 20 before the sitting, 45 after);
+  lesson 4's review section missing three of the lessons it claims to review. After the
+  passes, the gender terms in Hindi text were given their Hindi spellings throughout (28
+  lines). A post-fix verification re-read all twelve changed files against their
+  pre-review text, with every claimed defect challenged: 19 minor leftovers fixed, one
+  claimed defect refuted.
 
 ## [0.13.0] — 2026-11-10
 

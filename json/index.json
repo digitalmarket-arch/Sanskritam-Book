@@ -1378,6 +1378,129 @@
       ],
       "path": "curriculum/volume-3/chapter-01/lesson-05-cases-exam.md",
       "json": "json/volume-3/v3.c01.l05.json"
+    },
+    {
+      "id": "v3.c02.l01",
+      "title": {
+        "sa": "बहवः",
+        "sa_iast": "bahavaḥ",
+        "hi": "बहुत-से — अकारान्त शब्दों का बहुवचन",
+        "en": "Many: the a-Stem Plural"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c01.l05"
+      ],
+      "review_of": [
+        "v3.c01.l05",
+        "v3.c01.l04",
+        "v2.c03.l01",
+        "v2.c03.l02",
+        "v1.c03.l01",
+        "v2.c06.l03"
+      ],
+      "path": "curriculum/volume-3/chapter-02/lesson-01-many.md",
+      "json": "json/volume-3/v3.c02.l01.json"
+    },
+    {
+      "id": "v3.c02.l02",
+      "title": {
+        "sa": "सा प्रिया",
+        "sa_iast": "sā priyā",
+        "hi": "वह प्यारी — स्त्रीलिंग और उसके पीछे चलने वाले शब्द",
+        "en": "She, and the Words that Follow Her"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c02.l01"
+      ],
+      "review_of": [
+        "v3.c02.l01",
+        "v3.c01.l05",
+        "v2.c02.l01",
+        "v2.c02.l02",
+        "v2.c05.l04",
+        "v2.c06.l01",
+        "v1.c05.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-02/lesson-02-she-and-agreement.md",
+      "json": "json/volume-3/v3.c02.l02.json"
+    },
+    {
+      "id": "v3.c02.l03",
+      "title": {
+        "sa": "अग्निः गुरुः च",
+        "sa_iast": "agniḥ guruḥ ca",
+        "hi": "अग्नि और गुरु — इकारान्त और उकारान्त शब्द",
+        "en": "Fire and Teacher: i- and u-Stems"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c02.l02"
+      ],
+      "review_of": [
+        "v3.c02.l02",
+        "v3.c02.l01",
+        "v3.c01.l03",
+        "v2.c02.l03",
+        "v2.c01.l01",
+        "v2.c06.l01",
+        "v2.c01.l03"
+      ],
+      "path": "curriculum/volume-3/chapter-02/lesson-03-fire-and-teacher.md",
+      "json": "json/volume-3/v3.c02.l03.json"
+    },
+    {
+      "id": "v3.c02.l04",
+      "title": {
+        "sa": "पितरौ",
+        "sa_iast": "pitarau",
+        "hi": "माता-पिता — ऋकारान्त शब्द और द्विवचन",
+        "en": "Parents: ṛ-Stems and the Dual"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c02.l03"
+      ],
+      "review_of": [
+        "v3.c02.l03",
+        "v3.c02.l02",
+        "v2.c02.l01",
+        "v1.c02.l03",
+        "v1.c02.l04",
+        "v1.c02.l06",
+        "v2.c02.l04",
+        "v2.c06.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-02/lesson-04-parents-and-the-dual.md",
+      "json": "json/volume-3/v3.c02.l04.json"
+    },
+    {
+      "id": "v3.c02.l05",
+      "title": {
+        "sa": "कारकाणि",
+        "sa_iast": "kārakāṇi",
+        "hi": "कारक — भूमिकाओं का मानचित्र, अध्याय 2 की परीक्षा",
+        "en": "The Roles Map — Chapter 2 Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c02.l04"
+      ],
+      "review_of": [
+        "v3.c02.l01",
+        "v3.c02.l02",
+        "v3.c02.l03",
+        "v3.c02.l04",
+        "v3.c01.l05"
+      ],
+      "path": "curriculum/volume-3/chapter-02/lesson-05-roles-map-exam.md",
+      "json": "json/volume-3/v3.c02.l05.json"
     }
   ]
 }
