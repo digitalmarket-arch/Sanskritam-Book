@@ -618,12 +618,12 @@ tiles if you attempt them, and read your favorites to someone.
 
 1. The च-row shares its five manner slots with the क-row. Which palatal letter sits in the
    same slot as ख? (a) च (b) छ (c) झ (d) ञ
-2. Sanskrit ज is pronounced: (a) [z], as in Hindi ज़रूरत (b) /d͡ʑ/ — full closure, voiced,
-   released into friction (c) exactly like English *j* in *judge*, lips rounded (d) /ɲ/
-3. On the tissue test, छ should: (a) barely stir the tissue (b) throw it with a burst of
-   breath (c) hum without any burst (d) send the air through the nose
-4. ञ is: (a) the dental nasal, same as न (b) the palatal nasal /ɲ/, tongue body at the
-   palate (c) a vowel (d) another way of writing ज
+2. Sanskrit ज is pronounced: (a) [z], as in Hindi ज़रूरत (b) exactly like English *j* in
+   *judge*, lips rounded (c) /ɲ/ (d) /d͡ʑ/ — full closure, voiced, released into friction
+3. On the tissue test, छ should: (a) throw it with a burst of breath (b) barely stir the
+   tissue (c) hum without any burst (d) send the air through the nose
+4. ञ is: (a) the dental nasal, same as न (b) a vowel (c) the palatal nasal /ɲ/, tongue
+   body at the palate (d) another way of writing ज
 5. According to the Pāṇinian description, the sounds of the च-row are: (a) affricates
    (b) palatal stops, with the same complete-contact manner as every varga (c) sibilants
    (d) semivowels
@@ -637,11 +637,11 @@ tiles if you attempt them, and read your favorites to someone.
 
 1. (b) छ — slot 2, voiceless aspirated: the tissue-thrower of its row, exactly as ख is of
    the velars (§8).
-2. (b) /d͡ʑ/ — full closure, then a voiced friction release. [z] is the Hindi loan sound
+2. (d) /d͡ʑ/ — full closure, then a voiced friction release. [z] is the Hindi loan sound
    the dot marks; rounded English *j* fails the mirror check (§8, §12).
-3. (b) throw it — छ is the aspirated slot; a calm tissue means the च/छ contrast has
+3. (a) throw it — छ is the aspirated slot; a calm tissue means the च/छ contrast has
    collapsed (§9, §12).
-4. (b) the palatal nasal /ɲ/ — one gesture at the palate; the nose-pinch check proves it
+4. (c) the palatal nasal /ɲ/ — one gesture at the palate; the nose-pinch check proves it
    (§5, §11).
 5. (b) palatal stops with complete contact — the affricate value is the pan-Indic
    pronunciation this course teaches as target (§4, §10).

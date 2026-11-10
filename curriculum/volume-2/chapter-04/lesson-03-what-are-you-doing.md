@@ -646,22 +646,22 @@ the recording — lesson 5's exam task C asks for this family again, under time.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The doing-question to a friend, exactly as taught: (a) किम् त्वम् करोषि? (b) किम्
-   त्वम् करोति? (c) किम् त्वम् करोमि? (d) किम् भवान् करोषि?
+1. The doing-question to a friend, exactly as taught: (a) किम् त्वम् करोति? (b) किम्
+   त्वम् करोमि? (c) किम् त्वम् करोषि? (d) किम् भवान् करोषि?
 2. Asked किम् त्वम् करोषि?, the truthful shape of your answer is: (a) अहम् पठामि। (b) सः
    पठति। (c) अहम् पठति। (d) त्वम् पठसि।
-3. करोषि beside गच्छसि — the honest line this course teaches: (a) the ष comes with the
+3. करोषि beside गच्छसि — the honest line this course teaches: (a) -षि is the polite
+   ending, -सि the familiar one (b) गच्छसि should be corrected to गच्छषि
+   (c) a general rule decides it, taught today (d) the ष comes with the
    whole word — शृणोषि has it too; the reason waits for Volume 4, so read the whole word
-   (b) -षि is the polite ending, -सि the familiar one
-   (c) गच्छसि should be corrected to गच्छषि (d) a general rule decides it, taught today
-4. अहम् गच्छति। is wrong because: (a) अहम् takes the -मि form — अहम् गच्छामि। (b)
-   गच्छति refers to the future (c) गच्छति can only be used of teachers (d) the sentence
+4. अहम् गच्छति। is wrong because: (a) गच्छति refers to the future (b)
+   अहम् takes the -मि form — अहम् गच्छामि। (c) गच्छति can only be used of teachers (d) the sentence
    needs भवान्
-5. The polite doing-question to a man: (a) भवान् किम् करोति? (b) भवान् किम् करोषि?
-   (c) त्वम् किम् करोति? (d) भवान् किम् करोमि?
-6. माता अन्नम् करोति। means: (a) Mother is making food (b) Mother is eating food
-   (c) Mother is food (d) Mother is making milk
-7. सः क्षीरम् पिबति। translates as: (a) he drinks milk (b) I drink milk (c) you drink
+5. The polite doing-question to a man: (a) भवान् किम् करोषि? (b) त्वम् किम् करोति?
+   (c) भवान् किम् करोमि? (d) भवान् किम् करोति?
+6. माता अन्नम् करोति। means: (a) Mother is eating food (b) Mother is food
+   (c) Mother is making food (d) Mother is making milk
+7. सः क्षीरम् पिबति। translates as: (a) I drink milk (b) he drinks milk (c) you drink
    milk (d) he eats food
 8. Why does this course teach करोमि-करोषि-करोति as whole words? (a) the word builds its
    stem differently; the system behind it comes in Volume 4 (b) they are three unrelated
@@ -673,21 +673,21 @@ the recording — lesson 5's exam task C asks for this family again, under time.
 
 **Quiz key**
 
-1. (a) किम् त्वम् करोषि? — त्वम् rides the you-form करोषि (§8). ((b) mixes त्वम् with
-   the he-form; (c) asks "what am I doing?" of someone else; (d) mixes भवान् with the
+1. (c) किम् त्वम् करोषि? — त्वम् rides the you-form करोषि (§8). ((a) mixes त्वम् with
+   the he-form; (b) asks "what am I doing?" of someone else; (d) mixes भवान् with the
    you-form — §12 mistake 4.)
 2. (a) अहम् पठामि। — the swap: you-form in, I-form out (§8, §15). ((b) reports on a
    third person; (c) is the person mismatch — §12 mistake 2 mirrored; (d) answers the
    asker about themselves.)
-3. (a) — the ष comes with the whole word (शृणोषि has it too); the reason waits for
+3. (d) — the ष comes with the whole word (शृणोषि has it too); the reason waits for
    Volume 4 — read the whole word (§8, §9 drill 2, §12 mistake 1). No rule
-   is taught today — (d) promises machinery this course deliberately defers.
-4. (a) — THE flagged error from lesson 2: अहम् takes -मि (§12 mistake 2).
-5. (a) भवान् किम् करोति? — भवान् walks with the करोति-form, chunk level (§8, §15).
-   ((b) is §12 mistake 4; (c) mismatches त्वम्; (d) puts the I-form on the listener.)
-6. (a) — करोति's second job, *makes*, with an object (§13). ((b) confuses it with
+   is taught today — (c) promises machinery this course deliberately defers.
+4. (b) — THE flagged error from lesson 2: अहम् takes -मि (§12 mistake 2).
+5. (d) भवान् किम् करोति? — भवान् walks with the करोति-form, chunk level (§8, §15).
+   ((a) is §12 mistake 4; (b) mismatches त्वम्; (c) puts the I-form on the listener.)
+6. (c) — करोति's second job, *makes*, with an object (§13). ((a) confuses it with
    खादति; (d) swaps the object.)
-7. (a) — he-form verb, क्षीरम् "milk" as object (§13, §14). ((d) confuses both halves.)
+7. (b) — he-form verb, क्षीरम् "milk" as object (§13, §14). ((d) confuses both halves.)
 8. (a) — the stem-honesty line, exactly as stated in §15; the अस्मि-असि-अस्ति precedent.
 9. (a) करोति = "does, makes"; (b) करोमि = "I do"; (c) अन्नम् = "food"; (d) क्षीरम् =
    "milk" (§14).

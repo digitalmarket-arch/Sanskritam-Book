@@ -493,34 +493,34 @@ every akṣara against §17 — hooks, welds, finals [REF:roediger2006].
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. पठति means: (a) walks (b) reads, recites (c) laughs (d) speaks
-2. The chapter title पठनम् is: (a) unrelated to पठति (b) the action-noun of the same root —
-   "reading" (c) the plural of पठति (d) the word for "book"
+2. The chapter title पठनम् is: (a) unrelated to पठति (b) the plural of पठति (c) the word for
+   "book" (d) the action-noun of the same root — "reading"
 3. मम is "my" and तव is "your". तस्य is: (a) "his" (b) "this" (c) "who?" (d) "here"
 4. Lesson 1 read विद्यालयः; the passage reads विद्यालयम् because: (a) it is a misprint for ः
-   (b) a word's ending shifts with its role in the sentence — the full system arrives in
-   Volume 3 (c) every Sanskrit word may end in म् (d) it was joined to the next word by
+   (b) every Sanskrit word may end in म् (c) a word's ending shifts with its role in the
+   sentence — the full system arrives in Volume 3 (d) it was joined to the next word by
    sandhi
 5. In सः छात्रः अस्ति, the word सः points to: (a) the reader (b) the बालकः of the first
    sentence — the thread that makes eight sentences one text (c) the school (d) the book
-6. तस्य is read in: (a) three beats — ta-sa-ya (b) two beats — ta-sya, because स् + य weld
-   by the Chapter 5 mechanism (c) one beat (d) two beats — tas-a
+6. तस्य is read in: (a) three beats — ta-sa-ya (b) one beat (c) two beats — tas-a (d) two beats —
+   ta-sya, because स् + य weld by the Chapter 5 mechanism
 7. Reading check — write the English meaning of each: (a) सः पुस्तकम् पठति। (b) छात्रः
    हसति। (c) अहम् अपि संस्कृतम् पठामि।
-8. You want to ask "What is *his* name?" Which is correct? (a) तव नाम किम्? (b) तस्य नाम
+8. You want to ask "What is *his* name?" Which is correct? (a) तस्य नाम किम्? (b) तव नाम
    किम्? (c) मम नाम किम्? (d) सा नाम किम्?
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) reads, recites (§14). ((a), (c), (d) are the review verbs चलति, हसति, वदति.)
-2. (b) पठनम् "reading" is the verb's own noun — the chapter is named for today's verb (§4).
+2. (d) पठनम् "reading" is the verb's own noun — the chapter is named for today's verb (§4).
 3. (a) "his" — the family मम, तव, तस्य completes (§13).
-4. (b) endings shift with a word's role; whole-word glosses today, the system in Volume 3
+4. (c) endings shift with a word's role; whole-word glosses today, the system in Volume 3
    (§15). ((d) is a real future topic, but this passage is pause form.)
 5. (b) the बालकः of sentence one — here सः points back (§15). ((a) is only true of the
    *eighth* sentence's अहम्.)
-6. (b) two beats, ta-sya — the weld (§12 mistake 3, §13).
+6. (d) two beats, ta-sya — the weld (§12 mistake 3, §13).
 7. (a) "He reads a book." (b) "The student laughs." (c) "I too read Sanskrit." (§17)
-8. (b) तस्य नाम किम्? — his. ((a) asks *your*, (c) asks *my*; (d) misuses सा, which is
+8. (a) तस्य नाम किम्? — his. ((b) asks *your*, (c) asks *my*; (d) misuses सा, which is
    "she", not a possessive.) (§15, §16)
 
 Exercise 4 model: सीता अत्र अस्ति। सा पुस्तकम् पठति। सा संस्कृतम् पठति। सीता हसति। अहम् अपि

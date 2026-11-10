@@ -567,36 +567,36 @@ pause. Write them in Devanagari, daṇḍas and question marks included. Self-ch
 
 1. You meet a boy your own age. The peer question for "who are you?" is: (a) त्वम् कः?
    (b) त्वम् का? (c) भवान् कः? (d) तव नाम किम्?
-2. "My name is Sītā" in today's frame: (a) मम नाम सीता। (b) तव नाम सीता। (c) अहम् नाम
-   सीता। (d) मम सीता नाम।
+2. "My name is Sītā" in today's frame: (a) तव नाम सीता। (b) अहम् नाम
+   सीता। (c) मम सीता नाम। (d) मम नाम सीता।
 3. "I too am a student": (a) अपि अहम् छात्रः अस्मि। (b) अहम् अपि छात्रः अस्मि। (c) अहम्
    छात्रः अस्मि अपि। (d) आम्! अहम् छात्रः अस्मि।
-4. Classically, a girl introducing herself says: (a) अहम् छात्रः अस्मि। (b) अहम् बालिका।
-   (c) अहम् भवान्। (d) अहम् का।
+4. Classically, a girl introducing herself says: (a) अहम् भवान्। (b) अहम् छात्रः अस्मि।
+   (c) अहम् बालिका। (d) अहम् का।
 5. Which question depends on the rising tune alone? (a) तव नाम किम्? (b) त्वम् कः?
    (c) त्वम् अपि छात्रः? (d) एतत् किम्?
 6. Someone points at a water pot and asks एतत् किम्? Today's frame answers: (a) एतत्
    जलम्। (b) तत् का। (c) एतत् कः। (d) जलम् किम्।
-7. To your teacher — a man — the respectful "who are you?" is: (a) त्वम् कः? (b) भवान्
-   कः? (c) तव नाम कः? (d) भवान् का?
+7. To your teacher — a man — the respectful "who are you?" is: (a) त्वम् कः? (b) तव नाम
+   कः? (c) भवान् का? (d) भवान् कः?
 8. Reading check — write the English meaning of each: (a) नाम (b) छात्रः (c) एतत् (d) अपि
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (a) त्वम् कः? — peer question to a boy (§8). ((b) is for a girl; (c) is respectful, not
    peer; (d) asks the name, not the person.)
-2. (a) मम नाम सीता। — the frame whole (§8). ((b) says *your*; (c) mixes the two frames;
-   (d) breaks the frame's fixed order.)
+2. (d) मम नाम सीता। — the frame whole (§8). ((a) says *your*; (b) mixes the two frames;
+   (c) breaks the frame's fixed order.)
 3. (b) अहम् अपि छात्रः अस्मि। — अपि walks behind its word (§8, §12 mistake 4). ((d) is a
    fine sentence but drops the "too".)
-4. (b) अहम् बालिका। — the ः-word छात्रः is masculine (§12 mistake 5); छात्रा is modern
-   usage, mentioned but not taught here. ((c) भवान् means "you"; (d) का is a question
+4. (c) अहम् बालिका। — the ः-word छात्रः is masculine (§12 mistake 5); छात्रा is modern
+   usage, mentioned but not taught here. ((a) भवान् means "you"; (d) का is a question
    word.)
 5. (c) त्वम् अपि छात्रः? — the only one with no question word; the rise is the question
    (§5, §9 drill 1).
 6. (a) एतत् जलम्। — point, then answer with the thing-word in the frame (§8).
-7. (b) भवान् कः? — Chapter 5's respectful chunk (§8). ((a) is the peer form; (c) asks
-   नाम with the wrong question word — नाम asks with किम्; (d) का is feminine.)
+7. (d) भवान् कः? — Chapter 5's respectful chunk (§8). ((a) is the peer form; (b) asks
+   नाम with the wrong question word — नाम asks with किम्; (c) का is feminine.)
 8. (a) नाम = "name"; (b) छात्रः = "student"; (c) एतत् = "this"; (d) अपि = "also, too"
    (§14).
 </details>

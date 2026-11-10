@@ -529,9 +529,9 @@ yourself in random order and play it back cold.
    (b) within a word the nasal before a stop is that stop's own varga nasal — their
    workplace is the conjunct, beside their own row (c) they are variants of न (d) scribes
    found them hard to draw
-3. गंगा and गङ्गा are: (a) two different words (b) one word, two readings (c) one word,
-   one reading — the dot is a convenience spelling of the class nasal; this course writes
-   the classical conjunct (d) a masculine/feminine pair
+3. गंगा and गङ्गा are: (a) two different words (b) one word, two readings (c) a
+   masculine/feminine pair (d) one word, one reading — the dot is a convenience spelling of
+   the class nasal; this course writes the classical conjunct
 4. पञ्च and English *five* are: (a) *five* is a loan from Sanskrit (b) पञ्च is a loan from
    Greek (c) cognates — siblings from one Proto-Indo-European word (d) coincidence
 5. By its own build, संस्कृत means: (a) "ancient" (b) "divine" (c) "put together, refined"
@@ -548,7 +548,7 @@ yourself in random order and play it back cold.
 
 1. (c) — the stop's own row nasal, in a stack (§5, §8). ((d) uses no letter at all.)
 2. (b) — the homorganic rule; conjuncts are their home (§5, §15).
-3. (c) — one reading, two spellings; the course writes classical (§8). ((b) is §12's
+3. (d) — one reading, two spellings; the course writes classical (§8). ((b) is §12's
    mistake 4.)
 4. (c) — cognates from \*pénkʷe; no loan in either direction (§13).
 5. (c) — sam + kṛta, "put together, refined" (§13).

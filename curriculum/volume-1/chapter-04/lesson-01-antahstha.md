@@ -531,10 +531,9 @@ also a cheer? Check against §14; bonus answers in the §19 key.
 1. In manner and kinship, the अन्तःस्थ sounds stand between what and what? (a) Hindi and Sanskrit (b) vowels and stop
    consonants (c) short and long vowels (d) the headline and the stem
 2. The target व is: (a) English v as in *vine* — teeth pressed, buzzing (b) English w as in *wine* — lips
-   rounded, no teeth (c) a light lip-to-teeth touch with no friction — between v and w (d) the same as ब
-3. ऋ and र are related how? (a) the same sound written two ways (b) same articulator, different jobs:
-   ऋ /r̩/ holds and carries the syllable's beat; र /ɾ/ touches once and leaves (c) र is the long form of
-   ऋ (d) unrelated
+   rounded, no teeth (c) the same as ब (d) a light lip-to-teeth touch with no friction — between v and w
+3. ऋ and र are related how? (a) the same sound written two ways (b) र is the long form of ऋ (c) same articulator,
+   different jobs: ऋ /r̩/ holds and carries the syllable's beat; र /ɾ/ touches once and leaves (d) unrelated
 4. Match each अन्तःस्थ to its vowel-sibling: य, र, ल, व ↔ उ, ऌ, इ, ऋ.
 5. A learner's युग comes out "juga". What happened? (a) the य hardened to [dʒ] — a closure crept into a
    glide (b) the vowel lengthened (c) the ग aspirated (d) nothing — that is the target
@@ -549,9 +548,9 @@ also a cheer? Check against §14; bonus answers in the §19 key.
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) between vowels and stops — the airstream shaped, never held shut, each sound twinned with a vowel (§4, §5).
-2. (c) the middle ground — /ʋ/, contact without friction (§5, §9 drill 2). ((a) and (b) are §12's
+2. (d) the middle ground — /ʋ/, contact without friction (§5, §9 drill 2). ((a) and (b) are §12's
    mistake 1.)
-3. (b) hold = vowel ऋ /r̩/, flick = consonant र /ɾ/ (§5, §10 — the promise of v1.c02.l03 kept).
+3. (c) hold = vowel ऋ /r̩/, flick = consonant र /ɾ/ (§5, §10 — the promise of v1.c02.l03 kept).
 4. य~इ · र~ऋ · ल~ऌ · व~उ (§4, §15 kinship table).
 5. (a) the [dʒ] hardening — §12 mistake 3; the fix is gluing य back to ई.
 6. (b) the व/ब blur (§12 mistake 4); the lip check referees it.

@@ -761,22 +761,22 @@ your baseline for the chapter exam (§20).
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. इच्छति means: (a) pleases (b) wants, wishes (c) eats (d) knows
+1. इच्छति means: (a) pleases (b) eats (c) wants, wishes (d) knows
 2. Literally, फलम् मह्यम् रोचते। says: (a) "I like the fruit," word for word (b) "The
-   fruit pleases me." (c) "I want the fruit." (d) "The fruit is mine."
+   fruit is mine." (c) "The fruit pleases me." (d) "I want the fruit."
 3. In फलम् मह्यम् रोचते, the grammatical subject is: (a) मह्यम् (b) फलम् (c) रोचते
    (d) none — the sentence has no subject
-4. तुभ्यम् means: (a) "you" as the doer of the sentence (b) "to you, for you" (c) "your"
-   (d) "to me, for me"
-5. "I want water" is: (a) मह्यम् जलम् इच्छामि। (b) अहम् जलम् इच्छामि। (c) अहम् जलम्
-   इच्छति। (d) जलम् मह्यम् रोचते।
+4. तुभ्यम् means: (a) "you" as the doer of the sentence (b) "your" (c) "to me, for me"
+   (d) "to you, for you"
+5. "I want water" is: (a) मह्यम् जलम् इच्छामि। (b) अहम् जलम् इच्छति। (c) अहम् जलम्
+   इच्छामि। (d) जलम् मह्यम् रोचते।
 6. "Do you like milk?" is: (a) क्षीरम् तुभ्यम् रोचते? (b) क्षीरम् तुभ्यम् रोचसि?
    (c) त्वम् क्षीरम् रोचसि? (d) क्षीरम् मह्यम् रोचते?
 7. रोचते ends in -ते, not -ति, because: (a) it is a misprint for रोचति (b) it wears
    Sanskrit's second family of verb endings — the middle voice — learned whole today
    (c) it is a plural form (d) it is a Hindi word
 8. Which Hindi sentence is built the same way round as मह्यम् रोचते? (a) मैं फल खाता
-   हूँ। (b) मुझे फल पसंद है। (c) मैं फल चाहता हूँ। (d) यह मेरा फल है।
+   हूँ। (b) मैं फल चाहता हूँ। (c) यह मेरा फल है। (d) मुझे फल पसंद है।
 9. "I don't like the book" is: (a) पुस्तकम् मह्यम् न रोचते। (b) अहम् पुस्तकम् न
    रोचामि। (c) पुस्तकम् तुभ्यम् न रोचते। (d) अहम् पुस्तकम् न इच्छामि।
 10. Reading check — write the English meaning of each: (a) किम् इच्छसि? (b) अन्नम्
@@ -784,17 +784,17 @@ your baseline for the chapter exam (§20).
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) wants, wishes (§14). ((a) is रोचते; (c), (d) are खादति, जानाति.)
-2. (b) — the honest line (§8, §15). ((a) is the bare 1.x-style gloss read as literal;
-   (c) is the wanting frame; (d) needs मम.)
+1. (c) wants, wishes (§14). ((a) is रोचते; (b), (d) are खादति, जानाति.)
+2. (c) — the honest line (§8, §15). ((a) is the bare 1.x-style gloss read as literal;
+   (d) is the wanting frame; (b) needs मम.)
 3. (b) फलम् — the liked thing is the subject (§15 step 2). ((a) is §12 mistake 4.)
-4. (b) (§14). ((a) is §12 mistake 4 again — the doer is त्वम्; (d) is मह्यम्.)
-5. (b) — the I-frame (§15 step 1). ((a) is §12 mistake 3, the चाहिए transfer; (c) has a
+4. (d) (§14). ((a) is §12 mistake 4 again — the doer is त्वम्; (c) is मह्यम्.)
+5. (c) — the I-frame (§15 step 1). ((a) is §12 mistake 3, the चाहिए transfer; (b) has a
    he-tail on an I-subject; (d) means "I like water".)
 6. (a) — रोचते never moves today; only the to-form changes (§15 step 3). ((b) is §12
    mistake 2; (c) is mistake 1; (d) asks about "me".)
 7. (b) — the one honest line (§15 step 4). ((a) is §12 mistake 5's assumption.)
-8. (b) — the liker in a को-form, the liked thing running the verb (§5, §8). ((c) is the
+8. (d) — the liker in a को-form, the liked thing running the verb (§5, §8). ((b) is the
    Hindi I-frame — Sanskrit's इच्छामि build.)
 9. (a) — न before the verb, the it-frame (§15 step 6). ((b) is mistake 1; (c) is "you
    don't like"; (d) is "I don't want".)

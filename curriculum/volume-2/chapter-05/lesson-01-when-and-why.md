@@ -655,24 +655,24 @@ reason — and what is that reason?
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. कदा means: (a) where? (b) when? (c) how? (d) from where?
+1. कदा means: (a) where? (b) how? (c) from where? (d) when?
 2. किमर्थम् literally means: (a) "what does it mean?" (b) "for what purpose?" (c) "how
    much?" (d) "from where?"
 3. त्वम् कदा आगच्छसि? — the correct answer: (a) अहम् इदानीम् आगच्छति। (b) अहम् अत्र
    आगच्छामि। (c) अहम् इदानीम् आगच्छामि। (d) यतः अहम् आगच्छामि।
-4. आगच्छति is: (a) a new verb unrelated to गच्छति (b) गच्छति with the prefix आ in front —
-   going turned into coming, its forms following the Chapter 4 pattern (c) the future
+4. आगच्छति is: (a) गच्छति with the prefix आ in front — going turned into coming, its forms
+   following the Chapter 4 pattern (b) a new verb unrelated to गच्छति (c) the future
    tense of गच्छति (d) गच्छति lengthened for politeness
 5. Which reply answers किमर्थम्? (a) श्वः। (b) इतः। (c) यतः अहम् छात्रः अस्मि। (d) कुतः
    अहम् छात्रः अस्मि।
 6. कः, Latin *quis* and English *who*: (a) English borrowed *who* from Sanskrit
-   (b) Sanskrit borrowed कः from Latin (c) siblings — all three continue the PIE
-   interrogative stem, and nobody borrowed (d) unrelated look-alikes
+   (b) unrelated look-alikes (c) Sanskrit borrowed कः from Latin (d) siblings — all three
+   continue the PIE interrogative stem, and nobody borrowed
 7. कदा and English *when*: (a) an exact word-for-word cognate pair (b) both carry the
    inherited interrogative stem, but the course does not pair them word for word
    (c) English borrowed *when* from कदा (d) unrelated — the k/wh likeness is chance
-8. Which of these is honest, taught Sanskrit? (a) ह्यः आगच्छामि। "I came yesterday."
-   (b) श्वः आगच्छामि। "I'm coming tomorrow." (c) अहम् आगच्छति। "I come." (d) त्वम्
+8. Which of these is honest, taught Sanskrit? (a) श्वः आगच्छामि। "I'm coming tomorrow."
+   (b) ह्यः आगच्छामि। "I came yesterday." (c) अहम् आगच्छति। "I come." (d) त्वम्
    आगच्छामि। "You come."
 9. Write the nine askers in kit order, each with its English gloss.
 10. Reading check — write the English meaning of each: (a) पिता कदा आगच्छति? (b) सः
@@ -680,17 +680,17 @@ reason — and what is that reason?
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) when? (§14). ((a), (c), (d) are कुत्र, कथम्, कुतः — §12 mistake 2's blur.)
+1. (d) when? (§14). ((a), (b), (c) are कुत्र, कथम्, कुतः — §12 mistake 2's blur.)
 2. (b) — अर्थ here is purpose (§8, §14). ((a) is §12 mistake 1, the Hindi-sense trap.)
 3. (c) (§6, §15). ((a) is the person mismatch, §12 mistake 5; (b) answers *where*;
    (d) answers a why that nobody asked.)
-4. (b) — one prefix, one honest line; the system is later business (§8, §15).
+4. (a) — one prefix, one honest line; the system is later business (§8, §15).
    ((c) confuses meaning with tense — -ति marks person, not time.)
 5. (c) (§15). ((d) is §12 mistake 3 — कुतः asks, यतः gives the reason; (a) and (b)
    answer कदा and कुतः.)
-6. (c) — the §13 FACT; shared inheritance, no arrows. ((a) and (b) are §12 mistake 8.)
+6. (d) — the §13 FACT; shared inheritance, no arrows. ((a) and (c) are §12 mistake 8.)
 7. (b) — the stem is shared; only कः and किम् are paired as three-language rows (§13).
-8. (b) — the present with a time word for the near future (§15 point 4). ((a) needs a
+8. (a) — the present with a time word for the near future (§15 point 4). ((b) needs a
    past tense, §12 mistake 6; (c) and (d) are person mismatches, §12 mistake 5.)
 9. कः who? · का who? (f) · किम् what? · कुतः from where? · कथम् how? · कुत्र where? ·
    कति how many? · कदा when? · किमर्थम् why? (§15).

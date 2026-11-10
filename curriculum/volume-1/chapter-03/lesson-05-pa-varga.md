@@ -569,33 +569,33 @@ lesson 6 sets the bar at five minutes, error-free.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The letter फ is pronounced: (a) [f] as in English *fun* (b) [pʰ] — प released with a
-   puff of breath from the lips (c) [b] (d) [ʋ]
-2. Hindi writes its borrowed [f] sound as: (a) फ, same as Sanskrit (b) फ़ — फ with a nuqta
-   dot (c) भ (d) प
+1. The letter फ is pronounced: (a) [f] as in English *fun* (b) [b] (c) [pʰ] — प released with a
+   puff of breath from the lips (d) [ʋ]
+2. Hindi writes its borrowed [f] sound as: (a) फ़ — फ with a nuqta dot (b) फ, same as Sanskrit
+   (c) भ (d) प
 3. A learner's भाग comes out sounding like बाग. What went missing? (a) the vowel length
-   (b) the breathy voice of भ (c) the nasal (d) the visarga
+   (b) the nasal (c) the visarga (d) the breathy voice of भ
 4. English speakers often turn प into फ because: (a) English has no p at all (b) English
    aspirates its initial voiceless stops — "pin" begins with [pʰ] (c) प is written like फ
    (d) Hindi habit
-5. In बालकः, the sign ः is: (a) a vowel (b) the visarga — a voiceless breath after the
-   vowel (c) silent decoration (d) the anusvāra dot
+5. In बालकः, the sign ः is: (a) the visarga — a voiceless breath after the vowel
+   (b) a vowel (c) silent decoration (d) the anusvāra dot
 6. At this stage of the course, बालकः चलति is read aloud: (a) as one connected phrase
-   with sandhi applied (b) word by word in pause form — each word complete, a tiny pause
-   between (c) with the ः dropped (d) Hindi-style, with final vowels deleted
+   with sandhi applied (b) with the ः dropped (c) word by word in pause form — each word
+   complete, a tiny pause between (d) Hindi-style, with final vowels deleted
 7. Complete the labial row in manner order — प, फ, ब, ___, ___ — and name the manner of
    each letter you added.
 8. Reading check — write the English meaning of each: (a) पिता (b) फल (c) भूमि
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) [pʰ] — a bilabial burst; the tissue jumps (§5, §9). ((a) is §12's mistake 1.)
-2. (b) फ़ with the nuqta — a Perso-Arabic loan sound, absent from Sanskrit (§4, §7).
-3. (b) the breathy voice — भ /bʱ/ under-breathed collapses into ब /b/ (§12 mistake 2).
+1. (c) [pʰ] — a bilabial burst; the tissue jumps (§5, §9). ((a) is §12's mistake 1.)
+2. (a) फ़ with the nuqta — a Perso-Arabic loan sound, absent from Sanskrit (§4, §7).
+3. (d) the breathy voice — भ /bʱ/ under-breathed collapses into ब /b/ (§12 mistake 2).
 4. (b) English initial voiceless stops are automatically aspirated (§12 mistake 3); the
    *spin*-p is the unaspirated model.
-5. (b) the visarga, met in v1.c02.l06 — a voiceless breath, never dropped (§8).
-6. (b) word by word, in pause form; connected-speech sandhi is Volume 3's subject (§8).
+5. (a) the visarga, met in v1.c02.l06 — a voiceless breath, never dropped (§8).
+6. (c) word by word, in pause form; connected-speech sandhi is Volume 3's subject (§8).
 7. भ — voiced breathy; म — nasal (§15 grid).
 8. (a) पिता = "father"; (b) फल = "fruit; result"; (c) भूमि = "earth, ground" (§14).
 </details>

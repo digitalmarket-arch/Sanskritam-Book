@@ -1025,20 +1025,20 @@ only, in Devanagari, pause form. The virāma and the visarga are each part of th
 sitting.
 
 1. According to the tradition's names, which lakāra is the imperative? (a) लट् (b) लङ्
-   (c) लोट् (d) विधिलिङ्
-2. अगच्छत् is: (a) present (b) imperfect (c) imperative (d) optative
-3. गच्छेत् is: (a) imperfect (b) optative (c) imperative (d) present
+   (c) विधिलिङ् (d) लोट्
+2. अगच्छत् is: (a) imperfect (b) present (c) imperative (d) optative
+3. गच्छेत् is: (a) imperfect (b) present (c) optative (d) imperative
 4. According to the tradition's names, the second family is called: (a) परस्मैपदम्
-   (b) आत्मनेपदम् (c) लकारः (d) उपसर्गः
+   (b) लकारः (c) उपसर्गः (d) आत्मनेपदम्
 5. "Truth alone prevails" (the Muṇḍaka): जयते is in the family: (a) first (b) second
    (c) neither (d) both
 6. According to the Laghukaumudī, the tradition lists: (a) four lakāras (b) six (c) ten
    (d) twelve
-7. The imperfect 3sg of निर्गच्छति: (a) अनिर्गच्छत् (b) निरगच्छत् (c) निर्गच्छत्
+7. The imperfect 3sg of निर्गच्छति: (a) निरगच्छत् (b) अनिर्गच्छत् (c) निर्गच्छत्
    (d) निर्गच्छतु
 8. "Don't go!": (a) न गच्छ (b) मा गच्छ (c) मा अगच्छत् (d) न गच्छतु
-9. In सर्वे भवन्तु सुखिनः, भवन्तु is: (a) 3pl present (b) 3pl imperative (c) 3pl optative
-   (d) 3pl imperfect
+9. In सर्वे भवन्तु सुखिनः, भवन्तु is: (a) 3pl present (b) 3pl optative (c) 3pl imperfect
+   (d) 3pl imperative
 10. The case spiral (c01–c02): in गुरोः द्वौ छात्रौ ग्रामात् नगरम् गच्छतः, ग्रामात् is:
     (a) ablative, "from the village" (b) genitive (c) dative (d) locative
 
@@ -1046,15 +1046,15 @@ sitting.
 
 **Quiz key**
 
-1. (c) — लोट्, the request mood (§15 (1) and (3); l04 §8 Step 4). (a) is the present, (b)
-   the imperfect, (d) the optative. TRADITION, asked in the form "According to the
+1. (d) — लोट्, the request mood (§15 (1) and (3); l04 §8 Step 4). (a) is the present, (b)
+   the imperfect, (c) the optative. TRADITION, asked in the form "According to the
    tradition's names".
-2. (b) — the augment in front, the short ending -त् (§15 (1); l03 §15 Step 1). (d) is the
+2. (a) — the augment in front, the short ending -त् (§15 (1); l03 §15 Step 1). (d) is the
    lure of §12 mistake 3: the optative is गच्छेत्, with -ए- inside. FACT.
-3. (b) — the -ए- inside is the wish (§15 (1); l04 §15, the optative card). (a) is §12
+3. (c) — the -ए- inside is the wish (§15 (1); l04 §15, the optative card). (a) is §12
    mistake 3: the imperfect would be अगच्छत्. FACT.
-4. (b) — आत्मनेपदम्, "a word for oneself" (§4; l02 §4). (a) is the first family; (c) is
-   the name of a tense or mood; (d) is the name of a prefix (GLOSSARY, v2.c05.l01).
+4. (d) — आत्मनेपदम्, "a word for oneself" (§4; l02 §4). (a) is the first family; (b) is
+   the name of a tense or mood; (c) is the name of a prefix (GLOSSARY, v2.c05.l01).
    TRADITION, asked in the form "According to the tradition's names".
 5. (b) — जयते is a second-family form; the classical dictionary's जयति is the first family
    (§17; l02 §15 Step 7). (d) is the lure: two Sanskrit forms exist, but जयते itself is in
@@ -1062,13 +1062,13 @@ sitting.
 6. (c) — ten: लट्, लिट्, लुट्, लृट्, लेट्, लोट्, लङ्, लिङ्, लुङ्, लृङ् (§4; §15 (3)). (a) is
    the present system you own; (b) is how many wait. TRADITION, asked in the form "According
    to the Laghukaumudī".
-7. (b) — prefix · augment · stem: निर् + अगच्छत् — l03 §15 Step 5. (a) is §12 mistake 2;
+7. (a) — prefix · augment · stem: निर् + अगच्छत् — l03 §15 Step 5. (b) is §12 mistake 2;
    (c) has no augment; (d) is the imperative. FACT.
 8. (b) — मा + the bare stem (l04 §15, "Prohibition"). (a) is §12 mistake 5; (c) puts मा
    with a past form, which the course does not build (the older मा + augmentless aorist
    waits for Volume 4); (d) is न with a 3rd-person request. FACT.
-9. (b) — भवति → भवन्तु, -न्ति → -न्तु: §17; l04 §8 Step 3. (a) would be भवन्ति, (c)
-   भवेयुः, (d) अभवन्. FACT.
+9. (d) — भवति → भवन्तु, -न्ति → -न्तु: §17; l04 §8 Step 3. (a) would be भवन्ति, (b)
+   भवेयुः, (c) अभवन्. FACT.
 10. (a) — the ablative -आत्, "from" (v3.c01.l02, the ablative; the Station 5 prompt of §3).
     गुरोः is the genitive, नगरम् the goal in the accusative. FACT.
 

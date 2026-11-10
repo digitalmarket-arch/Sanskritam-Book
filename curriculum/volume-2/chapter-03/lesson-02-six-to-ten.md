@@ -612,25 +612,24 @@ to ten, from memory in Devanagari. Self-check: every answer bare, every question
 
 1. The retroflex showcase on today's list is: (a) सप्त and दश (b) षट् and अष्ट — ष and ट
    want the tongue-tip curled back (c) नव and कति (d) एक and द्वि
-2. The honest statement about November: (a) it comes from Sanskrit नव (b) it is Latin
-   counting its own old calendar — novem "nine" for the ninth month of a year that began
-   in March; नव and novem are cognates (c) the resemblance is pure coincidence (d) Latin
-   borrowed novem from Sanskrit
+2. The honest statement about November: (a) it comes from Sanskrit नव (b) the resemblance
+   is pure coincidence (c) Latin borrowed novem from Sanskrit (d) it is Latin counting its
+   own old calendar — novem "nine" for the ninth month of a year that began in March; नव
+   and novem are cognates
 3. अष्ट and Latin octō are: (a) ancestor and descendant (b) a loanword pair (c) siblings
    — parallel descendants of one Proto-Indo-European ancestor; neither derives from the
    other (d) unrelated look-alikes
-4. नव "nine" and नव "new": (a) one word with two meanings (b) two distinct words — stems
-   नवन् and नव — that fell together in sound as नव, with two different English cousins,
-   *nine* and *new* (c) poetic variants of each other (d) the second is Hindi, not
-   Sanskrit
-5. The taught answer to कति? is: (a) a bare number — कति? षट्! (b) a number with a verb
-   (c) a number inflected to match a noun (d) only a Devanagari digit held up
-6. दश on today's list is: (a) a brand-new headword (b) a review row — readable since
-   v1.c04 with its decem line already on record; it does not increment the ledger (c) a
+4. नव "nine" and नव "new": (a) two distinct words — stems नवन् and नव — that fell together
+   in sound as नव, with two different English cousins, *nine* and *new* (b) one word with
+   two meanings (c) poetic variants of each other (d) the second is Hindi, not Sanskrit
+5. The taught answer to कति? is: (a) a number with a verb (b) a number inflected to match
+   a noun (c) only a Devanagari digit held up (d) a bare number — कति? षट्!
+6. दश on today's list is: (a) a review row — readable since v1.c04 with its decem line
+   already on record; it does not increment the ledger (b) a brand-new headword (c) a
    borrowing from Latin (d) display-only
-7. Station 0 today was: (a) a new exam (b) lesson 1's +1-day interval landing on
-   schedule — the chant re-run and digit cards १–५ at speed (c) optional warm-up with no
-   log (d) next week's review done early
+7. Station 0 today was: (a) a new exam (b) optional warm-up with no log (c) lesson 1's
+   +1-day interval landing on schedule — the chant re-run and digit cards १–५ at speed
+   (d) next week's review done early
 8. The counting chant एकम् द्वे त्रीणि चत्वारि पञ्च षट् सप्त अष्ट नव दश is: (a) simplified
    fake Sanskrit (b) real, inflected counting forms (neuter where gender shows) learned
    whole as practice — with the system behind them honestly deferred (c) obligatory
@@ -639,14 +638,14 @@ to ten, from memory in Devanagari. Self-check: every answer bare, every question
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) — the curled pair; सप्त and दश answer from the teeth rail (§9, §11).
-2. (b) — Latin's own arithmetic; the 1.x derivation claim corrected (§13) — the chapter's
+2. (d) — Latin's own arithmetic; the 1.x derivation claim corrected (§13) — the chapter's
    flagship line.
 3. (c) — siblings, no arrow (§13). ((a) and (b) are §12's mistake 4 in two dresses.)
-4. (b) — the honest split of the v1.c04.l01 row (§13).
-5. (a) — bare answers are the taught, standard pattern (§15). ((b) and (c) are §12's
+4. (a) — the honest split of the v1.c04.l01 row (§13).
+5. (d) — bare answers are the taught, standard pattern (§15). ((a) and (b) are §12's
    mistake 6.)
-6. (b) — review duty, not a ledger entry; four new + two review (कति, दश), 279 → 283 (§14).
-7. (b) — spaced retrieval on schedule (§3, §5).
+6. (a) — review duty, not a ledger entry; four new + two review (कति, दश), 279 → 283 (§14).
+7. (c) — spaced retrieval on schedule (§3, §5).
 8. (b) — counting dress, honestly labeled (§15); from six on it matches the citation names — an
    observation, not a law.
 

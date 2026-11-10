@@ -974,7 +974,7 @@ wrong ending): communication 4 · endings 4 (−1 per wrong ending) · coverage 
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. "We go": (a) वयम् गच्छामि (b) वयम् गच्छामः (c) वयम् गच्छमः (d) वयम् गच्छन्ति
+1. "We go": (a) वयम् गच्छामि (b) वयम् गच्छमः (c) वयम् गच्छन्ति (d) वयम् गच्छामः
 2. यूयम् ___ (पठति): (a) पठथः (b) पठथ (c) पठतः (d) पठसि
 3. रामः सीता च वनम् ___: (a) गच्छति (b) गच्छन्ति (c) गच्छतः (d) गच्छथः
 4. The 3rd-person plural of अस्: (a) अस्मः (b) स्तः (c) सन्ति (d) असन्ति
@@ -982,7 +982,7 @@ wrong ending): communication 4 · endings 4 (−1 per wrong ending) · coverage 
    किम् कुरुथ
 6. According to the tradition's names, प्रथमः पुरुषः is: (a) I (b) you (c) he/she/it (d) we
 7. According to Pāṇini (7.3.101 अतो दीर्घो यञि), the अ of the stem becomes long in: (a)
-   गच्छतः (b) गच्छामः (c) गच्छथ (d) गच्छन्ति
+   गच्छतः (b) गच्छथ (c) गच्छन्ति (d) गच्छामः
 8. ददति means: (a) "they give" (b) "he gives" (c) "you give" (d) "they two give"
 9. In "अहम् गच्छामि" इति सः वदति, इति: (a) closes the quotation (b) means "I" (c) is a verb
    (d) means "and"
@@ -991,9 +991,9 @@ wrong ending): communication 4 · endings 4 (−1 per wrong ending) · coverage 
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — the 1st-person plural -मः with the stretch (§15 Steps 1–2). FACT. ((a) is §12's
-   mistake 1, a plural pronoun on a singular ending; (c) is mistake 4, the stretch missed;
-   (d) is "they go".)
+1. (d) — the 1st-person plural -मः with the stretch (§15 Steps 1–2). FACT. ((a) is §12's
+   mistake 1, a plural pronoun on a singular ending; (b) is mistake 4, the stretch missed;
+   (c) is "they go".)
 2. (b) — the 2nd-person plural -थ, no visarga (§15 Step 1). FACT. ((a) is "you two read",
    §12's mistake 2; (c) is "the two read"; (d) is "you read", one person.)
 3. (c) — two singular doers joined by च take the dual (§15 Step 5). FACT. ((a) is the
@@ -1005,8 +1005,8 @@ wrong ending): communication 4 · endings 4 (−1 per wrong ending) · coverage 
    the गच्छति pattern bolted onto कृ, §12's mistake 6; (d) is "you all do".)
 6. (c) — the tradition's names count from the far end (§4, §12's mistake 5). TRADITION, asked
    in the form "according to the tradition's names".
-7. (b) — the stretch before म and व (§15 Step 2). TRADITION, asked in the form "according to
-   Pāṇini". ((a), (c), (d): the endings begin with त, थ and अ; no stretch.)
+7. (d) — the stretch before म and व (§15 Step 2). TRADITION, asked in the form "according to
+   Pāṇini". ((a), (b), (c): the endings begin with त, थ and अ; no stretch.)
 8. (a) — the R4 whole word, "they give", with no न् (§15 Step 6). FACT, recognition. ((d)
    would be a dual, and no dual of ददाति is taught.)
 9. (a) — इति closes a quotation (§15 Step 7). FACT, the labelled frame.

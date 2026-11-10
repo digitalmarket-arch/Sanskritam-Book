@@ -741,21 +741,21 @@ own four aloud, level tune on every one (§9 drill 3).
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. In line 6, सः एकम् पाषाणम् घटे क्षिपति, the word घटे means: (a) the pot, as the one who
-   acts (b) into the pot — a role form of घटः, glossed whole (c) pots, more than one (d) a
+   acts (b) pots, more than one (c) into the pot — a role form of घटः, glossed whole (d) a
    misprint for घटः
-2. The story prints घटम् and घटे, but §14's row is घटः, because: (a) they are plural forms
-   (b) endings change with a word's role and match their nouns — glossed whole today;
-   Volume 3 teaches the system (c) they are spelling variants (d) the verb changes them
-3. सुखी and सुख are: (a) one word, two spellings (b) different words — सुखी "happy", from
-   सुखिन्, against सुख "happiness"; so सुखी is ledger-new (c) singular and plural of one
-   word (d) a verb and its noun
+2. The story prints घटम् and घटे, but §14's row is घटः, because: (a) endings change with a
+   word's role and match their nouns — glossed whole today; Volume 3 teaches the system (b)
+   they are plural forms (c) they are spelling variants (d) the verb changes them
+3. सुखी and सुख are: (a) one word, two spellings (b) singular and plural of one word (c)
+   a verb and its noun (d) different words — सुखी "happy", from सुखिन्, against सुख
+   "happiness"; so सुखी is ledger-new
 4. Line 2 has अस्ति and line 10 has भवति. What does भवति add? (a) nothing — both simply
    mean "is" (b) a change: "becomes" (c) the past tense (d) the I-form
 5. To say "he throws stones" with what this course has taught: (a) invent a plural ending
-   (b) one stone, again and again: सः एकम् पाषाणम् घटे क्षिपति। सः पुनः पुनः क्षिपति। (c)
-   सः पाषाणः क्षिपति। (d) सः पाषाणम् क्षिपामि।
-6. काकः कुतः आगच्छति? The honest answer: (a) घटे। (b) न जानामि — the story never says (c)
-   यतः सः पिपासितः अस्ति। (d) न अवगच्छामि।
+   (b) सः पाषाणः क्षिपति। (c) one stone, again and again: सः एकम् पाषाणम् घटे क्षिपति। सः पुनः
+   पुनः क्षिपति। (d) सः पाषाणम् क्षिपामि।
+6. काकः कुतः आगच्छति? The honest answer: (a) घटे। (b) यतः सः पिपासितः अस्ति। (c) न अवगच्छामि। (d) न
+   जानामि — the story never says
 7. किमर्थम् काकः पाषाणम् घटे क्षिपति? The answer that fits its asker: (a) यतः सः जलम्
    इच्छति। (b) घटे। (c) त्रीणि! (d) न जानामि।
 8. Which statement matches the evidence in §4? (a) it is a story from the Pañcatantra (b)
@@ -764,29 +764,29 @@ own four aloud, level tune on every one (§9 drill 3).
    the 1st century CE — among them a Greek epigram and Pliny's report (c) it is proven to come from
    Greece and was never told in India before modern times (d) it first appears in the
    Hitopadeśa
-9. पाषाणः is pronounced: (a) /pɑːsɑːn̪ɐh/ (b) /pɑːʂɑːɳɐh/ — ष and ण both retroflex (c)
-   /pɑːɕɑːɳɐh/ (d) "pāṣāṇ", final vowel and visarga dropped
-10. The moral बुद्धिः एव बलम् is: (a) a quotation from the Pañcatantra (b) a line written
-    for this course in owned words (c) a verse of the Ṛgveda (d) the 1.x moral, unchanged
+9. पाषाणः is pronounced: (a) /pɑːsɑːn̪ɐh/ (b) /pɑːɕɑːɳɐh/ (c) "pāṣāṇ", final vowel and
+   visarga dropped (d) /pɑːʂɑːɳɐh/ — ष and ण both retroflex
+10. The moral बुद्धिः एव बलम् is: (a) a quotation from the Pañcatantra (b) a verse of the
+    Ṛgveda (c) a line written for this course in owned words (d) the 1.x moral, unchanged
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — beside a verb of throwing, the "in" form means "into" (§8, §15). (d) is §12
+1. (c) — beside a verb of throwing, the "in" form means "into" (§8, §15). (d) is §12
    mistake 5.
-2. (b) — the one honest line (§8, §15); the story has no plural anywhere (§15 fence).
-3. (b) — §8, §14; STYLE_GUIDE §8 rule 1. (a) is §12 mistake 1 turned into a belief.
+2. (a) — the one honest line (§8, §15); the story has no plural anywhere (§15 fence).
+3. (d) — §8, §14; STYLE_GUIDE §8 rule 1. (a) is §12 mistake 1 turned into a belief.
 4. (b) — §8 and §13.
-5. (b) — §12 mistake 7, §15 fence. (c) uses the headword form for the thing thrown; (d)
+5. (c) — §12 mistake 7, §15 fence. (b) uses the headword form for the thing thrown; (d)
    changes the person.
-6. (b) — §16; (d) means "I don't understand", v2.c05.l02 §8; (a) is §12 mistake 8.
+6. (d) — §16; (c) means "I don't understand", v2.c05.l02 §8; (a) is §12 mistake 8.
 7. (a) — किमर्थम् wants a purpose, opened with यतः, as v2.c05.l01 taught; (b) answers
    कुत्र and (c) कति, and (d) is wrong because the story says why.
 8. (b) — the §4 HISTORY callout, dates hedged as there [REF:perry1952 no. 390];
    [REF:rackham1940 10.125]. (a) is the
    modern label; (c) overclaims the other way, since "no known version" is not proof of
    origin; (d) fails because no version is known there either.
-9. (b) — §10, §11. (a) and (c) are §12 mistake 2; (d) is mistake 3.
-10. (b) — §8, §13; it echoes Avianus's moral (§4) but quotes nothing.
+9. (d) — §10, §11. (a) and (b) are §12 mistake 2; (c) is mistake 3.
+10. (c) — §8, §13; it echoes Avianus's moral (§4) but quotes nothing.
 
 **The trap read (§9 drill 4).** (1) Line 5 read as घटे जलम् न अस्ति — "there is no water
 in the pot": a fact changed. (2) Line 6 read with घटः for घटे: a role form swapped. (3)

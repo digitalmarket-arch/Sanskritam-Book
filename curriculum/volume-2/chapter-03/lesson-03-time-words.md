@@ -618,40 +618,40 @@ Log the third ladder time; the drop over the week is the fluency.
 1. The everyday trio, glossed honestly: (a) अद्य "today", श्वः "tomorrow", ह्यः
    "yesterday" (b) अद्य "today", श्वः "yesterday", ह्यः "tomorrow" (c) अद्य "now", श्वः
    "today", ह्यः "tonight" (d) all three mean "day"
-2. The honest arrow for होरा: (a) Greek borrowed *hṓra* from Sanskrit (b) होरा was
-   borrowed INTO Sanskrit from Greek, arriving with Hellenistic astronomy (c) होरा is
-   native Sanskrit and the match with Greek is coincidence (d) होरा descends from Hindi
+2. The honest arrow for होरा: (a) Greek borrowed *hṓra* from Sanskrit (b) होरा is
+   native Sanskrit and the match with Greek is coincidence (c) होरा was borrowed INTO
+   Sanskrit from Greek, arriving with Hellenistic astronomy (d) होरा descends from Hindi
    घंटा
 3. होरा and English *hour* are: (a) siblings by shared descent, like माता and *mother*
    (b) relatives by borrowing — two languages each borrowed from one Greek source
    (c) unrelated look-alikes (d) proof that *hour* comes from Sanskrit
-4. सप्ताहः is built from: (a) सप्त "seven" + अह "day" — a seven-of-days (b) a single
-   unanalyzable root (c) a borrowing from Greek, like होरा (d) सप्ताहः + कालः
-5. मासः on today's list is: (a) a brand-new word (b) मास — readable since v1.c04.l02 —
-   wearing its sentence dress ः: an upgrade that does not increment the ledger (c) a
-   different word from मास (d) a loanword from Hindi महीना
+4. सप्ताहः is built from: (a) a single unanalyzable root (b) a borrowing from Greek,
+   like होरा (c) सप्ताहः + कालः (d) सप्त "seven" + अह "day" — a seven-of-days
+5. मासः on today's list is: (a) a brand-new word (b) a different word from मास (c) मास —
+   readable since v1.c04.l02 — wearing its sentence dress ः: an upgrade that does not
+   increment the ledger (d) a loanword from Hindi महीना
 6. The trio's grammar: (a) they decline like nouns and will need case endings (b) they
-   are अव्यय — indeclinables with one fixed shape, carried by verbless frames and
-   अस्ति lines (c) they are verbs (d) they may only be used with weekday names
+   are verbs (c) they may only be used with weekday names (d) they are अव्यय —
+   indeclinables with one fixed shape, carried by verbless frames and अस्ति lines
 7. Hindi कल beside the Sanskrit trio: (a) Sanskrit also uses one word for both
    neighboring days (b) Hindi कल covers both directions and context decides; Sanskrit
    assigns श्वः forward and ह्यः back (c) कल and श्वः are the same word (d) Sanskrit
    has no word for yesterday
-8. Reading ह्यः as "hayaḥ" means: (a) nothing — both are fine (b) a vowel leaked into
-   the conjunct — ह्य is one block with no vowel inside (c) the visarga was dropped
+8. Reading ह्यः as "hayaḥ" means: (a) a vowel leaked into the conjunct — ह्य is one
+   block with no vowel inside (b) nothing — both are fine (c) the visarga was dropped
    (d) the word became plural
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (a) — the deictic trio (§8, §14). ((b) is §12's mistake 3 in print.)
-2. (b) — the reversed arrow, dated no finer than "with Hellenistic astronomy" (§4, §13).
+2. (c) — the reversed arrow, dated no finer than "with Hellenistic astronomy" (§4, §13).
 3. (b) — one source, two borrowings: cousins by borrowing, not shared descent (§13) —
    the chapter exam's subtlest card is built from this line.
-4. (a) — the l02 numeral at work inside a word (§8, §13).
-5. (b) — the गृहम् precedent (§15); six new + two upgrades (कालः, मासः), 283 → 289 (§14).
-6. (b) — the अव्यय shelf of v2.c02.l04, now holding time words (§15).
+4. (d) — the l02 numeral at work inside a word (§8, §13).
+5. (c) — the गृहम् precedent (§15); six new + two upgrades (कालः, मासः), 283 → 289 (§14).
+6. (d) — the अव्यय shelf of v2.c02.l04, now holding time words (§15).
 7. (b) — the repair kit for Hindi speakers (§7, §8, §12).
-8. (b) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —
+8. (a) — the leaked-vowel error (§9, §10, §12). ((c) is the *other* tiny-word error —
    know both.)
 
 **Exercise keys.**

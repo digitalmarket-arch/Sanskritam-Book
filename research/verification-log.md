@@ -1154,3 +1154,43 @@ printed edition or catalogue page be opened, the evidence rule recorded above un
 v3.c04 review applies to the Volume 4 fact bases as well, and the source line says "text of
 the GRETIL e-text". No REFERENCES key is added for the Nandikeśvarakāśikā until a citable
 edition is found (plan §7.3, Q2).
+
+## Quiz keys spread over the option letters — all shipped lessons (2026-11-10)
+
+Found by the editor while merging the v4.c01 review: the exam's key never stood at (d). A
+count over the course showed the pattern everywhere.
+
+| Claim | Source | Verdict | Where |
+|---|---|---|---|
+| The correct answers of the quizzes are spread over the option letters | `scripts/quizcheck.py` run on the 91 reviewed lessons as released at 0.18.0 (commit 0ea7b76): 81 lessons have multiple-choice questions, 668 keys in all — (a) 153, (b) 398, (c) 107, (d) 10; 73 lessons break the rule now in STYLE_GUIDE §5; in four quizzes every key is the same letter (v2.c04.l03, v2.c05.l02, v2.c05.l04: (a); v3.c04.l04: (b)) | ❌ a learner could score by position | 73 lessons of Volumes 1–3 |
+| After the re-ordering | the same script on the same 91 lessons: 668 keys — (a) 168, (b) 202, (c) 169, (d) 129; no lesson breaks the rule; 260 questions re-ordered in 73 lessons | ✅ corrected | the same |
+
+**Method.** One editor per lesson re-ordered options only; an independent reader compared the
+old and the new quiz question by question (for 37 lessons, whose readers were cut off by a
+usage limit, the editor's own checks below stand in their place). Three mechanical checks were
+then run on every lesson by the editor: (1) `scripts/quizcheck.py` against the lesson's
+committed version — the same option texts, the same stems, the keyed option the same text as
+before, the letters named in each explanation moved with their options, the spread rule met;
+(2) a character count of each diff — the added and the removed lines hold exactly the same
+characters apart from the letters inside "(a)" … "(d)"; (3) a search for option letters named
+outside the quiz — four lessons name one (v2.c04.l02, v3.c04.l05, v3.c05.l01, v3.c05.l03), and
+in each the option named still has that letter. A last run of the script compared all 91
+lessons with their 0.18.0 text: no option, stem or keyed answer differs.
+
+**Not re-ordered on purpose:** a question one of whose options names another option ("both (a)
+and (b)", "either (a) or (b)"); a question whose explanation speaks of the options by position
+("the others … respectively"); items of several lettered parts, which are not multiple-choice.
+Options with a natural order (dates, numbers, sūtra numbers, the sounds of a row) kept it
+wherever the spread could be reached without them.
+
+The fact bases of the shipped chapters keep their quiz listings in the drafting order; the
+lesson is the binding copy.
+
+## Erratum — v3.c03.l02 §8, verbs in both families (2026-11-10)
+
+Found by the v4.c03 fact base (its §9 (a)) and decided by the editor (its §8, decision 7).
+
+| Claim as shipped | Source | Verdict | Where |
+|---|---|---|---|
+| "the course teaches every verb in one family only, the one printed in its §14 row" | v4.c03.l01 teaches पचति / पचते and यजति / यजते in both sets (Volume 4 plan §4.3; the v4.c03 fact base) | ✅ limited in time: "until v4.c03.l01 the course teaches every verb in one family only" — true before and after Volume 4, Chapter 3 ships | v3.c03.l02 §8 |
+

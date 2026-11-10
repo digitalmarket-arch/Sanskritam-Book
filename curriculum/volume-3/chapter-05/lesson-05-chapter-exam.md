@@ -1013,12 +1013,12 @@ sitting.
 
 1. Which sentence breaks the rule of the short forms? (a) पुस्तकं मे ददाति (b) मे पुस्तकं ददाति
    (c) गुरुर्नः पश्यति (d) मम पुस्तकं ददाति
-2. To a woman guest, "What are you reading, madam?" — भवती किं ___? (a) पठसि (b) पठति (c) पठथ
-   (d) पठन्ति
+2. To a woman guest, "What are you reading, madam?" — भवती किं ___? (a) पठसि (b) पठथ (c) पठन्ति
+   (d) पठति
 3. The dative singular of सा: (a) तस्यै (b) तस्मै (c) तायै (d) तस्याः
 4. "All the doves", in pause form: (a) सर्वाः कपोताः (b) सर्वे कपोताः (c) सर्वाणि कपोताः (d) सर्वम्
    कपोताः
-5. "This river", in pause form: (a) अयम् नदी (b) इयम् नदी (c) इदम् नदी (d) एषः नदी
+5. "This river", in pause form: (a) अयम् नदी (b) एषः नदी (c) इयम् नदी (d) इदम् नदी
 6. The missing word: यदा गुरुः पठति ___ वयं लिखामः। (yadā guruḥ paṭhati ___ vayaṃ likhāmaḥ.) —
    pause form यदा गुरुः पठति ___ वयम् लिखामः। (yadā guruḥ paṭhati ___ vayam likhāmaḥ.) — (a) तत्र
    (b) तदा (c) तथा (d) यत्र
@@ -1029,10 +1029,11 @@ sitting.
    मे stand for the dative and genitive of त्वम् and अहम् (d) words in the sense of च make a
    द्वन्द्व (e) the words of the list that begins with सर्व are called सर्वनाम (f) the words of the
    list that begins with स्वर्, and the particles, are called अव्यय
-9. चित्रग्रीवः, said of the dove-king, is: (a) बहुव्रीहिः — he is someone who has a bright neck
-   (b) तत्पुरुषः — he is a neck (c) कर्मधारयः — a bright neck (d) द्वन्द्वः — "bright and neck"
-10. Why मातृभाषा, and not \*माताभाषा? (a) the first member stands in its stem form (b) the first
-    member is in the nominative (c) the compound is a dvandva (d) भाषा is masculine
+9. चित्रग्रीवः, said of the dove-king, is: (a) तत्पुरुषः — he is a neck
+   (b) कर्मधारयः — a bright neck (c) द्वन्द्वः — "bright and neck" (d) बहुव्रीहिः — he is someone
+   who has a bright neck
+10. Why मातृभाषा, and not \*माताभाषा? (a) the first member is in the nominative (b) the compound is a
+    dvandva (c) the first member stands in its stem form (d) भाषा is masculine
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -1040,14 +1041,14 @@ sitting.
 
 1. (b) — a short form first (l01 §15, the short forms: the rule; l01 §12 mistake 1). (a) has मे
    after a word; (c) has नः after गुरुः; (d) uses the full मम, which may stand anywhere. FACT.
-2. (b) — भवती takes the 3rd person (l01 §15, the polite table). (a) is l01 §12 mistake 2; (c) is
-   the Hindi "आप पढ़ती हैं" reflex, a plural 2nd person; (d) is the 3rd plural, for several. FACT.
+2. (d) — भवती takes the 3rd person (l01 §15, the polite table). (a) is l01 §12 mistake 2; (b) is
+   the Hindi "आप पढ़ती हैं" reflex, a plural 2nd person; (c) is the 3rd plural, for several. FACT.
 3. (a) — the feminine -स्यै cell (l02 §15 Step 1). (b) is the masculine dative; (c) puts बालिका's
    ending on त-, an error form; (d) is the genitive and ablative. FACT.
 4. (b) — सर्व takes the pronoun's plural, like ते [l02 §15 Step 3, card 4; l02 §12 mistake 1].
    (a) is the feminine plural; (c) the neuter plural; (d) the neuter singular. FACT.
-5. (b) — नदी is feminine, so इयम् [l02 §15 Step 4; l02 §12 mistake 5]. (a) is masculine, (c)
-   neuter, (d) the masculine of एतद्. FACT.
+5. (c) — नदी is feminine, so इयम् [l02 §15 Step 4; l02 §12 mistake 5]. (a) is masculine, (d)
+   neuter, (b) the masculine of एतद्. FACT.
 6. (b) — the correlative of यदा [l03 §14, the grid; l03 §15]. ततः after यदा is also good Sanskrit
    and is accepted where a learner writes it; it is not among the options. (a) and (d) are the
    place pair, (c) the manner word. FACT.
@@ -1056,10 +1057,10 @@ sitting.
 8. 8.1.22 → (c) · 1.1.27 → (e) · 1.1.37 → (f) · 1.4.59 → (b) · 2.2.29 → (d) · 2.2.24 → (a). Each
    sūtra was quoted in its lesson's §4 (l01, l02, l03 twice, l04 twice). One mark for all six
    right, ½ for four or five. TRADITION, asked in the form "According to Pāṇini".
-9. (a) — the context test: someone who has it (l04 §15 Step 4; l04 §12 mistakes 3 and 6). (b) is
-   the tatpuruṣa reading; (c) the karmadhāraya reading, "a bright neck", which a king is not; (d)
+9. (d) — the context test: someone who has it (l04 §15 Step 4; l04 §12 mistakes 3 and 6). (a) is
+   the tatpuruṣa reading; (b) the karmadhāraya reading, "a bright neck", which a king is not; (c)
    would need an "and". FACT.
-10. (a) — rule 1, the stem first: मातृ, not माता [l04 §15 Step 1; l04 §12 mistake 1]. FACT.
+10. (c) — rule 1, the stem first: मातृ, not माता [l04 §15 Step 1; l04 §12 mistake 1]. FACT.
 
 **Task keys**
 

@@ -998,13 +998,13 @@ its transcript.
 
 1. "Yesterday I went": (a) ह्यः अहम् गच्छामि (b) ह्यः अहम् अगच्छम् (c) ह्यः अहम् अगच्छत्
    (d) ह्यः अहम् अगच्छाम
-2. अगच्छत, with no virāma, is: (a) "he went" (b) "you all went" (c) "they went" (d) "I went"
-3. The imperfect 3sg of प्रविशति: (a) अप्रविशत् (b) प्राविशत् (c) प्रविशत् (d) प्रविशति
+2. अगच्छत, with no virāma, is: (a) "he went" (b) "they went" (c) "I went" (d) "you all went"
+3. The imperfect 3sg of प्रविशति: (a) प्राविशत् (b) अप्रविशत् (c) प्रविशत् (d) प्रविशति
 4. The imperfect 3sg of इच्छति: (a) इच्छत् (b) अइच्छत् (c) ऐच्छत् (d) एच्छत्
-5. "They were at home": (a) ते गृहे आसीत् (b) ते गृहे आसन् (c) ते गृहे सन्ति (d) ते गृहे आसम्
-6. उवाच means: (a) "he says" (b) "he said" (c) "they said" (d) "speak!"
-7. In मूषकः आगच्छत्, the augment is: (a) before आ (b) after आ, joined with it (c) missing
-   (d) at the end
+5. "They were at home": (a) ते गृहे आसीत् (b) ते गृहे सन्ति (c) ते गृहे आसम् (d) ते गृहे आसन्
+6. उवाच means: (a) "he said" (b) "he says" (c) "they said" (d) "speak!"
+7. In मूषकः आगच्छत्, the augment is: (a) before आ (b) at the end (c) after आ, joined with it
+   (d) missing
 8. According to Pāṇini, लङ् is used for: (a) the present (b) a past not of today (c) a
    command (d) the future
 9. "The student got a book": (a) छात्रः पुस्तकम् अलभत (b) छात्रः पुस्तकम् अलभत् (c) छात्रः
@@ -1016,18 +1016,18 @@ its transcript.
 
 1. (b) — 1st singular, -अम् (§8 Step 4, §15 Step 1). ((a) is the present, which cannot reach
    back to ह्यः; (c) is "he went"; (d) is "we went".)
-2. (b) — no virāma: the 2nd plural (§15 Step 2). ((a) is अगच्छत्, §12's mistake 3; (c) is
-   अगच्छन्; (d) is अगच्छम्.)
-3. (b) — prefix · augment · stem: प्र + अविशत् (§15 Step 5). ((a) is §12's mistake 1; (c) has
+2. (d) — no virāma: the 2nd plural (§15 Step 2). ((a) is अगच्छत्, §12's mistake 3; (b) is
+   अगच्छन्; (c) is अगच्छम्.)
+3. (a) — prefix · augment · stem: प्र + अविशत् (§15 Step 5). ((b) is §12's mistake 1; (c) has
    no augment; (d) is the present.)
 4. (c) — the augment fuses with इ into ऐ; learned whole (§15 Step 5). ((a) and (b) are §12's
    mistake 2; (d) has the wrong vowel.)
-5. (b) — the 3rd plural of अस्, a listed cell (§15 Step 3). ((a) is singular; (c) is the
-   present "are"; (d) is "I was".)
-6. (b) — the chunk, "he said", taught in the 3rd singular only (§15 Step 6). ((a) is the present value of आह,
+5. (d) — the 3rd plural of अस्, a listed cell (§15 Step 3). ((a) is singular; (b) is the
+   present "are"; (c) is "I was".)
+6. (a) — the chunk, "he said", taught in the 3rd singular only (§15 Step 6). ((b) is the present value of आह,
    not of उवाच; (c) "they said" is ते अवदन्, or the R4 word अब्रुवन्; (d) is a command.)
-7. (b) — आ + अगच्छत् → आगच्छत्: the augment after the prefix, the two vowels one long आ (§8
-   Step 5, §15 Step 5). ((a) is §12's mistake 1; (c) and (d) put no augment where it stands.)
+7. (c) — आ + अगच्छत् → आगच्छत्: the augment after the prefix, the two vowels one long आ (§8
+   Step 5, §15 Step 5). ((a) is §12's mistake 1; (d) and (b) put no augment where it stands.)
 8. (b) — "According to Pāṇini, लङ् is the past that is not of today" (§4, TRADITION).
 9. (a) — अलभत, the listed second-family cell (§15 Step 4). ((b) puts a first-family ending on
    a second-family verb; (c) is the present "gets"; (d) is §12's mistake 5, the ने reflex.)

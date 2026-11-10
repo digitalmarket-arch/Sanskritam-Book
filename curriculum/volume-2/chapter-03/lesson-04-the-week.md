@@ -599,22 +599,22 @@ Saturday." Self-check: every answer is a §6 frame or one word-swap away from on
    of सोमवासरः on the same front, built with the other day-word वार (b) is the
    ancestor of सोमवासरः (c) is सोमवासरः worn down — वार clipped from वासर (d) is a
    Greek loan, like होरा
-3. The ङ्ग in मङ्गलवासरः: (a) is the गङ्गा stack — the velar nasal seated on ग, no
-   vowel between; newspaper print's मंगल spells the same sounds with the dot (b) is
-   a special Tuesday-only letter (c) is read with a vowel inside — "maṅagala" (d) is
-   silent
-4. अद्य गुरुवासरः। श्वः कः वासरः? (a) श्वः शुक्रवासरः। (b) श्वः बुधवासरः। (c) श्वः
+3. The ङ्ग in मङ्गलवासरः: (a) is a special Tuesday-only letter (b) is read with a
+   vowel inside — "maṅagala" (c) is silent (d) is the गङ्गा stack — the velar nasal
+   seated on ग, no vowel between; newspaper print's मंगल spells the same sounds with
+   the dot
+4. अद्य गुरुवासरः। श्वः कः वासरः? (a) श्वः बुधवासरः। (b) श्वः शुक्रवासरः। (c) श्वः
    शनिवासरः। (d) ह्यः शुक्रवासरः।
-5. The fronts of the seven compounds: (a) all seven are brand-new headwords today
-   (b) रवि and गुरु are ledger words already — sun and teacher — on planet
-   duty, and सोम, मङ्गल, बुध, शुक्र, शनि arrive inside their compounds, noted but not
-   separately taught (c) they are Greek loans (d) they are meaningless prefixes
+5. The fronts of the seven compounds: (a) रवि and गुरु are ledger words already — sun
+   and teacher — on planet duty, and सोम, मङ्गल, बुध, शुक्र, शनि arrive inside their
+   compounds, noted but not separately taught (b) all seven are brand-new headwords
+   today (c) they are Greek loans (d) they are meaningless prefixes
 6. A circled ७ under the Friday column is read: (a) with invented "seventh" grammar
-   (b) as a pairing — शुक्रवासरः — ७, or digit-first सप्त — शुक्रवासरः — ordinals
-   are later business (c) by skipping the digit (d) in the Hindi form only
-7. गुरुवासरः carries in front: (a) a brand-new word that only means Jupiter (b) your
-   गुरु "teacher" of v1.c04.l01, moonlighting as the planet Jupiter (c) the Greek
-   word for Thursday (d) the word for "heavy" with no planet sense in the
+   (b) by skipping the digit (c) in the Hindi form only (d) as a pairing — शुक्रवासरः
+   — ७, or digit-first सप्त — शुक्रवासरः — ordinals are later business
+7. गुरुवासरः carries in front: (a) a brand-new word that only means Jupiter (b) the Greek
+   word for Thursday (c) your गुरु "teacher" of v1.c04.l01, moonlighting as the planet
+   Jupiter (d) the word for "heavy" with no planet sense in the
    dictionaries
 8. The title वासराः is: (a) a typo for वासरः (b) the plural dress of वासरः —
    "days", glossed once in §8; the plural system is later business (c) a different
@@ -627,13 +627,13 @@ Saturday." Self-check: every answer is a §6 frame or one word-swap away from on
    chronology entirely.)
 2. (a) — two Sanskrit day-words, वार and वासर, one front; Hindi kept the -वार set
    whole (§4, §13). ((c) is the worn-down myth: वार is its own word.)
-3. (a) — the v1.c06.l01 stack back on duty; convenience print read identically,
+3. (d) — the v1.c06.l01 stack back on duty; convenience print read identically,
    classical stack written (§8, §12).
-4. (a) — the wheel runs गुरुवासरः → शुक्रवासरः (§8). ((d) answers a question nobody
+4. (b) — the wheel runs गुरुवासरः → शुक्रवासरः (§8). ((d) answers a question nobody
    asked — ह्यः looks backward.)
-5. (b) — honest counting: eight headwords, two old friends, five riders (§8, §14).
-6. (b) — pair, point, move on; no ordinals yet (§15).
-7. (b) — one word, two jobs; both senses in the dictionaries (§8, §13).
+5. (a) — honest counting: eight headwords, two old friends, five riders (§8, §14).
+6. (d) — pair, point, move on; no ordinals yet (§15).
+7. (c) — one word, two jobs; both senses in the dictionaries (§8, §13).
 8. (b) — a display in plural dress, glossed once, system later (§8, §14).
 
 **Exercise keys.** Exercise 1: रविवासरः सोमवासरः मङ्गलवासरः बुधवासरः गुरुवासरः

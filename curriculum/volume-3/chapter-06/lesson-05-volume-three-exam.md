@@ -925,7 +925,7 @@ after the sittings (8 minutes); answers in the key at the end.
 8. The first step of अन्वयः is — (a) translating word by word in verse order (b) पदच्छेदः (c)
    changing the forms
 9. According to this lesson's HISTORY callout, in the Hitopadeśa अयं निजः परो वेति … (1.71) is
-   spoken by — (a) a sage teaching his pupils (b) the dove-king (c) a jackal
+   spoken by — (a) a jackal (b) a sage teaching his pupils (c) the dove-king
 10. At the end of Volume 3 the ledger of readable words stands at — (a) 488 (b) 508 (c) 360
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -944,7 +944,7 @@ after the sittings (8 minutes); answers in the key at the end.
 7. (c) — X नाम Y, "a Y called X" [lesson 3 §15; lesson 3 §12 mistake 3]. · FACT
 8. (b) — the seven steps begin with the split [lesson 4 §8; lesson 4 §12 mistakes 1 and 3: (a)
    and (c) are the two errors]. · FACT
-9. (c) — §4, the first HISTORY callout. · HISTORY, taught in this lesson's cited callout
+9. (a) — §4, the first HISTORY callout. · HISTORY, taught in this lesson's cited callout
 10. (b) — §14: 360 + 148 = 508. ((a) is Chapter 5's exit, (c) Volume 2's.) · FACT about the
     course
 

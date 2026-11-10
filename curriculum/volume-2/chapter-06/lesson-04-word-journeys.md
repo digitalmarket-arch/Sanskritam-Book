@@ -816,46 +816,46 @@ sentence on why *pedal* looks more like पादः than *foot* does.
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. पादः means: (a) foot (b) step; word (c) tooth (d) middle
-2. दन्तः and English *tooth* are: (a) cognates — inherited in parallel, no arrow
-   (b) a loan: English took *tooth* from Sanskrit (c) a Latin-route pair (d) unrelated
-   look-alikes
+2. दन्तः and English *tooth* are: (a) a loan: English took *tooth* from Sanskrit
+   (b) a Latin-route pair (c) unrelated look-alikes (d) cognates — inherited in parallel,
+   no arrow
 3. English *dental*: (a) was borrowed from Sanskrit दन्त (b) came to English from Latin
    *dentālis*, built on *dēns, dentis*, whose sibling is दन्तः — the Latin route (c) is
    inherited English, like *tooth* (d) is unrelated to दन्तः
-4. English *yoga*: (a) is a loan from Sanskrit योग "yoking, union" (b) is a loan from
-   युग "yoke; age" (c) is inherited in parallel, like *yoke* (d) came from Latin *iugum*
-5. *Juggle* and युग: (a) are cognates (b) are unrelated — *juggle* came from Latin
-   *ioculārī* "to jest", kin to *joke* (c) are a loan pair (d) are a Latin-route pair
-6. √विद् and *video*: (a) √विद् means "see", and English took *video* from it
-   (b) √विद् means "know"; Latin *vidēre* "see" is its cognate, and English built
-   *video* from Latin (c) they are unrelated (d) Latin borrowed *vidēre* from Sanskrit
+4. English *yoga*: (a) is inherited in parallel, like *yoke* (b) came from Latin *iugum*
+   (c) is a loan from Sanskrit योग "yoking, union" (d) is a loan from युग "yoke; age"
+5. *Juggle* and युग: (a) are cognates (b) are a loan pair (c) are a Latin-route pair
+   (d) are unrelated — *juggle* came from Latin *ioculārī* "to jest", kin to *joke*
+6. √विद् and *video*: (a) √विद् means "know"; Latin *vidēre* "see" is its cognate, and
+   English built *video* from Latin (b) √विद् means "see", and English took *video* from
+   it (c) they are unrelated (d) Latin borrowed *vidēre* from Sanskrit
 7. Why do *pedal* and *dental* look more like पादः and दन्तः than *foot* and *tooth* do?
-   (a) English borrowed *pedal* and *dental* from Sanskrit (b) Latin kept the old *p*
-   and *d*, while English's inherited words went through the Germanic shift (*p* → *f*,
-   *d* → *t*) (c) pure coincidence (d) Sanskrit borrowed them from Latin
+   (a) English borrowed *pedal* and *dental* from Sanskrit (b) pure coincidence (c) Latin
+   kept the old *p* and *d*, while English's inherited words went through the Germanic
+   shift (*p* → *f*, *d* → *t*) (d) Sanskrit borrowed them from Latin
 8. विमानम्: (a) is वि "special" + मान "vehicle" (b) comes from वि + √मा "measure out,
    traverse" — classically the gods' aerial car, today also an aeroplane (c) is a
    brand-new coinage with no classical history (d) was borrowed from English
-9. How were modern words like दूरदर्शनम् and अन्तर्जालम् made? (a) from classical parts,
-   translating the English word part by part — a method many languages use (b) borrowed
-   whole from English, the way Hindi uses कंप्यूटर (c) found ready-made with this meaning
-   in classical texts (d) by a method only Sanskrit has
+9. How were modern words like दूरदर्शनम् and अन्तर्जालम् made? (a) borrowed
+   whole from English, the way Hindi uses कंप्यूटर (b) found ready-made with this meaning
+   in classical texts (c) from classical parts, translating the English word part by part
+   — a method many languages use (d) by a method only Sanskrit has
 10. Reading check — write the English meaning of each: (a) एषः मम पादः। (b) सर्पः चलति।
     (c) सः दूरदर्शनम् पश्यति।
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (a) foot (§8, §14). ((b) is पद, a different word — §12 mistake 9.)
-2. (a) — kind (a), no arrow (§13). ((b) is §12 mistake 1.)
+2. (d) — kind (a), no arrow (§13). ((a) is §12 mistake 1.)
 3. (b) — kind (c), the Latin route (§5, §13). ((a) is §12 mistake 2.)
-4. (a) — the 1.x list's one true loan; first recorded in English in 1785 (§4, §13). ((b) is
+4. (c) — the 1.x list's one true loan; first recorded in English in 1785 (§4, §13). ((d) is
    §12 mistake 4.)
-5. (b) — kind (d) (§13). ((a) is §12 mistake 3; the sound-alike proves nothing.)
-6. (b) — the corrected video row (§13). ((a) is §12 mistake 5.)
-7. (b) — Latin kept *p* and *d*; English shifted them (§5).
+5. (d) — kind (d) (§13). ((a) is §12 mistake 3; the sound-alike proves nothing.)
+6. (a) — the corrected video row (§13). ((b) is §12 mistake 5.)
+7. (c) — Latin kept *p* and *d*; English shifted them (§5).
 8. (b) (§13). ((a) is §12 mistake 6: मान never meant "vehicle".)
-9. (a) — calques from classical parts; English *tele-vision* and German *Fern-seh-er*
-   are built the same way (§8, §13). ((d) is §12 mistake 7; (c) fits only the विमानम्
+9. (c) — calques from classical parts; English *tele-vision* and German *Fern-seh-er*
+   are built the same way (§8, §13). ((d) is §12 mistake 7; (b) fits only the विमानम्
    type.)
 10. (a) "This is my foot." (b) "The snake moves." (c) "He is watching television."
 

@@ -545,8 +545,8 @@ visarga breathed.
 1. The correct place-mapping of the three sibilants is: (a) श dental, ष palatal, स
    retroflex (b) श palatal, ष retroflex, स dental (c) all three palatal (d) श retroflex,
    ष palatal, स dental
-2. The reliable recipe for ष is: (a) say त, hold, hiss (b) say ट, hold the tongue's
-   curl, and hiss (c) say च and add voice (d) say स faster
+2. The reliable recipe for ष is: (a) say त, hold, hiss (b) say च and add voice (c) say स
+   faster (d) say ट, hold the tongue's curl, and hiss
 3. English "sh" (as in *ship*) is: (a) exactly श (b) exactly ष (c) close to श but equal
    to neither Sanskrit letter — it sits between them (d) the same as स
 4. In IAST, ष is written: (a) sha (b) ś (c) ṣ (d) s
@@ -563,7 +563,7 @@ visarga breathed.
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) श palatal /ɕ/, ष retroflex /ʂ/, स dental /s/ (§5, §10).
-2. (b) the ट-recipe — hold the curl and hiss (§5, §9). ((a) yields स; (d) is §12's
+2. (d) the ट-recipe — hold the curl and hiss (§5, §9). ((a) yields स; (c) is §12's
    decay error.)
 3. (c) between them — near श but flatter, nowhere near ष's curl (§10, §12 mistake 2).
 4. (c) ṣ — ś is श; "sha" for both erases the contrast (§5, §8).

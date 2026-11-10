@@ -576,11 +576,11 @@ before you trust it.)
 2. Which letter is this row's tissue-thrower — the voiceless aspirate? (a) ट (b) ठ (c) ड
    (d) ढ
 3. English t and d are ______, which makes them ______ of the Sanskrit retroflexes.
-   (a) dental; identical twins (b) alveolar; next-door neighbors (c) retroflex; the same
-   sounds (d) velar; distant relatives
+   (a) dental; identical twins (b) retroflex; the same sounds (c) velar; distant
+   relatives (d) alveolar; next-door neighbors
 4. A learner reads गुड aloud with a Hindi-style flap, "गुड़". What is the correct Sanskrit
-   reading? (a) the flap is fine — same sound (b) guḍa — a full stop ड with complete
-   contact, and the final अ pronounced (c) guḍ — full stop, no final vowel (d) gūḍa
+   reading? (a) guḍa — a full stop ड with complete contact, and the final अ pronounced (b) the
+   flap is fine — same sound (c) guḍ — full stop, no final vowel (d) gūḍa
 5. Which word means "grass"? (a) गुण (b) तृण (c) कण (d) गण
 6. On the page, ट and ठ differ because: (a) ठ closes into a full loop while ट stays an open
    bowl (b) ट carries a dot at its base (c) ठ has a vertical stem (d) they do not differ
@@ -592,9 +592,9 @@ before you trust it.)
 
 1. (c) — curled up and back, past the ridge (§5, §11).
 2. (b) ठ /ʈʰ/ — same curl, hard puff (§8, §15).
-3. (b) alveolar; next-door neighbors — close enough to tempt, not close enough to be the
+3. (d) alveolar; next-door neighbors — close enough to tempt, not close enough to be the
    sound (§5, §12 mistake 1).
-4. (b) guḍa — Sanskrit has no ड़; full contact, full final vowel (§7, §12 mistake 2).
+4. (a) guḍa — Sanskrit has no ड़; full contact, full final vowel (§7, §12 mistake 2).
 5. (b) तृण /t̪r̩ɳɐ/ (§14). (गुण "quality", कण "particle", गण "group".)
 6. (a) open bowl vs closed loop (§15).
 7. Two mistakes: the retroflex ण was flattened to a plain [n], and the final अ was dropped.

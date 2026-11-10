@@ -548,21 +548,21 @@ the course will assume.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. Law 5 of the script says: (a) every consonant always carries अ (b) the virāma ्
-   cancels the inherent vowel of the letter it attaches to (c) the virāma lengthens the
-   vowel (d) final consonants are simply left unwritten
-2. क + ् reads as: (a) *ka* (b) *k* alone, no vowel (c) *ku* (d) *kā*
+1. Law 5 of the script says: (a) every consonant always carries अ (b) the virāma lengthens
+   the vowel (c) the virāma ् cancels the inherent vowel of the letter it attaches to
+   (d) final consonants are simply left unwritten
+2. क + ् reads as: (a) *k* alone, no vowel (b) *ka* (c) *ku* (d) *kā*
 3. Why does the script need the virāma at all? (a) decoration inherited from old
-   manuscripts (b) because the inherent-अ default must be switchable off, or words like
-   अहम् could never be written (c) to mark stress (d) to separate words
+   manuscripts (b) to mark stress (c) to separate words (d) because the inherent-अ default
+   must be switchable off, or words like अहम् could never be written
 4. The correct spelling of *aham* "I" is: (a) अहम (b) अहम् (c) अह्म (d) आहम
 5. A learner reads अहम् aloud as "ahama". What happened? (a) nothing — that is correct
-   (b) the reader ignored the virāma and released a final vowel — the echo error (c) the
-   word was misspelled on the page (d) the reader used connected-speech sandhi
+   (b) the word was misspelled on the page (c) the reader used connected-speech sandhi
+   (d) the reader ignored the virāma and released a final vowel — the echo error
 6. Below a letter, the difference between the u-hook and the vowel-killer is: (a) none —
-   they are the same stroke (b) कु has the curled hook and *adds* a vowel; क् has the
-   short straight slash and *deletes* one (c) क् adds a vowel, कु deletes one (d) both
-   delete vowels
+   they are the same stroke (b) क् adds a vowel, कु deletes one (c) कु has the curled hook
+   and *adds* a vowel; क् has the short straight slash and *deletes* one (d) both delete
+   vowels
 7. Reading check — write the English meaning of each: (a) किम् (b) जगत् (c) वाक्
 8. In this course's pause-form reading, अहम् वदामि is read: (a) with the final म् closed
    and complete — *aham*, a hair of silence, then *vadāmi* (b) as अहं वदामि, because
@@ -571,14 +571,14 @@ the course will assume.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) the virāma cancels the inherent vowel (§5, §15). ((a) overstates Law 1: only an *unmarked* consonant carries अ — a mātrā replaces it, and from today ् deletes it.)
-2. (b) bare /k/ — the vowel is deleted, not softened (§8).
-3. (b) a default is only usable if it can be switched off — the abugida bargain
+1. (c) the virāma cancels the inherent vowel (§5, §15). ((a) overstates Law 1: only an *unmarked* consonant carries अ — a mātrā replaces it, and from today ् deletes it.)
+2. (a) bare /k/ — the vowel is deleted, not softened (§8).
+3. (d) a default is only usable if it can be switched off — the abugida bargain
    completed (§5).
 4. (b) अहम् — the stroke under the final म. ((a) reads *ahama*; (c) kills the wrong
    letter and spells *ahma*; (d) begins with the wrong vowel.) (§8, §12.)
-5. (b) the echo error — §12 mistake 1; the freeze test (§11) is the fix.
-6. (b) curl adds *u*, slash kills *a* — opposite jobs at the same address (§12, §15).
+5. (d) the echo error — §12 mistake 1; the freeze test (§11) is the fix.
+6. (c) curl adds *u*, slash kills *a* — opposite jobs at the same address (§12, §15).
 7. (a) किम् = "what?"; (b) जगत् = "world"; (c) वाक् = "speech" (§14).
 8. (a) pause form: finals stay closed and complete. The अहं form is real connected-speech
    sandhi — noted honestly in §6, taught in Volume 3; (b) is a habit, not this course's

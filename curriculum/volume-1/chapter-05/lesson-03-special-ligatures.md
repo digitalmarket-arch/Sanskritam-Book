@@ -532,8 +532,8 @@ and compared with the model audio 🔊. Speed never outranks the seams.
 1. क्ष is: (a) a single indivisible sound, the 34th consonant of the varṇamālā (b) क् +
    ष written as one sign — a conjunct of two known letters (c) a vowel sign attached to
    क (d) a regional variant of ष
-2. The classical value of ज्ञ is: (a) [gj], as in modern northern "gyāna" (b) /d͡ʑɲ/ —
-   ज released into ञ, matching its written components (c) /gɲ/ (d) whatever the local
+2. The classical value of ज्ञ is: (a) /d͡ʑɲ/ — ज released into ञ, matching its written
+   components (b) [gj], as in modern northern "gyāna" (c) /gɲ/ (d) whatever the local
    habit prefers — there is no classical target
 3. In Unicode, a printed क्ष is stored as: (a) one special क्ष code point (b) an image of the
    fused shape (c) the three code points क + ् + ष — the virāma sits invisibly inside
@@ -541,11 +541,11 @@ and compared with the model audio 🔊. Speed never outranks the seams.
 4. A learner's notes show त्त where the book has त्र. The reliable tell is: (a) nothing —
    they are the same sign (b) the tail: a straight diagonal stroke is र (त्र); a second
    त-body is त्त (c) त्र is taller (d) त्त never occurs in real words
-5. यत्र is: (a) a question word — "where?" (b) the relative "where", pointing forward to
-   a तत्र (c) another word for "there" (d) a verb
-6. A learner reads क्षमा as "kaṣamā". What happened? (a) nothing — that is correct (b)
-   a vowel leaked into the seam: the invisible virāma inside क्ष was ignored (c) the ष
-   was read as श (d) the final आ was shortened
+5. यत्र is: (a) a question word — "where?" (b) another word for "there" (c) a verb (d) the
+   relative "where", pointing forward to a तत्र
+6. A learner reads क्षमा as "kaṣamā". What happened? (a) a vowel leaked into the seam: the
+   invisible virāma inside क्ष was ignored (b) nothing — that is correct (c) the ष was read
+   as श (d) the final आ was shortened
 7. A wall chart ends its varṇamālā with …श ष स ह क्ष त्र ज्ञ. The honest reading of that
    chart is: (a) the varṇamālā has 36 consonants (b) क्ष त्र ज्ञ were added to Sanskrit later
    than the other letters (c) the chart is worthless and wrong (d) क्ष त्र ज्ञ are printed
@@ -557,12 +557,12 @@ and compared with the model audio 🔊. Speed never outranks the seams.
 
 1. (b) a conjunct of क् + ष (§5, §15). ((a) is lesson 5's reject card in the making —
    one *sign*, yes; one *sound* or one *letter*, no.)
-2. (b) /d͡ʑɲ/, following the components (§5, §9). ((a) is a real regional habit, named
+2. (a) /d͡ʑɲ/, following the components (§5, §9). ((b) is a real regional habit, named
    with respect and not the target; (d) overcorrects — the target exists.)
 3. (c) क + ् + ष — what print fuses, the encoding remembers (§5).
 4. (b) the tail check: diagonal = र (§12 mistake 3).
-5. (b) relative "where" — it points, never asks; it pairs with तत्र (§8, §17).
-6. (b) §12 mistake 2 — the beat test fixes it: क्ष is one beat.
+5. (d) relative "where" — it points, never asks; it pairs with तत्र (§8, §17).
+6. (a) §12 mistake 2 — the beat test fixes it: क्ष is one beat.
 7. (d) convention honestly named (§4): real utility, no new letters, the count stands.
 8. (a) मित्र = "friend"; (b) अत्र = "here"; (c) विद्या = "knowledge, learning" (§14).
 </details>

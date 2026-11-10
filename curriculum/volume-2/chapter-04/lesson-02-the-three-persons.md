@@ -797,7 +797,7 @@ checking: one card fails not on its facts but on its register. Which one — and
 1. In गच्छामि, गच्छसि, गच्छति, the person is marked: (a) only by a separate pronoun
    (b) inside the verb, by its ending (c) by word order (d) by a helper word, as in
    Hindi हूँ / है
-2. The ending -सि marks: (a) "I" (b) "you" (c) "he/she/it" (d) the future
+2. The ending -सि marks: (a) "I" (b) "he/she/it" (c) the future (d) "you"
 3. Before today, you had already been saying: (a) no first-person verbs at all
    (b) वदामि "I speak" since Volume 1, Chapter 5 — the -मि tail, glossed whole
    (c) only you-forms (d) only अस्ति
@@ -807,23 +807,22 @@ checking: one card fails not on its facts but on its register. Which one — and
 6. The identity trio is: (a) अस्मि · असि · अस्ति — "I am · you are · he/she/it is"
    (b) अस्मि · अस्सि · अस्ति (c) असि · अस्मि · अस्ति — "I am · you are · is"
    (d) अस्ति · अस्ति · अस्ति — one form for everyone
-7. After today, the question त्वम् कः?: (a) is an error — it must carry असि (b) remains
-   correct and idiomatic; त्वम् कः असि? is now legal too (c) was always wrong (d) is
-   Hindi, not Sanskrit
+7. After today, the question त्वम् कः?: (a) is an error — it must carry असि (b) was always
+   wrong (c) is Hindi, not Sanskrit (d) remains correct and idiomatic; त्वम् कः असि? is now
+   legal too
 8. "You hear" is: (a) शृणोसि (b) शृणोषि — recalled as a whole word, because शृणोति builds
    its stem differently (c) शृणसि (d) शृणोति
-9. The typology fact: (a) English marks person as fully as Sanskrit (b) Sanskrit marks
-   person fully in the singular; Hindi partly, through the helper (करता हूँ / करता है);
-   English barely — the one -s of *goes* (c) Hindi never marks person (d) Sanskrit's
-   verbs are the best-designed, so the other two are deficient
-10. In गच्छति, the -ति tells you: (a) the action is in the future (b) the doer is
-    he/she/it — present tense, singular (c) the doer is plural (d) the sentence is a
-    question
+9. The typology fact: (a) Sanskrit marks person fully in the singular; Hindi partly,
+   through the helper (करता हूँ / करता है); English barely — the one -s of *goes*
+   (b) English marks person as fully as Sanskrit (c) Hindi never marks person
+   (d) Sanskrit's verbs are the best-designed, so the other two are deficient
+10. In गच्छति, the -ति tells you: (a) the action is in the future (b) the doer is plural
+    (c) the doer is he/she/it — present tense, singular (d) the sentence is a question
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) — the person lives inside the word (§4, §15). ((d) is how Hindi does it, §5.)
-2. (b) — मध्यमः पुरुषः, "you" (§8, §15).
+2. (d) — मध्यमः पुरुषः, "you" (§8, §15).
 3. (b) — in-course history: वदामि since v1.c05.l01, with नमामि and वसामि beside it; the
    -ति form since चलति in v1.c03.l02 (§4, §8).
 4. (c) — pronoun and tail agree, and the -मि row stretches (§15). ((a) is §12's mistake
@@ -831,10 +830,10 @@ checking: one card fails not on its facts but on its register. Which one — and
 5. (a) त्वम् (b) अहम् (c) सः / सा (d) त्वम् — parse by the tail; the guest parses like
    any verb (§15 Step 8).
 6. (a) — the trio completed today (§15 Step 5). ((b) is §12's mistake 5.)
-7. (b) — both patterns legal; the verbless one stays idiomatic (§15 Step 5).
+7. (d) — both patterns legal; the verbless one stays idiomatic (§15 Step 5).
 8. (b) — whole-word row (§14, §15 Step 6). ((a) is §12's mistake 4.)
-9. (b) — the typology FACT (§5). ((d) is a ranking, not a fact — register, not grammar.)
-10. (b) — -ति marks person; the present is the only tense taught; the rest of the grid
+9. (a) — the typology FACT (§5). ((d) is a ranking, not a fact — register, not grammar.)
+10. (c) — -ति marks person; the present is the only tense taught; the rest of the grid
     waits for Volumes 3–4 (§15 Step 10).
 
 **Exercise keys.** 1: खादामि खादसि खादति · पिबामि पिबसि पिबति · पश्यामि पश्यसि पश्यति ·

@@ -747,27 +747,27 @@ form and use · classical form, modern-common use · modern convention. Sort fro
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. "I don't understand," in pause form, exactly as taught: (a) अहम् न अवगच्छामि। (b)
-   अहम् अवगच्छामि न। (c) अहम् न अवगच्छति। (d) अहम् न जानामि।
+1. "I don't understand," in pause form, exactly as taught: (a) अहम् न अवगच्छति। (b)
+   अहम् अवगच्छामि न। (c) अहम् न अवगच्छामि। (d) अहम् न जानामि।
 2. To ask your teacher to say it again: (a) भवान् पुनः वदतु। (b) त्वम् पुनः वदतु। (c)
    भवान् पुनः वदामि। (d) भवान् पुनः वदसि।
-3. वदतु is: (a) an imperative — the command/request mood — in the 3sg, used politely
-   with भवान्; the mood system comes in Volume 3/4 (b) the you-form of वदति (c) the
-   I-form of वदति (d) a noun meaning "speech"
-4. कृपया मन्दम् वदतु। asks the speaker to: (a) say it slowly (b) say it again (c) say it
+3. वदतु is: (a) the you-form of वदति (b) the I-form of वदति (c) a noun meaning "speech"
+   (d) an imperative — the command/request mood — in the 3sg, used politely with भवान्;
+   the mood system comes in Volume 3/4
+4. कृपया मन्दम् वदतु। asks the speaker to: (a) say it again (b) say it slowly (c) say it
    now (d) say "thank you"
 5. The speaker grants your request with अस्तु! The word means, and is: (a) "all right, so
    be it" — √अस् in the request mood, beside अस्ति "is" (b) "it is" — the plain he-form
    of √अस् (c) "forgive me" — a classical imperative chunk (d) "thank you" — a modern
    convention
 6. Someone asks you, slowly and clearly, रामः कुत्र अस्ति? — and you have no idea where he
-   is. You say: (a) अहम् न जानामि। (b) अहम् न अवगच्छामि। (c) कृपया मन्दम् वदतु। (d) अस्तु।
+   is. You say: (a) अहम् न अवगच्छामि। (b) कृपया मन्दम् वदतु। (c) अस्तु। (d) अहम् न जानामि।
 7. The teacher checks अवगच्छसि? and you have understood. The truthful answer: (a) आम्,
-   अवगच्छामि। (b) आम्, अवगच्छसि। (c) आम्, अवगच्छति। (d) न, अवगच्छामि।
-8. The usage label of अहम् न अवगच्छामि: (a) the verb form is classical; as a standing
-   classroom phrase the sentence is common in modern spoken Sanskrit — both true (b) a
-   modern coinage with no classical basis (c) a loan from Hindi (d) an ancient fixed
-   formula, used unchanged since classical times
+   अवगच्छसि। (b) आम्, अवगच्छामि। (c) आम्, अवगच्छति। (d) न, अवगच्छामि।
+8. The usage label of अहम् न अवगच्छामि: (a) a modern coinage with no classical basis
+   (b) a loan from Hindi (c) the verb form is classical; as a standing classroom phrase the
+   sentence is common in modern spoken Sanskrit — both true (d) an ancient fixed formula,
+   used unchanged since classical times
 9. Which two links of the chain wear the modern spoken-convention label from Chapter 1?
    (a) कृपया and धन्यवादः (b) क्षमस्व and पुनः (c) वदतु and अस्तु (d) न and मन्दम्
 10. Reading check — write the English meaning of each: (a) अवगच्छति (b) मन्दम् (c) वदतु
@@ -777,23 +777,23 @@ form and use · classical form, modern-common use · modern convention. Sort fro
 
 **Quiz key**
 
-1. (a) अहम् न अवगच्छामि। — न first, I-form with अहम् (§8, §15). ((b) puts न after the
-   verb — §12 mistake 5; (c) is the person mismatch — §12 mistake 4; (d) says "I don't
+1. (c) अहम् न अवगच्छामि। — न first, I-form with अहम् (§8, §15). ((b) puts न after the
+   verb — §12 mistake 5; (a) is the person mismatch — §12 mistake 4; (d) says "I don't
    know" — §12 mistake 2.)
 2. (a) भवान् पुनः वदतु। — the request mood in the 3sg, with भवान् (§8, §15). ((b) pairs
    त्वम् with a 3sg form; (c) puts the I-form on the listener; (d) turns the request into
    a statement — §12 mistake 3.)
-3. (a) — the one honest line, exactly as stated in §15. ((b) is §12 mistake 3; the
+3. (d) — the one honest line, exactly as stated in §15. ((a) is §12 mistake 3; the
    you-form statement is वदसि.)
-4. (a) — मन्दम् "slowly" (§8, §14). ((b) is पुनः's job; (c) would be इदानीम्; (d) is
+4. (b) — मन्दम् "slowly" (§8, §14). ((a) is पुनः's job; (c) would be इदानीम्; (d) is
    धन्यवादः.)
 5. (a) — §13's FACT: अस्ति states, अस्तु agrees (§8, §13). ((b) is the अस्ति/अस्तु
    confusion of §12 mistake 6; (c) is क्षमस्व; (d) is धन्यवादः.)
-6. (a) अहम् न जानामि। — the question landed; the answer is missing (§8, §13). ((b) is §12
+6. (d) अहम् न जानामि। — the question landed; the answer is missing (§8, §13). ((a) is §12
    mistake 2 reversed: you did understand.)
-7. (a) — the person swap: you-form in, I-form out (§8, §15). ((b) echoes the asker's form;
+7. (b) — the person swap: you-form in, I-form out (§8, §15). ((a) echoes the asker's form;
    (c) is the person mismatch; (d) says "no" and "I understand" at once.)
-8. (a) — the both-things-true label (§4, §15). ((d) is §12 mistake 8.)
+8. (c) — the both-things-true label (§4, §15). ((d) is §12 mistake 8.)
 9. (a) — both labeled in v2.c01.l04 §15, both with classical insides (§8, §15).
 10. (a) अवगच्छति = "understands"; (b) मन्दम् = "slowly"; (c) वदतु = "please say" (a
     polite request, with भवान्); (d) अस्तु = "so be it, all right" (§14).

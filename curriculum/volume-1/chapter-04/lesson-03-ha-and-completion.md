@@ -526,42 +526,41 @@ voiced.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The sound of ह is: (a) a voiceless breath, like English *house*-h, in all positions
-   (b) /ɦ/ — a breath with the voice buzzing through it (c) a sibilant like स (d) a
-   vowel
+1. The sound of ह is: (a) a sibilant like स (b) a vowel (c) /ɦ/ — a breath with the voice
+   buzzing through it (d) a voiceless breath, like English *house*-h, in all positions
 2. According to the traditional classification, ह belongs to: (a) the antaḥstha, with
    य र ल व (b) the ūṣman class श ष स ह — though phonetically it is not a sibilant
    (c) the प-वर्ग (d) the vowels
-3. Hand on your throat through रामः and then हरि. You should feel: (a) a buzz during
-   both breaths (b) silence during the ः breath, a buzz during ह (c) a buzz during ः
-   only (d) nothing in either
+3. Hand on your throat through रामः and then हरि. You should feel: (a) a buzz during ः
+   only (b) nothing in either (c) a buzz during both breaths (d) silence during the ः
+   breath, a buzz during ह
 4. The completed varṇamālā counts: (a) 14 vowels (counting अं and अः) + 33 consonants
    (b) 13 vowels + 33 consonants + 2 ayogavāha (c) 13 vowels + 33 consonants, nothing
    else (d) 50 letters, all one category
-5. A learner reads मही as [mɐiː] and बाहु as [bɑːu]. What happened? (a) nothing — both
-   are correct (b) the ह between vowels was dropped — a Hindi fast-speech habit (c) the
+5. A learner reads मही as [mɐiː] and बाहु as [bɑːu]. What happened? (a) the ह between
+   vowels was dropped — a Hindi fast-speech habit (b) nothing — both are correct (c) the
    vowel lengths were wrong (d) the words contain conjuncts
 6. In writing, the difference between ह and ः is: (a) none — they are the same
    character (b) ह is a full letter that stands in the row and carries अ; ः is a
    dependent sign that only follows an akṣara (c) ः can begin a word (d) ह is only
    decorative
-7. हिमालय is: (a) an unanalyzable ancient name (b) हिम + आलय, "snow-abode" — and
-   English *Himalaya* is a loanword from Sanskrit (c) a cognate of English *home* (d)
-   readable only with conjuncts
+7. हिमालय is: (a) an unanalyzable ancient name (b) a cognate of English *home* (c) हिम +
+   आलय, "snow-abode" — and English *Himalaya* is a loanword from Sanskrit (d) readable
+   only with conjuncts
 8. Reading check — write the English meaning of each: (a) गृह (b) इह (c) हसति
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) /ɦ/ — voiced glottal fricative; the throat buzzes through it (§5). ((a) is §12's
+1. (c) /ɦ/ — voiced glottal fricative; the throat buzzes through it (§5). ((d) is §12's
    mistake 1 — that voiceless breath is the visarga's job.)
 2. (b) the ūṣman — the traditional grouping; the phonetic distinction stands beside it,
    both true as what they are (§4).
-3. (b) silence during ः (voiceless), buzz during ह (voiced) — the throat switch (§5, §9).
+3. (d) silence during ः (voiceless), buzz during ह (voiced) — the throat switch (§5, §9).
 4. (b) 13 + 33 + 2 — the count promised in v1.c01.l02, completed today (§8). ((a) is
    the old classroom convenience.)
-5. (b) intervocalic ह dropped — §12 mistake 2; the fix is the murmur bridge, slow.
+5. (a) intervocalic ह dropped — §12 mistake 2; the fix is the murmur bridge, slow.
 6. (b) letter vs sign — ह stands alone, ः only rides (§12, §15).
-7. (b) हिम + आलय "snow-abode"; English borrowed the name — a loan, not a cognate (§13).
+7. (c) हिम + आलय "snow-abode"; English borrowed the name — a loan, not a cognate (§13).
 8. (a) गृह = "house"; (b) इह = "here"; (c) हसति = "laughs" (§14).
 </details>
 

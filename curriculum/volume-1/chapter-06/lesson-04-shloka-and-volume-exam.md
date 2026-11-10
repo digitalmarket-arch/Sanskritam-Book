@@ -548,11 +548,11 @@ tasks.
    refined" — sam + kṛta (c) "language of the gods" (d) "unbreakable"
 3. (l02) The classical self-introduction frame: give both halves — asking and
    answering — and the polite alternative to त्वम्.
-4. (l04) विद्या ददाति विनयम् is from: (a) the Ṛgveda (b) the *Hitopadeśa*'s prologue
+4. (l04) विद्या ददाति विनयम् is from: (a) the *Hitopadeśa*'s prologue (b) the Ṛgveda
    (c) the Muṇḍaka Upaniṣad (d) unrecorded tradition
 5. (l04) सत्यम् एव जयते is from ______, and since 1950 it has been ______.
-6. (l04) A śloka's shape is: (a) 3 pādas × 10 syllables (b) 4 pādas × 8 syllables — 32
-   in all (c) any four lines (d) fixed only by melody
+6. (l04) A śloka's shape is: (a) 3 pādas × 10 syllables (b) any four lines (c) fixed
+   only by melody (d) 4 pādas × 8 syllables — 32 in all
 7. (l04) The honest source-label for सर्वे भवन्तु सुखिनः is: (a) Muṇḍaka Upaniṣad (b)
    Hitopadeśa (c) traditional benediction, source unrecorded (d) Pāṇini
 8. (l04) In the emblem's सत्यमेव, what happened at the seam — and which volume teaches
@@ -569,10 +569,10 @@ tasks.
    orthography writes the conjunct (l01 §5, §8).
 2. (b) sam + kṛta with inserted s — "put together, refined" (l01 §13).
 3. तव नाम किम्? — मम नाम …। (and अहम् … अस्मि); polite: भवान् कः? (l02 §8, §16).
-4. (b) the Hitopadeśa's prastāvikā (§8 text one).
+4. (a) the Hitopadeśa's prastāvikā (§8 text one).
 5. The Muṇḍaka Upaniṣad (3.1.6); India's national motto beneath the State Emblem
    (§8 text two).
-6. (b) four pādas of eight — thirty-two, counted yourself in task E (§8, §13).
+6. (d) four pādas of eight — thirty-two, counted yourself in task E (§8, §13).
 7. (c) traditional, source unrecorded — the honest label IS the answer (§8 text three).
 8. सत्यम् + एव fused (म् + ए join) — sandhi, taught in Volume 3 (§8).
 9. Endings change with a word's role; noticed, glossed whole, system in Volume 3

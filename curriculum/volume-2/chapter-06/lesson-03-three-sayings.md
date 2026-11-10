@@ -889,29 +889,29 @@ and श in their places, plain ड in परपीडनम्, every visarga an
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. In अहिंसा परमः धर्मः, the word परमः describes: (a) अहिंसा: "the highest non-harming"
-   (b) धर्मः: "the highest dharma"; it agrees with धर्मः (c) nothing; it is a verb (d) the
-   reader
-2. The join परमः + धर्मः → परमो धर्मः is correctly described as: (a) the visarga turns
-   the a into o (b) the whole ending -अः becomes -ओ before a voiced consonant (c) ध्
-   drops out (d) an avagraha is written for the lost अ
+1. In अहिंसा परमः धर्मः, the word परमः describes: (a) nothing; it is a verb (b) अहिंसा:
+   "the highest non-harming" (c) the reader (d) धर्मः: "the highest dharma"; it agrees with
+   धर्मः
+2. The join परमः + धर्मः → परमो धर्मः is correctly described as: (a) the whole ending -अः
+   becomes -ओ before a voiced consonant (b) the visarga turns the a into o (c) ध् drops out
+   (d) an avagraha is written for the lost अ
 3. In अहिंसा परमः धर्मः, the English word "is" corresponds to: (a) धर्मः (b) परमः (c) no
    word; Sanskrit leaves "is" unsaid here (d) the visarga
 4. In the main text of the critical edition of the Mahābhārata, the line अहिंसा परमो धर्मः:
    (a) never occurs (b) occurs five times, first at 1.11.12 in the Ādiparvan (c) occurs
    once, in the Bhagavadgītā (d) occurs only in vulgate editions
-5. उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः… is from: (a) Mahābhārata 1.11.12 (b) the
-   Hitopadeśa's introduction (prastāvikā), verse 36 (c) the Hitopadeśa's first book,
-   Mitralābha (d) the Ṛgveda
+5. उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः… is from: (a) the Ṛgveda (b) Mahābhārata
+   1.11.12 (c) the Hitopadeśa's first book, Mitralābha (d) the Hitopadeśa's introduction
+   (prastāvikā), verse 36
 6. Inside मनोरथैः, the word मनोरथ is: (a) two words, मनः and रथः, to be read apart (b) one
    word, मनस् + रथ, meaning "a wish" (c) a verb meaning "succeed" (d) a place
    name
-7. कार्याणि, मृगाः and सिध्यन्ति in saying 2 are: (a) new headwords for your own
-   sentences (b) plural forms glossed whole, to read and recite, not produce (c) joined
-   forms of कार्यम्, मृगः, सिध्यति (d) misprints
+7. कार्याणि, मृगाः and सिध्यन्ति in saying 2 are: (a) plural forms glossed whole, to read and
+   recite, not produce (b) new headwords for your own sentences (c) joined forms of
+   कार्यम्, मृगः, सिध्यति (d) misprints
 8. According to the tradition, परोपकारः पुण्याय पापाय परपीडनम् is: (a) a Ṛgveda hymn
-   (b) Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings (c) a sūtra of
-   Pāṇini (d) the Mahābhārata's 1.11.12
+   (b) a sūtra of Pāṇini (c) Vyāsa's teaching in the eighteen Purāṇas, summed up in two
+   sayings (d) the Mahābhārata's 1.11.12
 9. व्यासस्य in the first line of saying 3 means "of Vyāsa". What does that tell a careful
    reader? (a) Vyāsa is speaking in the first person (b) the line speaks *about* Vyāsa,
    from outside; it is a summary crediting him (c) the line is a quotation from a Purāṇa
@@ -922,15 +922,15 @@ and श in their places, plain ड in परपीडनम्, every visarga an
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b): §8 and §15 point (1). ((a) is §12 mistake 4.)
-2. (b): the whole -अः becomes -ओ (§8, §15 point (2)). ((a) is §12 mistake 3; (d) is
+1. (d): §8 and §15 point (1). ((b) is §12 mistake 4.)
+2. (a): the whole -अः becomes -ओ (§8, §15 point (2)). ((b) is §12 mistake 3; (d) is
    lesson 2's join, before अ.)
 3. (c): no word for "is" (§8, §15 point (1)).
 4. (b): 1.11.12, 3.198.69, 13.116.1, 13.116.25, 13.117.37 (§8 HISTORY).
-5. (b): Hitopadeśa, prastāvikā 36 (§8 HISTORY). ((c) is §12 mistake 6.)
+5. (d): Hitopadeśa, prastāvikā 36 (§8 HISTORY). ((c) is §12 mistake 6.)
 6. (b): मनस् + रथ, learned whole (§8). ((a) is the over-splitting error.)
-7. (b): the verse fence (§8, §15). ((a) is §12 mistake 7.)
-8. (b): according to the tradition; its first line has not been traced to any Purāṇa
+7. (a): the verse fence (§8, §15). ((b) is §12 mistake 7.)
+8. (c): according to the tradition; its first line has not been traced to any Purāṇa
    (§8 TRADITION).
 9. (b): the verse speaks of Vyāsa from outside (§8 TRADITION, §13). ((c) is §12
    mistake 2.)

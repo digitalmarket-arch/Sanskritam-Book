@@ -1008,43 +1008,43 @@ nominative; मा, never न, with the imperative; pause form throughout.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. "Go!" (to one friend): (a) गच्छसि (b) गच्छ (c) गच्छतु (d) गच्छेत्
-2. "Please sit down, sir": (a) भवान् उपविश (b) भवान् उपविशतु (c) भवान् उपविशति
-   (d) भवान् उपविशेत
+1. "Go!" (to one friend): (a) गच्छसि (b) गच्छेत् (c) गच्छ (d) गच्छतु
+2. "Please sit down, sir": (a) भवान् उपविशति (b) भवान् उपविशेत (c) भवान् उपविश
+   (d) भवान् उपविशतु
 3. "Don't go!": (a) न गच्छ (b) मा गच्छ (c) मा अगच्छ (d) न गच्छति
-4. "A student should speak the truth": (a) छात्रः सत्यम् अवदत् (b) छात्रः सत्यम् वदेत्
-   (c) छात्राय सत्यम् वदेत् (d) छात्रः सत्यम् वदेयुः
-5. गच्छेत् means: (a) "he went" (b) "he should go" (c) "go!" (d) "they go"
-6. The 3pl imperative of भवति: (a) भवन्ति (b) भवन्तु (c) भवेयुः (d) अभवन्
+4. "A student should speak the truth": (a) छात्राय सत्यम् वदेत् (b) छात्रः सत्यम् वदेयुः
+   (c) छात्रः सत्यम् वदेत् (d) छात्रः सत्यम् अवदत्
+5. गच्छेत् means: (a) "he should go" (b) "he went" (c) "go!" (d) "they go"
+6. The 3pl imperative of भवति: (a) भवन्ति (b) भवेयुः (c) अभवन् (d) भवन्तु
 7. According to Pāṇini (3.4.86 एरुः), the -इ of -ति becomes: (a) -ए (b) -उ (c) -आ (d) -अ
 8. क्षमस्व is: (a) the 2sg imperative of the second family (b) a 3sg imperative (c) a past
    (d) a passive
 9. In the Hitopadeśa, the verse मा प्रयच्छ ईश्वरे धनम् is quoted, inside the story, by: (a) an
    old tiger luring a traveller (b) a traveller (c) a mouse (d) Pāṇini
 10. Hindi छात्र को सच बोलना चाहिए; Sanskrit छात्रः सत्यम् वदेत्. The Sanskrit doer is: (a) in
-    the dative, like को (b) in the nominative (c) in the instrumental (d) left out
+    the dative, like को (b) in the instrumental (c) in the nominative (d) left out
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 **Quiz key**
 
-1. (b) — the 2sg imperative is the bare stem (§8, §15). (a) "you go" is §12 mistake 4;
-   (c) is the 3sg, for भवान्; (d) "he should go".
-2. (b) — भवान् + the 3rd-person imperative (§8, §15). (a) is §12 mistake 3; (c) "your
-   honour sits" is a statement; (d) is the 2pl optative, which does not agree with भवान्.
+1. (c) — the 2sg imperative is the bare stem (§8, §15). (a) "you go" is §12 mistake 4;
+   (d) is the 3sg, for भवान्; (b) "he should go".
+2. (d) — भवान् + the 3rd-person imperative (§8, §15). (c) is §12 mistake 3; (a) "your
+   honour sits" is a statement; (b) is the 2pl optative, which does not agree with भवान्.
 3. (b) — मा + imperative (§8, §15). (a) is §12 mistake 2; (c) *अगच्छ keeps the past's अ-, but
    the imperative is the imperfect without it (§8, §15); (d) "he does not go" is a statement.
-4. (b) — the optative, doer in the nominative (§8, §15). (a) "spoke" is the imperfect;
-   (c) is §12 mistake 5, the Hindi को reflex; (d) puts the 3pl वदेयुः with one student: the verb
+4. (c) — the optative, doer in the nominative (§8, §15). (d) "spoke" is the imperfect;
+   (a) is §12 mistake 5, the Hindi को reflex; (b) puts the 3pl वदेयुः with one student: the verb
    must agree with छात्रः.
-5. (b) — the -ए- inside is the wish (§8, §15). (a) is §12 mistake 1: "he went" is अगच्छत्.
-6. (b) — -न्ति → -न्तु (3.4.86; §15). (a) is the present, (c) the optative, (d) the
+5. (a) — the -ए- inside is the wish (§8, §15). (b) is §12 mistake 1: "he went" is अगच्छत्.
+6. (d) — -न्ति → -न्तु (3.4.86; §15). (a) is the present, (b) the optative, (c) the
    imperfect.
 7. (b) — according to Pāṇini, 3.4.86 एरुः: -ति → -तु (§15, TRADITION).
 8. (a) — the second family's -स्व, from the present's -से (§8, §15).
 9. (a) — an old tiger quotes it to lure a traveller; the tiger is lying (§4, HISTORY;
    Hit 1.15, in the Hitopadeśa, c. 9th–12th c. CE on the scholarly estimate).
-10. (b) — Sanskrit keeps the doer in the nominative and puts "should" into the verb (§7,
+10. (c) — Sanskrit keeps the doer in the nominative and puts "should" into the verb (§7,
     §15).
 
 **Exercise keys**

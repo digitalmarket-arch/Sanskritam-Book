@@ -576,7 +576,7 @@ for the *same* reason — and what is that reason?
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. खादति means: (a) drinks (b) eats (c) sees (d) goes
+1. खादति means: (a) drinks (b) sees (c) goes (d) eats
 2. Which pair is siblings by shared descent? (a) गच्छति and English *go* (b) पिबति and
    Latin *bibit* (c) लिखति and English *like* (d) खादति and English *eat*
 3. The honest statement about गच्छति and English *go*: (a) they are cognates (b) English
@@ -598,7 +598,7 @@ for the *same* reason — and what is that reason?
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) eats (§14). ((a), (c), (d) are पिबति, पश्यति, गच्छति.)
+1. (d) eats (§14). ((a), (b), (c) are पिबति, पश्यति, गच्छति.)
 2. (b) — the shelf's second sibling pair (§13). ((a) is §12 mistake 7's refused reach; (c) is exercise 6's sound-alike; (d) pairs meanings, not forms.)
 3. (c) — honesty about absence; the chapter exam re-tests this card (§13).
 4. (a) — the promise v1.c05.l03 §13 made by name, kept today (§13).

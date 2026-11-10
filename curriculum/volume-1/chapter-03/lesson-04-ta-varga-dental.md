@@ -573,7 +573,7 @@ endings to put things *in* the sky; what an ending does to a word is Volume 3's 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. For त, the tip of the tongue touches: (a) the ridge behind the teeth (b) the roof of
-   the mouth, curled back (c) the upper front teeth (d) the lips
+   the mouth, curled back (c) the lips (d) the upper front teeth
 2. थ is best described as: (a) the fricative *th* of *thin* (b) a stop — त released with a
    puff of breath (c) the English *t* of *top* (d) ठ said faster
 3. What separates त from ट? (a) voicing (b) aspiration (c) place — teeth vs curled-back
@@ -586,13 +586,13 @@ endings to put things *in* the sky; what an ending does to a word is Volume 3's 
    sound (c) घ is the dental one (d) ध is a vowel sign
 6. You hear /d̪ʱɐn̪ɐ/. Which word was said? (a) धन (b) दान (c) दिन (d) घन
 7. नमस्ते is not yet fully readable because: (a) nothing is missing — it is readable
-   (b) स arrives only in Chapter 4, and the joined writing of स्ते in Chapter 5 (c) the
-   visarga has not been taught (d) ते cannot be written
+   (b) the visarga has not been taught (c) स arrives only in Chapter 4, and the joined
+   writing of स्ते in Chapter 5 (d) ते cannot be written
 8. Reading check — write the English meaning of each: (a) कथा (b) नदी (c) मधु (d) गगन
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (c) the upper front teeth — the fingertip check confirms it (§5, §11).
+1. (d) the upper front teeth — the fingertip check confirms it (§5, §11).
 2. (b) a stop with a puff — full closure first, breath after release; (a) is §12 mistake 2,
    (d) confuses place with manner: ठ is retroflex.
 3. (c) place — same manner, different address (§5, §10).
@@ -601,7 +601,7 @@ endings to put things *in* the sky; what an ending does to a word is Volume 3's 
 6. (a) धन /d̪ʱɐn̪ɐ/ "wealth" — दान and दिन each fail twice, on murmur and vowel (plain द,
    and long आ or short इ where धन has short अ); घन is the page-twin trap read aloud (§13,
    §15).
-7. (b) स in Chapter 4, the conjunct स्ते in Chapter 5 — नमः and even ते are already
+7. (c) स in Chapter 4, the conjunct स्ते in Chapter 5 — नमः and even ते are already
    readable on their own (§8).
 8. (a) कथा = "story"; (b) नदी = "river"; (c) मधु = "honey"; (d) गगन = "sky" (§14).
 </details>

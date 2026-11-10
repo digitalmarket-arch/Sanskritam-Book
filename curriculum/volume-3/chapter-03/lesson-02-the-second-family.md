@@ -670,8 +670,8 @@ The verbs you own, sorted by Apte's label:
 
 The stem in the middle of each pair is given, as in lesson 1: पश्य- for दृश्, शोभ- for शुभ्,
 जाय- for जन्. How a root makes its stem is v4.c03's. The verbs that take both families
-(Apte's U.) are Volume 4's too (v4.c03); the course teaches every verb in one family only,
-the one printed in its §14 row.
+(Apte's U.) are Volume 4's too (v4.c03); until v4.c03.l01 the course teaches every verb in one
+family only, the one printed in its §14 row.
 
 ### Step 4 — मह्यम् … रोचते / रोचन्ते
 
@@ -927,10 +927,10 @@ four second-family verbs, one of them in the 1st person and one in the plural; o
 4. Which is wrong? (a) गच्छति (b) लभते (c) लभति (d) रोचते
 5. "I like the fruits": (a) अहम् फलानि रोचे (b) फलानि मह्यम् रोचते (c) फलानि मह्यम्
    रोचन्ते (d) मह्यम् फलानि रोचति
-6. मन्यते means: (a) "is thought" (b) "thinks" (c) "is born" (d) "gets"
+6. मन्यते means: (a) "is thought" (b) "is born" (c) "gets" (d) "thinks"
 7. दृश्यते means: (a) "sees" (b) "is seen" (c) "they see" (d) "shines"
-8. In यूयम् किम् मन्यध्वे?, मन्यध्वे is: (a) 2nd person plural (b) 3rd person plural (c)
-   1st person singular (d) 2nd person dual
+8. In यूयम् किम् मन्यध्वे?, मन्यध्वे is: (a) 3rd person plural (b) 1st person singular
+   (c) 2nd person dual (d) 2nd person plural
 9. By the dictionary's label (Apte: जि P.), "truth prevails" in classical Sanskrit is: (a)
    सत्यम् जयति (b) सत्यम् जायते (c) सत्यम् जयन्ते (d) सत्यम् जयामि
 10. Hindi मुझे फल अच्छे लगते हैं and Sanskrit फलानि मह्यम् रोचन्ते agree in this: (a) the
@@ -950,11 +950,11 @@ four second-family verbs, one of them in the 1st person and one in the plural; o
 5. (c) — the liked thing फलानि is the subject and plural, so रोचन्ते; §15 Step 4. ((a) is
    §12's mistake 5, the liker as subject; (b) is the singular verb with a plural subject;
    (d) is §12's mistake 1.)
-6. (b) — a middle verb, today's headword, not R3 (§14, §15 Step 6). ((a) is §12's mistake 4;
-   (c) is जायते; (d) is लभते.)
+6. (d) — a middle verb, today's headword, not R3 (§14, §15 Step 6). ((a) is §12's mistake 4;
+   (b) is जायते; (c) is लभते.)
 7. (b) — R3, "is seen" (§15 Step 6). Recognition. ((a) is पश्यति; (c) is पश्यन्ति; (d) is
    शोभते.)
-8. (a) — -ध्वे is the 2nd person plural (§15 Step 1). ((d) would be मन्येथे.)
+8. (d) — -ध्वे is the 2nd person plural (§15 Step 1). ((c) would be मन्येथे.)
 9. (a) — Apte gives जि as P., so the 3rd person singular is जयति; §15 Step 7. ((b) is
    "is born", another verb; (c) is a plural verb with a singular subject; (d) is "I
    prevail".)

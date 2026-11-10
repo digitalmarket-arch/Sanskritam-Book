@@ -741,28 +741,28 @@ exam's Station 0 runs this role-play tomorrow.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The price question, exactly as taught: (a) कियत् मूल्यम्? (b) कति मूल्यम्? (c) कुत्र
+1. The price question, exactly as taught: (a) कति मूल्यम्? (b) कुत्र मूल्यम्? (c) कियत्
    मूल्यम्? (d) कदा मूल्यम्?
 2. The tag reads १०. Asked कियत् मूल्यम्?, the taught answer is: (a) दश। (b) दश
    रूप्यकम्। (c) दशम्। (d) दश मूल्यम्।
-3. भवान् फलम् ददातु। means: (a) Please give (me) a fruit. (b) He gives a fruit. (c) I
-   give a fruit. (d) You gave a fruit.
-4. ददातु beside lesson 2's वदतु — the honest line this course teaches: (a) both are the
-   request (imperative) mood, used with भवान् and learned as whole chunks (b) ददातु is
-   the you-form of ददाति (c) ददातु is a past-tense form (d) ददातु is a noun meaning
+3. भवान् फलम् ददातु। means: (a) He gives a fruit. (b) I give a fruit. (c) You gave a
+   fruit. (d) Please give (me) a fruit.
+4. ददातु beside lesson 2's वदतु — the honest line this course teaches: (a) ददातु is the
+   you-form of ददाति (b) both are the request (imperative) mood, used with भवान् and
+   learned as whole chunks (c) ददातु is a past-tense form (d) ददातु is a noun meaning
    "gift"
 5. Why does this lesson use बहु, अल्पम् and पर्याप्तम् only as one-word answers? (a)
    adjectives agree with their nouns in gender, number and case, and that system is
    Volume 3's (b) they are modern words (c) Sanskrit never places them beside a noun (d)
    they are verb forms
-6. रूप्यकम् in this lesson is: (a) a display word with a modern label, never inside a
-   taught price frame and never counted (b) a ledger word used in every price answer (c)
-   the classical word for "price" (d) the Sanskrit for "how much?"
+6. रूप्यकम् in this lesson is: (a) a ledger word used in every price answer (b) the
+   classical word for "price" (c) the Sanskrit for "how much?" (d) a display word with a
+   modern label, never inside a taught price frame and never counted
 7. The course's label for कृपया as "please" and धन्यवादः as the everyday thank-you: (a)
-   modern spoken convention, built from classical parts (b) classical idiom, Vedic onward
+   classical idiom, Vedic onward (b) modern spoken convention, built from classical parts
    (c) Hindi words with no Sanskrit form (d) verse words from the Volume 1 śloka
 8. The stall-keeper rattles off न — नव and you did not catch the price. The taught move:
-   (a) अहम् न अवगच्छामि। भवान् पुनः वदतु। (b) नव? न! (c) पर्याप्तम्। (d) guess the
+   (a) नव? न! (b) पर्याप्तम्। (c) अहम् न अवगच्छामि। भवान् पुनः वदतु। (d) guess the
    lowest number and pay it
 9. To a woman at the stall, the request this lesson drills: (a) कृपया क्षीरम् ददातु। (b)
    त्वम् क्षीरम् ददातु। (c) भवान् क्षीरम् ददातु। (d) अहम् क्षीरम् ददातु।
@@ -773,16 +773,16 @@ exam's Station 0 runs this role-play tomorrow.
 
 **Quiz key**
 
-1. (a) — कियत् measures an amount (§8, §15). ((b) is §12 mistake 3.)
+1. (c) — कियत् measures an amount (§8, §15). ((a) is §12 mistake 3.)
 2. (a) — the bare number, the Chapter 3 policy (§8, §15). ((b)–(d) are §12 mistake 2.)
-3. (a) — the request form with the polite भवान् (§8, §16). ((b) is the statement ददाति.)
-4. (a) — the honest line of §8 and §15. ((b) is §12 mistake 5; the chapter exam's
+3. (d) — the request form with the polite भवान् (§8, §16). ((a) is the statement ददाति.)
+4. (b) — the honest line of §8 and §15. ((a) is §12 mistake 5; the chapter exam's
    honesty sort (task D) carries its twin card, about वदतु and वदति.)
 5. (a) — agreement is Volume 3's subject (§8, §15). ((c) is false — Sanskrit does pair
    them with nouns; the course has not built that agreement yet.)
-6. (a) — display, modern label; prices stay bare (§4, §8).
-7. (a) — modern spoken conventions, the forms classical or attested (v2.c01.l04; §15).
-8. (a) — the lesson-2 rescue; never guess a price (§12 mistake 8, §16 Scene 1).
+6. (d) — display, modern label; prices stay bare (§4, §8).
+7. (b) — modern spoken conventions, the forms classical or attested (v2.c01.l04; §15).
+8. (c) — the lesson-2 rescue; never guess a price (§12 mistake 8, §16 Scene 1).
 9. (a) — the pronoun-free request (§8, §16 Scene 2). ((b) is §12 mistake 1; (c) is the
    respectful "you" for a man; (d) puts the request on the speaker.)
 10. (a) "shop, market"; (b) "price, value"; (c) "a little"; (d) "enough" (§14).

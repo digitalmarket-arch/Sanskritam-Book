@@ -522,13 +522,13 @@ the -ते of नमस्ते a steady long /eː/.
 2. What does a computer store for the printed block स्त? (a) a single special character (b) स +
    त, nothing else (c) स + ् + त — the virāma sits invisibly inside (d) त + ् + स
 3. Build it: स् + थ = ? (a) स्थ (b) स्त (c) सथ (d) थ्स
-4. Dissect it: शक्ति = ? (a) श + क + त + ि (b) श + क् + त + ि (c) श् + क + त + ि (d) श + क +
-   ् + ी
+4. Dissect it: शक्ति = ? (a) श + क + त + ि (b) श् + क + त + ि (c) श + क + ् + ी (d) श + क् + त +
+   ि
 5. A learner reads मुक्त as "mukata". What happened? (a) nothing — that is correct (b) a vowel
    was inserted inside the cluster; the block is one onset: [mukt̪ɐ] (c) the vowel length was
    wrong (d) मुक्त contains no conjunct
-6. नमस्ते is, by formation: (a) a single unanalyzable word (b) नमः "homage" + ते "to you" —
-   the ḥ→s change at the seam being a sound-joining rule (c) न + मस् + ते (d) a modern coinage
+6. नमस्ते is, by formation: (a) नमः "homage" + ते "to you" — the ḥ→s change at the seam being a
+   sound-joining rule (b) a single unanalyzable word (c) न + मस् + ते (d) a modern coinage
 7. In today's horizontal conjuncts (स्त, न्त, त्य …), the vowel of the block is carried by:
    (a) the first member (b) the virāma (c) the last member, which stands in full form (d) a
    separate letter
@@ -540,9 +540,9 @@ the -ते of नमस्ते a steady long /eː/.
    two vowels.)
 2. (c) consonant + virāma + consonant — the virāma is inside every conjunct (§5).
 3. (a) स्थ — the silent स shrinks, थ stands (§8). ((b) drops the aspiration; (c) is mistake 2.)
-4. (b) श + क् + त + ि — क is the silent, reduced member (§8, exercise 2).
+4. (d) श + क् + त + ि — क is the silent, reduced member (§8, exercise 2).
 5. (b) a vowel smuggled into the cluster — §12 mistakes 1 and 4; fix with the timing drill.
-6. (b) नमः + ते, "homage to you"; the seam-change is sandhi, Volume 3 (§13).
+6. (a) नमः + ते, "homage to you"; the seam-change is sandhi, Volume 3 (§13).
 7. (c) the last member — full form, vowel-carrier (§5). The silent one shrinks; the speaker
    stands.
 8. (a) अस्ति = "is"; (b) हस्त = "hand"; (c) स्थान = "place" (§14).

@@ -509,34 +509,34 @@ sentence set: धर्मः सत्यम्। चन्द्रः तत
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. In धर्म, the hook above म is: (a) a stress mark (b) the र — written to the right, read *before*
-   the म (c) the र — read after the म (d) a shortened ि
-2. र्क and क्र differ how? (a) they are the same syllable (b) र्क is *rka* (r first, hook above);
-   क्र is *kra* (r second, diagonal below) (c) र्क is *kra*, क्र is *rka* (d) one is a vowel
+1. In धर्म, the hook above म is: (a) a stress mark (b) the र — read after the म (c) the र — written to the right, read
+   *before* the म (d) a shortened ि
+2. र्क and क्र differ how? (a) र्क is *rka* (r first, hook above); क्र is *kra* (r second, diagonal below) (b) they are
+   the same syllable (c) र्क is *kra*, क्र is *rka* (d) one is a vowel
 3. The repha's time-travel has an older twin. Which sign also breaks eye-order, and how? (a) the
-   visarga — it doubles the vowel (b) the ि-hook — written *before* its consonant, spoken *after*
-   it; the repha runs the same trick in mirror (c) the anusvāra (d) the virāma
+   visarga — it doubles the vowel (b) the anusvāra (c) the virāma (d) the ि-hook — written
+   *before* its consonant, spoken *after* it; the repha runs the same trick in mirror
 4. In the writing-order convention, the repha is written: (a) first, before anything else (b)
    after finishing the akṣara it rides — the akṣara it is *read before* (c) on the preceding
    akṣara (d) only in print, never by hand
-5. Which is the correct way to write *ru*? (a) र with the regular under-hook (b) the learned unit
-   रु — र with the vowel tied into its body (c) रा (d) कृ
+5. Which is the correct way to write *ru*? (a) the learned unit रु — र with the vowel tied into its body (b) र with the regular
+   under-hook (c) रा (d) कृ
 6. मन्त्र ends in the cluster न्त्र. How many consonants does it weld, and by what means? (a) two,
-   by a new special rule (b) three — न् + त् + र — using the stem-loss join and diagonal r already
-   taught (c) three, requiring a new letter (d) it cannot be analyzed
+   by a new special rule (b) three, requiring a new letter (c) three — न् + त् + र — using the
+   stem-loss join and diagonal r already taught (d) it cannot be analyzed
 7. चक्र and English *wheel* are: (a) unrelated (b) cognates — parallel descendants of one
    Proto-Indo-European word (c) *wheel* is a loan from Sanskrit (d) चक्र is a loan from English
 8. Reading check — write the English meaning of each: (a) सर्व (b) ग्राम (c) चन्द्र (d) आचार्य
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) written right, read left — the repha rule (§5, §8). ((c) is §12's mistake 1 — "dhamra".)
-2. (b) above = र first, below = र second (§8). ((c) is §12's mistake 3, the swap.)
-3. (b) the ि-hook of v1.c02.l01 — the script's first time-travel trick; the repha is its mirror
+1. (c) written right, read left — the repha rule (§5, §8). ((b) is §12's mistake 1 — "dhamra".)
+2. (a) above = र first, below = र second (§8). ((c) is §12's mistake 3, the swap.)
+3. (d) the ि-hook of v1.c02.l01 — the script's first time-travel trick; the repha is its mirror
    twin (§5, §8).
 4. (b) akṣara first, hook last (§15). ((a) and (c) are §12's mistake 2.)
-5. (b) the learned unit रु (§8, §15). ((a) is §12's mistake 4; (d) is the vowel ṛ.)
-6. (b) three consonants, welded by machinery you already own — the mechanism scales (§8).
+5. (a) the learned unit रु (§8, §15). ((b) is §12's mistake 4; (d) is the vowel ṛ.)
+6. (c) three consonants, welded by machinery you already own — the mechanism scales (§8).
 7. (b) cognates from PIE \*kʷekʷlos — cousins, not a loan in either direction (§13).
 8. (a) सर्व = "all"; (b) ग्राम = "village"; (c) चन्द्र = "moon"; (d) आचार्य = "teacher, preceptor"
    (§14).

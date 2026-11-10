@@ -1064,28 +1064,28 @@ in the form you hear.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The vigraha of विद्यालयः: (a) विद्यायाः आलयः (b) विद्या च आलयः च (c) विद्या आलयः यस्य
-   सः (d) विद्यया आलयः
+1. The vigraha of विद्यालयः: (a) विद्या च आलयः च (b) विद्या आलयः यस्य सः (c) विद्यया आलयः
+   (d) विद्यायाः आलयः
 2. The kind of नीलकण्ठः, said of Śiva: (a) dvandva (b) karmadhāraya (c) bahuvrīhi (d) case-tatpuruṣa
 3. "Mother and father", one word: (a) मातापितरौ (b) मातृपिता (c) मातापिता (d) मातापितरः
 4. In a compound, which member takes the ending? (a) the first (b) the last (c) both
    (d) neither
-5. The vigraha of नीलकमलम् "a blue lotus": (a) नीलम् कमलम् (b) नीलस्य कमलम् (c) नीलः कमलम्
-   यस्य सः (d) नीलम् च कमलम् च
+5. The vigraha of नीलकमलम् "a blue lotus": (a) नीलस्य कमलम् (b) नीलः कमलम् यस्य सः
+   (c) नीलम् च कमलम् च (d) नीलम् कमलम्
 6. पर + उपकारः → (a) परउपकारः (b) परोपकारः (c) परूपकारः (d) पारोपकारः
 7. According to Pāṇini (2.2.29), a dvandva is made "in the sense of": (a) च (b) वा (c) एव
    (d) इव
-8. मातृभाषा shows that: (a) the first member stands in stem form (b) the first member is in
-   the nominative (c) the compound is a dvandva (d) भाषा is masculine
-9. चित्रग्रीवः, "the dove-king", is a bahuvrīhi because: (a) it names someone who has a
-   bright neck (b) it names a neck (c) it is a pair (d) its vigraha puts the first member in the genitive
+8. मातृभाषा shows that: (a) the first member is in the nominative (b) the compound is a dvandva
+   (c) the first member stands in stem form (d) भाषा is masculine
+9. चित्रग्रीवः, "the dove-king", is a bahuvrīhi because: (a) it names a neck
+   (b) it names someone who has a bright neck (c) it is a pair (d) its vigraha puts the first member in the genitive
 10. The mouse says अहमल्पशक्तिः. The vigraha of his अल्पशक्तिः: (a) अल्पा शक्तिः यस्य सः
     (b) अल्पस्य शक्तिः (c) अल्पम् च शक्तिः च (d) अल्पा शक्तिः
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (a) — the genitive: "the abode of learning" (§8 Step 4, §15 Step 3). ((b) reads it as a
-   pair; (c) as a bahuvrīhi, but a school is the abode itself; (d) is §12's mistake 5 with
+1. (d) — the genitive: "the abode of learning" (§8 Step 4, §15 Step 3). ((a) reads it as a
+   pair; (b) as a bahuvrīhi, but a school is the abode itself; (c) is §12's mistake 5 with
    the wrong case, the instrumental.)
 2. (c) — Śiva is not a throat; he has a blue one: नीलः कण्ठः यस्य सः [§15 Step 4]. ((b) is
    §12's mistake 3; (a) needs an "and"; (d) needs a case relation, and Śiva is not a kind of throat.)
@@ -1093,15 +1093,15 @@ in the form you hear.
    stem first against the exception and is singular; (c) is the Hindi habit, singular;
    (d) is plural, for more than two.)
 4. (b) — rule 2, the ending last (§15 Step 1).
-5. (a) — a karmadhāraya: both members one thing, both in the nominative (§15 Step 3). ((b)
-   makes a case relation; (c) makes it a bahuvrīhi, and in the wrong gender; (d) makes it a
+5. (d) — a karmadhāraya: both members one thing, both in the nominative (§15 Step 3). ((a)
+   makes a case relation; (b) makes it a bahuvrīhi, and in the wrong gender; (c) makes it a
    pair.)
 6. (b) — गुणः at the inner seam, अ + उ → ओ [rule 3; v3.c04.l01]. ((a) is §12's mistake 4;
    (c) and (d) are not the rule's result.)
 7. (a) — "According to Pāṇini, 2.2.29 चार्थे द्वन्द्वः: in the sense of च, a dvandva" (§4,
    TRADITION).
-8. (a) — rule 1: मातृ, the stem, not माता [§8 Step 4, §12 mistake 1].
-9. (a) — the context test: someone who has it (§15 Step 4). ((b) is the tatpuruṣa reading;
+8. (c) — rule 1: मातृ, the stem, not माता [§8 Step 4, §12 mistake 1].
+9. (b) — the context test: someone who has it (§15 Step 4). ((a) is the tatpuruṣa reading;
    (c) describes a dvandva; (d) makes a case relation that is not there: चित्रा and ग्रीवा are
    both nominative in its vigraha.)
 10. (a) — the mouse speaks of himself: "one whose strength is little" (§15 Step 4). ((b) is a
