@@ -459,8 +459,8 @@ touch for each sound, and what did you see move in the mirror?
 3. क /k/ and ग /g/ are made at the same place with the same closure. What one feature
    distinguishes them? (a) aspiration (b) voicing (c) place of articulation (d) nasality
 4. What does the notation /t̪/ — with slashes — refer to? (a) the exact acoustic detail of one
-   utterance (b) a phoneme, a sound category of the language (c) a Devanagari letter (d) an
-   English spelling
+   utterance (b) an English spelling (c) a Devanagari letter (d) a phoneme, a sound category of
+   the language
 5. Why is "त sounds like t as in *top*" not fully accurate? (a) English t is alveolar,
    between Sanskrit dental त and retroflex ट (b) English t is voiced (c) English has no t
    sound (d) त is a vowel
@@ -479,7 +479,7 @@ touch for each sound, and what did you see move in the mirror?
 1. कण्ठ्य velar → तालव्य palatal → मूर्धन्य retroflex → दन्त्य dental → ओष्ठ्य labial.
 2. Voiceless → voiceless aspirated → voiced → voiced breathy → nasal.
 3. (b) voicing.
-4. (b) a phoneme, a sound category of the language. (Brackets [ ] give phonetic detail.)
+4. (d) a phoneme, a sound category of the language. (Brackets [ ] give phonetic detail.)
 5. (a) English t is alveolar — between Sanskrit dental त /t̪/ and retroflex ट /ʈ/.
 6. 13 vowels, 33 consonants, 2 ayogavāha.
 7. (c) ayogavāha — dependent sounds, neither vowel nor consonant.

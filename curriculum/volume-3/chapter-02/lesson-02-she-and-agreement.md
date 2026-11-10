@@ -930,13 +930,13 @@ written out from the recording. Rubric: six sentences; every adjective in its no
 2. "With the girl": (a) बालिकेन (b) बालिकया (c) बालिकायाः (d) बालिकाम्
 3. बालिकायाः can be: (a) ablative or genitive singular (b) nominative plural (c) locative
    singular (d) instrumental plural
-4. The instrumental singular of नदी: (a) नदीया (b) नद्या (c) नदीम् (d) नद्याः
+4. The instrumental singular of नदी: (a) नद्या (b) नदीया (c) नदीम् (d) नद्याः
 5. "The dear sister": (a) प्रियः भगिनी (b) प्रियम् भगिनी (c) प्रिया भगिनी (d) प्रियाः भगिनी
 6. "Three girls": (a) त्रयः बालिकाः (b) त्रीणि बालिकाः (c) ततस्रः बालिकाः (d) तिस्रः बालिकाः
 7. Calling a girl: (a) हे बालिका (b) हे बालिकाः (c) हे बालिके (d) हे बालिकाम्
 8. "I want sweet mangoes": अहम् ___ आम्राणि इच्छामि। (a) मधुराः (b) मधुरान् (c) मधुराणि
    (d) मधुरा
-9. A woman friend is: (a) मित्रा (b) मित्रम् (c) मित्रः (d) मित्री
+9. A woman friend is: (a) मित्रा (b) मित्री (c) मित्रः (d) मित्रम्
 10. Hindi अच्छा/अच्छी shows two genders; a Sanskrit a-adjective agrees in: (a) gender only
     (b) gender, number and case, with three genders (c) number only (d) nothing
 
@@ -949,7 +949,7 @@ written out from the recording. Rubric: six sentences; every adjective in its no
    -एन on a feminine; (c) is abl./gen., (d) acc.)
 3. (a) — -आयाः is one form for the ablative and the genitive singular (§15 Steps 1, 5).
    ((b) is §12's mistake 5: the plural is बालिकाः.)
-4. (b) — ई + vowel → य्: नद्या (§15 Step 2). ((a) is §12's mistake 3; (c) is the
+4. (a) — ई + vowel → य्: नद्या (§15 Step 2). ((b) is §12's mistake 3; (c) is the
    accusative; (d) is abl./gen.)
 5. (c) — the adjective in the noun's gender, -आ (§15 Step 3). ((a) is §12's mistake 2.)
 6. (d) — the feminine of "three" (§4, §15 Step 4). ((a) is the masculine, (b) the neuter,
@@ -959,7 +959,7 @@ written out from the recording. Rubric: six sentences; every adjective in its no
 8. (c) — neuter, accusative, plural, like आम्राणि (§13 sentence 4). ((a) is masculine
    nominative plural or feminine plural, (b) masculine accusative plural, (d) feminine
    singular.)
-9. (b) — मित्रम् is neuter whoever the friend is (§5, §12 mistake 6). ((a) and (d) do not
+9. (d) — मित्रम् is neuter whoever the friend is (§5, §12 mistake 6). ((a) and (b) do not
    exist as "friend"; (c) मित्रः in classical Sanskrit is the sun — Apte s.v. मित्रः; "friend"
    as a masculine is Vedic, and the later language mostly uses the neuter, MW s.v. mitra.)
 10. (b) — §5 and §15 Step 3: three genders, three numbers, eight cases.

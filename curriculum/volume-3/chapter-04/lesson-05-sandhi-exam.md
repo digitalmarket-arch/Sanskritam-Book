@@ -938,16 +938,16 @@ sitting.
 
 1. सिंहस्योपरि split: (a) सिंहस्य उपरि (b) सिंहः उपरि (c) सिंहस्य ऊपरि (d) सिंहे उपरि
 2. तेऽपि split: (a) ते अपि (b) तः अपि (c) तेः पि (d) त अपि
-3. Which pair is joined wrongly? (a) सदा एव → सदैव (b) द्वे बालिके अत्र → द्वे बालिकेऽत्र
-   (c) न अस्ति → नास्ति (d) इति अवदत् → इत्यवदत्
+3. Which pair is joined wrongly? (a) सदा एव → सदैव (b) न अस्ति → नास्ति
+   (c) द्वे बालिके अत्र → द्वे बालिकेऽत्र (d) इति अवदत् → इत्यवदत्
 4. गुरुः अपि joined: (a) गुरुऽपि (b) गुरुरपि (c) गुरु अपि (d) गुरुस्अपि
-5. सः अपि joined: (a) स अपि (b) सोऽपि (c) सोअपि (d) सरपि
+5. सः अपि joined: (a) स अपि (b) सरपि (c) सोअपि (d) सोऽपि
 6. जलम् अस्ति joined: (a) जलं अस्ति (b) जलमस्ति (c) जलंस्ति (d) जलामस्ति
-7. तत् च joined: (a) तद्च (b) तच्च (c) तत्च (d) तश्च
-8. In joined print, a space stands after: (a) any word (b) a word that, after the join, still
-   ends in a vowel, ं or ः (c) a word ending in a consonant (d) only before a daṇḍa
-9. According to the Vedic tradition, a पदपाठः gives: (a) the joined text (b) each word in its
-   own form (c) the meaning (d) the metre
+7. तत् च joined: (a) तद्च (b) तत्च (c) तच्च (d) तश्च
+8. In joined print, a space stands after: (a) any word (b) only before a daṇḍa (c) a word ending
+   in a consonant (d) a word that, after the join, still ends in a vowel, ं or ः
+9. According to the Vedic tradition, a पदपाठः gives: (a) each word in its own form (b) the
+   joined text (c) the meaning (d) the metre
 10. According to Pāṇini, which sūtra says that the ः of सः drops before a consonant?
     (a) 8.3.34 (b) 6.1.132 (c) 8.3.23 (d) 6.1.101
 
@@ -959,25 +959,25 @@ sitting.
    word ऊपरि; (d) would join as सिंह उपरि too. FACT.
 2. (a) — एऽ hides -ए + अ, पूर्वरूपम् (l01 §15 Step 6). (b) and (c) are no words; (d) is the
    अयादि gap put where a short अ follows the ए, which merges instead. FACT.
-3. (b) — a dual in -ए is pragṛhya and never joins (l01 §15 Step 7; §12 mistake 1). (a), (c),
+3. (c) — a dual in -ए is pragṛhya and never joins (l01 §15 Step 7; §12 mistake 1). (a), (b),
    (d) are the right joins. FACT.
 4. (b) — any other vowel + ः before a vowel gives र् (l02 §15 Step 1). (a) drops the अ of अपि as
    -अः + अ does, with no ओ to carry the ऽ;
    (c) leaves a gap where none belongs; (d) keeps the स् of the त-row before a vowel. FACT.
-5. (b) — before अ, सः follows the -अः column: ओऽ (l02 §15 Step 3). (a) applies 6.1.132, which
+5. (d) — before अ, सः follows the -अः column: ओऽ (l02 §15 Step 3). (a) applies 6.1.132, which
    works only before a consonant (§12 mistake 3 the other way round); (c) keeps the अ that ओऽ
-   replaces; (d) treats सः as an r-final. FACT.
+   replaces; (b) treats सः as an r-final. FACT.
 6. (b) — before a vowel the म् stays and the words are written together (l03 §15 Step 2). (a)
    and (c) are §12 mistake 5; (d) lengthens a vowel that meets no vowel. FACT.
-7. (b) — त् + च → च्च, 8.4.40 (l03 §15 Step 4). (a) voices the त् before a voiceless sound; (c)
+7. (c) — त् + च → च्च, 8.4.40 (l03 §15 Step 4). (a) voices the त् before a voiceless sound; (b)
    leaves the त् at the teeth (l03 §12 mistake 3); (d) treats तत् as a visarga word. FACT.
-8. (b) — a space follows a word that still ends, after the join, in a vowel, an anusvāra or a
+8. (d) — a space follows a word that still ends, after the join, in a vowel, an anusvāra or a
    visarga; where two vowels have fused (नास्ति) there is no space, and a consonant-final word is
    written into the next (l04 §15, the printing convention). (a)
-   forgets the consonant-final words; (c) is the reverse of the rule; (d) confuses the space
+   forgets the consonant-final words; (c) is the reverse of the rule; (b) confuses the space
    with a stop. FACT about this
    course's printing convention (STYLE_GUIDE §3.1); editions vary (§15 (3)).
-9. (b) — the word-recitation, "each word … separately in its original form … without regard
+9. (a) — the word-recitation, "each word … separately in its original form … without regard
    to the rules of Saṃdhi" (§4; l04 §4). TRADITION, asked in the form "According to the Vedic
    tradition".
 10. (b) — 6.1.132 एतत्तदोः सुलोपोऽकोरनञ्समासे हलि (l02 §8 Step 5). (a) is the visarga → स् before a

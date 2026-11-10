@@ -554,8 +554,8 @@ rehearsal.
    (c) karma (d) daughter
 6. कुटुम्बम् means: (a) household (b) sister (c) introduction (d) house only, never
    the people
-7. You want to ask "who is she?" about a woman nearby: (a) एषः कः? (b) एषा का?
-   (c) एतत् किम्? (d) तव नाम किम्?
+7. You want to ask "who is she?" about a woman nearby: (a) एषः कः? (b) एतत् किम्?
+   (c) तव नाम किम्? (d) एषा का?
 8. Reading check — write the English meaning of each: (a) एषा (b) कुटुम्बम्
    (c) दुहिता (d) तव भ्राता कः?
 
@@ -569,7 +569,7 @@ rehearsal.
 5. (c) karma — a documented loan; the kinship words were inherited, never borrowed
    (§13).
 6. (a) household — the family as one unit; परिवारः is the people (§8).
-7. (b) एषा का? — feminine question word with the feminine pointer (§8; kit from
+7. (d) एषा का? — feminine question word with the feminine pointer (§8; kit from
    v1.c06.l02).
 8. (a) एषा = "this (woman, girl)"; (b) कुटुम्बम् = "household"; (c) दुहिता =
    "daughter" (lesson 1's cognate carrier); (d) तव भ्राता कः? = "who is your

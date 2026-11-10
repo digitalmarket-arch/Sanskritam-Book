@@ -508,17 +508,17 @@ The teach-back is lesson 5's task D in rehearsal.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. धन्यवादः is: (a) the standard classical thank-you, used since the Veda (b) an
-   attested compound whose everyday-thanks use is modern spoken convention (c) a Hindi
-   loanword into Sanskrit (d) unattested
+1. धन्यवादः is: (a) the standard classical thank-you, used since the Veda (b) unattested
+   (c) a Hindi loanword into Sanskrit (d) an attested compound whose everyday-thanks use is
+   modern spoken convention
 2. The reply to thanks or apology taught today is: (a) कृपया (b) भद्रम् (c)
    नास्ति (d) पुनः
-3. क्षमस्व is: (a) a modern coinage (b) a classical form of √क्षम्, taught as a whole
-   chunk (c) the noun "forgiveness" (d) a question word
+3. क्षमस्व is: (a) a classical form of √क्षम्, taught as a whole chunk (b) a modern
+   coinage (c) the noun "forgiveness" (d) a question word
 4. "Not well" in pause form: (a) कुशलम् न (b) न कुशलम् (c) नास्ति कुशलम् (d) कुशलम्
    नास्ति
-5. नास्ति is: (a) a different word from न अस्ति (b) the sandhi-joined form of न +
-   अस्ति — previewed today, taught in Volume 3 (c) wrong Sanskrit (d) a noun
+5. नास्ति is: (a) a different word from न अस्ति (b) wrong Sanskrit (c) the sandhi-joined
+   form of न + अस्ति — previewed today, taught in Volume 3 (d) a noun
 6. The respectful address to a man taught today: (a) भोः only (b) श्रीमन् (c) त्वम्
    (d) बालकः
 7. In the farewell pair स्वस्ति! पुनः मिलामः!: (a) both are Vedic (b) both are modern
@@ -529,11 +529,11 @@ The teach-back is lesson 5's task D in rehearsal.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — the label showcase: both truths, one breath (§4, §8). ((a) is §12's mistake 2.)
+1. (d) — the label showcase: both truths, one breath (§4, §8). ((a) is §12's mistake 2.)
 2. (b) भद्रम् — lesson 1's courtesy word on reply duty (§8, §16).
-3. (b) — classical chunk, whole, the पश्य precedent (§8). ((c) is क्षमा.)
+3. (a) — classical chunk, whole, the पश्य precedent (§8). ((c) is क्षमा.)
 4. (b) न कुशलम् — न stands before what it negates (§15). ((a) is §12's mistake 4.)
-5. (b) — the preview, honestly labeled (§13, §15).
+5. (c) — the preview, honestly labeled (§13, §15).
 6. (b) श्रीमन् — श्रीमान् in its calling shape (§8, §15). (भोः hails; it does not honor.)
 7. (c) — one foot in the Veda, one in the present (§8, §15).
 8. (a) कृपा = "compassion"; (b) धन्यः = "blessed, fortunate"; (c) पुनः = "again";

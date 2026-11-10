@@ -599,18 +599,18 @@ confirmation before you trust it.)
 
 1. क + आ = ? (a) अक (b) आक (c) का (d) क
 2. Which form of the ā-sound is used at the beginning of a word, and which after a
-   consonant? (a) ा initially, आ after consonants (b) आ initially, ा after consonants
+   consonant? (a) आ initially, ा after consonants (b) ा initially, आ after consonants
    (c) आ in both positions (d) ा in both positions
-3. काल (kāla) means: (a) "a sweet, indistinct sound" (b) "time" (c) "surface" (d) "garland"
+3. काल (kāla) means: (a) "a sweet, indistinct sound" (b) "garland" (c) "surface" (d) "time"
 4. Which word means "rhythm"? (a) तल (b) ताल (c) लता (d) मत
 5. In careful pronunciation, the duration of आ compared with अ is roughly: (a) the same
    (b) half as long (c) twice as long (d) free — it varies with emphasis
 6. Find the error: a learner wants to write माला (mālā) "garland" but writes **मला**. What
    went wrong, and what does the written form actually read as?
 7. Reading check — write the English meaning of each: (a) माता (b) कला
-8. /ɐ/ and /ɑː/ differ in: (a) duration only (b) duration and vowel quality (c) lip rounding
-   (d) nasality
-9. In IPA, the mark ː after a vowel symbol means: (a) stress (b) the vowel is long (c) the
+8. /ɐ/ and /ɑː/ differ in: (a) duration only (b) nasality (c) lip rounding
+   (d) duration and vowel quality
+9. In IPA, the mark ː after a vowel symbol means: (a) the vowel is long (b) stress (c) the
    vowel is nasal (d) a pause follows
 10. In careful Sanskrit recitation, the final vowel of कमल (kamala) is: (a) silent, as in
     Hindi "kamal" (b) pronounced as a full short /ɐ/ (c) lengthened to /ɑː/ (d) optional
@@ -618,15 +618,15 @@ confirmation before you trust it.)
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (c) का — the mātrā replaces the inherent vowel.
-2. (b) आ word-initially, ा after consonants; the two never compete for one position.
-3. (b) "time". (Distractor (a) is its minimal-pair partner कल — §13.)
+2. (a) आ word-initially, ा after consonants; the two never compete for one position.
+3. (d) "time". (Distractor (a) is its minimal-pair partner कल — §13.)
 4. (b) ताल /t̪ɑːlɐ/. (तल is its short-vowel partner "surface".)
 5. (c) roughly twice as long — the 2:1 target of §5/§9.
 6. The ā-mātrā is missing on the first consonant: म was left with its inherent vowel. मला
    reads *malā*, not *mālā*; correct spelling माला needs ा on both म and ल.
 7. (a) माता = "mother"; (b) कला = "art, craft".
-8. (b) duration and quality — /ɐ/ near-open central, /ɑː/ open back, twice the length (§10).
-9. (b) the vowel is long — the IPA length mark.
+8. (d) duration and quality — /ɐ/ near-open central, /ɑː/ open back, twice the length (§10).
+9. (a) the vowel is long — the IPA length mark.
 10. (b) a full short /ɐ/ — Sanskrit keeps every final vowel; dropping it is Hindi phonology,
     not Sanskrit (§12, mistake 3).
 </details>

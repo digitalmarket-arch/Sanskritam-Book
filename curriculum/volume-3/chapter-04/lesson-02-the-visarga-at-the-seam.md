@@ -1141,23 +1141,23 @@ order of the track (§22 lists them), each twice. Write each in pause form, then
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz. Homework (§21), about four
 minutes.
 
-1. नमः ते joined: (a) नमःते (b) नमस्ते (c) नमोते (d) नमश्ते
+1. नमः ते joined: (a) नमःते (b) नमश्ते (c) नमोते (d) नमस्ते
 2. रामः च joined: (a) रामस्च (b) रामश्च (c) रामो च (d) रामःच
 3. कः अपि joined: (a) कोऽपि (b) कोऽअपि (c) कः अपि (d) कस्अपि
 4. छात्राः गच्छन्ति joined: (a) छात्रो गच्छन्ति (b) छात्रा गच्छन्ति (c) छात्राः गच्छन्ति (d)
    छात्रार्गच्छन्ति
 5. गुरुः वदति joined: (a) गुरुःवदति (b) गुरुस्वदति (c) गुरुर्वदति (d) गुरुश्वदति
-6. पुनः अपि joined: (a) पुनोऽपि (b) पुनरपि (c) पुन अपि (d) पुनापि
-7. सः गच्छति joined: (a) सो गच्छति (b) स गच्छति (c) सः गच्छति (d) सर्गच्छति
+6. पुनः अपि joined: (a) पुनोऽपि (b) पुन अपि (c) पुनापि (d) पुनरपि
+7. सः गच्छति joined: (a) स गच्छति (b) सो गच्छति (c) सः गच्छति (d) सर्गच्छति
 8. रामः आगच्छति joined: (a) रामागच्छति (b) रामो आगच्छति (c) राम आगच्छति (d) रामर् आगच्छति
 9. According to Pāṇini (8.3.34 विसर्जनीयस्य सः), before a voiceless consonant the visarga is
    replaced by: (a) र् (b) स् (c) ओ (d) nothing
-10. In अन्तरागच्छ, अन्तः means: (a) "the end" (b) "inside" (c) "again" (d) "outside"
+10. In अन्तरागच्छ, अन्तः means: (a) "the end" (b) "again" (c) "inside" (d) "outside"
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — -अः before त gives स्: §8 Step 5, §15 Step 1. ((a) is §12's mistake 1; (c) puts the ओ of
-   a voiced consonant before the voiceless त; (d) puts the श् of च before त.)
+1. (d) — -अः before त gives स्: §8 Step 5, §15 Step 1. ((a) is §12's mistake 1; (c) puts the ओ of
+   a voiced consonant before the voiceless त; (b) puts the श् of च before त.)
 2. (b) — -अः before च gives श्: §15 Step 1. ((a) keeps स् where च asks for श्; (c) is the ओ of a
    voiced consonant; (d) leaves the visarga written into a block.)
 3. (a) — -अः + अ gives ओऽ: §8 Step 5. ((b) keeps the अ that ओऽ replaces; (c) is the pause form, left
@@ -1167,16 +1167,16 @@ minutes.
 5. (c) — any other vowel + ः before a voiced sound gives र्: §15 Step 1. ((a) leaves the visarga
    written into a block; (b) puts the स् of त before a voiced consonant; (d) puts the श् of च
    there.)
-6. (b) — पुनः is *punar*: र् before a vowel (§15 Step 2). ((a) and (d) treat it as -अः,
-   §12's mistake 4; (c) leaves the gap of the -अः column.)
-7. (b) — 6.1.132: सः drops its ः before a consonant (§8 Step 5, §15 Step 3). ((a) and (c) are
+6. (d) — पुनः is *punar*: र् before a vowel (§15 Step 2). ((a) and (c) treat it as -अः,
+   §12's mistake 4; (b) leaves the gap of the -अः column.)
+7. (a) — 6.1.132: सः drops its ः before a consonant (§8 Step 5, §15 Step 3). ((b) and (c) are
    §12's mistake 3; (d) treats सः as an r-final.)
 8. (c) — -अः before a vowel other than अ: अ + gap (§8 Step 5). ((a) closes the gap, §12's
    mistake 2; (b) puts ओ before a vowel other than अ; (d) treats -अः as -इः.)
 9. (b) — "According to Pāṇini, the visarga is replaced by स् before a voiceless consonant"
    (§8 Step 5, TRADITION).
-10. (b) — the r-final *antar* "inside", in अन्तः आगच्छ "come in" (§12 mistake 5, §15 Step 2).
-    ((a) is the homograph, which would join as अन्तो; (c) is पुनः; (d) is बहिः.)
+10. (c) — the r-final *antar* "inside", in अन्तः आगच्छ "come in" (§12 mistake 5, §15 Step 2).
+    ((a) is the homograph, which would join as अन्तो; (b) is पुनः; (d) is बहिः.)
 
 **Exercise keys.**
 

@@ -920,16 +920,16 @@ write out its transcript. A point for each of the six answers with the right end
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. The instrumental of देवः: (a) देवेण (b) देवेन (c) देवात् (d) देवाय
-2. The instrumental of पुत्रः: (a) पुत्रेन (b) पुत्रेण (c) पुत्राय (d) पुत्रात्
+2. The instrumental of पुत्रः: (a) पुत्रेन (b) पुत्रात् (c) पुत्राय (d) पुत्रेण
 3. Why is रथेन written with न? (a) a dental (थ) stands between र and न (b) रथ has no र
    (c) it is neuter (d) it is a mistake
 4. "Mother gives the boy a fruit": (a) माता बालकम् फलम् ददाति (b) माता बालकाय फलम् ददाति
    (c) माता बालकेन फलम् ददाति (d) माता बालकात् फलम् ददाति
 5. "With a friend": (a) मित्रम् सह (b) मित्रात् सह (c) मित्रेण सह (d) मित्राय सह
-6. Hindi से in "छड़ी से" and "पेड़ से" corresponds to: (a) one Sanskrit case (b) the
-   instrumental and the ablative (c) the dative (d) the locative
+6. Hindi से in "छड़ी से" and "पेड़ से" corresponds to: (a) the instrumental and the ablative
+   (b) one Sanskrit case (c) the dative (d) the locative
 7. According to Pāṇini (2.3.16), the word नमः is used with: (a) the accusative (b) the
-   dative (c) the genitive (d) the instrumental
+   instrumental (c) the genitive (d) the dative
 8. In नमस्ते, ते is a short form of: (a) तव only (b) तुभ्यम् "to you" (c) त्वम् (d) तत्
 9. केन सह गच्छसि? — the answer "with me": (a) माम् सह (b) मह्यम् सह (c) मया सह (d) मम सह
 10. "Arjuna likes milk": (a) अर्जुनः क्षीरम् रोचते (b) अर्जुनम् क्षीरम् रोचते (c) अर्जुनाय
@@ -939,14 +939,14 @@ write out its transcript. A point for each of the six answers with the right end
 
 1. (b) — the plain -एन, the ending as taught on देवः (§8 Step 4, §15). ((a) is §12's
    mistake 1; (c) is the ablative, (d) the dative.)
-2. (b) — the र right before the ending: column 1 (§15 Step 2). ((a) is mistake 1.)
+2. (d) — the र right before the ending: column 1 (§15 Step 2). ((a) is mistake 1.)
 3. (a) — थ is a त-row consonant, a blocker: column 3 (§15 Step 2). ((b) is false: रथ has a
    र; (c) is false: रथः is masculine, and gender plays no part.)
 4. (b) — the receiver of ददाति is the dative (§15 Step 4). ((a) is mistake 3, the Hindi को
    transfer.)
 5. (c) — सह takes the instrumental (§8, §15 Step 3). ((a) is mistake 6.)
-6. (b) — one Hindi word, two Sanskrit cases (§5, §12 mistake 2).
-7. (b) — 2.3.16 नमःस्वस्ति…: with नमः, the dative (§8). TRADITION, framed "According to
+6. (a) — one Hindi word, two Sanskrit cases (§5, §12 mistake 2).
+7. (d) — 2.3.16 नमःस्वस्ति…: with नमः, the dative (§8). TRADITION, framed "According to
    Pāṇini".
 8. (b) — as taught: ते is a short form of तुभ्यम्; नमः ते "homage to you" (§8, §15 Step 6).
 9. (c) — मया, the instrumental of अहम् (§15 Step 1). ((a) is "me" of seeing, (b) "to me",

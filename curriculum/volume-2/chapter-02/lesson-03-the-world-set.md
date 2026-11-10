@@ -555,18 +555,19 @@ the answer.
 2. पृथिवी and पृथ्वी are: (a) two different words (b) one word in two standard spellings — the
    course writes पृथिवी and reads both (c) a correct form and a typo (d) singular and plural
 3. अग्निः joins the ledger today because: (a) its letters were unreadable until now (b) it is a
-   brand-new word to the course (c) it has been an ear-word since v1.c01.l03 and readable since
-   v1.c05.l02's weld mechanism, but never before a readable ledger headword (d) the Ṛgveda requires it
-4. The honest account of आकाश-वायु-अग्नि-जल-पृथिवी as "the five elements" is: (a) a fact of
-   physics the words prove (b) five ordinary vocabulary items whose five-element grouping is a
-   doctrine of the Sāṅkhya/Vaiśeṣika traditions — two claims, two registers (c) a modern
-   invention with no tradition behind it (d) the dictionary meaning of each word
+   brand-new word to the course (c) the Ṛgveda requires it (d) it has been an ear-word since
+   v1.c01.l03 and readable since v1.c05.l02's weld mechanism, but never before a readable ledger
+   headword
+4. The honest account of आकाश-वायु-अग्नि-जल-पृथिवी as "the five elements" is: (a) five ordinary
+   vocabulary items whose five-element grouping is a doctrine of the Sāṅkhya/Vaiśeṣika traditions —
+   two claims, two registers (b) a fact of physics the words prove (c) a modern invention with no
+   tradition behind it (d) the dictionary meaning of each word
 5. अग्नि and Latin *ignis* are related as: (a) Latin borrowed from Sanskrit (b) Sanskrit
    borrowed from Latin (c) siblings — parallel descendants of one Proto-Indo-European ancestor
    (d) an accidental lookalike, like दिन and *day*
-6. The नगर inside देवनागरी means the script's name is built on: (a) "divine sound" (b) "the
-   urban (script)" — नागरी from नगर "city" (c) "the river script" (d) nothing — the resemblance
-   is coincidence
+6. The नगर inside देवनागरी means the script's name is built on: (a) "divine sound" (b) nothing —
+   the resemblance is coincidence (c) "the river script" (d) "the urban (script)" — नागरी from
+   नगर "city"
 7. The correct pause-form scene sentence is: (a) नदी वहति। (b) नदी बहती है। (c) नदीः वहति।
    (d) ताराः अत्र अस्ति।
 8. §15's shape observation says: (a) every ः-word in Sanskrit is masculine, permanently (b) the
@@ -578,11 +579,11 @@ the answer.
 
 1. (c) — नगरम् is "city"; the forest is वनम्, on review duty (§8, §14).
 2. (b) — both standard, one word; the गङ्गा/गंगा policy applied (§4, §13).
-3. (c) — the homecoming story (§8); (a) fails because v1.c05.l02's mechanism covered ग्न.
-4. (b) — the register split, this lesson's showcase (§8). ((d) is §12's mistake 5.)
+3. (d) — the homecoming story (§8); (a) fails because v1.c05.l02's mechanism covered ग्न.
+4. (a) — the register split, this lesson's showcase (§8). ((d) is §12's mistake 5.)
 5. (c) — shared descent, no borrowing in either direction (§13). ((d) undersells it: अग्नि ~
    *ignis* is systematic correspondence, not coincidence.)
-6. (b) — नागरी "the urban script", from नगर (§13; first told in v1.c06.l01 §4).
+6. (d) — नागरी "the urban script", from नगर (§13; first told in v1.c06.l01 §4).
 7. (a) — Sanskrit verb, singular frame, proper dress. ((b) is Hindi; (c) pins a visarga on नदी —
    §12's mistake 2; (d) pairs a plural-looking ताराः with singular अस्ति,
    reaching for plural machinery not yet taught; §8's warning.)

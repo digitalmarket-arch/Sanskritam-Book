@@ -582,20 +582,20 @@ tomorrow either way (§20).
 
 1. The classical wellness question, exactly as taught: (a) अपि कुशलम्? (b) कुशलम् अपि?
    (c) किम् कुशलम्? (d) कथम् कुशलम्?
-2. The one answer that is right for every speaker — boy, girl, man, woman: (a) कुशलम्!
-   (b) अहम् कुशली। (c) कुशलिनी! (d) आम्! अहम् कुशली!
+2. The one answer that is right for every speaker — boy, girl, man, woman: (a) कुशलिनी!
+   (b) अहम् कुशली। (c) कुशलम्! (d) आम्! अहम् कुशली!
 3. Standing first in a sentence, अपि: (a) means "too" (b) turns the sentence into a
    polite yes/no question (c) makes the sentence negative (d) marks respect, like भवान्
-4. A boy says "I too am well": (a) अहम् अपि कुशली। (b) अपि अहम् कुशली। (c) अहम् कुशली
-   अपि। (d) अहम् अपि कुशलिनी।
+4. A boy says "I too am well": (a) अहम् अपि कुशलिनी। (b) अपि अहम् कुशली। (c) अहम् कुशली
+   अपि। (d) अहम् अपि कुशली।
 5. कथम् asks: (a) how? (b) from where? (c) who? (d) what?
 6. Which question keeps the level tune, because its question word does the asking?
    (a) अपि कुशलम्? (b) कथम् अस्ति विद्यालयः? (c) त्वम् कुशली? (d) अपि सर्वम् कुशलम्?
-7. To your teacher — a man — the respectful wellness question is: (a) भवान् कुशली?
-   (b) त्वम् कुशली? (c) भवान् कुशलम्? (d) अपि भवान्?
-8. The exchange अपि कुशलम्? — कुशलम्! wears which label in this course? (a) classical
-   idiom — attested classical etiquette (b) modern spoken convention, like विद्यालयः
-   for "school" (c) a borrowing from Hindi (d) a formula invented by this course
+7. To your teacher — a man — the respectful wellness question is: (a) अपि भवान्?
+   (b) त्वम् कुशली? (c) भवान् कुशलम्? (d) भवान् कुशली?
+8. The exchange अपि कुशलम्? — कुशलम्! wears which label in this course? (a) a borrowing
+   from Hindi (b) modern spoken convention, like विद्यालयः for "school" (c) classical
+   idiom — attested classical etiquette (d) a formula invented by this course
 9. Reading check — write the English meaning of each: (a) कथम् (b) कुशलम् (c) सर्वम्
    (d) कुशली
 
@@ -604,21 +604,21 @@ tomorrow either way (§20).
 1. (a) अपि कुशलम्? — अपि stands first and asks (§8). ((b) reads "well-being too" — the
    wrong job; (c) and (d) are not the taught frame — the wellness question is asked with
    front-अपि, and today's कथम् asks about things.)
-2. (a) कुशलम्! — the neuter echo is everyone's safe, fully classical answer (§8, §12
-   mistake 4). ((b) and (d) fit a male speaker only; (c) is display-only today.)
+2. (c) कुशलम्! — the neuter echo is everyone's safe, fully classical answer (§8, §12
+   mistake 4). ((b) and (d) fit a male speaker only; (a) is display-only today.)
 3. (b) — the polite question mark job (§15). Behind a word it means "too"; position
    decides, and the two slots never collide.
-4. (a) अहम् अपि कुशली। — अपि behind its word, job 1 (§15). ((b) puts अपि up front and
+4. (d) अहम् अपि कुशली। — अपि behind its word, job 1 (§15). ((b) puts अपि up front and
    accidentally asks a question; (c) parks अपि behind कुशली, so it adds to "well" ("I am
-   also well"), not to "I"; (d) is the feminine display form — wrong speaker.)
+   also well"), not to "I"; (a) is the feminine display form — wrong speaker.)
 5. (a) how? (§8, §14). (The others belong to कुतः, कः, and किम् respectively.)
 6. (b) कथम् अस्ति विद्यालयः? — the question word asks, so the tune stays level (§9
    drill 1). ((a) and (d) are अपि-questions — they rise; (c) has no question word, so
    the rise alone asks.)
-7. (a) भवान् कुशली? — the respectful "you" with the personal form (§8). ((b) is the
-   peer form; (c) mismatches the personal question with the neuter word; (d) is not a
+7. (d) भवान् कुशली? — the respectful "you" with the personal form (§8). ((b) is the
+   peer form; (c) mismatches the personal question with the neuter word; (a) is not a
    frame.)
-8. (a) — classical etiquette, proudly labeled (§4, §8). ((b) is विद्यालयः's own label,
+8. (c) — classical etiquette, proudly labeled (§4, §8). ((b) is विद्यालयः's own label,
    not this frame's — the contrast is the volume's whole honesty axis.)
 9. (a) कथम् = "how?"; (b) कुशलम् = "well-being; (all is) well"; (c) सर्वम् = "all,
    everything"; (d) कुशली = "well, in good health (of a man)" (§14).

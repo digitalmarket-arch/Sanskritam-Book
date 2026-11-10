@@ -934,19 +934,19 @@ sitting.
    (c) ablative (d) dative
 2. According to Pāṇini (1.4.14), a पदम् "word" is what ends in: (a) a *sup* or a *tiṅ*
    ending (b) a vowel (c) a visarga (d) a case ending only
-3. The instrumental of मार्गः: (a) मार्गेन (b) मार्गेण (c) मार्गात् (d) मार्गाय
+3. The instrumental of मार्गः: (a) मार्गेन (b) मार्गात् (c) मार्गेण (d) मार्गाय
 4. "From the tree" and "with the stick" — Hindi uses से for both; Sanskrit uses: (a) one
    case (b) वृक्षात् and दण्डेन (c) वृक्षेण and दण्डात् (d) वृक्षे and दण्डे
 5. Which two cells of फलम् are the same form? (a) nom. and acc. (b) instr. and dat.
    (c) abl. and gen. (d) loc. and voc.
-6. "The teacher asks the student his name" has: (a) one accusative (b) two accusatives
-   (c) a dative (d) an instrumental
-7. "Homage to the teacher" with an a-stem title: (a) आचार्यम् नमः (b) आचार्याय नमः
-   (c) आचार्यस्य नमः (d) आचार्येण नमः
+6. "The teacher asks the student his name" has: (a) one accusative (b) an instrumental
+   (c) a dative (d) two accusatives
+7. "Homage to the teacher" with an a-stem title: (a) आचार्यम् नमः (b) आचार्यस्य नमः
+   (c) आचार्याय नमः (d) आचार्येण नमः
 8. In उद्यमेन हि सिध्यन्ति…, उद्यमेन is: (a) dative (b) instrumental (c) locative
    (d) nominative
-9. According to Pāṇini, the vocative is: (a) a separate kāraka (b) the nominative used in
-   calling (c) the genitive (d) the accusative
+9. According to Pāṇini, the vocative is: (a) a separate kāraka (b) the accusative (c) the
+   genitive (d) the nominative used in calling
 10. "Rāma! Where are you going?": (a) हे रामः! कुत्र गच्छसि? (b) हे राम! कुत्र गच्छसि?
     (c) हे रामम्! कुत्र गच्छसि? (d) हे राम! कुत्र गच्छति?
 
@@ -958,18 +958,18 @@ sitting.
    above). TRADITION, asked in the "According to" form.
 2. (a) — सुप्तिङन्तं पदम्, §15. (d) is the half-answer: a verb form ending in a *tiṅ* is a
    पदम् too.
-3. (b) — र् is a trigger, and between it and the ending stand only ग, of the क-row, and the
-   vowel: nothing blocks (l03 §15 Step 2). (a) is §12 mistake 6; (c) and (d) are other
+3. (c) — र् is a trigger, and between it and the ending stand only ग, of the क-row, and the
+   vowel: nothing blocks (l03 §15 Step 2). (a) is §12 mistake 6; (b) and (d) are other
    cases.
 4. (b) — "from" is the ablative, "with" (means) the instrumental (l03 §12 mistake 2). (c)
    is the swap, §12 mistake 7.
 5. (a) — a neuter has one form for the doer and the done-to (l01 §15 Step 6).
-6. (b) — गुरुः शिष्यम् नाम पृच्छति: the one asked and the thing asked about, both in the
+6. (d) — गुरुः शिष्यम् नाम पृच्छति: the one asked and the thing asked about, both in the
    accusative (l01 §8, §15 Step 5).
-7. (b) — the one honoured with नमः takes the dative (l03 §8 Step 4). (a) is the Hindi को
+7. (c) — the one honoured with नमः takes the dative (l03 §8 Step 4). (a) is the Hindi को
    transfer, §12 mistake 8.
 8. (b) — "by effort", the means (l03 §8 Step 4; §17 above).
-9. (b) — according to Pāṇini the vocative is a use of the nominative, and neither it nor
+9. (d) — according to Pāṇini the vocative is a use of the nominative, and neither it nor
    the genitive is a kāraka (l04 §15). TRADITION, asked in the "According to" form.
 10. (b) — हे + the bare stem; and the you-form गच्छसि, because Rāma is spoken to (l04 §13
     sentence 4). (a) is §12 mistake 11; (d) has the he-form.

@@ -891,8 +891,8 @@ each of the two with the name this lesson gives it.
 
 1. The genitive of नृपः: (a) नृपस्य (b) नृपेण (c) नृपात् (d) नृपे
 2. The vocative of रामः: (a) रामः (b) राम (c) रामम् (d) रामे
-3. "I have a book": (a) अहम् पुस्तकम् अस्ति (b) मम पुस्तकम् अस्ति (c) माम् पुस्तकम्
-   अस्ति (d) मया पुस्तकम् अस्ति
+3. "I have a book": (a) अहम् पुस्तकम् अस्ति (b) माम् पुस्तकम् अस्ति (c) मया पुस्तकम्
+   अस्ति (d) मम पुस्तकम् अस्ति
 4. "Near the tree": (a) वृक्षम् समीपे (b) वृक्षे समीपे (c) वृक्षस्य समीपे (d) वृक्षात्
    समीपे
 5. Which call is right? (a) हे रामः! (b) भोः रामः! (c) हे राम! (d) हे रामम्!
@@ -901,7 +901,7 @@ each of the two with the name this lesson gives it.
 7. According to Pāṇini, which two cases are not kārakas? (a) nominative and accusative
    (b) genitive and vocative (c) instrumental and dative (d) ablative and locative
 8. तस्य "his" is the genitive of: (a) सः (b) त्वम् (c) अहम् (d) कः
-9. उपरि "over" takes: (a) the accusative (b) the genitive (c) the locative (d) the dative
+9. उपरि "over" takes: (a) the accusative (b) the dative (c) the locative (d) the genitive
 10. कस्य विवरम्? (मूषकः) — (a) मूषकः (b) मूषकम् (c) मूषकस्य (d) मूषके
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -911,8 +911,8 @@ each of the two with the name this lesson gives it.
 1. (a) — -स्य on the stem (§8, §15). (b) is the instrumental, with the ṇ of lesson 3; (c)
    the ablative; (d) the locative.
 2. (b) — the bare stem (§5, §15). (a) is §12 mistake 2.
-3. (b) — the genitive with अस्ति; अस्ति goes with पुस्तकम् (§8, §15). (a) is §12 mistake
-   1; (c) and (d) are the accusative and instrumental of अहम्.
+3. (d) — the genitive with अस्ति; अस्ति goes with पुस्तकम् (§8, §15). (a) is §12 mistake
+   1; (b) and (c) are the accusative and instrumental of अहम्.
 4. (c) — समीपे takes the genitive (§8, §15). (a) is §12 mistake 5.
 5. (c) — हे + the bare stem (§8). (a), (b) are §12 mistake 2.
 6. (a) — -स्य never changes for the thing possessed (§7, §15). (b), (c) are §12 mistake 3,
@@ -920,7 +920,7 @@ each of the two with the name this lesson gives it.
 7. (b) — according to Pāṇini, neither names a part in the action (§15, TRADITION).
 8. (a) — तस्य is the genitive of सः (§8 evidence table; §15). (c) अहम्'s is मम, (b)
    त्वम्'s is तव, (d) कः's is कस्य.
-9. (b) — सिंहस्य उपरि (§8, §15; v2.c06.l02 line 2).
+9. (d) — सिंहस्य उपरि (§8, §15; v2.c06.l02 line 2).
 10. (c) — one genitive answers कस्य? (§8). (a) is the nominative reflex.
 
 **Exercise keys**

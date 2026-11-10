@@ -500,19 +500,19 @@ if you find yourself wanting to write an अ after a consonant, stop and re-read
    (d) *ak*
 2. The string मक reads: (a) *mak* (b) *mka* (c) *maka* (d) *māka*
 3. The IPA value of अ in this course is: (a) /æ/ (b) /ɑː/ (c) /ə/ (d) /ɐ/
-4. An English speaker pronounces अ like the vowel of *cat*. What exactly is wrong? (a)
-   Nothing — it is the same vowel. (b) The *cat* vowel /æ/ is a front vowel; अ /ɐ/ is central
-   — the tongue should stay at rest. (c) The *cat* vowel is too short. (d) अ requires rounded
+4. An English speaker pronounces अ like the vowel of *cat*. What exactly is wrong? (a) The
+   *cat* vowel /æ/ is a front vowel; अ /ɐ/ is central — the tongue should stay at rest. (b)
+   Nothing — it is the same vowel. (c) The *cat* vowel is too short. (d) अ requires rounded
    lips.
 5. A learner says "dharm" for धर्म (dharma). Which mistake is this? (a) the English /æ/
-   substitution (b) Hindi-style deletion of the final *a* (c) lip rounding (d)
-   over-lengthening to /ɑː/
+   substitution (b) over-lengthening to /ɑː/ (c) lip rounding (d) Hindi-style deletion of the
+   final *a*
 6. In the convention taught in this lesson, which stroke of अ comes last? (a) the left curves
    (b) the vertical stem (c) the headline (d) the mid-height arm
 7. In careful Sanskrit pronunciation, the final *a* of *dharma* is: (a) silent, as in Hindi
    (b) pronounced as a full short /ɐ/ (c) lengthened to /ɑː/ (d) optional, speaker's choice
 8. Which of these was presented in this lesson as a real attested word (not a practice
-   syllable)? (a) कम (b) मक (c) अमृत (d) कमक
+   syllable)? (a) अमृत (b) मक (c) कम (d) कमक
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -521,12 +521,12 @@ if you find yourself wanting to write an अ after a consonant, stop and re-read
    "māka" the over-length error.)
 3. (d) /ɐ/ — near-open central unrounded. (/æ/ and /ɑː/ are §12's substitution errors; /ə/
    is the reduced English schwa, only an approximate anchor.)
-4. (b) /æ/ is front; अ /ɐ/ is central, tongue at rest.
-5. (b) Hindi-style final-*a* deletion — natural in Hindi, never in Sanskrit.
+4. (a) /æ/ is front; अ /ɐ/ is central, tongue at rest.
+5. (d) Hindi-style final-*a* deletion — natural in Hindi, never in Sanskrit.
 6. (c) the headline — body first, stem next, headline last (this course's convention;
    traditions vary).
 7. (b) a full short /ɐ/ — word-final *a* keeps complete quality in careful Sanskrit.
-8. (c) अमृत (amṛta) "nectar" — कम, मक and कमक are drill syllables, not dictionary words.
+8. (a) अमृत (amṛta) "nectar" — कम, मक and कमक are drill syllables, not dictionary words.
 </details>
 
 ## 20. Revision

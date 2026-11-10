@@ -577,37 +577,37 @@ course checks the *schedule*, not just the skill.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. भोः is: (a) a question word (b) the classical particle of address — "O!, hey", placed
-   before the one you call (c) a modern convention borrowed from Hindi (d) a verb
+1. भोः is: (a) a question word (b) a verb (c) a modern convention borrowed from Hindi (d) the
+   classical particle of address — "O!, hey", placed before the one you call
 2. Inside अञ्जलिः, the nasal welded to ज is ञ because: (a) any nasal may stand there
    (b) inside a word the nasal before a stop is that stop's own varga nasal — ज is c-row,
    so ञ (c) ञ is the anusvāra's decorative form (d) the scribe chooses freely
 3. नमस्ते is built from: (a) नमः + ते — "homage to you" (b) नम + स्ते (c) a loan from
    Hindi (d) न + मस्ते
-4. This course's usage label for स्वस्ति is: (a) modern spoken convention (b) classical
-   idiom, attested from the Veda onward (c) a documented error of 1.x (d) slang
+4. This course's usage label for स्वस्ति is: (a) modern spoken convention (b) a documented error
+   of 1.x (c) classical idiom, attested from the Veda onward (d) slang
 5. भद्रम् ते and भद्रं ते are: (a) two different blessings (b) one formula, two dresses —
    the pause form and the joined anusvāra form; the join is sandhi, Volume 3's subject
    (c) a masculine/neuter pair (d) classical and modern variants
 6. The course's register labels for the joined-palms gesture and for the word अञ्जलिः
    are: (a) both FACT (b) both TRADITION (c) gesture TRADITION — cultural practice, never
    assessed; word FACT — dictionary vocabulary (d) both SYMBOL
-7. गुरवे नमः is, in this lesson: (a) a template — swap any noun in before नमः (b) display
-   only — "homage to the teacher", a pattern whose machinery Volume 3 teaches (c) a
-   sandhi form of गुरुः नमः (d) a modern spoken convention
+7. गुरवे नमः is, in this lesson: (a) display only — "homage to the teacher", a pattern whose
+   machinery Volume 3 teaches (b) a template — swap any noun in before नमः (c) a sandhi form
+   of गुरुः नमः (d) a modern spoken convention
 8. Reading check — write the English meaning of each: (a) भोः (b) स्वस्ति (c) भद्रम्
    (d) अञ्जलिः
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — the address particle (§15). ((c) is exercise 1's card (e), rejected; the word is classical.)
+1. (d) — the address particle (§15). ((c) is exercise 1's card (e), rejected; the word is classical.)
 2. (b) — the homorganic rule's prediction, confirmed: ञ्च then ञ्ज (§8, §13).
 3. (a) — नमः + ते (§4; taught v1.c05.l02 §13).
-4. (b) — the §4 HISTORY note and the §14 label.
+4. (c) — the §4 HISTORY note and the §14 label.
 5. (b) — the anusvāra abbreviation stepping across a word seam; read the pause form,
    recognize the joined dress (§13).
 6. (c) — the register showcase of the day (§13; the discipline the exam's cards graded).
-7. (b) — recognition only; build nothing yet (§15).
+7. (a) — recognition only; build nothing yet (§15).
 8. (a) "O!, hey" — the address particle; (b) "well-being; farewell, blessings";
    (c) "good; blessings" — the chunk भद्रम् ते; (d) "the joined-palms gesture; cupped
    hands" (§14).

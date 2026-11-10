@@ -940,10 +940,10 @@ at least one बहु in agreement and one "than" (X-ः Y-आत् श्र�
 1. "To the teacher": (a) गुर्वाय (b) गुरवे (c) गुरोः (d) गुरुम्
 2. गुरोः can mean: (a) "of the teacher" or "from the teacher" (b) "teachers" (c) "with the
    teacher" (d) "O teacher"
-3. "At night": (a) रात्रिः (b) रात्रौ (c) रात्रेः (d) रात्रिम्
+3. "At night": (a) रात्रिः (b) रात्रिम् (c) रात्रेः (d) रात्रौ
 4. "With fire": (a) अग्निणा (b) अग्निना (c) अग्नेः (d) अग्नौ
-5. The accusative plural of गुरुः: (a) गुरूः (b) गुरून् (c) गुरवः (d) गुरूणाम्
-6. The accusative plural of धेनुः: (a) धेनून् (b) धेनूः (c) धेनवः (d) धेन्वा
+5. The accusative plural of गुरुः: (a) गुरूः (b) गुरवः (c) गुरून् (d) गुरूणाम्
+6. The accusative plural of धेनुः: (a) धेनून् (b) धेन्वा (c) धेनवः (d) धेनूः
 7. Is मत्यै correct for "to the thought"? (a) no, only मतये (b) yes, and मतये is also
    correct (c) only in verse (d) it is the instrumental
 8. "Many fruits": (a) बहवः फलानि (b) बहूनि फलानि (c) बहु फलानि (d) बहुः फलानि
@@ -958,15 +958,15 @@ at least one बहु in agreement and one "than" (X-ः Y-आत् श्र�
    a-stem's -आय; (c) is "of / from the teacher"; (d) is the accusative.)
 2. (a) — the ablative and genitive singular are one form (§5, §15 Step 1). ((b) is §12's
    mistake 5: "teachers" is गुरवः.)
-3. (b) — the locative singular -औ (§8 Step 4). (रात्रिः is feminine, so रात्र्याम् would also
+3. (d) — the locative singular -औ (§8 Step 4). (रात्रिः is feminine, so रात्र्याम् would also
    be right — a two-way cell, §15 Step 4 — but it is not among the options. (c) is "of /
-   from the night", (d) the accusative.)
+   from the night", (b) the accusative.)
 4. (b) — no र or ष in अग्नि, so न (§15 Step 3). ((a) is §12's mistake 2; (c) is "of / from
    the fire", (d) "in the fire".)
-5. (b) — the masculine accusative plural: lengthened vowel + -न् (§15 Step 1). ((a) is the
-   feminine pattern, §12's mistake 3; (c) is the nominative; (d) the genitive.)
-6. (b) — the feminine accusative plural ends in -ः (§15 Step 4). ((a) is the masculine
-   pattern, §12's mistake 3; (c) is the nominative; (d) the instrumental singular.)
+5. (c) — the masculine accusative plural: lengthened vowel + -न् (§15 Step 1). ((a) is the
+   feminine pattern, §12's mistake 3; (b) is the nominative; (d) the genitive.)
+6. (d) — the feminine accusative plural ends in -ः (§15 Step 4). ((a) is the masculine
+   pattern, §12's mistake 3; (c) is the nominative; (b) the instrumental singular.)
 7. (b) — the dative is one of the three two-way cells; both forms are correct (§15 Step 4).
 8. (b) — बहु agrees with the neuter plural फलानि (§15 Step 5). ((a) is masculine; (c) is the
    singular; (d) is the masculine nominative singular.)

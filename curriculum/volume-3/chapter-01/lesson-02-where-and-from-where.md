@@ -817,7 +817,7 @@ ending against the track: -ः breath, -म् lips, -े long and pure, -आत
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The locative of वनम् is: (a) वनम् (b) वने (c) वनात् (d) वनः
+1. The locative of वनम् is: (a) वनम् (b) वनः (c) वनात् (d) वने
 2. The ablative of ग्रामः is: (a) ग्रामे (b) ग्रामम् (c) ग्रामात् (d) ग्रामः
 3. "The fruit falls from the tree": (a) फलम् वृक्षे पतति (b) फलम् वृक्षात् पतति (c) फलम्
    वृक्षम् पतति (d) फलः वृक्षात् पतति
@@ -826,16 +826,16 @@ ending against the track: -ः breath, -म् lips, -े long and pure, -आत
    (d) nominative
 6. "The mouse falls into the well": (a) मूषकः कूपे पतति (b) मूषकः कूपम् पतति (c) मूषकः
    कूपात् पतति (d) मूषकम् कूपे पतति
-7. Hindi में and पर correspond in Sanskrit to: (a) two cases (b) one case, the locative
-   (c) the ablative (d) the accusative
-8. वृक्षः तीरे अस्ति। ___ कपोतः निवसति। (a) तस्मात् (b) तस्मिन् (c) तम् (d) सः
+7. Hindi में and पर correspond in Sanskrit to: (a) two cases (b) the accusative (c) the ablative
+   (d) one case, the locative
+8. वृक्षः तीरे अस्ति। ___ कपोतः निवसति। (a) तस्मिन् (b) तस्मात् (c) तम् (d) सः
 9. According to Pāṇini's grammar, the job of the place where something happens is called:
    (a) अपादानम् (b) अधिकरणम् (c) करणम् (d) कर्म
 10. Which owned word is itself a "from"-word? (a) कुत्र (b) अत्र (c) ततः (d) तत्र
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) वने — the locative -े (§15). ((c) is the ablative; (d) a neuter given -ः, l01's
+1. (d) वने — the locative -े (§15). ((c) is the ablative; (b) a neuter given -ः, l01's
    mistake.)
 2. (c) ग्रामात् — the ablative -आत् (§15). ((a) is §12's mistake 1.)
 3. (b) — from the tree, -आत् (§13 sentence 2). ((a) says "falls in the tree"; (c) treats
@@ -845,8 +845,8 @@ ending against the track: -ः breath, -म् lips, -े long and pure, -आत
 5. (b) — कुतः asks "from where?" and is answered in the ablative: ग्रामात् (§8 Step 2).
 6. (a) — the locative of the place reached (§5, §15). ((b) treats the well as the goal of a
    going verb; (c) says "falls from the well"; (d) puts the doer in the accusative.)
-7. (b) — one locative for both (§5, §7, §15). ((a) is §12's mistake 4.)
-8. (b) तस्मिन् "in it": निवसति takes the place lived in, -े (§13). ((a) would be "from it".)
+7. (d) — one locative for both (§5, §7, §15). ((a) is §12's mistake 4.)
+8. (a) तस्मिन् "in it": निवसति takes the place lived in, -े (§13). ((b) would be "from it".)
 9. (b) अधिकरणम् — according to Pāṇini's grammar (§8 Step 4). (अपादानम् is the point moved
    away from; करणम् is lesson 3's.)
 10. (c) ततः "from there, then" — one of the -तः words of v1.c02.l06 (§8 Step 3). अत्र, तत्र and कुत्र

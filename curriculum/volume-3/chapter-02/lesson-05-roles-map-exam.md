@@ -947,18 +947,18 @@ endings, and a silence loses the sentence.
 प्रश्नाः — ten questions on the chapter, closed-book, in the self-study session after the
 sitting.
 
-1. In गुरवे नमः, गुरवे is: (a) a dative with no receiver, required by नमः (b) an
-   accusative (c) a genitive (d) a dative of the receiver of a gift
+1. In गुरवे नमः, गुरवे is: (a) a dative of the receiver of a gift (b) an accusative (c) a
+   genitive (d) a dative with no receiver, required by नमः
 2. In मया कृतम्, who did it? (a) मया "by me" (b) कृतम् (c) no one (d) it cannot be told
-3. According to Pāṇini, the genitive (षष्ठी) is: (a) not a kāraka (b) the कर्ता (c) the
-   कर्म (d) the अधिकरणम्
-4. According to Pāṇini, in मह्यम् रोचते the one pleased is: (a) सम्प्रदानम् (b) कर्म
+3. According to Pāṇini, the genitive (षष्ठी) is: (a) the कर्म (b) the कर्ता (c) not a
+   kāraka (d) the अधिकरणम्
+4. According to Pāṇini, in मह्यम् रोचते the one pleased is: (a) कर्म (b) सम्प्रदानम्
    (c) not a kāraka (d) कर्ता
-5. The two endings of the dual that almost every stem shares: (a) -भ्याम् and -ओः
-   (b) -आनि and -एषु (c) -ऐः and -आनाम् (d) -औ and -े
+5. The two endings of the dual that almost every stem shares: (a) -औ and -े
+   (b) -आनि and -एषु (c) -ऐः and -आनाम् (d) -भ्याम् and -ओः
 6. The instrumental plural of देवः: (a) देवभिः (b) देवैः (c) देवेषु (d) देवेभ्यः
-7. Which two cells are one form in every noun? (a) dative and ablative plural
-   (b) instrumental and dative singular (c) genitive singular and plural (d) locative and
+7. Which two cells are one form in every noun? (a) genitive singular and plural
+   (b) instrumental and dative singular (c) dative and ablative plural (d) locative and
    vocative
 8. The dual of फलम्: (a) फलौ (b) फले (c) फलानि (d) फलाः
 9. In …कार्याणि न मनोरथैः, मनोरथैः is: (a) instrumental plural (b) nominative plural
@@ -971,20 +971,20 @@ sitting.
 
 **Quiz key**
 
-1. (a) — नमः takes the dative, and nothing is handed over (§15 (1); §12 mistake 2). (d) is
+1. (d) — नमः takes the dative, and nothing is handed over (§15 (1); §12 mistake 2). (a) is
    the receiver of ददाति, as मात्रे in बालिका मात्रे पुष्पम् ददाति. FACT.
 2. (a) — the transitive -त form agrees with the thing done; the doer is in the
    instrumental (§15 (6); §12 mistake 3). FACT.
-3. (a) — the genitive names no part in the action (§15 (1); v3.c01.l05 §15). TRADITION,
+3. (c) — the genitive names no part in the action (§15 (1); v3.c01.l05 §15). TRADITION,
    asked "According to Pāṇini".
-4. (a) — for Pāṇini the one pleased with रोचते is a सम्प्रदानम्, though nothing is given
+4. (b) — for Pāṇini the one pleased with रोचते is a सम्प्रदानम्, though nothing is given
    (§15 (1), the TRADITION line under the map); (c) is the lure: the genitive and the
    vocative are the non-kārakas. TRADITION, asked "According to Pāṇini".
-5. (a) — "almost or quite unbroken range" (§15 (4); l04 §15 Step 3); (d) are particular
+5. (d) — "almost or quite unbroken range" (§15 (4); l04 §15 Step 3); (a) are particular
    stems' nominative-accusative duals. FACT.
 6. (b) — the a-stem's -ऐः, the card's first exception (§15 (4); l01 §15 Step 1); (c) is the
    locative plural, (d) the dative-ablative plural. FACT.
-7. (a) — free fact 3 (§15 (5)): रामेभ्यः, बालिकाभ्यः, गुरुभ्यः. FACT.
+7. (c) — free fact 3 (§15 (5)): रामेभ्यः, बालिकाभ्यः, गुरुभ्यः. FACT.
 8. (b) — the neuter a-stem dual -े (§15 (3); l04 §15 Step 3); (a) is the masculine -औ, (c)
    the plural. FACT.
 9. (a) — "by wishes", the a-stem instrumental plural -ऐः (§17; l01 §8 Step 3). FACT.

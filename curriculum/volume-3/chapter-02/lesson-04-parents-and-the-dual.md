@@ -933,14 +933,14 @@ every dual.
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. The accusative singular of पिता: (a) पिताम् (b) पितरम् (c) पितारम् (d) पितृम्
-2. The accusative singular of दाता: (a) दातरम् (b) दातारम् (c) दाताम् (d) दातृम्
+2. The accusative singular of दाता: (a) दातरम् (b) दातृम् (c) दाताम् (d) दातारम्
 3. "Of the father" / "from the father": (a) पितुः (b) पितरः (c) पितॄन् (d) पितृः
-4. Calling one's mother: (a) हे माता (b) हे मातः (c) हे मातरम् (d) हे मातृ
+4. Calling one's mother: (a) हे माता (b) हे मातरम् (c) हे मातः (d) हे मातृ
 5. The accusative plural of माता: (a) मातॄन् (b) मातॄः (c) मातरः (d) मातृः
 6. "Two hands": (a) द्वौ हस्ताः (b) द्वे हस्ते (c) द्वौ हस्तौ (d) द्वि हस्तौ
-7. "Two eyes" (नेत्रम्): (a) द्वौ नेत्रौ (b) द्वे नेत्रे (c) द्वे नेत्राणि (d) द्वौ नेत्राः
-8. According to Pāṇini (1.2.70 पिता मात्रा), पितरौ can mean: (a) "two fathers" only (b)
-   "father and mother" (c) "ancestors" only (d) "a father"
+7. "Two eyes" (नेत्रम्): (a) द्वौ नेत्रौ (b) द्वौ नेत्राः (c) द्वे नेत्राणि (d) द्वे नेत्रे
+8. According to Pāṇini (1.2.70 पिता मात्रा), पितरौ can mean: (a) "father and mother" (b)
+   "two fathers" only (c) "ancestors" only (d) "a father"
 9. "I bow to my mother" (the course's frame): (a) अहम् मातृ नमामि (b) अहम् मातरम् नमामि (c)
    अहम् माता नमामि (d) अहम् मातुः नमामि
 10. Hindi says दो हाथ (a plural); Sanskrit says द्वौ हस्तौ, which is: (a) plural (b) dual
@@ -951,18 +951,18 @@ every dual.
 1. (b) — the strong stem -अर्- + -अम् (§15 Steps 1–2). ((a) is §12's mistake 1, an a-stem
    ending on the -आ; (c) is mistake 2, the agent's -आर्- on a kinship word; (d) is the bare
    stem with -म्.)
-2. (b) — an agent noun: -आर्- (§15 Step 2). ((a) is mistake 2, the kinship -अर्-.)
+2. (d) — an agent noun: -आर्- (§15 Step 2). ((a) is mistake 2, the kinship -अर्-.)
 3. (a) — the ablative and genitive singular are one form, -उः (§15 Step 1). ((b) is the
    nominative plural, (c) the accusative plural; (d) is not a form.)
-4. (b) — the vocative, -अः at the pause (§8 Step 4, §15 Step 1). ((a) is the nominative.)
+4. (c) — the vocative, -अः at the pause (§8 Step 4, §15 Step 1). ((a) is the nominative.)
 5. (b) — the feminine has -ॄः (§12 mistake 3, §15 Step 1). ((a) is the masculine ending on a
    feminine; (c) is the nominative plural.)
 6. (c) — two takes the dual; हस्तः is masculine: द्वौ, -औ (§15 Steps 3–4). ((a) is §12's
    mistake 4, the Hindi दो reflex; (b) gives a masculine the neuter -े.)
-7. (b) — नेत्रम् is neuter: द्वे, -े (§15 Step 3). ((c) is a plural after two; (a) and (d) treat
+7. (d) — नेत्रम् is neuter: द्वे, -े (§15 Step 3). ((c) is a plural after two; (a) and (b) treat
    it as masculine.)
-8. (b) — 1.2.70: the word for father, used with mother, can stand for both (§4). TRADITION,
-   framed "According to Pāṇini". ((a) and (c) say "only": पितरौ *can* also mean two fathers,
+8. (a) — 1.2.70: the word for father, used with mother, can stand for both (§4). TRADITION,
+   framed "According to Pāṇini". ((b) and (c) say "only": पितरौ *can* also mean two fathers,
    and the plural पितरः the ancestors, but neither is the sūtra's point.)
 9. (b) — the one bowed to is the object of नमामि: accusative (§13, §12 mistake 6). The
    dative मात्रे नमामि is also correct (Apte), but it is not among the options.

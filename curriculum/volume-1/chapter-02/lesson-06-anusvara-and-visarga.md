@@ -585,8 +585,8 @@ Write the letters in story order, then read your rebuilt story aloud. (Check you
    after the vowel (c) silent, a purely written mark (d) a nasal hum
 6. कं is read in which order? (a) ṃ then k then a (b) k then ṃ then a (c) k then a then ṃ
    (d) k then a — the dot is not read
-7. अङ्क and अंक are: (a) two different words (b) two spellings of the same word, read
-   identically (c) singular and plural (d) Sanskrit vs Hindi spellings of different sounds
+7. अङ्क and अंक are: (a) two different words (b) Sanskrit vs Hindi spellings of different sounds
+   (c) singular and plural (d) two spellings of the same word, read identically
 8. Reading check — write the English meaning of each: (a) ततः (b) कुतः (c) कः
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -600,7 +600,7 @@ Write the letters in story order, then read your rebuilt story aloud. (Check you
    cell. (Distractor (a) is §12 mistake 3 in disguise.)
 5. (b) a voiceless /h/ breath. ((a) and (c) are §12 mistakes 1 and 2.)
 6. (c) k then a then ṃ — the signs are read after the akṣara's vowel (§15).
-7. (b) two spellings of the same word, read identically — [ɐŋkɐ] (§8).
+7. (d) two spellings of the same word, read identically — [ɐŋkɐ] (§8).
 8. (a) ततः = "then, thereafter"; (b) कुतः = "from where?"; (c) कः = "who? which?".
 </details>
 

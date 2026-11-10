@@ -551,7 +551,7 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. The citation names of one to five, in order: (a) एकम् द्वे त्रीणि चत्वारि पञ्च
-   (b) एक द्वि त्रि चतुर् पञ्च (c) एक दो तीन चार पाँच (d) १ २ ३ ४ ५
+   (b) १ २ ३ ४ ५ (c) एक दो तीन चार पाँच (d) एक द्वि त्रि चतुर् पञ्च
 2. The chant forms एकम्, द्वे, त्रीणि, चत्वारि are: (a) common mistakes for the stems
    (b) real, inflected neuter counting forms, learned whole as a chant — the system
    behind them arrives in Volumes 3–4 (c) Hindi numbers in Sanskrit dress (d) optional
@@ -559,14 +559,14 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
 3. The stem with no clean everyday-English cognate on today's shelf: (a) द्वि (b) पञ्च
    (c) एक (d) चतुर्
 4. The honest statement about त्रि and English *three*: (a) *three* descends from त्रि
-   (b) त्रि descends from *three* (c) they are parallel descendants of one ancestor —
-   no borrowing in any direction (d) the resemblance is coincidence
+   (b) त्रि descends from *three* (c) the resemblance is coincidence (d) they are parallel
+   descendants of one ancestor — no borrowing in any direction
 5. Hindi चार and पाँच: (a) descend from चतुर् and पञ्च — a true downward line inside
    Indo-Aryan (b) are the ancestors of the Sanskrit words (c) are unrelated to them
    (d) were borrowed into Hindi from English
 6. त्रि's ledger story, honestly told: (a) it has been a headword since v1.c01.l01
-   (b) it was cognate-mentioned twice before (v1.c01.l01, v1.c05.l03 §13) but enters
-   the ledger as a headword only today (c) it is a review row today, like द्वि
+   (b) it is a review row today, like द्वि (c) it was cognate-mentioned twice before
+   (v1.c01.l01, v1.c05.l03 §13) but enters the ledger as a headword only today
    (d) it is display-only, like the chant forms
 7. चतुर् ends: (a) in a full vowel — "catura" (b) on bare र् — the word stops on the
    consonant, as the halanta says (c) in visarga (d) in anusvāra
@@ -576,13 +576,13 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — the stems are the citation names; (a) is the chant, (c) is Hindi, (d) is
+1. (d) — the stems are the citation names; (a) is the chant, (c) is Hindi, (b) is
    digits (§8, §15).
 2. (b) — both rows are real; names versus counting dress (§15).
 3. (c) — the honestly empty slot; reaching is how 1.x went wrong (§13).
-4. (c) — siblings, no arrow — the shelf's standing law (§13).
+4. (d) — siblings, no arrow — the shelf's standing law (§13).
 5. (a) — descent runs downward inside Indo-Aryan, exactly like गृह → घर (§7, §14).
-6. (b) — mentions are not headwords; the ledger counts honestly, 277 → 279 (§13, §14).
+6. (c) — mentions are not headwords; the ledger counts honestly, 277 → 279 (§13, §14).
 7. (b) — tap and stop (§10, §11 check 3). ((a) is §12's mistake 2.)
 8. (a) — bare answers are the taught form; (b) names real Sanskrit the course defers —
    simplest correct beats ambitious wrong (§15); (c) and (d) are Hindi habits (§12).

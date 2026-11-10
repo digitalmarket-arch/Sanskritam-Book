@@ -518,13 +518,13 @@ skill too.)
 
 1. The vowel ओ in this course is: (a) short and pure (b) long and pure — /oː/, frozen for two
    beats (c) long with a closing glide, as in English "go" (d) short or long by context
-2. The vowel औ is: (a) a single steady vowel [ɔː], as in modern Hindi कौन (b) /ɐu̯/ — one
-   syllable gliding from /ɐ/ toward /u/ (c) two separate syllables, a then u (d) ओ, but louder
+2. The vowel औ is: (a) a single steady vowel [ɔː], as in modern Hindi कौन (b) ओ, but louder
+   (c) two separate syllables, a then u (d) /ɐu̯/ — one syllable gliding from /ɐ/ toward /u/
 3. The mātrā ौ is built visually from: (a) ा + े (b) ि + ी (c) ा + ै (d) ु + ै
 4. Write in IAST: को, कौ, लोक, कौतुक, ॐ.
 5. A learner's recording of लोल sounds fine at first, but both o-vowels darken and close at
-   their tails. Which mistake is this, and which drill fixes it? (a) Hindi [ɔː] habit — the
-   compression drill (b) the English [oʊ] glide habit — the freeze test (c) vowel shortening —
+   their tails. Which mistake is this, and which drill fixes it? (a) the English [oʊ] glide
+   habit — the freeze test (b) Hindi [ɔː] habit — the compression drill (c) vowel shortening —
    beat counting (d) hook confusion — exercise 5
 6. लौकिक is derived from लोक the same way तैल is derived from तिल. What happens to the first
    vowel of the base word? (a) it strengthens to its vṛddhi grade (b) it is deleted (c) it
@@ -533,20 +533,20 @@ skill too.)
    segments (b) [oːm] — pure long o with an m-closure (c) [ɔːm], as in modern Hindi (d) it has
    no fixed pronunciation
 8. According to the traditional analysis in the Māṇḍūkya framework, the syllable om is
-   analyzed into: (a) o + m only (b) the three elements a, u, m (c) the two elements a + i
+   analyzed into: (a) o + m only (b) the two elements a + i (c) the three elements a, u, m
    (d) it is treated as unanalyzable
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) /oː/ — always long, always a pure monophthong. ((c) is §12 mistake 1.)
-2. (b) /ɐu̯/ — a true diphthong with the अ-onset. ((a) is correct Hindi, not Sanskrit — §12
+2. (d) /ɐu̯/ — a true diphthong with the अ-onset. ((a) is correct Hindi, not Sanskrit — §12
    mistake 2.)
 3. (c) ा + ै — two flags for the two-part glide. ((a) builds ो.)
 4. ko, kau, loka, kautuka, oṃ (the conventional romanization of the ligature; recited [oːm]).
-5. (b) the English [oʊ] glide habit — fixed by the freeze test (§9 drill 1).
+5. (a) the English [oʊ] glide habit — fixed by the freeze test (§9 drill 1).
 6. (a) it strengthens to its vṛddhi grade: i → ai (तिल → तैल), o → au (लोक → लौकिक).
 7. (b) [oːm] — the FACT layer of §17.
-8. (b) a, u, m — the tradition's own phonetic decomposition, framed here exactly as §17's
+8. (c) a, u, m — the tradition's own phonetic decomposition, framed here exactly as §17's
    TRADITION layer states it.
 </details>
 

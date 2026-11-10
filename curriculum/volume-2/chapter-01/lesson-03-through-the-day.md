@@ -541,14 +541,14 @@ then note which of your greetings would deserve a modern label if a reviewer ask
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The clock circle in order is: (a) प्रभातम् → सायम् → मध्याह्नः → रात्रिः (b) प्रभातम् →
-   मध्याह्नः → सायम् → रात्रिः (c) दिनम् → सायम् → प्रभातम् → रात्रिः (d) रात्रिः → सायम् →
-   मध्याह्नः → प्रभातम्
+1. The clock circle in order is: (a) प्रभातम् → सायम् → मध्याह्नः → रात्रिः (b) रात्रिः → सायम् →
+   मध्याह्नः → प्रभातम् (c) दिनम् → सायम् → प्रभातम् → रात्रिः (d) प्रभातम् → मध्याह्नः → सायम् →
+   रात्रिः
 2. The honest label for सुप्रभातम् is: (a) entirely classical — word and greeting-use alike
    (b) entirely modern — a recent coinage (c) classical word ("beautiful dawn"), modern
    greeting-use — both true (d) an error the course tolerates
-3. शुभरात्रिः is: (a) classical idiom found in epic farewell scenes (b) a modern calque — "good
-   night" built part-for-part from attested Sanskrit words, labeled as modern convention (c) a
+3. शुभरात्रिः is: (a) a modern calque — "good night" built part-for-part from attested Sanskrit
+   words, labeled as modern convention (b) classical idiom found in epic farewell scenes (c) a
    spelling variant of रात्रिः (d) unrelated to रात्रिः
 4. The 1.x curriculum's शुभप्रभातम् is: (a) a mistake to correct when heard (b) the only correct
    form (c) a circulating variant — the course teaches सुप्रभातम् and recognizes both (d) a
@@ -558,22 +558,22 @@ then note which of your greetings would deserve a modern label if a reviewer ask
 6. The ह्न in मध्याह्नः is: (a) a brand-new letter (b) ह् + न — two consonants, no vowel between,
    the round ह keeping its full shape with न joined beneath — the third ह-family join after ह्य
    and ह्म (c) a misprint for ह्म (d) न् + ह
-7. The greeting honest at any hour of the clock is: (a) सुप्रभातम् (b) शुभरात्रिः (c) नमस्ते
-   (d) शुभम्
+7. The greeting honest at any hour of the clock is: (a) सुप्रभातम् (b) शुभरात्रिः (c) शुभम्
+   (d) नमस्ते
 8. दिनम्'s certified relatives include: (a) English *day* — same look, same meaning
    (b) Lithuanian *diena* and Old Church Slavonic *dĭnĭ* — shared descent, while English *day* is
    unrelated (c) both (a) and (b) (d) no known relatives
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — dawn, midday, evening, night (§8). ((c) puts the whole day inside its own circle.)
+1. (d) — dawn, midday, evening, night (§8). ((c) puts the whole day inside its own circle.)
 2. (c) — the both-things-true label, this chapter's showcase (§8, §13, §15).
-3. (b) — modern calque of classical parts (§13). ((a) is §12's mistake 4 — a modern greeting promoted to classical idiom
+3. (a) — modern calque of classical parts (§13). ((b) is §12's mistake 4 — a modern greeting promoted to classical idiom
    — applied to शुभरात्रिः.)
 4. (c) — variant recognized, one form taught (§8) — the गंगा/गङ्गा policy.
 5. (a) — the v1.c05.l03 ligature in new dress (§8).
 6. (b) — two consonants, no vowel between; known family (§8, §10). ((d) reverses the components.)
-7. (c) — नमस्ते is hour-neutral; the labeled pair are clock-bound (§8, §15).
+7. (d) — नमस्ते is hour-neutral; the labeled pair are clock-bound (§8, §15).
 8. (b) — diena and dĭnĭ are siblings; *day* is the famous false cognate (§13).
 
 **Exercise keys.**

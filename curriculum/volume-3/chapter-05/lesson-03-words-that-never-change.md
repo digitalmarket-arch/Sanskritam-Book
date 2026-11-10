@@ -931,10 +931,10 @@ this order, from what you heard; play it a second time only to check:
 
 प्रश्नाः — ten items; answers in the key at the end; no peeking mid-quiz.
 
-1. The correlative of यदा: (a) तत्र · (b) तदा · (c) यत्र · (d) तथा
+1. The correlative of यदा: (a) तत्र · (b) तथा · (c) यत्र · (d) तदा
 2. "Under the tree": (a) वृक्षस्याधः · (b) वृक्षेऽधः · (c) वृक्षोऽधः · (d) वृक्षेणाधः
-3. Which word may not stand first in its clause? — (a) यदा · (b) हि · (c) कुत्र · (d) यत्र
-4. यं पश्यसि ___ मम सखा। — the missing word: (a) तम् · (b) सः · (c) यः · (d) तस्य
+3. Which word may not stand first in its clause? — (a) यदा · (b) यत्र · (c) कुत्र · (d) हि
+4. यं पश्यसि ___ मम सखा। — the missing word: (a) तम् · (b) यः · (c) सः · (d) तस्य
 5. सर्वत्र means: (a) always · (b) everywhere · (c) in every way · (d) from everywhere
 6. In "क्व गच्छसि?" इति स …, why is there no join between गच्छसि and इति? — (a) the closing
    quotation mark is a stop · (b) इ never joins · (c) गच्छसि is a verb · (d) a typo
@@ -950,12 +950,12 @@ this order, from what you heard; play it a second time only to check:
 
 **Quiz.**
 
-1. (b) तदा [§8, §14]. (a), (c), (d) are other cells of the grid: the place pair and the manner word.
+1. (d) तदा [§8, §14]. (a), (c), (b) are other cells of the grid: the place pair and the manner word.
 2. (a) वृक्षस्याधः = वृक्षस्य अधः — अधः takes the genitive (§15). (b) वृक्षे अधः is §12 mistake 4;
    (c) वृक्षः अधः is the nominative and (d) वृक्षेण अधः the instrumental: neither says "under the tree".
-3. (b) हि — it leans on the word before it (§8, §15). The other three open their clause.
-4. (b) सः — the subject of the main clause, in its own case (§15 rule 2). (a) is §12 mistake 2;
-   (c) repeats the relative; (d) is a genitive with no job here.
+3. (d) हि — it leans on the word before it (§8, §15). The other three open their clause.
+4. (c) सः — the subject of the main clause, in its own case (§15 rule 2). (a) is §12 mistake 2;
+   (b) repeats the relative; (d) is a genitive with no job here.
 5. (b) everywhere (§8). (a) is सर्वदा, (c) सर्वथा, (d) सर्वतः.
 6. (a) — the closing quotation mark before इति is a stop (v3.c04.l04; §13 model 5).
 7. (a) — TRADITION, the sūtra of §4.

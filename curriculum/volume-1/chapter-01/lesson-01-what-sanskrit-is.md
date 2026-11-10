@@ -382,7 +382,7 @@ row in §14. Second pass: echo each word, watching the Notes cue.
 5. Which English word is a **cognate** of a Sanskrit word — related by shared ancestry, not borrowing?
    (a) yoga (b) avatar (c) guru (d) mother
 6. True or false: "Sanskrit is the mother of Greek and Latin." State the correct relationship in one phrase.
-7. The final vowel of नमस्ते (namaste) is pronounced: (a) as a short e (b) as a long, steady /eː/ (c) like English "day" (d) it is silent
+7. The final vowel of नमस्ते (namaste) is pronounced: (a) as a long, steady /eː/ (b) as a short e (c) like English "day" (d) it is silent
 8. In this course, the claim "the Ṛgveda was composed c. 1500–1200 BCE" carries which register label?
    (a) FACT (b) HISTORY (c) TRADITION (d) SYMBOL
 
@@ -394,7 +394,7 @@ row in §14. Second pass: echo each word, watching the Notes cue.
 4. (c) — *karma* was borrowed; the other three are cognates.
 5. (d) — *mother* ~ मातृ (mātṛ), shared PIE ancestry; the other three are loans.
 6. False — Sanskrit is a **sibling** of Greek and Latin (all three from Proto-Indo-European) and the **ancestor** of Hindi and the other modern Indo-Aryan languages.
-7. (b) — long, steady /eː/; option (c) is the "-tay" glide error (§12.1).
+7. (a) — long, steady /eː/; option (c) is the "-tay" glide error (§12.1).
 8. (b) — HISTORY: a dated claim about the past, carried with a citation and a range.
 
 Exercise 2 key: a-F · b-H · c-S · d-T · e-F · f-H · g-T · h-F.

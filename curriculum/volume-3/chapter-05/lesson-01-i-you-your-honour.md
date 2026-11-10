@@ -1089,13 +1089,13 @@ no short form. The sentences are not printed here; the key is in §19.
 2. Which sentence is wrong? (a) गुरुर्मे पिता (b) मे गुरुः पिता (c) मम गुरुः पिता
    (d) गुरुर्मम पिता
 3. भवान् ___ : (a) गच्छसि (b) गच्छति (c) गच्छथ (d) गच्छामि
-4. "Our village": (a) अस्माकं ग्रामः (b) अस्माभिर्ग्रामः (c) अस्मान्ग्रामः (d) वयं ग्रामः
-5. "With you all": (a) युष्माभिः सह (b) त्वया सह (c) युष्माकं सह (d) यूयं सह
+4. "Our village": (a) वयं ग्रामः (b) अस्माभिर्ग्रामः (c) अस्मान्ग्रामः (d) अस्माकं ग्रामः
+5. "With you all": (a) युष्माकं सह (b) त्वया सह (c) युष्माभिः सह (d) यूयं सह
 6. In नमस्ते, the ते is: (a) the nominative "they" (b) the short dative "to you" (c) the
    plural "you all" (d) a verb ending
 7. According to Pāṇini (8.1.22), ते and मे stand for: (a) the singular dative and genitive
    (b) the nominative (c) the plural (d) the vocative
-8. "Your (madam's) daughter": (a) भवत्याः पुत्री (b) भवतः पुत्री (c) भवती पुत्री (d) भवतां
+8. "Your (madam's) daughter": (a) भवतां पुत्री (b) भवतः पुत्री (c) भवती पुत्री (d) भवत्याः
    पुत्री
 9. "Friend!" (calling a male friend): (a) सखा (b) सखे (c) सखि (d) सखः
 10. In भवान्कुत आगच्छति, भवान् and कुत are written together because: (a) भवान् ends in a
@@ -1111,15 +1111,15 @@ no short form. The sentences are not printed here; the key is in §19.
    मम, which may stand anywhere.
 3. (b) — भवान् takes the 3rd person (§8, §15). (a) is §12 mistake 2; (c) is the Hindi "आप
    जाते हैं" reflex, a plural 2nd person; (d) is "I go".
-4. (a) — the genitive plural (§15). (b) is "by us", (c) "us" as the object, (d) "we".
-5. (a) — सह takes the instrumental (v3.c01.l03; §15). (b) is "with you", one person; (c)
+4. (d) — the genitive plural (§15). (b) is "by us", (c) "us" as the object, (a) "we".
+5. (c) — सह takes the instrumental (v3.c01.l03; §15). (b) is "with you", one person; (a)
    genitive, (d) nominative.
 6. (b) — ते is the short form of तुभ्यम्; see §4 and §8. (a) is the ते of सः's plural, a different word;
    (c) "you all" is वः; (d) नमः has no verb.
 7. (a) — according to Pāṇini, 8.1.22 तेमयावेकवचनस्य: ते and मे in the singular, for the dative
    and the genitive (§4, TRADITION).
-8. (a) — भवत्याः is the genitive of भवती; see §15. (b) भवतः is "sir's"; (c) भवती is the nominative;
-   (d) भवताम् is "your honours'".
+8. (d) — भवत्याः is the genitive of भवती; see §15. (b) भवतः is "sir's"; (c) भवती is the nominative;
+   (a) भवताम् is "your honours'".
 9. (b) — सखे is the vocative of सखा; see the सखा card, §15. (a) सखा is the nominative; (c) सखि is
    the stem the dictionary lists (and the vocative of the feminine सखी, which "male" rules out);
    (d) *सखः is an error form built on the a-stems.

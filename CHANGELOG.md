@@ -38,6 +38,21 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 ### Fixed
 
+- **Quiz answers spread over the option letters (in progress).** At 0.18.0 the correct answers
+  of the quizzes clustered on one letter: of the 668 multiple-choice keys of the 91 reviewed
+  lessons, 398 stood at (b) (60%), 153 at (a), 107 at (c) and 10 at (d) (1.5%); 73 lessons broke
+  the rule now written into STYLE_GUIDE §5, and in four quizzes every key was the same letter
+  (v2.c04.l03, v2.c05.l02 and v2.c05.l04 all (a); v3.c04.l04 all (b)). A learner could score by
+  position. The options are re-ordered — no stem, option or explanation changes a word — until,
+  in a quiz of n questions with k options, every letter is the key ⌊n/k⌋ to ⌈n/k⌉ + 1 times and
+  no three questions in a row have the same key. Done so far: the four lessons of v4.c01 and 37
+  lessons of Volumes 1–3 (v1.c01.l01–l04, v1.c02.l01–l03, l05, l06, v1.c03.l01; v2.c01.l01–l04,
+  v2.c02.l01–l04, v2.c03.l01; v3.c01.l01–l05, v3.c02.l01–l05, v3.c04.l01–l05, v3.c05.l01–l03),
+  with their JSON exports. Every lesson is checked by script (`scripts/quizcheck.py`: the same
+  option texts, the same keyed text, the same stems, the letters named in each explanation moved
+  with their options) and by a character count of the diff (the added and the removed lines hold
+  the same characters apart from the option letters). The remaining 36 lessons follow.
+
 - **v4.c01 lessons 1–3, accuracy review** (one reviewer per lesson, every finding verified): 36
   confirmed findings (1 blocker, 11 major, 24 minor), none rejected; 91 fixes applied. The
   blocker: चय् names the first member of each of the five series, not of four. The other passes

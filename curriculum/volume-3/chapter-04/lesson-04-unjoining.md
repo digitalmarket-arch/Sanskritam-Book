@@ -890,43 +890,43 @@ form beneath.
 
 प्रश्नाः — ten questions; answers in the key at the end. No peeking mid-quiz.
 
-1. कोऽपि split: (a) को अपि (b) कः अपि (c) कः पि (d) क अपि
-2. मूषक आगच्छति: which pause forms could give मूषक? (a) मूषकः only (b) मूषकः or मूषके
+1. कोऽपि split: (a) को अपि (b) कः पि (c) कः अपि (d) क अपि
+2. मूषक आगच्छति: which pause forms could give मूषक? (a) मूषकः or मूषके (b) मूषकः only
    (c) मूषकम् (d) मूषकात्
-3. छात्रा गच्छन्ति split: (a) छात्रा गच्छन्ति (b) छात्राः गच्छन्ति (c) छात्रे गच्छन्ति
-   (d) छात्रः गच्छन्ति
+3. छात्रा गच्छन्ति split: (a) छात्रा गच्छन्ति (b) छात्रः गच्छन्ति (c) छात्रे गच्छन्ति
+   (d) छात्राः गच्छन्ति
 4. In joined text, an unjoined फले अपि is: (a) a locative singular (b) a dual (c) a mistake
    (d) a vocative
-5. स तण्डुलाञ्जालं चाक्षिपत् — the first word in pause form: (a) स (b) सः (c) सा (d) सो
+5. स तण्डुलाञ्जालं चाक्षिपत् — the first word in pause form: (a) सः (b) स (c) सा (d) सो
 6. According to Pāṇini (1.4.109), संहिता is: (a) a pause (b) the closest contact of sounds
    (c) a word (d) a sentence
-7. According to Pāṇini (1.4.110), the pause is called: (a) संहिता (b) अवसानम् (c) सन्धिः
-   (d) पदम्
-8. According to the Vedic tradition, a padapāṭha gives a text: (a) joined (b) word by word,
-   each word in its own form (c) in prose order (d) with a translation
+7. According to Pāṇini (1.4.110), the pause is called: (a) संहिता (b) पदम् (c) सन्धिः
+   (d) अवसानम्
+8. According to the Vedic tradition, a padapāṭha gives a text: (a) joined (b) in prose order
+   (c) word by word, each word in its own form (d) with a translation
 9. The ण of रामेण is: (a) a sandhi between words (b) a change inside the word, named here,
    taught in Volume 4 (c) a spelling mistake (d) the anusvāra
-10. भवति is: (a) भू + अति, nothing changed (b) भो + अति, by अयादि (c) भू + इति (d) भ + अवति
+10. भवति is: (a) भो + अति, by अयादि (b) भू + अति, nothing changed (c) भू + इति (d) भ + अवति
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 **Quiz.**
 
-1. (b) — ओऽ ← -अः + अ; the ः goes back (§8 step 3; §12 mistake 3). ((a) is mistake 3; (c)
+1. (c) — ओऽ ← -अः + अ; the ः goes back (§8 step 3; §12 mistake 3). ((a) is mistake 3; (b)
    loses the अ the avagraha marks; (d) restores -अ, not -अः.) · FACT
-2. (b) — -अ, a space, a vowel: -अः or -ए (§8, the ambiguity; §13 model 5). ((a) is §12
+2. (a) — -अ, a space, a vowel: -अः or -ए (§8, the ambiguity; §13 model 5). ((b) is §12
    mistake 1, the missing candidate.) · FACT
-3. (b) — the plural verb chooses छात्राः (§8; §13 model 6). ((a) is §12 mistake 2: छात्रा is
-   singular and the verb plural; (c) and (d) would not print as छात्रा before ग.) · FACT
+3. (d) — the plural verb chooses छात्राः (§8; §13 model 6). ((a) is §12 mistake 2: छात्रा is
+   singular and the verb plural; (c) and (b) would not print as छात्रा before ग.) · FACT
 4. (b) — the dual in -ए never joins; a locative फले would have joined, फलेऽपि (§8). · FACT
-5. (b) — स before a consonant ← सः, by lesson 2 (§8 step 2). ((a) is the joined shape itself;
+5. (a) — स before a consonant ← सः, by lesson 2 (§8 step 2). ((b) is the joined shape itself;
    (c) is another word; (d) is mistake 3's kind of error.) · FACT
 6. (b) — sūtra 1.4.109 (§8). · TRADITION, asked "According to Pāṇini"
-7. (b) — sūtra 1.4.110 (§8). · TRADITION, asked "According to Pāṇini"
-8. (b) — the word-recitation, each word in its original form, without regard to sandhi (§4).
+7. (d) — sūtra 1.4.110 (§8). · TRADITION, asked "According to Pāṇini"
+8. (c) — the word-recitation, each word in its original form, without regard to sandhi (§4).
    · TRADITION, asked "According to the Vedic tradition"
 9. (b) — §15, inside a word; ((a) is §12 mistake 4's confusion.) · FACT
-10. (b) — §15: भो + अति by अयादि; the ओ a guṇa substitute of the root's ऊ. ((a) leaves the root's ऊ unchanged, which cannot give भवति; (c) and (d) are
+10. (a) — §15: भो + अति by अयादि; the ओ a guṇa substitute of the root's ऊ. ((b) leaves the root's ऊ unchanged, which cannot give भवति; (c) and (d) are
     not splits into real parts.) · FACT
 
 **Station 0** — its key sits with it, in §3.

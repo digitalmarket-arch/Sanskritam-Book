@@ -1062,17 +1062,17 @@ them; then write each one joined so far. Model: अहम् अद्य तत
 प्रश्नाः — ten questions; answers in the key at the end; no peeking mid-quiz.
 
 1. न अस्ति joined: (a) नास्ति (b) नअस्ति (c) नेस्ति (d) न्यस्ति
-2. सूर्य-उदयः joined: (a) सूर्यादयः (b) सूर्योदयः (c) सूर्यौदयः (d) सूर्युदयः
+2. सूर्य-उदयः joined: (a) सूर्यादयः (b) सूर्युदयः (c) सूर्यौदयः (d) सूर्योदयः
 3. सदा एव joined: (a) सदायेव (b) सदाएव (c) सदैव (d) सदौव
-4. इति अवदत् joined: (a) इतावदत् (b) इत्यवदत् (c) इतेवदत् (d) इतीवदत्
-5. ते आगच्छन्ति joined: (a) तागच्छन्ति (b) त आगच्छन्ति (c) तेऽगच्छन्ति (d) तेआगच्छन्ति
+4. इति अवदत् joined: (a) इतावदत् (b) इतीवदत् (c) इतेवदत् (d) इत्यवदत्
+5. ते आगच्छन्ति joined: (a) त आगच्छन्ति (b) तागच्छन्ति (c) तेऽगच्छन्ति (d) तेआगच्छन्ति
 6. Which stays unjoined? (a) ते अपि (b) द्वे बालिके अत्र (c) पितरौ अपि (d) न अस्ति
-7. वनेऽस्ति split: (a) वन अस्ति (b) वने अस्ति (c) वनम् अस्ति (d) वनात् अस्ति
+7. वनेऽस्ति split: (a) वन अस्ति (b) वनम् अस्ति (c) वने अस्ति (d) वनात् अस्ति
 8. According to Pāṇini, which sūtra describes इ + अ → य in इत्यवदत्? (a) 6.1.101 अकः सवर्णे
    दीर्घः (b) 6.1.87 आद्गुणः (c) 6.1.77 इको यणचि (d) 1.1.11 ईदूदेद्द्विवचनं प्रगृह्यम्
 9. In Hindi school grammar, विद्यालय = विद्या + आलय is an example of: (a) गुण सन्धि (b)
    दीर्घ सन्धि (c) यण् सन्धि (d) अयादि सन्धि
-10. पितरावपि split: (a) पितरः अपि (b) पितरौ अपि (c) पितरम् अपि (d) पित्रा अपि
+10. पितरावपि split: (a) पितरौ अपि (b) पितरः अपि (c) पितरम् अपि (d) पित्रा अपि
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -1080,22 +1080,22 @@ them; then write each one joined so far. Model: अहम् अद्य तत
 
 1. (a) — अ + अ → आ, सवर्णदीर्घः — §15 Step 1. ((b) leaves the two vowels side by side; (c)
    is guṇa, which needs इ; (d) treats न like a word in -इ.)
-2. (b) — अ + उ → ओ, गुणः — §15 Step 2. ((a) drops the उ; (c) is vṛddhi, §12 mistake 3 the
-   other way round; (d) treats the अ as if it vanished.)
+2. (d) — अ + उ → ओ, गुणः — §15 Step 2. ((a) drops the उ; (c) is vṛddhi, §12 mistake 3 the
+   other way round; (b) treats the अ as if it vanished.)
 3. (c) — आ + ए → ऐ, वृद्धिः — §15 Step 3. ((a) puts अयादि's glide on the wrong word; (b)
    leaves the hiatus; (d) has the wrong diphthong.)
-4. (b) — इ before an unlike vowel → य्, यण् — §15 Step 4. ((a), (c), (d) fuse the vowels as
+4. (d) — इ before an unlike vowel → य्, यण् — §15 Step 4. ((a), (c), (b) fuse the vowels as
    if they were अ-vowels or like vowels.)
-5. (b) — -ए before a vowel other than अ: अ + gap, अयादि — §15 Step 5. ((a) is §12 mistake 2,
+5. (a) — -ए before a vowel other than अ: अ + gap, अयादि — §15 Step 5. ((b) is §12 mistake 2,
    the gap closed; (c) applies पूर्वरूपम्, which needs a short अ after the ए; (d) is no
    join.)
 6. (b) — a dual in -ए is pragṛhya (§15 Step 7). ((a) → तेऽपि; (c) → पितरावपि; (d) → नास्ति.)
-7. (b) — एऽ hides -ए + अ, पूर्वरूपम् — §15 Step 6. ((a) is not a pause-form word here; (c)
+7. (c) — एऽ hides -ए + अ, पूर्वरूपम् — §15 Step 6. ((a) is not a pause-form word here; (b)
    and (d) end in consonants, which never make a vowel seam.)
 8. (c) — "According to Pāṇini's sūtra 6.1.77 इको यणचि, इ, उ, ऋ become य्, व्, र् before a
    vowel" (§15 Step 4, TRADITION).
 9. (b) — Hindi school grammar names आ + आ → आ दीर्घ सन्धि — §4, TRADITION.
-10. (b) — -आव् + a vowel hides -औ, अयादि — §15 Step 5. (पितरः अपि, पितरम् अपि and पित्रा
+10. (a) — -आव् + a vowel hides -औ, अयादि — §15 Step 5. (पितरः अपि, पितरम् अपि and पित्रा
     अपि are cells of पिता, v3.c02.l04, but none of them gives -आव्.)
 
 **Previous-lesson prompts (§3).**

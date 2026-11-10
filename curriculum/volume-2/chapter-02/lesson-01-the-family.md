@@ -589,14 +589,14 @@ one word-swap away from one.
    are parallel descendants of one ancestor — no borrowing in any direction (d) the
    resemblance is pure coincidence
 3. The daughter pair works like this: (a) दुहिता is the everyday word, पुत्री the rare
-   one (b) पुत्री is the everyday partner of पुत्रः; दुहिता is the ancient word English
-   *daughter* is sibling to (c) they mean different relatives (d) पुत्री is Hindi, not
-   Sanskrit
+   one (b) पुत्री is Hindi, not Sanskrit (c) they mean different relatives (d) पुत्री is
+   the everyday partner of पुत्रः; दुहिता is the ancient word English *daughter* is
+   sibling to
 4. Hindi बहन: (a) descends from Sanskrit भगिनी (b) is the ancestor of भगिनी (c) is
    unrelated to भगिनी (d) was borrowed into Hindi from English
-5. गृहम् on today's list is: (a) a brand-new word (b) गृह — readable since v1.c04.l03 —
-   wearing its sentence dress म्: an upgrade that does not increment the ledger (c) a
-   different word from गृह (d) a loanword from Hindi घर
+5. गृहम् on today's list is: (a) a brand-new word (b) a loanword from Hindi घर (c) a
+   different word from गृह (d) गृह — readable since v1.c04.l03 — wearing its sentence
+   dress म्: an upgrade that does not increment the ledger
 6. The honest reading of the dress parade: (a) all आ-enders are feminine (b) ः always
    marks a masculine word (c) the endings are observations — पिता and भ्राता end in आ
    and name men, रात्रिः wears ः and is feminine; the system comes later (d) endings
@@ -611,10 +611,10 @@ one word-swap away from one.
 
 1. (b) — division of labor, not synonymy (§4, §8). ((a) is §12's mistake 5.)
 2. (c) — shared descent, zero borrowing (§13) — the chapter's flagship line.
-3. (b) — speak पुत्री, know दुहिता (§13).
+3. (d) — speak पुत्री, know दुहिता (§13).
 4. (a) — a true descent line *inside* Indo-Aryan (§4, §13) — honest downward, unlike (c)
    of exercise 4's cards.
-5. (b) — the भद्रम् precedent (§15); six new + one upgrade, 258 → 264 (§14).
+5. (d) — the भद्रम् precedent (§15); six new + one upgrade, 258 → 264 (§14).
 6. (c) — observed, not legislated (§8, §15).
 7. (a) — chunks in front, pause form, machinery in Volume 3 (§15).
 8. (b) — the ्र stroke with a breathy onset (§9, §10). ((c) is the §10 narrow note's

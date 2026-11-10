@@ -210,6 +210,15 @@ Rules:
   (The 1.x book printed the answer inside every question, making self-testing impossible.)
 - Every question tests something taught in this lesson or in a `review_of` lesson.
 - Distractors must be plausible errors (real confusions from §12 Common Mistakes), not filler.
+- **The keys are spread over the option letters.** In a quiz with n multiple-choice questions of
+  k options each, every letter is the key at least ⌊n/k⌋ times and at most ⌈n/k⌉ + 1 times, and
+  no three multiple-choice questions in a row have the same key (ten questions of four options:
+  each letter two to four times). Options with a natural order — numbers, sūtra numbers, sounds
+  in the order of a list — keep it where the spread allows. A question is not re-ordered when one
+  of its options names another ("both (a) and (b)"). An explanation in the key names another
+  option by its letter, never by its position. `scripts/quizcheck.py` checks the spread.
+  (At 0.18.0, of the 668 keys of the 91 reviewed lessons, 398 stood at (b) and 10 at (d), and
+  in four quizzes every key was the same letter: a learner could score by position.)
 - Exercises (section 18) include **production tasks** in every lesson: writing, speaking,
   dictation, or translation — never recognition-only.
 

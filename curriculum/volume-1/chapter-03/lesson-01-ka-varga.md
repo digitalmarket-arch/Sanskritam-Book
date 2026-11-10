@@ -606,18 +606,18 @@ any course list needs a teacher's confirmation before you trust it.)
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. The five slots of the manner row, in order, are: (a) voiceless, voiced, nasal,
-   aspirated, breathy (b) voiceless, voiceless aspirated, voiced, voiced breathy, nasal
-   (c) nasal, voiced, voiceless, breathy, aspirated (d) voiced, voiceless, aspirated,
-   breathy, nasal
+   aspirated, breathy (b) voiced, voiceless, aspirated, breathy, nasal (c) nasal, voiced,
+   voiceless, breathy, aspirated (d) voiceless, voiceless aspirated, voiced, voiced breathy,
+   nasal
 2. In the tissue test, the tissue is thrown by: (a) क, because it is voiceless (b) ख,
    because of its aspiration (c) ग, because of its voicing (d) ङ, because of the nose
 3. The k of English *kite* is closest to: (a) क (b) ख (c) ग (d) घ — and the k of *sky* is
    closest to which?
 4. घ differs from ग in that घ: (a) is voiceless (b) is nasal (c) adds breathy voice — a
    murmured release (d) is a fricative scrape
-5. ङ is the nasal of English *sing*. Where does it typically occur in Sanskrit? (a) at
-   the start of many common words (b) almost exclusively next to its own varga stops, as
-   in अङ्क (c) only in vowel signs (d) nowhere — it is silent
+5. ङ is the nasal of English *sing*. Where does it typically occur in Sanskrit? (a) almost
+   exclusively next to its own varga stops, as in अङ्क (b) at the start of many common words
+   (c) only in vowel signs (d) nowhere — it is silent
 6. Which word means "cloud"? (a) मुख (b) खग (c) मेघ (d) गीत
 7. Find the error: a learner wants to write मेघ "cloud" but writes **मेख**. Which slot of
    the row did the pen land on, and why is the written form not the word?
@@ -625,13 +625,13 @@ any course list needs a teacher's confirmation before you trust it.)
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) voiceless, voiceless aspirated, voiced, voiced breathy, nasal (§5).
+1. (d) voiceless, voiceless aspirated, voiced, voiced breathy, nasal (§5).
 2. (b) ख — aspiration is the puff after release; क barely moves the tissue (§5).
 3. (b) ख — English aspirates initial voiceless stops, so *kite* carries the puff; the k
    of *sky*, hiding after s, is plain क (§5, §12).
 4. (c) breathy voice: the folds keep vibrating while extra air flows through — voice and
    breath at once ((d) is the nuqta trap, §12 mistake 3) (§5, §8).
-5. (b) next to its own varga stops (अङ्क) or rarely word-final; no Sanskrit word begins
+5. (a) next to its own varga stops (अङ्क) or rarely word-final; no Sanskrit word begins
    with it — the honest card-note (§8).
 6. (c) मेघ /meːgʱɐ/. (मुख "mouth", खग "bird", गीत "song" — §14.)
 7. The pen landed on slot 2 — ख, voiceless aspirated — instead of slot 4, घ, voiced

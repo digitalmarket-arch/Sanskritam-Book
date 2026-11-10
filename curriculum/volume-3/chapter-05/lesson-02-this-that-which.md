@@ -1075,42 +1075,42 @@ Keep §13 closed. Write each sentence joined, as heard; then write its pause for
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. The masculine nominative plural of सर्व: (a) सर्वाः (b) सर्वे (c) सर्वाणि (d) सर्वम्
-2. The neuter nominative singular of अन्य: (a) अन्यम् (b) अन्यत् (c) अन्यः (d) अन्या
+2. The neuter nominative singular of अन्य: (a) अन्यम् (b) अन्यः (c) अन्यत् (d) अन्या
 3. The dative singular of सः: (a) तस्मै (b) ताय (c) तस्यै (d) तेन
 4. "This girl": (a) अयम् बालिका (b) इयम् बालिका (c) इदम् बालिका (d) एषः बालिका
 5. "With this (m.)": (a) अनेन (b) इमेन (c) अस्मिन् (d) अयेन
-6. Which line is the 1.x error? (a) सः and तम् come from two stems (b) "स् becomes त् in the
-   oblique cases" (c) सा is feminine (d) तस्य is the genitive
+6. Which line is the 1.x error? (a) सः and तम् come from two stems (b) तस्य is the genitive
+   (c) सा is feminine (d) "स् becomes त् in the oblique cases"
 7. "Some woman": (a) कोऽपि (b) कापि (c) किमपि (d) कश्चित्
-8. According to Pāṇini (1.1.27), सर्वनाम names: (a) every noun (b) सर्व and the words listed
-   after it (c) only सः (d) the verbs
+8. According to Pāṇini (1.1.27), सर्वनाम names: (a) every noun (b) only सः (c) सर्व and the
+   words listed after it (d) the verbs
 9. The feminine genitive plural of तद्: (a) तानाम् (b) तासाम् (c) तेषाम् (d) ताषाम्
 10. In कपोताः स्वं वृक्षमगच्छन्। (kapotāḥ svaṃ vṛkṣam agacchan.) — pause form कपोताः स्वम्
-    वृक्षम् अगच्छन्। — the word स्वम् means: (a) "we two are" (b) "own" (c) "their", a genitive
-    plural (d) "by oneself"
+    वृक्षम् अगच्छन्। — the word स्वम् means: (a) "we two are" (b) "by oneself" (c) "their", a
+    genitive plural (d) "own"
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) — the pronoun's plural, like ते — §8 Step 4, §15 Step 3, card 4. ((a) is the feminine,
    §12 mistake 1; (c) is the neuter plural; (d) is the neuter singular.)
-2. (b) — अन्य goes like तद् throughout (§15 Step 3, card 5). ((a) is §12 mistake 2 the other
-   way round; (c) is the masculine; (d) the feminine.)
+2. (c) — अन्य goes like तद् throughout (§15 Step 3, card 5). ((a) is §12 mistake 2 the other
+   way round; (b) is the masculine; (d) the feminine.)
 3. (a) — the -स्मै cell (§15 Step 1). ((b) puts रामः's ending on त-; (c) is the feminine
    dative; (d) is the instrumental.)
 4. (b) — the noun is feminine, so इयम् — §12 mistake 5, §15 Step 4. ((a) and (c) are the
    masculine and neuter; (d) is masculine.)
 5. (a) — a key cell of इदम्, from अन- (§15 Step 4). ((b) and (d) are error forms built on the
    wrong stems; (c) is the locative "in this", a key cell in the wrong case.)
-6. (b) — there is no such sound change; two stems share the table (§5, §15 Step 2, §12
+6. (d) — there is no such sound change; two stems share the table (§5, §15 Step 2, §12
    mistake 3).
 7. (b) — का + अपि, the feminine (§15 Step 5, §12 mistake 4). ((a) and (d) are masculine;
    (c) is neuter, "something".)
-8. (b) — "According to Pāṇini (1.1.27), सर्व and the words listed after it are called
+8. (c) — "According to Pāṇini (1.1.27), सर्व and the words listed after it are called
    सर्वनाम" [§4, TRADITION].
 9. (b) — -साम् after आ — §15 Step 1, §9 Drill 2. ((a) puts रामः's -नाम् on the pronoun; (c)
    is the masculine; (d) has ष where आ keeps स.)
-10. (b) — the adjective स्व, agreeing with वृक्षम् — §13 model 6, §15 Step 6. ((a) is the
-    look-alike of §12 mistake 6; (c) would be a genitive, not an adjective; (d) is स्वयम्,
+10. (d) — the adjective स्व, agreeing with वृक्षम् — §13 model 6, §15 Step 6. ((a) is the
+    look-alike of §12 mistake 6; (c) would be a genitive, not an adjective; (b) is स्वयम्,
     lesson 1's word.)
 
 **Exercise keys.**

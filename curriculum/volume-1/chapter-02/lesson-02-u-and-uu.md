@@ -558,12 +558,12 @@ tile-word not on those lists needs a teacher's confirmation before you trust it.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. क + ऊ = ? (a) कु (b) कू (c) की (d) का
+1. क + ऊ = ? (a) कु (b) का (c) की (d) कू
 2. The signs ु and ू attach to their consonant: (a) on the right (b) on the left (c) below
    (d) above
 3. Which word means "riverbank"? (a) कुल (b) कूल (c) both (d) neither
 4. Which word means "bud"? (a) मुकुल (b) मूक (c) मूल (d) उत
-5. The vowel of English *put* is: (a) exactly उ (b) the lax vowel /ʊ/ — close, but not उ
+5. The vowel of English *put* is: (a) the lax vowel /ʊ/ — close, but not उ (b) exactly उ
    (c) exactly ऊ (d) exactly अ
 6. To write the u-sound at the *start* of a word (as in उत), you use: (a) ु below the first
    consonant (b) the independent letter उ (c) ू below the first consonant (d) nothing — it
@@ -574,11 +574,11 @@ tile-word not on those lists needs a teacher's confirmation before you trust it.
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) कू — the long sign hangs below, replacing the inherent vowel (§8).
+1. (d) कू — the long sign hangs below, replacing the inherent vowel (§8).
 2. (c) below — hanging from the foot of the stem (§15).
 3. (b) कूल /kuːlɐ/. (Its one-beat partner कुल is "family" — §13.)
 4. (a) मुकुल — two short u's. (मूक "mute", मूल "root", उत "and/or".)
-5. (b) lax /ʊ/ — looser, lower, barely rounded; उ is close and firmly rounded (§5, §12).
+5. (a) lax /ʊ/ — looser, lower, barely rounded; उ is close and firmly rounded (§5, §12).
 6. (b) the independent letter उ — signs never begin a word (§8, §15).
 7. The short sign was used for a long vowel: मुल reads *mula*, which is not the word. The
    fix is the long twin below: मूल (§12 mistakes 3–4, §15).

@@ -552,15 +552,15 @@ Station 4 and quiz Q8 in rehearsal.
 
 1. "Rāma and Sītā" in Sanskrit is: (a) रामः च सीता (b) रामः सीता च (c) रामः और सीता (d) च
    रामः सीता
-2. The honest statement about और: (a) और is the Sanskrit for "and" (b) और is Hindi; Sanskrit's
-   own connector is च, placed after what it joins (c) both words are Sanskrit (d) च is Hindi
-3. कुतः asks: (a) where at (b) from where (c) how (d) where (relative)
-4. जगच्च is: (a) a different word from जगत् च (b) the joined form of जगत् + च — previewed
-   today, system taught in Volume 3 (c) a misprint (d) the plural of जगत्
-5. Which word can never stand first in its sentence? (a) कुत्र (b) च (c) माता (d) तत्र
+2. The honest statement about और: (a) और is the Sanskrit for "and" (b) both words are Sanskrit
+   (c) और is Hindi; Sanskrit's own connector is च, placed after what it joins (d) च is Hindi
+3. कुतः asks: (a) where at (b) where (relative) (c) how (d) from where
+4. जगच्च is: (a) the joined form of जगत् + च — previewed today, system taught in Volume 3
+   (b) a different word from जगत् च (c) a misprint (d) the plural of जगत्
+5. Which word can never stand first in its sentence? (a) कुत्र (b) तत्र (c) माता (d) च
 6. रामः च सीता च means: (a) "both Rāma and Sītā" (b) "Rāma or Sītā" (c) wrong Sanskrit
    (d) "Rāma is Sītā"
-7. माता कुत्र अस्ति? — a correct answer: (a) माता कुतः। (b) माता तत्र अस्ति। (c) यत्र माता।
+7. माता कुत्र अस्ति? — a correct answer: (a) माता कुतः। (b) यत्र माता। (c) माता तत्र अस्ति।
    (d) माता च।
 8. माता पिता च अत्र। has no verb because: (a) it is broken Sanskrit (b) joined subjects take
    verb shapes not yet taught — the verbless frame is fully classical and carries it (c) verbs
@@ -570,12 +570,12 @@ Station 4 and quiz Q8 in rehearsal.
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) — च walks behind (§8). ((a) is §12's mistake 1; (c) is mistake 2.)
-2. (b) — the correction, delivered (§4, §8).
-3. (b) — -तः asks "from"; -त्र asks "at" (§8, §13). ((d) is यत्र's job — and यत्र never asks.)
-4. (b) — the seam, honestly labeled (§13, §15).
-5. (b) च — an enclitic has nothing to lean on at the front (§5, §15).
+2. (c) — the correction, delivered (§4, §8).
+3. (d) — -तः asks "from"; -त्र asks "at" (§8, §13). ((b) is यत्र's job — and यत्र never asks.)
+4. (a) — the seam, honestly labeled (§13, §15).
+5. (d) च — an enclitic has nothing to lean on at the front (§5, §15).
 6. (a) — the doubled both-form (§8, §13).
-7. (b) — ask, point, answer (§8). ((c) is §12's mistake 6.)
+7. (c) — ask, point, answer (§8). ((b) is §12's mistake 6.)
 8. (b) — the honest deferral (§8, §15). ((a) wrongs a fully classical frame.)
 9. (a) कुत्र = "where?"; (b) च = "and"; (c) कुतः = "from where?"; (d) यत्र = "where (relative
    — points, never asks)" (§14, §15).

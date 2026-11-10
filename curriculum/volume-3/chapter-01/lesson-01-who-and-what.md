@@ -889,21 +889,21 @@ cards: l03's Station 0 runs this drill again.
 
 1. In मृगम् व्याधः पश्यति, who sees? (a) the deer (b) the hunter (c) both (d) it cannot be
    told
-2. The accusative of कपोतः is: (a) कपोतः (b) कपोतम् (c) कपोत (d) कपोताम्
-3. Which is wrong? (a) फलम् अस्ति (b) फलः अस्ति (c) बालकः फलम् खादति (d) फलम् मह्यम्
+2. The accusative of कपोतः is: (a) कपोतः (b) कपोताम् (c) कपोत (d) कपोतम्
+3. Which is wrong? (a) फलम् अस्ति (b) बालकः फलम् खादति (c) फलः अस्ति (d) फलम् मह्यम्
    रोचते
 4. Why is पुस्तकम् the same in पुस्तकम् अस्ति and छात्रः पुस्तकम् पठति? (a) it is neuter:
    the nominative and accusative are one form (b) अस्ति takes an object (c) it is a
    mistake (d) books are never doers
 5. व्याधः कम् पश्यति? — the deer, मृगः, in a one-word answer: (a) मृगः (b) मृगम्
    (c) मृग (d) व्याधः
-6. "He goes to the village": (a) सः ग्रामः गच्छति (b) सः ग्रामम् गच्छति (c) तम् ग्रामम्
+6. "He goes to the village": (a) सः ग्रामः गच्छति (b) तम् ग्रामम् गच्छति (c) सः ग्रामम्
    गच्छति (d) सः ग्राम गच्छति
 7. "Whom do you see?": (a) त्वम् कः पश्यसि? (b) त्वम् कम् पश्यसि? (c) त्वाम् कम् पश्यसि?
    (d) त्वम् कम् पश्यति?
-8. According to Pāṇini's grammar, the doer's job is called: (a) कर्म (b) कर्ता (c) करणम्
-   (d) प्रथमा
-9. In "गुरु मुझे देखते हैं", मुझे is in Sanskrit: (a) मह्यम् (b) माम् (c) मम (d) अहम्
+8. According to Pāṇini's grammar, the doer's job is called: (a) कर्म (b) प्रथमा (c) करणम्
+   (d) कर्ता
+9. In "गुरु मुझे देखते हैं", मुझे is in Sanskrit: (a) माम् (b) मह्यम् (c) मम (d) अहम्
 10. "The teacher asks the student his name": (a) गुरुः शिष्यम् नाम पृच्छति (b) गुरुः
     शिष्यः नाम पृच्छति (c) गुरुम् शिष्यः नाम पृच्छति (d) गुरुः शिष्यम् नामः पृच्छति
 
@@ -911,20 +911,20 @@ cards: l03's Station 0 runs this drill again.
 
 1. (b) — FACT. व्याधः has -ः: the doer, wherever it stands (§8 Step 4, §15 Step 7).
    ((a) is §12's mistake 1, the English word-order reflex.)
-2. (b) — FACT. Masculine a-stem: -ः → -म्; §15 Step 2. ((c) is the bare stem, the
-   vocative, which is l04's; (d) is an invented ending.)
-3. (b) — FACT. A neuter a-stem has no -ः form; its doer form is फलम्; §15 Step 6, §12
+2. (d) — FACT. Masculine a-stem: -ः → -म्; §15 Step 2. ((c) is the bare stem, the
+   vocative, which is l04's; (b) is an invented ending.)
+3. (c) — FACT. A neuter a-stem has no -ः form; its doer form is फलम्; §15 Step 6, §12
    mistake 3.
 4. (a) — FACT. One form for both jobs in the neuter (§5, §15 Step 6).
 5. (b) — FACT. कम् asks for the done-to; the answer wears the same case (§8 Step 2).
-6. (b) — FACT. The goal of motion takes -म्; §15 Step 4. ((a) is §12's mistake 2; in (c)
+6. (c) — FACT. The goal of motion takes -म्; §15 Step 4. ((a) is §12's mistake 2; in (b)
    the doer has gone into the done-to's form.)
 7. (b) — FACT. The doer त्वम् with -सि; the asker for the done-to is कम्; §15 Step 3.
    ((a) asks for a doer; (c) puts "you" in the done-to's form; (d) pairs त्वम् with -ति,
    v2.c04.l02's THE error.)
-8. (b) — TRADITION, framed "According to Pāṇini…" (§4). (प्रथमा names the case, not the
+8. (d) — TRADITION, framed "According to Pāṇini…" (§4). (प्रथमा names the case, not the
    job; कर्म is the done-to; करणम् is l03's.)
-9. (b) — FACT. That मुझे is the object, मुझको; §7, §12 mistake 4. (मह्यम् is the "to me"
+9. (a) — FACT. That मुझे is the object, मुझको; §7, §12 mistake 4. (मह्यम् is the "to me"
    of liking and giving; मम is "my"; अहम् is the doer.)
 10. (a) — FACT. Two accusatives: शिष्यम्, and नाम, one form for both jobs, like फलम्;
     §15 Step 5. ((d) gives नाम an -ः it never has.)

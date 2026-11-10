@@ -562,15 +562,15 @@ matter.)
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. क + इ = ? (a) की (b) कि (c) इक (d) क
+1. क + इ = ? (a) की (b) इक (c) कि (d) क
 2. In कि, the vowel sign stands ______ the consonant and is spoken ______ it:
    (a) after / before (b) before / after (c) before / before (d) after / after
 3. One of इति and ईति means "thus", the other "calamity". Write each word with its meaning.
 4. मति and मित are written with the same three shapes. What decides which word you read?
-   (a) the headline's length (b) which consonant the hook stands before (c) sentence context
-   only (d) the order the strokes were written in
-5. The vowel of English *bit* differs from Sanskrit इ in: (a) duration only (b) quality —
-   it is lax, lower and more central (c) lip rounding (d) nothing; they are identical
+   (a) the headline's length (b) the order the strokes were written in (c) sentence context only
+   (d) which consonant the hook stands before
+5. The vowel of English *bit* differs from Sanskrit इ in: (a) quality — it is lax, lower and
+   more central (b) duration only (c) lip rounding (d) nothing; they are identical
 6. इ and ई differ in: (a) quality and length, like अ and आ (b) duration only (c) tongue
    position only (d) lip rounding
 7. Reading check — write the English meaning of each: (a) तिल (b) लीला (c) कति
@@ -579,12 +579,12 @@ matter.)
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) कि — the i-mātrā stands to the left; (a) की is *kī*, (c) इक reads *ika*. → §8, §15.
+1. (c) कि — the i-mātrā stands to the left; (a) की is *kī*, (b) इक reads *ika*. → §8, §15.
 2. (b) before / after — written before, spoken after: the left-hook rule. → §8, §15.
 3. इति (iti) "thus"; ईति (īti) "calamity" — duration alone separates them. → §13.
-4. (b) which consonant the hook stands before — the hook belongs to the consonant on its
+4. (d) which consonant the hook stands before — the hook belongs to the consonant on its
    right: मति = म + ति, मित = मि + त. → §8, §12 mistake 4.
-5. (b) quality — English *bit* has lax /ɪ/; इ is tense /i/, merely short. → §5, §10.
+5. (a) quality — English *bit* has lax /ɪ/; इ is tense /i/, merely short. → §5, §10.
 6. (b) duration only — the course's first pure length pair; अ/आ differed in quality too. → §10.
 7. (a) तिल = "sesame"; (b) लीला = "play"; (c) कति = "how many?". → §14.
 8. किल reads *kila* — the short ि stands where long ी belongs. Replace the left-standing

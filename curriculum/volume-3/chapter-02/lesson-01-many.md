@@ -920,38 +920,38 @@ transcript. Rubric in §19's key.
 
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
-1. The plural of कपोतः (doer): (a) कपोतः (b) कपोताः (c) कपोतानि (d) कपोतान्
+1. The plural of कपोतः (doer): (a) कपोतः (b) कपोतान् (c) कपोतानि (d) कपोताः
 2. The plural of पुस्तकम् (done-to): (a) पुस्तकाः (b) पुस्तकान् (c) पुस्तकानि (d) पुस्तकम्
 3. "Of the doves": (a) कपोताणाम् (b) कपोतानाम् (c) कपोतेषु (d) कपोतैः
 4. Which has ण by the observed spelling? (a) देवानाम् (b) फलानाम् (c) रामाणाम् (d) रथानाम्
-5. पञ्च काकाः वृक्षे ___। (a) अस्ति (b) सन्ति (c) असि (d) अस्मि
+5. पञ्च काकाः वृक्षे ___। (a) सन्ति (b) अस्ति (c) असि (d) अस्मि
 6. "Three fruits": (a) त्रयः फलानि (b) त्रीणि फलानि (c) चत्वारि फलानि (d) त्रीन् फलानि
 7. "He throws three stones": सः ___ पाषाणान् क्षिपति। (a) त्रयः (b) त्रीणि (c) त्रीन्
    (d) त्रि
-8. The asker for तैः is: (a) के (b) कैः (c) कान् (d) केषु
+8. The asker for तैः is: (a) के (b) केषु (c) कान् (d) कैः
 9. According to Pāṇini, the plural (बहुवचनम्) is used for: (a) two or more (b) three or
    more (c) four or more (d) any number
-10. "To the boys" (Hindi लड़कों को, giving): (a) बालकान् (b) बालकेभ्यः (c) बालकानाम्
+10. "To the boys" (Hindi लड़कों को, giving): (a) बालकेभ्यः (b) बालकान् (c) बालकानाम्
     (d) बालकाः
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
-1. (b) — m. nom. pl. -आः (§8 Step 4, §15 Step 1). ((a) is the singular, §12 mistake 1;
-   (c) crosses the genders, mistake 3; (d) is the done-to.)
+1. (d) — m. nom. pl. -आः (§8 Step 4, §15 Step 1). ((a) is the singular, §12 mistake 1;
+   (c) crosses the genders, mistake 3; (b) is the done-to.)
 2. (c) — the neuter -आनि for doer and done-to (§15 Step 1). ((a) is mistake 3; (b) is the
    masculine done-to.)
 3. (b) — -आनाम्; कपोत has no र, ऋ or ष (§15 Step 1). ((a) is §12 mistake 4; (c) is "among
    the doves", (d) "by the doves".)
 4. (c) — र, then nothing that blocks (§5, §15 Step 1). (देव and फल have no trigger; in
    रथानाम् the थ blocks.)
-5. (b) — a plural doer takes सन्ति (§15 Step 3). ((a) is §12 mistake 2.)
+5. (a) — a plural doer takes सन्ति (§15 Step 3). ((b) is §12 mistake 2.)
 6. (b) — 3 neuter (§15 Step 4). ((a) is §12 mistake 5; (c) is "four fruits";
    (d) is the masculine accusative.)
 7. (c) — 3 masculine, accusative: the stones are thrown (§15 Step 4, §12 mistake 5).
-8. (b) — the instrumental plural (§15 Step 2).
+8. (d) — the instrumental plural (§15 Step 2).
 9. (b) — TRADITION, framed "According to Pāṇini": the singular for one, the dual for two,
    the plural for many (§4).
-10. (b) — the receiver of giving is the dative, -एभ्यः (§7, §15 Step 5). ((a) is §12
+10. (a) — the receiver of giving is the dative, -एभ्यः (§7, §15 Step 5). ((b) is §12
     mistake 6, the Hindi oblique reflex; (c) is "of the boys".)
 
 **Exercise keys.**

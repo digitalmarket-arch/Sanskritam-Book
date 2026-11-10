@@ -578,17 +578,17 @@ did every ऋ pass the freeze test, and did मातृ end in a clean /r̩/ �
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. क + ऋ = ? (a) कऋ (b) कृ (c) क्रि (d) कु
-2. The classical value of ऋ is: (a) "ri" — an r plus a short i (b) a vowel made of r —
-   syllabic /r̩/ (c) "ru" — an r plus a short u (d) a long rolled rr
-3. The common pronunciation of ऋषि as "rishi" is best described as: (a) the classical
-   target (b) a regional habit — real in its own tradition, but not the classical target
-   this course trains (c) proof that ऋ is a consonant (d) a spelling mistake
+2. The classical value of ऋ is: (a) "ri" — an r plus a short i (b) "ru" — an r plus a short
+   u (c) a long rolled rr (d) a vowel made of r — syllabic /r̩/
+3. The common pronunciation of ऋषि as "rishi" is best described as: (a) a regional habit —
+   real in its own tradition, but not the classical target this course trains (b) the
+   classical target (c) proof that ऋ is a consonant (d) a spelling mistake
 4. The mātrā ृ attaches: (a) to the left of the consonant (b) above the headline (c) at
    the foot of the consonant's stem, below the letter (d) it stands separately after the letter
 5. अमृत (amṛta) is built from: (a) a- "not" + mṛta "dead" (b) am + ṛta "order" (c) a
    borrowing from Greek *ambrosía* (d) मातृ plus a prefix
-6. मातृ and माता are related how? (a) unrelated words (b) मातृ is the dictionary stem;
-   माता is the form you met in sentences (c) मातृ is the plural of माता (d) माता is a
+6. मातृ and माता are related how? (a) unrelated words (b) मातृ is the plural of माता
+   (c) मातृ is the dictionary stem; माता is the form you met in sentences (d) माता is a
    misspelling of मातृ
 7. Reading check — write the English meaning of each: (a) ऋतु (b) कृत (c) मृत
 8. ॠ /r̩ː/ and ऌ /l̩/ are: (a) everyday vowels that need heavy drilling (b) rare vowels
@@ -599,14 +599,14 @@ did every ऋ pass the freeze test, and did मातृ end in a clean /r̩/ �
 
 1. (b) कृ — after a consonant, always the mātrā; (a) and (c) are §12 mistake 4 and mistake
    1 in written form, (d) is the basement neighbour ु.
-2. (b) syllabic /r̩/ — a vowel; (a) and (c) are the regional habits, (d) is over-trilling.
-3. (b) a regional habit — real in its own tradition, not the classical target. Note that
+2. (d) syllabic /r̩/ — a vowel; (a) and (b) are the regional habits, (c) is over-trilling.
+3. (a) a regional habit — real in its own tradition, not the classical target. Note that
    (d) is wrong too: nobody misspelled anything; the letter is right and the habit is a
    sound-substitution, not an orthographic error.
 4. (c) at the foot of the stem, below the letter — the same below row as ु ू.
 5. (a) a- "not" + mṛta "dead" = "the deathless". (c) fails twice: the words are cognates —
    siblings from PIE \*mer- — and neither language borrowed from the other.
-6. (b) मातृ is the stem the dictionary lists (and compounds use: मातृभाषा); माता is the
+6. (c) मातृ is the stem the dictionary lists (and compounds use: मातृभाषा); माता is the
    inflected form — full treatment in Volume 3.
 7. (a) ऋतु = "season"; (b) कृत = "done, made"; (c) मृत = "dead".
 8. (b) rare, recognition-only — ॠ lives in a few plural case-forms, ऌ in forms of

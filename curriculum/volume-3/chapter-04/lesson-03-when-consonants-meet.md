@@ -1046,14 +1046,14 @@ write each in pause form, then joined.
 course prints joined text (STYLE_GUIDE §3.1).
 
 1. सत्यम् वद, joined: (a) सत्यमवद (b) सत्यं वद (c) सत्यम्वद (d) सत्य वद
-2. सत्यम् एव, joined: (a) सत्यं एव (b) सत्यमेव (c) सत्यंएव (d) सत्यैव
-3. जगत् च, joined: (a) जगद्च (b) जगच्च (c) जगत्च (d) जगश्च
+2. सत्यम् एव, joined: (a) सत्यं एव (b) सत्यैव (c) सत्यंएव (d) सत्यमेव
+3. जगत् च, joined: (a) जगद्च (b) जगत्च (c) जगच्च (d) जगश्च
 4. षट् अत्र, joined: (a) षटत्र (b) षडत्र (c) षट् अत्र (d) षडात्र
-5. तस्मिन् एव, joined: (a) तस्मिनेव (b) तस्मिन्नेव (c) तस्मिंएव (d) तस्मिन् एव
-6. तान् अपश्यत्, joined: (a) तान्नपश्यत् (b) तानपश्यत् (c) तांपश्यत् (d) तानापश्यत्
+5. तस्मिन् एव, joined: (a) तस्मिन्नेव (b) तस्मिनेव (c) तस्मिंएव (d) तस्मिन् एव
+6. तान् अपश्यत्, joined: (a) तान्नपश्यत् (b) तानापश्यत् (c) तांपश्यत् (d) तानपश्यत्
 7. ग्रामाद्गच्छति, split into its pause form: (a) ग्रामात् गच्छति (b) ग्रामाः गच्छति (c) ग्रामः
    गच्छति (d) ग्रामे गच्छति
-8. किं करोति may also be written: (a) किम करोति (b) किङ्करोति (c) किन्करोति (d) किःकरोति
+8. किं करोति may also be written: (a) किम करोति (b) किन्करोति (c) किङ्करोति (d) किःकरोति
 9. According to Pāṇini (8.4.40 स्तोः श्चुना श्चुः), a त् before च becomes: (a) द् (b) च् (c) न्
    (d) स्
 10. In Hindi print संगीत, the dot stands for: (a) a nasal vowel only (b) the class nasal ङ्
@@ -1063,21 +1063,21 @@ course prints joined text (STYLE_GUIDE §3.1).
 
 1. (b) — म् before a consonant → ं, then a space (§8 Step 5, §15 Step 2). ((a) treats व as a
    vowel; (c) leaves the म् unchanged before a consonant, against 8.3.23; (d) drops the म्.)
-2. (b) — before a vowel the म् stays and joins (§15 Step 2). ((a) and (c) are §12's mistake 1;
-   (d) drops the म् and fuses the vowels.)
-3. (b) — त् + च → च्च (8.4.40; §15 Step 4). ((a) voices the त् before a voiceless च; (c) is
+2. (d) — before a vowel the म् stays and joins (§15 Step 2). ((a) and (c) are §12's mistake 1;
+   (b) drops the म् and fuses the vowels.)
+3. (c) — त् + च → च्च (8.4.40; §15 Step 4). ((a) voices the त् before a voiceless च; (b) is
    §12's mistake 3; (d) treats जगत् as if it ended in a visarga.)
 4. (b) — ट् → ड् before a vowel (8.2.39; §15 Step 3). ((a) is §12's mistake 2; (c) is the
    pause form, not joined; (d) lengthens the vowel, a vowel rule where none applies.)
-5. (b) — न् after the short इ doubles before a vowel (§15 Step 5). ((a) misses the doubling;
+5. (a) — न् after the short इ doubles before a vowel (§15 Step 5). ((b) misses the doubling;
    (c) puts a dot before a vowel; (d) is the pause form.)
-6. (b) — after the long आ, no doubling; written together (§15 Step 5). ((a) is §12's mistake
-   4; (c) drops the अ; (d) lengthens a vowel that does not meet another.)
+6. (d) — after the long आ, no doubling; written together (§15 Step 5). ((a) is §12's mistake
+   4; (c) drops the अ; (b) lengthens a vowel that does not meet another.)
 7. (a) — the pause form, as this course prints it, keeps the voiceless त् (§8 Step 5, §15
    Step 3). ((b), (c) and (d) are other words: ग्रामाः गच्छति would be joined ग्रामा गच्छति,
    ग्रामः गच्छति would be joined ग्रामो गच्छति, and ग्रामे गच्छति stays as it is.)
-8. (b) — before a stop the class nasal may be written out (§15 Step 2). ((a) drops the
-   virāma; (c) is the dental nasal before a velar; (d) is not a nasal.)
+8. (c) — before a stop the class nasal may be written out (§15 Step 2). ((a) drops the
+   virāma; (b) is the dental nasal before a velar; (d) is not a nasal.)
 9. (b) — according to Pāṇini (8.4.40 स्तोः श्चुना श्चुः), a त् before च becomes च्; the
    sūtra's wording is in §8 Step 5's TRADITION callout.
 10. (b) — the dot before a stop is the convenience spelling of the class nasal (§7, §15 Step
