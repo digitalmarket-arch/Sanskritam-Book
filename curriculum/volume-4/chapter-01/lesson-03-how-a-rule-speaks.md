@@ -3,7 +3,7 @@ id: v4.c01.l03
 schema_version: 1
 title:
   sa: इको यणचि
-  sa_iast: iko yaṇaci
+  sa_iast: iko yaṇ aci
   hi: सूत्र कैसे बोलता है
   en: "How a Rule Speaks"
 volume: 4
@@ -50,7 +50,7 @@ updated: 2026-11-10
 
 ## 1. Hook
 
-Your first Sanskrit verb was भवति, in v1.c04.l01. Volume 3 opened it up as भो + अति and left a
+You met भवति in v1.c04.l01, among your first Sanskrit verbs. Volume 3 opened it up as भो + अति and left a
 note: named here, taught in Volume 4 (v3.c04.l04). You also own the rule that turns the ओ into
 अव्: 6.1.78 एचोऽयवायावः, "ए, ओ, ऐ, औ before a vowel become अय्, अव्, आय्, आव्" [v3.c04.l01].
 
@@ -134,10 +134,10 @@ stands in the third quarter of the same first book.
 
 The commentators read the rules this way, and you can watch them do it.
 
-> **[TRADITION · परम्परा]** "The commentators read every rule through this code. The Kāśikā
+> **[TRADITION · परम्परा]** The commentators read the rules through this code. The Kāśikā
 > glosses इको यणचि as *aci parataḥ iko yaṇādeśo bhavati* 'when a vowel follows, the yaṇ
 > substitute comes in place of an ik' — the locative turned into 'when … follows', the
-> genitive kept, the nominative called the substitute. [REF:kashika 6.1.77]"
+> genitive kept, the nominative called the substitute. [REF:kashika 6.1.77]
 >
 > Kāśikā, on 6.1.77 — text of the GRETIL e-text:
 >
@@ -159,8 +159,8 @@ Chapter 6 reads such glosses with you.
 वैज्ञानिकं विवरणम् — why a rule of three words can say so much: Sanskrit marks a word's job
 with its ending.
 
-A language that marks each noun's role with an ending can put its words in any order and
-still be read. Sanskrit is such a language, and Pāṇini's rules use it to the full: इको यणचि
+Sanskrit marks each noun's role with an ending, so its words can change places and still be
+read, and Pāṇini's rules rely on it: इको यणचि
 is three words, and the endings alone tell you which word is replaced (इकः), which word is
 the result (यण्) and which names the context (अचि). Swap the words around and the rule says
 the same thing.
@@ -180,7 +180,8 @@ names of sounds in Pāṇini's rules are not a-stems. अच्, इक्, अ�
 One more reason the grammar needs a definition at all. In ordinary Sanskrit a genitive has
 many senses — the owner, the thing near, the whole of which something is a part, and more.
 The Kāśikā says so in its comment on 1.1.49 (the line is in Teacher Notes). A rule cannot
-afford that range, so 1.1.49 fixes one sense for the rules: "in place of".
+afford that range, so 1.1.49 fixes one sense for a genitive in the rules whose link is not
+otherwise fixed: "in place of".
 
 ## 6. Sanskrit Explanation
 
@@ -218,30 +219,31 @@ beneath, then the gloss.
 > सूत्रस्य विधिः कः? (sūtrasya vidhiḥ kaḥ?)
 > "What is the sūtra's operation?" — सूत्र की विधि क्या है?
 
-Four of the lines use today's headwords as free words: पूर्वस्य and उत्तरस्य — the genitive of
-पूर्वः and उत्तरः, "of the preceding", "of the following" — आदेशः "substitute", विधिः
-"operation". The case names षष्ठी, सप्तमी, पञ्चमी are labels, as in Volume 3; so are the
-pratyāhāra names इक्, अच्. The joins are Volume 3's: -अः before इ → -अ and a gap: इक इति, अत
-इति, वर्ण इक्; -ए before इ → -अ and a gap: स्थान इति; -अः before a voiced sound → -ओ: पूर्वो
+Five of the lines use today's headwords as free words: पूर्वस्य and उत्तरस्य — the genitive of
+पूर्वः and उत्तरः, "of the preceding", "of the following" — then पूर्वः and उत्तरः themselves, in
+the sixth line; आदेशः "substitute"; विधिः "operation". The case names षष्ठी, सप्तमी, पञ्चमी are labels, as in Volume 3; so are the
+pratyāhāra names इक्, अच्. The joins are Volume 3's: -अः before इ or आ → -अ and a gap: इक इति, अत
+इति, वर्ण इक्, दीर्घ आदेशः; -ए before इ → -अ and a gap: स्थान इति; -अः before a voiced sound → -ओ: पूर्वो
 वर्णः; -अः before अ → -ओऽ: उत्तरोऽच्; इ before a vowel → य्: इत्यत्र, इत्यर्थः, यञीत्यत्र;
 two like vowels → one long: अचीति. A comma and a daṇḍa stop every seam: षष्ठी, and इक्, stand in
 their pause form. A quoted sūtra is printed as the data file has it, joined to its इति — यञि +
 इति → यञीति — and stays as printed in the pause line. The fourth line keeps the quoted word
-अतः apart from the अत्र before it: a word quoted as a form is not merged into its neighbour,
-just as quoted sounds and quoted names are not (lesson 1).
+अतः apart from the अत्र before it: a word quoted as a form is joined to the इति after it, but
+its first sound is never merged into the word before it, just as a quoted name's is not
+(lesson 1).
 
 ## 7. Hindi Explanation
 
 हिन्दी में समझिए
 
-आपकी पहली संस्कृत क्रिया थी भवति। तीसरे खण्ड में आपने देखा कि उसके भीतर भो + अति है, और
+भवति आपकी शुरुआती संस्कृत क्रियाओं में से एक है — पहले खण्ड से। तीसरे खण्ड में आपने देखा कि उसके भीतर भो + अति है, और
 कि अगले स्वर से पहले ओ अव् बन जाता है — अयादि सन्धि, सूत्र 6.1.78 एचोऽयवायावः। पर उस सूत्र
 में "स्वर से पहले" कहाँ लिखा है? और ओ चारों में से अव् ही क्यों बनता है, अय् क्यों नहीं? आज
 इसका उत्तर सूत्र की अपनी भाषा देती है — **विभक्ति**, यानी शब्द के अन्त का वह रूप जो वाक्य में
 उसका काम दिखाता है।
 
-हिन्दी में हम यह बात परसर्ग और एक संज्ञा से कहते हैं: "इक् **के स्थान पर** यण्", "स्वर **से
-पहले**" (संस्कृत पढ़ाने वाले अक्सर "स्वर **परे होने पर**" कहते हैं), "ह्रस्व अ **के बाद**"। संस्कृत
+हिन्दी में हम यह बात परसर्ग के साथ एक और शब्द जोड़कर कहते हैं: "इक् **के स्थान पर** यण्", "स्वर **से
+पहले**" (हिन्दी माध्यम में संस्कृत पढ़ाते समय "स्वर **परे होने पर**" भी कहा जाता है), "ह्रस्व अ **के बाद**"। संस्कृत
 यही बात केवल विभक्ति के प्रत्यय से कहती है — इकः, अचि, अतः; उसे न "स्थान" शब्द चाहिए, न
 "पहले", न "बाद" [REF:kachru2006]। और पाणिनि के सूत्रों में हर विभक्ति का काम तय है:
 
@@ -273,8 +275,8 @@ just as quoted sounds and quoted names are not (lesson 1).
 अगले अध्याय में। तीसरे खण्ड ने -ऐः को अपवाद कहकर छोड़ दिया था; आज उसका नियम मिल गया।
 
 आज के चार शब्द: **आदेश** — परिणाम, जो किसी के स्थान पर आता है; **पूर्व** — पहला, पहले वाला,
-पूर्व दिशा भी; **उत्तर** — बाद वाला, उत्तर दिशा भी, और "जवाब" भी; और **विधि** — सूत्र जो कार्य
-करता है, तरीका, और भाग्य भी।
+पूर्व दिशा भी; **उत्तर** — बाद वाला, उत्तर दिशा भी, और "जवाब" भी; और **विधि** — कार्य, जो सूत्र
+करवाता है (और वह सूत्र भी जो उसे बताता है); तरीका; और भाग्य भी।
 
 ## 8. English Explanation
 
@@ -315,7 +317,7 @@ derivation. From this lesson on, every sūtra you are shown carries its padacche
 
 Padaccheda: षष्ठी [प्रथमा] "the genitive" · स्थानेयोगा [प्रथमा] "[has] the link 'in place of'".
 
-English: "A genitive [in the rules] means 'in place of'." [REF:ashtadhyayi 1.1.49];
+English: "A genitive [in the rules, whose link is not otherwise fixed] means 'in place of'." [REF:ashtadhyayi 1.1.49];
 [REF:kashika 1.1.49]
 
 **2. The locative — Q, 1.1.66 तस्मिन्निति निर्दिष्टे पूर्वस्य** (tasminn iti nirdiṣṭe pūrvasya).
@@ -337,9 +339,12 @@ follows it." [REF:ashtadhyayi 1.1.67]; [REF:kashika 1.1.67]
 In these three definitions the case names are grammatical labels only: the case code itself
 applies to rules that do something. The bracket after 1.1.67's padaccheda is a word the rule takes
 from the rule before it — carried from the rule before; how words are carried: c02.l03
-(preview).
+[preview].
 
 **4. In order — D, 1.3.10 यथासंख्यमनुदेशः समानाम्** (yathāsaṃkhyam anudeśaḥ samānām).
+
+Padaccheda: यथासंख्यम् [indeclinable] "in order" · अनुदेशः [प्रथमा] "what is named after" ·
+समानाम् [षष्ठी, plural] "of [sets] equal [in number]".
 
 English: "Where the replaced items and the results are equal in number, they pair off in
 order." [REF:ashtadhyayi 1.3.10]; [REF:kashika 1.3.10]
@@ -347,6 +352,10 @@ order." [REF:ashtadhyayi 1.3.10]; [REF:kashika 1.3.10]
 **5. The most similar — D, 1.1.50 स्थानेऽन्तरतमः**, already a tool from lesson 1, where its
 English line is printed (lesson 1 §15). Today it is read as the rule that chooses: where one
 replaced item could take several results, the one most like it comes.
+
+Padaccheda: स्थाने [सप्तमी] "in the place [of what is replaced]" · अन्तरतमः [प्रथमा] "the most
+similar". In 1.3.10 and 1.1.50, as in the three definitions, the case names are labels only:
+these rules say how other rules are read.
 
 **6. The instrumental plural of a-stems — D, 7.1.9 अतो भिस ऐस्** (ato bhisa ais). First met
 here: in Volume 3 it stood in Teacher Notes only.
@@ -532,7 +541,7 @@ Chapter 2 (c02.l02: how ओ arose) and Chapter 3 (c03.l02: the class sign; c03: 
 | Step | String | Sūtra | What happens |
 |---|---|---|---|
 | 0 | भो + अति | — | (how ओ arose: guṇa, c02.l02, before शप्, c03.l02; how अति arose: c03) |
-| 1 | भो + अति | 6.1.78 एचोऽयवायावः [अचि, carried from 6.1.77] (B, owned) | ओ is an एच् sound, and a vowel follows: it is replaced |
+| 1 | भो + अति | 6.1.78 एचोऽयवायावः [अचि, carried from 6.1.77] [B, owned] | ओ is an एच् sound, and a vowel follows: it is replaced |
 | 2 | भव् + अति | 1.3.10 यथासंख्यमनुदेशः समानाम् [D] | ए ओ ऐ औ → अय् अव् आय् आव् in order: ओ is second → अव् |
 | 3 | **भवति** | — | joined |
 
@@ -552,15 +561,15 @@ of the recurring-endings card.
 |---|---|---|---|
 | 0 | देव + भिस् | — | stem + the instr. pl. ending, as the tradition names it |
 | 1 | देव + ऐस् | 7.1.9 अतो भिस ऐस् [D] | after short अ [अतः, ablative], भिस् [भिसः, genitive] is replaced by ऐस् [nominative] |
-| 2 | देवैस् | 6.1.88 वृद्धिरेचि [आत्, carried from 6.1.87] (owned) | अ + ऐ → ऐ |
-| 3 | **देवैः** | 8.2.66 + 8.3.15 (preview: c02.l01) | final स् → visarga |
+| 2 | देवैस् | 6.1.88 वृद्धिरेचि [आत्, carried from 6.1.87] [owned] | अ + ऐ → ऐ |
+| 3 | **देवैः** | 8.2.66 + 8.3.15 [preview: c02.l01] | final स् → visarga |
 
 6.1.88's padaccheda, as every quoted sūtra now has it: वृद्धिः [प्रथमा: the result] · एचि
 [सप्तमी: before ए ओ ऐ औ] · [आत् — पञ्चमी: after अ or आ; carried from 6.1.87]. What it replaces
 is both sounds, by the heading of the trap box (§8 Step 4).
 
 An ending such as भिस् keeps its final स्: which final sounds of an ending are not markers is
-Chapter 2's (preview).
+Chapter 2's [preview].
 
 > **[FACT · तथ्यम्]** Whitney, on the a-stems: "The instr. ends later always in āis".
 > [REF:whitney1889 §329]
@@ -644,13 +653,13 @@ bracket convention, the derivations, the toolbox card and the paradigm ledger.
 
 | Case | Job in a rule | Hindi | Defined by |
 |---|---|---|---|
-| genitive — षष्ठी | in place of: what is replaced | के स्थान पर | 1.1.49 (Q) |
-| locative — सप्तमी | before: the operation is on what precedes it | से पहले | 1.1.66 (Q) |
-| ablative — पञ्चमी | after: the operation is on what follows it | के बाद | 1.1.67 (Q) |
+| genitive — षष्ठी | in place of: what is replaced | के स्थान पर | 1.1.49 [Q] |
+| locative — सप्तमी | before: the operation is on what precedes it | से पहले | 1.1.66 [Q] |
+| ablative — पञ्चमी | after: the operation is on what follows it | के बाद | 1.1.67 [Q] |
 | nominative — प्रथमा | the result: the substitute | परिणाम, आदेश | — the word the others leave |
 
-1.1.49, 1.1.66 and 1.1.67 are worded in §8 Step 3, with their padaccheda; 1.3.10 and 7.1.9 (D)
-there too; 1.1.50 (D) in lesson 1 §15.
+1.1.49, 1.1.66 and 1.1.67 are worded in §8 Step 3, with their padaccheda; 1.3.10 and 7.1.9 [D]
+there too; 1.1.50 [D] in lesson 1 §15.
 
 ### The case-code table
 
@@ -669,8 +678,8 @@ and 6.1.88) the replaced item is no word of the sūtra but the bracket [पू�
 
 **Brackets in this chapter.** [अचि, carried from 6.1.77] (6.1.78, 6.1.101, 6.1.87) and [आत्,
 carried from 6.1.87] (6.1.88): words the rule takes from a rule before it — carried from the
-rule before; how words are carried: c02.l03 (preview). The bracket [पूर्वपरयोः] is a heading
-carried over the rule — its sūtra and number: c02.l02 (preview). 7.3.101's "before a yañ sound"
+rule before; how words are carried: c02.l03 [preview]. The bracket [पूर्वपरयोः] is a heading
+carried over the rule — its sūtra and number: c02.l02 [preview]. 7.3.101's "before a yañ sound"
 means "before an ending that begins with a yañ sound"; the reason the rule can say it so is in
 Teacher Notes. 8.4.40's instrumental is printed as the exception it is; its reading is Chapter
 6's.
@@ -681,10 +690,10 @@ Teacher Notes. 8.4.40's instrumental is printed as the exception it is; its read
   पूर्वस्य** [locative = before] · **Q — 1.1.67 तस्मादित्युत्तरस्य** [ablative = after].
   Assessed by gist: "According to Pāṇini, …".
 - **D — 1.3.10 यथासंख्यमनुदेशः समानाम्** [in order]: the authority for step 2 of derivation (a).
-- **D — 7.1.9 अतो भिस ऐस्** (भिस् → ऐस् after short a): the authority for step 1 of derivation (b).
+- **D — 7.1.9 अतो भिस ऐस्** [भिस् → ऐस् after short a]: the authority for step 1 of derivation (b).
 - **D — 1.1.50 स्थानेऽन्तरतमः** [the most similar], re-read; a tool since lesson 1, not
   re-counted.
-- **Re-read (owned):** 6.1.78 (B); 6.1.77, 6.1.101, 7.3.101, 8.4.40, 6.1.88, 6.1.87.
+- **Re-read [owned]:** 6.1.78 [B]; 6.1.77, 6.1.101, 7.3.101, 8.4.40, 6.1.88, 6.1.87.
   **Pointers (numbers printed, not tools):** 8.2.66 + 8.3.15 (c02.l01); 8.3.32 (model sentence
   4).
 
@@ -731,8 +740,8 @@ turn printed joined, its pause form beneath, then the gloss. Audio: 🔊
 `planned:assets/audio/volume-4/v4c01l03-conversation.mp3`. Read at home, aloud, in both roles
 (§21).
 
-— छात्रः: गुरो, इको यणचीति सूत्रे कति पदानि? (guro, iko yaṇacīti sūtre kati padāni?)
-  गुरो, इको यणचि इति सूत्रे कति पदानि? (guro, iko yaṇaci iti sūtre kati padāni?)
+— छात्रः: गुरो, इको यणचीति सूत्रे कति पदानि? (guro, iko yaṇ acīti sūtre kati padāni?)
+  गुरो, इको यणचि इति सूत्रे कति पदानि? (guro, iko yaṇ aci iti sūtre kati padāni?)
   "Teacher, how many words are there in the sūtra इको यणचि?" — गुरुजी, इको यणचि सूत्र में कितने
   पद हैं?
 
@@ -768,7 +777,7 @@ turn printed joined, its pause form beneath, then the gloss. Audio: 🔊
   अतो भिस ऐस् इति अत्र अतः इति षष्ठी? (ato bhisa ais iti atra ataḥ iti ṣaṣṭhī?)
   "In अतो भिस ऐस्, is 'ataḥ' a genitive?" — अतो भिस ऐस् में क्या 'अतः' षष्ठी है?
 
-— गुरुः: न, पञ्चमी। अत उत्तरस्य भिसः स्थाने ऐस्। (na, pañcamī. ata uttarasya bhisaḥ sthāne ais.)
+— गुरुः: न, पञ्चमी। अत उत्तरस्य भिसः स्थान ऐस्। (na, pañcamī. ata uttarasya bhisaḥ sthāna ais.)
   न, पञ्चमी। अतः उत्तरस्य भिसः स्थाने ऐस्। (na, pañcamī. ataḥ uttarasya bhisaḥ sthāne ais.)
   "No, an ablative. In place of the भिस् that follows short a, ऐस्." — नहीं, पञ्चमी। ह्रस्व अ के
   बाद आने वाले भिस् के स्थान पर ऐस्।
@@ -784,12 +793,13 @@ turn printed joined, its pause form beneath, then the gloss. Audio: 🔊
 
 Housekeeping. The seams are Volume 3's: ऐसिति, a consonant-final word written together with the
 vowel after it; इत्यवददिति, the final त् voiced before इ, then इ + अ → य्; यणचीति and अचीति, इ + इ
-→ one long ई; अत उत्तरस्य, -अः before उ → -अ and a gap; दीर्घोऽतः, -अः before अ → -ओऽ; अत्रापि, two
-like vowels → one long. भिसः स्थाने, इकः स्थाने, अतः स्थाने keep their visarga before स. A daṇḍa,
+→ one long ई; अत उत्तरस्य, -अः before उ → -अ and a gap; स्थान ऐस्, -ए before ऐ → -अ and a gap;
+दीर्घोऽतः, -अः before अ → -ओऽ; अत्रापि, two like vowels → one long. भिसः स्थान, इकः स्थाने, अतः
+स्थाने keep their visarga before स. A daṇḍa,
 a "?" or a comma stops every seam: गुरो, and इकः, stand in their pause form. In turns 1, 9 and
 11 the quoted sūtra is printed as the data file has it and joined to its इति; the pause line
-keeps the sūtra as printed. As in §6, a word quoted as a form keeps its first sound: the अत of
-turns 9 and 11 and the ऐस् of turn 10 are not merged into the word before them. Every turn is a
+keeps the sūtra as printed. As in §6, a word quoted as a form is joined to the इति after it but
+keeps its first sound: the अत of turn 9 is not merged into the अत्र before it. Every turn is a
 course sentence, written for this dialogue; no source is claimed for any.
 
 ## 17. Story
@@ -801,7 +811,7 @@ sentence with "in place of" and "when … follows" — you read one in §4, the 
 यणचि, where the locative अचि became अचि परतः and the nominative यण् became यणादेशः, "the yaṇ
 substitute". The code you learned today is the one their sentences already use.
 
-Do one thing with it, aloud. Take the four rules of §15's table that have a genitive word —
+Do one thing with it, aloud. Take the four rules of §15's table that have a genitive word but no ablative —
 6.1.77, 6.1.78, 7.3.101, 8.4.40 — and for each make the commentators' kind of sentence in
 English: "In place of …, before/after …, … comes." For 6.1.77: "In place of an इक् sound,
 before a vowel, a यण् sound comes." Then do 7.1.9 and see why it reads "after short a, in place
@@ -969,7 +979,7 @@ the reason is needed.
 | 0 | राम + भिस् | — | stem + the instr. pl. ending |
 | 1 | राम + ऐस् | 7.1.9 अतो भिस ऐस् | after short अ, भिस् → ऐस् |
 | 2 | रामैस् | 6.1.88 वृद्धिरेचि [आत्] | अ + ऐ → ऐ |
-| 3 | **रामैः** | 8.2.66 + 8.3.15 (preview) | final स् → visarga |
+| 3 | **रामैः** | 8.2.66 + 8.3.15 [preview: c02.l01] | final स् → visarga |
 
 (3) अ and उ are not savarṇa, by 1.1.9, so not 6.1.101; 6.1.87 आद्गुणः [अचि]: after अ — आत् — before
 a vowel, one guṇa vowel for both [पूर्वपरयोः]; which? ओ, the guṇa vowel most like अ + उ, by 1.1.50:
@@ -1067,11 +1077,11 @@ them.
   replaced item.
 - **1.1.55 अनेकाल्शित्सर्वस्य** — why ऐस् replaces all of भिस्, not only its last sound: a
   substitute of more than one sound replaces the whole. The LSK under 7.1.9 (VLk 142, lines
-  552–553): *anekālśit sarvasya / rāmaiḥ* — e-text *rāmairḥ*, corrected to *rāmaiḥ*.
+  552–553): *anekālśitsarvasya / rāmaiḥ* — e-text *rāmairḥ*, corrected to *rāmaiḥ*.
 - **1.3.4 न विभक्तौ तुस्माः** — why the final स् of भिस् and ऐस् is not dropped as a marker: in a
   case or verb ending, a final dental, स् or म् is not a marker (data file: carried उपदेशे, इत्,
   हल्, अन्त्यम् from 1.3.2–1.3.3). The learner line under derivation (b) says only "Chapter 2's
-  (preview)"; c02.l01 keeps this sūtra in its Teacher Notes too.
+  [preview]"; c02.l01 keeps this sūtra in its Teacher Notes too.
 - **1.1.34 पूर्वपरावरदक्षिणोत्तरापराधराणि व्यवस्थायामसंज्ञायाम्** — पूर्व and उत्तर decline as
   pronouns optionally in some cells when they mean relative position. **7.1.25 अद्ड्
   डतरादिभ्यः पञ्चभ्यः** is the contrast, not a pronominal rule for पूर्व: the neuter -अत् is for
@@ -1082,6 +1092,10 @@ them.
 - **The headings and carried words the data file adds and the course does not print yet:** the
   heading अङ्गस्य [6.4.1] over 7.1.9 and 7.3.101; सार्वधातुके carried into 7.3.101 from 7.3.87;
   संहितायाम् [6.1.72] over 6.1.77–78 and 6.1.101. The headings line is c02.l03's scaffolding.
+- **Two padaccheda forms printed inflected:** the data file's pc field gives 7.1.9's middle word as
+  the stem भिस, and its `an` field gives 8.3.34's carried word as खर्; the lesson prints the forms
+  the sūtra's sentence needs, भिसः [षष्ठी] and [खरि] [सप्तमी], as the Kāśikā glosses them (on 7.1.9,
+  line 67159: *bhisaḥ*; on 8.3.34, line 80996: *khari ity anuvartate*).
 - **8.4.40's instrumental** श्चुना "in contact with" (the Kāśikā on 8.4.40, line 83652:
   *śakāracavargābhyāṃ sannipāte*); the pairing is respective only for the replaced and the
   result (line 83653: *stoḥ ścunā iti yathāsaṅkhyam atra neṣyate*). The reading is Chapter 6's.
@@ -1129,14 +1143,14 @@ with the corrections listed (none other is made):
   ablative.
 - **The Kāśikā on 7.3.101** (lines 74087–74093): *akārāntasya aṅgasya dīrgho bhavati yañādau
   sārvadhātuke parataḥ* — the vṛtti's genitive *akārāntasya*: the reading of अतः as genitive. The
-  LSK (VLk 392, line 1346): *ato 'ṅgasya dīrgho yañādau sārvadhātuke*.
+  LSK (VLk 392, line 1347): *ato 'ṅgasya dīrgho yañādau sārvadhātuke*.
 - **The LSK on 6.1.78** (VLk 22, lines 179–180): *ecaḥ kramāday av āy āv ete syuraci* — read
   *kramād ay … syur aci*. "In place of ए ओ ऐ औ, in order, अय् अव् आय् आव् before a vowel."
 - **The LSK on 6.1.87** (VLk 27, lines 194–195): *avarṇādaci pare pūrvaparayoreko guṇa ādeśaḥ
   syāt / upendraḥ / gaṅgodakam* — read *avarṇād aci … pūrvaparayor eko*. "After an a-vowel,
   before a vowel, one guṇa substitute for both." The ablative *avarṇāt* and the heading's
   *pūrvaparayoḥ*: the key to exercise 5 (3) and (6).
-- **The LSK on 1.1.66 and 1.1.67** (VLk 16, line 162; VLk 71, line 332): *saptamīnirdeśena
+- **The LSK on 1.1.66 and 1.1.67** (VLk 16, line 162; VLk 71, line 333): *saptamīnirdeśena
   vidhīyamānaṃ kāryaṃ varṇāntareṇāvyavahitasya pūrvasya bodhyam* — e-text *avyavahatisya*
   corrected to *avyavahitasya* — "An operation prescribed by a locative applies to what
   immediately precedes, with no other sound between"; *pañcamīnirdeśena kriyamāṇaṃ kāryaṃ
@@ -1144,8 +1158,9 @@ with the corrections listed (none other is made):
   immediately follows."
 
 **The 1.x line (IR-021).** The 1.x book, p. 89, wrote "भू + ति → भवति (where गुण inserts व)".
-Its text layer garbles the Devanagari; the line was re-found by its English words. Pass C confirms
-the Devanagari from the page image before this lesson ships.
+Its text layer garbles the Devanagari; the page image (page 89, Lesson 11.15, under "2. आगम
+(ĀGAMA) — INSERTION / AUGMENT") reads "Example: भू + ति → भवति (where गुण inserts व)", letter
+for letter as quoted here (re-read 2026-11-10).
 
 **Why the derive-it-yourself items start from अग्ने, गुरो, ने.** How the final vowel of the stem
 or root became ए or ओ is guṇa (c02.l02), and ने's ए stands before the class sign (c03.l02);
@@ -1214,7 +1229,7 @@ narrator reads the cue, not the English spelling.
 
 - **00:00** bhavati [bʱɐʋɐt̪i] is bho [bʱoː] and ati [ɐt̪i]. One rule turns the o into av. But
   the rule never says "before a vowel". So how does it say it?
-- **00:45** With cases. iko yaṇaci [ikoː jɐɳɐt͡ɕi]: ikaḥ [ikɐh], a genitive, means "in place of
+- **00:45** With cases. iko yaṇ aci [ikoː jɐɳɐt͡ɕi]: ikaḥ [ikɐh], a genitive, means "in place of
   ik"; yaṇ [jɐɳ], a nominative, is the result; aci [ɐt͡ɕi], a locative, means "before a vowel".
 - **02:15** In a sentence, vane [ʋɐn̪eː] means "in the forest". In a rule, the locative means
   "before".
@@ -1296,7 +1311,7 @@ narrator reads the cue, not the English spelling.
   [खरि] as the fact base gives it); the Kāśikā line of §4 against `jvkasipu.htm` line 52887
   (re-read 2026-11-10: the words match); the commentary lines of §22 at their line numbers, with
   their corrections; Whitney §307 f, §131, §329 d and §735 a (re-read in the local e-text: the
-  quoted words are his); the 1.x p. 89 line — confirm the Devanagari from the page image; the
+  quoted words are his); the 1.x p. 89 line — Devanagari confirmed from the page image, 2026-11-10; the
   headwords against Apte and MW; the Hindi parallel of §7 against Kachru (bare key); the Hindi of
   §7, the objectives and every gloss at Pass B; every joined line of §6, §13, §16, §19 against the
   Volume 3 Chapter 4 maps, and the convention that a word quoted as a form is not merged into the

@@ -18,8 +18,8 @@ review_of: [v4.c01.l01, v3.c06.l05, v3.c04.l01, v3.c03.l01, v1.c02.l01, v1.c02.l
 objectives:
   - en: "Say which sounds a letter written in a rule stands for — a short vowel for its whole family, a letter marked with उ [चु, तु] for its row, a vowel followed by त् for its own length only — and give the reason according to Pāṇini."
     hi: "बताएँ कि सूत्र में लिखा वर्ण किन वर्णों के लिए आता है — ह्रस्व स्वर अपने पूरे सवर्ण-परिवार के लिए, उ-चिह्न वाला वर्ण [चु, तु] अपने पूरे वर्ग के लिए, त् के साथ लिखा स्वर केवल अपनी ही मात्रा के लिए — और पाणिनि के अनुसार कारण दें।"
-  - en: "Expand अण् as most rules read it and as 1.1.69 reads it, and इण् and यञ्."
-    hi: "अण् को अधिकतर सूत्रों के अनुसार और 1.1.69 के अनुसार खोलें, और इण् व यञ् को भी।"
+  - en: "Expand अण् as every rule but 1.1.69 reads it and as 1.1.69 reads it, and इण् and यञ्."
+    hi: "अण् को 1.1.69 के सिवा हर सूत्र के अनुसार और 1.1.69 के अनुसार खोलें, और इण् व यञ् को भी।"
   - en: "Derive, according to Pāṇini, विद्या + आलयः → विद्यालयः, and say why गच्छामि has a long आ and गच्छथ does not; predict the long vowel in the present of owned verbs."
     hi: "पाणिनि के अनुसार विद्या + आलयः → विद्यालयः की व्युत्पत्ति करें, और बताएँ कि गच्छामि में दीर्घ आ क्यों है और गच्छथ में क्यों नहीं; परिचित क्रियाओं के वर्तमान रूपों में दीर्घ स्वर का अनुमान लगाएँ।"
   - en: "Say and write six sentences about vowel length and savarṇa with the day's words."
@@ -69,7 +69,7 @@ or for itself alone.
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Say which sounds a letter written in a rule stands for — a short vowel for its whole family, a letter marked with उ [चु, तु] for its row, a vowel followed by त् for its own length only — and give the reason according to Pāṇini. | बताएँ कि सूत्र में लिखा वर्ण किन वर्णों के लिए आता है — ह्रस्व स्वर अपने पूरे सवर्ण-परिवार के लिए, उ-चिह्न वाला वर्ण [चु, तु] अपने पूरे वर्ग के लिए, त् के साथ लिखा स्वर केवल अपनी ही मात्रा के लिए — और पाणिनि के अनुसार कारण दें। |
-| 2 | Expand अण् as most rules read it and as 1.1.69 reads it, and इण् and यञ्. | अण् को अधिकतर सूत्रों के अनुसार और 1.1.69 के अनुसार खोलें, और इण् व यञ् को भी। |
+| 2 | Expand अण् as every rule but 1.1.69 reads it and as 1.1.69 reads it, and इण् and यञ्. | अण् को 1.1.69 के सिवा हर सूत्र के अनुसार और 1.1.69 के अनुसार खोलें, और इण् व यञ् को भी। |
 | 3 | Derive, according to Pāṇini, विद्या + आलयः → विद्यालयः, and say why गच्छामि has a long आ and गच्छथ does not; predict the long vowel in the present of owned verbs. | पाणिनि के अनुसार विद्या + आलयः → विद्यालयः की व्युत्पत्ति करें, और बताएँ कि गच्छामि में दीर्घ आ क्यों है और गच्छथ में क्यों नहीं; परिचित क्रियाओं के वर्तमान रूपों में दीर्घ स्वर का अनुमान लगाएँ। |
 | 4 | Say and write six sentences about vowel length and savarṇa with the day's words. | आज के शब्दों से स्वर की मात्रा और सवर्ण के बारे में छह वाक्य बोलें और लिखें। |
 
@@ -140,9 +140,9 @@ the first book's definitions; that is how the grammar is built to be read.
 Lesson 1 left you with a fact from the list: ण् closes two sūtras: अइउण्, sūtra 1, and लण्,
 sūtra 6. So a name ending in ण् could run to either. The tradition settles it.
 
-> **[TRADITION · परम्परा]** "According to the Kāśikā, every अण् in Pāṇini's rules is formed
+> **[TRADITION · परम्परा]** According to the Kāśikā, every अण् in Pāṇini's rules is formed
 > with the first ण् — except in one rule, 1.1.69, where it runs to the second; every इण् is
-> formed with the second. [REF:kashika] (on लण्)"
+> formed with the second. [REF:kashika] (on लण्)
 
 So अण् is अ इ उ everywhere but in 1.1.69, the rule you read today; there it is अ इ उ ऋ ऌ ए ओ
 ऐ औ ह य व र ल. And इण् is always इ … ल. Two later rules show the use, and their numbers are
@@ -281,8 +281,8 @@ the word before it stands in its pause form (न, ह्रस्वः; तु�
 म यञ् में है, इसलिए गच्छामि; -थ का थ यञ् में नहीं, इसलिए गच्छथ — गच्छाथ नहीं।
 
 हिन्दी से एक जोड़। हिन्दी व्याकरण की पुस्तकें दीर्घ सन्धि को दो सवर्ण स्वरों का मेल बताती हैं —
-विद्या + आलय = विद्यालय, हिम + आलय = हिमालय [REF:guru1952]। हिन्दी की पाठशाला जिस शब्द से
-यह नियम कहती है, वही सवर्ण आज आपका संस्कृत शब्द है।
+विद्या + आलय = विद्यालय, हिम + आलय = हिमालय। हिन्दी की पाठशाला में यह नियम
+जिस शब्द से समझाया जाता है, वही सवर्ण आज आपका संस्कृत शब्द है।
 
 अन्त में अण् की बात। चौदह सूत्रों में ण् दो बार आता है — अइउण् में और लण् में। काशिका के अनुसार
 पाणिनि के सूत्रों में हर अण् पहले ण् तक जाता है [अ इ उ], केवल एक सूत्र को छोड़कर — 1.1.69,
@@ -392,9 +392,9 @@ nothing before थ.
 
 Now run the same tools yourself.
 
-- **Derivation (a) on four owned joins** (§18 exercise 4, items (2)–(5)): न + अस्ति,
-  हिम + आलयः, तथा + अपि, इति + इव. Each takes the same three steps. Watch the last: two इ give
-  one long ई.
+- **Derivation (a) on five owned joins** (§18 exercise 4, items (2)–(6)): न + अस्ति,
+  हिम + आलयः, तथा + अपि, इति + इव, गङ्गा + अपि. Each takes the same three steps. Watch इति + इव:
+  two इ give one long ई.
 - **Derivation (b) on पठति's cells.** Before you open any table, predict the seven ✓ present
   cells of पठति from the rule alone: for each ending — -ति, -तः, -अन्ति, -सि, -थ, -मि, -मः —
   ask "is its first sound a yañ sound?", and lengthen the stem's अ only where it is. Then check
@@ -546,9 +546,9 @@ Volumes 2 and 3. Two tables, one per form.
 | Step | String | Sūtra | What happens |
 |---|---|---|---|
 | 0 | गच्छ + थ | — | stem + the 2nd-person plural ending |
-| 1 | गच्छ + थ | 1.1.70 (D) | short अ: अत् fits |
-| 2 | गच्छ + थ | 1.1.71 (Q, l01) | थ is not in यञ् |
-| 3 | गच्छ + थ | 7.3.101 (owned) | does not apply: no change |
+| 1 | गच्छ + थ | 1.1.70 तपरस्तत्कालस्य [D] | short अ: अत् fits |
+| 2 | गच्छ + थ | 1.1.71 आदिरन्त्येन सहेता [Q, l01] | थ is not in यञ् |
+| 3 | गच्छ + थ | 7.3.101 अतो दीर्घो यञि [owned] | does not apply: no change |
 | 4 | **गच्छथ** | — | joined (and गच्छति, गच्छतः, गच्छसि) |
 
 > **[FACT · तथ्यम्]** Whitney states the same pattern without any rule-letters: "the
@@ -646,7 +646,7 @@ The wording of each is in §8 Step 3; here is where each stands.
   one step of derivation (a).
 - **D — 1.1.70 तपरस्तत्कालस्य.** Tapara: own length only. The authority for step 1 of derivation
   (b).
-- **Re-read (owned):** 6.1.101 अकः सवर्णे दीर्घः; 7.3.101 अतो दीर्घो यञि. **Pointers (numbers
+- **Re-read [owned]:** 6.1.101 अकः सवर्णे दीर्घः; 7.3.101 अतो दीर्घो यञि. **Pointers (numbers
   printed, not tools):** 8.4.40, 1.1.11, 1.1.1, 1.1.2, 1.1.51, 8.3.57; and 7.1.9, lesson 3's.
 
 ### The two ण्
@@ -737,8 +737,8 @@ turns; each turn printed joined, its pause form beneath, then the gloss. Audio: 
   गच्छथ इति अत्र दीर्घः न अस्ति। किमर्थम्? (gacchatha iti atra dīrghaḥ na asti. kimartham?)
   "In gacchatha there is no long vowel. Why?" — गच्छथ में दीर्घ स्वर नहीं है। क्यों?
 
-— गुरुः: थकारो यञ् न। (thakāro yañ na.)
-  थकारः यञ् न। (thakāraḥ yañ na.)
+— गुरुः: थकारो न यञ्। (thakāro na yañ.)
+  थकारः न यञ्। (thakāraḥ na yañ.)
   "थ is not a yañ sound." — थकार यञ् नहीं है।
 
 — छात्रा: अदित्यत्र तकारः किमर्थम्? (ad ity atra takāraḥ kimartham?)
@@ -756,7 +756,7 @@ turns; each turn printed joined, its pause form beneath, then the gloss. Audio: 
 Housekeeping. The seams are Volume 3's: आलयश्च, visarga + च; किमाकारौ, म् before a vowel,
 written together; स्थानं तुल्यम्, म् → ं before त; अत एको, -अः before ए → अ and a gap; अदित्यत्र,
 the final त् voiced before इ, then इ + अ → य्; नाकारः, न + आ → one long आ; मकारो यञ्, थकारो
-यञ्, दीर्घो नास्ति, -अः → ओ before a voiced sound. A daṇḍa, a "?" or a comma stops every seam:
+न, दीर्घो नास्ति, -अः → ओ before a voiced sound. A daṇḍa, a "?" or a comma stops every seam:
 दीर्घः, and ह्रस्वः। keep their visarga; so does दीर्घः before the क of कुतः, as Volume 3 taught. In turn 7 the quoted sūtra is printed as the data
 file has it and joined to इति [यञि + इति → यञीति]; the pause line keeps the sūtra as printed.
 In turn 2 the quoted words विद्या आलयः stay unjoined. No sentence pairs a neuter and a
@@ -799,7 +799,7 @@ written in इक् (4) ऋ (5) चु (6) तु (7) अत् — in 7.3.101 
 (7) त थ (8) इ श.
 
 **अभ्यासः 3 · expand (objective 2; in class, 4 minutes).** Expand from the fourteen sūtras,
-sound by sound: (1) अण् as most rules read it — every rule but 1.1.69 (2) अण् in 1.1.69 (3) इण्
+sound by sound: (1) अण् as every rule but 1.1.69 reads it (2) अण् in 1.1.69 (3) इण्
 (4) यञ् (5) अक् (6) यण्.
 
 **अभ्यासः 4 · Derive, according to Pāṇini, … (objective 3; production, written; items (1)–(3)
@@ -1018,7 +1018,8 @@ with the corrections listed (none other is made):
 - **The Kāśikā on 1.1.69** (lines 1734–1741): *pareṇa ṇakāreṇa pratyāhāragrahaṇam / aṇ
   gṛhyamāṇa udic ca savarṇānāṃ grāhako bhavati, svasya ca rūpasya, pratyayaṃ varjayitvā / …
   udit khalv api / cuṭū, laśakvataddhite: cavargaṭavargayoḥ kavargasya ca grahaṇaṃ bhavati /
-  apratyayaḥ iti kim? sanāśaṃsabhikṣa uḥ, a sāmpratike, dīrgho na bhavati*.
+  apratyayaḥ iti kim? sanāśaṃsabhikṣa uḥ, a sāmpratike, dīrgho na bhavati* — correction line
+  1740 *grahanam* → *grahaṇaṃ*.
 - **The Kāśikā on 1.1.70** (lines 1743–1757): *taḥ paro yasmāt so 'yaṃ taparaḥ, tād api paraḥ
   taparaḥ / taparo varṇas tatkālasya, ātmanā tulyakālasya guṇāntarayuktasya savarṇasya grāhako
   bhavati, svasya ca rūpasya / … kim udāharaṇam? ato bhisa ais — vṛkṣaiḥ, plakṣaiḥ / …

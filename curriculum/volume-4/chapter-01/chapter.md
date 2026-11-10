@@ -31,7 +31,7 @@ written with त् for its own length only (1.1.70) — which explains वि�
 speaks: the genitive "in place of", the locative "before", the ablative "after", the nominative the
 result (1.1.49, 1.1.66, 1.1.67), with 1.3.10 for pairing in order; with it the learner reads every
 vowel rule of Volume 3, derives the last step of भवति (भो + अति, the first step of the volume's
-भवति thread) and the -ऐः of देवैः (7.1.9), and from now on derives forms unaided. The fourth lesson
+भवति thread) and the -ऐः of देवैः [7.1.9], and from now on derives forms unaided. The fourth lesson
 is the Chapter 1 exam, one closed-book sitting of 45 minutes, in which Volume 3's vowel joins are
 re-derived, according to Pāṇini, step by step from his rules. Every quoted sūtra is printed as the
 Aṣṭādhyāyī data file gives it; every commentary line is "text of the GRETIL e-text".
@@ -76,7 +76,7 @@ By the end of this chapter the learner can:
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
 | 1 | v4.c01.l01 | अइउण् · The Fourteen Sūtras | grammar | T9, the fourteen sūtras; the marker (1.3.3, 1.3.9, B); the pratyāhāra (1.1.71, Q); 6.1.77 re-read; इति + अवदत् → इत्यवदत् derived (1.1.50 previewed, D); IR-017, IR-018, the "~42"; the legend; सूत्रम् · प्रत्याहारः · आदिः · अन्त्यः · अक्षरम् |
-| 2 | v4.c01.l02 | सवर्णम् · One Letter for Its Whole Family | grammar | savarṇa (1.1.69, Q; 1.1.9, D) and tapara (1.1.70, D); the two ण्; विद्या + आलयः → विद्यालयः; गच्छामि against गच्छथ (7.3.101 re-read); दीर्घः · ह्रस्वः · प्रयत्नः · सवर्णः |
+| 2 | v4.c01.l02 | सवर्णम् · One Letter for Its Whole Family | grammar | savarṇa (1.1.69, Q; 1.1.9, D) and tapara (1.1.70, D); the two ण्; विद्या + आलयः → विद्यालयः; गच्छामि against गच्छथ [7.3.101 re-read]; दीर्घः · ह्रस्वः · प्रयत्नः · सवर्णः |
 | 3 | v4.c01.l03 | इको यणचि · How a Rule Speaks | grammar | the case code (1.1.49, 1.1.66, 1.1.67, Q; 1.3.10, 7.1.9, D; 1.1.50 read); the padaccheda with case names; भो + अति → भवति; देव + भिस् → देवैः; the first "derive it yourself" (नयति, रामैः); आदेशः · पूर्वः · उत्तरः · विधिः |
 | 4 | v4.c01.l04 | प्रथमपरीक्षा · Chapter 1 Exam | review | the chapter on one page (T9, the pratyāhāra index, the savarṇa/tapara table, the case-code table, the toolbox of 12); five tasks in one 45-minute sitting; the thread verse सर्वे भवन्तु सुखिनः… re-read after it |
 
@@ -104,17 +104,17 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 Lesson 4 is the Chapter 1 exam: one closed-book sitting of 45 minutes, 2 of them for instructions;
 Station 0 (about 8 minutes) runs before it and outside it. **A** — the fourteen sūtras written from
 memory, every marker circled (6 min; 14 points, pass 11). **B** — ten pratyāhāras expanded, three
-of them traps: अण् as most rules read it and as 1.1.69 reads it, against इण्; हल् from the ह of
-हयवरट्; चय् against झश् (7 min; 10, pass 7). **C** — six sūtras of the case-code table read:
+of them traps: अण् as every rule but 1.1.69 reads it and as 1.1.69 reads it, against इण्; हल् from the ह of
+हयवरट्; चय् against झश् [7 min; 10, pass 7]. **C** — six sūtras of the case-code table read:
 what is replaced, by what and where — 6.1.77, 6.1.78, 6.1.101, 7.1.9, 7.3.101, 8.4.40 (10 min; 18,
 pass 12). **D** — "Derive, according to Pāṇini, …": five owned vowel joins in table form, each step
-with its sūtra — नास्ति, इत्यवदत्, तत्रैव, सूर्योदयः, विद्यालयः (12 min; 20, pass 14). **E** — six
+with its sūtra — नास्ति, इत्यवदत्, तत्रैव, सूर्योदयः, विद्यालयः [12 min; 20, pass 14]. **E** — six
 Sanskrit sentences about the sound system with the chapter's words, joined, with the pause form
 beneath, then said aloud (8 min; 12, pass 8). Pass: every task at its pass mark, and the §19 quiz
 (after the sitting) at 7/10. The rubric weights the reading and the derivations (C and D, 38 of 74
 points) over recall (A, 14). After the sitting, unscored, the learner re-reads the Volume 3 thread
 verse सर्वे भवन्तु सुखिनः… — it has no vowel join between words — and names the owned sūtras of its
-two changed seams (8.2.39) and of the visarga inside कश्चित् (8.3.34, then 8.4.40). No legend or
+two changed seams (8.2.39) and of the visarga inside कश्चित् [8.3.34, then 8.4.40]. No legend or
 SYMBOL content is assessed. Retake after one week, with the alternative item sets of the Teacher
 Notes. Station 0 chain: l01 runs the Volume 3 exam's +1-day booking and v3.c06.l04's +1-week
 booking; l02 runs l01's +1-day item and the Volume 3 exam's +1-week booking; l03 runs l02's +1-day

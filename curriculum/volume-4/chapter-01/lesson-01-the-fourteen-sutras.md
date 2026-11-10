@@ -102,7 +102,8 @@ the scores beside the Volume 3 exam's [REF:cepeda2006].
 
 1. **The exam text again (2 min).** Read the passage aloud, joined, at natural pace, with no
    pause at any seam. Then say each numbered word with its meaning, without looking back at the
-   exam booklet. Pañcatantra 4, frame story — text of the GRETIL e-text [REF:panchatantra]:
+   exam booklet. Pañcatantra 4, frame story — text of the GRETIL e-text
+   [REF:panchatantra tantra 4, frame story]:
 
    > सोऽपि मकरो भक्षितशेषाणि¹ जम्बूफलानि गृहं गत्वा स्वपत्न्यै प्रयच्छति। (so 'pi makaro bhakṣitaśeṣāṇi jambūphalāni gṛhaṃ gatvā svapatnyai prayacchati.)
    > अथान्यतमे² दिवसे तया स पृष्टः³ — नाथ! क्वैवंविधान्यमृतफलानि⁴ प्राप्नोषि? (athānyatame divase tayā sa pṛṣṭaḥ — nātha! kvaivaṃvidhāny amṛtaphalāni prāpnoṣi?)
@@ -194,13 +195,13 @@ its page and corrected here; §12 and §18 exercise 4 drill the corrections.
    unaspirated". **Corrected:** चय् = च ट त क प, voiceless and **unaspirated**; झश् names ten
    voiced stops, aspirated and unaspirated (झ भ घ ढ ध ज ब ग ड द); जश् names the five unaspirated
    ones (ज ब ग ड द). They are not the same set.
-2. **The memory aid — p. 70.** The 1.x book printed: "Sutras 1-4: VOWELS (अच्) / Sutras 5-6:
+2. **The memory aid — p. 70.** The 1.x book printed: "Sutras 1-4: VOWELS (अच्) / Sutra 5-6:
    SEMI-VOWELS (य् व् र् ल्) / Sutra 7: NASALS (ञ म ङ ण न) / Sutras 8-11: STOPS (झ भ घ ढ ध ज ब ग
    ड द ख फ छ ठ थ च ट त क प) / Sutras 13-14: SIBILANTS + ह (श ष स ह)". **Corrected:** sūtra 12,
    कपय्, has no line there — its क प are put under "8-11" — and the ह of sūtra 5 is missing from
    "5-6". The rebuilt aid, with all fourteen, is in §15.
 3. **इको यणचि's number — p. 71.** The 1.x book printed: "This lets Panini write rules like
-   "इको यणचि" [1.1.45] = "इक् becomes यण् before अच्"". **Corrected:** इको यणचि is 6.1.77, as
+   "इको यणचि" (1.1.45) = "इक् becomes यण् before अच्"". **Corrected:** इको यणचि is 6.1.77, as
    v3.c04.l01 said; 1.1.45 is a different rule (its text: इग्यणः सम्प्रसारणम्)
    [REF:ashtadhyayi 6.1.77]; [REF:ashtadhyayi 1.1.45].
 
@@ -240,8 +241,8 @@ in place of another. §15 expands both names.
 made: put a hand on your throat and say ज, then च — the buzz is there in ज and not in च.
 Aspiration is a puff of breath after the release: hold a strip of paper before your lips and say
 फ, then प — it moves for फ. Sanskrit's voiced aspirates (घ झ ढ ध भ) are breathy-voiced, written
-with a raised ʱ (STYLE_GUIDE §2): voiced, with breath after. So चय्, च ट त क प, is the **first** member of four
-series — voiceless and unaspirated. That one fact is the 1.x book's error on p. 96, put right.
+with a raised ʱ (STYLE_GUIDE §2): voiced, with breath after. So चय्, च ट त क प, names the **first** member of each
+of the five series — voiceless and unaspirated. That one fact is the 1.x book's error on p. 96, put right.
 
 The course principle behind the lesson, with its one source: formulaic chunks are taught whole and
 analysed later [REF:nation2013]. You were given इको यणचि whole in Volume 3; today it is analysed.
@@ -325,11 +326,12 @@ than अ → अ, with a gap; अच् इति → अजिति — a fina
 **अब इको यणचि पढ़िए।** इकः — इक् के स्थान पर; यण् — यण् आता है; अचि — अच् से पहले। यानी: "इ उ
 ऋ ऌ के स्थान पर, किसी स्वर से पहले, य व र ल में से कोई आता है।" इति + अवदत् में इ इक् है, अ अच्
 है — इसलिए इ के स्थान पर यण् आता है। पर कौन-सा यण्? वह जो इ से सबसे मिलता-जुलता हो: य्, क्योंकि
-इ और य् दोनों तालव्य हैं — पहले खण्ड की तालिका में दोनों तालु वाली पंक्ति में हैं। इसी तरह सु +
+इ और य् दोनों तालव्य हैं — पहले खण्ड में आपने इ को चवर्ग के साथ तालव्य सीखा था, और य को ई की
+जगह पर बोलना। इसी तरह सु +
 आगतम् में उ के स्थान पर व् आता है, क्योंकि दोनों में होंठ काम करते हैं।
 
-**तीन जाल।** पहला: चय् = च ट त क प — ये अघोष **अल्पप्राण** हैं; 1.x पुस्तक ने इन्हें "महाप्राण"
-लिखा था, वह ग़लत था। दूसरा: झश् और जश् एक नहीं हैं। झश् झ से शुरू होता है और दस घोष स्पर्शों का
+**तीन जाल।** पहला: चय् = च ट त क प — ये अघोष **अल्पप्राण** हैं; 1.x पुस्तक ने अंग्रेज़ी में इन्हें महाप्राण
+बताया था, वह ग़लत था। दूसरा: झश् और जश् एक नहीं हैं। झश् झ से शुरू होता है और दस घोष स्पर्शों का
 नाम है; जश् ज से शुरू होता है और केवल पाँच अल्पप्राण घोष स्पर्शों का। तीसरा: ह दो बार आता है —
 हयवरट् में भी और हल् में भी; और ण् दो सूत्रों को बन्द करता है — अइउण् और लण्। ये दोनों बातें
 अगले पाठ में काम आएँगी।
@@ -400,8 +402,8 @@ before ac: yaṇ"**. (Why "of" and "before": the case code, v4.c01.l03.)
 
 §15 sets out इति + अवदत् → इत्यवदत् in five steps, each with the sūtra that does it. Steps 1–2
 find the sounds in their sets (इ is an इक् sound, अ an अच् sound); step 3 applies 6.1.77; step 4
-chooses which यण्: य्, because इ and य् are both made at the palate — you placed them on the
-grid's palatal row in Volume 1. The sūtra behind step 4 is printed as a preview; you read it in
+chooses which यण्: य्, because इ and य् are both made at the palate — Volume 1 filed इ with
+the palatal row (v1.c03.l02) and made य at the ई position (v1.c04.l01). The sūtra behind step 4 is printed as a preview; you read it in
 v4.c01.l03. Every derivation is Pāṇini's analysis of a form, so every derivation item in this
 volume is headed "Derive, according to Pāṇini, …".
 
@@ -578,8 +580,8 @@ with the replaced sound and the यण् that comes in:
 | "• चय् (cay) = voiceless aspirated" (p. 96) | चय् = च ट त क प: voiceless, unaspirated |
 | "• जश् (jaś) = also voiced unaspirated", beside झश् = "voiced unaspirated stops (ज ब ग ड द)" (p. 96) | झश् = झ भ घ ढ ध ज ब ग ड द, ten voiced stops; जश् = ज ब ग ड द, five: not the same set |
 | "Sutras 8-11: STOPS (… क प)" and no line for sūtra 12 (p. 70) | 11 the voiceless aspirated stops, then च ट त · 12 क प |
-| "Sutras 5-6: SEMI-VOWELS (य् व् र् ल्)" (p. 70) | 5–6 the semivowels, with ह first |
-| "इको यणचि" [1.1.45] (p. 71) | 6.1.77; 1.1.45 is a different rule, इग्यणः सम्प्रसारणम् |
+| "Sutra 5-6: SEMI-VOWELS (य् व् र् ल्)" (p. 70) | 5–6 the semivowels, with ह first |
+| "इको यणचि" (1.1.45) (p. 71) | 6.1.77; 1.1.45 is a different rule, इग्यणः सम्प्रसारणम् |
 
 ## 14. Vocabulary
 
@@ -637,6 +639,12 @@ to a later lesson is marked with that lesson.
 they are printed apart, never joined: joined, अ आ would merge into one आ and इ उ ऋ ऌ into
 something else — the very joins being named. The Kāśikā writes them the same way. A quoted sūtra
 is printed as the Aṣṭādhyāyī text has it, joined (इको यणचि), and is never re-joined or split.
+
+**Quoted forms join the इति after them.** A quoted form — a name, a sūtra, a word — is joined
+to the इति that follows it: हलिति, अजिति, इको यणचीति. The Laghusiddhāntakaumudī writes अणिति
+the same way [REF:laghukaumudi on 1.1.71]. Its first sound is never fused with the word before
+it, so that the form can still be seen: अत्र अत इति, not अत्रात इति. Every other seam of a line
+is joined as Volume 3 taught. These conventions hold in every lesson of the chapter.
 
 **Status marks.** ✓ productive — "you produce it: exercises, quiz and exam may ask for it";
 ◐ recognition — "you read it when you meet it; nothing asks you to produce it, and nothing scores
@@ -736,7 +744,7 @@ ordinary word (अवदत्) is no marker.
 
 लोपः as a word is c02.l02's; here it is read inside the sūtra.
 
-> **[TRADITION · परम्परा]** **Re-read (owned) — 6.1.77 इको यणचि**, now read: इकः "of an ik" ·
+> **[TRADITION · परम्परा]** **Re-read [owned] — 6.1.77 इको यणचि**, now read: इकः "of an ik" ·
 > यण् "a yaṇ" · अचि "before an ac" → "ik before ac: yaṇ". [REF:ashtadhyayi 6.1.77];
 > [REF:kashika 6.1.77]
 
@@ -754,13 +762,13 @@ Done with the teacher; you write the first three columns of the next three in §
 |---|---|---|---|
 | 0 | इति + अवदत् | — | two words in contact (joined text) |
 | 1 | इति + अवदत् | 1.1.71 आदिरन्त्येन सहेता [Q] | the final इ is an इक् sound: अ**इ**उण् ऋऌ**क्** → इ उ ऋ ऌ |
-| 2 | इति + अवदत् | 1.1.71 (Q) | the next sound अ is an अच् sound: **अ**इउण् … ऐऔ**च्** |
+| 2 | इति + अवदत् | 1.1.71 [Q] | the next sound अ is an अच् sound: **अ**इउण् … ऐऔ**च्** |
 | 3 | इत् + (य्/व्/र्/ल्) + अवदत् | 6.1.77 इको यणचि [owned] | an इक् before an अच् is replaced by a यण् sound |
 | 4 | इत्य् + अवदत् | 1.1.50 स्थानेऽन्तरतमः [D, preview: l03] | the यण् most like इ: य्, both made at the palate |
 | 5 | **इत्यवदत्** | — | joined |
 
-Step 4's "both made at the palate": इ and य् are both palatal; you placed them on the grid's
-palatal row in Volume 1. For उ the nearest यण् is व्: both use the lips (§11).
+Step 4's "both made at the palate": इ and य् are both palatal; Volume 1 filed इ with the
+palatal row (v1.c03.l02) and made य at the ई position (v1.c04.l01). For उ the nearest यण् is व्: both use the lips (§11).
 
 > **[FACT · तथ्यम्]** "The i-vowels, the u-vowels, and ऋ ṛ, before a dissimilar vowel or
 > diphthong, are regularly converted each into its own corresponding semivowel, य् y or व् v or
@@ -868,7 +876,7 @@ vowel → य्: इत्यत्र, कत्यक्षराणि. -अ
 another vowel → अ, with a gap: क आदिः; and सः before a vowel the same way: स इत्. ए before अ → एऽ:
 सूत्रेऽपि. A final stop voiced before a vowel: अजिति, हयवरडिति. A consonant-final word written
 together with what follows: हलिति. In turn 9 the quoted sūtra is printed as the Aṣṭādhyāyī text
-has it and joined to इति, यणचि + इति → यणचीति, as Volume 3 joined a quoted rule to इति; the
+has it and joined to इति, यणचि + इति → यणचीति, as every quoted form is joined to इति [§15]; the
 pause line keeps the quoted sūtra as printed.
 
 **Not joined.** गुरो, — the comma is a stop. Every daṇḍa and "?" is a stop. The quoted sounds of
@@ -921,8 +929,8 @@ the fourteen sūtras in order, one per line; then circle every marker. 14 items,
 ञमङणन_ (4) खफछठथचटत_ (5) शषस_ (6) झभ_
 
 **अभ्यासः 3 · expand from the sūtras (objective 2; (1)–(5) in class, 3 min; (6)–(10) homework,
-3 min).** Write every sound each one names, in the order of the list: (1) अच् (2) हल् (3) इक्
-(4) यण् (5) एच् (6) एङ् (7) अक् (8) झल् (9) जश् (10) चय्.
+3 min).** Write every sound each one names, in the order of the list: (1) अच्; (2) हल्; (3) इक्;
+(4) यण्; (5) एच्; (6) एङ्; (7) अक्; (8) झल्; (9) जश्; (10) चय्.
 
 **अभ्यासः 4 · the traps (objective 2; homework, 5 min).** (1) Expand झश्. (2) Which of झश् and
 जश् contains भ? (3) Is चय् aspirated? (4) In which two sūtras does ह stand? (5) Which of ल, ह, न
@@ -944,7 +952,7 @@ columns; the gloss is optional:
 | 5 | **___** | — |
 
 (4)–(6) For each owned join of v3.c04.l01, say which sound replaced which, and why it is that यण्:
-(4) नद्यस्ति (5) बह्वन्नम् (6) उपर्यागच्छति.
+(4) नद्यस्ति; (5) बह्वन्नम्; (6) उपर्यागच्छति.
 
 **अभ्यासः 6 · six sentences (objective 4; production, written then said; homework, 8 min).**
 Write in Sanskrit, joined, with the pause form beneath; then say each aloud, joined: (1) "हल् is
@@ -987,8 +995,8 @@ said as the track says it.
    itself" (§15). TRADITION, in the frame asked. ((b) is §12 mistake 1: the marker is never named.)
 3. (b) — य … लण्: य व र ल — §15. ((a) stops at the ट् of हयवरट्; (c) runs on past the ण् of लण्;
    (d) is हल्.)
-4. (b) — the first members of four rows: voiceless, unaspirated [REF:whitney1889 §34]
-   [REF:whitney1889 §35] (§5). FACT. ((a) is the 1.x error, §4 item 1.)
+4. (b) — the first members of the five rows: voiceless, unaspirated [REF:whitney1889 §34]
+   [REF:whitney1889 §35] [REF:whitney1889 §37] (§5). FACT. ((a) is the 1.x error, §4 item 1.)
 5. (c) — झश् = झ भ घ ढ ध ज ब ग ड द; जश् starts at ज and has no भ (§15, the drill row; §12 mistake
    3).
 6. (c) — हयवरट् and हल् — §15, the two facts; §12 mistake 4.
@@ -1017,23 +1025,23 @@ said as the track says it.
 कपय् शषसर् हल्; circled: ण् क् ङ् च् ट् ण् म् ञ् ष् श् व् य् र् ल्. One point per sūtra written
 right with its marker circled. Score /14; 11 passes.
 
-2: (1) क् (2) ट् (3) म् (4) व् (5) र् (6) ञ्. Score /6.
+2: (1) क्; (2) ट्; (3) म्; (4) व्; (5) र्; (6) ञ्. Score /6.
 
-3: (1) अ इ उ ऋ ऌ ए ओ ऐ औ (2) ह य व र ल ञ म ङ ण न झ भ घ ढ ध ज ब ग ड द ख फ छ ठ थ च ट त क प श ष स
-— every consonant, ह once (3) इ उ ऋ ऌ (4) य व र ल (5) ए ओ ऐ औ (6) ए ओ (7) अ इ उ ऋ ऌ (8) झ भ घ ढ
-ध ज ब ग ड द ख फ छ ठ थ च ट त क प श ष स ह (9) ज ब ग ड द (10) च ट त क प. A marker written among
+3: (1) अ इ उ ऋ ऌ ए ओ ऐ औ; (2) ह य व र ल ञ म ङ ण न झ भ घ ढ ध ज ब ग ड द ख फ छ ठ थ च ट त क प श ष
+स — every consonant, ह once; (3) इ उ ऋ ऌ; (4) य व र ल; (5) ए ओ ऐ औ; (6) ए ओ; (7) अ इ उ ऋ ऌ; (8) झ
+भ घ ढ ध ज ब ग ड द ख फ छ ठ थ च ट त क प श ष स ह; (9) ज ब ग ड द; (10) च ट त क प. A marker written among
 the sounds costs the item. Score /10.
 
-4: (1) झ भ घ ढ ध ज ब ग ड द (2) झश् (3) no — च ट त क प, unaspirated (4) हयवरट् and हल् (5) ल
-(6) no — एङ् = ए ओ; ऐ is in एच्. Score /6.
+4: (1) झ भ घ ढ ध ज ब ग ड द; (2) झश्; (3) no — च ट त क प, unaspirated; (4) हयवरट् and हल्;
+(5) ल; (6) no — एङ् = ए ओ; ऐ is in एच्. Score /6.
 
 5: (1)–(3) as §15's derivation, step for step:
 
 | Step | (1) String | (2) String | (3) String | Sūtra |
 |---|---|---|---|---|
 | 0 | इति + आह | अपि + अस्ति | सु + आगतम् | — |
-| 1 | इति + आह | अपि + अस्ति | सु + आगतम् | 1.1.71 (Q): इ / इ / उ is an इक् sound |
-| 2 | इति + आह | अपि + अस्ति | सु + आगतम् | 1.1.71 (Q): आ / अ / आ is an अच् sound |
+| 1 | इति + आह | अपि + अस्ति | सु + आगतम् | 1.1.71 [Q]: इ / इ / उ is an इक् sound |
+| 2 | इति + आह | अपि + अस्ति | सु + आगतम् | 1.1.71 [Q]: आ / अ / आ is an अच् sound |
 | 3 | इत् + (य्/व्/र्/ल्) + आह | अप् + (य्/व्/र्/ल्) + अस्ति | स् + (य्/व्/र्/ल्) + आगतम् | 6.1.77 इको यणचि [owned] |
 | 4 | इत्य् + आह | अप्य् + अस्ति | स्व् + आगतम् | 1.1.50 स्थानेऽन्तरतमः [D, preview: l03]: य् / य् / व् |
 | 5 | **इत्याह** | **अप्यस्ति** | **स्वागतम्** | — |
@@ -1054,7 +1062,8 @@ v4.c01.l02's rule.) One point for the sounds, one for the reason. Score /6.
 pratyāhāraḥ.) [pause: अच् इति स्वराणाम् प्रत्याहारः।] (6) इको यणचीत्यत्र कत्यक्षराणि?
 पञ्चाक्षराणि। (iko yaṇ acīty atra katy akṣarāṇi? pañcākṣarāṇi.) [pause: इको यणचि इति अत्र कति
 अक्षराणि? पञ्च अक्षराणि।] Accept any correct Sanskrit with correct joins; (4) अइउणः अन्त्यो वर्णो
-णकारः is **not** accepted: अइउण् is a name, not declined. One point for the joined line, one for
+णकारः is **not** accepted: अइउण् here names a sūtra, and a sūtra is cited with इति, not
+declined (a pratyāhāra name is declined as a label: इकः, §16). One point for the joined line, one for
 the pause form. Score /12; then say each aloud, joined, with no pause at any seam.
 
 7: the recording against the track. One tick per line said with every helping अ and a bare
@@ -1168,7 +1177,7 @@ added: 4.
   markers inside a pratyāhāra are not among the sounds it names: the Kāśikā's verse at line 176
   (*pratyāhāre 'nubandhānāṃ katham ajgrahaṇeṣu na …*).
 - Kāśikā on 1.3.3 (lines 3464–3473): *upadeśe iti vartate / ante bhavam antyam / dhātvādeḥ
-  samudāyasya yad antyaṃ hal, tad itsañjñaṃ bhavati / aiuṇ – ṇakāraḥ / ṛḷk – kakāraḥ / eoṅ –
+  samudāyasya yad antyam hal, tad itsañjñaṃ bhavati / aiuṇ – ṇakāraḥ / ṛḷk – kakāraḥ / eoṅ –
   ṅakāraḥ / aiauc – cakāraḥ / upadeśe ity eva / agnicit / somasut*. Corrections: *vartte* →
   *vartate* (3464); *ṅakaraḥ* → *ṅakāraḥ* (3469). Its first examples are the markers of the
   fourteen sūtras; its counter-examples *agnicit*, *somasut* show that the final consonant of an

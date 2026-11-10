@@ -908,7 +908,7 @@ sitting.
    similar; (c) gives a letter its family; (d) makes a pratyāhāra. TRADITION.
 7. (b) — the HISTORY callout of §4, as l01 §4 printed it. HISTORY, asked on a cited callout this
    lesson prints; nothing beyond the callout is asked.
-8. (b) — च ट त क प, the first members of four rows: voiceless and unaspirated (l01 §4 item 1;
+8. (b) — च ट त क प, the first members of the five rows: voiceless and unaspirated (l01 §4 item 1;
    §15 (1)). (a) is no member of चय्; (c) and (d) are other lines of the list. FACT.
 9. (a) — the test "what can the result stand in place of?" (§15 (4); l03 §8 Step 4). (b) reads the
    case off the form, l03 §12 mistakes 2–3: the -अः form is genitive and ablative alike; (c) and (d)
