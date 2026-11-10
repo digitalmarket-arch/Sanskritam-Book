@@ -105,10 +105,10 @@ Lesson 4 is the Chapter 1 exam: one closed-book sitting of 45 minutes, 2 of them
 Station 0 (about 8 minutes) runs before it and outside it. **A** — the fourteen sūtras written from
 memory, every marker circled (6 min; 14 points, pass 11). **B** — ten pratyāhāras expanded, three
 of them traps: अण् as every rule but 1.1.69 reads it and as 1.1.69 reads it, against इण्; हल् from the ह of
-हयवरट्; चय् against झश् [7 min; 10, pass 7]. **C** — six sūtras of the case-code table read:
+हयवरट्; चय् against झश् — 7 min; 10, pass 7. **C** — six sūtras of the case-code table read:
 what is replaced, by what and where — 6.1.77, 6.1.78, 6.1.101, 7.1.9, 7.3.101, 8.4.40 (10 min; 18,
 pass 12). **D** — "Derive, according to Pāṇini, …": five owned vowel joins in table form, each step
-with its sūtra — नास्ति, इत्यवदत्, तत्रैव, सूर्योदयः, विद्यालयः [12 min; 20, pass 14]. **E** — six
+with its sūtra — नास्ति, इत्यवदत्, तत्रैव, सूर्योदयः, विद्यालयः — 12 min; 20, pass 14. **E** — six
 Sanskrit sentences about the sound system with the chapter's words, joined, with the pause form
 beneath, then said aloud (8 min; 12, pass 8). Pass: every task at its pass mark, and the §19 quiz
 (after the sitting) at 7/10. The rubric weights the reading and the derivations (C and D, 38 of 74
