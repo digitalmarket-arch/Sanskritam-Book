@@ -240,7 +240,8 @@ They are grammar terms, not ledger words.
 
 हिन्दी में समझिए
 
-हिन्दी में "गुरु" कभी नहीं बदलता: गुरु को, गुरु से, गुरु का, गुरु के साथ — शब्द वही रहता है,
+हिन्दी में एकवचन "गुरु" परसर्ग से पहले नहीं बदलता (बहुवचन में परसर्ग से पहले वह गुरुओं
+बनता है): गुरु को, गुरु से, गुरु का, गुरु के साथ — शब्द वही रहता है,
 काम बदलता है तो बस परसर्ग (को, से, का) बदलता है। संस्कृत में काम बदलने पर शब्द का अपना
 अन्त बदलता है। अब तक आपने यह अकारान्त शब्दों में देखा — रामः, रामम्, रामेण, रामाय। आज
 दो नए वर्ग आते हैं: इकारान्त शब्द (जिनका मूल रूप इ पर समाप्त होता है, जैसे अग्नि, कवि, कपि)
@@ -258,7 +259,7 @@ They are grammar terms, not ledger words.
 रूप नहीं था; आज मिल गया।
 
 तृतीया में -ना जुड़ता है: अग्निना, अतिथिना। पर गुरुणा, शत्रुणा, तरुणा में ण है — वही
-देखी हुई वर्तनी जो रामेण में थी: शब्द में पहले र या ष हो और बीच में कोई रोकने वाला
+देखी हुई वर्तनी जो रामेण में थी: शब्द में पहले र, ऋ या ष हो और बीच में कोई रोकने वाला
 व्यञ्जन न हो, तो न का ण। बहुवचन में द्वितीया का स्वर लम्बा हो जाता है: गुरून्, अग्नीन्।
 
 स्त्रीलिङ्ग शब्द (मति "बुद्धि, विचार", धेनु "गाय") लगभग पुंलिङ्ग की तरह चलते हैं। केवल
@@ -374,7 +375,8 @@ finished.
 
 Then the feminine card. मतिः "thought" (owned since Volume 1) and today's धेनुः "cow" go
 like अग्निः and गुरुः **except** in two places, and with **three** cells that have two
-right forms. Fill the six cells you will produce:
+right forms. Fill the ten blanks; with the two printed nominatives they are the twelve cells
+you will produce:
 
 | | मतिः sg. | मतिः pl. | धेनुः sg. | धेनुः pl. |
 |---|---|---|---|---|
@@ -515,7 +517,7 @@ icon beside each rung: rounded and still for ओ, opening-then-closing for औ.
 
 Sentence 1 is v2.c01.l01's display, now a dative. Sentence 4's रात्रौ is the locative of
 the owned रात्रिः — the "at night" Volume 2 could not yet say. Sentence 6 is the course's
-moral of the crow and the lion (Volume 2) in a new frame: बलात् is the ablative of "than",
+moral of the thirsty crow (बुद्धिः एव बलम्, v2.c06.l01) in a new frame: बलात् is the ablative of "than",
 and श्रेष्ठा is feminine because बुद्धिः is.
 
 ### Seven more
@@ -603,7 +605,8 @@ look-alike. Work through it in order; §8 Step 5's frame is the page you check h
 > the ablative-genitive singular, the vocative singular and the nominative (= vocative)
 > plural; the locative singular is -औ; the instrumental singular is -ना (-णा after र or ष
 > with nothing blocking); the accusative plural is -ईन्/-ऊन्; the genitive plural is
-> -ईनाम्/-ऊनाम् (-ऊणाम् after र). (2) The ablative and genitive singular are one form, as
+> -ईनाम्/-ऊनाम् (-ईणाम्/-ऊणाम् after र, ऋ or ष: हरीणाम्, गुरूणाम्). (2) The ablative and
+> genitive singular are one form, as
 > are the dative and ablative plural. [REF:whitney1889 §336] [REF:whitney1889 §337]
 > [REF:whitney1889 §338] [REF:whitney1889 §339] [REF:whitney1889 §341]
 
@@ -655,7 +658,7 @@ The spelling is observed, as in v3.c01.l03: you look, you sort, you write.
 
 | trigger, not blocked → ण | no trigger → न |
 |---|---|
-| गुरुणा · शत्रुणा · तरुणा · हरिणा · ऋषिणा · गुरूणाम् · शत्रूणाम् | अग्निना · कविना · अतिथिना · साधुना · कपिना · अग्नीनाम् · धेनूनाम् |
+| गुरुणा · शत्रुणा · तरुणा · हरिणा · ऋषिणा · गुरूणाम् · शत्रूणाम् · हरीणाम् · ऋषीणाम् | अग्निना · कविना · अतिथिना · साधुना · कपिना · अग्नीनाम् · धेनूनाम् |
 
 The triggers are र, ऋ and ष earlier in the word; the letters that stop the ṇ change are
 the च-row and श, the ट-row, the त-row, स and ल (य does not stop it). In ऋषिणा the ष is the
@@ -1195,7 +1198,7 @@ narrator reads the cue, not the English spelling.
 - **Demo (0:07–0:30):** guru → gurave, guroḥ, gurau, guro — four rungs, four sounds. Then
   the trap: guro (still lips) vs gurau (closing jaw). Quick flash: rātrau — "at night",
   finally.
-- **Payoff (0:30–0:43):** "Learners of this course can now decline every i- and u-word they
+- **Payoff (0:30–0:43):** "Learners of this course can now decline every masculine i- and u-word they
   own — fire, teacher, guest, enemy — and say 'better than'."
 - **CTA (0:43–0:50):** "Next: parents, and the number for two. Follow for Chapter 2."
   (End card: अग्निः गुरुः च — fire and teacher.)

@@ -205,12 +205,13 @@ The stem is मातृ in the dictionary, माता in the sentence (v1.c02
 | पिता · माता · दाता (ṛ) | पितरौ pitarau · मातरौ mātarau · दातारौ dātārau | पितृभ्याम् pitṛbhyām | पित्रोः pitroḥ · दात्रोः dātroḥ |
 | सः · सा · तत् | तौ tau · ते te · ते te | ताभ्याम् tābhyām | तयोः tayoḥ |
 | कः · का · किम् | कौ kau · के ke · के ke | काभ्याम् kābhyām | कयोः kayoḥ |
-| 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | द्वाभ्याम् dvābhyām | द्वयोः dvayoḥ |
+| 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | — (numeral obliques: v4.c05) | — (v4.c05) |
 | "both" | उभौ ubhau (m.) · उभे ubhe (f., n.) | उभाभ्याम् ubhābhyām | उभयोः ubhayoḥ |
 
-Caution printed with the card: the neuter and feminine dual -े (फले, बालिके, ते) looks like
-the locative singular (फले "on the fruit") and the a-stem pronoun's masculine nominative
-plural (ते "they"): the sentence decides (द्वे फले — dual; वृक्षे — locative; ते कपोताः —
+Caution printed with the card: the dual -े has look-alikes — the neuter फले looks like the
+a-stem locative singular (फले "on the fruit"), the feminine बालिके like the vocative singular
+(हे बालिके), and the pronoun's f./n. ते like its masculine nominative plural (ते "they"): the
+sentence decides (द्वे फले — dual; वृक्षे — locative; हे बालिके — vocative; ते कपोताः —
 plural). उभ- is declined in the dual only (Apte s.v. उभ "used only in the dual"); its oblique
 cells (Whitney gives no paradigm for उभ; the cells are the a-stem dual's, as रामाभ्याम्, रामयोः: Apte s.v. उभ) are ◐ display.
 

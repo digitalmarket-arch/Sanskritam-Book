@@ -261,7 +261,8 @@ body's pairs.
 
 हिन्दी में समझिए
 
-हिन्दी में हम पिता, माता, भ्राता, दाता, कर्ता — ये सब शब्द रोज़ बोलते हैं। ये संस्कृत से आए
+हिन्दी में हम पिता, माता, दाता, कर्ता — ये सब शब्द रोज़ बोलते हैं, और साहित्यिक भाषा में भ्राता
+भी। ये संस्कृत से आए
 तत्सम शब्द हैं, और मज़े की बात यह है कि ये संस्कृत के प्रथमा एकवचन वाले रूप हैं — यानी
 वाक्य का कर्ता बनकर जो रूप आता है, वही। संस्कृत के शब्दकोश में ये शब्द ऐसे नहीं मिलते: वहाँ
 मातृ, पितृ, दातृ, कर्तृ लिखे होते हैं, जिनके अन्त में ऋ है। इसलिए इन्हें ऋकारान्त शब्द
@@ -273,7 +274,7 @@ body's pairs.
 पितुः (पिता का) में मूल छोटा है। ऐसी पाँच जगहें हैं — प्रथमा और द्वितीया का एकवचन, प्रथमा
 और द्वितीया का द्विवचन, और प्रथमा बहुवचन — जहाँ मूल मज़बूत होता है। रिश्ते वाले ज़्यादातर
 शब्दों में यह -अर्- है (पितरम्, मातरम्, भ्रातरम्), और "करने वाला, देने वाला" जैसे शब्दों
-में -आर्- (दातारम्, कर्तारम्)। स्वसा (बहन) रिश्ते का शब्द होकर भी दाता की तरह चलती है:
+में -आर्- (दातारम्, कर्तारम्)। स्वसा (बहन) रिश्ते का शब्द होकर भी मज़बूत रूपों में दाता की तरह चलती है:
 स्वसारम्। बुलाने का रूप (सम्बोधन) है हे पितः!, हे मातः! — पहले खण्ड में जिस मातः का वादा
 किया गया था, वह यही है।
 
@@ -288,8 +289,9 @@ body's pairs.
 
 दो के लिए संख्या-शब्द भी द्विवचन में ही है: पुल्लिंग में द्वौ, स्त्रीलिंग और नपुंसकलिंग में
 द्वे। द्वौ हस्तौ, द्वे नेत्रे, द्वे बालिके। "दोनों" के लिए उभौ / उभे: उभौ पादौ "दोनों पैर"।
-एक सावधानी: फले, बालिके जैसे -े वाले द्विवचन सप्तमी एकवचन जैसे दिखते हैं (फले = "फल पर" भी)।
-वाक्य से तय कीजिए: द्वे फले में फले द्विवचन है।
+एक सावधानी: फले जैसा -े वाला नपुंसक द्विवचन सप्तमी एकवचन जैसा दिखता है (फले = "फल पर" भी), और
+बालिके जैसा स्त्रीलिंग द्विवचन सम्बोधन एकवचन जैसा (हे बालिके!)। वाक्य से तय कीजिए: द्वे फले में फले
+द्विवचन है।
 
 और अब शीर्षक का रहस्य। हिन्दी में "माता-पिता" कहते हैं। संस्कृत में पिता का द्विवचन पितरौ
 भी "माता-पिता" का अर्थ दे सकता है। पाणिनि का सूत्र 1.2.70 पिता मात्रा यही कहता है: माता के
@@ -458,8 +460,8 @@ short. Not "he pitā!": that is the nominative. Then in a row, as if calling acr
 **Listening pairs (8).** Each pair is played once in the order printed, then one word of each
 pair alone; write which one you heard. पितृभिः / पितॄन् · मातृषु / मातॄणाम् · पिता / पितः ·
 पितरौ / पितरः · पितरम् / दातारम् · रामौ / रामयोः · पितरौ / पित्रोः · फले (dual) / फले
-(locative). The last pair sounds the same; the track plays it inside a short phrase — द्वे फले
-or वृक्षे फले — and you name the job. The answers are in §19's key.
+(locative). The last pair sounds the same; the track plays it inside a short phrase — द्वे फले,
+"two fruits", or फले जलम्, "water on the fruit" — and you name the job. The answers are in §19's key.
 
 **Dictation** is §18 exercise 7: six words and two sentences, read from the audio.
 
@@ -702,17 +704,19 @@ accusative shows it. When in doubt, ask "is it a doer?".
 | ṛ-stems: पिता · माता · दाता | पितरौ pitarau · मातरौ mātarau · दातारौ dātārau | पितृभ्याम् pitṛbhyām | पित्रोः pitroḥ · दात्रोः dātroḥ |
 | सः · सा · तत् | तौ tau · ते te · ते te | ताभ्याम् tābhyām | तयोः tayoḥ |
 | कः · का · किम् | कौ kau · के ke · के ke | काभ्याम् kābhyām | कयोः kayoḥ |
-| 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | द्वाभ्याम् dvābhyām | द्वयोः dvayoḥ |
+| 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | — (numeral obliques: v4.c05) | — (v4.c05) |
 | "both" | उभौ ubhau (m.) · उभे ubhe (f., n.) | उभाभ्याम् ubhābhyām | उभयोः ubhayoḥ |
 
-Read the two right-hand columns down: -भ्याम् and -ओः stand in every row. That is why the
+Read the two right-hand columns down: -भ्याम् and -ओः stand in every noun and pronoun row (the
+numeral's oblique cells wait for v4.c05). That is why the
 card is three endings, not a table. The left column is the one to produce; each stem class
 makes it its own way (§8 Step 5).
 
-**The caution printed with the card.** The neuter and feminine dual -े (फले, बालिके, ते)
-looks like the locative singular (फले "on the fruit") and like the masculine nominative plural
-of the pronoun (ते "they"). The sentence decides: द्वे फले — dual; वृक्षे — locative; ते
-कपोताः — plural. उभ- is declined in the dual only (Apte s.v. उभ); its two oblique cells
+**The caution printed with the card.** The dual -े has look-alikes: the neuter फले looks like
+the a-stem locative singular (फले "on the fruit"); the feminine बालिके looks like the vocative
+singular (हे बालिके!); and the pronoun's f./n. ते looks like its masculine nominative plural
+(ते "they"). The sentence decides: द्वे फले — dual; वृक्षे — locative; हे बालिके — calling one
+girl; ते कपोताः — plural. उभ- is declined in the dual only (Apte s.v. उभ); its two oblique cells
 (उभाभ्याम्, उभयोः) are display.
 
 ### Step 4 — two and both
@@ -965,7 +969,7 @@ which case).
 
 3: (a) अहम् पितरम् नमामि। (with मम before पितरम्, also right; पित्रे नमामि, the dative, is
 also correct — never mark it wrong) (b) पित्रे नमः। (c) मम पितरौ (d) भ्रातुः पुस्तकम् (e)
-मात्रा सह (f) अन्नस्य दाता (g) हे पितः!
+मात्रा सह — or मात्रा alone, as in पिता मात्रा (f) अन्नस्य दाता — or भोजनस्य दाता (g) हे पितः! — or पितः! alone
 
 4: (a) मम द्वौ हस्तौ स्तः। (b) बालकस्य द्वौ कर्णौ स्तः। (c) पितरौ गृहे स्तः। (मम पितरौ … or
 पिता माता च गृहे स्तः। are also right) (d) द्वे बालिके (e) द्वे फले (f) पिता आगच्छति। The
@@ -1118,9 +1122,10 @@ same word [REF:guru1952].
 > A4 worksheet, portrait. Top half: the dual card as an empty frame — eleven rows (रामः · फलम् ·
 > बालिका · नदी · अग्निः/मतिः · गुरुः/धेनुः · पिता/माता/दाता · सः/सा/तत् · कः/का/किम् · 2 ·
 > both) and three columns, the two right-hand columns pre-printed with -भ्याम् and -ओः in grey
+> (left blank in the row for 2)
 > so that only the nominative-accusative column is to be filled. Bottom half: the §8 Step 5 T5
 > frame (three columns, ten rows), §18 exercise 2's nine phrases with answer lines, and the
-> score log — Station 0 (item 1 /32, item 2 /10), exercise 1 /10, exercise 2 /9, exercise 5
+> score log — Station 0 (item 1 /32, item 2 /10), exercise 1 /10, exercise 2 /10, exercise 5
 > /11. Footer chant: "one — two — many: एकः, द्वौ, बहवः".
 
 ## 24. AI Video Prompt
