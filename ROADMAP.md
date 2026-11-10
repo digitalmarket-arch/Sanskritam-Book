@@ -83,6 +83,17 @@ known errors fixed (इको यणचि = 6.1.77; ṇatva per 8.4.1–2; li�
 anubandha per क्ङिति च 1.1.5) and with production exercises throughout. Ends with the
 bhū → bhavati derivation done by the learner.
 
+**Planned 2026-11-10:** `research/notes/vol4-plan.md` fixes every lesson's grammar point,
+forms, sūtras by tier, derivations, headwords and ledger figure (28 lessons; 119 ledger-new
+words, 508 → 627; chapter exits 521 · 537 · 565 · 591 · 617 · 627), the 238 Aṣṭādhyāyī
+sūtras in learner text (B 26 · Q 25 · R 11 · D 121 · K 51, with 4 owned Volume 3
+sūtras re-read; the fourteen Māheśvara sūtras counted apart), the texts read with a status
+for every word-form (Hitopadeśa passages, among them the Vīravara thread of Hit 3, story 8;
+the Pañcatantra 4 frame story; in Chapter 6 the Kāśikā on the sūtras read and the
+Laghusiddhāntakaumudī's prakriyā of बभूव), and what is left to Volume 5. Its last task is
+the learner deriving भू → भवति, in task C of v4.c06.l04. Volume frame:
+`curriculum/volume-4/volume.md`.
+
 ## Volume 5 — साहित्यम् · Literature & Mastery (B2 → C1)
 
 | Ch | Title | Lessons | Status |
@@ -95,6 +106,16 @@ bhū → bhavati derivation done by the learner.
 
 Ends in an integrative capstone (compose, recite, derive, translate) — replacing the 1.x
 "victory lap".
+
+**Scope of v5.c03, fixed 2026-11-10** (`research/notes/vol4-plan.md` §6 and decision Q18
+of §7.3): v5.c03 (five lessons) holds the Nala text, BG 2.47, Bṛhad. 1.3.28, the perfect
+forms met in that reading, and one TRADITION card for accent and the padapāṭha, read on an
+Upaniṣad line. The production of the rare lakāras (aorist, benedictive, conditional,
+periphrastic future) is by reading only. Accent and Vedic grammar as a system, the
+Mahābhāṣya and the Paribhāṣenduśekhara as texts to read, and the other paribhāṣās are
+"not planned unless the ROADMAP adds a strand": v5.c05's capstone composes, recites,
+derives and translates; it reads no śāstra text. The plan's §6 lists every other item it
+leaves to Volume 5 with its Volume 5 home.
 
 ---
 
@@ -275,6 +296,19 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   ledger-new (460 cumulative); 81 reviewed lessons, validator green, exports current. Next: v3.c05
   सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds (fact base verified, lessons
   being drafted).
+- **2026-11-10** — **Volume 4 planned.** Three candidate designs (derivation-first,
+  reader-first, system-first) were judged by a Pāṇinian, a pedagogue and a house editor,
+  who ranked derivation-first first (rank points 9, mean score 56.3 of 70; reader-first 5,
+  52.0; system-first 4, 49.3); the plan keeps its spine and grafts from the other two. A
+  completeness critique found 46 gaps, each fixed; a check of that repair found 17 new
+  problems, all fixed; the editor confirmed the deputy's decisions on the 19 open questions.
+  The repaired plan was then reviewed line by line by fourteen readers with every finding
+  challenged (215 confirmed, 10 of them blockers and 72 major; 14 rejected), and a
+  post-check of the applied fixes confirmed 33 more (14 major; 5 rejected), all applied.
+  28 lessons; 119 ledger-new words (508 → 627); 238 sūtras in learner text. The plan, the
+  volume frame (draft), the ledger rules (STYLE_GUIDE §8, rules 16–23), the IMPROVEMENT_REPORT
+  rows for IR-016, IR-022, IR-023 and IR-026 and the v5.c03 scope note are in the
+  repository. No lesson changed; Volume 3 Chapters 5 and 6 come first.
 
 ## Content preservation map (from the 1.x curriculum)
 

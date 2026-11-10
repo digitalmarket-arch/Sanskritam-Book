@@ -322,10 +322,68 @@ with the lesson's **paradigm ledger**: ✓ productive (the learner produces ever
 ◐ recognition (parse when met; produce only the listed cells), ○ labelled preview or
 display.
 
+**From Volume 4 on the ledger also covers derivation.** Rules 16–23 extend rules 1–15
+without changing them, and the guiding test is unchanged: a word counts once, when the
+learner first owns its lemma as a headword; nothing a taught pattern builds ever counts
+again. Volume 4's taught patterns include whole derivational processes, so rules 16–21 say
+what they build, and rules 22–23 say how headwords are chosen and how ordinals count.
+
+16. **Roots are grammar items, not words.** A root (धातुः: √भू, √गम्, डुकृञ्) as cited in a
+    derivation or a Dhātupāṭha entry never counts; the verb counts once, as its 3sg present
+    (rule 8). A root met only inside a sūtra's example (तुद्, नुद्, लू) is display. √भू adds
+    0; भवति has counted since v1.c04.l01.
+17. **Every form a taught formation builds from an owned verb belongs to that verb:**
+    perfect, future, aorist, benedictive and conditional cells; passive and causative
+    cells; the causative stem's whole present system (गमयति, पाठयति, कारयति add 0).
+    **Exception:** a causative whose meaning is not "cause to X" is headworded as its own
+    lemma and counts once. Headworded in Volume 4: दर्शयति "shows", बोधयति "teaches,
+    informs", स्थापयति "places" (MW and Apte give them their own senses), आकर्णयति
+    "listens", a denominative (Whitney §1053 ff.) of the owned कर्णः, and व्यापादयति "kills"
+    (वि + आ + पद् "cause to perish": MW gives it its own sense). वेदयति "informs" and अर्पयति
+    "hands over" would count under the same clause if headworded; neither is.
+18. **Kṛt products of owned verbs are pattern-built** and never count: participles,
+    absolutives, infinitives, gerundives, and agent nouns in -तृ when used as verb-forms
+    (पठितः, गत्वा, कर्तुम्, कर्तव्यम् add 0). A kṛt noun or adjective with a lexicalised sense
+    counts once when headworded (प्रसन्नः "gracious"). Already-counted kṛt words (कृत, गत,
+    मृत, मुक्त, कर्ता, दाता, नयनम्, ज्ञानम् …) stay counted: the ledger never decreases.
+19. **Taddhita products are pattern-built when transparent** (base owned, suffix taught):
+    एकता, धनवान्, बलवत्तरः, पुत्रवत् add 0. A lexicalised taddhita counts once when
+    headworded (rule 10's logic). Owned taddhitas (लौकिक, ममता, एकता, सुखी, पक्षी, श्रीमान्,
+    धीमान्) stay counted; लौकिक, re-derived in v4.c04.l03, adds 0.
+20. **Technical vocabulary.** A grammatical term counts once when headworded as a noun the
+    learner uses in Sanskrit sentences (§6 Sanskrit Explanation): सूत्रम्, प्रत्ययः, धातुः,
+    आदेशः, लोपः. Labels never count: pratyāhāras (अच्, हल्), affix names with their markers
+    (शप्, तिप्, क्त, ल्यप्), lakāra names (लट्, लिट्) and saṃjñā letters (टि, घु); most were
+    already display names in Volume 3 (लट्, लङ्). प्रत्याहारः counts; अच् never does.
+21. **Sūtra-internal and commentary forms never count** (अचि, इकः, भिसः, वेति,
+    ग्रामादागच्छति as an example). A word first met in a sūtra or the Kāśikā counts when it is
+    first headworded (गौः in v4.c06.l01, from upādhyāyāya gāṃ dadāti).
+22. **How a headword is chosen.** A word is headworded because the lesson's derivation or
+    reading needs it, or because it ranks among the commonest lemmas of the DCS Hitopadeśa
+    not yet owned (`research/evidence/vol4-plan/synth-work/hitlem.txt`; e.g. स्वामिन् 68,
+    भय 43, आलोचय् 25, स्त्री 24, कोप 22, भृत्य 22, दैव 21, कारण 21, उत्था 21, मूर्ख 20). It is
+    **never** chosen because it occurs in an exam's unseen passage; where a word chosen for
+    a lesson or a prepared text also occurs there, the gloss ratio is reported both ways.
+    शृगालः, with 20 tokens, is not headworded, because the Volume 4 exam's passage X-b uses
+    it: it stays glossed.
+23. **Ordinals add 0.** The ordinals प्रथमः … दशमः are taddhita products of owned cardinals
+    (5.2.48 ff.; the irregular प्रथम, द्वितीय, तृतीय, तुरीय are given as listed forms) and
+    are pattern-built (rule 19); the case names प्रथमा … सप्तमी, display in Volume 3, are
+    their feminines and add 0 too (प्रथमः, पञ्चमः add 0). A lexicalised kṛt adjective in -य
+    or -त counts once when headworded (rule 18): शक्यम् "possible", वृद्धः "old".
+
+Rules 4, 8 and 13 are read with rule 17. The chunk मा भैषीः, an aorist taught whole because
+the aorist is ◐, counts once, as उवाच did in Volume 3; its system is never productive in
+Volume 4, so it is never re-counted. Upgrade rows continue (`vocabulary_count` only): गणः
+in v4.c03.l02 (V1 गण) and गुणः in v4.c02.l02 (V1 गुण). In Volume 4 each teaching lesson's
+§14 adds a third line beside "cells drilled: n": **"tools added: n"** — the new Q, B and D
+sūtras the lesson first uses (a sūtra owned from Volume 3 is not counted).
+
 Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 counts मतिः
 beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
 · 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 · 360 (the first four corrected at
 the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned in
 `research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (387, 411, 439 and 460 reached, at
 the reviews of v3.c01, v3.c02, v3.c03 and v3.c04; the rest are planned figures until their
-chapters ship).
+chapters ship); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
+591 · 617 · 627 (119 new headwords, 508 → 627; planned figures until their chapters ship).

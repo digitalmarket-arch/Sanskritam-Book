@@ -848,3 +848,49 @@ bibliographic data (Sarup's edition, first published 1920–1927; the Sanskrit t
 University of the Panjab, 1927; repr. Delhi: Motilal Banarsidass, 1967) is search-confirmed,
 page not opened, while the passage itself (Nirukta 6.28) and the Ṛgveda verse (10.29.1) were
 read in the local GRETIL e-texts.
+
+## Volume 4 plan — how it was made and checked (2026-11-10)
+
+`research/notes/vol4-plan.md` binds the six chapter fact bases of Volume 4 — पाणिनीयम् · The
+Pāṇinian System (B1 → B2): 28 lessons in six chapters (4 · 4 · 6 · 5 · 5 · 4), 119
+ledger-new headwords (508 → 627; planned exits 521 · 537 · 565 · 591 · 617 · 627), and 238
+distinct Aṣṭādhyāyī sūtras in learner text. The plan's §7 records every stage below; the
+scripts it names are kept in `research/evidence/vol4-plan/`.
+
+| Stage | What it checked, and against which sources | Result | Recorded in the plan |
+|---|---|---|---|
+| Three candidate designs (derivation-first, reader-first, system-first), three judges (a Pāṇinian, a pedagogue, a house editor) | each design's sūtras, forms, derivations, load and texts | derivation-first ranked first (rank points 9, mean score 56.3 of 70), reader-first second (5; 52.0), system-first third (4; 49.3) | opening; §7.1, §7.2 |
+| Synthesis on the derivation-first spine, with grafts from the other two | every error a judge found re-verified before it was changed: the sūtra in the local Aṣṭādhyāyī data file (`corp/ashd/sutraani/data.txt`, 3,983 entries), the commentary line in the GRETIL Kāśikā (`jvkasipu.htm`) and Laghusiddhāntakaumudī (`varlghku.htm`) e-texts, the form or statement in Whitney 1889, the passage by line in the GRETIL Hitopadeśa (`hitop_u.htm`), Pañcatantra (`vispancu.htm`) and Mahābhārata (`mbh_03_u.htm`) e-texts; headwords against the compiled ledger of Volumes 1–3 and Monier-Williams, Apte spot-checked; tense, form and lemma frequencies counted from the DCS corpus (Hitopadeśa, Viṣṇupurāṇa) | every judge's error fixed or kept with a reason; 8 more errors found at synthesis, among them one double-counted headword (प्रभातम्, owned since v2.c01.l03) | §7.1, §7.2 |
+| Completeness critique | what the synthesis left wrong or unhomed; where a source decides a gap, its row cites it (Whitney sections, the data file, the Laghusiddhāntakaumudī e-text, the 1.x PDF, the ROADMAP's Volume 5 chapters, the IMPROVEMENT_REPORT's loci) | 46 gaps, each fixed | §7.4 |
+| Check of the repair | the repaired text against the 46 fixes | 17 new problems, all fixed | §7.3 (the editor's confirmation) |
+| The 19 open questions | decided by a deputy in a fixed order (correctness; the ROADMAP's chapters and lesson counts; one point per lesson and at most 8 headwords; later lesson or Volume 5 rather than overload; the ledger chain) | all 19 confirmed by the editor on 2026-11-10 | §7.3 |
+| Line-by-line review by fourteen readers: for each chapter block a Pāṇinian checker (every form re-derived, every sūtra's number and text looked up in the data file, every derivation walked, every Kāśikā and Laghusiddhāntakaumudī line and every passage re-found in its e-text) and a course editor (order of teaching, headwords against the ledger and the dictionaries, joined lines against the printing rule, figures against their tables); for the volume frame one reader for the tables and arithmetic of §3 and §4.0, one for the principles, the exit profile and §5–§7; every finding challenged by a skeptic | the same sources | 215 confirmed (10 blockers, 72 major, 133 minor), 14 rejected; applied most severe first: 317 fixes as written, 11 already made by an earlier fix, 47 collisions merged in 41 clusters by a deputy and re-checked by a second reader (29 edits) | §7.5 |
+| Post-check through four lenses (tables and arithmetic; restatements of every changed point, in two halves; the form and the Sanskrit of every added or changed line), each finding challenged | the edited text against itself and the sources above | 33 confirmed (14 major, 19 minor), 5 rejected; all applied | §7.5 |
+
+The ten blockers of the review (the plan's §7.5 table): the अकः of 6.1.101 was filed as a
+genitive in the case-code table (it is an ablative, "after an ak"); 8.3.34 was said to "keep"
+the स् of नमस्ते, where it replaces a visarga with स्; शृण्वन्ति was derived by 6.1.77 (found by two
+readers; its व् comes by 6.4.87); the steps of दा → ददौ stood in the wrong order; joined lines
+were left unjoined (a space after a consonant-final word before a vowel in यण् आदेशः;
+वानरी अस्ति for वानर्यस्ति; a cited root before इति); the intermediate string of कपोतराजः was
+wrong; and the steps of भवान् stood in the wrong order (6.4.14 lengthens before नुम् is added).
+
+Final arithmetic, re-run by script after the last edit: 119 new headwords, none owned
+before, none counted twice; 508 → 627, chapter exits 521 · 537 · 565 · 591 · 617 · 627,
+unchanged by the review, which swapped one headword (v4.c01.l02: सवर्णः for उच्चारणम्) and
+moved one inside Chapter 6 (प्रकरणम्, c06.l01 → c06.l02). Sūtras in learner text: 238
+(237 before the review), by tier B 26 · Q 25 · R 11 · D 121 · K 51, and 4 owned Volume 3
+sūtras re-read; the fourteen Māheśvara sūtras are counted apart. Memory load at exit: 25 new
+Q + 25 new B by gist (plan §4.0.3 Totals, §1.4.1).
+
+Rules carried forward to the Volume 4 fact bases: a chapter fact base is checked against the
+sources before its lessons are drafted and corrects the plan where the plan is wrong —
+wrong Sanskrit, a wrong sūtra, a wrong statement about a source, or a contradiction in the
+plan's own text — recording each correction in its own §7 and in the plan's §7.6, which a
+later fact base follows instead of the lines it corrects; the plan's reviewed text is left
+as it is. Every Kāśikā and Laghusiddhāntakaumudī line is checked against the e-text and,
+where one can be opened, a printed edition; where the session's network policy lets no
+printed edition or catalogue page be opened, the evidence rule recorded above under the
+v3.c04 review applies to the Volume 4 fact bases as well, and the source line says "text of
+the GRETIL e-text". No REFERENCES key is added for the Nandikeśvarakāśikā until a citable
+edition is found (plan §7.3, Q2).

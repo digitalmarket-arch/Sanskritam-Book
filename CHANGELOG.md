@@ -4,6 +4,63 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **The Volume 4 plan** (`research/notes/vol4-plan.md`): the binding contract for the six
+  chapter fact bases of Volume 4 — पाणिनीयम् · The Pāṇinian System (B1 → B2), 28 lessons in
+  six chapters (4 · 4 · 6 · 5 · 5 · 4). Its spine is derivation first (prakriyā): every
+  teaching lesson is built round the derivation of a form the learner already owns, and its
+  last task is the learner deriving भू → भवति, in task C of v4.c06.l04. For each lesson it fixes
+  the one grammar point, the forms, the sūtras by tier, the derivations step by step, the
+  model sentences, the headwords and the ledger figure; for the volume, the memory budget,
+  the 238 distinct Aṣṭādhyāyī sūtras in learner text (B 26 · Q 25 · R 11 · D 121 · K 51, and
+  4 owned Volume 3 sūtras re-read; the fourteen Māheśvara sūtras counted apart; memory load
+  at exit 25 new Q + 25 new B by gist), every row the Volume 3 plan left to Volume 4 with
+  the lesson that takes it, the texts read with a status for every word-form, and what is
+  left to Volume 5. Ledger: 119 new headwords, 508 → 627 (planned exits 521 · 537 · 565 ·
+  591 · 617 · 627). It records how it was made (§7): three candidate designs
+  (derivation-first, reader-first, system-first) and three judges (a Pāṇinian, a pedagogue,
+  a house editor), who ranked derivation-first first (rank points 9, mean score 56.3 of 70;
+  reader-first 5, 52.0; system-first 4, 49.3); a synthesis on that spine with grafts from
+  the other two (§7.2), every error the judges found fixed or kept with a reason (§7.1); a
+  completeness critique, 46 gaps, each fixed (§7.4), and a check of that repair, 17 new
+  problems, all fixed; the deputy's decisions on the 19 open questions, confirmed by the
+  editor on 2026-11-10 (§7.3); a line-by-line review by fourteen readers (a Pāṇinian
+  checker and a course editor for each chapter block, two for the volume frame), every
+  finding challenged by a skeptic: 215 confirmed (10 blockers, 72 major, 133 minor), 14
+  rejected; the fixes applied most severe first (317 as written, 11 already made by an
+  earlier fix, 47 collisions merged in 41 clusters and re-checked: 29 edits); and a
+  post-check through four lenses (tables and arithmetic; restatements, in two halves; the
+  form and the Sanskrit of the new text): 33 confirmed (14 major, 19 minor), 5 rejected, all
+  applied (§7.5). Among the blockers fixed: the अकः of 6.1.101 is an ablative ("after an
+  ak"), not a genitive; 8.3.34 replaces the visarga of नमः with स् before ते, it does not
+  "keep" a स्; the व् of शृण्वन्ति comes from 6.4.87, not 6.1.77; the steps of दा → ददौ are put
+  in order; joined lines are joined (वानर्यस्ति; a cited root before इति); the intermediate
+  string of कपोतराजः and the order of the steps in भवान् are corrected. The review left the
+  headword total and the exits unchanged, swapped one headword (v4.c01.l02: सवर्णः for
+  उच्चारणम्) and raised the sūtra count from 237 to 238. The scripts the plan cites are in
+  `research/evidence/vol4-plan/`.
+- `curriculum/volume-4/volume.md`: the Volume 4 frame (draft).
+
+### Changed
+
+- STYLE_GUIDE §8, rules 16–23: from Volume 4 on the ledger also covers derivation — roots,
+  labels, sūtra-internal forms, and the kṛt, taddhita, passive, causative and ordinal forms
+  built from owned words never count; a causative, kṛt or taddhita word with its own
+  lexicalised sense counts once when headworded; a headword is chosen by a lesson's need or by DCS
+  frequency, never because an exam's unseen passage uses it. Each Volume 4 teaching lesson's
+  §14 adds "tools added: n". Planned Volume 4 exits: 521 · 537 · 565 · 591 · 617 · 627.
+- ROADMAP: Volume 4 planned (note and status log); a Volume 5 note fixing the scope of
+  v5.c03 and marking the Mahābhāṣya and Paribhāṣenduśekhara strand "not planned unless the
+  ROADMAP adds a strand" (plan §6, Q18).
+- IMPROVEMENT_REPORT §10: the rows for IR-016 (taught v4.c02.l03, read v4.c06.l02), IR-022
+  (v4.c03.l03), IR-023 (v4.c05.l01) and IR-026 (v4.c04.l04) aligned with the plan's §4.0.1
+  (Q8).
+- research/verification-log.md: how the Volume 4 plan was made and checked, and the rule
+  that a chapter fact base corrects the plan where the plan is wrong.
+
 ## [0.16.0] — 2026-11-10
 
 Volume 3, Chapter 4 — सन्धिः · Sandhi in Use — is reviewed and shipped: five lessons, 21

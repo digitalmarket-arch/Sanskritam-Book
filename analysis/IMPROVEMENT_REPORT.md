@@ -122,8 +122,8 @@ Sanskrit; Hindi anchors allowed only in the clearly-marked Hindi layer.
 **IR-016 · ṣatva/ṇatva lesson conceptually broken** (pp.73–74). One trigger list is given for
 both स→ष and न→ण; the example claims "in रामेण the इ triggers ण" — it is the र (रषाभ्यां नो णः,
 [REF:ashtadhyayi 8.4.1]); the card cites 8.4.2 correctly and then contradicts it in prose;
-हरेष्षुत and "ब्रह्मन् + अस्ति → ब्रह्माणि" are garbled examples. → 2.0: rebuilt on 8.4.1–2 in
-v4.c06.
+हरेष्षुत and "ब्रह्मन् + अस्ति → ब्रह्माणि" are garbled examples. → 2.0: rebuilt on 8.4.1–2:
+taught in v4.c02.l03, read as sūtras in v4.c06.l02.
 
 **IR-017 · Sūtra citation errors** — इको यणचि cited as 1.1.45 (p.71); it is 6.1.77 (1.1.45 is
 इग्यणः सम्प्रसारणम्). "8.2.39: झलां जश् झशि" (p.96) attaches 8.4.53's text and gloss to the wrong
@@ -149,12 +149,12 @@ v4.c02.
 
 **IR-022 · Anubandha rules wrong** — "ङ् blocks guṇa; क् blocks guṇa + vṛddhi" (pp.93, 95):
 क्ङिति च ([REF:ashtadhyayi 1.1.5]) blocks both for both. "न् → udātta on ending vowel" (p.94):
-the accent rule for ñit and nit affixes (ञ्नित्यादिर्नित्यम्, 6.1.197) is initial udātta, not final. → 2.0: v4.c02 anubandha
-table verified per sūtra.
+the accent rule for ñit and nit affixes (ञ्नित्यादिर्नित्यम्, 6.1.197) is initial udātta, not final. → 2.0: the anubandha
+card of v4.c03.l03, verified per sūtra.
 
 **IR-023 · Broken passive paradigm** — the laṭ passive of √पठ् (p.103) mislabels its rows
 (the "singular" row holds the 3rd-person series) and prints invalid forms (पयैथे, पयेयाथे).
-Correct: पठ्यते/पठ्येते/पठ्यन्ते · पठ्यसे/पठ्येथे/पठ्यध्वे · पठ्ये/पठ्यावहे/पठ्यामहे. → 2.0: v4.c03
+Correct: पठ्यते/पठ्येते/पठ्यन्ते · पठ्यसे/पठ्येथे/पठ्यध्वे · पठ्ये/पठ्यावहे/पठ्यामहे. → 2.0: v4.c05.l01
 rebuilds; validator can't catch wrong-but-consistent tables, so paradigms are copied from
 verified reference tables only.
 
@@ -171,7 +171,7 @@ the validator where enumerable.
 
 **IR-026 · इन्द्रशत्रु accent example fails** — both glosses given ("Indra's slayer" vs "the
 slayer of Indra") mean the same thing (p.82). The real contrast: tatpuruṣa "slayer of Indra"
-vs bahuvrīhi "he whose slayer is Indra". → 2.0: the famous example done correctly in v4.c02.
+vs bahuvrīhi "he whose slayer is Indra". → 2.0: the example done correctly in v4.c04.l04.
 
 ### Literature and prosody
 
@@ -341,17 +341,17 @@ Recorded explicitly, because 2.0 keeps all of it (destinations in ROADMAP §pres
 | IR-013 | "retroflex unique to India" (pp.10,18) | banned; counterexamples |
 | IR-014 | Hindi-style romanization (pp.4+) | IAST + denylist |
 | IR-015 | टमाटर/और/घर as Sanskrit (pp.12–18) | attested anchors only |
-| IR-016 | ṣatva/ṇatva broken (pp.73–74) | rebuilt on 8.4.1–2 |
+| IR-016 | ṣatva/ṇatva broken (pp.73–74) | rebuilt on 8.4.1–2: taught in v4.c02.l03, read as sūtras in v4.c06.l02 |
 | IR-017 | sūtra numbers 1.1.45, 8.2.39 wrong (pp.71,96) | verified citations |
 | IR-018 | cay/jhaś labels; कपय् skipped (pp.70,96) | v4.c01 rebuilt |
 | IR-019 | liṭ "witnessed" (pp.74–75) | parokṣa |
 | IR-020 | कृ pada contradiction (pp.75–76) | Dhātupāṭha-derived |
 | IR-021 | guṇa as āgama (p.89) | v4.c02 examples |
-| IR-022 | anubandha ङ्/क्, न् accent (pp.93–95) | per-sūtra table |
-| IR-023 | √पठ् passive table broken (p.103) | rebuilt paradigm |
+| IR-022 | anubandha ङ्/क्, न् accent (pp.93–95) | per-sūtra table: the anubandha card, v4.c03.l03 |
+| IR-023 | √पठ् passive table broken (p.103) | rebuilt paradigm, v4.c05.l01 |
 | IR-024 | "future participle śap+ya" (p.105) | correct inventory |
 | IR-025 | ततस्रः; upasarga list; sanādi count; देवी (pp.52–114) | verified lists |
-| IR-026 | इन्द्रशत्रु glosses (p.82) | correct contrast |
+| IR-026 | इन्द्रशत्रु glosses (p.82) | correct contrast, v4.c04.l04 |
 | IR-027 | fake yamaka (p.124) | real examples |
 | IR-028 | anuṣṭubh cadence (p.119) | pathyā L-G-G |
 | IR-029 | Gāyatrī count (p.120) | verse-proper count |
