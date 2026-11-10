@@ -1214,7 +1214,7 @@ on the record for v3.c06.l02, which reads the text itself.
 > printed grey, a ring beside each cell for marking the virāma. Middle: the augment gate,
 > six rows with the prefix printed and two blanks (3sg, 3pl) per row, and a seventh row for
 > इच्छति. Bottom: §18 exercise 1's ten prompts with answer lines, and the score log —
-> Station 0 (item 1 /24, item 2 /18), exercise 1 /12, exercise 3 /16, exercise 7 /10.
+> Station 0 (item 1 /24, item 2 /14), exercise 1 /12, exercise 3 /16, exercise 7 /10.
 > Footer chant: "prefix — अ — stem".
 
 ## 24. AI Video Prompt

@@ -12,7 +12,7 @@ lesson: 5
 lesson_type: review
 cefr: A2
 duration_minutes: 45  # the sitting alone; Station 0 (§3, about 8 min) runs before it and outside its 45, so the room time is about 53 min
-self_study_minutes: 45  # 15 before the sitting (the §8 Step 5 frames, reading §15 and §16) and 30 after it (the §19 quiz, the §9 pairs, the check against the keys, task C re-recorded if below full, the real-world task)
+self_study_minutes: 48  # 18 before the sitting (§3 Stations 1–5, the §8 Step 5 frames, reading §15 and §16) and 30 after it (the §19 quiz, the §9 pairs, the check against the keys, task C re-recorded if below full, the real-world task)
 prerequisites: [v3.c03.l04]
 review_of: [v3.c03.l01, v3.c03.l02, v3.c03.l03, v3.c03.l04, v3.c02.l05, v2.c06.l01]
 objectives:
@@ -81,9 +81,10 @@ taken in the self-study session, after the sitting.
 
 ## 3. Previous Lesson Review
 
-पुनरावृत्तिः — Station 0 first, then one prompt from each lesson of the chapter and one
-from the case chapters. About eight minutes in all, run before the exam sitting and
-outside its 45 minutes, so you are in the room for about 53 minutes. Everything from
+पुनरावृत्तिः — Station 0, about eight minutes, runs in the room before the exam sitting and
+outside its 45 minutes, so you are in the room for about 53 minutes. Stations 1–5, one
+prompt from each lesson of the chapter and one from the case chapters, are written at home
+before the sitting (§21 item 2). Everything from
 memory *before* any key opens: retrieval practice beats re-reading for long-term retention
 [REF:roediger2006].
 
@@ -126,7 +127,7 @@ it.
    निर् + अगच्छम्. → l03 §15 Steps 1, 3 and 5; l03 §18 exercise 7.
 </details>
 
-### Stations 1–5 — one prompt from each lesson, and the volume spiral (1 min)
+### Stations 1–5 — one prompt from each lesson, and the volume spiral (3 min, at home before the sitting)
 
 Write each in Sanskrit, pause form: (1) **from v3.c03.l01:** "you all are students"
 (2) **from v3.c03.l02:** "I like the flowers" (3) **from v3.c03.l03:** "the students
@@ -288,7 +289,9 @@ words; असत्यम् is lesson 4's display word.
 
 हर लकार में तीन पुरुष और तीन वचन हैं — नौ खाने। हिन्दी में केवल दो वचन हैं, संस्कृत में
 तीन: एकवचन, द्विवचन, बहुवचन। परीक्षा में आपसे वही रूप बनाने को कहा जाएगा जो इस अध्याय में
-"✓" थे: सब पुरुषों के एकवचन और बहुवचन, और प्रथम पुरुष का द्विवचन। उत्तम और मध्यम पुरुष के
+"✓" थे: सब पुरुषों के एकवचन और बहुवचन, और प्रथम पुरुष का द्विवचन — पर विधिलिङ् में केवल
+प्रथम पुरुष; और लट् के बाहर आत्मनेपद के, तथा अस् और कृ के, केवल वे रूप जो §15 की तालिकाओं
+में ✓ हैं। उत्तम और मध्यम पुरुष के
 द्विवचन (गच्छावः, गच्छथः) केवल पहचानने के लिए हैं — सुनने के कार्य में वे आएँगे, पर आपसे
 बनवाए नहीं जाएँगे।
 
@@ -353,9 +356,9 @@ Cover the right-hand column and say what each row shows; then uncover.
 | आसीत् · अकरोत् · आगच्छत् · प्राविशत् · ऐच्छत् | v3.c03.l03 §15 Steps 3 and 5 | listed cells; the augment after a prefix |
 | गच्छतु · गच्छ · गच्छत · लभस्व · लभताम् | v3.c03.l04 §15 | the request mood: the same stem, no अ- |
 | गच्छेत् · गच्छेयुः · स्यात् · लभेत | v3.c03.l04 §15 (the optative card) | "should": the stem with -ए- inside |
-| मिलामः · स्तः · रोचते · क्षमस्व · वदतु · आसीत् | v2.c01.l04 · v2.c02.l04 · v2.c05.l03 · v2.c01.l04 · v2.c05.l02 · v2.c06.l01 | the whole words the chapter opened |
+| मिलामः · स्तः · रोचते · क्षमस्व · वदतु · अस्तु · आसीत् | v2.c01.l04 · v2.c02.l04 · v2.c05.l03 · v2.c01.l04 · v2.c05.l02 · v2.c05.l02 · v2.c06.l01 | the whole words the chapter opened |
 
-Read the middle of every form in the first six rows: गच्छ- or लभ-, every time. The past
+Read the middle of every गच्छ- and लभ- form in the first six rows: the same stem every time. The past
 puts an अ- in front of it; the "should" puts an -ए- after it; the request takes nothing in
 front. The last row is where it began: seven whole words, each now a cell.
 
@@ -477,8 +480,8 @@ Count the syllables and you have the tense.
   you write. Then the front (an अ- for लङ्, and after a prefix), the middle (-ए- for
   विधिलिङ्), the back (the ending of the cell). Last, the last sign: virāma or none.
 - **Task B (pen):** in each line find the one verb and change only it; copy every other
-  word as it stands. Two lines have a verb that begins with a vowel or a prefix: look at
-  the front twice.
+  word as it stands. Four lines have a verb that begins with a vowel (lines 1, 2, 4 and 6:
+  अस्ति, इच्छति, आगच्छति): look at the front twice.
 - **Task C (mouth):** decide before each sentence who you are speaking to. The guest:
   भवान् and the 3rd person. The child: the 2nd person, with पुत्र or पुत्रि. A rule:
   the 3rd-person optative. "Don't": मा, then the request form.
@@ -497,10 +500,10 @@ is fixed.
 |---|---|---|---|
 | 1 | The 2pl/3sg virāma: अगच्छत read as "he went", अगच्छत् written for "you all went" | A, B, E, §9 pair 4 | read the last sign; say the last अ — l03 §15 Step 2; l03 §12 mistake 3 |
 | 2 | The augment before a prefix: \*अप्रविशत्, \*अनिवसत् | A, B, §19 Q7 | prefix · augment · stem: प्राविशत्, न्यवसत् — l03 §15 Step 5; l03 §12 mistake 1 |
-| 3 | The optative read as a past: गच्छेत् taken for अगच्छत् | A, D, §9 pair 6, §19 Q3 | the -ए- inside is the wish, the अ- in front is the past — l04 §15, the optative card; l04 §12 mistake 1 |
+| 3 | The optative read as a past: गच्छेत् taken for अगच्छत् | A, §9 pair 6, §19 Q3 | the -ए- inside is the wish, the अ- in front is the past — l04 §15, the optative card; l04 §12 mistake 1 |
 | 4 | Family conversion: \*लभति, \*गच्छते | A, C, E | the dictionary's label: लभ् A., गम् P. — l02 §15 Step 3; l02 §12 mistake 1 |
 | 5 | न + imperative as a prohibition: \*न गच्छ | C, §19 Q8 | मा गच्छ; न goes with the optative, न गच्छेत् — l04 §15, "Prohibition"; l04 §12 mistake 2 |
-| 6 | The athematic 3pl invented: \*ददन्ति | C, D | the R4 whole word ददति, with no न् — l01 §15 Step 6; l01 §12 mistake 6 |
+| 6 | The athematic 3pl invented: \*ददन्ति | C | the R4 whole word ददति, with no न् — l01 §15 Step 6; l01 §12 mistake 6 |
 
 The chapter's other mistakes are fixed in the lesson that taught them: l01 §12 (\*वयम्
 गच्छामि, \*यूयम् गच्छथः, \*रामः सीता च गच्छति, \*गच्छमः), l02 §12 (\*लभामि, the -ए
@@ -609,7 +612,7 @@ The chapter in one table: 411 entering (Chapter 2's exit) + 28 ledger-new = **43
 Chapter 3's exit; chain 411 → 418 → 424 → 432 → 439 → 439 (the exam adds none). The upgrade
 row of lesson 3 (ऋषिः) was drilled but never counted (STYLE_GUIDE §8 rule 3). The 62 cells
 are the four lessons' drilled cells, reviewed today: 21 (l01) + 7 (l02) + 13 (l03) + 21
-(l04). Every one belongs to an owned lemma and adds 0 (rule 8). Full rows, with IPA, are in
+(l04). Every one belongs to an owned lemma and adds 0 (rules 7–8). Full rows, with IPA, are in
 each lesson's §14.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
@@ -799,7 +802,7 @@ And the whole words the earlier volumes promised to open:
 | two doers on one verb, v2.c04.l04 | l01 §15 Step 5: the dual |
 | रोचते, "the second ending family", v2.c05.l03 | l02 §15 Step 1 and "Promises kept" |
 | आसीत् "there was", v2.c06.l01 | l03 §15 Step 3: the 3rd singular imperfect of अस् |
-| वदतु, ददातु, अस्तु, मुञ्च, पश्य — v2.c05.l02, v2.c05.l04, v2.c06.l02, v1.c05.l03 | l04 §8 Step 3 and §15: their cells in the request mood |
+| वदतु and अस्तु, v2.c05.l02; ददातु, v2.c05.l04; मुञ्च, v2.c06.l02; पश्य, v1.c05.l03 | l04 §8 Step 3 and §15: their cells in the request mood |
 | क्षमस्व — v2.c01.l04 | l04 §15: the second family's 2nd singular imperative |
 
 The 1.x book's गच्छ present and past are restored (l01, l03); its "future" is named and
@@ -1098,7 +1101,7 @@ Lines 1 and 4 take the listed cell आसीत्, not \*आसत्.
 
 C — the rubric of §18 and §22. Model answer (one of many), the teacher's lines in the
 order of the examiner's card: आगच्छतु भवान्। · उपविशतु भवान्। · भवान् जलम् पिबतु। · पुत्र,
-शीघ्रम् फलानि नय। · पुत्रि, मा क्रीड। · अतिथिः सुखी भवेत्। · छात्रः सदा पठेत्। Rubric
+शीघ्रम् फलानि नय। · छात्रः सदा पठेत्। · पुत्र, मा क्रीड। · अतिथिः सुखी भवेत्। Rubric
 check: requests आगच्छतु, उपविशतु, पिबतु to the guest, with भवान् and the 3rd person, and
 नय to the child, in the 2nd person — four; optatives भवेत्, पठेत् — two; prohibition मा क्रीड; भवान् with the 3rd
 person throughout. To card line 5 a learner may answer सः सदा पठेत्। सः सत्यम् वदेत्। —
@@ -1182,7 +1185,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — the self-study session, ≈ 45 minutes: 15 before the sitting (items 1–2) and 30
+गृहकार्यम् — the self-study session, ≈ 48 minutes: 18 before the sitting (items 1–2) and 30
 after it (items 3–7: the quiz, the §9 pairs, the check, the re-recording; item 7 is the
 real-world task).
 
@@ -1190,8 +1193,9 @@ real-world task).
 
 1. **(10 min, unscored)** Copy the two frames of §8 Step 5 and fill them from memory; then
    check them against §15 (1) and (2), and read §15 (3)–(4), the honest line and the cards.
-2. **(5 min, unscored)** Read §16 aloud in every role, the model for task C, and the three
-   thread lines of §17, each twice.
+2. **(8 min, unscored)** Read §16 aloud in every role, the model for task C, and the three
+   thread lines of §17, each twice; then write §3's Stations 1–5 from memory and check
+   them against their key.
 
 **After the sitting**
 
@@ -1214,14 +1218,14 @@ runs as Station 0 of v3.c04.l01.
 
 अध्यापकटिप्पणी
 
-**Format.** Station 0 and Stations 1–5 (§3, about 8 minutes: item 1 three, item 2 four,
-the five prompts one) run *before* the sitting and outside it, so book about 53 minutes of
+**Format.** Station 0 (§3, about 8 minutes: item 1 three, item 2 four, one to log the
+scores) runs *before* the sitting and outside it, so book about 53 minutes of
 room time; the lesson's 45 minutes are the sitting alone. The sitting: instructions and the
 hand-out of sheets (2) → A, timed (10) → B (10) → C, recorded (10) → D, from the track (8)
 → E, from the track (5) = 45. The §19 quiz is taken in the self-study session, after the
 sitting. The §8 Step 5 frames and the reading of §15 and §16 are the learner's preparation
-before the sitting, unscored; they are the first 15 minutes of the self-study figure (§21
-items 1–2). Never hand out the task B or task C sheet before the sitting; §13 prints none
+before the sitting, unscored; with §3's Stations 1–5 they are the first 18 minutes of the
+self-study figure (§21 items 1–2). Never hand out the task B or task C sheet before the sitting; §13 prints none
 of the exam's items, and the task D dialogue and the task E forms are printed only in
 §19's key.
 
@@ -1303,8 +1307,8 @@ Whitney's own counts of its forms against the other systems in particular texts
 l05 does not continue the serial; the departures of episode 3 from the Hitopadeśa's frame
 are stated in l01–l04 §22 [REF:hitopadesha mitralābha], and v3.c06.l02 lists them all.
 
-**The Hindi angles.** Let the class say the Hindi side of the four moods aloud before the
-sitting — जाता है · गया · जाए · जाना चाहिए — and the three Hindi traps of §7 (मत/न, आप, को,
+**The Hindi angles.** Let the class say the Hindi side of the four lakāras aloud before the
+sitting — जाता है · गया · जाए · जाना चाहिए — and the four Hindi traps of §7 (मत/न, आप, को,
 ने). The Hindi points follow Kachru [REF:kachru2006], cited bare; this exam assesses none
 of them directly.
 
@@ -1395,7 +1399,7 @@ cue.
 
 30–45 s vertical, captions burned in.
 
-- **Hook (0–6 s):** big type: "One stem. Four moods." गच्छ-.
+- **Hook (0–6 s):** big type: "One stem. Two tenses, two moods." गच्छ-.
 - **Demo (6–24 s):** "गच्छति — he goes. अगच्छत् — an a in front: he went. गच्छतु — let him
   go. गच्छेत् — an e inside: he should go."
 - **Payoff (24–38 s):** "The grammarians list ten such sets. These four are the present

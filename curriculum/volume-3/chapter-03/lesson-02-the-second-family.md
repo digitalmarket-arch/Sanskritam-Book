@@ -527,7 +527,7 @@ the first: भाषे, not \*भाषामि. Sentence 4 is the Hindi bridg
 and in फलानि मह्यम् रोचन्ते the verb agrees with the liked thing; in the Sanskrit the liked
 thing is the subject, while Hindi seats the liker in a को-form (v2.c05.l03 §5).
 Sentence 6 is the Muṇḍaka line you own (Muṇḍaka 3.1.6, §4); एव "itself, alone" stays a
-display word as before (v3.c04.l01).
+display word as before (v2.c06.l01), until v3.c04.l01 makes it a headword.
 
 ### Seven more
 
