@@ -322,7 +322,7 @@ reach the rest.)
    नमस्ते = नमः + ते in three lines." · hi "लघु रूप मे, ते, नः और वः ठीक प्रयोग करें — वाक्य के आरम्भ में
    कभी नहीं — और तीन पंक्तियों में सिद्ध करें कि नमस्ते = नमः + ते।"
 3. en "Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and
-   the listed cells of भवत् (भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्)." · hi "अतिथि से भवान् और
+   the listed cells of भवत् — भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्." · hi "अतिथि से भवान् और
    भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित।"
 4. en "Write a six-line dialogue joined, with its pause form beneath." · hi "छह पंक्तियों का संवाद जोड़कर
    लिखें, नीचे उसका विराम-रूप दें।"
@@ -745,7 +745,7 @@ two doves: तौ कपोतौ; (5) v2.c02.l02 — this man, this woman: ए�
 
 **§4 TRADITION callout** (1.1.27, row 0.13): "Pāṇini's word for 'pronoun' is सर्वनाम, 'the
 सर्व-name': 1.1.27 सर्वादीनि सर्वनामानि — 'सर्व and the words listed after it are called सर्वनाम'.
-The Kāśikā illustrates it with सर्वः सर्वौ सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम् — among them सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम्, the cells in which
+The Kāśikā illustrates it with सर्वः सर्वौ सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम्, सर्वस्मिन् — among them सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम्, सर्वस्मिन्, the cells in which
 सर्व leaves the pattern of रामः." [REF:ashtadhyayi 1.1.27] [REF:kashika 1.1.27].
 
 **§5:** suppletion as a general fact of languages (English *go/went*, *I/me*; Sanskrit सः/त-, अयम्/इम-/
@@ -788,7 +788,7 @@ obliques" (1.x, IR-025) → two stems, स- only in सः/सा; (4) *को�
 **Quiz (10; FACT unless marked):** 1. m. nom. pl. of सर्व: (a) सर्वाः (b) सर्वे (c) सर्वाणि (d) सर्वम् — **b**.
 2. n. nom. sg. of अन्य: (a) अन्यम् (b) अन्यत् (c) अन्यः (d) अन्या — **b**. 3. The dative singular of सः:
 (a) तस्मै (b) ताय (c) तस्यै (d) तेन — **a**. 4. "This girl": (a) अयम् बालिका (b) इयम् बालिका (c) इदम्
-बालिका (d) एषः बालिका — **b**. 5. "With this (m.)": (a) अनेन (b) इमेन (c) अस्मै (d) अयेन — **a** (इमेन, अयेन:
+बालिका (d) एषः बालिका — **b**. 5. "With this (m.)": (a) अनेन (b) इमेन (c) अस्मिन् (d) अयेन — **a** (इमेन, अयेन:
 error forms built from taught material — permitted wrong options). 6. Which is the 1.x error? (a) सः
 and तम् come from two stems (b) "स् becomes त् in the oblique cases" (c) सा is feminine (d) तस्य is the
 genitive — **b**. 7. "Some woman": (a) कोऽपि (b) कापि (c) किमपि (d) कश्चित् — **b**. 8. According to

@@ -20,7 +20,7 @@ objectives:
     hi: "अहम् और त्वम् के एकवचन के सभी रूप, और बहुवचन के प्रथमा, द्वितीया, तृतीया तथा षष्ठी रूप, अपने और साथी के बारे में वाक्यों में बनाएँ।"
   - en: "Use the short forms मे, ते, नः and वः correctly — never first in a sentence — and prove नमस्ते = नमः + ते in three lines."
     hi: "लघु रूप मे, ते, नः और वः ठीक प्रयोग करें — वाक्य के आरम्भ में कभी नहीं — और तीन पंक्तियों में सिद्ध करें कि नमस्ते = नमः + ते।"
-  - en: "Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् (भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्)."
+  - en: "Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् — भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्."
     hi: "अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित।"
   - en: "Write a six-line dialogue joined, with its pause form beneath."
     hi: "छह पंक्तियों का संवाद जोड़कर लिखें, नीचे उसका विराम-रूप दें।"
@@ -53,10 +53,11 @@ updated: 2026-11-10
 
 There is a knock at the door. Arjuna has come to visit his friend Sītā, and her father opens
 it. Arjuna says नमो वः! — not नमस्ते. Why? Because there are three people in the room, and the
-ते of नमस्ते is "to you", one person. You have said नमस्ते since the first page of this course
-without being told what its ते is; today you are told, and you prove it in three lines. You
-have also carried मम, तव, मह्यम्, तुभ्यम्, माम्, मया and त्वया as separate words since
-Volumes 1 and 2. Today they fall into two small tables — "I" and "you" — and four short words
+ते of नमस्ते is "to you", one person. You have said नमस्ते since the first page of this course,
+and Chapter 1 of this volume told you that its ते is a short form of तुभ्यम्; today you see
+where that short form stands, and you prove the word in three lines. You have also carried
+मम, तव, मह्यम्, तुभ्यम्, माम्, मया and त्वया as separate words since Volumes 1 and 2 and
+Chapter 1 of this volume. Today they fall into two small tables — "I" and "you" — and four short words
 (मे, ते, नः, वः) turn out to lean on the word before them. Beside them stands the polite
 भवान्, who is "Your Honour" and so takes the verb of "he". By the end of the hour you will
 receive a guest, ask where he comes from, take his gift of fruit and keep him for dinner — joined,
@@ -70,7 +71,7 @@ the way a Sanskrit speaker says it.
 |---|---|---|
 | 1 | Produce every singular cell of अहम् and त्वम्, and the plural nominative, accusative, instrumental and genitive, in sentences about yourself and a partner. | अहम् और त्वम् के एकवचन के सभी रूप, और बहुवचन के प्रथमा, द्वितीया, तृतीया तथा षष्ठी रूप, अपने और साथी के बारे में वाक्यों में बनाएँ। |
 | 2 | Use the short forms मे, ते, नः and वः correctly — never first in a sentence — and prove नमस्ते = नमः + ते in three lines. | लघु रूप मे, ते, नः और वः ठीक प्रयोग करें — वाक्य के आरम्भ में कभी नहीं — और तीन पंक्तियों में सिद्ध करें कि नमस्ते = नमः + ते। |
-| 3 | Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् (भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्). | अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित। |
+| 3 | Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् — भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्. | अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित। |
 | 4 | Write a six-line dialogue joined, with its pause form beneath. | छह पंक्तियों का संवाद जोड़कर लिखें, नीचे उसका विराम-रूप दें। |
 
 Objective 1 is built in §8 (steps 3–5) and §15, and tested in §18 (exercises 1 and 7) and
@@ -82,8 +83,8 @@ TRADITION callout of §4, framed "According to Pāṇini".
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, the sandhi exam's +1 day and the
-unjoining lesson's +1 week. Then six quick prompts, one for each older lesson this lesson
-reviews. Everything from memory *before* any key opens: retrieval practice beats re-reading
+unjoining lesson's +1 week. Then six quick prompts that between them reach the older lessons
+this lesson reviews; the one they do not name comes back through Station 0. Everything from memory *before* any key opens: retrieval practice beats re-reading
 for long-term retention [REF:roediger2006].
 
 ### Station 0 — the exam's +1-day and lesson 4's +1-week arrive
@@ -221,7 +222,7 @@ are, not derived.
 नमः ते — नमः ते। (namaḥ te — namaḥ te.)
 "नमस्ते is नमः + ते." — नमस्ते यानी नमः + ते।
 
-"भवान् गच्छति" — न "भवान् गच्छसि"। (bhavān gacchati — na bhavān gacchasi.)
+"भवान्गच्छति" — न "भवान्गच्छसि"। (bhavān gacchati — na bhavān gacchasi.)
 "भवान् गच्छति" — न "भवान् गच्छसि"। (bhavān gacchati — na bhavān gacchasi.)
 "'भवान् गच्छति' — not 'भवान् गच्छसि'." — "आप जाते हैं" = भवान् गच्छति, भवान् गच्छसि नहीं।
 
@@ -229,7 +230,8 @@ Glossed words, not owned: लिङ्गम् (liṅgam) "gender", the grammar
 "short" — your लघु in the neuter plural, agreeing with रूपाणि; रूपाणि (rūpāṇi) "forms"; आदौ
 (ādau) "at the beginning" (the locative of आदि "beginning"). Every other word is owned. In the
 fourth line the dash is a stop: नमस्ते stands before it as it is. In the fifth, the quotation
-marks are stops too, so भवान् and न are not joined to anything.
+marks are stops too, so न is not joined to anything; inside each quotation भवान् ends in a
+consonant and is written into its verb.
 
 ## 7. Hindi Explanation
 
@@ -268,7 +270,7 @@ marks are stops too, so भवान् and न are not joined to anything.
 करना हो तो संस्कृत कहती है: नमो वः — "आप सबको नमस्कार"।
 
 अब लघु रूप। मे, ते, नः, वः — ये चार छोटे रूप हैं: मे = मुझे या मेरा, ते = तुझे या तेरा,
-नः = हमें या हमारा, वः = तुम सबको या तुम सबका। ये अपने आगे वाले शब्द पर टिककर बोले जाते हैं,
+नः = हमें या हमारा, वः = तुम सबको या तुम सबका। ये अपने से पहले वाले शब्द पर टिककर बोले जाते हैं,
 इसलिए वाक्य के आरम्भ में कभी नहीं आते। "मुझे फल अच्छा लगता है" को संस्कृत में मे से शुरू मत
 कीजिए: मे फलं रोचते ग़लत है; फलं मे रोचते सही। ज़ोर देना हो — "मुझे, उसे नहीं" — तो पूरा रूप
 मह्यम् आता है। हिन्दी बोलने वाले की आदत "मुझे" से वाक्य शुरू करने की है; संस्कृत में यह आदत
@@ -360,8 +362,9 @@ show a "you" that takes the verb of "he".
 ### Step 5 — the table assembled by you
 
 Copy the frame (worksheet 🖨 `planned:assets/worksheets/volume-3/v3c05l01-pronoun-cells.pdf`)
-and fill, from memory, the fourteen cells you own: the ten singular cells of Step 3, the
-nominatives वयम् and यूयम्, and the dual nominatives आवाम् and युवाम् that Chapter 3 labelled.
+and fill, from memory, the twelve cells you own that the frame holds: the ten singular cells
+of Step 3 and the nominatives वयम् and यूयम् (the dual nominatives आवाम् and युवाम्, which
+Chapter 3 labelled, are not in the frame: the dual is ◐).
 Then your teacher dictates the new cells one by one — the ablatives मत्, त्वत्; the locatives
 मयि, त्वयि; the plurals अस्मान्, युष्मान्, अस्माभिः, युष्माभिः, अस्माकम्, युष्माकम्; and the
 four short forms — and you write each in its cell. Check against §15.
@@ -704,7 +707,7 @@ vocabulary_count 4 = four ledger-new rows, no upgrade rows. The eight review row
 today in their new places and never re-enter the ledger (STYLE_GUIDE §8, rules 2 and 7).
 
 Display only, never counted: the Kāśikā's स्वम् "property, one's own" and दीयते "is given"
-(§4); the gloss words of §6 (लिङ्गम्, लघूनि, रूपाणि, आदौ); the R6 card's पुण्यवान्, भगवन् and
+(§4); the gloss words of §6 (लिङ्गम्, लघूनि, रूपाणि, आदौ); the R6 card's पुण्यवान्, भगवान् and
 महान् of §15; the serial's names चित्रग्रीवः and हिरण्यकः in §17 — gloss-line items, rule 12.
 
 Back on duty, review only — no re-entry to the ledger: the pronoun cells you owned (माम्,
@@ -820,8 +823,9 @@ machinery. Their other cells, and the other consonant stems, are Volume 4's (v4.
 ### सखा — the सखा card (whole words)
 
 > **[FACT · तथ्यम्]** सखि "friend" (m.) is irregular: the five strong cases have the base
-> सखाय्, reduced to सखा in the nominative singular; the genitive and ablative singular add -उः
-> — सख्युः — and the locative -औ — सख्यौ; "the rest is like *agní*". [REF:whitney1889 §343]
+> सखाय्, reduced to सखा in the nominative singular; the instrumental and dative singular take
+> the plain endings — सख्या, सख्ये; the genitive and ablative singular add -उः — सख्युः — and
+> the locative -औ — सख्यौ; "the rest is like *agní*". [REF:whitney1889 §343]
 
 | विभक्तिः | एकवचनम् | द्विवचनम् | बहुवचनम् |
 |---|---|---|---|
@@ -1083,13 +1087,13 @@ no short form. The sentences are not printed here; the key is in §19.
 2. Which sentence is wrong? (a) गुरुर्मे पिता (b) मे गुरुः पिता (c) मम गुरुः पिता
    (d) गुरुर्मम पिता
 3. भवान् ___ : (a) गच्छसि (b) गच्छति (c) गच्छथ (d) गच्छामि
-4. "Our village": (a) अस्माकम् ग्रामः (b) अस्माभिः ग्रामः (c) अस्मान् ग्रामः (d) वयम् ग्रामः
-5. "With you all": (a) युष्माभिः सह (b) युष्मान् सह (c) युष्माकम् सह (d) यूयम् सह
+4. "Our village": (a) अस्माकं ग्रामः (b) अस्माभिर्ग्रामः (c) अस्मान्ग्रामः (d) वयं ग्रामः
+5. "With you all": (a) युष्माभिः सह (b) त्वया सह (c) युष्माकं सह (d) यूयं सह
 6. In नमस्ते, the ते is: (a) the nominative "they" (b) the short dative "to you" (c) the
    plural "you all" (d) a verb ending
 7. According to Pāṇini (8.1.22), ते and मे stand for: (a) the singular dative and genitive
    (b) the nominative (c) the plural (d) the vocative
-8. "Your (madam's) daughter": (a) भवत्याः पुत्री (b) भवतः पुत्री (c) भवती पुत्री (d) भवताम्
+8. "Your (madam's) daughter": (a) भवत्याः पुत्री (b) भवतः पुत्री (c) भवती पुत्री (d) भवतां
    पुत्री
 9. "Friend!" (calling a male friend): (a) सखा (b) सखे (c) सखि (d) सखः
 10. In भवान्कुत आगच्छति, भवान् and कुत are written together because: (a) भवान् ends in a
@@ -1106,8 +1110,8 @@ no short form. The sentences are not printed here; the key is in §19.
 3. (b) — भवान् takes the 3rd person (§8, §15). (a) is §12 mistake 2; (c) is the Hindi "आप
    जाते हैं" reflex, a plural 2nd person; (d) is "I go".
 4. (a) — the genitive plural (§15). (b) is "by us", (c) "us" as the object, (d) "we".
-5. (a) — सह takes the instrumental (v3.c01.l03; §15). (b) accusative, (c) genitive, (d)
-   nominative.
+5. (a) — सह takes the instrumental (v3.c01.l03; §15). (b) is "with you", one person; (c)
+   genitive, (d) nominative.
 6. (b) — ते is the short form of तुभ्यम्; see §4 and §8. (a) is the ते of सः's plural, a different word;
    (c) "you all" is वः; (d) नमः has no verb.
 7. (a) — according to Pāṇini, 8.1.22 तेमयावेकवचनस्य: ते and मे in the singular, for the dative
@@ -1238,8 +1242,8 @@ with exercises 3, 6 and 7.
 
 **Load note.** The lesson drills 46 cells, of which 32 are new to the students as cells. Most
 singular cells are owned; the new work is the four plural rows, the four short forms and
-भवान्'s listed cells. If time runs short, cut the second role-play version of exercise 4 to
-homework, never step 5; homework time then grows by 4 minutes and the teacher says so.
+भवान्'s listed cells. Both role-play versions of exercise 4 are class work, inside its 8
+minutes; step 5 is never cut.
 
 **Board work.** Left: the evidence table, owned cells in one colour. Centre: the I-and-you
 table, the short forms in brackets in a second colour, the ◐ cells greyed. Right, three boxed

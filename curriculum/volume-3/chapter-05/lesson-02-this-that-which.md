@@ -18,8 +18,8 @@ review_of: [v3.c05.l01, v3.c04.l05, v3.c01.l05, v3.c02.l01, v3.c02.l02, v3.c02.l
 objectives:
   - en: "Produce every singular and plural cell, and the nominative and accusative duals, of सः, सा, तत् and of एषः, एषा, एतत् on demand."
     hi: "सः, सा, तत् और एषः, एषा, एतत् के एकवचन और बहुवचन के सभी रूप, और द्विवचन के प्रथमा तथा द्वितीया रूप, माँगने पर बनाएँ।"
-  - en: "Decline यद्, किम् (feminine included), सर्व, अन्य and एक from the तद् table, naming the cells where each differs (सर्वम्, अन्यत्, सर्वे)."
-    hi: "यद्, किम् (स्त्रीलिंग सहित), सर्व, अन्य और एक को तद् की तालिका से बनाएँ, और बताएँ कि कहाँ भिन्न हैं (सर्वम्, अन्यत्, सर्वे)।"
+  - en: "Decline यद्, किम् — feminine included —, सर्व, अन्य and एक from the तद् table, naming the cells where each differs (सर्वम्, अन्यत्, सर्वे)."
+    hi: "यद्, किम् [स्त्रीलिंग सहित], सर्व, अन्य और एक को तद् की तालिका से बनाएँ, और बताएँ कि कहाँ भिन्न हैं — सर्वम्, अन्यत्, सर्वे।"
   - en: "Use अयम्, इयम्, इदम् and their key cells (the nominatives and accusatives, अनेन, अस्य, अस्याः, अस्मिन्) in sentences."
     hi: "अयम्, इयम्, इदम् और उनके मुख्य रूपों का वाक्यों में प्रयोग करें।"
   - en: "Begin a story with कश्चित् … आसीत् and build the indefinites कश्चित्, काचित्, किञ्चित्, कोऽपि, कापि, किमपि."
@@ -51,7 +51,7 @@ updated: 2026-11-10
 
 ## 1. Hook
 
-Since v1.c06.l04 you have recited सर्वे भवन्तु सुखिनः "may all be happy". Since Volume 2 you
+Since v1.c06.l04 you have recited सर्वे भवन्तु सुखिनः "may all be happy". Since v3.c02.l01 you
 have said रामाः for "the Rāmas". So why does the benediction say सर्वे and not \*सर्वाः? The
 answer is a family of words you have been carrying since Volume 1 without its table: सः and
 तस्य, कः and किम्, एषः and एतत्, and the तस्मिन् of the serial's tree. Today they sit down
@@ -65,7 +65,7 @@ the storytellers open with — कश्चित् "a certain one" — becomes
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Produce every singular and plural cell, and the nominative and accusative duals, of सः, सा, तत् and of एषः, एषा, एतत् on demand. | सः, सा, तत् और एषः, एषा, एतत् के एकवचन और बहुवचन के सभी रूप, और द्विवचन के प्रथमा तथा द्वितीया रूप, माँगने पर बनाएँ। |
-| 2 | Decline यद्, किम् (feminine included), सर्व, अन्य and एक from the तद् table, naming the cells where each differs (सर्वम्, अन्यत्, सर्वे). | यद्, किम् (स्त्रीलिंग सहित), सर्व, अन्य और एक को तद् की तालिका से बनाएँ, और बताएँ कि कहाँ भिन्न हैं (सर्वम्, अन्यत्, सर्वे)। |
+| 2 | Decline यद्, किम् — feminine included —, सर्व, अन्य and एक from the तद् table, naming the cells where each differs (सर्वम्, अन्यत्, सर्वे). | यद्, किम् [स्त्रीलिंग सहित], सर्व, अन्य और एक को तद् की तालिका से बनाएँ, और बताएँ कि कहाँ भिन्न हैं — सर्वम्, अन्यत्, सर्वे। |
 | 3 | Use अयम्, इयम्, इदम् and their key cells (the nominatives and accusatives, अनेन, अस्य, अस्याः, अस्मिन्) in sentences. | अयम्, इयम्, इदम् और उनके मुख्य रूपों का वाक्यों में प्रयोग करें। |
 | 4 | Begin a story with कश्चित् … आसीत् and build the indefinites कश्चित्, काचित्, किञ्चित्, कोऽपि, कापि, किमपि. | कथा का आरम्भ कश्चित् … आसीत् से करें और अनिश्चयवाचक रूप बनाएँ। |
 
@@ -184,8 +184,9 @@ first tonight.
 
 > **[TRADITION · परम्परा]** Pāṇini's word for 'pronoun' is सर्वनाम, 'the सर्व-name': 1.1.27
 > सर्वादीनि सर्वनामानि — 'सर्व and the words listed after it are called सर्वनाम'. The Kāśikā
-> illustrates it with सर्वः सर्वौ सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम् — among them सर्वे,
-> सर्वस्मै, सर्वस्मात्, सर्वेषाम्, the cells in which सर्व leaves the pattern of रामः.
+> illustrates it with सर्वः सर्वौ सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम्, सर्वस्मिन् — among them
+> सर्वे, सर्वस्मै, सर्वस्मात्, सर्वेषाम्, सर्वस्मिन्, the cells in which सर्व leaves the pattern of
+> रामः.
 > [REF:ashtadhyayi 1.1.27] [REF:kashika 1.1.27]
 
 The sūtra reads *sarvādīni sarvanāmāni*: "सर्व and the rest" — the words of a list headed by
@@ -306,8 +307,8 @@ fourth is the storyteller's opening. The tradition's name for the whole family i
 साथ चार रूप और: अनेन — "इसके द्वारा, इसके साथ", अस्य — "इसका", अस्याः — "इस स्त्री का",
 अस्मिन् — "इसमें"। आज इतने ही बनाने हैं; बाकी रूप तालिका में दिखते हैं, पहचानने के लिए।
 
-हिन्दी से दो अन्तर, ठीक-ठीक। पहला: हिन्दी का यह तीनों लिंगों में एक ही है — यह लड़का, यह
-लड़की, यह घर; संस्कृत लिंग दिखाती है — अयम् बालकः, इयम् बालिका, इदम् गृहम्। इसलिए
+हिन्दी से दो अन्तर, ठीक-ठीक। पहला: हिन्दी का यह दोनों लिंगों में एक ही है — यह लड़का, यह
+लड़की, यह घर; संस्कृत तीनों लिंग दिखाती है — अयम् बालकः, इयम् बालिका, इदम् गृहम्। इसलिए
 \*अयम् बालिका ग़लत है। दोनों भाषाओं में एक बात मिलती है: "वह" ही साधारण अन्य पुरुष का काम
 करता है — वह आया, सः आगच्छत्। दूसरा: हिन्दी के कोई और कुछ लिंग से नहीं बदलते — कोई लड़का,
 कोई लड़की। संस्कृत अनिश्चय का रूप प्रश्न वाले कः, का, किम् से बनाती है, इसलिए उसमें लिंग
@@ -616,17 +617,17 @@ Eight headword rows, all drilled (vocabulary_count 8), all new to the ledger. Pr
 once, as the masculine nominative singular (STYLE_GUIDE §8 rule 6): अयम् stands for इयम्,
 इदम् and every cell of इदम्; यः for या, यत् and the table of यद्. Audio: 🔊
 `planned:assets/audio/volume-3/v3c05l02-model-sentences.mp3` (each headword twice, at the
-start of the track). The 73 cells: एतद्'s six new nominative and accusative cells (एतम्,
+end of the track, after the six models). The 73 cells: एतद्'s six new nominative and accusative cells (एतम्,
 एताम्, एते, एतान्, एताः, एतानि), यद्'s twenty-one singular cells and its three nominative
 plurals (24), किम्'s feminine — six singular, five plural (11), सर्व's six marked cells (सर्वे,
-सर्वम्, सर्वस्मै, सर्वस्मात्, सर्वस्मिन्, सर्वेषाम्), अन्यत् (1), एकस्मै, एकस्मिन्, एकस्यै (3) and
+सर्वम्, सर्वस्मै, सर्वस्मात्, सर्वस्मिन्, सर्वेषाम्), अन्यत् [1], एकस्मै, एकस्मिन्, एकस्यै [3] and
 इदम्'s twenty-two key cells: 6 + 24 + 11 + 6 + 1 + 3 + 22 = 73. The तद् table itself adds no
 cell: every one of them was yours before today.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | अयम् | ayam | /ɐjɐm/ | this (m.; f. इयम्, n. इदम्) | यह | ledger-new — pronoun, lemma इदम्, counted as its m. nom. sg. (rule 6); key cells ✓, the rest ◐ (§15 Step 4) — MW s.v. *ayam* "this one. See *idam*", s.v. *idam* (*ayam, iyam, idam*; "g. sarvādi, Pāṇ. i, 1, 27"); Whitney §501 |
-| यः | yaḥ | /jɐh/ | who, which (relative; f. या, n. यत्) | जो | ledger-new — relative pronoun, lemma यद्; today in its table only, in sentences from v3.c05.l03 — Apte s.v. यद् "(Nom. sing. m. यः, f. या, n. यत्-द्) The relative pronoun"; Whitney §§508–509 |
+| यः | yaḥ | /jɐh/ | who, which (relative; f. या, n. यत्) | जो | ledger-new — relative pronoun, lemma यद्; today in its table only, in sentences from v3.c05.l03 — Apte s.v. यद् "(Nom. sing. m. यः, f. या, यत्-द् n.) The relative pronoun"; Whitney §§508–509 |
 | अन्यः | anyaḥ | /ɐn̪jɐh/ | other, another (n. अन्यत्) | अन्य, दूसरा | ledger-new — pronominal adjective -न्या -न्यत्, declined like तद् throughout — Apte s.v. अन्य "[अन्यः, ˚न्यस्मै …; n. अन्यत्] Another"; Whitney §523 |
 | परः | paraḥ | /pɐɾɐh/ | other, another; stranger; further | पराया, दूसरा | ledger-new — adjective -रा -रम्, taught as a plain a-adjective (रामः's endings) — Apte s.v. पर "(Declined optionally like a pronoun …)"; Hit 1.71 *paro vā* (v3.c06.l04) |
 | कश्चित् | kaścit | /kɐɕt͡ɕit̪/ | someone, a certain (one) | कोई | ledger-new (rule 15) — indefinite: कः + चित्; f. काचित्, n. किञ्चित् are built, never counted — Whitney §507; MW under *ka*, no headword of its own |
@@ -705,7 +706,7 @@ the other cells are tables you already own.
 
 So "स् becomes त् in the oblique cases" (the 1.x line) is withdrawn. Nothing becomes
 anything: two stems share one table, as *I* and *me* share one English word. The सः of a
-joined line — स before a consonant (स गच्छति), सोऽ- before अ (सोऽपि) — is v3.c04.l02's seam,
+joined line — स before a consonant (स गच्छति), सोऽ- before अ, as in सोऽपि — is v3.c04.l02's seam,
 and it belongs to this real cell.
 
 ### Step 3 — the Δ cards
@@ -718,8 +719,8 @@ and it belongs to this real cell.
 > declension except in the neuter nominative-accusative singular, "where they have the
 > ordinary adjective form am" [REF:whitney1889 §524].
 
-**Card 1 — एतद् "this (here)": ए + the तद् cells.** The ष of एषः, एतेषाम्, एतेषु is the स of
-सः, तेषाम्, तेषु after ए.
+**Card 1 — एतद् "this (here)": ए + the तद् cells.** The ष of एषः is the स of सः after ए;
+एतेषाम्, एतेषु keep the ष that तेषाम्, तेषु already have.
 
 | विभक्तिः | m. sg. · du. · pl. | n. sg. · du. · pl. | f. sg. · du. · pl. |
 |---|---|---|---|
@@ -800,8 +801,9 @@ oblique duals ◐ like every pronoun's.
 
 > **[FACT · तथ्यम्]** इदम् is "so irregularly made up" that it has to be given in full; it is
 > "pieced together from a number of defective stems": अयम्, इयम्, इदम् from a root इ; the
-> strong cases from इम-; अनेन, अनया, अनयोः from अन-; the singular's -स्मै, -स्य, -स्मिन् cells
-> from अ-. [REF:whitney1889 §501] [REF:whitney1889 §502]
+> strong cases from इम-; अनेन, अनया, अनयोः from अन-; and "the majority of forms" from अ- — the
+> singular's -स्मै, -स्य, -स्मिन् cells and the other obliques, आभ्याम्, एभिः, एषाम्, आसाम् ….
+> [REF:whitney1889 §501] [REF:whitney1889 §502]
 
 | विभक्तिः | m. sg. · du. · pl. | n. sg. · du. · pl. | f. sg. · du. · pl. |
 |---|---|---|---|
@@ -827,7 +829,7 @@ a cell you make. In the room you will want इयम् बालिका, इ�
 ### Step 5 — the indefinites: कः, का, किम् + चित् or अपि
 
 > **[FACT · तथ्यम्]** The interrogative "is by various added particles converted to an
-> indefinite meaning: thus, by ca, caná, cid, ápi", with *ná kó 'pi* "not any one".
+> indefinite meaning: thus, by ca, caná, cid, ápi, vā", with *ná kó 'pi* "not any one".
 > [REF:whitney1889 §507] कदाचित् is the time word कदा with चित्, as in *kadācid divase* "on a
 > certain day". [REF:whitney1889 §1103]
 
@@ -863,7 +865,7 @@ All three are taught as plain a-adjectives: the endings of रामः, बा�
 
 ### Step 7 — the Hindi bridge, stated exactly
 
-> **[FACT · तथ्यम्]** Hindi यह and वह have one form for all three genders: यह लड़का, यह लड़की,
+> **[FACT · तथ्यम्]** Hindi यह and वह have one form for both Hindi genders: यह लड़का, यह लड़की,
 > यह घर. Hindi कोई and कुछ do not change for gender either. Both languages use the "that"
 > word as the plain third person: वह आया · सः आगच्छत्. [REF:kachru2006]
 
@@ -1049,7 +1051,7 @@ singular (f) यद्, feminine genitive singular. Beside each, write "as त�
 बालिकाः पठन्ति। "all" (b) ___ बालकाः पठन्ति। "all" (c) ___ जलम् "all" (d) ___ पुस्तकम्
 "another" (e) ___ छात्राय ददाति। "to another" (f) ___ ग्रामे "in every", masculine singular.
 
-**अभ्यासः 4 · अयम् इयम् इदम् — point and say: production, spoken (class, 6 min).** Point at
+**अभ्यासः 4 · अयम् इयम् इदम् — point and say: production, spoken (class, 6 min, with इदम्'s key cells and §9 Drills 3–4).** Point at
 six people or things in the room and say each with अयम्, इयम् or इदम्, joined: अयं …, इयं …,
 इदं …. If the room is short of them, use these six: पुस्तकम्, छात्रः, बालिका, गुरुः, फलम्,
 माला. Then say three more, each with one of इदम्'s oblique key cells: (g) "Go with this
@@ -1077,7 +1079,7 @@ Keep §13 closed. Write each sentence joined, as heard; then write its pause for
 2. The neuter nominative singular of अन्य: (a) अन्यम् (b) अन्यत् (c) अन्यः (d) अन्या
 3. The dative singular of सः: (a) तस्मै (b) ताय (c) तस्यै (d) तेन
 4. "This girl": (a) अयम् बालिका (b) इयम् बालिका (c) इदम् बालिका (d) एषः बालिका
-5. "With this (m.)": (a) अनेन (b) इमेन (c) अस्मै (d) अयेन
+5. "With this (m.)": (a) अनेन (b) इमेन (c) अस्मिन् (d) अयेन
 6. Which line is the 1.x error? (a) सः and तम् come from two stems (b) "स् becomes त् in the
    oblique cases" (c) सा is feminine (d) तस्य is the genitive
 7. "Some woman": (a) कोऽपि (b) कापि (c) किमपि (d) कश्चित्
@@ -1099,7 +1101,7 @@ Keep §13 closed. Write each sentence joined, as heard; then write its pause for
 4. (b) — the noun is feminine, so इयम् — §12 mistake 5, §15 Step 4. ((a) and (c) are the
    masculine and neuter; (d) is masculine.)
 5. (a) — a key cell of इदम्, from अन- (§15 Step 4). ((b) and (d) are error forms built on the
-   wrong stems; (c) is the dative "to this", read only.)
+   wrong stems; (c) is the locative "in this", a key cell in the wrong case.)
 6. (b) — there is no such sound change; two stems share the table (§5, §15 Step 2, §12
    mistake 3).
 7. (b) — का + अपि, the feminine (§15 Step 5, §12 mistake 4). ((a) and (d) are masculine;
@@ -1139,7 +1141,7 @@ the target, and it is not marked wrong if it is right. Score /9.
 "someone, a certain (man)" · "a certain (woman)" · "something, a little" · "anyone" ·
 "any woman" · "anything". Score /6.
 
-6: scored by checklist, /10: the first line begins कश्चित् or काचित् and ends आसीत् (2); कदाचित्
+6: scored by checklist, /10: the first line begins कश्चित् or काचित् and ends आसीत् [2]; कदाचित्
 used (1); अयम् or सः used in the right gender (1); at least one Δ cell, right (2); every line
 joined by Chapter 4's rules, with its pause form beneath (3); six lines (1). 7/10 passes. A
 model:
@@ -1185,9 +1187,9 @@ The traps: छात्रा अत्र — छात्राः, not छा
 
 > **तद्, three genders:** सः तम् तेन तस्मै तस्मात् तस्य तस्मिन् · सा ताम् तया तस्यै तस्याः
 > तस्याः तस्याम् · तत् तत्; plural ते तान् तैः तेभ्यः तेषाम् तेषु · ताः ताभिः ताभ्यः तासाम् तासु ·
-> तानि; duals तौ / ते (ताभ्याम्, तयोः ◐). **Two stems:** स- for सः and सा only — no "स् → त्".
+> तानि; duals तौ / ते [ताभ्याम्, तयोः ◐]. **Two stems:** स- for सः and सा only — no "स् → त्".
 > **The family's marks:** -त्, -स्मै -स्मात् -स्मिन्, -स्यै -स्याः -स्याम्, ते, -षाम् / -साम्.
-> **Δ cards:** एतद् = ए + तद् (एषः, एतेषाम्) · यद् = य- (यः या यत्) · किम् = क-, but n. किम्
+> **Δ cards:** एतद् = ए + तद् [एषः, एतेषाम्] · यद् = य- (यः या यत्) · किम् = क-, but n. किम्
 > (f. का काम् कया कस्यै कस्याः कस्याम्) · सर्व, एक = तद्, but n. सर्वम्, एकम् — and सर्वे · अन्य = तद्
 > throughout: अन्यत्. **इदम्:** अयम् इयम् इदम् · इमम् इमाम् · इमौ इमे · इमे इमाः इमानि · इमान् ·
 > अनेन, अस्य, अस्याः, अस्मिन् — the rest ◐. **Indefinites:** कश्चित् काचित् किञ्चित् · कोऽपि कापि
@@ -1210,7 +1212,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 3. **(4 min)** §18 exercise 7, the model sentences from hearing, with §13 closed until you
    check.
 4. **(10 min)** Write the तद् table of §15 Step 1 and the five Δ cards of §15 Step 3 from
-   memory; then check them against the book, cell by cell, and ring every slip.
+   memory, the ◐ oblique duals left empty; then check them against the book, cell by cell, and
+   ring every slip in a ✓ cell.
 5. **(5 min, recorded)** §9 Drills 1 and 2 once each (1 min); then read §17 aloud, joined, at
    natural pace; record it and play it back once, listening for a pause at any seam.
 6. **(4 min)** Read the इदम् table of §15 Step 4 and mark its ◐ cells in pencil; say the
@@ -1341,11 +1344,11 @@ Keep it there: the ◐ cells are read in §15 Step 4 and never asked.
 **Asset 3 — `planned:assets/images/volume-3/v3c05l02-idam-stems.svg` (the इदम् stems)**
 
 > A table diagram, landscape, the इदम् paradigm of §15 Step 4 (three genders, three numbers,
-> seven cases), each cell tinted by the stem it comes from: इ- (अयम्, इयम्, इदम्) in one hue,
-> इम- (the strong cases) in a second, अन- (अनेन, अनया, अनयोः) in a third, अ- (अस्मै, अस्य,
-> अस्मिन्, अस्यै …) in a fourth, and ए-/आ- (the plural obliques) in a fifth. The twenty-two
+> seven cases), each cell tinted by the stem it comes from, four stems in four hues: इ- for अयम्, इयम्,
+> इदम्; इम- for the strong cases; अन- for अनेन, अनया, अनयोः; अ- for all the rest — अस्मै, अस्य,
+> अस्मिन्, अस्यै … and the oblique duals and plurals आभ्याम्, एभिः, एषाम्, आसाम् …. The twenty-two
 > key cells outlined in bold with ✓; the rest in lighter type with ◐. A key at the side
-> naming the five stems. Caption: "One word, pieced together from several stems".
+> naming the four stems. Caption: "One word, pieced together from several stems".
 
 **Asset 4 — `planned:assets/worksheets/volume-3/v3c05l02-pronoun-family.pdf` (layout spec)**
 
@@ -1371,7 +1374,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    1, filling it without one new card.
 4. **Two stems (2:30–3:20):** the cells सः and सा glow; every other cell shows a faint त-. A
    1.x caption "स् → त्" appears and is struck through; "two stems" replaces it.
-5. **The Δ cards and इदम् (3:20–4:50):** the five cards of §23 asset 2 peel off the table one by
+5. **The Δ cards, and इदम् last (3:20–4:50):** the five cards of §23 asset 2 peel off the table one by
    one, each showing its one change; then the इदम् stems diagram of asset 3 lights up stem by
    stem, the key cells outlined.
 6. **The opener and recap (4:50–6:00):** a storybook opens on कश्चिद्व्याध आसीत्।; then a quick
@@ -1449,7 +1452,7 @@ narrator reads the cue, not the English spelling.
   v3.c05.l04 (Station 0 S0-as; चित्रग्रीवः resolved), v3.c05.l05 (the exam's task A), v3.c06.l04
   (Hit 1.71, *ayaṃ nijaḥ paro veti*), Volume 4 (एके; the s-stem declension).
 - **Glossary:** candidate addition, with the fact base's Hindi form — **सर्वनाम (sarvanāma)
-  "pronoun — and Pāṇini's class of words beginning with सर्व (1.1.27): v3.c05.l01–l02" —
+  "pronoun — and Pāṇini's class of words beginning with सर्व, 1.1.27: v3.c05.l01–l02" —
   सर्वनाम**. सकारः and तकारः are the -कार names of v1.c02.l01, not new terms. Glossed in Hindi
   at first occurrence (§7) per STYLE_GUIDE §1.2.
 - **Export notes:** 8 ledger-new — अयम्, यः, अन्यः, परः, कश्चित्, कदाचित्, स्वः, निजः — **464 →
