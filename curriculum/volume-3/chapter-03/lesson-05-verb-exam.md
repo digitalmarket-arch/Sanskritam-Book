@@ -53,7 +53,8 @@ updated: 2026-11-10
 ## 1. Hook
 
 Four words, one stem: गच्छति "he goes" · अगच्छत् "he went" · गच्छतु "let him go" · गच्छेत्
-"he should go". A month ago you could say only the first, and only for one doer. Now one
+"he should go". When this chapter began you could say only the first, and only for one
+doer. Now one
 stem, गच्छ-, gives you four sets of forms — a present, a story past, a request and a
 "should" — each in nine cells, in two families of endings. The grammarians have a name for
 each set, a लकारः, and a count of the whole list, which §15 gives you. Today you put the
@@ -735,7 +736,7 @@ spokes. It is the +1-day item of §20.
 | लोट् | the imperative | ✓ v3.c03.l04 |
 | लिङ् | in its "should" use, विधिलिङ्, the optative; its other use, the benedictive | the optative ✓ v3.c03.l04 (3rd person); the benedictive v4.c03 |
 | लिट् · लुङ् · लुट् · लृट् · लृङ् | the perfect · the aorist · the two futures · the conditional | v4.c03 (उवाच and आह are whole-word perfects, l03) |
-| लेट् | the Vedic subjunctive | the Veda only |
+| लेट् | the Vedic लेट् | the Veda only |
 
 Four of the ten are yours, the four of the present system; the other six wait, and §4
 says where.
@@ -1136,9 +1137,8 @@ Hindi, earns the mark if it is right): 1. नद्याः तीरे — on
 play. 3. अर्जुनस्य मित्राणि — Arjuna's friends. 4. सीताम् — Sītā. 5. नदीम् — to the river.
 6. गृहे अतिथयः सन्ति — there are guests at home. Question 4 is asked in English and Hindi:
 काम्, the feminine asker cell, is display only since Chapter 2. For 3, मित्राणि alone
-scores; for 4, सीता in the nominative scores too, the answer being a name; for 2, a
-learner who writes the singular क्रीडति has missed the dual and scores 0 — the question
-names two brothers and asks with कुरुतः.
+scores; for 4, सीता in the nominative scores too, the answer being a name; for 2, the mark is for the
+meaning: क्रीडतः, खेलते हैं or "they play" all score.
 
 E — the forms, in the order played, each with the sentence the track says after it: 1.
 **गच्छन्ति** (छात्राः विद्यालयम् गच्छन्ति।) · 2. **गच्छतः** (तौ ग्रामम् गच्छतः।) · 3.
@@ -1293,19 +1293,14 @@ sūtra under which the passage stands, so the locator is "on 3.4.69". Say "the l
 opens its section on verbs" whenever you cite it, so that no one takes the list for the
 sūtra's text.
 
-**Whitney §§599–600, for §5.** §599 defines the present system as quoted. §600 adds
-Whitney's own counts of how its forms stand to all the other systems together — "about as
-three to one" in the Veda, "six to one" in the Hitopadeśa, "thirty to one" in Manu
-[REF:whitney1889 §600]. They are his counts of particular texts; quote them as his, if at
-all, and claim nothing wider.
+**Whitney §§599–600, for §5.** §599 defines the present system as §5 quotes it; §600 gives
+Whitney's own counts of its forms against the other systems in particular texts
+[REF:whitney1889 §600]. They are his counts; nothing in the learner's text rests on them.
 
-**The thread verses' joins.** The benediction's कश्चिद् and दुःखभाग्, and the Muṇḍaka's
-सत्यमेव, are joined shapes; their seams are Chapter 4's (v3.c04.l01–l03) and are not taught
-here.
-
-**The serial, for the record.** l05 does not continue the serial; the departures of
-episode 3 from the Hitopadeśa's frame are stated in l01–l04 §22 [REF:hitopadesha
-mitralābha], and v3.c06.l02 lists them all.
+**The joins and the serial.** The benediction's कश्चिद् and दुःखभाग्, and the Muṇḍaka's
+सत्यमेव, are joined shapes whose seams are Chapter 4's (v3.c04.l01–l03), not taught here.
+l05 does not continue the serial; the departures of episode 3 from the Hitopadeśa's frame
+are stated in l01–l04 §22 [REF:hitopadesha mitralābha], and v3.c06.l02 lists them all.
 
 **The Hindi angles.** Let the class say the Hindi side of the four moods aloud before the
 sitting — जाता है · गया · जाए · जाना चाहिए — and the three Hindi traps of §7 (मत/न, आप, को,
