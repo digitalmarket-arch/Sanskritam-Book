@@ -1624,6 +1624,154 @@
       ],
       "path": "curriculum/volume-3/chapter-03/lesson-05-verb-exam.md",
       "json": "json/volume-3/v3.c03.l05.json"
+    },
+    {
+      "id": "v3.c04.l01",
+      "title": {
+        "sa": "स्वरसन्धिः",
+        "sa_iast": "svarasandhiḥ",
+        "hi": "स्वर-सन्धि — जब स्वर मिलते हैं",
+        "en": "When Vowels Meet"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c03.l05"
+      ],
+      "review_of": [
+        "v3.c03.l05",
+        "v3.c03.l04",
+        "v2.c01.l04",
+        "v2.c05.l02",
+        "v1.c05.l02",
+        "v1.c06.l01",
+        "v1.c04.l03",
+        "v2.c06.l03",
+        "v2.c06.l02",
+        "v1.c02.l04",
+        "v1.c02.l05",
+        "v1.c05.l05",
+        "v3.c02.l03",
+        "v3.c02.l04",
+        "v3.c03.l03"
+      ],
+      "path": "curriculum/volume-3/chapter-04/lesson-01-when-vowels-meet.md",
+      "json": "json/volume-3/v3.c04.l01.json"
+    },
+    {
+      "id": "v3.c04.l02",
+      "title": {
+        "sa": "नमस्ते",
+        "sa_iast": "namaste",
+        "hi": "नमस्ते — जोड़ पर विसर्ग",
+        "en": "The Visarga at the Seam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c04.l01"
+      ],
+      "review_of": [
+        "v3.c04.l01",
+        "v3.c03.l05",
+        "v1.c01.l01",
+        "v1.c05.l02",
+        "v2.c06.l02",
+        "v2.c06.l03",
+        "v2.c01.l01",
+        "v2.c01.l04",
+        "v1.c02.l01",
+        "v2.c03.l03",
+        "v1.c05.l04",
+        "v1.c05.l05",
+        "v1.c03.l04",
+        "v2.c05.l02",
+        "v3.c01.l03",
+        "v3.c01.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-04/lesson-02-the-visarga-at-the-seam.md",
+      "json": "json/volume-3/v3.c04.l02.json"
+    },
+    {
+      "id": "v3.c04.l03",
+      "title": {
+        "sa": "जगच्च",
+        "sa_iast": "jagacca",
+        "hi": "जगच्च — जब व्यञ्जन मिलते हैं",
+        "en": "When Consonants Meet"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c04.l02"
+      ],
+      "review_of": [
+        "v3.c04.l02",
+        "v3.c04.l01",
+        "v2.c02.l04",
+        "v2.c03.l02",
+        "v2.c01.l02",
+        "v1.c06.l04",
+        "v1.c06.l01",
+        "v1.c01.l01",
+        "v1.c05.l01",
+        "v2.c06.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-04/lesson-03-when-consonants-meet.md",
+      "json": "json/volume-3/v3.c04.l03.json"
+    },
+    {
+      "id": "v3.c04.l04",
+      "title": {
+        "sa": "पदच्छेदः",
+        "sa_iast": "padacchedaḥ",
+        "hi": "पदच्छेद — संहिता से पद तक",
+        "en": "Un-joining: Saṃhitā and Pada"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c04.l03"
+      ],
+      "review_of": [
+        "v3.c04.l03",
+        "v3.c04.l02",
+        "v3.c04.l01",
+        "v2.c06.l03",
+        "v1.c06.l04",
+        "v2.c06.l01",
+        "v3.c01.l03",
+        "v3.c02.l01",
+        "v3.c02.l03",
+        "v3.c03.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-04/lesson-04-unjoining.md",
+      "json": "json/volume-3/v3.c04.l04.json"
+    },
+    {
+      "id": "v3.c04.l05",
+      "title": {
+        "sa": "सन्धिपरीक्षा",
+        "sa_iast": "sandhiparīkṣā",
+        "hi": "सन्धि-परीक्षा — अध्याय 4 की परीक्षा",
+        "en": "The Sandhi Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c04.l04"
+      ],
+      "review_of": [
+        "v3.c04.l01",
+        "v3.c04.l02",
+        "v3.c04.l03",
+        "v3.c04.l04",
+        "v3.c03.l05",
+        "v3.c02.l05",
+        "v2.c06.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-04/lesson-05-sandhi-exam.md",
+      "json": "json/volume-3/v3.c04.l05.json"
     }
   ]
 }

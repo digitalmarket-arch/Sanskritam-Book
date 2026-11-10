@@ -742,3 +742,109 @@ language attests; a prompt with two readings is changed so that one remains, and
 widened only where the language itself allows two answers; recognition cells are never
 scored, in Station 0 keys as elsewhere; the Laghukaumudī is cited under the sūtra where
 the cited words stand, and a recital is not cited for the names it illustrates.
+
+## Chapter v3.c04 — research verdicts (2026-11-10)
+
+Fact base: research/notes/vol3-ch4-sandhi-in-use.md, written from the plan's §4.4 and checked
+before drafting by three checkers (forms, facts, contract), every finding challenged: 40
+findings confirmed (17 major, 23 minor), 8 of them duplicates between checkers, so 32
+distinct (13 major, 19 minor); 2 rejected. The editor's eleven decisions are in its §7.
+
+| Claim | Source checked | Verdict | Lands in |
+|---|---|---|---|
+| What sandhi is: words said together without a pause adjust at the seam; between words and at a compound's inner seam it is this chapter's, inside a word it is only named; Pāṇini's vowel rules stand under the heading 6.1.72 संहितायाम् | [REF:whitney1889 §125]; [REF:whitney1889 §152]; [REF:ashtadhyayi 6.1.72] | ✅ 6.1.72 in Teacher Notes only; corrected at review: 1.1.11 is a definition in the first book and does not stand under the heading संहितायाम् | l01, l04 |
+| The printing and IAST layout: each Devanagari line with its own IAST; word examples in four-column tables in l01–l03; from l04 the joined line, then the pause form beneath, then the gloss; a hyphenated compound form never directly before a parenthesis | STYLE_GUIDE §3.1; plan §1.4; [REF:whitney1889 §126]; `scripts/validate.py` (tried on a sample block) | ✅ policy, decided once for the chapter; at review, split keys and other notes after a Devanagari word moved into square brackets or after a dash | all |
+| The stops: no sandhi across a daṇḍa, "?", "!", a speech-frame dash, the closing quotation mark before इति, or a comma; the word before a stop in its pause form; हे never joined to a following vowel | STYLE_GUIDE §3.1; [REF:whitney1889 §138] | ✅ the comma, "?" and "!" approved by the editor and added to STYLE_GUIDE §3.1 (decision 2); हे left unjoined (decision 9) | all |
+| The seven vowel rules, their scope and the order of checks; अयादि at a word end leaves a gap that is not joined further | [REF:whitney1889 §126]; [REF:whitney1889 §127]; [REF:whitney1889 §131]; [REF:whitney1889 §132]; [REF:whitney1889 §133]; [REF:whitney1889 §134]; [REF:whitney1889 §135]; [REF:whitney1889 §138] | ✅ every section re-opened; guṇa and vṛddhi are both §127; two rows added to the plan's map (-औ → -आव्, §134b; the -औ dual joins, the -ई/-ऊ/-ए dual does not) | l01 |
+| The seven sūtras of l01: 6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11 | [REF:ashtadhyayi 6.1.101] … [REF:ashtadhyayi 1.1.11]; [REF:kashika 6.1.101] … [REF:kashika 1.1.11] | ✅ numbers and texts in the data file, examples in the Kāśikā; IR-017 in the open: इको यणचि is 6.1.77 (the 1.x book cited 1.1.45); 1.1.11 corrected at review (above) | l01 |
+| The visarga map: what decides is the vowel before the visarga and the sound after it; the -अः, -आः and other-vowel columns; र + र | [REF:whitney1889 §145]; [REF:whitney1889 §169]; [REF:whitney1889 §170]; [REF:whitney1889 §172]; [REF:whitney1889 §174]; [REF:whitney1889 §175]; [REF:whitney1889 §176]; [REF:whitney1889 §177]; [REF:whitney1889 §178]; [REF:whitney1889 §179] | ✅ the -आः column and the other-vowel column productive (decision 10), the र + र row recognition only; corrected at review: the voice-over said -अः becomes -ओ before every voiced sound; the exam's map now agrees with l02's (पुनः is an r-final); keys accept the visarga or the doubled sibilant | l02, l05 |
+| The special words and the r-finals: सः and एषः drop ः before a consonant (6.1.132); भोः before a voiced sound; पुनः, प्रातः, अन्तः keep र्; बहिः is *bahis*; नमस्कारः keeps स् | [REF:whitney1889 §169]; [REF:whitney1889 §171]; [REF:whitney1889 §174]; [REF:whitney1889 §176]; [REF:ashtadhyayi 6.1.132]; [REF:monierwilliams1899 s.v. bahis]; [REF:apte1890 s.v. बहिस्] | ✅ corrected at review: the two words अन्तः, "inside" and the nominative of अन्त, told apart in full | l02 |
+| Sūtra 8.3.34 विसर्जनीयस्य सः, the नमस्ते thread's step 2 | [REF:ashtadhyayi 8.3.34]; [REF:kashika 8.3.34] | ✅ the learner wording says "before a voiceless consonant" (the Kāśikā: *khari parataḥ*), not the plan's "an s at heart"; corrected at review: 8.3.35 described as what it prescribes (Teacher Notes) | l02 |
+| The consonant map: म् → anusvāra before a consonant; a final stop voiced before a voiced sound; त् + च, छ, ज; the doubled न्; a consonant-final word written together with the next; the optional class nasal | [REF:whitney1889 §139]; [REF:whitney1889 §159]; [REF:whitney1889 §161]; [REF:whitney1889 §162]; [REF:whitney1889 §163]; [REF:whitney1889 §202]; [REF:whitney1889 §203]; [REF:whitney1889 §208]; [REF:whitney1889 §210]; [REF:whitney1889 §213] | ✅ keys accept the anusvāra or the class nasal and the voiced or the voiceless pause form; corrected at review: the Hindi voicing rule wrongly listed ज, ल, ह for त् | l03 |
+| The three sūtras of l03: 8.3.23, 8.2.39, 8.4.40 | [REF:ashtadhyayi 8.3.23]; [REF:ashtadhyayi 8.2.39]; [REF:ashtadhyayi 8.4.40]; the Kāśikā on each | ✅ the learner line on 8.2.39 says that the pause form षट् is not wrong; the 1.x book's "8.2.39: झलां जश् झशि" is the text of 8.4.53 (Teacher Notes, IR-017) | l03 |
+| पदच्छेदः: six steps for splitting a joined line, the reverse table, and ambiguity (मूषक आगच्छति; छात्रा गच्छन्ति) | STYLE_GUIDE §3.1; [REF:whitney1889 §126]; plan c04.l04 block | ✅ the course's method; corrected at review: it is not a FACT cited to Whitney; step 2 keeps the word in -आ, in the same words in l04, l05 and the fact base | l04, l05 |
+| The changes inside a word named, not taught: the ṇ of रामेण, the ṣ of रामेषु and करोषि, the guṇa inside गुरवे, भवति = भो + अति | [REF:whitney1889 §131]; [REF:whitney1889 §180]; [REF:whitney1889 §189] | ✅ named in l04, the rules v4.c02; भवति moved from l01 to l04; §235 is not cited (decision 5) | l04 |
+| The two sūtras of l04: 1.4.109 परः सन्निकर्षः संहिता, 1.4.110 विरामोऽवसानम् | [REF:ashtadhyayi 1.4.109]; [REF:ashtadhyayi 1.4.110]; [REF:kashika 1.4.109]; [REF:kashika 1.4.110] | ✅ the ledger words संहिता and अवसानम् carry their ordinary senses, the technical senses are GLOSSARY rows (decision 3) | l04 |
+| The saṃhitā and padapāṭha recitations; Śākalya as the arranger of the Ṛgveda's padapāṭha; the Nirukta (6.28) disputes his division of a word in Ṛgveda 10.29.1 | [REF:monierwilliams1899 s.v. padapāṭha]; [REF:monierwilliams1899 s.v. śākalya]; [REF:nirukta 6.28]; [REF:rigveda 10.29.1] | ✅ TRADITION, one line, no date; the passage and the verse read in the local GRETIL e-texts; the `nirukta` entry's bibliographic data search-confirmed, page not opened (decisions 1 and 6) | l04 |
+| "Editions vary": Volume 1's spaced मा कश्चिद् दुःखभाग् भवेत्; Hit 0.6 and the Pañcatantra's *mahān jambū-pādapaḥ* as the e-texts print them | [REF:hitopadesha prastāvikā 6]; [REF:panchatantra] (Book 4, frame story, the opening prose); v1.c06.l04 | ✅ re-found by line in the e-texts, 2026-11-10; no claim about any printed edition | l04 |
+| Hindi parallels: Hindi school grammar's स्वर, व्यंजन and विसर्ग सन्धि and its five vowel names; the tatsama words; the anusvāra dot of Hindi print; schwa deletion at a seam | [REF:kachru2006], [REF:guru1952], cited bare; [REF:masica1991 ch.6] | ✅ attributed to Hindi school grammar; corrected at review: Hindi's visarga is not said to stand only in tatsama words; the schwa example corrected (Pass C) | l01–l05 |
+| No sandhi called common or frequent; where a preference is stated it is Whitney's words | STYLE_GUIDE §7; [REF:whitney1889 §16]; Whitney §§161, 163, 172, 202, 203 | ✅ the plan's "most frequent" not printed; corrected at review: a Whitney quotation in the exam made verbatim | all |
+| The headwords against Apte and Monier-Williams | [REF:apte1890]; [REF:monierwilliams1899] | ✅ corrected at review: the sense cited for एव is MW's emphatic one; the MW quotation for पद corrected in l04 and the fact base; Apte and MW quotations made exact (Pass C) | l01–l04 |
+| The 1.x book's sandhi examples (pp. 41–42 vowels; pp. 71–73 visarga) | the 1.x PDF, re-derived against the fact base's tables 0.A and 0.B | ✅ at Pass C: the correct ones built from owned words carried (देवालयः, सूर्योदयः in l01 §13; रामोऽहम्, रामो गच्छति, रामश्च, रामः करोति in l02 §13); the wrong ones, among them a memory card that defines वृद्धि as आ + इ/उ, listed with their corrections in each lesson's §22 | l01, l02 |
+| The exam: one closed-book 45-minute sitting with Station 0 outside it; task C's text printed joined only | plan §4.4; [REF:cepeda2006] for the bookings | ✅ decision 8; corrected at review: the sitting said to be closed-book; quiz options that were correct joins under another analysis, or only a different word division, replaced by error forms | l05 |
+| Station 0 bookings, worded once: three arriving from Chapter 3, ten booked in Chapter 4 | the Chapter 3 lesson files (v3.c03.l04 §20, v3.c03.l05 §20); [REF:cepeda2006] | ✅ diffed against the files on disk; one booking line reworded in v3.c03.l05 §20, v3.c04.l01 §3 and the fact base together | l01–l05 |
+| Ledger 439 → 445 → 451 → 455 → 460 → 460 (21 ledger-new; upgrade row सूर्यः; vocabulary_count 7 · 6 · 4 · 5 · 0; cells drilled 14 · 26 · 10 · 0 new · 0 new) | STYLE_GUIDE §8 rules 1–15; `ledger-all.tsv` (832 rows) and the 28 Chapter 3 headwords | ✅ no double count; sandhi spellings add 0 | all |
+
+## Review-pass findings — v3.c04 (2026-11-10)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Accuracy, lesson by lesson, every finding verified by skeptics: 72 confirmed (18 major, 54 minor), 1 rejected. Lesson 1: 16 (2 major, 14 minor) — 1.1.11 is a definition in the first book and does not stand under the heading संहितायाम्; the Monier-Williams sense cited for एव is the emphatic one; the prefix seams, the serial's departures and several pointers corrected; objectives recast without notes in a parenthesis after Devanagari. Lesson 2: 14 (3 major, 11 minor), 1 rejected — the voice-over said that -अः becomes -ओ before every voiced sound; the two words अन्तः told apart in full; Hindi's visarga no longer said to stand only in tatsama words. Lesson 3: 14 (4 major, 10 minor) — the Hindi voicing rule listed ज, ल, ह for त्; keys accept the voiced pause form; a quiz option that was only a different word division replaced by an error form; split keys in square brackets. Lesson 4: 15 (4 major, 11 minor) — the Monier-Williams quotation for पद corrected here and in the fact base; the dictation key accepts the class nasal; the printing convention stated as plain text, not as a FACT callout; no fact-base row number in the objectives; step 2 of the method keeps the word in -आ. Lesson 5: 13 (5 major, 8 minor) — a Whitney quotation made verbatim; a quiz option that was a correct join of another word replaced by an error form; the rule on spaces in joined print stated exactly; the six steps are the course's method, not a FACT cited to Whitney; the sitting said to be closed-book. | fixed; pass |
+| B | Policy and load (10 confirmed: 6 major, 4 minor; 1 rejected): lesson 2 could not be taught in 45 minutes as written — its dictation moved to homework (self-study 40 → 44 minutes); lesson 3's listening drill moved the same way (35 → 38); the dictation items of lessons 1–2 no longer printed under the instruction to write them from hearing; a homework task no longer asks for a recognition-only join; Hindi objectives recast without notes in a parenthesis. | fixed; pass |
+| C | Citations (8 confirmed: 4 major, 4 minor; 3 rejected, because another pass had already made the same fix): the 1.x book's vowel and visarga examples re-derived — the correct ones built from owned words carried into lessons 1 and 2, the wrong ones listed in the Teacher Notes with their corrections; 8.3.35 described as what it prescribes; the schwa example corrected; Apte and Monier-Williams quotations made exact; the `nirukta` entry names the imprint of the text volume (search-confirmed; page not opened). | fixed; pass |
+| D | Coherence (9 confirmed: 6 major, 3 minor; 2 rejected, because another pass had already made the same fix): the exam's visarga map agrees with lesson 2's (पुनः is an r-final); step 2 of the method agrees across lessons 4 and 5 and the fact base; every lesson's §3 reaches the lessons its review_of lists; the claim that the joined crow story is first seen in the exam withdrawn; GLOSSARY gains fourteen terms (स्वरसन्धिः, सवर्णदीर्घः, गुणः, वृद्धिः, यण्, अयादि, पूर्वरूपम्, प्रगृह्यम्, विसर्गसन्धिः, व्यञ्जनसन्धिः, संहिता, पदपाठः, पदच्छेदः, अवसानम्) and five updated rows (सन्धि, अवग्रह, अनुस्वार, विसर्ग, विराम-रूप); the plan's §7.6 records that the -आः column is productive; outside the findings, the fact base's self-study figures were aligned with the lessons in the same commit. | fixed; pass |
+
+Totals: 99 confirmed findings (34 major, 65 minor), one of them found by two passes, so 98
+distinct (33 major, 65 minor); 7 rejected, five of them because another pass had already
+made the same fix; 242 fixes applied and 1 found already applied. No blocker. Keys now
+accept every correct answer: the anusvāra or the class nasal, the visarga or the doubled
+sibilant, the voiced or the voiceless pause form.
+
+Post-fix verification: twelve files (lessons 1–5, chapter.md, the fact base, GLOSSARY.md,
+REFERENCES.md, research/notes/vol3-plan.md, the shipped v3.c03.l05, and one line of the
+Chapter 3 fact base) were re-read against the diff from their first drafts in three runs,
+each claimed defect challenged (none refuted). Twenty-five minor leftovers survived and were
+fixed: 4 in the first run (the rule on spaces in joined print stated the same way in three
+more places of the exam; one row of the plan's §7.6 brought into line with lesson 2's maps;
+GLOSSARY and REFERENCES verified with no change), 9 in the second (a step heading in lesson 1
+that disagreed with the line under it; two Pass C flags the review had already settled,
+closed; the serial's departures placed in the right chapters in lessons 2 and 3; the fact
+base's Hindi row and timing line, and the Chapter 3 fact base's booking line, brought into
+line with the lessons), and 12 in the third (notes in a parenthesis after Devanagari recast in
+lesson 3; a false sentence about a word-final स् corrected in lesson 4; the fact base's
+scene, its wording of 8.2.39, its reverse table and two dictionary rows brought into line
+with the lessons; the chapter frame verified with no change). The editor aligned three more
+sentences of lesson 2 on the -आः column with its maps: आ before every voiced sound, with a
+gap before a vowel.
+
+Status change: v3.c04 chapter frame and lessons 01–05 `draft` → `reviewed`. The Volume 3
+frame stays `draft` until Chapter 6 ships.
+
+Decisions recorded with this chapter: split keys and other notes after a Devanagari word go
+in square brackets or after a dash, since a parenthesis there holds IAST only; no fact-base
+row number stands in learner-facing text; a course convention is plain text, not a FACT
+callout; a wrong option is at fault only if it could be a correct answer to the item as
+asked; a dictation's items are not printed where the learner writes them from hearing; a
+class slot must be able to hold what is put in it, and what cannot fit goes to homework; §3
+reaches every lesson that review_of lists; a quotation in quotation marks is verbatim from a
+source that was opened.
+
+The editor's eleven decisions on the fact base (its §7), 2026-11-10: (1) the REFERENCES key
+`nirukta` is added, after the editor re-read Nirukta 6.28 in the GRETIL e-text, and the
+TRADITION line on it prints; (2) the comma, "?" and "!" are stops, and the word before a
+stop stands in its pause form (STYLE_GUIDE §3.1); (3) the five l04 headwords that are also
+grammar terms keep both rows — the ledger counts the word in its ordinary sense, GLOSSARY
+carries the technical sense and the Hindi term; (4) the GLOSSARY terms are approved as
+listed, their Hindi forms binding on the lessons from the first draft; (5) Whitney §180,
+§189, §191 and §235 are cited in a lesson only if Pass C opens the section and it says what
+it is cited for; (6) the Ṛgveda locus is 10.29.1, confirmed in the GRETIL Ṛgveda; (7)
+`kachru2006` and `guru1952` stay bare, and the schwa-deletion row cites `ohala1994` only if
+Pass C finds the statement there; (8) the exam is one 45-minute sitting with Station 0
+outside it, and its booklet prints task C's text joined only, the pause form standing in
+the key; (9) हे is left unjoined and no drill puts it before a vowel; (10) the -आः column
+and the other-vowel column of the visarga map are productive, the र + र row recognition
+only, recorded in the plan's §7.6; (11) the erratum to v1.c03.l04 §14 is approved and
+applied.
+
+The evidence rule for web sources, adopted 2026-11-10, because this session's network
+policy lets no page be opened on archive.org, HathiTrust, WorldCat, Encyclopaedia Iranica
+and similar hosts, while web search works: a reading, a quotation, a verse number or a locus
+prints only from a text the project opened itself; bibliographic data may rest on search
+results that quote a title page, a library catalogue or the publisher's own page, and is
+marked "search-confirmed; page not opened"; a hedged statement of scholarship may rest on
+search results that quote the source's own page, is attributed in the text, and is marked
+the same way; anything else does not print. Under this rule the `nirukta` entry's
+bibliographic data (Sarup's edition, first published 1920–1927; the Sanskrit text Lahore:
+University of the Panjab, 1927; repr. Delhi: Motilal Banarsidass, 1967) is search-confirmed,
+page not opened, while the passage itself (Nirukta 6.28) and the Ṛgveda verse (10.29.1) were
+read in the local GRETIL e-texts.

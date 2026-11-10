@@ -4,17 +4,66 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.16.0] — 2026-11-10
+
+Volume 3, Chapter 4 — सन्धिः · Sandhi in Use — is reviewed and shipped: five lessons, 21
+ledger-new words, 439 → 460 readable words. The joined words the learner has carried whole
+since Volumes 1 and 2 (नमस्ते, नास्ति, कोऽपि, जगच्च) are opened: the chapter teaches how words join
+where vowels meet, where a visarga meets the next sound and where consonants meet, splitting
+before joining in every lesson, and then how to take any joined line back into its words.
+From v3.c04.l04 on, every course-written line is printed joined, with its pause form beneath
+it.
 
 ### Added
 
-- **Fact base for v3.c04** (सन्धिः · Sandhi in Use), `research/notes/vol3-ch4-sandhi-in-use.md`,
-  and the chapter frame (status draft). Verified by three checkers with every finding
-  challenged: 40 confirmed findings (32 distinct: 13 major, 19 minor), 2 rejected; the
-  editor's decisions are in its §7.
+- **v3.c04, five lessons, reviewed** — joined so far in lessons 1–3, joined over the pause
+  form from lesson 4:
+  - स्वरसन्धिः · When Vowels Meet: the seven vowel rules — सवर्णदीर्घः, गुणः, वृद्धिः, यण्,
+    अयादि at a word end, पूर्वरूपम्, प्रगृह्यम् — with seven sūtras quoted (6.1.101, 6.1.87,
+    6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11); the hyphenated inner seam of a compound, as in
+    सूर्य-उदये → सूर्योदये; two worked seams carried from the 1.x book, देवालयः and सूर्योदयः;
+    headwords आलयः, उदयः, ईशः, इव, एव and वा, with सूर्यः as an upgrade (439 → 445).
+  - नमस्ते · The Visarga at the Seam: the visarga map — the -अः, -आः and other-vowel
+    columns, the r-finals पुनः, प्रातः and अन्तः, the special words सः, एषः and भोः — with
+    sūtras 8.3.34 and 6.1.132; the नमस्ते thread, step 2: नमः + ते; the 1.x book's visarga
+    examples built from owned words, रामोऽहम्, रामो गच्छति, रामश्च and रामः करोति; headwords
+    प्रातः, बहिः, अन्तः, उच्चैः, शनैः and तु, all six new (445 → 451).
+  - जगच्च · When Consonants Meet: the consonant map — a final म् as anusvāra before a
+    consonant, the voicing of a final stop, त् before च, छ and ज, the doubled न्, and writing
+    a consonant-final word together with the next — with sūtras 8.3.23, 8.2.39 and 8.4.40;
+    headwords दिक्, सम्यक्, नाथः and धीमान्, four in all (451 → 455).
+  - पदच्छेदः · Un-joining: Saṃhitā and Pada: the six steps of splitting a joined line, and
+    the reverse table; the whole past-tense retelling of v3.c03.l03 printed joined over its
+    pause form; sūtras 1.4.109 and 1.4.110; one TRADITION line on the Vedic padapāṭha and on
+    a word division that Yāska's Nirukta (6.28) disputes; the changes inside a word (ṇ, ṣ,
+    भवति) named and left to Volume 4; headwords पदम्, वाक्यम्, सन्धिः, अवसानम् and संहिता,
+    five in all (455 → 460).
+  - सन्धिपरीक्षा · The Sandhi Exam: the three maps and the reverse table on one page; five
+    tasks in one closed-book 45-minute sitting (sixteen joined shapes split, each with its
+    rule; sixteen seams joined; the Volume 2 crow story read aloud joined; a dictation
+    written joined, then in its pause form; three lines each on नमस्ते, विद्यालयः, परोपकारः
+    and न कोऽपि लघुः), with Station 0, about 8 minutes, before it; the ledger stays at 460.
+
+  The serial is re-read rather than continued (our retelling, after Hitopadeśa 1): four
+  selections — ten lines joined at the vowel seams, ten at the vowel and visarga seams, ten
+  at every seam, and in lesson 4 the whole 13-line past-tense retelling joined over its pause
+  form. The Hindi parallels are exact contrasts: the five names of Hindi school grammar's
+  स्वर सन्धि beside the tradition's seven; the tatsama words a Hindi speaker already says
+  joined; Hindi print's anusvāra dot beside the Sanskrit class nasal. Self-study minutes:
+  35 · 44 · 38 · 40 · 40.
+- `research/notes/vol3-ch4-sandhi-in-use.md`: the Chapter 4 fact base — every joined form
+  re-derived against Whitney and the sūtra named, the fourteen sūtras checked in the data
+  file and the Kāśikā, the printing and IAST layout decided once for the chapter, the Station
+  0 bookings worded once, each lesson's texts, exercises and keys, and the editor's eleven
+  decisions (§7). The chapter frame was written with it.
+- GLOSSARY: स्वरसन्धिः, सवर्णदीर्घः, गुणः, वृद्धिः, यण्, अयादि, पूर्वरूपम्, प्रगृह्यम्, विसर्गसन्धिः,
+  व्यञ्जनसन्धिः, संहिता, पदपाठः, पदच्छेदः, अवसानम्; the rows सन्धि, अवग्रह, अनुस्वार, विसर्ग and
+  विराम-रूप updated.
 - **REFERENCES key `nirukta`** (Yāska's *Nirukta*, ed. Sarup; the course quotes the GRETIL
   e-text), for one TRADITION line in v3.c04.l04 on a disputed word division (Nirukta 6.28
   on Ṛgveda 10.29.1).
+- `research/notes/vol3-plan.md` §7.6: the corrections the Chapter 4 research made to the
+  plan, and the rules its review settled.
 - **Fact base for v3.c05** (सर्वनाम-अव्यय-समासाः · Pronouns, Indeclinables, Compounds),
   `research/notes/vol3-ch5-pronouns-indeclinables-compounds.md`, and the chapter frame
   (status draft). Verified by three checkers with every finding challenged: 52 confirmed
@@ -24,12 +73,50 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 - **STYLE_GUIDE §3.1:** the stops that sandhi does not cross now include the question mark,
   the exclamation mark and the comma, and the word before a stop stands in its pause form.
+- STYLE_GUIDE §8: 460 reached.
 - **`scripts/export_json.py`** exports only lessons whose status is `reviewed` or
   `published`, as the website build already does; `--include-drafts` exports the rest too.
   A draft that is still being written no longer reaches `json/`.
 
 ### Fixed
 
+- **v3.c04 fact base, before drafting:** three checkers, with every finding challenged,
+  confirmed 40 findings (17 major, 23 minor), 8 of them duplicates between checkers, so 32
+  distinct (13 major, 19 minor), and rejected 2. Among the majors: the plan was right that
+  the mouse of Hitopadeśa 1 asks the crow कस्त्वम् — in the prose after Hit 1.53 — and the
+  fact base's "correction" of that locus was withdrawn; 1.4.110 defines अवसानम्, the pause,
+  and no sūtra defines the padapāṭha, which the chapter frame had paired with it in three
+  places; छ doubles after a short vowel between words too (6.1.73), and the doubling is
+  optional only after a word-final long vowel (6.1.75–76); the क् of दिक् is by 8.2.62, not
+  8.2.30; the ण rule as worded predicted \*रामाण्, though a word-final न never becomes ण;
+  तयागच्छन्ति, which 8.3.19 allows beside त आगच्छन्ति, stood as a wrong quiz option; "the
+  verb decides" was a false test for the two readings of मूषक आगच्छति; प्रातः stood in
+  lesson 1, one lesson before it is taught; the exam's Station 0 and its conversation
+  rehearsed two of the exam's own task items; and the 1.x book's vowel and visarga pages
+  had been neither checked nor carried in. The editor's eleven decisions followed
+  (§7): among them the `nirukta` key, the comma as a stop, the Ṛgveda locus 10.29.1, the
+  exam with task C printed joined only, and the -आः column of the visarga map made
+  productive.
+- **v3.c04 review (passes A–D, every finding verified by skeptics):** 99 findings
+  confirmed (34 major, 65 minor) — 98 distinct (33 major, 65 minor), since one was found by
+  two passes — and 7 rejected, five of them because another pass had already made the same
+  fix; 242 fixes applied and 1 found already applied. No blocker. Among the findings:
+  lesson 2 could not be taught in 45 minutes as written — its dictation moved to homework
+  (self-study 40 → 44 minutes), and lesson 3's listening drill moved the same way (35 →
+  38); the Hindi voicing rule in lesson 3 wrongly listed ज, ल, ह for त्; 1.1.11 is a
+  definition in the first book and does not stand under the heading संहितायाम्; the
+  voice-over of lesson 2 said -अः becomes -ओ before every voiced sound; quiz options that
+  were correct joins under another analysis, or only a different word division, were
+  replaced by error forms; keys now accept every correct answer (the anusvāra or the class
+  nasal, the visarga or the doubled sibilant, the voiced or the voiceless pause form); the
+  1.x book's sandhi examples (pp. 41–42 vowels; pp. 71–73 visarga) were re-derived — the
+  correct ones built from owned words are carried into lessons 1 and 2, and the wrong ones,
+  among them a memory card that defines वृद्धि as आ + इ/उ, are listed in the Teacher Notes
+  with their corrections; the exam's visarga map now agrees with lesson 2's (पुनः is an
+  r-final); every lesson's §3 reaches the lessons its review_of lists. A post-fix
+  verification re-read twelve files against the diff from their first drafts, in three
+  runs, with every claimed defect challenged: 25 minor leftovers fixed, none refuted; the
+  editor aligned three more sentences of lesson 2 on the -आः column with its maps.
 - **v1.c03.l04 §14 (the मनः row)** promised the "full noun story" of मनस् in Volume 3. The
   Volume 3 plan teaches its seam in v3.c04.l02 and leaves the declension of s-stems to
   Volume 4 (v4.c05); the line now says so.

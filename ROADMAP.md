@@ -54,7 +54,7 @@ at exit.
 | 1 | सुबन्तप्रवेशः — Nouns & Cases I | 5 | ✅ reviewed |
 | 2 | सुबन्तविस्तारः — Nouns & Cases II | 5 | ✅ reviewed |
 | 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ✅ reviewed |
-| 4 | सन्धिः — Sandhi in Use | 5 | ⬜ |
+| 4 | सन्धिः — Sandhi in Use | 5 | ✅ reviewed |
 | 5 | सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds | 5 | ⬜ |
 | 6 | सम्पूर्णपठनम् — Connected Reading | 5 | ⬜ |
 
@@ -259,6 +259,22 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   lessons, validator green, exports current. STYLE_GUIDE §3.1 (pause form and joined
   text) is in place for Chapter 4. Next: v3.c04 सन्धिः — Sandhi in Use (fact base being
   written).
+- **2026-11-10** — **v3.c04 सन्धिः complete and reviewed (0.16.0)**: the joins taught one
+  kind at a time, splitting before joining in every lesson — the seven vowel rules, with
+  their seven sūtras (6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11); the visarga
+  map, with नमस्ते = नमः + ते by 8.3.34 and सः, एषः before a consonant by 6.1.132; the
+  consonant map (8.3.23, 8.2.39, 8.4.40); पदच्छेदः, six steps for taking a joined line back
+  into its words, with संहिता and अवसानम् by 1.4.109 and 1.4.110 and one TRADITION line on the
+  Vedic padapāṭha and Nirukta 6.28; the changes inside a word named and left to Volume 4.
+  From v3.c04.l04 every course-written line is printed joined, with its pause form beneath
+  it. The 1.x book's vowel and visarga examples re-derived: the correct ones built from
+  owned words carried into lessons 1 and 2, the wrong ones listed with their corrections.
+  Fact base verified before drafting (32 distinct findings); review passes A–D, Pass A
+  lesson by lesson (98 distinct findings confirmed across the four passes, none blocking;
+  242 fixes); post-fix verification of twelve files (25 minor leftovers fixed). 21
+  ledger-new (460 cumulative); 81 reviewed lessons, validator green, exports current. Next: v3.c05
+  सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds (fact base verified, lessons
+  being drafted).
 
 ## Content preservation map (from the 1.x curriculum)
 
@@ -270,11 +286,11 @@ Verified-correct 1.x material and where it lands in 2.0:
 | ॐ = a-u-m decomposition (p.8, 21) | v1.c02 (o/au lesson), TRADITION register |
 | Thematic vocab sets (pp.27–36) | v2.c01–c03 |
 | 10-verb bank (p.40) | v2.c04 |
-| rāma/गच्छ paradigms, vowel sandhi, samāsa (pp.37–43) | v3.c01, c03, c04, c05 |
+| rāma/गच्छ paradigms, vowel sandhi, samāsa (pp.37–43) | v3.c01, c03, c05; the vowel-sandhi worked examples (pp.41–42) v3.c04.l01 — देव + आलय → देवालय and सूर्य + उदय → सूर्योदय carried in §13, the 1.x errors listed with their corrections in §22 |
 | Graded readers (pp.64–66) | v2.c06 (sandhi-resolved), v3.c06 (original) |
 | IE word pairs, 19 of 20 real relatives (pp.61–62) | v2.c06 (re-sorted: cognate, loan, Latin route, false) |
 | Subhāṣita set + three śānti (pp.47–51) | v2.c06 (first three), v5.c01 |
-| Visarga sandhi (pp.71–73) | v3.c04 |
+| Visarga sandhi (pp.71–73) | v3.c04.l02 — the examples built from owned words carried in §13: रामः + अहम् → रामोऽहम्, रामः + गच्छति → रामो गच्छति, रामः + च → रामश्च, रामः + करोति → रामः करोति; the 1.x errors listed with their corrections in §22 |
 | 10 lakāras + forms (pp.74–75) | v4.c03 |
 | Kāraka lesson + Fillmore note (pp.87–89) | v3.c02 (functional), v4.c05 (theory) |
 | √भू 6-lakāra table (pp.127–128) | v4.c03 |

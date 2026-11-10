@@ -39,10 +39,10 @@ media:
     - "planned:assets/worksheets/volume-3/v3c04l02-visarga-map.pdf"
   quizzes: []
 tags: [grammar, sandhi, visarga-sandhi, namaste-thread, splitting, joining, sutra, r-finals, sa-esa, joined-so-far, symbol-note, hindi-bridge, serial, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---
