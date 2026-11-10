@@ -27,7 +27,7 @@ lesson names the speech frame — X उवाच — "…", and "…" इति 
 chapters of our retelling, the learner reads eight of the Hitopadeśa's own sentences on the doves and
 the mouse, with a bridge over the gaps, and checks every place where our retelling told it differently.
 The third lesson opens the Pañcatantra's fourth book, the monkey and the crocodile, and the formula
-with which its stories begin: अस्ति with a place, X नाम Y, and the storyteller's present with स्म — the
+with which that story begins: अस्ति with a place, X नाम Y, and the storyteller's present with स्म — the
 one sūtra the chapter quotes, 3.2.118 लट् स्मे. The fourth lesson teaches अन्वयः, putting a verse in
 prose order, on three verses: विद्या ददाति विनयम्, the jackal's अयं निजः परो वेति … वसुधैव कुटुम्बकम् read
 with its speaker, and यस्य बुद्धिर्बलं तस्य, which says in a verse what the course's own moral बुद्धिः एव बलम् says in three words; the

@@ -149,9 +149,9 @@ and what it says about its own sources.
 > hitopadeśa]) is a collection of fables in prose and verse. One of its closing verses names Nārāyaṇa as its
 > compiler, and the colophon of its third book calls it the work of "the paṇḍita Nārāyaṇa"; another
 > closing verse names a ruler, Dhavalacandra, who had the collection written out and circulated
-> [REF:hitopadesha sandhi 141, 143]. On the estimate printed with the Clay Sanskrit Library translation it
-> was composed between 800 and 950 CE; the oldest dated manuscript known is of 1373 CE
-> [REF:hitopadesha]; [REF:torzsok2007]. Its prologue says that its books are "drawn from the
+> [REF:hitopadesha sandhi 141, 143]. On the scholarly estimate it dates to roughly the 9th–12th
+> centuries CE; the oldest dated manuscript known is of 1373 CE [REF:hitopadesha]. Its prologue
+> says that its books are "drawn from the
 > Pañcatantra and another work" (पञ्चतन्त्रात्तथान्यस्माद्ग्रन्थादाकृष्य लिख्यते) [REF:hitopadesha prastāvikā 9].
 > In the frame story of the first book of the Hitopadeśa, a mouse gnaws through a net to free a flock
 > of birds [REF:hitopadesha mitralābha]. The frame story of the Pañcatantra's second book tells of the
@@ -165,8 +165,8 @@ and what it says about its own sources.
 
 Read the callout clause by clause, because each clause rests on something different. The
 name Nārāyaṇa and the patron Dhavalacandra come from the book's own closing verses and the
-colophon of its third book. The date is an estimate, printed with a modern translation, and it
-is given as a range. The prologue's line is the book speaking about itself:
+colophon of its third book. The date is the scholarly estimate,
+given as a range; the manuscript's date belongs to one copy, not to the making of the book. The prologue's line is the book speaking about itself:
 पञ्चतन्त्रात्तथान्यस्माद्ग्रन्थादाकृष्य लिख्यते (pañcatantrāt tathānyasmād granthād ākṛṣya
 likhyate), "it is written, drawn from the Pañcatantra and another work" — display only, its
 words not yours yet. The sentence about the mouse and the net is the one v2.c06.l02 §4
@@ -904,6 +904,23 @@ From now on, when you read "the doves and the mouse", you read the book. — आ
 > 16. Episode 5: our mouse cuts the snares in the active, ततो हिरण्यकः सर्वेषां कपोतानां
 >     पाशानकृन्तत्। — The text: H8, an absolutive and an "X-ed by Y" sentence.
 > 17. Episode 5: our episode closes with चित्रग्रीवहिरण्यकौ प्रियमित्रे अभवताम्। — Not in the text.
+> 18. Episode 1: ours tells the scene with one dove, and the hunter throws down "food". — The
+>     text: a whole flock with its king, and rice grains.
+> 19. Episode 3: the doves' "we eat, then we go", the hunter waiting on the bank, a dove's line
+>     about the net and "in the sky even the net looks fine!" are ours. — In the text the king
+>     gives the plan as a command to all: of one mind, take the net and fly up.
+> 20. Episode 3: our mouse goes into his hole, the king names himself, and the question "what is
+>     this?" is asked with मित्र. — In the text the mouse keeps silent in fear, the king calls him
+>     by name (H3), and the question is सखे! किमेतत्? [H5].
+> 21. Episode 5: our doves ask their king in the sky; our king speaks of the doves as bound in the
+>     snares and asks the mouse to cut the snares as far as he can. — In the text the doves ask
+>     after the hunter has turned back; the mouse himself sees them bound; the king asks him to
+>     cut their bond as far as he can.
+> 22. The Chapter 5 exam's page: the king's name explained by his bright neck, and his call
+>     "सखे हिरण्यक! शीघ्रं बहिरागच्छ!". — The text explains no name, and the king asks why the
+>     mouse does not speak to them (H3).
+> 23. Episode 2: our doves simply live in the tree. — The text: birds from many lands come and
+>     roost in it at night.
 
 None of these was a mistake of Sanskrit. Each was a choice: the retelling used only what you had
 been taught, and told the story in its own way. The book did not have to.
@@ -1087,7 +1104,8 @@ Hiraṇyaka to Citragrīva · H8 the narrator — the doer तेन is Hiraṇy
 alone earns the mark · (4) आम्, कोमलाः · (5) हिरण्यकः — the text's तेन · (6) सर्वेषाम् कपोतानाम्.
 
 **Exercise 3** (6 marks). (1) वने · (2) सिंहस्य — or तस्य, as line 2 has it · (3) "माम् मुञ्च"
-— any part of line 4 · (4) "त्वम् लघुः असि" · (5) जाले — or व्याधस्य जाले · (6) दन्तैः.
+— any part of line 4 · (4) "त्वम् लघुः असि"; "सखे! त्वम् सत्यम् मम मित्रम्", which the lion also says in line 9, is
+accepted too · (5) जाले — or व्याधस्य जाले · (6) दन्तैः.
 
 **Exercise 4** (6 marks). (1) "मां मुञ्च" इति मूषकोऽवदत्। · (2) सिंहोऽवदत् — "त्वं लघुरसि।" ·
 (3) "सखे! किमेतत्?" इति हिरण्यकोऽवदत्। · (4) हिरण्यकोऽवदत् — "अहमल्पशक्तिः।" · (5) "सखे! त्वं मम
@@ -1126,7 +1144,7 @@ and 9 and at the closing quotation marks of lines 4, 5 and 9; इत्यवद
 > सत्यम् "truly", करिष्यामि "I will do" (glossed). **The book:** the Hitopadeśa, eight sentences of
 > Book 1's frame story, a mosaic with a bridge; its compiler named Nārāyaṇa in its own closing
 > verse; its prologue: "drawn from the Pañcatantra and another work". **The hand-over:** six
-> places where our retelling departed; the serial ends. **The ledger:** six new — 498; cells
+> places side by side, and every departure listed; the serial ends. **The ledger:** six new — 498; cells
 > drilled: 0.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
@@ -1184,8 +1202,9 @@ for lessons 3 and 4.
 with the e-text line (`hitop_u.htm`), compiled from the fact bases of Chapters 1, 2, 3 and 5 and
 re-checked against the e-text. §17 prints the same list for the learner without line numbers.
 These are the departures that the Teacher Notes of the serial's lessons put "on the record for
-v3.c06.l02" (a grep finds the phrase in v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01–l03,
-v3.c05.l02 and v3.c05.l04; v3.c05.l05 says "stand on the record").
+v3.c06.l02" (a grep finds the phrase in v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c02.l04,
+v3.c03.l01–l03, v3.c05.l02 and v3.c05.l04; v3.c05.l05 says "stand on the record"; v3.c02.l02
+records row 23 in its own words).
 
 | # | Episode | Our retelling | The text |
 |---|---|---|---|
@@ -1206,6 +1225,12 @@ v3.c05.l02 and v3.c05.l04; v3.c05.l05 says "stand on the record").
 | 15 | 5 (c05) | "स्वागतम्, प्रियमित्र!" | H4 *āḥ! puṇyavān asmi priya-suhṛn me citragrīvaḥ samāyātaḥ* |
 | 16 | 5 (c05) | ततो हिरण्यकः सर्वेषां कपोतानां पाशानकृन्तत् — active | H8 *evam uktvā tena … bandhanāni chinnāni* (absolutive + R2) |
 | 17 | 5 (c05) | the closing dvandva चित्रग्रीवहिरण्यकौ प्रियमित्रे अभवताम् | not in the text |
+| 18 | 1 (c01) | one dove comes down; the hunter throws down अन्नम् "food" | a whole flock with its king (*sa-parivāraḥ*) and rice grains (*taṇḍula-kaṇān*, l. 307) |
+| 19 | 3 (c03) | the doves' "we eat, then we go"; the hunter on the bank; the dove's R3 line and "the net looks fine" | not in the text; the king's plan is an impersonal command, *sarvair ekacittībhūya jālam ādāya uḍḍīyatām* (l. 454) |
+| 20 | 3 (c03) | the mouse goes into his hole and the king names himself; line 13's question with मित्र for सखे | the mouse keeps silent in fear (*tūṣṇīṃ sthitaḥ*, l. 472) and the king calls him by name (H3); *sakhe! kim etat?* (H5, l. 479) |
+| 21 | 5 (c05) | the doves ask in the sky; the king says पाशबद्धाः; यथाशक्ति पाशान्कृन्त | the doves ask after the hunter turns back (*svāmin! kim idānīṃ kartum ucitam?*, l. 467); the mouse sees them *pāśa-baddhāṃś* (l. 479); *tathāpi yathā-śakti bandhanam eteṣāṃ khaṇḍaya* (l. 494) |
+| 22 | 5 (c05.l05, task D) | the king's name explained by his bright neck; "सखे हिरण्यक! शीघ्रं बहिरागच्छ!" | no name explained (l. 307); H3 (l. 472) |
+| 23 | 2 (c02) | the doves simply live in the tree (निवसन्ति) | birds from many lands come and roost there at night, *tatra nānā-dig-deśād āgatya rātrau pakṣiṇo nivasanti* (l. 298) |
 
 Episode 4 (Chapter 4) re-read the serial joined and added no event. Of the six rows the learner
 gets in the hand-over table, rows 1, 2, 3, 4, 5 and 6 are departures 1, 3, 11, 12, 15 and 16.
@@ -1236,12 +1261,13 @@ numbering it is 1.71. Today's loci ("prose after verse 38") are the e-text's.
 **The closing verses.** The HISTORY callout's Nārāyaṇa and Dhavalacandra rest on Hit 4.141 and
 4.143 (`hitop_u.htm` l. 4010, 4017–4018) and the colophon of Book 3 (l. 3244–3245). These are
 closing verses of the e-text; whether every printed edition has them was not checked. The date
-clause (800–950 CE, the estimate printed with Törzsök's translation) and the manuscript (Cambridge
-University Library MS Add. 2564, 1373 CE) are search-confirmed; the pages were not opened. Fourteen
-shipped Volume 3 lessons (v3.c01.l02–l05, v3.c02.l01–l05, v3.c03.l03–l05, v3.c05.l04–l05) date the
-Hitopadeśa in their HISTORY callouts to the 9th–12th centuries CE on the scholarly estimate (the
-wording varies); that stays true: the 800–950 CE estimate lies inside the span, and the 1373 CE
-manuscript dates a copy, not the composition. Do not add a claim
+clause is the one the course has used throughout: fourteen shipped Volume 3 lessons
+(v3.c01.l02–l05, v3.c02.l01–l05, v3.c03.l03–l05, v3.c05.l04–l05) date the Hitopadeśa in their
+HISTORY callouts to the 9th–12th centuries CE on the scholarly estimate (the wording varies). A
+narrower estimate, 800–950 CE, was drafted for this callout and withdrawn at review: it could not
+be traced to a source that could be opened or quoted. The manuscript (Cambridge University
+Library MS Add. 2564, Nepāla saṃvat 493 = 1373 CE) is search-confirmed; the page was not opened.
+It dates a copy, not the composition. Do not add a claim
 about which book, the Hitopadeśa or the Pañcatantra, tells the story first.
 
 **The ◐ seams.** तन्मे — तत् + मे — and प्रियसुहृन्मे — °सुहृत् + मे — a stop before a nasal, are

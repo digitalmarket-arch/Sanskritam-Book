@@ -277,8 +277,8 @@ voice does not stop.
 > **[FACT · तथ्यम्]** हिन्दी में -कर / -के / -करके वाला रूप वही काम करता है: मुख्य क्रिया का
 > कर्ता पहले कोई काम करता है — राम खाना खाकर सोया। देखकर, खाकर; और करना से करके। [REF:kachru2006]
 
-> **[TRADITION · परम्परा]** हिन्दी की स्कूली व्याकरण-परम्परा इस -कर वाले रूप को पूर्वकालिक
-> क्रिया कहती है। [REF:guru1952]
+> **[TRADITION · परम्परा]** हिन्दी की स्कूली व्याकरण-पुस्तकें इस -कर वाले रूप को पूर्वकालिक
+> क्रिया कहती हैं।
 
 पर तीन अन्तर ध्यान से देखिए। पहला: हिन्दी में एक ही प्रत्यय हर क्रिया पर लगता है — -कर,
 -के, -करके; संस्कृत में दो हैं — सादी क्रिया पर -त्वा, उपसर्ग वाली क्रिया पर -य: उक्त्वा, पर आगत्य।
@@ -524,10 +524,10 @@ text (v3.c04.l05)*
 
 **The seams, by lesson:** -अः + अ → ओऽ [काकोऽस्ति, पिपासितोऽस्ति; v3.c04.l02] · सः before a
 consonant → स [स पिपासितः, स जलम्; v3.c04.l02] · सः before ए → स by the ordinary -अः + vowel rule
-(स एकम्; v3.c04.l02) · -म् + a vowel written together, -म् + a consonant → ं [जलमिच्छति, एकं घटं;
+[स एकम्; v3.c04.l02] · -म् + a vowel written together, -म् + a consonant → ं [जलमिच्छति, एकं घटं;
 v3.c04.l03] · -ए + अ → एऽ, पूर्वरूपम् [घटेऽल्पम्; v3.c04.l01] · इ + आ → या, यण् [उपर्यागच्छति;
-v3.c04.l01] · -इः + a vowel → -इर् [बुद्धिरेव; v3.c04.l02] · -अः before क stays (एकः काकः; v3.c04.l02) · पुनः is an
-r-final, and before प it keeps its ः (पुनः पुनः; v3.c04.l02). **Untaught: none.** Words: 38.
+v3.c04.l01] · -इः + a vowel → -इर् [बुद्धिरेव; v3.c04.l02] · -अः before क stays [एकः काकः; v3.c04.l02] · पुनः is an
+r-final, and before प it keeps its ः [पुनः पुनः; v3.c04.l02]. **Untaught: none.** Words: 38.
 
 ### Text A2 — सिंहः मूषकः च, the Volume 2 lion
 
@@ -647,7 +647,7 @@ is what speed 1 is for.
 the Pañcatantra passage of lesson 3 and the exam passage of lesson 5. Formation is Volume 4's
 (v4.c04).* Card image: `planned:assets/images/volume-3/v3c06l01-r5-card.svg`.
 
-> A verb form in **-त्वा** (after a simple verb) or **-य** (after a prefix) means "**having
+> A verb form in **-त्वा**, after a simple verb, or **-य**, after a prefix, means "**having
 > …-ed**". It never changes. Its doer is the doer of the main verb: स पाषाणं दृष्ट्वा …
 > "having seen a stone, he …". In an "X-ed by Y" sentence (R2), its doer is the instrumental Y:
 > एवमुक्त्वा तेन … बन्धनानि छिन्नानि "having said so, by him the bonds were cut" (H8).
@@ -844,8 +844,8 @@ into its pause form and name the rule that joined it: 1. काकोऽस्�
 worksheet frames are in `planned:assets/worksheets/volume-3/v3c06l01-seam-hunt.pdf`.
 
 **अभ्यासः 3 · प्रश्नाः — Text B1 at sight, then nine questions (in class, with the reading of
-B1, 8 min; objective 3).** Read §17 once at speed 2, then answer in Sanskrit, one word or a
-phrase:
+B1, 8 min; objective 3).** Read §17 at the three speeds (§9 drill 6), then answer in Sanskrit, one
+word or a phrase:
 
 1. कस्तृष्णार्त आसीत्? (kas tṛṣṇārta āsīt?)
    कः तृष्णार्तः आसीत्? (kaḥ tṛṣṇārtaḥ āsīt?)
@@ -893,13 +893,13 @@ absolutive:
 > एवमुक्त्वा तेन सर्वेषां कपोतानां बन्धनानि छिन्नानि। (evam uktvā tena sarveṣāṃ kapotānāṃ bandhanāni chinnāni.)
 > Pause form, ours: एवम् उक्त्वा तेन सर्वेषाम् कपोतानाम् बन्धनानि छिन्नानि। (evam uktvā tena sarveṣām kapotānām bandhanāni chinnāni.)
 > "Having said this, he cut the bonds of all the doves" (literally "by him … [were] cut"). —
-> यह कहकर उसने सब कबूतरों के बन्धन काट दिए।
+> ऐसा कहकर उसने सब कबूतरों के बन्धन काट दिए।
 > — Hitopadeśa 1, prose after verse 49; text of the GRETIL e-text [REF:hitopadesha mitralābha].
 > Glosses: बन्धनानि "bonds" (lesson 2's headword बन्धनम्); छिन्नानि "were cut".
 
 > एवमुक्त्वा तस्मै जम्बूफलानि ददौ। (evam uktvā tasmai jambū-phalāni dadau.)
 > Pause form, ours: एवम् उक्त्वा तस्मै जम्बूफलानि ददौ। (evam uktvā tasmai jambūphalāni dadau.)
-> "Having said this, he gave him rose-apples." — यह कहकर उसने उसे जामुन दिए।
+> "Having said this, he gave him rose-apples." — ऐसा कहकर उसने उसे जामुन दिए।
 > — Pañcatantra 4, frame story, the prose after the verses on the guest; text of the GRETIL
 > e-text [REF:panchatantra tantra 4, frame story]. Glosses: जम्बूफलानि "rose-apples" (lesson 3's headword
 > जम्बूः); ददौ "gave" (a perfect form, Volume 4).
@@ -922,16 +922,16 @@ mid-quiz.
    (c) सुखी
 4. The vigraha of तृष्णार्तः, as this lesson gives it, is: (a) तृष्णया आर्तः (b) तृष्णायाः आर्तः
    (c) तृष्णा च आर्तः च
-5. इतस्ततः means: (a) "here and there" (b) "from here" (c) "then"
-6. उपायः means: (a) "a way, a means" (b) "water" (c) "a stone"
-7. In बुद्धिर्बलाच्छ्रेष्ठा, बलात् is: (a) पञ्चमी, "than strength" (b) षष्ठी, "of strength"
-   (c) तृतीया, "by strength"
+5. इतस्ततः means: (a) "from here" (b) "then" (c) "here and there"
+6. उपायः means: (a) "water" (b) "a way, a means" (c) "a stone"
+7. In बुद्धिर्बलाच्छ्रेष्ठा, बलात् is: (a) षष्ठी, "of strength" (b) तृतीया, "by strength"
+   (c) पञ्चमी, "than strength"
 8. In स जलमिच्छति, स stands for सः because: (a) सः drops its ः before a consonant (b) सः drops
    its ः before every sound (c) स is the feminine
-9. The benediction's सर्वे is: (a) the masculine nominative plural of सर्व (b) the feminine
-   nominative plural (c) a dual
-10. In Text B1 line 6, पाषाणान् is: (a) द्वितीया बहुवचनम् (b) प्रथमा बहुवचनम् (c) द्वितीया
-    एकवचनम्
+9. The benediction's सर्वे is: (a) the feminine nominative plural (b) the masculine
+   nominative plural of सर्व (c) a dual
+10. In Text B1 line 6, पाषाणान् is: (a) प्रथमा बहुवचनम् (b) द्वितीया एकवचनम् (c) द्वितीया
+    बहुवचनम्
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -945,14 +945,14 @@ mid-quiz.
 3. (b) — §17 line 1; Volume 2 printed पिपासितः, its synonym. · FACT
 4. (a) — "afflicted by thirst": the instrumental, as §14 gives it, like पाशैः बद्धाः. ((b) is a
    taught form in the wrong case for "by"; (c) is the dvandva shape.) · FACT
-5. (a) — §14. · FACT
-6. (a) — §14. · FACT
-7. (a) — the ablative of comparison with श्रेष्ठा [§8; §17 line 9]. · FACT
+5. (c) — §14. · FACT
+6. (b) — §14. · FACT
+7. (c) — the ablative of comparison with श्रेष्ठा [§8; §17 line 9]. · FACT
 8. (a) — the सः-rule of v3.c04.l02. (Before a vowel the -अः rule gives स too, but (b) is false
    as stated: before अ it is सोऽ.) · FACT
-9. (a) — the pronominal masculine plural (§3, the benediction table); सर्वाः would be the
+9. (b) — the pronominal masculine plural (§3, the benediction table); सर्वाः would be the
    feminine. · FACT
-10. (a) — the accusative plural, the 1.x plural (§8; §12 mistake 6). · FACT
+10. (c) — the accusative plural, the 1.x plural (§8; §12 mistake 6). · FACT
 
 **§3 — the prompts.**
 
@@ -1262,7 +1262,8 @@ reads the cue, not the English spelling.
   the local Whitney text; Apte s.v. उपायः [`ap90.txt` l. 78850, not the cross-reference at l.
   78588], इतस् [l. 64135], तृष्णा [l. 127011], आर्त [l. 59600]; MW s.v. tṛṣṇārta (l. 291692),
   itas-tatas (l. 101680); the Hindi -कर statement against [REF:kachru2006] and पूर्वकालिक क्रिया
-  against [REF:guru1952] (search-confirmed only at fact-base time: Pass C confirms or cuts); the
+  as the school-grammar term (search-confirmed at Pass C in school-grammar pages; not found in Guru,
+  so printed without [REF:guru1952], as Chapter 5 decision 1 did); the
   Hindi glosses of B1 and §16 (Pass B); the sūtras of §22 (6.1.101, 6.1.87, 6.1.77, 6.1.109,
   6.1.132, 1.1.40, 3.4.21, 7.1.37) in the data file; the claim of §8 that v3.c02.l03 §14 cites MW
   for श्रेष्ठः with the ablative (ledger row: MW s.v. śreṣṭha "better than (abl. or gen.)").

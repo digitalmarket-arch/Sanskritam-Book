@@ -35,7 +35,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | संयुक्ताक्षर | saṃyuktākṣara | conjunct — a consonant cluster written as one akṣara | संयुक्ताक्षर (जुड़े व्यञ्जनों का एक अक्षर) | v1.c05.l02 |
 | शिष्टाचार | śiṣṭācāra | courtesy, cultivated conduct | शिष्टाचार | v2.c01.l04 |
 | कुशलप्रश्न | kuśalapraśna | the well-being question — the "how are you?" exchange | कुशल-प्रश्न (हाल-चाल पूछना) | v2.c01.l02 |
-| श्लोक | śloka | the 4×8-syllable verse form (anuṣṭubh) | श्लोक | v1.c06.l04 |
+| श्लोक | śloka | the 4×8-syllable verse form (anuṣṭubh); rhythm by ear (one breath per half-verse) and the anvaya: v3.c06.l04 | श्लोक | v1.c06.l04 |
 | पाद | pāda | quarter of a verse — eight syllables in a śloka | पाद (चरण) | v1.c06.l04 |
 | सुभाषित | subhāṣita | a saying, "something well said": a short memorable verse or line | सुभाषित | v2.c06.l03 |
 | स्पर्श | sparśa | stop consonant ("contact" sound) | स्पर्श व्यञ्जन | v1.c03.l01 |
@@ -99,6 +99,11 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | लकारः | lakāraḥ | the tradition's name for a tense or mood (ten in all; the present system's four are लट्, लङ्, लोट्, विधिलिङ्) | लकार | v3.c03.l03 |
 | आगमः | āgamaḥ | the augment: the अ- before the stem in the imperfect, after a prefix if there is one (प्राविशत्) | आगम (भूतकाल में धातु-रूप के आगे लगने वाला अ-) | v3.c03.l03 |
 | लोट् | loṭ | the imperative, the request mood (गच्छ, गच्छतु) | लोट् (आज्ञा और अनुरोध का रूप, आज्ञार्थ) | v3.c03.l04 |
+| लिट् | liṭ | the perfect; उवाच and आह read as whole words (chunks); system v4.c03 | लिट् (परोक्ष भूत) | v3.c06.l02 |
+| स्म | sma | with the present: the storyteller's past (3.2.118 लट् स्मे); प्रतिवसति स्म "lived" | स्म | v3.c06.l03 |
+| क्त्वा · ल्यप् | ktvā · lyap | the absolutive — the -त्वा / -य form, "having …-ed"; recognition card R5; formation v4.c04 | पूर्वकालिक कृदन्त (हिन्दी स्कूली व्याकरण: पूर्वकालिक क्रिया) | v3.c06.l01 |
+| अन्वय | anvaya | prose order: a verse's words set out as a sentence (the seven steps) | अन्वय | v3.c06.l04 |
+| उद्धरण-ढाँचा | uddharaṇa-ḍhā̃cā | speech frame (no Sanskrit term): X उवाच — "…" / "…" इति; no join across the dash or the closing quotation mark | उद्धरण-ढाँचा | v3.c06.l02 |
 | विधिलिङ् | vidhiliṅ | the optative, the "should" mood (गच्छेत्) | विधिलिङ् ('चाहिए' वाला रूप: विधि, सलाह, इच्छा) | v3.c03.l04 |
 | निषेधः | niṣedhaḥ | prohibition: मा + imperative (मा गच्छ) | निषेध (मना करना) | v3.c03.l04 |
 | स्वरसन्धिः | svarasandhiḥ | vowel sandhi: the joins where a word-final vowel meets a word-initial vowel | स्वर-सन्धि | v3.c04.l01 |

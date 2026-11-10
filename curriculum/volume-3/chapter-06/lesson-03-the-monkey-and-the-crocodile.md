@@ -144,8 +144,9 @@ today's lesson.
 
 ## 4. Historical Context
 
-ऐतिहासिकः सन्दर्भः — today's text comes from a book that travelled far beyond India, and its
-monkey and crocodile have a relative in another collection.
+ऐतिहासिकः सन्दर्भः — today's text comes from a book that, according to the Encyclopaedia
+Iranica, was translated into Middle Persian, Syriac and Arabic; and a Pali collection also tells
+of a monkey and a crocodile.
 
 > **[HISTORY · इतिहासः]** According to the Encyclopaedia Iranica, a physician named Borzūya, of the
 > time of the Sasanian king Khosrow I (reigned 531–579 CE), translated the Pañcatantra from Sanskrit
@@ -161,9 +162,9 @@ monkey and crocodile have a relative in another collection.
 > Viṣṇuśarman, having surveyed the essence of all the treatises on worldly affairs, made this charming
 > treatise in five books (tantras) [REF:panchatantra kathāmukha, opening verses].
 
-Read the three callouts for what they say and for what they leave out. The first gives a firm
-point after which the Pañcatantra certainly existed — a translation made in the sixth century CE
-— and no date for the Sanskrit book itself: the encyclopaedia's statement fixes the translation,
+Read the three callouts for what they say and for what they leave out. The first gives a point by
+which the Pañcatantra already existed — according to the Encyclopaedia Iranica, a translation
+made in the time of Khosrow I (reigned 531–579 CE) — and no date for the Sanskrit book itself: the encyclopaedia's statement fixes the translation,
 not the original. The second places a story with the same pair of animals in a Pali collection;
 it says what that story tells and nothing about which telling came first or whether one borrowed
 from the other. The third is the book's own word about itself, and it is printed as the book's
@@ -179,9 +180,8 @@ is cited by book and story, and every Sanskrit line of it you read today carries
 वैज्ञानिकं विवरणम् — why a story told in the past can use a present tense, and why a fixed opening
 is learned as a whole.
 
-English storytellers do something like it when they say "So this monkey lives by the sea, and
-one day a crocodile turns up…": the events are past, the tense is present, and the listener is
-not confused for a moment. Sanskrit grammar describes the same use for its own present.
+English can do the same: "So this monkey lives by the sea, and one day a crocodile turns
+up…" — the events are past, the tense is present, and the listener is not confused. Sanskrit grammar describes the same use for its own present.
 
 > **[FACT · तथ्यम्]** Whitney: "The present has, besides its strictly present use, the same
 > subsidiary uses which belong in general to the tense: namely, the expression of habitual action,
@@ -230,10 +230,10 @@ before स keeps its ः, and every other word ends in a vowel before a consonan
 हिन्दी व्याख्या
 
 हिन्दी में कहानी कैसे शुरू होती है? "किसी गाँव में एक राजा रहता था।" इस एक वाक्य में तीन
-टुकड़े हैं: एक जगह, "किसी" के साथ — किसी गाँव में; एक कोई — एक राजा; और बीता हुआ समय — रहता था।
-संस्कृत की कथाएँ भी ठीक इन्हीं तीन टुकड़ों से खुलती हैं: अस्ति कस्मिंश्चिद्ग्रामे … निवसति स्म —
+टुकड़े हैं: एक जगह, "किसी" के साथ — किसी गाँव में; एक कोई — एक राजा; और बीता हुआ समय — रहता था। [REF:kachru2006]
+संस्कृत की कोई-कोई कथा भी ठीक इन्हीं तीन टुकड़ों से खुलती है: अस्ति कस्मिंश्चिद्ग्रामे … निवसति स्म —
 "किसी गाँव में … रहता था।" आज के पाठ का विषय है आरम्भ-सूत्र, यानी कथा शुरू करने का बँधा हुआ
-ढाँचा। [REF:kachru2006]
+ढाँचा।
 
 फ़र्क़ कहाँ है? हिन्दी बीता हुआ समय क्रिया में ही रखती है — "रहता था", यह अभ्यस्त भूतकाल है।
 संस्कृत यहाँ वर्तमान काल की क्रिया लेती है — निवसति, "रहता है" — और उसके बाद एक छोटा-सा शब्द
@@ -659,7 +659,7 @@ names are gloss-line items.
 कथा · Pañcatantra 4 (Labdhapraṇāśa), the frame story of the monkey and the crocodile: the opening
 prose, six sentences.
 
-*the text — Pañcatantra 4, frame story, the opening prose — text of the GRETIL e-text [REF:panchatantra]; P6: the prose after the verses on the guest*
+*the text — Pañcatantra 4, frame story, the opening prose — text of the GRETIL e-text [REF:panchatantra tantra 4, frame story]; P6: the prose after the verses on the guest*
 
 Before you read: a tree by the sea, a monkey who lives in it, and a crocodile who comes out of the
 water. Who speaks to whom, and what is given? Each sentence is printed as the e-text has it, joined
@@ -834,39 +834,39 @@ marks.
 प्रश्नाः — ten questions; answers in the key at the end. No peeking mid-quiz.
 
 1. In प्रतिवसति स्म, the time is — (a) past (b) present (c) future
-2. According to Pāṇini (3.2.118), with स्म the past is told with — (a) the present, लट् (b) the
-   imperfect, लङ् (c) the imperative, लोट्
-3. In रक्तमुखो नाम वानरः, नाम means — (a) "by name" (b) "the name", as the subject (c) "my name"
+2. According to Pāṇini (3.2.118), with स्म the past is told with — (a) the imperfect, लङ् (b) the
+   present, लट् (c) the imperative, लोट्
+3. In रक्तमुखो नाम वानरः, नाम means — (a) "the name", as the subject (b) "my name" (c) "by name"
 4. The formula's first word is — (a) अस्ति (b) आसीत् (c) एकदा
-5. कस्मिंश्चित् is the locative of — (a) कश्चित् (b) कदाचित् (c) कुत्र
-6. In तस्य तरोरधः, अधः takes — (a) the genitive (b) the accusative (c) the locative
-7. मकरः means — (a) crocodile (b) monkey (c) water
+5. कस्मिंश्चित् is the locative of — (a) कदाचित् (b) कुत्र (c) कश्चित्
+6. In तस्य तरोरधः, अधः takes — (a) the accusative (b) the genitive (c) the locative
+7. मकरः means — (a) monkey (b) water (c) crocodile
 8. In भवान् … भक्षयतु, the verb is in the 3rd person because — (a) भवान् takes the 3rd person
    (b) the monkey speaks of someone else (c) it is a mistake in the text
 9. According to this lesson's HISTORY callout, the Pañcatantra was translated into Middle Persian
    — (a) in the time of the Sasanian king Khosrow I (reigned 531–579 CE) (b) in 1373 CE (c) in the
    time of Pāṇini
-10. The Suṃsumāra-jātaka (no. 208), as this lesson's callout states, tells of — (a) a crocodile
-    whose wife craves a monkey's heart (b) a lion freed by a mouse (c) a crow and a pot
+10. The Suṃsumāra-jātaka (no. 208), as this lesson's callout states, tells of — (a) a lion freed by a mouse
+    (b) a crocodile whose wife craves a monkey's heart (c) a crow and a pot
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 **Quiz.**
 
 1. (a) — the present + स्म tells the past (§8; §12 mistake 1). · FACT
-2. (a) — the present, लट्, with स्म [§8, the TRADITION callout]. · TRADITION, asked "According to
+2. (b) — the present, लट्, with स्म [§8, the TRADITION callout]. · TRADITION, asked "According to
    Pāṇini"
-3. (a) — X नाम Y, "a Y called X" (§8 step 4; §12 mistake 3). · FACT
+3. (c) — X नाम Y, "a Y called X" (§8 step 4; §12 mistake 3). · FACT
 4. (a) — अस्ति, "there is" (§8 step 1). आसीत् and एकदा can open a story, but not the formula. · FACT
-5. (a) — कस्मिंश्चित् = कस्मिन् + चित्, the locative of कश्चित् [§7, §15]. · FACT
-6. (a) — अधः with the genitive, v3.c05.l03: तस्य तरोः अधः "under that tree". · FACT
-7. (a) — §14. · FACT
+5. (c) — कस्मिंश्चित् = कस्मिन् + चित्, the locative of कश्चित् [§7, §15]. · FACT
+6. (b) — अधः with the genitive, v3.c05.l03: तस्य तरोः अधः "under that tree". · FACT
+7. (c) — §14. · FACT
 8. (a) — भवान् is grammatically a 3rd person, "your honour" (v3.c03.l04, v3.c05.l01); the monkey
    is speaking to the crocodile. · FACT
 9. (a) — §4, the first HISTORY callout, attributed to the Encyclopaedia Iranica. (b) is the
    Hitopadeśa manuscript date of lesson 2's callout; (c) has no basis. · HISTORY,
    cited callout of this lesson
-10. (a) — §4, the second HISTORY callout. · HISTORY, cited callout of this lesson
+10. (b) — §4, the second HISTORY callout. · HISTORY, cited callout of this lesson
 
 **§3 prompts.**
 
@@ -1150,8 +1150,8 @@ reads the cue, not the English spelling.
 - **Demo (0:07–0:28):** "निवसति = lives. निवसति स्म = lived." Then the formula in three flashes: अस्ति
   + place · X नाम Y · present + स्म. "Hindi does it in the verb: रहता था."
 - **Payoff (0:28–0:42):** the Pañcatantra's first line: अस्ति कस्मिंश्चित्समुद्रोपकण्ठे महान्
-  जम्बूपादपः सदाफलः। "A tree by the sea. A monkey. A crocodile. A story that travelled far beyond
-  India."
+  जम्बूपादपः सदाफलः। "A tree by the sea. A monkey. A crocodile. The opening of the Pañcatantra's
+  fourth book."
 - **CTA (0:42–0:50):** "Next: three verses and their prose order (v3.c06.l04)." End card: वानरः मकरः
   च.
 

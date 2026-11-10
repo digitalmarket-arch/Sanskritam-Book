@@ -102,9 +102,10 @@ underline the verb of each clause.
 
 - +1 week: the monkey and the crocodile retold — the Pañcatantra opening retold in your own Sanskrit in five sentences, in pause form, with अस्ति, नाम and स्म where the text has them; v3.c06.l05's Station 0 runs exactly this.
 
-Four minutes, written, book closed. Five sentences of your own, in pause form. Use the
-imperfect or the present with स्म for the past; tell no event that lesson 3's six sentences do
-not tell.
+Four minutes, aloud, book closed: five sentences of your own, said in pause form and recorded.
+Nothing is written, and nothing of it stays on the desk for sitting 1. Use the imperfect or the
+present with स्म for the past; tell no event that lesson 3's six sentences do not tell. After
+sitting 2, tick the checklist in the key against the recording.
 
 <details><summary>उत्तराणि · Station 0 key</summary>
 
@@ -119,13 +120,12 @@ not tell.
   [अस्ति] or [भवति] is not accepted for the last clause, because the clause before has a verb
   of its own to lend. Score /4: the recitation 1, the anvaya 2 (one off for a changed form or a
   missing supplied verb), the verbs named 1.
-- **Item 2.** Any five correct sentences in pause form that tell lesson 3's events in order:
-  the tree by the sea; the monkey (रक्तमुखः नाम वानरः, with निवसति स्म or प्रतिवसति स्म); the
-  crocodile came out of the water; the monkey called him a guest; he gave him rose-apples.
-  अस्ति belongs to the first sentence, नाम to the names, स्म to "lived". Every verb is ✓: the
-  imperfect, or the present + स्म; an absolutive (निष्क्रम्य, उक्त्वा) in your own sentence
-  scores 0 for that verb, because R5 is for reading. Score /5, one per sentence. Log both items
-  beside lesson 4's Station 0.
+- **Item 2.** A checklist, one tick per event told in order on the recording, in a correct
+  sentence in pause form: the tree by the sea, with अस्ति in the first sentence · the monkey, his
+  name with नाम, and "lived" with स्म · the crocodile came out of the water · the monkey called
+  him a guest · he gave him rose-apples. Every verb is ✓: the imperfect, or the present + स्म; an
+  absolutive in your own sentence scores 0 for that verb, because R5 is for reading. Score /5,
+  one per event. Log both items beside lesson 4's Station 0.
 </details>
 
 ### The prompts — one from each lesson the exam reviews
@@ -221,7 +221,7 @@ gloss.
 > यत्र सन्धिः तत्र अवसानम् न अस्ति। (yatra sandhiḥ tatra avasānam na asti.)
 > "Where there is a seam, there is no pause." — जहाँ सन्धि है, वहाँ विराम नहीं।
 
-Seven seams, all Chapter 4's: परीक्षा + अस्ति fuse to आ [सवर्णदीर्घः]; वयम् before क becomes
+Nine seams, all Chapter 4's: परीक्षा + अस्ति fuse to आ [सवर्णदीर्घः]; वयम् before क becomes
 वयं; कथाः before प keeps its ः; पठामः before ल becomes पठामो; लिखामः + च gives श्च; सन्धिः
 before त gives स्त; तत्र + अवसानम् fuse to आ, अवसानम् before न becomes अवसानं, and न + अस्ति is
 नास्ति. The third line is the relative pair यत्र … तत्र of v3.c05.l03. परीक्षा "exam" is the
@@ -291,9 +291,9 @@ Only when all five are written do you add the pause form beneath each, by the si
 **Task C — read the whole passage first.** The booklet gives a line of English that sets the
 scene, then the passage, joined as the e-text prints it, with five words glossed in the margin.
 Read it through once without writing. Then do what you did with lesson 2's and lesson 3's
-passages: find each sentence's verb, its doer, and who speaks. The passage tells a story with the
-storyteller's present (lesson 3): you may translate those verbs as present or as past, but keep
-one tense throughout. One form in it you read under lesson 1's R5 card — "having …-ed"; it is not
+passages: find each sentence's verb, its doer, and who speaks. The narrator tells the story with the
+storyteller's present (lesson 3): you may translate his verbs as present or as past, but keep
+one tense for them; the verbs inside the speech are the speakers' own present. One form in it you read under lesson 1's R5 card — "having …-ed"; it is not
 the verb of its sentence. Then answer the six questions in Sanskrit: one word or a phrase, in the
 case the question asks.
 
@@ -380,7 +380,7 @@ feed the quiz distractors.
 | # | Mistake | Surfaces in | Fix |
 |---|---|---|---|
 | 1 | In dictation, writing the pause form first and "joining" it afterwards by rule, missing what was heard | B | write what you hear, joined; then split |
-| 2 | Translating the passage's प्रयच्छति as "gave" in one sentence and "gives" in the next, because the story is past | C | the storyteller's present (lesson 3): translate it as present or past, but keep the tense consistent |
+| 2 | Translating the narrator's प्रयच्छति as "gives" and his आह as "said" — two tenses for one storyteller; or putting the speech's own present (प्राप्नोषि, अस्ति) into the past | C | the storyteller's present (lesson 3): translate the narrator's verbs as present or past, one tense for both; the verbs inside the speech stay present |
 | 3 | Taking an absolutive for a finite verb ("he went") | C | R5: "having gone"; the verb of the sentence is the finite one |
 | 4 | Answering a Sanskrit question with an English word | A, C | one Sanskrit word or phrase, in the case the question asks |
 | 5 | Joining across इति's quotation mark in the composition | E | the course stops there; beyond इति the joins run again |
@@ -472,7 +472,8 @@ two इति lines and one relative sentence.
 
 What it shows: the relative pair यदा … तदा [v3.c05.l03], with अभवत् in its pause form before the
 comma; a thought closed by इति like a speech line, the "?" and the closing mark as stops, and the
-join running again after इति; every verb an imperfect.
+join running again after इति; every verb of the narration an imperfect (the अस्ति inside the
+thought is the crow's own present).
 
 ### Task F's kind — two cards
 
@@ -589,7 +590,7 @@ joined line back to its words (v3.c04.l05 §15 (2)).
 | the storyteller's present + स्म; the speech frame; the story-opening formula | ✓ | v3.c06.l03; v3.c06.l02 |
 | the vowel, visarga and consonant maps (✓ rows); the reverse table | ✓ | v3.c04.l01–l04 (c04.l05 §15 audit) |
 | compounds: द्वन्द्वः, case-तत्पुरुषः, कर्मधारयः, बहुव्रीहिः | ✓ | v3.c05.l04 |
-| याति, आप्नोति, the listed cells; महान्, सुहृत्, जम्बूः, the nominatives | ✓ | v3.c06.l03–l04 |
+| याति, आप्नोति, the listed cells; महान्, सुहृत्, जम्बूः, the nominatives | ✓ | v3.c06.l02–l04 |
 | oblique duals of nouns and pronouns | ◐ | v3.c02.l04, c05.l01–l02 |
 | 1st- and 2nd-person verb duals | ◐ | v3.c03.l01 |
 | विधिलिङ् P, 1st and 2nd persons | ◐ | v3.c03.l04 |
@@ -611,18 +612,18 @@ Every line below was a promise made in an earlier lesson; this chapter kept it.
 
 | Promise (where it was made) | Kept in |
 |---|---|
-| "the Hitopadeśa cousin" of the lion story: a mouse gnaws through a net to free a flock of birds (v2.c06.l02 §4) | v3.c06.l02 — that frame story read |
-| the benediction "fully parsed"; "Volume 3 teaches the system" (v1.c06.l04) | v3.c06.l01 §3 |
+| the Hitopadeśa's cousin of the lion story: "in the frame story of the first book of the Hitopadeśa, a mouse gnaws through a net to free a flock of birds" (v2.c06.l02 §4) | v3.c06.l02 — that frame story read |
+| the benediction's joined spellings, "noticed, previewed at the seams, and scheduled: Volume 3 teaches the system" (v1.c06.l04 §15) | v3.c06.l01 §3 |
 | the speech frame "named in v3.c06.l02" (v3.c03.l01) | v3.c06.l02 |
 | the present + स्म and न्यविशत [v3.c03.l03] | v3.c06.l03 |
 | सम्भाषसे, धावति, शीघ्रम्, मा मैवं कुरु, भवान् … भक्षयतु [v3.c03.l01, l02, l04] | v3.c06.l02, l03 |
-| the serial's departures "on the record for v3.c06.l02" (every §22 of v3.c01–c03) | v3.c06.l02, Teacher Notes and §17 |
+| the serial's departures "on the record for v3.c06.l02" (the §22 of v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01–l03, v3.c05.l02, v3.c05.l04 and v3.c05.l05) | v3.c06.l02, Teacher Notes and §17 |
 | Volume 2's "Volume 3 teaches the system" lines (v2.c06.l01–l03) | v3.c06.l01 (the two stories, no whole-word gloss for a taught form); v3.c06.l04 (Hit 0.36) |
 | the 1.x graded readers in their original form | v3.c06.l01 (Text B1), v3.c06.l02 (Text B2) |
 | "monthly until Volume 3 ends" (v2.c06.l05 §20) | closed in §20 below |
 
 > Volume 2's deferral tracker is closed: every row is redeemed in Volume 3 or re-addressed to
-> Volume 4 (plan §4.0.1).
+> Volume 4.
 
 ### (6) What Volume 4 does
 
@@ -636,7 +637,7 @@ Volume 4, पाणिनीयम् — The Pāṇinian System, one line per c
 - **v4.c04 कृत्-तद्धित-समासाः** — how the absolutive, the participles and the infinitive are built;
   the secondary suffixes; the compound kinds you only read.
 - **v4.c05 प्रयोगाः विभक्तिविस्तारश्च** — voice and the causative; the kāraka sūtras; the consonant
-  stems, सुहृत्, महत् and जम्बूः among them.
+  stems, सुहृत् and महत् among them, and the ū-stem जम्बूः.
 - **v4.c06 सूत्रपाठः** — reading sūtras word by word.
 
 ## 16. Conversation
@@ -783,8 +784,8 @@ text's order, each joined, its pause form beneath.
 10\. [spiral] In the line where the lion falls into the net, जाले — which case, and which job
 [कारकम्]?
 
-The questions' अस्वपत्, अगृह्णात् and अशृणोत् are lesson 2's R4 whole words, read and never
-asked for; every answer is a ✓ cell.
+The questions' अस्वपत्, अगृह्णात् and अशृणोत् are v3.c03.l03's R4 whole words, read in lesson 2's
+text and never asked for; every answer is a ✓ cell.
 
 **कार्यम् B · श्रुतलेखनम् [dictation, joined, then the pause form — 8 minutes, 10 marks, pass
 7].** Five sentences, **played in this order, 1 → 5**, each twice at natural pace and once
@@ -795,7 +796,7 @@ Scoring 5 × 2: the joined line 1, the pause form 1; any one wrong seam or word 
 
 **कार्यम् C · अदृष्टपठनम् [an unseen passage — 26 minutes, 20 marks, pass 13].** Pañcatantra 4,
 frame story, the prose after the verses on the guest — text of the GRETIL e-text
-[REF:panchatantra]. The booklet prints the passage joined only, as below, with its five marginal
+[REF:panchatantra tantra 4, frame story]. The booklet prints the passage joined only, as below, with its five marginal
 glosses; its pause form, IAST and translation stand in §19's key.
 
 > (The monkey has given the crocodile rose-apples. The crocodile eats, goes home, and the two
@@ -875,10 +876,9 @@ claims; judge each half.
    lion and the hare."
 3. "सत्यमेव जयते is from the Muṇḍaka Upaniṣad (3.1.6), and its जयते is the middle form where
    classical prose says जयति."
-4. "नमस्ते is नमः + ते: 'homage' and the short form 'to you'; ः before त becomes स्."
+4. "नमस्ते is नमः + ते: 'homage' and the short form 'to you'; ः before त becomes स् by 8.3.34."
 5. "न गच्छ is how Sanskrit says 'don't go'."
-6. "According to Pāṇini's rule इको यणचि, इ, उ, ऋ become य्, व्, र् before an unlike vowel; and
-   भवति is the root भू with guṇa and nothing else."
+6. "इको यणचि is sūtra 1.1.45, and भवति is the root भू with guṇa and nothing else."
 7. "The feminine of त्रयः is ततस्रः; and, according to the Kāśikā's list, the upasargas are
    twenty-two."
 8. "Lesson 2's Hitopadeśa passage prints the text's continuous wording from its first sentence
@@ -901,7 +901,7 @@ exercise 2 and three new dictations from lesson 3 §16; C → lesson 3's P1–P6
 glosses, lesson 3 exercise 2 and lesson 2 exercise 2, then the passage of task C again; D → the
 §15 assembly page and the tables of v3.c01.l05, v3.c02.l05, v3.c03.l05, v3.c04.l05 and v3.c05.l05;
 E → lesson 1 exercise 4 and lesson 2 exercise 5, then a new retelling handed to the teacher; F →
-this lesson's §4 callouts, lesson 2 §5 and §8 (the mosaic), v3.c04.l01 §15 (यण्), v3.c04.l02 §15
+this lesson's §4 callouts, lesson 2 §5 and §8 (the mosaic), v3.c04.l01 §15 (इको यणचि, 6.1.77), v3.c04.l02 §15
 (नमस्ते), v3.c04.l04 §15 (भवति), v3.c03.l02 §4 (जयते), v3.c03.l04 (मा + the imperative), v3.c05.l01
 (ते), v3.c02.l02 §4 (तिस्रः) and v3.c05.l03 §15 (the upasarga card).
 
@@ -910,42 +910,42 @@ this lesson's §4 callouts, lesson 2 §5 and §8 (the mosaic), v3.c04.l01 §15 (
 प्रश्नाः — ten questions on the volume's reading skills, closed-book, in the self-study session
 after the sittings (8 minutes); answers in the key at the end.
 
-1. The pause form of काक उपायमचिन्तयत् is — (a) काकः उपायम् अचिन्तयत् (b) काक उपायम् अचिन्तयत्
+1. The pause form of काक उपायमचिन्तयत् is — (a) काक उपायम् अचिन्तयत् (b) काकः उपायम् अचिन्तयत्
    (c) काके उपायम् अचिन्तयत्
-2. In काकोऽस्ति the avagraha shows — (a) an अ that is gone and not sounded (b) a pause (c) a long
-   vowel
+2. In काकोऽस्ति the avagraha shows — (a) a pause (b) a long vowel (c) an अ that is gone and not
+   sounded
 3. In "मां मुञ्च" इति मूषकोऽवदत्, मुञ्च is not joined to इति because — (a) the course makes no
    join across the closing quotation mark (b) अ and इ never join (c) इति is never joined
-4. साहाय्यं करोति takes the person helped in — (a) the genitive (b) the accusative (c) the dative
-5. प्रतिवसति स्म means — (a) "lived" (b) "lives" (c) "will live"
+4. साहाय्यं करोति takes the person helped in — (a) the accusative (b) the genitive (c) the dative
+5. प्रतिवसति स्म means — (a) "lives" (b) "will live" (c) "lived"
 6. According to Pāṇini (3.2.118 लट् स्मे), with स्म a past action is told with — (a) the
    present, लट् (b) the imperfect, लङ् (c) the imperative, लोट्
-7. रक्तमुखो नाम वानरः means — (a) "a monkey called Raktamukha" (b) "the monkey's name is red"
-   (c) "Raktamukha's monkey"
-8. The first step of अन्वयः is — (a) पदच्छेदः (b) translating word by word in verse order (c)
+7. रक्तमुखो नाम वानरः means — (a) "the monkey's name is red" (b) "Raktamukha's monkey" (c) "a
+   monkey called Raktamukha"
+8. The first step of अन्वयः is — (a) translating word by word in verse order (b) पदच्छेदः (c)
    changing the forms
 9. According to this lesson's HISTORY callout, in the Hitopadeśa अयं निजः परो वेति … (1.71) is
-   spoken by — (a) a jackal (b) a sage teaching his pupils (c) the dove-king
-10. At the end of Volume 3 the ledger of readable words stands at — (a) 508 (b) 488 (c) 360
+   spoken by — (a) a sage teaching his pupils (b) the dove-king (c) a jackal
+10. At the end of Volume 3 the ledger of readable words stands at — (a) 488 (b) 508 (c) 360
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 **Quiz.**
 
-1. (a) — both seams undone: काक before a vowel ← काकः, and उपायम् written into अचिन्तयत्
-   [lesson 1 §17, line 5; lesson 1 §12 mistake 4]. ((b) leaves काकः's ः unrestored; (c) reads
+1. (b) — both seams undone: काक before a vowel ← काकः, and उपायम् written into अचिन्तयत्
+   [lesson 1 §17, line 5; lesson 1 §12 mistake 4]. ((a) leaves काकः's ः unrestored; (c) reads
    the hidden -अः as -ए, which the reverse table allows but the sentence's doer rules out.) · FACT
-2. (a) — the avagraha marks the अ of अस्ति, swallowed by the -ओ [lesson 1 §12 mistake 2]. · FACT
+2. (c) — the avagraha marks the अ of अस्ति, swallowed by the -ओ [lesson 1 §12 mistake 2]. · FACT
 3. (a) — the closing quotation mark is a stop [lesson 2 §15; lesson 2 §12 mistake 2]. ((b) is
    false: अ + इ → ए, गुणः; (c) is false: beyond इति the joins run again, इत्यवदत्.) · FACT
-4. (a) — तव साहाय्यम्, "help for you" [lesson 2 §15]. · FACT
-5. (a) — the present + स्म tells the past [lesson 3 §8; lesson 3 §12 mistake 1]. · FACT
+4. (b) — तव साहाय्यम्, "help for you" [lesson 2 §15]. · FACT
+5. (c) — the present + स्म tells the past [lesson 3 §8; lesson 3 §12 mistake 1]. · FACT
 6. (a) — [lesson 3 §8, the TRADITION callout]. · TRADITION, asked "According to Pāṇini"
-7. (a) — X नाम Y, "a Y called X" [lesson 3 §15; lesson 3 §12 mistake 3]. · FACT
-8. (a) — the seven steps begin with the split [lesson 4 §8; lesson 4 §12 mistakes 1 and 3: (b)
+7. (c) — X नाम Y, "a Y called X" [lesson 3 §15; lesson 3 §12 mistake 3]. · FACT
+8. (b) — the seven steps begin with the split [lesson 4 §8; lesson 4 §12 mistakes 1 and 3: (a)
    and (c) are the two errors]. · FACT
-9. (a) — §4, the first HISTORY callout. · HISTORY, taught in this lesson's cited callout
-10. (a) — §14: 360 + 148 = 508. ((b) is Chapter 5's exit, (c) Volume 2's.) · FACT about the
+9. (c) — §4, the first HISTORY callout. · HISTORY, taught in this lesson's cited callout
+10. (b) — §14: 360 + 148 = 508. ((a) is Chapter 5's exit, (c) Volume 2's.) · FACT about the
     course
 
 **§3 prompts.**
@@ -990,8 +990,8 @@ cell is asked: Q3 contains the R4 word अगृह्णात्, which you on
 
 **B** (5 × 2; pass 7), the sentences in the order played:
 
-1. वानरो जम्बूपादपे निवसति स्म। (vānaro jambūpādape nivasati sma.)
-   वानरः जम्बूपादपे निवसति स्म। (vānaraḥ jambūpādape nivasati sma.)
+1. वानरो जम्बूवृक्षे निवसति स्म। (vānaro jambūvṛkṣe nivasati sma.)
+   वानरः जम्बूवृक्षे निवसति स्म। (vānaraḥ jambūvṛkṣe nivasati sma.)
    "The monkey lived in a rose-apple tree."
 2. मकरः समुद्रसलिलादागच्छत्। (makaraḥ samudrasalilād āgacchat.)
    मकरः समुद्रसलिलात् आगच्छत्। (makaraḥ samudrasalilāt āgacchat.)
@@ -1010,7 +1010,7 @@ Seams: वानरः + ज → ओ; मकरः + स: ः stays; समु�
 doubling after a long vowel; the closing quotation mark a stop; इति + व: none; वानरः + अ → ओऽ;
 मकरः + त → स्त; तरोः + अ → र्; अधः + अ → ओऽ; वानरः + म → ओ; प्रायच्छत् = प्र + अयच्छत्, the
 augment after the prefix. In sentence 3 the quotation marks are not heard: a line written without
-them scores if the stop before इति is kept (भवान् अतिथिः, not \*अतिथिरिति).
+them scores if the stop before इति is kept (भवानतिथिः इति, not \*भवानतिथिरिति).
 
 **C** (20; pass 13). The passage as the e-text romanizes it:
 *so 'pi makaro bhakṣita-śeṣāṇi jambū-phalāni gṛhaṃ gatvā sva-patnyai prayacchati | athānyatame
@@ -1031,14 +1031,15 @@ these fruits with affection.'" — मगरमच्छ भी खाने स
 Scoring of the seven units: sense 1, who-did-what-to-whom 1 — (1) the crocodile gives the
 left-over rose-apples to his own wife, at home; (2) the wife asks him; (3) the question "where do
 you get such nectar-fruits?"; (4) he answers; (5) the address "my dear"; (6) "I have a best
-friend, a monkey named Raktamukha"; (7) the monkey gives these fruits with affection. Present or
-past is accepted, one tense held throughout (§12 row 2). गत्वा read as a finite verb, "he went
+friend, a monkey named Raktamukha"; (7) the monkey gives these fruits with affection. For the
+narrator's verbs (प्रयच्छति in unit 1, आह in unit 4) present or past is accepted, one tense held
+for both; पृष्टः is past by its form, and the verbs inside the speech are present (§12 row 2). गत्वा read as a finite verb, "he went
 home and gave", costs nothing: R5 is recognition, and nothing scores it. Translating नाथ and भद्रे
 by any fitting address scores.
 
 Questions (joined or pause form both score):
 
-1. स्वपत्न्यै [पत्न्यै]
+1. स्वपत्न्यै [पत्न्यै; तस्य पत्न्यै; मकरस्य पत्न्यै]
 2. गृहम्
 3. तस्य पत्नी [सा; मकरस्य पत्नी; स्वपत्नी]
 4. "क्व … फलानि प्राप्नोषि?" — any faithful part, for example "क्व अमृतफलानि प्राप्नोषि?"
@@ -1075,13 +1076,12 @@ of the kind.
 2. **True** — §4, the second callout. · HISTORY, cited callout
 3. **True** — §4, the third callout; v3.c03.l02. · HISTORY, cited callout, and FACT
 4. **True** — नमः "homage"; ते, the short dative of त्वम् [v3.c05.l01]; a visarga before त
-   becomes स् [v3.c04.l02]. · FACT
+   becomes स् by 8.3.34 [v3.c04.l02]. · FACT
 5. **False** — the prohibitive is मा with the imperative: मा गच्छ [v3.c03.l04]; the Hitopadeśa
    has मा मैवं कुरु [lesson 2, sentence 6]. · FACT
-6. **Half true** — the rule's half is right: according to Pāṇini, इको यणचि turns इ, उ, ऋ into य्,
-   व्, र् before an unlike vowel (v3.c04.l01 §15); the भवति half is false: भवति is भो + अति by
-   अयादि, the ओ a guṇa substitute of the root's ऊ [v3.c04.l04 §15]. ½ + ½. · TRADITION ("According
-   to Pāṇini") and FACT
+6. **False**, both halves — इको यणचि is 6.1.77; 1.1.45 is the 1.x book's number, corrected in
+   v3.c04.l01 §15; and भवति is भो + अति by अयादि, the ओ a guṇa substitute of the root's ऊ
+   [v3.c04.l04 §15]. ½ + ½. · FACT
 7. **Half true** — the feminine is तिस्रः, and ततस्रः is the 1.x book's non-word (v3.c02.l02 §4);
    the twenty-two is right, as the Kāśikā lists the upasargas (v3.c05.l03 §15). ½ + ½. · FACT and
    TRADITION ("according to the Kāśikā's list")
@@ -1164,7 +1164,7 @@ about two and a half minutes; the remaining time is for writing.
 **Task B's dictation script** — not printed in the booklet. Play in this order, **1 → 5**; each
 sentence twice at natural pace, then once slowly; about 40 seconds of writing after each:
 
-1. वानरो जम्बूपादपे निवसति स्म।
+1. वानरो जम्बूवृक्षे निवसति स्म।
 2. मकरः समुद्रसलिलादागच्छत्।
 3. "भोः! भवानतिथिः" इति वानरोऽवदत्।
 4. मकरस्तस्य तरोरधोऽतिष्ठत्।
@@ -1172,7 +1172,11 @@ sentence twice at natural pace, then once slowly; about 40 seconds of writing af
 
 The IAST, the pause forms and the seams are in §19's key. Sentences 4 and 5 retell P3 and P6
 only; nothing of task C's passage is dictated before task C (not the wife, not the left-overs, not
-परमसुहृत्). Every word is owned.
+परमसुहृत्). Every word is owned, and no sentence is one printed in lessons 1–4. Why Station 0,
+task B and task C share one story: the retelling and the dictation bring back the story whose
+continuation task C reads unseen, and what task B scores — the seams heard, written, then split —
+no retelling supplies; Station 0's item 2 is said aloud and recorded, and nothing of it stays on
+the desk.
 
 **Task C — the passage and its source.** `vispancu.htm` l. 5224, the block's daṇḍa-sentences 4–5,
 and the whole of the next block, l. 5226 — the prose after the verses on the guest (after the
@@ -1238,14 +1242,13 @@ exam or §13):
 8. "Lesson 3's Pañcatantra passage marks one gap with an ellipsis, where four verses on honouring
    a guest are left out." — True (lesson 3 §17).
 
-**Task F and the sūtra numbers.** The fact base worded card 4 with "(8.3.34)" and card 6 as "इको
-यणचि is sūtra 1.1.45" — the 1.x book's wrong number for 6.1.77. This chapter prints no sūtra
-number in learner text except 3.2.118, so card 4 states the rule without its number, and card 6
-tests the rule's content and the भवति correction instead of the number. In Teacher Notes only:
-नमस्ते rests on 2.3.16 (नमः with the dative), 8.1.22 (ते) and 8.3.34 (विसर्जनीयस्य सः); इको यणचि is
-6.1.77 (the 1.x book cited 1.1.45; corrected in v3.c04.l01); the twenty-two upasargas are the
-list "प्र and the rest" of 1.4.58, named उपसर्ग by 1.4.59. The quiz's 3.2.118 is the chapter's one
-learner-facing sūtra.
+**Task F and the sūtra numbers.** Cards 4 and 6 carry the numbers that Volume 3 printed in
+learner text where it taught the rule: 8.3.34 in v3.c04.l02 (objective 3, §8), and 6.1.77 against
+the 1.x book's 1.1.45 in v3.c04.l01 §15 ("Corrected in the open"). The chapter's rule of one
+learner-facing sūtra, 3.2.118, covers sūtras newly quoted in its teaching lessons; the Volume 3
+exam may test a number an earlier lesson printed (editor's ruling). In Teacher Notes only:
+नमस्ते rests on 2.3.16 (नमः with the dative), 8.1.22 (ते) and 8.3.34 (विसर्जनीयस्य सः); the
+twenty-two upasargas are the list "प्र and the rest" of 1.4.58, named उपसर्ग by 1.4.59.
 
 **Marking.** Mark A, B, D and F against the key, item by item. Mark C's translation unit by unit,
 two marks each: a unit with the right roles and a weak sense earns 1. Mark E by the rubric: choose
@@ -1255,8 +1258,8 @@ item: an absolutive misread in task C, an avoided recognition seam, a dual outsi
 nominative and accusative.
 
 **What students find hard.** Writing the dictation joined from the first hearing (row 1 of §12):
-remind the room before task B that the pause form comes last. Holding one tense in task C's
-translation. Recognising that task C's first sentence has only one finite verb. In task E,
+remind the room before task B that the pause form comes last. Holding one tense for the narrator's
+verbs in task C's translation, while the speech keeps its own present. Recognising that task C's first sentence has only one finite verb. In task E,
 keeping speech lines to the imperfect frame or the present + स्म, and remembering that a
 relative clause may stand before its correlative with a comma between them (v3.c05.l03).
 
@@ -1389,7 +1392,7 @@ Pāṇini's system itself — the sūtras, the roots, the forms beyond the prese
 - **Task F card sources:** 1 ← §4 callout 1 (lesson 4 §4) · 2 ← §4 callout 2 (lesson 4 §4) · 3 ←
   §4 callout 3 (v3.c03.l02 §4) · 4 ← v3.c05.l01, v3.c04.l02 §15 · 5 ← v3.c03.l04 · 6 ← v3.c04.l01
   §15, v3.c04.l04 §15 · 7 ← v3.c02.l02 §4, v3.c05.l03 §15 · 8 ← lesson 2 §5, §8. Verdicts: true 2,
-  3, 4; false 1, 5, 8; half 6, 7.
+  3, 4; false 1, 5, 6, 8; half 7.
 - **Verification flags for Pass C:** T5 against `vispancu.htm` l. 5224 and 5226 (re-read
   2026-11-10 for this draft: agrees), its source line "text of the GRETIL e-text" and nothing
   more, Pañcatantra cited by book and story only, no "Jha" in learner text; the three §4 callouts
@@ -1399,7 +1402,8 @@ Pāṇini's system itself — the sūtras, the roots, the forms beyond the prese
   translit check of every joined line and its pause form; Hindi at Pass B.
 - **Policy audit:** every course-written line joined, its pause form beneath; no ◐ item demanded
   or scored in any objective, task, quiz item or Station 0 key; no sūtra number in learner text
-  except 3.2.118; no frequency or scale word.
+  except 3.2.118 and, on task F's cards 4 and 6, the numbers v3.c04.l01–l02 printed (8.3.34;
+  6.1.77 against 1.1.45); no frequency or scale word.
 - **Register audit:** FACT ×3 (§5) · HISTORY ×3 (§4, each with its REF) · TRADITION ×0 · SYMBOL ×0.
   Task F and §19 assess FACT, the three cited HISTORY callouts of §4, and TRADITION only as
   "According to Pāṇini" / "according to the Kāśikā's list".

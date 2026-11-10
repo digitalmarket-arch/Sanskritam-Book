@@ -12,7 +12,7 @@ lesson: 4
 lesson_type: reading
 cefr: A2
 duration_minutes: 45
-self_study_minutes: 40
+self_study_minutes: 44
 prerequisites: [v3.c06.l03]
 review_of: [v3.c06.l03, v3.c06.l02, v3.c05.l03, v3.c05.l04, v3.c04.l04, v2.c06.l03, v1.c06.l04, v3.c01.l02]
 objectives:
@@ -165,8 +165,8 @@ readers have taken a verse apart.
 
 The first verse stands among the Hitopadeśa's introductory verses, before the first story
 begins: the book's own opening, not a character's speech. The other two stand inside stories,
-in a character's mouth, and that changes how you hear them. A line can travel on its own for
-a long time; today you read each one whole, in its book, with its speaker.
+in a character's mouth, and that changes how you hear them. A line can travel on its own,
+away from its book; today you read each one whole, in its book, with its speaker.
 
 > **[HISTORY · इतिहासः]** In the Hitopadeśa (Book 1, Mitralābha, verse 71 in the GRETIL numbering) this
 > verse is spoken by a jackal who has made friends with a deer in order to eat him; when a crow
@@ -784,7 +784,7 @@ is strength? In the forest a lion, mad with pride, was brought down by a hare." 
 
 Thirteen words, two glossed: उन्मत्तः "maddened", the second member of मदोन्मत्तः — a case
 tatpuruṣa, मदेन उन्मत्तः "maddened by pride", its seam अ + उ → ओ inside the compound; and
-निपातितः "brought down" (its formation is v4.c03's). यस्य … तस्य are v3.c05.l02's cells in
+निपातितः "brought down" (its formation is Volume 4's: the causative v4.c05, the -त form v4.c04). यस्य … तस्य are v3.c05.l02's cells in
 v3.c05.l03's relative sentence; बुद्धिः, बलम्, कुतः, वने, सिंहः, शशकः are yours from Volumes 1–3;
 निर्बुद्धेः is read whole (§8); शशकेन … निपातितः is the "X-ed by Y" frame of v3.c02.l05. Seams:
 बुद्धिर्बलं [-इः before a voiced sound → र्; म् → ं]; निर्बुद्धेस्तु [-एः before त → स्त];
@@ -797,7 +797,7 @@ says who has it, asks where the fool's would come from, and points to a story fo
 ## 18. Exercises
 
 अभ्यासाः — seven exercises; 1, 2, 3, 5, 6 and 7 are production tasks. In class: exercises 1,
-3 and 4, and exercise 2 begun; the rest are homework (§21, §22). All keys sit in §19's answer
+3 and 4; the rest are homework (§21, §22). All keys sit in §19's answer
 key.
 
 **अभ्यासः 1 · अन्वयः (anvayaḥ) — the first verse down the seven steps, together (in class,
@@ -805,8 +805,8 @@ key.
 first verse: the pause form; the verbs, and the verb you supply; each verb's subject, and the
 one you supply; each other case with its verb; then the prose order. 7 marks, one per step.
 
-**अभ्यासः 2 · क्रमः (kramaḥ) — six clauses into prose order (begun in class, 4 min; finished
-at home, 8 min; production).** Write the anvaya of each in pause form, supplied words in
+**अभ्यासः 2 · क्रमः (kramaḥ) — six clauses into prose order (homework,
+12 min; production).** Write the anvaya of each in pause form, supplied words in
 square brackets: (a) the first half of the second verse; (b) its second half; (c) the third
 verse's first quarter, यस्य बुद्धिर्बलं तस्य; (d) its second quarter, निर्बुद्धेस्तु कुतो बलम्; (e)
 its second half, वने सिंहो मदोन्मत्तः शशकेन निपातितः; (f) the first verse's last clause,
@@ -844,20 +844,20 @@ half-verse, and any quarter where you heard more or fewer than eight beats.
 प्रश्नाः — ten questions, homework; answers in the key at the end. No peeking mid-quiz.
 
 1. In the first verse, the verb of विनयाद्याति पात्रताम् is: (a) याति (b) विनयात् (c) पात्रताम्
-2. In the first verse, विनयात् is: (a) पञ्चमी, "through discipline" (b) षष्ठी, "of discipline"
-   (c) प्रथमा
+2. In the first verse, विनयात् is: (a) प्रथमा (b) षष्ठी, "of discipline"
+   (c) पञ्चमी, "through discipline"
 3. The anvaya's first step is: (a) पदच्छेदः (b) finding the adjectives (c) translating
-4. In the third verse, यस्य … तस्य is: (a) a relative and its correlative (b) two questions
+4. In the third verse, यस्य … तस्य is: (a) two questions (b) a relative and its correlative
    (c) two compounds
 5. वसुधैव splits into: (a) वसुधा एव (b) वसुधे एव (c) वसुधा इव
 6. According to this lesson's HISTORY callout, in the Hitopadeśa अयं निजः परो वेति … is spoken
-   by: (a) a jackal (b) a sage teaching his pupils (c) the dove-king
+   by: (a) a sage teaching his pupils (b) the dove-king (c) a jackal
 7. According to this lesson's HISTORY callout, the third verse introduces the story of:
    (a) the lion Bhāsuraka and the hare (b) the monkey and the crocodile (c) the doves and the
    mouse
-8. आप्नोति means: (a) obtains (b) goes (c) gives
-9. A quarter of a śloka has: (a) eight syllables (b) eleven (c) sixteen
-10. In the anvaya of the second verse, the supplied verb is: (a) भवति, or अस्ति (b) याति
+8. आप्नोति means: (a) gives (b) goes (c) obtains
+9. A quarter of a śloka has: (a) eleven (b) eight syllables (c) sixteen
+10. In the anvaya of the second verse, the supplied verb is: (a) याति (b) भवति, or अस्ति
     (c) ददाति
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -866,17 +866,17 @@ half-verse, and any quarter where you heard more or fewer than eight beats.
 
 1. (a) — step 2 finds the verb; विनयात् is an ablative, पात्रताम् an accusative (§15). ((b) is
    §12 mistake 1, verse order taken for prose order.) · FACT
-2. (a) — the ablative in -आत्, read "through" (§8). ((b) would be विनयस्य.) · FACT
+2. (c) — the ablative in -आत्, read "through" (§8). ((b) would be विनयस्य.) · FACT
 3. (a) — the procedure as taught (§8, step 1). ((c) is §12 mistake 1.) · FACT
-4. (a) — v3.c05.l03's relative sentence, here in the genitive (§15). · FACT
+4. (b) — v3.c05.l03's relative sentence, here in the genitive (§15). · FACT
 5. (a) — आ + ए → ऐ, vṛddhi. ((b) वसुधे + एव would give वसुध एव; (c) वसुधा + इव would give
    वसुधेव, by guṇa.) · FACT
-6. (a) — §4, the first callout. · HISTORY, taught in this lesson's cited callout
+6. (c) — §4, the first callout. · HISTORY, taught in this lesson's cited callout
 7. (a) — §4, the second callout. ((b) is lesson 3's story, (c) lesson 2's.) · HISTORY, taught
    in this lesson's cited callout
-8. (a) — §14. ((b) is याति, (c) ददाति: the other two verbs of the first verse.) · FACT
-9. (a) — §5, the śloka's four quarters of eight. · FACT
-10. (a) — neither half of the second verse prints a verb (§15). ((b) and (c) are the first
+8. (c) — §14. ((b) is याति, (a) ददाति: the other two verbs of the first verse.) · FACT
+9. (b) — §5, the śloka's four quarters of eight. · FACT
+10. (b) — neither half of the second verse prints a verb (§15). ((a) and (c) are the first
     verse's verbs.) · FACT
 
 **§3 prompts.**
@@ -950,11 +950,11 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 40 minutes total.
+गृहकार्यम् — about 44 minutes total.
 
 1. **(8 min)** The §19 quiz, from memory, then checked against its key. Every wrong answer
    sends you to the § named beside it.
-2. **(8 min)** Exercise 2, finished: the six clauses in prose order, checked against §19's key.
+2. **(12 min)** Exercise 2: the six clauses in prose order, checked against §19's key.
 3. **(6 min)** Exercise 5, the six half-verses translated from your anvaya.
 4. **(5 min, recorded)** Exercise 7: the three verses recited joined, one breath per
    half-verse.
@@ -982,13 +982,12 @@ The point lands when the missing doer is found by a step, not by a guess.
 thread verse उद्यमेन हि सिध्यन्ति read with no gloss, then the overlay row (3) → hook: the first
 verse on the board, "who gains wealth?" (1) → the seven-step card, prompt 2 asked at step 1 (6)
 → exercise 1, the first verse down the steps together; prompt 3 asked at step 4 (7) → the
-second and third verses read at three speeds, prompts 4 and 5 asked as their words come up (3),
-then exercise 2 begun, items (a)–(c) (4) → exercise 3, split and count (4) → the two HISTORY
+second and third verses, each with its scene and its glosses, read at three speeds, prompts 4
+and 5 asked as their words come up (7) → exercise 3, split and count (4) → the two HISTORY
 callouts read aloud, then exercise 4 (6: callouts 3, exercise 4 3) → the rhythm: prompt 1, then
 the three verses counted and recited in chorus (3) → the bookings and the homework (1). Total
-45. Exercises 1, 3 and 4 are done in class and exercise 2 is begun there; exercise 2 (the
-rest), exercises 5, 6 and 7 and the §19 quiz are homework (§21: 8 + 8 + 6 + 5 + 5 + 3 + 2 + 3 =
-40).
+45. Exercises 1, 3 and 4 are done in class; exercises 2, 5, 6 and 7 and the §19 quiz are
+homework (§21: 8 + 12 + 6 + 5 + 5 + 3 + 2 + 3 = 44).
 
 **Board work:** left, the first verse joined, its pause form beneath in a second colour, the
 two places where nothing is printed — the doer of याति, the verb of the last clause — marked
@@ -1043,7 +1042,7 @@ first verse 0 of 13; the second 2 of 12 (गणना, लघुचेतसा�
 मदोन्मत्तः, निपातितः). The thread verse: nothing ◐, every form ✓ or read whole.
 
 **What not to teach.** The metre's long–short rules (v5.c04): count syllables, nothing more.
-The formation of -ता / -त्व [v4.c04], the causative behind निपातितः [v4.c03], the s-stem
+The formation of -ता / -त्व [v4.c04], the causative behind निपातितः [v4.c05], the s-stem
 चेतस् and its compounds (v4.c05). आप्नुवन्ति is ◐: say it if asked, never ask for it. The
 anvaya is a procedure, not a translation contest: mark the steps, not the elegance.
 
@@ -1145,7 +1144,7 @@ narrator reads the cue, not the English spelling.
   verse 71 (GRETIL numbering)". A jackal's silhouette fades in beside it. Text: "A jackal —
   who befriended a deer to eat him."
 - **Payoff (0:25–0:42):** the verse splits into words and settles into prose order, two
-  brackets filling with भवति. Text: "Seven steps put any verse back into prose order. No word
+  brackets filling with भवति. Text: "Seven steps put a simple verse back into prose order. No word
   changes. Only the order."
 - **CTA (0:42–0:50):** "Next: the Volume 3 exam (v3.c06.l05). Follow for Chapter 6." (End
   card: त्रयः श्लोकाः — three verses.)
@@ -1183,11 +1182,11 @@ narrator reads the cue, not the English spelling.
   तस्य), v3.c04.l01–l03 (every seam of the verses), v2.c06.l01 (बुद्धिः एव बलम्), v2.c02.l02
   (कुटुम्बम्), v1.c02.l01 and v1.c02.l04 (ममता, एकता); feeds v3.c06.l05 (Station 0 S0-bf; the
   exam's task F source cards; the thread verses with the whole overlay), v4.c01.l01 (Station 0
-  S0-bg), v4.c03 (निपातितः, the causative), v4.c04 (-ता / -त्व), v4.c05 (चेतस्), v5.c01 (anvaya
+  S0-bg), v4.c04 (-ता / -त्व; the -त form), v4.c05 (निपातितः, the causative; चेतस्), v5.c01 (anvaya
   in depth), v5.c04 (metre).
 - **Glossary:** rows of the chapter fact base §7, open item 7, with their Hindi forms: **अन्वय**
   anvaya "prose order: a verse's words set out as a sentence (the seven steps): v3.c06.l04" —
-  अन्वय; update **श्लोक** (+ "rhythm by ear, the anvaya: v3.c06.l04").
+  अन्वय; update **श्लोक** — add "rhythm by ear, the anvaya: v3.c06.l04".
 - **Export notes:** 5 ledger-new — विनयः, याति, आप्नोति, वसुधा, मदः — and 1 upgrade, धनम् —
   "Ledger: 503 → 508 (5 ledger-new; the upgrade row धनम् drilled but not counted). Cells
   drilled: 6 (याति, यान्ति, अयात्; आप्नोमि, आप्नोषि, आप्नोति). Volume 3: 148 ledger-new, 360 →

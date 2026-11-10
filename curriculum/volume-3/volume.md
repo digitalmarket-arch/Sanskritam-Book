@@ -39,7 +39,8 @@ behind them — is `research/notes/vol3-plan.md`.
   tables in the volume. Every other paradigm is a delta card: the few cells that differ
   from a table already owned. Forms the learner must recognise but not yet produce
   (participles, the absolutive, the passive in -यते, -इन् stems) arrive on labelled
-  recognition cards before Chapter 6 needs them.
+  recognition cards before the texts that need them (the absolutive in Chapter 6's first
+  lesson).
 - **Pause form retires in stages, never by stealth.** Chapters 1–3 are printed in pause
   form. Chapter 4 teaches the joins, splitting joined text before building it; from its
   fourth lesson every taught text is printed joined, with its pause form beneath.
@@ -75,11 +76,30 @@ behind them — is `research/notes/vol3-plan.md`.
 pause-form reading and writing; the present singular in all three persons.
 
 **Exit:** 508 readable words (360 plus 148 ledger-new; never more than 8 in a lesson;
-chapter exits 387 · 411 · 439 · 460 · 488 · 508). The learner reads a course-graded story
-in joined Sanskrit at first sight and an unseen passage of classical narrative prose with
-marginal glosses; describes with agreeing adjectives, narrates in the past, makes requests
+chapter exits 387 · 411 · 439 · 460 · 488 · 508, all reached; 30 lessons, six chapters of
+five). The learner reads a course-graded story in joined Sanskrit at first sight and an
+unseen passage of classical narrative prose with marginal glosses (the Volume 3 exam's
+Pañcatantra passage: 5 glossed of 33 words); describes with agreeing adjectives, narrates in the past, makes requests
 and prohibitions; writes a paragraph joined and gives its pause form; resolves a compound
 into its parts; and can say what each case does in a sentence and where case and role
 part company — the B1 threshold that Volume 4's study of the Pāṇinian system assumes.
 The labels are CEFR-informed descriptions of function; Sanskrit has no official CEFR
 mapping [REF:cefr2020].
+
+## Chapter 6 as delivered
+
+Four reading lessons and the Volume 3 exam (v3.c06.l05: two closed-book sittings of 45
+minutes; it gates Volume 4). The reading skills: joined narrative at three speeds, with the
+absolutive read on the recognition card R5; the speech frame, X उवाच — "…" and "…" इति; the
+story-opening formula, with the storyteller's present + स्म and sūtra 3.2.118; अन्वयः, prose
+order, in seven steps. The authentic texts, each under the source line "text of the GRETIL
+e-text": eight sentences of the Hitopadeśa's doves and mouse (Book 1, frame story); six of the
+Pañcatantra's monkey and crocodile (Book 4, frame story); three verses (Hitopadeśa,
+introductory verses, 6; Hitopadeśa 1.71, spoken by a jackal, also in the Pañcatantra, Book 5;
+यस्य बुद्धिर्बलं तस्य, Pañcatantra, Book 1); and the exam's unseen Pañcatantra passage. The
+serial "the doves and the mouse" ended in v3.c06.l02, where the Hitopadeśa's own sentences
+were read; the thread-verse overlay closed in v3.c06.l01 (the benediction) and v3.c06.l04
+(Hitopadeśa, introductory verses, 36). The paradigm ledger at exit is the one audited in
+v3.c06.l05 §15. Volume 4 takes up the absolutive's formation (v4.c04) and the perfect as a
+system (v4.c03), and opens with the three Station 0 items that v3.c06.l04 and v3.c06.l05
+booked for v4.c01.l01 and v4.c01.l02.

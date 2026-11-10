@@ -66,7 +66,7 @@ passage). Learner-facing pages may say "the Hitopadeśa passage, sentence 3" ins
 | 0.4 | **No new paradigm. What the chapter adds, and its status.** (a) **R5, the absolutive** (l01): -त्वा after a simple verb, -य after a prefix = "having …-ed"; it never changes; its doer is the doer of the main verb — and in an "X-ed by Y" sentence (R2), the instrumental Y. **◐ recognition only**; formation v4.c04. (b) **The speech frame** (l02): X उवाच / आह / अवदत् / अब्रवीत् — "…", and "…" इति X अवदत् — **✓** with the owned verbs (उवाच, आह, अब्रवीत् are the c03.l03 chunks, 3rd singular only; अवदत् and every imperfect by the c03.l03 formula); the quoted words keep their own persons and tenses. (c) **The story-opening formula** (l03): अस्ति + locative + subject; X नाम Y "a Y called X"; **the storyteller's present + स्म = past** — **✓** with owned present-tense verbs (3rd person singular and plural); कस्मिंश्चित् "in a certain" learned **as a whole word of the formula (✓ in that use)**, its seam (न् + च → ंश्च) staying ◐ elsewhere. (d) **अन्वयः** (l04): a procedure, ✓ on verses of the difficulty of Hit 0.6. (e) **Headword cells:** महान् (nominative only, C; R6), याति (याति, यान्ति, अयात् ✓), आप्नोति (आप्नोति, आप्नोषि, आप्नोमि ✓; आप्नुवन्ति ◐), सुहृत् (nominative and vocative सुहृत् ✓; other cells ◐, v4.c05), जम्बूः (nominative and compound stem जम्बू- only; ū-stems v4.c05). | FACT | [REF:whitney1889 §989]; [REF:whitney1889 §990]; [REF:whitney1889 §994]; [REF:whitney1889 §1102]; [REF:whitney1889 §778]; [REF:whitney1889 §1111] | Rows 0.10–0.14 give the wording of each. |
 | 0.5 | **Policy: what is allowed in Chapter 6's taught text, lesson by lesson.** Everything Chapter 5 row 0.24 allowed (T1–T8 ✓ cells, the Δ cards, the dual card, the optative's 3rd person, R1–R4 and R6 labelled, every ✓ seam, compounds of the four ✓ kinds, the relative sentence) **plus: l01** — the R5 absolutive in read texts only (never in a learner's output, never in a model the learner imitates); the 1.x telling's ◐ seam बलाच्छ्रेष्ठा, labelled. **l02** — the speech frame named; the perfect chunks उवाच, आह as before; करिष्यामि (future) glossed in B2 only; the authentic H1–H8 with their G items. **l03** — + the formula: अस्ति + loc., X नाम Y, present + स्म (✓); कस्मिंश्चित् as a formula word; the authentic P1–P6 and D1–D4 with their G items. **l04** — + अन्वयः; याति, आप्नोति; the verses V1–V3 with their G items. **l05** — no new forms; T5 with five marginal glosses. **Not allowed anywhere in the chapter's course-written text:** an absolutive produced by the learner or in a model sentence; a perfect other than उवाच and आह; the future (except the glossed करिष्यामि of B2); -त participles beyond the owned adjectives and the R2 frame; ū-stem cells of जम्बूः; any ◐ cell as a required output. | policy | plan §1.2, §4.6; Chapter 5 row 0.24 | Walk check done for every course-written line in §§1–5 (§6 re-runs it). |
 | 0.6 | **The labels for what is met before it is taught** (each said once, where met): (a) **adverbial तत् "so, therefore"** (H2 तन्मे, P5 तद्भक्षयतु): the neuter of सः used as an adverb — Whitney §1111a: "the accusative is the case most frequently and widely used adverbially. … Of pronominal stems: … *tád* then etc." Labelled L in l02 (first met) and l03. **The plan sends it to c05.l03; the Chapter 5 fact base does not teach it** — so l02 labels it (§7, deviation 5). (b) **नाम "by name"** after a name (H2 हिरण्यको नाम मूषिकराजः, read in l02 before l03 names the formula): the owned नाम used as an adverb (Whitney §1111b: "*nā́ma* by name") — one honest line in l02, the formula named in l03 (plan review c06#2). (c) **सत्यम् "truly"** (B2 line 9): the owned सत्यम् used as an adverb, like the owned शीघ्रम् (Whitney §1111c: "*satyám* truly"). (d) **the perfect forms** उवाच, आह (C, c03.l03), ददौ (G, P6), and the future करिष्यामि (G, B2): "Volume 4 (v4.c03)". (e) -ता / -त्व "-ness" (V1 पात्रताम्, पात्रत्वात्): L, like the owned एकता (v1.c02.l04) and ममता (v1.c02.l01); formation v4.c04 (plan §5.4(a)); the sense of पात्र here is "a worthy recipient" (Apte s.v. पात्रम्), one gloss line. | FACT | [REF:whitney1889 §1111]; [REF:apte1890 s.v. पात्रम्] | — |
-| 0.7 | **Deferred, with addresses** (each said once, where met): the absolutive's formation (-त्वा vs -य, guṇa and the other changes; 3.4.21, 7.1.37) → v4.c04; the perfect (लिट्) as a system, उवाच, आह, बभूव, ददौ → v4.c03; the future (करिष्यामि, छेत्स्यति) → v4.c03; participles and infinitives as formation (भक्षितशेषाणि, पृष्टः, छिन्नानि, निपातितः, व्यापादयितुम्) → v4.c04; the causative (निपातितः) → v4.c03; consonant stems as a system (सुहृत्, महत्, -इन्, -अस् in लघुचेतसाम्, ū-stem जम्बूः) → v4.c05; 5.4.91 (-राज in मूषिकराजः) → v4.c04; metre (anuṣṭubh beyond counting syllables) → v5.c04; अन्वयः as a commentarial method in depth → v5.c01; reading sūtras word by word → v4.c06. | policy | plan §6 | — |
+| 0.7 | **Deferred, with addresses** (each said once, where met): the absolutive's formation (-त्वा vs -य, guṇa and the other changes; 3.4.21, 7.1.37) → v4.c04; the perfect (लिट्) as a system, उवाच, आह, बभूव, ददौ → v4.c03; the future (करिष्यामि, छेत्स्यति) → v4.c03; participles and infinitives as formation (भक्षितशेषाणि, पृष्टः, छिन्नानि, निपातितः, व्यापादयितुम्) → v4.c04; the causative (निपातितः) → v4.c05 (corrected at review: vol4-plan v4.c05.l02 णिच्); consonant stems as a system (सुहृत्, महत्, -इन्, -अस् in लघुचेतसाम्, ū-stem जम्बूः) → v4.c05; 5.4.91 (-राज in मूषिकराजः) → v4.c04; metre (anuṣṭubh beyond counting syllables) → v5.c04; अन्वयः as a commentarial method in depth → v5.c01; reading sūtras word by word → v4.c06. | policy | plan §6 | — |
 | 0.8 | **Authentic text: source line and word division** (editor's decision 1; dossier). No printed edition of the Hitopadeśa or the Pañcatantra could be opened (archive.org, HathiTrust, catalogue hosts refused). **Every authentic passage carries the source line "text of the GRETIL e-text" and nothing more**, with [REF:hitopadesha] or [REF:panchatantra]; no edition is named as compared or as the basis (the Hitopadeśa e-text's header names none). **Word division:** the joined line keeps the e-text's sounds exactly; consonant-final words whose sound the e-text does not change are written together in Devanagari by STYLE_GUIDE §3.1 (कस्मिंश्चित्समुद्रोपकण्ठे — the e-text's space is its romanization, not a different sandhi); **where the e-text's sounds depart from full sandhi, its division is kept with a space and the lesson says once "editions vary"**: महान् जम्बूपादपः (full sandhi महाञ्जम्बू°), पात्रत्वात् धनम् (full sandhi पात्रत्वाद्धनम्); and, with no space to keep, H8 बन्धनानि छिन्नानि (full sandhi बन्धनानि च्छिन्नानि, 6.1.73 छे च; Whitney §227a: "the manuscripts in general write simple ch") — printed as the e-text has it, one line in l02 Teacher Notes, covered for the learner by l02's "editions vary" sentence. **Loci in learner text:** the Hitopadeśa by GRETIL numbering ("Hitopadeśa 1, prose after verse 38"; "Hit 1.71"); the Pañcatantra **by tantra and story only** ("Pañcatantra 4, frame story, the opening prose"); **Jha's numbers appear in this note and in Teacher Notes only.** The label "textus simplicior" stays in REFERENCES and Teacher Notes; learner text says "the Pañcatantra (text of the GRETIL e-text)" (editor's decision 8). | policy | editor's decisions 1, 8; STYLE_GUIDE §3.1; [REF:hitopadesha]; [REF:panchatantra] | Teacher Notes may add: "Verse numbers of the Hitopadeśa differ between the GRETIL e-text and at least one printed edition. The course uses the GRETIL e-text's numbers. Apte's dictionary [REF:apte1890], which cites the Nirṇaya Sāgara edition, gives वसुधैव कुटुम्बकम् as H. 1. 70; in the course's numbering it is 1.71." (dossier, skeptic's corrected text; Apte's list of abbreviations, `dl-apauth/ap90_front.txt` l. 581–582.) |
 | 0.9 | **E-text corrections (the editor's normalisations, each listed in the Teacher Notes of the lesson that prints it; none is edition-confirmed):** (a) Pañcatantra 1, the Madotkaṭa opening (prose after Jha 1.311; `vispancu.htm` l. 1720): *prativasa ti sma* → प्रतिवसति स्म (l03, D3). (b) Hit 0.36 (`hitop_u.htm` l. 234): *nahi* → न हि, as Volume 2 printed it (l04, thread overlay). (c) The e-texts' hyphen after a speech verb (*uvāca-*, *āha-*, *proktaḥ-*) is printed as the dash of a speech frame (—). **Not printed, noted only** (dossier): Hit prose after 1.2 *pāśa-hastaṃ vyāgham* (for *vyādham*) and *laghupatana-nāmā*; Hit 0.7 *hāsyaya*; Panc 2.1 *buddhimanot*; Panc l. 1714 *damaka āha*; Panc l. 5230 *mithāgrahaṇam* (mithyā- expected, unverified); Panc l. 6390 *kasmiṃścd*. The e-text label of Hit 0.35 is truncated (l. 231), and a Book 4 label is truncated (l. 3399); Hit 3.41 is present with a malformed label (l. 2671). | FACT (what the e-texts print) | GRETIL `hitop_u.htm`, `vispancu.htm` (lines as given) | Dossier topics hit-editions C7 (skeptic's correction), pt-editions, corpus. |
 | 0.10 | **R5 card — the absolutive (l01; recognition only).** Learner wording, fixed: "A verb form in **-त्वा** (after a simple verb) or **-य** (after a prefix) means '**having …-ed**'. It never changes. Its doer is the doer of the main verb: स पाषाणं दृष्ट्वा … 'having seen a stone, he …'. In an 'X-ed by Y' sentence (R2), its doer is the instrumental Y: एवमुक्त्वा तेन … बन्धनानि छिन्नानि 'having said so, by him the bonds were cut' (H8)." **Card examples, each with the owned word beside it:** उक्त्वा "having said" (beside the R2 card's तेन उक्तम्, v3.c02.l05, and the chunk उवाच, v3.c03.l03) · दृष्ट्वा "having seen" (the absolutive belonging to पश्यति; display) · गत्वा "having gone" (beside गच्छति; गत "gone", v1.c03.l01) · आगत्य "having come" (आ + गत्य, beside आगच्छति) · निष्क्रम्य "having come out" (निस् + क्रम्य; the verb is not owned: glossed). Whitney §989: the gerund (his name for it) is "used generally as adjunct to the logical subject of a clause, denoting an accompanying or (more often) a preceding action"; §990: "made in the later language by one of the two suffixes त्वा *tvā* and य *ya*, the former being used with a simple root, the latter with one that is compounded with a prepositional prefix"; §994b–c: "the gerund is an adjunct to the subject … But if the logical subject, the real agent, is put by the construction of the sentence in a dependent case, it is still qualified by the gerund … when a passive form is given to the sentence, the gerund qualifies the agent in the instrumental case". The card prints Whitney's caution in one line: "-त्वा after a prefix and -य without one are met too (Whitney §990a); read them the same way." **Where R5 is met:** H1 आगत्य, H8 उक्त्वा (l02); P3 निष्क्रम्य, P6 उक्त्वा (l03); T5 गत्वा (l05). **Absolutives are indeclinables** (1.1.40 क्त्वातोसुन्कसुनः; Teacher Notes only); 3.4.21 समानकर्तृकयोः पूर्वकाले and 7.1.37 समासेऽनञ्पूर्वे क्त्वो ल्यप् — Teacher Notes only. **Name:** the course says "absolutive" (Hindi पूर्वकालिक कृदन्त; the tradition's names क्त्वा / ल्यप्, Teacher Notes); Whitney's "gerund" is quoted as his word. | FACT; TRADITION (the sūtras, Teacher Notes) | [REF:whitney1889 §989]; [REF:whitney1889 §990]; [REF:whitney1889 §994]; [REF:ashtadhyayi 1.1.40]; [REF:ashtadhyayi 3.4.21]; [REF:ashtadhyayi 7.1.37] | Data file: 11040 क्त्वातोसुन्कसुनः, 34021 समानकर्तृकयोः पूर्वकाले, 71037 समासेऽनञ्पूर्वे क्त्वो ल्यप् ✓. **Owned evidence, grep-checked:** तेन उक्तम्, उक्तं च (`chapter-02/lesson-05-roles-map-exam.md` l. 547, 716, 719); गत "gone" (ledger v1.c03.l01; the v3.c02.l05 lines 1177, 1201 are its Teacher Notes, not learner text); उवाच (`chapter-03/lesson-03-there-was.md` l. 457); आगच्छति (ledger v2.c05.l01); पश्यति (ledger v2.c04.l01). **No absolutive stands in any v3.c01–c04 lesson** (grep for दृष्ट्वा, उक्त्वा, गत्वा, आगत्य over chapter-01–04: no hit), so the card is the learner's first meeting. |
@@ -121,11 +121,13 @@ passage). Learner-facing pages may say "the Hitopadeśa passage, sentence 3" ins
 - **S0-bd** (l04): any two correct openings, e.g. अस्ति कस्मिंश्चिद्वने चित्रकर्णो नाम शशको निवसति स्म।
   (a new name is the learner's own); check: अस्ति first, a locative, नाम after the name, a 3rd-person
   present + स्म.
-- **S0-be** (l05): any five correct sentences in pause form telling P1–P6: the tree by the sea; the
-  monkey (रक्तमुखः नाम वानरः निवसति स्म); the crocodile came out of the water; the monkey called him
-  a guest; he gave him rose-apples.
-- **S0-bf** (l05): विद्या विनयम् ददाति। (नरः) विनयात् पात्रताम् याति। पात्रत्वात् धनम् आप्नोति। धनात्
-  धर्मम् (आप्नोति), ततः सुखम् (आप्नोति)। Verbs: ददाति, याति, आप्नोति (and the supplied आप्नोति).
+- **S0-be** (l05): said aloud and recorded, nothing written; a checklist, no model sentence — one
+  tick per event told in order in a correct sentence in pause form: the tree by the sea, with अस्ति
+  in the first sentence; the monkey, his name with नाम, and "lived" with स्म; the crocodile came out
+  of the water; the monkey called him a guest; he gave him rose-apples.
+- **S0-bf** (l05): विद्या विनयम् ददाति। [नरः] विनयात् पात्रताम् याति। [सः] पात्रत्वात् धनम् आप्नोति। धनात्
+  धर्मम् [आप्नोति], ततः सुखम् [आप्नोति]। Verbs: ददाति, याति, आप्नोति (and the supplied आप्नोति); [सः] may be
+  left out (corrected at review: as v3.c06.l04 §15 and its exercise 1 key print it).
 - **S0-bg, S0-bh, S0-bi** (Volume 4): सः तम् तेन तस्मै तस्मात् तस्य तस्मिन्; सा ताम् तया तस्यै तस्याः
   तस्याः तस्याम्; तत् तत् तेन तस्मै तस्मात् तस्य तस्मिन् · गच्छति अगच्छत् गच्छतु गच्छेत् · सोऽपि,
   तच्च · the anvaya key of V1, V2 or V3 (§4) · T5 (§5) and its five glosses · S0-bi: any eight correct
@@ -155,6 +157,12 @@ by line; now checkable by the learner against H1–H8.
 | 15 | 5 (c05) | "स्वागतम्, प्रियमित्र!" | H4 *āḥ! puṇyavān asmi priya-suhṛn me citragrīvaḥ samāyātaḥ* |
 | 16 | 5 (c05) | ततो हिरण्यकः सर्वेषां कपोतानां पाशानकृन्तत् (active) | H8 *evam uktvā tena … bandhanāni chinnāni* (absolutive + R2) |
 | 17 | 5 (c05) | the closing dvandva चित्रग्रीवहिरण्यकौ प्रियमित्रे अभवताम् | not in the text |
+| 18 | 1 (c01) | one dove comes down; the hunter throws down अन्नम् "food" | a whole flock with its king (*sa-parivāraḥ*) and rice grains (*taṇḍula-kaṇān*, l. 307) (corrected at review: c01.l03 §4, §22) |
+| 19 | 3 (c03) | the doves' "we eat, then we go"; the hunter on the bank; the dove's R3 line and "the net looks fine" | not in the text; the king's plan is an impersonal command (l. 454) (corrected at review: c03.l01–l02 §22) |
+| 20 | 3 (c03) | the mouse goes into his hole and the king names himself; मित्र for सखे | the mouse keeps silent (l. 472); H3; H5 (l. 479) (corrected at review: c03.l03 §22) |
+| 21 | 5 (c05) | the doves ask in the sky; पाशबद्धाः in the king's mouth; यथाशक्ति पाशान्कृन्त | l. 467; l. 479; l. 494 (corrected at review: c05.l02, c05.l04 §22) |
+| 22 | 5 (c05.l05, task D) | the name explained by the bright neck; "सखे हिरण्यक! शीघ्रं बहिरागच्छ!" | no name explained (l. 307); H3 (corrected at review: c05.l05 §22) |
+| 23 | 2 (c02) | the doves simply live in the tree (निवसन्ति) | birds from many lands roost there at night (l. 298) (corrected at review: c02.l02 §22) |
 
 Sources: Chapter 1 fact base row 0.31; Chapter 2 row 0.31 and its l01–l04 Teacher-Notes lines; Chapter 3
 row 0.26; plan §7.6 (v3.c02, v3.c03 rows); Chapter 5 table 0.I. Episode 4 (c04) re-read the serial
@@ -705,9 +713,9 @@ doves and the mouse', you read the book."
 > hitopadeśa]) is a collection of fables in prose and verse. One of its closing verses names Nārāyaṇa as its
 > compiler, and the colophon of its third book calls it the work of "the paṇḍita Nārāyaṇa"; another
 > closing verse names a ruler, Dhavalacandra, who had the collection written out and circulated
-> [REF:hitopadesha sandhi 141, 143]. On the estimate printed with the Clay Sanskrit Library translation it
-> was composed between 800 and 950 CE; the oldest dated manuscript known is of 1373 CE
-> [REF:hitopadesha]; [REF:torzsok2007]. Its prologue says that its books are "drawn from the
+> [REF:hitopadesha sandhi 141, 143]. On the scholarly estimate it dates to roughly the 9th–12th
+> centuries CE; the oldest dated manuscript known is of 1373 CE [REF:hitopadesha]. Its prologue
+> says that its books are "drawn from the
 > Pañcatantra and another work" (पञ्चतन्त्रात्तथान्यस्माद्ग्रन्थादाकृष्य लिख्यते) [REF:hitopadesha prastāvikā 9].
 > In the frame story of the first book of the Hitopadeśa, a mouse gnaws through a net to free a flock
 > of birds [REF:hitopadesha mitralābha]. The frame story of the Pañcatantra's second book tells of the
@@ -722,7 +730,7 @@ borrowing statement the text's own. E-text loci: Hit 4.141 l. 4010; Book 3 colop
 4.143 l. 4017–4018; 0.9 l. 126–127; Panc 2 frame `vispancu.htm` l. 2676–2698, 2739, 2971, 3581. The
 date clause and the manuscript are "search-confirmed; page not opened" (§6). The 14 shipped v3
 lessons that say "on the usual scholarly estimate, to roughly the 9th–12th centuries CE" stay true
-(the 800–950 estimate lies inside that span; the 1373 manuscript dates a copy, not the composition; the count is 14 lessons, wording varying) — §8. A second callout, **TRADITION** (one line, optional): "In
+(this callout now uses the same range — the narrower 800–950 estimate was withdrawn at Pass C, see the outcome under editor's decision 9; the 1373 manuscript dates a copy, not the composition; the count is 14 lessons, wording varying) — §8. A second callout, **TRADITION** (one line, optional): "In
 the Hitopadeśa's frame, a teacher, Viṣṇuśarman, tells these stories to princes" [REF:monierwilliams1899
 s.v. hitopadeśa].
 
@@ -782,7 +790,7 @@ doubling). The names are gloss-line items (rule 12), used to talk about the text
 - **Ex 3 (O3; in class, 6 min) — B2 aloud** (three speeds), then six questions: (1) पुरा सिंहः कुत्र
   अस्वपत्? (2) मूषकः कस्य उपरि अधावत्? (3) मूषकः किम् अवदत्? (4) सिंहः किम् अवदत्? (5) सिंहः कुत्र अपतत्?
   (6) मूषकः केन जालम् अकृन्तत्? **Key:** (1) वने (2) सिंहस्य (तस्य) (3) "माम् मुञ्च" (any part of line 4)
-  (4) "त्वम् लघुः असि" (5) (व्याधस्य) जाले (6) दन्तैः.
+  (4) "त्वम् लघुः असि", or line 9's "सखे! त्वम् सत्यम् मम मित्रम्" (5) (व्याधस्य) जाले (6) दन्तैः.
 - **Ex 4 (O2; in class, 5 min) — turn the frame, six lines.** Frame first → frame last, or back:
   (1) मूषकोऽवदत् — "मां मुञ्च।" (2) "त्वं लघुरसि" इति सिंहोऽवदत्। (3) हिरण्यकोऽवदत् — "सखे! किमेतत्?" (H5's words, Hiraṇyaka's) (4) "अहमल्पशक्तिः" इति हिरण्यकोऽवदत्। (5) सिंहोऽवदत् — "सखे! त्वं मम मित्रम्।"
   (6) "मित्र! मा मैवं कुरु" इति चित्रग्रीवोऽवदत्। **Key:** (1) "मां मुञ्च" इति मूषकोऽवदत्। (2) सिंहोऽवदत्
@@ -864,7 +872,7 @@ retelling differed) = **44**.
 
 ### Teacher Notes (must include)
 
-Table 0.B (all 17 departures). Row 0.24's Purāṇic note. The e-text corrections (row 0.9c). The ◐ seams
+Table 0.B (all 23 departures; rows 18–23 added, corrected at review). Row 0.24's Purāṇic note. The e-text corrections (row 0.9c). The ◐ seams
 तन्मे, प्रियसुहृन्मे. Row 0.8's numbering caution. Dossier caveat: Hit 4.141–4.143 are closing verses of
 the e-text; whether every printed edition has them was not checked.
 
@@ -1184,8 +1192,8 @@ prativasati sma* not quoted as the text.
 
 **Front matter.** id `v3.c06.l04` · file `lesson-04-three-verses.md` · title sa त्रयः श्लोकाः (श्लोकः is
 the GLOSSARY term of v1.c06.l04, used as a term) · sa_iast *trayaḥ ślokāḥ* · en "Three Verses" · hi
-"तीन श्लोक" · lesson_type reading · cefr A2 · duration_minutes 45 · self_study_minutes **40** (§21: §19
-quiz 8; Ex 2 finished, the anvaya of V2 and V3 written 8; Ex 5, six half-verses translated 6; the three
+"तीन श्लोक" · lesson_type reading · cefr A2 · duration_minutes 45 · self_study_minutes **44** (§21: §19
+quiz 8; Ex 2, the anvaya of V2 and V3 written 12; Ex 5, six half-verses translated 6; the three
 verses recited joined, recorded 5; Ex 6, the anvaya of Hit 0.36 5; the callouts re-read 3; the anvaya
 steps copied from memory 2; real-world task 3) · prerequisites [v3.c06.l03] · review_of [v3.c06.l03,
 v3.c06.l02, v3.c05.l03, v3.c05.l04, v3.c04.l04, v2.c06.l03, v1.c06.l04, v3.c01.l02] (§3: S0-bd l03; S0-bc
@@ -1282,7 +1290,7 @@ where is strength? In the forest a lion, mad with pride, was brought down by a h
 तस्य T (c05.l02 cells; c05.l03 the relative sentence: "who has … has") · बुद्धिः, बलम्, कुतः, वने, सिंहः
 T · निर्बुद्धेः L (bahuvrīhi निर् + बुद्धिः "without intelligence", gen. sg. m. like अग्नेः, c02.l03; the निर्- shape that c05.l04 §15 Step 6 labels and c05.l05 §17 parses in निरामयाः: read, never built) · तु T · मदोन्मत्तः: मदः T today + उन्मत्तः
 **G** "maddened" (case-tatpuruṣa मदेन उन्मत्तः, seam अ + उ → ओ) · शशकेन … निपातितः L R2 frame (शशकः T
-c01.l03); निपातितः **G** "brought down" (causative, v4.c03). Words 13; G 2 = 1 in 6.5. Seams: बुद्धिर्बलं
+c01.l03); निपातितः **G** "brought down" (causative, v4.c05 — corrected at review). Words 13; G 2 = 1 in 6.5. Seams: बुद्धिर्बलं
 (-इः + voiced → र्; म् → ं); निर्बुद्धेस्तु (-एः + त → स्त); कुतो, सिंहो (-अः + voiced → ओ); मदोन्मत्तः (inner
 गुणः). The c06#8 review fix applied: the relative–correlative sentence is c05.l03's, the cells c05.l02's.
 
@@ -1359,7 +1367,7 @@ imperative (c03.l04).
 
 - **Ex 1 (O1; in class, 7 min) — V1 down the seven steps, together** (the card's worked example; the
   learner writes each step's result). Key: the V1 anvaya above.
-- **Ex 2 (O1; begun in class 7 min, finished at home 8 min) — six clauses into prose order:** V2 clause 1,
+- **Ex 2 (O1; homework, 12 min) — six clauses into prose order:** V2 clause 1,
   V2 clause 2, V3 clause 1, V3 clause 2, V3 clause 3, and V1's last clause (धनाद्धर्मं ततः सुखम्, supplying
   the verb). **Key:** as the anvayas above; any order of the bracketed supplied words accepted; a learner
   who writes अस्ति for भवति (or the reverse) is right; the relative clause must stand before its
@@ -1413,14 +1421,14 @@ imperative (c03.l04).
 ### Class timing (45)
 
 Station 0 (S0-bd 3 + S0-bc 4) 7 · Hit 0.36, the overlay's last stop 3 · hook 1 · the seven-step card 6 ·
-Ex 1 (V1) 7 · V2 and V3 read (three speeds) and Ex 2 begun 7 · Ex 3 4 · the two callouts and Ex 4 6 · the
-rhythm: count and recite 3 · §20 1 = **45**. Homework: Ex 2 (finish), Ex 5, Ex 6, Ex 7, §19.
+Ex 1 (V1) 7 · V2 and V3 read (three speeds), with their scenes and glosses 7 · Ex 3 4 · the two callouts and Ex 4 6 · the
+rhythm: count and recite 3 · §20 1 = **45**. Homework: Ex 2, Ex 5, Ex 6, Ex 7, §19.
 
-### §21 Homework (40)
+### §21 Homework (44)
 
-§19 quiz 8 · Ex 2 finished 8 · Ex 5 6 · Ex 7 (recital, recorded) 5 · Ex 6 5 · the callouts re-read 3 · the
+§19 quiz 8 · Ex 2 12 · Ex 5 6 · Ex 7 (recital, recorded) 5 · Ex 6 5 · the callouts re-read 3 · the
 seven steps from memory 2 · real-world task 3 (find a Sanskrit verse on a calendar, a temple wall, a book
-or a website; split it and write the anvaya of one half) = **40**.
+or a website; split it and write the anvaya of one half) = **44**.
 
 ### §3 Station 0 (verbatim)
 
@@ -1578,13 +1586,13 @@ text's order, answered in Sanskrit (one word or a phrase). (1) पुरा क�
 सिंहः मूषकम् किम् अवदत्? (6) एकदा सिंहः कुत्र अपतत्? (7) मूषकः किम् अशृणोत्? (8) मूषकः केन जालम् अकृन्तत्?
 (9) एवम् मूषकः किम् अकरोत्? (10) (spiral) "जाले" — which case, and which job (कारकम्)? **Key:** (1) सिंहः
 (कश्चित् सिंहः) (2) सिंहस्य (तस्य) (3) मूषकम् (4) "माम् मुञ्च" or "अहम् अपि कदाचित् तव साहाय्यम्
-करिष्यामि" (5) "त्वम् लघुः असि" (6) (व्याधस्य) जाले (7) (तस्य) शब्दम् (8) दन्तैः (9) प्रत्युपकारम् (10)
+करिष्यामि" (5) "त्वम् लघुः असि", or line 9's "सखे! त्वम् सत्यम् मम मित्रम्" (6) (व्याधस्य) जाले (7) (तस्य) शब्दम् (8) दन्तैः (9) प्रत्युपकारम् (10)
 सप्तमी; अधिकरणम्. Scoring 10 × 1; **pass 7**. (Q3 contains the R4 word अगृह्णात्, which the learner only reads; the answer, मूषकम्, is a ✓ cell.)
 
 *Task B — dictation, joined, then the pause form* (8 min). Five sentences, **played in this order, 1 →
 5**, each twice at natural pace and once slowly; the learner writes each joined as heard, then, when all
 five are written, its pause form beneath.
-1. वानरो जम्बूपादपे निवसति स्म। (vānaro jambūpādape nivasati sma.) / वानरः जम्बूपादपे निवसति स्म।
+1. वानरो जम्बूवृक्षे निवसति स्म। (vānaro jambūvṛkṣe nivasati sma.) / वानरः जम्बूवृक्षे निवसति स्म।
 2. मकरः समुद्रसलिलादागच्छत्। (makaraḥ samudrasalilād āgacchat.) / मकरः समुद्रसलिलात् आगच्छत्।
 3. "भोः! भवानतिथिः" इति वानरोऽवदत्। ("bhoḥ! bhavān atithiḥ" iti vānaro 'vadat.) / "भोः! भवान् अतिथिः" इति वानरः अवदत्।
 4. मकरस्तस्य तरोरधोऽतिष्ठत्। (makaras tasya taror adho 'tiṣṭhat.) / मकरः तस्य तरोः अधः अतिष्ठत्।
@@ -1836,8 +1844,8 @@ agāt | evaṃ nityam eva tau vānara-makarau … sukhena tiṣṭhataḥ*) and 
    exists (+ "closes a quotation; the frame named v3.c06.l02"). Not added: कथामुखम् (a Hitopadeśa section
    name, glossed where met).
 8. **The 14 shipped v3 lessons** that date the Hitopadeśa "on the usual scholarly estimate, to roughly
-   the 9th–12th centuries CE" stay (still true; the new 800–950 estimate lies inside that span; the 1373
-   manuscript dates a copy, not the composition). Recommendation: leave them; the REFERENCES entry carries the firmer data (decision
+   the 9th–12th centuries CE" stay (still true; the 1373
+   manuscript dates a copy, not the composition; the 800–950 estimate first proposed here was withdrawn at Pass C). Recommendation: leave them; the REFERENCES entry carries the firmer data (decision
    4). If the editor wants one wording course-wide, a later erratum can change them.
 
 **Editor's decisions (taken before the fact base, from the research dossier)** — copied verbatim:
@@ -1879,7 +1887,8 @@ search results that quote the source's own page, is attributed in the text ("acc
      statement, never as the course's claim about priority; the frame story of its first book has the same cast as the frame of the
      Pañcatantra's second book (doves, mouse, crow, tortoise, deer), verified in both e-texts; date: "on the estimate printed with the
      Clay Sanskrit Library translation, between 800 and 950 CE; the oldest dated manuscript known is of 1373 CE"
-     [REF:hitopadesha]; [REF:torzsok2007]. Restate v2.c06.l02's sentence about the mouse and the net exactly.
+     [REF:hitopadesha]; [REF:torzsok2007] — **withdrawn at Pass C** (outcome under decision 9): the callout prints "On the scholarly
+     estimate it dates to roughly the 9th–12th centuries CE; the oldest dated manuscript known is of 1373 CE" [REF:hitopadesha]. Restate v2.c06.l02's sentence about the mouse and the net exactly.
    - **c06.l03 (the Pañcatantra's date):** no date range prints (IR-030's "c. 200 BCE–300 CE" has no source, and IR-030 says nothing of a
      translation). What prints, attributed: according to the Encyclopaedia Iranica, a physician named Borzūya, of the time of the
      Sasanian king Khosrow I (reigned 531–579 CE), translated the work from Sanskrit into Middle Persian, and that version was soon
@@ -1927,6 +1936,14 @@ search results that quote the source's own page, is attributed in the text ("acc
    REFERENCES entry keeps that range and adds, inside it, the estimate printed with Törzsök's
    translation and the oldest dated manuscript, so that the older lessons and this chapter's callouts
    rest on one entry (§8 (b2)).
+   *Outcome at Pass C (2026-11-10):* the estimate "800–950 CE" could not be tied by search to
+   Törzsök's translation or to any source that could be opened or quoted (the publisher's pages
+   found give no such range; pages that give it name other sources or none). Under the evidence
+   rule it does not print. The lesson 2 callout dates the Hitopadeśa as the fourteen shipped
+   lessons do, "on the scholarly estimate … roughly the 9th–12th centuries CE", and keeps the
+   manuscript (Cambridge University Library MS Add. 2564, Nepāla saṃvat 493 = 1373 CE;
+   search-confirmed; page not opened). The key `torzsok2007` is withdrawn from REFERENCES.md, and
+   the `hitopadesha` entry keeps the range and the manuscript only.
 10. **Search-confirmed items (open item 10).** The callouts print; each statement that rests on search
     results is marked "search-confirmed; page not opened" in the verification log when the chapter
     ships, and is re-checked against the page when archive.org, HathiTrust and Encyclopaedia Iranica
@@ -1960,9 +1977,9 @@ search results that quote the source's own page, is attributed in the text ("acc
 6. **नाम in H2** is labelled "by name" in l02, the formula named in l03 (review c06#2); सत्यम् "truly" in
    B2 line 9 is labelled likewise (Whitney §1111c).
 7. **"Jha 1.311's prativasa ti"** → the prose after Jha 1.311 (decision 7).
-8. **The Hitopadeśa's date** in l02 follows decision 5 (800–950 CE on the estimate printed with the Clay
-   Sanskrit Library translation; oldest dated manuscript 1373 CE), not the plan's "c. 9th–12th c. CE";
-   the REFERENCES entry is amended (§8 (b2)).
+8. **The Hitopadeśa's date** in l02 keeps the plan's "c. 9th–12th c. CE" and adds the oldest dated
+   manuscript (1373 CE); the 800–950 CE estimate that decision 5 first allowed was withdrawn at
+   Pass C (outcome under decision 9). The REFERENCES entry is amended (§8 (b2)).
 9. **The Pañcatantra's date** (l03): no date range prints; "(IR-030)" is dropped (IR-030 says nothing of a
    translation); the anchor is the Encyclopaedia Iranica statement, attributed. A TRADITION line on
    Viṣṇuśarman (Panc 0.2) is added. **The Jātaka line prints** (decision 5), with no "cousin".
@@ -2028,7 +2045,7 @@ plus the plan's §4.0.3 rows that name c06. **No line is now false.** Checked, u
 | volume-1/chapter-06/lesson-04-shloka-and-volume-exam.md (§8, §15) | "chain awaits your sandhi (Volume 3)" · "Volume 3 teaches the system" · "noticed, glossed whole, system in Volume 3" | the benediction: seams c04.l03, parse c06.l01 |
 | volume-2/chapter-06/lesson-03-three-sayings.md (§15) | plural nouns and verbs, case endings, joins "Volume 3" | 0.36 read with no gloss, c06.l04 |
 | volume-2/chapter-06/lesson-01-the-thirsty-crow.md (§27, l. 992) | "Endings change with a word's role … Volume 3" | Texts A1/B1, l01 |
-| volume-3/chapter-01–03 (§22 of every teaching lesson; grep "on the record for v3.c06.l02") | "These departures are on the record for v3.c06.l02, which reads the text itself." | l02 Teacher Notes, table 0.B |
+| volume-3/chapter-01–03 and chapter-05 (the §22 of the serial's lessons; grep "on the record for v3.c06.l02"; corrected at review) | "These departures are on the record for v3.c06.l02, which reads the text itself." | l02 Teacher Notes, table 0.B |
 | volume-3/chapter-01/lesson-03, chapter-02/lesson-01–05, chapter-03/lesson-01–05 (§27) | "v3.c06.l02 (the Hitopadeśa frame read)" | l02 |
 | volume-3/chapter-03/lesson-01-we-go.md (§8, l. 759; §17, l. 920; §14, l. 585) | "the frame is named and taught in v3.c06.l02" · "read again in v3.c06.l02" (धावति) | l02 (row 0.11; B2 line 2) |
 | volume-3/chapter-03/lesson-02-the-second-family.md (§14, l. 581) | "the root of सम्भाषसे, which you will read in v3.c06.l02" | H3 |
@@ -2042,8 +2059,8 @@ plus the plan's §4.0.3 rows that name c06. **No line is now false.** Checked, u
 
 - **New** `cowell1895` — E. B. Cowell (ed.), *The Jātaka, or Stories of the Buddha's Former Births*, 6 vols., Cambridge University Press, 1895–1907; vol. II tr. W. H. D. Rouse, 1895. Cited by volume and jātaka number (vol. II, no. 208).
 - **New** `iranica` — *Encyclopaedia Iranica*, online edition. Cited s.v. the article title: "Borzūya" (Djalal Khaleghi-Motlagh; published 15 December 1989); "Kalila wa Demna i. Redactions and circulation" (Dagmar Riedel; vol. XV, fasc. 4, 2010, pp. 386–395).
-- **New** `torzsok2007` — Judit Törzsök (tr.), *"Friendly Advice" by Nārāyaṇa and "King Vikrama's Adventures"*, Clay Sanskrit Library, New York University Press and JJC Foundation, 2007.
-- **Amend** `hitopadesha` (as entered on 2026-11-10; editor's decision 9 below): "(c. 9th–12th c. CE)" → "(c. 9th–12th c. CE; within that range the estimate printed with `torzsok2007` is 800–950 CE; the oldest dated manuscript known, Cambridge University Library MS Add. 2564, is dated Nepāla saṃvat 493 = 1373 CE — the estimate and the manuscript's date are search-confirmed; page not opened)"; the citation format is section + verse (prastāvikā / mitralābha / suhṛdbheda / vigraha / sandhi).
+- ~~**New** `torzsok2007`~~ — entered on 2026-11-10 and **withdrawn at Pass C** the same day: the estimate it was cited for could not be confirmed (outcome under editor's decision 9), and nothing else cites it.
+- **Amend** `hitopadesha` (as entered on 2026-11-10; editor's decision 9 below; **corrected at Pass C:** the clause on the 800–950 CE estimate is dropped, and the entry keeps the range and the manuscript): "(c. 9th–12th c. CE)" → "(c. 9th–12th c. CE; within that range the estimate printed with `torzsok2007` is 800–950 CE; the oldest dated manuscript known, Cambridge University Library MS Add. 2564, is dated Nepāla saṃvat 493 = 1373 CE — the estimate and the manuscript's date are search-confirmed; page not opened)"; the citation format is section + verse (prastāvikā / mitralābha / suhṛdbheda / vigraha / sandhi).
 
 ### (c) What `curriculum/volume-3/volume.md` must say when the chapter ships and its frame goes to "reviewed"
 

@@ -76,10 +76,9 @@ adhyāya.brāhmaṇa.verse (e.g. 1.3.28 — asato mā sad gamaya). Ed./tr. Olive
 <a id="mundaka"></a>**mundaka** — *Muṇḍaka Upaniṣad*. Cited muṇḍaka.khaṇḍa.verse (e.g.
 3.1.6 — satyam eva jayate). Ed./tr. Olivelle 1998.
 
-<a id="hitopadesha"></a>**hitopadesha** — Nārāyaṇa, *Hitopadeśa* (c. 9th–12th c. CE; within that range
-the estimate printed with `torzsok2007` is 800–950 CE; the oldest dated manuscript known,
-Cambridge University Library MS Add. 2564, is dated Nepāla saṃvat 493 = 1373 CE — the estimate and
-the manuscript's date are search-confirmed; page not opened). Cited by
+<a id="hitopadesha"></a>**hitopadesha** — Nārāyaṇa, *Hitopadeśa* (c. 9th–12th c. CE on the scholarly
+estimate; the oldest dated manuscript known, Cambridge University Library MS Add. 2564, is dated
+Nepāla saṃvat 493 = 1373 CE — the manuscript's date is search-confirmed; page not opened). Cited by
 section (prastāvikā / mitralābha / suhṛdbheda / vigraha / sandhi) and verse. Verse numbers differ between editions; the
 course numbers verses as in the GRETIL e-text (Nārāyaṇa: *Hitopadeśa*, version 1.1, input by
 J. Brzezinski, revised by U. Stiehl). For prastāvikā 36 (udyamena hi sidhyanti …) this agrees
@@ -204,11 +203,6 @@ page.
 <a id="ryder1925"></a>**ryder1925** — A.W. Ryder (tr.), *The Panchatantra*, Chicago: University of
 Chicago Press, 1925 — a translation of Pūrṇabhadra's recension (1199 CE). Cited by book and
 story title.
-
-<a id="torzsok2007"></a>**torzsok2007** — Judit Törzsök (tr.), *"Friendly Advice" by Nārāyaṇa and
-"King Vikrama's Adventures"*, Clay Sanskrit Library, New York: New York University Press and JJC
-Foundation, 2007. Cited for the date estimate printed with it (the Hitopadeśa composed between
-800 and 950 CE). Search-confirmed; page not opened.
 
 <a id="cowell1895"></a>**cowell1895** — E. B. Cowell (ed.), *The Jātaka, or Stories of the Buddha's
 Former Births*, 6 vols., Cambridge: Cambridge University Press, 1895–1907; vol. II tr. W. H. D.
