@@ -17,11 +17,11 @@ prerequisites: [v3.c03.l05]
 review_of: [v3.c03.l05, v3.c03.l04, v2.c01.l04, v2.c05.l02, v1.c05.l02, v1.c06.l01, v1.c04.l03, v2.c06.l03, v2.c06.l02, v1.c02.l04, v1.c02.l05, v1.c05.l05, v3.c02.l03, v3.c02.l04, v3.c03.l03]
 objectives:
   - en: "Split owned joined words and lines back into their pause form — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — and name the rule at each seam (सवर्णदीर्घः, गुणः, वृद्धिः, यण्, अयादि, पूर्वरूपम्)."
-    hi: "अपने जाने-पहचाने जुड़े शब्दों और पंक्तियों — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — को फिर विराम-रूप में अलग करें और हर जोड़ का नियम बताएँ (सवर्णदीर्घ, गुण, वृद्धि, यण्, अयादि, पूर्वरूप)।"
+    hi: "अपने जाने-पहचाने जुड़े शब्दों और पंक्तियों — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — को फिर विराम-रूप में अलग करें और हर जोड़ का नियम बताएँ: सवर्णदीर्घ, गुण, वृद्धि, यण्, अयादि, पूर्वरूप।"
   - en: "Join pause-form pairs whose first word ends in a vowel and whose second begins with one, by the six rules, with spaces and the avagraha where they belong — and leave a dual in -ई, -ऊ, -ए unjoined (द्वे बालिके अत्र)."
-    hi: "ऐसे विराम-रूप शब्द-युग्मों को, जिनमें पहला शब्द स्वर पर ख़त्म हो और दूसरा स्वर से शुरू हो, छह नियमों से जोड़ें — रिक्त स्थान और अवग्रह सही जगह रखें — और -ई, -ऊ, -ए वाले द्विवचन को न जोड़ें (द्वे बालिके अत्र)।"
+    hi: "ऐसे विराम-रूप शब्द-युग्मों को, जिनमें पहला शब्द स्वर पर ख़त्म हो और दूसरा स्वर से शुरू हो, छह नियमों से जोड़ें — रिक्त स्थान और अवग्रह सही जगह रखें — और -ई, -ऊ, -ए वाले द्विवचन को न जोड़ें — द्वे बालिके अत्र।"
   - en: "State, according to Pāṇini, which of the seven sūtras (6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11) describes a given seam, and give the Hindi school names of the five vowel joins (दीर्घ, गुण, वृद्धि, यण्, अयादि)."
-    hi: "पाणिनि के अनुसार बताएँ कि सात सूत्रों (6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11) में से कौन-सा सूत्र किसी जोड़ का वर्णन करता है, और हिन्दी व्याकरण में पाँच स्वर-सन्धियों के नाम बताएँ (दीर्घ, गुण, वृद्धि, यण्, अयादि)।"
+    hi: "पाणिनि के अनुसार बताएँ कि सात सूत्रों — 6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11 — में से कौन-सा सूत्र किसी जोड़ का वर्णन करता है, और हिन्दी व्याकरण में पाँच स्वर-सन्धियों के नाम बताएँ: दीर्घ, गुण, वृद्धि, यण्, अयादि।"
   - en: "Read a line joined at its vowel seams aloud with no pause at any seam, and write such a line from dictation, first in pause form, then joined."
     hi: "स्वर-जोड़ों पर जुड़ी पंक्ति को बिना किसी जोड़ पर रुके ज़ोर से पढ़ें, और ऐसी पंक्ति को श्रुतलेख में पहले विराम-रूप में, फिर जोड़कर लिखें।"
 new_letters: []
@@ -62,9 +62,9 @@ one of seven things — and each of the seven has a name and a sūtra.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Split owned joined words and lines back into their pause form — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — and name the rule at each seam (सवर्णदीर्घः, गुणः, वृद्धिः, यण्, अयादि, पूर्वरूपम्). | अपने जाने-पहचाने जुड़े शब्दों और पंक्तियों — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — को फिर विराम-रूप में अलग करें और हर जोड़ का नियम बताएँ (सवर्णदीर्घ, गुण, वृद्धि, यण्, अयादि, पूर्वरूप)। |
-| 2 | Join pause-form pairs whose first word ends in a vowel and whose second begins with one, by the six rules, with spaces and the avagraha where they belong — and leave a dual in -ई, -ऊ, -ए unjoined (द्वे बालिके अत्र). | ऐसे विराम-रूप शब्द-युग्मों को, जिनमें पहला शब्द स्वर पर ख़त्म हो और दूसरा स्वर से शुरू हो, छह नियमों से जोड़ें — रिक्त स्थान और अवग्रह सही जगह रखें — और -ई, -ऊ, -ए वाले द्विवचन को न जोड़ें (द्वे बालिके अत्र)। |
-| 3 | State, according to Pāṇini, which of the seven sūtras (6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11) describes a given seam, and give the Hindi school names of the five vowel joins (दीर्घ, गुण, वृद्धि, यण्, अयादि). | पाणिनि के अनुसार बताएँ कि सात सूत्रों (6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11) में से कौन-सा सूत्र किसी जोड़ का वर्णन करता है, और हिन्दी व्याकरण में पाँच स्वर-सन्धियों के नाम बताएँ (दीर्घ, गुण, वृद्धि, यण्, अयादि)। |
+| 1 | Split owned joined words and lines back into their pause form — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — and name the rule at each seam (सवर्णदीर्घः, गुणः, वृद्धिः, यण्, अयादि, पूर्वरूपम्). | अपने जाने-पहचाने जुड़े शब्दों और पंक्तियों — नास्ति, विद्यालयः, स्वागतम्, सदैव, इत्यवदत्, तेऽपि, त आगच्छन्ति, पितरावपि — को फिर विराम-रूप में अलग करें और हर जोड़ का नियम बताएँ: सवर्णदीर्घ, गुण, वृद्धि, यण्, अयादि, पूर्वरूप। |
+| 2 | Join pause-form pairs whose first word ends in a vowel and whose second begins with one, by the six rules, with spaces and the avagraha where they belong — and leave a dual in -ई, -ऊ, -ए unjoined (द्वे बालिके अत्र). | ऐसे विराम-रूप शब्द-युग्मों को, जिनमें पहला शब्द स्वर पर ख़त्म हो और दूसरा स्वर से शुरू हो, छह नियमों से जोड़ें — रिक्त स्थान और अवग्रह सही जगह रखें — और -ई, -ऊ, -ए वाले द्विवचन को न जोड़ें — द्वे बालिके अत्र। |
+| 3 | State, according to Pāṇini, which of the seven sūtras (6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11) describes a given seam, and give the Hindi school names of the five vowel joins (दीर्घ, गुण, वृद्धि, यण्, अयादि). | पाणिनि के अनुसार बताएँ कि सात सूत्रों — 6.1.101, 6.1.87, 6.1.88, 6.1.77, 6.1.78, 6.1.109, 1.1.11 — में से कौन-सा सूत्र किसी जोड़ का वर्णन करता है, और हिन्दी व्याकरण में पाँच स्वर-सन्धियों के नाम बताएँ: दीर्घ, गुण, वृद्धि, यण्, अयादि। |
 | 4 | Read a line joined at its vowel seams aloud with no pause at any seam, and write such a line from dictation, first in pause form, then joined. | स्वर-जोड़ों पर जुड़ी पंक्ति को बिना किसी जोड़ पर रुके ज़ोर से पढ़ें, और ऐसी पंक्ति को श्रुतलेख में पहले विराम-रूप में, फिर जोड़कर लिखें। |
 
 Objective 1 is built in §8 Steps 3–5 and §15 Steps 1–7 and 10, and tested in §18
@@ -85,7 +85,7 @@ for it, retrieval practice beats re-reading for long-term retention [REF:roedige
 
 v3.c03.l05 §20 booked the first station in one line:
 
-- +1 day: five verbs in the four lakāras — गच्छति, लभते, अस्ति, करोति and वदति, each said and written in the 3rd person singular of लट्, लङ्, लोट् and विधिलिङ् (गच्छति · अगच्छत् · गच्छतु · गच्छेत्); v3.c04.l01's Station 0 runs exactly this.
+- +1 day: five verbs in the four lakāras — गच्छति, लभते, अस्ति, करोति and वदति, each said and written in the 3rd person singular of लट्, लङ्, लोट् and विधिलिङ् — गच्छति · अगच्छत् · गच्छतु · गच्छेत्; v3.c04.l01's Station 0 runs exactly this.
 
 v3.c03.l04 §20 booked the second:
 
@@ -144,7 +144,9 @@ and in print.
 That heading is why this lesson keeps asking one question first: is there a pause between
 the two words? A daṇḍa, a "?", a "!", a comma, the dash of a speech frame, or the closing
 quotation mark before इति means a stop, and at a stop nothing joins. The heading's number
-stays in the teacher's notes (§22); the seven sūtras you read today (§15) all stand under it.
+stays in the teacher's notes (§22). Six of the seven sūtras you read today (§15) stand under it;
+the seventh, 1.1.11, is a definition in the first book, which a rule under the heading puts
+to work (§22).
 
 > **[TRADITION · परम्परा]** Hindi school grammar teaches the same joins in Hindi's
 > tatsama words, under three heads — स्वर-सन्धि, व्यञ्जन-सन्धि, विसर्ग-सन्धि — and sorts the
@@ -189,7 +191,8 @@ are the two places on today's map where two vowels stand side by side at a seam.
 > and compounds taken whole from Sanskrit: विद्यालय, हिमालय, सूर्योदय, परोपकार, सदैव,
 > स्वागत, नमस्ते. [REF:kachru2006]
 
-A Hindi speaker already says Sanskrit vowel sandhis — inside words. Today the same joins
+A Hindi speaker already says Sanskrit sandhis — inside words; all of these but नमस्ते, a
+visarga join (lesson 2), are vowel joins. Today the same joins
 happen between words.
 
 The course principle behind the lesson, with its one source: formulaic chunks are taught
@@ -276,7 +279,7 @@ the one that never joins. The names are grammar terms, not ledger words.
 के शब्द बनें।
 
 आज केवल स्वर-जोड़ जोड़े जाते हैं। विसर्ग वाले जोड़, जैसे रामः + अपि, दूसरे पाठ के हैं और
-व्यंजन वाले, जैसे अहम् + अपि, तीसरे के; आज की जुड़ी पंक्तियों में वे विराम-रूप में ही रहते
+व्यञ्जन वाले, जैसे अहम् + अपि, तीसरे के; आज की जुड़ी पंक्तियों में वे विराम-रूप में ही रहते
 हैं। इसीलिए आज की हर जुड़ी पंक्ति पर लिखा है: "joined so far" — अभी तक जितना सीखा, उतना
 जुड़ा।
 
@@ -300,7 +303,7 @@ has printed every line until today:
 > sunrise I go to school." — नमस्ते! स्वागत है! आज सूर्योदय पर मैं विद्यालय जाता हूँ।
 
 The second print is the same line with its vowel seams joined. A book would join more:
-अहम् and विद्यालयम् would change too, but those are seams of lessons 2 and 3. Today's print
+अहम् and विद्यालयम् would change too, but those are म् seams, lesson 3's. Today's print
 joins only what today teaches, and says so: "joined so far".
 
 ### Step 2 — the question
@@ -321,7 +324,7 @@ joined shape shows; then uncover and compare.
 | विद्यालयः · हिमालयः | v1.c06.l01 · v1.c04.l03 | विद्या-आलयः · हिम-आलयः | आ + आ, अ + आ → आ |
 | परोपकारः | v2.c06.l03 | पर-उपकारः | अ + उ → ओ |
 | स्वागतम् | v1.c05.l02 | सु-आगतम् | उ + आ → वा |
-| आगच्छत् · प्राविशत् · न्यवसत् | v3.c03.l03 ("their names are v3.c04.l01's") | आ-अगच्छत् · प्र-अविशत् · नि-अवसत् | inside the verb: अ + अ → आ; इ + अ → य |
+| आगच्छत् · प्राविशत् · न्यवसत् | v3.c03.l03 ("their names are v3.c04.l01's") | आ-अगच्छत् · प्र-अविशत् · नि-अवसत् | inside the verb: आ/अ + अ → आ; इ + अ → य |
 | अग्नये · गुरवे | v3.c02.l03 ("the course takes it up in v3.c04.l01") | अग्नि + ए · गुरु + ए | the strengthened ए, ओ before an ending: guṇa |
 | सोऽहम् | v1.c05.l05 | सः अहम् | an अ gone, marked ऽ |
 | "you will watch *a* meet *i* and become ए in live text" | v1.c02.l04 | — | the promise |
@@ -518,10 +521,11 @@ English and Hindi.
 > (sūryodaye bālakāḥ vidyālayam gacchanti.) "At sunrise the boys go to school." — सूर्योदय
 > पर लड़के विद्यालय जाते हैं।
 
-> **मूषकः सिंहस्य उपरि चलति।** — pause form
+> **एकः मूषकः सिंहस्य उपरि चलति।** — pause form
 >
-> **मूषकः सिंहस्योपरि चलति।** — joined so far
-> (mūṣakaḥ siṃhasyopari calati.) "The mouse walks over the lion." — चूहा शेर के ऊपर चलता है।
+> **एकः मूषकः सिंहस्योपरि चलति।** — joined so far
+> (ekaḥ mūṣakaḥ siṃhasyopari calati.) "A mouse walks over the lion." — एक चूहा शेर के ऊपर
+> चलता है।
 
 > **सदा एव सत्यम् वदेत्।** — pause form
 >
@@ -566,9 +570,9 @@ Step 8): सवर्णदीर्घः with आ and ई · गुणः with
 |---|---|---|---|---|---|
 | आलयः | ālayaḥ | /ɑːlɐjɐh/ | dwelling, abode, house | आलय, निवास | ledger-new — m. a-stem; the member of the owned विद्यालयः, हिमालयः counts now, as its own headword (ledger rule 10) — Apte s.v. आलयः "An abode, a house, a dwelling" |
 | उदयः | udayaḥ | /ud̪ɐjɐh/ | rising (of the sun, of a star) | उदय | ledger-new — m. a-stem; in सूर्योदयः, चन्द्रोदयः — MW s.v. udaya "going up, rising"; Apte s.v. उदयः |
-| ईशः | īśaḥ | /iːɕɐh/ | lord, master | ईश, स्वामी | ledger-new — m. a-stem; in गणेशः, from गण-ईशः — Apte s.v. ईश "master or lord of"; MW s.v. īśa "owner, lord, master" |
+| ईशः | īśaḥ | /iːɕɐh/ | lord, master | ईश, स्वामी | ledger-new — m. a-stem; in गणेशः, from गण-ईशः — Apte s.v. ईश "master or lord of"; MW s.v. īśa "a ruler, master, lord" |
 | इव | iva | /iʋɐ/ | like, as if | जैसे, की तरह | ledger-new — indeclinable, enclitic: never first in its clause (अग्निः इव "like fire", §16 turn 6); इति इव → इतीव — Apte s.v. इव "Like, as (showing upamā or comparison)" |
-| एव | eva | /eːʋɐ/ | only, just, indeed (stressing the word before it) | ही | ledger-new — indeclinable, enclitic; a display word through Volume 2 and v3.c01–c03 (v3.c03.l02 §14: "until v3.c04.l01 makes it a headword"); in सदैव, तत्रैव, गृह एव — MW s.v. eva "so, just so, exactly so" |
+| एव | eva | /eːʋɐ/ | only, just, indeed (stressing the word before it) | ही | ledger-new — indeclinable, enclitic; a display word through Volume 2 and v3.c01–c03 (v3.c03.l02 §13: "until v3.c04.l01 makes it a headword"); in सदैव, तत्रैव, गृह एव — MW s.v. eva "just, exactly, very, same, only, even, alone" |
 | वा | vā | /ʋɑː/ | or | या, अथवा | ledger-new — indeclinable, enclitic: it stands after the word it joins; वा इति → वेति — Apte s.v. वा "As an alternative conjunction it means 'or'; but its position is different in Sanskrit" |
 | सूर्यः | sūryaḥ | /suːɾjɐh/ | sun | सूर्य | **upgrade** — m. a-stem; सूर्य readable since v1.c05.l04, now in sentence dress; in सूर्योदयः; drilled, never counted (STYLE_GUIDE §8 rule 3) |
 
@@ -822,9 +826,10 @@ Your §8 Step 5 frame should now read: 1 आ, ई · 2 ए, ओ, अर् · 3 
 ### Step 9 — inside a word: observed, named later
 
 The same vowel grades appear inside words, between a stem and its ending or a prefix and its
-verb. One line each — inside a word, named in v3.c04.l04, rules Volume 4:
+verb. One line each — the prefix seams named today, the other inner-word changes named in
+v3.c04.l04, their rules Volume 4:
 
-- **The prefix seams** (v3.c03.l03): आ + अगच्छत् → आगच्छत्, अव + अगच्छत् → अवागच्छत्, प्र +
+- **The prefix seams** (v3.c03.l03; प्रायच्छत् v3.c03.l04): आ + अगच्छत् → आगच्छत्, अव + अगच्छत् → अवागच्छत्, प्र +
   अविशत् → प्राविशत्, उप + अविशत् → उपाविशत्, प्र + अयच्छत् → प्रायच्छत् are सवर्णदीर्घः; नि +
   अवसत् → न्यवसत् is यण्. (निरगच्छत्, निस् + अगच्छत्, is a visarga seam: lesson 2.)
 - **Guṇa and vṛddhi as grades:** the strengthened vowel of गुरवे and अग्नये, v3.c02.l03, is
@@ -1089,7 +1094,8 @@ them; then write each one joined so far. Model: अहम् अद्य तत
 right halves, one for the rule: a split with the right halves and no rule name earns half
 the mark. Score /20.
 
-2: (a)–(e) सवर्णदीर्घः, अ + अ → आ · (f) यण्, इ + अ → य. Score /6.
+2: (a)–(e) सवर्णदीर्घः, अ/आ + अ → आ — (a) is आ + अ, (b)–(e) अ + अ · (f) यण्, इ + अ → य.
+Score /6.
 
 3: (a) नावगच्छामि (b) तथास्तु (c) सदैव (d) ममौष्ठौ (e) इत्यवदत् (f) अप्येकः (g) नद्यस्ति (h)
 तेऽपि (i) त इच्छन्ति (j) बालिकाया अपि (k) पितरावपि (l) द्वे बालिके अत्र — no join: बालिके is
@@ -1223,7 +1229,7 @@ words); *agne 'tra* (6.1.109); *agnī iti, māle iti* (1.1.11) [REF:kashika 6.1.
 **What not to drill.** उ + उ — one display, सूक्तम्; ऋ + a vowel — कर्त्रर्थम्, display; a
 word-final ओ that is not from -अः — the vocative गुरो, where Whitney §134a says the texts vary;
 inner-word sandhi as rules (v4.c02); Vedic and optional exceptions (Whitney §§135c–d, 137,
-138d–g: Vedic v5.c03, optional v4). The -औ dual is not pragṛhya: if a learner leaves
+138d, 138g: Vedic v5.c03, optional v4). The -औ dual is not pragṛhya: if a learner leaves
 *पितरौ अपि apart, the fix is अयादि, पितरावपि. भवति = भो + अति is named in lesson 4, with the
 other inner-word changes; leave it alone today.
 
@@ -1235,8 +1241,8 @@ correction. The one correction made in learner text now is IR-017: इको य
 
 **The serial.** Episode 4 re-reads lines already printed; it adds no departure from the
 Hitopadeśa. The lines keep every departure their lessons state: the mouse's hole beside
-the tree (Chapter 1); the free dove's warning and the river bank (Chapter 2); the parents in
-the net and the king's rule in the optative (Chapter 3). Every pause-form line in the split
+the tree (Chapter 1); the free dove's warning and the parents in the net (Chapter 2); the
+warning set on the bank and the king's rule in the optative (Chapter 3). Every pause-form line in the split
 key is copied from the §17 of its source lesson as it stands on disk; the English and Hindi
 of each line are the source lesson's own [REF:hitopadesha mitralābha].
 
@@ -1389,10 +1395,9 @@ narrator reads the cue, not the English spelling.
   \*इतावदत्, \*इतेवदत्, \*इतीवदत्, \*तेऽगच्छन्ति, \*तेआगच्छन्ति. The §19 key (quiz, prompts,
   exercise keys, dictation, the §17 split key) stays in `<details>` in all renders.
 - **Verification flags for Pass C:** every joined form of §6, §8, §13, §15, §16, §17, §18,
-  §19 and §20 against the rule and Whitney §§126–138; the §5 quotation of §125 against the
-  printed Whitney (the local e-text reads "forbidden by the euphony of the later or
-  classical language"; the fact base row 0.1 quotes "the euphonic habit of the later
-  language" — confirm which the 1889 print has); §16a (the HISTORY avagraha line, no date);
+  §19 and §20 against the rule and Whitney §§126–138; the §5 quotation of §125 (the local
+  e-text of the 2nd ed. reads "forbidden by the euphony of the later or classical
+  language", as §5 quotes it; fact base row 0.1 corrected to match); §16a (the HISTORY avagraha line, no date);
   the seven sūtra texts against the Aṣṭādhyāyī data file and the Kāśikā (row 0.5), and
   6.1.72, 6.1.125, 8.3.19, 1.1.14, 1.1.15 in §22; [REF:guru1952] and [REF:kachru2006],
   cited bare (Kachru for the Hindi facts of §5 only); the evidence-table loci (table 0.F)
@@ -1400,7 +1405,7 @@ narrator reads the cue, not the English spelling.
   v3.c01.l04, v3.c02.l04, v3.c03.l02, v3.c03.l03, v3.c03.l04); the 1.x pp. 37–43 examples
   (row 0.28a, §22); the headwords against Apte and MW as cited in §14 (Apte's noun sense of
   उदयः to be quoted); the Hindi of every gloss, objective and of §7, §16 at Pass B.
-- **Register audit:** FACT ×13 (§5 Whitney §125, the Hindi tatsama fact · §15 scope and
+- **Register audit:** FACT ×11 (§5 Whitney §125, the Hindi tatsama fact · §15 scope and
   order, Steps 1–7 one each, Step 10 the heuristic) · HISTORY ×1 (§4 the avagraha in
   manuscripts and print, cited, no date) · TRADITION ×9 (§4 Pāṇini's heading, unnumbered;
   §4 Hindi school grammar; §15 the seven sūtras, each "According to Pāṇini's sūtra …") ·

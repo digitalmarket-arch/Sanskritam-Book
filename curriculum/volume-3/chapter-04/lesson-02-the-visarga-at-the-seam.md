@@ -17,11 +17,11 @@ prerequisites: [v3.c04.l01]
 review_of: [v3.c04.l01, v3.c03.l05, v1.c01.l01, v1.c05.l02, v2.c06.l02, v2.c06.l03, v2.c01.l01, v2.c01.l04, v1.c02.l01, v2.c03.l03, v1.c05.l04, v1.c05.l05, v1.c03.l04, v2.c05.l02, v3.c01.l03, v3.c01.l04]
 objectives:
   - en: "Split the owned joined shapes नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति and स गच्छति into their pause forms, and say which column (the vowel before the visarga) and which row (the sound after it) of the visarga map gives each."
-    hi: "अपने जाने-पहचाने जुड़े रूपों — नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति, स गच्छति — को विराम-रूप में अलग करें, और बताएँ कि विसर्ग-मानचित्र का कौन-सा स्तम्भ (विसर्ग से पहले का स्वर) और कौन-सी पंक्ति (उसके बाद की ध्वनि) हर रूप देती है।"
+    hi: "अपने जाने-पहचाने जुड़े रूपों — नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति, स गच्छति — को विराम-रूप में अलग करें, और बताएँ कि विसर्ग-मानचित्र का कौन-सा स्तम्भ — विसर्ग से पहले का स्वर — और कौन-सी पंक्ति — उसके बाद की ध्वनि — हर रूप देती है।"
   - en: "Join a word ending in ः to the word after it by the map — -अः, -आः, any other vowel + ः, the r-finals पुनः, प्रातः, अन्तः, and the special words सः, एषः, भोः."
     hi: "ः पर ख़त्म होने वाले शब्द को अगले शब्द से मानचित्र के अनुसार जोड़ें — -अः, -आः, कोई और स्वर + ः, र्-अन्त वाले पुनः, प्रातः, अन्तः, और विशेष शब्द सः, एषः, भोः।"
-  - en: "Explain, according to Pāṇini, नमस्ते as नमः + ते (8.3.34 विसर्जनीयस्य सः) and स गच्छति (6.1.132), and say why मनोरथः and नमस्कारः look as they do."
-    hi: "पाणिनि के अनुसार समझाएँ कि नमस्ते नमः + ते है (8.3.34 विसर्जनीयस्य सः) और स गच्छति क्यों (6.1.132), और बताएँ कि मनोरथः और नमस्कारः ऐसे क्यों दिखते हैं।"
+  - en: "Explain, according to Pāṇini, नमस्ते as नमः + ते — 8.3.34 विसर्जनीयस्य सः — and स गच्छति — 6.1.132 — and say why मनोरथः and नमस्कारः look as they do."
+    hi: "पाणिनि के अनुसार समझाएँ कि नमस्ते नमः + ते है — 8.3.34 विसर्जनीयस्य सः — और स गच्छति क्यों है — 6.1.132 — और बताएँ कि मनोरथः और नमस्कारः ऐसे क्यों दिखते हैं।"
   - en: "Read aloud, with no pause at the seams, a line joined at its vowel and visarga seams, and write one from dictation in both forms."
     hi: "स्वर और विसर्ग के जोड़ों पर जुड़ी पंक्ति बिना जोड़ों पर रुके ज़ोर से पढ़ें, और श्रुतलेख में उसे दोनों रूपों में लिखें।"
 new_letters: []
@@ -63,9 +63,9 @@ every visarga seam that Volumes 1 and 2 showed you and set aside.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Split the owned joined shapes नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति and स गच्छति into their pause forms, and say which column (the vowel before the visarga) and which row (the sound after it) of the visarga map gives each. | अपने जाने-पहचाने जुड़े रूपों — नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति, स गच्छति — को विराम-रूप में अलग करें, और बताएँ कि विसर्ग-मानचित्र का कौन-सा स्तम्भ (विसर्ग से पहले का स्वर) और कौन-सी पंक्ति (उसके बाद की ध्वनि) हर रूप देती है। |
+| 1 | Split the owned joined shapes नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति and स गच्छति into their pause forms, and say which column (the vowel before the visarga) and which row (the sound after it) of the visarga map gives each. | अपने जाने-पहचाने जुड़े रूपों — नमस्ते, कोऽपि, परमो धर्मः, पुनर्मिलामः, अनुगृहीतोऽस्मि, ईकारश्च, कालश्च, भो राम, गुरुर्वदति, स गच्छति — को विराम-रूप में अलग करें, और बताएँ कि विसर्ग-मानचित्र का कौन-सा स्तम्भ — विसर्ग से पहले का स्वर — और कौन-सी पंक्ति — उसके बाद की ध्वनि — हर रूप देती है। |
 | 2 | Join a word ending in ः to the word after it by the map — -अः, -आः, any other vowel + ः, the r-finals पुनः, प्रातः, अन्तः, and the special words सः, एषः, भोः. | ः पर ख़त्म होने वाले शब्द को अगले शब्द से मानचित्र के अनुसार जोड़ें — -अः, -आः, कोई और स्वर + ः, र्-अन्त वाले पुनः, प्रातः, अन्तः, और विशेष शब्द सः, एषः, भोः। |
-| 3 | Explain, according to Pāṇini, नमस्ते as नमः + ते (8.3.34 विसर्जनीयस्य सः) and स गच्छति (6.1.132), and say why मनोरथः and नमस्कारः look as they do. | पाणिनि के अनुसार समझाएँ कि नमस्ते नमः + ते है (8.3.34 विसर्जनीयस्य सः) और स गच्छति क्यों (6.1.132), और बताएँ कि मनोरथः और नमस्कारः ऐसे क्यों दिखते हैं। |
+| 3 | Explain, according to Pāṇini, नमस्ते as नमः + ते — 8.3.34 विसर्जनीयस्य सः — and स गच्छति — 6.1.132 — and say why मनोरथः and नमस्कारः look as they do. | पाणिनि के अनुसार समझाएँ कि नमस्ते नमः + ते है — 8.3.34 विसर्जनीयस्य सः — और स गच्छति क्यों है — 6.1.132 — और बताएँ कि मनोरथः और नमस्कारः ऐसे क्यों दिखते हैं। |
 | 4 | Read aloud, with no pause at the seams, a line joined at its vowel and visarga seams, and write one from dictation in both forms. | स्वर और विसर्ग के जोड़ों पर जुड़ी पंक्ति बिना जोड़ों पर रुके ज़ोर से पढ़ें, और श्रुतलेख में उसे दोनों रूपों में लिखें। |
 
 Objective 1 is built in §8 Steps 3–5 and §15 Steps 1–5 and tested in §18 (exercises 1 and 2)
@@ -173,7 +173,7 @@ word ते itself.
 वैज्ञानिकं विवरणम् — what the visarga is as a sound, and why it changes at a seam.
 
 > **[FACT · तथ्यम्]** The visarga is a voiceless /h/, the pause shape of a final s or r.
-> [REF:whitney1889 §145] [REF:whitney1889 §170]
+> [REF:whitney1889 §67] [REF:whitney1889 §145] [REF:whitney1889 §170]
 
 > **[FACT · तथ्यम्]** Before voiced sounds the final s is voiced as र् or absorbed (ओ, आ):
 > "Before a sonant, either vowel or consonant …, स् s is changed to the sonant र् r — unless,
@@ -183,7 +183,7 @@ word ते itself.
 > [REF:whitney1889 §177]
 
 > **[FACT · तथ्यम्]** Hindi has no visarga seams between its own words: the visarga stands
-> only in words taken whole from Sanskrit, and their joined shapes come in with them.
+> in words taken whole from Sanskrit, and their joined shapes come in with them.
 > [REF:kachru2006]
 
 Put the facts together and the map stops looking like a list. The sound under the ः is a
@@ -252,7 +252,8 @@ word.
 और एक तीसरा सवाल: कहीं शब्द सः या एषः तो नहीं?
 
 यहाँ दो शब्द काम आएँगे। अघोष ध्वनि वह है जिसमें गले में कम्पन नहीं होता — क, ख, च, छ,
-त, थ, प, फ, श, ष, स। घोष ध्वनि में कम्पन होता है — सारे स्वर, और ग, घ, ज, झ, द, ध, ब, भ,
+ट, ठ, त, थ, प, फ, श, ष, स। घोष ध्वनि में कम्पन होता है — सारे स्वर, और ग, घ, ज, झ, ड, ढ, द, ध,
+ब, भ,
 ङ, ञ, ण, न, म, य, र, ल, व, ह। गले पर हाथ रखकर "स" और "ज़" बोलिए; दूसरे में कम्पन महसूस
 होगा।
 
@@ -286,7 +287,8 @@ word.
 
 एक सावधानी: अन्तः "अन्दर" और अन्तः "अन्त" — जो पहले खण्ड के शब्द अन्त का प्रथमा रूप है —
 देखने में एक जैसे हैं। वाक्य बताता है कि कौन-सा है। अन्तरागच्छ "अन्दर आओ" में र् वाला
-अन्तः है; "अन्त" वाला अन्तः -अः शब्द की तरह जुड़ता है: अन्तो भवति।
+अन्तः है, जिसका विसर्ग र् है; "अन्त" वाले अन्तः का विसर्ग प्रथमा के स् का है, इसलिए वह -अः शब्द
+की तरह जुड़ता है: अन्तो भवति।
 
 **विशेष शब्द।** सः और एषः किसी भी व्यञ्जन से पहले अपना ः छोड़ देते हैं, घोष हो या अघोष:
 सः गच्छति → स गच्छति, सः करोति → स करोति, एषः बालकः → एष बालकः। स्वर से पहले वे साधारण
@@ -299,11 +301,11 @@ word.
 रथ है: र घोष व्यञ्जन है, इसलिए -अस् बना -ओ। मनः ठीक वैसे ही मनस् का विराम-रूप है जैसे नमः
 नमस् का; ऐसे शब्दों के पूरे रूप चौथे खण्ड में आएँगे।
 
-**हिन्दी से तुलना।** हिन्दी में विसर्ग केवल तत्सम शब्दों में मिलता है — प्रातः, अतः, दुःख,
+**हिन्दी से तुलना।** हिन्दी में विसर्ग तत्सम शब्दों में मिलता है — प्रातः, अतः, दुःख,
 नमः — और हिन्दी के अपने शब्दों के बीच विसर्ग-सन्धि नहीं होती। पर संस्कृत से ज्यों-के-त्यों
 आए समास अपना संस्कृत रूप साथ लाते हैं: मनोरथ, यानी मनः + रथ; नमस्कार; पुनर्जन्म, यानी
 पुनः + जन्म, जहाँ र्-अन्त वाला पुनः घोष ध्वनि से पहले र् रखता है; और निराशा, यानी निः +
-आशा। हिन्दी व्याकरण की स्कूली किताबें इन्हें विसर्ग सन्धि के उदाहरण बताती हैं। हिन्दी
+आशा। हिन्दी व्याकरण की स्कूली किताबें इन्हें विसर्ग-सन्धि के उदाहरण बताती हैं। हिन्दी
 बोलने वाले के लिए एक आदत ध्यान देने लायक़ है: नमस्ते हमें एक ही शब्द लगता है, उसमें जोड़
 सुनाई नहीं देता। आज उस जोड़ को देखिए: नमः + ते।
 
@@ -313,7 +315,7 @@ word.
 
 ## 8. English Explanation
 
-No new sound and no new sign: the lesson's load is one map with four columns and one pair of
+No new sound and no new sign: the lesson's load is one map with four columns and three
 special words, built from shapes you already own. The recipe is the volume's — a scene, the
 question, the forms you already own, the pattern named, your map, production. Every running
 line from here to §17 is printed **joined so far**: the vowel seams of lesson 1 and today's
@@ -482,8 +484,9 @@ sits beside them: today's बहिः "outside" is *bahis*, an s-final, but aft
 give the same result, so बहिः goes by column 3: बहिः गच्छति → बहिर्गच्छति, बहिः तिष्ठति →
 बहिस्तिष्ठति.
 
-Watch one homograph. अन्तः "inside" is *antar*. अन्तः "the end" is the nominative of अन्त,
-your word since v1.c05.l02, an ordinary -अः word: it joins as अन्तो भवति. The sentence tells
+Watch one homograph. अन्तः "inside" is *antar*: its visarga stands for र्. अन्तः "the end" is
+the nominative of अन्त, your word since v1.c05.l02: its visarga stands for the स् of the
+nominative ending, so it is an ordinary -अः word and joins as अन्तो भवति. The sentence tells
 you which one you have (§12, mistake 5).
 
 **The special words.** Three words break the columns, and you own all three: सः and एषः,
@@ -603,8 +606,8 @@ short, with no trace of the lost अ.
 
 सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.
 
-1. **The visarga left before त: \*नमःते, \*कःत्वम्.** *Fix:* before त, थ the visarga is स्
-   (8.3.34): नमस्ते, कस्त्वम्.
+1. **The visarga left before त: \*नमःते, \*कःत्वम्.** *Fix:* before त, थ the visarga is स्, by
+   8.3.34: नमस्ते, कस्त्वम्.
 2. **Closing the gap after -अः, -आः: \*रामागच्छति for राम आगच्छति, \*छात्रागच्छन्ति for
    छात्रा आगच्छन्ति.** *Fix:* the visarga goes and the gap stays (Whitney §175c, §177).
 3. **सः treated like other -अः words: \*सो गच्छति, \*सः गच्छति in joined text.** *Fix:*
@@ -704,9 +707,9 @@ your word.
    and before प stays. शनैश्शनैः, with the doubled sibilant, is also correct.
 </details>
 
-Line 1 shows तु at work: it never opens a sentence, and it stands after the first word, so its
+Line 1 shows तु at work: it never opens a sentence, and it usually stands after the first word, so its
 seam with that word is the -ः + त of नमस्ते. Line 4 has two seams side by side, both र्. Line
-6 is the honest one: four visargas, and none of them changes, because each stands before a
+6 is the honest one: three visargas, and none of them changes, because each stands before a
 sound that lets it stand.
 
 ## 14. Vocabulary
@@ -728,7 +731,7 @@ column 5, the other-vowel column 6, the r-finals 6, सः/एषः 2.
 | अन्तः | antaḥ | /ɐn̪t̪ɐh/ | inside, within | अन्दर, भीतर | ledger-new — indeclinable; an r-final, *antar*: अन्तरागच्छ — MW s.v. antar "within, between, amongst, in the middle or interior". **Homograph:** not अन्तः "end", the nominative of the owned अन्त, v1.c05.l02; see §12, mistake 5 |
 | उच्चैः | uccaiḥ | /ut͡ɕt͡ɕɐi̯h/ | loudly; high, aloft | ऊँचे स्वर में, ज़ोर से; ऊँचा | ledger-new — indeclinable; an s-final after ऐ: उच्चैर्वदति — Apte s.v. उच्चैः "Aloft, high, on high, above, upwards", and sense 2, "Loudly, with a loud noise" |
 | शनैः | śanaiḥ | /ɕɐn̪ɐi̯h/ | slowly, gently; gradually | धीरे, धीरे-धीरे | ledger-new — indeclinable; an s-final after ऐ; doubled, शनैः शनैः "slowly, slowly" — Apte s.v. शनैस् "Slowly, gently, quietly. Gradually, by degrees, little by little". Probably related to the owned शनिवासरः; see §22 |
-| तु | tu | /t̪u/ | but, however; (stressing) as for | किन्तु, पर, तो | ledger-new — indeclinable, enclitic: second in its clause, never first; the -ः + त seam: रामस्तु, छात्रास्तु — MW s.v. tu "but"; Apte s.v. तु, "An adversative particle meaning 'but'" |
+| तु | tu | /t̪u/ | but, however; (stressing) as for | किन्तु, पर, तो | ledger-new — indeclinable, enclitic: never first in its clause, usually second; the -ः + त seam: रामस्तु, छात्रास्तु — MW s.v. tu "but"; Apte s.v. तु, "An adversative particle meaning 'but'" |
 
 Three notes. नमस्ते, कोऽपि, पुनर्मिलामः and every other joined shape of today add 0 to the
 ledger: sandhi spellings never count (STYLE_GUIDE §8 rule 11), and नमस्ते stays counted from
@@ -775,7 +778,7 @@ cell unless it is marked.
 
 | Before … | -अः | -आः | other vowel + ः: -इः -उः -एः -ऐः -ओः | r-finals after अ/आ: पुनः, प्रातः, अन्तः |
 |---|---|---|---|---|
-| क ख प फ, or a pause | ः stays — रामः करोति · व्याधः क्रुद्धः · पुनः पुनः | ः — छात्राः पठन्ति | ः — गुरुः पठति | ः — प्रातः पठति |
+| क ख प फ, or a pause | ः stays — रामः करोति · व्याधः क्रुद्धः | ः — छात्राः पठन्ति | ः — गुरुः पठति | ः — प्रातः पठति · पुनः पुनः |
 | च छ | श् — रामश्च · कालश्च · ईकारश्च | -आश्च — दन्ताश्च | -इश्च — हरिश्च · गुरुश्च | -श्च — पुनश्च |
 | ट ठ | ष् — named once, not drilled | -आष्- | -इष्- | -ष्- |
 | त थ | स् — नमस्ते · कस्त्वम् · व्याधस्तत्र | -आस्त- — कपोतास्तत्र · नद्यास्तीरे | -इस्त- — हरिस्तत्र · बहिस्तिष्ठति | -स्त- — पुनस्तत्र · अन्तस्तिष्ठति |
@@ -808,7 +811,7 @@ so ओ and आ, as before ग or व.
 | प्रातः | *prātar*, r-final | प्रातरेव · प्रातर्गच्छति | like पुनः | like पुनः |
 | अन्तः "inside" | *antar*, r-final | अन्तरागच्छ | अन्तस्तिष्ठति | like पुनः |
 | बहिः | *bahis*, s-final after इ | बहिर्गच्छति | बहिस्तिष्ठति | like हरिश्च |
-| अन्तः "the end", of अन्त | *antas*, an -अः word | अन्तो भवति | like नमस्ते | like रामश्च |
+| अन्तः "the end", the nominative of अन्त | its visarga stands for the स् of the nominative ending, so an -अः word | अन्तो भवति | like नमस्ते | like रामश्च |
 
 The last row is the homograph: the same letters, a different word, a different column.
 
@@ -866,7 +869,7 @@ derivative of √kṛ the स् is kept (§171b). Compounds as a system — and
 
 ### Step 7 — the Hindi bridge, stated exactly
 
-> **[FACT · तथ्यम्]** Hindi keeps the visarga only in tatsama words (प्रातः, अतः, दुःख, नमः)
+> **[FACT · तथ्यम्]** Hindi keeps the visarga in tatsama words (प्रातः, अतः, दुःख, नमः)
 > and has no visarga seams between Hindi words; its tatsama compounds keep the Sanskrit
 > shapes: मनोरथ, मनः + रथ; नमस्कार; पुनर्जन्म, पुनः + जन्म, the r-final before a voiced
 > sound; निराशा, निः + आशा. [REF:kachru2006]
@@ -1205,7 +1208,7 @@ sentence by the map.
 > keeps its स्: the exception. **The two sūtras:** 8.3.34 विसर्जनीयस्य सः — the visarga is
 > replaced by स् before a voiceless consonant; 6.1.132 — the ः of सः and एषः drops before a
 > consonant. **The नमस्ते thread so far:** step 1, नमः takes the dative (गुरवे नमः); step 2,
-> नमः + ते → नमस्ते. **Hindi:** the visarga only in tatsama words, and no visarga seams between
+> नमः + ते → नमस्ते. **Hindi:** the visarga in tatsama words, and no visarga seams between
 > Hindi words; मनोरथ, नमस्कार, पुनर्जन्म, निराशा keep the Sanskrit shapes. **The ledger:** six
 > new — 451; cells drilled: 26.
 
@@ -1269,8 +1272,8 @@ with the lengthening, by 8.3.14 रो रि and 6.3.111 ढ्रलोपे 
 before vowels
 [REF:ashtadhyayi 8.3.17] [REF:ashtadhyayi 8.3.22] [REF:ashtadhyayi 8.3.19]; for नमस्कारः, 8.3.40
 नमस्पुरसोर्गत्योः [REF:ashtadhyayi 8.3.40]; for the ट row, 8.4.41 ष्टुना ष्टुः
-[REF:ashtadhyayi 8.4.41]. The Kāśikā on 8.3.34 carries *khari* down from the sūtra before it
-(*khari parataḥ*), which is why the learner line says "before a voiceless consonant"
+[REF:ashtadhyayi 8.4.41]. The Kāśikā on 8.3.34 carries *khari* down from 8.3.15 (*khari ity anuvartate … khari
+parataḥ*), which is why the learner line says "before a voiceless consonant"
 [REF:kashika 8.3.34]. 6.1.132 does not apply when the word is सकः, or in a compound with अ-
 "not" (the sūtra's अकोः अनञ्समासे): no example is drilled. No number other than these appears
 here, and none but 8.3.34 and 6.1.132 in learner text.
@@ -1286,8 +1289,9 @@ and accepts the doubled sibilant before श ष स, Whitney §172.
 a seam there; do not invent one.
 
 **The homograph अन्तः.** Teach it with the two sentences side by side: अन्तरागच्छ "come in"
-and अन्तो भवति "the end comes". The first is *antar*, today's headword; the second the
-nominative of the owned अन्त. A learner who joins \*अन्तोगच्छ for "come in" has chosen the
+and अन्तो भवति "the end comes". The first is *antar*, today's headword, whose visarga stands
+for र्; the second the nominative of the owned अन्त, whose visarga stands for the स् of the
+nominative ending. A learner who joins \*अन्तोगच्छ for "come in" has chosen the
 wrong word, not the wrong rule.
 
 **गुरुः + रक्षति.** The र + र row is ◐: गुरू रक्षति, never \*गुरुर्रक्षति. Show it on the board
@@ -1400,8 +1404,8 @@ narrator reads the cue, not the English spelling.
 - **01:20** You own more of these. ko 'pi [koːpi], no one. paramo dharmaḥ [pɐɾɐmoː d̪ʱɐɾmɐh],
   the highest dharma. punar milāmaḥ [pun̪ɐɾmilɑːmɐh], we meet again. One sound, many faces.
 - **02:20** Two questions settle every one. What vowel comes before the visarga? What sound
-  comes after it? After a, before a voiced sound, it becomes o. After i or u, it becomes r:
-  gurur vadati [guɾuɾʋɐd̪ɐt̪i].
+  comes after it? After a, before a voiced consonant or a short a, it becomes o. After i or
+  u, before a voiced sound, it becomes r: gurur vadati [guɾuɾʋɐd̪ɐt̪i].
 - **04:10** And two small words keep a rule of their own: saḥ and eṣaḥ drop the breath before
   any consonant — sa gacchati, he goes.
 - **05:20** Three questions, one map, and six new words: four hundred and fifty-one.
@@ -1485,7 +1489,7 @@ narrator reads the cue, not the English spelling.
   reword; the 1.x visarga pages (pp. 71–73) re-derived before any example prints (§22); the
   Hindi of every gloss, of §7 and of §16 at Pass B; the pointer to v3.c05.l01 (the thread's
   step 3), a lesson not yet on disk.
-- **Register audit:** FACT ×13 (§5 ×4: the visarga as a sound, the voiced shapes, Hindi,
+- **Register audit:** FACT ×12 (§5 ×4: the visarga as a sound, the voiced shapes, Hindi,
   spacing · §8 the नमस्ते thread, मनः/मनोरथः, नमस्कारः · §15 the map, the r-finals, the special
   words, र + र, the Hindi bridge) · TRADITION ×4 (§4 Pāṇini's visarga · §8 8.3.34 and 6.1.132 ·
   §15 Step 7 Hindi school grammar) · SYMBOL ×1 (§4 the modern reading of नमस्ते, never

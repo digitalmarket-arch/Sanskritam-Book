@@ -26,6 +26,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 - **v1.c03.l04 §14 (the मनः row)** promised the "full noun story" of मनस् in Volume 3. The
   Volume 3 plan teaches its seam in v3.c04.l02 and leaves the declension of s-stems to
   Volume 4 (v4.c05); the line now says so.
+- **v3.c03.l05 §20 (a Station 0 booking)** printed the four example forms in a parenthesis
+  directly after the Devanagari word विधिलिङ्, where only IAST may stand; they now follow a
+  dash. v3.c04.l01, which runs that booking, carries the same wording.
 
 ## [0.15.0] — 2026-11-10
 

@@ -1179,7 +1179,7 @@ is a pass.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
-- +1 day: five verbs in the four lakāras — गच्छति, लभते, अस्ति, करोति and वदति, each said and written in the 3rd person singular of लट्, लङ्, लोट् and विधिलिङ् (गच्छति · अगच्छत् · गच्छतु · गच्छेत्); v3.c04.l01's Station 0 runs exactly this.
+- +1 day: five verbs in the four lakāras — गच्छति, लभते, अस्ति, करोति and वदति, each said and written in the 3rd person singular of लट्, लङ्, लोट् and विधिलिङ् — गच्छति · अगच्छत् · गच्छतु · गच्छेत्; v3.c04.l01's Station 0 runs exactly this.
 - +1 week: the tense switch, reversed — the crow story as you told it in the imperfect in the exam (task B) told back in the present, line by line (एकः काकः आसीत् → एकः काकः अस्ति); v3.c04.l02's Station 0 runs exactly this.
 - **Monthly until Volume 3 ends:** one story told aloud, one saying recited with its source, the nine askers once.
 
