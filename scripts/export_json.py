@@ -5,9 +5,13 @@ For each curriculum/**/lesson-*.md:
   json/volume-N/<id>.json   — frontmatter + sections[] + vocabulary[] + quiz + registers[]
 Also writes json/index.json — catalog with prerequisite graph.
 
+Only lessons whose status is `reviewed` or `published` are exported, so a draft that is
+still being written never reaches the exports (the website build follows the same rule).
+
 Usage:
-    python3 scripts/export_json.py            # write exports
-    python3 scripts/export_json.py --check    # verify exports are current (CI mode)
+    python3 scripts/export_json.py                    # write exports
+    python3 scripts/export_json.py --check            # verify exports are current (CI mode)
+    python3 scripts/export_json.py --include-drafts   # also export draft / in_review lessons
 """
 from __future__ import annotations
 
@@ -111,6 +115,7 @@ def export_lesson(path: Path) -> dict | None:
 
 def main(argv: list[str]) -> int:
     check = "--check" in argv
+    include_drafts = "--include-drafts" in argv
     out_root = REPO / "json"
     lessons = sorted((REPO / "curriculum").rglob("lesson-*.md"))
     index = {"generated_by": "scripts/export_json.py", "lessons": []}
@@ -122,6 +127,8 @@ def main(argv: list[str]) -> int:
             print(f"skip (no front matter): {lesson_path}")
             continue
         fm = data["frontmatter"]
+        if not include_drafts and fm.get("status") not in ("reviewed", "published"):
+            continue
         out_path = out_root / f"volume-{fm['volume']}" / f"{fm['id']}.json"
         payload = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
         if check:

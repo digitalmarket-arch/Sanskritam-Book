@@ -24,6 +24,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 - **STYLE_GUIDE §3.1:** the stops that sandhi does not cross now include the question mark,
   the exclamation mark and the comma, and the word before a stop stands in its pause form.
+- **`scripts/export_json.py`** exports only lessons whose status is `reviewed` or
+  `published`, as the website build already does; `--include-drafts` exports the rest too.
+  A draft that is still being written no longer reaches `json/`.
 
 ### Fixed
 
