@@ -11,7 +11,7 @@ chapter: 5
 lesson: 5
 lesson_type: review
 cefr: A2
-duration_minutes: 45  # the sitting alone; Station 0 (§3, about 8 min) runs before it and outside its 45, so the room time is about 53 min
+duration_minutes: 45  # the sitting alone; Station 0 (§3, about 15 min) runs before it and outside its 45, so the room time is about 60 min
 self_study_minutes: 45  # 15 before the sitting (§3 read through, the §15 assembly page, §16 aloud) and 30 after it (the §19 quiz, the check against the keys, task D re-read aloud joined and recorded, the remediation exercise of any task below its mark, the real-world task)
 prerequisites: [v3.c05.l04]
 review_of: [v3.c05.l01, v3.c05.l02, v3.c05.l03, v3.c05.l04, v3.c04.l05, v3.c03.l05, v3.c02.l05, v2.c06.l01]
@@ -79,12 +79,12 @@ is taken in the self-study session, after the sitting.
 
 ## 3. Previous Lesson Review
 
-पुनरावृत्तिः — Station 0, about eight minutes, runs in the room before the exam sitting and
-outside its 45 minutes, so you are in the room for about 53 minutes: two booked items, then one
+पुनरावृत्तिः — Station 0, about fifteen minutes, runs in the room before the exam sitting and
+outside its 45 minutes, so you are in the room for about 60 minutes: two booked items, then one
 minute of four quick prompts, one from each lesson of the chapter. Everything from memory
 *before* any key opens: retrieval practice beats re-reading for long-term retention
 [REF:roediger2006]. The teacher collects the station sheets and logs the scores after the
-sitting, so no minute of the eight goes to bookkeeping.
+sitting, so no minute of the fifteen goes to bookkeeping.
 
 ### Station 0 — lesson 4's +1-day and lesson 3's +1-week arrive
 
@@ -95,14 +95,14 @@ due, scores logged beside the earlier ones [REF:cepeda2006].
 
 - +1 day: ten vigrahas — परोपकारः, हिमालयः, समुद्रतीरम्, सभामध्ये, अमृततुल्यम्, सिंहमूषकौ, गुरुशिष्यौ, चित्रवनम्, कमलमुकुलम् and जलपात्रम्, each resolved into its phrase with the case of every member named; v3.c05.l05's Station 0 runs exactly this.
 
-Three minutes. Write each vigraha in pause form, and above each member the case, in short:
+Seven minutes. Write each vigraha in pause form, and above each member the case, in short:
 nom., gen., instr. One line per compound; no sentence is needed.
 
 **Item 2 — from v3.c05.l03.** Lesson 3 booked its +1-week for today:
 
 - +1 week: relative pairs — six sentences of your own about the doves and the mouse, one each with यः … सः, या … सा, यत् … तत्, यत्र … तत्र, यदा … तदा and यथा … तथा, written joined with the pause form beneath; v3.c05.l05's Station 0 runs exactly this.
 
-Four minutes. Keep each sentence short, five or six words, the relative clause first. Write the
+Seven minutes. Keep each sentence short, five or six words, the relative clause first. Write the
 joined line, then its pause form beneath. Where a relative clause ends in -न्, close it with a
 comma before the correlative.
 
@@ -110,7 +110,7 @@ comma before the correlative.
 
 Answer aloud, then in one written word or line: (1) **from v3.c05.l01:** say a short sentence
 with मे in it. (2) **from v3.c05.l02:** give the genitive plural of सा. (3) **from
-v3.c05.l03:** give the correlative of यथा. (4) **from v3.c05.l04:** join पर-उपकारः into one
+v3.c05.l03:** give the correlative of यथा. (4) **from v3.c05.l04:** join सूर्य-उदयः into one
 word. None of the four is an exam item.
 
 The other lessons this exam reviews are reached in the sitting itself: v3.c04.l05, the sandhi
@@ -126,7 +126,7 @@ was — "there was one …" — and by the +1-day item of §20, which reads it a
   · समुद्रस्य तीरम् — gen. + nom. · सभायाः मध्ये — gen. + loc. (the compound itself is in the
   locative) · अमृतेन तुल्यम् — instr. + nom., or अमृतस्य तुल्यम् — gen. + nom. · सिंहः च मूषकः
   च — nom. + nom. · गुरुः च शिष्यः च — nom. + nom. · चित्रम् वनम् — both nom. · कमलस्य मुकुलम्
-  — gen. + nom. · जलस्य पात्रम् — gen. + nom.; जलाय पात्रम्, dat., is also right. Score /20:
+  — gen. + nom. · जलस्य पात्रम् — gen. + nom.; a dative, जलाय पात्रम्, is not right (l04 §19, exercise 1). Score /20:
   one for each vigraha, one for each set of cases. 15/20 is a pass. → v3.c05.l04 §15 Step 3.
 - **Item 2.** Any six correct sentences. Check each: the relative first; the correlative of the
   same gender and number as the noun they point to; each pronoun in the case of its own clause;
@@ -134,7 +134,7 @@ was — "there was one …" — and by the +1-day item of §20, which reads it a
   ends in -न्; the pause form beneath. The main clause first is good Sanskrit and earns the
   point too. Score /6, one per sentence; 5/6 is a pass. → v3.c05.l03 §15, the relative sentence.
 - **Stations 1–4.** (1) Any sentence with मे after at least one word: फलं मे रोचते, गुरुर्मे
-  पिता; \*मे फलं रोचते, with मे first, is wrong. (2) तासाम्. (3) तथा. (4) परोपकारः — अ + उ → ओ,
+  पिता; \*मे फलं रोचते, with मे first, is wrong. (2) तासाम्. (3) तथा. (4) सूर्योदयः — अ + उ → ओ,
   गुणः. One point each. A slip sends you to v3.c05.l01 §15 (the short forms: the rule), v3.c05.l02
   §15 Step 1, v3.c05.l03 §14 (the grid) and v3.c05.l04 §15 Step 1 (rule 3).
 </details>
@@ -172,7 +172,7 @@ form "According to Pāṇini".
 > [REF:guru1952]
 
 The exam asks for the tradition's four. A karmadhāraya named "तत्पुरुषः" is not wrong, since it
-is a kind of tatpuruṣa; the keys accept it with half the kind's mark (§19).
+is a kind of tatpuruṣa; the keys accept it and give it the kind's ½ (§19).
 
 > **[FACT · तथ्यम्]** The demonstrative तद् has सः and सा in the nominative singular masculine
 > and feminine, and forms from त- everywhere else: two stems in one table, not a sound change.
@@ -259,8 +259,8 @@ word परीक्षा stands only in the heading: read it whole; it is not 
 
 आज कोई नया शब्द नहीं, कोई नया नियम नहीं। आज पाँचवें अध्याय की परीक्षा है — एक बैठक,
 पैंतालीस मिनट, पाँच कार्य, और किताब बन्द: न नोट्स, न तालिकाएँ, न कोई पाठ खुला। बैठक से पहले
-लगभग आठ मिनट की पुनरावृत्ति [Station 0] होती है, जो इन पैंतालीस मिनटों में नहीं गिनी जाती;
-इसलिए कक्षा में आप लगभग तिरपन मिनट रहेंगे।
+लगभग पन्द्रह मिनट की पुनरावृत्ति [Station 0] होती है, जो इन पैंतालीस मिनटों में नहीं गिनी जाती;
+इसलिए कक्षा में आप लगभग साठ मिनट रहेंगे।
 
 इस अध्याय ने चार चीज़ें आपकी बनाईं। पहली — पुरुषवाचक सर्वनाम: अहम् और त्वम् के एकवचन के सब
 रूप, बहुवचन के चार रूप [प्रथमा, द्वितीया, तृतीया, षष्ठी], और चार लघु रूप मे, ते, नः, वः, जो
@@ -274,8 +274,8 @@ word परीक्षा stands only in the heading: read it whole; it is not 
 तीसरी — अव्यय: अत्र, तत्र, यत्र, कुत्र की पूरी तालिका; च, वा, हि, तु, जो वाक्य में पहले नहीं
 आते; और सम्बन्धवाचक वाक्य — यः … सः, यत्र … तत्र, यदा … तदा, यथा … तथा — ठीक हिन्दी के
 जो … वह, जहाँ … वहाँ, जब … तब, जैसे … वैसे की तरह। अन्तर दो हैं: संस्कृत में यः, या, यत् लिंग
-दिखाते हैं; और हर सर्वनाम अपने ही उपवाक्य की विभक्ति लेता है — या बालिका गृहेऽस्ति, तां माता
-पश्यति जैसे वाक्य में या प्रथमा है और ताम् द्वितीया। चौथी — समास: पहला पद मूल रूप में, विभक्ति
+दिखाते हैं; और हर सर्वनाम अपने ही उपवाक्य की विभक्ति लेता है — यं कपोतं व्याधः पश्यति, स जाले
+पतति जैसे वाक्य में यम् द्वितीया है और सः प्रथमा। चौथी — समास: पहला पद मूल रूप में, विभक्ति
 केवल अन्तिम पद पर, भीतर भी सन्धि, और समझ विग्रह से। चार भेद — द्वन्द्व, तत्पुरुष, कर्मधारय,
 बहुव्रीहि — और पहचान की एक कसौटी: समास वस्तु को ही बताता है, या किसी ऐसे को जिसके पास वह
 वस्तु है?
@@ -294,7 +294,7 @@ word परीक्षा stands only in the heading: read it whole; it is not 
 में; और हिन्दी "हम" एक व्यक्ति के लिए भी चलता है, जबकि यह पाठ्यक्रम वयम् केवल तीन या अधिक के
 लिए लिखता है — कार्य A का सातवाँ वाक्य यही परखता है।
 
-आज के पाँच कार्य: A — वाक्यों में रेखांकित संज्ञा की जगह सही सर्वनाम-रूप, और एक प्रश्न
+आज के पाँच कार्य: A — वाक्यों में कोष्ठक में बताई गई संज्ञा की जगह सही सर्वनाम-रूप, और एक प्रश्न
 विभक्ति का [आठ मिनट]; B — छह वाक्य-युग्मों को सम्बन्धवाचक और सहसम्बन्धी से एक वाक्य बनाना,
 जुड़े रूप में [सात मिनट]; C — दस समासों का प्रकार और विग्रह, विभक्तियों सहित [नौ मिनट]; D —
 कबूतरों और चूहे पर एक नया जुड़ा अनुच्छेद, देखते ही पढ़कर दस प्रश्नों के उत्तर [दस मिनट]; E —
@@ -339,7 +339,7 @@ Cover the last column and say which lesson opened each word; then uncover.
 | वर्णमाला; जलज | v1.c01.l02; v1.c03.l02 | l04 — a tatpuruṣa with its vigraha; जलज on the recognition card |
 
 Now the scene. Line 1 holds lesson 3's pair यदा … तदा and lesson 2's सर्वे, the masculine plural
-that follows ते, not रामाः. Line 2 holds lesson 2's तस्य, lesson 4's dvandva मातापितरौ, in the
+that follows ते, not रामाः. Line 2 holds lesson 2's तस्य, lesson 4's compound मातापितरौ, in the
 dual with a dual verb, and lesson 1's भवन्तम्, the accusative of भवान्. Every seam is Chapter 4's:
 गुरुः before a vowel → गुरुर्, छात्राः before a vowel → छात्रा and a gap, भवन्तम् before a
 consonant → ं.
@@ -434,8 +434,8 @@ retroflex, then the tongue moves forward for /j/.
 
 **Task D's joined blocks, for §21 item 6:** नद्यास्तीरे /n̪ɐd̪jɑːst̪iːɾeː/ · कपोतानामेको
 /kɐpoːt̪ɑːn̪ɑːmeːkoː/ · विवर एवातिष्ठत् /ʋiʋɐɾɐ eːʋɑːt̪iʂʈʰɐt̪/ — a gap after विवर, two vowels
-one after the other, no glide · पाशबद्धान्कपोतान् /pɑːɕɐbɐd̪d̪ʱɑːn̪kɐpoːt̪ɑːn̪/ · कपोताश्च
-/kɐpoːt̪ɑːɕt͡ɕɐ/.
+one after the other, no glide · पाशबद्धान्कपोतान् /pɑːɕɐbɐd̪d̪ʱɑːn̪kɐpoːt̪ɑːn̪/ · मुक्ता अभवन्
+/mukt̪ɑː ɐbʱɐʋɐn̪/ — a gap after मुक्ता.
 
 **Narrow note — the long आ of भवान्.** /bʱɐʋɑːn̪/ against the vocative भवन् /bʱɐʋɐn̪/: the length
 alone separates "you, sir" from "O sir". In task E, write and say भवान् with the full /ɑː/.
@@ -518,7 +518,7 @@ Read the sentence, ask gender, number and case, then write the cell.
 
 ### Task B's kind — two sentences, one
 
-> कपोतः आकाशे अस्ति। तम् व्याधः पश्यति। — the pair, in pause form
+> कपोतः आकाशे अस्ति। तम् व्याधः पश्यति। (kapotaḥ ākāśe asti. tam vyādhaḥ paśyati.) — the pair, in pause form
 > यः कपोत आकाशेऽस्ति तं व्याधः पश्यति। (yaḥ kapota ākāśe 'sti taṃ vyādhaḥ paśyati.)
 > यः कपोतः आकाशे अस्ति तम् व्याधः पश्यति। (yaḥ kapotaḥ ākāśe asti tam vyādhaḥ paśyati.)
 > "The hunter sees the dove that is in the sky." — जो कबूतर आकाश में है, उसे शिकारी देखता है।
@@ -527,7 +527,7 @@ Read the sentence, ask gender, number and case, then write the cell.
 2). The seams: यः before क keeps its ः; कपोतः before आ → कपोत and a gap; आकाशे + अस्ति → आकाशेऽस्ति;
 तम् before व → तं.
 
-> मूषकः आगच्छति। तदा कपोताः हसन्ति। — the pair, in pause form
+> मूषकः आगच्छति। तदा कपोताः हसन्ति। (mūṣakaḥ āgacchati. tadā kapotāḥ hasanti.) — the pair, in pause form
 > यदा मूषक आगच्छति तदा कपोता हसन्ति। (yadā mūṣaka āgacchati tadā kapotā hasanti.)
 > यदा मूषकः आगच्छति तदा कपोताः हसन्ति। (yadā mūṣakaḥ āgacchati tadā kapotāḥ hasanti.)
 > "When the mouse comes, the doves laugh." — जब चूहा आता है, तब कबूतर हँसते हैं।
@@ -552,7 +552,7 @@ not wit, he is someone who has little of it (l04 §15 Step 4; l04 §16).
 > का मित्र है।
 
 Questions of the three kinds task D asks, with their answers: a content question,
-मूषकः कुत्र निवसति? (mūṣakaḥ kutra nivasati?) — pause form मूषकः कुत्र निवसति? — answer: विवरे.
+मूषकः कुत्र निवसति? (mūṣakaḥ kutra nivasati?) — pause form मूषकः कुत्र निवसति? (mūṣakaḥ kutra nivasati?) — answer: विवरे.
 A pronoun question: to whom does स refer? — मूषकः. A spiral question: which lakāra is निवसति? —
 लट्, the present, 3rd person singular.
 
@@ -597,8 +597,8 @@ Review words on duty today, no rows: the tasks' nouns and verbs (अर्जु
 छात्रः, बालकः, बालिका, माता, पुस्तकम्, गृहम्, हस्तः, विद्यालयः, वृक्षः, नदी, व्याधः, सिंहः,
 मूषकः, कपोतः, नृपः, जालम्, आकाशः, तीरम्, विवरम्, समीपम्, पाशः, दन्तः, नाम; गच्छति, पश्यति,
 पठति, ददाति, अस्ति, वदति, निवसति, तिष्ठति, क्रीडति, स्वपिति, धावति, पतति, आगच्छति, कृन्तति,
-भवति, उवाच), the adjectives विशालः, बद्धः, मुक्तः, and the indeclinables पुरा, एकदा, अतः, ततः,
-सह, एव, बहिः, च, किमर्थम्, कुत्र. Grammar terms, not ledger words (GLOSSARY, §27): सर्वनाम, अव्ययम्,
+भवति, उवाच), the adjectives विशालः, बद्धः, मुक्तः, and the indeclinables पुरा, एकदा, यतः, ततः, उच्चैः, शीघ्रम्,
+सह, एव, बहिः, च, कुत्र. Grammar terms, not ledger words (GLOSSARY, §27): सर्वनाम, अव्ययम्,
 निपातः, उपसर्गः, समासः, विग्रहः, द्वन्द्वः, तत्पुरुषः, कर्मधारयः, बहुव्रीहिः, and the case names
 प्रथमा … सप्तमी. Display only, never counted: the title word परीक्षा; the names चित्रग्रीवः and
 हिरण्यकः, gloss-line items; in §17, हिंसा "harming" inside अहिंसा, and आमयः "illness" and
@@ -794,8 +794,8 @@ Housekeeping. Turn 2: ह्यः "yesterday" (v2.c03.l03) before the voiced �
 पठति [Chapter 3]. Turn 3: समासान् ends in a consonant, so it is written together with न, and
 nothing changes in the sound; समासाः is a grammar term used in a Sanskrit line, as in l04 §16,
 not a ledger word. Turn 4: मा + एवम् → मैवम्, वृद्धिः, and एवम् before व takes ं; यः पठति स
-जानाति is l03's first model sentence. Turn 5: हि stands second, never first; प्रियमित्रम् is a
-karmadhāraya, a word you met in l04 §17. Turn 7: नमो वः is the plural greeting of l01, the गुरुः
+जानाति is l03's first model sentence. Turn 5: हि stands second, never first; प्रियमित्रम् is one
+word, read whole here (l04 §17). Turn 7: नमो वः is the plural greeting of l01, the गुरुः
 speaking to two students and the room; उपविशत is the 2nd plural imperative (v3.c03.l04). Turn 8
 is two speakers at once, to one teacher: नमस्ते, the singular. Every turn is a course sentence,
 written for this dialogue; no source is claimed for any.
@@ -925,7 +925,7 @@ sentence joined, by Chapter 4's rules.
 6\. सिंहः स्वपिति। तदा मूषको धावति। (siṃhaḥ svapiti. tadā mūṣako dhāvati.)
    सिंहः स्वपिति। तदा मूषकः धावति। (siṃhaḥ svapiti. tadā mūṣakaḥ dhāvati.)
 
-**कार्यम् C · समासाः (compounds — resolve and name).** Nine minutes. For each compound, write its
+**कार्यम् C · समासाः [compounds — resolve and name].** Nine minutes. For each compound, write its
 kind — द्वन्द्वः, तत्पुरुषः, कर्मधारयः or बहुव्रीहिः — and its vigraha in pause form, with the
 case of every member. The second column tells you how the compound is used.
 
@@ -950,15 +950,15 @@ the lessons.
 *our retelling, after Hitopadeśa 1 (Mitralābha)*
 
 1. पुरा नद्यास्तीरे कपोतानामेको नृप आसीत्। (purā nadyās tīre kapotānām eko nṛpa āsīt.)
-2. तस्य ग्रीवा चित्रासीत्, अतस्तस्य नाम चित्रग्रीवः। (tasya grīvā citrāsīt, atas tasya nāma citragrīvaḥ.)
+2. तस्य नाम चित्रग्रीवः, यतस्तस्य ग्रीवा चित्रासीत्। (tasya nāma citragrīvaḥ, yatas tasya grīvā citrāsīt.)
 3. एकदा सर्वे कपोता व्याधस्य जालेऽपतन्। (ekadā sarve kapotā vyādhasya jāle 'patan.)
 4. जालं च तैः सहाकाशमगच्छत्। (jālaṃ ca taiḥ sahākāśam agacchat.)
 5. चित्रग्रीवोऽवदत् — "मम सखा हिरण्यकोऽस्ति। यत्र स निवसति तत्र गच्छाम।" (citragrīvo 'vadat — "mama sakhā hiraṇyako 'sti. yatra sa nivasati tatra gacchāma.")
 6. हिरण्यको मूषकः, तस्य विवरं नद्याः समीपे। (hiraṇyako mūṣakaḥ, tasya vivaraṃ nadyāḥ samīpe.)
 7. यदा ते विवरस्य समीपमागच्छन्, तदा हिरण्यको विवर एवातिष्ठत्। (yadā te vivarasya samīpam āgacchan, tadā hiraṇyako vivara evātiṣṭhat.)
-8. चित्रग्रीव उवाच — "सखे हिरण्यक! अहं चित्रग्रीवः। बहिरागच्छ!" (citragrīva uvāca — "sakhe hiraṇyaka! ahaṃ citragrīvaḥ. bahir āgaccha!")
+8. चित्रग्रीव उच्चैरुवाच — "सखे हिरण्यक! शीघ्रं बहिरागच्छ!" (citragrīva uccair uvāca — "sakhe hiraṇyaka! śīghraṃ bahir āgaccha!")
 9. हिरण्यको बहिरागच्छत्। स पाशबद्धान्कपोतानपश्यत्। (hiraṇyako bahir āgacchat. sa pāśabaddhān kapotān apaśyat.)
-10. ततो दन्तैः स सर्वान्पाशानकृन्तत्, कपोताश्च मुक्ता अभवन्। (tato dantaiḥ sa sarvān pāśān akṛntat, kapotāś ca muktā abhavan.)
+10. स दन्तैः पाशानकृन्तत्, ततः कपोताः सर्वे मुक्ता अभवन्। (sa dantaiḥ pāśān akṛntat, tataḥ kapotāḥ sarve muktā abhavan.)
 
 The names चित्रग्रीवः and हिरण्यकः are the serial's; पाशबद्धान् is the accusative plural of
 पाशबद्धः "bound in snares" (l04 §13). Questions, each printed joined with its pause form beneath:
@@ -966,8 +966,8 @@ The names चित्रग्रीवः and हिरण्यकः are the
 1\. कपोतानां नृपस्य नाम किम्? (kapotānāṃ nṛpasya nāma kim?)
    कपोतानाम् नृपस्य नाम किम्? (kapotānām nṛpasya nāma kim?)
 
-2\. किमर्थं तस्य नाम चित्रग्रीवः? (kimarthaṃ tasya nāma citragrīvaḥ?)
-   किमर्थम् तस्य नाम चित्रग्रीवः? (kimartham tasya nāma citragrīvaḥ?)
+2\. कपोतानां नृपः कुत्रासीत्? (kapotānāṃ nṛpaḥ kutrāsīt?)
+   कपोतानाम् नृपः कुत्र आसीत्? (kapotānām nṛpaḥ kutra āsīt?)
 
 3\. के जालेऽपतन्? (ke jāle 'patan?)
    के जाले अपतन्? (ke jāle apatan?)
@@ -1020,8 +1020,9 @@ sitting.
 4. "All the doves", in pause form: (a) सर्वाः कपोताः (b) सर्वे कपोताः (c) सर्वाणि कपोताः (d) सर्वम्
    कपोताः
 5. "This river", in pause form: (a) अयम् नदी (b) इयम् नदी (c) इदम् नदी (d) एषः नदी
-6. The missing word: यदा गुरुः पठति ___ वयं लिखामः। [yadā guruḥ paṭhati ___ vayaṃ likhāmaḥ.] —
-   pause form यदा गुरुः पठति ___ वयम् लिखामः। — (a) तत्र (b) तदा (c) तथा (d) यत्र
+6. The missing word: यदा गुरुः पठति ___ वयं लिखामः। (yadā guruḥ paṭhati ___ vayaṃ likhāmaḥ.) —
+   pause form यदा गुरुः पठति ___ वयम् लिखामः। (yadā guruḥ paṭhati ___ vayam likhāmaḥ.) — (a) तत्र
+   (b) तदा (c) तथा (d) यत्र
 7. Which word never stands first in its clause? (a) हि (b) ततः (c) यथा (d) सदा
 8. According to Pāṇini: match each sūtra number to its gist. Numbers: 8.1.22 · 1.1.27 · 1.1.37 ·
    1.4.59 · 2.2.29 · 2.2.24. Gists: (a) two or more words that point to something else make a
@@ -1098,7 +1099,7 @@ in 5 and 6 (ततश्छात्राः क्रीडन्ति · त
 
 C — the kind · the vigraha (cases):
 
-1. तत्पुरुषः · विद्यायाः आलयः [gen. + nom.; विद्यायै आलयः, dat., is also accepted]
+1. तत्पुरुषः · विद्यायाः आलयः [gen. + nom.; a dative vigraha, विद्यायै आलयः, earns no ½]
 2. तत्पुरुषः · मातुः भाषा [gen. + nom.]
 3. तत्पुरुषः · रवेः वासरः [gen. + nom.]
 4. द्वन्द्वः · माता च पिता च [nom. + nom.]
@@ -1120,10 +1121,10 @@ D — the ten lines in the order printed, each joined, then its pause form:
    पुरा नद्याः तीरे कपोतानाम् एकः नृपः आसीत्। (purā nadyāḥ tīre kapotānām ekaḥ nṛpaḥ āsīt.)
    "Long ago on a river bank there was a king of the doves." — बहुत पहले नदी के किनारे
    कबूतरों का एक राजा था।
-2. तस्य ग्रीवा चित्रासीत्, अतस्तस्य नाम चित्रग्रीवः। (tasya grīvā citrāsīt, atas tasya nāma citragrīvaḥ.)
-   तस्य ग्रीवा चित्रा आसीत्, अतः तस्य नाम चित्रग्रीवः। (tasya grīvā citrā āsīt, ataḥ tasya nāma citragrīvaḥ.)
-   "His neck was bright, so his name was Citragrīva." — उसकी गर्दन रंगीन थी, इसलिए उसका नाम
-   चित्रग्रीव था।
+2. तस्य नाम चित्रग्रीवः, यतस्तस्य ग्रीवा चित्रासीत्। (tasya nāma citragrīvaḥ, yatas tasya grīvā citrāsīt.)
+   तस्य नाम चित्रग्रीवः, यतः तस्य ग्रीवा चित्रा आसीत्। (tasya nāma citragrīvaḥ, yataḥ tasya grīvā citrā āsīt.)
+   "His name was Citragrīva, because his neck was bright." — उसका नाम चित्रग्रीव था, क्योंकि
+   उसकी गर्दन रंगीन थी।
 3. एकदा सर्वे कपोता व्याधस्य जालेऽपतन्। (ekadā sarve kapotā vyādhasya jāle 'patan.)
    एकदा सर्वे कपोताः व्याधस्य जाले अपतन्। (ekadā sarve kapotāḥ vyādhasya jāle apatan.)
    "One day all the doves fell into a hunter's net." — एक दिन सब कबूतर एक शिकारी के जाल में
@@ -1143,35 +1144,35 @@ D — the ten lines in the order printed, each joined, then its pause form:
    यदा ते विवरस्य समीपम् आगच्छन्, तदा हिरण्यकः विवरे एव अतिष्ठत्। (yadā te vivarasya samīpam āgacchan, tadā hiraṇyakaḥ vivare eva atiṣṭhat.)
    "When they came near the burrow, Hiraṇyaka stayed right inside it." — जब वे बिल के पास
    आए, तब हिरण्यक बिल में ही रहा।
-8. चित्रग्रीव उवाच — "सखे हिरण्यक! अहं चित्रग्रीवः। बहिरागच्छ!" (citragrīva uvāca — "sakhe hiraṇyaka! ahaṃ citragrīvaḥ. bahir āgaccha!")
-   चित्रग्रीवः उवाच — "सखे हिरण्यक! अहम् चित्रग्रीवः। बहिः आगच्छ!" (citragrīvaḥ uvāca — "sakhe hiraṇyaka! aham citragrīvaḥ. bahiḥ āgaccha!")
-   "Citragrīva said: 'Friend Hiraṇyaka! I am Citragrīva. Come out!'" — चित्रग्रीव ने कहा —
-   "मित्र हिरण्यक! मैं चित्रग्रीव हूँ। बाहर आओ!"
+8. चित्रग्रीव उच्चैरुवाच — "सखे हिरण्यक! शीघ्रं बहिरागच्छ!" (citragrīva uccair uvāca — "sakhe hiraṇyaka! śīghraṃ bahir āgaccha!")
+   चित्रग्रीवः उच्चैः उवाच — "सखे हिरण्यक! शीघ्रम् बहिः आगच्छ!" (citragrīvaḥ uccaiḥ uvāca — "sakhe hiraṇyaka! śīghram bahiḥ āgaccha!")
+   "Citragrīva called out loudly: 'Friend Hiraṇyaka! Come out quickly!'" — चित्रग्रीव ने ऊँचे
+   स्वर में कहा — "मित्र हिरण्यक! जल्दी बाहर आओ!"
 9. हिरण्यको बहिरागच्छत्। स पाशबद्धान्कपोतानपश्यत्। (hiraṇyako bahir āgacchat. sa pāśabaddhān kapotān apaśyat.)
    हिरण्यकः बहिः आगच्छत्। सः पाशबद्धान् कपोतान् अपश्यत्। (hiraṇyakaḥ bahiḥ āgacchat. saḥ pāśabaddhān kapotān apaśyat.)
    "Hiraṇyaka came out. He saw the doves bound in the snares." — हिरण्यक बाहर आया। उसने
    फंदों में बँधे कबूतरों को देखा।
-10. ततो दन्तैः स सर्वान्पाशानकृन्तत्, कपोताश्च मुक्ता अभवन्। (tato dantaiḥ sa sarvān pāśān akṛntat, kapotāś ca muktā abhavan.)
-    ततः दन्तैः सः सर्वान् पाशान् अकृन्तत्, कपोताः च मुक्ताः अभवन्। (tataḥ dantaiḥ saḥ sarvān pāśān akṛntat, kapotāḥ ca muktāḥ abhavan.)
-    "Then with his teeth he cut all the snares, and the doves were free." — तब उसने अपने
-    दाँतों से सारे फंदे काट दिए, और कबूतर मुक्त हो गए।
+10. स दन्तैः पाशानकृन्तत्, ततः कपोताः सर्वे मुक्ता अभवन्। (sa dantaiḥ pāśān akṛntat, tataḥ kapotāḥ sarve muktā abhavan.)
+    सः दन्तैः पाशान् अकृन्तत्, ततः कपोताः सर्वे मुक्ताः अभवन्। (saḥ dantaiḥ pāśān akṛntat, tataḥ kapotāḥ sarve muktāḥ abhavan.)
+    "He cut the snares with his teeth, and then the doves were all free." — उसने अपने दाँतों
+    से फंदे काट दिए, तब सब कबूतर मुक्त हो गए।
 
 The seams, line by line: l.1 नद्याः + त → स्त; कपोतानाम् + ए, written together; एकः + न → ओ;
-नृपः + आ → अ and a gap. l.2 चित्रा + आ → आ [सवर्णदीर्घः]; the comma; अतः + त → स्त. l.3 कपोताः + व
+नृपः + आ → अ and a gap. l.2 चित्रग्रीवः before the comma; यतः + त → स्त; चित्रा + आ → आ [सवर्णदीर्घः]. l.3 कपोताः + व
 → आ; जाले + अ → एऽ. l.4 जालम् + च → ं [जालञ्च also right]; तैः before स stays (तैस्सह also
 right); सह + आ → आ; आकाशम् + अ, written together. l.5 चित्रग्रीवः + अ → ओऽ; the dash; हिरण्यकः
 + अ → ओऽ; सः + न → स. l.6 हिरण्यकः + म → ओ; मूषकः before the comma; विवरम् + न → ं; नद्याः
 before स stays. l.7 समीपम् + आ, written together; the comma; हिरण्यकः + व → ओ; विवरे + ए → अ and
-a gap (अयादि); एव + अ → आ. l.8 चित्रग्रीवः + उ → अ and a gap; सखे हिरण्यक, no change; अहम् +
-च → ं; बहिः + आ → र्. l.9 हिरण्यकः + ब → ओ; बहिः + आ → र्; सः + प → स; पाशबद्धान् + क, written
-together; कपोतान् + अ, written together, no doubling after the long आ. l.10 ततः + द → ओ; दन्तैः
-before स stays; सः + स → स; सर्वान् + प, written together; पाशान् + अ, written together; the
-comma; कपोताः + च → श्च; मुक्ताः + अ → आ and a gap. No seam of the passage is ◐.
+a gap (अयादि); एव + अ → आ. l.8 चित्रग्रीवः + उ → अ and a gap; उच्चैः + उ → र्; the dash; सखे
+हिरण्यक, no change; शीघ्रम् + ब → ं; बहिः + आ → र्. l.9 हिरण्यकः + ब → ओ; बहिः + आ → र्; सः + प → स; पाशबद्धान् + क, written
+together; कपोतान् + अ, written together, no doubling after the long आ. l.10 सः + द → स; दन्तैः
+before प stays; पाशान् + अ, written together, no doubling after the long आ; the comma; ततः
+before क stays; कपोताः before स stays (कपोतास्सर्वे also right); मुक्ताः + अ → आ and a gap. No seam of the passage is ◐.
 
 The answers:
 
 1. चित्रग्रीवः
-2. तस्य ग्रीवा चित्रा [आसीत्] — "चित्रा ग्रीवा" alone, or "अतः" with the clause, is accepted
+2. नद्याः तीरे — the joined नद्यास्तीरे and "पुरा नद्याः तीरे" are accepted
 3. सर्वे कपोताः — कपोताः alone is accepted
 4. आकाशम्
 5. मूषकः — "चित्रग्रीवस्य सखा" as well is accepted
@@ -1227,7 +1228,7 @@ The model's parts: भवान् with the 3rd person in lines 1, 3 and 5; the 
 [line 3] and यदा … तदा [line 5]; the coined compounds ग्रामविद्यालयः, a tatpuruṣa (ग्रामस्य
 विद्यालयः), नदीतीरम्, a tatpuruṣa (नद्याः तीरम्, here in the locative), and मधुरवचनः, a
 bahuvrīhi (मधुरम् वचनम् यस्य सः); मे after तदा, the genitive "my". The seams a marker would
-check: ग्रामविद्यालयात् + आ → द् (the final stop voiced); भवान् + न, written together; नदी + अ →
+check: ग्रामविद्यालयात् + आ → द् — the final stop voiced; भवान् + न, written together; नदी + अ →
 य् [यण्]; भवान् + अ, written together, no doubling after the long आ; अत्र + आ → आ.
 
 </details>
@@ -1294,8 +1295,8 @@ the crow story read joined. It runs as Station 0 of v3.c06.l01.
 
 अध्यापकटिप्पणी
 
-**Format.** Station 0 (§3, about 8 minutes: item 1 three, item 2 four, Stations 1–4 one) runs
-*before* the sitting and outside it, so book about 53 minutes of room time; the lesson's 45
+**Format.** Station 0 (§3, about 15 minutes: item 1 seven, item 2 seven, Stations 1–4 one) runs
+*before* the sitting and outside it, so book about 60 minutes of room time; the lesson's 45
 minutes are the sitting alone. Collect the station sheets and log the scores after the sitting.
 The sitting: instructions and the hand-out of the booklet (2) → A (8) → B (7) → C (9) → D (10) →
 E (9) = 45. Closed-book throughout: no notes, no tables, no lesson open. The §19 quiz is taken in
@@ -1306,7 +1307,7 @@ the remediation and the real-world task it is the 30 minutes "after" of §21, an
 **The exam guard.** No Station 0 item rehearses an exam task's items: task C's ten compounds and
 the ten vigrahas of Station 0's item 1 are disjoint; the relative sentences of item 2 are the
 learner's own, and task B's pairs are not among the lesson models; the four one-minute prompts (मे,
-तासाम्, तथा, परोपकारः) are not task items. §13 prints none of the tasks' items. The booklet prints
+तासाम्, तथा, सूर्योदयः) are not task items, and none repeats an item of the two bookings. §13 prints none of the tasks' items. The booklet prints
 task D joined only: the exam tests reading the joined form, and the pause form stands in §19's
 key, which the learner opens after the sitting.
 
@@ -1317,10 +1318,10 @@ item 7 is the course's model name, used throughout Volume 3.
 
 **Task D.** Printed joined only; the label *our retelling, after Hitopadeśa 1 (Mitralābha)* stands
 above it on the booklet page. The audio (`v3c05l05-task-d-passage.mp3`) is not played in the
-sitting; it is §21 item 6's, lines 1 → 10 once at natural pace. Two lines of the passage stay
-close to lessons' lines: line 2 to l04 §17 line 2 (तस्य ग्रीवा चित्रा …), so question 2 can be
-answered from the lesson as well as from the page; line 8 to l03 §17 line 7. Keep the passage as
-printed unless the editor rewords those lines.
+sitting; it is §21 item 6's, lines 1 → 10 once at natural pace. Lines 2, 8 and
+10 were reworded at review so that no line of the passage repeats a line of l01–l04 §17 (l04
+§17 lines 2, 7 and 8; l03 §17 line 7); question 2 asks where the king was, which only line 1
+of the passage tells — no lesson places him on a river bank.
 
 **Rubric and remediation:**
 
@@ -1347,8 +1348,11 @@ joined block, where possible — and checks the pause form under every line.
 or वः). (2) The class nasal before a stop, the doubled sibilant before श ष स, in every written
 answer. (3) ततः for तदा after यदा, everywhere: keys expect तदा and accept ततः [fact base, editor's
 decision 10]. (4) The main clause first in task B and task E [REF:whitney1889 §512]. (5)
-"तत्पुरुषः" for a karmadhāraya, with the kind's ½. (6) In task C item 1, विद्यायै आलयः, the
-dative.
+"तत्पुरुषः" for a karmadhāraya, with the kind's ½. Never accepted: a dative vigraha for विद्यालयः or जलपात्रम्
+[विद्यायै आलयः, जलाय पात्रम्]. The Kāśikā makes the dative tatpuruṣa of 2.1.36 with such a
+word only where the first member is made from the second (यूपाय दारु → यूपदारु, wood for a
+post) and refuses it for रन्धनाय स्थाली, a pot for cooking [REF:kashika 2.1.36]. l04 §19 says
+the same.
 
 **What the exam does not test.** No ◐ cell is asked or scored anywhere: no dual of अहम् or
 त्वम्, no plural dative, ablative or locative of them, no ◐ cell of भवत्, सखा or इदम्, no oblique
@@ -1372,8 +1376,8 @@ explains the name by his bright neck, which is ours. In the text Hiraṇyaka is 
 and lives in Citravana on the Gaṇḍakī (l. 472); ours is "a mouse" with a burrow near the serial's
 one river. In the text the mouse, frightened, stays silent (*tūṣṇīṃ sthitaḥ*) and Citragrīva
 calls *sakhe hiraṇyaka! katham asmān na sambhāṣase?* (l. 472); ours has him stay inside and the
-king call "सखे हिरण्यक! अहं चित्रग्रीवः। बहिरागच्छ!". The mouse sees the doves *pāśa-baddhān*
-(l. 479): the text's compound, kept. The text frees the doves with an absolutive and a passive
+king call out "सखे हिरण्यक! शीघ्रं बहिरागच्छ!". The mouse sees the doves *pāśa-baddhāṃś caitān*
+(l. 479; the compound's pause form *pāśa-baddhān*): the text's compound, kept. The text frees the doves with an absolutive and a passive
 (*evam uktvā tena sarveṣāṃ kapotānāṃ bandhanāni chinnāni*, l. 531); ours uses the active
 imperfect, with दन्तैः from the mouse's own *dantāś ca me komalāḥ* (l. 492). The fall into the
 net is the serial's earlier telling (Chapter 3). These departures stand on the record for
@@ -1511,7 +1515,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   key cites v3.c01.l03 §8 for सह, not the sūtra number, which stays in §22; (3) task D's pause
   forms stand in §19's key, not under the lines in §18, so the booklet and the lesson page print
   the same text; (4) §14 carries the chapter summary table, as v3.c04.l05 did, with no headword
-  rows; (5) Station 0's eight minutes hold the two items and the prompts only, the scores logged
+  rows; (5) Station 0's fifteen minutes hold the two items and the prompts only, the scores logged
   after the sitting; (6) the model dialogue of task E's key coins ग्रामविद्यालयः, नदीतीरम् and
   मधुरवचनः from owned words.
 - **Export notes:** task keys A–E and the quiz key stay in §19's `<details>`; the Station keys in
@@ -1523,8 +1527,8 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 - **Verification flags for Pass C:** every seam of task D (the list in §19's key), of tasks A and
   B, of §6, §8, §13 and §16 against Chapter 4's three maps; the thread verses against
   v3.c04.l05 §17; task D's departures against `hitop_u.htm` (l. 307, 472, 479, 492, 531), and
-  lines 2 and 8 against l04 §17 line 2 and l03 §17 line 7 (fact base, deviation 9: reword or
-  accept); the HISTORY callout's dating against REFERENCES ("c. 9th–12th c. CE"); the Whitney
+  lines 2, 8 and 10 (reworded at review) against l01–l04 §17, so that none repeats a lesson
+  line; the HISTORY callout's dating against REFERENCES ("c. 9th–12th c. CE"); the Whitney
   quotations of §5 (§491, §495, §1246) against the local text; [REF:whitney1889 §512] for the
   main clause first; [REF:guru1952] and [REF:kachru2006] cited bare, and the Hindi six-kind line
   confirmed as for l04 (editor's decision 1); निरामयाः's vigraha (§17) against MW and the

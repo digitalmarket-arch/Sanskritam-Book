@@ -20,8 +20,8 @@ objectives:
     hi: "अहम् और त्वम् के एकवचन के सभी रूप, और बहुवचन के प्रथमा, द्वितीया, तृतीया तथा षष्ठी रूप, अपने और साथी के बारे में वाक्यों में बनाएँ।"
   - en: "Use the short forms मे, ते, नः and वः correctly — never first in a sentence — and prove नमस्ते = नमः + ते in three lines."
     hi: "लघु रूप मे, ते, नः और वः ठीक प्रयोग करें — वाक्य के आरम्भ में कभी नहीं — और तीन पंक्तियों में सिद्ध करें कि नमस्ते = नमः + ते।"
-  - en: "Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् — भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्."
-    hi: "अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित।"
+  - en: "Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् and भवती — the ✓ cells of the polite table."
+    hi: "अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् और भवती के सूचीबद्ध रूपों सहित — आदर-तालिका के ✓ रूप।"
   - en: "Write a six-line dialogue joined, with its pause form beneath."
     hi: "छह पंक्तियों का संवाद जोड़कर लिखें, नीचे उसका विराम-रूप दें।"
 new_letters: []
@@ -71,7 +71,7 @@ the way a Sanskrit speaker says it.
 |---|---|---|
 | 1 | Produce every singular cell of अहम् and त्वम्, and the plural nominative, accusative, instrumental and genitive, in sentences about yourself and a partner. | अहम् और त्वम् के एकवचन के सभी रूप, और बहुवचन के प्रथमा, द्वितीया, तृतीया तथा षष्ठी रूप, अपने और साथी के बारे में वाक्यों में बनाएँ। |
 | 2 | Use the short forms मे, ते, नः and वः correctly — never first in a sentence — and prove नमस्ते = नमः + ते in three lines. | लघु रूप मे, ते, नः और वः ठीक प्रयोग करें — वाक्य के आरम्भ में कभी नहीं — और तीन पंक्तियों में सिद्ध करें कि नमस्ते = नमः + ते। |
-| 3 | Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् — भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्. | अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित। |
+| 3 | Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and the listed cells of भवत् and भवती — the ✓ cells of the polite table. | अतिथि से भवान् और भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् और भवती के सूचीबद्ध रूपों सहित — आदर-तालिका के ✓ रूप। |
 | 4 | Write a six-line dialogue joined, with its pause form beneath. | छह पंक्तियों का संवाद जोड़कर लिखें, नीचे उसका विराम-रूप दें। |
 
 Objective 1 is built in §8 (steps 3–5) and §15, and tested in §18 (exercises 1 and 7) and
@@ -277,11 +277,11 @@ consonant and is written into its verb.
 छोड़नी होगी।
 
 और अन्त में नमस्ते का प्रमाण, तीन पंक्तियों में — यह वह धागा है जो पहले खण्ड से चल रहा है:
-(1) नमः के साथ चतुर्थी आती है (पाणिनि 2.3.16, आपने v3.c01.l03 में पढ़ा); (2) ते, तुभ्यम् का लघु
-रूप है (8.1.22, आज का सूत्र); (3) त से पहले विसर्ग स् बन जाता है (8.3.34, v3.c04.l02)। इसलिए
+(1) नमः के साथ चतुर्थी आती है [पाणिनि 2.3.16, आपने v3.c01.l03 में पढ़ा]; (2) ते, तुभ्यम् का लघु
+रूप है [8.1.22, आज का सूत्र]; (3) त से पहले विसर्ग स् बन जाता है [8.3.34, v3.c04.l02]। इसलिए
 नमः + ते → नमस्ते। आपका पहला शब्द, अब पूरी तरह समझा हुआ।
 
-आज के नए शब्द: स्वयम् — स्वयं, ख़ुद (हर पुरुष और वचन के साथ, कभी नहीं बदलता); सखा — पुरुष-मित्र,
+आज के नए शब्द: स्वयम् — स्वयं, ख़ुद [हर पुरुष और वचन के साथ, कभी नहीं बदलता]; सखा — पुरुष-मित्र,
 पुकारने में सखे!; स्नेहः — स्नेह, प्रेम; विश्वासः — विश्वास, भरोसा; जिस पर भरोसा हो,
 वह सप्तमी में आता है: मम त्वयि विश्वासोऽस्ति "मुझे तुम पर विश्वास है"।
 

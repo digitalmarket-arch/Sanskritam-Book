@@ -134,7 +134,8 @@ Two minutes, aloud, in pairs; the key follows the station key.
   nominative and accusative: write both cells.
 - **Item 2.** (1) नमः takes the dative — 2.3.16 (रामाय नमः); (2) ते is तुभ्यम्, the short form —
   8.1.22; (3) नमः + ते → नमस्ते, ः before त becomes स् — 8.3.34. For नमो वः: (1) as above; (2)
-  वः is युष्मभ्यम्, the plural short form; (3) -अः before a voiced consonant becomes ओ — v3.c04.l02.
+  वः, the plural short form, "to you all" (its full dative युष्मभ्यम् is ◐ and not asked); (3) -अः
+  before a voiced consonant becomes ओ — v3.c04.l02.
   Score /6. Log both items beside lesson 1's and lesson 2's scores.
 - **Prompt 1.** Any correct sentence; models — कुत आगच्छसि? (kuta āgacchasi?), pause form कुतः
   आगच्छसि? · इत आगच्छामि। (ita āgacchāmi.), pause form इतः आगच्छामि। · ततो गुरुरागच्छत्। (tato
@@ -148,7 +149,7 @@ Two minutes, aloud, in pairs; the key follows the station key.
 - **Prompt 4.** अव — अव + गच्छति. The card in §15 has twenty-two such prefixes.
 - **Prompt 5.** कुशलम्। "Well." — or अहं कुशली। (ahaṃ kuśalī.), pause form अहम् कुशली। (a male
   speaker, v2.c01.l02).
-- **Prompt 6.** तथास्तु — सवर्णदीर्घः (आ + अ → आ); मैवम् — वृद्धिः (आ + ए → ऐ). तु never stands first:
+- **Prompt 6.** तथास्तु — सवर्णदीर्घः [आ + अ → आ]; मैवम् — वृद्धिः [आ + ए → ऐ]. तु never stands first:
   रामस्तु … (v3.c04.l02). Today तथा and एवम् stop being display words and become headwords.
 </details>
 
@@ -252,7 +253,7 @@ vocabulary row.
 आपके पास इनमें से बहुत-से शब्द पहले से हैं: अत्र "यहाँ", तत्र "वहाँ", यत्र "जहाँ" (खण्ड 1);
 कुतः "कहाँ से", इतः "यहाँ से", ततः "तब, वहाँ से", अतः "इसलिए" (खण्ड 1); कदा "कब", इदानीम्
 "अब", यतः "क्योंकि" (खण्ड 2)। आज इन सबको एक तालिका में रखते हैं। तालिका की चार पंक्तियाँ हैं —
-स्थान (-त्र), "कहाँ से" (-तः), समय (-दा) और ढंग (-था)। पाँच स्तम्भ हैं — प्रश्न का क-, "यह" का
+स्थान [-त्र], "कहाँ से" [-तः], समय [-दा] और ढंग [-था]। पाँच स्तम्भ हैं — प्रश्न का क-, "यह" का
 इ-/अ-, "वह" का त-, सम्बन्धवाचक य-, और "सब" का सर्व-। पिछले पाठ में आपने तद्, यद्, किम् और सर्व
 के रूप बनाए थे; आज उन्हीं आधारों से ये अव्यय बनते दिखते हैं। तालिका के खाली घर आज छह नए शब्द
 भरते हैं: तदा "तब", यदा "जब", तथा "वैसे", यथा "जैसे", एवम् "ऐसे", और क्व "कहाँ" — कुत्र के साथ एक
@@ -265,7 +266,7 @@ vocabulary row.
 - जहाँ पेड़ हैं, वहाँ कबूतर हैं — यत्र वृक्षास्तत्र कपोताः।
 - जैसा गुरु, वैसा शिष्य — यथा गुरुस्तथा शिष्यः।
 
-क्रम वही है: पहले सम्बन्धवाचक उपवाक्य (जो …, जब …), फिर उसका जोड़ीदार (वह, तब)। फ़र्क़ दो हैं।
+क्रम वही है: पहले सम्बन्धवाचक उपवाक्य [जो …, जब …], फिर उसका जोड़ीदार [वह, तब]। फ़र्क़ दो हैं।
 पहला: हिन्दी का "जो" लिंग नहीं दिखाता — जो लड़का, जो लड़की — पर संस्कृत दिखाती है: यः बालकः,
 या बालिका, यत् फलम्। दूसरा: हिन्दी में परसर्ग से पहले "जो" बदलकर "जिस", "जिन" हो जाता है —
 जिसको, जिनका; संस्कृत में यद् स्वयं विभक्ति लेता है — यम्, येन, यस्य। और हर सर्वनाम अपने ही
@@ -840,8 +841,8 @@ in its pause form, because the न् + त join is for recognition only (v3.c04
 the comma; अवदत् + च → अवदच्च; क्व + असि → क्वासि. Line 6: किम् + अपि, written together; अपि + अवदत्
 → अप्यवदत्, the यण्. Line 8: हिरण्यकः + त → हिरण्यकस्त; तत् + व → तद्व and विवरात् + ब → विवराद्ब,
 the final stop voiced; बहिः + आ → बहिरा. Line 4 uses वयम् with the neuter predicate मित्राणि, "we
-are friends", as Hindi says हम मित्र हैं. Three relative pairs carry the part: यत्र … तत्र (line
-1), यदा … तदा (lines 2 and 8), यथा … तथा (line 4), and Citragrīva's यः … सः (line 3). Line 2 tells
+are friends", as Hindi says हम मित्र हैं. Three relative pairs carry the part: यत्र … तत्र [line
+1], यदा … तदा [lines 2 and 8], यथा … तथा [line 4], and Citragrīva's यः … सः [line 3]. Line 2 tells
 again, with a relative, what v3.c03.l03 told in line 10 (मूषकस्तानपश्यत्, विवरं च प्राविशत्); lines
 5–8 tell with names what v3.c03.l03 line 11 told without them.
 
@@ -960,7 +961,7 @@ this order, from what you heard; play it a second time only to check:
 7. (a) — TRADITION, the sūtra of §4.
 8. (c) 22 — TRADITION, the card of §15. Whitney's nineteen, printed on the card, is not offered as
    an option: it is a documented count, not an error.
-9. (b) अव — अव + गच्छति (§15, the card; v2.c05.l02).
+9. (b) अव — अव + गच्छति [§15, the card; v2.c05.l02].
 10. (a) (§13 model 4). (b)–(d) are well-formed sentences with other meanings — "when the teacher,
     then the student", "where the teacher, there the student", "who is the teacher is the
     student" — wrong answers to the question, not wrong Sanskrit.
@@ -1010,8 +1011,8 @@ this order, from what you heard; play it a second time only to check:
 पुनरावृत्तिः — one screen to remember.
 
 > **The grid:** कुत्र/क्व अत्र तत्र यत्र सर्वत्र · कुतः इतः/अतः ततः यतः सर्वतः · कदा इदानीम् तदा
-> यदा सर्वदा (एकदा, सदा) · कथम् इत्थम्/एवम् तथा यथा सर्वथा — the pronoun stems with -त्र, -तः, -दा,
-> -था. **Some-, any-:** + चित् or अपि (कुत्रचित्, कदापि …). **The relative sentence:** relative
+> यदा सर्वदा [एकदा, सदा] · कथम् इत्थम्/एवम् तथा यथा सर्वथा — the pronoun stems with -त्र, -तः, -दा,
+> -था. **Some-, any-:** + चित् or अपि [कुत्रचित्, कदापि …]. **The relative sentence:** relative
 > clause first, correlative after; each pronoun in its own clause's case; the pair agrees with
 > its noun — यो मूषकः पाशान्कृन्तति स मम सखा। **The particles:** च, वा, हि, तु never first; एव "only",
 > अपि "also", इव "like" after their word. **Placed words:** अधः, उपरि, समीपे + genitive — वृक्षस्याधः.

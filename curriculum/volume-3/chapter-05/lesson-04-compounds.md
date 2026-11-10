@@ -12,7 +12,7 @@ lesson: 4
 lesson_type: grammar
 cefr: A2
 duration_minutes: 45
-self_study_minutes: 40
+self_study_minutes: 45
 prerequisites: [v3.c05.l03]
 review_of: [v3.c05.l03, v3.c05.l02, v3.c04.l01, v3.c04.l02, v3.c02.l04, v1.c02.l03, v1.c03.l01, v1.c03.l02, v1.c06.l01, v2.c01.l03, v2.c03.l03, v2.c03.l04, v2.c06.l03, v2.c06.l04]
 objectives:
@@ -101,7 +101,7 @@ two sentences, each with one word of the grid, joined, with the pause form benea
 
 - +1 week: the यद्, किम् and सर्व cells — यः, या, यत् and कः, का, किम् down the seven cases of the singular, then सर्वः, सर्वा, सर्वम् in the nominative singular and plural, and सर्वस्मै, सर्वस्मिन्, सर्वेषाम्; v3.c05.l04's Station 0 runs exactly this.
 
-Three minutes. Say each column aloud once, then write it. Hold यस्य: in §8 Step 4 it is the
+Five minutes. Say each column aloud once, then write it. Hold यस्य: in §8 Step 4 it is the
 hinge of every bahuvrīhi.
 
 <details><summary>उत्तराणि · Station 0</summary>
@@ -995,7 +995,7 @@ reused (§23).
 
 अभ्यासाः — seven exercises; 1, 3 and 5 are production, written; 7 is production from
 hearing; 2, 4 and 6 sort and resolve. Exercises 1, 2, 3 and 7 are done in class; 4, 5 and 6
-are homework (§21, §22). All keys sit in §19's collapsed key — nothing is answered on this
+and the §19 quiz are homework (§21, §22). All keys sit in §19's collapsed key — nothing is answered on this
 page. A prompt gives the context wherever a compound could be read two ways.
 
 **अभ्यासः 1 · विग्रहः — compound → vigraha: production, written.** Write the vigraha of each,
@@ -1053,8 +1053,8 @@ and under it the compound's vigraha. A model, not to be copied (its compound is 
 **अभ्यासः 6 · कथायाः समासाः — the compounds of the episode: reading, at home.** Read §17
 again, joined. Find every compound in it — seven in all, besides the greeting स्वागतम्, which you have
 said whole since Volume 1 — and for each write its kind and
-its vigraha. One of the seven is a ◐ kind: name it, and give its gloss instead of a vigraha;
-it is read, not scored.
+its vigraha. One of the seven is a ◐ kind: give its gloss instead of a vigraha, and name its
+kind if you can; it is read, never required and never scored.
 
 **अभ्यासः 7 · श्रुतलेखः — write the compound you hear: production, from hearing, in class.**
 Books closed. The teacher plays the six model sentences of §13 in their order, 1 to 6, each
@@ -1186,7 +1186,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 40 minutes total.
+गृहकार्यम् — about 45 minutes total.
 
 1. **(8 min)** §18 exercise 4: the eight owned compounds, kind and vigraha; check against
    §19's key.
@@ -1203,6 +1203,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
    नीलकमल, त्रिभुवन, पीताम्बर, प्रतिदिन, यथाशक्ति, माता-पिता into the kinds of Hindi school
    grammar; then uncover and check against the key in §19. Find one more तत्सम compound on a
    sign, a book cover or a news page, and say its kind.
+8. **(5 min, closed-book)** The §19 quiz, ten items; then check it against the key and note each
+   slip beside the section the key names.
 
 ## 22. Teacher Notes
 
@@ -1213,13 +1215,13 @@ the king a neck? Let the class laugh, then write the line तस्य ग्र
 चित्रग्रीवः। The whole lesson is in the gap between "a bright neck" and "one whose neck is
 bright".
 
-**Timing plan (45 min):** Station 0, two items, and the eight prompts, scores logged (8) →
-§8 Steps 1–4: the scene, the question, the evidence, the four rules and kinds named, the
-model sentences read aloud with §9 Drills 1–2 (7) → Step 5, the sort, in pairs (5) →
-exercise 1 (6) → the context test, §15 Step 4, and exercise 2 (5) → exercise 3 (6) → §16 in
-pairs, joined, once each way (3) → exercise 7, the listening (2) → the §19 quiz (3) = 45.
-Exercises 4, 5 and 6, the table from memory, the recorded §17, the reading of the card and
-labels, and the Hindi sort are homework (§21, 40 minutes). §9 Drills 3–4 are optional
+**Timing plan (45 min):** Station 0, two items, and the eight prompts, scores logged (10: item 1
+three minutes, item 2 five, for its fifty-one cells, the prompts two) → §8 Steps 1–4: the scene,
+the question, the evidence, the four rules and kinds named, the model sentences read aloud with
+§9 Drills 1–2 (8) → Step 5, the sort, in pairs (5) → exercise 1 (6) → the context test, §15 Step
+4, and exercise 2 (5) → exercise 3 (6) → §16 in pairs, joined, once each way (3) → exercise 7,
+the listening (2) = 45. Exercises 4, 5 and 6, the §19 quiz, the table from memory, the recorded
+§17, the reading of the card and labels, and the Hindi sort are homework (§21, 45 minutes). §9 Drills 3–4 are optional
 extras for a class that finishes the sort early; §21 item 5 rehearses the same skill.
 
 **Exercise 7, the play order.** Play the model-sentences track
@@ -1333,7 +1335,7 @@ dvandva's number. Answer all four from §15 Steps 1–3, not from new rules.
 > separate boxes, each ending in the accent colour (परस्य उपकारः). A double arrow ⇄ between
 > them labelled "समासः ⇄ विग्रहः". Three further rows: मातृभाषा ⇄ मातुः भाषा [the stem मातृ
 > boxed]; सिंहमूषकौ ⇄ सिंहः च मूषकः च [the dual -औ boxed]; चित्रग्रीवः ⇄ चित्रा ग्रीवा यस्य सः
-> (the -आ of चित्रा crossed out in the compound, "the adjective goes in as its stem"). IAST
+> [the -आ of चित्रा crossed out in the compound, "the adjective goes in as its stem"]. IAST
 > under every Devanagari line.
 
 **Asset 3 — the serial illustration.** Reuse the illustration of v3.c05.l03, the mouse

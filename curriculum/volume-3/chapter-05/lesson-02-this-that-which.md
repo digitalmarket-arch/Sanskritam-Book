@@ -12,7 +12,7 @@ lesson: 2
 lesson_type: grammar
 cefr: A2
 duration_minutes: 45
-self_study_minutes: 40
+self_study_minutes: 52
 prerequisites: [v3.c05.l01]
 review_of: [v3.c05.l01, v3.c04.l05, v3.c01.l05, v3.c02.l01, v3.c02.l02, v3.c02.l04, v2.c02.l02, v2.c06.l01, v1.c06.l04, v1.c05.l04]
 objectives:
@@ -85,13 +85,13 @@ retrieval practice beats re-reading for long-term retention [REF:roediger2006].
 ### Station 0 — lesson 1's +1-day and the sandhi exam's +1-week arrive
 
 Two bookings, run in the order they fall due, scores logged beside the earlier ones
-[REF:cepeda2006]. About eight minutes with the prompts.
+[REF:cepeda2006]. About nine minutes with the prompts.
 
 **Item 1 — from v3.c05.l01.** That lesson booked today's first station in one line:
 
 - +1 day: the I-and-you cells — अहम् and त्वम् said and written down the seven cases of the singular, then the plural nominative, accusative, instrumental and genitive (वयम् अस्मान् अस्माभिः अस्माकम्; यूयम् युष्मान् युष्माभिः युष्माकम्), then मे, ते, नः and वः each in a short sentence of your own where it does not stand first; v3.c05.l02's Station 0 runs exactly this.
 
-Three minutes. Say each column aloud, प्रथमा to सप्तमी, then write it. Then the four plural
+Four minutes. Say each column aloud, प्रथमा to सप्तमी, then write it. Then the four plural
 cells of each. Then the four sentences, written joined with the pause form beneath, as every
 composition is from lesson 1 on. Hold the seven rows in mind: today's table has the same
 seven.
@@ -449,8 +449,7 @@ sentence, यः … सः, waits for lesson 3: today यद् stands in its t
 and the स of the endings kept apart, and the य-glide of the feminine heard. Audio: 🔊
 `planned:assets/audio/volume-3/v3c05l02-model-sentences.mp3` (drills 1–4, then the six
 model sentences of §13, the track for §18 exercise 7). Each drill takes about half a minute:
-Drills 3 and 4 open the class slot of §18 exercise 4, with §11's checks; Drills 1 and 2 open
-homework item 5 (§21, §22).
+all four, with §11's checks, open homework item 5 (§21, §22).
 
 **Drill 1 — one breath.** A pronoun and its noun are one group. Say तस्मिन्वने as one word,
 no pause at the seam: /t̪ɐsmin̪ʋɐn̪eː/. Then तस्मिन्वृक्षे, अस्मिन्ग्रामे, अन्यत्पुस्तकम्,
@@ -1032,15 +1031,16 @@ The dash of every speech frame and the closing quotation marks are stops: अप
 
 अभ्यासाः — seven exercises; 1, 2, 3, 4, 5, 6 and 7 are all production tasks — written,
 spoken or taken down from hearing. All keys sit in §19's collapsed key; nothing is answered
-on this page. Exercises 1, 2, 4 and 5 are done in class; 3, 6 and 7 are homework (§21, §22).
+on this page. Exercises 2, 4 and 5 are done in class; 1, 3, 6 and 7 and the §19 quiz are
+homework (§21, §22).
 
-**अभ्यासः 1 · तद्-रूपाणि — the table, then six cells on demand: production, written (class,
+**अभ्यासः 1 · तद्-रूपाणि — the table, then six cells on demand: production, written (homework,
 5 min).** Write the तद् table of §15 Step 1 from memory, all three genders, the oblique duals
 marked ◐ and left empty. Then give the cell asked for: (a) सा, dative singular (b) तत्,
 instrumental singular (c) सः, genitive plural (d) सा, genitive plural (e) एषा, accusative
 singular (f) एतत्, nominative plural.
 
-**अभ्यासः 2 · Δ-रूपाणि — six Δ cells: production, written (class, 6 min, with the Δ cards).**
+**अभ्यासः 2 · Δ-रूपाणि — six Δ cells: production, written (class, 4 min, after the Δ cards).**
 (a) सर्व, masculine nominative plural (b) सर्व, neuter nominative singular (c) अन्य, neuter
 nominative singular (d) किम्, feminine instrumental singular (e) एक, masculine locative
 singular (f) यद्, feminine genitive singular. Beside each, write "as तद्" or "differs from
@@ -1051,7 +1051,7 @@ singular (f) यद्, feminine genitive singular. Beside each, write "as त�
 बालिकाः पठन्ति। "all" (b) ___ बालकाः पठन्ति। "all" (c) ___ जलम् "all" (d) ___ पुस्तकम्
 "another" (e) ___ छात्राय ददाति। "to another" (f) ___ ग्रामे "in every", masculine singular.
 
-**अभ्यासः 4 · अयम् इयम् इदम् — point and say: production, spoken (class, 6 min, with इदम्'s key cells and §9 Drills 3–4).** Point at
+**अभ्यासः 4 · अयम् इयम् इदम् — point and say: production, spoken (class, 5 min, after इदम्'s key cells).** Point at
 six people or things in the room and say each with अयम्, इयम् or इदम्, joined: अयं …, इयं …,
 इदं …. If the room is short of them, use these six: पुस्तकम्, छात्रः, बालिका, गुरुः, फलम्,
 माला. Then say three more, each with one of इदम्'s oblique key cells: (g) "Go with this
@@ -1204,23 +1204,29 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 40 minutes total.
+गृहकार्यम् — 52 minutes in all.
 
 1. **(6 min)** §18 exercise 3, then checked against §19's key.
 2. **(8 min)** §18 exercise 6, your story opening, joined with its pause form; checked
    against the checklist and the model in §19.
 3. **(4 min)** §18 exercise 7, the model sentences from hearing, with §13 closed until you
    check.
-4. **(10 min)** Write the तद् table of §15 Step 1 and the five Δ cards of §15 Step 3 from
-   memory, the ◐ oblique duals left empty; then check them against the book, cell by cell, and
-   ring every slip in a ✓ cell.
-5. **(5 min, recorded)** §9 Drills 1 and 2 once each (1 min); then read §17 aloud, joined, at
-   natural pace; record it and play it back once, listening for a pause at any seam.
+4. **(12 min)** §18 exercise 1 — the तद् table of §15 Step 1 from memory and its six cells —
+   then the five Δ cards of §15 Step 3 from memory, the ◐ oblique duals left empty; check them
+   against the book, cell by cell, and ring every slip in a ✓ cell.
+5. **(6 min, recorded)** §9 Drills 1–4 and §11's four checks once each (2 min); then read §17
+   aloud, joined, at natural pace; record it and play it back once, listening for a pause at
+   any seam.
 6. **(4 min)** Read the इदम् table of §15 Step 4 and mark its ◐ cells in pencil; say the
    twenty-two ✓ cells once aloud.
-7. **(3 min, real world)** Take a paragraph of Hindi — a news item, a page of a schoolbook —
+7. **(3 min)** Read §16 aloud, joined, once in each role.
+8. **(6 min, closed-book)** The §19 quiz, ten items; then check it against the key and note
+   each slip beside the section the key names.
+9. **(3 min, real world)** Take a paragraph of Hindi — a news item, a page of a schoolbook —
    find every यह and वह in it, and write the Sanskrit beside each with the right gender:
    अयम्, इयम् or इदम्; सः, सा or तत्.
+
+6 + 8 + 4 + 12 + 6 + 4 + 3 + 6 + 3 = 52.
 
 ## 22. Teacher Notes
 
@@ -1231,14 +1237,14 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 board under Hindi यह, यह, यह. Then write सर्वे भवन्तु सुखिनः and beside it रामाः, and ask why
 not \*सर्वाः. Leave the question on the board: card 4 answers it.
 
-**Timing plan (45 min):** Station 0, two items, and the seven prompts, scores logged (8) → §8
-Steps 1–4: the scene, the question, the evidence table, the pattern named (7) → Step 5: the
-तद् table built from owned cells (5) → §18 exercise 1 (5) → the Δ cards (§15 Step 3) and §18
-exercise 2 (6) → इदम्'s key cells (§15 Step 4), §9 Drills 3–4 with §11's checks, and §18 exercise 4,
-spoken (6) → §18
-exercise 5 (4) → §16 read in pairs (2) → §19 quiz, quick-fire, self-scored in class (2) = 45.
-Exercises 3, 6 and 7, the recorded §17, the table from memory, the इदम् pencil task and the
-real-world task are homework (§21, 40 minutes). §18 exercise 4's three oblique sentences
+**Timing plan (45 min):** Station 0, two items, and the seven prompts, scores logged (9) → §8
+Steps 1–4: the scene, the question, the evidence table, the pattern named (6) → Step 5: the
+तद् table built from owned cells (5) → the five Δ cards (§15 Step 3), each built by the learners
+from the finished table (7) → §18 exercise 2 (4) → इदम्'s key cells (§15 Step 4) (4) → §18
+exercise 4, spoken (5) → the indefinites (§15 Step 5) and §18 exercise 5 (5) = 45. Exercises 1,
+3, 6 and 7, the §19 quiz, §16 read in both roles, §9's drills with §11's checks, the recorded
+§17, the Δ cards from memory, the इदम् pencil task and the real-world task are homework (§21,
+52 minutes). §18 exercise 4's three oblique sentences
 (g)–(i) are said in class and checked against the key at the end of the slot.
 
 **Board work:** on the left, the तद् table with the ten marked cells in a second colour and

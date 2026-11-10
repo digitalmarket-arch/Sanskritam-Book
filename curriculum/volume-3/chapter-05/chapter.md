@@ -81,7 +81,7 @@ By the end of this chapter the learner can:
 | 1 | v3.c05.l01 | अहम् त्वम् भवान् · I, You, Your Honour | conversation | अस्मद् and युष्मद् with the short forms मे, ते, नः, वः; भवत् and भवती in their listed cells, भवन्तः; sūtra 8.1.22 and the नमस्ते proof; the R6 card; सखा, सखे; a guest at the door; serial episode 5, part 1; स्वयम् · सखा · स्नेहः · विश्वासः |
 | 2 | v3.c05.l02 | सः अयम् यः · This, That, Which | grammar | तद् in three genders (T8); the Δ cards एतद्, यद्, किम्, सर्व, अन्य, एक; इदम् (key cells); the indefinites; sūtra 1.1.27; suppletion (IR-025); serial part 2; अयम् · यः · अन्यः · परः · कश्चित् · कदाचित् · स्वः · निजः |
 | 3 | v3.c05.l03 | अव्ययानि · The Words That Never Change | vocabulary | the correlative grid; the relative–correlative sentence; the particles; अधः with the genitive; the upasarga card (22); sūtras 1.1.37, 1.4.59; Hitopadeśa 1.40 read; serial part 3; यदा · तदा · यथा · तथा · एवम् · क्व · हि · अधः |
-| 4 | v3.c05.l04 | समासाः · Compounds | grammar | the four rules; the vigraha; द्वन्द्वः, तत्पुरुषः (case-tatpuruṣa, कर्मधारयः; द्विगुः and उपपद read), बहुव्रीहिः, अव्ययीभावः (read); sūtras 2.2.29, 2.2.24; the compounds of Volumes 1–2 resolved; serial part 4; कण्ठः · नीलकण्ठः · ग्रीवा · चित्रः · पादपः · तुल्यः · उदारः · चरितम्; upgrade शक्तिः |
+| 4 | v3.c05.l04 | समासाः · Compounds | grammar | the four rules; the vigraha; द्वन्द्वः, तत्पुरुषः [case-tatpuruṣa, कर्मधारयः; द्विगुः and उपपद read], बहुव्रीहिः, अव्ययीभावः [read]; sūtras 2.2.29, 2.2.24; the compounds of Volumes 1–2 resolved; serial part 4; कण्ठः · नीलकण्ठः · ग्रीवा · चित्रः · पादपः · तुल्यः · उदारः · चरितम्; upgrade शक्तिः |
 | 5 | v3.c05.l05 | परीक्षा · Chapter 5 Exam | review | T8 and the compound kinds on one page; the thread-verse overlay (c05 column); five tasks in one 45-minute sitting |
 
 Ledger: 460 → 464 → 472 → 480 → 488 → 488 (28 ledger-new; the upgrade row शक्तिः drilled but not
@@ -117,8 +117,8 @@ case question (8 min); B join six pairs of sentences with a relative and its cor
 new course-written passage on the serial's fifth episode, ten joined sentences, and answer ten questions
 (10 min); E write a dialogue with a guest using भवान् or भवती, two relative sentences and two compounds
 of one's own, joined with its pause form (9 min). Pass: every task at its pass mark and the §19 quiz at
-7/10. Station 0 (about 8 minutes) runs before the sitting and outside its 45 minutes, so the learner is
-in the room about 53 minutes. Station 0 chain: l01 runs v3.c04.l05's +1-day booking and v3.c04.l04's
+7/10. Station 0 (about 15 minutes) runs before the sitting and outside its 45 minutes, so the learner is
+in the room about 60 minutes. Station 0 chain: l01 runs v3.c04.l05's +1-day booking and v3.c04.l04's
 +1-week booking; l02 runs l01's +1-day item and v3.c04.l05's +1-week item; from l03 on, each lesson runs
 the previous lesson's +1-day item and the +1-week item of the lesson before that; l05 books the +1-day
 item for v3.c06.l01 and the +1-week item for v3.c06.l02, and l04 books the +1-week item for v3.c06.l01.

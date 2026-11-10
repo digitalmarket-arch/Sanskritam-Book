@@ -322,8 +322,9 @@ reach the rest.)
    नमस्ते = नमः + ते in three lines." · hi "लघु रूप मे, ते, नः और वः ठीक प्रयोग करें — वाक्य के आरम्भ में
    कभी नहीं — और तीन पंक्तियों में सिद्ध करें कि नमस्ते = नमः + ते।"
 3. en "Hold a polite conversation with a guest using भवान् and भवती with the 3rd-person verb, and
-   the listed cells of भवत् — भवन्तम्, भवता, भवते, भवतः, भवन्तः, भवताम्." · hi "अतिथि से भवान् और
-   भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् के सूचीबद्ध रूपों सहित।"
+   the listed cells of भवत् and भवती — the ✓ cells of the polite table." · hi "अतिथि से भवान् और
+   भवती के साथ प्रथम पुरुष की क्रिया का प्रयोग करते हुए विनम्र बातचीत करें, भवत् और भवती के सूचीबद्ध रूपों
+   सहित — आदर-तालिका के ✓ रूप।"
 4. en "Write a six-line dialogue joined, with its pause form beneath." · hi "छह पंक्तियों का संवाद जोड़कर
    लिखें, नीचे उसका विराम-रूप दें।"
 
@@ -592,7 +593,7 @@ checked).
 
 **Front matter.** id `v3.c05.l02` · file `lesson-02-this-that-which.md` · title sa सः अयम् यः ·
 sa_iast *saḥ ayam yaḥ* · en "This, That, Which" · hi "वह, यह, जो — सर्वनाम की रूपावली" ·
-lesson_type: grammar · cefr A2 · duration_minutes 45 · self_study_minutes **40** · prerequisites
+lesson_type: grammar · cefr A2 · duration_minutes 45 · self_study_minutes **52** · prerequisites
 [v3.c05.l01] · review_of [v3.c05.l01, v3.c04.l05, v3.c01.l05, v3.c02.l01, v3.c02.l02, v3.c02.l04,
 v2.c02.l02, v2.c06.l01, v1.c06.l04, v1.c05.l04] · vocabulary_count **8** · tags [grammar,
 pronouns, pronominal-declension, tad, idam, delta-cards, indefinites, sarvanama, suppletion,
@@ -737,7 +738,7 @@ Seams: l.1 कपोताः + न → आ; सह + अ → सहा; l.2 ए
 स; परः before the comma; अस्माकम् + न → ं; निजः + न → ओ; l.8 मित्रम् + प → ं; परः + न → ओ; l.9 ततः +
 स → ः; कपोताः + त → स्त. Departures: table 0.I rows 2–3 (the place of the burrow).
 
-**§3 Station 0 (runs S0-ap and S0-ao, verbatim).** About 8 minutes; keys 0.G. **Prompts:** (1)
+**§3 Station 0 (runs S0-ap and S0-ao, verbatim).** About 9 minutes; keys 0.G. **Prompts:** (1)
 v3.c01.l05 — the singular pronoun column of कः and सः; (2) v3.c02.l01 — "those (m.) boys": ते बालकाः,
 तान् बालकान्; (3) v3.c02.l02 — "that girl, her book": सा बालिका, तस्याः पुस्तकम्; (4) v3.c02.l04 — the
 two doves: तौ कपोतौ; (5) v2.c02.l02 — this man, this woman: एषः, एषा; (6) v1.c06.l04 — recite सर्वे
@@ -766,16 +767,16 @@ obliques" (1.x, IR-025) → two stems, स- only in सः/सा; (4) *को�
 (6) स्वः "own" vs स्वः "we two are" (c03.l01): read the sentence — स्वं गृहम् vs आवाम् स्वः.
 
 **Exercises (§18):**
-- *Ex 1 (obj. 1; class, 5 min):* the table 0.C from memory, then six cells on demand: सा, dat. → तस्यै
+- *Ex 1 (obj. 1; homework, 5 min):* the table 0.C from memory, then six cells on demand: सा, dat. → तस्यै
   · तत्, instr. → तेन · सः, gen. pl. → तेषाम् · सा, gen. pl. → तासाम् · एषा, acc. → एताम् · एतत्, nom. pl. →
   एतानि. **Key** as given.
-- *Ex 2 (obj. 2; class, 6 min):* Δ cells, six: सर्व m. nom. pl. → सर्वे · सर्व n. nom. sg. → सर्वम् · अन्य n.
+- *Ex 2 (obj. 2; class, 4 min):* Δ cells, six: सर्व m. nom. pl. → सर्वे · सर्व n. nom. sg. → सर्वम् · अन्य n.
   nom. sg. → अन्यत् · किम् f. instr. → कया · एक m. loc. → एकस्मिन् · यद् f. gen. sg. → यस्याः. **Key** as given.
 - *Ex 3 (obj. 2; homework, 6 min):* put सर्व or अन्य in the form the noun needs, six (pause form given,
   answer joined or in pause form): (a) ___ बालिकाः पठन्ति ("all") (b) ___ बालकाः पठन्ति ("all") (c) ___ जलम्
   ("all") (d) ___ पुस्तकम् ("another") (e) ___ छात्राय ददाति ("to another") (f) ___ ग्रामे ("in every", m.
   sg.). **Key:** (a) सर्वाः (b) सर्वे (c) सर्वम् (d) अन्यत् (e) अन्यस्मै (f) सर्वस्मिन्.
-- *Ex 4 (obj. 3; class, 6 min — speaking):* point and say, six objects/people in the room: अयम्/इयम्/
+- *Ex 4 (obj. 3; class, 5 min — speaking):* point and say, six objects/people in the room: अयम्/इयम्/
   इदम् + noun; then "with this (m.)" अनेन सह, "of this (f.)" अस्याः, "in this (m.)" अस्मिन्. **Key:** gender
   of each noun decides; ✓ cells only.
 - *Ex 5 (obj. 4; class, 4 min):* build the indefinite, six: कः + चित् → कश्चित् · का + चित् → काचित् ·
@@ -799,13 +800,15 @@ oneself" — **b** (a is the §12 homograph; d is स्वयम्, l01).
 
 **§20 Bookings:** S0-ar (+1 day, l03), S0-as (+1 week, l04), verbatim. Ledger 472; cells drilled 73.
 
-**§21 (40 min):** Ex 3 (6) · Ex 6 (8) · Ex 7 (4) · write table 0.C and the five Δ cards from memory, check
-(10) · §17 read aloud joined, recorded (5) · read §15's इदम् table, mark the ◐ cells in pencil (4) ·
-real-world: find यह/वह in a Hindi paragraph and give the Sanskrit with the right gender (3).
+**§21 (52 min):** Ex 3 (6) · Ex 6 (8) · Ex 7 (4) · Ex 1 (table 0.C from memory and its six cells), then the
+five Δ cards from memory, check (12) · §9 drills 1–4 and §11's checks, then §17 read aloud joined,
+recorded (6) · read §15's इदम् table, mark the ◐ cells in pencil (4) · §16 read aloud in both roles (3) ·
+the §19 quiz, closed-book, then its key (6) · real-world: find यह/वह in a Hindi paragraph and give the
+Sanskrit with the right gender (3).
 
-**§22 timing (45):** Station 0 + prompts (8) → §8 steps 1–4 (7) → step 5: table 0.C built (5) → Ex 1 (5)
-→ Δ cards (§15) + Ex 2 (6) → इदम् key cells + Ex 4 (6) → Ex 5 (4) → §16 read in pairs (2) → quiz (2,
-quick-fire) = 45. **Teacher Notes:** एनम्/एनेन (Whitney §500); 7.1.25; 1.1.34–35 (पर, स्व; Whitney
+**§22 timing (45):** Station 0 + prompts (9) → §8 steps 1–4 (6) → step 5: table 0.C built (5) → Δ cards
+(§15), built by the learners (7) → Ex 2 (4) → इदम् key cells (4) → Ex 4 (5) → the indefinites + Ex 5 (5)
+= 45; Ex 1, §16 and the quiz are homework (§21). **Teacher Notes:** एनम्/एनेन (Whitney §500); 7.1.25; 1.1.34–35 (पर, स्व; Whitney
 §525c, Apte s.v. पर); अदस् not taught; Kāśikā on 1.1.27; serial departures.
 
 **Payoff (plan):** सर्वे भवन्तु सुखिनः — why सर्वे; एषः/एषा are एतद्; तस्य, तस्मिन्, कस्य stop being
@@ -1059,7 +1062,7 @@ grid, the particles and the relative sentence; the card is read.
 
 **Front matter.** id `v3.c05.l04` · file `lesson-04-compounds.md` · title sa समासाः · sa_iast
 *samāsāḥ* · en "Compounds" · hi "समास — दो शब्द, एक शब्द" · lesson_type: grammar · cefr A2 ·
-duration_minutes 45 · self_study_minutes **40** · prerequisites [v3.c05.l03] · review_of [v3.c05.l03,
+duration_minutes 45 · self_study_minutes **45** · prerequisites [v3.c05.l03] · review_of [v3.c05.l03,
 v3.c05.l02, v3.c04.l01, v3.c04.l02, v3.c02.l04, v1.c02.l03, v1.c03.l01, v1.c03.l02, v1.c06.l01,
 v2.c01.l03, v2.c03.l03, v2.c03.l04, v2.c06.l03, v2.c06.l04] · vocabulary_count **9** (8 + upgrade
 शक्तिः) · tags [grammar, compounds, samasa, vigraha, dvandva, tatpurusha, karmadharaya,
@@ -1196,7 +1199,7 @@ Further §13: पाशबद्धाः कपोताः (Hit *pāśa-baddh�
 अ; दन्ताः + च → श्च; l.6 पाशान् + क; l.7 ततः + ह → ओ; सर्वेषाम् + क → ं; पाशान् + अ (no doubling after
 आ); l.8 -आः + vowel → आ; l.9 pragṛhya. Departures: table 0.I rows 6–11.
 
-**§3 Station 0 (runs S0-at and S0-as).** About 8 minutes; keys 0.G. **Prompts:** (1) v3.c04.l01 — join
+**§3 Station 0 (runs S0-at and S0-as).** About 10 minutes (item 2 has 51 cells); keys 0.G. **Prompts:** (1) v3.c04.l01 — join
 पर-उपकारः; (2) v3.c04.l02 — join मनस्-रथः; (3) v3.c02.l04 — "parents": पितरौ (and 1.2.70 by number);
 (4) v1.c03.l02 — what does जलज mean, and what is ज? (5) v2.c03.l04 — रविवासरः: whose day? (6) v2.c06.l04 —
 दूरदर्शनम्: which two parts? (v1.c02.l03 — मातृ in the dictionary, माता in the sentence.)
@@ -1265,12 +1268,13 @@ bahuvrīhi — **b** (karmadhāraya is the 1.x error, plan E2: an error from tau
 
 **§20 Bookings:** S0-av (+1 day, l05), S0-aw (+1 week, v3.c06.l01), verbatim. Ledger 488.
 
-**§21 (40 min):** Ex 4 (8) · Ex 5 (8) · Ex 6 (4) · table 0.F from memory, checked (8) · §17 aloud joined,
+**§21 (45 min):** Ex 4 (8) · Ex 5 (8) · Ex 6 (4) · table 0.F from memory, checked (8) · §17 aloud joined,
 recorded (5) · read the labels (prādi, नञ्, महा-) and the deferral line (4) · real-world: sort the eight
-Hindi तत्सम compounds of row 0.H i, then check against the key (3).
+Hindi तत्सम compounds of row 0.H i, then check against the key (3) · the §19 quiz, closed-book, then its
+key (5).
 
-**§22 timing (45):** Station 0 + prompts (8) → §8 steps 1–4 (7) → step 5 sort (5) → Ex 1 (6) → the context
-test + Ex 2 (5) → Ex 3 (6) → §16 in pairs (3) → Ex 7 (2) → quiz (3) = 45. **Teacher Notes:** 2.1.22, 2.2.8,
+**§22 timing (45):** Station 0 + prompts (10; item 2 has 51 cells) → §8 steps 1–4 (8) → step 5 sort (5) → Ex 1 (6)
+→ the context test + Ex 2 (5) → Ex 3 (6) → §16 in pairs (3) → Ex 7 (2) = 45; the quiz is homework (§21). **Teacher Notes:** 2.1.22, 2.2.8,
 2.1.57, 2.1.52, 2.1.6–7, 2.2.19, 2.2.18, 2.2.6, 6.3.25, 5.4.91, 2.2.23, 6.3.34, 6.3.42; Whitney's classes; IR-026 →
 v4.c04; जगदीशः, सज्जनः (v3.c04.l03 pointer); serial departures; the Hindi six-kind sorting.
 
@@ -1285,8 +1289,8 @@ prefix (l03) and the compound are now taught; roots (v4.c03) and suffixes (v4.c0
 
 **Front matter.** id `v3.c05.l05` · file `lesson-05-chapter-exam.md` · title sa परीक्षा · sa_iast
 *parīkṣā* · en "Chapter 5 Exam" · hi "परीक्षा — अध्याय 5 की परीक्षा" · lesson_type: review · cefr A2 ·
-duration_minutes 45 (the sitting alone; **Station 0, about 8 minutes, runs before it and outside its
-45; the room time is about 53 minutes**) · self_study_minutes **45** (**15 before the sitting**: §3
+duration_minutes 45 (the sitting alone; **Station 0, about 15 minutes, runs before it and outside its
+45; the room time is about 60 minutes**) · self_study_minutes **45** (**15 before the sitting**: §3
 prompts reviewed (3), the §15 assembly page read (8), §16 read aloud (4); **30 after it**: the §19 quiz
 (8), check against the keys (8), task D re-read aloud joined and recorded (5), the remediation exercise of
 any task below its pass mark (6), the real-world task (3); §21) · prerequisites [v3.c05.l04] ·
@@ -1331,9 +1335,9 @@ pronominal m. pl. (l02); कश्चित् "anyone" (l02; with मा "may n
 निर्गतः आमयः येभ्यः ते "from whom illness has gone" (आमयः "illness", glossed; G). सत्यमेव जयते — no c05
 item.
 
-**§3 Station 0 (runs S0-av and S0-au, verbatim).** About 8 minutes, before the sitting and outside its 45.
+**§3 Station 0 (runs S0-av and S0-au, verbatim).** About 15 minutes (item 1 seven, item 2 seven, the prompts one), before the sitting and outside its 45.
 Keys 0.G. **Stations (1 minute, the volume spiral; plan §4.0.5):** one prompt each from l01–l04 (मे in a
-sentence; the gen. pl. of सा (तासाम्); the correlative of यथा; join पर-उपकारः — none of them an exam item), and the
+sentence; the gen. pl. of सा (तासाम्); the correlative of यथा; join सूर्य-उदयः — none of them an exam item or an item of S0-av), and the
 spiral's three items sit inside the tasks (a case question in A, a verb form in D's questions, a join in
 E's checklist).
 
@@ -1361,7 +1365,7 @@ and E items are not used — "यः पठति स जानाति" is l03
 booklet prints each text joined with its pause form beneath, except task D, printed joined only — it
 tests reading the joined form; the pause form is in the key, seen after the sitting).**
 
-*Task A — pronoun substitution* (8 min; 8 items + 1 spiral question). Replace the underlined noun with
+*Task A — pronoun substitution* (8 min; 8 items + 1 spiral question). Replace the noun named in square brackets with
 the right cell of a pronoun (or, where the speaker is meant, of अहम्/त्वम्); write the cell in pause form.
 1. अर्जुनो विद्यालयं गच्छति। / अर्जुनः विद्यालयम् गच्छति। (अर्जुनः → he)
 2. गुरुरर्जुनं पश्यति। / गुरुः अर्जुनम् पश्यति। (अर्जुनम् → him)
@@ -1397,7 +1401,7 @@ pass 8.**
 *Task C — compounds* (9 min; 10 items: name the kind, give the vigraha with cases):
 1. विद्यालयः 2. मातृभाषा 3. रविवासरः 4. मातापितरौ 5. सुखदुःखे 6. नीलकमलम् 7. प्रियमित्रम् 8. नीलकण्ठः
 9. अल्पशक्तिः 10. उदारचरितः.
-**Key:** 1. तत्पुरुषः · विद्यायाः आलयः (gen.; विद्यायै आलयः, dat., also accepted) 2. तत्पुरुषः · मातुः भाषा
+**Key:** 1. तत्पुरुषः · विद्यायाः आलयः (gen.; a dative vigraha is not accepted — Kāśikā on 2.1.36: the dative tatpuruṣa only for a product and its material) 2. तत्पुरुषः · मातुः भाषा
 (gen.) 3. तत्पुरुषः · रवेः वासरः (gen.) 4. द्वन्द्वः · माता च पिता च 5. द्वन्द्वः · सुखम् च दुःखम् च 6. कर्मधारयः ·
 नीलम् कमलम् 7. कर्मधारयः · प्रियम् मित्रम् 8. बहुव्रीहिः · नीलः कण्ठः यस्य सः 9. बहुव्रीहिः · अल्पा शक्तिः यस्य सः
 10. बहुव्रीहिः · उदारम् चरितम् यस्य सः. ("Tatpuruṣa" accepted for 6–7 with ½ for the kind.) Scoring 1 each
@@ -1408,9 +1412,9 @@ lessons' lines; ten questions). Text (booklet: joined only; the lesson file prin
 beneath; 🔊 `v3c05l05-task-d-passage.mp3` after the sitting):
 1. पुरा नद्यास्तीरे कपोतानामेको नृप आसीत्। (purā nadyās tīre kapotānām eko nṛpa āsīt.) / पुरा नद्याः
    तीरे कपोतानाम् एकः नृपः आसीत्। "Long ago on a river bank there was a king of the doves."
-2. तस्य ग्रीवा चित्रासीत्, अतस्तस्य नाम चित्रग्रीवः। (tasya grīvā citrāsīt, atas tasya nāma
-   citragrīvaḥ.) / तस्य ग्रीवा चित्रा आसीत्, अतः तस्य नाम चित्रग्रीवः। "His neck was bright, so his name
-   was Citragrīva."
+2. तस्य नाम चित्रग्रीवः, यतस्तस्य ग्रीवा चित्रासीत्। (tasya nāma citragrīvaḥ, yatas tasya grīvā
+   citrāsīt.) / तस्य नाम चित्रग्रीवः, यतः तस्य ग्रीवा चित्रा आसीत्। "His name was Citragrīva, because his
+   neck was bright."
 3. एकदा सर्वे कपोता व्याधस्य जालेऽपतन्। (ekadā sarve kapotā vyādhasya jāle 'patan.) / एकदा सर्वे
    कपोताः व्याधस्य जाले अपतन्। "One day all the doves fell into a hunter's net."
 4. जालं च तैः सहाकाशमगच्छत्। (jālaṃ ca taiḥ sahākāśam agacchat.) / जालम् च तैः सह आकाशम्
@@ -1424,29 +1428,29 @@ beneath; 🔊 `v3c05l05-task-d-passage.mp3` after the sitting):
 7. यदा ते विवरस्य समीपमागच्छन्, तदा हिरण्यको विवर एवातिष्ठत्। (yadā te vivarasya samīpam
    āgacchan, tadā hiraṇyako vivara evātiṣṭhat.) / यदा ते विवरस्य समीपम् आगच्छन्, तदा हिरण्यकः विवरे एव
    अतिष्ठत्। "When they came near the burrow, Hiraṇyaka stayed right inside it."
-8. चित्रग्रीव उवाच — "सखे हिरण्यक! अहं चित्रग्रीवः। बहिरागच्छ!" (citragrīva uvāca — "sakhe
-   hiraṇyaka! ahaṃ citragrīvaḥ. bahir āgaccha!") / चित्रग्रीवः उवाच — "सखे हिरण्यक! अहम् चित्रग्रीवः।
-   बहिः आगच्छ!" "Citragrīva said: 'Friend Hiraṇyaka! I am Citragrīva. Come out!'"
+8. चित्रग्रीव उच्चैरुवाच — "सखे हिरण्यक! शीघ्रं बहिरागच्छ!" (citragrīva uccair uvāca — "sakhe
+   hiraṇyaka! śīghraṃ bahir āgaccha!") / चित्रग्रीवः उच्चैः उवाच — "सखे हिरण्यक! शीघ्रम् बहिः आगच्छ!"
+   "Citragrīva called out loudly: 'Friend Hiraṇyaka! Come out quickly!'"
 9. हिरण्यको बहिरागच्छत्। स पाशबद्धान्कपोतानपश्यत्। (hiraṇyako bahir āgacchat. sa pāśabaddhān
    kapotān apaśyat.) / हिरण्यकः बहिः आगच्छत्। सः पाशबद्धान् कपोतान् अपश्यत्। "Hiraṇyaka came out. He
    saw the doves bound in the snares."
-10. ततो दन्तैः स सर्वान्पाशानकृन्तत्, कपोताश्च मुक्ता अभवन्। (tato dantaiḥ sa sarvān pāśān
-    akṛntat, kapotāś ca muktā abhavan.) / ततः दन्तैः सः सर्वान् पाशान् अकृन्तत्, कपोताः च मुक्ताः अभवन्।
-    "Then with his teeth he cut all the snares, and the doves were free."
-**Questions** (answers in Sanskrit, one word or a phrase): 1. कपोतानां नृपस्य नाम किम्? 2. किमर्थं तस्य
-नाम चित्रग्रीवः? 3. के जालेऽपतन्? 4. जालं कुत्रागच्छत्? 5. हिरण्यकः कः? 6. हिरण्यकस्य विवरं कुत्र? 7. यदा
+10. स दन्तैः पाशानकृन्तत्, ततः कपोताः सर्वे मुक्ता अभवन्। (sa dantaiḥ pāśān akṛntat, tataḥ
+    kapotāḥ sarve muktā abhavan.) / सः दन्तैः पाशान् अकृन्तत्, ततः कपोताः सर्वे मुक्ताः अभवन्।
+    "He cut the snares with his teeth, and then the doves were all free."
+**Questions** (answers in Sanskrit, one word or a phrase): 1. कपोतानां नृपस्य नाम किम्? 2. कपोतानां नृपः
+कुत्रासीत्? 3. के जालेऽपतन्? 4. जालं कुत्रागच्छत्? 5. हिरण्यकः कः? 6. हिरण्यकस्य विवरं कुत्र? 7. यदा
 कपोता आगच्छन्, तदा हिरण्यकः कुत्रातिष्ठत्? 8. हिरण्यकः केन पाशानकृन्तत्? 9. (compound) चित्रग्रीवः (line 2) — which
 kind, and its vigraha? 10. (pronoun and spiral) In line 10, to whom does स refer, and which lakāra is
-अकृन्तत्? **Key:** 1. चित्रग्रीवः 2. तस्य ग्रीवा चित्रा (आसीत्) 3. सर्वे कपोताः 4. आकाशम् 5. मूषकः (चित्रग्रीवस्य
+अकृन्तत्? **Key:** 1. चित्रग्रीवः 2. नद्याः तीरे / नद्यास्तीरे 3. सर्वे कपोताः 4. आकाशम् 5. मूषकः (चित्रग्रीवस्य
 सखा) 6. नद्याः समीपे 7. विवरे (एव) 8. दन्तैः 9. बहुव्रीहिः · चित्रा ग्रीवा यस्य सः 10. हिरण्यकः · लङ् (the
 imperfect), 3sg. Scoring 1 each (Q9, Q10 ½ + ½); **10 marks, pass 7.** Seams of the passage (key, after
-the sitting): l.1 नद्याः + त → स्त; कपोतानाम् + ए; एकः + न → ओ; नृपः + आ → अ (gap). l.2 चित्रा + आ → आ
-(सवर्णदीर्घः); अतः + त → स्त. l.3 कपोताः + व → आ; जाले + अ → एऽ. l.4 जालम् + च → ं; सह + आ; आकाशम् +
+the sitting): l.1 नद्याः + त → स्त; कपोतानाम् + ए; एकः + न → ओ; नृपः + आ → अ (gap). l.2 चित्रग्रीवः before the comma;
+यतः + त → स्त; चित्रा + आ → आ (सवर्णदीर्घः). l.3 कपोताः + व → आ; जाले + अ → एऽ. l.4 जालम् + च → ं; सह + आ; आकाशम् +
 अ. l.5 चित्रग्रीवः + अ → ओऽ; हिरण्यकः + अ → ओऽ; सः + न → स. l.6 हिरण्यकः + म → ओ; मूषकः before the
 comma; विवरम् + न → ं; नद्याः + स → ः. l.7 समीपम् + आ; the comma; हिरण्यकः + व → ओ; विवरे + ए → अ (gap,
-अयादि); एव + अ → आ. l.8 सखे हिरण्यक (no change); अहम् + च → ं; बहिः + आ → र्. l.9 हिरण्यकः + ब → ओ; बहिः
-+ आ; सः + प → स; पाशबद्धान् + क; कपोतान् + अ. l.10 ततः + द → ओ; दन्तैः + स → ः; सः + स → स; सर्वान् +
-प; पाशान् + अ; the comma; कपोताः + च → श्च; मुक्ताः + अ → आ.
+अयादि); एव + अ → आ. l.8 चित्रग्रीवः + उ → अ (gap); उच्चैः + उ → र्; सखे हिरण्यक (no change); शीघ्रम् + ब → ं; बहिः + आ → र्. l.9 हिरण्यकः + ब → ओ; बहिः
++ आ; सः + प → स; पाशबद्धान् + क; कपोतान् + अ. l.10 सः + द → स; दन्तैः + प → ः;
+पाशान् + अ; the comma; ततः + क → ः; कपोताः + स → ः; मुक्ताः + अ → आ.
 
 *Task E — production* (9 min). A dialogue of at least six lines between you and a guest (a man or a
 woman), written joined with its pause form beneath, with: भवान् or भवती with the 3rd-person verb (at
@@ -1561,7 +1565,7 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
    grammar's, printed in l02 §7 only (open item 1). Ledger words that are also terms: none this chapter
    (समासाः in l04 §16 is the GLOSSARY term used in a Sanskrit line, as सन्धिः was in c04 — but समास is
    **not** a ledger headword; the line glosses it).
-7. **Exam room time** about 53 minutes with Station 0, as c01–c04. Recommendation: accept.
+7. **Exam room time** about 60 minutes with Station 0 (re-timed at Pass B from the two items' counts: ten vigrahas, six composed sentences). Recommendation: accept.
 8. **Task D printed joined only** in the booklet (as c04's task C): accept.
 9. **The Kāśikā e-text typos** (row 0.20: *rus*, *up*): recorded here; the lesson prints the corrected list.
 
@@ -1635,7 +1639,7 @@ scholars to roughly the 9th–12th centuries CE; our five episodes are a retelli
     v1.c05.l04; l03 adds v3.c05.l01 (S0-aq), v1.c05.l05, v2.c01.l02, v2.c06.l02, v3.c03.l04, v3.c04.l01–l02
     (and c05#13's locator: अत्र, तत्र, यत्र are v1.c05.l03 and l05); l04 adds v3.c05.l02 (S0-as), v3.c04.l02,
     v1.c02.l03, v1.c03.l01, v1.c06.l01, v2.c01.l03, v2.c03.l03; l05 adds v3.c03.l05, v3.c02.l05, v2.c06.l01.
-14. **Self-study minutes** set: 35 · 40 · 40 · 40 · 45 (the plan gives none), each §21 adding up.
+14. **Self-study minutes** set: 35 · 52 · 45 · 45 · 45 (the plan gives none; Pass A moved lesson 3's quiz to homework, and Pass B moved lesson 2's exercise 1, §16 and quiz and lesson 4's quiz to homework, because their class slots could not hold them), each §21 adding up.
 15. **R6**: पुण्यवान् and भगवन् as card displays (Hit l. 474; v2.c01.l04), so the card redeems the v2.c01.l04
     promise in full.
 16. **Hit 1.40 in l03 §13** (not in the plan): an authentic verse built on the य-/त- pairs the lesson teaches (यस्मात्/तस्मात्, येन/तेन, यथा/तथा, यदा/तदा, यत्/तत्, यत्र/तत्र), printed as display with its gloss, its unowned words glossed and यावत्/तावत् labelled v4.c04; read in §21 homework only, never drilled, asked or scored, so it adds no class time to the lesson whose load is the main risk.
