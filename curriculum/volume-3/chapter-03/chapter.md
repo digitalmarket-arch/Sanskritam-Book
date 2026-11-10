@@ -25,13 +25,16 @@ of endings, the ātmanepada (लभते, भाषते, मन्यते),
 passive -यते as a recognition card and an honest line on the Muṇḍaka's जयते. The story tense
 follows: the imperfect, with the augment that stands after a prefix (आगच्छत्, प्राविशत्, न्यवसत्),
 ऐच्छत् learned whole, and the speech words उवाच, अब्रवीत् and आह. The last teaching lesson is a
-conversation: the imperative, built as a small delta on the imperfect (3.4.85 लोटो लङ्वत्, 3.4.86
+conversation: the imperative, built as a small delta on the imperfect and the present (3.4.85 लोटो लङ्वत्, 3.4.86
 एरुः), polite requests with भवान् and the 3rd person, prohibition with मा, and the optative as a
 card for rules and advice (छात्रः सत्यम् वदेत्). Every grammar lesson starts from a scene and from
 forms the learner already owns, names the pattern, and lets the learner build the table before
-producing it; the production target in every table is the same — singular and plural in all
-persons, and the 3rd-person dual — with the other duals shown and parsed. Everything stays in
-pause form (विराम-रूप), except owned joined items in quoted verses; joined text is Chapter 4's.
+producing it; the production target in every first-family table (present, imperfect, imperative) and in the
+second-family present is the same — singular and plural in all persons, and the 3rd-person
+dual — with the other duals shown and parsed; the second family beyond the present, अस् and कृ
+beyond the present, and the optative card have listed cells. Everything stays in
+pause form (विराम-रूप), except owned joined items in quoted verses and the one labelled R3
+quotation from the Pañcatantra (तद्यथानुश्रूयते); joined text is Chapter 4's.
 The serial continues — our retelling of the doves and the mouse, after Hitopadeśa 1
 (Mitralābha): the king of the doves speaks in the net, the flock rises with the net to the
 mouse's hole, the tale is told again in the past, and the king tells the mouse "don't cut my
@@ -50,7 +53,7 @@ snare first".
 - The imperative (लोट्) as a delta card on the imperfect (sūtras 3.4.85 लोटो लङ्वत्, 3.4.86 एरुः),
   with the second family's -स्व and -ताम् from the present; requests with भवान्; मा + imperative
 - The optative (विधिलिङ्) card: the 3rd person for rules and advice; न + optative
-- The R4 card: the other cells of शृणोति, जानाति, गृह्णाति, स्वपिति, ददाति as whole words
+- The R4 card: listed other cells of शृणोति, जानाति, गृह्णाति, स्वपिति, ददाति as whole words (3pl present, imperfect, 2sg imperative)
 - The Hindi bridge, stated exactly: two numbers against three; मुझे … अच्छे लगते हैं beside मह्यम्
   … रोचन्ते; the Hindi ने against the Sanskrit imperfect's nominative doer; तू जा / तुम जाओ / आप
   जाइए against गच्छ / गच्छतु भवान्; चाहिए against the optative; मत against मा
@@ -66,8 +69,8 @@ By the end of this chapter the learner can:
       (फलानि मह्यम् रोचन्ते)
 - [ ] Tell a short story in the past, with the augment in the right place and the speech words
       उवाच, अब्रवीत्, आह
-- [ ] Ask, command, forbid and advise, politely with भवान् (भवान् उपविशतु; मा गच्छ; छात्रः सदा
-      पठेत्)
+- [ ] Ask, command, forbid and advise, politely with भवान् — for example भवान् उपविशतु; मा गच्छ;
+      छात्रः सदा पठेत्
 - [ ] Name the four lakāras of the present system and the two families of endings
 - [ ] Read 28 ledger-new words (439 cumulative)
 - [ ] Pass the chapter exam in one 45-minute sitting
@@ -78,7 +81,7 @@ By the end of this chapter the learner can:
 |---|---|---|---|---|
 | 1 | v3.c03.l01 | वयम् गच्छामः · We Go: the Whole Present | grammar | T6 first family, nine cells; अस्, कृ whole; the pronouns वयम्, यूयम्, आवाम्, युवाम्; two doers on a dual verb; the "…" इति frame (labelled); R4 (3pl); sūtra 7.3.101; धावति · क्रीडति · रक्षति · स्मरति · चिन्तयति · भ्रमति · नृत्यति |
 | 2 | v3.c03.l02 | मह्यम् रोचते · The Second Family of Endings | grammar | T6 second family (लभते); the family by the dictionary's label; मह्यम् … रोचते / रोचन्ते; the R3 card; the honesty line on जयते; लभते · भाषते · वर्धते · शोभते · मन्यते · जायते |
-| 3 | v3.c03.l03 | आसीत् · There Was: the Story Tense | grammar | T7 the imperfect; the augment after the prefix; ऐच्छत्; अस्, कृ and the Ā 3sg as listed cells; R4 (imperfect); प्रविशति · उपविशति · निर्गच्छति · अब्रवीत् · उवाच · आह · पुरा · अथ; upgrade ऋषिः |
+| 3 | v3.c03.l03 | आसीत् · There Was: the Story Tense | grammar | T7 the imperfect; the augment after the prefix; ऐच्छत्; अस्, कृ and Ā अलभत as listed cells; R4 (imperfect); प्रविशति · उपविशति · निर्गच्छति · अब्रवीत् · उवाच · आह · पुरा · अथ; upgrade ऋषिः |
 | 4 | v3.c03.l04 | वदतु, वदेत् · Requests and Advice | conversation | the imperative as a delta card (sūtras 3.4.85, 3.4.86); भवान् + 3rd person; मा + imperative; the optative card (3rd person); न + optative; R4 (imperative); मा · शीघ्रम् · सदा · जीवति · दुःखम् · भक्षयति · प्रयच्छति |
 | 5 | v3.c03.l05 | क्रियापरीक्षा · The Verb Exam | review | the present system on one page; the ten lakāras of the tradition named; the thread-verse overlay; five tasks in one 45-minute sitting |
 
@@ -97,7 +100,7 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
   virāma pairs audio (अगच्छत / अगच्छत्); the augment-drill worksheet.
 - **l04:** the request ladder (गच्छ · गच्छत · गच्छतु भवान्); the "past in front, wish inside" card
   (अगच्छत् · गच्छेत्); the guest dialogue audio; the imperative delta-card worksheet.
-- **l05:** the present-system page and the lakāra wheel (3sg of five verbs in four lakāras); the
+- **l05:** the present-system page and the lakāra wheel (3sg of four verbs in four lakāras); the
   listening dialogue and dictation audio; the exam booklet; chapter quiz and key.
 - **Serial:** one illustration per episode beat (the doves in the net, the flock rising with the
   net, the mouse coming out of its hole, the snares cut), reused in Chapters 4 and 6.
