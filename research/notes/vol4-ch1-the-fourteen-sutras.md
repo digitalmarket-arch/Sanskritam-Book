@@ -1806,6 +1806,14 @@ Every claim a citation reviewer must re-check before the lessons ship.
     इक्, यण्, अक्, एच्, एङ्, यञ्, झल्, जश्, झश्, चय्, इण् and अण् two ways. The plan's inventory also
     names अट्, खर्, चर्, शर्; no lesson opens them in learner text, so they stay in Teacher Notes
     (the Kāśikā's list), and the exam's task B and its retake set use none of them.
+15. **Quiz options re-ordered in all four lessons** (after the review, before the post-fix check):
+    the quiz listings of §§1–4 above keep the order in which the items were drafted; in the lessons
+    the options of some items stand in another order, so that the correct answers are spread over
+    the letters — each letter is the key two to four times in ten questions and no three questions
+    in a row have the same key (l01: 1c 2c 3b 4d 5a 6c 7b 8a 9d 10b · l02: 1b 2a 3d 4a 5c 6c 7b 8d
+    9b 10a · l03: 1c 2d 3b 4a 5c 6b 7a 8d 9b 10c · l04: 1c 2d 3b 4a 5c 6b 7d 8b 9a 10c). The texts
+    of the stems, the options and the explanations are unchanged; the lesson is the binding copy
+    of the order. The rule is course-wide from this chapter on (STYLE_GUIDE).
 
 **Corrections for the plan's §7.6 table (what later chapters need) — entered in the plan on 2026-11-10 as below:**
 

@@ -882,8 +882,8 @@ mid-quiz.
 
 1. According to Pāṇini (1.1.49), a genitive in a rule means: (a) "after" (b) "before" (c) "in
    place of" (d) "the result"
-2. According to Pāṇini (1.1.66), in इको यणचि, अचि means: (a) in a vowel (b) before a vowel (c)
-   after a vowel (d) in place of a vowel
+2. According to Pāṇini (1.1.66), in इको यणचि, अचि means: (a) in a vowel (b) in place of a vowel
+   (c) after a vowel (d) before a vowel
 3. According to Pāṇini, in 7.1.9 अतो भिस ऐस्, अतः is: (a) genitive: in place of short a (b)
    ablative: after short a (c) locative: before short a (d) nominative: the result
 4. According to Pāṇini, in 7.3.101 अतो दीर्घो यञि, अतः is: (a) genitive (b) ablative (c)
@@ -892,14 +892,14 @@ mid-quiz.
    following savarṇa vowel only (c) both sounds, by a heading (d) nothing
 6. According to Pāṇini (6.1.78 with 1.3.10), ओ before a vowel becomes: (a) अय्; (b) अव्; (c) आय्;
    (d) आव्
-7. Derive, according to Pāṇini: which step comes first in देव + भिस् → देवैः? — (a) अ + ऐ → ऐ;
-   (b) भिस् → ऐस्; (c) स् → visarga; (d) अ → आ
+7. Derive, according to Pāṇini: which step comes first in देव + भिस् → देवैः? — (a) भिस् → ऐस्;
+   (b) अ + ऐ → ऐ; (c) स् → visarga; (d) अ → आ
 8. According to Pāṇini, in the padaccheda of a quoted sūtra, the nominative names: (a) what is
-   replaced (b) the result (c) what follows (d) what precedes
+   replaced (b) what precedes (c) what follows (d) the result
 9. The course's form for "the yaṇ substitute" in joined text is: (a) यण् आदेशः; (b) यणादेशः; (c)
    यणदेशः; (d) यणेदेशः
-10. Which statement is FACT, not TRADITION? (a) "6.1.78 makes भवति from भो + अति." (b) "The stem
-    of भवति is भव, bho + a (Whitney)." (c) "According to Pāṇini, अचि means 'before a vowel'."
+10. Which statement is FACT, not TRADITION? (a) "6.1.78 makes भवति from भो + अति." (b) "According
+    to Pāṇini, अचि means 'before a vowel'." (c) "The stem of भवति is भव, bho + a (Whitney)."
     (d) "1.3.10 pairs in order."
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -907,7 +907,7 @@ mid-quiz.
 **Quiz.**
 
 1. (c) — 1.1.49 षष्ठी स्थानेयोगा: §8 Step 3, TRADITION. ((d) is the nominative's job.)
-2. (b) — the locative names what follows; the operation is on what precedes it, 1.1.66 (§8 Step
+2. (d) — the locative names what follows; the operation is on what precedes it, 1.1.66 (§8 Step
    4). ((a) is §12 mistake 1, the locative of a sentence.)
 3. (b) — the result ऐस् is an ending, so it replaces the ending भिस्; अतः is "after" (§8 Step 4).
    ((a) is §12 mistake 2.)
@@ -917,15 +917,15 @@ mid-quiz.
    4, §15). ((a) is §12 mistake 4.)
 6. (b) — four and four pair off in order: ओ is second → अव् — §13 derivation (a). ((a) is §12
    mistake 5.)
-7. (b) — 7.1.9 first: भिस् → ऐस्; then अ + ऐ → ऐ, by 6.1.88; then the visarga, a preview — §13
+7. (a) — 7.1.9 first: भिस् → ऐस्; then अ + ऐ → ऐ, by 6.1.88; then the visarga, a preview — §13
    derivation (b). ((d) is the lengthening of 7.3.101, which has no place here.)
-8. (b) — the nominative names the result (§8 Step 4, §15, TRADITION).
+8. (d) — the nominative names the result (§8 Step 4, §15, TRADITION).
 9. (b) — FACT about the course's text (the joining rule): a consonant-final word is written
    together with the next vowel, and the course uses the Kāśikā's compound (§13, model sentence
    4). (a) is §12 mistake 6; (c) and (d) are error forms built from taught material — a lost long
    vowel; a guṇa vowel where none arises. (यण्णादेशः is not offered: two free words would give
    it by 8.3.32, so it is not an error form.)
-10. (b) — Whitney's analysis of the stem, "bho+a", is FACT (§13); (a), (c) and (d) state what
+10. (c) — Whitney's analysis of the stem, "bho+a", is FACT (§13); (a), (b) and (d) state what
     Pāṇini's rules say: TRADITION (a register item).
 
 Score /10; 7 passes.

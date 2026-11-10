@@ -828,15 +828,15 @@ mid-quiz.
 2. According to Pāṇini (1.1.70), अत् in 7.3.101 stands for: (a) अ only (b) अ and आ (c) आ only (d)
    every a-vowel
 3. Two sounds are savarṇa, according to Pāṇini (1.1.9), when they share: (a) the place only (b)
-   the place and the effort (c) the length (d) the marker
+   the length (c) the marker (d) the place and the effort
 4. According to the Kāśikā, in every rule but 1.1.69 अण् names: (a) अ इ उ (b) अ … ल (c) all
    vowels (d) इ उ
 5. According to the Kāśikā, इण् names: (a) इ उ (b) इ उ ऋ ऌ (c) इ … ल (d) इ … च्
-6. According to Pāṇini, why is there no long vowel in गच्छथ? (a) थ is not a yañ sound (b) the
-   stem ends in आ (c) the ending is plural (d) 6.1.101 blocks it
+6. According to Pāṇini, why is there no long vowel in गच्छथ? (a) the ending is plural (b) the
+   stem ends in आ (c) थ is not a yañ sound (d) 6.1.101 blocks it
 7. Which form has the lengthened stem vowel? (a) पठसि (b) पठामः (c) पठतः (d) पठथ
-8. According to Pāṇini (1.1.69), चु in a rule names: (a) च only (b) च छ ज झ ञ (c) च and श (d)
-   every palatal sound
+8. According to Pāṇini (1.1.69), चु in a rule names: (a) च only (b) every palatal sound (c) च
+   and श (d) च छ ज झ ञ
 9. According to Pāṇini (1.1.69), the य् that 6.1.77 puts in: (a) covers its nasal form too (b)
    covers no family — it is something the rule introduces (c) covers इ (d) covers all
    semivowels
@@ -851,15 +851,15 @@ mid-quiz.
    family; (c) takes ए for savarṇa, but ए uses throat and palate; (d)
    ignores the place.)
 2. (a) — अत् is tapara: short अ only, 1.1.70 (§8 Step 3). ((b) and (d) are §12 mistake 1.)
-3. (b) — 1.1.9: same place and same effort (§8 Step 3). ((a) is §12 mistake 6.)
+3. (d) — 1.1.9: same place and same effort (§8 Step 3). ((a) is §12 mistake 6.)
 4. (a) — the first ण् [§4, §8 Step 7, TRADITION]. ((b) is 1.1.69's own अण्: §12 mistake 3.)
 5. (c) — इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल: always the second ण् [§8 Step 7]. ((a) is §12 mistake 4;
    (b) stops at the wrong marker.)
-6. (a) — 7.3.101 lengthens only before a yañ sound; थ is not one (§13 derivation (b),
+6. (c) — 7.3.101 lengthens only before a yañ sound; थ is not one (§13 derivation (b),
    TRADITION). ((b) is false: the stem गच्छ- ends in short अ.)
 7. (b) — पठामः: the stem-final a becomes ā before the m of the 1st-person ending (Whitney §733,
    FACT; §13). पठसि, पठतः, पठथ keep the short अ.
-8. (b) — चु is udit: the whole च-row, 1.1.69 (§8 Step 3). ((c) and (d) mix the place with the
+8. (d) — चु is udit: the whole च-row, 1.1.69 (§8 Step 3). ((c) and (b) mix the place with the
    row: श and य share the palate but are not in the row.)
 9. (b) — अप्रत्ययः: a letter the rule introduces covers no family (§8 Step 3). ((a) is §12
    mistake 2.)

@@ -884,7 +884,7 @@ retake of the exam is after one week, with the alternative item sets of the Teac
 sitting.
 
 1. The marker of कपय् is: (a) क् (b) प् (c) य् (d) र्
-2. Which pratyāhāra names exactly ए ओ? (a) एच् (b) एङ् (c) इक् (d) अक्
+2. Which pratyāhāra names exactly ए ओ? (a) एच् (b) अक् (c) इक् (d) एङ्
 3. According to the Kāśikā, how many pratyāhāras do Pāṇini's rules use? (a) about 42, by the 1.x
    book's figure (b) 41, by its own tally (c) 14 (d) 30
 4. According to Pāṇini (1.1.70), the tapara आत् of वृद्धिरादैच् stands for: (a) आ only (b) अ आ
@@ -894,8 +894,8 @@ sitting.
 6. According to Pāṇini, which rule pairs ए ओ ऐ औ with अय् अव् आय् आव् in order? (a) 1.1.50 (b)
    1.3.10 (c) 1.1.69 (d) 1.1.71
 7. The fourteen sūtras, according to the HISTORY line of l01 (§4), are: (a) numbered rules of the
-   Aṣṭādhyāyī's first book (b) handed down with the Aṣṭādhyāyī, at its head, but not among its
-   numbered rules (c) a Volume 4 invention (d) part of the Kāśikā
+   Aṣṭādhyāyī's first book (b) part of the Kāśikā (c) a Volume 4 invention (d) handed down with the
+   Aṣṭādhyāyī, at its head, but not among its numbered rules
 8. The 1.x book glossed चय् as "voiceless aspirated". Correct: (a) voiced aspirated (b) voiceless
    unaspirated (c) sibilants (d) nasals
 9. According to Pāṇini, in 7.3.101, अतः is genitive because: (a) the result दीर्घः is a vowel,
@@ -909,7 +909,7 @@ sitting.
 
 1. (c) — य्, the marker of sūtra 12; क and प are its sounds (§15 (1)). (d) is the marker of
    शषसर्. FACT: the text of the sūtras.
-2. (b) — एङ् = ए … एओङ् — §15 (2). (a) runs on to ऐ औ; (c) and (d) stop at ऌ. FACT.
+2. (d) — एङ् = ए … एओङ् — §15 (2). (a) runs on to ऐ औ; (c) and (b) stop at ऌ. FACT.
 3. (b) — 41 by its own list, counted marker by marker and summed in its verse (§15 (2); l01
    §4). (a) is the 1.x figure, printed without its method; (c) is the number of sūtras.
    TRADITION, asked in the frame "According to the Kāśikā".
@@ -919,7 +919,7 @@ sitting.
    "According to Pāṇini".
 6. (b) — four and four, paired in order (§15 (4); l03 §13 derivation (a)). (a) chooses the most
    similar; (c) gives a letter its family; (d) makes a pratyāhāra. TRADITION.
-7. (b) — the HISTORY callout of §4, as l01 §4 printed it. HISTORY, asked on a cited callout this
+7. (d) — the HISTORY callout of §4, as l01 §4 printed it. HISTORY, asked on a cited callout this
    lesson prints; nothing beyond the callout is asked.
 8. (b) — च ट त क प, the first members of the five rows: voiceless and unaspirated (l01 §4 item 1;
    §15 (1)). (a) is no member of चय्; (c) and (d) are other lines of the list. FACT.

@@ -977,15 +977,15 @@ said as the track says it.
    sound and the marker (c) that sound and every sound after it up to the marker (d) every sound
    of the fourteen sūtras
 3. यण् names: (a) य व र (b) य व र ल (c) य व र ल ञ म (d) all consonants
-4. चय् names च ट त क प. These are: (a) voiceless aspirated (b) voiceless unaspirated (c) voiced
-   unaspirated (d) voiced aspirated
-5. Which pratyāhāra contains भ? (a) जश् (b) चय् (c) झश् (d) यण्
+4. चय् names च ट त क प. These are: (a) voiceless aspirated (b) voiced unaspirated (c) voiced
+   aspirated (d) voiceless unaspirated
+5. Which pratyāhāra contains भ? (a) झश् (b) चय् (c) जश् (d) यण्
 6. ह stands in: (a) sūtra 5 only (b) sūtra 14 only (c) sūtras 5 and 14 (d) sūtras 13 and 14
 7. इको यणचि is numbered: (a) 1.1.45 (b) 6.1.77 (c) 8.2.39 (d) 1.1.71
 8. According to Pāṇini, in इति + अवदत् the इ is replaced by य् and not व् because: (a) य् is the
    यण् most like इ (b) व् is not a यण् sound (c) य comes first in यण् (d) अ is a palatal vowel
-9. According to the Kāśikā, the अ in हयवरट् is: (a) a marker (b) one of the sounds listed (c)
-   there for pronunciation (d) a vowel of अच्
+9. According to the Kāśikā, the अ in हयवरट् is: (a) a marker (b) one of the sounds listed (c) a
+   vowel of अच् (d) there for pronunciation
 10. Which pratyāhāra contains ऐ? (a) एङ् (b) एच् (c) इक् (d) अक्
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -998,9 +998,9 @@ said as the track says it.
    itself" (§15). TRADITION, in the frame asked. ((b) is §12 mistake 1: the marker is never named.)
 3. (b) — य … लण्: य व र ल — §15. ((a) stops at the ट् of हयवरट्; (c) runs on past the ण् of लण्;
    (d) is हल्.)
-4. (b) — the first members of the five rows: voiceless, unaspirated [REF:whitney1889 §34]
+4. (d) — the first members of the five rows: voiceless, unaspirated [REF:whitney1889 §34]
    [REF:whitney1889 §35] [REF:whitney1889 §37] (§5). FACT. ((a) is the 1.x error, §4 item 1.)
-5. (c) — झश् = झ भ घ ढ ध ज ब ग ड द; जश् starts at ज and has no भ (§15, the drill row; §12 mistake
+5. (a) — झश् = झ भ घ ढ ध ज ब ग ड द; जश् starts at ज and has no भ (§15, the drill row; §12 mistake
    3).
 6. (c) — हयवरट् and हल् — §15, the two facts; §12 mistake 4.
 7. (b) — 6.1.77 (§4 item 3). TRADITION: the rule's address. ((a) is the 1.x error; (c) is झलां
@@ -1008,7 +1008,7 @@ said as the track says it.
 8. (a) — by 1.1.50 the most similar substitute comes, and इ and य् are both made at the palate
    (§15, step 4). TRADITION. ((b) is false: व् is in यण्; (c) is no reason the rule gives; (d) is
    false: अ is not palatal.)
-9. (c) — "In ह and the rest, the अ is for pronunciation; it is not a marker" (§15). TRADITION,
+9. (d) — "In ह and the rest, the अ is for pronunciation; it is not a marker" (§15). TRADITION,
    in the frame asked.
 10. (b) — एच् = ए ओ ऐ औ; एङ् stops at ओ — §15. ((c) and (d) stop at ऌ.)
 
