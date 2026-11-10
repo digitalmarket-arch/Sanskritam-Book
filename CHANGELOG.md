@@ -4,6 +4,44 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **Research: the v4.c01 fact base** (`research/notes/vol4-ch1-the-fourteen-sutras.md`), verified
+  before drafting by three checkers with every finding challenged, and the chapter frame
+  `curriculum/volume-4/chapter-01/chapter.md` (draft). Volume 4, Chapter 1 — माहेश्वराणि सूत्राणि ·
+  The Fourteen Sūtras: the fourteen sūtras and the pratyāhāra; savarṇa and tapara; the case code
+  of a sūtra; the Chapter 1 exam. 13 ledger-new words planned, 508 → 521; twelve tools. The
+  verification confirmed 25 findings (2 blockers, 9 major, 14 minor) and rejected 5; 63 fixes
+  were applied and 7 were duplicates between checkers. Both blockers were the same point found
+  twice: the आत् of 6.1.87 आद्गुणः had been listed as a tapara letter; it is the ablative of अ and
+  covers अ and आ. Other corrections: the frame no longer promises that every owned vowel join is
+  re-derived; 1.3.3 marks the final consonant of an item as first taught, not the last sound of
+  a rule's wording; a labelled preview line says why the स् of भिस् is kept (1.3.4); the 1.x
+  "~42 pratyāhāras" is quoted beside the Kāśikā's own count and is not called an error; the
+  exam's task D asks only for joins that a teaching lesson derives; the pass rule includes the
+  §19 quiz. Nine editor's decisions are recorded in its §7, among them the re-timed class plans
+  of lessons 1–3 (self-study 43 · 40 · 45 · 40).
+
+### Changed
+
+- **Volume 4 plan §7.6:** eleven rows from the v4.c01 fact base (the entry pattern of Station 0;
+  the spelling list of the e-texts; the pratyāhāra count as the Kāśikā's own; four-column
+  derivation tables; the आत् of 6.1.87 is not tapara; 1.3.4 and the endings; the pass rule of the
+  chapter exams; timing a class plan from its exercises).
+
+### Fixed
+
+- **Erratum, v1.c01.l02 §4** (the Māheśvara sūtras): the lesson said the Aṣṭādhyāyī "opens
+  with" the fourteen sound-lists; they are handed down at its head and are not among its numbered
+  rules. The same passage called the arrangement one of "maximum rule-writing efficiency" and
+  told the drum legend with "a verse ascribed to Nandikeśvara", a "cosmic dance" and "the
+  inventory's perfection". It now says what the arrangement does (a rule can name a whole span
+  of sounds with a two-letter abbreviation) and tells the legend as "a traditional telling",
+  with no verse, no ascription and no praise word, as Volume 4 tells it. The register of the
+  callout (TRADITION) and the two Volume 1 exam cards that sort it are unchanged.
+
 ## [0.17.0] — 2026-11-10
 
 Volume 3, Chapter 5 — सर्वनाम-अव्यय-समासाः · Pronouns, Indeclinables, Compounds — is reviewed

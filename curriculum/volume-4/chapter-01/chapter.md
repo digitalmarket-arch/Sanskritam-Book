@@ -22,8 +22,8 @@ and recited, with the marker that closes each line (1.3.3, 1.3.9) and the praty�
 a marker naming every sound up to it (1.1.71); with them इको यणचि reads "ik before ac: yaṇ", and the
 learner derives इति + अवदत् → इत्यवदत् step by step. The 1.x book's errors in this territory are
 corrected in the open, each quoted with its page: चय् is voiceless *unaspirated*, झश् is not जश्,
-the memory aid gains sūtra 12, इको यणचि is 6.1.77 and not 1.1.45, and the "~42 pratyāhāras" gives
-way to the Kāśikā's own count, printed with its method. The Śiva-drum story stays what the 1.x book
+the memory aid gains sūtra 12, and इको यणचि is 6.1.77 and not 1.1.45; the "~42 pratyāhāras", a count
+given without its method, is quoted beside the Kāśikā's own count (41 named marker by marker, with ञम् and the र of 1.1.51 noted apart), printed with its method. The Śiva-drum story stays what the 1.x book
 called it, a legend, labelled and never assessed. The second lesson asks how long a letter in a rule
 reaches: a short vowel stands for its whole family of savarṇas (1.1.69, with 1.1.9), a vowel
 written with त् for its own length only (1.1.70) — which explains विद्यालयः and, at last, why
@@ -33,7 +33,7 @@ result (1.1.49, 1.1.66, 1.1.67), with 1.3.10 for pairing in order; with it the l
 vowel rule of Volume 3, derives the last step of भवति (भो + अति, the first step of the volume's
 भवति thread) and the -ऐः of देवैः (7.1.9), and from now on derives forms unaided. The fourth lesson
 is the Chapter 1 exam, one closed-book sitting of 45 minutes, in which Volume 3's vowel joins are
-re-derived, according to Pāṇini, as Pāṇini's rules. Every quoted sūtra is printed as the
+re-derived, according to Pāṇini, step by step from his rules. Every quoted sūtra is printed as the
 Aṣṭādhyāyī data file gives it; every commentary line is "text of the GRETIL e-text".
 
 ## Goals
@@ -46,9 +46,9 @@ Aṣṭādhyāyī data file gives it; every commentary line is "text of the GRET
   ण्
 - Read the case code of a sūtra — genitive, locative, ablative, nominative — with the padaccheda
   printed beneath it, and tell the two अतः apart
-- Re-derive, with full understanding and in table form, every owned vowel join of v3.c04.l01,
-  according to Pāṇini
-- The 1.x errors corrected in the open (IR-017, IR-018, the "~42 pratyāhāras"); the legend kept
+- Re-derive, with full understanding and in table form, the owned vowel joins of v3.c04.l01 by
+  kind (सवर्णदीर्घ, गुण, वृद्धि, यण्, अयादि), according to Pāṇini
+- The 1.x errors corrected in the open (IR-017, IR-018), and the "~42 pratyāhāras" set beside the Kāśikā's counted method; the legend kept
   as TRADITION, never assessed (IR-036); the HISTORY of the sūtras and of Pāṇini hedged and keyed
 - The Hindi parallels: the order of the Hindi वर्णमाला against the sūtras' order; दीर्घ संधि and
   सवर्ण; के स्थान पर / से पहले / के बाद against the bare cases of a rule
@@ -64,7 +64,7 @@ By the end of this chapter the learner can:
 - [ ] Say which sounds a letter written in a rule stands for, and why, according to Pāṇini
 - [ ] Name the case and the job of each word of a quoted sūtra, and say what the rule replaces, by
       what, and where
-- [ ] Derive, according to Pāṇini, in table form, every owned vowel join (नास्ति, विद्यालयः,
+- [ ] Derive, according to Pāṇini, in table form, five owned vowel joins (नास्ति, विद्यालयः,
       सूर्योदयः, तत्रैव, इत्यवदत्), भवति from भो + अति, नयति, and देवैः, रामैः
 - [ ] Say and write sentences about the sound system in Sanskrit, joined, with the pause form
       beneath

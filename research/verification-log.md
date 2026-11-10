@@ -967,6 +967,20 @@ plan gives it; (10) यदा … ततः is good Sanskrit: keys expect तद
 option offers ततः as wrong; (11) the errata of the fact base's §8 (two lines of v2.c06.l04)
 are approved and applied.
 
+## Erratum — v1.c01.l02 §4, the Māheśvara sūtras (2026-11-10)
+
+Found by the v4.c01 fact base (its §8 and open item 4) and decided by the editor (its §7,
+decision 4).
+
+| Claim as shipped | Source | Verdict | Where |
+|---|---|---|---|
+| "The Aṣṭādhyāyī opens with fourteen little sound-lists" | the Aṣṭādhyāyī data file (3,983 numbered sūtras, the fourteen not among them); the Kāśikā's comment on the fourteen, which precedes 1.1.1 [REF:maheshvarasutras] [REF:kashika] | ✅ corrected: "is handed down with fourteen little sound-lists at its head" | v1.c01.l02 §4 |
+| "arranged for maximum rule-writing efficiency" | STYLE_GUIDE §7 (no claim of scale without a number, a method and a source) | ✅ reworded to what the arrangement does: a rule can name a whole span of sounds with a two-letter abbreviation | v1.c01.l02 §4 |
+| the legend told with "a verse ascribed to Nandikeśvara", "at the close of his cosmic dance" and "honoring the inventory's perfection" | Volume 4 plan §7.3 Q2 (no verse and no ascription without a citable edition) | ✅ reworded: "In a traditional telling, Śiva danced and sounded his two-headed drum … fourteen times"; still TRADITION, still never assessed for its content | v1.c01.l02 §4 |
+
+The two Volume 1 exam cards that ask for the register of the legend (v1.c01.l05 task D, v1.c02.l07
+task D) are unchanged: they test the label, not the wording.
+
 ## Volume 4 plan — how it was made and checked (2026-11-10)
 
 `research/notes/vol4-plan.md` binds the six chapter fact bases of Volume 4 — पाणिनीयम् · The

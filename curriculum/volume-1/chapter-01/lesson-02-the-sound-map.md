@@ -404,15 +404,15 @@ compactness and completeness:
 > remains a landmark in the history of linguistics — a full grammar, compressed with
 > near-algebraic economy. [REF:cardona1997]
 
-The Aṣṭādhyāyī opens with fourteen little sound-lists — the varṇa inventory arranged for
-maximum rule-writing efficiency. The tradition calls them the Māheśvara sūtras, "the sūtras
-of the great lord Śiva":
+The Aṣṭādhyāyī is handed down with fourteen little sound-lists at its head — the varṇa
+inventory arranged so that a rule can name a whole span of sounds with a two-letter
+abbreviation. The tradition calls them the Māheśvara sūtras, "the sūtras of the great lord
+Śiva":
 
-> **[TRADITION · परम्परा]** In the traditional telling, preserved in a verse ascribed to
-> Nandikeśvara, Śiva, at the close of his cosmic dance, sounded his two-headed drum (ḍamaru)
-> fourteen times — and from those fourteen beats Pāṇini received the fourteen sound-lists that
-> open his grammar. The tradition itself tells this as a story of inspiration, honoring the
-> inventory's perfection.
+> **[TRADITION · परम्परा]** In a traditional telling, Śiva danced and sounded his two-headed
+> drum (ḍamaru) fourteen times — and from those fourteen beats Pāṇini received the fourteen
+> sound-lists that stand at the head of his grammar. The tradition tells this as a story of
+> inspiration.
 
 Notice what we just did — and what this course will always do. The 4,000 sūtras, the date,
 the historical Pāṇini: evidence-based claims, cited. The drum of Śiva: a story the tradition
