@@ -2769,6 +2769,7 @@ still to come: a later fact base follows this table, not the lines it corrects.
 | v3.c05 | §1.5, serial episode 5: "the doves fly to the mouse's burrow" | As built: episode 3 had already freed the doves, so episode 5 tells the same flight again with names, in four parts (c05.l01–l04 §17: the names in the sky; the doves ask about the mouse; the burrow and the mouse coming out; the snares cut, with the mouse's own *aham alpa-śaktiḥ, dantāś ca me komalāḥ*) and one new exam page (task D, sharing no line with the four parts). c06.l02's Teacher Notes list every departure (the c05 fact base's table 0.I) (deviation 7) |
 | v3.c05 | c05 exam shape: task A "an 8-sentence paragraph"; B 8 and C 10 minutes | Task A is eight separate sentences, each with its own antecedent and speaker; 2 minutes of instructions inside the 45, B 7 and C 9; Station 0 about 15 minutes before the sitting (room time about 60), timed from its two items' counts (deviation 9; the c05 fact base's §7 item 7) |
 | v3.c05 | no self-study minutes for the chapter's lessons | 35 · 52 · 45 · 45 · 45, each §21 adding up. First set at 35 · 40 · 40 · 40 · 45; Pass A moved lesson 3's quiz to homework, and Pass B moved lesson 2's exercise 1, §16 and quiz and lesson 4's quiz to homework, because their class slots could not hold them (deviation 14) |
+| v3.c05 | c05.l04 block, the case-tatpuruṣa row: विद्यालयः = विद्यायाः आलयः, a genitive; nothing on a dative vigraha | A dative vigraha is not accepted for विद्यालयः or जलपात्रम् — विद्यायै आलयः, जलाय पात्रम् — in keys, Station 0 keys and exams: the Kāśikā on 2.1.36 makes the dative tatpuruṣa only where the first member is made from the second (यूपाय दारु → यूपदारु) and refuses it for रन्धनाय स्थाली. A compound that can be read two ways (अल्पशक्तिः, नीलकण्ठः, शुभरात्रिः, प्रियमित्रम्) has one answer only in its context: every prompt gives the compound's use, and where no context is given a key accepts either analysis (c05.l04 and c05.l05 §22; v4.c04 continues) |
 
 Rules the chapter reviews settled, binding on later chapters: a form that is not yet taught
 may not stand even as a wrong option of a quiz or exercise item; `self_study_minutes` covers
@@ -2791,3 +2792,11 @@ item as asked; a dictation's items are not printed where the learner writes them
 hearing; a class slot must be able to hold what is put in it, and what cannot fit goes to
 homework; §3 reaches every lesson that review_of lists; a quotation in quotation marks is
 verbatim from a source that was opened.
+Added at the Chapter 5 review: a recognition-only cell or kind is never a wrong option; the Δ
+cards carry the model table's marks; quiz options of two or more words are printed joined, and
+all the options of one item alike; a compound that can be analysed two ways has one answer
+only in its context, and a key accepts either analysis where no context is given; no
+contingency clause stands in a timing plan; a statement about what an earlier lesson taught
+is checked by grep; an exam's unseen passage repeats no line of the lessons, and each of its
+questions is answerable from the passage alone; a reviewer returns a record of what was
+opened and checked.

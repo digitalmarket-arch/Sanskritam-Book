@@ -849,6 +849,124 @@ University of the Panjab, 1927; repr. Delhi: Motilal Banarsidass, 1967) is searc
 page not opened, while the passage itself (Nirukta 6.28) and the Ṛgveda verse (10.29.1) were
 read in the local GRETIL e-texts.
 
+## Chapter v3.c05 — research verdicts (2026-11-10)
+
+Fact base: research/notes/vol3-ch5-pronouns-indeclinables-compounds.md, written from the plan's
+§4.5 and checked before drafting by three checkers (forms, facts, contract), every finding
+challenged: 52 findings confirmed (3 blockers, 19 major, 30 minor), 3 rejected; 79 fixes
+applied, 7 found already made, 16 duplicates between checkers. Among the blockers: a key that
+printed a form neither joined nor in pause form, and a row that starred the good Sanskrit यदा …
+ततः as a mistake. The editor's eleven decisions are in its §7.
+
+| Claim | Source checked | Verdict | Lands in |
+|---|---|---|---|
+| The status marks, one wording everywhere (✓ productive, ◐ recognition, ○ display); no objective, exercise, quiz item, homework task, Station 0 key or exam task demands or scores a ◐ cell | STYLE_GUIDE §8; plan §0, §1.3, D15 | ✅ policy; corrected at review: a recognition-only cell (अस्मै) stood as a wrong quiz option in l02, and the recognition-only kind द्विगु as a wrong option in l04; a Station 0 key named a recognition-only cell; homework asked for recognition-only duals and a recognition-only kind; one wording for the third mark throughout | all |
+| The printing: every course-written text joined, with its pause form beneath; tables, cited forms and vigraha tables in pause form; a compound one word in the pause form; the learner's compositions joined from l01 | STYLE_GUIDE §3.1; the Chapter 4 fact base, row 0.2; plan §1.4, D10 | ✅ taken over from Chapter 4 unchanged; corrected at review: quiz options of two or more words printed joined, one unjoined seam joined, every Devanagari line of the exam given its own IAST; 21 notes in a parenthesis directly after a Devanagari word moved into square brackets by the editor's sweep | all |
+| The joins allowed: Chapter 4's rules and stops; the seams Chapter 4 marks ◐ avoided — a relative clause ending in -न् closed by a comma before its correlative; कश्चिन्नृपः only as one labelled recognition line | the Chapter 4 fact base, rows 0.3–0.12 and tables 0.A–0.C; [REF:whitney1889 §161]; [REF:whitney1889 §208] | ✅ every seam re-derived; the model sentence is कश्चिद्व्याध आसीत्, by decision 2; corrected at review: l03 said Chapter 4 has no row for न् + त, which it has, as recognition | all |
+| अस्मद् and युष्मद्: every singular cell and the plural nominative, accusative, instrumental and genitive ✓, the duals and the other plural cells ◐; the short forms are accentless and never stand first or where emphasis is laid; dative plural ≠ ablative plural | [REF:whitney1889 §491]; [REF:whitney1889 §494]; [REF:ashtadhyayi 8.1.18]; [REF:ashtadhyayi 8.1.24]; [REF:kashika 8.1.24] | ✅ every cell re-derived against §491a; the plan's locator for the verse-quarter rule corrected (8.1.18, not Whitney §491b; Teacher Notes only, never tested) | l01 |
+| Sūtra 8.1.22 तेमयावेकवचनस्य and the नमस्ते thread, step 3: the three-line proof (2.3.16; 8.1.22; 8.3.34) | [REF:ashtadhyayi 8.1.22]; [REF:kashika 8.1.22]; [REF:ashtadhyayi 2.3.16]; [REF:ashtadhyayi 8.3.34] | ✅ text in the data file, gloss and examples in the Kāśikā; 2.3.16 and 8.3.34 re-quoted, not counted again; corrected at review: the hook said the learner had never been told what the ते of नमस्ते is (v1.c05.l02 and v3.c01.l03 say it) | l01 |
+| भवत् "Your Honour" in its listed cells, with भवती and भवन्तः and the third-person verb; the R6 card (-वान्, -मान्, महान्); सखा and सखे | [REF:whitney1889 §343]; [REF:whitney1889 §450]; [REF:whitney1889 §452]; [REF:whitney1889 §453]; [REF:whitney1889 §456] | ✅ cells re-derived against §453's भगवन्त् table; Whitney's view of the origin of भवत् in Teacher Notes only; corrected at review: the सखा callout restores Whitney's clause on सख्या and सख्ये; objective 3 listed six of the twenty productive cells of भवत् and भवती | l01 |
+| तद् in three genders as the model of the pronominal declension; सः and सा from one stem, every other cell from त-; IR-025, the 1.x "स् → त्" withdrawn | [REF:whitney1889 §495]; [REF:whitney1889 §496]; [REF:whitney1889 §176] | ✅ identical to the plan's table cell for cell; the oblique duals ◐, as on the v3.c02.l04 dual card | l02 |
+| The Δ cards: एतद्, यद्, किम् with its feminine, सर्व, अन्य, एक; पर and स्व as plain a-adjectives | [REF:whitney1889 §499]; [REF:whitney1889 §500]; [REF:whitney1889 §504]; [REF:whitney1889 §509]; [REF:whitney1889 §523]; [REF:whitney1889 §524]; [REF:whitney1889 §525]; [REF:apte1890 s.v. पर]; [REF:ashtadhyayi 7.1.25]; [REF:ashtadhyayi 1.1.34]; [REF:ashtadhyayi 1.1.35] | ✅ the oblique duals of each card ◐, as l02 prints them (the fact base aligned at Pass D); corrected at review: the ष of एतेषाम् explained from the right form; the Δ cards carry the model table's marks | l02 |
+| इदम्: four stems (Whitney §502a); its key cells ✓, the rest ◐; अदस् not taught in Volume 3 | [REF:whitney1889 §501]; [REF:whitney1889 §502] | ✅ the plan's ◐ for the key cells corrected (c05#3); अदस् one Teacher-Notes line (decision 3); corrected at review: Whitney §502 on the stems of इदम् no longer narrowed | l02 |
+| Sūtra 1.1.27 सर्वादीनि सर्वनामानि | [REF:ashtadhyayi 1.1.27]; [REF:kashika 1.1.27] | ✅ corrected at review: the Kāśikā's examples printed in full, as the fact base gives them | l02 |
+| The indefinites: कः, का, किम् + चित् or अपि; कापि from का + अपि; only कश्चित् and कदाचित् counted | [REF:whitney1889 §507]; [REF:whitney1889 §1103] | ✅ plan c05#7 applied; the oblique indefinites display only; corrected at review: the quotation from Whitney §507 made exact | l02 |
+| The correlative grid: -तः, -त्र, -था, -दा | [REF:whitney1889 §1097]; [REF:whitney1889 §1098]; [REF:whitney1889 §1099]; [REF:whitney1889 §1101]; [REF:whitney1889 §1103]; [REF:whitney1889 §505] | ✅ the four rows located (§1098, §1099, §1101, §1103); corrected at review: a key accepts इत्थम् beside एवम् and तथा | l03 |
+| The relative–correlative sentence: the relative clause first, Whitney's "very decided preference"; each pronoun in its own clause's case | [REF:whitney1889 §512]; [REF:whitney1889 §1132] | ✅ keys expect तदा after यदा and accept ततः, by decision 10; keys accept the main clause first | l03, l05 |
+| The particles: च, वा, हि, तु never first; एव and इव | [REF:whitney1889 §1102]; [REF:whitney1889 §1122]; [REF:whitney1889 §1133]; [REF:whitney1889 §1077]; [REF:apte1890 s.v. हि] | ✅ corrected at review: "तु never stands first" no longer rests on citations that do not say it; Whitney §1102 cited beside §1122 for the place of एव and इव, at Pass C, second round | l03 |
+| The words placed with the genitive: अधः, उपरि, समीपे | [REF:whitney1889 §1130]; [REF:apte1890 s.v. अधस्] | ✅ | l03 |
+| Sūtras 1.1.37 स्वरादिनिपातमव्ययम् and 1.4.59 उपसर्गाः क्रियायोगे; 1.4.58 in Teacher Notes | [REF:ashtadhyayi 1.1.37]; [REF:kashika 1.1.37]; [REF:ashtadhyayi 1.4.59]; [REF:kashika 1.4.59]; [REF:ashtadhyayi 1.4.58] | ✅ corrected at review: the callout words both as the naming rules they are, as the Kāśikā reads them, and is printed once; an e-text typo in a Kāśikā gloss corrected | l03 |
+| The upasarga card: twenty-two in the tradition's list, nineteen in Whitney's | [REF:ashtadhyayi 1.4.58]; [REF:kashika 1.4.58]; [REF:whitney1889 §1077]; [REF:whitney1889 §1121] | ✅ the Kāśikā e-text's typos (*rus*, *up*) corrected on the card; corrected at review: the 1.x list's errors (अति and उप twice; नि and अपि missing) listed in l03 §22 | l03 |
+| Compounds: the four rules, the four kinds produced (द्वन्द्वः, तत्पुरुषः, कर्मधारयः, बहुव्रीहिः), द्विगुः, उपपद and अव्ययीभावः recognised; the names that are examples of themselves | [REF:whitney1889 §1246]; [REF:whitney1889 §1247]; [REF:whitney1889 §1249]; [REF:whitney1889 §1263]; [REF:whitney1889 §1293]; [REF:whitney1889 §1312]; [REF:whitney1889 §1313] | ✅ lesson 4's objective 4 dropped (decision 5); the feminine of a bahuvrīhi withheld until Whitney §1294 ff. is opened (decision 4); corrected at review: the seam of हिमालयः is अ + आ; the vigraha of सज्जनः is सन् जनः; the claim that the learner had met सिंहमूषकौ and नीलकण्ठः before withdrawn; an accented citation form removed | l04 |
+| Sūtras 2.2.29 चार्थे द्वन्द्वः and 2.2.24 अनेकमन्यपदार्थे | [REF:ashtadhyayi 2.2.29]; [REF:kashika 2.2.29]; [REF:ashtadhyayi 2.2.24]; [REF:kashika 2.2.24] | ✅ numbers and texts in the data file; the Kāśikā's example on 2.2.24 | l04 |
+| A genitive tatpuruṣa is not resolved with a dative: विद्यालयः, जलपात्रम् | [REF:kashika 2.1.36] | ✅ found at review: l04 and the exam's keys accepted a dative vigraha (in the exam a blocker); the Kāśikā on 2.1.36 keeps the dative compound for a product and its material (यूपदारु) and refuses it for रन्धनाय स्थाली | l04, l05 |
+| A compound that can be read two ways (अल्पशक्तिः, नीलकण्ठः, शुभरात्रिः, प्रियमित्रम्) | l04 §8 (the context test); l04 §22 | ✅ the context decides: every prompt in l04 §18 and §19 and in the exam gives the compound's use, and where no context is given a key accepts either analysis (settled at review) | l04, l05 |
+| Hindi parallels; the six kinds of समास and the six names of सर्वनाम in the Hindi school textbooks | [REF:kachru2006], cited bare; current Hindi school material (web) | ✅ decision 1, outcome at Pass C: confirmed for the school textbooks only, Guru's own page not opened, so both lines are credited to the textbooks with no key and [REF:guru1952] is not cited in this chapter (the six kinds at the first round, the six names at the second); corrected at review: Hindi यह / वह no longer said to serve three genders | l01–l05 |
+| The serial, episode 5: the flight told again with names, in four parts and a new exam page | [REF:hitopadesha mitralābha]; GRETIL `hitop_u.htm`, by line (table 0.I) | ✅ every statement re-found by line; departures in Teacher Notes; corrected at review: the parts across l03 and l04 agree; three lines of the exam's passage that restated lesson lines reworded | l01–l05 |
+| Hitopadeśa 1.40 in l03 §13: display, read in homework only | `hitop_u.htm` l. 483–486 | ✅ never drilled, asked or scored | l03 |
+| The 1.x pages this chapter replaces: pronouns (pp. 111–114), avyaya and the upasargas (pp. 114–115), compounds (pp. 42–43, 82–84) | the 1.x PDF | ✅ at Pass C, first round: opened, the errors listed with their corrections in the Teacher Notes of l02–l04 (रामसीतौ for रामसीते; an avyayībhāva glossed as a noun; "सर्वनाम-स्थानीय"; अति and उप doubled; 1.1.37 glossed from स्व for स्वर्); at the second round the 1.x lesson "6 Samāsa Types" (pp. 83–84) added to l04's list, with 1.2.42 and 2.1.23 | l02–l04 |
+| No form called common or frequent in the course's own voice | STYLE_GUIDE §7; [REF:whitney1889 §512] | ✅ the 1.x claims of scale ("among the most common words") not repeated | all |
+| The exam: one closed-book 45-minute sitting of five tasks; task D printed joined only; Station 0 before it | plan §4.5; [REF:cepeda2006] for the bookings | ✅ task A is eight separate sentences (deviation 9); corrected at review: Station 0 re-timed to about 15 minutes and the room time stated as about 60; task D's second question asks what only the passage tells; the Hindi explanation no longer prints the key of a task item | l05 |
+| Station 0 bookings, worded once: three arriving from Chapter 4, ten booked in Chapter 5 | the Chapter 4 lesson files (v3.c04.l04 §20, v3.c04.l05 §20); [REF:cepeda2006] | ✅ diffed against the files on disk: identical; corrected at review: a Station 0 prompt and a booked item of the exam gave each other away | l01–l05 |
+| The headwords against Apte and Monier-Williams | [REF:apte1890]; [REF:monierwilliams1899] | ✅ corrected at review: quotations from Apte made exact; at Pass C, Apte found to have the headword इदम् | l01–l04 |
+| Ledger 460 → 464 → 472 → 480 → 488 → 488 (28 ledger-new; upgrade row शक्तिः; vocabulary_count 4 · 8 · 8 · 9 · 0; cells drilled 46 · 73 · 0 · 0 · 0 new, 119 reviewed in the exam) | STYLE_GUIDE §8 rules 1–15; `ledger-all.tsv` (872 rows) and the 21 Chapter 4 headwords | ✅ no double count; pronoun cells, built indefinites and transparent compounds add 0; only नीलकण्ठः and पादपः among the compounds count | all |
+
+## Review-pass findings — v3.c05 (2026-11-10)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | Accuracy, lesson by lesson, every finding verified by skeptics: 58 confirmed (3 blockers, 25 major, 30 minor), none rejected. Lesson 1: 10 (3 major, 7 minor) — the hook said the learner had never been told what the ते of नमस्ते is (v1.c05.l02 and v3.c01.l03 say it) and dated मया and त्वया to Volumes 1–2; the सखा callout dropped Whitney's clause on सख्या and सख्ये; objective 3 recast without a parenthesis of forms after a Devanagari word; quiz options of two words printed joined; one unjoined seam joined; the contingency in the load note removed. Lesson 2: 12 (2 blockers, 6 major, 4 minor) — a recognition-only cell (अस्मै) stood as a wrong quiz option, and Hindi यह / वह were said to serve three genders; the ष of एतेषाम् was explained from the wrong form; रामाः was dated to Volume 2; the Kāśikā's examples under 1.1.27 were cut short; Whitney §502 on the stems of इदम् was narrowed; homework asked for recognition-only duals; quotations from Whitney §507 and Apte made exact. Lesson 3: 14 (5 major, 9 minor) — the callout on 1.1.37 and 1.4.59 now words both as the naming rules they are, as the Kāśikā reads them, and is printed once; the lesson said Chapter 4 has no row for न् + त; the quiz moved from a 2-minute class slot to homework (self-study 40 → 45 minutes); a key accepts इत्थम् beside एवम् and तथा; "तु never stands first" no longer rests on citations that do not say it. Lesson 4: 12 (8 major, 4 minor) — the seam of हिमालयः is अ + आ; the claim that the learner had met सिंहमूषकौ and नीलकण्ठः before withdrawn; the vigraha of सज्जनः is सन् जनः, both members in one case and gender; a dative vigraha was accepted for a compound the tradition does not resolve so; a recognition-only kind stood as a wrong quiz option; an accented citation form removed; a key accepts स्वागतम्. Lesson 5: 10 (1 blocker, 3 major, 6 minor) — two keys accepted a dative vigraha for a genitive tatpuruṣa, which lesson 4 calls wrong (the Kāśikā on 2.1.36 keeps the dative compound for a product and its material); three lines of the unseen passage restated lines of lessons 3 and 4 and were reworded; a Station 0 prompt and a booked item gave each other away; the Hindi explanation printed the key of a task item; every Devanagari line given its own IAST. | fixed; pass |
+| B | Policy and load (10 confirmed: 8 major, 2 minor; none rejected): lesson 2 could not be taught in 45 minutes as written — exercise 1, the conversation and the quiz moved to homework (self-study 40 → 52 minutes); lesson 4's quiz moved to homework so that Station 0 can hold its second item (40 → 45); the exam's Station 0 re-timed and the room time stated as it is (about 60 minutes); a Station 0 key named a recognition-only cell; a homework task asked for a recognition-only kind; objective 3 of lesson 1 listed six of the twenty productive cells of भवत् and भवती; task D's second question could be answered from memory and now asks what only the passage tells; notes after Devanagari words moved out of parentheses. | fixed; pass |
+| C, first round | Citations (3 confirmed: 2 major, 1 minor; 1 rejected): the 1.x pages this chapter replaces (pp. 42–43, 82, 111–115) were opened and their errors are listed with corrections in the Teacher Notes of lessons 2–4 — रामसीतौ for रामसीते, an avyayībhāva glossed as a noun, "सर्वनाम-स्थानीय", a doubled अति and उप in the list of twenty-two prefixes, 1.1.37 glossed from स्व for स्वर्; the six kinds of समास are confirmed for the Hindi school textbooks but not for Guru's grammar, so the line is credited to the textbooks and its key withdrawn; Apte has the headword इदम्. | fixed; pass |
+| D | Coherence (14 confirmed: 7 major, 7 minor; none rejected): the chapter frame and the exam describe task A as the eight separate sentences it prints; lesson 1 carries the serial illustration the frame books for it; the fact base's Δ-card lines state the recognition-only duals as lesson 2 prints them; GLOSSARY gains eleven terms (सर्वनाम, निपात, विग्रह, द्वन्द्व, तत्पुरुष, कर्मधारय, द्विगु, बहुव्रीहि, अव्ययीभाव, उपपद, प्रादि) and three updated rows (अव्यय, उपसर्ग, समास); the plan's §7.6 gains the Chapter 5 corrections that Chapter 6 and Volume 4 must follow; the serial's parts across lessons 3 and 4 agree; one wording for the third status mark throughout. | fixed; pass |
+| C, second round | Citations again, because the first round returned only three findings and no record of what it had opened; this time the reviewer returned a coverage record (19 lines: every focus point, what was opened, what was found). 3 confirmed (2 major, 1 minor), none rejected; 6 fixes: lesson 2 §7 credits the six सर्वनाम names to the Hindi school textbooks with no key, as lesson 4 does for the six kinds of समास, since Guru's own page was not opened, and its §22 and §27 follow; the 1.x lesson "6 Samāsa Types" (pp. 83–84) added to lesson 4's §22, with 1.2.42 and 2.1.23; Whitney §1102 cited beside §1122 in lesson 3 §15 for the place of एव and इव; an editor's note in the fact base (§7, decision 1) records the outcome. | fixed; pass |
+
+Totals: the four passes confirmed 85 findings (3 blockers, 42 major, 40 minor) and rejected 1;
+254 fixes applied, 3 found already made, 11 duplicates between passes (the editor merged two of
+them by hand in the exam's task D key and its note). With the second citation round: 88
+confirmed findings (3 blockers, 44 major, 41 minor), 1 rejected; 260 fixes applied, 3 found
+already made, 11 duplicates between passes. [REF:guru1952] is not cited in this chapter.
+
+Post-fix verification: nine files (lessons 1–5, chapter.md, the fact base, GLOSSARY.md and
+research/notes/vol3-plan.md) were re-read in three runs against the commits before the review
+fixes — 16267eb for lessons 1–4, the fact base and chapter.md; 73e815c for lesson 5, GLOSSARY.md
+and the plan — with every claimed leftover challenged (none refuted). Twenty-one leftovers
+survived and were fixed (1 major, 20 minor): 3 in the first run (the exam and the plan rows had
+none; the Teacher Notes of lessons 1, 2 and 4 still called the GLOSSARY terms "candidate
+additions" or promised them "when the chapter ships"), 8 in the second (lessons 3 and 4: the
+major one, a new Teacher Note that said the 1.x book's four kinds are the lesson's, though the
+1.x list has the avyayībhāva and no karmadhāraya; quiz item 9 still offered the
+recognition-only kind द्विगु as a wrong option; notes and pointers still in parentheses after
+Devanagari words in lesson 3; the chapter frame had none), and 10 in the third (lessons 1 and 2
+and the fact base: a fix that had put its own note in a parenthesis after a Devanagari word; a
+1.x line in quotation marks that was not verbatim; two places that still described work moved
+to homework as class work; the fact base's 1.1.27 examples, its audit of the Δ cards and the
+key of the exam passage's second question aligned with the lessons). An editor's sweep by
+script then moved 21 notes that stood in parentheses directly after a Devanagari word into
+square brackets (18 after the second run, 3 more after the third). The second citation round's
+fixes were checked in a fourth run (four files, against 55d6670): 5 minor leftovers fixed
+(lesson 4 §22 names the pages of its item 6 and the tradition's four kinds in its item 7; the
+fact base's row 0.17 cites Whitney §1102e for the place of एव and इव, its row 0.25 records that
+Guru's key is not cited, and its lists of the Whitney sections opened gain §1102), 1 duplicate
+between two verifiers, none refuted. Post-fix verification in all: 26 leftovers fixed (1 major,
+25 minor), none refuted.
+
+Status change: v3.c05 chapter frame and lessons 01–05 `draft` → `reviewed`. At release the
+frame's Assessment was aligned with lesson 5 §18 (task D, ten joined lines; task E, at least six
+lines and one short form not first), and its goals line now names the six kinds of समास of the
+Hindi school textbooks beside the tradition's four, as lesson 4 §4 does. The Volume 3
+frame stays `draft` until Chapter 6 ships.
+
+Decisions recorded with this chapter: a recognition-only cell or kind is never a wrong option;
+the Δ cards carry the model table's marks; quiz options of two or more words are printed
+joined, and all the options of one item alike; a compound that can be analysed two ways has
+one answer only in its context, and a key accepts either analysis where no context is given;
+no contingency clause stands in a timing plan; a statement about what an earlier lesson taught
+is checked by grep; an exam's unseen passage repeats no line of the lessons, and each of its
+questions is answerable from the passage alone; a reviewer returns a record of what was opened
+and checked.
+
+The editor's eleven decisions on the fact base (its §7), 2026-11-10: (1) the Hindi school
+grammar's six kinds of समास and its six names of सर्वनाम print as attributed TRADITION with
+[REF:guru1952] bare, if Pass C confirms each on the web — outcome at Pass C, in two rounds: the
+web confirmed both in current school material only and Guru's own page was not opened, so both
+lines are credited to the Hindi school textbooks with no key and [REF:guru1952] is not cited in
+this chapter; (2) the model sentence of lesson 2 is कश्चिद्व्याध आसीत्, with ✓ seams only, and
+कश्चिन्नृपः stands beneath it as one labelled recognition line; (3) अदस् is not taught: one
+Teacher-Notes line in lesson 2 says that असौ "that one yonder" is not taught in Volume 3 and is
+glossed where met, and its home is recorded in the plan's §7.6 (Volume 4 leaves it
+recognition-only; Volume 5 meets it in reading); (4) the feminine of a bahuvrīhi prints only if
+Pass C opens the Whitney section and it says so, otherwise lesson 4's §12 drops it; (5) lesson
+4's objective 4 is dropped, because an objective is something the lesson can score, and
+objective 3 ends with the labels द्विगु, उपपद and अव्ययीभाव recognised when met and never scored;
+(6) the Chapter 4 exam's bookings: closed, S0-an and S0-ao identical to that lesson's §20; (7)
+each Apte sub-entry is quoted at Pass C, or the row cites Monier-Williams alone; (8) Whitney
+§364, §1121 and §1250 are cited in a lesson only if Pass C opens the section and it says what
+it is cited for; (9) no upgrade row beyond the plan's शक्तिः, and vocabulary_count stays as the
+plan gives it; (10) यदा … ततः is good Sanskrit: keys expect तदा and accept ततः, and no quiz
+option offers ततः as wrong; (11) the errata of the fact base's §8 (two lines of v2.c06.l04)
+are approved and applied.
+
 ## Volume 4 plan — how it was made and checked (2026-11-10)
 
 `research/notes/vol4-plan.md` binds the six chapter fact bases of Volume 4 — पाणिनीयम् · The

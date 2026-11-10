@@ -8,7 +8,7 @@ title:
 volume: 3
 chapter: 5
 cefr: A2
-status: draft
+status: reviewed
 created: 2026-11-10
 updated: 2026-11-10
 ---
@@ -53,7 +53,7 @@ on the learner's own compositions are written joined, with their pause form bene
   समीपे with the genitive; the upasarga card (22, IR-025); sūtras 1.1.37 and 1.4.59
 - Compounds: the four rules (stem form first, ending last, the inner seam, the vigraha); द्वन्द्वः,
   तत्पुरुषः, कर्मधारयः, बहुव्रीहिः productive, द्विगुः, उपपद and अव्ययीभावः for recognition; sūtras 2.2.29
-  and 2.2.24; the Hindi school grammar's names for the kinds of समास
+  and 2.2.24; the six kinds of समास in the Hindi school textbooks, beside the tradition's four
 
 ## Can-do statements
 
@@ -114,10 +114,11 @@ Lesson 5 is the chapter exam, one 45-minute sitting (2 minutes of instructions, 
 replace the noun named in each of eight sentences with the right pronoun cell, with one volume-spiral
 case question (8 min); B join six pairs of sentences with a relative and its correlative, written joined
 (7 min); C name the kind of ten compounds and give each vigraha with its cases (9 min); D read at sight a
-new course-written passage on the serial's fifth episode, ten joined sentences, and answer ten questions
-(10 min); E write a dialogue with a guest using भवान् or भवती, two relative sentences and two compounds
-of one's own, joined with its pause form (9 min). Pass: every task at its pass mark and the §19 quiz at
-7/10. Station 0 (about 15 minutes) runs before the sitting and outside its 45 minutes, so the learner is
+new course-written passage on the serial's fifth episode, ten joined lines, and answer ten questions
+(10 min); E write a dialogue of at least six lines with a guest using भवान् or भवती, two relative
+sentences, two compounds of one's own and one short form not first, joined with its pause form
+(9 min). Pass: every task at its pass mark and the §19 quiz at 7/10. Station 0 (about 15 minutes)
+runs before the sitting and outside its 45 minutes, so the learner is
 in the room about 60 minutes. Station 0 chain: l01 runs v3.c04.l05's +1-day booking and v3.c04.l04's
 +1-week booking; l02 runs l01's +1-day item and v3.c04.l05's +1-week item; from l03 on, each lesson runs
 the previous lesson's +1-day item and the +1-week item of the lesson before that; l05 books the +1-day

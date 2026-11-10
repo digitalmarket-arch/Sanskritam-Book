@@ -383,7 +383,7 @@ Volume 1's published counts stand as printed. They predate rule 3: v1.c02.l06 co
 beside l01's मति as its "dictionary coat". Canonical chapter exits: Volume 1 — 12 · 54 · 114
 · 157 · 214 · 237; Volume 2 — 258 · 277 · 297 · 308 · 328 · 360 (the first four corrected at
 the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned in
-`research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (387, 411, 439 and 460 reached, at
-the reviews of v3.c01, v3.c02, v3.c03 and v3.c04; the rest are planned figures until their
-chapters ship); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
+`research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (387, 411, 439, 460 and 488 reached, at
+the reviews of v3.c01, v3.c02, v3.c03, v3.c04 and v3.c05; 508 is a planned figure until its
+chapter ships); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
 591 · 617 · 627 (119 new headwords, 508 → 627; planned figures until their chapters ship).

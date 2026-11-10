@@ -38,10 +38,10 @@ media:
     - "planned:assets/worksheets/volume-3/v3c05l04-vigraha.pdf"
   quizzes: []
 tags: [grammar, compounds, samasa, vigraha, dvandva, tatpurusha, karmadharaya, bahuvrihi, word-building, joined-text, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---

@@ -55,7 +55,7 @@ at exit.
 | 2 | सुबन्तविस्तारः — Nouns & Cases II | 5 | ✅ reviewed |
 | 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ✅ reviewed |
 | 4 | सन्धिः — Sandhi in Use | 5 | ✅ reviewed |
-| 5 | सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds | 5 | ⬜ |
+| 5 | सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds | 5 | ✅ reviewed |
 | 6 | सम्पूर्णपठनम् — Connected Reading | 5 | ⬜ |
 
 Sequencing fix vs 1.x: sandhi is taught **before** connected reading, and conjugation gets
@@ -309,6 +309,28 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   volume frame (draft), the ledger rules (STYLE_GUIDE §8, rules 16–23), the IMPROVEMENT_REPORT
   rows for IR-016, IR-022, IR-023 and IR-026 and the v5.c03 scope note are in the
   repository. No lesson changed; Volume 3 Chapters 5 and 6 come first.
+- **2026-11-10** — **v3.c05 सर्वनाम-अव्यय-समासाः complete and reviewed (0.17.0)**: the pronoun
+  forms carried whole since Volume 1 put in their tables — अस्मद् and युष्मद् with the short
+  forms मे, ते, नः and वः, which never stand first, and भवान् and भवती with the third-person verb,
+  with sūtra 8.1.22 and the नमस्ते thread closed in a three-line proof; तद् in three genders as
+  the model of the pronominal declension, with the Δ cards for एतद्, यद्, किम्, सर्व, अन्य and एक,
+  the key cells of इदम् and the indefinites (1.1.27), and the 1.x rule "स् → त्" corrected: सः
+  and तम् come from two stems; the correlative grid, the relative–correlative sentence, the
+  particles and the twenty-two upasargas as a reference card (1.1.37, 1.4.59); compounds
+  through their vigraha in four kinds — द्वन्द्वः, तत्पुरुषः, कर्मधारयः, बहुव्रीहिः — with द्विगुः,
+  उपपद and अव्ययीभावः recognised only (2.2.29, 2.2.24). From v3.c05.l01 the learner's own
+  compositions are written joined, with their pause form beneath. The serial's episode 5
+  tells the doves' flight again with names, in four parts and a new exam page. The 1.x book's
+  pronoun, avyaya and compound pages (pp. 42–43, 82–84, 111–115) opened and their errors listed
+  with their corrections in the Teacher Notes of lessons 2–4. Fact base verified before
+  drafting (52 confirmed findings); review passes A–D, Pass A lesson by lesson, with a second
+  citation round that returned a record of what it opened (88 findings confirmed, 3 of them
+  blocking: a recognition-only cell offered as a wrong quiz option, Hindi यह / वह said to serve
+  three genders, and exam keys that accepted a dative vigraha for a genitive tatpuruṣa; 260
+  fixes); post-fix verification of nine files in four runs (26 leftovers fixed, 1 of them
+  major). 28 ledger-new (488 cumulative); 86 reviewed lessons (61 in Volumes 1–2, 25 in
+  Volume 3), validator green, exports current. Next: v3.c06 सम्पूर्णपठनम् — Connected Reading
+  (fact base verified; lessons 1–4 drafted and in review).
 
 ## Content preservation map (from the 1.x curriculum)
 
@@ -320,7 +342,7 @@ Verified-correct 1.x material and where it lands in 2.0:
 | ॐ = a-u-m decomposition (p.8, 21) | v1.c02 (o/au lesson), TRADITION register |
 | Thematic vocab sets (pp.27–36) | v2.c01–c03 |
 | 10-verb bank (p.40) | v2.c04 |
-| rāma/गच्छ paradigms, vowel sandhi, samāsa (pp.37–43) | v3.c01, c03, c05; the vowel-sandhi worked examples (pp.41–42) v3.c04.l01 — देव + आलय → देवालय and सूर्य + उदय → सूर्योदय carried in §13, the 1.x errors listed with their corrections in §22 |
+| rāma/गच्छ paradigms, vowel sandhi, samāsa (pp.37–43) | v3.c01, c03; the samāsa types (pp.42–43) v3.c05.l04 — taught as four kinds (द्वन्द्वः, तत्पुरुषः, कर्मधारयः, बहुव्रीहिः) with their vigrahas, द्विगुः, उपपद and अव्ययीभावः read on the recognition card of §15, the 1.x errors (with those of the six-types lesson, pp.83–84) listed with their corrections in §22; the vowel-sandhi worked examples (pp.41–42) v3.c04.l01 — देव + आलय → देवालय and सूर्य + उदय → सूर्योदय carried in §13, the 1.x errors listed with their corrections in §22 |
 | Graded readers (pp.64–66) | v2.c06 (sandhi-resolved), v3.c06 (original) |
 | IE word pairs, 19 of 20 real relatives (pp.61–62) | v2.c06 (re-sorted: cognate, loan, Latin route, false) |
 | Subhāṣita set + three śānti (pp.47–51) | v2.c06 (first three), v5.c01 |
@@ -328,7 +350,8 @@ Verified-correct 1.x material and where it lands in 2.0:
 | 10 lakāras + forms (pp.74–75) | v4.c03 |
 | Kāraka lesson + Fillmore note (pp.87–89) | v3.c02 (functional), v4.c05 (theory) |
 | √भू 6-lakāra table (pp.127–128) | v4.c03 |
-| tad/idam/numeral paradigms (pp.111–113, 125–127) | v3.c02 (numeral nom./acc.), v3.c05 (tad/idam), v4.c05 (numeral system) |
+| tad/idam/numeral paradigms (pp.111–113, 125–127) | v3.c02 (numeral nom./acc.); v3.c05.l02 (tad/idam) — तद् in three genders re-derived as the model table in §15, सः and सा from one stem and every other cell from त-, the key cells of इदम्, the 1.x errors listed with their corrections in §22; v4.c05 (numeral system) |
+| Upasarga list (p.115) | v3.c05.l03 — the tradition's twenty-two (1.4.58 as the Kāśikā gives it) on the reference card of §15, beside Whitney's nineteen; the 1.x errors (अति and उप printed twice, नि and अपि left out) listed with their corrections in §22 |
 | rājan aṅga/pada/bha example (pp.97–99) | v4.c02 |
 | Gerund/infinitive lesson (pp.106–108) | v4.c04 |
 | Meta-rules 8.2.1/1.1.56/1.4.2 (pp.115–117) | v4.c06 |

@@ -4,10 +4,70 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.17.0] — 2026-11-10
+
+Volume 3, Chapter 5 — सर्वनाम-अव्यय-समासाः · Pronouns, Indeclinables, Compounds — is reviewed
+and shipped: five lessons, 28 ledger-new words, 460 → 488 readable words. The pronoun forms the
+learner has carried whole since Volume 1 (मम, तव, मह्यम्, सः, कः, the ते of नमस्ते, the polite
+भवान्) are put in their tables: the personal pronouns with their short forms, then the pronominal
+declension of तद् and its family. The chapter then teaches the words that never change — the
+correlative grid, the relative–correlative sentence, the particles and the twenty-two upasargas —
+and compounds through their विग्रहः, in four kinds. From v3.c05.l01 on, the learner's own
+compositions are written joined, with their pause form beneath.
 
 ### Added
 
+- **v3.c05, five lessons, reviewed** — every course-written line printed joined, with its pause
+  form beneath:
+  - अहम् त्वम् भवान् · I, You, Your Honour (conversation): अस्मद् and युष्मद् — every singular
+    cell and the plural nominative, accusative, instrumental and genitive productive — with their
+    short forms (मा मे नौ नः; त्वा ते वाम् वः) and where a short form may not stand: never first in
+    a sentence, never where the word carries emphasis; भवत् and भवती with the third-person verb,
+    and the plural भवन्तः; सखा and सखे; the recognition card for the -वान् / -मान् nominatives;
+    sūtra 8.1.22 तेमयावेकवचनस्य; the नमस्ते thread closed in a three-line proof (नमः takes the
+    dative, 2.3.16; ते is the short dative of त्वम्, 8.1.22; ः before त becomes स्, 8.3.34); a
+    guest at the door; headwords स्वयम्, सखा, स्नेहः and विश्वासः, four in all (460 → 464).
+  - सः अयम् यः · This, That, Which (grammar): तद् in three genders as the model table, with सः
+    and सा from one stem and every other cell from त-, which corrects the 1.x book's "स् → त्"; the Δ
+    cards for एतद्, यद्, किम्, सर्व, अन्य and एक; the key cells of इदम्; the indefinites कश्चित्,
+    काचित्, किञ्चित्, कोऽपि, कापि, किमपि; sūtra 1.1.27 सर्वादीनि सर्वनामानि; headwords अयम्, यः, अन्यः,
+    परः, कश्चित्, कदाचित्, स्वः and निजः, eight in all (464 → 472).
+  - अव्ययानि · The Words That Never Change (vocabulary): the correlative grid (-त्र, -तः, -दा,
+    -था); the relative–correlative sentence (यः … सः; यत्र … तत्र; यदा … तदा; यथा … तथा); the
+    particles च, वा, हि and तु, which never stand first, with एव, इव and अपि; अधः, उपरि and समीपे
+    with the genitive; the twenty-two upasargas of the tradition's list as a reference card,
+    beside Whitney's nineteen; sūtras 1.1.37 स्वरादिनिपातमव्ययम् and 1.4.59 उपसर्गाः क्रियायोगे;
+    Hitopadeśa 1.40 read in homework; headwords यदा, तदा, यथा, तथा, एवम्, क्व, हि and अधः, eight in
+    all (472 → 480).
+  - समासाः · Compounds (grammar): the four rules (every member but the last in stem form, only
+    the last inflected, sandhi at the inner seam, the compound understood through its vigraha);
+    four kinds produced and resolved with their vigrahas — द्वन्द्वः, तत्पुरुषः, कर्मधारयः, a kind
+    of तत्पुरुषः, and बहुव्रीहिः — and the context test (the thing itself, or someone who has
+    it); द्विगुः, उपपद and अव्ययीभावः recognised only; sūtras 2.2.29 चार्थे द्वन्द्वः and 2.2.24
+    अनेकमन्यपदार्थे; the compounds of Volumes 1–2 resolved, from विद्यालयः and मातृभाषा to जलज and
+    खग; headwords कण्ठः, नीलकण्ठः, ग्रीवा, चित्रः, पादपः, तुल्यः, उदारः and चरितम्, with शक्तिः as an
+    upgrade (480 → 488).
+  - परीक्षा · Chapter 5 Exam (review): T8, the grid and the four kinds on one page; five tasks in
+    one closed-book 45-minute sitting (eight sentences whose nouns become pronoun cells, with one
+    case question from earlier in the volume; six pairs of sentences joined with a relative and
+    its correlative; ten compounds named and resolved with their cases; a new page of the serial
+    read at sight, joined, with ten questions; a dialogue with a guest, joined over its pause
+    form), with Station 0, about 15 minutes, before it, so about 60 minutes in the room; the
+    ledger stays at 488.
+
+  The serial's episode 5 (our retelling, after Hitopadeśa 1) goes back to the day the doves
+  flew with the net and tells it again with names — the dove-king चित्रग्रीवः and his friend the
+  mouse हिरण्यकः — in four parts through lessons 1–4; the exam's unseen passage is a new page of
+  it. The Hindi parallels are exact contrasts: Hindi आप with a plural verb beside भवान् with the
+  third-person singular; Hindi यह and वह, one form for every gender, beside अयम्, इयम्, इदम्; जो …
+  वह built clause for clause as यः … सः, with the gender marked in Sanskrit only; the six kinds of
+  समास of the Hindi school textbooks beside the tradition's four. Vocabulary counts 4 · 8 · 8 ·
+  9 · 0; cells drilled 46 · 73 · 0 · 0 · 0 new, 119 reviewed in the exam. Self-study minutes:
+  35 · 52 · 45 · 45 · 45.
+- GLOSSARY: सर्वनाम, निपात, विग्रह, द्वन्द्व, तत्पुरुष, कर्मधारय, द्विगु, बहुव्रीहि, अव्ययीभाव, उपपद,
+  प्रादि; the rows अव्यय, उपसर्ग and समास updated.
+- `research/notes/vol3-plan.md` §7.6: the corrections the Chapter 5 fact base and review made to
+  the plan, and the rules its review settled.
 - **The Volume 4 plan** (`research/notes/vol4-plan.md`): the binding contract for the six
   chapter fact bases of Volume 4 — पाणिनीयम् · The Pāṇinian System (B1 → B2), 28 lessons in
   six chapters (4 · 4 · 6 · 5 · 5 · 4). Its spine is derivation first (prakriyā): every
@@ -43,9 +103,6 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   उच्चारणम्) and raised the sūtra count from 237 to 238. The scripts the plan cites are in
   `research/evidence/vol4-plan/`.
 - `curriculum/volume-4/volume.md`: the Volume 4 frame (draft).
-
-- **v3.c05 lessons 1–5, first drafts** (status draft; review passes A–D in progress) — I, you,
-  your honour; this, that, which; the words that never change; compounds; the Chapter 5 exam.
 - **v3.c06 fact base and chapter frame** (`research/notes/vol3-ch6-connected-reading.md`;
   draft): four reading lessons and the Volume 3 exam, 20 ledger-new words (488 → 508), with
   every authentic passage re-found by line in the e-texts. Verified before drafting by three
@@ -64,6 +121,7 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   lexicalised sense counts once when headworded; a headword is chosen by a lesson's need or by DCS
   frequency, never because an exam's unseen passage uses it. Each Volume 4 teaching lesson's
   §14 adds "tools added: n". Planned Volume 4 exits: 521 · 537 · 565 · 591 · 617 · 627.
+- STYLE_GUIDE §8: 488 reached.
 - ROADMAP: Volume 4 planned (note and status log); a Volume 5 note fixing the scope of
   v5.c03 and marking the Mahābhāṣya and Paribhāṣenduśekhara strand "not planned unless the
   ROADMAP adds a strand" (plan §6, Q18).
@@ -81,13 +139,41 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 ### Fixed
 
+- **v3.c05 review (passes A–D, every finding verified by skeptics; Pass C in two rounds):** 88
+  findings confirmed (3 blockers, 44 major, 41 minor) and 1 rejected; 260 fixes applied, 3
+  found already made, 11 duplicates between passes, two of which the editor merged by hand in
+  the exam's task D key. The four passes found 85 (3 blockers, 42 major, 40 minor; 254 fixes) —
+  Pass A, lesson by lesson, 58; Pass B 10; Pass C 3; Pass D 14. Pass C was run a second time,
+  because its first round returned only three findings and no record of what it had opened;
+  with a coverage record of 19 lines it found 3 more (2 major, 1 minor; 6 fixes). Among the
+  findings: lesson 2 offered a recognition-only cell (अस्मै) as a wrong quiz option and said
+  that Hindi यह / वह serve three genders (two blockers); the exam's keys accepted a dative
+  vigraha for a genitive tatpuruṣa, which lesson 4 calls wrong — the Kāśikā on 2.1.36 keeps the
+  dative compound for a product and its material (the third blocker); lesson 2 could not be
+  taught in 45 minutes as written — exercise 1, the conversation and the quiz moved to homework
+  (self-study 40 → 52 minutes), and the quizzes of lessons 3 and 4 moved the same way (40 → 45
+  each); the callout on 1.1.37 and 1.4.59 now words both as the naming rules they are, as the
+  Kāśikā reads them; the vigraha of सज्जनः is सन् जनः; three lines of the exam's unseen passage
+  restated lesson lines and were reworded, and its second question now asks what only the
+  passage tells; the hook of lesson 1 said the learner had never been told what the ते of
+  नमस्ते is; the 1.x pages this chapter replaces (pp. 42–43, 82–84, 111–115) were opened, and
+  their errors are listed with corrections in the Teacher Notes of lessons 2–4 (the 1.x lesson
+  "6 Samāsa Types", pp. 83–84, added to lesson 4's list at the second citation round); the six
+  kinds of समास, at the first round, and the six names of सर्वनाम, at the second, are credited to the
+  Hindi school textbooks with no key, because Guru's own page was not opened, so `guru1952` is
+  not cited in this chapter; at the second round, Whitney §1102 is cited beside §1122 for the
+  place of एव and इव. A post-fix verification re-read nine files (the five lessons, chapter.md, the
+  fact base, GLOSSARY.md and the plan) against the commits before the review fixes, in three
+  runs, with every claimed leftover challenged: 21 leftovers fixed (1 major, 20 minor), none
+  refuted; a fourth run checked the second citation round's fixes in four files: 5 minor
+  leftovers fixed, 1 duplicate between two verifiers, none refuted — 26 in all (1 major, 25
+  minor). An editor's sweep by script moved 21 notes that stood in parentheses directly after a
+  Devanagari word into square brackets.
 - **Erratum, v2.c02.l02 §4 and its Teacher Notes** (वसुधैव कुटुम्बकम्): the statement that the
   line "also appears in the Mahopaniṣad" is withdrawn — no edition was opened and no key
   supports it — and replaced by the locus the project has read, the Pañcatantra, Book 5,
   where one of four brahmin friends speaks the verse; "a famous line" is now "a line". The
   two matching rows of the verification log say the same.
-- **v3.c05 Pass A (accuracy), lessons 1–4:** 48 findings confirmed (2 blockers, 22 major, 24
-  minor), none rejected; 103 fixes applied.
 
 ## [0.16.0] — 2026-11-10
 

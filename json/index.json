@@ -1772,6 +1772,153 @@
       ],
       "path": "curriculum/volume-3/chapter-04/lesson-05-sandhi-exam.md",
       "json": "json/volume-3/v3.c04.l05.json"
+    },
+    {
+      "id": "v3.c05.l01",
+      "title": {
+        "sa": "अहम् त्वम् भवान्",
+        "sa_iast": "aham tvam bhavān",
+        "hi": "मैं, तुम, आप — पुरुषवाचक सर्वनाम",
+        "en": "I, You, Your Honour"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c04.l05"
+      ],
+      "review_of": [
+        "v3.c04.l05",
+        "v3.c04.l04",
+        "v3.c01.l01",
+        "v3.c01.l03",
+        "v3.c01.l04",
+        "v3.c03.l01",
+        "v3.c03.l04",
+        "v2.c05.l02",
+        "v2.c05.l03",
+        "v2.c01.l01",
+        "v2.c01.l04",
+        "v1.c06.l02",
+        "v1.c01.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-05/lesson-01-i-you-your-honour.md",
+      "json": "json/volume-3/v3.c05.l01.json"
+    },
+    {
+      "id": "v3.c05.l02",
+      "title": {
+        "sa": "सः अयम् यः",
+        "sa_iast": "saḥ ayam yaḥ",
+        "hi": "वह, यह, जो — सर्वनाम की रूपावली",
+        "en": "This, That, Which"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c05.l01"
+      ],
+      "review_of": [
+        "v3.c05.l01",
+        "v3.c04.l05",
+        "v3.c01.l05",
+        "v3.c02.l01",
+        "v3.c02.l02",
+        "v3.c02.l04",
+        "v2.c02.l02",
+        "v2.c06.l01",
+        "v1.c06.l04",
+        "v1.c05.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-05/lesson-02-this-that-which.md",
+      "json": "json/volume-3/v3.c05.l02.json"
+    },
+    {
+      "id": "v3.c05.l03",
+      "title": {
+        "sa": "अव्ययानि",
+        "sa_iast": "avyayāni",
+        "hi": "अव्यय — जो शब्द कभी नहीं बदलते",
+        "en": "The Words That Never Change"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c05.l02"
+      ],
+      "review_of": [
+        "v3.c05.l02",
+        "v3.c05.l01",
+        "v1.c02.l06",
+        "v1.c05.l03",
+        "v1.c05.l05",
+        "v2.c05.l01",
+        "v2.c05.l02",
+        "v2.c01.l02",
+        "v2.c06.l02",
+        "v3.c03.l04",
+        "v3.c04.l01",
+        "v3.c04.l02"
+      ],
+      "path": "curriculum/volume-3/chapter-05/lesson-03-words-that-never-change.md",
+      "json": "json/volume-3/v3.c05.l03.json"
+    },
+    {
+      "id": "v3.c05.l04",
+      "title": {
+        "sa": "समासाः",
+        "sa_iast": "samāsāḥ",
+        "hi": "समास — दो शब्द, एक शब्द",
+        "en": "Compounds"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c05.l03"
+      ],
+      "review_of": [
+        "v3.c05.l03",
+        "v3.c05.l02",
+        "v3.c04.l01",
+        "v3.c04.l02",
+        "v3.c02.l04",
+        "v1.c02.l03",
+        "v1.c03.l01",
+        "v1.c03.l02",
+        "v1.c06.l01",
+        "v2.c01.l03",
+        "v2.c03.l03",
+        "v2.c03.l04",
+        "v2.c06.l03",
+        "v2.c06.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-05/lesson-04-compounds.md",
+      "json": "json/volume-3/v3.c05.l04.json"
+    },
+    {
+      "id": "v3.c05.l05",
+      "title": {
+        "sa": "परीक्षा",
+        "sa_iast": "parīkṣā",
+        "hi": "परीक्षा — अध्याय 5 की परीक्षा",
+        "en": "Chapter 5 Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c05.l04"
+      ],
+      "review_of": [
+        "v3.c05.l01",
+        "v3.c05.l02",
+        "v3.c05.l03",
+        "v3.c05.l04",
+        "v3.c04.l05",
+        "v3.c03.l05",
+        "v3.c02.l05",
+        "v2.c06.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-05/lesson-05-chapter-exam.md",
+      "json": "json/volume-3/v3.c05.l05.json"
     }
   ]
 }

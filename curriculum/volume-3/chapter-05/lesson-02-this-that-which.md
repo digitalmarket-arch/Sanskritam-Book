@@ -41,10 +41,10 @@ media:
     - "planned:assets/worksheets/volume-3/v3c05l02-pronoun-family.pdf"
   quizzes: []
 tags: [grammar, pronouns, pronominal-declension, tad, idam, delta-cards, indefinites, sarvanama, suppletion, joined-text, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-10"]
 created: 2026-11-10
 updated: 2026-11-10
 ---
