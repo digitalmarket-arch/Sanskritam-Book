@@ -191,7 +191,8 @@ hissing स्, or a र्. Next to a voiceless consonant it stays voiceless, a
 place of that consonant's row: स् before the dental त, श् before the palatal च; before क
 and प, and at a pause, it is the plain breath /h/. Next to a voiced sound — any vowel, or
 ग, ज, द, ब, म, र, व, ह and the rest — it becomes voiced: र्. After अ and आ the voiced sound
-does not survive as र्: after अ it becomes the vowel ओ, after आ it is lost. That is the
+does not survive as र्: after अ it becomes the vowel ओ before a voiced consonant and before
+अ, and is lost before any other vowel; after आ it is lost. That is the
 whole machine: one sound, two neighbours.
 
 > **[FACT · तथ्यम्]** Spacing the retrieval of a thing over days helps it last: today's
@@ -498,7 +499,7 @@ the rule:
 | सः एकम् | saḥ ekam | स एकम् | sa ekam |
 | भोः राम | bhoḥ rāma | भो राम | bho rāma |
 
-> **[TRADITION · परम्परा]** Pāṇini's sūtra 6.1.132
+> **[TRADITION · परम्परा]** 6.1.132
 > एतत्तदोः सुलोपोऽकोरनञ्समासे हलि (etattadoḥ sulopo 'kor anañsamāse hali)
 > says: the nominative ending of एतद् and तद् — the ः of एषः and सः — is
 > dropped before a consonant. So स गच्छति, एष बालकः; but before a vowel they behave like any
@@ -581,8 +582,8 @@ nothing, the /h/ is gone.
 **Narrow note — ओ:** the ओ of परमो is the long pure /oː/, the same vowel as in कोऽपि. It is
 not a diphthong, and it is not short.
 
-**Narrow note — the avagraha:** ऽ has no sound. कोऽपि is /koːpi/, three short beats and one
-long, with no trace of the lost अ.
+**Narrow note — the avagraha:** ऽ has no sound. कोऽपि is /koːpi/, one long syllable and one
+short, with no trace of the lost अ.
 
 ## 11. Mouth Position
 
@@ -727,7 +728,7 @@ column 5, the other-vowel column 6, the r-finals 6, सः/एषः 2.
 | अन्तः | antaḥ | /ɐn̪t̪ɐh/ | inside, within | अन्दर, भीतर | ledger-new — indeclinable; an r-final, *antar*: अन्तरागच्छ — MW s.v. antar "within, between, amongst, in the middle or interior". **Homograph:** not अन्तः "end", the nominative of the owned अन्त, v1.c05.l02; see §12, mistake 5 |
 | उच्चैः | uccaiḥ | /ut͡ɕt͡ɕɐi̯h/ | loudly; high, aloft | ऊँचे स्वर में, ज़ोर से; ऊँचा | ledger-new — indeclinable; an s-final after ऐ: उच्चैर्वदति — Apte s.v. उच्चैः "Aloft, high, on high, above, upwards", and sense 2, "Loudly, with a loud noise" |
 | शनैः | śanaiḥ | /ɕɐn̪ɐi̯h/ | slowly, gently; gradually | धीरे, धीरे-धीरे | ledger-new — indeclinable; an s-final after ऐ; doubled, शनैः शनैः "slowly, slowly" — Apte s.v. शनैस् "Slowly, gently, quietly. Gradually, by degrees, little by little". Probably related to the owned शनिवासरः; see §22 |
-| तु | tu | /t̪u/ | but, however; (stressing) as for | किन्तु, पर, तो | ledger-new — indeclinable, enclitic: second in its clause, never first; the -ः + त seam: रामस्तु, छात्रास्तु — MW s.v. tu "but"; Apte s.v. तु, "an adversative particle meaning 'but'" |
+| तु | tu | /t̪u/ | but, however; (stressing) as for | किन्तु, पर, तो | ledger-new — indeclinable, enclitic: second in its clause, never first; the -ः + त seam: रामस्तु, छात्रास्तु — MW s.v. tu "but"; Apte s.v. तु, "An adversative particle meaning 'but'" |
 
 Three notes. नमस्ते, कोऽपि, पुनर्मिलामः and every other joined shape of today add 0 to the
 ledger: sandhi spellings never count (STYLE_GUIDE §8 rule 11), and नमस्ते stays counted from
@@ -804,10 +805,10 @@ so ओ and आ, as before ग or व.
 | word | at heart | before a voiced sound | before त | before च |
 |---|---|---|---|---|
 | पुनः | *punar*, r-final | पुनरपि · पुनर्मिलामः | पुनस्तत्र | पुनश्च |
-| प्रातः | *prātar*, r-final | प्रातरेव · प्रातर्गच्छति | — | — |
-| अन्तः "inside" | *antar*, r-final | अन्तरागच्छ | अन्तस्तिष्ठति | — |
-| बहिः | *bahis*, s-final after इ | बहिर्गच्छति | बहिस्तिष्ठति | — |
-| अन्तः "the end" (of अन्त) | *antas*, an -अः word | अन्तो भवति | — | — |
+| प्रातः | *prātar*, r-final | प्रातरेव · प्रातर्गच्छति | like पुनः | like पुनः |
+| अन्तः "inside" | *antar*, r-final | अन्तरागच्छ | अन्तस्तिष्ठति | like पुनः |
+| बहिः | *bahis*, s-final after इ | बहिर्गच्छति | बहिस्तिष्ठति | like हरिश्च |
+| अन्तः "the end", of अन्त | *antas*, an -अः word | अन्तो भवति | like नमस्ते | like रामश्च |
 
 The last row is the homograph: the same letters, a different word, a different column.
 
@@ -1113,10 +1114,10 @@ minutes.
 
 1. नमः ते joined: (a) नमःते (b) नमस्ते (c) नमोते (d) नमश्ते
 2. रामः च joined: (a) रामस्च (b) रामश्च (c) रामो च (d) रामःच
-3. कः अपि joined: (a) कोऽपि (b) कापि (c) कः अपि (d) कस्अपि
+3. कः अपि joined: (a) कोऽपि (b) कोऽअपि (c) कः अपि (d) कस्अपि
 4. छात्राः गच्छन्ति joined: (a) छात्रो गच्छन्ति (b) छात्रा गच्छन्ति (c) छात्राः गच्छन्ति (d)
    छात्रार्गच्छन्ति
-5. गुरुः वदति joined: (a) गुरो वदति (b) गुरु वदति (c) गुरुर्वदति (d) गुरुस्वदति
+5. गुरुः वदति joined: (a) गुरुःवदति (b) गुरुस्वदति (c) गुरुर्वदति (d) गुरुश्वदति
 6. पुनः अपि joined: (a) पुनोऽपि (b) पुनरपि (c) पुन अपि (d) पुनापि
 7. सः गच्छति joined: (a) सो गच्छति (b) स गच्छति (c) सः गच्छति (d) सर्गच्छति
 8. रामः आगच्छति joined: (a) रामागच्छति (b) रामो आगच्छति (c) राम आगच्छति (d) रामर् आगच्छति
@@ -1130,12 +1131,13 @@ minutes.
    a voiced consonant before the voiceless त; (d) puts the श् of च before त.)
 2. (b) — -अः before च gives श्: §15 Step 1. ((a) keeps स् where च asks for श्; (c) is the ओ of a
    voiced consonant; (d) leaves the visarga written into a block.)
-3. (a) — -अः + अ gives ओऽ: §8 Step 5. ((b) fuses like a vowel seam; (c) is the pause form, left
+3. (a) — -अः + अ gives ओऽ: §8 Step 5. ((b) keeps the अ that ओऽ replaces; (c) is the pause form, left
    unjoined in joined text; (d) keeps स् before a vowel.)
 4. (b) — -आः before any voiced sound gives आ: §8 Step 5. ((a) treats -आः as -अः; (c) is the pause
    form left unjoined; (d) treats -आः as -इः.)
-5. (c) — any other vowel + ः before a voiced sound gives र्: §15 Step 1. ((a) treats -उः as -अः
-   and makes it ओ; (b) drops the ः as for -आः; (d) puts स् before a voiced consonant.)
+5. (c) — any other vowel + ः before a voiced sound gives र्: §15 Step 1. ((a) leaves the visarga
+   written into a block; (b) puts the स् of त before a voiced consonant; (d) puts the श् of च
+   there.)
 6. (b) — पुनः is *punar*: र् before a vowel (§15 Step 2). ((a) and (d) treat it as -अः,
    §12's mistake 4; (c) leaves the gap of the -अः column.)
 7. (b) — 6.1.132: सः drops its ः before a consonant (§8 Step 5, §15 Step 3). ((a) and (c) are

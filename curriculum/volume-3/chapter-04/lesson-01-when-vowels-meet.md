@@ -365,8 +365,8 @@ dictionary confirms (§15 Step 10).
 ### Step 5 — the map, assembled by you
 
 Now build it. Copy this frame and fill the blanks from Step 3 and from the four lines below
-it. Check against §15 Step 8 only when you have finished. Look at the end of the left word first, then at the start of the right
-word: that is the decision path.
+it. Check against §15 Step 8 only when you have finished. Look at the end of the left word
+first, then at the start of the right word: that is the decision path.
 
 | # | left word ends in … | right word begins with … | result | the owned example that gave it |
 |---|---|---|---|---|
