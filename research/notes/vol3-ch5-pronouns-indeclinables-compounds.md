@@ -523,14 +523,11 @@ exception) — **row 6 is a §12 warning only; no exercise asks for अस्म
   · गुरुः ___ पश्यति ("you all") · ___ विना ("without us"). **Key:** माम् (मा ◐ also correct, not
   required) · त्वया · मह्यम् · अस्माकम् (नः also correct: अस्माकं गृहम्; *नः गृहम् first is wrong — the
   key accepts गृहं नः) · युष्मान् (वः also correct after गुरुः) · अस्माभिः.
-- *Ex 2 (obj. 2; class, 4 min):* full form → short form where allowed, six items; one where it is not
-  allowed: (a) गुरुः मम पिता (→ गुरुर्मे पिता) (b) पुस्तकम् तुभ्यम् ददामि (→ पुस्तकं ते ददामि) (c) फलम्
-  अस्माकम् रोचते? — **trick**: रोचते takes the dative: अस्मभ्यम् (◐) — **not used** (◐); replace (c) by
-  "गृहम् अस्माकम्" (→ गृहं नः) (d) मह्यम् फलम् रोचते (→ no: मह्यम् first; reorder: फलं मे रोचते) (e) तव
-  च मम च गृहम् (→ no short form: च is attached to the pronoun, row 0.6 b — **the key accepts either
-  "no" or the full forms kept**; the item tests only rule (a)? — **drafter: drop (e); use (e) "युष्माकम्
-  गुरुः आगच्छति" → गुरुर्वः आगच्छति, reordered**) (f) नमः तुभ्यम् (→ नमस्ते). **Key** as given; each
-  accepts the joined or the pause form of the answer.
+- *Ex 2 (obj. 2; class, 4 min):* rewrite with the short form, moving it after a word where it would
+  stand first; six items: (a) गुरुः मम पिता (b) पुस्तकम् तुभ्यम् ददामि (c) गृहम् अस्माकम् (d) मह्यम् फलम्
+  रोचते (e) युष्माकम् गुरुः आगच्छति (f) नमः तुभ्यम्. **Key:** (a) गुरुर्मे पिता (b) पुस्तकं ते ददामि (c) गृहं नः
+  (d) फलं मे रोचते (e) गुरुर्वः आगच्छति (f) नमस्ते. Each accepts the joined or the pause form of the answer.
+  (No item uses the ◐ dative plural अस्मभ्यम्; rule 0.6 (b) is not tested.)
 - *Ex 3 (obj. 2; homework, 5 min — production):* write the three-line proof for नमस्ते, then the same
   for नमो वः (key: S0-aq's key, 0.G).
 - *Ex 4 (obj. 3; class, 8 min — speaking, pairs):* the §16 role-play, then the woman-guest and
@@ -1384,18 +1381,15 @@ the right cell of a pronoun (or, where the speaker is meant, of अहम्/त
 4. गुरुः सीतायै पुस्तकं ददाति। / गुरुः सीतायै पुस्तकम् ददाति। (सीतायै → to her)
 5. सीताया माता गृहेऽस्ति। / सीतायाः माता गृहे अस्ति। (सीतायाः → her)
 6. पुस्तकानि छात्राणां हस्तेषु सन्ति। / पुस्तकानि छात्राणाम् हस्तेषु सन्ति। (छात्राणाम् → their)
-7. "सीता चाहं च पठामः" इत्यर्जुनो वदति। / "सीता च अहम् च पठामः" इति अर्जुनः वदति। (सीता च अहम् च →
-   one word: "we")
+7. "सीतार्जुनोऽहं च पठामः" इति रामो वदति। / "सीता अर्जुनः अहम् च पठामः" इति रामः वदति। (सीता अर्जुनः
+   अहम् च → one word: "we" — three persons, so the plural, not the ◐ dual)
 8. गुरुश्छात्रान्वदति — "हे छात्राः! अहं छात्रान्पश्यामि।" / गुरुः छात्रान् वदति — "हे छात्राः! अहम्
    छात्रान् पश्यामि।" (the second छात्रान्, said to them → "you all")
 **Key:** 1. सः 2. तम् 3. तेन — *तृतीया; सह takes the instrumental (2.3.19, c01.l03)* 4. तस्यै 5. तस्याः 6. तेषाम्
 7. वयम् 8. युष्मान् (or वः: अहं वः पश्यामि; **not** first). Scoring 1 each, the spiral 1 (case ½, reason
-½): **9 marks, pass 6.** No ◐ cell is asked (dual avoided: item 7 has सीता and अहम् — two persons; the
-plural वयम् is the course's answer? — **Correction:** two persons are a dual, आवाम् (◐). **Item 7 is
-replaced:** "सीता अर्जुनः अहम् च पठामः" (three persons) → वयम्; joined line: "सीतार्जुनोऽहं च पठामः"
-इत्यर्जुनो वदति — **wait, Arjuna cannot list himself**; final item 7: "सीता गीता अहं च पठामः" इति रामो
-वदति। / "सीता गीता अहम् च पठामः" इति रामः वदति। (सीता गीता अहम् च → "we") → **वयम्**. गीता is owned
-(v1.c05.l01 as a name; Pass C greps).)
+½): **9 marks, pass 6.** No ◐ cell is asked (item 7 names three persons, so the answer is the ✓
+plural वयम्, not the ◐ dual आवाम्; रामः as the speaker is the course's model name, used throughout
+Volume 3).
 
 *Task B — relative clauses* (7 min; 6 pairs; write one joined sentence with यः/या/यत्/यत्र/यदा and the
 correlative):
