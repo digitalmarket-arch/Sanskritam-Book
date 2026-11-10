@@ -30,8 +30,8 @@ written with त् for its own length only (1.1.70) — which explains वि�
 गच्छामि has a long आ and गच्छथ does not. The third lesson teaches the case code in which every rule
 speaks: the genitive "in place of", the locative "before", the ablative "after", the nominative the
 result (1.1.49, 1.1.66, 1.1.67), with 1.3.10 for pairing in order; with it the learner reads every
-vowel rule of Volume 3, derives the last step of भवति (भो + अति, the first step of the volume's
-भवति thread) and the -ऐः of देवैः [7.1.9], and from now on derives forms unaided. The fourth lesson
+vowel rule of Volume 3, derives the last step of भवति [भो + अति, the first step of the volume's
+भवति thread] and the -ऐः of देवैः [7.1.9], and from now on derives forms unaided. The fourth lesson
 is the Chapter 1 exam, one closed-book sitting of 45 minutes, in which Volume 3's vowel joins are
 re-derived, according to Pāṇini, step by step from his rules. Every quoted sūtra is printed as the
 Aṣṭādhyāyī data file gives it; every commentary line is "text of the GRETIL e-text".

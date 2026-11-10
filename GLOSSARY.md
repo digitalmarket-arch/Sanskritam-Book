@@ -138,8 +138,8 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | अन्तरतमः | antaratamaḥ | the most similar substitute (1.1.50) | अन्तरतम | v4.c01.l01 |
 | सवर्णः · सवर्णम् | savarṇaḥ · savarṇam | of one family: the same place and the same effort (1.1.9); a short vowel in a rule covers its savarṇas (1.1.69); सवर्णः also a ledger headword of v4.c01.l02 | सवर्ण | v4.c01.l02 |
 | तपरः | taparaḥ | a vowel written with त् after it: it stands for its own length only (1.1.70) | तपर | v4.c01.l02 |
-| उदित् | udit | a letter marked with उ (कु चु टु तु पु): it stands for its whole row (1.1.69) | उदित् | v4.c01.l02 |
-| षष्ठी · सप्तमी · पञ्चमी · प्रथमा (in a sūtra) | ṣaṣṭhī · saptamī · pañcamī · prathamā | the case code: the genitive "in place of" (1.1.49); the locative "before" (1.1.66); the ablative "after" (1.1.67); the nominative "the result" | षष्ठी — के स्थान पर; सप्तमी — से पहले; पञ्चमी — के बाद; प्रथमा — परिणाम (आदेश) | v4.c01.l03 |
+| उदित् | udit | a letter marked with उ [कु चु टु तु पु]: it stands for its whole row (1.1.69) | उदित् | v4.c01.l02 |
+| षष्ठी · सप्तमी · पञ्चमी · प्रथमा | ṣaṣṭhī · saptamī · pañcamī · prathamā | the case code of a sūtra: the genitive "in place of" (1.1.49); the locative "before" (1.1.66); the ablative "after" (1.1.67); the nominative "the result" | षष्ठी — के स्थान पर; सप्तमी — से पहले; पञ्चमी — के बाद; प्रथमा — परिणाम (आदेश) | v4.c01.l03 |
 | आदेशः | ādeśaḥ | substitute: what a rule puts in place of a sound or an affix; also a ledger headword of v4.c01.l03 | आदेश | v4.c01.l03 |
 | यथासंख्यम् | yathāsaṃkhyam | in order: equal sets pair off one by one (1.3.10) | यथासंख्य | v4.c01.l03 |
 
