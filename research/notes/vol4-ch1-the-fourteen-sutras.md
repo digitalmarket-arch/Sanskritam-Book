@@ -214,7 +214,7 @@ vārttika on *al*-words: Teacher Notes).
 | S0-ca | v4.c01.l01 | v4.c01.l02 | "+1 day: the fourteen aloud — the fourteen sūtras recited from अइउण् to हल्, then अच्, हल्, इक् and यण् each expanded aloud from the sūtras, sound by sound; v4.c01.l02's Station 0 runs exactly this." |
 | S0-cb | v4.c01.l01 | v4.c01.l03 | "+1 week: the pratyāhāra traps — write out the sounds of चय्, झश् and जश्, say which of them are aspirated, and name the two sūtras in which ह stands; v4.c01.l03's Station 0 runs exactly this." |
 | S0-cc | v4.c01.l02 | v4.c01.l03 | "+1 day: the yañ sort — for the eight endings -मि, -मः, -सि, -थ, -ति, -तः, -महे and -ध्वे say whether the first sound is in यञ्, then join each to its stem (गच्छ- for the first six, लभ- for the last two), lengthening the stem's अ only before a yañ sound; v4.c01.l03's Station 0 runs exactly this." |
-| S0-cd | v4.c01.l02 | v4.c01.l04 | "+1 week: the savarṇa table — write from memory what each of अ, इ, उ, ऋ, अत्, आत् (in वृद्धिरादैच्), चु and तु covers when it is written in a rule, and the rule that says so (1.1.69 or 1.1.70); v4.c01.l04's Station 0 runs exactly this." |
+| S0-cd | v4.c01.l02 | v4.c01.l04 | "+1 week: the savarṇa table — write from memory what each of अ, इ, उ, ऋ, अत्, आत् [in वृद्धिरादैच्], चु and तु covers when it is written in a rule, and the rule that says so (1.1.69 or 1.1.70); v4.c01.l04's Station 0 runs exactly this." |
 | S0-ce | v4.c01.l03 | v4.c01.l04 | "+1 day: five owned sūtras case-coded — for 6.1.87 आद्गुणः [अचि], 6.1.109 एङः पदान्तादति [पूर्वः], 8.3.23 मोऽनुस्वारः [हलि], 8.3.34 विसर्जनीयस्य सः [खरि] and 6.1.88 वृद्धिरेचि [आत्], name the case of each word and say what it does in the rule: in place of, the result, before or after (the word in brackets is carried, and its case counts too); v4.c01.l04's Station 0 runs exactly this." |
 | S0-cf | v4.c01.l03 | v4.c02.l01 | "+1 week: the case code again — circle what is replaced and arrow the context in 6.1.77 इको यणचि, 6.1.78 एचोऽयवायावः, 7.1.9 अतो भिस ऐस् and 7.3.101 अतो दीर्घो यञि, then derive, according to Pāṇini, देव + भिस् → देवैः in table form; v4.c02.l01's Station 0 runs exactly this." |
 | S0-cg | v4.c01.l04 | v4.c02.l01 | "+1 day: the fourteen written — the fourteen sūtras written from memory, every marker circled; v4.c02.l01's Station 0 runs exactly this." |
@@ -236,7 +236,7 @@ vārttika on *al*-words: Teacher Notes).
 - **S0-cc** (l03): -मि यञ् → गच्छामि · -मः यञ् → गच्छामः · -सि not → गच्छसि · -थ not → गच्छथ ·
   -ति not → गच्छति · -तः not → गच्छतः · -महे यञ् → लभामहे · -ध्वे not → लभध्वे.
 - **S0-cd** (l04): अ → अ आ (and the three-mora आ३) · इ → इ ई · उ → उ ऊ · ऋ → ऋ ॠ (ऌ too, by the
-  tradition's vārttika: accepted, not required) · all four by 1.1.69 · अत् → short अ only · आत् (in वृद्धिरादैच्) →
+  tradition's vārttika: accepted, not required) · all four by 1.1.69 · अत् → short अ only · आत् [in वृद्धिरादैच्] →
   आ only · both by 1.1.70 (the आत् of 6.1.87 is not tapara: it is the ablative of अ, l03) · चु → च छ ज झ ञ · तु → त थ द ध न · both by 1.1.69 (udit).
 - **S0-ce** (l04): 6.1.87 — आत् (पञ्चमी: after अ/आ) · गुणः (प्रथमा: the result, one guṇa vowel)
   · [अचि] (सप्तमी: before a vowel) · [replaced: both sounds — accept "the two vowels"]. 6.1.109 —
@@ -1002,7 +1002,7 @@ readers [REF:laghukaumudi on 1.1.9]" — one callout per lesson for L5.)
   whether the first sound is in यञ्, then join each to its stem (गच्छ- for the first six, लभ- for
   the last two), lengthening the stem's अ only before a yañ sound; v4.c01.l03's Station 0 runs
   exactly this.
-- +1 week: the savarṇa table — write from memory what each of अ, इ, उ, ऋ, अत्, आत् (in वृद्धिरादैच्), चु and तु covers
+- +1 week: the savarṇa table — write from memory what each of अ, इ, उ, ऋ, अत्, आत् [in वृद्धिरादैच्], चु and तु covers
   when it is written in a rule, and the rule that says so (1.1.69 or 1.1.70); v4.c01.l04's Station
   0 runs exactly this.
 
@@ -1417,7 +1417,7 @@ pratyahara, savarna, case-code, derivation, thread-verse, spaced-review] · medi
   8.3.23 मोऽनुस्वारः [हलि], 8.3.34 विसर्जनीयस्य सः [खरि] and 6.1.88 वृद्धिरेचि [आत्], name the case of
   each word and say what it does in the rule: in place of, the result, before or after (the word in
   brackets is carried, and its case counts too); v4.c01.l04's Station 0 runs exactly this.
-- +1 week: the savarṇa table — write from memory what each of अ, इ, उ, ऋ, अत्, आत् (in वृद्धिरादैच्), चु and तु covers
+- +1 week: the savarṇa table — write from memory what each of अ, इ, उ, ऋ, अत्, आत् [in वृद्धिरादैच्], चु and तु covers
   when it is written in a rule, and the rule that says so (1.1.69 or 1.1.70); v4.c01.l04's Station
   0 runs exactly this.
 Keys 0.D (S0-ce, S0-cd). **Exam guard:** none of these items is an item of tasks A–E (task C's six
