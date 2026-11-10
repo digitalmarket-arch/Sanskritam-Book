@@ -16,10 +16,10 @@ self_study_minutes: 35
 prerequisites: [v3.c02.l05]
 review_of: [v3.c02.l05, v3.c02.l04, v2.c04.l02, v2.c01.l04, v3.c02.l01, v2.c04.l03, v2.c04.l04]
 objectives:
-  - en: "From owned forms — पुनः मिलामः, सन्ति, स्तः and Volume 2's -मि -सि -ति — assemble the nine-cell present of गच्छति (T6, first family), and produce the singular and plural in all persons and the 3rd-person dual of any regular verb you own, with or without its pronoun (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); parse the 1st- and 2nd-person duals (गच्छावः, गच्छथः)."
-    hi: "अपने जाने-पहचाने रूपों — पुनः मिलामः, सन्ति, स्तः और दूसरे खण्ड के -मि -सि -ति — से गच्छति के वर्तमान काल के नौ रूप (T6, पहला परिवार) जोड़ें, और अपनी हर नियमित क्रिया के सभी पुरुषों के एकवचन और बहुवचन तथा प्रथम पुरुष द्विवचन बनाएँ, सर्वनाम के साथ या उसके बिना (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); उत्तम और मध्यम पुरुष के द्विवचन (गच्छावः, गच्छथः) पहचानें।"
-  - en: "Say and write the present of अस् and कृ in the same cells (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), and read the whole words शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति (R4)."
-    hi: "अस् और कृ के वर्तमान रूप इन्हीं खानों में बोलें और लिखें (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), और पूरे शब्द शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति (R4) पढ़ें।"
+  - en: "From owned forms — पुनः मिलामः, सन्ति, स्तः and Volume 2's -मि -सि -ति — assemble T6, the first family's nine-cell present of गच्छति, and produce the singular and plural in all persons and the 3rd-person dual of any regular verb you own, with or without its pronoun (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); parse the 1st- and 2nd-person duals (गच्छावः, गच्छथः)."
+    hi: "अपने जाने-पहचाने रूपों — पुनः मिलामः, सन्ति, स्तः और दूसरे खण्ड के -मि -सि -ति — से गच्छति के वर्तमान काल के नौ रूप — T6, पहला परिवार — जोड़ें, और अपनी हर नियमित क्रिया के सभी पुरुषों के एकवचन और बहुवचन तथा प्रथम पुरुष द्विवचन बनाएँ, सर्वनाम के साथ या उसके बिना (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); उत्तम और मध्यम पुरुष के द्विवचन (गच्छावः, गच्छथः) पहचानें।"
+  - en: "Say and write the present of अस् and कृ in the same cells (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), and read the R4 whole words शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति."
+    hi: "अस् और कृ के वर्तमान रूप इन्हीं खानों में बोलें और लिखें (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), और पूरे शब्द शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति — R4 — पढ़ें।"
   - en: "Put two singular doers joined by च on a dual verb and a group on a plural verb (बालकः बालिका च क्रीडतः; बालकाः क्रीडन्ति), and quote speech with the labelled frame '…' इति X वदति."
     hi: "च से जुड़े दो एकवचन कर्ताओं के साथ द्विवचन क्रिया और समूह के साथ बहुवचन क्रिया रखें (बालकः बालिका च क्रीडतः; बालकाः क्रीडन्ति), और '…' इति X वदति के ढाँचे से किसी की बात उद्धृत करें।"
   - en: "State, according to Pāṇini (7.3.101 अतो दीर्घो यञि), why गच्छामि, गच्छावः, गच्छामः stretch the अ and गच्छतः does not, and state the Hindi contrast exactly: Hindi has two numbers (हम दोनों जाते हैं is a plural), Sanskrit three (आवाम् गच्छावः · वयम् गच्छामः)."
@@ -63,8 +63,8 @@ already in your mouth.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | From owned forms — पुनः मिलामः, सन्ति, स्तः and Volume 2's -मि -सि -ति — assemble the nine-cell present of गच्छति (T6, first family), and produce the singular and plural in all persons and the 3rd-person dual of any regular verb you own, with or without its pronoun (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); parse the 1st- and 2nd-person duals (गच्छावः, गच्छथः). | अपने जाने-पहचाने रूपों — पुनः मिलामः, सन्ति, स्तः और दूसरे खण्ड के -मि -सि -ति — से गच्छति के वर्तमान काल के नौ रूप (T6, पहला परिवार) जोड़ें, और अपनी हर नियमित क्रिया के सभी पुरुषों के एकवचन और बहुवचन तथा प्रथम पुरुष द्विवचन बनाएँ, सर्वनाम के साथ या उसके बिना (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); उत्तम और मध्यम पुरुष के द्विवचन (गच्छावः, गच्छथः) पहचानें। |
-| 2 | Say and write the present of अस् and कृ in the same cells (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), and read the whole words शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति (R4). | अस् और कृ के वर्तमान रूप इन्हीं खानों में बोलें और लिखें (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), और पूरे शब्द शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति (R4) पढ़ें। |
+| 1 | From owned forms — पुनः मिलामः, सन्ति, स्तः and Volume 2's -मि -सि -ति — assemble T6, the first family's nine-cell present of गच्छति, and produce the singular and plural in all persons and the 3rd-person dual of any regular verb you own, with or without its pronoun (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); parse the 1st- and 2nd-person duals (गच्छावः, गच्छथः). | अपने जाने-पहचाने रूपों — पुनः मिलामः, सन्ति, स्तः और दूसरे खण्ड के -मि -सि -ति — से गच्छति के वर्तमान काल के नौ रूप — T6, पहला परिवार — जोड़ें, और अपनी हर नियमित क्रिया के सभी पुरुषों के एकवचन और बहुवचन तथा प्रथम पुरुष द्विवचन बनाएँ, सर्वनाम के साथ या उसके बिना (वयम् गच्छामः, यूयम् गच्छथ, तौ गच्छतः); उत्तम और मध्यम पुरुष के द्विवचन (गच्छावः, गच्छथः) पहचानें। |
+| 2 | Say and write the present of अस् and कृ in the same cells (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), and read the R4 whole words शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति. | अस् और कृ के वर्तमान रूप इन्हीं खानों में बोलें और लिखें (स्मः, स्थ, सन्ति, स्तः; कुर्मः, कुरुथ, कुर्वन्ति, कुरुतः), और पूरे शब्द शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति — R4 — पढ़ें। |
 | 3 | Put two singular doers joined by च on a dual verb and a group on a plural verb (बालकः बालिका च क्रीडतः; बालकाः क्रीडन्ति), and quote speech with the labelled frame '…' इति X वदति. | च से जुड़े दो एकवचन कर्ताओं के साथ द्विवचन क्रिया और समूह के साथ बहुवचन क्रिया रखें (बालकः बालिका च क्रीडतः; बालकाः क्रीडन्ति), और '…' इति X वदति के ढाँचे से किसी की बात उद्धृत करें। |
 | 4 | State, according to Pāṇini (7.3.101 अतो दीर्घो यञि), why गच्छामि, गच्छावः, गच्छामः stretch the अ and गच्छतः does not, and state the Hindi contrast exactly: Hindi has two numbers (हम दोनों जाते हैं is a plural), Sanskrit three (आवाम् गच्छावः · वयम् गच्छामः). | पाणिनि के अनुसार (7.3.101 अतो दीर्घो यञि) बताएँ कि गच्छामि, गच्छावः, गच्छामः में अ क्यों खिंचता है और गच्छतः में क्यों नहीं, और हिन्दी से अन्तर ठीक बताएँ: हिन्दी में दो वचन हैं (हम दोनों जाते हैं बहुवचन है), संस्कृत में तीन (आवाम् गच्छावः · वयम् गच्छामः)। |
 
@@ -105,8 +105,8 @@ sentence: स्तः. In §15 it gets its cell.
 
 1. From v2.c04.l02: say गच्छामि, गच्छसि, गच्छति, each with its pronoun.
 2. From v2.c01.l04: what does पुनः मिलामः say, word by word?
-3. From v2.c04.l04: how did Volume 2 handle two doers? (Arjuna and Sītā both go home: what
-   did you write?)
+3. From v2.c04.l04: how did Volume 2 handle two doers? (Arjuna and Sītā both go home: how
+   would Volume 2 have written it?)
 
 <details><summary>उत्तराणि · Station 0 Key</summary>
 
@@ -127,8 +127,8 @@ sentence: स्तः. In §15 it gets its cell.
    गच्छामि: §15 Step 2 gives it a rule.
 2. पुनः "again" · मिलामः "we meet". Volume 2 gave मिलामः as a whole word; today its -मः is
    the ending of "we" (§8 Step 3).
-3. Two sentences and अपि: अर्जुनः गच्छति। सीता अपि गच्छति। Still correct. Today's other
-   answer is one dual verb: अर्जुनः सीता च गच्छतः। (§15 Step 5).
+3. Two sentences and अपि: अर्जुनः गृहम् गच्छति। सीता अपि गृहम् गच्छति। Still correct. Today's
+   other answer is one dual verb: अर्जुनः सीता च गृहम् गच्छतः। (§15 Step 5).
 </details>
 
 A slip in item 1 sends you to v3.c02.l05 §15 (1) tonight; a slip in item 2, to v3.c02.l04
@@ -237,7 +237,7 @@ from v2.c04.l02 and v3.c02. They are grammar terms, not ledger words.
 हैं: पुरुष — कौन, यानी मैं, तुम या वह — और वचन — कितने, यानी एक, दो या बहुत। पुरुष तीन
 हैं और वचन भी तीन: एकवचन, द्विवचन और बहुवचन। तीन गुणा तीन, यानी नौ खाने। संस्कृत के
 नाम उलटी ओर से गिनते हैं: प्रथम पुरुष "वह, वे" है, मध्यम पुरुष "तुम" और उत्तम पुरुष "मैं,
-हम"। हिन्दी व्याकरण में पहले दो नाम यही हैं, पर तीसरे को अन्य पुरुष कहते हैं; संस्कृत उसे
+हम"। हिन्दी व्याकरण में मध्यम और उत्तम पुरुष के नाम यही हैं, पर "वह, वे" को अन्य पुरुष कहते हैं; संस्कृत उसे
 प्रथम पुरुष कहती है। और अंग्रेज़ी का first person "मैं" है — संस्कृत का प्रथम पुरुष "मैं"
 नहीं, "वह" है।
 
@@ -252,7 +252,7 @@ from v2.c04.l02 and v3.c02. They are grammar terms, not ledger words.
 -ति -तः -अन्ति। इनमें से छह आप पहले से बोलते आ रहे हैं: -मि -सि -ति दूसरे खण्ड से; -मः
 पुनः मिलामः से; -अन्ति कपोताः तण्डुलान् खादन्ति और सन्ति से; -तः स्तः से।
 
-दो बातें ध्यान से देखिए। पहली — म और व से पहले धातु-रूप का अ लम्बा हो जाता है:
+दो बातें ध्यान से देखिए। पहली — म और व से पहले गच्छ- का अन्तिम अ लम्बा हो जाता है:
 गच्छामि, गच्छावः, गच्छामः; पर त और थ से पहले नहीं: गच्छतः, गच्छथः, गच्छथ। यह वही
 "खिंचाव" है जो दूसरे खण्ड में गच्छामि में दिखा था। आज पाणिनि का सूत्र 7.3.101 अतो दीर्घो
 यञि इसका नियम देता है: अ से अन्त होने वाला रूप कुछ ध्वनियों से शुरू होने वाले अन्त से पहले
@@ -615,15 +615,15 @@ Step 5's frames are the page you check here.
 > धाव-, क्रीड-, रक्ष-, स्मर-, चिन्तय-, भ्रम-, नृत्य-) is the stem + -मि -वः -मः · -सि -थः -थ ·
 > -ति -तः -अन्ति. The stem's अ becomes आ before the endings in म and व, and is lost before
 > -अन्ति. At the pause the endings in s are written with visarga: -वः, -मः, -थः, -तः.
-> [REF:whitney1889 §733] [REF:whitney1889 §735] [REF:whitney1889 §553]
+> [REF:whitney1889 §733] [REF:whitney1889 §735] [REF:whitney1889 §553] [REF:whitney1889 §170]
 
 ✓ = produce · ◐ = recognise and parse.
 
 | पुरुषः | एकवचनम् | द्विवचनम् | बहुवचनम् |
 |---|---|---|---|
-| उत्तमः (I / we two / we) | गच्छामि gacchāmi ✓ | गच्छावः gacchāvaḥ ◐ | गच्छामः gacchāmaḥ ✓ |
-| मध्यमः (you / you two / you all) | गच्छसि gacchasi ✓ | गच्छथः gacchathaḥ ◐ | गच्छथ gacchatha ✓ |
-| प्रथमः (he, she, it / the two / they) | गच्छति gacchati ✓ | गच्छतः gacchataḥ ✓ | गच्छन्ति gacchanti ✓ |
+| उत्तमः — I / we two / we | गच्छामि gacchāmi ✓ | गच्छावः gacchāvaḥ ◐ | गच्छामः gacchāmaḥ ✓ |
+| मध्यमः — you / you two / you all | गच्छसि gacchasi ✓ | गच्छथः gacchathaḥ ◐ | गच्छथ gacchatha ✓ |
+| प्रथमः — he, she, it / the two / they | गच्छति gacchati ✓ | गच्छतः gacchataḥ ✓ | गच्छन्ति gacchanti ✓ |
 | endings | -मि · -सि · -ति | -वः · -थः · -तः | -मः · -थ · -अन्ति |
 | pronouns (labelled, Step 3) | अहम् · त्वम् · सः / सा / तत् | आवाम् āvām · युवाम् yuvām · तौ tau / ते te / ते te | वयम् vayam · यूयम् yūyam · ते te / ताः tāḥ / तानि tāni |
 
@@ -728,7 +728,7 @@ three cases on one page: one boy, two girls, a group.
 ### Step 6 — the R4 card: five whole words to read
 
 Some verbs you own build their stems differently: शृणोति, जानाति, गृह्णाति, स्वपिति, ददाति.
-Volume 2 gave you their singular whole. Today, one more cell of each, the 3rd person plural,
+Volume 2 gave you their singular whole, and v3.c01.l03 gave you ददाति. Today, one more cell of each, the 3rd person plural,
 as a whole word to read. Read them; do not build them; no other cell of these five verbs is
 taught.
 
@@ -847,20 +847,22 @@ and her sister dance for the guests." — वहाँ मेहमान है
 (arjuna, āvām api tatra gacchāvaḥ?) "Arjuna, shall we two go there too?" — अर्जुन, क्या हम
 दोनों भी वहाँ चलें?
 
-— **अर्जुनः** — न, मित्र! वयम् अपि छात्राः स्मः।
-(na, mitra! vayam api chātrāḥ smaḥ.) "No, friend! We too are students." — नहीं, मित्र! हम
-भी छात्र हैं।
+— **अर्जुनः** — न, मित्र! आवाम् अपि छात्रौ स्वः।
+(na, mitra! āvām api chātrau svaḥ.) "No, friend! We two are students too." — नहीं, मित्र! हम
+दोनों भी छात्र हैं।
 
-— **रामः** — सत्यम्। वयम् अपि विद्यालयम् गच्छामः।
-(satyam. vayam api vidyālayam gacchāmaḥ.) "True. We too are going to school." — सच। हम भी
-विद्यालय जा रहे हैं।
+— **रामः** — सत्यम्। अद्य वयम् सह विद्यालयम् गच्छामः।
+(satyam. adya vayam saha vidyālayam gacchāmaḥ.) "True. Today we are all going to school
+together." — सच। आज हम सब साथ-साथ विद्यालय जा रहे हैं।
 
 — **छात्राः, रामः, अर्जुनः** — पुनः मिलामः!
 (punaḥ milāmaḥ!) "We meet again!" — फिर मिलेंगे!
 
 Housekeeping: turn 6's ते is the feminine dual "those two", as the verb स्तः shows (§15 Step
 3); turn 9's गच्छावः is a recognition cell (◐), the present used for a proposal, as Volume
-2's मिलामः is; turns 2, 4, 10 and 11 are the 1st-person plurals you produce. अतिथयः and
+2's मिलामः is; turn 10's आवाम् … स्वः is ◐ too — Rāma and Arjuna are two, so Arjuna speaks in
+the dual (छात्रौ, v3.c02.l04's dual card); turns 2, 4 and 11 are the 1st-person plurals you
+produce (in turn 11 वयम् is all of them, the students included; सह "together", v3.c01.l03). अतिथयः and
 अतिथिभ्यः are v3.c02.l03's cells; तस्याः is v3.c02.l02's; किमर्थम् is owned from v2.c05.l01;
 ततः from v1.c02.l06; मित्र is the calling form of मित्रम् (v3.c01.l04). Pause form between
 and within turns; नमस्ते is owned whole.
@@ -925,10 +927,10 @@ spoken answer. Exercises 4 and 5 are done aloud in class; the rest are homework 
 All keys sit in §19's collapsed key — nothing is answered on this page.
 
 **अभ्यासः 1 · पुरुषचक्रम् (the cell asked — production, written, then two parsing items).**
-Put the verb into the cell its pronoun asks for (a–j), then parse the two forms given (k–l):
-(a) पठति → वयम् ___ (b) वदति → यूयम् ___ (c) खादति → ते ___ (d) पिबति → तौ ___ (e)
+Put the verb into the cell its doer asks for (a–j), then parse the two forms given (k–l):
+(a) पठति → वयम् ___ (b) वदति → यूयम् ___ (c) खादति → बालकाः ___ (d) पिबति → तौ ___ (e)
 धावति → अहम् ___ (f) क्रीडति → त्वम् ___ (g) रक्षति → वयम् ___ (h) स्मरति → यूयम् ___ (i)
-भ्रमति → ताः ___ (j) नृत्यति → बालिके ___ (k) parse गच्छावः (l) parse लिखथः.
+भ्रमति → ताः ___ (j) नृत्यति → द्वे बालिके ___ (k) parse गच्छावः (l) parse लिखथः.
 
 **अभ्यासः 2 · कः? (pronoun dropped, person found — recognition, said aloud).** Say who does
 it, with the matching pronoun: (a) गच्छामः (b) पठथ (c) पश्यन्ति (d) चिन्तयसि (e) धावतः (f)
@@ -936,8 +938,8 @@ it, with the matching pronoun: (a) गच्छामः (b) पठथ (c) प�
 
 **अभ्यासः 3 · अस् and कृ (production, written; then a reading card).** Fill each blank with
 the present of अस् (a–d) or of कृ (e–h) in the cell the doer needs: (a) वयम् छात्राः ___ (b)
-यूयम् कुत्र ___? (c) ते गृहे ___ (d) बालकौ अत्र ___ (e) वयम् किम् ___? (f) यूयम् किम् ___?
-(g) ते किम् ___? (h) तौ किम् ___? Then read aloud and gloss in English: शृण्वन्ति · जानन्ति ·
+यूयम् कुत्र ___? (c) बालकाः गृहे ___ (d) बालकौ अत्र ___ (e) वयम् किम् ___? (f) यूयम् किम् ___?
+(g) छात्राः किम् ___? (h) तौ किम् ___? Then read aloud and gloss in English: शृण्वन्ति · जानन्ति ·
 गृह्णन्ति · स्वपन्ति · ददति.
 
 **अभ्यासः 4 · एकः, द्वौ, बहवः (one → two → many — production, aloud in class).** Rewrite with
@@ -958,8 +960,8 @@ For each join, say whether the अ stretches — yes or no — and name the soun
 **अभ्यासः 7 · मम कक्षा (production, written and recorded).** "My class / my family this
 morning" — six sentences, pause form, at least two plural verbs, one 3rd-person dual, one
 sentence with अस् or कृ, one "…" इति quote. Record yourself reading them. Rubric (practice,
-scored as the chapter exam's task C will score): communication 4 · endings 4 (−1 per wrong
-ending) · coverage 2.
+built like the chapter exam's task C rubric — a coverage checklist, communication, and −1 per
+wrong ending): communication 4 · endings 4 (−1 per wrong ending) · coverage 2.
 
 ## 19. Quiz
 
@@ -989,8 +991,9 @@ ending) · coverage 2.
    §12's mistake 2; (c) is "the two read"; (d) is "you read", one person.)
 3. (c) — two singular doers joined by च take the dual (§15 Step 5). FACT. ((a) is the
    Volume 2 fence, §12's mistake 3; (b) is for three or more; (d) is "you two go".)
-4. (c) — सन्ति (§15 Step 4). FACT. ((a) and (d) build अस् on the गच्छति pattern, §12's
-   mistake 6; (b) is the dual, "the two are".)
+4. (c) — सन्ति (§15 Step 4). FACT. ((a) is the 1st-person plural ending on the singular stem
+   — the "we are" cell is स्मः; (d) builds अस् on the गच्छति pattern, §12's mistake 6; (b) is
+   the dual, "the two are".)
 5. (b) — कुर्वन्ति (§15 Step 4). FACT. ((a) is a singular ending on a plural pronoun; (c) is
    the गच्छति pattern bolted onto कृ, §12's mistake 6; (d) is "you all do".)
 6. (c) — the tradition's names count from the far end (§4, §12's mistake 5). TRADITION, asked
@@ -1005,20 +1008,16 @@ ending) · coverage 2.
 
 **Exercise keys.**
 
-1: (a) पठामः (b) वदथ (c) खादन्ति — also खादतः, since ते is also the feminine and neuter dual
-"those two" (§15 Step 3): either earns the mark (d) पिबतः (e) धावामि (f) क्रीडसि (g)
-रक्षामः (h) स्मरथ (i) भ्रमन्ति (j) नृत्यतः — read as "the two girls"; a learner who reads
-बालिके as the calling form "girl!" and writes नृत्यसि has built a correct sentence and earns
-the mark too (k) 1st person dual, "we two go" (◐) (l) 2nd person dual, "you two write" (◐).
+1: (a) पठामः (b) वदथ (c) खादन्ति (d) पिबतः (e) धावामि (f) क्रीडसि (g) रक्षामः (h) स्मरथ
+(i) भ्रमन्ति (j) नृत्यतः (k) 1st person dual, "we two go" (◐) (l) 2nd person dual, "you two
+write" (◐).
 Score /12.
 
 2: (a) we (b) you all (c) they (d) you, one person (e) the two of them (f) I. Any matching
 pronoun, written or said, earns the mark: वयम् · यूयम् · ते/ताः/तानि · त्वम् · तौ/ते · अहम्.
 Score /6.
 
-3: (a) स्मः (b) स्थ (c) सन्ति — also स्तः, if ते is read as "those two" (feminine or
-neuter dual): either earns the mark (d) स्तः (e) कुर्मः (f) कुरुथ (g) कुर्वन्ति — also
-कुरुतः, for the same reason as (c) (h) कुरुतः. The reading card: "they hear" · "they know" ·
+3: (a) स्मः (b) स्थ (c) सन्ति (d) स्तः (e) कुर्मः (f) कुरुथ (g) कुर्वन्ति (h) कुरुतः. The reading card: "they hear" · "they know" ·
 "they take" · "they sleep" · "they give" (◐). Score /8 + /5.
 
 4: (a) गच्छतः (b) गच्छन्ति (c) नृत्यतः (d) नृत्यन्ति (e) धावतः (f) धावन्ति. Score /6.
@@ -1141,7 +1140,7 @@ course avoids the case by naming the pair (रामः सीता च). Do no
 **The ष of करोषि.** It is an observed spelling; its reason waits for Volume 4. Do not tie it
 to the root कृ.
 
-**The recognition duals in the serial and the dialogue.** §17 lines 4–5, §16 turn 9 and §13
+**The recognition duals in the serial and the dialogue.** §17 lines 4–5, §16 turns 9 and 10 and §13
 sentence 3 use 1st- and 2nd-person duals, labelled ◐ where they appear. No exercise, quiz
 item or homework task asks the learner to produce one, and no key rejects a plural where the
 learner was not asked for the dual.
@@ -1192,7 +1191,7 @@ the text itself.
 
 > A4 worksheet, portrait. Top: the §8 Step 5 frame for गच्छति — a 3 × 3 grid (उत्तमः,
 > मध्यमः, प्रथमः down; एकवचनम्, द्विवचनम्, बहुवचनम् across) with गच्छामि, गच्छसि, गच्छति,
-> गच्छन्ति printed and six blanks, a dot-box in each cell for marking the stretch. Middle: the
+> गच्छन्ति printed and five blanks, a dot-box in each cell for marking the stretch. Middle: the
 > अस् and कृ frame (3 × 6), empty. Bottom: §18 exercise 1's twelve prompts with answer lines,
 > and the score log — Station 0 (item 1 /11, item 2 /6), exercise 1 /12, listening /16,
 > exercise 7 /10. Footer chant: "-मि -वः -मः · -सि -थः -थ · -ति -तः -अन्ति".

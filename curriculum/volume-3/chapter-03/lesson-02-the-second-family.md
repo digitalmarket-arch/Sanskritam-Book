@@ -192,9 +192,10 @@ nine cells. What changes is only the ending in each cell.
 
 > **[FACT · तथ्यम्]** Sanskrit has two families of personal endings that carry the same
 > persons and numbers: गच्छति, गच्छसि, गच्छामि in the first; लभते, लभसे, लभे in the
-> second. Some verbs are conjugated in both families, others in one only; for every verb the
-> course owns, the family is a property of the word, as gender is a property of a noun.
-> [REF:whitney1889 §530]
+> second. Some verbs are conjugated in both families, others in one only, and with some the
+> family changes with a prefix [REF:whitney1889 §530]. The course teaches each verb in one
+> family only, the one its §14 row gives, and you learn that family with the word, as you
+> learn a noun's gender.
 
 So the load today is one row of new endings, not a new system. The stem does not change
 (लभ-), the stretch of the stem vowel before म and व is the one you met in lesson 1
@@ -211,9 +212,10 @@ You read three such words today (the R3 card, §15 Step 6) and do not build them
 today's headwords, मन्यते and जायते, also end in -यते and are *not* passives; the word list
 decides, as §12 warns.
 
-> **[FACT · तथ्यम्]** Hindi has no second family of verb endings. What Hindi shares with
-> Sanskrit here is the liking frame: in मुझे फल अच्छे लगते हैं the liked thing is the subject
-> and the verb agrees with it, as in फलानि मह्यम् रोचन्ते. [REF:kachru2006]
+> **[FACT · तथ्यम्]** Hindi has no second family of verb endings [REF:kachru2006]. What Hindi
+> shares with Sanskrit here is the liking frame: in मुझे फल अच्छे लगते हैं the liker stands in a
+> को-form and the verb agrees with the liked thing, as रोचन्ते agrees with फलानि in फलानि
+> मह्यम् रोचन्ते. [REF:masica1991]
 
 > **[FACT · तथ्यम्]** Spacing the retrieval of a thing over days helps it last: today's
 > Station 0 is two earlier bookings landing on schedule, and this lesson books two of its
@@ -279,14 +281,16 @@ grammar terms, not ledger words.
 कीजिए: गच्छति, पर लभते।
 
 "अच्छा लगना" में हिन्दी और संस्कृत एक ही ढंग से चलती हैं। "मुझे फल अच्छे लगते हैं" — यहाँ
-कर्ता फल हैं, और क्रिया "लगते हैं" फलों से मेल खाती है। संस्कृत में भी वैसा ही: फलानि
-मह्यम् रोचन्ते — फलानि बहुवचन है, इसलिए रोचन्ते। पर "मिलना" में दोनों भाषाएँ उलटी चलती हैं।
+पसंद करने वाला "मुझे" यानी को-रूप में है, और क्रिया "लगते हैं" फलों से मेल खाती है।
+संस्कृत में भी क्रिया पसंद की चीज़ से मेल खाती है: फलानि मह्यम् रोचन्ते — फलानि बहुवचन है,
+इसलिए रोचन्ते; संस्कृत में फलानि ही कर्ता है, प्रथमा में। पर "मिलना" में दोनों भाषाएँ उलटी चलती हैं।
 हिन्दी कहती है "मुझे किताब मिलती है"; संस्कृत कहती है अहम् पुस्तकम् लभे — पाने वाला
-कर्ता है, प्रथमा में। "मह्यम् पुस्तकम् लभते" लिखना हिन्दी की आदत है, संस्कृत नहीं।
+कर्ता है, प्रथमा में। "मुझे किताब मिलती है" के लिए "मह्यम् पुस्तकम् लभते" लिखना हिन्दी की
+आदत है; संस्कृत में इसका अर्थ होगा "(वह) मेरे लिए किताब पाता है"।
 
-आज एक पहचान-पत्र भी है, जिसे पाठ R3 कहता है। उच्यते "कहा जाता है", दृश्यते "दिखता है, देखा जाता है",
-श्रूयते "सुना जाता है" — ये कर्मवाच्य के रूप हैं: इनमें जिस पर काम होता है, वही कर्ता बन
-जाता है। इन्हें आज केवल पढ़ना है। सावधान: आज की दो क्रियाएँ, मन्यते "मानता है, सोचता है"
+आज केवल पहचानने के लिए एक पत्र भी है, जिसे पाठ R3 कहता है। उच्यते "कहा जाता है", दृश्यते "दिखता है, देखा जाता है",
+श्रूयते "सुना जाता है" — ये कर्मवाच्य के रूप हैं: इनमें जिस पर काम होता है (कर्म), वही
+प्रथमा में आता है और क्रिया उसी से मेल खाती है। इन्हें आज केवल पढ़ना है। सावधान: आज की दो क्रियाएँ, मन्यते "मानता है, सोचता है"
 और जायते "पैदा होता है", भी -यते पर समाप्त होती हैं, पर ये कर्मवाच्य नहीं हैं। अन्त नहीं,
 शब्द-सूची फ़ैसला करती है।
 
@@ -330,7 +334,7 @@ each form tells you; then uncover and compare.
 | फलम् मह्यम् रोचते "the fruit pleases me" | v2.c05.l03 (§14 row: "-ते, the other ending family — middle voice, taught whole") | a 3sg in -ते |
 | क्षमस्व "forgive (me)" | v2.c01.l04 | a request in -स्व; its cell: l04 |
 | सत्यम् एव जयते | v1.c06.l04 | -ते in a motto |
-| "the second ending family is Volume 3–4" | v2.c05.l03 §15 | the promise |
+| "the second ending family is Volume 3–4" | v2.c05.l03 §8 (again in §15 Step 4) | the promise |
 | गच्छति · गच्छन्ति · गच्छसि · गच्छामि | v3.c03.l01 | the first family, to set beside |
 
 Read the right-hand column down. Two owned verbs end in -ते in the 3rd person singular,
@@ -468,8 +472,8 @@ beside the -ति and the -ते columns.
    the tongue must not move. If the jaw rises toward the end, you said English "-tay".
 2. **The breath-into-व check (लभध्वे).** ध्व is the breathy ध /d̪ʱ/ straight into व /ʋ/,
    no vowel between. Tongue tip on the upper teeth for ध, release with a puff of breathy
-   voice, and the lower lip is already rising toward the upper teeth for व. Say लभ-ध्वे in
-   two syllables, never "labhadhave".
+   voice, and the lower lip is already rising toward the upper teeth for व. Say ल-भ-ध्वे in
+   three syllables, never "labhadhave".
 3. **The -ति / -ते check.** For -ति the tongue is high and front, the lips spread a little;
    for -ते the tongue is a step lower and the vowel is held twice as long. Alternate them in
    the mirror: गच्छति — लभते.
@@ -491,7 +495,8 @@ beside the -ति and the -ते columns.
    is the subject, the liker मह्यम्, as in v2.c05.l03; and plural liked things take
    रोचन्ते: \*फलानि मह्यम् रोचते → फलानि मह्यम् रोचन्ते.
 6. **The Hindi मिलना reflex with लभते: \*मह्यम् पुस्तकम् लभते, copied from "मुझे किताब मिलती है".**
-   *Fix:* अहम् पुस्तकम् लभे — the getter is the subject; Hindi turns it round.
+   *Fix:* अहम् पुस्तकम् लभे — the getter is the subject; Hindi turns it round. (मह्यम्
+   पुस्तकम् लभते can only mean "(he) gets a book for me".)
 
 ## 13. Examples
 
@@ -519,8 +524,9 @@ beside the -ति and the -ते columns.
 
 Sentence 2 is the 1st person singular, the cell where the second family looks least like
 the first: भाषे, not \*भाषामि. Sentence 4 is the Hindi bridge (§7): in मुझे फल अच्छे लगते हैं
-and in फलानि मह्यम् रोचन्ते the liked thing is the subject, and the verb agrees with it.
-Sentence 6 is the Muṇḍaka line you own (Muṇḍaka 3.1.6, §4); एव "alone, itself" stays a
+and in फलानि मह्यम् रोचन्ते the verb agrees with the liked thing; in the Sanskrit the liked
+thing is the subject, while Hindi seats the liker in a को-form (v2.c05.l03 §5).
+Sentence 6 is the Muṇḍaka line you own (Muṇḍaka 3.1.6, §4); एव "itself, alone" stays a
 display word as before (v3.c04.l01).
 
 ### Seven more
@@ -572,7 +578,7 @@ every second-family verb follows.
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | लभते | labhate | /lɐbʱɐt̪eː/ | gets, obtains | पाता है, प्राप्त करता है | ledger-new — verb, A., stem लभ-; the thing got in the accusative; the model of today's table (§15 Step 1) — Apte s.v. लभ् "c1 A. (labhate …) To get, obtain, gain, acquire" |
-| भाषते | bhāṣate | /bʱɑːʂɐt̪eː/ | speaks, says | बोलता है | ledger-new — verb, A., stem भाष-; the root of c06.l02's सम्भाषसे — Apte s.v. भाष् "c1 A. To say, speak, utter" |
+| भाषते | bhāṣate | /bʱɑːʂɐt̪eː/ | speaks, says | बोलता है | ledger-new — verb, A., stem भाष-; the root of सम्भाषसे, which you will read in v3.c06.l02 — Apte s.v. भाष् "c1 A. To say, speak, utter" |
 | वर्धते | vardhate | /ʋɐɾd̪ʱɐt̪eː/ | grows, increases | बढ़ता है | ledger-new — verb, A., stem वर्ध- (in the present; §22) — Apte s.v. वृध् "c1 A." |
 | शोभते | śobhate | /ɕoːbʱɐt̪eː/ | shines, looks fine | शोभा देता है, सुन्दर लगता है | ledger-new — verb, A., stem शोभ- — Apte s.v. शुभ् "c1 A. To shine, be splendid, look beautiful or handsome" |
 | मन्यते | manyate | /mɐn̪jɐt̪eː/ | thinks, considers | मानता है, सोचता है | ledger-new — verb, A., class 4, stem मन्य- given; **not R3** — Apte s.v. मन् "c4 c8 A. (manyate, manute …) To think, believe, suppose" |
@@ -589,7 +595,7 @@ Review words in sentence dress, no rows: वृक्षः, पुष्पम�
 पुस्तकम्, ज्ञानम्, जलम्, कमलम्, संस्कृतम्, सत्यम्, साधुः, आकाशः, चन्द्रः, शब्दः, मधुरः,
 वचनम्, कपोतः, नृपः, व्याधः, मूषकः, जालम्, पाशः, तण्डुलः, अन्नम्, विवरम्, ग्रामः,
 मित्रम्, आम्रम्, कथा, गृहम्; the pronoun cells अहम्, त्वम्, सः, ते, वयम्, यूयम्, मह्यम्,
-तुभ्यम्, मम, तत्, एतत्; the verbs गच्छति, पठति, वदति, पश्यति, खादति, धावति, कृन्तति,
+तुभ्यम्, मम, तत्, एतत्; the verbs गच्छति, पठति, वदति, पश्यति, खादति, कृन्तति,
 निवसति, अस्ति, and lesson 1's धावति, क्रीडति, स्मरति, भ्रमति, नृत्यति; the chunks क्षमस्व,
 पश्य; the words इति, अत्र, अतः, अपि, आम्, ततः, इदानीम्, सह, न, हे, किम्, कः, भवान्, एकः.
 Every cell of the table adds 0 to the ledger (STYLE_GUIDE §8 rule 8): लभे, लभन्ते, रोचन्ते,
@@ -600,7 +606,7 @@ Grammar terms on display, GLOSSARY items only (§27), never ledger rows: पर�
 बहुवचनम्. Display-only items, with their labels: the R3 words उच्यते "is said", दृश्यते "is
 seen", श्रूयते "is heard" (recognition only, v4.c05); तद्यथानुश्रूयते, the Pañcatantra's
 joined quotation (§15 Step 6); सत्यमेव जयते नानृतम्, the Muṇḍaka's joined line (§4); एव, as
-Volume 1 glossed it; जयति, the dictionary's form of "prevails" (§15 Step 7).
+v2.c06.l01 glossed it; जयति, the dictionary's form of "prevails" (§15 Step 7).
 
 ## 15. Grammar
 
@@ -652,9 +658,9 @@ The stretch before म and व is the one lesson 1 named: लभावहे, �
 
 ### Step 3 — which family? the dictionary's label
 
-> **[FACT · तथ्यम्]** In the classical language each verb's family is fixed, and the
-> dictionary says which: Apte marks P. (parasmaipada), A. (ātmanepada) or U. (both) after
-> the root. Some verbs take both families. [REF:apte1890 s.v. लभ्] [REF:whitney1889 §530]
+> **[FACT · तथ्यम्]** In the classical language the dictionary says which family a verb
+> takes: Apte marks P. (parasmaipada), A. (ātmanepada) or U. (both) after the root. Some
+> verbs take both families, and with some the family changes with a prefix. [REF:apte1890 s.v. लभ्] [REF:whitney1889 §530]
 
 The verbs you own, sorted by Apte's label:
 
@@ -706,7 +712,8 @@ verb is the word that has a doer.
 > **[FACT · तथ्यम्]** The same second-family endings on a stem in -य- made from the root can
 > mean 'is X-ed': उच्यते 'is said', दृश्यते 'is seen', श्रूयते 'is heard'. The Pañcatantra's
 > fourth book begins its frame story with तद्यथानुश्रूयते (tad yathānuśrūyate) 'as it is
-> handed down' (joined as the text prints it: तत् यथा अनुश्रूयते). You read these three;
+> handed down' (joined as the text prints it; in pause form, तत् यथा अनुश्रूयते). You read
+> these three;
 > you do not make them (v4.c05). Careful: today's मन्यते and जायते also end in -यते and are
 > not passives — the word list, not the ending, decides. [REF:whitney1889 §768];
 > [REF:panchatantra]
@@ -806,7 +813,7 @@ so Sanskrit grows." — हाँ! तुम सब संस्कृत बो
 (mahyam etat vacanam rocate.) "I like this saying." — मुझे यह बात अच्छी लगती है।
 
 — **अर्जुनः** — पश्य! अहम् एकम् फलम् लभे।
-(paśya! aham ekam phalam labhe.) "Look! I get a fruit." — देखिए! मुझे एक फल मिलता है।
+(paśya! aham ekam phalam labhe.) "Look! I get a fruit." — देखो! मुझे एक फल मिलता है।
 
 — **गुरुः** — तत् फलम् मधुरम्। तत् तुभ्यम् रोचते? — **अर्जुनः** — आम्, मह्यम् रोचते!
 (tat phalam madhuram. tat tubhyam rocate? — ām, mahyam rocate!) "That fruit is sweet. Do
@@ -916,7 +923,7 @@ four second-family verbs, one of them in the 1st person and one in the plural; o
 
 1. "I get": (a) लभामि (b) लभे (c) लभते (d) लभसे
 2. वृक्षाः ___ (वर्धते): (a) वर्धन्ति (b) वर्धते (c) वर्धन्ते (d) वर्धेते
-3. "We speak": (a) भाषामः (b) भाषामहे (c) भाषावहे (d) भाषन्ते
+3. "We (three or more) speak": (a) भाषामः (b) भाषामहे (c) भाषावहे (d) भाषन्ते
 4. Which is wrong? (a) गच्छति (b) लभते (c) लभति (d) रोचते
 5. "I like the fruits": (a) अहम् फलानि रोचे (b) फलानि मह्यम् रोचते (c) फलानि मह्यम्
    रोचन्ते (d) मह्यम् फलानि रोचति
@@ -927,8 +934,8 @@ four second-family verbs, one of them in the 1st person and one in the plural; o
 9. By the dictionary's label (Apte: जि P.), "truth prevails" in classical Sanskrit is: (a)
    सत्यम् जयति (b) सत्यम् जायते (c) सत्यम् जयन्ते (d) सत्यम् जयामि
 10. Hindi मुझे फल अच्छे लगते हैं and Sanskrit फलानि मह्यम् रोचन्ते agree in this: (a) the
-    liked thing is the subject and the verb agrees with it (b) both use ने (c) both use the
-    dual (d) the liker is the subject
+    verb agrees with the liked thing (b) both use ने (c) both use the dual (d) the liker is
+    in the nominative
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -951,7 +958,8 @@ four second-family verbs, one of them in the 1st person and one in the plural; o
 9. (a) — Apte gives जि as P., so the 3rd person singular is जयति; §15 Step 7. ((b) is
    "is born", another verb; (c) is a plural verb with a singular subject; (d) is "I
    prevail".)
-10. (a) — the Hindi bridge (§5, §7, §15 Step 4). ((d) is the English pattern, §12 mistake 5.)
+10. (a) — the Hindi bridge (§5, §7, §15 Step 4): in both, the verb agrees with the liked
+    thing. ((d) is the English pattern, §12 mistake 5.)
 
 **Exercise keys.**
 
@@ -1253,12 +1261,12 @@ narrator reads the cue, not the English spelling.
   file; the Hitopadeśa departures of §22 (the plan after Hit 1.34, the hunter's verse Hit 1.37)
   against `hitop_u.htm`; the Hindi of §5 and §7 (no second family; the liking frame; मिलना
   turned round) against [REF:kachru2006], cited bare, or reworded; the evidence-table loci
-  (रोचते's §14 row v2.c05.l03; "the second ending family is Volume 3–4" v2.c05.l03 §15 Step
+  (रोचते's §14 row v2.c05.l03; "the second ending family is Volume 3–4" v2.c05.l03 §8, with §15 Step
   4; क्षमस्व v2.c01.l04; सत्यम् एव जयते v1.c06.l04) re-found by grep; the Hindi of every
   gloss, objective and of §7, §16 and §17 at Pass B.
-- **Register audit:** FACT ×10 (§4 Whitney's blurring and the dictionary · §5 the two
-  families, the passive, the Hindi frame, spacing · §15 the endings, the label, R3, the
-  honesty line; §15 Step 3) · TRADITION ×1 (§4 the names, attributed to the Indian
+- **Register audit:** FACT ×9 (§4 Whitney's blurring and the dictionary · §5 the two
+  families, the passive, the Hindi frame, spacing · §15 the endings, the label (Step 3), R3,
+  the honesty line) · TRADITION ×1 (§4 the names, attributed to the Indian
   grammarians, with Whitney as the source) · HISTORY ×1 (§4 the Muṇḍaka locus, cited, no date)
   · SYMBOL ×0. Quiz Q1–Q10 assess FACT; exercise 5 a and c are framed "In the tradition's
   names …" and "According to the grammarians …"; exercise 5 d rests on the cited HISTORY
