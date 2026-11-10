@@ -161,8 +161,8 @@ Two minutes, quick and oral, the class answering together.
 5. The sun's: रवि "sun" + वासरः "day".
 6. दूर "far" + दर्शनम् "seeing".
 7. मातृ, the dictionary stem. Today's rule 1 says why.
-8. विद्यालयः "school" · शुभरात्रिः "good night" · सप्ताहः "week" (सप्त + अह, "a seven of
-   days", as v2.c03.l03 split it).
+8. विद्यालयः "school" · शुभरात्रिः "good night" · सप्ताहः "week" (सप्त + अह, "a
+   seven-of-days", as v2.c03.l03 split it).
 </details>
 
 Every prompt but the third ends in a compound; पितरौ is one word standing for two, and its
@@ -186,8 +186,8 @@ words around the names (*nāmā*, *kapota-rājaḥ*) are not built today. What m
 names: चित्रग्रीवः and अल्पशक्तिः each describe someone, and neither means what its last
 word means.
 
-You met two more compounds before this lesson began: सिंहमूषकौ, "the lion and the mouse" of
-Volume 2, and नीलकण्ठः, "the blue-throated one". The first is "this *and* that"; the second
+Two more compounds are today's own: सिंहमूषकौ, "the lion and the mouse" of the Volume 2
+story, and नीलकण्ठः, "the blue-throated one". The first is "this *and* that"; the second
 points away from itself, to someone who has a blue throat. The tradition defines exactly
 these two kinds in one line each.
 
@@ -380,7 +380,7 @@ each word tells you; then uncover and compare.
 | owned form | where owned | what it shows |
 |---|---|---|
 | विद्यालयः "school" | v1.c06.l01 | विद्या + आलयः: two words, one ending; v1.c06.l01 called it "विद्या का घर" |
-| हिमालयः "the Himālaya" | v1.c04.l03 | हिम + आलयः, the snow's abode; आ + आ fused at the seam |
+| हिमालयः "the Himālaya" | v1.c04.l03 | हिम + आलयः, the snow's abode; अ + आ fused into आ at the seam |
 | परोपकारः "helping others" | v2.c06.l03; seam v3.c04.l01 | पर + उपकारः: the seam inside is a गुणः |
 | मनोरथैः "by wishes" | v2.c06.l03, the saying; seam v3.c04.l02 | मनस् + रथः: the visarga seam inside a word |
 | दूरदर्शनम् "television" | v2.c06.l04 | दूर + दर्शनम्, labelled part by part |
@@ -492,7 +492,7 @@ the compound in one breath, the vigraha as joined speech. विद्याल�
 seam inside, and no pause at either.
 
 **Drill 4 — the long words.** Clap the syllables: उ-दा-र-च-रि-तः [six], अ-ल्प-श-क्तिः — say
-it al-pa-śak-tiḥ, four, the ल्प closing the first syllable. Keep every short अ full; a Hindi
+it al-pa-śak-tiḥ, four, the ल closing the first syllable and the प opening the second. Keep every short अ full; a Hindi
 speaker's habit of dropping it would turn चित्रग्रीवः into "chitragriv".
 
 ## 10. IPA
@@ -625,7 +625,7 @@ Five notes. पाशबद्धाः is the Hitopadeśa's own compound: the m
 *pāśa-baddhāṃś* "bound in snares" (prose after Hit 1.39) [REF:hitopadesha mitralābha] — a
 tatpuruṣa whose first member is in the instrumental: पाशैः बद्धाः "bound by snares".
 अमृततुल्यम्: तुल्यः "equal, like" takes the instrumental or the genitive, so the vigraha is
-अमृतेन तुल्यम् or अमृतस्य तुल्यम्; ं before ज is lesson 3's rule (v3.c04.l03).
+अमृतेन तुल्यम् or अमृतस्य तुल्यम्; ं before ज is the rule of v3.c04.l03.
 उदारचरितः is a bahuvrīhi — the king is not "conduct", he has noble conduct: उदारम् चरितम्
 यस्य सः; the Hitopadeśa's verse 1.71 speaks of *udāra-caritānāṃ* "those of noble conduct"
 [REF:hitopadesha mitralābha]. यथाशक्ति begins with an indeclinable and does not change: it is
@@ -773,8 +773,9 @@ describes [REF:whitney1889 §1293].
 
 > **[FACT · तथ्यम्]** A determinative compound names a kind of its last member; a possessive
 > compound made of the same members adds the idea of *having*, and describes someone or
-> something outside it. Whitney's examples: the descriptive *bṛhadratha* "great chariot"
-> becomes the possessive *bṛhádratha* "having great chariots". [REF:whitney1889 §1293]
+> something outside it. Whitney's example: *bṛhadratha* as a descriptive is "great chariot";
+> as a possessive it is "having great chariots" [the same letters; accented texts tell the two
+> apart by accent, Volume 4's topic]. [REF:whitney1889 §1293]
 
 So ask: does the compound name the thing itself, or someone who has it?
 
@@ -812,23 +813,24 @@ Legend: ✓ productive — you produce it: exercises, quiz and exam may ask for 
 display — shown once, with its address; not yours yet.
 
 The name द्विगुः is its own example, "(worth) two cows"; अव्ययीभावः is not, as §4 said: it
-means "becoming an indeclinable" [REF:whitney1889 §1312] [REF:whitney1889 §1313]. Of the
-three, only पादपः is a word you own today, as a headword; its kind is the card's.
+means "becoming an indeclinable" [REF:whitney1889 §1312] [REF:whitney1889 §1313]. Four of
+the card's words are already yours — सप्ताहः, जलज and खग from Volumes 1–2, and पादपः as
+today's headword; what the card adds is only the name of their kind.
 
 ### Step 6 — labels, not kinds
 
-Five words you own carry labels, so that rule 1 and the four kinds are not misapplied:
+These words you own carry labels, so that rule 1 and the four kinds are not misapplied:
 
-- **सुप्रभातम्** (v2.c01.l03) is a **प्रादि** compound: सु "well" + प्रभातम्. The tradition
+- **सुप्रभातम्** [v2.c01.l03] is a **प्रादि** compound: सु "well" + प्रभातम्. The tradition
   files it with the prefixes, not as a karmadhāraya. Read the label; the kind is Volume 4's.
-- **अहिंसा** (v2.c06.l03) has the negative अ- first: "a tatpuruṣa whose first member is the
+- **अहिंसा** [v2.c06.l03] has the negative अ- first: "a tatpuruṣa whose first member is the
   negative", "not harming".
-- **महाभारतम्** (v1.c06.l01) and महर्षिः [v3.c04.l01] begin with **महा-**, a special
+- **महाभारतम्** [v1.c06.l01] and महर्षिः [v3.c04.l01] begin with **महा-**, a special
   compound form of the word for "great", not its stem.
-- **निरामयाः** (v1.c06.l04) begins with the prefix निर् "without": read it whole; its
+- **निरामयाः** [v1.c06.l04] begins with the prefix निर् "without": read it whole; its
   second member is not yours yet.
 - **जगदीशः** and **सज्जनः**, read whole in v3.c04.l03, are a tatpuruṣa (जगतः ईशः, "lord of
-  the world") and a karmadhāraya (सत् जनः, "a good person"); जगतः and सत् are display forms.
+  the world") and a karmadhāraya (सन् जनः, "a good person"); जगतः and सन् are display forms.
 
 ### Promises kept
 
@@ -863,7 +865,7 @@ and the words that change their last member in a compound (-राज, -सख).
 | बहुव्रीहिः | vigraha (यस्य … सः) and coining; the gender of the one described | ✓ |
 | द्विगुः · उपपदम् · अव्ययीभावः | the recognition card, Step 5 | ◐ |
 | प्रादि, the negative अ-, महा- | labels, Step 6 | ○ (v4.c04) |
-| मनसः, जगतः, सत्, उपकारः, ख | display members | ○ |
+| मनसः, जगतः, सन्, उपकारः, ख | display members | ○ |
 | compound accent; -राज, -सख at a compound's end | — | ○ (v4.c04) |
 | the pronoun tables of v3.c05.l01–l02, the grid of v3.c05.l03 | as their lessons marked them | ✓ and ◐ unchanged |
 
@@ -974,7 +976,8 @@ and the mouse cuts the snares.
    "Citragrīva and Hiraṇyaka became dear friends." — चित्रग्रीव और हिरण्यक प्रिय मित्र बन
    गए।
 
-The quiet craft notes. Seven compounds stand in nine lines: the names चित्रग्रीवः and
+The quiet craft notes. Seven compounds stand in nine lines, besides the greeting स्वागतम्
+[सु + आगतम्, said whole since Volume 1, with the label of सुप्रभातम्]: the names चित्रग्रीवः and
 अल्पशक्तिः, the greeting प्रियमित्र [a vocative], पाशबद्धाः, यथाशक्ति, and the closing pair
 चित्रग्रीवहिरण्यकौ with its प्रियमित्रे. Exercise 6 asks you to find and sort them. The seams
 are Chapter 4's: in line 3 हिरण्यकः before अ is हिरण्यकोऽ; in line 4 सखे stands before a
@@ -1002,7 +1005,7 @@ in pause form, and name the case of every member.
 |---|---|---|
 | a | गुरुशिष्यौ | "the teacher and the student" |
 | b | हिमालयः | the mountains |
-| c | जलपात्रम् | a pot for water |
+| c | जलपात्रम् | a water-pot |
 | d | चित्रवनम् | a bright forest |
 | e | अल्पशक्तिः | the mouse, of himself |
 | f | नीलकण्ठः | Śiva |
@@ -1048,7 +1051,8 @@ and under it the compound's vigraha. A model, not to be copied (its compound is 
 मूषकः च.
 
 **अभ्यासः 6 · कथायाः समासाः — the compounds of the episode: reading, at home.** Read §17
-again, joined. Find every compound in it — seven in all — and for each write its kind and
+again, joined. Find every compound in it — seven in all, besides the greeting स्वागतम्, which you have
+said whole since Volume 1 — and for each write its kind and
 its vigraha. One of the seven is a ◐ kind: name it, and give its gloss instead of a vigraha;
 it is read, not scored.
 
@@ -1063,7 +1067,7 @@ in the form you hear.
 
 1. The vigraha of विद्यालयः: (a) विद्यायाः आलयः (b) विद्या च आलयः च (c) विद्या आलयः यस्य
    सः (d) विद्यया आलयः
-2. The kind of नीलकण्ठः, said of Śiva: (a) dvandva (b) karmadhāraya (c) bahuvrīhi (d) dvigu
+2. The kind of नीलकण्ठः, said of Śiva: (a) dvandva (b) karmadhāraya (c) bahuvrīhi (d) case-tatpuruṣa
 3. "Mother and father", one word: (a) मातापितरौ (b) मातृपिता (c) मातापिता (d) मातापितरः
 4. In a compound, which member takes the ending? (a) the first (b) the last (c) both
    (d) neither
@@ -1085,7 +1089,7 @@ in the form you hear.
    pair; (c) as a bahuvrīhi, but a school is the abode itself; (d) is §12's mistake 5 with
    the wrong case, the instrumental.)
 2. (c) — Śiva is not a throat; he has a blue one: नीलः कण्ठः यस्य सः [§15 Step 4]. ((b) is
-   §12's mistake 3; (a) needs an "and"; (d) needs a numeral.)
+   §12's mistake 3; (a) needs an "and"; (d) needs a case relation, and Śiva is not a kind of throat.)
 3. (a) — a dvandva of two, dual, with the exception माता- first (§15 Step 1). ((b) puts the
    stem first against the exception and is singular; (c) is the Hindi habit, singular;
    (d) is plural, for more than two.)
@@ -1117,8 +1121,8 @@ in the form you hear.
 | e | अल्पा शक्तिः यस्य सः | अल्पा, शक्तिः nom.; यस्य gen.; सः nom. — बहुव्रीहिः |
 | f | नीलः कण्ठः यस्य सः | नीलः, कण्ठः nom.; यस्य gen.; सः nom. — बहुव्रीहिः |
 
-Score /6 for the vigraha and /6 for the cases. In (c), a vigraha with the dative, जलाय
-पात्रम् "a pot for water", is also right.
+Score /6 for the vigraha and /6 for the cases. In (c) the vigraha is the genitive, जलस्य
+पात्रम्; the grammarians do not resolve this compound with the dative.
 
 2: (a) द्वन्द्वः — two things, "and" (b) तत्पुरुषः — the thing itself, मातुः भाषा (c)
 कर्मधारयः — the thing itself, प्रियम् मित्रम् (d) बहुव्रीहिः — someone who has it: the king
@@ -1147,7 +1151,8 @@ before a stop (अहं गच्छामि or अहङ्गच्छाम
 कर्मधारयः: प्रियम् मित्रम् · पाशबद्धाः — तत्पुरुषः: पाशैः बद्धाः [instr. pl.] · अल्पशक्तिः —
 बहुव्रीहिः: अल्पा शक्तिः यस्य सः · यथाशक्ति — अव्ययीभावः, ◐: "as far as one's strength
 goes", read, not scored · चित्रग्रीवहिरण्यकौ — द्वन्द्वः: चित्रग्रीवः च हिरण्यकः च ·
-प्रियमित्रे, the neuter dual — कर्मधारयः: प्रिये मित्रे. Score /12, the six ✓ compounds, one
+प्रियमित्रे, the neuter dual — कर्मधारयः: प्रिये मित्रे. A learner who also lists स्वागतम्
+[line 3] is right: it is सु + आगतम्, with the label of सुप्रभातम्, and it is not scored. Score /12, the six ✓ compounds, one
 point for the kind and one for the vigraha; for the two karmadhārayas "तत्पुरुषः" is also
 accepted.
 
@@ -1172,7 +1177,7 @@ accepted.
 > the thing itself, or someone who has it? A bahuvrīhi takes the gender of the one it
 > describes: चित्रग्रीवः. **Pāṇini:** 2.2.29 चार्थे द्वन्द्वः · 2.2.24 अनेकमन्यपदार्थे.
 > **Read, not scored:** द्विगुः [सप्ताहः], उपपदम् [जलजम्, खगः, पादपः], अव्ययीभावः
-> (यथाशक्ति). **The ledger:** eight new — 488; cells drilled: 0; 24 compounds resolved.
+> [यथाशक्ति]. **The ledger:** eight new — 488; cells drilled: 0; 24 compounds resolved.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
@@ -1267,7 +1272,7 @@ Indra" against a bahuvrīhi "whose slayer is Indra", told apart by accent — is
 says so in one line, without the word; do not teach it now.
 
 **जगदीशः, सज्जनः.** v3.c04.l03 read them whole and sent their analysis here (its §27). §15
-Step 6 labels them; जगतः and सत् are display forms, not drilled.
+Step 6 labels them; जगतः and सन् [the masculine nominative of सत्] are display forms, not drilled.
 
 **The context test needs a context.** Out of a sentence, अल्पशक्तिः, नीलकण्ठः, शुभरात्रिः
 and प्रियमित्रम् can each be read two ways. Every prompt in §18 and §19 therefore gives the
@@ -1352,7 +1357,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 1. **Hook (0:00–0:40):** the word चित्रग्रीवः on screen; a cartoon neck appears beside it
    and is crossed out; the dove-king flies in instead. Title card: समासाः — Compounds.
 2. **The evidence (0:40–1:40):** owned words fly in from Volumes 1–2 — विद्यालयः, हिमालयः,
-   मातृभाषा, सिंहमूषकौ — and each splits along its seam, the endings lighting up only at
+   मातृभाषा, परोपकारः — and each splits along its seam, the endings lighting up only at
    the end of each word.
 3. **The four rules (1:40–2:40):** the vigraha strip of §23 asset 2, row by row: stem first,
    ending last, the seam inside, the vigraha outside.
@@ -1456,7 +1461,7 @@ narrator reads the cue, not the English spelling.
   compounds resolved. Transparent compounds (चित्रग्रीवः, अल्पशक्तिः, उदारचरितः, मातापितरौ,
   सिंहमूषकौ, नीलकमलम्, अल्पबुद्धिः, the §18 coinings) export as `compound_of` their members,
   never as rows; नीलकण्ठः and पादपः as lexicalised headwords (rule 10). Display items with
-  their labels: उपकारः, मनसः, ख, जगतः, सत्, सप्तानाम् अह्नाम् समाहारः, पञ्चतन्त्रम्; ◐ items:
+  their labels: उपकारः, मनसः, ख, जगतः, सन्, सप्तानाम् अह्नाम् समाहारः, पञ्चतन्त्रम्; ◐ items:
   यथाशक्ति, प्रतिदिनम्, सप्ताहः's kind, जलजम्, खगः, पादपः's kind, अहोरात्रम्. Grammar terms
   are GLOSSARY items, never vocabulary rows. Error forms: \*माताभाषा, \*नीलःकमलम्,
   \*चित्राग्रीवः, \*सिंहमूषकः [for two], \*सिंहौमूषकौ, \*पर-उपकारः [as the word], \*विद्या

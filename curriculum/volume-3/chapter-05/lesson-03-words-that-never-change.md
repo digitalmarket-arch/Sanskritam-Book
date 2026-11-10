@@ -12,7 +12,7 @@ lesson: 3
 lesson_type: vocabulary
 cefr: A2
 duration_minutes: 45
-self_study_minutes: 40
+self_study_minutes: 45
 prerequisites: [v3.c05.l02]
 review_of: [v3.c05.l02, v3.c05.l01, v1.c02.l06, v1.c05.l03, v1.c05.l05, v2.c05.l01, v2.c05.l02, v2.c01.l02, v2.c06.l02, v3.c03.l04, v3.c04.l01, v3.c04.l02]
 objectives:
@@ -31,6 +31,7 @@ media:
   images:
     - "planned:assets/images/volume-3/v3c05l03-correlative-grid.svg"
     - "planned:assets/images/volume-3/v3c05l03-upasarga-card.svg"
+    - "planned:assets/images/volume-3/v3c05l03-serial-mouse.svg"
   audio:
     - "planned:assets/audio/volume-3/v3c05l03-grid-chant.mp3"
     - "planned:assets/audio/volume-3/v3c05l03-conversation.mp3"
@@ -163,13 +164,13 @@ Every word on today's grid has one form only. अत्र is अत्र in ev
 subject, in every case of the noun beside it. The grammatical tradition makes that a class of
 its own and names it by what it does — or rather by what it never does:
 
-> **[TRADITION · परम्परा]** Pāṇini calls a word that never changes अव्ययम्: 1.1.37
-> स्वरादिनिपातमव्ययम् (svarādinipātam avyayam) — the words listed from स्वर् on, and the
-> particles (निपाताः), are 'unchanging'. The Kāśikā's list includes, among others you own
+> **[TRADITION · परम्परा]** Pāṇini, 1.1.37 स्वरादिनिपातमव्ययम् (svarādinipātam avyayam): the
+> words of the list that begins with स्वर्, and the particles (निपाताः), are called अव्यय —
+> 'unchanging'. The Kāśikā's list includes, among others you own
 > (अन्तर्, पुनर्, सायम्, विना, नमस्, स्वस्ति …), these six: प्रातर्, उच्चैस्, शनैस्, ह्यस्, श्वस्,
-> बहिस् — and अधस् and स्वयम्. Of प्र and the rest, 1.4.59
-> उपसर्गाः क्रियायोगे (upasargāḥ kriyāyoge) says: when they join a verb, they are उपसर्गाः. [REF:ashtadhyayi 1.1.37]
-> [REF:kashika 1.1.37] [REF:ashtadhyayi 1.4.59]
+> बहिस् — and अधस् and स्वयम्. 1.4.59 उपसर्गाः क्रियायोगे (upasargāḥ kriyāyoge): when they are
+> joined to a verb, प्र and the rest are called उपसर्ग. [REF:ashtadhyayi 1.1.37]
+> [REF:kashika 1.1.37] [REF:ashtadhyayi 1.4.59] [REF:kashika 1.4.59]
 
 The Kāśikā's stem forms in -स्/-र् are printed as it gives them, with the owned pause forms
 beside them: अन्तः, प्रातः, पुनः, उच्चैः, शनैः, ह्यः, श्वः, बहिः, नमः, अधः. You met the -र् and
@@ -205,8 +206,10 @@ and you may use it as a memory hook. The course makes no claim about where any o
 pairings comes from; it says only what you can see and check.
 
 > **[FACT · तथ्यम्]** Distributed practice helps retention [REF:cepeda2006], and retrieval
-> practice beats re-reading for long-term retention [REF:roediger2006]: today's Station 0 runs
-> two bookings at their +1-day and +1-week intervals, and §20 books this lesson's own two.
+> practice beats re-reading for long-term retention [REF:roediger2006].
+
+In this course, today's Station 0 runs two bookings at their +1-day and +1-week intervals, and
+§20 books this lesson's own two.
 
 ## 6. Sanskrit Explanation
 
@@ -337,7 +340,7 @@ The asker's column takes चित् or अपि, as कः did in the last le
 (kutaścit) "from somewhere", **कुतोऽपि** (kuto 'pi) "from anywhere"; **कदाचित्** (kadācit) "once,
 at some time" — lesson 2's headword, now seen as क- + -दा + चित्; **कदापि** (kadāpi) "ever" — with न,
 "never"; **कथञ्चित्** (kathañcit) or **कथंचित्** (kathaṃcit) "somehow". Every seam is one you own:
-ः + च → श्च, -अः + अ → -ओऽ, आ + अ → आ, म् before a stop → the class nasal or ं. Only कदाचित् is a
+ः + च → श्च, -अः + अ → -ओऽ, अ or आ + अ → आ, म् before a stop → the class nasal or ं. Only कदाचित् is a
 ledger word; the rest are built, and a built word never counts (§14).
 
 ### Particles — the words that lean
@@ -603,7 +606,7 @@ and सदा. Six of them are today's headwords; fourteen are owned; सर्�
 इत्थम् are built and add 0 (STYLE_GUIDE §8 rule 15), as do the चित्/अपि words except कदाचित्, which
 lesson 2 counted.
 
-Back on duty, review only — no re-entry to the ledger: the particles च, वा, एव, इव (v3.c04.l01), तु
+Back on duty, review only — no re-entry to the ledger: the particles च (v2.c02.l04), वा, एव, इव (v3.c04.l01), तु
 (v3.c04.l02), अपि, न, मा, इति; the placed words उपरि (v2.c06.l01) and समीपे, a cell of समीपम्
 (v3.c01.l04); the pronouns यः, सः, सा, तत् and their cells (lesson 2), सखा and सखे (lesson 1); and
 the words of the sentences: पठति, जानाति, वृक्षः, कपोतः, गुरुः, आगच्छति, छात्रः, उपविशति, शिष्यः,
@@ -649,8 +652,9 @@ How to build one from two sentences, the method of exercise 2:
 4. Join each clause by the Chapter 4 maps, and print the pause form beneath:
    यो बालकः पठति स जानाति। — यः बालकः पठति सः जानाति।
 
-One printing rule from Chapter 4 matters here. The seam न् + त is not taught (v3.c04.l03 has no
-row for it), so where a relative clause ends in -न्, a comma closes it before the correlative,
+One printing rule from Chapter 4 matters here. The seam न् + त is for recognition only
+(v3.c04.l03 marks its row ◐), so where a relative clause ends in -न्, a comma closes it before
+the correlative,
 and the comma is a stop: यदा कपोतास्तत्रागच्छन्, तदा … (§17 line 2). For यावत् … तावत् "as long
 as … so long", the same pattern with two more grid words, see Volume 4 (v4.c04).
 
@@ -660,7 +664,7 @@ as … so long", the same pattern with two more grid words, see Volume 4 (v4.c04
 > तु "but" do not either. They follow the first word of their clause, or the word they join:
 > रामश्च सीता च; त्वं हि सदा मन्दं गच्छसि; रामस्तु. एव, इव and अपि follow the word they mark:
 > अहमपि "I too", अहमेव "I alone", सिंह इव "like a lion". [REF:whitney1889 §1133]
-> [REF:whitney1889 §1122] [REF:apte1890 s.v. हि]
+> [REF:whitney1889 §1122] [REF:apte1890 s.v. हि] [REF:apte1890 s.v. तु]
 
 ### The placed words
 
@@ -672,7 +676,7 @@ as … so long", the same pattern with two more grid words, see Volume 4 (v4.c04
 
 Twenty-two prefixes, as the Kāśikā lists "प्र and the rest" (the source is named in Teacher
 Notes); the tradition counts निस् and निर्, दुस् and दुर् as two each. The Kāśikā writes आ as आङ्,
-with a marker letter. When they join a verb, they are उपसर्गाः (1.4.59, §4).
+with a marker letter. Their name, उपसर्गाः, is given by the sūtra of §4 (1.4.59).
 
 | # | उपसर्गः | IAST | In Whitney's list | A verb or word you own |
 |---|---|---|---|---|
@@ -780,7 +784,7 @@ turn by turn).
   शीघ्रम् आगच्छ! त्वम् हि सदा मन्दम् गच्छसि। (śīghram āgaccha! tvam hi sadā mandam gacchasi.)
   "Come quickly! For you always walk slowly." — जल्दी आओ! तुम तो हमेशा धीरे चलते हो।
 
-Housekeeping. Owned: आपणः (v2.c05.l04), मधुरः and विशालः (v3.c02.l02), बालकः, मन्दम् (v2.c05.l02),
+Housekeeping. Owned: आपणः (v2.c05.l04), मधुरः and विशालः (v3.c02.l02), बालकः (v1.c03.l05), मन्दम् (v2.c05.l02),
 शीघ्रम् and सदा (v3.c03.l04). In turn 7 करोमि "I'll do" is the present for a near future, as the
 Hindi करूँगा glosses it; the future itself is v4.c03. In turn 10 हि stands second, after त्वं, and
 Sītā's last line leans on it without a pause (§9 drill 2). In turn 9 the comma after तीरे is a
@@ -829,10 +833,10 @@ natural pace, then the pause form line by line).
    वह बिल से बाहर आया।
 
 Glossed: चित्रग्रीवः "Bright-neck", the dove-king, and हिरण्यकः "Goldie", the mouse — names, gloss-line
-items (their compound is lesson 4's); अशृणोत् "heard", the imperfect of शृणोति (R4, labelled).
+items (चित्रग्रीवः, a compound, is opened in lesson 4); अशृणोत् "heard", the imperfect of शृणोति (R4, labelled).
 
 Walk it with the seams. Line 2: the comma closes the relative clause; आगच्छन् stands before it
-in its pause form, because the न् + त join is not taught. Line 5: ततः + च → ततश्च; अगच्छत् before
+in its pause form, because the न् + त join is for recognition only (v3.c04.l03). Line 5: ततः + च → ततश्च; अगच्छत् before
 the comma; अवदत् + च → अवदच्च; क्व + असि → क्वासि. Line 6: किम् + अपि, written together; अपि + अवदत्
 → अप्यवदत्, the यण्. Line 8: हिरण्यकः + त → हिरण्यकस्त; तत् + व → तद्व and विवरात् + ब → विवराद्ब,
 the final stop voiced; बहिः + आ → बहिरा. Line 4 uses वयम् with the neuter predicate मित्राणि, "we
@@ -844,7 +848,7 @@ again, with a relative, what v3.c03.l03 told in line 10 (मूषकस्त�
 ## 18. Exercises
 
 अभ्यासाः — six exercises; 1, 2, 3 and 4 are production tasks. In class: exercises 1, 2, 4 and
-5; homework: exercises 3 and 6 (§21, §22). All keys sit in §19's answer key.
+5; homework: exercises 3 and 6 and the §19 quiz (§21, §22). All keys sit in §19's answer key.
 
 **अभ्यासः 1 · तालिका — the grid from memory (in class, 5 min; production).** Draw the empty
 grid — five columns, क-, इ-/अ-, त-, य-, सर्व-; four rows, place, from where, time, manner — and fill
@@ -927,7 +931,7 @@ this order, from what you heard; play it a second time only to check:
 प्रश्नाः — ten items; answers in the key at the end; no peeking mid-quiz.
 
 1. The correlative of यदा: (a) तत्र · (b) तदा · (c) यत्र · (d) तथा
-2. "Under the tree": (a) वृक्षस्य अधः · (b) वृक्षे अधः · (c) वृक्षः अधः · (d) वृक्षेण अधः
+2. "Under the tree": (a) वृक्षस्याधः · (b) वृक्षेऽधः · (c) वृक्षोऽधः · (d) वृक्षेणाधः
 3. Which word may not stand first in its clause? — (a) यदा · (b) हि · (c) कुत्र · (d) यत्र
 4. यं पश्यसि ___ मम सखा। — the missing word: (a) तम् · (b) सः · (c) यः · (d) तस्य
 5. सर्वत्र means: (a) always · (b) everywhere · (c) in every way · (d) from everywhere
@@ -946,8 +950,8 @@ this order, from what you heard; play it a second time only to check:
 **Quiz.**
 
 1. (b) तदा (§8, §14). (a), (c), (d) are other cells of the grid: the place pair and the manner word.
-2. (a) वृक्षस्य अधः — अधः takes the genitive (§15). (b) is §12 mistake 4; (c) is the nominative and
-   (d) the instrumental: neither says "under the tree".
+2. (a) वृक्षस्याधः = वृक्षस्य अधः — अधः takes the genitive (§15). (b) वृक्षे अधः is §12 mistake 4;
+   (c) वृक्षः अधः is the nominative and (d) वृक्षेण अधः the instrumental: neither says "under the tree".
 3. (b) हि — it leans on the word before it (§8, §15). The other three open their clause.
 4. (b) सः — the subject of the main clause, in its own case (§15 rule 2). (a) is §12 mistake 2;
    (c) repeats the relative; (d) is a genitive with no job here.
@@ -970,7 +974,7 @@ this order, from what you heard; play it a second time only to check:
   - (c) इदानीम् — अहमिदानीमागच्छामि।
   - (d) कथम् — कथं वदसि?
   - (e) तदा — यदा माता वदति तदाहं गच्छामि। — ततः is accepted (§12, mistake 5).
-  - (f) एवम् or तथा — एवं वद। · तथा वद।
+  - (f) एवम्, तथा or इत्थम् — एवं वद। · तथा वद। · इत्थं वद।
 - **Exercise 2.** Joined line first, its pause form after the dash:
   - (a) यो बालकः पठति स जानाति। — यः बालकः पठति सः जानाति।
   - (b) यत्र सिंहस्तत्र मूषको न गच्छति। — यत्र सिंहः तत्र मूषकः न गच्छति। Also right, with the verb
@@ -994,10 +998,10 @@ this order, from what you heard; play it a second time only to check:
   - (e) स एव जानाति। — सः एव जानाति।
   - (f) वृक्षस्याधः — वृक्षस्य अधः
 - **Exercise 5.** (a) आ · (b) अव · (c) निर् · (d) प्र · (e) उप · (f) नि. (g) According to Pāṇini
-  (1.1.37), the words listed from स्वर् on, and the particles: words that never change. (h)
+  (1.1.37), the words of the list that begins with स्वर्, and the particles (निपाताः). (h)
   According to Pāṇini (1.4.59), प्र and the rest when they are joined to a verb.
 - **Exercise 6.** (1) आपणम्। · (2) यदा माता वदति [तदा]। · (3) तत्रैव — आपणम्। · (4) नद्यास्तीरे,
-  वृक्षस्याधः। · (5) शीघ्रमागच्छ! · (6) मन्दम्। One point each; an answer in pause form is as right
+  वृक्षस्याधः। · (5) शीघ्रमागच्छ! — or त्वं हि सदा मन्दं गच्छसि। · (6) मन्दम्। One point each; an answer in pause form is as right
   as a joined one.
 </details>
 
@@ -1021,7 +1025,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 40 minutes total.
+गृहकार्यम् — about 45 minutes total.
 
 1. **(8 min)** Exercise 3: six relative sentences about the serial, joined, with the pause form
    beneath; checked against the §15 rules.
@@ -1037,6 +1041,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
    both forms, the joined line above its pause form.
 7. **(3 min, real world)** Write three Hindi sentences of your own with जो … वह or जब … तब, about your
    day, and beneath each its Sanskrit, joined, in words you own.
+8. **(5 min)** The §19 quiz, ten items, closed book; then check it against the key and note each
+   slip beside the section the key names.
 
 Tomorrow, before anything else: the +1-day station (§20) — the grid from memory, then two of its
 words in a sentence each.
@@ -1055,11 +1061,9 @@ words they had never been taught.
 **Timing plan (45 min):** Station 0, two items and the six prompts (8) → §14, the eight headwords
 and the grid, owned words first (8) → exercise 1, the grid from memory and the six blanks (5) →
 §15, the relative sentence and its two rules (5) → exercise 2, six pairs joined (8) → exercise 4,
-the particles (4) → the upasarga card and exercise 5 (3) → §16 read in pairs (2) → the quiz, ten
-items, answers called out and checked at once (2) = 45. Exercises 1, 2, 4 and 5 and the quiz are
-done in class; exercises 3 and 6 are homework (§21). The quiz runs fast because every item is a
-single choice the lesson has just drilled; a room that needs longer takes the last minute of
-§16 for it.
+the particles (4) → the upasarga card and exercise 5 (3) → §16 read in pairs, each partner taking
+both roles once (4) = 45. Exercises 1, 2, 4 and 5 are done in class; exercises 3 and 6 and the
+quiz are homework (§21).
 
 **Board work:** the grid in five columns, the owned words in one colour, today's six in another,
 the built सर्व- column in a third; under it the relative frame यः … , सः … with four arrows down to
@@ -1069,7 +1073,7 @@ on the wall; read it, never drill it.
 
 **The sūtras.** 1.1.37 and 1.4.59 are the only sūtra numbers in learner text today. The sūtra
 that gives the list of "प्र and the rest" is 1.4.58 प्रादयः [REF:ashtadhyayi 1.4.58]; the Kāśikā
-glosses it *pra-ādayo 'sattve nipata-sañjñā bhavanti* — when they do not denote a thing, प्र and
+glosses it *pra-ādayo 'sattve nipāta-sañjñā bhavanti* (the e-text prints *nipata*) — when they do not denote a thing, प्र and
 the rest are nipātas [REF:kashika 1.4.58]. The one before it, 1.4.57 चादयोऽसत्त्वे, makes च and the
 rest nipātas on the same condition [REF:ashtadhyayi 1.4.57]; 1.4.60 गतिश्च adds the name gati for
 the same prefixes [REF:ashtadhyayi 1.4.60] (gati is Volume 4's, v4.c04). Learner text says only
@@ -1168,6 +1172,13 @@ twenty-two meanings.
 > Station 0 log (item 1 /27, item 2 /6). Footer chants: "relative first" · "each pronoun its own
 > case" · "च never first".
 
+**Asset 4 — `planned:assets/images/volume-3/v3c05l03-serial-mouse.svg` (§17, line 8)**
+
+> Storybook illustration in the style of the serial's earlier episodes, warm palette: at the foot of
+> a large tree on a river bank a small brown mouse steps out of his burrow, looking up; in front of
+> him a flock of grey doves held in snares on the ground, their king at the front with a bright,
+> shimmering neck. No text in the image.
+
 ## 24. AI Video Prompt
 
 Lesson video, about 6 minutes, presenter plus motion graphics.
@@ -1229,6 +1240,8 @@ reads the cue, not the English spelling.
     work, §23 prompt 1, §24 scenes 1–2
   - `assets/images/volume-3/v3c05l03-upasarga-card.svg` — §15 (the card), §22 wall card, §23
     prompt 2, §24 scene 6
+  - `assets/images/volume-3/v3c05l03-serial-mouse.svg` — §17 (line 8), §23 asset 4; the chapter
+    frame's new serial illustration for l03
   - `assets/audio/volume-3/v3c05l03-grid-chant.mp3` — §9 drill 1 (the chant in pause form, in the
     printed order), drills 2–4, §14 headwords twice each
   - `assets/audio/volume-3/v3c05l03-conversation.mp3` — §16 turns 1–10, natural pace, then turn by
@@ -1280,7 +1293,7 @@ reads the cue, not the English spelling.
   and MW as §14 cites them (एवम्: MW only, Apte's sub-entry still to be quoted); the Hindi gloss of
   Hit 1.40 is new (Pass B). Whitney §1121 is not cited (editor's decision 8). Walk check: every
   word of §6, §13, §16, §17 and §18 owned, a headword of today, or labelled (§14 lists).
-- **Register audit:** FACT ×6 (§5 Hindi relative sentence, spacing · §15 the relative sentence,
+- **Register audit:** FACT ×5 (§5 Hindi relative sentence, spacing · §15 the relative sentence,
   the particle rule, the placed words; the card's counts are plain text with citations) ·
   TRADITION ×1 (§4, 1.1.37 and 1.4.59) · HISTORY ×0 · SYMBOL ×0. Quiz Q1–Q6, Q9, Q10 assess FACT;
   Q7, Q8 assess TRADITION in the form "According to …". The 1.x upasarga list appears only as a
