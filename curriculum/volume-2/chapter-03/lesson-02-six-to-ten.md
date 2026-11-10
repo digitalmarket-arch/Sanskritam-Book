@@ -878,8 +878,9 @@ narrator reads the cue, not the English spelling.
   (कालः — Time Words: the deictic trio and होरा's reversed arrow — next lesson),
   v2.c03.l04 (the week), v2.c03.l05 (exam: Station 2 re-runs this lesson; task C counting
   production; task D carries THE November-reject and नव-split cards built here), v2.c06
-  (cognate sets at scale), Volume 3 (the षड् company dress — read-only here), Volume 4
-  (the numeral system behind the bare answers).
+  (cognate sets at scale), Volume 3 (the षड् company dress — read-only here), v3.c02 (number-noun agreement: the
+  numerals in the nominative and accusative, by gender), Volume 4 (v4.c05: the full numeral
+  system).
 - **Glossary:** reuses मूर्धन्य, दन्त्य, विसर्ग, मात्रा, संयुक्ताक्षर per GLOSSARY.md; no
   new glossary terms. All headwords are classical vocabulary — no classical/modern usage
   labels needed this lesson (the register work is cognate-direction honesty, §13/§18).

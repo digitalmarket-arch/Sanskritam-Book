@@ -799,8 +799,8 @@ the narrator reads the cue, not the English spelling.
   v2.c02.l02 (एतत् pointing kit), v2.c02.l03 (पुष्पम्, the countable world set); feeds
   v2.c03.l02 (षट्–दश, the how-many word, THE month-name fix — teased in §13, not
   spilled), v2.c03.l05 (counting task C; its Station 1 targets this lesson's
-  §13/§14/§15), v2.c06 (cognate sets at scale), v3.c02 (numeral gender, nominative and accusative), Volume 4 (the full numeral system —
-  the machinery behind §15's fence, parked at v4.c05 by the salvage map).
+  §13/§14/§15), v2.c06 (cognate sets at scale), v3.c02 (numeral gender, nominative and accusative) and Volume 4 (the full numeral system,
+  parked at v4.c05 by the salvage map) — together the machinery behind §15's fence.
 - **Glossary:** reuses विसर्ग, मात्रा, संयुक्ताक्षर, हलन्त per GLOSSARY.md; no new
   glossary terms. The register work this lesson is cognate-direction honesty and
   ledger honesty (§13, §14).
