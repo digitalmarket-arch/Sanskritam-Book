@@ -315,7 +315,7 @@ affricate. श्वः /ɕʋɐh/ and ह्यः /ɦjɐh/ end in visarga /h/ �
 |---|---|---|---|
 | 1 | "November comes from नव" — the derivation error, in print in 1.x | D | l02 §13: Latin counts its own calendar; cognates, no arrow |
 | 2 | षट्/अष्ट flattened to dental (saṭ, asṭa) | C, B | l02 §9 — curl once, hold through the cluster |
-| 3 | Numeral agreement invented under pressure (endings glued onto bare numbers) | C, E | the honesty line: bare answers are the taught form; the system arrives in Volume 4 |
+| 3 | Numeral agreement invented under pressure (endings glued onto bare numbers) | C, E | the honesty line: bare answers are the taught form; gender in counting arrives in Volume 3 (v3.c02), the full system in Volume 4 (v4.c05) |
 | 4 | श्वः and ह्यः swapped — tomorrow for yesterday | E, A | l03 §8 trio drills; pair each with a gesture (forward/back) |
 | 5 | होरा's arrow reversed ("Greek borrowed it from Sanskrit") | D | l03 §13 — the loan ran INTO Sanskrit, with Hellenistic astronomy |
 | 6 | Digit misreads at speed — ९ taken for ७, ८ for ५ | C, E | v1.c05.l05 digit cards; slow the ladder before speeding it |
@@ -366,7 +366,7 @@ lessons. Protocol as always: block by block, whole word, full finals, pause form
 > citation names (dictionaries file six under षष्, and nine under नवन् — l02 §13,
 > §15); Sanskrit numbers inflect for case, and one to four for gender too, a system
 > this course
-> defers honestly (full treatment in Volume 4) and never fakes. **The chant:** एकम्
+> defers honestly (gender in counting in Volume 3, v3.c02; full treatment in Volume 4, v4.c05) and never fakes. **The chant:** एकम्
 > द्वे त्रीणि चत्वारि… — real, inflected, neuter counting forms, learned whole as
 > practice. **The question:** कति "how many?" — answers may stand bare: कति? — पञ्च!
 > **The trio:** अद्य श्वः ह्यः are indeclinables; verbless frames carry them. **The
@@ -499,7 +499,7 @@ Finish with the maintenance micro-check: write ०–९ from memory in order, t
 1. एक द्वि त्रि चतुर् पञ्च; the loner is एक — no tidy English cousin, said honestly
    (l01 §13).
 2. Neuter counting forms — real, inflected Sanskrit learned as a chant; the numeral
-   gender-and-case system is deferred to Volume 4 (l01 §15).
+   gender-and-case system is deferred: gender in counting to Volume 3 (v3.c02), the full system to Volume 4 (v4.c05) (l01 §15).
 3. No. November is Latin's own novem "nine", counting the ninth month of the old
    Roman year; नव and novem are cognates — siblings from one ancestor, neither
    derived from the other (l02 §13).

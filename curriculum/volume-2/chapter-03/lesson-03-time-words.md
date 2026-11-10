@@ -907,7 +907,7 @@ narrator reads the cue, not the English spelling.
   preview honored — "flagged next chapter" resolves today); feeds v2.c03.l04 (वासराः —
   the week: अद्य कः वासरः? unlocks the moment the names land), v2.c03.l05 (exam task D
   cards 3–4 and the task E calendar trio; Station 3 prompts), v2.c06 (cognates at
-  scale), Volume 3 (locatives — honestly deferred here), Volume 4 (numeral agreement).
+  scale), Volume 3 (locatives — honestly deferred here), Volume 3 (numeral agreement, v3.c02), Volume 4 (the numeral system, v4.c05).
 - **Glossary:** reuses अव्यय (v2.c02.l04), संयुक्ताक्षर, विसर्ग, रेफ, मात्रा per
   GLOSSARY.md; no new glossary terms. Register work this lesson is loan-direction
   honesty (§13), not classical/modern usage labels.

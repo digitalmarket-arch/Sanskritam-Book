@@ -249,7 +249,7 @@ Verified-correct 1.x material and where it lands in 2.0:
 | 10 lakāras + forms (pp.74–75) | v4.c03 |
 | Kāraka lesson + Fillmore note (pp.87–89) | v3.c02 (functional), v4.c05 (theory) |
 | √भू 6-lakāra table (pp.127–128) | v4.c03 |
-| tad/idam/numeral paradigms (pp.111–113, 125–127) | v3.c05, v4.c05 |
+| tad/idam/numeral paradigms (pp.111–113, 125–127) | v3.c02 (numeral nom./acc.), v3.c05 (tad/idam), v4.c05 (numeral system) |
 | rājan aṅga/pada/bha example (pp.97–99) | v4.c02 |
 | Gerund/infinitive lesson (pp.106–108) | v4.c04 |
 | Meta-rules 8.2.1/1.1.56/1.4.2 (pp.115–117) | v4.c06 |

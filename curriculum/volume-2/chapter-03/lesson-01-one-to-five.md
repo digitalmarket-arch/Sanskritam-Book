@@ -20,8 +20,8 @@ objectives:
     hi: "पाँचों संख्या-मूल — एक, द्वि, त्रि, चतुर्, पञ्च — हर अन्तिम ध्वनि समेत पढ़ें-बोलें, और हर मूल को उसके अंक १–५ से एक ताल के भीतर जोड़ें।"
   - en: "Recite the counting chant एकम् द्वे त्रीणि चत्वारि पञ्च on an even beat, count pictured objects with it, and close each count on its last chant word."
     hi: "गिनती-घोष एकम् द्वे त्रीणि चत्वारि पञ्च सम ताल पर बोलें, चित्रों की वस्तुएँ उसी से गिनें, और हर गिनती घोष के अन्तिम शब्द पर पूरी करें।"
-  - en: "State the honest two-dress line — stems are the citation names, the chant is the neuter counting dress, the full system waits for Volume 4 — and the no-arrow cognate shelf, including एक's honestly empty slot."
-    hi: "दो-वेश का ईमानदार सूत्र बताएँ — मूल रूप नाम हैं, घोष नपुंसक गिनती-वेश है, पूरा तन्त्र Volume 4 में — और बिना तीर की सगोत्र-तालिका, एक के ईमानदारी से ख़ाली खाने समेत।"
+  - en: "State the honest two-dress line — stems are the citation names, the chant is the neuter counting dress, gender in counting comes in Volume 3 (v3.c02) and the full numeral system in Volume 4 (v4.c05) — and the no-arrow cognate shelf, including एक's honestly empty slot."
+    hi: "दो-वेश का ईमानदार सूत्र बताएँ — मूल रूप नाम हैं, घोष नपुंसक गिनती-वेश है, गिनती में लिङ्ग Volume 3 (v3.c02) में और पूरा संख्या-तन्त्र Volume 4 (v4.c05) में — और बिना तीर की सगोत्र-तालिका, एक के ईमानदारी से ख़ाली खाने समेत।"
   - en: "Run Station 0 — the family-world exam's +1-week re-runs (tasks C and D, compressed) — and log the scores beside the exam's."
     hi: "स्टेशन 0 चलाएँ — परिवार-जगत् परीक्षा के +1-सप्ताह वाले कार्य C और D, संक्षेप में — और अंक परीक्षा के अंकों के पास दर्ज करें।"
 new_letters: []
@@ -66,7 +66,7 @@ course will be the one to tell you.
 |---|---|---|
 | 1 | Read and say एक, द्वि, त्रि, चतुर्, पञ्च — every final sound intact — and pair each with its digit १–५ within a beat. | पाँचों मूल हर अन्तिम ध्वनि समेत बोलें; हर मूल को उसके अंक से एक ताल में जोड़ें। |
 | 2 | Recite the chant एकम् द्वे त्रीणि चत्वारि पञ्च on a beat, count pictured objects with it, close on the last chant word. | गिनती-घोष ताल पर बोलें, चित्र गिनें, घोष के अन्तिम शब्द पर गिनती पूरी करें। |
-| 3 | State the two-dress line (stems = names, chant = counting dress, system in Volume 4) and the no-arrow shelf, एक's empty slot included. | दो-वेश का सूत्र और बिना तीर की सगोत्र-तालिका बताएँ, एक के ख़ाली खाने समेत। |
+| 3 | State the two-dress line (stems = names, chant = counting dress, gender in counting in Volume 3, the full system in Volume 4) and the no-arrow shelf, एक's empty slot included. | दो-वेश का सूत्र और बिना तीर की सगोत्र-तालिका बताएँ, एक के ख़ाली खाने समेत। |
 | 4 | Run Station 0 (v2.c02.l05's +1-week: tasks C and D compressed) and log the scores. | स्टेशन 0 चलाएँ और अंक दर्ज करें। |
 
 Objective 1 is built in §8/§9/§14 and tested in §18 (exercises 1, 3, 6) and §19 (Q1, Q7);
@@ -203,7 +203,7 @@ full Sanskrit word. Pause form throughout, as always.
 तीसरा — दो वेश, एक ईमानदारी। एक, द्वि, त्रि, चतुर्, पञ्च शब्दों के *नाम* हैं — शब्दकोश
 इन्हीं के नीचे इन्हें रखते हैं — बस पञ्च का शीर्ष-शब्द वैयाकरणों का मूल पञ्चन् है, जिसका न् प्रयोग में कभी नहीं दिखता। एकम्, द्वे, त्रीणि, चत्वारि गिनती की पोशाक है — सच्चा,
 रूप बदला हुआ संस्कृत, जो आज पूरा घोष बनकर कण्ठ होता है। संख्याएँ कारक के अनुसार
-वेश बदलती हैं, और एक से चार तक लिंग के अनुसार भी — वह पूरा तन्त्र Volume 4 में खुलेगा; तब तक गिनती घोष से, और
+वेश बदलती हैं, और एक से चार तक लिंग के अनुसार भी — गिनती में लिङ्ग Volume 3 (v3.c02) में खुलेगा और पूरा संख्या-तन्त्र Volume 4 (v4.c05) में; तब तक गिनती घोष से, और
 गिनती घोष के अन्तिम शब्द पर पूरी होती है — त्रीणि! अंक-कार्ड का उत्तर केवल नाम से — त्रि! —
 यह इस पाठ्यक्रम की अभ्यास-परिपाटी है, पूरा संस्कृत पद नहीं। कोई नियम मत गढ़िए। और अंक १–५ (v1.c05.l05 की कमाई) आज
 अपने नामों से जुड़ते हैं — कार्ड देखिए, एक ताल के भीतर नाम बोलिए।
@@ -232,7 +232,7 @@ uses. The **chant** एकम् द्वे त्रीणि चत्वा
 inflected Sanskrit, the standard counting recitation, learned whole as a rhythm.
 Numbers change dress by the role of what they count, one to four by its gender too; that
 system is honestly
-deferred to Volume 4 (§15). Notice, for free, that पञ्च keeps one shape in both rows —
+deferred: gender in counting to Volume 3 (v3.c02), the full system to Volume 4 (v4.c05) (§15). Notice, for free, that पञ्च keeps one shape in both rows —
 noticing is allowed, legislating is not.
 
 ### The digits pair up
@@ -250,7 +250,7 @@ wearing their joined dress at the seams: एक + आदि "beginning with one"
 
 Three absences, all honest. The Sanskrit word that *asks* "how many?" is next lesson's
 headword — today the pointing finger and the digit card ask the question. Numeral
-agreement is Volume 4's machinery; today no number ever touches a plural noun (§15's
+agreement is Volume 3's machinery (v3.c02), the full numeral system Volume 4's (v4.c05); today no number ever touches a plural noun (§15's
 fence). And the shelf's एक slot stays empty: no clean everyday-English cognate, and the
 course says so instead of reaching (§13).
 
@@ -329,7 +329,7 @@ marks the त्रि and चतुर् joins.
    stems as abbreviations — or the stems as correct and the chant as babytalk. *Fix:*
    both are real; different jobs (§15) — names versus counting dress.
 6. **Agreement invented under enthusiasm.** Gluing endings onto numbers to make them
-   "match" what is counted. *Fix:* the matching system is real and it is Volume 4's;
+   "match" what is counted. *Fix:* the matching system is real: gender in counting is Volume 3's (v3.c02), the full system Volume 4's (v4.c05);
    today the chant counts, the bare stem answers a digit card, nothing is glued (§15's
    fence).
 
@@ -399,14 +399,14 @@ at any speed.
 
 ## 15. Grammar
 
-व्याकरणम् — two dresses on one rack, and a fence with a gate marked Volume 4.
+व्याकरणम् — two dresses on one rack, and a fence with a gate marked Volume 3 (gender in counting) and Volume 4 (the numeral system).
 
 > **[FACT · तथ्यम्]** (1) The stems एक द्वि त्रि चतुर् पञ्च are citation names — the
 > shapes the words are named by; dictionaries head five as पञ्चन् (pañcan). (2) Sanskrit
 > numbers inflect for case, and एक to चतुर् for gender too; the chant एकम् द्वे त्रीणि
 > चत्वारि पञ्च is the neuter counting dress — real, inflected Sanskrit, standard
 > counting practice, learned whole. (3) The inflection system is honestly deferred: the
-> course builds it in Volume 4; until then counting runs on the chant.
+> course builds gender in counting in Volume 3 (v3.c02) and the full system in Volume 4 (v4.c05); until then counting runs on the chant.
 > [REF:apte1890]; [REF:whitney1889]
 
 One drill convention, labeled as one: when a digit card goes up, this course accepts
@@ -430,8 +430,8 @@ plenty, and we decline.
 
 अत्र त्रि फलानि?? — no. The moment a number touches a counted noun, Sanskrit wants the
 number *dressed to match* — by gender, by case — and that machinery is exactly what
-Volume 4 builds (the salvage map parks numeral gender at v4.c05). Until then the rule
-is a fence, stated plainly: no number meets a plural noun in this course. The chant
+Volume 3 begins to build (v3.c02: nominative and accusative by gender; the full system is v4.c05). Until then the rule
+is a fence, stated plainly: no number meets a plural noun before Volume 3. The chant
 counts while you point; the bare citation name answers a digit card; the frames stay
 pause-form,
 verbless or with अस्ति — safe ground, exactly as मम + family word was in Chapter 2.
@@ -503,7 +503,7 @@ Hindi. The household of Chapter 2 gets counted.
 
 The quiet craft notes: Chapter 2's household turns out to be exactly five — the
 course's first census. The chant does *recitation* work in lines 3 and 7, not agreement
-work — the system that would dress each number to match what it counts is Volume 4's,
+work — the system that would dress each number to match what it counts begins in Volume 3 (v3.c02) and is completed in Volume 4 (v4.c05),
 and nothing here will need correcting when it arrives. The bare पञ्च! of lines 4 and 8
 is the lesson's whole grammar, twice.
 
@@ -554,7 +554,7 @@ task (v2.c03.l05, task C) — keep it, and keep the beat.
    (b) एक द्वि त्रि चतुर् पञ्च (c) एक दो तीन चार पाँच (d) १ २ ३ ४ ५
 2. The chant forms एकम्, द्वे, त्रीणि, चत्वारि are: (a) common mistakes for the stems
    (b) real, inflected neuter counting forms, learned whole as a chant — the system
-   behind them arrives in Volume 4 (c) Hindi numbers in Sanskrit dress (d) optional
+   behind them arrives in Volumes 3–4 (c) Hindi numbers in Sanskrit dress (d) optional
    decorations with no grammar in them
 3. The stem with no clean everyday-English cognate on today's shelf: (a) द्वि (b) पञ्च
    (c) एक (d) चतुर्
@@ -609,7 +609,7 @@ word.
 > real and honestly deferred. **The digits:** १ २ ३ ४ ५ pair with the names at a beat.
 > **The shelf:** द्वि ~ duo ~ two · त्रि ~ trēs ~ three · चतुर् ~ quattuor ~ four ·
 > पञ्च ~ pénte ~ five — no arrows anywhere; एक's slot honestly empty. **The fence:** no
-> number meets a plural noun before Volume 4; cards answer with the bare name — त्रि! —
+> number meets a plural noun before Volume 3; cards answer with the bare name — त्रि! —
 > counts close on the chant word — त्रीणि! **The ledger:** two new — 277 → 279.
 
 Spaced review (distributed practice beats cramming [REF:cepeda2006]):
@@ -677,7 +677,7 @@ Script-side learners drill त्रि and द्वि from components (v1.c05
 work, and give the ladder extra slow passes before timing.
 
 **What students find hard:** two shapes per number feels like double load until the
-names/dress analogy lands; resisting invented agreement — park it with "Volume 4
+names/dress analogy lands; resisting invented agreement — park it with "Volume 3
 builds exactly that"; the चतुर् full stop (English and Hindi habits both want a vowel
 after it); and keeping the chant's beat honest through त्रीणि and चत्वारि — the long
 vowels want to rush.
@@ -700,7 +700,7 @@ vowels want to rush.
 > "names": एक · द्वि · त्रि · चतुर् · पञ्च. Bottom rail "counting dress": एकम् · द्वे ·
 > त्रीणि · चत्वारि · पञ्च, a thin tie between each pair; the पञ्च tie marked "same
 > shape, both jobs — observe, don't legislate". A fence with a gate at the right edge
-> labeled "gender · case — Volume 4". Footer: the cognate shelf as five slots under one
+> labeled "gender — Volume 3 · the full system — Volume 4". Footer: the cognate shelf as five slots under one
 > plain ancestor node, NO arrows: duo/two · trēs/three · quattuor/four · pénte/five
 > beside their stems — the first slot (एक) empty, captioned "no clean English cousin —
 > honesty beats reaching".
@@ -729,7 +729,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    "the word stops on र्."
 3. **Two dresses (2:00–3:10):** a wardrobe gag — stems wear name-tags on a rail; the
    chant forms hang below in counting aprons. A gavel labeled "RULE" descends and a
-   hand parks it on a shelf marked "Volume 4".
+   hand parks it on a shelf marked "Volume 3 · Volume 4".
 4. **The shelf and the ladder (3:10–5:20):** four sibling pairs light up under one
    ancestor node — ties, no arrows; the एक slot stays empty ("no clean English cousin —
    and the course says so"). Then digit cards flash to a metronome; names answer
@@ -751,7 +751,7 @@ the narrator reads the cue, not the English spelling.
   shortcut.
 - **02:00** The counting dress: ekam [eːkɐm], dve [d̪ʋeː], trīṇi [t̪ɾiːɳi], catvāri
   [t͡ɕɐt̪ʋɑːɾi], pañca [pɐɲt͡ɕɐ]. Real, inflected Sanskrit — learned whole, like a
-  song. The system behind it comes in Volume 4, and we say so.
+  song. Gender in counting comes in Volume 3 and the full system in Volume 4, and we say so.
 - **03:10** The shelf. dvi and *two* — one ancestor. tri and *three*. catur and
   *four*. pañca and *five*. No arrows: nobody borrowed anybody's numbers. And eka
   [eːkɐ]? The slot stays empty — no clean English cousin, and honesty beats reaching.
@@ -799,7 +799,7 @@ the narrator reads the cue, not the English spelling.
   v2.c02.l02 (एतत् pointing kit), v2.c02.l03 (पुष्पम्, the countable world set); feeds
   v2.c03.l02 (षट्–दश, the how-many word, THE month-name fix — teased in §13, not
   spilled), v2.c03.l05 (counting task C; its Station 1 targets this lesson's
-  §13/§14/§15), v2.c06 (cognate sets at scale), Volume 4 (numeral gender and case —
+  §13/§14/§15), v2.c06 (cognate sets at scale), v3.c02 (numeral gender, nominative and accusative), Volume 4 (the full numeral system —
   the machinery behind §15's fence, parked at v4.c05 by the salvage map).
 - **Glossary:** reuses विसर्ग, मात्रा, संयुक्ताक्षर, हलन्त per GLOSSARY.md; no new
   glossary terms. The register work this lesson is cognate-direction honesty and

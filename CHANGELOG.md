@@ -4,6 +4,16 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Fixed
+
+- **v2.c03 (numbers), erratum** — lessons 1, 2, 3 and 5 said that the gender of the number
+  words waits for Volume 4. The Volume 3 plan teaches the numerals 1–10 in the nominative
+  and accusative, by gender, in v3.c02, and leaves the full numeral system to v4.c05. The
+  24 lines that carried the old pointer now say so; the ROADMAP's preservation-map row for
+  the numeral paradigms names v3.c02, v3.c05 and v4.c05.
+
 ## [0.13.0] — 2026-11-10
 
 Volume 3 — व्याकरणम् · Core Grammar opens. The volume is planned in full, and its first

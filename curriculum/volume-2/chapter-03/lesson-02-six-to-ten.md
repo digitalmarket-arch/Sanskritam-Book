@@ -472,7 +472,7 @@ point, ask, and accept a bare number back.
 
 कति? — अष्ट! is complete, correct, taught Sanskrit. What it deliberately does *not* do is
 attach the number to a noun ("eight books"): number-noun agreement is its own machine,
-built in its proper place — Volume 4, per lesson 1's fence — not under drill pressure.
+built in its proper place — Volume 3 (v3.c02), with the full numeral system in Volume 4 (v4.c05) — not under drill pressure.
 When that system arrives, every bare answer you produced here will still be right. Until
 then the number alone carries everything, exactly as the verbless naming sentence carried
 Chapter 2.
