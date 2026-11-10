@@ -72,8 +72,8 @@ sentences from dictation, four short explanations. The title, **सन्धि�
 | 4 | Explain in three lines each why नमस्ते, विद्यालयः, परोपकारः and न कोऽपि लघुः look as they do, and name, having assembled them on one page (§15, unscored), the three sandhi maps and the tradition's names संहिता and पदपाठः. | तीन-तीन पंक्तियों में समझाएँ कि नमस्ते, विद्यालयः, परोपकारः और न कोऽपि लघुः ऐसे क्यों दिखते हैं, और तीनों सन्धि-मानचित्रों तथा परम्परा के नाम संहिता और पदपाठ बताएँ — उन्हें एक पृष्ठ पर जोड़ लेने के बाद (§15, बिना अंक)। |
 
 Objective 1 is assessed in §18 tasks A and B and in §19 (Q1–Q7); objective 2 in task C;
-objective 3 in task D; objective 4 in task E and, after the unscored assembly of §8 Step 5 and
-§15, in §19 (Q8–Q10). Task A's items 14 and 15 carry the volume spiral: a case and a verb
+objective 3 in task D and §19 (Q8, the spaces of joined print); objective 4 in task E and,
+after the unscored assembly of §8 Step 5 and §15, in §19 (Q9, Q10). Task A's items 14 and 15 carry the volume spiral: a case and a verb
 form. The quiz is taken in the self-study session, after the sitting.
 
 ## 3. Previous Lesson Review
@@ -413,8 +413,8 @@ anusvāra takes the place of the next sound. And every short अ is sounded, ins
 much as anywhere: four syllables in जलमस्ति, not three.
 
 **The model block.** §16's turn 5 is the longest block on today's page and the model for
-task C: गुरुरप्यत्रैवागच्छति — four seams, two of lesson 2 and lesson 1's यण् and वृद्धि, said in
-one breath. Say it three times before the sitting, slowly, then at natural pace, then at
+task C: गुरुरप्यत्रैवागच्छति — four seams, one of lesson 2 (गुरुः + अपि) and three of lesson 1
+(यण्, वृद्धिः, सवर्णदीर्घः), said in one breath. Say it three times before the sitting, slowly, then at natural pace, then at
 natural pace with your eyes off the page (§10 gives its IPA).
 
 **Task D's order.** The booklet states it, and so does this section: the five sentences are
@@ -429,12 +429,12 @@ front of you, and mark every seam where your recording paused or misread (§21 i
 
 No new values — exam spot-checks on known symbols.
 
-**The title:** सन्धिपरीक्षा /sɐn̪d̪ʱipɐɾiːkʂɑː/ — one word, read whole; the anusvāra-free न् before
-द is the dental /n̪/.
+**The title:** सन्धिपरीक्षा /sɐn̪d̪ʱipɐɾiːkʂɑː/ — one word, read whole; the न् before द is the
+dental /n̪/.
 
 **The model block:** गुरुरप्यत्रैवागच्छति /guɾuɾɐpjɐt̪ɾɐi̯ʋɑːgɐt͡ɕt͡ɕʰɐt̪i/ — the र् of lesson 2 is
-the tap /ɾ/ straight into /ɐ/; the य् of यण् is /j/ with no vowel before it; the ऐ of वृद्धि is
-/ɐi̯/, onset /ɐ/.
+the tap /ɾ/ straight into /ɐ/; the य् of यण् is /j/ with no vowel before it; the ऐ of वृद्धिः is
+/ɐi̯/, onset /ɐ/; the आ of सवर्णदीर्घः is one long /ɑː/.
 
 **The chapter's seams, spoken whole** (row by row, one per lesson's map): नास्ति /n̪ɑːst̪i/
 (one long आ, not two) · सदैव /sɐd̪ɐi̯ʋɐ/ · इत्यवदत् /it̪jɐʋɐd̪ɐt̪/ · तेऽपि /t̪eːpi/ (the
@@ -448,9 +448,9 @@ after the other, no glide) · नमस्ते /n̪ɐmɐst̪eː/ · कोऽ�
 long closure, not two releases: the tongue closes once and holds for the time of two
 consonants. In तस्मिन्नेव the hold is at the teeth, /n̪n̪/.
 
-**Narrow note — the anusvāra in a line.** In स एकं घटं पश्यति-type lines the anusvāra changes
-with its neighbour: before घ it is [ŋ], before प it is [m], before ज it is [ɲ], before स or व a
-nasalised vowel. Read the next sound first, then the dot.
+**Narrow note — the anusvāra in a line.** The anusvāra changes with its neighbour: before क or
+घ it is [ŋ], before प it is [m], before ज it is [ɲ], before स or व a nasalised vowel. Read the
+next sound first, then the dot.
 
 ## 11. Mouth Position
 
@@ -479,10 +479,10 @@ and the lesson that fixes it.
 | # | Error | Surfaces in | Fix |
 |---|---|---|---|
 | 1 | Joining a pragṛhya dual: द्वे फले अत्र → \*द्वे फलेऽत्र | B item 7, §19 Q3 | a dual in -ई, -ऊ, -ए is checked first and never joins — l01 §15 Step 7; l01 §12 mistake 1 |
-| 2 | Closing the gap after -ए, -अः, -आः: \*तागच्छन्ति, \*रामागच्छति | A item 7, B items 10 and 5's look-alikes, C line 4, §19 Q2 | the gap left at a word end is not joined again — l01 §15 Step 5; l02 §15 Step 1; l01 §12 mistake 2 |
-| 3 | सः treated as an ordinary -अः: \*सो गच्छति | A item 12, B item 12, C lines 2–10, §19 Q5 | सः and एषः drop their ः before any consonant — l02 §15 Step 3; l02 §12 mistake 3 |
+| 2 | Closing the gap after -ए, -अः, -आः: \*तागच्छन्ति, \*रामागच्छति | A item 7, B item 10, C lines 4 and 6, §19 Q2 | the gap left at a word end is not joined again — l01 §15 Step 5; l02 §15 Step 1; l01 §12 mistake 2 |
+| 3 | सः treated as an ordinary -अः: \*सो गच्छति | A item 12, B item 12, C lines 2–4, 6, 7, 9, 10, §19 Q5 | सः and एषः drop their ः before any consonant — l02 §15 Step 3; l02 §12 mistake 3 |
 | 4 | An r-final treated as -अः: \*पुनो मिलामः | B item 16, D sentence 4 | पुनः, प्रातः, अन्तः keep र् before a voiced sound — l02 §15 Step 2; l02 §12 mistake 4 |
-| 5 | Double application of the anusvāra: \*सत्यंएव | B items 13–14, C lines 3–5, §19 Q6 | ं only before a consonant; before a vowel म् stays and joins — l03 §15 Step 2; l03 §12 mistake 1 |
+| 5 | Double application of the anusvāra: \*सत्यंएव | B item 13, C lines 3–6, 8, 9, §19 Q6 | ं only before a consonant; before a vowel म् stays and joins — l03 §15 Step 2; l03 §12 mistake 1 |
 | 6 | Guessing a split without the candidate list: \*मूषके for मूषक in मूषक आगच्छति | A items 7 and 13, D | write every candidate, then let the sentence choose — l04 §8, "Splitting can be ambiguous"; l04 §12 mistake 1 |
 
 The chapter's other mistakes are fixed in the lesson that taught them: l01 §12 (the wrong grade
@@ -1304,8 +1304,8 @@ Lesson video (6–7 min), scene list:
    cells stay pale.
 4. **The way back (3:30–4:40):** a joined line — अद्य गुरुर्विद्यालयमागच्छति — is taken apart by
    the six steps, each step a click; the pause form drops in beneath.
-5. **The crow, joined (4:40–5:50):** the Volume 2 crow story, the strip of v2.c06.l01 with its
-   captions now joined, read at natural pace with no pause at a seam.
+5. **Two students (4:40–5:50):** the §16 dialogue acted at a classroom door, each turn's
+   joined line as a caption, read at natural pace with no pause at a seam.
 6. **Completion (5:50–6:30):** the ledger counter rests at 460. End card: "Next: Chapter 5 —
    your own sentences, joined."
 
@@ -1321,8 +1321,8 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   c. Every seam is said without a pause."
 - **03:30** — "Reading back is six steps: the stops, the spaces, the signs inside a block, the
   candidates, the choice, the check."
-- **04:40** — "eko vyādho 'sti? No — ekaḥ kāko 'sti [eːkɐh kɑːkoːst̪i]: a crow is there. Read on,
-  in one breath to each daṇḍa."
+- **04:40** — "gurur apy atraivāgacchati [guɾuɾɐpjɐt̪ɾɐi̯ʋɑːgɐt͡ɕt͡ɕʰɐt̪i]: four seams, one
+  breath. A space is a word boundary, not a pause."
 - **05:50** — "Four hundred and sixty words. Chapter Four is complete."
 
 ## 26. Reel Script
