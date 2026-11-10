@@ -112,7 +112,7 @@ Pass: every task at its pass mark, and the §19 quiz (after the sitting) at 7/10
 the derivations and the reading of a rule (D and E, 28 of 68 points) over labelling (A, 16). After
 the sitting, unscored, the learner derives the Chapter 1 item नास्ति according to Pāṇini and re-reads
 the Volume 3 thread verse सर्वे भवन्तु सुखिनः…, naming what Chapter 2 has added to it: the ण of
-भद्राणि (8.4.1–2) and the ः of निरामयाः at the pause (8.2.66, 8.3.15). Retake after one week, with the
+भद्राणि [8.4.1–2] and the ः of निरामयाः at the pause (8.2.66, 8.3.15). Retake after one week, with the
 alternative item sets of the Teacher Notes. Station 0 chain: l01 runs the Chapter 1 exam's +1-day
 booking and v4.c01.l03's +1-week booking; l02 runs l01's +1-day item and the Chapter 1 exam's +1-week
 booking; l03 runs l02's +1-day item and l01's +1-week item; l04 runs l03's +1-day item and l02's
