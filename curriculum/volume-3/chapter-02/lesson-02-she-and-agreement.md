@@ -961,7 +961,7 @@ written out from the recording. Rubric: six sentences; every adjective in its no
    singular.)
 9. (b) — मित्रम् is neuter whoever the friend is (§5, §12 mistake 6). ((a) and (d) do not
    exist as "friend"; (c) मित्रः in classical Sanskrit is the sun — Apte s.v. मित्रः; "friend"
-   as a masculine is Vedic, and the later language uses the neuter, MW s.v. mitra.)
+   as a masculine is Vedic, and the later language mostly uses the neuter, MW s.v. mitra.)
 10. (b) — §5 and §15 Step 3: three genders, three numbers, eight cases.
 
 **Exercise keys.**

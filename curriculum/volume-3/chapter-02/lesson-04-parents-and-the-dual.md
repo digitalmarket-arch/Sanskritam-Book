@@ -1034,8 +1034,9 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 गृहकार्यम् — about 35 minutes total.
 
-1. **(20 min)** Finish the §18 exercises not done in class — exercise 1 g–j and exercises
-   3, 4, 6 and 7 (the dictation, from the audio) — and check them against §19's key.
+1. **(20 min)** Finish the §18 exercises not done in class — exercise 1 g–j, exercise 2
+   written out in full, and exercises 3, 4, 6 and 7 (the dictation, from the audio) — and
+   check them against §19's key.
 2. **(15 min, recorded, real world)** Exercise 5 at home: draw your family tree with someone
    in your family beside you, write the six sentences, and record them. Teach that person one
    word first — पितरौ — and ask them who in the photograph it would mean. Play the recording
@@ -1055,8 +1056,9 @@ question and the evidence table built from the class's memory of मातृ, �
 (6), the pattern named and the sūtra read once (4), T5 assembled in pairs and checked (4),
 the dual card row by row (3) — 17 in all → drills: §9 drills 1–3 (4), exercise 2 on the
 body pairs, said aloud (5), exercise 1 a–f (4) — 13 → the story read twice, the class reading
-the second time (7). The bookings are read aloud as the story ends. Exercises 1 g–j, 3, 4, 6
-and 7 go home as §21 item 1; exercise 5 is §21 item 2.
+the second time (7). The bookings are read aloud as the story ends. Exercise 1 g–j, exercise 2
+written out in full, and exercises 3, 4, 6 and 7 go home as §21 item 1; exercise 5 is §21
+item 2.
 
 **Board work:** T5 with the five strong cells in a second colour and the -अर्- / -आर्- split
 boxed; the bold मातॄः. To the right, the dual card with its two right-hand columns shaded:

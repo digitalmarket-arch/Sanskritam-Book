@@ -442,8 +442,8 @@ vowel, must keep both: the ः is heard after each.
 **Drill 3 — the two long endings: -ऐः and -एभ्यः.** रामैः is two syllables, रा-मैः, with the
 diphthong /ɐi̯/ and a breath at the end. रामे, the owned locative singular, is a pure long
 ए with no breath: say रामैः — रामे until the glide and the ः are unmistakable. Then
--एभ्यः: दे-वे-भ्यः, the वे held long before the cluster भ्य and the word closed by a breath;
-and -एषु: दे-वे-षु, closed by a short उ. देवेषु — देवेभ्यः is the listening pairs'
+-एभ्यः: दे-वे-भ्यः, the cluster भ्य after the long वे and the word closed by a breath;
+and -एषु: दे-वे-षु, a single ष after the same long वे and the word closed by a short उ. देवेषु — देवेभ्यः is the listening pairs'
 trickiest pair.
 
 **Drill 4 — the plural answers and the numerals.** के? — ते। · कान्? — तान्। · कैः? —

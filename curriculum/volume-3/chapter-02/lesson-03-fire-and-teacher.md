@@ -604,9 +604,9 @@ look-alike. Work through it in order; §8 Step 5's frame is the page you check h
 > **[FACT · तथ्यम्]** (1) Masculine i- and u-stems (अग्निः, गुरुः) decline in one pattern
 > (T4): the stem vowel is strengthened — इ as ए/अय्, उ as ओ/अव् — in the dative singular,
 > the ablative-genitive singular, the vocative singular and the nominative (= vocative)
-> plural; the locative singular is -औ; the instrumental singular is -ना (-णा after र or ष
+> plural; the locative singular is -औ; the instrumental singular is -ना (-णा after र, ऋ or ष
 > with nothing blocking); the accusative plural is -ईन्/-ऊन्; the genitive plural is
-> -ईनाम्/-ऊनाम् (-ईणाम्/-ऊणाम् after र, ऋ or ष: हरीणाम्, गुरूणाम्). (2) The ablative and
+> -ईनाम्/-ऊनाम् (-ईणाम्/-ऊणाम् under the same condition: हरीणाम्, गुरूणाम्, but ऋतूनाम्). (2) The ablative and
 > genitive singular are one form, as
 > are the dative and ablative plural. [REF:whitney1889 §336] [REF:whitney1889 §337]
 > [REF:whitney1889 §338] [REF:whitney1889 §339] [REF:whitney1889 §341]
@@ -1038,8 +1038,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
    guest at your door. Run the role-play, record it, and play it back once, marking every
    strengthened cell you hear (गुरवे, अग्नेः, हे गुरो …). If they do not speak Sanskrit,
    teach them two lines first: हे गुरो! and अतिथिः अपि गुरुः।
-3. **(5 min)** The R1 card (§15 Step 7): cover the right-hand column, read each of the seven
-   cells of पक्षी aloud and name its case and number; then check. Read, do not build.
+3. **(5 min)** The R1 card (§15 Step 7): cover the "cell" and "reads as" columns, read each of
+   the seven forms of पक्षी aloud and name its case and number; then check. Read, do not build.
 
 ## 22. Teacher Notes
 
