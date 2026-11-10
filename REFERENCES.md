@@ -29,6 +29,7 @@ prakaraṇa.
 
 <a id="laghukaumudi"></a>**laghukaumudi** — Varadarāja, *Laghusiddhāntakaumudī* (17th c.).
 Abridged Siddhāntakaumudī; the traditional beginner's grammar. Ed./tr. J.R. Ballantyne.
+Cited by the Pāṇinian sūtra under which the passage stands (`[REF:laghukaumudi on 1.4.51]`).
 
 <a id="paniniyashiksha"></a>**paniniyashiksha** — *Pāṇinīya Śikṣā* (attributed to the Pāṇinian
 school). Versified phonetics: articulation places, effort, the sound inventory. Cited by verse.
@@ -152,6 +153,15 @@ to Proto-Indo-European and the Proto-Indo-European World*, Oxford 2006. Cognate 
 
 <a id="masica1991"></a>**masica1991** — C. Masica, *The Indo-Aryan Languages*, Cambridge 1991.
 Typology incl. retroflexion cross-linguistically.
+
+<a id="kachru2006"></a>**kachru2006** — Y. Kachru, *Hindi* (London Oriental and African
+Language Library 12), Amsterdam and Philadelphia: John Benjamins, 2006. Reference grammar of
+modern standard Hindi; source for the Hindi postposition facts set beside the Sanskrit
+cases. Cited bare until a locator has been checked in the book.
+
+<a id="guru1952"></a>**guru1952** — Kāmatāprasād Guru, *Hindī vyākaraṇ*, 2nd rev. ed., Banaras:
+Nāgarīpracāriṇī Sabhā, 1952. A Hindi grammar in the school tradition, with its eight
+कारक; cited bare, as a TRADITION source for what Hindi school grammar teaches.
 
 <a id="ladefoged2015"></a>**ladefoged2015** — P. Ladefoged & K. Johnson, *A Course in
 Phonetics*, 7th ed., Cengage 2015. IPA and articulatory descriptions.
