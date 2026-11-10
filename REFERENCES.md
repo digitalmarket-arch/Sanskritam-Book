@@ -214,6 +214,14 @@ title: "Borzūya" (Djalal Khaleghi-Motlagh; published 15 December 1989); "Kalila
 Redactions and circulation" (Dagmar Riedel; vol. XV, fasc. 4, 2010, pp. 386–395). Statements
 resting on it are attributed in the text ("according to …"). Search-confirmed; pages not opened.
 
+<a id="dcs"></a>**dcs** — Oliver Hellwig, *DCS — The Digital Corpus of Sanskrit*, Berlin,
+2010–2016 (an online corpus of lemmatised and tagged Sanskrit texts; later versions at
+sanskrit-linguistics.org/dcs). Cited for counts only, each printed with its method: the course's
+counts were made from the corpus repository's CoNLL-U files (commit 8aeed5a of 2026-08-24) by
+the scripts kept in `research/evidence/vol4-plan/` (see its README). Cited bare. Search-confirmed
+(a BibSonomy entry giving author, title, place and the years 2010–2016; the author's
+announcement on the Indology list, February 2010); page not opened.
+
 <a id="rackham1940"></a>**rackham1940** — Pliny the Elder, *Natural History*, vol. III: Books
 8–11, Latin text with English translation by H. Rackham, Loeb Classical Library 353,
 Cambridge, MA: Harvard University Press; London: Heinemann, 1940. Cited by book.section in

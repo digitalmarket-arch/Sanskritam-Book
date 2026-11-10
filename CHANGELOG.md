@@ -28,8 +28,38 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   them the exam's last task no longer ends on a form that is not a word (रामाय is reached through
   a printed step of a later lesson).
 
+- **v4.c02 lessons 1–3, first drafts** — One base, three names (strong, pada and bha before
+  the twelve endings; रामः and फलम् derived; 521 → 527); Replace, add, delete (substitute,
+  augment and deletion; guṇa and vṛddhi as names of vowel sets; अगच्छत् derived; 527 → 532);
+  Words carried down (anuvṛtti and headings; the ṇ of रामेण and the ṣ of रामेषु; 532 → 537).
+  Not reviewed.
+- **Research: the v4.c03 fact base** (`research/notes/vol4-ch3-roots-and-the-full-verb.md`),
+  verified before drafting by three checkers with every finding challenged, and the chapter frame
+  `curriculum/volume-4/chapter-03/chapter.md` (draft). Volume 4, Chapter 3 — धातुः
+  तिङ्विस्तारश्च · Roots & the Full Verb: the root, the l-affix and its eighteen endings, with
+  the pada decided by the root's marker; the class sign and the ten present classes; strong and
+  weak forms by the p marker; the perfect; the future, with a card of the other four lakāras;
+  the Chapter 3 exam on the √भू table. Six lessons, 28 ledger-new words planned, 537 → 565; 46
+  tools, 89 in the toolbox after the chapter; three passages of the Hitopadeśa and the
+  Pañcatantra measured for their glossed words (8 of 43, 7 of 37, 4 of 24). The verification
+  confirmed 30 findings (2 blockers, 9 major, 19 minor) and rejected 5; 65 fixes were applied and
+  5 were duplicates between checkers. The blockers: 6.4.111 श्नसोरल्लोपः was said to drop the
+  vowel of the class-9 sign श्ना — it drops the अ of the class-7 infix and of अस्; and पृच्छति was
+  given as the example of a ṅit class sign blocking guṇa, where no guṇa could arise — the example
+  is now लिखति. Other corrections: ṇ is made last in the derivation of शृणोति (8.2.1); the rule
+  that chooses the plural ending (1.4.21) is named; both sets of endings are accepted where the
+  seers may act for themselves or for others (1.3.72); the weak stem of करोति is कुरु-, not करु-;
+  quoted roots are not joined to इति against the rules for a final च्; no accent name is printed
+  for a root's marker. Nine editor's decisions are recorded in its §8.
+
 ### Changed
 
+- **Volume 4 plan §7.6:** nine rows from the v4.c03 fact base (the weak perfect stems of गम् and
+  दा; यच्छ from दाण् as well as from यम्; the headings the data file gives the class signs and the
+  lakāra rules; स्वस्मै replaced; the न carried into 1.1.5; रात्रौ a recognised form; the spelling
+  list of the e-texts; a slip in the local Whitney at §944; the Teacher-Notes sūtras).
+- **REFERENCES.md:** the key `dcs` (the Digital Corpus of Sanskrit; search-confirmed, page not
+  opened), for the corpus counts that Chapter 3 prints with their method.
 - **Volume 4 plan §7.6:** eleven rows from the v4.c02 fact base (the 1.x page's own example; the
   न carried into 8.4.37 is the negative; how a heading's own row is printed; 1.4.17 and the
   Kāśikā; 3.4.100; the spelling list of the e-texts; Whitney §235; the toolbox card in an exam;
