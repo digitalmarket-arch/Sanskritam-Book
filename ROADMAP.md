@@ -174,7 +174,8 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   lesson into a static site (course map, 27-section lesson pages with register callouts,
   linked citations and cross-references, teacher view for §22–§27, word list, sources
   with per-lesson citation counts, glossary, search). Drafts are never published.
-  `.github/workflows/pages.yml` builds it on every push and deploys to GitHub Pages from
+  `.github/workflows/pages.yml` builds it on every push to `main` or a `claude/**` branch and
+  deploys to GitHub Pages from
   `main` once Pages is switched to the GitHub Actions source.
 - **2026-10-27** — **v2.c05 संवादः complete and reviewed**: the nine-asker kit with the
   *kʷ- shelf, the classroom-survival chain (अहम् न अवगच्छामि · भवान् पुनः वदतु · अस्तु),
@@ -209,7 +210,7 @@ Verified-correct 1.x material and where it lands in 2.0:
 | 10-verb bank (p.40) | v2.c04 |
 | rāma/गच्छ paradigms, vowel sandhi, samāsa (pp.37–43) | v3.c01, c03, c04, c05 |
 | Graded readers (pp.64–66) | v2.c06 (sandhi-resolved), v3.c06 (original) |
-| IE cognates 19/20 (pp.61–62) | v2.c06 |
+| IE word pairs, 19 of 20 real relatives (pp.61–62) | v2.c06 (re-sorted: cognate, loan, Latin route, false) |
 | Subhāṣita set + three śānti (pp.47–51) | v2.c06 (first three), v5.c01 |
 | Visarga sandhi (pp.71–73) | v3.c04 |
 | 10 lakāras + forms (pp.74–75) | v4.c03 |

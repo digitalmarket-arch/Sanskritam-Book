@@ -118,9 +118,10 @@ will help, not hurt [REF:cepeda2006].
 
 ऐतिहासिकः सन्दर्भः — one paragraph only, on why this lesson exists.
 
-Review is not an afterthought in this course; it is load-bearing design. The tradition knew
-this — the Vedas crossed three thousand years on structured repetition — and modern memory
-research agrees on the mechanism:
+Review is not an afterthought in this course; it is load-bearing design. The Vedic tradition
+crossed three millennia by disciplined oral recitation, teacher to student
+[REF:jamison2014 p.5]; scheduled, spaced review is a modern tool rather than that
+tradition's documented method — but modern memory research explains why spacing works:
 
 > **[FACT · तथ्यम्]** Practice that is *spaced over time* produces far more durable learning
 > than the same practice massed together. [REF:cepeda2006]
@@ -131,7 +132,7 @@ Today is the first interval.
 ## 5. Scientific Explanation
 
 वैज्ञानिकं विवरणम् — why you are being tested instead of re-taught (worth two paragraphs of
-your attention: learners who know why they are tested, test better).
+your attention).
 
 > **[FACT · तथ्यम्]** Retrieving knowledge from memory strengthens it more than re-reading
 > it — the *testing effect*. In controlled studies, learners who practiced recall
@@ -166,7 +167,7 @@ a sandhi preview, treated properly in Volume 3.)
 हिन्दी में समझिए
 
 आज का पाठ नई चीज़ें नहीं सिखाता — यह जाँचता है कि पिछले चार पाठ कितने *आपके* हो गए हैं। और
-जाँच का तरीक़ा ही सीखने का सबसे ताक़तवर तरीक़ा है: याद करके निकालना, न कि दोबारा पढ़ लेना।
+जाँच का यह तरीक़ा — याद करके निकालना — दोबारा पढ़ लेने से ज़्यादा याद को पक्का करता है।
 
 तरीक़ा यह रखिए —
 
@@ -583,6 +584,6 @@ bio."
 - **Integrator notes:** task keys deliberately live inside §19's collapsed block (self-study)
   AND will ship as the separate key file (classroom print) — single source is §19; the
   quizzes/ files are generated from it. Glue-word inventory used in §6 and §16–17 (एषः, कः, वर्णः, अत्र, अस्ति,
-  पश्य, आम्, तव, इति, पुनः, अहम्) is the seed list for Chapter 2's 🔊 tracking.
+  पश्य, आम्, तव, इति, पुनः, अहम्, पठामि) is the seed list for Chapter 2's 🔊 tracking.
 - **Register audit:** FACT ×4 (§4, §5, §15 ×2 laws) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 —
   review lesson; task D handles registers as *content*. Quiz assesses FACT only.

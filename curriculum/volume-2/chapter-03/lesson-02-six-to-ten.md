@@ -778,7 +778,7 @@ spec)**
 > answer stands bare — no verb, no endings." Bottom third: dictation rows with
 > retroflex tick-boxes (ष drawn? ट drawn? ष्ट welded?), the six direction cards from §18
 > exercise 4 with keep/reject boxes and one reasoning line each, and the score log —
-> Station 0 (chant /1, ladder /5), dictation /6, ladder time. Footer chants: "curl for
+> Station 0 (/2: chant pass /1, ladder ≥4/5 /1), dictation /6, ladder time. Footer chants: "curl for
 > षट् and अष्ट" · "the answer stands bare" · "no arrow between cousins".
 
 ## 24. AI Video Prompt
@@ -902,8 +902,8 @@ narrator reads the cue, not the English spelling.
   encyclopedia-checkable, no precise dates claimed; the numeral shelf incl. कति ~ quot
   (§13) against [REF:mallory2006] and [REF:burrow2001]; the नव/नवन् split (§13) against
   [REF:monierwilliams1899 s.vv.]; कति bare-answer policy (§15) against
-  [REF:apte1890 s.v. कति], with [REF:whitney1889] cited bare pending the notes §0.1
-  range check; Hindi numeral descent (§4, §18 ex. 4e) and the retroflexion areal claim
+  [REF:apte1890 s.v. कति], with [REF:whitney1889] cited bare (notes §0.1
+  range verified: §§475–489); Hindi numeral descent (§4, §18 ex. 4e) and the retroflexion areal claim
   (§5, "not unique" per STYLE_GUIDE §2) against [REF:masica1991]. All §10/§14 IPA diffed
   cell-by-cell against STYLE_GUIDE §2 (Pass A); chant forms display-only, no agreement
   taught (notes §6 checklist); the 1.x pp.30–31 quotes transcribed from the PDF, not

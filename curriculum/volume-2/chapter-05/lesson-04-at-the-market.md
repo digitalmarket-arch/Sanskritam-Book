@@ -16,8 +16,8 @@ self_study_minutes: 35
 prerequisites: [v2.c05.l03]
 review_of: [v2.c05.l03, v2.c03.l02, v2.c01.l04]
 objectives:
-  - en: "Run the market role-play both ways in seven moves — greet, want (अहम् फलम् इच्छामि।), request (भवान् फलम् ददातु।), price (कियत् मूल्यम्? — दश।), react (बहु! with a bare-number counter-offer, or आम्), enough (पर्याप्तम्), thanks and farewell — reading every price off a Devanagari price tag and answering it bare."
-    hi: "बाज़ार का अभिनय सात चालों में दोनों ओर से चलाएँ — अभिवादन, चाह (अहम् फलम् इच्छामि।), विनती (भवान् फलम् ददातु।), दाम (कियत् मूल्यम्? — दश।), प्रतिक्रिया (बहु! और केवल संख्या में जवाबी दाम, या आम्), बस (पर्याप्तम्), धन्यवाद और विदा — हर दाम देवनागरी पर्ची से पढ़कर, केवल संख्या में।"
+  - en: "Run the market role-play both ways in seven moves — greet, want and ask (अहम् फलम् इच्छामि। भवान् फलम् ददातु।), price (कियत् मूल्यम्? — दश।), react (बहु! with a bare-number counter-offer, or आम्), rescue if needed, enough (पर्याप्तम्), thanks and farewell — reading every price off a Devanagari price tag and answering it bare."
+    hi: "बाज़ार का अभिनय सात चालों में दोनों ओर से चलाएँ — अभिवादन, चाह और विनती (अहम् फलम् इच्छामि। भवान् फलम् ददातु।), दाम (कियत् मूल्यम्? — दश।), प्रतिक्रिया (बहु! और केवल संख्या में जवाबी दाम, या आम्), ज़रूरत हो तो बचाव, बस (पर्याप्तम्), धन्यवाद और विदा — हर दाम देवनागरी पर्ची से पढ़कर, केवल संख्या में।"
   - en: "Read and use the seven new words — आपणः, कियत्, मूल्यम्, ददातु, बहु, अल्पम्, पर्याप्तम् — with ददातु as the request chunk of lesson 2's वदतु mood (with भवान्, never with त्वम्), and बहु, अल्पम्, पर्याप्तम् as fixed one-word quantity answers."
     hi: "सात नए शब्द — आपणः, कियत्, मूल्यम्, ददातु, बहु, अल्पम्, पर्याप्तम् — पढ़ें और बरतें: ददातु को पाठ 2 के वदतु वाले विनती-रूप का टुकड़ा मानकर (भवान् के साथ, त्वम् के साथ कभी नहीं), और बहु, अल्पम्, पर्याप्तम् को एक-शब्द वाले पक्के उत्तर मानकर।"
   - en: "State the lesson's honest lines — prices stay bare numbers and रूप्यकम् is a display word with a modern label; describing adjectives wait for Volume 3 because adjectives agree with their nouns; कृपया and धन्यवादः keep their modern spoken-convention labels."
@@ -63,7 +63,7 @@ bare number read off a card.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Run the market role-play both ways in seven moves — greet, want, request (भवान् फलम् ददातु।), price (कियत् मूल्यम्? — दश।), react, enough, thanks and farewell — every price read off a Devanagari tag and answered bare. | बाज़ार का अभिनय सात चालों में दोनों ओर से चलाएँ — अभिवादन, चाह, विनती, दाम, प्रतिक्रिया, बस, धन्यवाद-विदा — हर दाम पर्ची से, केवल संख्या में। |
+| 1 | Run the market role-play both ways in seven moves — greet, want and ask (भवान् फलम् ददातु।), price (कियत् मूल्यम्? — दश।), react, rescue if needed, enough, thanks and farewell — every price read off a Devanagari tag and answered bare. | बाज़ार का अभिनय सात चालों में दोनों ओर से चलाएँ — अभिवादन, चाह-विनती, दाम, प्रतिक्रिया, ज़रूरत हो तो बचाव, बस, धन्यवाद-विदा — हर दाम पर्ची से, केवल संख्या में। |
 | 2 | Read and use आपणः, कियत्, मूल्यम्, ददातु, बहु, अल्पम्, पर्याप्तम् — ददातु with भवान्, never with त्वम्; the three quantity words as fixed answers. | सातों नए शब्द पढ़ें-बरतें — ददातु भवान् के साथ, त्वम् के साथ नहीं; मात्रा के तीन शब्द पक्के उत्तर बनकर। |
 | 3 | State the honest lines: bare-number prices, रूप्यकम् display-only and modern; no describing adjectives until Volume 3; कृपया and धन्यवादः labelled modern spoken conventions. | ईमानदार पंक्तियाँ बताएँ: दाम केवल संख्या, रूप्यकम् केवल-दर्शन और आधुनिक; विशेषण खण्ड 3 तक नहीं; कृपया-धन्यवादः पर आधुनिक लेबल। |
 | 4 | Keep the deal alive with अहम् न अवगच्छामि। भवान् पुनः वदतु।, and run the mirror scene with a woman at the stall — कृपया क्षीरम् ददातु।, no calling forms. | अहम् न अवगच्छामि। भवान् पुनः वदतु। से सौदा चलता रखें; महिला दुकानदार वाला दर्पण-दृश्य — कृपया क्षीरम् ददातु।, कोई सम्बोधन-रूप नहीं। |
@@ -165,7 +165,7 @@ their attention can go to producing it.
 > price, and give and receive information about quantities, numbers and prices. Today's
 > role-play is that description, carried out in Sanskrit. [REF:cefr2020]
 
-> **[FACT · तथ्यम्]** Functional chunks are learned fastest whole and analysed later, and
+> **[FACT · तथ्यम्]** Functional chunks can be learned whole and analysed later, and
 > every run through a role-play is retrieval practice — a stronger rehearsal than
 > re-reading the script. [REF:nation2013] [REF:roediger2006]
 
@@ -403,8 +403,8 @@ the voiceless English h. The final त् of कियत् is a dental /t̪/, 
 1. **The ण curl.** Say आपणः slowly and freeze on ण: the tongue tip is curled up and back
    toward the dome. Now say नव and feel the tip drop forward to the teeth. If both feel the
    same, the ण has slid forward — re-run §9 drill 2.
-2. **The ल्य glide.** For मूल्यम्: lips rounded for the long ऊ, tip touching the ridge for
-   ल, then the tongue body rises toward the palate for य *before* the tip lets go. A mirror
+2. **The ल्य glide.** For मूल्यम्: lips rounded for the long ऊ, tip just behind the upper teeth
+   for ल, then the tongue body rises toward the palate for य *before* the tip lets go. A mirror
    shows the lips unrounding as the glide begins — and no gap for a vowel.
 3. **The प्त pair.** For पर्याप्तम्: lips close for प and stay closed while the tip moves
    to the teeth for त; then the release. Lips first, tongue second, one motion.
@@ -777,7 +777,7 @@ exam's Station 0 runs this role-play tomorrow.
 2. (a) — the bare number, the Chapter 3 policy (§8, §15). ((b)–(d) are §12 mistake 2.)
 3. (a) — the request form with the polite भवान् (§8, §16). ((b) is the statement ददाति.)
 4. (a) — the honest line of §8 and §15. ((b) is §12 mistake 5; the chapter exam's
-   register sort carries its twin card, about वदतु and वदति.)
+   honesty sort (task D) carries its twin card, about वदतु and वदति.)
 5. (a) — agreement is Volume 3's subject (§8, §15). ((c) is false — Sanskrit does pair
    them with nouns; the course has not built that agreement yet.)
 6. (a) — display, modern label; prices stay bare (§4, §8).
@@ -817,7 +817,7 @@ exam's Station 0 runs this role-play tomorrow.
 > भवान् पुनः वदतु।) → enough (पर्याप्तम्) → thanks and part (धन्यवादः — भद्रम् —
 > स्वस्ति). **The price:** a bare number, read off the tag; रूप्यकम् is display, modern,
 > never said. **The request:** ददातु, the वदतु mood, with भवान् — never with त्वम्; to a
-> woman, no pronoun: कृपया क्षीरम् ददातु। **The pouring:** बहु · अल्पम् · पर्याप्तम् —
+> woman, no pronoun (a modern spoken convention): कृपया क्षीरम् ददातु। **The pouring:** बहु · अल्पम् · पर्याप्तम् —
 > answers, not adjectives; agreement is Volume 3's. **The labels:** कृपया and धन्यवादः
 > modern spoken conventions. **The ledger:** seven new — 328.
 
@@ -828,8 +828,9 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
   greet, family, when and why, want and like, buy, farewell — improvised from the two role
   cards you fill in tonight (§21). Today's recording (exercise 6) is your baseline.
 - **From now on:** whenever you buy anything, ask yourself कियत् मूल्यम्? silently and read
-  the price tag aloud in Sanskrit — bare, whole when the price falls between ५ and १०,
-  digit by digit when it does not.
+  the price tag aloud — in Sanskrit, bare and whole, when the price falls between ५ and
+  १०; otherwise name its digits one by one, as Chapter 3's digit-name ladder does (a
+  drill convention, not how Sanskrit says that number).
 
 ## 21. Homework
 
@@ -959,8 +960,8 @@ narrator reads the cue, not the English spelling.
 - **00:00** Every market in the world runs the same little play. Hello. I'd like that. How
   much? Ten. Today you run it in Sanskrit, at the āpaṇaḥ [ɑːpɐɳɐh] — the market.
 - **00:40** Seven moves. Greet. Say what you want — aham phalam icchāmi [ɐɦɐm pʰɐlɐm
-  it͡ɕt͡ɕʰɑːmi]. Ask for it — bhavān phalam dadātu [bʱɐʋɑːn̪ pʰɐlɐm d̪ɐd̪ɑːt̪u], please
-  give me a fruit. Ask the price. React. Say enough. Thank, and part.
+  it͡ɕt͡ɕʰɑːmi], and ask for it — bhavān phalam dadātu [bʱɐʋɑːn̪ pʰɐlɐm d̪ɐd̪ɑːt̪u],
+  please give me a fruit. Ask the price. React. Lost? Rescue. Say enough. Thank, and part.
 - **01:40** The price question: kiyat mūlyam [kijɐt̪ muːljɐm] — how much is it? The
   answer is a bare number: daśa [d̪ɐɕɐ], ten. No currency word, no endings. Ten? That's a
   lot — bahu [bɐɦu]! Eight? And if the answer flies past — na, nava [n̪ɐ n̪ɐʋɐ], no, nine
@@ -970,7 +971,7 @@ narrator reads the cue, not the English spelling.
   [t̪ʋɐm]. You read its relative dadāti [d̪ɐd̪ɑːt̪i], gives, in Volume 1's śloka line.
 - **03:50** At the milk stall, a woman pours. bahu? alpam [ɐlpɐm]? A lot? A little? Then
   paryāptam [pɐɾjɑːpt̪ɐm] — enough. Three words that work as answers; describing words
-  wait for Volume 3. And to a woman at the stall, drop the pronoun: kṛpayā kṣīram dadātu
+  wait for Volume 3. And to a woman at the stall, modern spoken usage drops the pronoun: kṛpayā kṣīram dadātu
   [kr̩pɐjɑː kʂiːɾɐm d̪ɐd̪ɑːt̪u].
 - **05:00** Seven new words, and the ledger reaches 328. Tomorrow the chapter exam opens
   with this very play. svasti [sʋɐst̪i]!
@@ -1031,7 +1032,7 @@ narrator reads the cue, not the English spelling.
   [REF:monierwilliams1899] (fact base 0.10); ददातु as imperative 3sg of √दा with भवान्
   (§15) against [REF:whitney1889], cited bare; रूप्य and रूप्यकम् (§4) against
   [REF:monierwilliams1899 s.v. rūpya] (fact 0.11); English *rupee* as a loan via Hindi (§4)
-  against [REF:oed s.v. rupee] — not in the fact base: verify or cut; the CEFR A2
+  against [REF:oed s.v. rupee] — verified at review (verification log, v2.c05); the CEFR A2
   paraphrase (§5) against [REF:cefr2020]; the pronoun-free request (§7, §8), prose only:
   softened to a modern spoken-convention label, the fuller pronoun usage noted — confirm
   the label; the Hindi observations (§7, §13) claim no derivation. **Cross-file:**

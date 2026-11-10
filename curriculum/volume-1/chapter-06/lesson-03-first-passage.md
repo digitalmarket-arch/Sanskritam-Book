@@ -17,7 +17,7 @@ prerequisites: [v1.c06.l02]
 review_of: [v1.c06.l01, v1.c06.l02]
 objectives:
   - en: "Read the course's first connected passage — eight sentences about the student Arjuna — aloud in pause form, at three speeds, reaching the target time with full final vowels."
-    hi: "पाठ्यक्रम का पहला जुड़ा हुआ अनुच्छेद — छात्र अर्जुन के बारे में आठ वाक्य — ठहराव-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें और पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें।"
+    hi: "पाठ्यक्रम का पहला जुड़ा हुआ अनुच्छेद — छात्र अर्जुन के बारे में आठ वाक्य — विराम-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें और पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें।"
   - en: "Read and use the lesson's four new words — पठति, पुस्तकम्, तस्य and सः — with whole-word glosses, plus the first-person पठामि beside them."
     hi: "पाठ के चार नए शब्द — पठति, पुस्तकम्, तस्य और सः — पूरे-शब्द अर्थ के साथ पढ़ें और बरतें; साथ में उत्तम पुरुष का पठामि भी।"
   - en: "Answer Sanskrit comprehension questions on the passage — कः अत्र अस्ति? किम् सः पठति? — in full Sanskrit sentences."
@@ -61,7 +61,7 @@ sentence come home — and it is about you.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Read the course's first connected passage — eight sentences about the student Arjuna — aloud in pause form, at three speeds, reaching the target time with full final vowels. | पहला जुड़ा हुआ अनुच्छेद ठहराव-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें; पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें। |
+| 1 | Read the course's first connected passage — eight sentences about the student Arjuna — aloud in pause form, at three speeds, reaching the target time with full final vowels. | पहला जुड़ा हुआ अनुच्छेद विराम-रूप में, तीन रफ़्तारों पर ज़ोर से पढ़ें; पूरे अन्त्य स्वरों के साथ लक्ष्य-समय तक पहुँचें। |
 | 2 | Read and use the lesson's four new words — पठति, पुस्तकम्, तस्य and सः — with whole-word glosses, plus the first-person पठामि beside them. | चार नए शब्द — पठति, पुस्तकम्, तस्य और सः — पूरे-शब्द अर्थ के साथ पढ़ें और बरतें; साथ में पठामि भी। |
 | 3 | Answer Sanskrit comprehension questions on the passage — कः अत्र अस्ति? किम् सः पठति? — in full Sanskrit sentences. | अनुच्छेद पर संस्कृत के प्रश्नों के उत्तर पूरे संस्कृत वाक्यों में दें। |
 | 4 | State in one line why lesson 1's विद्यालयः appears in the passage as विद्यालयम् — a word's ending shifts with its role; the system is Volume 3's subject. | एक पंक्ति में बताएँ कि इस अध्याय के पहले पाठ का विद्यालयः अनुच्छेद में विद्यालयम् क्यों बन जाता है। |
@@ -477,17 +477,7 @@ frame for a girl — सीता, whom you have read since Chapter 4 — using 
 सः. Keep the sentence frames; change only who — but mind two of them: for line 2 write
 सा बालिका अस्ति, since छात्रः is masculine, and skip line 3 (तस्य is the masculine 'his';
 the feminine is not taught yet). Write four to five sentences, then read them aloud. A model
-is in the key — write yours first.
-
-<details><summary>उत्तराणि · Model answer</summary>
-
-सीता अत्र अस्ति। सा पुस्तकम् पठति। सा संस्कृतम् पठति। सीता हसति। अहम् अपि संस्कृतम् पठामि।
-(sītā atra asti. sā pustakam paṭhati. sā saṃskṛtam paṭhati. sītā hasati. aham api saṃskṛtam
-paṭhāmi.) — Any version keeping the frames and the सा thread is correct, with two cautions:
-line 2 must not read सा छात्रः अस्ति, since छात्रः is masculine — use सा बालिका अस्ति, taught
-in the dialogue lesson — and line 3 must be left out (तस्य is the masculine 'his'; its
-feminine partner is not taught yet).
-</details>
+is in the §19 key — write yours first.
 
 **अभ्यासः 5 · अभिलेखनम् (record the milestone — production).** Record yourself reading
 (a) the full passage at speed 2, (b) the §16 dialogue — both roles, or with a partner,
@@ -532,6 +522,13 @@ every akṣara against §17 — hooks, welds, finals [REF:roediger2006].
 7. (a) "He reads a book." (b) "The student laughs." (c) "I too read Sanskrit." (§17)
 8. (b) तस्य नाम किम्? — his. ((a) asks *your*, (c) asks *my*; (d) misuses सा, which is
    "she", not a possessive.) (§15, §16)
+
+Exercise 4 model: सीता अत्र अस्ति। सा पुस्तकम् पठति। सा संस्कृतम् पठति। सीता हसति। अहम् अपि
+संस्कृतम् पठामि। (sītā atra asti. sā pustakam paṭhati. sā saṃskṛtam paṭhati. sītā hasati.
+aham api saṃskṛtam paṭhāmi.) — Any version keeping the frames and the सा thread is correct,
+with two cautions: line 2 must not read सा छात्रः अस्ति, since छात्रः is masculine — use सा
+बालिका अस्ति, taught in the dialogue lesson — and line 3 must be left out (तस्य is the
+masculine 'his'; its feminine partner is not taught yet).
 </details>
 
 ## 20. Revision
@@ -725,8 +722,8 @@ narrator reads them as IPA, not as English spelling.
   `error_form`, never as transliteration; the Lesson-1 callback quotes अहं संस्कृतं पठामि in
   its original joined spelling — export as quotation, do not "correct" it to pause form; IPA
   strings contain combining characters — NFC normalization applies to Devanagari fields
-  only, never to IPA; §18 exercise 4's model and §19's key stay inside `<details>` in all
-  renders.
+  only, never to IPA; §18 exercise 4's model sits in §19's key, which stays inside `<details>`
+  in all renders.
 - **Verification flags for Pass C:** √पठ् root gloss "read aloud, recite" and the
   पठति/पठनम्/पाठः family (§4 FACT) against [REF:monierwilliams1899 s.v. पठ्]; अर्जुन
   "white, bright" + third-Pāṇḍava naming (§4 HISTORY) against [REF:monierwilliams1899

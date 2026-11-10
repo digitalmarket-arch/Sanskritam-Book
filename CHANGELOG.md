@@ -96,7 +96,7 @@ delivery target, the website.
   roadmap, changelog and search. Styles and script live in `website/assets/`;
   `website/README.md` documents the mapping and the publishing rule.
 - **GitHub Pages deploy.** `.github/workflows/pages.yml` validates, builds and uploads the
-  site on every push and deploys it from `main` (one-time setup: Settings → Pages →
+  site on every push to `main` or a `claude/**` branch and deploys it from `main` (one-time setup: Settings → Pages →
   Source: GitHub Actions).
 - `markdown-it-py` added to `scripts/requirements.txt`; `_site/` ignored.
 

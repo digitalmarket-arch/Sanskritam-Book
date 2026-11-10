@@ -2,8 +2,8 @@
 
 Fact base gathered **before** drafting v2.c02. Two thematic sets salvaged from the 1.x
 curriculum's verified Unit 13 (PDF pp.31–32: nature and family — words correct, labels
-absent) plus the volume's marquee cognate showcase: the Indo-European kinship set, the
-strongest single body of evidence for shared descent — the anti-"mother of all
+absent) plus the volume's marquee cognate showcase: the Indo-European kinship set, a
+classic body of evidence for shared descent — the anti-"mother of all
 languages" flagship (IR-033 reframing). Entering ledger: 258 readable words.
 
 ---
@@ -13,9 +13,9 @@ languages" flagship (IR-033 reframing). Entering ledger: 258 readable words.
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
 | 0.1 | The IE kinship cognate set: मातृ ~ Lat. māter ~ Eng. mother; पितृ ~ pater ~ father; भ्रातृ ~ frāter ~ brother; दुहितृ ~ Gk. thygátēr ~ daughter; स्वसृ ~ soror ~ sister. Parallel descendants of PIE kin terms — siblings, not parent-and-child; no borrowing in any direction. | FACT | [REF:mallory2006] (kinship chapter); [REF:burrow2001] | THE showcase. Citation forms in lessons are the nominatives माता पिता भ्राता दुहिता स्वसा. |
-| 0.2 | Family headwords (all classical, attested): परिवारः "family, retinue"; पिता (✓ v1.c03.l05 — review row, not ledger-new; corrected at audit); माता (✓ v1.c01); भ्राता; भगिनी "sister" (the everyday word; Hindi बहन descends from it); स्वसा "sister" (older/Vedic-flavored sibling of भगिनी — the cognate carrier); पुत्रः (✓ v1.c05); पुत्री "daughter"; दुहिता "daughter" (the cognate carrier beside पुत्री); जनकः "father, begetter"; जननी "mother" (poetic pair). | FACT | [REF:apte1890]; [REF:monierwilliams1899] s.vv. | Teach भगिनी as the working word, स्वसा with the cognate; दुहिता beside पुत्री likewise. कुटुम्बम् "household" (1.x pp.47–48 — corrected at audit) optional. |
+| 0.2 | Family headwords (all classical, attested): परिवारः "family" (present-day sense; classically "retinue, attendants" — Apte, MW s.v.); पिता (✓ v1.c03.l05 — review row, not ledger-new; corrected at audit); माता (✓ v1.c01); भ्राता; भगिनी "sister" (the everyday word; Hindi बहन descends from it); स्वसा "sister" (the older, inherited sibling of भगिनी, common from the Ṛgveda through the epics and classical texts — the cognate carrier; corrected at the 2026-11-10 sweep); पुत्रः (✓ v1.c05); पुत्री "daughter"; दुहिता "daughter" (the cognate carrier beside पुत्री); जनकः "father, begetter"; जननी "mother" (poetic pair). | FACT | [REF:apte1890]; [REF:monierwilliams1899] s.vv. | Teach भगिनी as the working word, स्वसा with the cognate; दुहिता beside पुत्री likewise. कुटुम्बम् "household" (1.x pp.47–48 — corrected at audit) optional. |
 | 0.3 | Pointing pronouns: एषः (m) / एषा (f) complete v1.c06's एतत् (n) — "this (person/thing)". Fixed chunks; the demonstrative system proper is Volume 3's. तस्याः "her" may appear as display beside तस्य "his" — one honest line, no paradigm. | FACT + policy | [REF:apte1890 s.v. एतद्] | The family-introduction frames run on these: एषः मम पिता। एषा मम माता। |
-| 0.4 | World headwords (all classical): पृथिवी "earth" (1.x spelling पृथ्वी also standard — both shown, one reading note); आकाशः "sky, space"; नदी "river" (✓ v1.c03.l04 — review row in l03, not ledger-new; corrected at audit); वृक्षः "tree"; पुष्पम् "flower"; समुद्रः "ocean"; तारा "star"; मेघः "cloud" (मेघ ✓ v1.c03.l01 — counted upgrade; corrected at audit); नगरम् "city" (the नगर inside देवनागरी — callback v1.c06.l01); जलम् (✓), वनम् (✓), पर्वतः (✓), सूर्यः (✓), चन्द्रः (✓), अग्निः (✓ ear-word since v1.c01, readable since v1.c05 — ledger check at drafting), वायुः (✓). | FACT | [REF:apte1890]; [REF:monierwilliams1899] s.vv. | New 8 (the seven unticked words + अग्निः; मेघः upgrade, नदी review — corrected at audit); the rest is review doing scene work. |
+| 0.4 | World headwords (all classical): पृथिवी "earth" (1.x spelling पृथ्वी also standard — both shown, one reading note); आकाशः "sky, space"; नदी "river" (✓ v1.c03.l04 — review row in l03, not ledger-new; corrected at audit); वृक्षः "tree"; पुष्पम् "flower"; समुद्रः "ocean"; तारा "star"; मेघः "cloud" (मेघ ✓ v1.c03.l01 — counted upgrade; corrected at audit); नगरम् "city" (the नगर inside देवनागरी — callback v1.c06.l01); जलम् (✓), वनम् (✓), पर्वतः (✓), सूर्यः (✓), चन्द्रः (✓), अग्निः (ear-word since v1.c01, readable since v1.c05, never a headword — ledger-new in l03; corrected at the 2026-11-10 sweep), वायुः (✓). | FACT | [REF:apte1890]; [REF:monierwilliams1899] s.vv. | New 8 (the seven unticked words + अग्निः; मेघः upgrade, नदी review — corrected at audit); the rest is review doing scene work. |
 | 0.5 | The 1.x "पञ्चतत्त्व / 5 Elements" framing (आकाश वायु अग्नि जल पृथिवी): the five words are plain vocabulary (FACT); their grouping as the five elements is philosophical doctrine (Sāṅkhya/Vaiśeṣika lineages) — TRADITION register, attributed, never quizzed as physics. | FACT + TRADITION split | doctrine: standard Indian philosophy; words: dictionaries | The chapter's register showcase — the 1.x card taught doctrine as vocabulary fact. |
 | 0.6 | च "and" — the classical enclitic conjunction; like अपि it walks BEHIND: रामः सीता च "Rāma and Sītā"; X Y च or X च Y च patterns. The chapter title itself (परिवारः जगच्च) carries it — जगत् + च with a sandhi join (जगच्च) previewed at the seam, deferred to V3; pause form जगत् च. | FACT | [REF:apte1890 s.v. च]; [REF:whitney1889] | The 1.x curriculum glossed और as Sanskrit "and" (IR finding) — च is the correction, delivered. |
 | 0.7 | कुत्र "where?" — classical question word (readable since v1.c05.l03's त्र); answers अत्र/तत्र. Completes the location Q&A: X कुत्र अस्ति? — X तत्र अस्ति। | FACT | [REF:apte1890 s.v. कुत्र] | l04's spine. |
@@ -71,8 +71,8 @@ Gates v2.c03 (संख्याः कालश्च).
 - दुहिता beside पुत्री — both attested; दुहिता the cognate carrier, पुत्री the everyday
   pair of पुत्रः.
 - एषः/एषा citation forms and chunk framing (no paradigm claims).
-- पृथिवी/पृथ्वी variant note; अग्निः ledger status at drafting (ear-word v1.c01 →
-  readable when? verify against v1.c05 tables before claiming "upgrade").
+- पृथिवी/पृथ्वी variant note; अग्निः ledger status resolved — never a v1 headword, counted
+  ledger-new in l03 (corrected at the 2026-11-10 sweep).
 - च enclitic placement rules stated at chunk altitude only; जगच्च seam preview honest.
 - Cognate shelf: every set against [REF:mallory2006]; direction honesty in every line;
   the 1.x "म is the universal sound of nurture" (p.21 — corrected at audit) explicitly replaced — log as the

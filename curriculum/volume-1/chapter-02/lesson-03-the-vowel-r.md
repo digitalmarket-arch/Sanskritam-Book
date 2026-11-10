@@ -814,7 +814,7 @@ narrator reads them as IPA, not as English spelling.
   dictionary's own form of mātā [mɑːt̪ɑː]. And amṛta [ɐmr̩t̪ɐ] — the deathless.
 - **05:15** The ear test: mata [mɐt̪ɐ] — opinion. mita [mit̪ɐ] — measured. mṛta [mr̩t̪ɐ] —
   dead. Three vowels, one skeleton. Hear all three apart, and ṛ [r̩] is yours.
-- **05:40** One more thing. Millions say this vowel as "ri" — their tradition is real, and
+- **05:40** One more thing. Many readers say this vowel as "ri" — their tradition is real, and
   so is the classical target. We name both honestly, and we train the target. Brrr minus b.
   One beat. amṛta [ɐmr̩t̪ɐ]. Take it with you.
 

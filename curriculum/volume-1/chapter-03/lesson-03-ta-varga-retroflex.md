@@ -57,7 +57,7 @@ place has the tradition's most vivid name — मूर्धन्य, "of the 
 sounds made there are the ones the world associates with India, though your English t lives
 right next door and Swedish quietly makes them too. Row three of five: ट ठ ड ढ ण — the same
 five manner slots you have now run twice, one new tongue-curl, and twelve new words, one of
-them the favorite object of Indian philosophy: a clay pot.
+them the stock example-object of Indian logic: a clay pot.
 
 ## 2. Learning Objective
 
@@ -322,7 +322,7 @@ To find ट /ʈ/ and its row:
    the release rings darker — deeper "room sound" than an English t.
 
 **Feel checks — this is a feel lesson, not a mirror lesson.** The action hides behind the
-teeth, so the mirror that served उ/ऊ retires today; your instrument is the tip itself.
+teeth, so the mirror — as in the velar lesson — is of little use; your instrument is the tip itself.
 Check one: after saying ट, freeze — is the ridge-bump *in front of* your contact point? It
 must be. Check two: alternate a puff-free English "ta" (the s-trick, §8) and ट ten times
 and feel the tip commute; if nothing moves, nothing changed. Check three: record the
@@ -361,7 +361,7 @@ breathy rhyme.
 
 **घट** (ghaṭa) "pot" — घड़ा · /gʱɐʈɐ/ [REF:apte1890 s.v. घट]
 
-A humble clay water-pot — and the philosophers' favorite example.
+A humble clay water-pot — and the Nyāya logicians' stock example.
 
 > **[TRADITION · परम्परा]** In the Nyāya school of Indian logic, the pot is the stock
 > example-object: घटः अस्ति (ghaṭaḥ asti) "the pot exists" is the kind of demonstration
@@ -387,7 +387,7 @@ letters.
 > strand or cord — of a rope, a bowstring — then a quality, an attribute, a virtue.
 > One concrete image carrying a family of abstract senses is a pattern Sanskrit vocabulary
 > loves; you will watch this particular word work hard across the whole tradition.
-> [REF:apte1890 s.v. गुण]
+> [REF:monierwilliams1899 s.v. गुण]
 
 ### गूढ and मूढ — the breathy rhymes
 
@@ -647,8 +647,8 @@ Tomorrow, before anything else: the 1-day re-dictation (§20). The gap is the me
 
 शिक्षक-टिप्पणी
 
-**This is the feel lesson.** After the mirror lessons of Chapter 2, the key articulator is
-now invisible — build the lesson on proprioception. Run the ridge walk (§9 drill 1) with
+**This is the feel lesson.** As in the velar lesson, the key articulator is invisible —
+build the lesson on proprioception. Run the ridge walk (§9 drill 1) with
 eyes closed, in silence, before any sound is made: tongue on teeth, slide to ridge, curl
 past. Only then attach the voice. Students who "can't hear the difference" can almost
 always *feel* it once the walk is slow enough.
@@ -783,7 +783,7 @@ narrator reads them as IPA, not as English spelling.
   the fool it stays hidden from. Breath all the way through the ḍha [ɖʱɐ].
 - **04:50** The pot, by the way, is famous. When Sanskrit philosophers need "some object",
   they reach for a clay pot: ghaṭaḥ asti [gʱɐʈɐh ɐst̪i] — "the pot exists". You can now
-  read the philosophers' favorite prop.
+  read the logicians' stock prop.
 - **05:15** Down at the riverbank, Kamalā has found one: mama ghaṭaḥ! mama taṭaḥ! My pot,
   my riverbank — and this time she can read every letter, tail included.
 - **05:40** Twelve words. Three rows of the grid. Next lesson, the tongue lands on the
@@ -843,6 +843,7 @@ narrator reads them as IPA, not as English spelling.
   bold markers = "readable now" flags — preserve in export as `readable: true` spans; §19
   key stays inside `<details>` in all renders.
 - **Register audit:** FACT ×6 (§5 ×3, §8, §13, §15 — refs: ladefoged2015, whitney1889,
-  apte1890, masica1991) · HISTORY ×1 (§4, cited masica1991) · TRADITION ×3 (§4 the
+  apte1890, monierwilliams1899, masica1991) · HISTORY ×1 (§4, cited masica1991) ·
+  TRADITION ×3 (§4 the
   mūrdhanya naming, sources named; §13 Nyāya's stock pot; §17 the Kaṭha Upaniṣad name) ·
   SYMBOL ×0 (no symbolic claims made for the row; quiz assesses FACT content only).

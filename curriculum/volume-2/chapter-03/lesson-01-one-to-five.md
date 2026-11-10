@@ -52,7 +52,7 @@ updated: 2026-08-04
 You have been able to *read* पञ्च for a whole volume — it carried the ञ्च showcase — and
 to *write* ९ since the signs lesson. What you could not yet do, in the language whose
 grammarians counted everything, is count. v1.c06.l01 left a promise on the record: the
-names of the numbers beyond पञ्च are Volume 2 Chapter 3's business. Chapter 3 is here.
+names of the numbers, one to ten, पञ्च among them, are Volume 2 Chapter 3's business. Chapter 3 is here.
 Today the first five numbers get their names — three old friends back on duty, two new
 words older than every calendar they ever landed on, and one honest surprise: the word
 for "one" has no clean English twin — *one* is a relative only at the root — and this
@@ -128,9 +128,10 @@ live in the drawer beside it: learned in childhood, used daily, replaced almost 
 which is why the cognate shelf can open again today with full confidence.
 
 > **[FACT · तथ्यम्]** The stems एक, द्वि, त्रि, चतुर्, पञ्च are the numbers' citation
-> names — the shapes this course teaches first and dictionaries list (पञ्च is headed by its
-> full stem पञ्चन् (pañcan), whose final न् drops in compounds and in the counting form). In
-> running Sanskrit, numbers *inflect*: they change dress by gender and case. The neuter
+> names — the shapes this course teaches first and dictionaries list (पञ्च is headed by the
+> grammarians' stem पञ्चन् (pañcan), whose न् never surfaces, in compounds or in counting). In
+> running Sanskrit, numbers *inflect*: they change dress by case, and one to four by gender
+> too. The neuter
 > counting recitation — एकम् द्वे त्रीणि चत्वारि पञ्च — is standard practice, real
 > inflected Sanskrit learned whole. [REF:apte1890]; [REF:whitney1889]
 
@@ -200,9 +201,9 @@ full Sanskrit word. Pause form throughout, as always.
 और त्रि की इ छोटी है — यह अंग्रेज़ी *tree* नहीं है।
 
 तीसरा — दो वेश, एक ईमानदारी। एक, द्वि, त्रि, चतुर्, पञ्च शब्दों के *नाम* हैं — शब्दकोश
-इन्हीं के नीचे इन्हें रखते हैं — बस पञ्च का शीर्ष-शब्द पूरा मूल पञ्चन् है। एकम्, द्वे, त्रीणि, चत्वारि गिनती की पोशाक है — सच्चा,
-रूप बदला हुआ संस्कृत, जो आज पूरा घोष बनकर कण्ठ होता है। संख्याएँ लिंग और कारक के
-अनुसार वेश बदलती हैं — वह पूरा तन्त्र Volume 4 में खुलेगा; तब तक गिनती घोष से, और
+इन्हीं के नीचे इन्हें रखते हैं — बस पञ्च का शीर्ष-शब्द वैयाकरणों का मूल पञ्चन् है, जिसका न् प्रयोग में कभी नहीं दिखता। एकम्, द्वे, त्रीणि, चत्वारि गिनती की पोशाक है — सच्चा,
+रूप बदला हुआ संस्कृत, जो आज पूरा घोष बनकर कण्ठ होता है। संख्याएँ कारक के अनुसार
+वेश बदलती हैं, और एक से चार तक लिंग के अनुसार भी — वह पूरा तन्त्र Volume 4 में खुलेगा; तब तक गिनती घोष से, और
 गिनती घोष के अन्तिम शब्द पर पूरी होती है — त्रीणि! अंक-कार्ड का उत्तर केवल नाम से — त्रि! —
 यह इस पाठ्यक्रम की अभ्यास-परिपाटी है, पूरा संस्कृत पद नहीं। कोई नियम मत गढ़िए। और अंक १–५ (v1.c05.l05 की कमाई) आज
 अपने नामों से जुड़ते हैं — कार्ड देखिए, एक ताल के भीतर नाम बोलिए।
@@ -229,7 +230,8 @@ Each number owns two shapes today. The **stems** एक द्वि त्र�
 citation names — what the ladder answers, what a bare answer
 uses. The **chant** एकम् द्वे त्रीणि चत्वारि पञ्च is the neuter counting dress — real,
 inflected Sanskrit, the standard counting recitation, learned whole as a rhythm.
-Numbers change dress by the gender and role of what they count; that system is honestly
+Numbers change dress by the role of what they count, one to four by its gender too; that
+system is honestly
 deferred to Volume 4 (§15). Notice, for free, that पञ्च keeps one shape in both rows —
 noticing is allowed, legislating is not.
 
@@ -645,8 +647,8 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 अध्यापकटिप्पणी
 
 **Open with the promise, not the list.** Write पञ्च on the board and ask who can read
-it (everyone — since v1.c06.l01). Then read that lesson's own line aloud: the names of
-the numbers beyond पञ्च are Volume 2 Chapter 3's subject. A course that keeps its
+it (everyone — since v1.c06.l01). Then read that lesson's own line aloud: "The Sanskrit *names* of
+the numbers, one to ten, पञ्च among them, are Volume 2 Chapter 3's subject." A course that keeps its
 promises on schedule earns the trust this chapter's corrections will spend.
 
 **Timing plan (45 min):** Station 0 + prompts, scores logged (8) → the promise-kept
@@ -820,7 +822,7 @@ the narrator reads the cue, not the English spelling.
   notes §1/§6 (repo search: cognate-mentioned v1.c01.l01 and v1.c05.l03 §13, no
   earlier §14 row — counted new accordingly); stems and chant forms (§4, §15) against
   [REF:apte1890 s.vv.] and [REF:whitney1889] — Whitney's numeral sections cited bare
-  pending the notes §0.1 range verification; the shelf rows (§13) against
+  (range §§475–489 verified, notes §0.1); the shelf rows (§13) against
   [REF:mallory2006] (numerals) and [REF:burrow2001]; एक's empty-slot line kept to "no
   clean everyday-English cognate" — not "no relatives at all" — against
   [REF:mallory2006]; Hindi descent rows (§7, §13, §19 Q5) against [REF:masica1991];

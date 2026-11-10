@@ -49,7 +49,7 @@ updated: 2026-08-06
 
 ## 1. Hook
 
-Put two words you have owned for more than a volume side by side: वदति "he speaks" and
+Put two words you have owned since Volume 1 side by side: वदति "he speaks" and
 वदामि "I speak". Same front. Different tail. The tail changed because the *speaker*
 changed. Three chapters of Volume 1 built this machine for you — चलति in Chapter 3, वदति
 in Chapter 4, वदामि in Chapter 5 — and you have been conjugating Sanskrit ever since,
@@ -120,7 +120,8 @@ the same way. Today that observation gets paid.
 3. Tongue tip on the upper front teeth — the dental त, never English alveolar *t*
    (v1.c03.l04). Every bank verb ends -ति /t̪i/; today two more tails join it.
 4. त्वम् कः? (to a boy or man) / त्वम् का? (to a girl or woman) — no verb, by design:
-   "The you-form of अस्मि exists, and it opens Volume 2" (v1.c06.l02 §8). It opens today.
+   "The you-form of अस्मि exists, and it arrives with Volume 2's first-verbs chapter
+   (v2.c04)" (v1.c06.l02 §8). It arrives today.
 5. शृणोति and जानाति — taught whole (v2.c04.l01 §15); today they lend you four more whole
    words.
 </details>
@@ -304,8 +305,8 @@ between them. Today's one ledger word fills it: **असि** (asi) "you are". S
 single स, two akṣaras, अ-सि — no weld, unlike its neighbours.
 
 And this is a promise coming due. When v1.c06.l02 gave you त्वम् कः? and त्वम् अपि छात्रः?,
-it said in so many words: "The you-form of अस्मि exists, and it opens Volume 2." Here it
-is: **त्वम् छात्रः असि।** "You are a student." The old questions were never broken — the
+it said in so many words: "The you-form of अस्मि exists, and it arrives with Volume 2's
+first-verbs chapter (v2.c04)." Here it is: **त्वम् छात्रः असि।** "You are a student." The old questions were never broken — the
 verbless identity sentence is ordinary, idiomatic Sanskrit, and it stays correct. From
 today you simply have both: त्वम् कः? and त्वम् कः असि? are both legal.
 
@@ -527,7 +528,7 @@ through it in order, with the person-pattern wheel in your hand.
 
 ### Step 1 — the reveal, from what you own
 
-§8's evidence table gave you two rows owned for more than a volume — वदामि/वदति,
+§8's evidence table gave you two rows owned since Volume 1 — वदामि/वदति,
 पठामि/पठति, अस्मि/अस्ति — and an empty middle. The gap fills like this: वदसि, पठसि, असि.
 Three tails, and now all three named.
 
@@ -730,7 +731,7 @@ each line: Devanagari, IAST, English, Hindi. Yesterday's evening, retold from th
 The quiet craft notes: line 1 is v2.c04.l01 §17's opening (अर्जुनः गृहम् गच्छति) with
 the narrator moved inside the story — §18 exercise 7 asks you to run that swap yourself.
 In lines 3–4 Arjuna's खादसि comes back from Kamalā as खादामि, the tail handed across the
-table; line 8 lays the completed trio in a father's mouth. The Hindi glosses keep
+table; line 8 puts the new असि beside अस्मि in a father's mouth. The Hindi glosses keep
 switching रहा/रही; the Sanskrit tails never notice gender (§12, mistake 7).
 
 ## 18. Exercises
@@ -1054,8 +1055,9 @@ narrator reads the cue, not the English spelling.
     exercise 4; transcript mirrored in §19); the dictation track
   - `assets/worksheets/volume-2/v2c04l02-conjugation-drills.pdf` — §18 exercises 1, 3, 4,
     5, 6, 8 + Station 0 score log
-  - §16/§17 audio is NOT in this manifest — record into the Chapter 4 drill pack
-    (chapter.md manifest: per-lesson dialogue audio) and back-link here when it exists.
+  - §16/§17 audio is NOT in this manifest — record into the Chapter 4 drill pack (not yet
+    listed in chapter.md's manifest, which names only l03's doing-dialogue audio) and
+    back-link here when it exists.
 - **Station 0 chain:** §3 runs v2.c04.l01 §20's +1-day booking verbatim; §20 books
   v2.c04.l03's Station 0 as the गच्छ and पठ rows cold + the अस्मि/असि/अस्ति trio. Diffed
   against l03 §3 on disk: l03 quotes the same line and runs both items — no drift.
@@ -1099,13 +1101,10 @@ narrator reads the cue, not the English spelling.
   deferred to v2.c06 after a [REF:mallory2006] check. §10/§14 IPA diffed against
   STYLE_GUIDE §2 (Pass A); §16/§17 stock attested (रामः v1.c04.l01; एषा v2.c02.l02;
   सायम् v2.c01.l03; भगिनी, कमला v2.c02.l01; मित्रम् v1.c05.l03) — Pass D re-checks.
-- **Cross-file flag for Pass D (in-course history):** chapter.md ("वदति since Chapter
-  3"), v2.c04.l03 §3 answer 1 ("वदति since v1.c03") and v2.c04.l05 task D card 9 ("वदति
-  was your first verb", keyed FACT) disagree with the files on disk: वदति entered at
-  v1.c04.l01 (that lesson's objectives and §14), and the course's first -ति verb is
-  चलति (v1.c03.l02, "the course's first verb"). This lesson prints the on-disk history
-  (§1, §4, §8, §19 Q3); card 9 stays FACT if reworded "-ति forms since Chapter 3 of
-  Volume 1 — चलति was your first verb".
+- **Cross-file flag for Pass D (in-course history) — resolved at review (2026-08-06):**
+  chapter.md, v2.c04.l03 §3 answer 1 and v2.c04.l05 card 9 now print the on-disk history
+  — वदति entered at v1.c04.l01, and the course's first -ति verb is चलति (v1.c03.l02) —
+  matching this lesson (§1, §4, §8, §19 Q3).
 - **Register audit:** FACT ×5 (§4 person-inside-the-word ×1 · §5 typology + retrieval/
   spacing ×2 · §15 the pattern ×1 + the trio/verbless idiom ×1) · TRADITION ×1 (§4 the
   three पुरुष names, Pāṇinian tradition) · HISTORY ×0 (no dated claims) · SYMBOL ×0. The

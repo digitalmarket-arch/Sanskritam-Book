@@ -20,7 +20,7 @@ words: first an honest orientation (what Sanskrit is, what the evidence says, ho
 separates fact from tradition), then the sound system as a *map*, then the first two sounds —
 अ and आ — taught to production quality with IPA and articulation, along with six Devanagari
 letters, the first mātrā, and twelve readable words. The chapter models every convention the
-next 139 lessons will use.
+later lessons will use.
 
 ## Goals
 

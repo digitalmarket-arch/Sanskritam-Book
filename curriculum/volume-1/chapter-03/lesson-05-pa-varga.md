@@ -23,7 +23,7 @@ objectives:
   - en: "Read the lesson's fifteen words aloud, including पिता and फल."
     hi: "पाठ के पन्द्रह शब्द — पिता और फल समेत — ज़ोर से पढ़ें।"
   - en: "Read the three milestone sentences aloud, word by word, in pause form."
-    hi: "तीनों मील-पत्थर वाक्य ठहराव-रूप में, शब्द-दर-शब्द ज़ोर से पढ़ें।"
+    hi: "तीनों मील-पत्थर वाक्य विराम-रूप में, शब्द-दर-शब्द ज़ोर से पढ़ें।"
 new_letters: [प, फ, ब, भ]
 new_matras: []
 vocabulary_count: 15
@@ -66,7 +66,7 @@ A boy walks. A monkey walks. A cuckoo sings. Small sentences — and every word,
 | 1 | Produce the five labials प फ ब भ म — including a true [pʰ] for फ, never [f]. | पाँचों ओष्ठ्य वर्ण — प फ ब भ म — शुद्ध बोलें; फ में सच्चा [pʰ], कभी [f] नहीं। |
 | 2 | Write प, फ, ब and भ with correct stroke order; म graduates to full varga treatment. | प, फ, ब और भ सही रेखा-क्रम से लिखें; म को पूर्ण वर्ग-स्तर पर पक्का करें। |
 | 3 | Read the lesson's fifteen words aloud, including पिता and फल. | पाठ के पन्द्रह शब्द — पिता और फल समेत — ज़ोर से पढ़ें। |
-| 4 | Read the three milestone sentences aloud, word by word, in pause form. | तीनों मील-पत्थर वाक्य ठहराव-रूप में, शब्द-दर-शब्द ज़ोर से पढ़ें। |
+| 4 | Read the three milestone sentences aloud, word by word, in pause form. | तीनों मील-पत्थर वाक्य विराम-रूप में, शब्द-दर-शब्द ज़ोर से पढ़ें। |
 
 Objective 1 is drilled in §9/§11, tested in §18 (exercises 1–2) and §19 (Q1, Q3–4);
 objective 2 in §15 and §18 (exercises 3–4, 6), §19 (Q7); objective 3 in §14 and §18
@@ -799,7 +799,7 @@ narrator reads them as IPA, not as English spelling.
   helper debut; inherent vowel); builds on v1.c03.l02 (चलति, कूजति, ज), v1.c02.l05
   (कोकिल, ो-mātrā, ॐ [oːm]), v1.c02.l06 (visarga — now on sentence subjects), v1.c02.l03
   (मातृ stem ↔ today's पितृ note); feeds v1.c03.l06 (assessment: blank-grid fill,
-  sentence reading, +1-week re-dictation), Chapter 4 (व — the ब/व contrast previewed in
+  sentence reading, Chapter 2's last intervals), Chapter 4 (व — the ब/व contrast previewed in
   §12/§15; य व bring धन्यवादः one step nearer), Chapter 5 (virāma — फलम्, अत्र's
   conjunct, धन्यवादः's न्य), Volume 3 (declension behind the subject's ः; sandhi retires
   the pause-form convention).
@@ -809,7 +809,7 @@ narrator reads them as IPA, not as English spelling.
   exactly.
 - **Glossary:** reuses वर्ण, स्वर, व्यञ्जन, ओष्ठ्य and the place terms — consistent with
   GLOSSARY.md; वर्ग and स्पर्श are first-taught v1.c03.l01 — confirm entries land in the
-  post-chapter loop. **Candidate addition: "pause form / ठहराव-रूप" (first-taught
+  post-chapter loop. **Candidate addition: "pause form / विराम-रूप" (first-taught
   v1.c03.l02; made the standing reading protocol in v1.c03.l05)** — used by l06 and every
   sentence-bearing lesson until Volume 3.
 - **Verification flags for Pass C:** pause-form framing (§8 FACT) — verify wording against

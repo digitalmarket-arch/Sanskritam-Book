@@ -112,7 +112,7 @@ translation of the first name.
 > (virāma) "stop, cessation, pause" — the sign stops the vowel. A word or letter it
 > produces — one ending in a bare consonant — is called हलन्त (halanta) "ending in a
 > consonant", and that name is commonly used for the sign itself as well.
-> [REF:whitney1889 §11] [REF:apte1890 s.v. हल्]
+> [REF:whitney1889 §11] [REF:apte1890 s.v. विराम] [REF:monierwilliams1899 s.v. हलन्त]
 
 > **[TRADITION · परम्परा]** The second name is a technical term of the Pāṇinian
 > grammatical tradition: there हल् (hal) is the compressed cover-label meaning "any
@@ -360,16 +360,16 @@ mirror shows the discipline.
 > "I"; the three languages inherited the same word from their common ancestor.
 > [REF:mallory2006]
 
-Pronouns are among the words languages hold on to longest — and the first-person pronoun
-sits at the very bottom of that vault. When you say *aham*, *ego* or *I*, you are
+Here one pronoun has been passed down, generation to generation, along three separate
+lines. When you say *aham*, *ego* or *I*, you are
 flexing one ancient word three ways. Fitting, for the day the word becomes writable.
 
 ### जगत् — the moving world
 
 **जगत्** (jagat) "world" — जगत्, संसार · /d͡ʑɐgɐt̪/
 
-One line, worth keeping: the dictionaries connect जगत् with the root गम् (gam) "go" —
-the world named as "that which moves". [REF:apte1890 s.v. जगत्] A civilization's word
+One line, worth keeping: Monier-Williams connects जगत् with the root गम् (gam) "go" —
+the world named as "that which moves". [REF:monierwilliams1899 s.v. जगत्] A civilization's word
 for the universe, and it means *the moving one*.
 
 ### तत् and सत् — two small words with large futures
@@ -377,8 +377,8 @@ for the universe, and it means *the moving one*.
 **तत्** (tat) "that" — वह · /t̪ɐt̪/ · **सत्** (sat) "being, real" — सत् · /sɐt̪/
 
 Today: a pronoun and a small noun-adjective, fully readable, doing honest daily work in
-किम् तत्? and in your word list. Later: these two open and anchor some of the most
-quoted sentences in Sanskrit literature — you will meet those sentences with their full
+किम् तत्? and in your word list. Later: these two open and anchor famous sentences of
+Sanskrit literature — you will meet those sentences with their full
 text, sources and proper registers in Volume 5. No preview quote here: this course cites
 verses only when it can show you the whole verse and its locus. For now, enjoy owning
 the words themselves.

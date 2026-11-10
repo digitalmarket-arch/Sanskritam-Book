@@ -57,7 +57,7 @@ the vowel **first**: कि — the hook you see on the left is the *i*, standin
 it is spoken *after*. The script writes time travel: your eye meets a vowel your ear has not
 reached yet. Today your ear learns two new vowels, इ and ई; your hand learns to write the
 trick without blinking — and the little word इति (iti), which you have been *saying* since
-lesson 2, finally lands on the page as something you *read*.
+v1.c01.l02, finally lands on the page as something you *read*.
 
 ## 2. Learning Objective
 
@@ -162,8 +162,8 @@ own from lesson 4.
 (līlā atra asti.) "Līlā is here." — लीला यहाँ है।
 
 Now look at the little quoting word doing the work in the first two lines: इति (iti) "thus" —
-it wraps whatever precedes it in spoken quotation marks. You have said it since lesson 2
-(म इति वर्णः); from today you can *read* it: इ + ति. And the lesson's Sanskrit title, इकारः
+it wraps whatever precedes it in spoken quotation marks. You have said it since v1.c01.l02
+(क इति वर्णः); from today you can *read* it: इ + ति. And the lesson's Sanskrit title, इकारः
 ईकारश्च (ikāraḥ īkāraś ca) "the sound i and the sound ī": the tradition names a sound by
 adding कार (kāra), and च (ca) means "and". The seam in ईकारश्च — where *ḥ* and *ca* fuse into
 *ś ca* — is a joining rule (sandhi), treated properly in Volume 3.
@@ -195,7 +195,7 @@ adding कार (kāra), and च (ca) means "and". The seam in ईकारश�
 और एक ईमानदार चेतावनी: जल्दबाज़ी की लिखाई में कि/की की अदला-बदली हिन्दी लिखने वालों की
 जानी-पहचानी चूक है। संस्कृत का श्रुतलेखन इसे तुरन्त पकड़ लेगा, क्योंकि यहाँ इति और ईति
 अलग-अलग शब्द हैं — और हुक की जगह बदलते ही मति भी मित बन जाता है। आज का अभ्यास आपकी हिन्दी वर्तनी भी चमका देगा — मुफ़्त में। और आज की
-सूची का ख़ास मेहमान: इति — वही छोटा शब्द जो आप पाठ 2 से सुनते आ रहे हैं। आज से यह पढ़ा भी
+सूची का ख़ास मेहमान: इति — वही छोटा शब्द जो आप अध्याय 1 के पाठ 2 से सुनते आ रहे हैं। आज से यह पढ़ा भी
 जाएगा।
 
 ## 8. English Explanation
@@ -400,7 +400,7 @@ own, and today's two mātrās. Audio: 🔊
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| इति | iti | /it̪i/ | thus; end of quote | इस प्रकार | said since lesson 2 — read from today |
+| इति | iti | /it̪i/ | thus; end of quote | इस प्रकार | said since v1.c01.l02 — read from today |
 | तिल | tila | /t̪ilɐ/ | sesame | तिल | the seed in §17 |
 | मति | mati | /mɐt̪i/ | thought, mind | मति, बुद्धि | kin of Ch 1's मत; not मित! |
 | कति | kati | /kɐt̪i/ | how many? | कितने | question word — works in §16 |

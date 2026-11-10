@@ -49,9 +49,9 @@ updated: 2026-08-02
 
 ## 1. Hook
 
-This chapter handed you two of the oldest word-hoards a human being owns — the people at
-home and the world outside the door — and, hidden inside them, the best story in
-historical linguistics: your English *mother* and your Sanskrit माता are cousins, not
+This chapter handed you two everyday word-hoards — the people at home and the world
+outside the door — and, hidden inside them, a classic story of historical
+linguistics: your English *mother* and your Sanskrit माता are cousins, not
 copies. Today you prove all of it: present a family, describe a world, join things with
 च, find things with कुत्र — and sort the claims one more time, because the direction of
 a fact is part of the fact. Nineteen ledger-new words this chapter. Time to show they
@@ -306,11 +306,11 @@ pause form.
 
 > **[FACT · तथ्यम्]** **The pointing trio:** एषः for a man or boy, एषा for a woman or
 > girl, एतत् for things — the person decides, not the word's ending (l02 §8); fixed
-> chunks; the demonstrative system is Volume 3's. **The enclitics:** च "and" and अपि
+> chunks; the demonstrative system is Volume 3's. **The after-words:** च "and" (an enclitic) and अपि
 > "too" walk behind their words — रामः सीता च; अहम् अपि. **The location kit:** अत्र तत्र
 > यत्र कुत्र — here, there, where (relative), where? **The question kit, complete for
-> now:** कः का किम् कुतः कथम् कुत्र कति — seven askers; कति has been a headword since
-> v1.c02.l01 and returns with the numbers next chapter. **The honesty
+> now:** कः का किम् कुतः कथम् कुत्र — six askers (l04 §15); कति "how many?", a headword since
+> v1.c02.l01, stands beside them and returns with the numbers next chapter. **The honesty
 > lines:** joined subjects ride verbless frames (verb machinery later); endings-by-role glossed whole (system in
 > Volume 3); gender *shapes* observed, system later. [REF:apte1890]
 
@@ -361,7 +361,7 @@ presentation aloud twice — first slow, then at pace:
 मम परिवारः अत्र अस्ति!
 
 Worked closing line, for comparison after your attempt: **मम माता मम पिता च अत्र। अहम्
-अपि अत्र। एतत् मम कुटुम्बम्!** — the च and अपि enclitics both walking correctly behind
+अपि अत्र। एतत् मम कुटुम्बम्!** — च and अपि both walking correctly behind
 their words, the neuter एतत् landing on कुटुम्बम्. (Retrieval + recombination — and
 retrieval beats re-reading: the testing effect [REF:roediger2006].)
 
@@ -615,8 +615,8 @@ Sanskritam. Next: ten numbers and the calendar's honest story." (End card: प�
   sets), l03 §8 (पञ्चतत्त्व split), l04 §8/§15 (च and the और correction) — no card
   asserts anything its source lesson does not; the होरा row in §15's table is framed
   as "next chapter's story" (preview, not teaching); §16's भगिनी अहम् च अत्र line —
-  enclitic after the final joined item, per l04's rule (verify wording against l04 §15
-  at review).
+  enclitic after the final joined item, per l04's rule (checked against l04 §15 at the
+  2026-08-03 review).
 - **Register audit:** FACT ×3 (§4 spacing · §5 testing · §15 rules; the direction table is
   uncalled-out prose) · HISTORY ×0 · TRADITION ×0 (the doctrine appears only inside task D as content)
   · SYMBOL ×0. Task D assesses register-sorting itself; quiz Q1–Q10 FACT-register.

@@ -1,6 +1,6 @@
-# Builds the website from the curriculum Markdown on every push and deploys it to GitHub
-# Pages from the default branch. Other branches get the build (a check that the site still
-# renders) without the deploy. One-time setup: Settings → Pages → Source: GitHub Actions.
+# Builds the website from the curriculum Markdown on every push to main or a claude/** branch
+# and deploys it to GitHub Pages from the default branch. claude/** branches get the build (a
+# check that the site still renders) without the deploy. One-time setup: Settings → Pages → Source: GitHub Actions.
 name: Website
 
 on:

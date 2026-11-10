@@ -301,7 +301,7 @@ verdicts — sorting them is the whole skill.
 
 शब्दावली — no new words; the **cumulative list**, Chapters 1–4 complete: 114 words carried from
 Chapters 1–3 (compressed below; full rows in v1.c02.l07 §14 and v1.c03.l06 §14) plus the 43 this
-chapter added — **157 readable words**, comfortably past the ≈140 the chapter overview promised.
+chapter added — **157 readable words**, the count the chapter overview states.
 The Chapter 4 rows print in full — youngest, least practiced; the consolidated list is assembled
 in the volume review (v1.c06). Source for tasks B and C. Protocol as always: block by block, then
 whole word, every vowel at full value, pause form.
@@ -385,7 +385,7 @@ The promise tracker, updated:
 ## 16. Conversation
 
 सम्भाषणम् — the chapter's exchanges joined into one readable-heavy scene. Roles अ and ब; swap and
-repeat. 🔊 glue: आम्, अस्ति, पश्य — and संस्कृतम् itself, one chapter from writable.
+repeat. 🔊 glue: only संस्कृतम् itself, one chapter from writable.
 
 — अ: **कः** **वदति**? (kaḥ vadati?) "Who is speaking?"
 — ब: **गुरुः** **वदति**। "The teacher is speaking."
@@ -416,7 +416,8 @@ continuation is writable. Worked lines for comparison (peek only after your own 
    here, happiness! Then — a story." — गुरु: यहाँ — सुख! फिर — कथा।
 
 (The 🔊 crutch is nearly gone — every word above is readable AND writable. The point is retrieval
-+ recombination, the two strongest moves in the learning toolkit [REF:roediger2006].)
++ recombination — and retrieval practice beats re-reading for long-term retention
+[REF:roediger2006].)
 
 ## 18. Exercises
 

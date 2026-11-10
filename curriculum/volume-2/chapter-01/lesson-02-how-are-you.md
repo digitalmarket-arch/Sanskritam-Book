@@ -17,7 +17,7 @@ prerequisites: [v2.c01.l01]
 review_of: [v2.c01.l01, v1.c06.l02]
 objectives:
   - en: "Conduct the classical wellness exchange — ask अपि कुशलम्? and answer कुशलम्! or सर्वम् कुशलम्! — in pause form, question rising and answer settling."
-    hi: "शास्त्रीय कुशल-प्रश्न चलाएँ — अपि कुशलम्? पूछें और कुशलम्! या सर्वम् कुशलम्! उत्तर दें — ठहराव-रूप में, प्रश्न चढ़ता हुआ और उत्तर ठहरता हुआ।"
+    hi: "शास्त्रीय कुशल-प्रश्न चलाएँ — अपि कुशलम्? पूछें और कुशलम्! या सर्वम् कुशलम्! उत्तर दें — विराम-रूप में, प्रश्न चढ़ता हुआ और उत्तर ठहरता हुआ।"
   - en: "Ask the personal form त्वम् कुशली? / भवान् कुशली? of a boy or man, answer अहम् कुशली as a male speaker, and give the neuter answer कुशलम् that is right for every speaker."
     hi: "लड़के या पुरुष से व्यक्तिगत रूप त्वम् कुशली? / भवान् कुशली? पूछें, पुरुष वक्ता के रूप में अहम् कुशली उत्तर दें, और वह उत्तर कुशलम् दें जो हर वक्ता के लिए सही है।"
   - en: "Ask 'how?' with कथम् — कथम् अस्ति विद्यालयः? — and recite the completed question kit कः · का · किम् · कुतः · कथम्."
@@ -62,7 +62,7 @@ simply hand the question back: कुशलम्!
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Conduct the classical wellness exchange — ask अपि कुशलम्? and answer कुशलम्! or सर्वम् कुशलम्! — in pause form, question rising and answer settling. | शास्त्रीय कुशल-प्रश्न चलाएँ — अपि कुशलम्? पूछें और कुशलम्! या सर्वम् कुशलम्! उत्तर दें — ठहराव-रूप में, प्रश्न चढ़ता हुआ और उत्तर ठहरता हुआ। |
+| 1 | Conduct the classical wellness exchange — ask अपि कुशलम्? and answer कुशलम्! or सर्वम् कुशलम्! — in pause form, question rising and answer settling. | शास्त्रीय कुशल-प्रश्न चलाएँ — अपि कुशलम्? पूछें और कुशलम्! या सर्वम् कुशलम्! उत्तर दें — विराम-रूप में, प्रश्न चढ़ता हुआ और उत्तर ठहरता हुआ। |
 | 2 | Ask the personal form त्वम् कुशली? / भवान् कुशली? of a boy or man, answer अहम् कुशली as a male speaker, and give the neuter answer कुशलम् that is right for every speaker. | लड़के या पुरुष से व्यक्तिगत रूप त्वम् कुशली? / भवान् कुशली? पूछें, पुरुष वक्ता के रूप में अहम् कुशली उत्तर दें, और वह उत्तर कुशलम् दें जो हर वक्ता के लिए सही है। |
 | 3 | Ask 'how?' with कथम् — कथम् अस्ति विद्यालयः? — and recite the completed question kit कः · का · किम् · कुतः · कथम्. | कथम् से 'कैसे?' पूछें — कथम् अस्ति विद्यालयः? — और पूरी प्रश्न-किट कः · का · किम् · कुतः · कथम् सुनाएँ। |
 | 4 | Tell अपि's two jobs apart — X अपि 'X too' behind its word, sentence-initial अपि as the polite question mark — and use each correctly. | अपि के दोनों काम पहचानें — शब्द के पीछे X अपि यानी 'X भी', वाक्य के आरम्भ में अपि यानी विनम्र प्रश्न-चिह्न — और दोनों का सही प्रयोग करें। |
@@ -107,14 +107,14 @@ word family since Chapter 1 without noticing: प्रश्नाः has heade
 
 > **[FACT · तथ्यम्]** कुशल means "well-being, welfare" — and, as an adjective, "skilful,
 > in good order". The dictionaries record the greeting idiom directly from classical
-> usage: कुशलम् ते? "is it well with you?" — inquiry after kuśala as the standard
-> courteous question. [REF:apte1890 s.v. कुशल]
+> usage: कुशलम् ते "hail to thee!", a salutation, and asking after another's kuśala as
+> the standard courteous question. [REF:monierwilliams1899 s.v. कुशल] [REF:apte1890 s.v. कुशल]
 
 > **[HISTORY · इतिहासः]** The kuśala-inquiry is classical etiquette, not a modern
 > pleasantry in old clothes: in epic and classical narrative convention, characters who
 > meet ask after each other's well-being — the kuśala-question — before any other
 > business is spoken, and the dictionaries cite the formulas from exactly such passages.
-> [REF:apte1890 s.v. कुशल]
+> [REF:monierwilliams1899 s.v. कुशल] [REF:apte1890 s.v. कुशल]
 
 > **[TRADITION · परम्परा]** Traditional Sanskrit word-derivation (nirvacana) links कुशल
 > to कुश (kuśa), the sharp-edged sacred grass: कुशान् लाति (kuśān lāti), "one who takes
@@ -169,8 +169,8 @@ language, at once:
 (aham kuśalī.) "I am well." — मैं कुशल हूँ। (पुरुष वक्ता)
 
 One honest note: कुशली (kuśalī) is said by and of a man; the classical form for a female
-speaker is कुशलिनी (kuśalinī) — shown today, taught with the gender system later in this
-volume, exactly as छात्रा was mentioned and deferred in Chapter 6. The neuter कुशलम् is
+speaker is कुशलिनी (kuśalinī) — shown today, taught with the gender system in Volume 3,
+exactly as छात्रा was mentioned and deferred in Chapter 6. The neuter कुशलम् is
 every speaker's safe and fully classical answer. Nothing else about these frames is
 analyzed today — they are chunks, glossed whole, like every frame this course has handed
 you.
@@ -191,7 +191,7 @@ you.
 अब दो चेतावनियाँ। पहली: हिन्दी की आदत बीच का अ खा जाती है — कुशली को "कुश्ली" मत बोलिए;
 तीन पूरे अक्षर हैं — कु-श-ली — और अन्तिम ई लम्बी। कुशलम् में भी बीच के दोनों अ पूरे बोलिए।
 दूसरी: कुशली पुरुष के लिए है। स्त्री वक्ता का शास्त्रीय रूप कुशलिनी है — आज केवल देखने भर
-को; स्त्री-पुरुष रूपों की पूरी व्यवस्था इसी खण्ड में आगे आएगी। तब तक हर वक्ता का सही उत्तर
+को; स्त्री-पुरुष रूपों की पूरी व्यवस्था तीसरे खण्ड में आएगी। तब तक हर वक्ता का सही उत्तर
 एक ही है — कुशलम्! यह कोई समझौता नहीं है; यह बिल्कुल शुद्ध, शास्त्रीय उत्तर है।
 
 और आज का असली काम वही है जो पिछली बार था: यह पाठ बोलने का है। प्रश्न चढ़ाकर पूछिए, उत्तर
@@ -228,7 +228,7 @@ Now the honest line, kindly meant: कुशली is a *gendered* form — it f
 or addressee. The classical form for a female speaker is **कुशलिनी** (kuśalinī) —
 display only today, exactly as छात्रा was mentioned and deferred in Chapter 6; the
 respectful भवती (bhavatī) for addressing a woman waits in the same room. The gender
-system is this volume's later business, and we will not half-teach it now. Until then,
+system is Volume 3's business, and we will not half-teach it now. Until then,
 every speaker — boy, girl, man, woman — owns the perfect, fully classical answer:
 **कुशलम्!** The neuter answers for the *situation*, so it answers for everyone. Drill it
 first; reach for it whenever in doubt.
@@ -334,7 +334,7 @@ these transcriptions.
    instant.
 4. **A gendered answer from the wrong speaker.** A girl answering अहम् कुशली (or being
    made to). *Fix:* कुशलम्! is everyone's answer — fully classical, never a compromise;
-   कुशलिनी is display until the gender system arrives later this volume.
+   कुशलिनी is display until the gender system arrives in Volume 3.
 5. **The flat अपि-question.** अपि कुशलम् said level sounds like a broken statement.
    *Fix:* it is a yes/no question — the rise stays, exactly as in त्वम् अपि छात्रः?
    (§9 drill 1).
@@ -400,7 +400,7 @@ Counting, honestly: four rows drilled, three ledger-new — सर्वम् i
 v1.c05.l04, so the upgrade does not increment the ledger, exactly like lesson 1's
 भद्रम्; the chapter ledger is reconciled at review as always. Not in
 the table on purpose: कुशलिनी (display, §8) — mentioned, glossed, never assessed, seated
-properly with the gender system later this volume. Reading protocol as ever: block by
+properly with the gender system in Volume 3. Reading protocol as ever: block by
 block (कु-श-ली, स-र्वम्), then the whole word, then the audio — and the frame words
 practiced *in* their frames: अपि कुशलम्? — कुशलम्!
 
@@ -441,7 +441,7 @@ is the whole apparatus of asking, as of today.
 
 कुशली is the masculine form of its word; कुशलिनी the feminine; कुशलम् the neuter of the
 plain adjective — and *why* those shapes are what they are is the gender system's story,
-told properly later in this volume. Today's working rules are chunks: use कुशली of a
+told properly in Volume 3. Today's working rules are chunks: use कुशली of a
 boy or man; if you are a male speaker, answer with it; every speaker answers safely with
 कुशलम्. This mirrors Chapter 6's छात्रा handling exactly: honest mention, no
 half-teaching, full seat later.
@@ -680,7 +680,7 @@ dictation start + homework briefing (4).
 **The gender question is coming — have the honest script ready.** A girl will ask why
 she cannot say अहम् कुशली. Answer exactly what the course prints: कुशली is the
 masculine form; the classical feminine कुशलिनी exists and is on the board today as
-display; the full system arrives later this volume with proper seats for कुशलिनी, भवती
+display; the full system arrives in Volume 3 with proper seats for कुशलिनी, भवती
 and छात्रा; and कुशलम् is not a consolation prize — it is the fully classical answer
 every speaker uses. Never "you can't" — always "here is yours today, and here is what
 is coming."
@@ -745,7 +745,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    flashback to विद्यालयः's "modern" chip from Volume 1.
 3. **The personal form (1:45–2:50):** त्वम् कुशली? / भवान् कुशली? sort onto the
    peer/respect pair from Chapter 6; अहम् कुशली answers; कुशलिनी appears in a display
-   case labeled "later this volume"; the badge "everyone's answer" lands on कुशलम्.
+   case labeled "Volume 3"; the badge "everyone's answer" lands on कुशलम्.
 4. **कथम् completes the kit (2:50–3:50):** the five question words line up — कः का
    किम् कुतः कथम् — level-tune bars over each; कथम् अस्ति विद्यालयः? plays out with a
    level line while अपि कुशलम्? replays with its rise; caption "the word asks, or the
@@ -774,7 +774,7 @@ narrator reads them as IPA, not as English spelling.
 - **02:00** The personal form: tvam kuśalī [t̪ʋɐm kuɕɐliː] — are you well? — to a boy;
   bhavān kuśalī [bʱɐʋɑːn̪ kuɕɐliː] to a man, with respect. A male speaker answers aham
   kuśalī [ɐɦɐm kuɕɐliː]. And every speaker owns the safe, fully classical answer:
-  kuśalam. The feminine forms take their proper seat later this volume.
+  kuśalam. The feminine forms take their proper seat in Volume 3.
 - **03:00** One more word completes the question kit: katham [kɐt̪ʰɐm] — how? katham
   asti vidyālayaḥ [kɐt̪ʰɐm ɐst̪i ʋid̪jɑːlɐjɐh] — how is the school? Mind the tha — a
   dental stop with breath, never the English th.
@@ -823,8 +823,8 @@ narrator reads them as IPA, not as English spelling.
   contrasts), v1.c06.l04 (सर्वे भवन्तु recited — the सर्व callback in §13); feeds
   v2.c01.l03 (day-cycle greetings), v2.c01.l04 (the courtesy ladder — thanks, apology,
   farewell; न कुशलम् negation patterns), v2.c01.l05 (role-card exam and register-label
-  cards), the Volume 2 gender chapters (कुशलिनी, भवती, छात्रा seated properly), and
-  Volume 3 (sandhi: the सर्वं कुशलम् seam previewed in §15).
+  cards), and Volume 3 (the gender system, with कुशलिनी, भवती, छात्रा seated properly;
+  sandhi: the सर्वं कुशलम् seam previewed in §15).
 - **Editorial decisions (resolved):** the research notes (§2) left the thanks formula's
   debut to this lesson or lesson 4 — resolved to **lesson 4** by cross-lesson
   coordination; it appears nowhere in this lesson, and vocabulary_count stays at the
@@ -833,7 +833,7 @@ narrator reads them as IPA, not as English spelling.
   reconciled at review as always. कुशलिनी and भवती are display-only (never in §14,
   never assessed), mirroring the छात्रा handling of v1.c06.l02.
 - **Verification flags for Pass C:** the sentence-initial interrogative अपि (§8, §15
-  FACT) against [REF:apte1890 s.v. अपि]; the कुशलम् ते idiom and the epic
+  FACT) against [REF:apte1890 s.v. अपि]; the अपि कुशलम् भवतः idiom and the epic
   kuśala-inquiry convention (§4 FACT + HISTORY) against [REF:apte1890 s.v. कुशल] —
   attach an epic locus (e.g. a Rāmāyaṇa kuśala-praśna passage) or soften the HISTORY
   block to TRADITION; the kuśa-grass derivation (§4 TRADITION) — confirm the कुश + ला
@@ -842,9 +842,8 @@ narrator reads them as IPA, not as English spelling.
   honestly; कुशली/कुशलिनी as masculine/feminine of the -इन् word and कुशलम् as the
   plain adjective's neuter (§15) — check against [REF:monierwilliams1899 s.v. कुशलिन्];
   विद्यालयः अपि कुशली (§17 line 6) is a deliberate joke — flag it so review does not
-  "correct" it, and confirm the agreement holds. **Cross-file note:** v2.c01.l01 is
-  drafted in parallel — until its file lands, the validator reports this lesson's
-  prerequisites/review_of ids as unresolved; no action needed here.
+  "correct" it, and confirm the agreement holds. **Cross-file note:** v2.c01.l01 has
+  landed; this lesson's prerequisites/review_of ids resolve.
 - **Glossary:** **कुशलप्रश्न (kuśalapraśna) is first-taught here** — add to GLOSSARY.md
   in the post-chapter loop (suggested hi gloss: कुशल-प्रश्न, हाल-चाल पूछना). Reuses
   संज्ञा per GLOSSARY.md; सम्भाषणम् remains the §16 section label only, as in all

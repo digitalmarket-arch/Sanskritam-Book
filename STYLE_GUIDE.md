@@ -134,7 +134,7 @@ Format — labeled blockquote callouts, exact syntax:
 
 ```markdown
 > **[FACT · तथ्यम्]** अ /ɐ/ is a near-open central vowel articulated with the tongue at rest.
-> [REF:whitney1889 §19]
+> [REF:whitney1889 §21]
 
 > **[HISTORY · इतिहासः]** The oldest Sanskrit text, the Ṛgveda, was composed c. 1500–1200 BCE
 > on the scholarly consensus dating. [REF:jamison2014 p.5]

@@ -437,7 +437,7 @@ the whole word becomes readable in Chapter 5, when the virāma arrives for its f
 
 कथा — why a tradition would bow to its easiest sound.
 
-Sanskrit literature saves one of its most famous self-descriptions for अ. In the Bhagavad
+Sanskrit literature has a famous line about अ. In the Bhagavad
 Gītā, in the chapter where Kṛṣṇa names the foremost of every class of things — of mountains,
 of rivers, of seasons — he comes to speech itself:
 
@@ -736,8 +736,8 @@ narrator reads them as IPA, not as English spelling.
   (आ, ā-mātrā, letters त ल, first readable words incl. कमल, माता), v1.c01.l05 (dictation and
   reading-aloud tasks reused in assessment); क and म get full varga treatment in v1.c03;
   virāma mechanics in v1.c05; ऋ/ृ (needed to read अमृत) in v1.c02.
-- **Glossary flags:** "अन्तर्निहित स्वर (inherent vowel)" used in §7/§15 — candidate for
-  GLOSSARY.md addition with first-taught v1.c01.l03; ह्रस्व/दीर्घ deliberately NOT named here
+- **Glossary flags:** "अन्तर्निहित स्वर (inherent vowel)" used in §7/§15 — listed in
+  GLOSSARY.md with first-taught v1.c01.l03 — consistent; ह्रस्व/दीर्घ deliberately NOT named here
   (GLOSSARY first-taught v1.c01.l04) — §9 length preview stays terminology-free.
 - **Pass C flags resolved:** Whitney §22 states the a-vowels' frequency (about twice all
   other vowels and diphthongs together; exact counts in §75), so the §§19–22 citations in

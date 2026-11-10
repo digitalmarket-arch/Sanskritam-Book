@@ -137,7 +137,7 @@ live text. Today's lesson is the parts list for that machine — no sandhi drill
 > **[FACT · तथ्यम्]** ए = /eː/ — a mid front unrounded vowel, always long: the front of the
 > tongue raised to mid height, lips gently spread, and every articulator held still for the
 > vowel's full two-mātrā duration. Sanskrit has no short e.
-> [REF:whitney1889 §27] [REF:ladefoged2015]
+> [REF:whitney1889 §§28, 77] [REF:ladefoged2015]
 
 > **[FACT · तथ्यम्]** ऐ = /ɐi̯/ — a diphthong: a single syllable in which the tongue starts
 > at /ɐ/ (exactly the अ position) and glides toward /i/. Its total duration is two mātrās,
@@ -629,8 +629,8 @@ where you and the model differ.
 7. (a) एक = "one"; (b) केतु = "banner, comet".
 8. तेल reads *tela* — the े replaced the ै, so the glide अ→इ collapsed into a pure long e.
    The written contrast lost is one stroke; the spoken contrast lost is the whole journey
-   (§12 mistake 2 for the lost journey; §15 for the lost stroke — and, as it happens, exactly the change history made on the way
-   to Hindi तेल; Sanskrit keeps तैल).
+   (§12 mistake 2 for the lost journey; §15 for the lost stroke). As it happens, this is
+   exactly the change history made on the way to Hindi तेल; Sanskrit keeps तैल.
 </details>
 
 ## 20. Revision
@@ -814,8 +814,8 @@ narrator reads them as IPA, not as English spelling.
   vṛddhi [ʋr̩d̪d̪ʱi]. Your kitchen still says it: Hindi tel is taila, worn smooth by time.
 - **05:20** Tonight: the half-cut test. One recording, one cut, no mercy. Your e [eː] should
   be the same vowel in both halves.
-- **05:40** Next lesson: o [oː] and au [ɐu̯] — the other two junction vowels — and the most
-  famous syllable in India, read honestly. eka [eːkɐ]. taila [t̪ɐi̯lɐ]. Hold one, ride the
+- **05:40** Next lesson: o [oː] and au [ɐu̯] — the other two junction vowels — and the
+  syllable om [oːm], read honestly. eka [eːkɐ]. taila [t̪ɐi̯lɐ]. Hold one, ride the
   other.
 
 ## 26. Reel Script
@@ -823,8 +823,8 @@ narrator reads them as IPA, not as English spelling.
 40–50 seconds, vertical, captions burned in.
 
 - **Hook (0:00–0:08):** extreme close-up, presenter: "Say 'hey' in slow motion.
-  Feel your tongue slide? Sanskrit noticed that slide 2,500 years before your English
-  teacher didn't." (Caption: hey = [eɪ] — it MOVES.)
+  Feel your tongue slide? Sanskrit's grammarians noticed that slide over two thousand years before
+  your English teacher didn't." (Caption: hey = [eɪ] — it MOVES.)
 - **Demo (0:08–0:30):** phone screen-record: presenter records ए, cuts the clip in half,
   plays both halves — identical. "That's Sanskrit ए — a vowel frozen solid. And when
   Sanskrit *wants* the slide, it writes a different letter:" on-screen के → कै, one stroke
@@ -862,9 +862,8 @@ narrator reads them as IPA, not as English spelling.
   (t̪, i̯, r̩) — NFC normalization applies to Devanagari fields only (STYLE_GUIDE §3), never
   to IPA; §17 bold markers = "readable now" flags → `readable: true` spans; 🔊 glue words in
   §16–§17 map to `audio_only: true`; the counting-style honesty note in §16 must survive
-  export next to the dialogue, not as a footnote. Validator note: prerequisites/review_of
-  ids v1.c02.l02–l03 resolve once the sibling lesson files land (chapter drafted in
-  parallel).
+  export next to the dialogue, not as a footnote. Prerequisite/review ids v1.c02.l02–l03
+  resolve.
 - **Register audit:** FACT ×4 (§5 ×2, §13, §15) · HISTORY ×1 (§4) · TRADITION ×1 (§4) ·
   SYMBOL ×0 (केतु's comet/astronomical senses appear only as dictionary glosses; no deity,
   energy or cosmic claims made; nothing symbolic assessed).

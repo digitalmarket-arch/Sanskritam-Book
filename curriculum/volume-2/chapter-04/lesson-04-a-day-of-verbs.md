@@ -17,7 +17,7 @@ prerequisites: [v2.c04.l03]
 review_of: [v2.c04.l03, v1.c06.l03, v2.c03.l03]
 objectives:
   - en: "Read the day-of-verbs passage — twelve sentences about अर्जुनः's day — aloud in pause form at three speeds (slow, natural, timed), logging every run and reaching the timed target with full finals and every person ending intact."
-    hi: "क्रिया-कथा — अर्जुन के दिन के बारह वाक्य — विराम-रूप में तीन रफ़्तारों (धीमी, सहज, समयबद्ध) पर ज़ोर से पढ़ें; हर पाठ का समय दर्ज करें और पूरे अन्त्य स्वरों तथा हर पुरुष-अन्त को साबुत रखते हुए लक्ष्य-समय तक पहुँचें।"
+    hi: "क्रिया-कथा — अर्जुन के दिन के बारह वाक्य — विराम-रूप में तीन रफ़्तारों (धीमी, सहज, समयबद्ध) पर ज़ोर से पढ़ें; हर पाठ का समय दर्ज करें और पूरे अन्त्य वर्णों तथा हर पुरुष-अन्त को साबुत रखते हुए लक्ष्य-समय तक पहुँचें।"
   - en: "Name the person of every verb in the passage from its ending — the boy in the he-form (-ति), his self-talk in the I-form (-मि), the reader-question in the you-form (-षि) — and catch a planted -मि/-ति swap at reading speed."
     hi: "अनुच्छेद की हर क्रिया का पुरुष उसके अन्त से पहचानें — बालक वह-रूप (-ति) में, उसका स्वगत-कथन मैं-रूप (-मि) में, पाठक से प्रश्न तुम-रूप (-षि) में — और पढ़ने की रफ़्तार पर छिपाई गई -मि/-ति की अदला-बदली पकड़ें।"
   - en: "Answer Sanskrit comprehension questions on the passage with the owned question words — कः? किम्? कुत्र? कति? किम् करोति? — in full Sanskrit sentences, and answer the passage's own question त्वम् किम् करोषि? truthfully in the I-form."
@@ -63,7 +63,7 @@ it tells you who is doing what.
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Read the twelve-sentence day passage aloud in pause form at three speeds — slow, natural, timed — logging every run and reaching the timed target with full finals and every person ending intact. | बारह वाक्यों की दिन-कथा तीन रफ़्तारों पर पढ़ें, हर पाठ दर्ज करें; पूरे अन्त्य स्वर और साबुत पुरुष-अन्त के साथ लक्ष्य-समय तक पहुँचें। |
+| 1 | Read the twelve-sentence day passage aloud in pause form at three speeds — slow, natural, timed — logging every run and reaching the timed target with full finals and every person ending intact. | बारह वाक्यों की दिन-कथा तीन रफ़्तारों पर पढ़ें, हर पाठ दर्ज करें; पूरे अन्त्य वर्ण और साबुत पुरुष-अन्त के साथ लक्ष्य-समय तक पहुँचें। |
 | 2 | Name the person of every verb from its ending — he-form, I-form, you-form — and catch a planted -मि/-ति swap at reading speed. | हर क्रिया का पुरुष उसके अन्त से पहचानें, और छिपाई गई -मि/-ति अदला-बदली पकड़ें। |
 | 3 | Answer Sanskrit comprehension questions with कः? किम्? कुत्र? कति? किम् करोति? in full sentences, and answer त्वम् किम् करोषि? truthfully in the I-form. | अपने प्रश्न-शब्दों वाले प्रश्नों के पूरे संस्कृत उत्तर दें; त्वम् किम् करोषि? का सच्चा मैं-रूप उत्तर दें। |
 | 4 | Retell the passage for a girl — बालिका and सा, verbs unchanged — and draft a six-sentence first-person मम दिनम् for the chapter exam. | कथा बालिका के लिए दोबारा कहें — क्रियाएँ ज्यों की त्यों; परीक्षा के लिए छह वाक्यों का मम दिनम् तैयार करें। |
@@ -141,10 +141,11 @@ and the course reads it as one whole compound today: क्रिया + कथ
 nothing from. The chapter's own title, क्रियाः, is the first word's plural — again
 read-only; plurals belong to Volume 3.
 
-One line of course history: the 1.x curriculum never asked a learner to read connected
-Sanskrit that used the verb pattern — its verb tables arrived without texts to read them
-in. This passage is that missing step, placed exactly where it belongs: after the pattern
-is owned, before the exam asks you to narrate your own day with it.
+One line of course history: the 1.x curriculum moved from its present-tense verb table
+straight to past and future forms, and its first stories came chapters later, after verses
+with untaught sandhi. This passage is the reading step that sequence skipped, placed where
+it belongs: after the pattern is owned, before the exam asks you to narrate your own day
+with it.
 
 ## 5. Scientific Explanation
 
@@ -234,9 +235,10 @@ page labels who is speaking. The ending does.
 
 ### The quote frame — how a *he* says *I*
 
-Lines 5 and 6 open with a speaking verb and a dash: सः वदति — अहम् लिखामि। "He says:
-I am writing." The dash opens the boy's own words, so the अहम् inside them is अर्जुनः,
-not you — the same device the course has used since v1.c04.l01's story (कविः वदति — जय!).
+Lines 5 and 6 open with a verb and a dash — line 5 with a speaking verb: सः वदति — अहम्
+लिखामि। "He says: I am writing." The dash opens the boy's own words, so the अहम् inside
+them is अर्जुनः, not you — the same device the course has used since v1.c04.l01's story
+(कविः वदति — जय!).
 Line 6 swaps in a different opener, सः हसति — "he laughs:" — and the same rule holds.
 Spot the dash, switch the speaker, read the ending.
 
@@ -261,8 +263,8 @@ differently — l01, l02), and करोषि is a whole word from lesson 3's c
 ### The objects — whole words, as always
 
 विद्यालयम्, पुस्तकम्, संस्कृतम्, अन्नम्, गृहम्, क्षीरम्: every object in the passage
-wears म्, and every one is glossed whole — "to school", "a book", "food", "home",
-"milk". The ending system that explains the म् is Volume 3's subject (v1.c06.l03 §15);
+wears म्, and every one is glossed whole — "to school", "a book", "Sanskrit", "food",
+"home", "milk". The ending system that explains the म् is Volume 3's subject (v1.c06.l03 §15);
 today nothing about it is taught, and nothing needs to be.
 
 ### The female mirror
@@ -414,9 +416,10 @@ he-form: अर्जुनः लिखति। — exactly the move §16's te
 
 जानामि is a whole-word row (जानाति builds its stem differently — v2.c04.l01–l02); read
 its ending, never build it. One recall line and no more: जानाति already has its shelf —
-जानाति, English *know* and Greek *gnṓsis* are siblings by descent, nobody borrowed
-(v2.c04.l01 §13). No other word in the passage gets a cognate line today, because none
-has one this course has verified — honesty beats reaching.
+जानाति, English *know* and Greek *gnōsis* are siblings by descent, nobody borrowed
+(v2.c04.l01 §13). The passage's other verified siblings stay on their own shelves today —
+पिबति ~ Latin *bibit* (v2.c04.l01 §13), अहम् ~ Latin *ego* ~ English *I* (v1.c05.l01
+§13); today's work is the endings, not the cognates.
 
 ### त्वम् किम् करोषि? — the you-form, pointed outward
 
@@ -442,7 +445,7 @@ Audio: 🔊 `planned:assets/audio/volume-2/v2c04l04-passage-three-speeds.mp3`.
 | विद्यालयम् | vidyālayam | /ʋid̪jɑːlɐjɐm/ | to school | विद्यालय की ओर | विद्यालयः v1.c06.l01; this म्-form glossed whole since v1.c06.l03 |
 | गच्छति | gacchati | /gɐt͡ɕt͡ɕʰɐt̪i/ | goes | जाता है | v2.c04.l01; lines 2, 10 — where v1.c06.l03 had चलति |
 | सः | saḥ | /sɐh/ | he | वह | v1.c06.l03; the thread from line 3 on |
-| पुस्तकम् | pustakam | /pust̪ɐkɐm/ | a book | पुस्तक | पुस्तक v1.c06.l03; म्-form glossed whole |
+| पुस्तकम् | pustakam | /pust̪ɐkɐm/ | a book | पुस्तक | v1.c06.l03, a headword in this म्-dress (stem पुस्तक) |
 | पठति | paṭhati | /pɐʈʰɐt̪i/ | reads | पढ़ता है | v1.c06.l03; bank veteran |
 | संस्कृतम् | saṃskṛtam | /sɐ̃skr̩t̪ɐm/ | Sanskrit | संस्कृत | v1.c01.l01, v1.c06.l01 |
 | वदति | vadati | /ʋɐd̪ɐt̪i/ | says, speaks | कहता है | v1.c04.l01; the quote opener, line 5 |
@@ -570,7 +573,8 @@ reported back in the he-form (कः लिखति? — अर्जुनः 
 the कुत्र and किम् questions are frames, exactly as v2.c03.l03 used them; no locative is
 needed or taught. कति? is answered bare, the v2.c03.l02 way. And the last exchange is the
 reader-question come to life: asked in the you-form, answered truthfully in the I-form —
-with माया borrowing अर्जुनः's own triumph, अपि and all.
+with माया borrowing अर्जुनः's own triumph (line 6) and adding अपि "too", as the first
+passage's last line did.
 
 ## 17. Story
 
@@ -681,13 +685,13 @@ sentences of your मम दिनम् (§21).
 1. In line 5, सः वदति — अहम् लिखामि, the word अहम् refers to: (a) the reader (b) अर्जुनः
    — the dash opens his own words (c) the teacher (d) nobody — it is a misprint
 2. The ending of करोषि in line 8 tells you the sentence is addressed to: (a) अर्जुनः
-   (b) the reader — the you-form (c) the boy talking to himself (d) a group of people
+   (b) the boy talking to himself (c) a group of people (d) the reader — the you-form
 3. Read at speed, लिखामि comes out as लिखति. What has changed? (a) nothing — both mean
    "writes" (b) the person: "I write" has become "he writes" — the doer changed (c) the
    tense (d) the object
-4. The I-form लिखामि differs from the he-form लिखति in: (a) only the last vowel (b) two
-   places — a long आ before the ending, and म where the he-form has त (c) the first
-   syllable (d) nothing audible
+4. The I-form लिखामि differs from the he-form लिखति in: (a) only the last vowel (b) the
+   first syllable (c) two places — a long आ before the ending, and म where the he-form has
+   त (d) nothing audible
 5. A girl reads line 5 as her own sentence. The verb लिखामि: (a) takes a feminine
    ending, as Hindi लिखती does (b) stays exactly the same — the Sanskrit present verb
    marks person, not gender; only सः becomes सा in the story (c) becomes लिखति (d) needs
@@ -696,31 +700,33 @@ sentences of your मम दिनम् (§21).
    plural ending (b) अर्जुनः माया च गच्छति। (c) one doer per sentence — अर्जुनः गृहम्
    गच्छति। माया अपि गृहम् गच्छति। — plural forms come in Volume 3 (d) अर्जुनः माया
    गच्छामि।
-7. सायम् अर्जुनः कुत्र गच्छति? — the passage's answer: (a) सः विद्यालयम् गच्छति।
-   (b) सः गृहम् गच्छति। (c) सः क्षीरम् पिबति। (d) अहम् गृहम् गच्छामि।
+7. सायम् अर्जुनः कुत्र गच्छति? — the passage's answer: (a) सः गृहम् गच्छति।
+   (b) सः विद्यालयम् गच्छति। (c) सः क्षीरम् पिबति। (d) अहम् गृहम् गच्छामि।
 8. The passage asks you त्वम् किम् करोषि? A person-correct answer is: (a) अहम् पठति।
    (b) अहम् पठामि। (c) त्वम् पठसि। (d) सः पठति।
-9. विद्यालयम्, पुस्तकम्, अन्नम्, गृहम्, क्षीरम् all end in म् because: (a) a word's
-   ending shifts with its role — they are glossed whole, and the system is Volume 3's
-   (b) they are plural forms (c) they are verbs (d) म् marks the past tense
-10. जानामि in line 6 is: (a) built from a regular stem plus -आमि, like लिखामि (b) a
-    whole-word row — जानाति builds its stem differently, so its forms are read, not
-    built (c) a new word this lesson (d) the you-form of जानाति
+9. विद्यालयम्, पुस्तकम्, अन्नम्, गृहम्, क्षीरम् all end in म्. The course's account so far:
+   (a) they are glossed whole — विद्यालयः takes म् in this role, while neuters like पुस्तकम्
+   wear म् as subject and object alike; the system is Volume 3's (b) they are plural forms
+   (c) they are verbs (d) म् marks the past tense
+10. जानामि in line 6 is: (a) built from a regular stem plus -आमि, like लिखामि (b) a new
+    word this lesson (c) the you-form of जानाति (d) a whole-word row — जानाति builds its
+    stem differently, so its forms are read, not built
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
 1. (b) — the dash opens the boy's words; the I inside is अर्जुनः (§8, §15). ((a) is §12
    mistake 2.)
-2. (b) — -षि is the you-form of the करोति row (§8, §17). ((a) is §12 mistake 3's root.)
+2. (d) — -षि is the you-form of the करोति row (§8, §17). ((a) is §12 mistake 3's root.)
 3. (b) — a skimmed ending is a changed doer (§12 mistake 1, §15 point 1).
-4. (b) — long /ɑː/ and bilabial /m/ against short /ɐ/ and dental /t̪/ (§10, §11).
+4. (c) — long /ɑː/ and bilabial /m/ against short /ɐ/ and dental /t̪/ (§10, §11).
 5. (b) — person, not gender (§15 point 2); the mirror line in §17.
 6. (c) — singular only; two doers, two sentences (§12 mistake 5, §15 fence). ((b) puts
    two doers on one singular verb; (d) adds a person mismatch.)
-7. (b) — line 10. ((a) is the morning; (c) answers किम्, not कुत्र.)
+7. (a) — line 10. ((b) is the morning; (c) answers किम्, not कुत्र.)
 8. (b) — you-form in, I-form out. ((a) is the flagged mismatch, §12 mistake 4.)
-9. (a) — whole-word glosses; the ending system is Volume 3's (§8, §15 fence).
-10. (b) — a whole-word row (§8, §13, §14). ((d): the you-form is जानासि.)
+9. (a) — whole-word glosses; the ending system is Volume 3's (§8, §15 fence; v1.c06.l03
+   §15). Not every म् marks an object: प्रभातम् wears it as the subject of line 1.
+10. (d) — a whole-word row (§8, §13, §14). ((c): the you-form is जानासि.)
 
 **Exercise keys and models.**
 
@@ -864,7 +870,8 @@ spec)**
 > three-speed log — rows slow ×1, natural ×2, timed ×3, plus "+1 day natural (exam
 > Station 0)"; columns date, time, "finals full?", "endings intact?". Block 2: the person
 > hunt — fourteen verb boxes with I / you / he tick columns. Block 3: four ruled
-> Devanagari dictation rows. Block 4: the mirror story — twelve ruled rows headed बालिका.
+> Devanagari dictation rows. Block 4: the mirror story — thirteen ruled rows headed
+> बालिका, the twelve lines plus your added line.
 > Block 5: **मम दिनम्** — six numbered rows beginning अहम् …, with the §21 seed list
 > printed in a side column (frames · build · recall · objects). Footer chants: "the
 > ending says who" · "simplest correct beats ambitious wrong".
@@ -945,8 +952,8 @@ narrator reads the cue, not the English spelling.
     with a printed transcript.
   - `assets/audio/volume-2/v2c04l04-comprehension-dialogue.mp3` — §16 dialogue, level
     tune on every question-word question.
-  - `assets/worksheets/volume-2/v2c04l04-reading-log.pdf` — §18 exercises 2–6 and the
-    §21 मम दिनम् draft; layout spec in §23 asset 2.
+  - `assets/worksheets/volume-2/v2c04l04-reading-log.pdf` — §18 exercises 2, 3, 5 and 6
+    and the §21 मम दिनम् draft; layout spec in §23 asset 2.
 - **Related lessons:** Station 0 runs v2.c04.l03 §20's +1-day booking verbatim (§3);
   reviews v1.c06.l03 (the first passage — its line 6 quoted as today's line 4; its
   चलति replaced by गच्छति; the three-speed protocol inherited) and v2.c03.l03 (the clock
@@ -984,8 +991,8 @@ narrator reads the cue, not the English spelling.
   इति as the quotation closer — against [REF:whitney1889], cited bare pending §
   locators; the fluency claim (§5) against [REF:nation2013]; the 45-second timed target
   for 35 words is a course benchmark carried over from v1.c06.l03, not a research claim;
-  no cognate claim is made for any passage word except the recalled जानाति line, which
-  is cited in v2.c04.l01 §13 and not re-argued; every passage word traced to its §14
+  no new cognate claim is made for any passage word: §13 recalls the जानाति line and
+  points to the पिबति and अहम् shelves, each cited in its home lesson and not re-argued; every passage word traced to its §14
   source row (repo grep, at drafting). All §10/§14 IPA diffed cell-by-cell against
   STYLE_GUIDE §2 (Pass A).
 - **Register audit:** FACT ×4 (§4 क्रिया/कथा ×1 · §5 fluency strand + testing effect ×2

@@ -93,9 +93,9 @@ Status change: v1.c02 lessons 01–07 `draft` → `reviewed`.
 | ङ ञ ठ ड ढ ण frequency honesty (initial rarity, internal frequency) | [REF:apte1890] survey | ✅ | l01–l03 §8 |
 | खग = ख "sky" + ग bound "going" | [REF:apte1890 s.v. खग] | ✅ FACT | l01 §13 |
 | मधु ~ mead ~ méthu (PIE) | [REF:mallory2006] | ✅ | l04 §13 |
-| पथ ~ path (PIE kin) | [REF:mallory2006] | ✅ | l05 §13 |
+| पथ ~ path (PIE kin) — superseded at audit: English *path* is not a regular cognate; पथ's kin are Lat. *pōns*, Gk *póntos* (note added at the 2026-11-10 sweep) | [REF:mallory2006], [REF:oed s.v. path] | ❌ corrected | l05 §13 |
 | Pause-form convention for V1 sentences (sandhi deferred to V3) | Whitney (pada-pāṭha style); course decision documented | ✅ FACT-framed | l05 §8, l02 §13 |
-| All ch3 words attested (55 across l01–l05 lists) | [REF:apte1890], [REF:monierwilliams1899] | ✅ | l06 §14 cumulative |
+| All ch3 words attested (60 entries across l01–l05 lists: 59 words + the ञ letter-entry; count corrected at the 2026-11-10 sweep) | [REF:apte1890], [REF:monierwilliams1899] | ✅ | l06 §14 cumulative |
 
 ## Review-pass findings — v1.c03 (2026-07-30)
 
@@ -138,9 +138,9 @@ Status change: v1.c04 lessons 01–04 `draft` → `reviewed`.
 
 | Claim | Source | Verdict | Used in |
 |---|---|---|---|
-| Virāma silences inherent vowel; word-final bare consonants written with it; हलन्त naming | [REF:whitney1889 §9]; [REF:masica1991 ch.6]; [REF:apte1890 s.v. हल्] | ✅ | l01 §4–5, §15 |
+| Virāma silences inherent vowel; word-final bare consonants written with it; हलन्त naming | [REF:whitney1889 §9]; [REF:masica1991 ch.6]; [REF:apte1890 s.v. विराम]; [REF:monierwilliams1899 s.v. हलन्त] | ✅ | l01 §4–5, §15 |
 | अहम् ~ Latin *ego* ~ English *I* (PIE first-person pronoun, cognates not loans) | [REF:mallory2006] | ✅ | l01 §13 |
-| जगत् connected with √गम् "go" ("the moving one") | [REF:apte1890 s.v. जगत्] | ✅ (presented as dictionary connection, one line) | l01 §13 |
+| जगत् connected with √गम् "go" ("the moving one") | [REF:monierwilliams1899 s.v. जगत्] | ✅ (presented as dictionary connection, one line) | l01 §13 |
 | अहम् वदामि → अहं वदामि in connected speech (म्→ं sandhi habit) — honest deferral to V3 | [REF:whitney1889 §§213–214 range not verified offline — claim kept § -free as course convention note] | ✅ framing | l01 §6, §19 Q8 |
 | Akṣara as script unit; conjunct = reduced non-final + full final carrying vowel | [REF:masica1991 ch.6] | ✅ | l02 §4–5, §15 |
 | Brāhmī family attested from Aśokan inscriptions (3rd c. BCE); clusters fused from earliest records | [REF:masica1991 ch.6] | ✅ | l02 §4 HISTORY |
@@ -297,7 +297,7 @@ Status change: v2.c02 lessons 01–05 `draft` → `reviewed`.
 | Task D final card set: nine cards incl. the both-directions card "dharma went Sanskrit→English; होरा went Greek→Sanskrit" (card 8, replacing the redundant दश~decem card) per chapter.md's Assessment promise; fact base §5's six-card sketch superseded — recorded here, notes left frozen | fact base §5; chapter.md | ✅ | l05 §18 |
 | Arrow-naming convention: cards name an arrow by its ORIGIN — dharma = arrow east, होरा = arrow west ("name the arrow by where it comes from"); geographic travel prose reconciled with explicit clauses | v2.c02.l05 precedent | ✅ stated at first use in l03 §13 and l05 §8; l03 §22–§25 and l05 §24 aligned; l05 §13's label-free travel prose left as compatible | l03, l05 |
 
-## Review-pass findings — v2.c03 (2026-08-04)
+## Review-pass findings — v2.c03 (2026-10-20)
 
 | Pass | Finding | Resolution |
 |---|---|---|
@@ -320,7 +320,7 @@ Status change: v2.c03 lessons 01–05 `draft` → `reviewed`.
 | Classical Sanskrit closes quotations with इति | [REF:whitney1889] | ✅ one framing line in l04 so the dash is not taken for Sanskrit punctuation | l04 §15 |
 | Ledger chain 305 → 312 → 313 → 316 → 316 (11 ledger-new) | prescribed in drafting specs | ✅ held across all five lessons; l05's provisional notes firmed at review | all |
 
-## Review-pass findings — v2.c04 (2026-08-06)
+## Review-pass findings — v2.c04 (2026-10-22)
 
 | Pass | Finding | Resolution |
 |---|---|---|

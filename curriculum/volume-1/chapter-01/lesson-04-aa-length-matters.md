@@ -134,7 +134,7 @@ teaches both, on purpose, together.
 
 > **[FACT · तथ्यम्]** आ = /ɑː/ — an open back unrounded vowel, held long: jaw low, tongue low
 > with the back slightly raised, lips neutral. Its duration is roughly twice that of hrasva
-> अ /ɐ/. [REF:whitney1889 §§19–22]
+> अ /ɐ/. [REF:whitney1889 §§19–22, 77]
 
 > **[FACT · तथ्यम्]** Phonemic vowel length — duration alone distinguishing words — is common
 > in the world's languages: Japanese, Finnish, Czech, Arabic and classical Latin all use it,
@@ -203,7 +203,7 @@ traditional terms arriving today: ह्रस्व (hrasva) "short", दीर
 
 लिखाई में आपके लिए नया कुछ नहीं, पर एक बात दोहरा लें: आ की मात्रा ा हमेशा व्यञ्जन *पूरा करने के बाद*,
 उसकी दाहिनी ओर। आपका हाथ यह अपने-आप करता है — कक्षा में अंग्रेज़ी-भाषी साथी हों तो यही उनकी
-सबसे बड़ी उलझन होगी (§12)। उनकी मदद कीजिए — समझाना याद रखने का सबसे अच्छा तरीक़ा है।
+सबसे बड़ी उलझन होगी (§12)। उनकी मदद कीजिए — समझाते हुए आपका अपना नियम भी पक्का होगा।
 
 आज का दिन ख़ास है: इस पाठ के अन्त तक आप बारह असली संस्कृत शब्द पढ़ रहे होंगे — माता, माला,
 कमल… यह अब "अक्षर-अभ्यास" नहीं, पढ़ना है।
@@ -460,8 +460,8 @@ against the audio. Every dīrgha gets its two beats; every final vowel is fully 
 
 ## 15. Grammar
 
-व्याकरणम् — in Volume 1 this is a **script rule**, and today's is the biggest one in the
-whole writing system.
+व्याकरणम् — in Volume 1 this is a **script rule**, and today's is the partner of lesson 3's
+inherent-vowel rule.
 
 ### The mātrā rule, formally
 
@@ -548,7 +548,7 @@ IAST, English, Hindi.
    कमला — मेरी माला! मेरी कमल-माला!
 
 Glue words 🔊: अत्र (atra) "here" — यहाँ; अस्ति (asti) "is" — है; पश्य (paśya) "look!" — देखो;
-आम् (ām) "yes" — हाँ; तव (tava) "your" — तुम्हारा. All contain conjuncts or letters not yet
+आम् (ām) "yes" — हाँ; तव (tava) "your" — तुम्हारा. All contain conjuncts, letters or signs not yet
 taught — learn them by ear; you will read them natively within a few chapters. Line 6 joins
 two §14 words into a compound (kamala + mālā "garland of lotuses") — a tiny preview of
 Sanskrit's compounding habit, treated properly in Volume 3.

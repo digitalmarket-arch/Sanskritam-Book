@@ -78,8 +78,8 @@ key [REF:roediger2006].
 
 ### Station 0 — chapter-internal spacing
 
-The four lessons' +1-day and +1-week schedules converge today [REF:cepeda2006]. This
-station runs exactly what l04 §20 booked: one item, three minutes, logged beside your
+The chapter's +1-day re-runs have chained lesson to lesson, and l04's lands today
+[REF:cepeda2006]. This station runs exactly what l04 §20 booked: one item, three minutes, logged beside your
 l04 recording.
 
 1. The market role-play once through with a partner, prices from the price-tag cards.
@@ -512,15 +512,15 @@ cards from l04's homework and run the conversation twice: first with card one in
 hand and card two in your partner's (or voice both people aloud), then swapped. Take the
 first run slowly with every seam open, and the second at natural pace.
 
-Then retell the scene in three to five he-form sentences. This points ahead to Chapter
+Then retell the scene in three to six he-form sentences. This points ahead to Chapter
 6's stories. Worked retelling, for comparison after your attempt: **अर्जुनः आपणम्
 गच्छति। सः फलम् इच्छति। सः वदति — कियत् मूल्यम्? अर्जुनः न अवगच्छति। सः वदति — भवान्
 पुनः वदतु। अर्जुनः हसति।**
 
 One gap shows while retelling: "Arjuna likes fruit" does not go into the he-form yet,
 because the liker would need a to-form of his name (l03 §12, §15). Retell wanting
-instead: सः फलम् इच्छति। (Retrieval plus recombination is the strongest rehearsal pair
-there is [REF:roediger2006].)
+instead: सः फलम् इच्छति। (Retrieval plus recombination — and retrieval
+practice beats re-reading for long-term retention [REF:roediger2006].)
 
 ## 18. Exercises
 
@@ -724,7 +724,7 @@ the room works A, B and D; D runs well in pairs who argue before writing) → de
 | B (6+1) | 5–6 + exchange intact | 4, or the exchange with one slip | seam vowels, split च्छ → l03 §9 drills, l01 §14 rows re-copied; dropped finals → §9 pause-form check |
 | C (7 moves) | all seven moves unprompted; bare price; the rush rescued; ≤2 slips | one move prompted or missing, or 3–4 slips | liking built from अहम् → l03 §15; dressed prices → l04 §15; froze at the rush → l02 §8 chain at speed; a skipped move → §18 move list as a cue card, re-run tomorrow |
 | D (9) | 7–9 reasoned | 5–6 | cards 1, 9 → l03 §5, §15; cards 2–3 → l01 §13; cards 4, 5, 8 → l02 §15; cards 6–7 → l01 §15, l04 §15 |
-| E (6) | six answers, each fitting its asker | 4–5 | asker misheard → l01 §15 and a task A re-run; plurals or describing words → §15 fences; silence → the chain, l02 §8 |
+| E (6) | 5–6 answers, each fitting its asker | 4 | asker misheard → l01 §15 and a task A re-run; plurals or describing words → §15 fences; silence → the chain, l02 §8 |
 
 Pass = every task at partial-or-better and quiz 7+/10. A task below partial re-runs
 tomorrow, after its remediation.
@@ -841,9 +841,9 @@ next." (End card: संवादः।)
   as prescribed by research/notes/vol2-ch5-conversation.md §6. The four sibling §14
   tables state the same steps (confirmed at review, Pass D). वदतु, अस्तु, ददातु count
   per STYLE_GUIDE §8 rule 4; रूप्यकम् and भवती are display-only (rule 5). STYLE_GUIDE
-  §8's canonical-exit list gains 328 when the chapter ships. §19's task keys are the
+  §8's canonical-exit list carries 328. §19's task keys are the
   single source for the audio and exam key files.
-- **Verification flags for Pass C:** cognate word pairs only on the two safe rows (§4,
+- **Verification flags for Pass C:** three-language word pairs only on the two safe rows (§4,
   D2, §19 Q2), against [REF:mallory2006]; the Hindi k-stem line (§5) stays a stem
   statement (notes §0.3); इच्छति ~ English *ask* appears nowhere (notes §0.8); Whitney
   cited bare; no time-depth figure for the reconstructed stem; 1.x paraphrased, never

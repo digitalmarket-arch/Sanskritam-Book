@@ -109,7 +109,7 @@ night have never needed replacing. The interesting history sits on the greetings
 > word, and this course says both. [REF:monierwilliams1899 s.v. suprabhāta]
 
 > **[TRADITION · परम्परा]** In temple practice a whole devotional genre bears this word's name:
-> the suprabhātam hymns — the Veṅkaṭeśa-suprabhātam of Tirumala is the most famous — recited
+> the suprabhātam hymns — the Veṅkaṭeśa-suprabhātam of Tirumala is a well-known example — recited
 > before dawn to waken the deity for the day's worship. A beloved living practice, noted as
 > practice.
 
@@ -124,7 +124,7 @@ greeting.
 
 > **[FACT · तथ्यम्]** Greetings are formulaic chunks: learned whole, retrieved whole, keyed to
 > their situations. Binding each chunk to its trigger — सुप्रभातम् to the morning, शुभरात्रिः to
-> the night — is how such routines are best learned, and timed retrieval on known material builds
+> the night — is how this course drills such routines, and timed retrieval on known material builds
 > the automaticity a real exchange demands. [REF:nation2013]
 
 > **[FACT · तथ्यम्]** A word's *formation* and a word's *use* are separate facts with separate
@@ -336,8 +336,8 @@ your pocket.
 > **[FACT · तथ्यम्]** Sanskrit दिन, Lithuanian *diena* and Old Church Slavonic *dĭnĭ* "day" are
 > siblings — parallel descendants of a shared Proto-Indo-European ancestor, cognates and not
 > loans in any direction. English *day*, despite the lookalike form and identical meaning, is
-> **not** part of this family: it descends from a different root entirely — the standard textbook
-> example of a false cognate. [REF:mallory2006]
+> **not** part of this family: it descends from a different root entirely — a lookalike that is
+> not a cognate. [REF:mallory2006]
 
 The v1.c01.l01 tool, another outing: *karma* was a loan, चक्र and *wheel* are cousins, पञ्च and
 *five* are cousins — and दिन/*day* is the pair that *looks* related and is not. Resemblance is
@@ -347,9 +347,9 @@ and English does not.
 ### The शुभ family — a wish and a calque
 
 - **शुभम्** (śubham) "may it be well" — the neuter of शुभ "auspicious, good" (v1.c04.l02)
-  standing alone as a blessing. Classical benedictions close on this word — शुभम् अस्तु "may
-  there be welfare" (display only; the verb form waits for the verb chapters)
-  [REF:apte1890 s.v. शुभ].
+  standing alone as a blessing; as a noun it means "auspiciousness, welfare, good fortune"
+  [REF:apte1890 s.v. शुभ]. The wish शुभम् अस्तु "may there be welfare" is built on it
+  (display only; the verb form waits for the verb chapters).
 - **शुभरात्रिः** (śubharātriḥ) "good night" — शुभ + रात्रिः, both parts yours, joined on the
   model of "good night". A calque: a phrase translated part-for-part into another language's
   material. Labeled modern, used nightly.

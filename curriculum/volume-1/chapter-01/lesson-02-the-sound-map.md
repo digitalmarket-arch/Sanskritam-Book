@@ -519,7 +519,7 @@ Spaced review:
 3. **(10 min, real world)** Find any Devanagari text around you — a Hindi newspaper, a shop
    sign, a screenshot online. Answer in writing: is this Sanskrit? How do you know what
    language it is? Bring your example to class. Bonus: teach the tongue walk to one other
-   person — explaining the five places is the fastest way to make them yours.
+   person — explaining the five places is good practice in making them yours.
 
 ## 22. Teacher Notes
 

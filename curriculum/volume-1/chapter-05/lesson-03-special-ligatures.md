@@ -134,10 +134,11 @@ costume forms of its own, the next lesson's whole subject. [REF:masica1991 ch.6]
 > watch क्ष assemble itself. (Unicode Standard, Devanagari block.)
 
 > **[FACT · तथ्यम्]** ज्ञ is written from ज् + ञ, and the classical value follows the
-> spelling: /d͡ʑɲ/ — the palatal affricate released into the palatal nasal. Modern
-> regional practice replaces it: [gj] across the Hindi belt (ज्ञान sounding like "gyāna"),
-> [d̪n̪j]-type in Marathi-influenced recitation. These are regional habits carried into
-> Sanskrit — real and respectable, and not the classical target. [REF:whitney1889]
+> spelling: /d͡ʑɲ/ — the palatal affricate released into the palatal nasal.
+> [REF:whitney1889 §§13, 201] Modern regional practice replaces it: [gj] across the Hindi
+> belt (ज्ञान sounding like "gyāna"), [d̪n̪j]-type in Marathi-influenced recitation. These
+> are regional habits carried into Sanskrit — real and respectable, and not the classical
+> target.
 
 This course has stood exactly here before: ऋ (v1.c02.l03), where the northern "ri" is a
 habit and /r̩/ the target. Same posture today, same respect — train the target, name the
@@ -726,8 +727,8 @@ narrator reads them as IPA, not as English spelling.
 
 40–50 seconds, vertical, captions burned in.
 
-- **Hook (0:00–0:07):** extreme close-up of a shop sign's श्री. "Three of the most
-  common Sanskrit signs aren't letters at all. They're disguises."
+- **Hook (0:00–0:07):** extreme close-up of a shop sign's श्री. "Three famous
+  Sanskrit signs aren't letters at all. They're disguises."
 - **Demo (0:07–0:30):** phone keyboard, live: क + ् + ष fuse into क्ष on screen.
   "Every fused sign hides two letters and a silencer — even your keyboard knows." Quick
   x-rays: त्र splits into त + र, ज्ञ into ज + ञ. "That last one? Hindi says "gyāna" —
@@ -757,7 +758,7 @@ narrator reads them as IPA, not as English spelling.
     (chapter.md manifest) and back-link here when it exists.
 - **Related lessons:** reviews v1.c05.l01 (virāma — Law 5; the invisible ् inside every
   unit) and v1.c05.l02 (stem-loss mechanism; the reduced-श family extended to श्य here,
-  retiring पश्य — confirm l02 did not already claim it); echoes v1.c02.l03 (the
+  retiring पश्य — neither l01 nor l02 claims it); echoes v1.c02.l03 (the
   habit-vs-target framing, reused verbatim for ज्ञ) and v1.c04.l03 (nominal-sentence
   note; stemless round letters); feeds v1.c05.l04 (र's costumes — the त्र/श्र tail
   named there; क्र foil in exercise 2; triple cluster promised in §15 lands as चन्द्र),
@@ -770,8 +771,8 @@ narrator reads them as IPA, not as English spelling.
   in the post-chapter loop. No new terms first-taught here (विशेषसंयोग is this lesson's
   descriptive title, not a glossary term).
 - **Verification flags for Pass C:** fused-forms taxonomy and component analyses (§5,
-  §15) against [REF:masica1991 ch.6]; ज्ञ classical value framing (§5, §10) — locate the
-  precise Whitney § for j+ñ composition and log it (research note §7: Pass C confirms
+  §15) against [REF:masica1991 ch.6]; ज्ञ classical value framing (§5, §10) — Whitney
+  §§13, 201 cover the j+ñ composition; no Whitney § covers the regional variants (research note §7: Pass C confirms
   the variants framing mirrors v1.c02.l03); chart-convention claim (§4) stays FACT about
   convention, no dating; \*ǵneh₃- (know/gnōsis) and \*weid- (wit/vidēre) cognate sets
   (§13) against [REF:mallory2006] — framing must stay "siblings, not loans", with the
@@ -783,7 +784,7 @@ narrator reads them as IPA, not as English spelling.
   note §7; §10/§14/§15 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A).
 - **Export notes:** this lesson, like l02's §14, §16 and §17, contains **zero 🔊 audio-only items**;
   the glue-word ledger closes here (आम् retired in l01; अस्ति in l02; अत्र and
-  पश्य today — cross-check l01/l02 metadata before publishing the claim in §8/§17).
+  पश्य today — l01/l02 confirmed to claim neither).
   Component displays (क् + ष, ज ् ञ) are deliberate un-ligated forms — the exporter must
   not normalize them into ligatures (STYLE_GUIDE §3 permits explicit display forms);
   bracketed [gj]/[d̪n̪j] are phonetic-detail notation, excluded from IPA charset linting

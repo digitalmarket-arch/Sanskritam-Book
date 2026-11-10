@@ -16,14 +16,14 @@ curriculum's verified greetings unit (PDF pp.27–28: नमस्ते, धन
 |---|---|---|---|---|
 | 0.1 | नमस्ते = नमः + ते "homage to you"; नमस्कारः = नमः + कारः. Both fully classical in formation; नमस्ते as the everyday all-purpose greeting is the living convention. | FACT | [REF:apte1890 s.v. नमस्]; taught v1.c05.l02 §13, v1.c06.l01 §13 | Review, not new. |
 | 0.2 | स्वागतम् "welcome" is classical idiom — the word and the welcoming use are both attested in classical literature. | FACT | [REF:monierwilliams1899 s.v. svāgata]; [REF:apte1890] | Already taught v1.c05.l02. |
-| 0.3 | धन्यवादः is an attested compound ("expression of thanks/congratulation"); its use as the everyday "thank you" is a **modern spoken-Sanskrit convention**. Classical texts typically express gratitude otherwise (e.g. अनुगृहीतः अस्मि "I am obliged" — display only, sandhi form अनुगृहीतोऽस्मि previewed). | FACT + usage label | [REF:monierwilliams1899 s.v. dhanyavāda] | THE label-discipline showcase word. |
+| 0.3 | धन्यवादः is an attested compound (MW: "thanksgiving, praise, applause"); its use as the everyday "thank you" is a **modern spoken-Sanskrit convention**. Classical texts typically express gratitude otherwise (e.g. अनुगृहीतः अस्मि "I am obliged" — display only, sandhi form अनुगृहीतोऽस्मि previewed). | FACT + usage label | [REF:monierwilliams1899 s.v. dhanyavāda] | THE label-discipline showcase word. |
 | 0.4 | सुप्रभातम्: suprabhāta "beautiful dawn" is classical (a whole devotional genre bears the name); as a "good morning!" greeting it is modern spoken usage. The 1.x variant शुभप्रभातम् circulates too; the course teaches सुप्रभातम् and notes the variant. | FACT + usage label | [REF:monierwilliams1899 s.v. suprabhāta] | शुभरात्रिः "good night" likewise modern (calque); labeled. |
 | 0.5 | क्षमस्व "forgive (me)" is a classical imperative form of √क्षम् — taught as a whole-word chunk (the पश्य precedent); the politer क्षम्यताम् is display only. | FACT | [REF:apte1890 s.v. क्षम्]; whole-word policy | No conjugation talk. |
 | 0.6 | स्वस्ति "well-being; farewell/blessing" is classical idiom (Vedic onward); भद्रम् ते "blessings on you" is a classical courtesy formula (epic-common; pause form of भद्रं ते). | FACT | [REF:monierwilliams1899 s.v. svasti]; [REF:apte1890 s.v. भद्र] | The classical side of the kit. |
 | 0.7 | पुनर्मिलामः "we shall meet again" and कृपया "please" are **modern spoken formulas** (the latter shared with Hindi). Pause form पुनः मिलामः taught; the joined पुनर्- shown as a visarga-sandhi preview (Volume 3). | usage label | living spoken-Sanskrit convention; formation transparent | Labeled, never presented as classical idiom. |
 | 0.8 | The añjali gesture (palms joined) that accompanies नमस्ते is cultural practice; its name अञ्जलिः is a classical word ("the two hands joined") — and gives ञ its second working conjunct, ञ्ज, right after v1.c06's ञ्च. | TRADITION (gesture) + FACT (word) | [REF:monierwilliams1899 s.v. añjali] | Gesture never assessed; word is fair game. |
 | 0.9 | कुशलम् "well-being" and the wellness exchange (अपि कुशलम्? — कुशलम्!) are classical: kuśala-inquiry is standard epic/classical etiquette. कथम् "how?" is classical. | FACT | [REF:apte1890 s.v. कुशल]; [REF:monierwilliams1899 s.v. कथम्] | The how-are-you lesson's spine. |
-| 0.10 | न "not" is the plain classical negative; न + अस्ति in pause form (the joined नास्ति previewed as sandhi). | FACT | [REF:whitney1889 §1122 — **Pass C: verify § or cite bare**] | High-utility unlock. |
+| 0.10 | न "not" is the plain classical negative; न + अस्ति in pause form (the joined नास्ति previewed as sandhi). | FACT | [REF:whitney1889 §1122c] | High-utility unlock. |
 | 0.11 | Pedagogy unchanged: chunks-first [REF:nation2013], retrieval [REF:roediger2006], spacing [REF:cepeda2006]. The V1 exam's +1-week interval lands in l01's Station 0 (promised at v1.c06.l04 §20; the three-artifact photo is collected there per its homework). | policy | in-course | Must be honored in l01 §3. |
 
 ## 1. L1 — नमस्कारः: the greeting kit (vocabulary/review type)
@@ -35,14 +35,14 @@ curriculum's verified greetings unit (PDF pp.27–28: नमस्ते, धन
 ledger-new (corrected at audit); स्वस्ति (svasti) "farewell, blessings" (0.6); नमः upgraded to standalone use (नमः + dative pattern held for V3 —
 today the chunk गुरवे नमः is **display only**). Review at work: नमस्ते, नमस्कारः,
 स्वागतम्. Dialogue: greeting round with the whole cast. Count (reconciled at review):
-3 ledger-new (भोः, अञ्जलिः, स्वस्ति) + 2 upgrades (भद्रम्, नमः) = 5 headwords drilled;
+3 ledger-new (भोः, अञ्जलिः, स्वस्ति) + 1 upgrade (भद्रम्) = 4 headwords drilled (नमः a review row);
 ledger 237 → 240.
 
 ## 2. L2 — कुशलप्रश्नः: how are you (conversation type)
 
 **New (attested):** कथम् (katham) "how?"; कुशलम् (kuśalam) "well-being; well";
 कुशली (kuśalī) "well (of a man)" with बालिका-precedent honesty for a female speaker
-(कुशलिनी — display, V2 gender system); सर्वम् (sarvam) "everything" (सर्व ✓ v1.c05.l04,
+(कुशलिनी — display, V3 gender system); सर्वम् (sarvam) "everything" (सर्व ✓ v1.c05.l04,
 neuter form new in use — upgrade, not ledger-new); धन्यवादः debuts here or l04
 (drafting decided l04; 0.3 label mandatory). **Frames:** अपि कुशलम्? "all well?" — कुशलम्! / सर्वम् कुशलम्! — the
 classical wellness exchange (0.9); कथम् as question word beside कः/का/किम्/कुतः.
@@ -91,15 +91,15 @@ V1-maintenance micro-check (varṇamālā row + one conjunct pair). Gates v2.c02
 
 - गुरवे नमः dative display (l01) — display only, no case teaching; verify framing.
 - अनुगृहीतोऽस्मि display (l04) — avagraha + sandhi preview; recognition only.
-- कुशलिनी feminine (l02) — display beside कुशली, system deferred to the V2 gender
+- कुशलिनी feminine (l02) — display beside कुशली, system deferred to the V3 gender
   chapters; mirror the छात्रा handling.
 - दिन cognate set (l03) — confirm in [REF:mallory2006] or degrade honestly.
-- Whitney § for plain negative न (0.10) — verify §1122 or cite bare.
+- Whitney § for plain negative न (0.10) — verified: §1122c (ná, simple negation).
 - Word attestation sweep: भोः, अञ्जलि, कुशल, प्रभात, सायम्, रात्रि, दिन, श्रीमान्,
   पुनः against Apte/MW — all standard; flag any surprises in the log.
 - Cumulative ledger (reconciled at review): 237 + 21 ledger-new (l01 3 · l02 3 · l03 6 ·
-  l04 9) = 258 readable words; chain 237 → 240 → 243 → 249 → 258. 26 headwords drilled
-  (5 · 4 · 8 · 9) — the five upgrade rows (भद्रम्, नमः, सर्वम्, दिनम्, शुभम्) are drilled
-  but never re-counted.
+  l04 9) = 258 readable words; chain 237 → 240 → 243 → 249 → 258. 25 headwords drilled
+  (4 · 4 · 8 · 9) — the four upgrade rows (भद्रम्, सर्वम्, दिनम्, शुभम्) are drilled
+  but never re-counted; नमः is a review row.
 
 All claims re-audited by Pass C; verdicts to ../verification-log.md.

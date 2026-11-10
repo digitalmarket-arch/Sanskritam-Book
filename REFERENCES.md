@@ -1,7 +1,7 @@
 # References
 
 Canonical source list. Lessons cite entries as `[REF:key §locus]`; every `key` below is an
-anchor. Entries are grouped by role. Add entries in place (keep groups alphabetized by key);
+anchor. Entries are grouped by role. Add entries to the group they belong to;
 never delete a key that lessons cite.
 
 Access notes: primary Sanskrit texts are cited by their own internal numbering
@@ -42,7 +42,8 @@ cited by paṭala.sūtra.
 ## Primary: lexica
 
 <a id="amarakosha"></a>**amarakosha** — Amarasiṃha, *Amarakośa (Nāmaliṅgānuśāsana)*
-(c. 4th–6th c. CE). Thesaurus; cited by kāṇḍa.varga.verse.
+(c. 4th–6th c. CE). Thesaurus; cited by kāṇḍa.varga.verse, or kāṇḍa.varga for a whole section (e.g. 2.1, the earth
+section).
 
 <a id="dhatupatha"></a>**dhatupatha** — *Dhātupāṭha* of the Pāṇinian tradition. Root list with
 gaṇa and marker letters; cited by gaṇa and root.
@@ -75,7 +76,8 @@ with the Nirṇaya Sāgara edition cited by `apte1890` ("H. Pr. 36"); elsewhere 
 the course's mitralābha 71).
 
 <a id="rigveda"></a>**rigveda** — *Ṛgveda Saṃhitā*. Cited maṇḍala.hymn.verse (e.g. 3.62.10 —
-the Gāyatrī/Sāvitrī mantra). Tr.: Jamison & Brereton 2014.
+the Gāyatrī/Sāvitrī mantra), or maṇḍala.hymn for a whole hymn (e.g. 10.10). Tr.: Jamison &
+Brereton 2014.
 
 <a id="panchatantra"></a>**panchatantra** — *Pañcatantra*. Textus simplicior unless noted;
 cited by tantra and story; the recension is named whenever a story is not in the textus

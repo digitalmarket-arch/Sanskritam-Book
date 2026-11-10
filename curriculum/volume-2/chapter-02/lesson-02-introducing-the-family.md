@@ -51,8 +51,8 @@ updated: 2026-08-02
 Point at your father and say एषः मम पिता — you have just introduced him in a sentence
 Pāṇini would parse without blinking. Now listen to three languages say one word: माता.
 Latin *māter*. English *mother*. Nobody copied anybody — and that is today's biggest
-fact. The words for the people you love are the oldest shared inheritance your language
-family owns, and by the end of this lesson you will introduce your whole family in
+fact. The words for the people you love are part of the oldest inheritance your language
+family shares, and by the end of this lesson you will introduce your whole family in
 Sanskrit *and* tell the true story of why those introductions sound half-familiar.
 
 ## 2. Learning Objective
@@ -108,8 +108,8 @@ fully formed, in the earliest layer of the tradition.
 
 Today's third word widens the circle. **कुटुम्बम्** (kuṭumbam) "household" is the
 classical word for the family as one living unit — परिवारः names the people around
-you; कुटुम्बम् names the whole household they make. The word carries one of the
-tradition's most quoted lines:
+you; कुटुम्बम् names the whole household they make. The word carries a famous line of
+the tradition:
 
 > **[TRADITION · परम्परा]** The Hitopadeśa (Mitralābha, verse 71 in the GRETIL numbering;
 > the line also appears in the Mahopaniṣad) says of the generous-hearted: वसुधैव
@@ -326,7 +326,7 @@ is the whole shelf — five words your family carries, set beside their cousins:
 
 The dictionaries list these words by stem (मातृ, पितृ…); in your sentences they stand
 as माता, पिता, भ्राता, दुहिता, स्वसा. Two of the five are lesson 1's heirloom carriers:
-दुहिता beside everyday पुत्री, and **स्वसा** (svasā) "sister" — the Vedic-flavored elder
+दुहिता beside everyday पुत्री, and **स्वसा** (svasā) "sister" — the older, inherited partner
 of your working word भगिनी — both on your ledger since lesson 1, back today to take
 their places on the shelf.
 

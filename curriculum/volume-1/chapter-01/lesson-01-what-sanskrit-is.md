@@ -87,7 +87,7 @@ Sanskrit's documented history is extraordinary enough without exaggeration — d
 
 > **[FACT · तथ्यम्]** Vedic Sanskrit (the Ṛgveda's language) and Classical Sanskrit are distinct stages:
 > Vedic has a pitch accent, a richer set of verb forms, and a partly different vocabulary. This course
-> teaches Classical Sanskrit. [REF:whitney1889 pref.] [REF:burrow2001]
+> teaches Classical Sanskrit. [REF:whitney1889 intro.] [REF:burrow2001]
 
 > **[HISTORY · इतिहासः]** Around the 4th century BCE — estimates vary between the 6th and 4th centuries —
 > the grammarian Pāṇini described the language in the Aṣṭādhyāyī, roughly 4,000 compact rules (sūtras)

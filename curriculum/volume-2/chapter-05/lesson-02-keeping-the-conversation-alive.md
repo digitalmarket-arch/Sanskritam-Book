@@ -134,7 +134,7 @@ Sanskrit's verb for understanding is built like lesson 1's आगच्छति
 > "understood, known". It is a classical verb. [REF:monierwilliams1899 s.v. ava-gam]
 
 Hindi readers have met that participle in formal prose — "आपको अवगत कराया जाता है", "you
-are hereby informed" — अवगत, "made known", from the same अव + गम्. Then the label, said
+are hereby informed" — अवगत, "known, informed", from the same अव + गम्. Then the label, said
 as plainly as the course always says it:
 
 > **[FACT · तथ्यम्]** Usage label: the form अवगच्छामि is classical; the sentence अहम् न
@@ -163,9 +163,10 @@ again. That repair kit is what turns noise into usable input.
 > speaker to repeat or to slow down is among the simplest ways a learner makes the input
 > comprehensible. [REF:krashen1982]
 
-> **[FACT · तथ्यम्]** Fixed conversational formulas are learned fastest as whole chunks —
+> **[FACT · तथ्यम्]** Fixed conversational formulas can be learned as whole chunks —
 > produced intact under pressure, precisely when there is no time to build them — and
-> every run through a chunk is retrieval practice, the strongest rehearsal there is.
+> every run through a chunk is retrieval practice, which beats re-reading for long-term
+> retention.
 > [REF:nation2013] [REF:roediger2006]
 
 That is why this lesson sits at the front of the conversation chapter: wanting, liking
@@ -192,9 +193,9 @@ the chain is the whole lesson. The unlocked language, at once:
 > **अस्तु!**
 > (astu!) "All right! — so be it!" — ठीक है! ऐसा ही हो!
 
-> **आम्! अवगच्छामि। धन्यवादः!**
-> (ām! avagacchāmi. dhanyavādaḥ!) "Yes! I understand. Thank you!" — हाँ! समझ गया/गई।
-> धन्यवाद!
+> **आम्! अवगच्छामि। धन्यवादः।**
+> (ām! avagacchāmi. dhanyavādaḥ.) "Yes! I understand. Thank you." — हाँ! समझ गया/गई।
+> धन्यवाद।
 
 > **अवगच्छसि? — आम्, अवगच्छामि।**
 > (avagacchasi? — ām, avagacchāmi.) "Do you understand? — Yes, I understand." — समझे? —
@@ -217,7 +218,7 @@ requests, not statements.
 पहली कड़ी का शब्द है अवगच्छति — "समझता है"। खोलकर देखिए: अव + गच्छति। कल आपने देखा कि
 गच्छति के आगे आ जोड़ते ही "आता है" बन गया — आगच्छति। आज आगे अव जुड़ता है, और अर्थ मुड़कर
 "समझना" हो जाता है। यह शब्द हिन्दी में भी छिपा है: औपचारिक हिन्दी का "आपको अवगत कराया
-जाता है" — अवगत यानी "जाना-समझा हुआ", इसी अव + गम् से। उपसर्गों की पूरी व्यवस्था खण्ड
+जाता है" — अवगत यानी "जाना-समझा हुआ", इसी अव + गम् से। उपसर्गों (क्रिया के आगे जुड़ने वाले अंशों) की पूरी व्यवस्था खण्ड
 3/4 में आएगी। रूप बनाना आपको आता है — अध्याय 4 का साँचा: अवगच्छामि "मैं समझता/समझती
 हूँ", अवगच्छसि "तुम समझते हो", अवगच्छति "वह समझता/समझती है"; और न हमेशा आगे — न
 अवगच्छामि। अध्यापक जाँचेंगे — अवगच्छसि? — यह हाँ-या-ना वाला प्रश्न है, इसलिए सुर ऊपर
@@ -235,6 +236,8 @@ requests, not statements.
 भवान् किम् करोति? याद है? — इसलिए अनुरोध भी वह-रूप में: भवान् वदतु, शब्दशः "आप कहें"।
 पूरा भाव-तन्त्र खण्ड 3/4 का विषय है; आज वदतु एक पूरा शब्द है, एक पूरा अनुरोध — ठीक
 क्षमस्व की तरह। मित्र से भी अभी भवान् … वदतु ही कहिए — शिष्टता कभी ग़लत नहीं होती।
+एक बार भवान् कह देने पर अगला अनुरोध उसे छोड़ सकता है — कृपया मन्दम् वदतु — पर यह
+आधुनिक बोलचाल की रीति है: अकेला वदतु "वह कहे" भी पढ़ा जा सकता है, इसलिए पूरा रूप भवान् रखता है।
 
 तीसरी कड़ी में मन्दम् — "धीरे"; हिन्दी का मंद (मंद गति) वही शब्द है। मन्द "धीमा" अर्थ
 वाला विशेषण — यानी संज्ञा का गुण या मात्रा बताने वाला शब्द — है, और मन्दम् उसका पक्का
@@ -300,8 +303,8 @@ The honest line: **वदतु is an imperative — a command/request mood — 
 3sg? Because भवान्, the polite "you", always takes the 3sg (v2.c04.l03: भवान् किम्
 करोति?), so the polite request is built the same way: **भवान् पुनः वदतु।** — literally
 "may your honor say again". Once भवान् has been said, the next request can leave it
-understood, just as अहम् stays understood in a bare अवगच्छामि: **कृपया मन्दम् वदतु।** The
-mood system — every person, every verb — is Volume 3/4's business; today वदतु is one
+out: **कृपया मन्दम् वदतु।** Usage label: **modern spoken convention** — on its own a 3sg
+request can also read "let him say", so the fuller usage keeps भवान्. The mood system — every person, every verb — is Volume 3/4's business; today वदतु is one
 whole word, one whole request, like क्षमस्व in Chapter 1, and it counts as its own
 readable word (STYLE_GUIDE §8 rule 4): वदति is its old relative, not its duplicate.
 
@@ -356,7 +359,7 @@ speeds, the dictation track).
 Pause form throughout: a clean breath on the visarga of पुनः, never a blur.
 
 **Drill 2 — the च्छ weld.** अवगच्छति carries the same च्छ as गच्छति: the tongue closes once
-for च्, holds, and releases into the breathy छ — one weld, no vowel inside. Count the
+for च्, holds, and releases into the aspirated छ — one weld, no vowel inside. Count the
 beats on your fingers: अ-व-गच्-छ-ति, every अ full. "avgachti" has lost two vowels — the
 schwa-deletion habit, banned since Volume 1.
 
@@ -393,7 +396,7 @@ first half closes गच्, the second opens छ.
 lengthening it to [uː] or dropping it breaks the word.
 
 **Narrow note — पुनः in connected speech:** in pause form पुनः ends on the visarga /h/.
-Fast speakers may join it to the next word as पुनर्वदतु [pun̪ɐɾʋɐd̪ɐt̪u] — the visarga
+Connected speech and text join it to the next word as पुनर्वदतु [pun̪ɐɾʋɐd̪ɐt̪u] — the visarga
 turned to र, as in v2.c01.l04's पुनर्मिलामः. Display only; sandhi is Volume 3.
 
 ## 11. Mouth Position
@@ -680,7 +683,8 @@ IAST, English, Hindi.
 Line 3 shows the headword in its citation form with न in front; line 7 is the quiet hero
 — मन्दम् beside a plain statement, proving the adverb works outside requests too. And
 line 12 grins at the lesson: the boy who could not follow one sentence at breakfast is,
-by evening, "understanding Sanskrit". All twelve lines: singular, present, pause form.
+by evening, "understanding Sanskrit". All twelve lines: singular and pause form; every verb
+is present except the quoted whole-word requests and reply — क्षमस्व, वदतु, अस्तु (lines 4–6).
 
 ## 18. Exercises
 

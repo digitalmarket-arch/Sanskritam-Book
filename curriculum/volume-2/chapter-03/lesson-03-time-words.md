@@ -242,7 +242,7 @@ Run the ladder small-to-large until the order is muscle (§9): होरा — 
 
 सप्ताहः is built from parts you own: **सप्त** (sapta) "seven" — last lesson's numeral —
 plus **अह** (aha), the compound-final form of the old day-word अहन् (ahan): "a seven-of-days"
-[REF:apte1890 s.v. सप्ताह]. You have met that day-word in disguise already: मध्याह्नः
+[REF:apte1890 s.v. सप्तन्]. You have met that day-word in disguise already: मध्याह्नः
 (madhyāhnaḥ) "midday" hides a form of it after मध्य (v2.c01.l03 §8). So when the week
 strip asks कति? the word itself answers: सप्त! — the numeral working *inside* a word,
 which is exactly the kind of receipt this chapter collects.
@@ -397,7 +397,7 @@ both directions — Sanskrit lent the world dharma and took in an hour, both on 
 ### सप्ताहः — arithmetic inside a word
 
 सप्ताहः = सप्त (sapta) + अह (aha) — seven + day: "a seven-of-days"
-[REF:apte1890 s.v. सप्ताह]. Lesson 2's numeral is not just *beside* this word on the
+[REF:apte1890 s.v. सप्तन्]. Lesson 2's numeral is not just *beside* this word on the
 ledger; it is load-bearing *inside* it. The day-word अह is an old one — the same word
 whose form hides at the end of मध्याह्नः "mid-day" (v2.c01.l03 §8) — so today's
 dissection is a reunion, not an introduction. अह itself stays a display component, off
@@ -469,7 +469,7 @@ parade with a brand-new rail.
 
 The no-dress rail is the honest news: some words stand outside the dress system
 entirely, and the trio lives there. Observed, as always — the system that explains the
-dressed rails is later Volume 2 business, and nothing on this table will need
+dressed rails is Volume 3's business, and nothing on this table will need
 correcting when it arrives.
 
 ### The upgrades, formally
@@ -928,12 +928,12 @@ narrator reads the cue, not the English spelling.
 - **Verification flags for Pass C:** होरा loan claim (§4, §13) against
   [REF:monierwilliams1899 s.v. होरा] and [REF:burrow2001] (Greek loans in astronomy) —
   dating held to "with Hellenistic astronomy", no year, per notes §0.7 and the Pass C
-  checklist; सप्ताह = सप्त + अह (§8, §13) against [REF:apte1890 s.v. सप्ताह]; trio and
+  checklist; सप्ताह = सप्त + अह (§8, §13) against [REF:apte1890 s.v. सप्तन्]; trio and
   span glosses (§14) against [REF:apte1890] / [REF:monierwilliams1899] s.vv.; the
   *hour* chain (Greek → Latin → French → English) against [REF:oed s.v. hour] — cited
   at §13; l05 asserts the same chain: verify once, log in
   ../../../research/verification-log.md; अव्यय status of the trio
-  (§15) against [REF:whitney1889] (indeclinables — cite bare pending section check);
+  (§15) against [REF:whitney1889] (indeclinables — §1122j lists अद्य, ह्यः, श्वः as particles of time; cited bare);
   the no-dress rail (§15) checked against the volume's gender-chapter plan. All
   §10/§14 IPA diffed cell-by-cell against STYLE_GUIDE §2 (Pass A); no weekday names,
   no locatives, no plurals anywhere in the lesson (notes §3 constraint) — verified by

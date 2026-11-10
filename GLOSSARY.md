@@ -29,9 +29,15 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | रेफ | repha | the r-sound; the superscript r-hook | रेफ | v1.c05.l04 |
 | संवाद | saṃvāda | dialogue ("speaking together") | संवाद | v1.c06.l02 |
 | संस्कृतम् | saṃskṛtam | Sanskrit ("refined, perfected") | संस्कृत | v1.c01.l01 |
+| तत्सम | tatsama | a Sanskrit word used in Hindi unchanged ("same as that"): विद्यालय, पुस्तक | तत्सम (ज्यों-का-त्यों लिया गया शब्द) | v1.c01.l01 |
+| तद्भव | tadbhava | an inherited word reshaped by centuries of speech ("born of that"): Hindi दाँत from Sanskrit दन्त | तद्भव | v2.c06.l04 |
+| सजातीय | sajātīya | cognate — a word inherited from a shared ancestor, not borrowed (no arrow): मातृ ~ mother. (v1.c06.l01's सजातीय अनुनासिक is the homorganic nasal, a different sense) | सजातीय शब्द — सजात, सगोत्र भी | v1.c01.l01 |
 | संयुक्ताक्षर | saṃyuktākṣara | conjunct — a consonant cluster written as one akṣara | संयुक्ताक्षर (जुड़े व्यञ्जनों का एक अक्षर) | v1.c05.l02 |
 | शिष्टाचार | śiṣṭācāra | courtesy, cultivated conduct | शिष्टाचार | v2.c01.l04 |
+| कुशलप्रश्न | kuśalapraśna | the well-being question — the "how are you?" exchange | कुशल-प्रश्न (हाल-चाल पूछना) | v2.c01.l02 |
 | श्लोक | śloka | the 4×8-syllable verse form (anuṣṭubh) | श्लोक | v1.c06.l04 |
+| पाद | pāda | quarter of a verse — eight syllables in a śloka | पाद (चरण) | v1.c06.l04 |
+| सुभाषित | subhāṣita | a saying, "something well said": a short memorable verse or line | सुभाषित | v2.c06.l03 |
 | स्पर्श | sparśa | stop consonant ("contact" sound) | स्पर्श व्यञ्जन | v1.c03.l01 |
 | अघोष | aghoṣa | voiceless | अघोष | v1.c03.l01 |
 | घोष | ghoṣa | voiced | घोष (सघोष) | v1.c03.l01 |
@@ -47,12 +53,31 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | सन्ध्यक्षर | sandhyakṣara | junction vowel (e ai o au) | सन्ध्यक्षर (संयुक्त स्वर) | v1.c02.l04 |
 | वर्ण | varṇa | speech sound; letter | वर्ण (ध्वनि/अक्षर) | v1.c01.l02 |
 | विराम | virāma | the vowel-cancelling stroke ् | विराम | v1.c05.l01 |
+| विराम-रूप | virāma-rūpa | pause form — every word read and written whole in its full citation shape, unjoined (no sandhi); the course's reading protocol until Volume 3. Here विराम means "pause", not the ् stroke | विराम-रूप | v1.c03.l02 |
 | विसर्ग | visarga | the breath sign ः | विसर्ग | v1.c02.l06 |
 | वर्णमाला | varṇamālā | the Sanskrit sound inventory ("garland of sounds") | वर्णमाला | v1.c01.l02 |
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |
 | वर्ग | varga | class — one of the five stop rows, named by its first letter: क-वर्ग … प-वर्ग | वर्ग | v1.c01.l02 |
 | स्थान | sthāna | place of articulation | उच्चारण-स्थान | v1.c01.l02 |
+| प्रयत्न | prayatna | manner of articulation ("effort") — the voicing, aspiration and nasal slots of a varga row | उच्चारण-प्रयत्न | v1.c01.l02 |
+| -कार | -kāra | suffix that names a sound or letter: अकार "the sound a", इकार "the sound i" | -कार (अकार, इकार) | v1.c02.l01 |
+| संज्ञा | saṃjñā | technical term, name — the label for each lesson's key term (संयुक्ताक्षरम्, संवादः); in Hindi grammar also "noun" | संज्ञा (पारिभाषिक नाम; हिन्दी व्याकरण में नाम-शब्द) | v1.c05.l02 |
 | विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun in gender, number and case (system: Volume 3) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
+| आत्मनेपद | ātmanepada | the tradition's name for the "middle voice" — Sanskrit's second family of verb endings (रोचते; system: Volumes 3–4) | आत्मनेपद — क्रिया के अन्त-चिह्नों का दूसरा परिवार | v2.c05.l03 |
+| सन्धि | sandhi | joining — the regular sound-changes where words meet (system: Volume 3) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
+| कर्ता | kartā | subject — the "doer" slot of a sentence | कर्ता (वाक्य का करने वाला) | v1.c06.l03 |
+| कर्म | karma | object (of a verb); as a word also "action, deed" | कर्म | v1.c06.l03 |
+| विभक्ति | vibhakti | case ending; the case system (Volume 3) | विभक्ति (कारक-रूप) | v2.c02.l04 |
+| लिङ्ग | liṅga | grammatical gender: masculine, feminine, neuter | लिंग (पुल्लिंग, स्त्रीलिंग, नपुंसक) | v2.c03.l01 |
+| समास | samāsa | compound word: सोमवार = सोम + वार | समास | v2.c03.l04 |
+| क्रिया | kriyā | verb ("action") — a word that tells an action or event | क्रिया (काम या घटना बताने वाला शब्द) | v1.c03.l02 |
+| पुरुष | puruṣa | grammatical person, carried in the verb ending | पुरुष | v2.c04.l02 |
+| प्रथम / मध्यम / उत्तम पुरुष | prathama / madhyama / uttama puruṣa | the three persons, counted from the far end: प्रथम = he/she/it, मध्यम = you, उत्तम = I (Hindi school grammar's अन्य पुरुष = प्रथम) | प्रथम पुरुष (वह) / मध्यम पुरुष (तुम) / उत्तम पुरुष (मैं) | v2.c04.l02 |
+| एकवचन | ekavacana | singular (वचन = grammatical number) | एकवचन | v2.c04.l01 |
+| लट् | laṭ | the tradition's label for the present tense | लट् (वर्तमान काल) | v2.c04.l02 |
+| उपसर्ग | upasarga | verbal prefix: आ in आगच्छति | उपसर्ग (क्रिया के आगे जुड़ने वाला अंश) | v2.c05.l01 |
+| आत्मनेपद | ātmanepada | the second family of verb endings, the middle voice (रोचते) | आत्मनेपद | v2.c05.l03 |
+| धातु | dhātu | verbal root: √युज् "join, yoke" | धातु (शब्द की जड़) | v2.c06.l04 |
 
 ## Course meta-vocabulary
 
@@ -72,3 +97,9 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | helper consonant | A consonant previewed (glyph+sound only) before its full varga treatment; EDITORIAL_GUIDELINES §spiral |
 | CEFR-informed | Level labels in the style of CEFR can-do descriptors, without claiming an official mapping |
 | production exercise | Learner produces language (write/say/record/translate), vs recognition |
+| ledger | The cumulative count of readable words, stated in each vocabulary lesson's §14 (entry → exit); counting rules in STYLE_GUIDE §8 |
+| upgrade row | A §14 row for a noun or adjective already in the ledger, back in sentence dress (-ः / -म्) or its neuter form; drilled, never counted again (STYLE_GUIDE §8) |
+| Station 0 | The §3 review block that runs the spaced re-runs (+1 day, +1 week …) falling due from earlier lessons and exams (Hindi: स्टेशन 0) |
+| loanword | A word one language took from another; drawn with an arrow (yoga ← योग). Hindi: उधार शब्द |
+| calque | A loan translation built part for part from native pieces: शुभरात्रिः ← "good night", दूरदर्शनम् ← *tele-vision* |
+| the four kinds (word journeys) | The v2.c06.l04 sort for an English–Sanskrit pair: (a) cognate, (b) loan from Sanskrit, (c) Latin or Greek route, (d) false |

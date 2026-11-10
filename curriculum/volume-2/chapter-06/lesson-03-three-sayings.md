@@ -223,8 +223,9 @@ it, then one English sentence.
 
 पहला सुभाषित: **अहिंसा परमः धर्मः** — "अहिंसा सबसे ऊँचा धर्म है।" इसमें "है" के लिए
 कोई शब्द नहीं है। संस्कृत ऐसे वाक्यों में "है" छोड़ देती है, जैसे आप एषः मम पिता में
-देख चुके हैं। परमः शब्द धर्मः का विशेषण है — "परम धर्म" — इसलिए उसका अन्त भी धर्मः
-जैसा -अः है, ठीक वैसे ही जैसे कल की कथा के एकः सिंहः में एकः। ग्रन्थ में यह पंक्ति
+देख चुके हैं। परमः शब्द धर्मः का विशेषण है — "परम धर्म"। विशेषण अपनी संज्ञा से लिंग, वचन
+और विभक्ति में मेल खाता है; यहाँ इसी मेल से परमः का अन्त भी धर्मः जैसा -अः है, ठीक वैसे ही
+जैसे कल की कथा के एकः सिंहः में एकः। ग्रन्थ में यह पंक्ति
 जुड़े रूप में छपी है: अहिंसा परमो धर्मः। नियम यह है: घोष व्यञ्जन से पहले (यहाँ ध्)
 पूरा अन्त -अः बदलकर -ओ हो जाता है। ध्यान रहे, "विसर्ग ने अ को ओ बना दिया" कहना ग़लत
 है; पूरा -अः, -ओ बनता है। कल के कोऽपि में भी यही -ओ था, बस वहाँ आगे अ था, जो लुप्त
@@ -298,9 +299,10 @@ come back in new dress, and the ledger.
 
 Two things to notice. First, **there is no word for "is"**. Sanskrit leaves it unsaid in
 sentences like this, as you saw in v2.c02.l02's एषः मम पिता. Second, **परमः describes
-धर्मः, not अहिंसा**. It wears the same -अः dress as धर्मः because it belongs to it, "the
-highest dharma", just as एकः in lesson 2's एकः सिंहः wears सिंहः's dress. अहिंसा is
-feminine and ends in -आ, so had परमः described it the ending would have to differ. So the
+धर्मः, not अहिंसा**. A describing word agrees with its noun in gender, number and case;
+here that gives परमः the same -अः as धर्मः, "the highest dharma", just as एकः agrees with
+सिंहः in lesson 2's एकः सिंहः. अहिंसा is feminine, so had परमः described it the ending
+would have to differ. So the
 sentence says: non-harming = the highest dharma.
 
 **The joined original:** **अहिंसा परमो धर्मः** (ahiṃsā paramo dharmaḥ). One join:
@@ -607,7 +609,7 @@ or, with the [m] value, much the same sound as the pause form.
 | 1 | Quoting the added line "धर्महिंसा तथैव च" as the Mahābhārata's continuation. | §8, the documented-misquotation callout: not in the critical edition at any of the five places; at 1.11.12 the verse goes on सर्वप्राणभृतां स्मृतः. |
 | 2 | Saying "the Purāṇas say परोपकारः पुण्याय…". | §8, the TRADITION callout: "traditionally quoted as Vyāsa's teaching in the eighteen Purāṇas, summed up in two sayings"; the first line is not traced to any Purāṇa and speaks *about* Vyāsa. |
 | 3 | Explaining परमो as "the visarga turns the a into o". | The whole ending -अः becomes -ओ before a voiced consonant (§8, §15). |
-| 4 | Reading परमः as describing अहिंसा: "the highest non-violence is dharma". | परमः wears धर्मः's -अः; it belongs to धर्मः, "the highest dharma" (§8). |
+| 4 | Reading परमः as describing अहिंसा: "the highest non-violence is dharma". | परमः agrees with धर्मः in gender, number and case, so here it shows the same -अः; it belongs to धर्मः, "the highest dharma" (§8). |
 | 5 | Treating अष्टादश as अष्ट + दश joined by a vowel sandhi, or reading it as two words. | One compound numeral; अष्टा- is the shape "eight" takes in it (§8 FACT). |
 | 6 | Citing saying 2 to the Hitopadeśa's first book, Mitralābha. | It is in the introduction (prastāvikā), verse 36 (§8 HISTORY). |
 | 7 | Building verse forms into your own sentences: "अहम् उद्यमेन…", "कार्याणि सन्ति". | Verse forms are read, not produced; your sentences use उद्यमः, कार्यम् in singular sentence dress (§8, §15 fence). |
@@ -624,8 +626,8 @@ or, with the [m] value, much the same sound as the pause form.
 Start from the joined original **अहिंसा परमो धर्मः**. Find the seam: परमो ends in -ओ,
 and the next word begins with a consonant, ध्. Ask: which pause-form ending turns into
 -ओ before a voiced consonant? The ending -अः. So परमो ← परमः, and the pause form is
-**अहिंसा परमः धर्मः** (ahiṃsā paramaḥ dharmaḥ). Check the meaning: परमः and धर्मः now
-visibly wear the same dress, "the highest dharma". Compare lesson 2's कोऽपि ← कः अपि: the
+**अहिंसा परमः धर्मः** (ahiṃsā paramaḥ dharmaḥ). Check the meaning: परमः now visibly
+agrees with धर्मः, "the highest dharma". Compare lesson 2's कोऽपि ← कः अपि: the
 same ending, but there the next word began with अ, which disappeared, its place marked by ऽ.
 
 ### Counting a pāda — न हि सुप्तस्य सिंहस्य
@@ -888,7 +890,7 @@ and श in their places, plain ड in परपीडनम्, every visarga an
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. In अहिंसा परमः धर्मः, the word परमः describes: (a) अहिंसा: "the highest non-harming"
-   (b) धर्मः: "the highest dharma"; it wears धर्मः's -अः (c) nothing; it is a verb (d) the
+   (b) धर्मः: "the highest dharma"; it agrees with धर्मः (c) nothing; it is a verb (d) the
    reader
 2. The join परमः + धर्मः → परमो धर्मः is correctly described as: (a) the visarga turns
    the a into o (b) the whole ending -अः becomes -ओ before a voiced consonant (c) ध्

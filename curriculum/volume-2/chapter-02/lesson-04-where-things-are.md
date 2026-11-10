@@ -134,8 +134,8 @@ The second science of the day is about tables. कुत्र is not an isolate
 a grid — the place-suffix -त्र on four stems: अ- "near me", त- "over there", य- "which
 (relative)", कु- "what?". Fill the grid and you get अत्र, तत्र, यत्र, कुत्र. Hindi speakers own
 the same grid natively — यहाँ, वहाँ, जहाँ, कहाँ — the same four-way system living on in the
-daughter language [REF:masica1991]. Learning a cell in a table you already half-own is the
-cheapest vocabulary there is: function words learned inside frames stick as chunks
+daughter language [REF:masica1991]. Learning a cell in a table you already half-own is
+cheap vocabulary: function words learned inside frames stick as chunks
 [REF:nation2013], and every round of today's asking-and-pointing game is retrieval practice,
 a rehearsal shown to beat re-reading [REF:roediger2006].
 
@@ -174,8 +174,8 @@ one honest name, more in §15.
 शब्द बता दिया था। सच यह है: और हिन्दी का अपना शब्द है — अपनी भाषा में बिलकुल सही; संस्कृत का
 अपना जोड़-शब्द है च। और च की चाल हिन्दी से उलटी है — वह जोड़े हुए शब्दों के **बीच** नहीं,
 **पीछे** चलता है: रामः सीता च — "राम और सीता"। याद कीजिए "भी" वाला अपि — वह भी अपने शब्द के
-पीछे बैठता है। संस्कृत के ये छोटे शब्द पीछे से काम करते हैं; वाक्य का पहला स्थान इन्हें कभी
-नहीं मिलता।
+पीछे बैठता है। संस्कृत के ये छोटे शब्द पीछे से काम करते हैं। च को वाक्य का पहला स्थान कभी नहीं
+मिलता; पर अपि अपने दूसरे काम में — प्रश्न अपि कुशलम्? में — वाक्य के आरम्भ में भी आता है।
 
 तीसरी बात — अध्याय के नाम का ताला आज खुला: **परिवारः जगच्च**। यह जगत् + च है — "परिवार और
 जगत्"। बोलने में जगत् का त् अगले च से मिलकर जगच्च बन जाता है — वैसे ही जैसे न + अस्ति जुड़कर
@@ -395,7 +395,7 @@ memory.
 
 व्याकरणम् — one placement rule, two finished kits, one honest deferral.
 
-### The enclitic family — words that walk behind
+### The after-words — च and अपि walk behind
 
 > **[FACT · तथ्यम्]** च "and" stands after the word or pair it joins and never opens a
 > sentence: रामः सीता च "Rāma and Sītā"; doubled, रामः च सीता च "both Rāma and Sītā". अपि in
@@ -407,7 +407,8 @@ memory.
 
 कः (kaḥ) "who? (m)" · का (kā) "who? (f)" · किम् (kim) "what?" · कुतः (kutaḥ) "from where?" ·
 कथम् (katham) "how?" · कुत्र (kutra) "where?" — six askers, one ancient k- at the head of
-each. Recite the kit as a chant; it is lesson 5's warm-up and Volume 3's scaffolding.
+each (कति "how many?", a v1.c02.l01 headword, stands beside them until next chapter's
+numbers). Recite the kit as a chant; it is lesson 5's warm-up and Volume 3's scaffolding.
 
 ### The location kit — complete
 

@@ -106,8 +106,8 @@ rehearsed in §21 (teach-back).
 > sandhyakṣara, "junction vowels": within the system they behave as fusions of a with i and
 > a with u. [REF:maheshvarasutras 3–4]
 
-Modern historical grammar agrees with the old label: ए ऐ ओ औ descend from earlier a+i and a+u
-combinations, which is why they drive the sandhi patterns you will meet in Volume 3
+Modern historical grammar agrees with the old label: ए and ओ go back to earlier a+i and a+u,
+ऐ and औ to ā+i and ā+u, which is why they drive the sandhi patterns you will meet in Volume 3
 [REF:whitney1889 §§27–29] [REF:burrow2001]. Today you complete the set the sūtras close with.
 
 One more fact hides in this lesson's famous syllable:
@@ -298,8 +298,8 @@ The course values (STYLE_GUIDE §2): ओ = **/oː/**, औ = **/ɐu̯/**.
   long, like all four sandhyakṣara.
 - **English "go":** phonetically [oʊ] (many British accents [əʊ]) — a closing diphthong. A
   useful *contrast* transcription, never a target value in this course.
-- **ॐ:** in careful recitation, [oːm] — today's pure long vowel plus a plain m-closure
-  [REF:whitney1889 §28]. The full story, in three layers, is §17.
+- **ॐ:** in careful recitation, [oːm] — today's pure long vowel [REF:whitney1889 §28] plus a
+  plain m-closure. The full story, in three layers, is §17.
 
 ## 11. Mouth Position
 
@@ -363,8 +363,8 @@ Not even two chapters in, you are already catching Sanskrit's word-machinery in 
 **कोकिल** (kokila) "cuckoo" — कोयल · /koːkilɐ/ — is the beloved songbird of Sanskrit poetry;
 when the poets arrive in later volumes, this bird will already be an old friend.
 
-- **लोक** (loka) "world, people" — लोक, संसार · /loːkɐ/. One of the language's
-  highest-frequency nouns; it will meet you in compounds everywhere.
+- **लोक** (loka) "world, people" — लोक, संसार · /loːkɐ/. A very common
+  noun; it will meet you in compounds everywhere.
 - **कोमल** (komala) "soft, tender" — कोमल · /koːmɐlɐ/. Say all three vowels: ko-ma-la.
 - **कौतुक** (kautuka) "curiosity, festivity" — कौतूहल · /kɐu̯t̪ukɐ/. The dialogue word of §16.
 - **लोल** (lola) "swaying, eager" — चंचल · /loːlɐ/. Two pure o-vowels — a double freeze test.
@@ -453,9 +453,9 @@ deep meaning for many people, the course owes it the cleanest treatment it can g
 is, in three layers, each labeled as what it is.
 
 > **[FACT · तथ्यम्]** Phonetically, the careful recitation of ओम् is [oːm]: the pure long
-> vowel /oː/ you learned today, closed by a simple [m]. Two sounds, two-plus beats, no mystery
-> to the articulation. In writing, the syllable is conventionally a single ligature, ॐ (oṃ),
-> rather than a letter sequence. [REF:whitney1889 §28]
+> vowel /oː/ you learned today [REF:whitney1889 §28], closed by a simple [m]. Two sounds,
+> two-plus beats, no mystery to the articulation. In writing, the syllable is conventionally a
+> single ligature, ॐ (oṃ) — Unicode U+0950 — rather than a letter sequence.
 
 > **[TRADITION · परम्परा]** The Māṇḍūkya Upaniṣad — a short classical Upaniṣad devoted
 > entirely to this syllable, composed in the Upaniṣadic era (precise dating debated) —
@@ -763,8 +763,10 @@ narrator reads them as IPA, not as English spelling.
   (first-taught v1.c02.l04);
   द्विस्वर used informally for "diphthong" in Hindi text — reconcile with GLOSSARY's chosen
   term.
-- **Verification flags for Pass C:** [REF:whitney1889 §28] locus for the [oːm] reading —
-  confirm exact §; [REF:whitney1889 §§27–29] sandhyakṣara/fusion locus — confirm;
+- **Verification flags for Pass C:** [REF:whitney1889 §28] supports only the pure long o of
+  [oːm] (e and o "without diphthongal character"; nothing on ॐ itself) — §10 and §17 now
+  cite it for the vowel alone (2026-11-10 sweep); [REF:whitney1889 §§27–29]
+  sandhyakṣara/fusion locus — confirmed;
   [REF:masica1991 ch.6] covers mātrā composition (§5, §15 Rule 1) only — the om-sign statements
   (§4, §15 Rule 2) are FACT checked against the Unicode code charts (U+0950, U+0AD0, U+0BD0),
   which carry no REF key; vṛddhi pattern (§13) currently cited to Apte s.v. — add a

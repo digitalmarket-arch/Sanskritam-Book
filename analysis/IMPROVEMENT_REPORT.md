@@ -149,7 +149,7 @@ v4.c02.
 
 **IR-022 · Anubandha rules wrong** — "ङ् blocks guṇa; क् blocks guṇa + vṛddhi" (pp.93, 95):
 क्ङिति च ([REF:ashtadhyayi 1.1.5]) blocks both for both. "न् → udātta on ending vowel" (p.94):
-the accent rule for ñit/ṇit affixes is initial udātta, not final. → 2.0: v4.c02 anubandha
+the accent rule for ñit and nit affixes (ञ्नित्यादिर्नित्यम्, 6.1.197) is initial udātta, not final. → 2.0: v4.c02 anubandha
 table verified per sūtra.
 
 **IR-023 · Broken passive paradigm** — the laṭ passive of √पठ् (p.103) mislabels its rows
@@ -185,11 +185,12 @@ worked scansion prints wrong cadence strings. → 2.0: v5.c04 with correct pathy
 treatment.
 
 **IR-029 · Gāyatrī miscounted** — the "24 syllables" total is applied to text including
-ॐ भूर्भुवः स्वः (p.120); the 24 count (3×8) covers only तत्सवितुर्… ([REF:rigveda 3.62.10]); the
+ॐ भूर्भुवः स्वः (p.120); the metre's 24 (3×8) belongs to तत्सवितुर्… alone ([REF:rigveda 3.62.10]), and even there
+only with वरेण्यम् read as four syllables (वरेणियम्): as written the verse has 23. The
 vyāhṛtis are a liturgical prefix. → 2.0: v5.c04 counts the verse proper.
 
 **IR-030 · Attribution/dating errors** — Panchatantra "~300 BCE… oldest fable collection"
-(p.56): extant text c. 200 BCE–300 CE and Aesop is older; महाभारत glossed "Great India"
+(p.56): its lost original is dated only by estimate (c. 200 BCE–300 CE), and Aesop is older; महाभारत glossed "Great India"
 (p.58): bhārata = the Bharata clan; "Gita is Chapter 6 of the Mahabharata" (p.58): it sits
 within the Bhīṣmaparvan (6th of 18 *books*), chapters 23–40; "संगे शक्तिः" for "unity is
 strength" (p.57): the maxim is सङ्घे शक्तिः and is not a Panchatantra verse. → 2.0: v5 texts
@@ -213,7 +214,8 @@ and range phrasing; percentages without sources don't ship.
 the Latin and Sanskrit forms are *cognates* under PIE, and the quiz hard-codes the false
 derivation as correct. Also युग → "juggle" (p.62): juggle < Latin iocus, unrelated. विमान
 decomposed as "वि + मान (vehicle)" (p.62): it is वि + √मा. The cognates unit itself is
-otherwise strong (19/20 correct). → 2.0: v2.c06 teaches cognate-vs-loanword explicitly; the
+otherwise strong (19 of its 20 pairs are real relatives, though it presents them as
+derivations). → 2.0: v2.c06 teaches cognate-vs-loanword explicitly; the
 19 good cognate sets kept with PIE roots [REF:mallory2006].
 
 ## 6. Fact / tradition / symbolism conflation
@@ -258,7 +260,7 @@ sandhi is taught in Chapter 11 (pp.71+). → 2.0: v2 readers use sandhi-resolved
 
 **IR-040 · The verb cliff.** All 10 lakāras, both padas, and the sanādi derivations arrive in
 three lessons (pp.74–77) with zero prior conjugation practice anywhere in the book. → 2.0:
-verbs ramp across v2.c04 (laṭ 3rd person) → v3.c03 (four common lakāras, drilled) → v4.c03
+verbs ramp across v2.c04 (laṭ singular, all three persons) → v3.c03 (four common lakāras, drilled) → v4.c03
 (full system).
 
 **IR-041 · Meta-grammar at the wrong altitude.** Paribhāṣā, anubandha theory, and the 42
@@ -304,7 +306,8 @@ Recorded explicitly, because 2.0 keeps all of it (destinations in ROADMAP §pres
    explanation (pp.47–51).
 5. The graded readers — Thirsty Crow, Lion & Mouse (pp.64–66) — clean connected prose, the
    best pedagogy in the book.
-6. The IE cognates unit, 19/20 correct (pp.61–62).
+6. The IE cognates unit (pp.61–62): 19 of its 20 pairs are real relatives, though framed as
+   derivations.
 7. The Pāṇinian strand's skeleton: Māheśvara sūtras correctly listed (p.69), pratyāhāra system
    (pp.70–71), visarga sandhi (pp.71–73), 10 lakāras with correct example forms (p.74), kāraka
    with 6/6 verified sūtras + the Fillmore parallel (pp.87–89), krit/taddhita examples

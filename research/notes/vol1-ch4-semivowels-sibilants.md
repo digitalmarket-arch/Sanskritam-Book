@@ -2,8 +2,8 @@
 
 Verified facts and word inventories gathered **before** drafting v1.c04. Chapter 4 delivers
 the final 8 consonants — the four antaḥsthā (य र ल व) and the four ūṣman (श ष स ह) — and
-with them the **complete varṇamālā**. The readable-vocabulary unlock is the largest of the
-volume: र brings राम and गुरु; स brings सीता and भाषा; ह completes हिमालय and गृह; and four
+with them the **complete varṇamālā**. The readable-vocabulary unlock is 43 words (Chapter 3's 60 is the
+volume's largest — corrected at the 2026-11-10 sweep): र brings राम and गुरु; स brings सीता and भाषा; ह completes हिमालय and गृह; and four
 new readable verbs (भवति, वदति, हसति, वहति) (corrected at audit) make the pause-form sentence set genuinely expressive.
 
 Cumulative glyph ledger entering Ch 4: all vowels + mātrās + ं ः + ॐ + 25 stops + क म त ल
@@ -16,7 +16,7 @@ Apte/Monier-Williams; nothing else may appear as readable vocabulary.
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 0.1 | अन्तःस्थ "standing between": य र ल व sit between vowels and stops — approximants/liquids, each historically paired with a vowel (य~इ, र~ऋ, ल~ऌ, व~उ). | FACT | [REF:whitney1889 §§51–58] | The vowel-kinship explains sandhi later (V3) — one-line preview only. |
+| 0.1 | अन्तःस्थ "standing between": य र ल व sit between vowels and stops — approximants/liquids, each historically paired with a vowel (य~इ, र~ऋ, ल~ऌ, व~उ). | FACT | [REF:whitney1889 §§25, 51–58] | The vowel-kinship explains sandhi later (V3) — one-line preview only. |
 | 0.2 | ऊष्मन् "heat/steam": श ष स ह — the breath sounds. ह is a voiced glottal fricative, NOT a sibilant (the traditional class groups them; the phonetic distinction is stated). | FACT | [REF:whitney1889 §§59–65]; STYLE_GUIDE §2.2 | Continues the 1.x fix (IR-012). |
 | 0.3 | With these 8, the inventory completes: 13 vowels + 33 consonants + 2 ayogavāha — the counts promised in v1.c01.l02, now fully owned. | FACT | [REF:whitney1889 §§19–75] | The chapter's arc: completion. |
 | 0.4 | श /ɕ/ vs ष /ʂ/: palatal vs retroflex — tongue-position transfer from Ch 3's च-row and ट-row places. Never both "sha". | FACT | STYLE_GUIDE §2.2 | The chapter's flagship contrast. |
@@ -69,7 +69,7 @@ to finish (the L4 assessment's centerpiece); नमस्ते status: न-म-
 ## 4. L4 — Review & assessment: the Alphabet Exam
 
 Mirrors the established review architecture (Station 0 = Ch 3's +1-week interval; per-lesson
-stations; five tasks). Cumulative readable vocabulary ≈ 140 words. Task E = the full
+stations; five tasks). Cumulative readable vocabulary 157 words (114 + 43; corrected at the 2026-11-10 sweep). Task E = the full
 varṇamālā written from memory in traditional order (vowels → ayogavāha note → 25 stops by
 varga → य र ल व → श ष स ह), timed 8 min. Task C includes a 5-sentence pause-form set:
 रामः वदति। गुरुः हसति। कविः चलति। कोकिलः कूजति। वायुः वहति।

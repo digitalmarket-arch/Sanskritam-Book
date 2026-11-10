@@ -105,8 +105,7 @@ Run it now, three minutes, scores logged beside yesterday's [REF:cepeda2006].
    /3 (row · row · trio); log it beside lesson 2's scores.
 1. -मि marks I, -सि marks you, -ति marks he/she/it (v2.c04.l02). वदामि since v1.c05 —
    वदति since v1.c04 (and -ति forms since चलति, v1.c03); the pattern was named only
-   yesterday, but your mouth has owned
-   pieces of it for a volume and a half.
+   yesterday, but your mouth has owned pieces of it for a volume and a half.
 2. Person mismatch — अहम् takes the -मि form: अहम् गच्छामि। The error returns in today's
    §12, because today's dialogue is exactly where it likes to strike.
 3. खादति (khādati) "eats" · पिबति (pibati) "drinks" · पश्यति (paśyati) "sees" · शृणोति
@@ -122,14 +121,14 @@ a halt today.
 
 ## 4. Historical Context
 
-ऐतिहासिकः सन्दर्भः — the busiest verb in the language, and the course's own name.
+ऐतिहासिकः सन्दर्भः — a workhorse verb of the language, and the course's own name.
 
 Every language keeps one overworked verb that does everything nobody else does — English
 *do*, Hindi करना. Sanskrit's is कृ (kṛ), and today you meet it on duty: करोति "does, makes".
 
-> **[FACT · तथ्यम्]** कृ "to do, to make" is among the highest-frequency verbs of classical
-> Sanskrit; the dictionaries give it one of their longest entries — it does, makes,
-> prepares, performs, and builds hundreds of idioms. Its present singular runs करोमि,
+> **[FACT · तथ्यम्]** कृ "to do, to make" is a workhorse verb of classical Sanskrit;
+> Apte's dictionary gives it one of its longest entries — it does, makes, prepares,
+> performs, and enters a great many set phrases. Its present singular runs करोमि,
 > करोषि, करोति.
 > [REF:apte1890 s.v. कृ]
 
@@ -137,8 +136,9 @@ Every language keeps one overworked verb that does everything nobody else does �
 > built on सम् + कृ — "put together, polished, perfected". When you said the course's
 > first word, you were already saying a कृ word. [REF:monierwilliams1899 s.v. संस्कृत]
 
-One line of course history, honestly told: the 1.x curriculum shipped करोति inside a full
-कृ paradigm dump that the audit flagged as its worst sequencing error. 2.0 hands you today
+One line of course history, honestly told: the 1.x curriculum dumped all ten tense-and-mood
+systems on learners at once, with no prior conjugation practice (the audit's verb-cliff
+finding), and its voice card listed कृ under two contradictory labels. 2.0 hands you today
 exactly three whole words and one living question — the paradigm takes its proper seat in
 Volume 4, and this lesson says so out loud.
 
@@ -151,9 +151,9 @@ can always be asked, of anyone, about anything. That is precisely why it earns i
 this chapter's engine: every time it is asked, some verb must be *retrieved and produced*,
 and every honest answer is one more rep on the pattern lesson 2 named.
 
-> **[FACT · तथ्यम्]** Question-answer frames are learned fastest as chunks — frame in,
-> frame out — and every run through a question-answer exchange is retrieval practice, the
-> strongest rehearsal there is. Today's engine is two chunks and one swap.
+> **[FACT · तथ्यम्]** Question-answer frames can be learned whole, as chunks — frame in,
+> frame out — and every run through a question-answer exchange is retrieval practice, which
+> beats re-reading for long-term retention. Today's engine is two chunks and one swap.
 > [REF:nation2013] [REF:roediger2006]
 
 The swap is the real work, so name it: when you *hear* करोषि, the truthful answer comes
@@ -162,7 +162,7 @@ this ("तुम क्या कर रहे हो?" — "मैं पढ़
 to run on Sanskrit endings under time pressure. We drill the swap, not just the forms.
 
 Two honest design notes. First, करोति is taught as three whole words, not as a pattern —
-everyday "do"-verbs are irregular in language after language (English *do/does/did*, *go/
+everyday verbs are irregular in language after language (English *do/does/did*, *go/
 went*), and pretending otherwise manufactures errors. Second, the question itself stays
 level-tuned: किम् does the asking, exactly as the question-kit rule of v2.c01.l02 said.
 
@@ -208,8 +208,8 @@ Everything here is built from yesterday's pattern plus three whole words: कर
 शब्द अपना आधार अलग ढंग से बनाता है — पूरी व्यवस्था खण्ड 4 में आएगी, और तब तक यही एक पंक्ति
 पूरा सच है: पूरा शब्द पढ़िए, पूरा शब्द बोलिए। इसी में -षि/-सि की बात भी आ जाती है: करोषि
 में ष है, गच्छसि में स। करोषि का ष पूरे शब्द के साथ आता है — शृणोषि में भी यही ष है; कारण
-आज नहीं। कोई नियम मत खोजिए; शब्द को पूरा
-पहचानिए। और ओ सदा लम्बा: क-रो-ति, तीनों रूपों में।
+आज नहीं। कोई नियम मत खोजिए; शब्द को पूरा पहचानिए। और ओ सदा लम्बा: क-रो-ति, तीनों
+रूपों में।
 
 दो बातें और। पहली — आदर का रूप: भवान् किम् करोति? (आप क्या कर रहे हैं?)। ध्यान दीजिए:
 भवान् के साथ करोति-रूप चलता है — वही रूप जो सः के साथ। क्यों, यह आगे की कथा है; आज के लिए
@@ -231,8 +231,8 @@ yesterday's endings waving from the windows — -मि, -षि, -ति — bu
 गच्छ pattern: this word builds its stem differently, and the honest move is to learn the
 row whole, exactly as you learned अस्मि-असि-अस्ति. No "करति", no "करसि" — those are
 pattern-forced inventions, and §12 is waiting for them. The system behind कृ's shapes is
-Volume 4's story, told properly there; today three whole words buy you the best question
-in the language.
+Volume 4's story, told properly there; today three whole words buy you a question that
+works on every verb you own.
 
 ### The engine — ask in the you-form, answer in the I-form
 
@@ -361,11 +361,11 @@ two syllables sharing one long closure. Shortening it to /ɐn̪ɐm/ changes the 
 
 1. **The -षि/-सि confusion.** Writing or reading करोसि, or "correcting" गच्छसि to गच्छषि
    because करोषि looked authoritative. *Fix:* the ष comes with the whole word; the
-   reason waits for Volume 4 — read the whole word. करोषि keeps its ष, गच्छसि keeps its स, शृणोषि keeps its ष — each word whole, no
-   rule hunted today (§8, §9 drill 2).
+   reason waits for Volume 4. करोषि keeps its ष, गच्छसि keeps its स, शृणोषि keeps its
+   ष — each word whole, no rule hunted today (§8, §9 drill 2).
 2. **The person mismatch: अहम् गच्छति।** THE flagged error, carried straight from lesson
-   2 — and today's dialogue is where it strikes, because the question hands you a -षि
-   form and your mouth wants to echo a third-person -ति. *Fix:* अहम् takes -मि, always:
+   2 — and today's dialogue is where it strikes, because the reporter round keeps a
+   third-person -ति ringing in your ear and your mouth wants to echo it. *Fix:* अहम् takes -मि, always:
    अहम् गच्छामि। अहम् करोमि। Run §18 exercise 2 until the swap is automatic.
 3. **Answering about yourself in the he-form.** किम् त्वम् करोषि? — "पठति।" No: that
    says *he* reads. You are not the reporter of your own life; you are the speaker.
@@ -389,13 +389,14 @@ two syllables sharing one long closure. Shortening it to /ɐn̪ɐm/ changes the 
 
 > **[FACT · तथ्यम्]** The cognate shelf stays honest by staying empty when it is empty:
 > करोति offers no everyday-English cognate for this course's shelf — nothing like
-> जानाति's *know*. जानाति (jānāti) itself, from lesson 1, remains the chapter's one
-> shelf verb: Sanskrit जानाति and English *know* are parallel descendants of one ancient
+> जानाति's *know*. जानाति (jānāti) itself, from lesson 1, is one of the chapter's two
+> shelf verbs (the other is पिबति, sibling of Latin *bibit*): Sanskrit जानाति and English
+> *know* are parallel descendants of one ancient
 > root — siblings by shared descent, borrowed by no one. [REF:mallory2006]
 
 Honesty beats reaching, as always: a shelf that only holds real siblings is a shelf you
 can trust. करोति's riches are elsewhere — in what it *does* (§4): it is the verb inside
-संस्कृतम् (saṃskṛtam) itself, and the busiest worker in the dictionary.
+संस्कृतम् (saṃskṛtam) itself, and owns one of the longest entries in the dictionary.
 
 ### माता अन्नम् करोति — the verb's second job
 
@@ -413,8 +414,8 @@ making-sentence will sit side by side in §16's kitchen.
 **अर्जुनः क्षीरम् पिबति।** (arjunaḥ kṣīram pibati.) "Arjuna is drinking milk." — अर्जुन
 दूध पी रहा है।
 
-The new words slot into the oldest object frame you own: फलम् खादति (v1.c06), जलम्
-पिबति, पुस्तकम् पठति — and now अन्नम् खादामि, क्षीरम् पिबामि. Observation, not law: the
+The new words slot into the oldest object frame you own — पुस्तकम् पठति since v1.c06.l03,
+फलम् खादति and जलम् पिबति since lesson 1 — and now अन्नम् खादामि, क्षीरम् पिबामि. Observation, not law: the
 object wears म्. The machinery behind that dress is later business; the sentences are
 safe ground now, glossed whole, exactly as they have been for a volume.
 
@@ -516,13 +517,13 @@ Evening at home; माया wanders in, curious as ever.
 (mātā annam karoti!) "Mother is making food!" — माता भोजन बना रही हैं!
 
 — माया: आम्! अहम् अपि अन्नम् खादामि!
-(ām! aham api annam khādāmi!) "Yes! I'm eating food too!" — हाँ! मैं भी खाना खाती हूँ!
+(ām! aham api annam khādāmi!) "Yes! I'm eating food too!" — हाँ! मैं भी खाना खा रही हूँ!
 
 Watch the engine do the teaching. माया asks in the you-form; अर्जुनः answers in the
 I-form and hands the question straight back — the swap, twice, in four turns. The
-reporter round follows (माता किम् करोति?) with no swap at all. And करोति works both its
-jobs in one line: माता *makes* food; माया, uninvited as ever, plans to *do* something
-about that — the old अपि joke riding today's verb.
+reporter round follows (माता किम् करोति?) with no swap at all, and its answer shows
+करोति's second job: माता *makes* food. Then माया parks अपि behind अहम् — she is eating
+too, though nobody asked: the old अपि joke, riding a bank verb.
 
 ### Scene 2 — the classroom dare
 
@@ -864,7 +865,7 @@ narrator reads the cue, not the English spelling.
 
 - **00:00** You have said this verb since your very first lesson. saṃskṛtam [sɐ̃skr̩t̪ɐm]
   — "put together, perfected" — has kṛ [kr̩], "do, make", built into its name. Today kṛ
-  goes to work, and it brings the best question in the language.
+  goes to work, and it brings a question that works on every verb you own.
 - **00:40** Three whole words, one family: karomi [kɐɾoːmi] — I do. karoṣi [kɐɾoːʂi] —
   you do. karoti [kɐɾoːt̪i] — he or she does. Do not pour them into yesterday's pattern —
   this word builds its stem differently, and the honest move is to learn the row whole.
@@ -897,8 +898,8 @@ narrator reads the cue, not the English spelling.
   क्षीरम् पिबामि! Freeze on the family ring: करोमि · करोषि · करोति — "three whole words,
   no pattern forced — this verb builds differently, and the course says so."
 - **Payoff (0:30–0:43):** "One question, ten verbs, every honest answer a rep. And the
-  verb inside it? The same कृ that's inside the word संस्कृतम् — the 'perfectly put
-  together' language."
+  verb inside it? The same कृ that's inside the word संस्कृतम् — 'put together,
+  polished'."
 - **CTA (0:43–0:50):** "Ask someone किम् करोषि? today — and answer truthfully. Next: a
   whole day told in verbs — क्रियाकथा." End card: किम् करोषि? → v2.c04.l04: क्रियाकथा —
   A Day of Verbs.
@@ -924,9 +925,9 @@ narrator reads the cue, not the English spelling.
   builds on v2.c04.l01 (the ten-verb bank; जानाति ~ know shelf row reviewed in §13),
   v1.c05.l01 (भवान् the polite chunk; the precedent for today's one honest line),
   v1.c06.l02 (त्वम्/भवान् register split; the dialogue format), the v1.c06 object policy
-  (फलम् खादति — extended today to अन्नम्/क्षीरम्, policy 0.5 of the chapter fact base),
+  (पुस्तकम् पठति; फलम् खादति since v2.c04.l01 — extended today to अन्नम्/क्षीरम्, policy 0.5 of the chapter fact base),
   v2.c02.l01–l02 (the household cast: अर्जुनः and कमला as माया's siblings), and
-  v2.c03.l03 (सायम् in the story's opening line); feeds v2.c04.l04 (its Station 0 is
+  v2.c01.l03 (सायम्, back in the story's opening line); feeds v2.c04.l04 (its Station 0 is
   booked verbatim in §20; the story's सायम्/गृहम् opening seeds the day-passage style,
   and the passage will turn the question on the reader), v2.c04.l05 (exam task C tests
   करोमि-करोषि-करोति as whole-word rows; task D's register cards reuse §15's honest
@@ -954,11 +955,12 @@ narrator reads the cue, not the English spelling.
   parentheticals) are scaffolding — exclude from Sanskrit-coverage lints; the blanks
   (______) and cue parentheses in §18/§23 are intentional non-words — exclude from
   transliteration spot checks.
-- **Verification flags for Pass C:** करोमि/करोषि/करोति forms, the senses "does, makes,
-  prepares, performs", and the idiom प्रश्नम् करोति (§17)
-  against [REF:apte1890 s.v. कृ] (not yet located there, so §4 and §17 make no idiom
-  claim for it; अन्नम् करोति in §13 is now framed as plain verb + object, no idiom claim;
-  confirm the gloss "making food" for माता अन्नम् करोति); संस्कृतम् = सम् + कृ "put together, perfected" (§4)
+- **Verification flags for Pass C:** करोमि/करोषि/करोति forms and the senses "does, makes,
+  prepares, performs" against [REF:apte1890 s.v. कृ] (verified: Apte lists to do, to make,
+  to prepare, to perform, and "to cook (as food) as in कृतान्नम्", which supports the gloss
+  "making food" for माता अन्नम् करोति; प्रश्नम् करोति (§17) is not listed there, so §4 and
+  §17 make no idiom claim for it, and §13 frames अन्नम् करोति as plain verb + object);
+  संस्कृतम् = सम् + कृ "put together, perfected" (§4)
   against [REF:monierwilliams1899 s.v. संस्कृत]; भवान् construing with the third-person
   form (§15) against [REF:whitney1889] — locate the § or keep the bare citation per the
   chapter's Pass C checklist; अन्नम् and क्षीरम् s.vv. (fact base 0.5); the जानाति ~
@@ -973,7 +975,7 @@ narrator reads the cue, not the English spelling.
 - **Glossary:** no new glossary terms this lesson; क्रिया and संज्ञा usage per
   GLOSSARY.md; प्रश्नः stays glossed-in-passing (§17), not counted — the v2.c01.l02
   precedent. सम्भाषणम् remains the §16 section label only, as in all lessons.
-- **Register audit:** FACT ×7 (§4 कृ frequency/idioms ×1 · §4 संस्कृतम् etymology ×1 ·
+- **Register audit:** FACT ×7 (§4 कृ senses/entry length ×1 · §4 संस्कृतम् etymology ×1 ·
   §5 chunks/retrieval ×1 · §13 jānāti~know + empty-shelf honesty ×1 · §15 swap + laṭ
   coverage ×1 · §15 करोति stem honesty ×1 · §15 भवान् agreement ×1) · HISTORY ×0 ·
   TRADITION ×0 · SYMBOL ×0. Quiz Q1–Q9 all FACT-register content taught in

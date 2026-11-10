@@ -51,8 +51,8 @@ updated: 2026-07-21
 Two chapters in, the entire vowel side of Sanskrit is yours: thirteen vowels, ten mātrās,
 two dependent signs, and fifty-four readable words — from मम to अमृत to कुतः. In
 Chapter 1 you proved you could read twelve words. Today the list is more than four times
-longer, the contrasts are finer (length, glide, the r-vowel), and one syllable on it is the most famous
-syllable on Earth. Nothing new enters this lesson. Today you prove the whole map.
+longer, the contrasts are finer (length, glide, the r-vowel), and one syllable on it is the famous
+syllable ॐ. Nothing new enters this lesson. Today you prove the whole map.
 
 ## 2. Learning Objective
 
@@ -104,7 +104,7 @@ minutes; log your scores next to the old ones.
 3. Read aloud: ऋतु, कृत, मृत, मातृ, अमृत.
 4. अमृत and *ambrosia* — what exactly is the relationship?
 
-*Check against l03 §9 (and §5 for the English words), §7, §14, §13.*
+*Check against l03 §9 (and §5 for the English words), §4, §14, §13.*
 
 ### Station 4 — ए ऐ (lesson 4)
 
@@ -140,9 +140,10 @@ the weakest station today and assess tomorrow — the extra spacing helps [REF:c
 
 ऐतिहासिकः सन्दर्भः — one paragraph, as in every review lesson.
 
-The tradition that carried these sounds across three millennia leaned on
-structured repetition — and memory science explains why repetition pays off most when it
-is spaced:
+The tradition that carried these sounds across three millennia relied on disciplined oral
+recitation, teacher to student [REF:jamison2014 p.5]. Scheduled, spaced review is a modern
+tool rather than that tradition's documented method — but memory science explains why
+repetition pays off most when it is spaced:
 
 > **[FACT · तथ्यम्]** Spaced practice produces far more durable learning than the same
 > practice massed together. [REF:cepeda2006]
@@ -188,7 +189,8 @@ ear-words until their letters arrive in Chapter 3.
 
 1. **ऋ का स्टेशन।** "रि" आपकी हिन्दी की देन है — वह ग़लती नहीं, पर संस्कृत का लक्ष्य /r̩/
    है। brrr वाला अभ्यास दोहराइए और अपनी रिकॉर्डिंग सुनिए।
-2. **विसर्ग का स्टेशन।** हिन्दी में विसर्ग नहीं है, इसलिए यह सबको नया है — यहाँ आप और
+2. **विसर्ग का स्टेशन।** हिन्दी में विसर्ग बस कुछ तत्सम शब्दों (अतः, दुःख) में लिखा जाता है और
+   बोलचाल में शायद ही सुनाई देता है, इसलिए उसकी अघोष साँस लगभग सबको नई है — यहाँ आप और
    अंग्रेज़ी-भाषी साथी बराबर हैं। हथेली होंठों के सामने रखकर साँस का हल्का झोंका महसूस कीजिए।
 3. **ऐ और औ के स्टेशन।** हिन्दी का ऐ [ɛː] और औ [ɔː] — संस्कृत के [ɐi̯] और [ɐu̯] से अलग।
    जोड़-स्वर की सरकन जान-बूझकर कीजिए: अ से इ की ओर, अ से उ की ओर।
@@ -201,7 +203,7 @@ ear-words until their letters arrive in Chapter 3.
 
 The assessment architecture, scaled up from Chapter 1's.
 
-| Task | Skill | Format | Pass line |
+| Task | Skill | Format | Full-credit line |
 |---|---|---|---|
 | A | Hearing contrasts | 12 audio items across ALL vowel contrasts | 10/12 |
 | B | Writing | 10-item dictation from the cumulative list | 8/10 fully correct |
@@ -267,7 +269,7 @@ Task failures almost always land in one of these rows.
 | 5 | Hindi [ɛː] and [ɔː] habits for ऐ and औ | A, C | l04 §7, l05 §7 |
 | 6 | ि written after its consonant; ु beside instead of below | B, E | l01 §15, l02 §15 |
 | 7 | Visarga voiced or dropped | C | l06 §9, §12 |
-| 8 | Anusvāra always read [m] | C, quiz | l06 §5 homorganic rule |
+| 8 | Anusvāra always read [m] | quiz | l06 §5 homorganic rule |
 
 ## 13. Examples
 
@@ -310,7 +312,7 @@ every vowel at full value.
 | कति | kati | /kɐt̪i/ | how many | कितने | l01 |
 | कील | kīla | /kiːlɐ/ | pin, wedge | कील | l01 |
 | लीला | līlā | /liːlɑː/ | play | लीला | l01 |
-| ममता | mamatā | /mɐmɐt̪ɑː/ | mine-ness, affection | ममता | l01 |
+| ममता | mamatā | /mɐmɐt̪ɑː/ | mine-ness, attachment | ममता | l01 |
 | मित | mita | /mit̪ɐ/ | measured | मित | l01 |
 | कुल | kula | /kulɐ/ | family | कुल | l02 |
 | तुला | tulā | /t̪ulɑː/ | balance, scales | तुला | l02 |
@@ -394,8 +396,8 @@ after your own attempt):
    फिर — आनन्द!
 
 (Glue verbs stay 🔊 and optional; nominal lines are honest at this level. The point is
-retrieval + recombination — and retrieval practice is among the best-evidenced moves in the
-learning toolkit [REF:roediger2006].)
+retrieval + recombination — and retrieval practice beats re-reading for long-term retention
+[REF:roediger2006].)
 
 ## 18. Exercises
 
@@ -415,7 +417,7 @@ its place, every sign present.
 **कार्यम् C · वाचनम् (reading aloud — 15 words, production).** Record yourself reading, cold:
 इति · कील · ममता · कुल · कूल · मुकुल · ऋतु · मातृ · अमृत · एक · तैल · कोकिल · कौतुक ·
 ततः · कुतः. Score each against §9–§10: clean / length-error / glide-error / ṛ-error /
-visarga-error. 12+ clean = pass.
+visarga-error. 12+ clean = full credit.
 
 **कार्यम् D · श्रेणीविभागः (register sort — 9 cards, production of reasoning).** FACT /
 HISTORY / TRADITION / SYMBOL — or reject. One line of reasoning each.
@@ -465,7 +467,7 @@ All twenty-three, correct positions and shapes, within time.
 3. कुल "family", कूल "riverbank" — length alone; and the lips actively ROUND (first rounded
    vowels of the course). → l02 §13, §5.
 4. /r̩/, a syllabic r; "ri" is a modern regional habit (north-Indian reflex), not the
-   classical target — a habit, not an error, but not today's goal. → l03 §5, §7.
+   classical target — a habit, not an error, but not today's goal. → l03 §4, §5.
 5. अ- "not" + मृत "dead" → "the deathless"; hence "nectar of immortality". → l03 §13.
 6. English "hey" is a glide [eɪ]; Sanskrit ए holds one pure quality — chop the recording in
    half and both halves must sound identical. → l04 §5.
@@ -594,7 +596,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
 - 00:00 — "Thirteen vowels. Ten mātrās. Two leaning signs. Fifty-four words — from मम
   [mɐmɐ] to अमृत [ɐmr̩t̪ɐ] to कुतः [kut̪ɐh]. Today, you prove the map."
 - 00:30 — "Six stations, one per lesson. Answer first, check second — the pulling-out is
-  the practice. Station three: hum it — [r̩ː] — and read: ऋतु [r̩t̪u], मातृ [mɑːt̪r̩]."
+  the practice. Station three: hum it — [r̩] — and read: ऋतु [r̩t̪u], मातृ [mɑːt̪r̩]."
 - 03:30 — "Task B. You hear कौतुक [kɐu̯t̪ukɐ]. Build it: कौ — the glide — then तु — the
   mātrā *below* — then क. Every sign in its place."
 - 06:30 — "Card three: ॐ is pronounced [oːm] — fact. Card four: a-u-m as waking, dream,

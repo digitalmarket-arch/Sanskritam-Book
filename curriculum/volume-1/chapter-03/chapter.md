@@ -64,5 +64,5 @@ sheet, chapter quiz + separate key.
 
 Lesson 6 runs the established five-task format scaled to the grid: listening contrasts,
 cross-varga dictation, reading aloud including the milestone sentences, fresh register
-cards, and the timed blank-grid fill. It also runs Chapter 2's +1-week interval as
+cards, and the timed blank-grid fill. It also runs Chapter 2's +1-week and pre-quiz intervals as
 Station 0. Rubric in l06 §22. Passing gates Chapter 4 (semivowels & sibilants).

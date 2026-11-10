@@ -78,7 +78,7 @@ in §6/§8/§16, §18 (exercises 3, 6), §19 (Q7); objective 3 in §8/§13, §18
 
 1. From v2.c02.l01: the word for the family itself — and the house word that finally put on its
    म्-dress after four chapters of bare गृह. Both, please.
-2. From v2.c02.l01: the everyday word for "sister" — and the older, Vedic-flavored sister-word
+2. From v2.c02.l01: the everyday word for "sister" — and the older, inherited sister-word
    that carries the cognate shelf. Which does which job?
 3. From v2.c02.l02: the pointing pair that completed v1.c06's एतत् — the frames एषः मम पिता।
    एषा मम माता। run on them. Name both, with their split.
@@ -275,7 +275,7 @@ target pace. Log the third time (§18 exercise 2). The standing law holds at eve
 **Drill 4 — scene calls.** The audio names a scene element in English or Hindi ("river!",
 "बादल!"); you answer with the Sanskrit word inside two seconds — then, second round, with a
 whole frame sentence: नदी! → नदी वहति। Retrieval under a clock is the fluency strand doing its
-job [REF:roediger2006].
+job [REF:nation2013].
 
 ## 10. IPA
 
@@ -609,7 +609,7 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
   poster, memory; keep every sentence inside the frames you own.
 - **In 1 week:** v2.c02.l04 hands you कुत्र and च — the question that asks *where* and the word
   that joins माता पिता च; today's scene words are its entire playground. The chapter review
-  (v2.c02.l05) runs the register cards, task E's live scene description among them.
+  (v2.c02.l05) runs the register cards (task D) and task E's live scene description.
 
 ## 21. Homework
 
@@ -800,9 +800,7 @@ narrator reads the cue, not the English spelling.
   headword); **मेघः** is a row-form upgrade of v1.c03.l01's मेघ, a word already used in
   sentence-dress there, and per the गृहम् precedent (v2.c02.l01: an upgrade row never increments
   the ledger; likewise नमः and भद्रम् in v2.c01.l01) is not counted; **नदी** is a v1.c03.l04
-  headword, exported as a review row, not counted. Sibling ids
-  v2.c02.l01 and v2.c02.l02 are drafting in parallel — resolver errors on
-  prerequisites/review_of are expected until they land. Display-only, excluded from counts and
+  headword, exported as a review row, not counted. Display-only, excluded from counts and
   decks: the variant **पृथ्वी** (export as `variant_spelling`, like गंगा — a standard
   circulating form, not an error), and
   गगन (v1 ledger word, mentioned as synonym). जगत् — a v1.c05.l01 ledger row and the

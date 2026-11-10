@@ -20,8 +20,8 @@ objectives:
     hi: "चार नए शब्द — इच्छति, मह्यम्, तुभ्यम्, रोचते — पढ़ें-बोलें, और अध्याय 4 के साँचे से इच्छामि, इच्छसि बनाएँ: च्छ की गाँठ थमी हुई, ह्य और भ्य के जोड़ साफ़, रोचते का अन्तिम ए लम्बा और पूरा।"
   - en: "Say what you want and ask what others want — किम् इच्छसि? — अहम् जलम् इच्छामि। — truthfully, with the negative अहम् … न इच्छामि। and the polite भवान् किम् इच्छति?"
     hi: "अपनी चाह बताएँ और दूसरों से पूछें — किम् इच्छसि? — अहम् जलम् इच्छामि। — सच्चाई से, नकार अहम् … न इच्छामि। और विनम्र भवान् किम् इच्छति? के साथ।"
-  - en: "Say what you like and ask what someone likes — फलम् मह्यम् रोचते। किम् तुभ्यम् रोचते? — क्षीरम् मह्यम् रोचते। — and the negative न रोचते, with the liked thing always in the subject slot and रोचते never changing."
-    hi: "अपनी पसंद बताएँ और दूसरों की पूछें — फलम् मह्यम् रोचते। किम् तुभ्यम् रोचते? — क्षीरम् मह्यम् रोचते। — और नकार न रोचते; पसंद की जाने वाली चीज़ सदा कर्ता की जगह पर, और रोचते कभी नहीं बदलता।"
+  - en: "Say what you like and ask what someone likes — फलम् मह्यम् रोचते। किम् तुभ्यम् रोचते? — क्षीरम् मह्यम् रोचते। — and the negative न रोचते, with the liked thing always in the subject slot and रोचते never changing in today's frames."
+    hi: "अपनी पसंद बताएँ और दूसरों की पूछें — फलम् मह्यम् रोचते। किम् तुभ्यम् रोचते? — क्षीरम् मह्यम् रोचते। — और नकार न रोचते; पसंद की जाने वाली चीज़ सदा कर्ता की जगह पर, और आज के वाक्यों में रोचते कभी नहीं बदलता।"
   - en: "State the honest line: मह्यम् रोचते literally says 'it pleases me' — the liked thing is the subject, the liker stands in a to/for form, and रोचते wears a different ending family (the middle voice) — and show that Hindi मुझे … पसंद है is built the same way round, while English I like is the odd one out."
     hi: "ईमानदार पंक्ति बताएँ: मह्यम् रोचते का शाब्दिक अर्थ है 'वह मुझे अच्छा लगता है' — पसंद की चीज़ कर्ता है, पसंद करने वाला 'को/के लिए' वाले रूप में है, और रोचते का अन्त-परिवार अलग है, आत्मनेपद — और दिखाएँ कि हिन्दी का मुझे … पसंद है ठीक इसी ढंग से बनता है, जबकि अंग्रेज़ी I like उलटा है।"
   - en: "Hold an improvised want-and-like exchange, both roles, with one न answer and one Lesson 2 rescue chunk — and log today's Station 0 score."
@@ -68,7 +68,7 @@ opposite ends.
 |---|---|---|
 | 1 | Read and say इच्छति, मह्यम्, तुभ्यम्, रोचते; build इच्छामि and इच्छसि by the Chapter 4 pattern — knot held, welds clean, final ए full. | चारों नए शब्द पढ़ें-बोलें; इच्छामि, इच्छसि साँचे से बनाएँ — गाँठ, जोड़, अन्तिम ए पूरा। |
 | 2 | Say what you want and ask others — किम् इच्छसि? — अहम् जलम् इच्छामि। — with the negative and the polite भवान् किम् इच्छति? | अपनी चाह बताएँ, दूसरों से पूछें — नकार और विनम्र भवान् किम् इच्छति? के साथ। |
-| 3 | Say what you like and ask others — फलम् मह्यम् रोचते। किम् तुभ्यम् रोचते? — with न रोचते; रोचते never changes. | अपनी पसंद बताएँ, दूसरों की पूछें — न रोचते के साथ; रोचते कभी नहीं बदलता। |
+| 3 | Say what you like and ask others — फलम् मह्यम् रोचते। किम् तुभ्यम् रोचते? — with न रोचते; रोचते never changes in today's frames. | अपनी पसंद बताएँ, दूसरों की पूछें — न रोचते के साथ; आज के वाक्यों में रोचते नहीं बदलता। |
 | 4 | State the honest line — "it pleases me" — and the Hindi bridge मुझे … पसंद है. | ईमानदार पंक्ति बताएँ — "मुझे अच्छा लगता है" — और हिन्दी का पुल। |
 | 5 | Hold an improvised want-and-like exchange, both roles; log Station 0. | बिना तैयारी की चाह-पसंद बातचीत, दोनों भूमिकाएँ; स्टेशन 0 दर्ज करें। |
 
@@ -169,7 +169,7 @@ wanting — अहम् क्षीरम् इच्छामि, the wanter
 doing-dialogue. One lesson, two builds facing opposite ways: that is the whole difficulty
 of today, and the drills attack it head-on by keeping the two frames side by side.
 
-> **[FACT · तथ्यम्]** Conversation-sized chunks are learned fastest when taught whole and
+> **[FACT · तथ्यम्]** Conversation-sized chunks can be learned whole and
 > analysed later; a chunk you can say the hour you meet it becomes the evidence the later
 > analysis is built on. मह्यम् रोचते and किम् इच्छसि? are taught exactly so.
 > [REF:nation2013]
@@ -229,7 +229,7 @@ the person who likes it waits in मह्यम्. Pause form throughout, ever
 का I like उलटा चलता है — वहाँ पसंद करने वाला ही कर्ता है। तीन भाषाओं में हिन्दी और
 संस्कृत एक तरफ़, अंग्रेज़ी अकेली दूसरी तरफ़।
 
-इसका एक बड़ा नतीजा: **रोचते बदलता नहीं**। "मुझे पसंद है" हो या "तुम्हें पसंद है",
+इसका एक बड़ा नतीजा: **आज के वाक्यों में रोचते बदलता नहीं**। "मुझे पसंद है" हो या "तुम्हें पसंद है",
 कर्ता तो फल ही है — एक "वह"। इसलिए: फलम् मह्यम् रोचते। फलम् तुभ्यम् रोचते? बदलते हैं
 केवल मह्यम् और तुभ्यम्। "अहम् फलम् रोचामि" में दो ग़लतियाँ एक साथ हैं — पसंद करने वाले
 को कर्ता बना दिया, और रोचते पर अध्याय 4 का -मि चिपका दिया।
@@ -585,7 +585,7 @@ for wanting: **जलम् इच्छसि?** — **आम्, अहम् 
 - **No polite to-form.** भवान् has its own to-form; it waits. Ask a teacher what they
   want — भवान् किम् इच्छति? — and save "what do you like?" for friends.
 - **No describing words.** "Sweet fruit", "cold milk" would need adjective agreement,
-  and agreement is Volume 3's subject; the fact base defers it on purpose, so today's
+  and agreement is Volume 3's subject; the course defers it on purpose, so today's
   things stay plain.
 - **Singular only, present only, pause form throughout.**
 
@@ -665,8 +665,9 @@ because only the voice asks it. Scene 2 is lesson 2 paying out: कमला res
 question with the chain, and the teacher grants it with अस्तु — the speaker's reply,
 exactly as lesson 2 assigned it. The Hindi gloss मुझे संस्कृत
 अच्छी लगती है shows the agreement — the Hindi verb follows संस्कृत, never the liker. Names
-used to call someone keep their everyday form — माया!, अर्जुनः!, रामः! — as throughout
-the course. Stage directions are scaffolding; swap roles until each side is yours.
+used to call someone keep their naming shape — माया!, अर्जुनः!, कमला!, रामः! — as in l01
+§16 and v2.c03.l03's morning scene; full Sanskrit calls a person with a calling form, and
+that form arrives with the case system in Volume 3. Stage directions are scaffolding; swap roles until each side is yours.
 
 ## 17. Story
 
@@ -754,7 +755,7 @@ partner, no script, both roles. The exchange must contain: one wanting question 
 answer; one liking question and true answer; one answer with न; and one rescue from
 lesson 2 — न अवगच्छामि · भवान् पुनः वदतु · कृपया मन्दम् वदतु, granted with the partner's
 अस्तु — used for real when your partner speeds up. Record it. This recording is
-tomorrow's baseline (§20).
+your baseline for the chapter exam (§20).
 
 ## 19. Quiz
 
@@ -822,7 +823,7 @@ the same mistake: (a) and (f) — both read मह्यम् itself as "I", th
 English-style. ((d) is the verb-side cousin, §12 mistake 2; credit a pairing with (d)
 only if the reasoning names the liker taken as subject.)
 7: scored on the four required elements (want Q&A · like Q&A · a न answer · a real rescue
-chunk), both roles, every answer true. Log it; tomorrow's Station 0 runs against it.
+chunk), both roles, every answer true. Log it; the chapter exam's task C (v2.c05.l05) runs against it.
 </details>
 
 ## 20. Revision
@@ -982,9 +983,9 @@ narrator reads the cue, not the English spelling.
   [ɾoːt͡ɕɐt̪eː] ends long — te, not ti.
 - **02:40** Now the turn. I like the fruit becomes the fruit pleases me: phalam mahyam
   rocate. To ask a friend, change one word: kim tubhyam rocate? — what pleases you? The
-  verb never moves; only "to me" and "to you" trade places.
+  verb never moves today; only "to me" and "to you" trade places.
 - **04:00** Hindi's everyday liking already works this way: मुझे फल अच्छा लगता है। The
-  thing does the pleasing in Hindi too. English is the odd one out.
+  liker sits in a to-form, and the thing runs the verb. English is the odd one out.
 - **05:00** Three hundred twenty-one words — and now they can ask for things and say what
   they like. Tomorrow, you take them to the market. punaḥ milāmaḥ [pun̪ɐh milɑːmɐh]!
 
@@ -1043,7 +1044,7 @@ narrator reads the cue, not the English spelling.
   Pass C item could not be verified against [REF:mallory2006] at draft and is cut — the
   lesson makes no cognate claim for its four words. No descriptive adjectives (0.12).
   Address is nominative (माया!, अर्जुनः!, कमला!, रामः!) — no vocatives.
-- **Glossary:** candidate addition — **आत्मनेपद (ātmanepada) "middle voice — the second
+- **Glossary:** added to GLOSSARY.md — **आत्मनेपद (ātmanepada) "middle voice — the second
   family of verb endings"** (named once here; system Volumes 3–4); कर्ता, क्रिया, विभक्ति
   glossed in plain Hindi at first occurrence per STYLE_GUIDE §1.2.
 - **Export notes:** four headwords, all ledger-new — **317 → 321**; chapter chain 308 →

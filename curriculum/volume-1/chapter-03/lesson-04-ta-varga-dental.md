@@ -96,7 +96,7 @@ objective 2 in §18 (exercise 4) and §19 (Q5); objective 3 in §18 (exercises 2
    क-row, उ's sign with Chapter 2.
 4. त — a "helper consonant" (glyph + sound only) since v1.c01.l04. Any three of: माता,
    लता, ताल, तिल, तुला, गति, गीत, ततः, तट…
-5. Your upper front teeth — lesson 1's preview of the dental त /t̪/ in नमस्ते. Today that
+5. Your upper front teeth — v1.c01.l01's preview (§11) of the dental त /t̪/ in नमस्ते. Today that
    one-line preview becomes the whole lesson.
 </details>
 
@@ -115,9 +115,10 @@ metaphor; it is an address, taken from दन्त (danta) "tooth" — दा�
 > on it without edits.
 
 > **[HISTORY · इतिहासः]** The mismatch with English is not a modern discovery: Whitney's
-> 1889 grammar, describing the Sanskrit dental series, already warns English readers that
-> their own t and d — made behind the teeth, not on them — are not the same sounds.
-> [REF:whitney1889 §§47–48]
+> 1889 grammar, describing the Sanskrit dental series, already notes that Indian speakers are
+> said to make their dentals with the tongue-tip thrust well forward against the upper teeth,
+> and that English t and d, lacking that quality, strike an Indian ear as closer to the
+> retroflex row. [REF:whitney1889 §47]
 
 > **[FACT · तथ्यम्]** Spanish, Italian, French, Russian and Hindi all make their t-sounds at
 > or on the teeth. English, with its alveolar habit, does not — and Sanskrit sides with the
@@ -235,7 +236,8 @@ name: first member of the दन्त्य row.
 | न | na | /n̪ɐ/ | nasal | the hum with the tongue on the teeth — vs ण's curl |
 
 No honesty-asterisks today: unlike ङ ञ or ठ ढ, all five of these letters will be in your
-words constantly from here on. This is the busiest kind of row there is.
+words constantly from here on. This is the busiest row of the grid: the dentals alone occur
+about as often as the other four vargas together [REF:whitney1889 §48].
 
 ### The payoff — reading, worked out
 
@@ -491,7 +493,7 @@ read. Bold = readable. 🔊 audio recorded into the Chapter 3 drill pack (§27).
 One glue word only — आम् (ām) "yes" — हाँ 🔊, an ear-friend since Chapter 1. नमः here is
 a learner's stand-in for the full greeting नमस्ते, which you will read in Chapter 5 — a
 small bow in sound. This is the most
-readable dialogue of the course so far, and the shortest story-request in world literature.
+readable dialogue of the course so far, and its story-request is a single word.
 
 ## 17. Story
 
@@ -831,8 +833,8 @@ narrator reads them as IPA, not as English spelling.
 - **Glossary flags:** दन्त्य already in GLOSSARY.md (first taught v1.c01.l02); वर्ग used
   as a working term since the sound map — confirm it entered GLOSSARY with v1.c03.l01 in
   the post-chapter loop, else add with that first-taught tag. No other new terminology.
-- **Verification flags for Pass C:** [REF:whitney1889 §§47–48] — confirm the dental-series
-  description and the English-contrast warning sit at those sections; [REF:mallory2006] —
+- **Verification flags for Pass C:** [REF:whitney1889 §47] — checked against the text: §47a
+  reports the forward Indian dental and that English dentals sound lingual to an Indian ear; [REF:mallory2006] —
   confirm the madhu/mead/méthu cognate set s.v. honey/mead; टिकट/डॉक्टर loanword-spelling
   point traceable via [REF:masica1991] (borrowing chapter).
 - **Export notes:** §14 all readable → no `audio_only` flags in this lesson's vocabulary

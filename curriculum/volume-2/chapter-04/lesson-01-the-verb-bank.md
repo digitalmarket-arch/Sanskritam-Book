@@ -53,7 +53,7 @@ Your Sanskrit owns two hundred and ninety-seven words — and almost all of them
 boy, a fruit, a river, a school, a week of days. For a volume and three chapters the
 things have mostly stood still, animated by a handful of hard-working verbs. Today seven
 engines arrive at once: *goes*, *eats*, *drinks*, *sees*, *hears*, *writes*, *knows* — and
-with the three verbs you already own, the course's ten-verb bank opens for business. By
+with three verbs you already own, the course's ten-verb bank opens for business. By
 tonight, everything in your word-stock can do something.
 
 ## 2. Learning Objective
@@ -150,9 +150,9 @@ A noun names; a verb *asserts*. The moment खादति lands in your stock, 
 being a list and become an event — someone is eating something. That is why vocabulary
 work on verbs pays sentence-sized dividends immediately.
 
-> **[FACT · तथ्यम्]** New vocabulary sticks best when it arrives inside usable patterns
-> and gets retrieved from them, not memorized as bare lists — the frame बालकः ___ खादति
-> turns every verb on today's list into a sentence you can say the hour you learn it.
+> **[FACT · तथ्यम्]** Deliberate study of new words is one strand of a balanced course; the
+> others put those words to use inside patterns you hear and say — and the frame बालकः ___
+> खादति turns every verb on today's list into a sentence you can say the hour you learn it.
 > [REF:nation2013]
 
 > **[FACT · तथ्यम्]** Spaced retrieval beats massed re-study; today's Station 0 is
@@ -160,8 +160,8 @@ work on verbs pays sentence-sized dividends immediately.
 > re-run is booked before it ends (§20). [REF:cepeda2006] [REF:roediger2006]
 
 Two of today's drills push past recognition on purpose. The act-and-say rounds bind each
-verb to its meaning through the body — you drink while saying पिबति — so the word stops
-routing through English at all; and the timed bank recitation trains automaticity, the
+verb to its meaning through the body — you drink while saying पिबति — so the word need not
+route through English; and the timed bank recitation trains automaticity, the
 fluency strand's standing demand: a verb you must translate before using is a verb you do
 not yet own [REF:nation2013].
 
@@ -205,14 +205,14 @@ Pause form between words, every word whole, as always.
 
 वाक्य वही पुराने साँचे हैं: कर्ता + (कर्म) + क्रिया, विराम-रूप में — बालकः फलम् खादति।
 सीता जलम् पिबति। कर्म का म् वाला रूप आज भी पूरा शब्द है — कारक-व्याकरण अभी नहीं। और एक
-ईमानदार सीमा: आज केवल "वह" वाले रूप हैं; अपने "मैं" वाले वाक्य अभी भी उन्हीं दो पुराने
-शब्दों से बनाइए जो आपके पास हैं — पठामि, वदामि। जो आता है उसी से सही वाक्य — यही इस
+ईमानदार सीमा: आज केवल "वह" वाले रूप हैं; अपने "मैं" वाले वाक्य अभी भी उन्हीं पुराने
+शब्दों से बनाइए जो आपके पास हैं — जैसे पठामि, वदामि, अस्मि। जो आता है उसी से सही वाक्य — यही इस
 पाठ्यक्रम का नियम है।
 
 ## 8. English Explanation
 
 No new letter, no new sign — and no new grammar either, honestly: today is pure
-vocabulary, seven whole words of the most useful kind there is.
+vocabulary, seven whole words, every one of them a verb.
 
 ### The seven, one by one
 
@@ -258,7 +258,7 @@ Nothing new to learn here — only new engines in old chassis: **बालकः
 **सीता जलम् पिबति।** — **छात्रः लिखति।** The doer first, the thing in its म् dress
 glossed whole (the policy since फलम् and जलम् first dressed up), the verb at the end,
 pause form throughout. Singular only, "he/she/it" only; your own "I" sentences keep to
-the owned पठामि and वदामि. Simplest correct beats ambitious wrong — today as every day.
+owned I-forms such as पठामि, वदामि and अस्मि. Simplest correct beats ambitious wrong — today as every day.
 
 One tease, honestly unspoiled: tomorrow the course's first grammar lesson names a pattern
 you have been using for three chapters. Today, stock the bank.
@@ -343,8 +343,8 @@ marks the गच्छ and शृ joins.
 5. **जानाति clipped: "jānti", "jānati".** The Hindi जानता rhythm steals the second
    syllable's length. *Fix:* §10 — two full आ beats, always.
 6. **Over-reach: inventing forms.** Gluing endings onto today's verbs to say "I eat" or
-   "you go". The bank is "he/she/it" forms, whole; your I-lines keep to the owned पठामि
-   and वदामि. Simplest correct beats ambitious wrong. *Fix:* §15's honesty lines.
+   "you go". The bank is "he/she/it" forms, whole; your I-lines keep to owned I-forms such as
+   पठामि, वदामि and अस्मि. Simplest correct beats ambitious wrong. *Fix:* §15's honesty lines.
 7. **The cognate reach: "गच्छति is English *go*".** It is not — the resemblance is
    coincidence, and resemblance alone proves nothing. *Fix:* §13's shelf — honesty about
    absence is part of the method, and the chapter exam tests it.
@@ -426,7 +426,8 @@ clipped at any speed.
 > insides happens today. (2) The sentence frames are the owned ones: doer + verb (छात्रः
 > लिखति), or doer + thing-in-म्-dress + verb (बालकः फलम् खादति) — objects glossed whole,
 > no case teaching, pause form throughout. (3) Today's forms are singular "he/she/it"
-> only; first-person lines keep to the owned पठामि and वदामि. (4) शृणोति and जानाति build
+> only; first-person lines keep to owned I-forms such as पठामि, वदामि and अस्मि. (4)
+> शृणोति and जानाति build
 > their stems differently from the rest of the bank — both are taught whole, and their
 > other forms will arrive as whole words too. [REF:apte1890]; [REF:whitney1889]
 
@@ -562,7 +563,7 @@ of जानाति long. 6/7 is a pass; below that, re-take it with tonight's
 **अभ्यासः 5 · अनुवादः (translate the day — production, written).** Write the Sanskrit,
 pause form: (a) "The boy eats a fruit." (b) "Sītā drinks water." (c) "The student
 writes." (d) "Arjuna goes to school." (e) "Mother listens." Read your five aloud as one
-tiny report. Self-check: every sentence is a §6/§16 line or one word-swap away from one.
+tiny report. Self-check: every sentence is a §6/§16/§17 line or one word-swap away from one.
 
 **अभ्यासः 6 · अङ्कनम् (the shelf sort).** Keep or reject, one reasoning line each:
 (a) "जानाति, English *know* and Greek *gnōsis* are siblings — descendants of one
@@ -609,7 +610,7 @@ for the *same* reason — and what is that reason?
 
 **Exercise keys.** 1: sensible pairings — खादति takes फलम्; पिबति takes जलम्; लिखति
 takes पुस्तकम् or stands alone; पश्यति takes any of the three (बालकः फलम् पश्यति);
-गच्छति, शृणोति, जानाति work object-free in today's stock (गच्छति also takes the
+गच्छति, शृणोति, जानाति work object-free on this grid (गच्छति also takes the
 place-words विद्यालयम्/गृहम्, as in §17); the refusers to note: गच्छति and शृणोति built
 no thing-sentences from this grid (जानाति + पुस्तकम् "knows the book" is a stretch —
 accept either verdict).
@@ -630,7 +631,8 @@ correspondences, not echoes (§13).
 > **The bank:** गच्छति खादति पिबति पश्यति शृणोति लिखति जानाति + पठति वदति हसति — ten
 > verbs, whole words, "he/she/it" only. **The frames:** बालकः फलम् खादति। सीता जलम्
 > पिबति। छात्रः लिखति। **The honesty lines:** शृणोति and जानाति build their stems
-> differently; your I-lines stay with पठामि and वदामि. **The shelf:** जानाति ~ know ~
+> differently; your I-lines stay with owned I-forms (पठामि, वदामि, अस्मि).
+> **The shelf:** जानाति ~ know ~
 > gnōsis · पिबति ~ bibit — siblings, no arrows; लिखति — honestly blank; गच्छति and go —
 > not related. **The ledger:** seven new — 304.
 
@@ -686,7 +688,7 @@ evidence. Do not name the pattern today — not even as a hint.
 **Run the shelf with the refusal front and center.** The गच्छति-go card is the teachable
 moment: let the room vote cognate/not before you land it. The winning insight is the
 method — resemblance alone proves nothing; the honest blank beside लिखति makes the same
-point from the other side. Both cards return on the chapter exam.
+point from the other side. The गच्छति-go card returns on the chapter exam.
 
 **Differentiation:** Hindi speakers own half the bank by instinct (खाता, पीता, लिखता,
 जानता) — their work is the finals (every -ति full), the खा length, the ण curl, and
@@ -696,7 +698,7 @@ speed work.
 
 **What students find hard:** the च्छ hold under time pressure (slow the roll-call before
 timing it); शृ without a helper vowel (the v1.c02.l03 ऋ drill transfers whole); the urge
-to say "I eat" the hour they learn खादति — honor the ambition, point at पठामि/वदामि, and
+to say "I eat" the hour they learn खादति — honor the ambition, point at पठामि/वदामि/अस्मि, and
 promise the machinery is days, not volumes, away; and accepting that शृणोति and जानाति
 get no explanation today — "builds its stem differently" is the whole truth on offer, and
 saying it plainly beats a half-taught system.
@@ -734,7 +736,8 @@ saying it plainly beats a half-taught system.
 > Middle third: the act-and-say log (two passes × seven cards, tick boxes) and the timed
 > recitation log — rows: slow, natural, timed, tomorrow's cold re-run. Bottom third:
 > dictation rows with knot/curl/length tick-boxes (च्छ · शृ · ण · जा-ना), the five
-> translation lines, and the Station 0 score log (counting /4, cards /3). Footer chants:
+> translation lines, and the Station 0 score log (counting /4 + cards ≥2/3 = /5, as §3
+> scores it). Footer chants:
 > "hold the knot" · "every final इ full" · "no arrow without evidence".
 
 ## 24. AI Video Prompt
@@ -823,8 +826,8 @@ narrator reads the cue, not the English spelling.
 - **Related lessons:** reviews v2.c03.l05 (Station 0 — tasks C and D compressed in §3)
   and v1.c06.l03 (पठति/पठामि, the passage frames, the deliberate गच्छति withholding —
   resolved here in §8/§14); builds on v1.c03.l02 (चलति; गच्छति as ear-word; च्छ
-  preview), v1.c03.l05 (बालकः, कपिः, फल), v1.c04.l01 (वदति, भवति), v1.c04.l03 (हसति,
-  वहति, गुरुः), v1.c05.l02–l03 (conjunct mechanism; the √ज्ञा shelf — grown here in
+  preview), v1.c03.l05 (बालकः, कपिः, फल), v1.c04.l01 (वदति, भवति, गुरु), v1.c04.l03 (हसति,
+  वहति), v1.c05.l02–l03 (conjunct mechanism; the √ज्ञा shelf — grown here in
   §13), v2.c02 (the household cast and noun stock), v2.c03 (Station 0 material; अद्य
   trio kept warm for l04); feeds v2.c04.l02 (त्रयः पुरुषाः — Station 0 booked in §20;
   the pattern reveal this lesson deliberately does not name), v2.c04.l03 (the

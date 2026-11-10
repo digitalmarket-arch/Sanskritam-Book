@@ -58,7 +58,7 @@ Production exercises (writing, speaking, dictation, translation into Sanskrit): 
 
 See `ROADMAP.md` §Content preservation map. Highlights: the articulatory grid, the Chapter 4
 grammar tables, thematic vocabulary, the subhāṣita set (all attributions verified), the graded
-readers, 19/20 correct IE cognates, and a Pāṇinian strand whose sūtra citations verified
+readers, IE word pairs (19 of 20 real relatives), and a Pāṇinian strand whose sūtra citations verified
 38/40 correct — including the complete and correct √भू six-lakāra table and rāma 8×3
 declension.
 

@@ -18,7 +18,7 @@ updated: 2026-07-30
 Eight letters remain, and they are the best eight in the box. The four antaḥsthā — य र ल व,
 the in-between sounds, each the consonant shadow of a vowel — and the four ūṣman — श ष स ह,
 the breath sounds. With them the varṇamālā **completes**: every sound promised by the map in
-lesson two of Chapter 1 is now owned. The vocabulary unlock is the volume's largest — राम,
+lesson two of Chapter 1 is now owned. The vocabulary unlock runs to 43 words — राम,
 गुरु, देव, सीता, भाषा, ऋषि, हिमालय, गृह — plus four new readable verbs, making pause-form
 sentences genuinely expressive: रामः वदति। गुरुः हसति। वायुः वहति।
 
@@ -38,7 +38,7 @@ By the end of this chapter the learner can:
 - [ ] Produce य र ल व श ष स ह with correct place and manner
 - [ ] Hear and produce the श/ष contrast and the व middle-ground reliably
 - [ ] Write the complete varṇamālā from memory in traditional order (8 min)
-- [ ] Read ~45 new words (≈140 cumulative) and a 5-sentence pause-form set aloud
+- [ ] Read 43 new words (157 cumulative) and a 5-sentence pause-form set aloud
 - [ ] Explain why ह sits with the sibilants traditionally and how it differs phonetically
 
 ## Lessons
@@ -54,7 +54,8 @@ By the end of this chapter the learner can:
 
 All `planned:`; prompts in each lesson's §23–24: letter-card sheets, श/ष tongue-position
 diagram, व articulation diagram, full-varṇamālā wall chart (the volume's keystone asset),
-audio drills incl. श/ष pair test and the sentence set, tracing worksheets, alphabet-exam
+audio drills incl. श/ष pair test and the sentence set, the Chapter 4 drill pack (the §16
+dialogue and §17 story audio of lessons 1–3), tracing worksheets, alphabet-exam
 sheet, chapter quiz + separate key.
 
 ## Assessment

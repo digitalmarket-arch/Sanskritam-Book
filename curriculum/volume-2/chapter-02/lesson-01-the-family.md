@@ -84,7 +84,7 @@ three task D cards — the label muscle needs its weekly rep too; the exam's tas
 the exam's [REF:cepeda2006].
 
 1. **The ladder, one pass** (task C, compressed): greet → thank → farewell, both roles,
-   pause form — सुप्रभातम्! (or नमस्ते!) — धन्यवादः, श्रीमान्! — स्वस्ति! पुनः मिलामः!
+   pause form — सुप्रभातम्! (or नमस्ते!) — धन्यवादः, श्रीमन्! — स्वस्ति! पुनः मिलामः!
    Every visarga breathed, every final म् closed.
 2. **Three label cards, from memory** (task D, compressed) — keep or reject, one line of
    reasoning each: (a) "धन्यवादः is how classical texts said thank-you." (b) "सुप्रभातम्'s
@@ -106,7 +106,7 @@ the exam's [REF:cepeda2006].
 0. Station 0: ladder = the three moves with an hour-honest greeting, pause form. Cards:
    (a) **reject** — attested word, modern everyday-thanks convention; (b) **keep** — the
    both-things-true label; (c) **reject** — modern convention, shared with Hindi
-   (v2.c01.l05 §19 task keys). Score /4 (three moves + cards ≥2/3); log it.
+   (v2.c01.l05 §19 task keys). Score the ladder /3 (one per move) and the cards /3; log both.
 1. माता (mātā) "mother" — and that Sanskrit मातृ/माता, Latin *māter* and English *mother*
    are cognates: parallel descendants of one ancestor, borrowed by no one (v1.c01.l04
    §13). Today that single line starts becoming a family.
@@ -223,8 +223,9 @@ two more old friends back on duty and two honest word-pairs.
 ### The set — ten words on duty
 
 **परिवारः** (parivāraḥ) "family" is the container: classically "the circle around one" —
-परि "around", as in the dictionaries' "retinue, surroundings, family"
-[REF:apte1890 s.v. परिवार]. Inside it: **माता** (mātā) and **पिता** (pitā) — mother back
+परि "around": Apte's "train, retinue, attendants or followers collectively", Monier-Williams's
+"surroundings, train, suite, dependants, followers"; "family" is its present-day sense
+[REF:apte1890 s.v. परिवार] [REF:monierwilliams1899 s.v. parivāra]. Inside it: **माता** (mātā) and **पिता** (pitā) — mother back
 from v1.c01.l04, father first met with the story cast in v1.c03.l05 and starting full
 family duty today. **भ्राता** (bhrātā) "brother" — the ्र stroke of v1.c05.l04 opening a
 breathy भ्. **भगिनी** (bhaginī) "sister" — the everyday word (§4). **पुत्रः** (putraḥ)
@@ -400,7 +401,7 @@ words in their own आ/ई endings — observed in §15.
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| परिवारः | parivāraḥ | /pɐɾiʋɑːɾɐh/ | family | परिवार | classically "family, retinue — the circle around one" (§8); visarga breathed (§12) |
+| परिवारः | parivāraḥ | /pɐɾiʋɑːɾɐh/ | family | परिवार | classically "retinue, attendants — the circle around one"; "family" is the present-day sense (§8); visarga breathed (§12) |
 | पिता | pitā | /pit̪ɑː/ | father | पिता | stem पितृ (§4); review headword — already in the ledger since v1.c03.l05, not re-counted; full family duty starts today |
 | भ्राता | bhrātā | /bʱɾɑːt̪ɑː/ | brother | भाई | भ्रा = भ् + र, the ्र stroke (v1.c05.l04); breathy /bʱ/ into the tap (§9); Hindi भाई descends from it (§4) |
 | भगिनी | bhaginī | /bʱɐgin̪iː/ | sister | बहन | the everyday word (§4, §13); ancestor of Hindi बहन; final ई two beats (§10) |
@@ -426,8 +427,9 @@ vowel clipped at any speed.
 
 व्याकरणम् — the possessive frames at work, and a parade you watch without legislating.
 
-> **[FACT · तथ्यम्]** (1) मम "my" and तव "your" stand before the word they own — मम
-> पिता, तव भगिनी — pause form, both words whole; they are fixed chunks today, their
+> **[FACT · तथ्यम्]** (1) In the course's frames मम "my" and तव "your" stand before the
+> word they own — मम पिता, तव भगिनी — pause form, both words whole (Sanskrit word order is
+> free: पिता मम is good Sanskrit too); they are fixed chunks today, their
 > machinery Volume 3's. (2) The naming sentence is verbless (मम भ्राता अर्जुनः); the
 > location sentence carries अस्ति (मम पिता अत्र अस्ति). (3) Nouns remain whole-word
 > glossed: no endings are analyzed in Volume 2. [REF:whitney1889]
@@ -844,7 +846,7 @@ narrator reads the cue, not the English spelling.
   `cognate` rows with `direction: shared-descent`; बहन < भगिनी and भाई < भ्राता export
   as `descent` rows (Indo-Aryan) — the two must never be merged into one relation type.
   §19 key stays in `<details>`.
-- **Verification flags for Pass C:** परिवारः "family, retinue" (§8, §14) against
+- **Verification flags for Pass C:** परिवारः "retinue" (classical) / "family" (present-day) (§8, §14) against
   [REF:apte1890 s.v. परिवार]; the ṛ-stem list and nominative citation forms (§4)
   against [REF:monierwilliams1899 s.vv.] and [REF:burrow2001]; भगिनी/स्वसा division of
   labor (§4, §8) against both dictionaries s.vv.; बहन < भगिनी and भाई < भ्राता (§4,

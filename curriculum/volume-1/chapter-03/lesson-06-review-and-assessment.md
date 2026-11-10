@@ -73,10 +73,11 @@ Objective 1 is assessed in §18 tasks A–C and E; objective 2 in task D; object
 पुनरावृत्तिः — five stations, one per varga, plus Station 0. Answer from memory *before*
 checking [REF:roediger2006].
 
-### Station 0 — Chapter 2's one-week interval
+### Station 0 — Chapter 2's one-week and pre-quiz intervals
 
 The spacing schedule from v1.c02.l07 §20 comes due today [REF:cepeda2006]: a compressed
-re-run of its tasks C and E. Four items, two minutes; log the scores next to the old ones.
+re-run of its tasks C and E, plus its last item, due before this chapter's quiz — re-sort its
+task-D cards. Five items, four minutes; log the scores next to the old ones.
 
 1. Read aloud, cold: कील · अमृत · तैल · कौतुक · ततः · कुतः — length, the r-vowel, glides,
    visargas.
@@ -85,6 +86,10 @@ re-run of its tasks C and E. Four items, two minutes; log the scores next to the
 3. Write from self-dictation, then check: कृ के कै को कौ कं कः.
 4. Bridge item: read मुख and मूक aloud — Chapter 2's length contrast living inside a
    Chapter 3 aspiration word.
+5. Pre-quiz item: re-sort Chapter 2's nine task-D cards (v1.c02.l07 §18) from memory — FACT,
+   HISTORY, TRADITION, SYMBOL or reject, one line of reasoning each.
+5. Re-sort v1.c02.l07's nine task-D cards from memory, one line of reasoning each, then
+   check them against that lesson's key.
 
 ### Station 1 — क-वर्गः (lesson 1)
 
@@ -140,7 +145,7 @@ re-run of its tasks C and E. Four items, two minutes; log the scores next to the
 
 *Check against l05 §9, §8, §8, §4.*
 
-Score yourself: 20+ of 24 prompts clean → proceed to the assessment. Below that, re-study
+Score yourself: 21+ of 25 prompts clean → proceed to the assessment. Below that, re-study
 the weakest station today and assess tomorrow — the extra spacing helps [REF:cepeda2006].
 
 ## 4. Historical Context
@@ -156,7 +161,7 @@ repetition pays off most when it is spaced:
 > practice massed together. [REF:cepeda2006]
 
 Chapter 3's material re-surfaces on schedule from here to the Volume 1 exam. Today is its
-first interval; Chapter 2's second interval (Station 0) just ran inside it.
+first interval; Chapter 2's last two intervals (Station 0) just ran inside it.
 
 ## 5. Scientific Explanation
 
@@ -204,7 +209,7 @@ gift. Read the sentence in pause form — each word complete, as l05 §8 establi
    संस्कृत में ड़ है ही नहीं: गुड को गुड ही पढ़िए — जीभ मुड़कर छत को छुए और रुके,
    फड़फड़ाए नहीं।
 3. **पूरा अन्तिम स्वर — हमेशा की तरह।** धन *dhana* है, "धन्" नहीं; फल *phala*। वाक्य पढ़ते
-   समय भी यही नियम: बालकः चलति — हर शब्द पूरा, ठहराव-रूप में, विसर्ग समेत।
+   समय भी यही नियम: बालकः चलति — हर शब्द पूरा, विराम-रूप में, विसर्ग समेत।
 
 बाक़ी — महाप्राण, मूर्धन्य, अनुनासिक — सब आपकी जन्मभूमि है, और आज वह बढ़त खुलकर दिखेगी।
 जहाँ हिन्दी मदद करती है, उसका पूरा लाभ लीजिए; जहाँ वह अलग राह लेती है, वहाँ सजग रहिए।
@@ -326,7 +331,7 @@ then whole word, every vowel at full value, pause form.
 |---|---|---|---|---|---|
 | मम · माता · लता · माला · कला · कमल | mama · mātā · latā · mālā · kalā · kamala | — | my · mother · vine · garland · art · lotus | — | ch1–2 review set 1 |
 | तल · काल · ताल · अमल · कमला · मत | tala · kāla · tāla · amala · kamalā · mata | — | surface · time · rhythm · spotless · Lakṣmī · opinion | — | ch1–2 review set 2 |
-| इति · तिल · मति · कति · कील · लीला · ममता · मित | iti · tila · mati · kati · kīla · līlā · mamatā · mita | — | thus · sesame · thought · how many · pin · play · affection · measured | — | ch1–2 review set 3 |
+| इति · तिल · मति · कति · कील · लीला · ममता · मित | iti · tila · mati · kati · kīla · līlā · mamatā · mita | — | thus · sesame · thought · how many · pin · play · attachment · measured | — | ch1–2 review set 3 |
 | कुल · तुला · मूल · कूल · मूक · मुकुल · उलूक · उत | kula · tulā · mūla · kūla · mūka · mukula · ulūka · uta | — | family · scales · root · bank · mute · bud · owl · and/or | — | ch1–2 review set 4 |
 | ऋत · ऋतु · कृत · मृत · मातृ · अमृत | ṛta · ṛtu · kṛta · mṛta · mātṛ · amṛta | — | order · season · done · dead · mother-stem · deathless | — | ch1–2 review set 5 |
 | एक · एकता · केतु · केलि · एला · तैल | eka · ekatā · ketu · keli · elā · taila | — | one · unity · banner · play · cardamom · oil | — | ch1–2 review set 6 |
@@ -533,9 +538,9 @@ is yours. Complete and correct within five minutes = pass.
    -ति, the other persons and numbers) waits for Volume 2. → l02 §8, §14.
 5. Tongue tip curled back toward the roof of the mouth, released crisply; Swedish (or
    Norwegian); it retires "retroflex sounds are unique to Indian languages". → l03 §4, §5.
-6. ठ ड ढ (and ण word-initially); they earn their keep word-internally — गुड, गुण, गूढ; equal
-   cards with frank frequency notes are the fix for the 1.x corner-letters error. → l03
-   §8, §14.
+6. ट ठ ड ढ begin few native words, and ण essentially none; they earn their keep
+   word-internally — घट, गुड, गुण, गूढ; equal cards with frank frequency notes are the fix
+   for the 1.x corner-letters error. → l03 §8, §14.
 7. The dental row त थ द ध न — tip ON the teeth. English t/d are alveolar: on the ridge
    behind the teeth, not on them, and not curled back — neither dental nor retroflex.
    → l04 §5, §11.
@@ -555,8 +560,9 @@ B (dictation set): भोजन, गुण, कथा, मुख, जल, घट
 C: the fifteen words as printed in §18, plus बालकः चलति। कपिः चलति। कोकिलः कूजति।
 D: 1 FACT (recorded derivation, dictionary-checkable [REF:apte1890 s.v. खग]) · 2 FACT (the
 chapter's own engine) · 3 TRADITION (the stock example of the Nyāya tradition of logic —
-attributed) · 4 FACT or TRADITION (FACT: a checkable naming fact — the Kaṭha Upaniṣad takes
-its name from the Kaṭha Vedic school [REF:monierwilliams1899 s.v. कठ]; TRADITION earns credit
+attributed) · 4 FACT or TRADITION (FACT: a checkable naming fact — कठ names the Kaṭha
+Upaniṣad, and Kaṭha is recorded as a sage who founded a branch of the Yajurveda called after
+him [REF:monierwilliams1899 s.vv. कठ, कठोपनिषद्]; TRADITION earns credit
 when the reasoning points to l03 §17's attributed TRADITION line; the Upaniṣad's teaching is
 not assessed) · 5 FACT (cognates sharing a PIE ancestor, not a borrowing
 [REF:mallory2006]) · 6 HISTORY — correct only with According-to framing ("Pāṇinian
@@ -618,7 +624,8 @@ Chapter 4 quiz** — re-sort task D's cards from memory. Log scores here.
 **Pass** = all tasks partial+, quiz 7+/10 → Chapter 4. One weak task → targeted retake
 tomorrow. Two+ → repeat the weak varga lessons; frame as scheduling, not failure.
 
-**Running Station 0:** a quiet two-minute opener (read-aloud items under the breath) — it
+**Running Station 0:** a quiet four-minute opener (read-aloud items under the breath, then
+the card re-sort) — it
 doubles as settling time and shows the spacing system working (most students beat their
 Chapter 2 score; say so out loud).
 
@@ -702,8 +709,8 @@ letters. Link in bio."
   sentences at two speeds); blank-grid SVG (reused for Chapter 4 warm-ups); writing
   assessment sheet; chapter quiz + separate key file (print policy: keys never on the
   question sheet).
-- **Related lessons:** consolidates v1.c03.l01–l05; runs v1.c02.l07's +1-week interval as
-  Station 0; gates v1.c04 (semivowels and sibilants — the last eight letters). Its own
+- **Related lessons:** consolidates v1.c03.l01–l05; runs v1.c02.l07's +1-week and pre-quiz
+  intervals as Station 0; gates v1.c04 (semivowels and sibilants — the last eight letters). Its own
   +1-week re-runs land inside Chapter 4's calendar.
 - **Rubric home:** §22 is the machine-readable rubric source; export flag `assessment: true`.
 - **Integrator notes:** §14's cumulative table is the canonical word list for Chapters 1–3 —

@@ -26,7 +26,7 @@ objectives:
     hi: "ञ का दूसरा कामकाजी संयुक्ताक्षर — अञ्जलिः का ञ्ज — पढ़ें, और अभिवादन गर्मजोशी भरे सुर में, बारियों के बीच पूरा ठहराव रखकर, बोलें।"
 new_letters: []
 new_matras: []
-vocabulary_count: 5
+vocabulary_count: 4
 media:
   images:
     - "planned:assets/images/volume-2/v2c01l01-greeting-kit-card.svg"
@@ -150,7 +150,7 @@ Volume 1 precedent: विद्यालयः, the word on real school gates, 
 
 > **[FACT · तथ्यम्]** Greeting formulas are among the highest-frequency, most fixed chunks
 > a language owns. Learning them as unanalyzed wholes — usable at once, unpacked later —
-> is the standard, well-supported route into speaking. [REF:nation2013]
+> is a standard, well-supported route into speaking. [REF:nation2013]
 
 That is why today is a vocabulary lesson, not a grammar lesson: भद्रम् ते works perfectly
 before you can parse it, exactly as मम नाम … did. The machinery is Volume 3's; the
@@ -234,7 +234,7 @@ meeting, each with an honest label on the handle.
 The trio in rows two to four is review — drilled in exchanges today, not re-taught. The
 other five are this lesson's headwords:
 
-- **भोः** (bhoḥ) "O!, hey" — the classical particle of address that opens a thousand
+- **भोः** (bhoḥ) "O!, hey" — the classical particle of address that opens many
   classical dialogues, standing *before* the one called: भोः राम! Two signs and a breath —
   and the visarga is absolutely load-bearing (§12).
 - **अञ्जलिः** (añjaliḥ) "the joined-palms gesture; cupped hands" — the dictionary word for
@@ -399,8 +399,8 @@ someone well on parting: स्वस्ति! One relative you did not expect:
 
 शब्दावली — five headwords, all wearing the classical label; the readable ledger moves from
 237 to **240**: three are new to the ledger (भोः, अञ्जलिः, स्वस्ति), while भद्रम्
-re-dresses Chapter 5's भद्र and नमः has been counted since v1.c03.l04 — promotions, not
-double-counted (§27). Audio: 🔊 `planned:assets/audio/volume-2/v2c01l01-word-list.mp3`
+re-dresses Chapter 5's भद्र (an upgrade) and नमः is a v1.c03.l04 headword back on duty (a
+review row) — neither double-counted (§27). Audio: 🔊 `planned:assets/audio/volume-2/v2c01l01-word-list.mp3`
 (each word twice, then the dictation track). Lists stay sentence-dressed: neuters wearing
 म्, masculines ः.
 
@@ -410,7 +410,7 @@ double-counted (§27). Audio: 🔊 `planned:assets/audio/volume-2/v2c01l01-word-
 | अञ्जलिः | añjaliḥ | /ɐɲd͡ʑɐlih/ | the joined-palms gesture; cupped hands | अंजलि (हाथ जोड़ने की भंगिमा) | ञ's second working conjunct ञ्ज (§13); print also shows अंजलि — dot for conjunct, one reading |
 | भद्रम् | bhadram | /bʱɐd̪ɾɐm/ | good; blessings | भला, कल्याण | भद्र (v1.c05.l04) promoted to courtesy duty — the chunk भद्रम् ते (§13) |
 | स्वस्ति | svasti | /sʋɐst̪i/ | well-being; farewell, blessings | स्वस्ति, कल्याण हो | classical idiom, Vedic onward (§4); the kit's farewell |
-| नमः | namaḥ | /n̪ɐmɐh/ | homage, a bow | नमन, प्रणाम | upgrade — readable since v1.c03.l04, already in the ledger; stands alone today; गुरवे नमः display in §15 |
+| नमः | namaḥ | /n̪ɐmɐh/ | homage, a bow | नमन, प्रणाम | review row — a v1.c03.l04 headword, already in the ledger; stands alone today; गुरवे नमः display in §15 |
 
 **Review at work, not re-taught:** नमस्ते (namaste), नमस्कारः (namaskāraḥ), स्वागतम्
 (svāgatam) — the trio runs the §16 round; rows in v1.c05.l02 §14 and v1.c06.l01 §14.
@@ -531,7 +531,7 @@ Line 3 is the quiet milestone: the paper the boy lays on the desk is his Chapter
 संस्कृतम् line — the artifact walking into the story on the same morning your own three
 papers sat on your desk (§3). Line 6 re-uses the exam story's सर्वे "everyone", with the
 plural verb it takes: वदन्ति "they say", a plural form glossed whole; the plural system is
-this volume's later business. The class that could not read one
+a later volume's business. The class that could not read one
 letter in its first story now greets, blesses, and takes leave — entirely in Sanskrit.
 
 ## 18. Exercises
@@ -811,11 +811,11 @@ narrator reads the cue, not the English spelling.
   candidate addition — **अभिवादन (abhivādana) "greeting, respectful salutation"
   (first-taught v2.c01.l01)**.
 - **Export notes:** vocabulary arithmetic is canonical: 237 (per v1.c06.l04 §14) + 3 =
-  **240**. The §14 table drills five headwords (`vocabulary_count: 5`); three are new
-  ledger entries (भोः, अञ्जलिः, स्वस्ति) and two are promotions excluded from the
-  cumulative sum — नमः (counted in v1.c03.l04) and भद्रम् (भद्र counted in v1.c05.l04,
-  sentence-dressed here). The research note's chapter estimate (~33 new across c01)
-  reconciles against these exact counts at review, per standing practice. Export
+  **240**. The §14 table has five rows and drills four (`vocabulary_count: 4`); three are new
+  ledger entries (भोः, अञ्जलिः, स्वस्ति), भद्रम् is an upgrade (भद्र counted in v1.c05.l04,
+  sentence-dressed here) and नमः is a review row (a v1.c03.l04 headword) — neither enters
+  the cumulative sum. The chapter total (21 ledger-new, 258 cumulative) is
+  reconciled in the research notes §6 and v2.c01.l05 §27. Export
   भद्रं ते and गुरवे नमः as `display` blocks with whole-word glosses, never as
   vocabulary rows; अंजलि as `variant_spelling` (a real convenience form, not an error);
   pause-form visarga-less "bho" (the sandhi spelling भो of connected text is not an error)

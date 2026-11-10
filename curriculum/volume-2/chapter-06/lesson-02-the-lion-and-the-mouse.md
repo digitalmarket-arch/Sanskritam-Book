@@ -173,8 +173,8 @@ old fable books at all; the lion story has no Indian twin, but it has Indian cou
 वैज्ञानिकं विवरणम् — why the words come first, the clock comes last, and the story ends in
 your own mouth.
 
-> **[FACT · तथ्यम्]** Vocabulary learning works best with roughly equal time for four
-> strands: meaning-focused input (reading and listening for meaning), meaning-focused
+> **[FACT · तथ्यम्]** Nation's design principle gives vocabulary learning roughly equal time
+> across four strands: meaning-focused input (reading and listening for meaning), meaning-focused
 > output (speaking and writing to convey meaning), language-focused learning, and fluency
 > development — and fluency work uses material that is already familiar. [REF:nation2013]
 

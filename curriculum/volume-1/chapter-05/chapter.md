@@ -57,7 +57,9 @@ By the end of this chapter the learner can:
 
 All `planned:`; prompts in each lesson's §23–24: conjunct-mechanism animation plates
 (stem-loss morphing), the irregular-ligature component cards, repha geography diagram,
-digit cards ०–९, reading-fluency drill audio, tracing worksheets, the conjunct exam sheet,
+digit cards ०–९, reading-fluency drill audio (the Chapter 5 drill pack, which also holds the
+§16 dialogue recordings of lessons 2–4 and the §17 story recordings of lessons 2 and 4),
+tracing worksheets, the conjunct exam sheet,
 chapter quiz + separate key.
 
 ## Assessment

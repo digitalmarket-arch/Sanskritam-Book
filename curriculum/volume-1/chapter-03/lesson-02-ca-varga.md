@@ -879,8 +879,8 @@ narrator reads them as IPA, not as English spelling.
 - **Export notes:** 🔊 marks map to `audio_only: true` — glue words आम्, अत्र, अस्ति,
   पश्य (established set) plus गच्छति (§8, ear-word until v1.c05); ज्ञ and पञ्च appear
   display-only (no `readable` flag; conjunct reading deferred to v1.c05); the ञ row of
-  §14 is a letter-entry, not a word — export with `letter_entry: true`, keep out of word
-  counts; IPA strings contain combining characters (t͡ɕ, d͡ʑ, t̪) — NFC normalization
+  §14 is a letter-entry, not a word — export with `letter_entry: true`; Volume 1's printed
+  ledger counts it among the chapter's 60 (v1.c03.l06 §14), so keep it in `vocabulary_count`; IPA strings contain combining characters (t͡ɕ, d͡ʑ, t̪) — NFC normalization
   applies to Devanagari fields only (STYLE_GUIDE §3), never to IPA; ज़ tokens in §7/§12/§23
   use base ज + nuqta (NFC form) — exporters must not substitute the precomposed
   codepoint; §19 key stays inside `<details>` in all renders; §17 bold markers =

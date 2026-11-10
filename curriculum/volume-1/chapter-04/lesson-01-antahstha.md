@@ -54,7 +54,7 @@ updated: 2026-07-30
 Between the vowels and the consonants runs a border, and four sounds live right on it — too open to be
 proper consonants, too shaped to be vowels. The tradition named them with perfect honesty: *the ones
 standing between*. They are the friendliest letters left in the box — one is an old helper coming home —
-and one of them unlocks the most famous name in Sanskrit. By tonight you will read राम, गुरु and देव with
+and one of them unlocks a famous name. By tonight you will read राम, गुरु and देव with
 your own eyes, and your sentences will learn to speak: रामः वदति। "Rāma speaks." From today, they do.
 
 ## 2. Learning Objective
@@ -110,7 +110,7 @@ vowel you already own.
 
 > **[FACT · तथ्यम्]** The अन्तःस्थ class — य र ल व — sits between vowels and stops in both senses: in
 > manner (approximants and liquids, more open than any stop) and in kinship (each pairs with a vowel:
-> य~इ, र~ऋ, ल~ऌ, व~उ). [REF:whitney1889 §§51–58]
+> य~इ, र~ऋ, ल~ऌ, व~उ). [REF:whitney1889 §§25, 51–58]
 
 That kinship is not trivia: in connected speech इ before a vowel becomes य, and उ becomes व — the
 vowel-twin machinery is one of sandhi's main engines. Full treatment in Volume 3; today you only need to
@@ -321,7 +321,7 @@ voiceless breath, the व a light touch, every final [ɐ] full: /ɾɑːmɐ/, nev
 
 उदाहरणानि — four small stories the word list is hiding.
 
-### राम — the most famous name, and an ordinary word
+### राम — a famous name, and an ordinary word
 
 **राम** (rāma) "Rāma; pleasing" — राम · /ɾɑːmɐ/
 
@@ -529,7 +529,7 @@ also a cheer? Check against §14; bonus answers in the §19 key.
 प्रश्नाः — answers in the key at the end; no peeking mid-quiz.
 
 1. In manner and kinship, the अन्तःस्थ sounds stand between what and what? (a) Hindi and Sanskrit (b) vowels and stop
-   consonants — in manner and in kinship (c) short and long vowels (d) the headline and the stem
+   consonants (c) short and long vowels (d) the headline and the stem
 2. The target व is: (a) English v as in *vine* — teeth pressed, buzzing (b) English w as in *wine* — lips
    rounded, no teeth (c) a light lip-to-teeth touch with no friction — between v and w (d) the same as ब
 3. ऋ and र are related how? (a) the same sound written two ways (b) same articulator, different jobs:
@@ -677,7 +677,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 4. **Writing (3:00–3:50):** stroke panels animate य र व; थ/य knot-vs-wave and ब/व tick-vs-empty flash as
    spot-the-difference beats; र drawn with a flourish — "the simplest one yet."
 5. **THE राम MOMENT (3:50–5:10):** quiet screen. रा — म assembles; a beat of silence; then रामः वदति।
-   builds word by word with the pause-dot. Caption: "the most famous name in Sanskrit — read by you."
+   builds word by word with the pause-dot. Caption: "a famous name — read by you."
 6. **Recap + CTA (5:10–6:00):** the kinship table as four handshakes; the 14-word wall; the inventory bar
    ticks to 44/48. End card: "Next: श ष स — four letters to a complete alphabet."
 
@@ -695,7 +695,7 @@ them as IPA, not as English spelling.
   clean through: va [ʋɐ]. Contact without friction. The middle ground.
 - **03:00** Writing. ya [jɐ] keeps its wave open — only tha [t̪ʰɐ] ties the knot. va [ʋɐ] keeps its loop
   empty — the tick belongs to ba [bɐ]. And ra [ɾɐ]? Two strokes and a line. You earned an easy letter.
-- **03:50** And now — quiet. Read with me. rā [ɾɑː] … ma [mɐ]. rāma [ɾɑːmɐ]. The most famous name in
+- **03:50** And now — quiet. Read with me. rā [ɾɑː] … ma [mɐ]. rāma [ɾɑːmɐ]. A famous name in
   Sanskrit, and you just read it — both beats full.
 - **04:20** Give him a verb: rāmaḥ [ɾɑːmɐh] vadati [ʋɐd̪ɐt̪i] — Rāma speaks. kaviḥ [kɐʋih] vadati
   [ʋɐd̪ɐt̪i] — the poet speaks. vīraḥ [ʋiːɾɐh] calati [t͡ɕɐlɐt̪i] — the hero walks. Word by word, pause
@@ -714,7 +714,7 @@ them as IPA, not as English spelling.
   no buzz — va [ʋɐ]." (Buzz meter dips into the green middle.) "That's व — and India has been saying it
   all along."
 - **Payoff (0:30–0:43):** quiet screen; रा and म assemble. "With today's letters, learners of this course
-  read *this* — rāma. The most famous name in Sanskrit, both beats full, with their own eyes. Then they
+  read *this* — rāma. A famous name, both beats full, with their own eyes. Then they
   give it a verb: रामः वदति। Rāma speaks."
 - **CTA (0:43–0:50):** "Four letters left in the whole alphabet. This is Sanskritam — follow for the
   finish." (End card: अन्तःस्थाः — The In-Between Sounds.)

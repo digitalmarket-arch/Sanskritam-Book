@@ -21,7 +21,7 @@ the month names come from these stems — and they do not; the month names are
 Latin counting its own calendar, and अष्ट beside octō are siblings from one ancestor,
 which is the better story anyway. Second, a loan running the *other* way: होरा "hour"
 came INTO Sanskrit from Greek with Hellenistic astronomy — completing the loan-vs-cognate
-toolkit with all directions demonstrated. The digits of Chapter 5 get their names; the
+toolkit with all directions demonstrated. The digits of Volume 1 Chapter 5 get their names; the
 day-cycle of v2.c01 gets its calendar.
 
 ## Goals
@@ -58,7 +58,8 @@ By the end of this chapter the learner can:
 
 All `planned:`; per-lesson §23–24 prompts: digit-name flashcards, the numeral cognate
 wall chart (one ancestor, three columns), the month-name story card (Latin counting its
-calendar), week wheel, calendar grid worksheet, counting audio, chapter quiz + key.
+calendar), week wheel, calendar grid worksheet, counting audio — the Chapter 3 drill pack,
+which also holds every lesson's §16/§17 conversation and story recordings — chapter quiz + key.
 
 ## Assessment
 

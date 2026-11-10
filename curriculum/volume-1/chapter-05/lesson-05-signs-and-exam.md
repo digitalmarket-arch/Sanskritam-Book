@@ -224,7 +224,7 @@ First the last signs — then the assessment architecture.
   a stop it is read as that stop's own class nasal; elsewhere a nasal hum —
   v1.c02.l06 §5); ँ is the vowel itself going nasal throughout. In classical Sanskrit prose ँ is uncommon — mostly at
   home in Vedic recitation and careful phonetic writing — so learn to recognize it, not
-  to hunt it. [REF:whitney1889 §16] [REF:masica1991 ch.6]
+  to hunt it. [REF:whitney1889 §73] [REF:masica1991 ch.6]
 - **Daṇḍa । and double daṇḍa ॥.** The script's own punctuation: । closes a sentence
   (or a verse's half), ॥ closes a verse or section. This course has closed nearly every
   Sanskrit statement with । since Chapter 1, and has used its name since v1.c03.l05 —
@@ -302,7 +302,7 @@ single flap [t̪ɾ]. The trio: धर्म /d̪ʱɐɾmɐ/ · कर्म /kɐ�
 *precedes* the consonant its hook rides. The trap pair: कर्म /kɐɾmɐ/ vs क्रम /kɾɐmɐ/ —
 identical letters, opposite [ɾ] positions. Gemination: बुद्ध /bud̪d̪ʱɐ/ — the [d̪]
 closure held. The nasalized vowel of ँ is written with the tilde: [ɑ̃ː] as in Hindi
-हाँ [ɦɑ̃ː]. And सोऽहम् /soːɦɐm/ — five sounds, six characters, one of them silent.
+हाँ [ɦɑ̃ː]. And सोऽहम् /soːɦɐm/ — five sounds, six characters — and the ऽ adds no sound at all.
 
 ## 11. Mouth Position
 
@@ -383,7 +383,7 @@ block by block, then whole word, every vowel at full value, pause form.
 | सत् | sat | /sɐt̪/ | being, real | सत् | l01 |
 | जगत् | jagat | /d͡ʑɐgɐt̪/ | world | जगत्, संसार | l01 · "the moving one" |
 | वाक् | vāk | /ʋɑːk/ | speech | वाणी | l01 |
-| भवान् | bhavān | /bʱɐʋɑːn̪/ | you (respectful) | आप | l01 · polite chunk |
+| भवान् | bhavān | /bʱɐʋɑːn̪/ | you (respectful, to a man) | आप | l01 · polite chunk |
 | आम् | ām | /ɑːm/ | yes | हाँ | l01 · upgrade — 🔊 retired |
 | वदामि | vadāmi | /ʋɐd̪ɑːmi/ | I speak | मैं बोलता/बोलती हूँ | l01 · verb |
 | नमामि | namāmi | /n̪ɐmɑːmi/ | I bow | मैं प्रणाम करता/करती हूँ | l01 · verb |
@@ -517,8 +517,8 @@ attempt):
    (candraḥ tatra asti. mitram atra asti.) "The moon is there. The friend is here." —
    चाँद वहाँ है। मित्र यहाँ है।
 
-(Recombining owned pieces into new sentences is retrieval practice at its strongest
-[REF:roediger2006] — and it is precisely what Chapter 6's passage-reading will demand.)
+(Recombining owned pieces into new sentences is retrieval practice, which beats re-reading
+for long-term retention [REF:roediger2006] — and it is precisely what Chapter 6's passage-reading will demand.)
 
 ## 18. Exercises
 
@@ -795,8 +795,8 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
   swallowed. Its sound? Nothing. You read straight through it."
 - 02:00 — "The moon with a dot — candrabindu [t͡ɕɐn̪d̪ɾɐbin̪d̪u]. Say the Hindi word
   हाँ [ɦɑ̃ː]. Feel the vowel go through your nose? That is the moon's whole job. And
-  the digits: शून्य to nine — [ɕuːn̪jɐ] — zero itself is India's gift; the world's 0
-  to 9 grew from the same Indian ancestors as these shapes."
+  the digits, zero to nine: the world's 0 to 9 grew from the same Indian ancestors as
+  these shapes."
 - 04:30 — "Now the exam, both directions. Build: s plus tha — स्थ [st̪ʰɐ]. Dissect:
   क्ष [kʂɐ] — two letters in one costume: k, ṣa. The triple: n, t, ra — न्त्र
   [n̪t̪ɾɐ], as in mantra [mɐn̪t̪ɾɐ]."

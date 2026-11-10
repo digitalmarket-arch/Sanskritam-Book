@@ -396,7 +396,7 @@ word with a future.
 > derivation recorded in the classical dictionaries, not folk etymology. [REF:apte1890 s.v. खग]
 
 Savor the coincidence: the two newest letters in your hand spell "sky" + "go", and the
-word takes off. How such elements attach is Volume 2's compound machinery; today, enjoy
+word takes off. How such elements attach is Volume 3's compound machinery; today, enjoy
 the view.
 
 ### गत, गति — and the triplet that isn't
@@ -416,7 +416,7 @@ it never fools you again.
 
 **मुख** (mukha) "mouth, face" — मुँह, चेहरा · /mukʰɐ/
 
-A body word today; a building block soon. When compounds arrive in Volume 2, मुख will be
+A body word today; a building block soon. When compounds arrive in Volume 3, मुख will be
 everywhere — Sanskrit loves naming things by their face. And a small poetry in the timing:
 the word for "mouth" becomes readable in the very lesson your mouth learns its own back
 wall.
@@ -859,7 +859,7 @@ narrator reads them as IPA, not as English spelling.
   now has a card); the क helper promotion closes the promise of v1.c01.l03 §14. Feeds
   v1.c03.l02–l05 (manner row reapplied per place; recital opens each), v1.c03.l06
   (blank-grid assessment), Chapter 5 (conjunct ङ्क readable; गीतम्'s -म् writable),
-  Volume 2 (खग-type compounds; the गत/गति root preview), Volume 3 (कति खगाः / एकः खगः
+  Volume 2 (the गत/गति root preview), Volume 3 (खग-type compounds; कति खगाः / एकः खगः
   inflection promised in §16).
 - **Glossary:** reuses कण्ठ्य, वर्ण, स्वर, व्यञ्जन, मात्रा, अनुस्वार, विसर्ग per
   GLOSSARY.md. **New glossary candidates** (add in the post-chapter loop): वर्ग, स्पर्श,

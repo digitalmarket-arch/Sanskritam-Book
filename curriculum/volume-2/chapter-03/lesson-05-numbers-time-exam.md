@@ -354,8 +354,8 @@ lessons. Protocol as always: block by block, whole word, full finals, pause form
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | चतुर् · त्रि | catur · tri | — | four · three | — | l01, 2 headwords + the chant (एक is a review row, ✓ v1.c02.l04) — full rows: l01 §14 |
-| षट् · सप्त · अष्ट · नव · कति | ṣaṭ · sapta · aṣṭa · nava · kati | — | six · seven · eight · nine · how many? | — | l02, 4 ledger-new headwords (कति is a review row, ✓ v1.c02.l01; दश also returns as a review row) — full rows: l02 §14 |
-| कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | time · today · tomorrow · yesterday · year · week · hour | — | l03, 6 ledger-new headwords + 2 upgrade rows (कालः and मासः, ledger untouched) — full rows: l03 §14 |
+| षट् · सप्त · अष्ट · नव | ṣaṭ · sapta · aṣṭa · nava | — | six · seven · eight · nine | — | l02, 4 ledger-new headwords (कति, ✓ v1.c02.l01, and दश, ✓ v1.c04.l02, return as review rows) — full rows: l02 §14 |
+| अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा | adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā | — | today · tomorrow · yesterday · year · week · hour | — | l03, 6 ledger-new headwords + 2 upgrade rows (कालः and मासः, ledger untouched) — full rows: l03 §14 |
 | वासरः · रविवासरः … शनिवासरः | vāsaraḥ · ravivāsaraḥ … śanivāsaraḥ | — | day of the week + the seven names | — | l04, 8 headwords — full rows: l04 §14 |
 
 ## 15. Grammar
@@ -364,7 +364,8 @@ lessons. Protocol as always: block by block, whole word, full finals, pause form
 
 > **[FACT · तथ्यम्]** **The stems:** एक द्वि त्रि चतुर् पञ्च षट् सप्त अष्ट नव दश —
 > citation names (dictionaries file six under षष्, and nine under नवन् — l02 §13,
-> §15); Sanskrit numbers inflect for gender and case, a system this course
+> §15); Sanskrit numbers inflect for case, and one to four for gender too, a system
+> this course
 > defers honestly (full treatment in Volume 4) and never fakes. **The chant:** एकम्
 > द्वे त्रीणि चत्वारि… — real, inflected, neuter counting forms, learned whole as
 > practice. **The question:** कति "how many?" — answers may stand bare: कति? — पञ्च!
@@ -423,7 +424,7 @@ weekday; finish by counting something real in the room, bare.
 Worked closing line, for comparison after your attempt: **अद्य शुक्रवासरः। ह्यः
 गुरुवासरः। श्वः शनिवासरः। कति? — सप्त! सप्ताहः!** — the week wheel counted to seven
 and landing on the one word that *is* a seven-of-days. (Retrieval + recombination —
-the strongest rehearsal pair there is [REF:roediger2006].)
+and retrieval practice beats re-reading for long-term retention [REF:roediger2006].)
 
 ## 18. Exercises
 
@@ -710,8 +711,8 @@ verbs arrive." (End card: संख्याः कालश्च।)
 - **Verification flags for Pass C:** the nine D-cards diffed against l02 §13
   (month-name fix, नव split), l03 §13 (होरा loan), l04 §4/§13/§15 (week dating, वासर
   attestation); card 8 traces to fact base §0.7 and the v2.c02.l05 direction
-  toolkit, not to this chapter's siblings; Whitney numeral § range cited bare pending
-  verification (notes §0.1); week dating kept to "early centuries CE", no precise
+  toolkit, not to this chapter's siblings; Whitney numeral § range cited bare (§§475–489
+  verified, notes §0.1); week dating kept to "early centuries CE", no precise
   date; the hour-होरा card asserts a shared Greek source only (no Sanskrit–English
   contact claim); calendar target dates constrained to the taught names १–१०.
 - **Register audit:** FACT ×3 (§4 spacing · §5 testing · §15 rules) · HISTORY ×1 (§4

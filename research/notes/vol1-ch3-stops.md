@@ -21,7 +21,7 @@ checked against Apte/Monier-Williams; nothing else may appear as readable vocabu
 | 0.3 | English speakers aspirate initial voiceless stops automatically (English "kite" ≈ ख not क) — their main battle is *un*-aspirating क त प and producing breathy घ झ ढ ध भ. | FACT | [REF:ladefoged2015] | Feeds §12 of every lesson. |
 | 0.4 | Hindi speakers command all 25 stops natively; their Ch 3 work is (a) full final vowels as always, (b) undoing nuqta habits (ज़/फ़ are Hindi–Perso-Arabic, not Sanskrit), (c) the rare letters ङ ञ as standalone shapes. | FACT | [REF:ohala1994], [REF:masica1991] | Respectful framing as established. |
 | 0.5 | The five nasals are homorganic with their varga — the anusvāra rule of v1.c02.l06 now gets its full letter set. | FACT | [REF:whitney1889 §§70–71] | Spiral closure of the l06 promise. |
-| 0.6 | ङ and ञ occur almost exclusively before/after their own varga stops (अङ्क, पञ्च) or finally (rare); ठ ड ढ begin few native words but are frequent word-internally. Taught honestly at recognition-plus level, with equal card treatment. | FACT | [REF:whitney1889], [REF:apte1890] | "Equal depth" ≠ pretending equal frequency; the card says both. |
+| 0.6 | ङ and ञ occur almost exclusively before/after their own varga stops (अङ्क, पञ्च) or finally (rare); ट ठ ड ढ begin few native words but are frequent word-internally (ट added to match l03 §8 — corrected at the 2026-11-10 sweep). Taught honestly at recognition-plus level, with equal card treatment. | FACT | [REF:whitney1889], [REF:apte1890] | "Equal depth" ≠ pretending equal frequency; the card says both. |
 
 ## 1. L1 — क-वर्ग (velar row): क ख ग घ ङ
 
@@ -54,7 +54,7 @@ to Ch 5).
 course's FIRST readable verb form** (glossed as a whole word; conjugation itself waits for
 Volume 2 — one honest line); अचल (acala) "unmoving; mountain"; छल (chala) "deceit, guise";
 जल (jala) "water"; जलज (jalaja) "water-born, lotus"; जित (jita) "conquered"; कूजति (kūjati)
-"coos, warbles" (the कोकिल from v1.c02.l05 returns: कोकिल कूजति). झ: few native initial
+"coos, warbles" (the कोकिल from v1.c02.l05 returns: कोकिलः कूजति — nominative visarga, as shipped; corrected at the 2026-11-10 sweep). झ: few native initial
 words at this glyph stage — card + syllable drills, honest note. ञ: conjunct-dweller
 (पञ्च-type), same honest treatment as ङ.
 
@@ -67,7 +67,7 @@ Chapter 5 unlocks writing it"), NOT in the readable list.
 |---|---|---|
 | Retroflexes /ʈ ʈʰ ɖ ɖʱ ɳ/: tongue tip curled back toward the roof; found also in Swedish/Norwegian etc. (anti-IR-013 refresher). | FACT | STYLE_GUIDE; [REF:masica1991] |
 | English t/d are alveolar — closer to retroflex than to dental, which is WHY the dental row (L4) needs the explicit tooth-contact contrast. | FACT | [REF:ladefoged2015] |
-| ठ ड ढ begin few native Sanskrit words; frequent internally. | FACT | [REF:apte1890] survey |
+| ट ठ ड ढ begin few native Sanskrit words; frequent internally (corrected at the 2026-11-10 sweep). | FACT | [REF:apte1890] survey |
 
 **Readable words (attested):** घट (ghaṭa) "pot"; तट (taṭa) "shore, bank" (कूल synonym —
 pair them); कटु (kaṭu) "pungent, bitter"; जटा (jaṭā) "matted hair"; कूट (kūṭa) "peak;
@@ -87,7 +87,7 @@ line. ण-initial words: essentially none (state it); ण earns its keep word-in
 this word since Chapter 1; दिन (dina) "day"; दान (dāna) "giving, charity"; दधि (dadhi)
 "yogurt"; धन (dhana) "wealth"; मधु (madhu) "honey"; नदी (nadī) "river"; **नमः (namaḥ)
 "homage, salutation"** — the first half of नमस्ते becomes readable (स्ते waits for Ch 4+5;
-say so); मनः (manaḥ) "mind" (citation form of the s-stem manas; a bare मन is the Hindi
+say so); मनः (manaḥ) "mind" (nominative/pause form of the s-stem manas, whose citation form is मनस् — corrected at the 2026-11-10 sweep; a bare मन is the Hindi
 word — in Sanskrit, mana for 'mind' occurs only compound-finally, as in sumana); जन (jana)
 "person, people"; नीति (nīti) "conduct, policy"; नील (nīla) "blue"; गगन (gagana) "sky"; नल (nala) "Nala (the king's
 name); reed". Minimal-pair gold: तट/तत? — use नदी-तट collocation instead; धन/दिन/दान
@@ -126,15 +126,17 @@ v1.c02.l07 §14 + 60 new — corrected at audit). Assessment mirrors
 the established five-task format, scaled: A hearing (aspiration/voicing/place contrasts, 12
 items incl. त/ट and क/ख pairs); B dictation (10 words across vargas); C reading aloud (15
 words + the three milestone sentences); D register sort (9 fresh cards incl. खग etymology
-as FACT, Kaṭha as TRADITION-name, "Sanskrit ज is really z" as reject); E timed grid-fill
+as FACT, Kaṭha as FACT or TRADITION (a naming fact; the l06 key accepts both — corrected at the 2026-11-10 sweep), "Sanskrit ज is really z" as reject); E timed grid-fill
 (blank 5×5 grid + manner labels, from memory, 5 min).
 
 ## 7. Pedagogy anchors
 
 Unchanged ([REF:roediger2006], [REF:cepeda2006], [REF:nation2013]); word load ≤ 10–15 per
 lesson now justified by the letter-frame being the real content (words are practice
-material); every lesson's §3 reruns the previous varga's five-member recital + one Chapter 2
-interval item. L6 runs Chapter 2's +1-week re-dictation as Station 0.
+material); every lesson's §3 reruns the previous varga's five-member recital + one
+older-chapter interval item (Chapter 2 in l01–l03, Chapter 1 in l04–l05). L6 runs Chapter 2's
++1-week re-run (tasks C and E) and its pre-quiz task-D re-sort as Station 0 (corrected at the
+2026-11-10 sweep).
 
 ## 8. Open questions / deferred
 
@@ -144,11 +146,11 @@ interval item. L6 runs Chapter 2's +1-week re-dictation as Station 0.
   for Volume 1 — one honest FACT line: "connected speech applies sandhi (Volume 3); at this
   stage we read word-by-word in pause form, which is how dictation and word-lists are
   traditionally recited." This avoids teaching wrong forms while deferring sandhi.
-  → Verify framing in Pass C; the milestone sentences are presented as word-sequences read
-  in pause form.
+  → Resolved: Pass C verified the framing (verification-log, 2026-07-30); the milestone
+  sentences are presented as word-sequences read in pause form.
 - गोपाल vs गोपालः citation: use गोपालः in vocab table (citation form with visarga, matching
   मतिः precedent from v1.c02.l06)? Decision: masculine a-stems listed in bare-stem form (as
   ch1–2 did: कमल, लोक) with one note that dictionaries and sentences add ः — consistency
   with existing tables wins; the sentence milestone shows the ः forms.
 
-All claims to be re-audited by Pass C; verdicts go to ../verification-log.md.
+All claims were re-audited in Pass C (2026-07-30); verdicts are in ../verification-log.md.

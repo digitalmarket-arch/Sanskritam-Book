@@ -80,7 +80,8 @@ in §13 and §18 task E, §19 (Q6); objective 3 across §18 with the rubric in �
 
 The Conjunct Exam's spacing schedule (v1.c05.l05 §20) comes due today [REF:cepeda2006]:
 a compressed re-run of its tasks C and E. Two items, two minutes; log the scores next to
-the old ones.
+the old ones. (Its third due item — re-sort v1.c05.l05's task D cards from memory before
+this lesson's §19 quiz — runs on its own; log it here too.)
 
 1. Two-way mini: build स् + थ and ध + र् + म; dissect ज्ञ and न्त्र into components.
 2. Reading row, aloud and cold: नमस्ते! अहम् अत्र अस्मि। — then धर्म · कर्म · अर्थ at
@@ -161,8 +162,8 @@ be free. Today's exam is the receipt that it is.
 
 Every word glossed whole, as always: ददाति "gives", एव "alone, indeed", जयते
 "prevails". Pause form, daṇḍa honored — and notice that both lines run on script this
-volume taught: of their words only विद्या and सत्य are ledger words (Chapter 5); विनयम् wears lesson 1-of-5's
-virāma; जयते rides Chapter 2's ए. Literature was the plan all along.
+volume taught: of their words only विद्या and सत्य are ledger words (Chapter 5); विनयम् wears Chapter 5's
+virāma (v1.c05.l01); जयते rides Chapter 2's ए. Literature was the plan all along.
 
 ## 7. Hindi Explanation
 
@@ -200,7 +201,7 @@ Three texts, three registers — then the exam architecture.
 > chain awaits your sandhi (Volume 3). The first pāda, in pause form, has none: three
 > words, zero joins. [REF:hitopadesha]
 
-Your first line of real literature — and deliberately so: every word certified, no
+Your first line of real literature — and deliberately so: every sign certified, no
 sandhi, a complete thought. Read it cold in task C.
 
 ### Text two — the line on the emblem
@@ -360,7 +361,7 @@ l01 §10 split गङ्गा.)
 
 **Model register sort (task E card).** Card: "सर्वे भवन्तु सुखिनः is from the
 Upaniṣads." It *sounds* right — the verse has the cadence and the company of Upaniṣadic
-lines, and half the internet says so. But the claim names a source, so it must survive a
+lines, and many websites say so. But the claim names a source, so it must survive a
 source-check, and it does not: no principal Upaniṣad contains the verse. **Reject** —
 and replace, don't just delete: "a traditional maṅgala verse, source unrecorded" is the
 honest full credit. Compare: "सत्यम् एव जयते is Muṇḍaka 3.1.6 and India's national
@@ -582,7 +583,7 @@ tasks.
 **Task keys.** A: the 48-symbol order as in v1.c04.l04 §19 key + sweep row का कि की कु
 कू कृ के कै को कौ कं कः क्. B: 1 श्र 2 क्त 3 स्व 4 चन्द्र · 5 क् + ष 6 ज् + ञ 7 स् + थ
 8 न् + त् + र. C: as printed in §18; passage bar 90 s per l03's three-speed protocol.
-D (dictation set): नमस्ते, गङ्गा, धर्म, पुस्तक, छात्रः, संस्कृतम्, ज्ञान, पञ्च — then
+D (dictation set): नमस्ते, गङ्गा, धर्म, पुस्तकम्, छात्रः, संस्कृतम्, ज्ञान, पञ्च — then
 सः संस्कृतम् पठति। E: counts 8-8-8-8 (the §13 method); card 1 **reject** — replace
 with "traditional, source unrecorded"; card 2 **FACT/HISTORY** — both halves checkable
 [REF:mundaka 3.1.6] [REF:stateemblem1950].
@@ -744,7 +745,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
   India — you have carried this line in your pocket your whole life. Today you can
   read it — and see the seam the emblem writes closed."
 - 02:40 — "And the benediction: sarve bhavantu sukhinaḥ [sɐɾʋeː bʱɐʋɐn̪t̪u sukʰin̪ɐh]
-  — may all be happy. Everyone says it is from the Upaniṣads. Nobody can say which
+  — may all be happy. It is often said to be from the Upaniṣads. Nobody can say which
   one — because it is not there. Its true label is *traditional* — and saying so is
   not a defeat. It is the whole discipline this course taught you, graduating."
 - 03:30 — "Count with me: sar-ve bha-van-tu su-khi-naḥ — eight. Four times. Thirty-two

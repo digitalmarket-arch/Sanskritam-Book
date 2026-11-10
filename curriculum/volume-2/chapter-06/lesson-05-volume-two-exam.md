@@ -245,8 +245,9 @@ Retelling one makes you rebuild every sentence from owned parts: a verb in the r
 person, a noun with its ending, the story's turn in the right place. Retrieval strengthens
 memory more than re-reading [REF:roediger2006]; retelling adds recombination. That is why
 the retelling scores owned sentences, not the original's order, and why the role-card
-conversation, which you passed once in Chapter 5, comes back a chapter later: a skill
-retrieved after a gap is a skill that lasts [REF:cepeda2006].
+conversation, which you passed once in Chapter 5, comes back a chapter later: what is
+practised with gaps between sessions is retained longer than what is practised all at once
+[REF:cepeda2006].
 
 ## 6. Sanskrit Explanation
 

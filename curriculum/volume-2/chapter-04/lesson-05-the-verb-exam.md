@@ -22,8 +22,8 @@ objectives:
     hi: "पाँच त्रिकों में सुने गए क्रिया-रूपों का पुरुष उनके अन्त से पहचानें, और छह क्रिया-रूपों तथा एक पूरे वाक्य का श्रुतलेख लिखें।"
   - en: "Sort nine claims about the verb system — the pattern facts in, the future-tense and go-cognate overreaches honestly out, each with a reasoning line."
     hi: "क्रिया-व्यवस्था के नौ कथनों को छाँटें — सच्चे नियम भीतर, भविष्य-काल और go-सजातीय जैसी अति-पहुँच ईमानदारी से बाहर, हर कार्ड पर एक तर्क-पंक्ति।"
-  - en: "Narrate your own day in six first-person sentences, aloud and written, and re-read the day-passage at natural pace — the course's first self-authored connected production."
-    hi: "अपना दिन 'अहम्' वाले छह वाक्यों में बोलकर और लिखकर सुनाएँ, और दिन-कथा को सहज गति से दोबारा पढ़ें — पाठ्यक्रम की पहली स्व-रचित जुड़ी हुई कथा।"
+  - en: "Narrate your own day in six first-person sentences, aloud and written, and re-read the day-passage at natural pace — your own day, in sentences you wrote yourself."
+    hi: "अपना दिन 'अहम्' वाले छह वाक्यों में बोलकर और लिखकर सुनाएँ, और दिन-कथा को सहज गति से दोबारा पढ़ें — अपना ही दिन, अपने ही रचे वाक्यों में।"
 new_letters: []
 new_matras: []
 vocabulary_count: 0
@@ -131,8 +131,8 @@ scores next to the old ones:
 <details><summary>उत्तराणि · Station 3 key</summary>
 
 1. E.g. किम् त्वम् करोषि? — अहम् पठामि। Then reverse roles. → l03 §8, §16.
-2. The ष is कृ's own habit — करोमि करोषि करोति are learned as whole words; the
-   regular bank keeps dental -सि. → l03 §12.
+2. No rule today: the ष comes with the whole word — शृणोषि has it too, and the reason
+   waits for Volume 4; the regular bank keeps dental -सि. → l03 §12.
 3. भवान् rides the 3sg form (भवान् गच्छति) — one honest chunk-level line; the
    grammar behind it is later business. → l03 §15.
 </details>
@@ -161,8 +161,8 @@ weakest station today and assess tomorrow [REF:cepeda2006].
 Last chapter's exam closed the direction table; today's closes something larger: the
 course's first formal grammar chapter, and with it the Volume 2 chapters 1–4 arc.
 This chapter was also a structural repair. The 1.x curriculum introduced ten verb
-tenses and moods at once, with zero prior conjugation practice — the audit's worst
-sequencing finding. The 2.0 fix is this chapter's very shape: one tense, one number,
+tenses and moods at once, with zero prior conjugation practice — the audit's verb-cliff
+finding. The 2.0 fix is this chapter's very shape: one tense, one number,
 three endings, practiced to production depth before any survey arrives. The exam
 honors the same honesty: it tests only the present singular you own.
 
@@ -234,8 +234,8 @@ deferred, and not tested.
 दूसरी — **मम दिनम्।** पिछले पाठ के गृहकार्य में आपने अपने दिन के छह 'अहम्' वाक्य
 तैयार किए थे — वही आज की मुख्य प्रस्तुति हैं। पहले बोलिए (रिकॉर्ड कीजिए), फिर
 लिखिए। फिर अर्जुनः वाली दिन-कथा सहज गति से दोबारा पढ़िए और समय दर्ज कीजिए। यह
-पाठ्यक्रम की पहली ऐसी कथा है जो आपने स्वयं रची है — यही इस अध्याय की असली जीत है।
-सरल और सही वाक्य, महत्वाकांक्षी और ग़लत से हमेशा बेहतर — भूतकाल, बहुवचन, नये ढाँचे
+आपके अपने दिन की कथा है, जिसे आपने स्वयं रचा है — यही इस अध्याय की असली जीत है।
+सरल और सही वाक्य, महत्त्वाकांक्षी और ग़लत से हमेशा बेहतर — भूतकाल, बहुवचन, नये ढाँचे
 मत खींचिए; जो वर्तमान एकवचन आपका है, उसी में सच बोलिए।
 
 तीसरी — **कार्ड-छँटाई।** नौ कथन हैं; हर कार्ड पर निर्णय (तथ्य या अस्वीकार) और एक
@@ -283,7 +283,7 @@ these tails: train the ear to catch the last syllable first.
 **The 1sg stretch.** गच्छामि, पठामि, लिखामि — the आ is dīrgha, two full beats. A
 clipped गच्छमि is a wrong form, not an accent.
 
-**कृ's curl.** करोषि carries retroflex ष — tongue-tip back; गच्छसि stays dental स.
+**The ष words.** करोषि and शृणोषि carry retroflex ष — tongue-tip back; गच्छसि stays dental स.
 One habit each: the dictation checks the letter, the listening test the sound.
 
 **The शृ- opening.** शृणोति and शृणोषि open on /ɕr̩/ — श plus the syllabic vowel ऋ,
@@ -298,7 +298,7 @@ No new values. Exam spot-checks: the person lives in the final syllable — ग�
 /gɐt͡ɕt͡ɕʰɑːmi/ · गच्छसि /gɐt͡ɕt͡ɕʰɐsi/ · गच्छति /gɐt͡ɕt͡ɕʰɐt̪i/: the welded च्छ
 /t͡ɕt͡ɕʰ/ holds across all three; only the tail changes, and the 1sg's /ɑː/ runs two
 full beats. The endings are dental — -ति /t̪i/ and -सि /si/ on the teeth — but करोषि
-/kɐɾoːʂi/ curls to retroflex /ʂ/, कृ's own habit. शृणोति /ɕr̩ɳoːt̪i/ hides syllabic
+/kɐɾoːʂi/ curls to retroflex /ʂ/ — the ष comes with the whole word, as in शृणोषि. शृणोति /ɕr̩ɳoːt̪i/ hides syllabic
 /r̩/ and retroflex /ɳ/ back to back. जानाति /d͡ʑɑːn̪ɑːt̪i/ carries two long /ɑː/ in
 a row. करोति /kɐɾoːt̪i/ and शृणोति keep ओ a pure long /oː/ — never English "go"
 [oʊ]. खादति /kʰɑːd̪ɐt̪i/ opens aspirated; पश्यति /pɐɕjɐt̪i/ welds श्य with no seam
@@ -331,7 +331,7 @@ vowel.
 |---|---|---|---|
 | 1 | Person mismatch: अहम् गच्छति — THE flagged error | C, E | l02 §12 — the ending IS the person; re-run the triple aloud |
 | 2 | The stretch clipped: गच्छमि for गच्छामि | B, C, E | l02 §15 — the 1sg holds its आ two beats; write it because you hold it |
-| 3 | कृ's ष spread to the bank (गच्छषि) or flattened (करोसि) | B, C | l03 §12 — the ष is कृ's own habit; whole-word rows, dental everywhere else |
+| 3 | कृ's ष spread to the bank (गच्छषि) or flattened (करोसि) | B, C | l03 §12 — the ष comes with the whole word (शृणोषि too); whole-word rows, dental everywhere else |
 | 4 | शृणोति/जानाति "regularized" — invented forms built on -अति | C | l02 §12 mistake 4, §15 Step 6 — whole words only; recall, never construct |
 | 5 | "-ति means future/will" drift under translation pressure | D, §19 | §15 honesty line — laṭ is the present; tenses are later volumes' business |
 | 6 | Reaching for untaught machinery in मम दिनम् (past tense, plurals) | E | simplest correct beats ambitious wrong — stay in the present singular you own |
@@ -345,8 +345,8 @@ vowel.
 **Model conjugation round (task C).** The deal: person card त्वम् + verb card लिख-.
 Within a beat: **लिखसि!** — then written, mātrā and all. Reverse direction: you hear
 *pibāmi* — name the person: अहम्, "I". Now the traps. Dealt अहम् + गच्छ-: the answer
-stretches — **गच्छामि**, never गच्छमि. Dealt त्वम् + शृणोति: you do NOT build a form —
-शृणोति builds its stem differently; you recall the learned whole word **शृणोषि**. The exam
+stretches — **गच्छामि**, never गच्छमि. On the whole-word strip you do NOT build a form —
+शृणोति builds its stem differently; you recite the learned row **शृणोमि शृणोषि शृणोति**. The exam
 rewards the honest move every time: build only where the pattern lives, remember
 where it does not.
 
@@ -383,7 +383,7 @@ Protocol as always: block by block, whole word, full finals, pause form.
 > stretches the joint vowel to आ — गच्छ- gives गच्छामि, never गच्छमि. **The whole-word
 > rows:** शृणोति, जानाति and करोति build their stems differently and are learned
 > whole — शृणोमि शृणोषि शृणोति · जानामि जानासि जानाति · करोमि करोषि करोति; the ष of
-> करोषि is कृ's own habit. **The trio:** अस्मि असि अस्ति — I am, you are, he/she/it
+> करोषि (and of शृणोषि) comes with the whole word. **The trio:** अस्मि असि अस्ति — I am, you are, he/she/it
 > is; the verbless frame (त्वम् छात्रः) remains legal and idiomatic. **The polite
 > line:** भवान् takes the 3sg form, chunk-level. **The honesty lines:** present
 > singular only — no duals, no plurals, no other tenses; -ति marks person, not time;
@@ -441,8 +441,8 @@ Worked closing sequence, for comparison after your attempt: **प्रभात
 विद्यालयम् गच्छामि। अहम् पुस्तकम् पठामि। अहम् अन्नम् खादामि। अहम् क्षीरम् पिबामि।
 सायम् अस्ति। अहम् गृहम् गच्छामि। अहम् लिखामि।** — a whole day told in the first
 person, with the passage's own time-frames as bookends. Yours should differ: the
-exam wants *your* day, not अर्जुनः's. (Retrieval + recombination — the strongest
-rehearsal pair there is [REF:roediger2006].)
+exam wants *your* day, not अर्जुनः's. (Retrieval + recombination — and retrieval
+practice beats re-reading for long-term retention [REF:roediger2006].)
 
 ## 18. Exercises
 
@@ -531,8 +531,8 @@ recite the trio अस्मि असि अस्ति.
    does it partly; Sanskrit marks every person inside the word (l02 §4–§5).
 7. E.g. अहम् पठामि। Polite: भवान् किम् करोति? — भवान् takes the 3sg -ति, chunk-level
    honest line (l03 §8, §15).
-8. The ष is कृ's own habit — करोमि करोषि करोति are whole-word forms; the regular
-   bank keeps dental -सि (l03 §12).
+8. The ष comes with the whole word — शृणोषि has it too; the reason waits for Volume 4;
+   the regular bank keeps dental -सि (l03 §12).
 9. Person mismatch: अहम् needs the 1sg — अहम् गच्छामि, with the stretch (l02 §12).
 10. -ति does not mark time — laṭ is the present; tenses arrive in Volume 3 (the laṭ
     chapter) and Volume 4 (the system), as the chapter says honestly (§15).
@@ -607,8 +607,8 @@ writing) → debrief (5 min).
 | D (9) | 7–9 reasoned | 5–6 | pattern/overreach blurred → §15 honesty lines re-walked; card 5 → l01 §13 |
 | E | six 1sg sentences correct + passage at pace | one person slip | mismatches → l02 §12, l03 §12; pace → l04's three-speed protocol, middle speed |
 
-**Run task E as a celebration, not a gate.** It is the course's first self-authored
-connected production — six sentences nobody wrote for the learner. Praise the
+**Run task E as a celebration, not a gate.** It is the learner's own day, told in the
+first person — six sentences nobody wrote for the learner. Praise the
 simplest correct day extravagantly: अहम् पठामि। अहम् लिखामि। said plainly *is* the
 thing. Redirect ambition gently — the learner reaching for "I woke up" is not wrong
 to want it; the past tense is coming, in Volume 3, and say so.
@@ -670,7 +670,7 @@ Timed narration; Sanskrit terms carry IPA cues — the narrator follows the cue.
   [gɐt͡ɕt͡ɕʰɐsi] — you go. gacchati [gɐt͡ɕt͡ɕʰɐt̪i] — he goes. One word each. The
   person is inside. Today's exam asks you to prove it."
 - 00:40 — "The tails are dental — -ti [t̪i], -si [si] — on the teeth. But karoṣi
-  [kɐɾoːʂi] curls: that ṣa is kṛ's own habit. And the first person stretches:
+  [kɐɾoːʂi] curls: that ṣa comes with the whole word, as in śṛṇoṣi [ɕr̩ɳoːʂi]. And the first person stretches:
   gacchāmi [gɐt͡ɕt͡ɕʰɑːmi], two full beats on the ā."
 - 03:00 — "The whole-word rows: śṛṇoti [ɕr̩ɳoːt̪i], jānāti [d͡ʑɑːn̪ɑːt̪i], karoti
   [kɐɾoːt̪i]. They build differently. You never construct them — you remember them.
@@ -726,8 +726,8 @@ conversation — being written next." (End card: क्रियाः समा
   entering (c03 exit confirmed at its review) + 11 (l01 7 · l02 1 · l03 3 · l04 0)
   = **308**; chain 297 → 304 → 305 → 308 → 308. §19 task keys are the single source for
   the audio/exam key files.
-- **Verification flags for Pass C:** Whitney laṭ-paradigm § range cited bare
-  pending verification (notes §0.1 names a candidate range); no present-class
+- **Verification flags for Pass C:** Whitney cited bare (Pass C verdict, notes
+  §0.1); no present-class
   numbers printed anywhere — "builds its stem differently" is the approved phrasing
   (checked §12, §15, §19); गच्छ- suppletion not mentioned (notes §6); the go-card
   (D5) keys l01 §13's non-relation FACT (NOT related) — no etymology argued here; the bibit shelf is cited

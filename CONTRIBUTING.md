@@ -24,7 +24,7 @@
 ## Commit conventions
 
 `<area>: <imperative summary>` where area ∈ scaffold, docs, analysis, research, content,
-review, machine, chore. One chapter (or one governance concern) per PR.
+review, audit, machine, tooling, website, ci, release, chore. One chapter (or one governance concern) per PR.
 
 ## Review expectations
 

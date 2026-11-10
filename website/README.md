@@ -18,7 +18,7 @@ as "in preparation". `--include-drafts` exists for local previews and flags ever
 
 ## Hosting
 
-`.github/workflows/pages.yml` builds the site on every push and deploys it to GitHub Pages
+`.github/workflows/pages.yml` builds the site on every push to `main` or a `claude/**` branch and deploys it to GitHub Pages
 from `main` (or from any branch via a manual run). One-time setup by a repository admin:
 **Settings → Pages → Build and deployment → Source: GitHub Actions**. The public address is
 then `https://digitalmarket-arch.github.io/Sanskritam-Book/`.

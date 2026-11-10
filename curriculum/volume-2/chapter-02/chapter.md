@@ -18,7 +18,7 @@ updated: 2026-08-03
 Two vocabulary sets that every language teaches early — the family and the world — and,
 riding on them, the volume's flagship piece of honest history: the Indo-European kinship
 cognates. माता, पिता, भ्राता beside *mother, father, brother* and *māter, pater,
-frāter* — siblings from one ancestor, the strongest single case for shared descent, and
+frāter* — siblings from one ancestor, a classic case for shared descent, and
 the course's definitive correction of the "mother of all languages" myth — and of the 1.x
 book's one-way Sanskrit → English cognate arrows (p.61). The
 chapter also delivers च "and" (correcting the 1.x और gloss), the pointing pair एषः/एषा,

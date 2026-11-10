@@ -119,7 +119,7 @@ compressed items, two minutes; log the scores next to the old ones.
 1. अपि कुशलम्? — कुशलम्! — extended: सर्वम् कुशलम्! "All is well!" → l02 §16.
 2. कथम् (katham) "how?" — beside किम्, कः, का (and कुतः) from Volume 1. → l02 §8.
 3. A man says कुशली (kuśalī) of himself; the feminine कुशलिनी (kuśalinī) was shown as
-   display — the gender system is taught later in Volume 2. → l02 §8.
+   display — the gender system is taught in Volume 3. → l02 §8.
 </details>
 
 ### Station 3 — दिनयात्रा: the day cycle, with labels (lesson 3)
@@ -384,7 +384,7 @@ Sanskrit." Both halves of your knowledge activate. Yes: the everyday "thank you"
 धन्यवादः belongs to modern spoken Sanskrit — classical texts typically express
 gratitude otherwise, and lesson 4 displayed अनुगृहीतोऽस्मि "I am obliged" as the
 classical route. But no: धन्यवादः is a real, attested compound — it stands in the
-classical lexicon [REF:monierwilliams1899 s.v. dhanyavāda]. So the verdict is
+dictionary as "thanksgiving, praise, applause" [REF:monierwilliams1899 s.v. dhanyavāda]. So the verdict is
 **reject**, and the reasoning is the honest label said in full: *attested word, modern
 convention*. Notice what the card is testing: not whether you love the word (you may;
 it is a fine word), but whether you can hold two true things at once and label them.
@@ -395,7 +395,7 @@ That is the chapter's discipline in one sentence.
 शब्दावली — no new words; the **cumulative list**. Volume 1 handed over 237 readable
 words; this chapter's four lessons added twenty-one more (per-lesson counts live in
 their §14 tables) — **258 readable words** (237 + 21 ledger-new: l01 3 · l02 3 · l03 6 ·
-l04 9; 26 headwords drilled) (§27). Compressed rows below point to the full tables;
+l04 9; 25 headwords drilled) (§27). Compressed rows below point to the full tables;
 then the exam's source list — the courtesy kit itself — prints in full, youngest and
 least practiced. Source for tasks B and C. Protocol as always: block by block, then whole word, every vowel at
 full value, pause form.
@@ -414,7 +414,7 @@ full value, pause form.
 | अञ्जलिः | añjaliḥ | /ɐɲd͡ʑɐlih/ | the joined palms | अंजलि | l01 · the word is FACT; the gesture TRADITION |
 | भद्रम् | bhadram | /bʱɐd̪ɾɐm/ | it is well; blessing | भला, शुभ | l01 · chunk भद्रम् ते, classical courtesy |
 | स्वस्ति | svasti | /sʋɐst̪i/ | farewell; well-being | कल्याण हो | l01 · classical, Vedic onward |
-| नमः | namaḥ | /n̪ɐmɐh/ | homage, a bow | नमन, प्रणाम | l01 · upgrade, standalone greeting |
+| नमः | namaḥ | /n̪ɐmɐh/ | homage, a bow | नमन, प्रणाम | l01 · review row, standalone greeting |
 | कथम् | katham | /kɐt̪ʰɐm/ | how? | कैसे | l02 · joins the question kit |
 | कुशलम् | kuśalam | /kuɕɐlɐm/ | well-being; well | कुशल | l02 · the exchange's spine |
 | कुशली | kuśalī | /kuɕɐliː/ | well (of a man) | कुशल से | l02 · feminine कुशलिनी on display |
@@ -443,7 +443,7 @@ full value, pause form.
 seams.
 
 > **[FACT · तथ्यम्]** A word's attestation and a usage's attestation are separate
-> facts. धन्यवादः the word stands in the classical lexicon; धन्यवादः as the everyday
+> facts. धन्यवादः the word stands in the dictionary; धन्यवादः as the everyday
 > "thank you" is a modern spoken convention. This course records both facts, formula
 > by formula. [REF:monierwilliams1899 s.v. dhanyavāda]
 
@@ -479,7 +479,7 @@ of lessons 1–2, **भद्रं ते** and **सर्वं कुशल�
 (पुनः + मिलामः); and the display-only **अनुगृहीतोऽस्मि**. Even
 नमस्ते hides one: the join of नमः + ते inside it is itself a sandhi result, learned
 whole today and explained in Volume 3. The exam asks for pause form everywhere; the
-previews are assessed only as *previews* (task D card 9, quiz Q10).
+previews are assessed only as *previews* (task D card 9, quiz Q8 and Q10).
 
 ## 16. Conversation
 
@@ -550,8 +550,8 @@ after your own attempt):
    (rātriḥ asti. mitram vadati — śubharātriḥ! svasti!) "It is night. The friend says:
    good night — farewell!" — रात है। मित्र कहता है — शुभ रात्रि! नमस्ते!
 
-Recombining owned pieces into new sentences is retrieval practice at its strongest
-[REF:roediger2006] — and it is a quiet rehearsal for task E, where the recombination
+Recombining owned pieces into new sentences is retrieval practice, which beats re-reading
+for long-term retention [REF:roediger2006] — and it is a quiet rehearsal for task E, where the recombination
 happens out loud.
 
 ## 18. Exercises
@@ -875,7 +875,7 @@ courtesy exam.)
 - **Integrator notes:** the sibling lessons were drafted in parallel; cumulative
   figures were reconciled at review (Pass D) to the canonical chain 237 → 240 (l01,
   3 ledger-new of 5 headwords) → 243 (l02, 3 of 4) → 249 (l03, 6 of 8) → **258** (l04,
-  9 of 9) — 21 ledger-new, 26 headwords drilled this chapter; per-lesson pointers
+  9 of 9) — 21 ledger-new, 25 headwords drilled this chapter; per-lesson pointers
   verified against the landed siblings. The §19 task keys are the single source for
   the quiz/audio key files; the app's spaced-repetition deck keys off the
   per-lesson §14 tables, with this §14's kit rows flagged review-duplicate, not new.

@@ -161,7 +161,7 @@ A question word on its own does nothing. कदा earns its keep only inside an
 someone asks, someone answers with a time — so the unit you learn today is the pair,
 not the word.
 
-> **[FACT · तथ्यम्]** Conversational ability grows fastest when frequent chunks and
+> **[FACT · तथ्यम्]** Conversational ability gets an early start when frequent chunks and
 > frames are learned whole and used at once, with analysis following later; and words
 > learned together in a tight set of close relatives (a kit of question words, say) can
 > interfere with one another unless each is tied to a distinct use. [REF:nation2013]
@@ -200,8 +200,8 @@ form between words. The when-answer can be a whole sentence or a bare time word 
 हिन्दी में समझिए
 
 अब तक आपके पास सात प्रश्न-शब्द थे — कः, का, किम्, कुतः, कथम्, कुत्र, कति। इनसे आप
-"कौन", "क्या", "कहाँ से", "कैसे", "कहाँ" और "कितने" पूछ सकते थे। पर बातचीत के दो सबसे
-ज़रूरी सवाल बाक़ी थे — "कब?" और "क्यों?"। आज दोनों आ रहे हैं। कदा का अर्थ है "कब"।
+"कौन", "क्या", "कहाँ से", "कैसे", "कहाँ" और "कितने" पूछ सकते थे। पर बातचीत में बार-बार
+लौटने वाले दो सवाल बाक़ी थे — "कब?" और "क्यों?"। आज दोनों आ रहे हैं। कदा का अर्थ है "कब"।
 किमर्थम् का अर्थ है "क्यों" — शब्दशः "किस प्रयोजन से", "किसलिए"। किमर्थम् के भीतर
 किम् और अर्थम् जुड़े दिखते हैं, पर आज इसे एक पूरा शब्द मानकर सीखिए; इसके भीतर का
 व्याकरण आगे की बात है। हिन्दी बोलने वालों के लिए एक ख़ास सावधानी: हिन्दी में "अर्थ"
@@ -256,7 +256,7 @@ course says so rather than half-teaching it.
 ### The two answers
 
 **इदानीम्** (idānīm) "now" — a classical time word that never changes its shape, like
-अद्य and श्वः: no dress to put on, nothing to agree with. Three beats, the middle two
+अद्य and श्वः: no dress to put on, nothing to agree with. Three beats, the last two
 long: इ-दा-नीम्.
 
 **यतः** (yataḥ) "because, since" — it opens the reason: यतः अहम् छात्रः अस्मि। "because
@@ -310,7 +310,7 @@ so the आ must be unmistakable: two full beats, mouth open, before the knot. In
 
 **Drill 2 — the repha.** अ — अर् — अर्थ — अर्थम् — किमर्थम्. The र is a single tap that
 leads straight into थ, a dental stop with a real puff of breath — never English *th*.
-Then say the whole word on four even beats, कि-म-र्थ-म्, every अ full; the Hindi habit
+Then say the whole word, blocked as §14 reads it, कि-म-र्थम्, every अ full; the Hindi habit
 "kimarth" drops a syllable Sanskrit keeps.
 
 **Drill 3 — the long-vowel ladder.** इ — इदा — इदानी — इदानीम्, then कदा on its own,
@@ -599,7 +599,7 @@ Devanagari, IAST, English, Hindi. The running cast, waiting at the gate.
    I'm coming tomorrow too!" — शाम है। अर्जुन कहता है — मैं कल भी आ रहा हूँ!
 
 Craft notes: line 1 goes (गच्छति), line 2 comes (आगच्छति) — the gate is where they meet;
-all five new words take a turn; the morning/evening bookends are v2.c04.l04's; line 8 is
+all five new words take a turn (कदा in the title's question); the morning/evening bookends are v2.c04.l04's; line 8 is
 §15's honest near-future line, said by a boy who means it.
 
 ## 18. Exercises
@@ -701,7 +701,8 @@ reason — and what is that reason?
 under the drill-4 log. 2: कः → अर्जुनः · का → माया · किम् → पुस्तकम् · कुतः → इतः ·
 कथम् → कुशलम् · कुत्र → अत्र · कति → पञ्च · कदा → श्वः · किमर्थम् → यतः अहम् छात्रः
 अस्मि; the tempting swap is अत्र ↔ श्वः — place for time: कुत्र wants a where, कदा a
-when — with कः ↔ का as the runner-up (accept either with its reason). 3: (a) आगच्छामि
+when — with कः ↔ का and इतः ↔ अत्र (कुतः wants a from-where, कुत्र a where) as
+runners-up (accept any of the three with its reason). 3: (a) आगच्छामि
 (b) आगच्छसि (c) आगच्छति (d) आगच्छति (e) आगच्छति (f) अहम् श्वः आगच्छामि; parse: आगच्छसि →
 त्वम्, आगच्छामि → अहम्, आगच्छति → सः/सा. 4: the five headwords per §14; sentence:
 **त्वम् कदा आगच्छसि?** 5: (a) पिता कदा आगच्छति? (b) पिता श्वः आगच्छति। (c) अहम्

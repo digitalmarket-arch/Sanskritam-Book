@@ -749,7 +749,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the
 narrator reads them as IPA, not as English spelling.
 
-- **00:00** A dot. A colon. Open any page of Sanskrit ever written, and there they are —
+- **00:00** A dot. A colon. Open almost any page of Sanskrit, and there they are —
   everywhere. Today you learn to read them both.
 - **00:15** Neither is a vowel. Neither is a consonant. The tradition called them ayogavāha
   [ɐjoːgɐʋɑːɦɐ] — the ones that ride along. They cannot stand alone; they lean on a vowel.

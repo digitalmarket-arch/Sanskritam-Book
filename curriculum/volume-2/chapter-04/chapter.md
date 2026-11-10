@@ -16,7 +16,7 @@ updated: 2026-08-06
 # Chapter 4 — क्रियाः · First Verbs
 
 The course's first formal grammar — and the structural fix for the 1.x curriculum's
-worst sequencing error. Learners have been *using* Sanskrit verbs since Volume 1
+verb cliff (ten tense-and-mood systems at once, no conjugation practice before them). Learners have been *using* Sanskrit verbs since Volume 1
 (चलति since Chapter 3, वदति since Chapter 4, वदामि since Chapter 5): this chapter
 names the pattern they already own — the present singular -मि / -सि / -ति — completes the 10-verb bank
 (गच्छति, खादति, पिबति, पश्यति, शृणोति, लिखति, जानाति join पठति, वदति, हसति), delivers
@@ -58,7 +58,7 @@ By the end of this chapter the learner can:
 
 All `planned:`; per-lesson §23–24 prompts: the verb-bank action cards, the person-
 pattern wheel (the chapter keystone: one verb, three endings, three pronouns), doing-
-dialogue audio, the day-passage illustration + three-speed audio, conjugation exam
+dialogue audio, the Chapter 4 drill pack (per-lesson dialogue audio: l01 and l02 §16/§17), the day-passage illustration + three-speed audio, conjugation exam
 sheet, chapter quiz + key.
 
 ## Assessment

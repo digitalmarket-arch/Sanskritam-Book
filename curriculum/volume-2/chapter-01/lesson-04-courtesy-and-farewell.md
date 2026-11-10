@@ -109,8 +109,8 @@ career as the standing reply to every kindness is a **modern convention** of the
 language.
 
 > **[FACT · तथ्यम्]** धन्यवादः is an attested compound — धन्यः "blessed, fortunate" +
-> वादः "speech": "an utterance of 'well done', an expression of thanks or
-> congratulation". Its use as the everyday all-purpose "thank you" is modern
+> वादः "speech", glossed "thanksgiving, praise, applause". Its use as the everyday
+> all-purpose "thank you" is modern
 > spoken-Sanskrit convention. Both statements are true; the course teaches the word
 > *and* its label. [REF:monierwilliams1899 s.v. dhanyavāda]
 
@@ -119,7 +119,7 @@ That is not a flaw in the word. Living languages grow conveniences — Hindi's �
 
 ## 5. Scientific Explanation
 
-वैज्ञानिक व्याख्या — why courtesy words are the best chunk-learning there is.
+वैज्ञानिक व्याख्या — why courtesy words are a classic case for chunk learning.
 
 > **[FACT · तथ्यम्]** High-frequency social formulas — thanks, apologies, farewells —
 > are the classic case for chunk learning: fixed forms, instantly usable, produced
@@ -128,8 +128,8 @@ That is not a flaw in the word. Living languages grow conveniences — Hindi's �
 
 Courtesy runs on reflex: the moment someone hands you a book is not the moment to
 conjugate. So today's nine words are drilled as reflexes — stimulus and reply
-(§9, §18) — and every run through the scenes is retrieval practice, the strongest
-rehearsal there is [REF:roediger2006]. One structural note rides along: today you also
+(§9, §18) — and every run through the scenes is retrieval practice, which beats
+re-reading for long-term retention [REF:roediger2006]. One structural note rides along: today you also
 meet न, the plain negative — not a chunk but a genuine little rule (it stands before
 what it negates), and the smallest one this volume will teach for a while.
 
@@ -149,7 +149,7 @@ what it negates), and the smallest one this volume will teach for a while.
 
 Three exchanges, three registers of time: a modern convention, a classical imperative,
 and a farewell pair with one foot in the Veda and one in the present. मिलामः is glossed
-whole — "we meet" — like every verb so far; its machinery is Volume 2's later business.
+whole — "we meet" — like every verb so far; its plural machinery waits for a later volume.
 
 ## 7. Hindi Explanation
 
@@ -336,7 +336,7 @@ are — by etymology — calling your benefactor blessed.
 > salutation. The everyday svastika sign takes its name from this word ("mark of
 > well-being") — a fact of etymology; the sign's later history in Europe is a separate,
 > modern story.
-> [REF:monierwilliams1899 s.v. svasti]
+> [REF:monierwilliams1899 s.v. svasti] [REF:monierwilliams1899 s.v. svastika]
 
 ## 14. Vocabulary
 
@@ -465,7 +465,7 @@ does its everyday job — "quite, indeed". And hear the labels working in one sc
 
 Two honest notes: छात्राः "students" and the verbs चलन्ति/वदन्ति "they walk/say" are
 plural forms, glossed whole — your eye meets them here as chunks; the plural system is
-this volume's later business (सर्वे you already know from the maṅgala śloka). Line 4 is
+a later volume's business (सर्वे you already know from the maṅgala śloka). Line 4 is
 the negation rule earning its keep on its first day.
 
 ## 18. Exercises
@@ -665,7 +665,7 @@ Lesson video, ~6 min, presenter + motion graphics.
 Narration for the lesson video (§24). Sanskrit terms carry IPA cues in [brackets]; the
 narrator reads them as IPA, not as English spelling.
 
-- **00:00** Two words. svasti [sʋɐst̪i] — a blessing older than most alphabets.
+- **00:00** Two words. svasti [sʋɐst̪i] — a blessing attested from the Ṛgveda onward.
   dhanyavādaḥ [d̪ʱɐn̪jɐʋɑːd̪ɐh] — the thank-you of today's Sanskrit classrooms. Both
   real. Both yours. One label apart.
 - **00:35** Here is the honest history: classical Sanskrit had no single all-purpose
@@ -716,8 +716,9 @@ narrator reads them as IPA, not as English spelling.
   from l01 take reply duty; the labels extend l03's both-things-true structure); builds
   on v1.c05.l03 (क्ष in क्षमस्व; श्री in श्रीमान्), v1.c05.l05 (avagraha — the
   अनुगृहीतोऽस्मि display), v1.c06.l04 (एव in living use); feeds v2.c01.l05 (task C
-  ladder = §16 at speed; task D = §15's table), Volume 2's verb chapters (मिलामः,
-  चलामि, चलन्ति held as whole-word chunks until then), Volume 3 (the three sandhi
+  ladder = §16 at speed; task D = §15's table), Volume 2's verb chapters (चलामि's
+  singular pattern), later volumes (the plurals मिलामः, चलन्ति, held as whole-word chunks
+  until then), Volume 3 (the three sandhi
   previews: नास्ति, पुनर्मिलामः, अनुगृहीतोऽस्मि).
 - **Glossary:** candidate addition — **शिष्टाचार (śiṣṭācāra) "courtesy, the conduct of
   the cultivated" (first-taught v2.c01.l04)**; निषेध — the Sanskrit term for negation — NOT added: the term is

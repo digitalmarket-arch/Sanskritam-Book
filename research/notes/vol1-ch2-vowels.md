@@ -68,10 +68,10 @@ vowel discrimination. ऋत vs ऋतु for syllable count.
 
 | # | Claim | Register | Source | Notes |
 |---|---|---|---|---|
-| 4.1 | ए = /eː/ — ALWAYS long, pure monophthong. No short e exists in Sanskrit. English "hey" [eɪ] is a glide — banned anchor (STYLE_GUIDE §2.3). | FACT | STYLE_GUIDE; [REF:whitney1889 §27] | Fixes IR-010 in the curriculum itself. |
+| 4.1 | ए = /eː/ — ALWAYS long, pure monophthong. No short e exists in Sanskrit. English "hey" [eɪ] is a glide — banned anchor (STYLE_GUIDE §2.3). | FACT | STYLE_GUIDE; [REF:whitney1889 §§28, 77] | Fixes IR-010 in the curriculum itself. |
 | 4.2 | ऐ = /ɐi̯/ — a true diphthong, onset matching अ. | FACT | STYLE_GUIDE §2.1 | |
 | 4.3 | े and ै sit ABOVE the headstroke: के कै. | FACT | [REF:masica1991 ch.6] | First above-the-line mātrās. |
-| 4.4 | Traditional grammar classes ए ऐ ओ औ as sandhyakṣara ("junction vowels" — historically a+i, a+u fusions); this explains sandhi patterns met in Volume 3. | TRADITION + FACT | [REF:whitney1889 §§27–29], [REF:burrow2001] | One TRADITION callout; no sandhi drilling yet. |
+| 4.4 | Traditional grammar classes ए ऐ ओ औ as sandhyakṣara ("junction vowels" — historically a+i, a+u fusions for ए ओ; ā+i, ā+u for ऐ औ); this explains sandhi patterns met in Volume 3. | TRADITION + FACT | [REF:whitney1889 §§27–29], [REF:burrow2001] | One TRADITION callout; no sandhi drilling yet. |
 
 **Readable words (attested):** एक (eka) "one" [REF:apte1890] — high-frequency payoff word;
 एकता (ekatā) "oneness, unity" [REF:monierwilliams1899 s.v. एकता]; केतु (ketu) "banner, comet"
@@ -88,7 +88,7 @@ contrasts + एक/ऐक? ऐक not standalone — syllable drills suffice.
 | 5.1 | ओ = /oː/ — always long, pure monophthong (not English "go" [oʊ]). औ = /ɐu̯/ diphthong. | FACT | STYLE_GUIDE §2.1 | Fixes IR-010's second half. |
 | 5.2 | ो = ा + े combined; ौ = ा + ै: को कौ. | FACT | [REF:masica1991 ch.6] | Visually compositional — easy after L4. |
 | 5.3 | ॐ is a special ligature (U+0950) conventionally analyzed in the tradition as a-u-m. | TRADITION | [REF:monierwilliams1899 s.v. ओम्]; Māṇḍūkya Upaniṣad tradition | The a-u-m decomposition is the tradition's analysis (Māṇḍūkya framework) — TRADITION register; its sacred senses are SYMBOL. The 1.x book's treatment (p.8, 21) was verified correct and lands here per the preservation map. |
-| 5.4 | Phonetically, careful recitation of ओम् is [oːm] with a long vowel. | FACT | [REF:whitney1889 §28] | FACT stays separate from the symbolism. |
+| 5.4 | Phonetically, careful recitation of ओम् is [oːm] with a long vowel. | FACT | [REF:whitney1889 §28] — supports the pure long o only; the ligature fact rests on the Unicode chart (U+0950) (corrected at the 2026-11-10 sweep) | FACT stays separate from the symbolism. |
 
 **Readable words (attested):** लोक (loka) "world, people" [REF:apte1890]; कोमल (komala)
 "soft, tender" [REF:apte1890]; कोकिल (kokila) "cuckoo" [REF:apte1890]; लोल (lola) "swaying,
@@ -106,7 +106,7 @@ eager" [REF:apte1890]; कौतुक (kautuka) "curiosity, festivity" [REF:apt
 | 6.4 | Classical orthography often writes the homorganic nasal explicitly (अङ्क for अंक); anusvāra spelling is the common modern convention; both read identically. | FACT | [REF:whitney1889 §73], [REF:masica1991 ch.6] | Honest note; conjuncts arrive v1.c05. |
 
 **Readable words (attested):** कः (kaḥ) "who?" [REF:apte1890] — the question word from the
-l02 dialogue एषः कः वर्णः, now readable in part; ततः (tataḥ) "then, thereafter" [REF:apte1890];
+v1.c01.l02 dialogue एषः कः वर्णः, now readable in part (corrected at the 2026-11-10 sweep); ततः (tataḥ) "then, thereafter" [REF:apte1890];
 अतः (ataḥ) "hence" [REF:apte1890]; इतः (itaḥ) "from here" [REF:apte1890]; कुतः (kutaḥ) "from
 where?" [REF:apte1890]; मतिः (matiḥ) — L1's मति in its dictionary citation form with visarga;
 अंक (aṃka) — classical spelling अङ्क (aṅka) — "hook; lap; mark, number" [REF:apte1890 s.v. अङ्क] with the अङ्क orthography note (corrected at audit).
@@ -132,7 +132,8 @@ can-do from v1.c01.l02 (13+33+2) is re-tested now that every vowel is *owned*, n
 ## 3. Pedagogy anchors (unchanged from Ch 1: [REF:roediger2006], [REF:cepeda2006], [REF:nation2013])
 
 Word-load per lesson stays ≤ 8 new readable words (Nation's load guidance); every lesson's §3
-re-summons the *previous* lesson's minimal pair as its first prompt; L7 runs Chapter 1's +1-week
+re-summons the *previous* lesson's key contrast (minimal pair, triple or ladder) among its prompts
+(corrected at the 2026-11-10 sweep); L7 runs Chapter 1's +1-week
 re-runs of tasks C and E (read-aloud, timed writing) booked in v1.c01.l05 §20; the +1-day re-dictation belongs to L1 (corrected at audit).
 
 ## 4. Open questions / deferred
@@ -140,7 +141,10 @@ re-runs of tasks C and E (read-aloud, timed writing) booked in v1.c01.l05 §20; 
 - ईति "calamity" is attested but rare — L1 uses it as a *recognition* curiosity for the
   इति/ईति pair, not active vocabulary.
 - अंक: primary classical spelling अङ्क; we teach the anusvāra convention with the explicit
-  equivalence note (6.4). Pass C should confirm the framing reads as convention, not rule.
-- Whether to show ॡ at all in L3: decision — one table cell marked "theoretical", no drill.
+  equivalence note (6.4). Pass C confirmed the convention framing (verification-log v1.c02)
+  (corrected at the 2026-11-10 sweep).
+- Whether to show ॡ at all in L3: decision — one prose mention in l03 §8 ("a theoretical ॡ
+  that no real word uses"), no table cell, no drill (corrected at the 2026-11-10 sweep).
 
-All claims to be re-audited by Pass C; verdicts go to ../verification-log.md.
+All claims were re-audited by Pass C (2026-07-21); verdicts are in ../verification-log.md
+(corrected at the 2026-11-10 sweep).

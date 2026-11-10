@@ -211,6 +211,7 @@ from lesson 3; today they get seven answers each.
 और साँचे वही पुराने हैं: अद्य कः वासरः? — अद्य सोमवासरः। बिना क्रिया के, विराम-रूप
 में। तिथि पढ़नी हो तो अंक और वार की जोड़ी बोलिए — शुक्रवासरः — ७। "सातवाँ" वाला
 व्याकरण अभी नहीं आया है; उसे गढ़िए मत — इशारा कीजिए, जोड़ी बोलिए, आगे बढ़िए।
+
 ## 8. English Explanation
 
 No new letter, no new sign — the Volume 2 luxury holds. The load is one word, seven
@@ -544,6 +545,7 @@ The quiet craft notes: the sun shows up on the sun's day and the moon on the moo
 — रवि and सोम doing their planet shifts while सूर्यः and चन्द्रः play the scene
 (§13); line 6 is the wheel recited at joy-speed, and lines 7–8 land the week on
 lesson 3's arithmetic: सप्त + अह. The cast is the same household Chapter 2 built.
+
 ## 18. Exercises
 
 अभ्यासाः — six exercises; 2, 3, 5 and 6 are production tasks. Do them in order.

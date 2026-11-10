@@ -23,7 +23,7 @@ objectives:
   - en: "Play the एतत् किम्? pointing game with known nouns (जलम्, मित्रम्, हिमम्)."
     hi: "एतत् किम्? वाला इशारा-खेल जाने-पहचाने शब्दों (जलम्, मित्रम्, हिमम्) से खेलें।"
   - en: "Read the lesson's seven words and perform the two-scene dialogue in pause form, turn by turn."
-    hi: "पाठ के सातों शब्द पढ़ें और दो दृश्यों का संवाद ठहराव-रूप में, बारी-बारी बोलकर, प्रस्तुत करें।"
+    hi: "पाठ के सातों शब्द पढ़ें और दो दृश्यों का संवाद विराम-रूप में, बारी-बारी बोलकर, प्रस्तुत करें।"
 new_letters: []
 new_matras: []
 vocabulary_count: 7
@@ -64,7 +64,7 @@ print only in English. Today you answer her in Sanskrit.
 | 1 | Introduce yourself in Sanskrit with both frames — अहम् … अस्मि and मम नाम … — using your own name. | अपने नाम के साथ दोनों साँचों — अहम् … अस्मि और मम नाम … — से संस्कृत में अपना परिचय दें। |
 | 2 | Ask and answer the three introduction questions तव नाम किम्?, त्वम् कः? / त्वम् का?, and त्वम् अपि छात्रः? with the right question tune. | परिचय के तीन प्रश्न — तव नाम किम्?, त्वम् कः? / त्वम् का?, त्वम् अपि छात्रः? — सही सुर में पूछें और उनके उत्तर दें। |
 | 3 | Play the एतत् किम्? pointing game with known nouns (जलम्, मित्रम्, हिमम्). | एतत् किम्? वाला इशारा-खेल जाने-पहचाने शब्दों (जलम्, मित्रम्, हिमम्) से खेलें। |
-| 4 | Read the lesson's seven words and perform the two-scene dialogue in pause form, turn by turn. | पाठ के सातों शब्द पढ़ें और दो दृश्यों का संवाद ठहराव-रूप में, बारी-बारी बोलकर, प्रस्तुत करें। |
+| 4 | Read the lesson's seven words and perform the two-scene dialogue in pause form, turn by turn. | पाठ के सातों शब्द पढ़ें और दो दृश्यों का संवाद विराम-रूप में, बारी-बारी बोलकर, प्रस्तुत करें। |
 
 Objective 1 is built in §8 and tested in §18 (exercises 1, 4) and §19 (Q2, Q4); objective 2
 in §8–§9, §18 (exercises 2, 3), §19 (Q1, Q5, Q7); objective 3 in §8, §18 (exercise 5), §19
@@ -103,7 +103,7 @@ in §8–§9, §18 (exercises 2, 3), §19 (Q1, Q5, Q7); objective 3 in §8, §18
 
 ## 4. Historical Context
 
-ऐतिहासिक सन्दर्भः — the oldest genre in the language.
+ऐतिहासिक सन्दर्भः — one of the oldest genres in the language.
 
 Today's संज्ञा names the lesson: **संवादः** (saṃvādaḥ) "dialogue". Take it apart and you
 find an old friend — the वद् of वदति "speaks" and वदामि "I speak", which you have been
@@ -231,7 +231,7 @@ with Volume 2's first-verbs chapter (v2.c04); until then the verbless question i
 
 त्वम् (tvam) is the intimate you — friends, classmates, children; भवान् (bhavān) is the
 respectful you said to a man, Chapter 5's polite chunk. Hindi speakers already own this
-split as तुम/आप. The full polite family, feminine forms included, is Volume 2's business —
+split as तुम/आप. The full polite family, feminine forms included, is Volume 3's business —
 today, just choose the right one of the pair.
 
 ### अपि — the word that walks behind
@@ -320,7 +320,7 @@ beat, not an afterthought.
    its word, exactly like Hindi भी: अहम् अपि, त्वम् अपि.
 5. **छात्रः from a girl.** The ः-word is masculine; classically a girl says अहम् बालिका
    — today's word 7. The modern feminine छात्रा exists and you will meet it in today's
-   world — mentioned honestly here, taught in Volume 2 with the gender system.
+   world — mentioned honestly here, taught in Volume 3 with the gender system.
 6. **The flat question.** त्वम् अपि छात्रः said level is a statement — "you too are a
    student." *Fix:* no question word means the rise carries everything; run §9 drill 1
    until the pair feels automatic.
@@ -403,14 +403,14 @@ in Volume 2's first-verbs chapter (v2.c04) — until then questions to *you* sta
 > **[FACT · तथ्यम्]** The question word matches its answer: कः asks after masculine
 > ः-words (कः? — रामः, छात्रः), का after feminine words in -आ (का? — सीता, बालिका), and
 > किम् after neuter म्-words and things (किम्? — जलम्, नाम). Today they are fixed chunks;
-> the system behind them is Volume 2's. [REF:apte1890 s.v. किम्]
+> the system behind them is Volume 3's. [REF:apte1890 s.v. किम्]
 
 ### Three shapes in the answer slot
 
 Look at what stands in the naming frames: रामः and छात्रः wear ः; जलम् and मित्रम् wear
 म्; सीता, माया, बालिका stand unchanged. You have been *seeing* this split since Chapter 3
 — मालाs beside बालकःs — and today you are using all three shapes on purpose. Why the
-shapes exist is the gender story of Volume 2 and the case story of Volume 3; today, match the shape you heard.
+shapes exist is the gender and case story of Volume 3; today, match the shape you heard.
 
 ### अपि's one rule
 
@@ -444,7 +444,7 @@ Notice the pair of question words at work: Sītā asks the boy त्वम् �
 त्वम् का?. To the गुरुः, both would say भवान् कः? — the respectful chunk from Chapter 5.
 And notice Sītā's classical answer: the ः-word छात्रः is masculine, so she answers with
 बालिका. (The modern feminine छात्रा exists — one honest mention, taught properly with
-Volume 2's gender system.)
+Volume 3's gender system.)
 
 ### Scene 2 — at the school door
 
@@ -664,7 +664,7 @@ have the whole class answer her question, one name at a time.
 **The छात्रा question is coming — have the honest script ready.** Hindi-medium students
 will ask why Sītā does not say छात्रा. Answer exactly what the course prints: छात्रा is
 common modern usage and perfectly real; the classical default this course follows is अहम्
-बालिका, and Volume 2's gender system will give छात्रा its proper seat. Never
+बालिका, and Volume 3's gender system will give छात्रा its proper seat. Never
 "wrong" — "later, and here is the classical way today."
 
 **Names resist Devanagari — normalize that early.** Approximations are correct behavior,
@@ -792,8 +792,8 @@ narrator reads them as IPA, not as English spelling.
   in §17 line 6), v1.c06.l01 (word-level fluency feeding dialogue speed); feeds
   v1.c06.l03 (the connected passage; नाम returns mid-paragraph; सीता/सा mirror line),
   v1.c06.l04 (Volume Exam reading ladder includes §16 lines; self-introduction re-recorded),
-  Volume 2 (conjugation of अस्मि's family incl. the you-form; gender system incl. छात्रा
-  and the polite family), Volume 3 (the endings inside मम / तव / नाम).
+  Volume 2 (conjugation of अस्मि's family incl. the you-form), Volume 3 (the gender system
+  incl. छात्रा and the polite family; the endings inside मम / तव / नाम).
 - **Glossary:** **संवाद (saṃvāda) is first-taught here** — add to GLOSSARY.md in the
   post-chapter loop (suggested hi gloss: बातचीत, संवाद). Reuses संज्ञा, स्वर, व्यञ्जन,
   विसर्ग, मात्रा per GLOSSARY.md. सम्भाषणम् remains the §16 section label only, as in all

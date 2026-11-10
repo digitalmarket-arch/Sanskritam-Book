@@ -200,7 +200,7 @@ audio supply the final light breath. Returning terms today: ह्रस्व (
 गया — और मात्रा को डण्डे के पैर से जोड़ने की जगह अधर में या बग़ल में टाँक देना। धीरे लिखिए,
 और अपने कु-कू को §15 के खाके से मिलाइए।
 
-अन्त में एक छोटा-सा उपहार: संस्कृत का उलूक ही पीढ़ी-दर-पीढ़ी घिसते-चलते हिन्दी का उल्लू बना
+अन्त में एक छोटा-सा उपहार: संस्कृत का उलूक ही पीढ़ी-दर-पीढ़ी, प्राकृत के रास्ते घिसते-चलते हिन्दी का उल्लू बना
 है। शब्द कहीं से उधार नहीं आया — घर का ही है। आज आप उसके पुरखे से मिल रहे हैं।
 
 ## 8. English Explanation
@@ -385,7 +385,7 @@ is proving the same law — in Sanskrit, duration is meaning.
 
 No spoilers — but remember this word: when your Sanskrit is ready to carry stories, this
 owl will be waiting for you. And one gift for Hindi speakers: उल्लू is उलूक worn smooth by
-centuries of inheritance — a direct descendant, not a borrowing.
+centuries of inheritance through the Prakrits — a descendant, not a borrowing.
 
 ### The root that will grow
 
