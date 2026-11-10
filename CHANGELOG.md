@@ -4,6 +4,88 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [0.12.1] — 2026-11-10
+
+A correction release: an independent error sweep of everything shipped through 0.12.0 —
+all 61 lessons of Volumes 1–2, the chapter and volume frames, the research notes and the
+project documents. No lesson was added and no ledger figure changed.
+
+### Fixed
+
+- **Course-wide sweep:** 264 findings confirmed (6 blocker, 114 major, 144 minor) and 39
+  rejected, after every finding passed an evidence check and every blocker and major two
+  further lenses. 431 exact fixes went into 83 files. A post-fix
+  verification then re-read all 83 changed files in 23 groups against the pre-sweep commit,
+  with every claimed defect challenged: 31 claimed, 3 refuted, 23 distinct leftovers fixed
+  (a duplicated Station 0 item in v1.c03.l06, a headword count that no longer added up in
+  v2.c01.l05, a stale "कृ's ष" label, missed restatements, a duplicated GLOSSARY row,
+  line wrapping).
+- **Wrong content removed (the six blockers):**
+  - v2.c04.l05 still taught, in seven places and two answer keys, that the ष of करोषि is
+    "कृ's own habit"; the 2026-08-06 review had withdrawn that reason everywhere else
+    (शृणोषि has the same ष). The exam now says what l03 says: the ष comes with the whole
+    word.
+  - v2.c04.l04 quiz item 9 keyed "a word's ending shifts with its role" for five words in
+    -म्, four of which are neuters that keep -म् as subject too. The key now separates
+    विद्यालयम् from the four neuters.
+  - v1.c02.l05 derived all four of ए ऐ ओ औ from a+i / a+u; ऐ and औ come from ā+i / ā+u
+    (Whitney §§27–29), as l04 already said.
+  - v2.c06.l03 still said in five places that a describing word "wears" its noun's ending;
+    it agrees with its noun in gender, number and case.
+- **Half-applied earlier corrections completed:** अपि is not an enclitic (v2.c02 exam and
+  fact base); स्वसा as the older, inherited word for "sister" (v2.c02); only the
+  numerals one to four mark gender (v2.c03.l01, l05); Hindi does write visarga in a few
+  tatsama words (v1.c02.l07); the "few native words begin with ट ठ ड ढ" statement and its
+  quiz key (v1.c03.l06).
+- **Citations brought in line with their sources** (dictionary citations checked against
+  Apte 1890 and Monier-Williams, grammar citations against Whitney and the Aṣṭādhyāyī):
+  wording the dictionaries do not carry is no longer printed as a quotation (कुशलम् ते,
+  the धन्यवादः gloss, परिवारः "family", शुभम् अस्तु as a closing formula); citations to
+  headwords Apte does not have (हल् in the grammatical sense, सप्ताह) now point to where
+  the word is recorded; जगत् ~ √गम् is cited to Monier-Williams, which gives it; wrong
+  Whitney section numbers are corrected (virāma §11, vowel signs §10, candrabindu, vowel
+  length, the diphthongs); one HISTORY callout had Whitney "warning English readers" about
+  their t and d — what §47 reports is that Indian speakers make the dentals with the tip
+  well forward against the upper teeth, so that English t and d sound closer to the
+  retroflex row to them, and the callout now says that; STYLE_GUIDE's model FACT callout
+  cited Whitney §19 for a statement §21 makes.
+- **Promises the course did not keep:** v1.c06.l02 and v2.c01 promised the gender system,
+  the plural and the feminine polite forms "later in Volume 2"; they are Volume 3's, and
+  every such pointer now says so. v1.c03.l01 sent compounds to Volume 2 (Volume 3).
+- **False statements about the course's own history:** "the course's first self-authored
+  connected production" (v2.c04.l05; v2.c02.l05 had one), "the learner owns only पठामि and
+  वदामि" (v2.c04.l01; अस्मि, नमामि and वसामि are owned), two claims about the 1.x
+  curriculum that its PDF does not bear out.
+- **Claims of scale and superlatives (STYLE_GUIDE §7):** retrieval practice is described as
+  what Roediger & Karpicke 2006 shows — it beats re-reading for long-term retention — and
+  no longer as "the strongest rehearsal there is" (nine lessons); formulaic chunks are
+  "taught whole and analysed later" [REF:nation2013], not "learned fastest"; unsourced
+  rankings reworded ("the most famous name in Sanskrit", "the most famous syllable on
+  Earth", "the busiest verb in the language", "one of the tradition's most quoted lines",
+  "zero itself is India's gift").
+- **Revision chain:** v1.c03.l06's Station 0 now runs the card re-sort that v1.c02.l07
+  booked "before the Chapter 3 quiz" (it had been dropped); v1.c06.l04's Station 0 names
+  the third item v1.c05.l05 booked; v2.c02.l01's Station 0 re-runs the courtesy ladder
+  with the calling shape श्रीमन् (it had the naming shape श्रीमान्, which v2.c01.l04 teaches
+  against); v2.c05.l05's task E thresholds agree with their rubric; the Volume 1 exit
+  profile says what the volume exam asks for — reading a first śloka aloud in pause form —
+  not "recites one memorized śloka".
+- **Phonetic coaching:** ल is made with the tip just behind the upper teeth (v2.c05.l04
+  had "on the ridge"); किमर्थम् is three syllables, not "four even beats" (v2.c05.l01).
+- **Hindi:** "pause form" is विराम-रूप everywhere (ten places said ठहराव-रूप). GLOSSARY
+  now names one head term for "cognate", सजातीय, and records सजात and सगोत्र as the
+  variants some lessons use.
+
+### Added
+
+- GLOSSARY: 30 entries the lessons use but the glossary lacked — 24 terms (the grammar
+  terms Volume 2 teaches: क्रिया, पुरुष and the three persons, एकवचन, लट्, उपसर्ग, धातु,
+  आत्मनेपद, विभक्ति, लिङ्ग, समास, सन्धि, कर्ता, कर्म; the working terms प्रयत्न, -कार,
+  संज्ञा, पाद, सुभाषित, कुशलप्रश्न; विराम-रूप; सजातीय, तत्सम, तद्भव) and six entries of the
+  course's own working vocabulary (ledger, upgrade row, Station 0, loanword, calque, the
+  four kinds of word journey).
+- `research/verification-log.md`: the sweep's method, counts and the decisions it settled.
+
 ## [0.12.0] — 2026-11-01
 
 Volume 2 Chapter 6 — कथाः शब्दयात्राश्च (Stories & Word Journeys) reviewed and shipped:

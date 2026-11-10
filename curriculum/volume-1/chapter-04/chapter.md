@@ -19,7 +19,7 @@ Eight letters remain, and they are the best eight in the box. The four antaḥst
 the in-between sounds, each the consonant shadow of a vowel — and the four ūṣman — श ष स ह,
 the breath sounds. With them the varṇamālā **completes**: every sound promised by the map in
 lesson two of Chapter 1 is now owned. The vocabulary unlock runs to 43 words — राम,
-गुरु, देव, सीता, भाषा, ऋषि, हिमालय, गृह — plus four new readable verbs, making pause-form
+गुरु, देव, सीता, भाषा, ऋषि, हिमालय, गृह — four new readable verbs among them, making pause-form
 sentences genuinely expressive: रामः वदति। गुरुः हसति। वायुः वहति।
 
 ## Goals

@@ -32,7 +32,7 @@ curriculum's verified greetings unit (PDF pp.27–28: नमस्ते, धन
 2–3 of the exam ladder) + the three-artifact photo shown. **New (attested):** भोः (bhoḥ)
 "O!, hey" — classical address particle; अञ्जलिः (añjaliḥ) — the joined-palms word (0.8);
 भद्रम् (bhadram) as courtesy chunk भद्रम् ते (0.6) — भद्र ✓ v1.c05.l04, upgrade, not
-ledger-new (corrected at audit); स्वस्ति (svasti) "farewell, blessings" (0.6); नमः upgraded to standalone use (नमः + dative pattern held for V3 —
+ledger-new (corrected at audit); स्वस्ति (svasti) "farewell, blessings" (0.6); नमः back on standalone duty — a review row, the v1.c03.l04 headword (नमः + dative pattern held for V3 —
 today the chunk गुरवे नमः is **display only**). Review at work: नमस्ते, नमस्कारः,
 स्वागतम्. Dialogue: greeting round with the whole cast. Count (reconciled at review):
 3 ledger-new (भोः, अञ्जलिः, स्वस्ति) + 1 upgrade (भद्रम्) = 4 headwords drilled (नमः a review row);

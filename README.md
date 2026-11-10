@@ -83,5 +83,6 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md), then the style guide and editoria
 
 Bootstrapped 2026-07-20. Volume 1 (Sounds & Script) is content-complete — 31 lessons, all
 reviewed; Volume 2 (Words & Sentences) is content-complete — 30 lessons, all reviewed
-(2026-11-01). Volume 3 (Core Grammar) is next. Chapter status: [ROADMAP.md](ROADMAP.md);
+(2026-11-01). Both volumes went through an independent error sweep on 2026-11-10
+(0.12.1). Volume 3 (Core Grammar) is next. Chapter status: [ROADMAP.md](ROADMAP.md);
 history: [CHANGELOG.md](CHANGELOG.md).

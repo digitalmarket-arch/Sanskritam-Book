@@ -838,8 +838,8 @@ checking: one card fails not on its facts but on its register. Which one — and
     waits for Volumes 3–4 (§15 Step 10).
 
 **Exercise keys.** 1: खादामि खादसि खादति · पिबामि पिबसि पिबति · पश्यामि पश्यसि पश्यति ·
-हसामि हससि हसति — four circled आ, one in each -मि form. 2: scored per call — correct tail
-+ stretch where due; 17/20 passes. 3: (a) त्वम् — you eat (b) अहम् — I see (c) सः/सा —
+हसामि हससि हसति — four circled आ, one in each -मि form. 2: scored per call — correct
+tail + stretch where due; 17/20 passes. 3: (a) त्वम् — you eat (b) अहम् — I see (c) सः/सा —
 he/she laughs (d) त्वम् — you write (e) अहम् — I go (f) सः/सा — he/she drinks
 (g) त्वम् — you hear (h) अहम् — I know (i) त्वम् — you are (j) त्वम् — you speak
 (k) अहम् — I read (l) सः/सा — he/she/it is. 4 (track transcript): 1 गच्छसि Y · 2 पठामि I
@@ -1055,9 +1055,8 @@ narrator reads the cue, not the English spelling.
     exercise 4; transcript mirrored in §19); the dictation track
   - `assets/worksheets/volume-2/v2c04l02-conjugation-drills.pdf` — §18 exercises 1, 3, 4,
     5, 6, 8 + Station 0 score log
-  - §16/§17 audio is NOT in this manifest — record into the Chapter 4 drill pack (not yet
-    listed in chapter.md's manifest, which names only l03's doing-dialogue audio) and
-    back-link here when it exists.
+  - §16/§17 audio is NOT in this manifest — record into the Chapter 4 drill pack
+    (chapter.md manifest: per-lesson dialogue audio) and back-link here when it exists.
 - **Station 0 chain:** §3 runs v2.c04.l01 §20's +1-day booking verbatim; §20 books
   v2.c04.l03's Station 0 as the गच्छ and पठ rows cold + the अस्मि/असि/अस्ति trio. Diffed
   against l03 §3 on disk: l03 quotes the same line and runs both items — no drift.

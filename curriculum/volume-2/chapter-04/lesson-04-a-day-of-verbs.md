@@ -992,8 +992,9 @@ narrator reads the cue, not the English spelling.
   locators; the fluency claim (§5) against [REF:nation2013]; the 45-second timed target
   for 35 words is a course benchmark carried over from v1.c06.l03, not a research claim;
   no new cognate claim is made for any passage word: §13 recalls the जानाति line and
-  points to the पिबति and अहम् shelves, each cited in its home lesson and not re-argued; every passage word traced to its §14
-  source row (repo grep, at drafting). All §10/§14 IPA diffed cell-by-cell against
+points to the पिबति and अहम् shelves, each cited in its home lesson and not re-argued;
+  every passage word traced to its §14 source row (repo grep, at
+  drafting). All §10/§14 IPA diffed cell-by-cell against
   STYLE_GUIDE §2 (Pass A).
 - **Register audit:** FACT ×4 (§4 क्रिया/कथा ×1 · §5 fluency strand + testing effect ×2
   · §15 reading facts ×1) · HISTORY ×0 · TRADITION ×0 · SYMBOL ×0 — quiz Q1–Q10 all

@@ -76,7 +76,6 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | एकवचन | ekavacana | singular (वचन = grammatical number) | एकवचन | v2.c04.l01 |
 | लट् | laṭ | the tradition's label for the present tense | लट् (वर्तमान काल) | v2.c04.l02 |
 | उपसर्ग | upasarga | verbal prefix: आ in आगच्छति | उपसर्ग (क्रिया के आगे जुड़ने वाला अंश) | v2.c05.l01 |
-| आत्मनेपद | ātmanepada | the second family of verb endings, the middle voice (रोचते) | आत्मनेपद | v2.c05.l03 |
 | धातु | dhātu | verbal root: √युज् "join, yoke" | धातु (शब्द की जड़) | v2.c06.l04 |
 
 ## Course meta-vocabulary

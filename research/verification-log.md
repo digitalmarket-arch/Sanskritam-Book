@@ -138,7 +138,7 @@ Status change: v1.c04 lessons 01–04 `draft` → `reviewed`.
 
 | Claim | Source | Verdict | Used in |
 |---|---|---|---|
-| Virāma silences inherent vowel; word-final bare consonants written with it; हलन्त naming | [REF:whitney1889 §9]; [REF:masica1991 ch.6]; [REF:apte1890 s.v. विराम]; [REF:monierwilliams1899 s.v. हलन्त] | ✅ | l01 §4–5, §15 |
+| Virāma silences inherent vowel; word-final bare consonants written with it; हलन्त naming | [REF:whitney1889 §11]; [REF:masica1991 ch.6]; [REF:apte1890 s.v. विराम]; [REF:monierwilliams1899 s.v. हलन्त] | ✅ | l01 §4–5, §15 |
 | अहम् ~ Latin *ego* ~ English *I* (PIE first-person pronoun, cognates not loans) | [REF:mallory2006] | ✅ | l01 §13 |
 | जगत् connected with √गम् "go" ("the moving one") | [REF:monierwilliams1899 s.v. जगत्] | ✅ (presented as dictionary connection, one line) | l01 §13 |
 | अहम् वदामि → अहं वदामि in connected speech (म्→ं sandhi habit) — honest deferral to V3 | [REF:whitney1889 §§213–214 range not verified offline — claim kept § -free as course convention note] | ✅ framing | l01 §6, §19 Q8 |
@@ -151,7 +151,7 @@ Status change: v1.c04 lessons 01–04 `draft` → `reviewed`.
 | Three conjunct formation patterns (horizontal / vertical stack / irregular fused) | [REF:masica1991 ch.6] | ✅ | l02 §15, l03 §5 |
 | क्ष त्र ज्ञ श्र द्ध द्व द्य (+ ह्य ह्म) as learned units; components as stated | [REF:masica1991 ch.6] | ✅ | l03 §5, §15 |
 | Chart convention (क्ष त्र ज्ञ appended to varṇamālā) ≠ inventory arithmetic | [REF:masica1991 ch.6] | ✅ | l03 §4 |
-| ज्ञ classical /d͡ʑɲ/ per components; [gj]/[dn̪j] regional habits (ऋ-precedent framing) | [REF:whitney1889] (bare — precise § not locatable offline; FACT register, substance standard) | ✅ | l03 §5, §9–10 |
+| ज्ञ classical /d͡ʑɲ/ per components; [gj]/[dn̪j] regional habits (ऋ-precedent framing) | [REF:whitney1889 §§13, 201] (composition only, located at the 2026-11-10 sweep; no Whitney § covers the regional variants, which stay uncited) | ✅ | l03 §5, §9–10 |
 | √ज्ञा ~ know ~ gnōsis (\*ǵneh₃-); द्वि/त्रि ~ two/three; √विद् ~ wit/vidēre (\*weid-) | [REF:mallory2006] | ✅ sibling framing kept | l03 §13 |
 | क्षेत्र → Hindi खेत descent | [REF:masica1991] | ✅ | l03 §13 |
 | मित्र neuter; Vedic Mitra deity note | [REF:apte1890 s.v. मित्र]; Ṛgveda (TRADITION, named) | ✅ | l03 §13 |
@@ -161,7 +161,7 @@ Status change: v1.c04 lessons 01–04 `draft` → `reviewed`.
 | dharma/karma/mantra genuine English loans; शर्करा → sugar chain | [REF:apte1890]; OED; loan table v1.c01.l01 (verified: शर्करा row present) | ✅ | l04 §13 |
 | चक्र ~ wheel ~ kúklos < \*kʷekʷlos | [REF:mallory2006] | ✅ | l04 §13 |
 | BU 1.4.14 identifies dharma with truth | [REF:brhadaranyaka 1.4.14] | ✅ TRADITION, locus carried | l04 §17 |
-| Avagraha marks elided अ (सोऽहम् = सः + अहम्); candrabindu = nasalized vowel; daṇḍa/double daṇḍa; digits ०–९ | [REF:whitney1889 §16]; [REF:masica1991 ch.6] | ✅ | l05 §8 |
+| Avagraha marks elided अ (सोऽहम् = सः + अहम्); candrabindu = nasalized vowel; daṇḍa/double daṇḍa; digits ०–९ | [REF:whitney1889 §§16–17, 73]; [REF:masica1991 ch.6] | ✅ | l05 §8 |
 | International digits descend from Indian numerals via Arabic transmission | [REF:ifrah2000] (entry added to REFERENCES.md) | ✅ HISTORY | l05 §8 |
 | सोऽहम् as Vedānta/yoga formula | TRADITION register, attributed, texts deferred to V5 | ✅ never assessed | l05 §8 |
 | Cumulative arithmetic 157 + 57 = 214 (l01 10 · l02 14 · l03 16+पश्य · l04 17) | in-course ledger (canonical: v1.c04.l04 §14) | ✅ harmonized across l01/l04/l05/chapter.md | l05 §14 |
@@ -467,3 +467,95 @@ split from नव "new"); verb forms continue to count separately (Volume 1 prac
 पश्यति and असि remain ledger-new in v2.c04.
 
 Status: all 51 lessons validate with 0 errors and 0 warnings; JSON exports regenerated (51).
+
+## Error sweep — all shipped content (2026-11-10)
+
+Scope: everything shipped through 0.12.0 — the 61 lessons of Volumes 1–2, the twelve chapter
+frames and two volume frames, the research notes, REFERENCES, GLOSSARY, STYLE_GUIDE,
+EDITORIAL_GUIDELINES, README, ROADMAP, CHANGELOG and the website and automation documents.
+
+Method. The October audit (above) read 46 lessons line by line but ran no check of its own
+fixes afterwards; v2.c04 and v2.c05 had only their review passes. So this sweep ran:
+
+- full lesson audits of the ten lessons of v2.c04 and v2.c05;
+- a chapter-coherence audit of each of the eleven chapters v1.c01–v2.c05 (Station 0
+  bookings against the previous lesson's §20, the ledger chain, cross-lesson pointers, exam
+  alignment, fact base against lessons, and — above all — earlier corrections applied in one
+  place while the old statement survived in a restatement). v2.c06 was reviewed on
+  2026-11-01 and joined only the course-wide audits;
+- twelve course-wide audits: the word ledger; cross-references; project documents; claims,
+  registers, dates and scale; phonetic consistency; facts repeated across lessons; pedagogy
+  citations against what the cited studies show; glossary accuracy and coverage; and four
+  offline citation audits — every dictionary citation in Volume 1 and v2.c01–c03 read
+  against the text of Apte 1890 and Monier-Williams 1899, and every grammar citation
+  against Whitney's *Sanskrit Grammar* and the Aṣṭādhyāyī sūtra text.
+
+Every finding was re-checked by an evidence verifier; blocker and major findings also by a
+domain expert and a fix skeptic, and they survived only on a majority. Fixes were exact
+replacements applied mechanically; where two findings rewrote the same passage, the first
+fix was applied and the second was left for the verification pass to judge.
+
+| Measure | Count |
+|---|---|
+| Findings confirmed | 264 (6 blocker · 114 major · 144 minor) |
+| Findings rejected on verification | 39 |
+| Fixes applied | 431 across 83 files |
+| Fixes already present when reached | 35 |
+| Fixes superseded by an overlapping fix (each checked at verification) | 147 |
+| Phonetic-contract violations found (IPA, anusvāra policy) | 0 |
+
+Blockers (six findings, four distinct problems, all fixed): v2.c04.l05 still taught in seven places and two answer keys that the
+ष of करोषि is "कृ's own habit" (withdrawn on 2026-08-06, because शृणोषि has the same ष);
+v2.c04.l04 quiz item 9 keyed "a word's ending shifts with its role" for five -म् words, four
+of them neuters that keep -म् as subject; v1.c02.l05 derived all of ए ऐ ओ औ from a+i / a+u
+(ऐ and औ are from ā+i / ā+u, Whitney §§27–29); v2.c06.l03 kept "wears the noun's ending"
+in five places after its §15 had been corrected to agreement in gender, number and case.
+
+Representative majors (all fixed): dictionary wording printed as quotation that the
+dictionaries do not carry (कुशलम् ते as Apte's idiom; a gloss of धन्यवादः attributed to
+Monier-Williams; परिवारः "family"; शुभम् अस्तु as a closing formula); citations to Apte
+headwords that do not exist (हल् in the grammatical sense, सप्ताह); wrong Whitney sections
+(virāma is §11, the vowel signs §10; candrabindu, vowel length and the diphthongs re-located);
+a HISTORY callout that had Whitney warning that English t and d are not dental (he describes
+the Sanskrit dentals); promises of the gender system, the plural and the feminine polite
+forms "later in Volume 2" (they are Volume 3's); false statements about the course's own
+history ("the course's first self-authored connected production"; "the learner owns only
+पठामि and वदामि"); Station 0 items that did not run what the previous lesson had booked;
+learning-science superlatives their citations do not support; unsourced rankings ("the most
+famous name in Sanskrit", "the most famous syllable on Earth").
+
+Decisions recorded (binding on later lessons):
+
+- [REF:roediger2006] supports one statement: retrieval practice beats re-reading for
+  long-term retention. It is never "the strongest" method.
+- [REF:nation2013] supports teaching formulaic chunks whole and analysing them later. It
+  does not show that chunks are "learned fastest".
+- The Hindi for "pause form" is विराम-रूप (not ठहराव-रूप). The head term for "cognate" is
+  सजातीय; सजात and सगोत्र are recorded variants. Both are in GLOSSARY.
+- The gender system, the plural and the feminine polite forms belong to Volume 3; no
+  Volume 1 or Volume 2 lesson promises them earlier.
+- v2.c01 drills 25 headwords (4 · 4 · 8 · 9): नमः in l01 is a review row. The ledger chain
+  237 → 240 → 243 → 249 → 258 is unchanged.
+- The ष of करोषि and शृणोषि "comes with the whole word; the reason waits" — no lesson ties
+  it to the root कृ.
+- A dictionary is cited for what its entry says. Glosses in quotation marks are the
+  dictionary's own words; an idiom or formula is cited to a dictionary only if the entry
+  prints it.
+
+Post-fix verification. The 83 changed files were re-read in 23 groups against the commit
+before the sweep: every confirmed finding (343 finding-by-group checks), each changed hunk
+in its whole section, and each superseded fix to see whether its problem was resolved all
+the same. Each claimed defect was then challenged by a skeptic. 31 defects were claimed; 3
+were refuted; the remaining 28 reduced to 23 distinct defects, all fixed. Two were more than
+cosmetic: two findings had each appended an item 5 to v1.c03.l06's Station 0 (merged into
+one), and v2.c01.l05's chain still counted five headwords for l01 beside the corrected
+total of 25. The rest: a stale label ("कृ's ष") beside its corrected explanation, restatements
+the fixes had missed (a video caption, a card text, a Pass C flag, three rows of this log),
+one over-broad rewording ("everyday verbs are irregular"), a duplicated GLOSSARY row
+(आत्मनेपद) and line-wrapping left by the replacements. Six lines that began with "+ " and
+so rendered as stray list items — all older than the sweep — were re-wrapped.
+
+Not done in this sweep: the 46 lessons audited in October were not read line by line a
+second time; they were covered by the chapter-coherence and course-wide audits above.
+
+Status: all 61 lessons validate with 0 errors and 0 warnings; JSON exports regenerated (61).

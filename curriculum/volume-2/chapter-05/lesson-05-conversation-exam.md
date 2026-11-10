@@ -762,8 +762,8 @@ and plurals arrive in Volume 3, and say so.
 > nine-asker deck (कः · का · किम् · कुतः · कथम् · कुत्र · कति · कदा · किमर्थम्), large
 > Devanagari on each face and the answer-kind in small English on the back (person,
 > person, thing, source, manner, place, number, time, purpose). Page 3: answer sheet —
-> task A grid (12 rows × two columns: asker heard · answer-kind), task B six chunk boxes
-> + a two-line exchange box, task D nine cards with FACT/reject boxes and one reasoning
+> task A grid (12 rows × two columns: asker heard · answer-kind), task B six chunk
+> boxes + a two-line exchange box, task D nine cards with FACT/reject boxes and one reasoning
 > line each. The stall's price tags are l04's own cards (५–१०), not reprinted here. No
 > keys and no examiner question pool on this set. Footer chants: "catch the asker
 > first" · "the fruit pleases me" · "न अवगच्छामि is a move, not a failure".

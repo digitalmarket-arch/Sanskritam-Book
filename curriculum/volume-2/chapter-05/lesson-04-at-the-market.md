@@ -165,9 +165,9 @@ their attention can go to producing it.
 > price, and give and receive information about quantities, numbers and prices. Today's
 > role-play is that description, carried out in Sanskrit. [REF:cefr2020]
 
-> **[FACT · तथ्यम्]** Functional chunks can be learned whole and analysed later, and
-> every run through a role-play is retrieval practice — a stronger rehearsal than
-> re-reading the script. [REF:nation2013] [REF:roediger2006]
+> **[FACT · तथ्यम्]** Functional chunks can be learned whole and analysed later
+> [REF:nation2013], and every run through a role-play is retrieval practice, which beats
+> re-reading the script for long-term retention [REF:roediger2006].
 
 The real work is not the seven words. When the stall-keeper says दश, three systems fire in
 one beat: the ear recognises the answer to कियत् मूल्यम्?, the eye matches it to the tag
@@ -867,8 +867,8 @@ stall at the front — a table, a fruit, a cup, tag cards ५–१० in large 
 seven moves on the board (4) → the seven words, chorus at three speeds, the ण curl (5) →
 price-tag volley, whole class then pairs (6) → ददातु: the वदतु table, the त्वम् refusal,
 the pronoun-free mirror (5) → pouring game with real water (5) → Scene 1 performed, the
-न — नव rescue staged (6) → full role-play in pairs with dealt tags (6) → recording launch
-+ role-card homework briefing (3).
+न — नव rescue staged (6) → full role-play in pairs with dealt tags (6) → recording
+launch + role-card homework briefing (3).
 
 **Board work.** Left: the seven moves, numbered, one line each (§8 table). Right, three
 boxed rules: "price = bare number" · "ददातु + भवान् — never + त्वम्" · "बहु अल्पम्
@@ -947,7 +947,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    ददाति विनयम्। drifts in: "you read ददाति in Volume 1." A third card, त्वम् फलम् ददातु,
    gets a polite red stamp: "not with त्वम्".
 5. **The mirror and the pouring (3:50–5:00):** the milk stall; बहु? अल्पम्? — अल्पम्। —
-   पर्याप्तम्? — आम्, पर्याप्तम्। Caption: "to a woman at the stall: no pronoun — कृपया
+   पर्याप्तम्? — आम्, पर्याप्तम्। Caption: "to a woman at the stall: no pronoun (modern spoken convention) — कृपया
    क्षीरम् ददातु।" A faded chip shows भवती: "display only — its seat comes later".
 6. **Recap + CTA (5:00–6:00):** the seven tiles reassemble into one card; the ledger ticks
    from 321 to 328. End card: "Next: पुनरावृत्तिः — the conversation exam."

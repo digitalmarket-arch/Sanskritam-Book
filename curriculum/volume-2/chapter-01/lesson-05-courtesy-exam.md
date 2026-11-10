@@ -51,7 +51,7 @@ updated: 2026-07-31
 
 Five lessons ago you owned three greetings — नमस्ते, स्वागतम्, नमस्कारः. Today you own a
 protocol: you can open a conversation at the right hour, ask after someone's well-being,
-thank them, apologize to them, and take your leave — twenty-six headwords, and not one
+thank them, apologize to them, and take your leave — twenty-five headwords, and not one
 of them decoration.
 So today's exam is not a word list. It is **one conversation**, run from first नमस्ते
 to last स्वस्ति — first from a script, then, for the finale, improvised cold from a
@@ -403,7 +403,7 @@ full value, pause form.
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | मम · माता · धर्म · मित्र … | mama · mātā · dharma · mitra … | — | my · mother · dharma · friend … | — | Volume 1 stock, 237 words — full rows: v1.c02.l07, v1.c03.l06, v1.c04.l04, v1.c05.l05, v1.c06.l04 §14 |
-| भोः · अञ्जलिः · भद्रम् · स्वस्ति … | bhoḥ · añjaliḥ · bhadram · svasti … | — | O! · joined palms · blessing · farewell … | — | l01, 5 headwords (3 ledger-new) — full rows: v2.c01.l01 §14 |
+| भोः · अञ्जलिः · भद्रम् · स्वस्ति … | bhoḥ · añjaliḥ · bhadram · svasti … | — | O! · joined palms · blessing · farewell … | — | l01, 4 headwords (3 ledger-new; नमः a review row) — full rows: v2.c01.l01 §14 |
 | कथम् · कुशलम् · कुशली · सर्वम् … | katham · kuśalam · kuśalī · sarvam … | — | how? · well-being · well · everything … | — | l02, 4 headwords (3 ledger-new) — full rows: v2.c01.l02 §14 |
 | प्रभातम् · मध्याह्नः · सायम् · रात्रिः … | prabhātam · madhyāhnaḥ · sāyam · rātriḥ … | — | dawn · midday · evening · night … | — | l03, 8 headwords (6 ledger-new) — full rows: v2.c01.l03 §14 |
 | धन्यवादः · कृपया · क्षमस्व · न … | dhanyavādaḥ · kṛpayā · kṣamasva · na … | — | thank you · please · forgive · not … | — | l04, 9 headwords (all ledger-new) — full rows: v2.c01.l04 §14 |
@@ -874,7 +874,7 @@ courtesy exam.)
   `assessment: true`.
 - **Integrator notes:** the sibling lessons were drafted in parallel; cumulative
   figures were reconciled at review (Pass D) to the canonical chain 237 → 240 (l01,
-  3 ledger-new of 5 headwords) → 243 (l02, 3 of 4) → 249 (l03, 6 of 8) → **258** (l04,
+  3 ledger-new of 4 headwords; नमः a review row) → 243 (l02, 3 of 4) → 249 (l03, 6 of 8) → **258** (l04,
   9 of 9) — 21 ledger-new, 25 headwords drilled this chapter; per-lesson pointers
   verified against the landed siblings. The §19 task keys are the single source for
   the quiz/audio key files; the app's spaced-repetition deck keys off the

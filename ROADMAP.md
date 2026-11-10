@@ -197,6 +197,14 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   verification of every changed file. 32 ledger-new (360 cumulative; Volume 2 adds 123);
   61 reviewed lessons, validator green, exports current (0.12.0). Next: Volume 3
   व्याकरणम् — Core Grammar, starting with v3.c01 सुबन्तप्रवेशः — Nouns & Cases I.
+- **2026-11-10** — **Error sweep of everything shipped (0.12.1):** full audits of v2.c04
+  and v2.c05, chapter-coherence audits of the eleven earlier chapters and twelve
+  course-wide audits, four of them reading every dictionary and grammar citation of
+  Volume 1 and v2.c01–c03 against the text of Apte, Monier-Williams, Whitney and the
+  Aṣṭādhyāyī. 264 findings confirmed (6 blocker, 114 major, 144 minor), 431 fixes in 83
+  files, then a post-fix verification of every changed file (23 leftovers fixed). GLOSSARY
+  gained 30 entries. No lesson added, no ledger figure changed; 61 reviewed lessons,
+  validator green, exports current. Next: Volume 3, as above.
 
 ## Content preservation map (from the 1.x curriculum)
 

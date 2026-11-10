@@ -753,8 +753,8 @@ calibrating down is easy, up is hard.
 > 2–5. Left panel: sagittal head cross-section facing left, back of tongue sealed against
 > the soft palate, arrow at the closure point, caption "कण्ठ्य · velar — one address for
 > all five". Right panel: a horizontal five-slot strip labeled 1 अघोष / 2 अघोष महाप्राण /
-> 3 घोष / 4 घोष महाप्राण / 5 अनुनासिक with English glosses (voiceless / + puff / + voice /
-> + breath / + nose) and three tiny test icons beneath (tissue, hand on throat, pinched
+> 3 घोष / 4 घोष महाप्राण / 5 अनुनासिक with English glosses (voiceless / + puff / + voice
+> / + breath / + nose) and three tiny test icons beneath (tissue, hand on throat, pinched
 > nose); the five cells filled with क ख ग घ ङ, layered separately so later lessons swap in
 > their own row. IPA row "/k kʰ g gʱ ŋ/" along the bottom. Monochrome-safe.
 

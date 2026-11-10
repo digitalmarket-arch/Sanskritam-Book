@@ -101,7 +101,7 @@ today's homework (§21); its +1-week re-runs come due in lesson 7's Station 0.
 
 ऐतिहासिकः सन्दर्भः — one small placement, no long history today.
 
-You met the fourteen beats of Śiva's drum in lesson 2's story — and the fourteen sūtras the
+You met the fourteen beats of Śiva's drum in the story of v1.c01.l02 — and the fourteen sūtras the
 tradition hears in them, the sound-catalogue prefixed to Pāṇini's grammar. Today's vowels
 live in the catalogue's very first line.
 
@@ -732,7 +732,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    2–5. Rule caption throughout.
 4. **Reading proof (3:10–4:20):** blocks assemble letter by letter: तिल; then मति vs मित
    swapping their hook with a whoosh — captions "thought"/"measured" flip. Then इति builds
-   from independent इ; caption: "you've said it since lesson 2 — now you read it."
+   from independent इ; caption: "you've said it since Chapter 1, lesson 2 — now you read it."
 5. **Word wall (4:20–5:20):** the 8 cards fly in (Devanagari + IAST + gloss); इति/ईति pulse
    as a pair with beat-dots 1 vs 2; model voice reads each word twice.
 6. **Recap + CTA (5:20–6:00):** the grid कि की मि मी ति ती लि ली read once; consonant-house

@@ -416,7 +416,7 @@ continuation is writable. Worked lines for comparison (peek only after your own 
    here, happiness! Then — a story." — गुरु: यहाँ — सुख! फिर — कथा।
 
 (The 🔊 crutch is nearly gone — every word above is readable AND writable. The point is retrieval
-+ recombination — and retrieval practice beats re-reading for long-term retention
+plus recombination — and retrieval practice beats re-reading for long-term retention
 [REF:roediger2006].)
 
 ## 18. Exercises

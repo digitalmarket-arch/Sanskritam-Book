@@ -165,8 +165,8 @@ again. That repair kit is what turns noise into usable input.
 
 > **[FACT · तथ्यम्]** Fixed conversational formulas can be learned as whole chunks —
 > produced intact under pressure, precisely when there is no time to build them — and
-> every run through a chunk is retrieval practice, which beats re-reading for long-term
-> retention.
+> every run through a chunk from memory is retrieval practice, which beats re-reading for
+> long-term retention.
 > [REF:nation2013] [REF:roediger2006]
 
 That is why this lesson sits at the front of the conversation chapter: wanting, liking
@@ -915,7 +915,7 @@ poster set)**
 > understand." Card 2: a raised hand and a circular repeat-arrow; text भवान् पुनः वदतु। —
 > "Please say it again." Card 3: a snail beside a speech bubble; text कृपया मन्दम् वदतु। —
 > "Please say it slowly." Card 4: a lightbulb and a small bowing figure; text आम्!
-> अवगच्छामि। धन्यवादः। — "Yes! I understand. Thank you!" Reply strip: a teacher with an
+> अवगच्छामि। धन्यवादः। — "Yes! I understand. Thank you." Reply strip: a teacher with an
 > open palm, text अस्तु! — "All right!". Chips: card 1 "form classical · classroom use
 > modern-common"; card 2 "वदतु — request mood, 3sg, with भवान्"; card 3 "कृपया — modern
 > convention"; card 4 "धन्यवादः — modern convention". Under card 2, a faint dashed chip:

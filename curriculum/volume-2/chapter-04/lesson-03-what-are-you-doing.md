@@ -162,8 +162,8 @@ this ("तुम क्या कर रहे हो?" — "मैं पढ़
 to run on Sanskrit endings under time pressure. We drill the swap, not just the forms.
 
 Two honest design notes. First, करोति is taught as three whole words, not as a pattern —
-everyday verbs are irregular in language after language (English *do/does/did*, *go/
-went*), and pretending otherwise manufactures errors. Second, the question itself stays
+the most-used verbs are often the irregular ones, in language after language (English
+*do/does/did*, *go/went*), and pretending otherwise manufactures errors. Second, the question itself stays
 level-tuned: किम् does the asking, exactly as the question-kit rule of v2.c01.l02 said.
 
 ## 6. Sanskrit Explanation
@@ -365,8 +365,8 @@ two syllables sharing one long closure. Shortening it to /ɐn̪ɐm/ changes the 
    ष — each word whole, no rule hunted today (§8, §9 drill 2).
 2. **The person mismatch: अहम् गच्छति।** THE flagged error, carried straight from lesson
    2 — and today's dialogue is where it strikes, because the reporter round keeps a
-   third-person -ति ringing in your ear and your mouth wants to echo it. *Fix:* अहम् takes -मि, always:
-   अहम् गच्छामि। अहम् करोमि। Run §18 exercise 2 until the swap is automatic.
+   third-person -ति ringing in your ear and your mouth wants to echo it. *Fix:* अहम्
+   takes -मि, always: अहम् गच्छामि। अहम् करोमि। Run §18 exercise 2 until the swap is automatic.
 3. **Answering about yourself in the he-form.** किम् त्वम् करोषि? — "पठति।" No: that
    says *he* reads. You are not the reporter of your own life; you are the speaker.
    *Fix:* truthful I-form, every time — अहम् पठामि। (§8, the swap).
@@ -391,8 +391,8 @@ two syllables sharing one long closure. Shortening it to /ɐn̪ɐm/ changes the 
 > करोति offers no everyday-English cognate for this course's shelf — nothing like
 > जानाति's *know*. जानाति (jānāti) itself, from lesson 1, is one of the chapter's two
 > shelf verbs (the other is पिबति, sibling of Latin *bibit*): Sanskrit जानाति and English
-> *know* are parallel descendants of one ancient
-> root — siblings by shared descent, borrowed by no one. [REF:mallory2006]
+> *know* are parallel descendants of one ancient root — siblings by shared descent,
+> borrowed by no one. [REF:mallory2006]
 
 Honesty beats reaching, as always: a shelf that only holds real siblings is a shelf you
 can trust. करोति's riches are elsewhere — in what it *does* (§4): it is the verb inside

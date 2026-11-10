@@ -331,7 +331,7 @@ vowel.
 |---|---|---|---|
 | 1 | Person mismatch: अहम् गच्छति — THE flagged error | C, E | l02 §12 — the ending IS the person; re-run the triple aloud |
 | 2 | The stretch clipped: गच्छमि for गच्छामि | B, C, E | l02 §15 — the 1sg holds its आ two beats; write it because you hold it |
-| 3 | कृ's ष spread to the bank (गच्छषि) or flattened (करोसि) | B, C | l03 §12 — the ष comes with the whole word (शृणोषि too); whole-word rows, dental everywhere else |
+| 3 | The ष of करोषि/शृणोषि spread to the bank (गच्छषि) or flattened (करोसि) | B, C | l03 §12 — the ष comes with the whole word (शृणोषि too); whole-word rows, dental everywhere else |
 | 4 | शृणोति/जानाति "regularized" — invented forms built on -अति | C | l02 §12 mistake 4, §15 Step 6 — whole words only; recall, never construct |
 | 5 | "-ति means future/will" drift under translation pressure | D, §19 | §15 honesty line — laṭ is the present; tenses are later volumes' business |
 | 6 | Reaching for untaught machinery in मम दिनम् (past tense, plurals) | E | simplest correct beats ambitious wrong — stay in the present singular you own |

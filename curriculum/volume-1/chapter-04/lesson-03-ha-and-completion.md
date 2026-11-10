@@ -239,8 +239,8 @@ checks. The wall chart
 (`planned:assets/images/volume-1/v1c04l03-varnamala-wall-chart.svg`) is this table made
 poster-size: print it, and there is nothing on it you do not own.
 
-And the oldest promise of all: नमस्ते (namaste), the course's first word, is न + म + स्
-+ ते — and three of the four pieces are yours: न since Chapter 3, म since your first
+And the oldest promise of all: नमस्ते (namaste), the course's first word, is न + म +
+स् + ते — and three of the four pieces are yours: न since Chapter 3, म since your first
 writing lesson, ते since the dental row met the e-mātrā. The one missing move — writing
 स without its vowel and joining it to ते — is Chapter 5's opening act.
 

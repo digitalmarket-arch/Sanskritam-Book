@@ -87,9 +87,8 @@ task-D cards. Five items, four minutes; log the scores next to the old ones.
 4. Bridge item: read मुख and मूक aloud — Chapter 2's length contrast living inside a
    Chapter 3 aspiration word.
 5. Pre-quiz item: re-sort Chapter 2's nine task-D cards (v1.c02.l07 §18) from memory — FACT,
-   HISTORY, TRADITION, SYMBOL or reject, one line of reasoning each.
-5. Re-sort v1.c02.l07's nine task-D cards from memory, one line of reasoning each, then
-   check them against that lesson's key.
+   HISTORY, TRADITION, SYMBOL or reject, one line of reasoning each; then check them against
+   that lesson's key.
 
 ### Station 1 — क-वर्गः (lesson 1)
 

@@ -833,8 +833,9 @@ narrator reads them as IPA, not as English spelling.
   reconciled at review as always. कुशलिनी and भवती are display-only (never in §14,
   never assessed), mirroring the छात्रा handling of v1.c06.l02.
 - **Verification flags for Pass C:** the sentence-initial interrogative अपि (§8, §15
-  FACT) against [REF:apte1890 s.v. अपि]; the अपि कुशलम् भवतः idiom and the epic
-  kuśala-inquiry convention (§4 FACT + HISTORY) against [REF:apte1890 s.v. कुशल] —
+  FACT) against [REF:apte1890 s.v. अपि]; the कुशलम् ते salutation and the epic
+  kuśala-inquiry convention (§4 FACT + HISTORY) against [REF:monierwilliams1899 s.v. कुशल]
+  and [REF:apte1890 s.v. कुशल] —
   attach an epic locus (e.g. a Rāmāyaṇa kuśala-praśna passage) or soften the HISTORY
   block to TRADITION; the kuśa-grass derivation (§4 TRADITION) — confirm the कुश + ला
   gloss against [REF:apte1890 s.v. कुशल] before any s.v. citation is restored; the k-/wh- interrogative cognate claim (§13 FACT)
