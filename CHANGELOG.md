@@ -4,10 +4,47 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.15.0] — 2026-11-10
+
+Volume 3, Chapter 3 — तिङन्तप्रवेशः (The Present-System Verb) — is reviewed and shipped:
+five lessons, 28 ledger-new words, 411 → 439 readable words. The verb now runs through
+every person and number, in two families of endings, and in four tenses and moods: the
+present, the imperfect, the imperative and the optative.
 
 ### Added
 
+- **v3.c03, five lessons, reviewed** — pause form throughout:
+  - वयम् गच्छामः · We Go: the present in all nine cells (table T6, the first family of
+    endings), with अस् and कृ learned whole; the pronouns आवाम्, वयम्, युवाम्, यूयम् as
+    labelled cells; two doers on a dual verb; sūtra 7.3.101 अतो दीर्घो यञि for the
+    lengthening in गच्छामि, गच्छावः, गच्छामः; a recognition card for the athematic plurals
+    (शृण्वन्ति, जानन्ति, ददति) (411 → 418).
+  - मह्यम् रोचते · The Second Family of Endings: लभते and five more verbs in the
+    ātmanepada; रोचते, owned since Volume 2, gets its whole table; the dictionary's P., A.
+    and U.; a recognition card for the passive in -यते, with मन्यते and जायते kept apart as
+    middles (418 → 424).
+  - आसीत् · There Was: the imperfect as the story tense — the augment, its place after a
+    prefix (आगच्छत्, प्राविशत्), ऐच्छत्; the chunks उवाच, अब्रवीत् and आह; पुरा and अथ
+    (424 → 432).
+  - वदतु, वदेत् · Requests and Advice: the imperative as a card on forms already known
+    (sūtras 3.4.85 and 3.4.86), with -स्व and -ताम् in the second family; भवान् with the
+    3rd person for a polite request; मा for "don't"; the optative as a card, productive in
+    its 3rd person, with न for "should not" (432 → 439).
+  - क्रियापरीक्षा · The Verb Exam: the present system on one page; five tasks in one
+    45-minute sitting (a conjugation grid, the Volume 2 crow story retold in the imperfect,
+    a requests role-play, listening, dictation), with Station 0 before it.
+
+  One production formula holds in every table: singular and plural in all persons and the
+  3rd-person dual are produced; the 1st- and 2nd-person duals are shown and parsed, never
+  required and never scored. The serial continues (our retelling, after Hitopadeśa 1):
+  the king of the doves speaks, the flock flies off with the net, and the mouse cuts the
+  snares. The Hindi parallels are exact contrasts: two numbers against three; तू, तुम and
+  आप against the 2nd person and भवान्; ने with the past of a transitive verb against the
+  Sanskrit imperfect; चाहिए against the optative; मत against मा.
+- `research/notes/vol3-ch3-present-system-verb.md`: the Chapter 3 fact base — every
+  paradigm cell re-derived against Whitney, the three sūtras checked against the Kāśikā,
+  the Station 0 bookings worded once, each lesson's texts, exercises and keys, and the
+  editor's decisions.
 - STYLE_GUIDE §3.1, pause form and joined text: all course-written Sanskrit stays in pause
   form through v3.c04.l03; from v3.c04.l04 it is printed joined, with the pause form, IAST
   and gloss below each line. The section fixes where joined words are written together and
@@ -15,6 +52,44 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   closing quotation mark before इति), how a compound's inner seam is shown, and how
   authentic text is divided. It is the Volume 3 plan's §1.4, approved with the plan and
   required before Chapter 4 is drafted.
+- GLOSSARY: परस्मैपदम्, उभयपदी, कर्मवाच्य, लङ्, लकारः, आगमः, लोट्, विधिलिङ्, निषेधः; the rows
+  आत्मनेपद, लट् and द्विवचनम् · बहुवचनम् updated.
+- `research/notes/vol3-plan.md` §7.6: the corrections the Chapter 3 research made to the
+  plan, and the rules its review settled.
+
+### Changed
+
+- STYLE_GUIDE §8: 439 reached.
+
+### Fixed
+
+- **v3.c03 fact base, before drafting:** three independent lenses and an evidence verifier
+  confirmed 38 findings (16 major, 22 minor) and rejected 4. Among the majors: homework
+  that asked for "what you did today" in the imperfect, which the same lesson teaches as
+  the past not of today; sūtra 3.4.85 glossed as giving the imperative all the imperfect's
+  endings; the six lakāras still to come miscounted (the benedictive is a use of लिङ्); a
+  polite request put in the mouth of the Hitopadeśa's tiger, who is reporting another's
+  advice; a misquoted example from Whitney; exercises that required recognition-only
+  cells.
+- **v3.c03 review (passes A–D, every finding verified):** 79 findings confirmed — 74
+  distinct, since five were found by two passes — and 8 rejected; 147 fixes. One blocker:
+  lesson 2 said that in Hindi मुझे फल अच्छे लगते हैं the liked thing is the subject, in a
+  FACT callout, in the Hindi, in a note and in a quiz key; Hindi seats the liker in a
+  को-form, and what the two languages share is the verb's agreement with the liked thing
+  (the course's wording since v2.c05). Majors (24 distinct), among them: two friends
+  saying वयम् in the lesson that teaches the dual for two; the Hindi names of the three
+  persons given to the wrong persons; "the family is a property of the word" for every
+  verb the course owns (कृ and others take both); "the done-to becomes the कर्ता" in a
+  passive; पूर्ण भूत for मैंने फल खाया (it is सामान्य भूत); the chunks उवाच, अब्रवीत्, आह
+  said to exist in the 3rd singular only (they are taught in it only); quiz items with a
+  second defensible answer; exercise prompts with two readings; "every Volume 1 story
+  opened with पश्य"; भवान् with the 3rd person cited to a Whitney section that does not
+  say it; the tradition's names of the persons and families cited to a Laghukaumudī
+  passage that only recites the forms; Station 0 keys that scored recognition cells; a
+  quiz placed neither in class nor in homework; an exam model answer that did not follow
+  its own examiner's card. A post-fix verification re-read all seven changed files
+  against their pre-review text, with every claimed defect challenged: 16 minor
+  leftovers fixed, none refuted.
 
 ## [0.14.0] — 2026-11-10
 

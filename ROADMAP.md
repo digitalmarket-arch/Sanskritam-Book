@@ -53,7 +53,7 @@ at exit.
 |---|---|---|---|
 | 1 | सुबन्तप्रवेशः — Nouns & Cases I | 5 | ✅ reviewed |
 | 2 | सुबन्तविस्तारः — Nouns & Cases II | 5 | ✅ reviewed |
-| 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ⬜ |
+| 3 | तिङन्तप्रवेशः — The Present-System Verb | 5 | ✅ reviewed |
 | 4 | सन्धिः — Sandhi in Use | 5 | ⬜ |
 | 5 | सर्वनाम-अव्यय-समासाः — Pronouns, Indeclinables, Compounds | 5 | ⬜ |
 | 6 | सम्पूर्णपठनम् — Connected Reading | 5 | ⬜ |
@@ -244,6 +244,21 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   (gender in counting is v3.c02's; the numeral system v4.c05's). 24 ledger-new (411
   cumulative); 71 reviewed lessons, validator green, exports current. Next: v3.c03
   तिङन्तप्रवेशः — The Present-System Verb (fact base written, under verification).
+- **2026-11-10** — **v3.c03 तिङन्तप्रवेशः complete and reviewed (0.15.0)**: the verb in
+  every person and number — the present in both families of endings (गच्छति, लभते), with
+  अस् and कृ learned whole; the imperfect as the story tense, with the augment and its
+  place after a prefix; the imperative as a card on the forms already known, with भवान्
+  and the 3rd person for a polite request and मा for "don't"; the optative as a card,
+  productive in its 3rd person; three sūtras quoted where they state what the learner has
+  just seen (7.3.101, 3.4.85, 3.4.86). One production formula throughout: singular and
+  plural in all persons and the 3rd-person dual are produced, the other duals recognised.
+  Fact base verified before drafting (38 fixes); review passes A–D with one accuracy
+  reviewer per lesson (74 distinct findings confirmed, one of them blocking: a Hindi
+  sentence said to have the liked thing as its subject); post-fix verification of all
+  changed files (16 minor leftovers fixed). 28 ledger-new (439 cumulative); 76 reviewed
+  lessons, validator green, exports current. STYLE_GUIDE §3.1 (pause form and joined
+  text) is in place for Chapter 4. Next: v3.c04 सन्धिः — Sandhi in Use (fact base being
+  written).
 
 ## Content preservation map (from the 1.x curriculum)
 

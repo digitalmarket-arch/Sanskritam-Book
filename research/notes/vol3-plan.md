@@ -2746,6 +2746,11 @@ still to come: a later fact base follows this table, not the lines it corrects.
 | v3.c02 | c02.l04 block, model sentence 3: नमति + accusative "contrasted" with नमः + dative | नम् takes the accusative or the dative (Apte s.v. नम्): मात्रे नमामि is never marked wrong; the contrast taught is verb against indeclinable |
 | v3.c02 | c02.l03 block: the ṇ of the genitive plural shown on गुरूणाम् only | The triggers are र, ऋ and ष with nothing blocking, on the i-side too: हरीणाम्, ऋषीणाम् (c04.l04 names the law; v4.c02 teaches it) |
 | v3.c02 | §1.5, serial episode 2: "the king of the doves; two feet in the net" | As built: the free dove of episode 1 gives the warning (in the Hitopadeśa the king warns and is overruled); the king is caught last, with two feet in the snare; the hunter's wife and the young dove's parents are ours; the river, its bank and the silk-cotton tree are the text's. Episode 3 starts from the king in the snare (c03); c06.l02's Teacher Notes list every departure |
+| v3.c03 | c03.l04 block and D19: मा + imperative as "the ordinary prohibitive of the epics and later prose" | Whitney's words are "an ordinary form of prohibition" (§579c); from the earliest language मा regularly takes an augmentless past form, and that construction is also classical (v4.c03). मा with the optative is attested (rare): it is never offered as a wrong option |
+| v3.c03 | c03.l03 block, S0 → next: "+1 week (c03.l05): the crow story in the imperfect" | That text is task B of the c03 exam, so the booking is "yesterday, told" (six sentences in the imperfect); the exam keeps the crow story. c04.l05 and c06.l01 still read the crow story joined |
+| v3.c03 | c03.l04 block, serial: नृपः अवदत् — "अत्र वने तण्डुलाः कुतः? मा गच्छत!" | As built: the king recalls the warning as the free dove's (Chapter 2 gave the warning to that dove), and the grains lie on the bank (तीरे), not in the forest. Episode 3 ends with the mouse cutting the snares, the king's last (c04 re-reads the serial joined; c06.l02) |
+| v3.c03 | §4.3 inventory: "classes 1, 4, 6, 10 … Whitney §735"; भवत् only at §456 in c05.l01 | §735 is the a-class example; the classes are §§759–761, §751 ff. and §607 (v4.c03). भवान् with the 3rd person is Whitney §456, already cited in c03.l04 |
+| v3.c03 | §4.0.4: 3.4.85 लोटो लङ्वत् glossed "the P imperative is the imperfect's set" | Five cells of the first family's imperative have the imperfect's endings; -तु and -न्तु come from the present's -ति, -न्ति by 3.4.86; the second family's -स्व, -ताम् stand on the present (the plan's own correction c03#0). The ten lakāras: four are the present system's, the other six are लिट्, लुट्, लृट्, लेट्, लुङ्, लृङ्; the benedictive is a use of लिङ् (v4.c03) |
 | v3.c01 | (see that fact base's §7, "Deviations from the plan") | Among them: the two-accusative example is the Laghukaumudī's ग्राममजां नयति (the plan's wording is Apte's); the kāraka sūtras run from 1.4.24 to 1.4.55 |
 
 Rules the chapter reviews settled, binding on later chapters: a form that is not yet taught
@@ -2754,3 +2759,10 @@ everything a lesson asks of the learner outside class time, and §21 adds up to 
 Whitney section is cited only after it has been opened and found to say what it is cited
 for; in Hindi text grammar terms take their Hindi spellings (पुल्लिंग, स्त्रीलिंग,
 नपुंसकलिंग, लिंग), in Sanskrit text their Sanskrit ones (पुंलिङ्गम् …).
+Added at the Chapter 3 review: a wrong option may be an error form built from taught
+material, but not an untaught form and not a construction the language attests; a prompt
+with two readings is changed so that one remains; recognition cells (◐) are never scored,
+in Station 0 keys as elsewhere; the Laghukaumudī is cited under the sūtra where the cited
+words stand (a recital is not cited for the names it illustrates); the Hindi liking
+sentence has its liker in a को-form — only the verb's agreement with the liked thing is
+shared with Sanskrit.

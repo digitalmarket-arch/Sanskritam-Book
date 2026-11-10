@@ -682,3 +682,63 @@ of a quiz or exercise item; everything a lesson asks of the learner outside clas
 counted in `self_study_minutes`, and §21 adds up to it; in Hindi text the gender terms take
 their Hindi spellings; a chapter fact base corrects the plan where research finds it wrong,
 and corrections that later chapters need are listed in the plan's §7.6.
+
+## Chapter v3.c03 — research verdicts (2026-11-10)
+
+Fact base: research/notes/vol3-ch3-present-system-verb.md, written from the plan's §4.3 and
+checked before drafting by three lenses (forms, facts, contract) and an evidence verifier:
+38 findings confirmed (16 major, 22 minor), 4 rejected.
+
+| Claim | Source checked | Verdict | Lands in |
+|---|---|---|---|
+| A finite verb has nine cells, three persons by three numbers; the tradition counts the persons from the far end (प्रथमः "he", मध्यमः "you", उत्तमः "I") | [REF:whitney1889 §536]; [REF:whitney1889 §541]; [REF:laghukaumudi on 1.4.101] | ✅ TRADITION for the names; corrected at review: the names stand in the Laghukaumudī under 1.4.101, not under 7.3.101, which gives only the recital; Hindi school grammar's उत्तम · मध्यम · अन्य assigned correctly | l01, l05 |
+| The present of the a-class in the first family (गच्छामि … गच्छन्ति), with the -आ- before म and व | [REF:whitney1889 §733]; [REF:whitney1889 §735]; [REF:whitney1889 §553] | ✅ every cell re-derived; the plan's locator narrowed (§735 is the a-class example) | l01 |
+| Sūtra 7.3.101 अतो दीर्घो यञि | [REF:ashtadhyayi 7.3.101]; [REF:kashika 7.3.101]; [REF:laghukaumudi on 7.3.101] | ✅ number, text and scope; the Kāśikā's counter-examples used for the cells that do not lengthen | l01 |
+| अस् and कृ in the four lakāras | [REF:whitney1889 §636]; [REF:whitney1889 §714]; [REF:whitney1889 §566] for कृ's optative | ✅ learned whole, with listed production cells | l01, l03, l04 |
+| R4: the athematic verbs' other cells as whole words (शृण्वन्ति, जानन्ति, गृह्णन्ति, स्वपन्ति, ददति; अशृणोत् …; शृणु, जानीहि, गृहाण, देहि) | [REF:whitney1889 §631]; [REF:whitney1889 §632]; [REF:whitney1889 §646]; [REF:whitney1889 §711]; [REF:whitney1889 §722] | ✅ recognition only; अस्वपत् and अस्वपीत् both correct (§631) | l01, l03, l04 |
+| The second family (आत्मनेपदम्): लभे … लभन्ते; the dictionary gives each verb's family (Apte: P., A., U.) | [REF:whitney1889 §735]; [REF:whitney1889 §529]; [REF:whitney1889 §530]; [REF:laghukaumudi on 1.4.99]; [REF:laghukaumudi on 1.4.100] | ✅ corrected at review: some verbs take both families, and with some the family changes with a prefix — the course teaches each verb in one | l02 |
+| R3: the passive in -यते recognised (उच्यते, दृश्यते, श्रूयते); मन्यते and जायते are class-4 middles | [REF:whitney1889 §768]; [REF:whitney1889 §769]; [REF:whitney1889 §761]; [REF:panchatantra] (Book 4, frame story) | ✅ recognition only; corrected at review: in a passive the done-to stands in the nominative and the doer stays the कर्ता | l02 |
+| जयते in सत्यमेव जयते is a middle; the dictionary form is जयति | [REF:mundaka 3.1.6]; [REF:apte1890 s.v. जि] | ✅ no frequency word ("usually") without a count — cut before drafting | l02 |
+| The imperfect (लङ्): augment + present stem + secondary endings; the augment stands after a prefix; ऐच्छत् | [REF:whitney1889 §742]; [REF:whitney1889 §585]; [REF:whitney1889 §1087]; [REF:whitney1889 §553] | ✅ | l03 |
+| According to Pāṇini, लङ् is the past not of today; पुरा with the imperfect | [REF:ashtadhyayi 3.2.111]; [REF:ashtadhyayi 3.2.122]; [REF:kashika 3.2.122]; [REF:whitney1889 §779] | ✅ TRADITION, framed; homework that asked for "today" in the imperfect corrected before drafting; ह्यः अगच्छम् labelled the course's example at review | l03 |
+| The chunks अब्रवीत् (imperfect of ब्रू), उवाच (perfect) and आह | [REF:whitney1889 §632]; [REF:whitney1889 §800]; [REF:whitney1889 §801]; [REF:whitney1889 §821] | ✅ corrected at review: they are taught in the 3rd singular only — the lesson had said they exist in it only | l03 |
+| The imperative (लोट्): in the first family five cells are the imperfect's without the augment, and -ति, -न्ति give -तु, -न्तु; in the second family -स्व, -ताम् stand on the present's endings | [REF:whitney1889 §739]; [REF:ashtadhyayi 3.4.85]; [REF:ashtadhyayi 3.4.86]; [REF:kashika 3.4.85] | ✅ corrected before drafting: 3.4.85 does not give the imperative all the imperfect's endings | l04 |
+| The optative (विधिलिङ्): the stem's -अ becomes -ए; "should, may, would" | [REF:whitney1889 §738]; [REF:whitney1889 §566]; [REF:whitney1889 §573] | ✅ a card, productive in the 3rd person | l04 |
+| Prohibition: मा with the imperative; न with the optative | [REF:whitney1889 §579]; [REF:whitney1889 §580]; [REF:apte1890 s.v. मा] | ✅ Whitney's wording kept ("an ordinary form of prohibition"); the older construction with the augmentless aorist is Volume 4's; मा with the optative is attested and is not offered as a wrong option | l04 |
+| भवान् takes the 3rd person | [REF:whitney1889 §456] | ✅ corrected at review (the lesson cited §572, which does not say it) | l04 |
+| Hit 1.15 मा प्रयच्छ ईश्वरे धनम् is quoted by the old tiger of the Mitralābha's first story; चरतु भवान् is advice the tiger reports | [REF:hitopadesha mitralābha 15]; the local e-text by line; [REF:whitney1889 §579] | ✅ HISTORY; corrected before drafting (the request was put in the tiger's own mouth) and at review (Whitney quotes one quarter of the verse; "famous" cut) | l04 |
+| The ten lakāras; four are the present system's, and the other six are लिट्, लुट्, लृट्, लेट्, लुङ्, लृङ् | [REF:laghukaumudi on 3.4.69] | ✅ corrected before drafting: the benedictive is a use of लिङ्, not one of the six | l05 |
+| Hindi parallels: two numbers against three; तू / तुम / आप against the 2nd person and भवान्; ने with the perfective of a transitive verb (सामान्य भूत) against the Sanskrit imperfect; चाहिए against the optative; मत / न against मा; मुझे … अच्छे लगते हैं | [REF:kachru2006], cited bare; [REF:masica1991]; web check at Pass A and C | ✅ with corrections: मैंने फल खाया is सामान्य भूत, not पूर्ण भूत; in the Hindi liking sentence the liker stands in a को-form and the verb agrees with the liked thing (the course's wording since v2.c05) | l01–l04 |
+| The serial's source: Hitopadeśa 1 (the king of the doves speaks; the mouse cuts the snares) | [REF:hitopadesha mitralābha] (GRETIL e-text, re-found by line) | ✅ "our retelling"; departures stated in Teacher Notes (the warning is recalled as the free dove's) | l01–l04 §17, §22 |
+| Ledger 411 → 418 → 424 → 432 → 439 → 439 (28 ledger-new; upgrade row ऋषिः); the grammar terms are glossary items | STYLE_GUIDE §8 rules 1–15; the learner's word list | ✅ no double count | all |
+
+## Review-pass findings — v3.c03 (2026-11-10)
+
+| Pass | Finding | Resolution |
+|---|---|---|
+| A | One accuracy reviewer per lesson, each finding through an evidence check, majors also through a domain expert and a fix skeptic: 61 confirmed, 2 rejected. Blocker: l02 said that in Hindi मुझे फल अच्छे लगते हैं the liked thing is the subject — in a FACT callout, the Hindi, a note and a quiz key. Majors: two friends saying वयम् in the lesson that teaches the dual for two; the Hindi names of the persons given to the wrong persons; exercise prompts with two readings (ते, बालिके); "the family is a property of the word" for every verb the course owns; "the done-to becomes the कर्ता"; पूर्ण भूत for मैंने फल खाया; the chunks said to exist in the 3rd singular only; l03's quiz placed nowhere; two quiz items in l04 with a second defensible answer; "every Volume 1 story opened with पश्य"; भवान् cited to the wrong Whitney section; the second family's present filed under listed cells; "the 2nd person has only two forms"; a wrong note on syllable weight; in l05 a table row pairing five words with four lessons and a model answer that did not follow its examiner's card. | fixed; pass |
+| B | Policy and load (6 confirmed, 4 rejected; 4 of the 6 repeated Pass A or D): the time before the exam sitting re-stated from the item count (self-study 48 minutes: 18 before the sitting, 30 after); a pointer in l02 to a lesson of the next chapter. | fixed; pass |
+| C | Citations (6 confirmed, 1 rejected): the persons' and families' names cited to the wrong Laghukaumudī passage; "a famous instance" and "in any traditional classroom"; Whitney quotes a quarter of the verse; ह्यः अगच्छम् framed as the tradition's example; the e-text joins every pronoun of the recital. | fixed; pass |
+| D | Coherence (6 confirmed, 1 rejected): l01's review section missed two of its review_of lessons; three Station 0 keys counted recognition cells; GLOSSARY lacked every term the chapter adds; two Hindi names for the virāma sign; a remediation address given two ways; a key that accepted only मा गच्छ for Hindi मत जाओ. | fixed; pass |
+
+Post-fix verification: one verifier per changed file (seven files: the five lessons, the
+fact base and GLOSSARY) re-read the applied fixes against the pre-review commits, re-solved
+the keys and checked every restatement; each claimed defect faced a skeptic (none refuted).
+Sixteen minor defects survived and were fixed. In the lessons: English notes left in a
+parenthesis after a Devanagari word in one step of l01; a sentence that gave ददाति two
+sources; a related-lessons line not updated for l01's two new review prompts; a
+verification flag in l02 that still named the old source for the liking frame; l03's
+revision box, which still called the chunks "3rd sg. only", and its new Hindi line; and
+उभयपदी, which GLOSSARY listed as a Teacher Notes term of l02 although l02 never printed it
+(now named once there). In the fact base: nine places that had not followed a correction
+made in a lesson.
+
+Status change: v3.c03 chapter frame and lessons 01–05 `draft` → `reviewed`. The Volume 3
+frame stays `draft` until the volume is complete.
+
+Decisions recorded with this chapter: a wrong option of a quiz or exercise item may be an
+error form built from taught material, but not an untaught form and not a construction the
+language attests; a prompt with two readings is changed so that one remains, and a key is
+widened only where the language itself allows two answers; recognition cells are never
+scored, in Station 0 keys as elsewhere; the Laghukaumudī is cited under the sūtra where
+the cited words stand, and a recital is not cited for the names it illustrates.

@@ -1501,6 +1501,129 @@
       ],
       "path": "curriculum/volume-3/chapter-02/lesson-05-roles-map-exam.md",
       "json": "json/volume-3/v3.c02.l05.json"
+    },
+    {
+      "id": "v3.c03.l01",
+      "title": {
+        "sa": "वयम् गच्छामः",
+        "sa_iast": "vayam gacchāmaḥ",
+        "hi": "हम जाते हैं — वर्तमान काल के नौ रूप",
+        "en": "We Go: the Whole Present"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c02.l05"
+      ],
+      "review_of": [
+        "v3.c02.l05",
+        "v3.c02.l04",
+        "v2.c04.l02",
+        "v2.c01.l04",
+        "v3.c02.l01",
+        "v2.c04.l03",
+        "v2.c04.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-03/lesson-01-we-go.md",
+      "json": "json/volume-3/v3.c03.l01.json"
+    },
+    {
+      "id": "v3.c03.l02",
+      "title": {
+        "sa": "मह्यम् रोचते",
+        "sa_iast": "mahyam rocate",
+        "hi": "मुझे अच्छा लगता है — क्रिया के अन्त-चिह्नों का दूसरा परिवार",
+        "en": "The Second Family of Endings"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c03.l01"
+      ],
+      "review_of": [
+        "v3.c03.l01",
+        "v3.c02.l05",
+        "v2.c05.l03",
+        "v1.c06.l04",
+        "v2.c01.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-03/lesson-02-the-second-family.md",
+      "json": "json/volume-3/v3.c03.l02.json"
+    },
+    {
+      "id": "v3.c03.l03",
+      "title": {
+        "sa": "आसीत्",
+        "sa_iast": "āsīt",
+        "hi": "था — कथा का भूतकाल (लङ्)",
+        "en": "There Was: the Story Tense"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c03.l02"
+      ],
+      "review_of": [
+        "v3.c03.l02",
+        "v3.c03.l01",
+        "v2.c06.l01",
+        "v2.c03.l03",
+        "v2.c05.l01",
+        "v2.c05.l02",
+        "v3.c01.l02"
+      ],
+      "path": "curriculum/volume-3/chapter-03/lesson-03-there-was.md",
+      "json": "json/volume-3/v3.c03.l03.json"
+    },
+    {
+      "id": "v3.c03.l04",
+      "title": {
+        "sa": "वदतु, वदेत्",
+        "sa_iast": "vadatu, vadet",
+        "hi": "कहिए, कहना चाहिए — अनुरोध और सलाह",
+        "en": "Requests and Advice"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c03.l03"
+      ],
+      "review_of": [
+        "v3.c03.l03",
+        "v3.c03.l02",
+        "v2.c05.l02",
+        "v2.c05.l04",
+        "v2.c06.l02",
+        "v1.c05.l03",
+        "v2.c01.l04",
+        "v1.c06.l04"
+      ],
+      "path": "curriculum/volume-3/chapter-03/lesson-04-requests-and-advice.md",
+      "json": "json/volume-3/v3.c03.l04.json"
+    },
+    {
+      "id": "v3.c03.l05",
+      "title": {
+        "sa": "क्रियापरीक्षा",
+        "sa_iast": "kriyāparīkṣā",
+        "hi": "क्रिया-परीक्षा — अध्याय 3 की परीक्षा",
+        "en": "The Verb Exam"
+      },
+      "status": "reviewed",
+      "cefr": "A2",
+      "prerequisites": [
+        "v3.c03.l04"
+      ],
+      "review_of": [
+        "v3.c03.l01",
+        "v3.c03.l02",
+        "v3.c03.l03",
+        "v3.c03.l04",
+        "v3.c02.l05",
+        "v2.c06.l01"
+      ],
+      "path": "curriculum/volume-3/chapter-03/lesson-05-verb-exam.md",
+      "json": "json/volume-3/v3.c03.l05.json"
     }
   ]
 }
