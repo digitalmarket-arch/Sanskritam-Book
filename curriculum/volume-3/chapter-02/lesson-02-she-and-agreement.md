@@ -458,7 +458,8 @@ Then नद्याः, नद्याम्, नद्यै, देव्य
 
 **Drill 4 — the listening pairs.** Eight pairs from the track, each played twice: बालिका /
 बालिकाः · बालिकायाः / बालिकायाम् · बालिकाभिः / बालिकाभ्यः · नदी / नदि · नद्याः / नद्याम् ·
-नद्यः / नदीः · सा / ताः · तस्याः / तस्याम्. For each, write the one you heard second. The
+नद्यः / नदीः · सा / ताः · तस्याः / तस्याम्. Each pair is played in the order printed; for
+each, write the case and number of the second word (key in §19). The
 traps: नदी / नदि differ only in length (two beats or one); नद्यः / नदीः differ in the glide
 and in the last vowel.
 
@@ -991,6 +992,10 @@ changes; the Sanskrit forms show three genders, and तिस्रः is the fe
 7: scored by rubric, /6: one point for each sentence whose adjective has its noun's gender,
 number and case (मम माता प्रिया। · तस्याः गृहम् विशालम्। · मम भगिनी प्रिया। · तस्याः माला
 मधुरा … — any owned nouns). 5/6 passes; re-record tomorrow if not.
+
+**§9 listening pairs** — the second word of each pair, in order: बालिकाः nom./acc./voc. pl. ·
+बालिकायाम् loc. sg. · बालिकाभ्यः dat./abl. pl. · नदि voc. sg. · नद्याम् loc. sg. · नदीः acc. pl. ·
+ताः nom./acc. pl. · तस्याम् loc. sg. One point each; 6/8 passes.
 </details>
 
 ## 20. Revision

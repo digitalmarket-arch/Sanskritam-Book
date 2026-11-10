@@ -412,8 +412,9 @@ The asker and answer columns you can only guess so far. They are **के** (ke)
 their own form only for doer and done-to: **कानि** (kāni) · **तानि** (tāni); the rest are
 as the masculine.
 
-Preview label (○): ते, के: the pronoun's plural is -े, not -आः — its own table is
-c05.l02. So is its genitive in -एषाम् (तेषाम्), where रामः has -आणाम्.
+Noticed, parked: ते and के end in -े, not -आः, and the genitive is -एषाम् (तेषाम्) where
+रामः has -आणाम्. You produce these cells today (✓, §15); why the pronoun differs is its own
+table's question, c05.l02.
 
 ### Step 6 — production
 
@@ -1020,8 +1021,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 गृहकार्यम् — about 35 minutes total.
 
-1. **(20 min)** Finish the §18 exercises not done in class — at least exercises 2, 4 and
-   6 — and check them against §19's key.
+1. **(20 min)** Finish the §18 exercises not done in class — at least exercises 1, 2 and
+   6, and the §9 dictation — and check them against §19's key.
 2. **(15 min, recorded, real world)** Exercise 7 at home, with your own room for the
    picture: count six things you can see (पुस्तकानि, पत्राणि, फलानि …) in six sentences,
    each with a number from 3–10 and its verb in -अन्ति or सन्ति. Record it; play it back
@@ -1041,7 +1042,7 @@ the two askers, the evidence table built from the class's memory of the Hitopade
 the pattern named with देवानाम् first, the table assembled in pairs and checked against
 §15 (15) → drills: §9 drills 1–2 and the listening pairs; exercises 4 and 5 orally;
 exercise 3 in pairs (15) → the story read twice, once by you, once round the class (7).
-Exercises 6–7 and the dictation go to homework if time runs short.
+Exercises 1, 2 and 6 and the dictation are homework (§21 item 1), and exercise 7 is §21 item 2.
 
 **Board work:** T2 (§15 Step 1) beside T1, the plural column in a second colour, the ण
 of रामाणाम् and the ष of रामेषु boxed, देवानाम् written beside रामाणाम्. To the right, the

@@ -416,7 +416,8 @@ toward उ. Say them as a pair five times: गुरो — गुरौ. Then t
 pure; औ glides).
 
 **Drill 3 — the listening pairs.** Eight pairs from the track, each played twice. For
-each pair, write which one you heard first: गुरवे / गुरोः · गुरौ / गुरो · अग्नये / अग्नेः ·
+each pair, played in the order printed, write the case and number of the second word (key in
+§19): गुरवे / गुरोः · गुरौ / गुरो · अग्नये / अग्नेः ·
 अग्नौ / अग्ने · गुरवः / गुरून् · अग्नीन् / अग्निभिः · मत्या / मतीः · पक्षी / पक्षिणः. The
 traps: in अग्नीन् the ई is long and the word ends on a dental nasal; in अग्निभिः the इ is
 short and the word ends in a breath. मत्या is two syllables, मत्-या, with no इ in the
@@ -803,9 +804,9 @@ Audio: 🔊 `planned:assets/audio/volume-3/v3c02l03-guest-roleplay.mp3`.
 (ekaḥ sādhuḥ. saḥ grāmāt āgacchati.) "A holy man. He comes from the village." — एक साधु।
 वह गाँव से आ रहा है।
 
-— **गुरुः** — अतिथये जलम् भोजनम् च ददातु।
-(atithaye jalam bhojanam ca dadātu.) "Please give the guest water and food." — कृपया
-अतिथि को पानी और भोजन दीजिए।
+— **गुरुः** — भवान् अतिथये जलम् भोजनम् च ददातु।
+(bhavān atithaye jalam bhojanam ca dadātu.) "Please give the guest water and food." —
+कृपया अतिथि को पानी और भोजन दीजिए।
 
 — **शिष्यः** — अस्तु। अतिथिः क्षीरम् अपि इच्छति?
 (astu. atithiḥ kṣīram api icchati?) "All right. Does the guest want milk too?" — ठीक है।
@@ -836,7 +837,8 @@ gives a lot of milk." — हाँ। घर में गाय है। ग�
 है।
 
 Housekeeping: ददातु, अस्तु, आम्, अत्र and समीपे are owned (v2.c05.l04, v2.c05.l02,
-v1.c05.l01, v1.c05.l03, v3.c01.l04); ददातु is the polite request chunk. Turn 8's अग्नेः is
+v1.c05.l01, v1.c05.l03, v3.c01.l04); ददातु is the polite request chunk, with भवान् as
+v2.c05.l04 taught it (never with त्वम्). Turn 8's अग्नेः is
 the genitive that समीपे asks for; turn 9 uses साधुः as an adjective agreeing with अग्निः.
 Turns 10 and 12 are course sentences, written for this dialogue — no source is claimed
 for either. The present निवसति in turn 7 carries the "will stay" of the English, as the
@@ -944,7 +946,7 @@ at least one बहु in agreement and one "than" (X-ः Y-आत् श्र�
 6. The accusative plural of धेनुः: (a) धेनून् (b) धेनूः (c) धेनवः (d) धेन्वा
 7. Is मत्यै correct for "to the thought"? (a) no, only मतये (b) yes, and मतये is also
    correct (c) only in verse (d) it is the instrumental
-8. "Many fruits": (a) बहवः फलानि (b) बहूनि फलानि (c) बहु फलानि (d) बह्वी फलानि
+8. "Many fruits": (a) बहवः फलानि (b) बहूनि फलानि (c) बहु फलानि (d) बहुः फलानि
 9. "Intelligence is better than strength": बुद्धिः ___ श्रेष्ठा। (a) बलम् (b) बलेन (c)
    बलात् (d) बलाय
 10. पक्षिणः in पक्षिणः तरौ निवसन्ति is: (a) nominative plural (b) genitive singular (c)
@@ -967,7 +969,7 @@ at least one बहु in agreement and one "than" (X-ः Y-आत् श्र�
    pattern, §12's mistake 3; (c) is the nominative; (d) the instrumental singular.)
 7. (b) — the dative is one of the three two-way cells; both forms are correct (§15 Step 4).
 8. (b) — बहु agrees with the neuter plural फलानि (§15 Step 5). ((a) is masculine; (c) is the
-   singular; (d) is the feminine singular.)
+   singular; (d) is the masculine nominative singular.)
 9. (c) — "than" is the ablative (§15 Step 6). ((a) is the nominative or accusative; (b) is
    "with strength"; (d) is "for strength".)
 10. (a) — the doer of the plural निवसन्ति (§15 Step 7, §17 line 2). R1 recognition. ((b)
@@ -999,6 +1001,10 @@ instr. pl. (g) nom. pl. (R1; "may all be happy").
 
 6: scored by rubric, /10: one point for each turn whose i- and u-stem cells are right;
 the बहु and the "than" are required for a pass. 8/10 passes; re-record tomorrow if not.
+
+**§9 listening pairs** — the second word of each pair, in order: गुरोः abl./gen. sg. · गुरो voc.
+sg. · अग्नेः abl./gen. sg. · अग्ने voc. sg. · गुरून् acc. pl. · अग्निभिः instr. pl. · मतीः acc. pl. ·
+पक्षिणः abl./gen. sg. or nom./acc. pl. (R1: either reading scores). One point each; 6/8 passes.
 </details>
 
 ## 20. Revision
@@ -1026,7 +1032,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 गृहकार्यम् — about 40 minutes total.
 
 1. **(20 min)** Finish the §18 exercises not done in class — at least exercises 1, 2 and
-   5, and exercise 4 if it moved to homework — and check them against §19's key.
+   5, and exercise 4 if it moved to homework — and check them against §19's key. Then take
+   §9 Drill 4 (the dictation) from the audio and check it against the text printed there.
 2. **(15 min, recorded, real world)** Exercise 6 at home: someone in your family plays the
    guest at your door. Run the role-play, record it, and play it back once, marking every
    strengthened cell you hear (गुरवे, अग्नेः, हे गुरो …). If they do not speak Sanskrit,

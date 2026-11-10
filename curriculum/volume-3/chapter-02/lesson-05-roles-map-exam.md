@@ -136,8 +136,8 @@ v3.c02.l04:** "both parents" (5) **from v3.c01.l05:** "from the village with a f
 
 <details><summary>उत्तराणि · Stations 1–5 Key</summary>
 
-1. छात्राणाम् — the genitive plural -आनाम्, written -आणाम् after र with nothing blocking.
-   → l01 §15 Step 1.
+1. छात्राणाम् — the genitive plural -आनाम्, written -आणाम् after र with nothing blocking;
+   शिष्याणाम् scores too: its ṇ follows ष, and य does not block it. → l01 §15 Step 1.
 2. तिस्रः बालिकाः — the feminine of 3, not the 1.x book's "ततस्रः". → l02 §15 Step 4.
 3. अतिथये — the strengthened i-stem dative, as अग्नये. → l03 §15 Step 1.
 4. उभौ पितरौ — उभौ with a masculine dual; पितरौ for the parents. (पितरौ उभौ, the other
@@ -356,9 +356,10 @@ no receiver (गुरवे नमः); (2) सह takes the instrumental of co
 **R2, the "X-ed by Y" frame — a recognition card.** बद्धः "bound", मुक्तः "freed"
 (v2.c06.l02) and the Volume 1 stem कृत "done" are -त forms of verbs that take an object.
 Used as the verb, such a form agrees with the thing done, and the doer goes into the
-instrumental: **मया कृतम्** (mayā kṛtam) "(it is) done by me". The -त forms of verbs with
-no object (गत, क्रुद्धः, पिपासितः, सुप्त) agree with the doer itself and are not this frame
-(§15 (6)). You read R2; you do not build it (v4.c04).
+instrumental: **मया कृतम्** (mayā kṛtam) "(it is) done by me". The -त forms of a verb of
+motion (गत) and of verbs with no object (क्रुद्धः, पिपासितः, सुप्त) agree with the doer itself
+and are not this frame (§15 (6)), though गच्छति takes a कर्म. You read R2; you do not build
+it (v4.c04).
 
 ### Step 5 — you assemble the tables (unscored)
 
@@ -471,10 +472,12 @@ dental. In रामेषु /ɾɑːmeːʂu/ the ष follows /eː/; in बा�
 मुखस्थितिः — the exam circuit, one check per task.
 
 - **Task A (pen):** read the instruction first (plural? dual? singular?), then the case of
-  the form given, and keep that case. Before you write -आणाम् or -एषु, look along the stem
-  for र, ऋ, ष and for a blocker; after आ the स of -सु stays.
+  the form given, and keep that case. Before you write -आणाम्, look along the stem for र,
+  ऋ, ष and for a blocker. -सु is written -षु after every vowel but अ and आ, with no trigger
+  needed (देवेषु as well as रामेषु); after आ the स of -सु stays.
 - **Task B (pen):** look at the noun's last letters for its gender, number and case, then
-  copy all three onto विशाल. A neuter or feminine dual ends in -े, like a locative.
+  copy all three onto विशाल. Its neuter and feminine dual, विशाले, ends in -े, like its
+  m./n. locative singular.
 - **Task C (eyes, then head):** for each noun two answers — the case from the ending, the
   job from the sentence. Ask "does the case do its usual job here?" before you write the job.
 - **Task D (eyes):** every word of the verse; the four little words हि, न, न, हि have no
@@ -572,7 +575,8 @@ Review words on duty today, no rows: the exam's nouns (कपोतः, बा�
 पिता, माता, तरुः, कर्णः, सभा, नगरम्, पर्वतः, तण्डुलः, शिष्यः, पक्षी, परिवारः, जनः …), its
 verbs (क्षिपति, ददाति, पतति, पठति, नयति, निवसति, करोति …), विशालः, प्रियः, मधुरः, the
 numerals, and §17's thread words as v2.c06.l03 glosses them. Grammar terms, not ledger
-words (GLOSSARY, §27): कारकम् and its plural कारकाणि, the six kāraka names, सम्बन्धः,
+words (GLOSSARY, §27): कारकम् and its plural कारकाणि, five kāraka names (कर्ता is l04's
+ledger word), सम्बन्धः,
 सम्बोधनम्, एकवचनम्, द्विवचनम्, बहुवचनम्. Display only, never counted: उक्तम् and the quoted
 formula उक्तं च (§15, R2); अस्मभ्यम्, अस्मत्, युष्मभ्यम्, युष्मत् (§15, free fact 3; c05.l01).
 
@@ -600,7 +604,7 @@ what the chapter made yours.
 | अपादानम् fixed point of separation | पञ्चमी | पत्राणि **वृक्षात्** पतन्ति | "than": बुद्धिः बलात् श्रेष्ठा — no one leaves anything |
 | अधिकरणम् location | सप्तमी | कपोताः **वृक्षे** निवसन्ति | (no mismatch) time is "where" too and still अधिकरणम् (प्रभाते, रात्रौ) |
 | (सम्बन्धः relation — not a kāraka) | षष्ठी | **रामस्य** पुत्रः | with उपरि, समीपे (सिंहस्य उपरि) — the genitive names no part in the action |
-| (सम्बोधनम् address — not a kāraka) | सम्बोधनम् | **हे** राम | the nominative used in calling |
+| (सम्बोधनम् address — not a kāraka) | सम्बोधनम् | हे **राम** | the nominative used in calling |
 
 Task C scores the three clearest places as "case ≠ job": the dative with नमः, the
 instrumental with सह, the doer in the instrumental of मया कृतम्. The neuter's one form is a
@@ -661,10 +665,11 @@ beyond रामौ: l04 §15 Step 3).
 | 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | — (numeral obliques: v4.c05) | — (v4.c05) |
 | "both" | उभौ ubhau (m.) · उभे ubhe (f., n.) | उभाभ्याम् ubhābhyām | उभयोः ubhayoḥ |
 
-The caution printed with the card, again: the neuter and feminine dual -े (फले, बालिके,
-ते) looks like the locative singular (फले "on the fruit") and the pronoun's masculine
-nominative plural (ते "they"). The sentence decides: द्वे फले — dual; वृक्षे — locative; ते
-कपोताः — plural. उभ- has dual forms only; its oblique cells are display.
+The caution printed with the card, again: the dual -े has look-alikes. The neuter फले looks
+like the locative singular (फले "on the fruit"); the feminine बालिके looks like the vocative
+singular (हे बालिके!); the pronoun's f./n. ते looks like its masculine nominative plural (ते
+"they"). The sentence decides: द्वे फले — dual; वृक्षे — locative; हे बालिके — calling one
+girl; ते कपोताः — plural. उभ- has dual forms only; its oblique cells are display.
 
 ### (4) The recurring endings
 
@@ -700,15 +705,16 @@ as display only (○, v3.c05.l01). Every free fact is a cell you do not have to 
 > मुक्तः "freed", कृत "done", उक्त "said") describes what has undergone the action. Used as
 > the verb of its sentence, it agrees with the thing done, and the doer stands in the
 > instrumental: मया कृतम् "(it is) done by me"; तेन उक्तम् "(it is) said by him". A -त form
-> made from a verb with no object (गत "gone", सुप्त "asleep", क्रुद्धः "angry", पिपासितः
-> "thirsty") has no passive sense: it agrees with the doer itself, and it is not this
-> frame. [REF:whitney1889 §952]; [REF:whitney1889 §282]
+> made from a verb of motion (गत "gone") or from a verb with no object (सुप्त "asleep",
+> क्रुद्धः "angry", पिपासितः "thirsty") is used here in an active sense: it agrees with the
+> doer itself, and it is not this frame — even though, as §15 (1) shows, गच्छति takes a
+> कर्म: ग्रामम् गच्छति. [REF:whitney1889 §952]; [REF:whitney1889 §282]
 
 | -त form | from a verb | frame | example |
 |---|---|---|---|
 | बद्धः · मुक्तः (owned, v2.c06.l02) · कृत (owned, Volume 1) | with an object | R2: agrees with the thing done; the doer in the instrumental | **मया कृतम्** (mayā kṛtam) "done by me" — मया owned since v3.c01.l03 |
 | उक्तम् (display) | with an object | R2 | **तेन उक्तम्** (tena uktam) "said by him" |
-| क्रुद्धः · पिपासितः (owned) · गत (owned, Volume 1) · सुप्त (the thread verse) | with no object | not R2: agrees with the doer | सिंहः क्रुद्धः भवति "the lion becomes angry"; सुप्तस्य सिंहस्य "of the sleeping lion" |
+| क्रुद्धः · पिपासितः (owned) · गत (owned, Volume 1) · सुप्त (the thread verse) | of motion (गत), or with no object | not R2: agrees with the doer | सिंहः क्रुद्धः भवति "the lion becomes angry"; सुप्तस्य सिंहस्य "of the sleeping lion" |
 
 **उक्तं च** (uktaṃ ca) "and it has been said" is the Pañcatantra's verse-introducer: the
 storyteller stops, says उक्तं च, and quotes a verse. It is printed joined, as the texts
@@ -720,8 +726,8 @@ wider [REF:panchatantra]. Production: none; formation v4.c04, voice v4.c05.
 
 ### (7) The promises kept in this chapter
 
-Volume 2's deferral tracker (v2.c06.l05 §15) carried three rows into Volume 3; Chapter 2
-has paid them:
+Volume 2's deferral tracker (v2.c06.l05 §15) carried three noun rows into Volume 3 (its
+other Volume 3 rows go to Chapters 3–5); Chapter 2 has paid them:
 
 | Tracker row | Kept in |
 |---|---|
@@ -844,7 +850,8 @@ chapter's overlay of this verse is task D's key, in §19; open it only after the
 
 - **अहिंसा** — प्रथमा, singular: an ā-stem feminine, like बालिका, with no ः (l02).
 - **परमः** — प्रथमा, singular, masculine: it agrees with धर्मः, not with अहिंसा. Inside
-  the phrase परमः धर्मः "the highest dharma" the adjective follows its own noun.
+  the phrase परमः धर्मः "the highest dharma" the adjective takes the gender of its own noun,
+  which it stands before.
 - **धर्मः** — प्रथमा, singular, masculine: the predicate, what अहिंसा *is*.
 
 The joined original, परमो धर्मः, is v2.c06.l03's display; this lesson reads the pause form
@@ -1163,8 +1170,11 @@ reach for forms the chapter did not teach.
 not a rule of Sanskrit. (3) Either form of a feminine i/u two-way cell (मतये or मत्यै, मतेः
 or मत्याः, मतौ or मत्याम्) [REF:whitney1889 §336]. (4) A dual verb (-तः) or स्तः in task E.
 
-**The R2 card, for you.** It holds only for transitive verbs. The intransitive -त forms
-(गत, सुप्त, the owned क्रुद्धः, पिपासितः) agree with their doer: सुप्तस्य सिंहस्य is "of the
+**The R2 card, for you.** The card is built on transitive verbs (बद्धः, मुक्तः, कृत, उक्त).
+गत comes from a verb of motion, whose goal is still a कर्म (ग्रामम् गच्छति), and सुप्त, the
+owned क्रुद्धः and पिपासितः from verbs with no object. In the course's sentences all four agree
+with their doer. 3.4.72 lets the -त form name the doer after both kinds; with a verb of
+motion the R2 frame is also possible (तेन ग्रामः गतः), but the course does not print it: सुप्तस्य सिंहस्य is "of the
 sleeping lion", with no hidden instrumental. बद्धः in सिंहः जाले बद्धः भवति is a transitive
 -त form used as a predicate adjective (v2.c06.l02): it agrees with the one bound, and the
 binder is not named. Do not teach the formation (v4.c04) or voice (v4.c05).
@@ -1187,7 +1197,7 @@ kārakas); 2.3.30 षष्ठ्यतसर्थप्रत्ययेन (
 2.3.19 were quoted to the learner in v3.c01.l03; the map recalls them without numbers. R2:
 3.4.70 तयोरेव कृत्यक्तखलर्थाः (the -त participle expresses the done-to or the action, not the
 doer) and 2.3.18 with 2.3.1 (the doer, not otherwise expressed, in the instrumental); the
-intransitive -त forms: 3.4.72 गत्यर्थाकर्मकश्लिषशीङ्स्थाऽऽसवसजनरुहजीर्यतिभ्यश्च (after verbs of
+-त forms of verbs of motion and of intransitive verbs: 3.4.72 गत्यर्थाकर्मकश्लिषशीङ्स्थाऽऽसवसजनरुहजीर्यतिभ्यश्च (after verbs of
 motion and intransitive verbs the -त form may also express the doer: गतः, सुप्तः). The
 recurring-endings exception -ऐः: 7.1.9 अतो भिस ऐस्. All texts as in the Aṣṭādhyāyī data
 file (looked up 2026-11-10) [REF:ashtadhyayi 2.3.1]; the system: [REF:cardona1997].
@@ -1224,8 +1234,9 @@ Kachru [REF:kachru2006], cited bare.
 
 **What students find hard.** Task C's two lures (गुरुणा as करणम्, गुरवे as सम्प्रदानम्);
 task D's मुखे (the dual temptation) and कार्याणि (nom. or acc.); task B's 8 and 10, where
--े may look like a mistake; and starting task E. Give the family-tree sheet as a prompt only
-after a long stall; communication then drops a band.
+-े may look like a mistake; and starting task E. Every learner draws on the family-tree frame
+in the two planning minutes; give a spoken prompt (कति भ्रातरः?) only after a long stall, and
+communication then drops a band.
 
 **The completion moment.** Booklets closed, the class stands and chants the 8×3 table once
 together, across, रामः रामौ रामाः to हे राम हे रामौ हे रामाः. Say the counts aloud: 24
@@ -1366,7 +1377,8 @@ cue.
 - **Ledger:** 411 → 411; vocabulary_count 0; cells drilled 0 new (171 reviewed: 38 + 43 +
   44 + 46); chapter chain 387 → 392 → 399 → 406 → 411 → 411, as the sibling §14s state.
 - **Glossary:** कारकम् (plural कारकाणि, the title), the six kāraka names, सम्बन्धः,
-  सम्बोधनम्, एकवचनम्, द्विवचनम्, बहुवचनम् — grammar terms, not ledger words.
+  सम्बोधनम्, एकवचनम्, द्विवचनम्, बहुवचनम् — grammar terms, adding no ledger row today; कर्ता
+  was already counted in l04, as the noun "doer".
 - **Register audit:** FACT ×8 (§5 ×3: case and role, retrieval, spacing · §15 ×5: the map,
   the 8×3, the recurring endings, the free facts, R2) · HISTORY ×2 (§4 the Fillmore note, both keys · §4 the thread loci,
   hedged date) · TRADITION ×4 (§4 the kāraka line · §9 and §15 the Laghukaumudī · §15 the
