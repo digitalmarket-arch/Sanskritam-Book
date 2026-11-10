@@ -40,7 +40,8 @@ cited by paṭala.sūtra.
 <a id="nirukta"></a>**nirukta** — Yāska, *Nirukta*. A treatise on the etymology and meaning of
 Vedic words; cited by adhyāya.khaṇḍa (e.g. 6.28). Ed. Lakshman
 Sarup, *The Nighaṇṭu and the Nirukta* (introduction, text, English translation and notes), first
-published 1920–1927; repr. Delhi: Motilal Banarsidass, 1967. The course quotes the GRETIL
+published 1920–1927 (the Sanskrit text: Lahore: University of the Panjab, 1927); repr. Delhi:
+Motilal Banarsidass, 1967. The course quotes the GRETIL
 e-text "based on the edition by Lakshman Sarup" (input by Munoe Tokunaga and M. Kobayashi,
 1999); the printed text was not opened.
 

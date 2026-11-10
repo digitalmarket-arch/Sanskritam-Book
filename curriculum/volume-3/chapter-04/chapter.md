@@ -89,14 +89,16 @@ counted; joined spellings never count).
 All `planned:`; each lesson's §23–§24 carry the prompts.
 
 - **l01:** the vowel map (the decision path: the end of the left word, then the start of the
-  right); the split-and-join strip (नास्ति ⇄ न अस्ति); the seams drill audio; the vowel-seams
-  worksheet.
+  right); the split-and-join strip (नास्ति ⇄ न अस्ति); the seams drill audio; the story audio
+  (§17 read joined so far); the vowel-seams worksheet.
 - **l02:** the visarga wheel (columns: the vowel before; rows: the sound after); the नमस्ते seam
-  card (नमः + ते → नमस्ते); the seams drill audio; the visarga-map worksheet.
+  card (नमः + ते → नमस्ते); the seams drill audio; the story audio (§17 read joined so far); the
+  visarga-map worksheet.
 - **l03:** the consonant map; the vowel-or-consonant sort card (सत्यमेव · सत्यं वद); the seams
-  drill audio; the consonant-seams worksheet.
+  drill audio; the story audio (§17 read joined at every seam); the consonant-seams worksheet.
 - **l04:** the saṃhitā-over-pada panel (a joined line with its pause form beneath); the reverse
-  table; the benediction read joined (audio); the six-step method worksheet.
+  table; the benediction read joined (audio); the story audio (§17 joined, then its pause
+  form); the six-step method worksheet.
 - **l05:** the three maps on one page; the dictation audio and the joined crow story audio
   (played after the sitting); the exam booklet; chapter quiz and key.
 - **Serial:** the episode illustrations of Chapters 1–3 reused, each with its line printed joined.
@@ -106,8 +108,9 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 Lesson 5 is the chapter exam, one 45-minute sitting (2 minutes of instructions, then five tasks):
 A split sixteen joined phrases, each with its rule's name, with two volume-spiral questions (a
 case and a verb form; 10 min); B join sixteen seams of mixed types (8 min); C read aloud the
-Volume 2 crow story joined — the text the learner joined in lesson 4's homework, first seen here
-in print — at natural pace (7 min); D dictation in joined form, five sentences played in a stated
+Volume 2 crow story joined — the text the learner joined in lesson 4's homework, printed whole
+here for the first time (three of its lines were model sentences in lessons 3 and 4) — at
+natural pace (7 min); D dictation in joined form, five sentences played in a stated
 order, then their pause form (8 min); E explain in three lines each नमस्ते, विद्यालयः, परोपकारः and
 न कोऽपि लघुः, in 10 minutes. Pass: every task at its pass mark and the §19 quiz at 7/10. Station 0 (about
 8 minutes) runs before the sitting and outside its 45 minutes, so the learner is in the room about

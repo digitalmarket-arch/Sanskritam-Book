@@ -77,7 +77,7 @@ and §19 (Q10); objective 2 in §8 Step 5, §15 Steps 1–5 and §16, §18 (exer
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, lesson 1's +1-day and
-v3.c03.l05's +1-week. Then three memory prompts. Everything from memory *before* any key
+v3.c03.l05's +1-week. Then four memory prompts. Everything from memory *before* any key
 opens: in the one claim this course makes for it, retrieval practice beats re-reading for
 long-term retention [REF:roediger2006].
 
@@ -119,6 +119,11 @@ uncover your answer and check every verb you changed.
 2. From v2.c06.l02: say the moral of the lion and the mouse both ways, word by word and
    joined.
 3. From v2.c01.l04: say goodbye the joined way.
+4. Write the pause form of each owned shape: v1.c02.l01's ईकारश्च, v2.c03.l03's कालश्च,
+   v2.c01.l01's and v3.c01.l04's भो राम, v2.c05.l02's पुनर्वदतु, v2.c06.l03's परमो धर्मः and
+   v1.c05.l05's सोऽहम्. Then: which word did v1.c01.l01 teach first? What is मनः the pause
+   form of, as v1.c03.l04 said? Which sign of पुनर्मिलामः is the repha of v1.c05.l04? And which
+   case does नमः take, as v3.c01.l03 taught?
 
 <details><summary>उत्तराणि · Answers</summary>
 
@@ -136,6 +141,10 @@ uncover your answer and check every verb you changed.
    FACT box; today that join is one cell of a map.
 3. पुनर्मिलामः "we meet again" — in pause form पुनः मिलामः. The ः of पुनः became र्: §8 Step
    5 says why it is not \*पुनो मिलामः.
+4. ईकारः च · कालः च · भोः राम · पुनः वदतु · परमः धर्मः · सः अहम्. v1.c01.l01's first word was
+   नमस्ते, prompt 1's word. मनः is the pause form of मनस्. The repha is the hook over मि: the
+   र् that stands where पुनः had its ः. नमः takes the dative — गुरवे नमः, the नमस्ते thread's
+   step 1. §8 and §15 place every one of them on today's map.
 </details>
 
 A slip in item 1 sends you back to lesson 1's vowel map, v3.c04.l01 §15 Step 8, tonight; a slip in item
@@ -713,6 +722,22 @@ seam with that word is the -ः + त of नमस्ते. Line 4 has two seam
 6 is the honest one: three visargas, and none of them changes, because each stands before a
 sound that lets it stand.
 
+### Carried from the 1.x book
+
+Four worked seams of the 1.x book (pp. 71–72) are built only from words you own, and each
+re-derives by the -अः column of §15 Step 1. Two you have already met: रामश्च in model 6 and
+रामः करोति in §15.
+
+| पदपाठः | IAST | संहिता | IAST |
+|---|---|---|---|
+| रामः अहम् | rāmaḥ aham | रामोऽहम् | rāmo 'ham |
+| रामः गच्छति | rāmaḥ gacchati | रामो गच्छति | rāmo gacchati |
+| रामः च | rāmaḥ ca | रामश्च | rāmaś ca |
+| रामः करोति | rāmaḥ karoti | रामः करोति | rāmaḥ karoti |
+
+रामोऽहम् "I am Rāma": -अः + अ → ओऽ. रामो गच्छति "Rāma goes": -अः before a voiced consonant →
+ओ. रामश्च "and Rāma": ः before च → श्. रामः करोति "Rāma does": ः before क stays.
+
 ## 14. Vocabulary
 
 शब्दावली — 6 ledger-new · 0 upgrades · ledger **445 → 451**.
@@ -729,7 +754,7 @@ column 5, the other-vowel column 6, the r-finals 6, सः/एषः 2.
 |---|---|---|---|---|---|
 | प्रातः | prātaḥ | /pɾɑːt̪ɐh/ | in the morning, early | प्रातः, सुबह | ledger-new — indeclinable; an r-final, *prātar*: seams प्रातरेव, प्रातर्गच्छति, प्रातः पठति — Apte s.v. प्रातर् "At day-break, at dawn, early, in the morning" |
 | बहिः | bahiḥ | /bɐɦih/ | outside, out | बाहर | ledger-new — indeclinable; an s-final, *bahis*; after इ its seams match the r-finals' (Whitney §169b): बहिर्गच्छति, बहिस्तिष्ठति — Apte s.v. बहिस् "Out of, outside (with abl.)"; MW s.v. bahis |
-| अन्तः | antaḥ | /ɐn̪t̪ɐh/ | inside, within | अन्दर, भीतर | ledger-new — indeclinable; an r-final, *antar*: अन्तरागच्छ — MW s.v. antar "within, between, amongst, in the middle or interior". **Homograph:** not अन्तः "end", the nominative of the owned अन्त, v1.c05.l02; see §12, mistake 5 |
+| अन्तः | antaḥ | /ɐn̪t̪ɐh/ | inside, within | अन्दर, भीतर | ledger-new — indeclinable; an r-final, *antar*: अन्तरागच्छ — MW s.v. antar "within, between, amongst, in the middle or interior"; Apte s.v. अन्तर्, used adverbially, "Between, betwixt, amongst, within; in the middle or interior, inside (opp. बहिः)". **Homograph:** not अन्तः "end", the nominative of the owned अन्त, v1.c05.l02; see §12, mistake 5 |
 | उच्चैः | uccaiḥ | /ut͡ɕt͡ɕɐi̯h/ | loudly; high, aloft | ऊँचे स्वर में, ज़ोर से; ऊँचा | ledger-new — indeclinable; an s-final after ऐ: उच्चैर्वदति — Apte s.v. उच्चैः "Aloft, high, on high, above, upwards", and sense 2, "Loudly, with a loud noise" |
 | शनैः | śanaiḥ | /ɕɐn̪ɐi̯h/ | slowly, gently; gradually | धीरे, धीरे-धीरे | ledger-new — indeclinable; an s-final after ऐ; doubled, शनैः शनैः "slowly, slowly" — Apte s.v. शनैस् "Slowly, gently, quietly. Gradually, by degrees, little by little". Probably related to the owned शनिवासरः; see §22 |
 | तु | tu | /t̪u/ | but, however; (stressing) as for | किन्तु, पर, तो | ledger-new — indeclinable, enclitic: never first in its clause, usually second; the -ः + त seam: रामस्तु, छात्रास्तु — MW s.v. tu "but"; Apte s.v. तु, "An adversative particle meaning 'but'" |
@@ -875,8 +900,8 @@ derivative of √kṛ the स् is kept (§171b). Compounds as a system — and
 > shapes: मनोरथ, मनः + रथ; नमस्कार; पुनर्जन्म, पुनः + जन्म, the r-final before a voiced
 > sound; निराशा, निः + आशा. [REF:kachru2006]
 
-> **[TRADITION · परम्परा]** Hindi school grammar lists such words as विसर्ग सन्धि, beside
-> स्वर सन्धि and व्यंजन सन्धि. [REF:guru1952]
+> **[TRADITION · परम्परा]** Hindi school grammar lists such words as विसर्ग-सन्धि, beside
+> स्वर-सन्धि and व्यञ्जन-सन्धि; a schoolbook prints व्यंजन संधि. [REF:guru1952]
 
 | Hindi word | its Sanskrit seam | the cell of today's map |
 |---|---|---|
@@ -1273,8 +1298,10 @@ for the teacher: a word-final स् becomes रु by 8.2.66 ससजुषो
 [REF:ashtadhyayi 8.3.15]; अ + रु → ओ before अ and before a voiced consonant by 6.1.113 अतो
 रोरप्लुतादप्लुते and 6.1.114 हशि च [REF:ashtadhyayi 6.1.113] [REF:ashtadhyayi 6.1.114]; र् + र,
 with the lengthening, by 8.3.14 रो रि and 6.3.111 ढ्रलोपे पूर्वस्य दीर्घोऽणः [REF:ashtadhyayi
-8.3.14] [REF:ashtadhyayi 6.3.111]; the visarga or the sibilant before श ष स by 8.3.35 शर्परे
-विसर्जनीयः and 8.3.36 वा शरि, and the visarga before क and प by 8.3.37 कुप्वोः ≍क≍पौ च
+8.3.14] [REF:ashtadhyayi 6.3.111]; the visarga or the sibilant before श ष स by 8.3.36 वा शरि;
+the visarga kept before a voiceless stop that a sibilant follows (क्ष, त्स) by 8.3.35 शर्परे
+विसर्जनीयः; and before क and प the jihvāmūlīya and upadhmānīya, or by the sūtra's च the
+visarga itself, by 8.3.37 कुप्वोः ≍क≍पौ च
 [REF:ashtadhyayi 8.3.35] [REF:ashtadhyayi 8.3.36] [REF:ashtadhyayi 8.3.37]; for भोः, 8.3.17
 भोभगोअघोअपूर्वस्य योऽशि with 8.3.22 हलि सर्वेषाम् before consonants and 8.3.19 लोपः शाकल्यस्य
 before vowels
@@ -1310,7 +1337,7 @@ it in their own sentences.
 sentences are statements and the teacher's commands (आगच्छ, अन्तरागच्छ).
 
 **शनैः and शनिवासरः.** Offer the link only as "probably related": Apte s.v. शनैस् records
-शनैश्चरः "slow-goer", MW s.v. śani calls शनि "prob. 'slow-moving'", and Apte s.v. शनिः derives
+शनैश्चर "going or moving slowly" and शनैश्चरः "the planet Saturn", MW s.v. śani calls शनि "prob. 'slow-moving'", and Apte s.v. शनिः derives
 it from √शो. Never assess it.
 
 **Model sentence 2.** The locus is the GRETIL Hitopadeśa, prose after Hit 1.53: *hiraṇyako
@@ -1318,10 +1345,20 @@ it from √शो. Never assess it.
 and the vulture asks it too [REF:hitopadesha mitralābha]. Learner text gives the mouse's locus
 only.
 
-**The 1.x visarga pages.** The 1.x book's visarga-sandhi pages (pp. 71–73) are not printed
-here. Pass C re-derives each of their examples against §15 Step 1; correct examples built from
-owned words can be carried into §13 or §18 at Pass C, and any wrong one is listed here with its
-correction.
+**The 1.x visarga pages, re-derived.** The 1.x book's visarga examples stand on pp. 71–72.
+Correct and carried into §13, being built from owned words: रामः + अहम् → रामोऽहम्, रामः +
+गच्छति → रामो गच्छति, रामः + च → रामश्च, रामः + करोति → रामः करोति; its two quiz keys are the
+first two. Correct but not carried: रामः + ते → रामस्ते, since ते as a word is v3.c05.l01's;
+रामः + टीका → रामष्टीका, since टीका is not owned and the ट row is named only (§15 Step 5);
+देवाः + एते → देवा एते, since एते is a pronoun form the course has not given. Wrong, with the
+correction: (1) its rule 5 and its memory card restrict the -आः rule to a vowel other than
+अ; -आः loses its ः before every vowel, अ included, as §15 Step 1 prints in देवा अत्र and
+छात्रा अपि [REF:whitney1889 §177]; (2) its rule 3 pairs the voiceless palatal, dental and
+retroflex rows with स, श, ष in that order; the pairs are च छ → श्, त थ → स्, ट ठ → ष्
+[REF:whitney1889 §170]; (3) its card calls this the "most important sandhi" that "appears in
+EVERY Sanskrit sentence": a claim of scale with no count (STYLE_GUIDE §7), not carried. Its
+rule 4, ः before क or प stays, is the course's key too; 8.3.37 also allows the jihvāmūlīya
+and upadhmānīya there, which the course does not print [REF:ashtadhyayi 8.3.37].
 
 **Differentiation.** Hindi-medium learners know नमस्कार, मनोरथ, पुनर्जन्म and निराशा as
 Hindi words: give them §15 Step 7 first, so that the map starts from words they say every day.
@@ -1494,7 +1531,8 @@ narrator reads the cue, not the English spelling.
   line 6, v3.c03.l03 lines 6–7 — identical), and its English and Hindi likewise; the evidence
   table of §8 Step 3 re-found by grep in each lesson named (done, 2026-11-10); the Hindi bridge
   of §7 and §15 Step 7 against [REF:kachru2006] and [REF:guru1952], both cited bare — locate or
-  reword; the 1.x visarga pages (pp. 71–73) re-derived before any example prints (§22); the
+  reword; the 1.x visarga pages (pp. 71–73) re-derived before any example prints (§22; done,
+  2026-11-10: four carried into §13, errors listed in §22); the
   Hindi of every gloss, of §7 and of §16 at Pass B; the pointer to v3.c05.l01 (the thread's
   step 3), a lesson not yet on disk.
 - **Register audit:** FACT ×12 (§5 ×4: the visarga as a sound, the voiced shapes, Hindi,

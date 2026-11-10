@@ -13,10 +13,10 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | अभिवादन | abhivādana | greeting, respectful salutation | अभिवादन | v2.c01.l01 |
 | अव्यय | avyaya | indeclinable — a word that never changes shape | अव्यय | v2.c02.l04 |
 | अनुच्छेद | anuccheda | passage, paragraph (standard modern term) | अनुच्छेद | v1.c06.l03 |
-| अनुस्वार | anusvāra | the nasal sign ं | अनुस्वार | v1.c02.l06 |
+| अनुस्वार | anusvāra | the nasal sign ं; for a word-final म् before a consonant, 8.3.23: v3.c04.l03; the class nasal optional before a stop | अनुस्वार | v1.c02.l06 |
 | अन्तर्निहित स्वर | antarnihita svara | inherent vowel — the अ carried by every unmarked consonant letter | अन्तर्निहित स्वर — भीतर बैठा हुआ स्वर | v1.c01.l03 |
 | अयोगवाह | ayogavāha | dependent sound (anusvāra, visarga) | अयोगवाह (आश्रित ध्वनि) | v1.c01.l02 |
-| अवग्रह | avagraha | the elision mark ऽ (marks a dropped अ) | अवग्रह | v1.c05.l05 |
+| अवग्रह | avagraha | the elision mark ऽ (marks a dropped अ); used: v3.c04.l01–l02, तेऽपि, कोऽपि | अवग्रह | v1.c05.l05 |
 | चन्द्रबिन्दु | candrabindu | the nasal-vowel sign ँ | चन्द्रबिन्दु | v1.c05.l05 |
 | दण्ड | daṇḍa | the sentence bar । (double ॥ closes a verse) | दण्ड (पूर्ण विराम-चिह्न) | v1.c05.l05 |
 | दीर्घ | dīrgha | long (vowel) | दीर्घ (लम्बा स्वर) | v1.c01.l04 |
@@ -53,8 +53,8 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | सन्ध्यक्षर | sandhyakṣara | junction vowel (e ai o au) | सन्ध्यक्षर (संयुक्त स्वर) | v1.c02.l04 |
 | वर्ण | varṇa | speech sound; letter | वर्ण (ध्वनि/अक्षर) | v1.c01.l02 |
 | विराम | virāma | the vowel-cancelling stroke ् | विराम | v1.c05.l01 |
-| विराम-रूप | virāma-rūpa | pause form — every word read and written whole in its full citation shape, unjoined (no sandhi); the course's reading protocol until Volume 3. Here विराम means "pause", not the ् stroke | विराम-रूप | v1.c03.l02 |
-| विसर्ग | visarga | the breath sign ः | विसर्ग | v1.c02.l06 |
+| विराम-रूप | virāma-rūpa | pause form — every word read and written whole in its full citation shape, unjoined (no sandhi); the course's reading protocol until v3.c04.l04; = the tradition's पदपाठ idea, printed beneath joined text from v3.c04.l04. Here विराम means "pause", not the ् stroke | विराम-रूप | v1.c03.l02 |
+| विसर्ग | visarga | the breath sign ः; the pause shape of a final स्/र्; its seams: v3.c04.l02 | विसर्ग | v1.c02.l06 |
 | वर्णमाला | varṇamālā | the Sanskrit sound inventory ("garland of sounds") | वर्णमाला | v1.c01.l02 |
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |
 | वर्ग | varga | class — one of the five stop rows, named by its first letter: क-वर्ग … प-वर्ग | वर्ग | v1.c01.l02 |
@@ -64,7 +64,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | संज्ञा | saṃjñā | technical term, name — the label for each lesson's key term (संयुक्ताक्षरम्, संवादः); in Hindi grammar also "noun" | संज्ञा (पारिभाषिक नाम; हिन्दी व्याकरण में नाम-शब्द) | v1.c05.l02 |
 | विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun (विशेष्यम्) in gender, number and case (taught in v3.c02) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
 | आत्मनेपद | ātmanepada | the tradition's name for the "middle voice" — Sanskrit's second family of verb endings (रोचते, लभते; system: v3.c03.l02; ubhayapada v4.c03) | आत्मनेपद — क्रिया के अन्त-चिह्नों का दूसरा परिवार | v2.c05.l03 |
-| सन्धि | sandhi | joining — the regular sound-changes where words meet (system: Volume 3) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
+| सन्धि | sandhi | joining — the regular sound-changes where words meet (system: v3.c04.l01–l04) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
 | कर्ता | kartā | the doer — in Pāṇini's grammar the kāraka of the one who acts (v3.c01.l01); Volume 1's rough label "subject" | कर्ता (क्रिया करने वाला) | v1.c06.l03 |
 | कर्म | karma | the done-to, and the goal of motion — in Pāṇini's grammar the kāraka of what the doer acts on or goes to (v3.c01.l01); Volume 1's rough label "object"; as a word also "action, deed" | कर्म | v1.c06.l03 |
 | विभक्ति | vibhakti | case; a case ending — seven numbered cases and the vocative, eight forms in the singular (v3.c01) | विभक्ति (वाक्य में संज्ञा का काम दिखाने वाला रूप) | v2.c02.l04 |
@@ -101,6 +101,20 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | लोट् | loṭ | the imperative, the request mood (गच्छ, गच्छतु) | लोट् (आज्ञा और अनुरोध का रूप, आज्ञार्थ) | v3.c03.l04 |
 | विधिलिङ् | vidhiliṅ | the optative, the "should" mood (गच्छेत्) | विधिलिङ् ('चाहिए' वाला रूप: विधि, सलाह, इच्छा) | v3.c03.l04 |
 | निषेधः | niṣedhaḥ | prohibition: मा + imperative (मा गच्छ) | निषेध (मना करना) | v3.c03.l04 |
+| स्वरसन्धिः | svarasandhiḥ | vowel sandhi: the joins where a word-final vowel meets a word-initial vowel | स्वर-सन्धि | v3.c04.l01 |
+| सवर्णदीर्घः | savarṇadīrghaḥ | like vowels → one long (6.1.101): न + अस्ति → नास्ति | दीर्घ (सवर्णदीर्घ) सन्धि | v3.c04.l01 |
+| गुणः | guṇaḥ | the guṇa grade (ए, ओ, अर्): अ/आ + इ, उ, ऋ (6.1.87); also the strengthened vowel inside गुरवे | गुण | v3.c04.l01 |
+| वृद्धिः | vṛddhiḥ | the vṛddhi grade (ऐ, औ, आर्): अ/आ + ए, ऐ, ओ, औ (6.1.88) | वृद्धि | v3.c04.l01 |
+| यण् | yaṇ | इ/उ/ऋ → य्/व्/र् before an unlike vowel (6.1.77): इति अवदत् → इत्यवदत् | यण् | v3.c04.l01 |
+| अयादि | ayādi | ए/ऐ/ओ/औ → अय्/आय्/अव्/आव् before a vowel (6.1.78); at a word end -ए → अ + gap, -ऐ → आ + gap | अयादि | v3.c04.l01 |
+| पूर्वरूपम् | pūrvarūpam | the अ merged into a word-final ए/ओ, marked ऽ (6.1.109): ते अपि → तेऽपि | पूर्वरूप | v3.c04.l01 |
+| प्रगृह्यम् | pragṛhyam | a vowel that never joins: the dual in -ई, -ऊ, -ए (1.1.11): द्वे बालिके अत्र | प्रगृह्य | v3.c04.l01 |
+| विसर्गसन्धिः | visargasandhiḥ | visarga sandhi: the joins of a word-final ः | विसर्ग-सन्धि | v3.c04.l02 |
+| व्यञ्जनसन्धिः | vyañjanasandhiḥ | consonant sandhi at word edges (schoolbooks print व्यंजन संधि; the course writes the GLOSSARY spelling) | व्यञ्जन-सन्धि | v3.c04.l03 |
+| संहिता | saṃhitā | joined text, the closest contact of sounds (1.4.109); a collection of Vedic hymns; as an ordinary word "union", a ledger headword of v3.c04.l04 | संहिता | v3.c04.l04 |
+| पदपाठः | padapāṭhaḥ | the word-by-word (pause-form) text of the Vedic tradition; the course's pause form is the same idea | पदपाठ | v3.c04.l04 |
+| पदच्छेदः | padacchedaḥ | splitting a joined text into its words: the six-step method | पदच्छेद | v3.c04.l04 |
+| अवसानम् | avasānam | the pause, "stopping" (1.4.110); as an ordinary word "end", a ledger headword of v3.c04.l04 | अवसान (विराम) | v3.c04.l04 |
 
 ## Course meta-vocabulary
 

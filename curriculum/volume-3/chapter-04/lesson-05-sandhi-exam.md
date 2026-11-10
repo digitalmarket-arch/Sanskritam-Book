@@ -171,8 +171,8 @@ read the saṃhitā first and the padapāṭha beneath it. Pāṇini's names for
 and अवसानम्, are lesson 4's (l04 §8), and §19 asks for one of the tradition's names in the
 form "According to …".
 
-> **[TRADITION · परम्परा]** Hindi school grammar sorts these joins under three heads, स्वर
-> सन्धि, व्यंजन सन्धि and विसर्ग सन्धि, and the vowel joins under five names — दीर्घ, गुण,
+> **[TRADITION · परम्परा]** Hindi school grammar sorts these joins under three heads,
+> स्वर-सन्धि, व्यञ्जन-सन्धि and विसर्ग-सन्धि, and the vowel joins under five names — दीर्घ, गुण,
 > वृद्धि, यण्, अयादि — the same five the Pāṇinian tradition uses; the tradition's पूर्वरूपम् and
 > प्रगृह्यम् are names Hindi school grammar does not need for Hindi words. [REF:guru1952]
 
@@ -625,7 +625,7 @@ sound after it. Every cell is ✓ unless it is marked.
 
 | Before … | -अः | -आः | other vowel + ः: -इः -उः -एः -ऐः -ओः | r-finals after अ/आ: पुनः, प्रातः, अन्तः |
 |---|---|---|---|---|
-| क ख प फ, or a pause | ः stays — रामः करोति · व्याधः क्रुद्धः · पुनः पुनः | ः — छात्राः पठन्ति | ः — गुरुः पठति | ः — प्रातः पठति |
+| क ख प फ, or a pause | ः stays — रामः करोति · व्याधः क्रुद्धः | ः — छात्राः पठन्ति | ः — गुरुः पठति | ः — प्रातः पठति · पुनः पुनः |
 | च छ | श् — रामश्च · कालश्च · ईकारश्च | -आश्च — दन्ताश्च | -इश्च — हरिश्च · गुरुश्च | -श्च — पुनश्च |
 | ट ठ | ष् — named once, not drilled | -आष्- | -इष्- | -ष्- |
 | त थ | स् — नमस्ते · कस्त्वम् · व्याधस्तत्र | -आस्त- — कपोतास्तत्र · नद्यास्तीरे | -इस्त- — हरिस्तत्र · बहिस्तिष्ठति | -स्त- — पुनस्तत्र · अन्तस्तिष्ठति |
@@ -694,7 +694,8 @@ In this course, a joined line is taken back into its words by a fixed order of c
 (1) stops first — every daṇḍa, "?", "!", dash, quotation mark and comma, across which no
 seam runs; (2) the spaces — undo the word before each (ं → -म्; a final -ओ before a voiced
 consonant → -अः; a final -अ before a vowel → -अः or -ए; स or एष before a consonant → सः,
-एषः; a final -आ before a voiced sound → -आः, or -ऐ before a vowel); (3) the signs inside a
+एषः; a final -आ before a voiced sound → -आः, or before a consonant a word in -आ, or -ऐ before
+a vowel); (3) the signs inside a
 written block — ऽ, then र्, श्, स् at a likely boundary, then a consonant + vowel, then the
 conjunct seams, then the vowel fusions; (4) candidates — every pause-form pair that could
 give the seam; (5) choose — both halves real words, fitting the sentence; (6) check —
@@ -895,7 +896,8 @@ house too" · 7. द्वे फले अत्र · 8. रामः च · 9
 **कार्यम् C · पठनम् (read aloud the Volume 2 crow story, joined — production, spoken,
 recorded).** Seven minutes: two minutes' silent reading, then the reading, recorded. The text is
 v2.c06.l01 §17 — ten lines and the moral — joined at every seam by the rules of lessons 1–3:
-the join you made yourself in l04 exercise 7, first seen here in print. The booklet prints the
+the join you made yourself in l04 exercise 7, printed whole here for the first time (lines 5, 8
+and 9 stood as model sentences in l03 §13 and l04 §13). The booklet prints the
 joined lines only; their pause forms are in §19's key, which you open after the sitting.
 
 1. एकः काकोऽस्ति। (ekaḥ kāko 'sti.)
@@ -1072,11 +1074,11 @@ exercise 7 (compare after the sitting, §21 item 6):
     बुद्धिः एव बलम्। (buddhiḥ eva balam.)
     "Intelligence itself is strength." — बुद्धि ही बल है।
 
-The seams, by lesson: -अः + अ → ओऽ (काकोऽस्ति, पिपासितोऽस्ति; l02); सः before a consonant → स
-(6.1.132; l02); सः before ए → स (the -अः rule before a vowel other than अ; l02); -म् + vowel
-joined, -म् + consonant → ं (l03); -ए + अ → एऽ (घटेऽल्पम्; l01); इ + आ → या (उपर्यागच्छति;
-l01); -इः + vowel → -इर् (बुद्धिरेव; l02); -अः before क and प stays (एकः काकः, पुनः पुनः; l02);
-पुनः is an r-final, and before प it is ः (l02). No seam of the text is ◐. Scored by the rubric of
+The seams, by lesson: -अः + अ → ओऽ [काकोऽस्ति, पिपासितोऽस्ति · l02]; सः before a consonant → स
+[6.1.132 · l02]; सः before ए → स [the -अः rule before a vowel other than अ · l02]; -म् + vowel
+joined, -म् + consonant → ं [l03]; -ए + अ → एऽ [घटेऽल्पम् · l01]; इ + आ → या [उपर्यागच्छति ·
+l01]; -इः + vowel → -इर् [बुद्धिरेव · l02]; -अः before क stays [एकः काकः · l02]; पुनः is an
+r-final, and before प it is ः [पुनः पुनः · l02]. No seam of the text is ◐. Scored by the rubric of
 §18 and §22, /10, pass 6.
 
 D — the five sentences, in the order played, each joined as heard, then its pause form:

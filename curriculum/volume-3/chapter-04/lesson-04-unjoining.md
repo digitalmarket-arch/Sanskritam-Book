@@ -78,7 +78,7 @@ objective 4 in §15 (inside a word), tested in §18 (exercise 5) and §19 (Q9, Q
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, lesson 3's +1-day and lesson 2's
-+1-week. Then three memory prompts. Everything from memory *before* any key opens: in the one
++1-week. Then four memory prompts. Everything from memory *before* any key opens: in the one
 claim this course makes for it, retrieval practice beats re-reading for long-term retention
 [REF:roediger2006].
 
@@ -119,6 +119,9 @@ backwards, from गुरुर्वदति to गुरुः वदति.
    are joined.
 2. From v2.c06.l03: the three sayings — which of them has a seam between two words?
 3. From v3.c02.l01: why रामेषु, but बालिकासु?
+4. From v3.c01.l03, v3.c02.l03 and v3.c03.l01: say रामेण, गुरवे and करोषि, and give the case
+   of the first two and the person of the third. From v2.c06.l01: how does the crow story
+   end? From v3.c04.l01: name the rule of एकदैकः.
 
 <details><summary>उत्तराणि · Answers</summary>
 
@@ -131,6 +134,10 @@ backwards, from गुरुर्वदति to गुरुः वदति.
    has its seam inside the compound (पर-उपकारः, गुणः, lesson 1).
 3. A स of an ending becomes ष after a vowel other than अ or आ: रामे-सु gives रामेषु, बालिका-सु
    keeps स. Today §15 names that change; Volume 4 teaches it.
+4. रामेण — तृतीया, "by Rāma"; गुरवे — चतुर्थी, "to the teacher"; करोषि — मध्यमः पुरुषः,
+   एकवचनम्, "you do". Each holds a change inside the word that §15 names. The crow story ends
+   with its moral, बुद्धिः एव बलम् — exercise 7 joins the whole story. एकदा + एकः → एकदैकः:
+   वृद्धिः, lesson 1 (l01 §17 line 7).
 </details>
 
 A slip in item 1 sends you to v3.c04.l03 §15 Steps 1–5 tonight; a slip in item 2, to the
@@ -606,7 +613,7 @@ the start of the track).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| पदम् | padam | /pɐd̪ɐm/ | word (an inflected word); step, foot | पद, शब्द; कदम | ledger-new — n. a-stem; Apte s.v. पदम्, sense 1 "A foot", later senses "a step", "a word"; MW s.v. pada "a word or an inflected word or the stem of a noun in the middle cases and before some Taddhitas"; the course's sense: "a word as it stands in a sentence" — beside the owned शब्दः "word; sound" (v3.c01.l04) |
+| पदम् | padam | /pɐd̪ɐm/ | word (an inflected word); step, foot | पद, शब्द; कदम | ledger-new — n. a-stem; Apte s.v. पदम्, sense 1 "A foot", sense 2 "A step, pace, stride", sense 10 "A complete or inflected word"; MW s.v. pada "a word or an inflected word or the stem of a noun in the middle cases and before some Taddhitas"; the course's sense: "a word as it stands in a sentence" — beside the owned शब्दः "word; sound" (v3.c01.l04) |
 | वाक्यम् | vākyam | /ʋɑːkjɐm/ | sentence; speech, words | वाक्य | ledger-new — n. a-stem; Apte s.v. वाक्यम् "Speech, words, a sentence, saying" |
 | सन्धिः | sandhiḥ | /sɐn̪d̪ʱih/ | joining, union; (in grammar) sandhi | सन्धि, जोड़ | ledger-new — m. i-stem, declined like अग्निः (v3.c02.l03); Apte s.v. संधिः "Union, junction, combination, connection"; MW s.v. saṃdhi; the technical sense is the GLOSSARY row सन्धि |
 | अवसानम् | avasānam | /ɐʋɐsɑːn̪ɐm/ | stopping, end; (in grammar) the pause | अन्त, विराम | ledger-new — n. a-stem; Apte s.v. अवसानम् "Stopping. Conclusion, termination"; the grammar sense by 1.4.110 (§8) |
@@ -1077,6 +1084,15 @@ rests on 8.4.1 रषाभ्यां नो णः समानपदे and 
 [REF:ashtadhyayi 8.4.2]; the ṣ on 8.3.59 आदेशप्रत्यययोः [REF:ashtadhyayi 8.3.59]. Learner text
 says only "According to Pāṇini these changes have rules of their own".
 
+**The 1.x ṣatva/ṇatva page (p. 72), re-derived.** Nothing from it is carried. (1) It gives one
+trigger list for both changes; for ṇ the triggers are only र, ऋ, ॠ and ष in the same word
+[REF:ashtadhyayi 8.4.1] [REF:whitney1889 §189], for ṣ a vowel other than अ/आ, or क् or र्
+[REF:whitney1889 §180]. (2) It credits the ण of रामेण to an इ; the trigger is the र of राम, and
+the आ, म, ए between do not block [REF:ashtadhyayi 8.4.2]. (3) Its ब्रह्मन् + अस्ति → ब्रह्माणि is
+no seam: ब्रह्माणि is a case form of the neuter ब्रह्मन्. (4) Its हरेस् + सुत → हरेष्षुत is no ṣ
+change: a word-final स् is never made ष् [REF:whitney1889 §180], and the सु of the next word is
+untouched. Its रामस्य, no change after अ, and its text of 8.4.2 are right.
+
 **The Nirukta passage.** §4's TRADITION line rests on the GRETIL e-text of the Nirukta, based
 on Sarup's edition (6.28: *veti ca ya iti ca cakāra śākalyaḥ / udāttaṃ tv evam ākhyātam
 abhaviṣyad asusamāptaś cārthaḥ*) [REF:nirukta 6.28]; the verse discussed, *vane na vāyo
@@ -1089,9 +1105,11 @@ In printed texts, especially European, it is ordinarily applied" to mark the eli
 or ओ [REF:whitney1889 §16]. If a learner brings a text without ऽ, step 3 still works: a final
 -ओ or -ए written into a following consonant-initial word is the place to look.
 
-**The exam guard.** The sandhi exam's task C is the Volume 2 crow story printed joined. Do
-not read that joined text in class, and do not check exercise 7 for the learner: the
-learner's own join is checked against the printed text after the sitting.
+**The exam guard.** The sandhi exam's task C is the Volume 2 crow story printed joined. Three
+of its lines are already the course's models — line 8 is l03 §13 sentence 2, lines 9 and 5 are
+§13 models 1–2 here, and line 9 opens today's dictation — and they stay. Read no other line of
+it joined in class, and do not check exercise 7 for the learner: the learner's own join is
+checked against the printed text after the sitting.
 
 **Reward the list.** In exercise 1 and in every spoken split, ask for the candidates before
 the choice. A learner who writes "वृक्षः / वृक्षे" and picks wrongly has done the method; a

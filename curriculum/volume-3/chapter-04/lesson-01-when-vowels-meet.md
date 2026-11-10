@@ -77,8 +77,8 @@ dictation).
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, v3.c03.l05's +1 day and
-v3.c03.l04's +1 week. Then three memory prompts, each from a lesson whose joined word today
-opens. Everything from memory *before* any key opens: in the one claim this course makes
+v3.c03.l04's +1 week. Then four memory prompts, each from lessons whose joined words today
+open. Everything from memory *before* any key opens: in the one claim this course makes
 for it, retrieval practice beats re-reading for long-term retention [REF:roediger2006].
 
 ### Station 0 — the exam's +1-day and lesson 4's +1-week arrive
@@ -91,7 +91,7 @@ v3.c03.l04 §20 booked the second:
 
 - +1 week: the request role-play — a guest at a teacher's door, played with a partner in both roles: three requests with भवान् and the 3rd person (आगच्छतु भवान्), two with the 2nd person (उपविश!), one prohibition with मा; v3.c04.l01's Station 0 runs exactly this.
 
-Run exactly those two — six minutes — then the three prompts below (one minute) and a minute
+Run exactly those two — six minutes — then the four prompts below (one minute, aloud) and a minute
 to log the scores beside the Chapter 3 scores, about eight minutes in all [REF:cepeda2006].
 
 1. **Five verbs, four lakāras (3 min).** Copy the frame and fill it without notes; then say
@@ -127,9 +127,13 @@ to log the scores beside the Chapter 3 scores, about eight minutes in all [REF:c
 1. From v2.c01.l04: what does नास्ति say, word by word?
 2. From v1.c05.l05: what does ऽ mark in सोऽहम्?
 3. From v3.c02.l03: what happens to the last vowel of गुरु in गुरवे?
+4. Say the two pieces you hear inside each of these owned shapes: v1.c06.l01's विद्यालयः,
+   v1.c04.l03's हिमालयः, v1.c05.l02's स्वागतम्, v2.c06.l03's परोपकारः, v2.c05.l02's
+   नावगच्छामि, v2.c06.l02's सिंहस्योपरि and v3.c03.l03's न्यवसत्. Then: v1.c02.l04–l05 said
+   that ए and ओ arose from two vowels each — which two? And what does v3.c02.l04's नयनम् mean?
 
-The keys to the three prompts are in §19's answer key, under "Previous-lesson prompts".
-Hold your answers: §8 Step 3 uses all three.
+The keys to the four prompts are in §19's answer key, under "Previous-lesson prompts".
+Hold your answers: §8 Step 3 and §15 use all four.
 
 ## 4. Historical Context
 
@@ -207,6 +211,7 @@ bookings (§20) follows the course's one claim for it: spaced review helps reten
 and then **joined so far**: only today's vowel seams are joined.
 
 > **अद्य सूर्य-उदये अहम् विद्यालयम् गच्छामि।** — pause form
+> (adya sūrya-udaye aham vidyālayam gacchāmi.)
 >
 > **अद्य सूर्योदयेऽहम् विद्यालयम् गच्छामि।** — joined so far
 > (adya sūryodaye 'ham vidyālayam gacchāmi.) "Today at sunrise I go to school." — आज सूर्योदय
@@ -297,6 +302,7 @@ A guest at the door, the morning sun, the school. A line in pause form, the way 
 has printed every line until today:
 
 > **नमस्ते! स्वागतम्! अद्य सूर्य-उदये अहम् विद्यालयम् गच्छामि।** — pause form
+> (namaste! svāgatam! adya sūrya-udaye aham vidyālayam gacchāmi.)
 >
 > **नमस्ते! स्वागतम्! अद्य सूर्योदयेऽहम् विद्यालयम् गच्छामि।** — joined so far
 > (namaste! svāgatam! adya sūryodaye 'ham vidyālayam gacchāmi.) "Hello! Welcome! Today at
@@ -504,33 +510,39 @@ mouth icon: jaw open for आ, the tongue rising for य्, the lips rounding fo
 English and Hindi.
 
 > **अत्र जलम् न अस्ति।** — pause form
+> (atra jalam na asti.)
 >
 > **अत्र जलम् नास्ति।** — joined so far
 > (atra jalam nāsti.) "There is no water here." — यहाँ पानी नहीं है।
 
 > **सूर्य-उदये बालकाः विद्यालयम् गच्छन्ति।** — pause form
+> (sūrya-udaye bālakāḥ vidyālayam gacchanti.)
 >
 > **सूर्योदये बालकाः विद्यालयम् गच्छन्ति।** — joined so far
 > (sūryodaye bālakāḥ vidyālayam gacchanti.) "At sunrise the boys go to school." — सूर्योदय
 > पर लड़के विद्यालय जाते हैं।
 
 > **एकः मूषकः सिंहस्य उपरि चलति।** — pause form
+> (ekaḥ mūṣakaḥ siṃhasya upari calati.)
 >
 > **एकः मूषकः सिंहस्योपरि चलति।** — joined so far
 > (ekaḥ mūṣakaḥ siṃhasyopari calati.) "A mouse walks over the lion." — एक चूहा शेर के ऊपर
 > चलता है।
 
 > **सदा एव सत्यम् वदेत्।** — pause form
+> (sadā eva satyam vadet.)
 >
 > **सदैव सत्यम् वदेत्।** — joined so far
 > (sadaiva satyam vadet.) "One should always speak the truth." — सदा ही सच बोलना चाहिए।
 
 > **सु-आगतम्!** — pause form
+> (su-āgatam!)
 >
 > **स्वागतम्!** — joined
 > (svāgatam!) "Welcome!" (literally "well come") — स्वागत है!
 
 > **ते अपि आगच्छन्ति।** — pause form
+> (te api āgacchanti.)
 >
 > **तेऽप्यागच्छन्ति।** — joined so far
 > (te 'py āgacchanti.) "They come too." — वे भी आते हैं।
@@ -545,6 +557,21 @@ Sentence 3 is line 2 of the Volume 2 lion story (v2.c06.l02), which printed it i
 form. Sentence 6 has two seams inside one written block: ते + अपि by पूर्वरूपम्, then अपि +
 आगच्छन्ति by यण्. Sentence 7 shows the dual that never joins: बालिके "the two girls" is
 pragṛhya (1.1.11).
+
+### Carried from the 1.x book
+
+Two worked seams of the 1.x book (pp. 41–42) are built only from words you own. Both
+re-derive by today's map: the first by §15 Step 1, two a-vowels → आ; the second by Step 2,
+अ + उ → ओ. Each is one compound word, so its members are hyphenated in the pause form.
+
+| पदपाठः | IAST | संहिता | IAST |
+|---|---|---|---|
+| देव-आलयः | deva-ālayaḥ | देवालयः | devālayaḥ |
+| सूर्य-उदयः | sūrya-udayaḥ | सूर्योदयः | sūryodayaḥ |
+
+देवालयः is "a temple", literally "the gods' dwelling": the owned देव and today's आलयः. Like
+विद्यालयः it is transparent and built from owned members, so it adds 0 to the ledger (§14,
+rule 10). सूर्योदयः is the noun of sentence 2, which uses it in the locative, सूर्योदये.
 
 ## 14. Vocabulary
 
@@ -562,7 +589,7 @@ Step 8): सवर्णदीर्घः with आ and ई · गुणः with
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | आलयः | ālayaḥ | /ɑːlɐjɐh/ | dwelling, abode, house | आलय, निवास | ledger-new — m. a-stem; the member of the owned विद्यालयः, हिमालयः counts now, as its own headword (ledger rule 10) — Apte s.v. आलयः "An abode, a house, a dwelling" |
-| उदयः | udayaḥ | /ud̪ɐjɐh/ | rising (of the sun, of a star) | उदय | ledger-new — m. a-stem; in सूर्योदयः, चन्द्रोदयः — MW s.v. udaya "going up, rising"; Apte s.v. उदयः |
+| उदयः | udayaḥ | /ud̪ɐjɐh/ | rising (of the sun, of a star) | उदय | ledger-new — m. a-stem; in सूर्योदयः, चन्द्रोदयः — MW s.v. udaya "going up, rising"; Apte s.v. उदय, the m. noun: "Rise … going upwards, ascending (as of the sun, stars &c.)" |
 | ईशः | īśaḥ | /iːɕɐh/ | lord, master | ईश, स्वामी | ledger-new — m. a-stem; in गणेशः, from गण-ईशः — Apte s.v. ईश "master or lord of"; MW s.v. īśa "a ruler, master, lord" |
 | इव | iva | /iʋɐ/ | like, as if | जैसे, की तरह | ledger-new — indeclinable, enclitic: never first in its clause (अग्निः इव "like fire", §16 turn 6); इति इव → इतीव — Apte s.v. इव "Like, as (showing upamā or comparison)" |
 | एव | eva | /eːʋɐ/ | only, just, indeed (stressing the word before it) | ही | ledger-new — indeclinable, enclitic; a display word through Volume 2 and v3.c01–c03 (v3.c03.l02 §13: "until v3.c04.l01 makes it a headword"); in सदैव, तत्रैव, गृह एव — MW s.v. eva "just, exactly, very, same, only, even, alone" |
@@ -1078,6 +1105,10 @@ them; then write each one joined so far. Model: अहम् अद्य तत
    तेऽपि; the ओऽ of सोऽहम् is lesson 2's.
 3. The उ is strengthened and, before the ending -ए, appears as अव्: गुरु + ए → गुरवे. The
    strengthening is the guṇa grade, named today (§15 Step 2, Step 9).
+4. विद्या-आलयः · हिम-आलयः · सु-आगतम् · पर-उपकारः · न अवगच्छामि · सिंहस्य उपरि · नि-अवसत्.
+   ए arose from a + i and ओ from a + u, as v1.c02.l04–l05 said; at a seam today that meeting
+   is गुणः, §15 Step 2. नयनम् is "eye"; its inner seam is §15 Step 9's. §8 Step 3 and §15 name
+   the rule of each shape.
 
 **Exercise keys.**
 
@@ -1188,7 +1219,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 times. Somewhere around the fourth time it becomes नास्ति. Then write नास्ति under it and ask
 where v2.c01.l04 said the rule would be taught. The whole lesson is that move, seven times.
 
-**Timing plan (45 min):** Station 0, two items, and the three §3 prompts, scores logged (8)
+**Timing plan (45 min):** Station 0, two items, and the four §3 prompts, scores logged (8)
 → the scene and the question (3) → the evidence table from the class's memory (6) → the
 pattern named, the Hindi names (4) → the vowel map assembled in pairs, checked against §15
 Step 8 (6) → the seven sūtras read once each at their rows (4) → production: exercise 1,
@@ -1230,11 +1261,17 @@ inner-word sandhi as rules (v4.c02); Vedic and optional exceptions (Whitney §§
 *पितरौ अपि apart, the fix is अयादि, पितरावपि. भवति = भो + अति is named in lesson 4, with the
 other inner-word changes; leave it alone today.
 
-**The 1.x vowel-sandhi pages.** The 1.x book's worked examples on vowel sandhi (pp. 37–43)
-are not printed here until Pass C has re-derived each against §15 Step 8; correct examples
-built from owned words can be added to §13 or §18, and wrong ones are listed here with their
-correction. The one correction made in learner text now is IR-017: इको यणचि is 6.1.77, not
-1.1.45 (§15 Step 4).
+**The 1.x vowel-sandhi pages, re-derived.** The 1.x book's vowel-sandhi examples stand on
+pp. 41–42 (pp. 37–40 teach cases and verbs). Correct and carried into §13, being built from
+owned words: देव + आलय → देवालय and सूर्य + उदय → सूर्योदय, the second already sentence 2 and
+§15 Step 2. Correct but not carried: सुर + इन्द्र → सुरेन्द्र, whose members are not owned.
+Wrong, with the correction: (1) the info card heads देव + आलय with the rule अ + अ = आ; the
+seam is अ + आ, and the rule covers any two a-vowels, short or long [REF:ashtadhyayi 6.1.101]
+[REF:whitney1889 §126]; (2) the memory card defines वृद्धि as आ + इ/उ, giving आ + इ = ऐ and
+आ + उ = औ; आ + इ gives ए and आ + उ gives ओ, which is guṇa [REF:ashtadhyayi 6.1.87], and vṛddhi
+is अ/आ + ए/ऐ → ऐ, + ओ/औ → औ [REF:ashtadhyayi 6.1.88] [REF:whitney1889 §127]. Its quiz keys
+are right: देवालय, सूर्योदय and अ + ऋ = अर्. The one correction made in learner text is IR-017
+(1.x p. 71): इको यणचि is 6.1.77, not 1.1.45 (§15 Step 4).
 
 **The serial.** Episode 4 re-reads lines already printed; it adds no departure from the
 Hitopadeśa. The lines keep every departure their lessons state: the mouse's hole beside
@@ -1400,7 +1437,7 @@ narrator reads the cue, not the English spelling.
   cited bare (Kachru for the Hindi facts of §5 only); the evidence-table loci (table 0.F)
   re-found by grep; every §17 pause line re-diffed against its source §17 (v3.c01.l02,
   v3.c01.l04, v3.c02.l04, v3.c03.l02, v3.c03.l03, v3.c03.l04); the 1.x pp. 37–43 examples
-  (row 0.28a, §22); the headwords against Apte and MW as cited in §14 (Apte's noun sense of
+  (row 0.28a, §22; done, 2026-11-10: re-derived, two carried into §13, errors listed in §22); the headwords against Apte and MW as cited in §14 (Apte's noun sense of
   उदयः to be quoted); the Hindi of every gloss, objective and of §7, §16 at Pass B.
 - **Register audit:** FACT ×11 (§5 Whitney §125, the Hindi tatsama fact · §15 scope and
   order, Steps 1–7 one each, Step 10 the heuristic) · HISTORY ×1 (§4 the avagraha in

@@ -76,7 +76,7 @@ Q10); objective 4 in §9–§11, §16 and §17, §18 (exercise 6, the dictation,
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, lesson 2's +1-day and lesson 1's
-+1-week. Then three memory prompts. Everything from memory *before* any key opens: in the one
++1-week. Then four memory prompts. Everything from memory *before* any key opens: in the one
 claim this course makes for it, retrieval practice beats re-reading for long-term retention
 [REF:roediger2006].
 
@@ -107,6 +107,10 @@ it, and say why.
 2. From v2.c01.l02: "all is well" — say it in pause form, then as joined print shows it.
 3. From v1.c06.l04: the benediction's last quarter printed कश्चिद् and दुःखभाग्. What are the
    pause forms of the two words?
+4. From v2.c03.l02: the title षडादिदशान्ताः — say its first number in pause form. From
+   v1.c06.l01: which nasal stands before the stop in गङ्गा, and which in पञ्च? From v1.c01.l01:
+   how is the final m of *aham* written before a consonant? From v1.c05.l01: what does वाक्
+   mean? From v2.c06.l01: say the crow story's moral in pause form.
 
 <details><summary>उत्तराणि · Answers</summary>
 
@@ -122,6 +126,10 @@ it, and say why.
 1. परिवारः जगत् च. Hold it: §8 asks why जगत् became जगच्.
 2. सर्वम् कुशलम् — and joined: सर्वं कुशलम्. Hold the dot: §8 Step 5 explains it.
 3. कश्चित् and दुःखभाक्. The द् and the ग् you saw were seams, and today you meet the rule.
+4. षट् "six": the title's षड् is §8's question. ङ् before ग, ञ् before च — the nasal of the
+   next stop's row; §15 Step 2 takes that choice across a word boundary. With the anusvāra,
+   *ahaṃ*: अहं. वाक् "speech" — §4's वागत्र. बुद्धिः एव बलम् — its -इः before a vowel is
+   lesson 2's र्.
 </details>
 
 A slip in item 1 sends you back to lesson 2's visarga map, the -अः column, tonight; a slip in
@@ -538,8 +546,8 @@ margin of rows 1, 3, 5 and 9.
    and किङ्करोति are correct — according to Pāṇini the class nasal there is optional; inside a
    word the course writes the class nasal (गङ्गा, पञ्च), and the dot is the convenience
    spelling (v1.c06.l01).
-7. **The Hindi schwa habit at the seam: जगच्च said *jagacc*, तदपि said *tadap*.** A Hindi
-   speaker drops the last अ. *Fix:* the joined word keeps every अ — /d͡ʑɐgɐt͡ɕt͡ɕɐ/,
+7. **The Hindi schwa habit at the seam: जगच्च said *jagacc*, तदपि said *tadpi*.** A Hindi
+   speaker drops a final or a medial short अ. *Fix:* the joined word keeps every अ — /d͡ʑɐgɐt͡ɕt͡ɕɐ/,
    /t̪ɐd̪ɐpi/ (STYLE_GUIDE §1.1). The seam changed a consonant, never a vowel.
 
 ## 13. Examples
@@ -613,7 +621,7 @@ after a long vowel · written together.
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | दिक् | dik | /d̪ik/ | direction, quarter (of the sky) | दिशा | ledger-new — f.; stem दिश् (diś); rule 14: counted by its nominative; its faces दिक्, दिग्- (दिगपि); the consonant-stem declension is v4.c05; only the nominative is used — Apte s.v. दिश् f. "(Nom. sing. दिक्-ग्) A direction, cardinal point, point of the compass, quarter of the sky" |
-| सम्यक् | samyak | /sɐmjɐk/ | properly, rightly, well | ठीक से, भली-भाँति | ledger-new — indeclinable (adverb); final क्: सम्यगवगच्छामि, सम्यक्पठसि — MW s.v. samyañc / samyak "correctly, truly, properly, well"; Apte s.v. सम्यच् / सम्यक् (Pass C quotes) |
+| सम्यक् | samyak | /sɐmjɐk/ | properly, rightly, well | ठीक से, भली-भाँति | ledger-new — indeclinable (adverb); final क्: सम्यगवगच्छामि, सम्यक्पठसि — MW s.v. samyañc / samyak "correctly, truly, properly, fitly, in the right way or manner, well, duly"; Apte s.v. सम्यच्, ind. सम्यक् "Well, properly, rightly, correctly, truly" |
 | नाथः | nāthaḥ | /n̪ɑːt̪ʰɐh/ | protector, lord | स्वामी, रक्षक, नाथ | ledger-new — m. a-stem; in जगन्नाथः, a ◐ seam (§15 Step 6) — Apte s.v. नाथः "A lord, master, protector, leader" |
 | धीमान् | dhīmān | /d̪ʱiːmɑːn̪/ | wise, intelligent | बुद्धिमान् | ledger-new — adj., nominative (stem धीमत्); rule 14: counted by its m. nominative, used in the nominative only (its R6 card is c05.l01); final न् after a long vowel: धीमानपि, धीमान्बालकः — Apte s.v. धीमत् "Wise, intelligent, learned" |
 
@@ -1231,7 +1239,7 @@ river bank (c02); the parents in the net and the king's rule in the optative (c0
 printing rule: the pause form never stands between a Devanagari line and its IAST.
 
 **Differentiation.** Hindi-medium learners hear the anusvāra and the voicing at once but drop
-the final अ of जगच्च and तदपि: give them §9 Drill 3 twice and §12 mistake 7. English speakers
+the final अ of जगच्च and the medial अ of तदपि: give them §9 Drill 3 twice and §12 mistake 7. English speakers
 apply the anusvāra everywhere once they have it (\*सत्यंएव): give them exercise 4 before
 exercise 3, and the sort card on the worksheet
 (`planned:assets/worksheets/volume-3/v3c04l03-consonant-seams.pdf`). Script-side learners
@@ -1388,7 +1396,7 @@ narrator reads the cue, not the English spelling.
   re-found by grep (v2.c02.l04, v2.c03.l02, v2.c01.l02, v1.c06.l04, v1.c01.l01, v1.c06.l01);
   संगीत / सङ्गीत is not printed in v1.c06.l01 (it prints गंगा / गङ्गा and पञ्च): the Hindi row
   cites v1.c06.l01 for the fact, not for the word; the headwords against Apte and MW as cited
-  in §14 (Apte s.v. सम्यच् to be quoted); [REF:guru1952] and [REF:kachru2006] cited bare; the
+  in §14 (Apte s.v. सम्यच् quoted at Pass C); [REF:guru1952] and [REF:kachru2006] cited bare; the
   Hindi of every gloss, objective and of §7, §16 at Pass B.
 - **Register audit:** FACT ×6 (§5 Whitney §159, §213, §161, the convenience spelling · §15
   Step 1 the map, Step 7 the Hindi row) · HISTORY ×0 · TRADITION ×5 (§4 the Kāśikā's वागत्र,
