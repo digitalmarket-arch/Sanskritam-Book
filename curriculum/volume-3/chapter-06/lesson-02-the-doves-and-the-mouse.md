@@ -1462,8 +1462,8 @@ reads the cue, not the English spelling.
   drafting); §15's साहाय्यम् paragraph against Apte s.v. सहायः and साहाय्यं, MW s.v. sahāya and
   sāhāyya, `mbh_01_u.htm` l. 18019 and `vispancu.htm` l. 2041; the labels' Whitney §1111;
   the headwords against Apte and MW as §14 cites them (Apte s.v. बंधन sense 3, नाना, शाल्मली quoted
-  at drafting; the सुहृत् sub-entry under सु located at drafting, "-hṛd … (m.) 1 a friend", to be
-  quoted by Pass C). **Settled:** H8 prints *bandhanāni chinnāni*; by 6.1.73 छे च a
+  at drafting; the सुहृत् entry, Apte's compound -hṛda under सु, quoted at review: "(m.) 1 a friend …
+  2 an ally"). **Settled:** H8 prints *bandhanāni chinnāni*; by 6.1.73 छे च a
   short final vowel before छ doubles it in full sandhi (बन्धनानि च्छिन्नानि), so the e-text leaves
   this seam unjoined, like महान् जम्बूपादपः; §22 says so in one line with the sūtra number, and
   §8's sentence that editions vary covers it for the learner. For the same reason exercise 2 asks its questions 5 and 6 with अकृन्तत्, and no

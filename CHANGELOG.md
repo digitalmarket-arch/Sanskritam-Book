@@ -147,9 +147,10 @@ compositions are written joined, with their pause form beneath.
   checkers, every finding challenged: 35 confirmed (16 major, 19 minor), 4 rejected; 60 fixes
   applied, 5 found already made, 9 duplicates between checkers. Twelve editor's decisions
   followed (its §7).
-- **REFERENCES:** `cowell1895` (the Jātaka translation), `iranica` (Encyclopaedia Iranica, two
-  articles) and `torzsok2007` (the Clay Sanskrit Library Hitopadeśa), each search-confirmed;
-  page not opened.
+- **REFERENCES:** `cowell1895` (the Jātaka translation) and `iranica` (Encyclopaedia Iranica, two
+  articles), each search-confirmed; page not opened. (`torzsok2007`, the Clay Sanskrit Library
+  Hitopadeśa, was entered and withdrawn at the chapter's Pass C: the estimate it was cited for
+  could not be confirmed.)
 
 ### Changed
 
@@ -168,9 +169,10 @@ compositions are written joined, with their pause form beneath.
   (Q8).
 - research/verification-log.md: how the Volume 4 plan was made and checked, and the rule
   that a chapter fact base corrects the plan where the plan is wrong.
-- **REFERENCES `hitopadesha`:** the entry keeps "c. 9th–12th c. CE" and adds, inside that
-  range, the estimate printed with `torzsok2007` (800–950 CE) and the oldest dated manuscript
-  known (1373 CE); the citation format names all five sections.
+- **REFERENCES `hitopadesha`:** the entry keeps "c. 9th–12th c. CE" (now "on the scholarly
+  estimate") and adds the oldest dated manuscript known (MS Add. 2564, 1373 CE); the citation
+  format names all five sections. A narrower 800–950 CE estimate was drafted and withdrawn at
+  the chapter's Pass C.
 - **Volume 4 plan, the Station 0 chain into Volume 4:** v4.c01.l01 runs the two items that
   v3.c06.l05 and v3.c06.l04 book for it, and v4.c01.l02 the third, as the v3.c06 fact base
   words them; the amendment is recorded in the plan's §7.6.

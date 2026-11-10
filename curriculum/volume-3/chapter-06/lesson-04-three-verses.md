@@ -91,7 +91,7 @@ beside the earlier ones [REF:cepeda2006].
 
 **Item 1 — from v3.c06.l03.** That lesson booked today's first station in one line:
 
-- +1 day: your own story opening — two first sentences of a story of your own, each with अस्ति, a place in the locative, X नाम Y and a verb in the present with स्म, written joined with the pause form beneath; v3.c06.l04's Station 0 runs exactly this.
+- +1 day: your own story opening — the first sentence of two stories of your own, each with अस्ति, a place in the locative, X नाम Y and a verb in the present with स्म, written joined with the pause form beneath; v3.c06.l04's Station 0 runs exactly this.
 
 Three minutes. Write both openings joined, the pause form beneath each. Then read them aloud
 and tick the four pieces in each: अस्ति, the place, the name with नाम, the verb with स्म. A

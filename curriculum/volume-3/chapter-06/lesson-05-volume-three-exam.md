@@ -617,7 +617,7 @@ Every line below was a promise made in an earlier lesson; this chapter kept it.
 | the speech frame "named in v3.c06.l02" (v3.c03.l01) | v3.c06.l02 |
 | the present + स्म and न्यविशत [v3.c03.l03] | v3.c06.l03 |
 | सम्भाषसे, धावति, शीघ्रम्, मा मैवं कुरु, भवान् … भक्षयतु [v3.c03.l01, l02, l04] | v3.c06.l02, l03 |
-| the serial's departures "on the record for v3.c06.l02" (the §22 of v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c03.l01–l03, v3.c05.l02, v3.c05.l04 and v3.c05.l05) | v3.c06.l02, Teacher Notes and §17 |
+| the serial's departures "on the record for v3.c06.l02" (the §22 of v3.c01.l03, v3.c02.l01, v3.c02.l03, v3.c02.l04, v3.c03.l01–l03, v3.c05.l02, v3.c05.l04 and v3.c05.l05) | v3.c06.l02, Teacher Notes and §17 |
 | Volume 2's "Volume 3 teaches the system" lines (v2.c06.l01–l03) | v3.c06.l01 (the two stories, no whole-word gloss for a taught form); v3.c06.l04 (Hit 0.36) |
 | the 1.x graded readers in their original form | v3.c06.l01 (Text B1), v3.c06.l02 (Text B2) |
 | "monthly until Volume 3 ends" (v2.c06.l05 §20) | closed in §20 below |
@@ -1147,7 +1147,7 @@ the room and is not counted here.
 अध्यापकटिप्पणी
 
 **Timing plan (the room).** Station 0 (§3): about 8 minutes, before sitting 1 and outside it —
-item 1, 4 minutes; item 2, 4 minutes; keys opened after both. **Sitting 1 (45):** instructions
+item 1, 4 minutes; item 2, 4 minutes; both keys opened after sitting 2, item 2's checklist ticked against the recording. **Sitting 1 (45):** instructions
 and booklet 1, 2 · task A, 9 · task B, 8 · task C, 26. **Break:** at least 15 minutes, or the
 second sitting the next day. **Sitting 2 (45):** instructions and booklet 2, 2 · task D, 14 · task
 E, 19 · task F, 10. Room time about 98 minutes plus the break. Everything else — the §3 prompts,

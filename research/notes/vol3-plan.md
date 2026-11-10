@@ -2778,7 +2778,7 @@ still to come: a later fact base follows this table, not the lines it corrects.
 | v3.c06 | adverbial तत् "so" taught in c05.l03 | labelled in c06.l02–l03, not taught in Volume 3 |
 | v3.c06 | कस्मिंश्चित् ◐ (c05.l02 display) | ✓ as a word of the story-opening formula (c06.l03); its न् + च seam stays ◐ |
 | v3.c06 | task D compounds | वानरमकरौ and स्वपत्नी: a जम्बू- compound would need the ū-stem genitive जम्ब्वाः (v4.c05) |
-| v3.c06 | no self-study minutes for c06 | 40 · 44 · 40 · 40 · 60, each §21 adding up; l05 duration 90 (two sittings of 45) |
+| v3.c06 | no self-study minutes for c06 | 40 · 44 · 40 · 44 · 60, each §21 adding up; l05 duration 90 (two sittings of 45) |
 
 Rules the chapter reviews settled, binding on later chapters: a form that is not yet taught
 may not stand even as a wrong option of a quiz or exercise item; `self_study_minutes` covers

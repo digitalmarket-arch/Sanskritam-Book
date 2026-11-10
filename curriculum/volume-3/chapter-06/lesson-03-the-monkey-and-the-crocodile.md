@@ -934,7 +934,7 @@ also accepted], a tatpuruṣa · समुद्रसलिलात् — स
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
-- +1 day: your own story opening — two first sentences of a story of your own, each with अस्ति, a place in the locative, X नाम Y and a verb in the present with स्म, written joined with the pause form beneath; v3.c06.l04's Station 0 runs exactly this.
+- +1 day: your own story opening — the first sentence of two stories of your own, each with अस्ति, a place in the locative, X नाम Y and a verb in the present with स्म, written joined with the pause form beneath; v3.c06.l04's Station 0 runs exactly this.
 - +1 week: the monkey and the crocodile retold — the Pañcatantra opening retold in your own Sanskrit in five sentences, in pause form, with अस्ति, नाम and स्म where the text has them; v3.c06.l05's Station 0 runs exactly this.
 
 ## 21. Homework
@@ -1209,7 +1209,7 @@ reads the cue, not the English spelling.
   this draft: §777–§779); §450 as cited through the Chapter 5 fact base; Apte s.v. वानरः, मकरः, जंबु-बू,
   सलिलं, महत्, स्म, अस्ति and MW s.v. jambu (जामुन; the botanical synonym still to be confirmed); the
   counts of §22 re-run on `vispancu.htm`; the gloss ratio (6 of 44) recounted; §7's Hindi contrast
-  against Kachru. v3.c06.l02 labels adverbial तत् (§15, तन्मे), and its H2 and H4 carry
+  against Kachru. v3.c06.l02's §15 labels adverbial तत् in तन्मे, and its H2 and H4 carry
   चित्रवने and प्रियसुहृत्, as exercise 6 says (checked in Pass A).
 - **Register audit:** FACT ×3 (§5 Whitney on the present, chunks · §8 Whitney §778; the formula and
   the printing are plain text) · HISTORY ×2 (§4 the Middle Persian translation; the Jātaka) ·
