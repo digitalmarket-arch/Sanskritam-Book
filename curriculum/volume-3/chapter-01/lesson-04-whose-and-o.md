@@ -241,7 +241,8 @@ while -स्य stays -स्य.
 
 हिन्दी में समझिए
 
-आज की दोनों विभक्तियाँ (विभक्ति — संज्ञा का कारक-रूप) आप हिन्दी में रोज़ बरतते हैं। पहली है
+आज की दोनों विभक्तियाँ (विभक्ति — संज्ञा का वह रूप जो वाक्य में उसका काम बताता है) आप
+हिन्दी में रोज़ बरतते हैं। पहली है
 षष्ठी — छठी विभक्ति, जिसका काम है एक संज्ञा को दूसरी संज्ञा से जोड़ना: "राम का घर", "राजा
 का सेवक", "शब्द का अर्थ"। हिन्दी यह काम का, के, की से करती है; संस्कृत एक ही अन्त से: -स्य।
 रामस्य गृहम् — राम का घर। नृपस्य सेवकः — राजा का सेवक। शब्दस्य अर्थः — शब्द का अर्थ।
@@ -326,7 +327,7 @@ not hang on the verb — which is why they come together, and why they come last
 | भोः राम! · नमस्ते, आचार्य! | v2.c01.l01 | calling: the bare name, the bare title |
 | कमले, मातः (promised) | v1.c02.l04 | the calling forms of other stems: c02 |
 
-Read down the middle column of the first five rows and one ending repeats: सिंहस्य,
+Read down the first column of the first five rows and one ending repeats: सिंहस्य,
 तस्य — and मम, तव, the "of me" and "of you" of the pronouns, which have shapes of their own.
 In the sixth row the name राम and the title आचार्य stand *without* the -ः of रामः and
 आचार्यः. The last row is a promise from Volume 1: other kinds of noun have their own
@@ -335,11 +336,11 @@ forms).
 
 ### Step 4 — the pattern named
 
-- **षष्ठी** (ṣaṣṭhī, "sixth"), the genitive: **-स्य** on the stem — रामस्य, देवस्य,
+- **षष्ठी** (ṣaṣṭhī) "sixth", the genitive: **-स्य** on the stem — रामस्य, देवस्य,
   फलस्य; its asker कस्य, its answer word तस्य. Its job, in the name grammar books use, is
   **सम्बन्धः** (sambandhaḥ) "relation": it links a noun to a noun, "of, -'s". According to
   Pāṇini it is not a kāraka, because it names no part in the action (§15).
-- **सम्बोधनम्** (sambodhanam, "calling"), the vocative: **the bare stem** — राम, देव, फल —
+- **सम्बोधनम्** (sambodhanam) "calling", the vocative: **the bare stem** — राम, देव, फल —
   usually after **हे** "O!": हे राम!. That is why हे राम sounds like the dictionary form.
   According to Pāṇini the vocative is a use of the nominative, not a case of its own and
   not a kāraka (§15).
@@ -381,7 +382,8 @@ for the thing possessed.
 **रामस्य दण्डः अस्ति।** (rāmasya daṇḍaḥ asti.) "Rāma has a stick." The thing possessed is
 the doer of अस्ति, in the nominative (पुस्तकम्, दण्डः); the possessor is in the genitive.
 The tempting error is to make the possessor the doer — *अहम् पुस्तकम् अस्ति, "I is a book"
-— because English and the Hindi pronoun put the possessor first (§12).
+— because English "I have" makes the possessor the doer; Hindi मेरे पास पुस्तक है does not
+(§12).
 
 ### समीपे and उपरि — "near" and "over" take the genitive
 
@@ -494,8 +496,9 @@ full [m] or [n].
 
 सामान्याः भ्रान्तयः — real errors, each with its fix; these feed the quiz distractors.
 
-1. **The genitive as "to have".** *अहम् पुस्तकम् अस्ति for "I have a book" — the English
-   and Hindi word order put the possessor first, and the learner makes it the doer. *Fix:*
+1. **The genitive as "to have".** *अहम् पुस्तकम् अस्ति for "I have a book" — English "I
+   have" makes the possessor the doer, and the learner copies it (Hindi मेरे पास पुस्तक है,
+   like Sanskrit, keeps the thing possessed as the doer of है). *Fix:*
    मम पुस्तकम् अस्ति — अस्ति agrees with पुस्तकम्, the thing that is (§8).
 2. **The nominative in address.** *हे रामः!, *भोः रामः! — two volumes of producing
    रामः carried into the call. *Fix:* the bare stem: हे राम!, भोः राम! (§8, §15).
@@ -531,7 +534,7 @@ them.
 5. **शब्दस्य अर्थः कः?**
    (śabdasya arthaḥ kaḥ?) "What is the meaning of the word?" — शब्द का अर्थ क्या है?
 
-Sentence 3 holds both of today's cells and two of lesson 2's: a genitive of possession
+Sentence 3 holds both of today's cells and one of lesson 2's: a genitive of possession
 (नृपस्य), a call (हे नृप!), a genitive with समीपे, and the locative समीपे itself. Sentence 5
 asks with कः, not किम्, because अर्थः is masculine: "which (thing) is the meaning?"
 
@@ -659,6 +662,7 @@ form, and adds 0: it belongs to the owned कः.
 > **[FACT · तथ्यम्]** Possession is expressed by the genitive of the possessor; with अस्ति
 > it gives the everyday "X has Y": मम पुस्तकम् अस्ति "I have a book", literally "of me a
 > book is". The thing possessed is the doer of अस्ति. [REF:whitney1889 §295]
+> [REF:whitney1889 §298]
 
 ### समीपे and उपरि
 
@@ -1197,8 +1201,8 @@ narrator reads the cue, not the English spelling.
   §330], §327, §§491, 495, 504; the vocative as bare stem (§5) against [REF:whitney1889
   §327h]; हे and भोः (§5) against [REF:whitney1889 §1135a], §1135c and [REF:apte1890 s.v.
   हे] (quoted: "A vocative particle (oh!, ho!)"); the genitive's adjectival value and
-  possession (§5, §15) against [REF:whitney1889 §294] and §295 — confirm that §295 supports
-  the "X has Y" frame as worded, or soften; उपरि and समीपे (§15) against §299a, §1130 and
+  possession (§5, §15) against [REF:whitney1889 §294], §295 and §298 (the predicate genitive)
+  — confirm that they support the "X has Y" frame as worded, or soften; उपरि and समीपे (§15) against §299a, §1130 and
   [REF:apte1890 s.v. समीप]; the headword glosses against Apte and MW (सेवक "A servant,
   dependant"; वचनं; शब्दः; नृप s.v. नृ); the not-a-kāraka callout (§15) against the
   Aṣṭādhyāyī loci listed in §22 and [REF:cardona1997] — confirm Cardona supports the

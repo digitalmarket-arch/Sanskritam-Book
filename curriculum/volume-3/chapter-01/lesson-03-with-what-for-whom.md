@@ -404,7 +404,7 @@ Now build it. Copy this frame; fill every blank from Steps 1–4 (and from the o
 | तृतीया | ___ | ___ | ___ | ___ | ___ | ___ | ___ |
 | चतुर्थी | ___ | ___ | ___ | ___ | ___ | ___ | ___ |
 
-Three cells you can only guess so far: the answer words of सः and the "with me / with you"
+Four cells you can only guess so far: the answer words of सः and the "with me / with you"
 pair. They are **तेन** (tena) "with him, with it" and **तस्मै** (tasmai) "to him, for it";
 **मया** (mayā) "with me, by me" and **त्वया** (tvayā) "with you, by you". The I-and-you
 dative cells are the owned मह्यम् and तुभ्यम्. The neuter shares every one of these cells
@@ -430,7 +430,7 @@ mouth behind the gum ridge — the same ण you say in the owned गुण and �
 tongue tip lies flat against the back of the upper teeth for न. Then fast; then the audio
 calls one of the two and you hold up one finger for the curl, two for the teeth.
 
-**Drill 2 — the listening pairs.** Four pairs from the track, each played twice: रामेण /
+**Drill 2 — the listening pairs.** Three pairs and one single word from the track, each played twice: रामेण /
 देवेन · पुत्रेण / हस्तेन · मृगेण / कपोतेन · and the odd one, रथेन, alone. For each word,
 mark curl or teeth. The trap is रथेन: the र comes first, but the थ puts the tongue on the
 teeth, and the nasal stays there. No curl.
@@ -474,7 +474,7 @@ friction.
 
 ## 11. Mouth Position
 
-मुखस्थितिः — four checks, one mirror. The three-column board
+मुखस्थितिः — five checks, one mirror. The three-column board
 (`planned:assets/images/volume-3/v3c01l03-n-sort-board.svg`) prints a small tongue icon
 over each column: curled for -एण, flat for -एन.
 
@@ -640,7 +640,7 @@ Work through it in order; §8 Step 5's frame is the page you check here.
 > (अन्नाय "for food"). (3) The interrogative and the pronouns: केन, कस्मै (of कः, किम्);
 > तेन, तस्मै (of सः, तत्); मया, मह्यम् (of अहम्); त्वया, तुभ्यम् (of त्वम्). The neuter
 > shares these cells with the masculine. [REF:whitney1889 §330] [REF:whitney1889 §504]
-> [REF:whitney1889 §491] [REF:whitney1889 §278] [REF:whitney1889 §286]
+> [REF:whitney1889 §495] [REF:whitney1889 §491] [REF:whitney1889 §278] [REF:whitney1889 §286]
 > [REF:whitney1889 §1127]
 
 ### Step 1 — the column so far, two rows added
@@ -704,7 +704,9 @@ nouns yourself in §18 exercise 2.
 | केन? / केन सह? | केन गच्छसि? — रथेन। · केन सह गच्छसि? — मित्रेण सह। | किससे? / किसके साथ? |
 | तेन / मया / त्वया | सः मया सह गच्छति। | मेरे साथ |
 
-सह comes after its partner, as Hindi के साथ does. The partner in the instrumental is, in
+In this course सह comes after its partner, as Hindi के साथ does; classical texts also put
+it before its partner (सह पुत्रेण), and both orders are correct. The partner in the
+instrumental is, in
 Pāṇini's words, the lesser one: in पिता पुत्रेण सह गच्छति the father goes, and the son goes
 along (2.3.19, §8).
 
@@ -752,6 +754,7 @@ honoured?" — yes: -आय; no: -म्.
 | कः/किम् · सः/तत् | nom., acc., instr., dat., abl., loc. | ✓ |
 | कः/किम् · सः/तत् | gen. (कस्य; the owned तस्य) | ○ (v3.c01.l04) |
 | अहम् · त्वम् | माम् त्वाम् · मया त्वया · मह्यम् तुभ्यम् | ✓ |
+| अहम् · त्वम् | gen. मम तव (owned whole) | ○ (v3.c01.l04) |
 | अहम् · त्वम् | मत् त्वत्, मयि त्वयि; the short forms (ते) | ○ (v3.c05.l01) |
 
 ## 16. Conversation
@@ -945,8 +948,9 @@ write out its transcript. A point for each of the six answers with the right end
 8. (b) — as taught: ते is a short form of तुभ्यम्; नमः ते "homage to you" (§8, §15 Step 6).
 9. (c) — मया, the instrumental of अहम् (§15 Step 1). ((a) is "me" of seeing, (b) "to me",
    (d) "my".)
-10. (c) — the one pleased with रोचते is the dative (§13, §15 Step 4). ((a) and (b) are
-    §12's mistake 5 in two forms; (d) is the genitive, lesson 4's.)
+10. (c) — the one pleased with रोचते is the dative (§13, §15 Step 4). ((b) is §12's
+    mistake 5, the liker in the accusative; (a) puts the liker in the nominative, as if
+    रोचते meant English "likes"; (d) is the genitive, lesson 4's.)
 
 **Exercise keys.**
 
@@ -1244,7 +1248,7 @@ narrator reads the cue, not the English spelling.
   \*अर्जुनेण, \*वृक्षेण पतति, \*दण्डात्, \*रामम् फलम् ददाति, \*रामम् नमः, \*माम् रोचते,
   \*मित्रम् सह. The §19 key (quiz + exercise keys) stays in `<details>` in all renders.
 - **Verification flags for Pass C:** the T1 instrumental and dative cells and the pronoun
-  cells against [REF:whitney1889 §330], §491, §504; every word in §15 Step 2 and §18
+  cells against [REF:whitney1889 §330], §491, §495, §504; every word in §15 Step 2 and §18
   exercises 2–3 re-derived against Whitney §189 (0.C); the §5 FACT wording ("a consonant
   that moves the front of the tongue") against Whitney §189 and §189a; the two learner
   sūtras 2.3.16 and 2.3.19 re-checked in the Aṣṭādhyāyī data file as printed, with their
