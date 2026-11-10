@@ -325,7 +325,7 @@ what you own:
 > **सा प्रिया भगिनी।**
 > (sā priyā bhaginī.) "She is a dear sister." — वह प्यारी बहन है।
 
-You can find the doer of each and the done-to (नदीम्, with the -म् of lesson 1). What is
+You can find the doer of each and the done-to (नदीम्, with the -म् of Chapter 1, lesson 1). What is
 left over is the shape of the words: बालिका and भगिनी have no ः; सा is not सः; and प्रिया
 is not the प्रियः you would say of a boy.
 
@@ -408,9 +408,9 @@ differ: the vocative shortens the vowel, **हे नदि**; and the plural ha
 नदीम्, नदीभिः, नदीभ्यः, नदीनाम्, **नदीषु** (ष after ई, where बालिकासु keeps स after आ). §15
 Step 2 prints the card.
 
-**Agreement, drawn as three columns.** An a-adjective has three stems: -अः for the
-masculine, -आ for the feminine, -अम् for the neuter. It takes its noun's gender, number and
-case:
+**Agreement, drawn as three columns.** An a-adjective has three sets of endings, one per gender,
+cited as -अः for the masculine (like रामः), -आ for the feminine (like बालिका) and -अम् for
+the neuter (like फलम्). It takes its noun's gender, number and case:
 
 | पुंलिङ्गम् | स्त्रीलिङ्गम् | नपुंसकलिङ्गम् |
 |---|---|---|
@@ -683,8 +683,9 @@ cells and -साम् in the genitive plural, as तेषाम् had yester
 | सप्तमी | **नद्याम्** nadyām | **नदीषु** nadīṣu | ई → य् before -आम्; pl. ष after ई |
 | सम्बोधनम् | **हे नदि** he nadi | हे नद्यः he nadyaḥ | sg.: short -इ |
 
-Bold = the nine drilled Δ cells: the six where नदी does not do what बालिका does with ई for
-आ (नदी, नद्यः, नदीः, नद्या, नदीषु, हे नदि) and the three glide cells (नद्यै, नद्याः,
+Bold = the nine drilled Δ cells: the six to watch — the bare nominative, the two plurals,
+the instrumental with no -अ-, the ष of the locative plural and the short vocative (नदी,
+नद्यः, नदीः, नद्या, नदीषु, हे नदि) and the three glide cells (नद्यै, नद्याः,
 नद्याम्). The card works for every ī-stem feminine you own or learn today: नदी, भगिनी, पुत्री,
 पृथिवी, मही, देवी, पत्नी. देवी goes देव्या, देव्यै, देव्याः, देव्याम्, हे देवि, देव्यः, देवीः —
 not as देव + -आ.
@@ -763,7 +764,7 @@ here are labels from the feminine asker (○, v3.c05.l02): read them, do not dri
 | a-adjective in three genders | every case and number of T1, T2, T3 | ✓ |
 | numerals 1, 3, 4 in three genders; 5–10 | nom. and acc. | ✓ |
 | numeral 2, and the numerals' other cases | — | ○ (v3.c02.l04; v4.c05) |
-| the feminine asker का काम् कया … | 13 cells | ○ (v3.c05.l02) |
+| the feminine asker का काम् कया … | 14 cells (as सा · ताः) | ○ (v3.c05.l02) |
 | कुशलिनी, सुखिनी | nominatives, labelled | ○ (v4.c05) |
 | the 3pl -अन्ति / सन्ति | with a 3rd-person plural doer | ◐ (v3.c03.l01) |
 | i- and u-stems, ṛ-stems, the dual | — | ○ (v3.c02.l03, v3.c02.l04) |
@@ -928,7 +929,7 @@ written out from the recording. Rubric: six sentences; every adjective in its no
 2. "With the girl": (a) बालिकेन (b) बालिकया (c) बालिकायाः (d) बालिकाम्
 3. बालिकायाः can be: (a) ablative or genitive singular (b) nominative plural (c) locative
    singular (d) instrumental plural
-4. The instrumental singular of नदी: (a) नदीया (b) नद्या (c) नदिना (d) नद्याः
+4. The instrumental singular of नदी: (a) नदीया (b) नद्या (c) नदीम् (d) नद्याः
 5. "The dear sister": (a) प्रियः भगिनी (b) प्रियम् भगिनी (c) प्रिया भगिनी (d) प्रियाः भगिनी
 6. "Three girls": (a) त्रयः बालिकाः (b) त्रीणि बालिकाः (c) ततस्रः बालिकाः (d) तिस्रः बालिकाः
 7. Calling a girl: (a) हे बालिका (b) हे बालिकाः (c) हे बालिके (d) हे बालिकाम्
@@ -947,18 +948,19 @@ written out from the recording. Rubric: six sentences; every adjective in its no
    -एन on a feminine; (c) is abl./gen., (d) acc.)
 3. (a) — -आयाः is one form for the ablative and the genitive singular (§15 Steps 1, 5).
    ((b) is §12's mistake 5: the plural is बालिकाः.)
-4. (b) — ई + vowel → य्: नद्या (§15 Step 2). ((a) is §12's mistake 3; (c) is not a
-   feminine ending; (d) is abl./gen.)
+4. (b) — ई + vowel → य्: नद्या (§15 Step 2). ((a) is §12's mistake 3; (c) is the
+   accusative; (d) is abl./gen.)
 5. (c) — the adjective in the noun's gender, -आ (§15 Step 3). ((a) is §12's mistake 2.)
 6. (d) — the feminine of "three" (§4, §15 Step 4). ((a) is the masculine, (b) the neuter,
    §12's mistake 4; (c) is the 1.x book's non-word.)
 7. (c) — the ā-stem vocative -े, as in हे कमले (§15 Step 1). ((a) is the nominative; (b)
    the plural.)
 8. (c) — neuter, accusative, plural, like आम्राणि (§13 sentence 4). ((a) is masculine
-   nominative plural, (b) masculine accusative plural, (d) feminine.)
+   nominative plural or feminine plural, (b) masculine accusative plural, (d) feminine
+   singular.)
 9. (b) — मित्रम् is neuter whoever the friend is (§5, §12 mistake 6). ((a) and (d) do not
-   exist as "friend"; (c) मित्रः is the sun, not "friend", in classical Sanskrit — Apte s.v.
-   मित्रः.)
+   exist as "friend"; (c) मित्रः in classical Sanskrit is the sun — Apte s.v. मित्रः; "friend"
+   as a masculine is Vedic, and the later language uses the neuter, MW s.v. mitra.)
 10. (b) — §5 and §15 Step 3: three genders, three numbers, eight cases.
 
 **Exercise keys.**
@@ -1057,8 +1059,9 @@ by actual usage, and not by grammatical rule" [REF:whitney1889 §332]. Every a-a
 course has taught makes -आ; the -ई ones are named when met.
 
 **The feminine asker** (का काम् कया कस्यै कस्याः कस्याम्; काः काभिः काभ्यः कासाम् कासु) is
-display today [REF:whitney1889 §504]. Learners read काः and कस्याः as labels in exercise 5
-and write only the answer form. Its card is v3.c05.l02's. Rehearse exercise 5 well: it is
+display today [REF:whitney1889 §504]. Learners read काः and कस्याः as labels in exercise 5:
+they write the case and number, and pick one of the two printed labels; they never build an
+asker cell. Its card is v3.c05.l02's. Rehearse exercise 5 well: it is
 tomorrow's Station 0 (the +1-day booking, run by lesson 3).
 
 **कृपया.** v3.c01.l03 labelled it the instrumental of कृपा and sent it here; say "kept" when
@@ -1088,8 +1091,8 @@ One line each where the lesson meets them; nothing more.
 lines 8–9 are ours. The Hitopadeśa's river is the Godāvarī and its tree a śālmalī, a
 silk-cotton tree (*asti godāvarī-tīre viśālaḥ śālmalī-taruḥ*); no names are printed in
 Chapter 2, so our river has none and our tree is a वृक्षः [REF:hitopadesha mitralābha]. In
-the text the birds roost in the tree at night; our doves "live" there (निवसन्ति), the
-same idea in owned words. Episode 2's other departures (who warns; the king caught last)
+the text birds from many lands settle in the tree at night (*rātrau pakṣiṇo nivasanti*);
+our doves simply live there (निवसन्ति), the text's own verb without the night. Episode 2's other departures (who warns; the king caught last)
 are in lessons 1, 3 and 4, and v3.c06.l02 reads the text itself.
 
 ## 23. AI Image Prompt
@@ -1177,8 +1180,8 @@ narrator reads the cue, not the English spelling.
 - **Demo (0:07–0:30):** priyaḥ putraḥ — dear son. priyā putrī — dear daughter. priyam
   mitram — dear friend, and the friend can be anyone: the word is neuter. Quick flash: तीन
   लड़कियाँ → tisraḥ bālikāḥ, not trayaḥ.
-- **Payoff (0:30–0:43):** "Learners of this course can now describe any person or thing they
-  own a word for, in the right gender, number and case — and count the girls."
+- **Payoff (0:30–0:43):** "Learners of this course can now describe a-stem and ā-stem nouns,
+  and feminines like नदी, in the right gender, number and case — and count the girls."
 - **CTA (0:43–0:50):** "Next: fire and teacher. Follow for Chapter 2." (End card: सा प्रिया
   — she is dear.)
 

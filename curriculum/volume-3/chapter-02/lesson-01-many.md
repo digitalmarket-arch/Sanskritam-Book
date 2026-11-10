@@ -216,7 +216,8 @@ The last part of this section is a map, not a ranking.
 > plural doer: पाँच कौए हैं, पञ्च काकाः सन्ति। [REF:kachru2006]
 
 That is why §18 exercise 6 makes you translate four Hindi lines with the same oblique
-form into four different Sanskrit endings: the contrast has to be produced to be kept.
+ending -ओं into four different Sanskrit cases (three endings, since the dative and the
+ablative share -एभ्यः): the contrast has to be produced to be kept.
 
 > **[FACT · तथ्यम्]** Spacing the retrieval of a thing over days helps it last: today's
 > Station 0 is two earlier bookings landing on schedule, and this lesson books two of its
@@ -262,7 +263,7 @@ answer ते to work: notice that they end in -े, not -आः (§8 Step 5).
 
 अकारान्त पुंलिङ्ग शब्दों (जैसे रामः, काकः, वृक्षः) में प्रथमा बहुवचन का अन्त -आः है:
 काकः "कौआ", काकाः "कौए"। यह छोटा-सा अन्तर कान से पकड़ना ज़रूरी है — रामः में अ छोटा है,
-रामाः में आ लम्बा। केवल लम्बाई ही एक और अनेक का भेद करती है। नपुंसकलिङ्ग शब्दों (जैसे
+रामाः में आ लम्बा। एक और अनेक का भेद इसी अन्तिम स्वर से होता है — लम्बाई से, और स्वर के गुण से भी। नपुंसकलिङ्ग शब्दों (जैसे
 फलम्, पत्रम्) में प्रथमा और द्वितीया दोनों बहुवचन में -आनि है: फलानि "फल (कई)"। जैसे
 एकवचन में फलम् कर्ता भी था और कर्म भी, वैसे ही बहुवचन में फलानि दोनों है।
 
@@ -430,7 +431,7 @@ and pause-form rhythm. Audio: 🔊 `planned:assets/audio/volume-3/v3c02l01-endin
 **Drill 1 — one or many: रामः against रामाः.** Say them slowly as a pair, five times:
 रामः — रामाः. The only difference is the last vowel: short अ in the singular, long आ in the
 plural, held twice as long. Then काकः — काकाः, कपोतः — कपोताः. The long आ of -आः is twice
-the अ of -ः: length alone tells one from many. Hindi ears, used to dropping a final short
+the अ of -ः: length is the cue to exaggerate (the vowel's quality differs too, §10). Hindi ears, used to dropping a final short
 vowel, must keep both: the ः is heard after each.
 
 **Drill 2 — the masculine doer and done-to: रामाः against रामान्.** Both start रा-मा-.
@@ -440,7 +441,8 @@ vowel, must keep both: the ः is heard after each.
 **Drill 3 — the two long endings: -ऐः and -एभ्यः.** रामैः is two syllables, रा-मैः, with the
 diphthong /ɐi̯/ and a breath at the end. रामे, the owned locative singular, is a pure long
 ए with no breath: say रामैः — रामे until the glide and the ः are unmistakable. Then
--एभ्यः, three beats: दे-वे-भ्यः; and -एषु, two: दे-वे-षु. देवेषु — देवेभ्यः is §10's
+-एभ्यः: दे-वे-भ्यः, the वे held long before the cluster भ्य and the word closed by a breath;
+and -एषु: दे-वे-षु, closed by a short उ. देवेषु — देवेभ्यः is the listening pairs'
 trickiest pair.
 
 **Drill 4 — the plural answers and the numerals.** के? — ते। · कान्? — तान्। · कैः? —
@@ -813,7 +815,8 @@ are falling from the tree." — कोमल पत्तों को भी �
 
 Housekeeping: पश्य, आम्, तीरम् and जलम् are owned (v1.c05.l05, v1.c05.l01, v3.c01.l02,
 v1.c03.l02). Every plural is an a-stem; the numerals are masculine or neuter. Turns 1–6
-count with the doer form (पञ्च काकाः, त्रीणि फलानि); turns 9–10 count the done-to, and the
+count with the doer form: पञ्च काकाः is a doer, and त्रीणि फलानि, the fruits being eaten, is a
+neuter done-to, whose form is the doer's; turns 9–10 count a masculine done-to, and the
 masculine numeral changes: चतुरः कपोतान्, not \*चत्वारः कपोतान्. In turn 7 the asker कान्
 is masculine because the answer, तण्डुलान्, is. In turn 11 तानि answers for पत्राणि: the
 neuter pronoun for a neuter noun. Pause form between and within turns.
@@ -858,10 +861,10 @@ the tree and the hunter gone home without it.
 11. व्याधः हसति।
     (vyādhaḥ hasati.) "The hunter laughs." — शिकारी हँसता है।
 
-The quiet craft notes. Lines 2 and 3 are one masculine plural done-to, तण्डुलान्, beside
-one neuter singular, जालम्: -आन् and -म् side by side. Line 8 has the plural call: हे
-कपोताः is the nominative form, since only the singular has a vocative of its own. Line 7
-and line 8 put अस्ति and सन्ति beside each other — one net, many snares. पतति keeps the
+The quiet craft notes. Line 3 puts a masculine plural done-to, तण्डुलान्, beside
+a neuter singular done-to, जालम्: -आन् and -म् side by side. Line 8 has the plural call: हे
+कपोताः is the nominative form, since only the singular has a vocative of its own. Line 8
+puts अस्ति and सन्ति beside each other — one net, many snares. पतति keeps the
 gloss lesson 2 of Chapter 1 gave it, "flies down, alights": in line 10 the doves are on
 the net, not yet caught; lesson 3 closes it. And the warning in line 8 comes from the free
 dove of episode 1; §22 says what the Hitopadeśa has there.
@@ -921,7 +924,7 @@ transcript. Rubric in §19's key.
 3. "Of the doves": (a) कपोताणाम् (b) कपोतानाम् (c) कपोतेषु (d) कपोतैः
 4. Which has ण by the observed spelling? (a) देवानाम् (b) फलानाम् (c) रामाणाम् (d) रथानाम्
 5. पञ्च काकाः वृक्षे ___। (a) अस्ति (b) सन्ति (c) असि (d) अस्मि
-6. "Three fruits": (a) त्रयः फलानि (b) त्रीणि फलानि (c) तिस्रः फलानि (d) त्रीन् फलानि
+6. "Three fruits": (a) त्रयः फलानि (b) त्रीणि फलानि (c) चत्वारि फलानि (d) त्रीन् फलानि
 7. "He throws three stones": सः ___ पाषाणान् क्षिपति। (a) त्रयः (b) त्रीणि (c) त्रीन्
    (d) त्रि
 8. The asker for तैः is: (a) के (b) कैः (c) कान् (d) केषु
@@ -941,7 +944,7 @@ transcript. Rubric in §19's key.
 4. (c) — र, then nothing that blocks (§5, §15 Step 1). (देव and फल have no trigger; in
    रथानाम् the थ blocks.)
 5. (b) — a plural doer takes सन्ति (§15 Step 3). ((a) is §12 mistake 2.)
-6. (b) — 3 neuter (§15 Step 4). ((a) is §12 mistake 5; (c) is the feminine, lesson 2's;
+6. (b) — 3 neuter (§15 Step 4). ((a) is §12 mistake 5; (c) is "four fruits";
    (d) is the masculine accusative.)
 7. (c) — 3 masculine, accusative: the stones are thrown (§15 Step 4, §12 mistake 5).
 8. (b) — the instrumental plural (§15 Step 2).
