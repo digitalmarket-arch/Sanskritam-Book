@@ -1284,7 +1284,7 @@ avyayībhāva is यथाशक्ति. (3) "राज + पुत्र": th
 as §7 says. (4) "दश + आनन = दशानन": as a word, दशाननः, a bahuvrīhi — दश आननानि यस्य सः.
 (5) The 1.x accent example (p. 82) glosses both readings of इन्द्रशत्रु alike, "May Indra's
 slayer prosper" and "May the slayer of Indra prosper"; the tatpuruṣa is "slayer of Indra", the
-bahuvrīhi "whose slayer is Indra", as the note above has it. (6) The 1.x book's four kinds
+bahuvrīhi "whose slayer is Indra", as the note above has it. (6) The 1.x page's four kinds (pp. 42–43)
 are not the lesson's: it lists the avyayībhāva as its fourth kind and has no karmadhāraya. The
 lesson's four are the dvandva, the tatpuruṣa, the karmadhāraya and the bahuvrīhi, and the
 avyayībhāva is read on the recognition card (§15 Step 5). (7) The 1.x lesson "6 Samāsa Types"
@@ -1292,7 +1292,7 @@ avyayībhāva is read on the recognition card (§15 Step 5). (7) The 1.x lesson 
 order, although it calls the karmadhāraya an "appositional Tatpuruṣa" and the dvigu a
 "numerical Karmadhāraya". Pāṇini names both as kinds of tatpuruṣa — 1.2.42 तत्पुरुषः
 समानाधिकरणः कर्मधारयः [REF:ashtadhyayi 1.2.42]; 2.1.23 द्विगुश्च [REF:ashtadhyayi 2.1.23] — so
-the tradition counts four, as §4 says; six is the count of the Hindi school textbooks (§4,
+the tradition counts four — the avyayībhāva, the tatpuruṣa, the bahuvrīhi and the dvandva — as §4 says; six is the count of the Hindi school textbooks (§4,
 §7). The same pages gloss उपनगरम् "near the city = suburb" again: see (2).
 
 **जगदीशः, सज्जनः.** v3.c04.l03 read them whole and sent their analysis here (its §27). §15
