@@ -156,14 +156,15 @@ our retelling says so on every page.
 > **[HISTORY · इतिहासः]** The serial is our retelling after the frame story of the first
 > book of the Hitopadeśa, the *Mitralābha* ("the gaining of friends"), a collection of
 > fables in prose and verse attributed to Nārāyaṇa and dated, on the usual scholarly
-> estimate, to roughly the 9th–12th centuries CE. In that frame a hunter scatters grains
-> of rice and spreads his net below a great tree on a river bank, where birds from many
-> lands roost at night. [REF:hitopadesha mitralābha]
+> estimate, to roughly the 9th–12th centuries CE. That frame opens on a great tree on a
+> river bank, where birds from many lands roost at night; then a hunter scatters grains of
+> rice and spreads his net. [REF:hitopadesha mitralābha]
 
 Our retelling keeps the hunter, the food on the net and the tree on the bank. It changes
-two things, and says so: it begins with one dove, where the text has a whole flock (the
-flock arrives in Chapter 2), and it brings the mouse's hole to the foot of the tree, where
-the text puts the mouse far away. Today's part — the food thrown down, the dove flying down
+two things, and says so: it brings the mouse's hole to the foot of the tree, where the
+text puts the mouse far away, and (in lesson 4) it gives the mouse a warning the text does
+not have. It also tells the scene with one dove, where the text has a whole flock (the
+flock arrives in Chapter 2). Today's part — the food thrown down, the dove flying down
 to it — is the moment the text spends its rice grains on.
 
 > **[TRADITION · परम्परा]** In Pāṇini's grammar the part a thing plays in an action is
@@ -189,7 +190,7 @@ The spelling records what the mouth does.
 > **[FACT · तथ्यम्]** In रामेण the tongue curls back for the र, and when no consonant that
 > moves the front of the tongue comes between, the curl is still there when the tongue
 > reaches the nasal of the ending — so the nasal is said, and written, retroflex: ण.
-> Consonants of the च-row (but not य), the ट-row and the त-row, and श, स, ल, move the
+> Consonants of the च-row, the ट-row and the त-row, and श, स, ल, move the
 > tongue front and undo the curl: रथेन keeps न. The same holds after ऋ and ष् (मृगेण,
 > मूषकेण). This course states it as an observed spelling; the rule itself is Volume 4's.
 > [REF:whitney1889 §189]
@@ -279,7 +280,7 @@ two case names and two job names, all grammar terms, no ledger rows.
 वर्तनी पर एक ज़रूरी बात। रामेण में ण है, देवेन में न। क्यों? जब शब्द में पहले र्, ऋ या
 ष् आता है, तो जीभ ऊपर मुड़ जाती है, और अगर बीच में कोई ऐसा व्यंजन न आए जो जीभ के अगले
 हिस्से को हिलाए, तो वह मोड़ अन्त तक रहता है — इसलिए -एण: रामेण, पुत्रेण, मृगेण। पर
-च-वर्ग (य को छोड़कर), ट-वर्ग, त-वर्ग, या श, स, ल बीच में आ जाएँ, तो मोड़ टूट जाता है —
+च-वर्ग, ट-वर्ग, त-वर्ग, या श, स, ल बीच में आ जाएँ (य नहीं रोकता), तो मोड़ टूट जाता है —
 फिर -एन: रथेन (थ बीच में), पर्वतेन (त बीच में)। और जिस शब्द में र्, ऋ या ष् है ही नहीं,
 उसमें तो -एन ही है: देवेन, हस्तेन। इसे अभी केवल "देखी हुई वर्तनी" मानिए; पूरा नियम चौथे
 खण्ड में आएगा। आज के लिए तीन स्तम्भ काफ़ी हैं।
@@ -340,7 +341,9 @@ each form means; then uncover and compare.
 The -आय words and मह्यम्/तुभ्यम् answer "to/for whom"; the -एन word answers "by what".
 Two shapes, two questions. पुण्याय and पापाय are the -आय of पुण्यम् and पापम्, words you own;
 उद्यमेन is the -एन of the owned उद्यमः. (Hit 0.36 is prastāvikā 36 of the Hitopadeśa, the
-course's locus for the verse.)
+course's locus for the verse; its सिध्यन्ति is a plural verb, glossed whole: Chapter 3's.)
+गुरवे answers "to whom" too, but with another ending: गुरुः is a u-stem, and its dative is
+v3.c02.l03's — keep गुरवे नमः whole until then.
 
 ### Step 4 — the pattern, named
 
@@ -421,8 +424,8 @@ vocative, the last two rows of the column, are lesson 4's.
 
 उच्चारणम् — no new sounds; the work is two endings heard clearly, one nasal placed
 deliberately, and pause-form rhythm. Audio: 🔊
-`planned:assets/audio/volume-3/v3c01l03-ramena-devena.mp3` (drills 1–4, the listening
-pairs, the dictation track).
+`planned:assets/audio/volume-3/v3c01l03-ramena-devena.mp3` (drills 1–4 and the listening
+pairs).
 
 **Drill 1 — रामेण against देवेन.** Say them slowly as a pair, five times: रामेण — देवेन.
 In रामेण the tongue tip curls back for र and stays curled for ण, touching the roof of the
@@ -687,7 +690,7 @@ How to sort a word, every time:
 2. **Look between the trigger and the ending.** Vowels, ह, य, व, र and the consonants of
    the क-row and the प-row let the curl through: column 1, -एण. In शिष्येण the य does not
    block; in छात्रेण the र stands right before the ending.
-3. **A blocker undoes it:** a consonant of the च-row (but not य), the ट-row (ण included)
+3. **A blocker undoes it:** a consonant of the च-row, the ट-row (ण included)
    or the त-row, or श, स, ल. Column 3, -एन again: in रथेन the थ stands between र and the
    ending.
 
@@ -1131,7 +1134,7 @@ departures listed in §4 are on the record for v3.c06.l02, which reads the text 
 > tongue icon curled back; "no trigger → -एन" with a flat tongue touching the teeth;
 > "trigger, blocked → -एन" with a tongue whose curl is broken by a small barrier. Top band:
 > the three triggers र् · ऋ · ष् in the accent colour; bottom band: the blockers — च-row
-> (not य) · ट-row · त-row · श स ल — in grey. Each column has eight empty slots (column 3:
+> · ट-row · त-row · श स ल — in grey (य lets the curl through and is not shown). Each column has eight empty slots (column 3:
 > four), for word cards. A worked card sits in each: रामेण · देवेन · रथेन, the ण of रामेण
 > in the accent colour.
 

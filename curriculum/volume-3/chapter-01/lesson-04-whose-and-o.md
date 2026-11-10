@@ -142,9 +142,9 @@ the mouse in its hole — is our retelling of a famous frame story:
 
 > **[HISTORY · इतिहासः]** The serial follows the frame story of the first book of the
 > Hitopadeśa, Mitralābha "the winning of friends". The collection is dated, on the scholarly
-> estimate, to c. 9th–12th c. CE. In the text a hunter scatters grains of rice under a great
-> tree on a river bank, where birds from many lands roost at night, and spreads his net; a
-> flock of doves comes down for the grain and is caught; the mouse who frees them lives far
+> estimate, to c. 9th–12th c. CE. The text opens on a great tree on a river bank, where
+> birds from many lands roost at night; a hunter scatters grains of rice and spreads his
+> net; a flock of doves comes down for the grain and is caught; the mouse who frees them lives far
 > away, on the bank of another river, and the doves reach his burrow by flying off with the
 > net. [REF:hitopadesha mitralābha]
 
@@ -1044,9 +1044,9 @@ freely; treat हे फल as a table cell.
 **The Hindi angles.** Hindi speakers own हे राम — use it — and will hear "he Rām"; insist
 on the full final अ (§9 drill 2). Hindi's own हे राजन् uses राजन्'s Sanskrit calling form;
 राजन् itself is a consonant stem (v4.c05), which is why the course gives "king" as the
-a-stem नृपः. The agreement contrast (का/की/के) is the strongest Hindi hook in the lesson:
+a-stem नृपः. The agreement contrast (का/की/के) is a strong hook for Hindi-medium learners:
 let the class find it from §13's three-line example before you state it. The Hindi points
-follow Kachru [REF:kachru2006], cited bare until Pass C has located each. The eight कारक
+follow Kachru [REF:kachru2006], cited bare (no locator), by the editor's decision. The eight कारक
 of Hindi school grammar are printed as TRADITION, attributed [REF:guru1952]; assess them
 only as "According to Hindi school grammar …".
 

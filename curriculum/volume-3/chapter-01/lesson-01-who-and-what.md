@@ -273,8 +273,8 @@ terms: no ledger rows (§14).
 हिन्दी का को पाने वाले पर भी लगता है — "राम को फल देता है"। संस्कृत वहाँ द्वितीया नहीं,
 एक दूसरी विभक्ति लेती है; वह इसी अध्याय के तीसरे पाठ में आएगी।
 
-कर्ता के साथ हिन्दी में कभी-कभी ने लगता है — "राम ने फल खाया" — पर केवल उन सकर्मक वाक्यों
-में जिनकी क्रिया काम का पूरा हो जाना बताती है। संस्कृत के कर्ता के साथ कुछ नहीं जुड़ता:
+कर्ता के साथ हिन्दी में कभी-कभी ने लगता है — "राम ने फल खाया" — पर केवल उन वाक्यों
+में जिनकी क्रिया काम का पूरा हो जाना बताती है, और प्रायः सकर्मक क्रिया के साथ। संस्कृत के कर्ता के साथ कुछ नहीं जुड़ता:
 वह बस प्रथमा में खड़ा रहता है।
 
 नपुंसकलिंग शब्द — फलम्, पुस्तकम्, जलम्, जालम् — दोनों कामों के लिए एक ही रूप रखते हैं।
@@ -723,8 +723,9 @@ order, the procedure is the same: find the -ः, then the -म्, then the verb
 | छात्रः विद्यालयम् गच्छति | goal | छात्र स्कूल जाता है | both bare: no postposition, no preposition |
 
 Hindi को also marks a recipient (राम को फल देता है); Sanskrit gives the recipient a
-different case, l03's. Hindi ने marks the doer only in perfective transitive clauses (राम
-ने फल खाया); a Sanskrit doer is in the nominative, with nothing added. [REF:kachru2006]
+different case, l03's. Hindi ने marks the doer only in perfective clauses, and mainly with
+transitive verbs (राम ने फल खाया); a Sanskrit doer is in the nominative, with nothing added.
+[REF:kachru2006]
 
 ### Step 9 — what waits
 
@@ -1234,7 +1235,7 @@ narrator reads the cue, not the English spelling.
   itself is the plan's step-2 wording, verdict requested; the neuter FACT (§5, §15) against
   Whitney §330; the Hindi statements (§7, §15 Step 8, §18 exercise 6) against
   [REF:kachru2006], cited bare — confirm को with definite/animate objects and recipients,
-  the bare goal of जाना, and ने only in perfective transitive clauses; the Laghukaumudī
+  the bare goal of जाना, and ने only in perfective clauses, mainly transitive; the Laghukaumudī
   wording ग्राममजां नयति and the Kāśikā's माणवकं पन्थानं पृच्छति — §22 prints both in pause form —
   against the e-texts; every "where owned" line of the evidence table and every quoted
   V1–V2 line in §3 re-found verbatim (done at drafting for v1.c06.l03 §6, §17 lines 4–5;

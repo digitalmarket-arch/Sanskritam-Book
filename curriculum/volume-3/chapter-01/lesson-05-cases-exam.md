@@ -197,7 +197,7 @@ chapter's, gathered in §15. What this section explains is the shape of the exam
 > [REF:roediger2006]
 
 Each task retrieves the column by a different route. Task A goes in by ear: the question
-word at the front of each question (केन? कस्मै? कुतः?) tells you which ending to listen
+word in each question (केन? कस्मै? कुतः?) tells you which ending to listen
 for. Task B goes from ear to hand, with every ending spelled. Task C goes from a noun and a
 question word to a form, under time pressure, which is the route the column takes in
 speech. Task D goes from a printed form back to its name and its job. Task E starts from
@@ -259,8 +259,8 @@ traveller who needs every case (pause form throughout):
 
 Seven lines. The first names the column (a list of names, so nominatives); the next two
 run it through its askers; the fourth is the one sūtra of the day, Pāṇini 1.4.14 (§15),
-and the fifth applies it: रामः and रामे end in a noun ending, पठति in a verb ending, so all
-three are पदानि. The last two put all eight forms into one short scene.
+and the fifth applies it: रामः and रामे end in a noun ending, पठति in a verb ending, so each
+of the three is a पदम्. The last two put all eight forms into one short scene.
 
 ## 7. Hindi Explanation
 
@@ -449,7 +449,7 @@ teeth (l03 §9 drill 2).
 मुखस्थितिः — the exam circuit, one check per task.
 
 - **Task A (ears):** catch the asker, then listen for one word's last sound. The questions
-  follow the order of the scene.
+  follow the order of the scene, except that 8 and 9 trade places.
 - **Task B (pen):** every ending its letters: ः, म्, ण or न after े, आय, आत्, स्य, े, and
   nothing after a call. Keep हे apart from the name it calls.
 - **Task C (head, then pen):** read the asker first, then the noun. For केन, look along the
@@ -595,8 +595,9 @@ has -म्; the pronoun table is v3.c05.l02's.
 
 ### Case and role: the three sightings
 
-The job column says "case, not that role" in two cells and "not a kāraka" in two: the
-chapter's three sightings of a fact Chapter 2's last lesson maps in full. (1) The neuter
+The job column says "case, not that role" in two cells and "not a kāraka" in two: case
+and role are not the same thing, a fact Chapter 2's last lesson maps in full. The chapter
+has sighted it three times. (1) The neuter
 फलम् does two jobs in one form (l01). (2) In रामाय नमः the dative goes with the word नमः,
 with no giving for रामाय to receive (l03). (3) The genitive and the call name no part in
 the action (l04).
@@ -610,7 +611,7 @@ the action (l04).
 > form. [REF:ashtadhyayi 1.4.14]
 
 So this chapter, सुबन्तप्रवेशः, is "the entry into sup-words", and Chapter 3,
-तिङन्तप्रवेशः, will be the entry into tiṅ-words. रामः, रामेण and हे राम are all पदानि for
+तिङन्तप्रवेशः, will be the entry into tiṅ-words. रामः, रामेण and हे राम are each a पदम् for
 the grammar, and so is पठति.
 
 **The ending list, once, as a picture.** The *sup* endings stand in one sūtra, 4.1.2, as a
@@ -654,8 +655,8 @@ Volumes 1–2 promised these "for Volume 3"; Chapter 1 has paid them:
 | the endings inside मम and तव (v1.c06.l02) | l04: the genitive |
 | भोः राम (v2.c01.l01) | l04: the vocative, in pause form (the joined भो राम is v3.c04.l02) |
 
-And the first row of Volume 2's deferral tracker (v2.c06.l05 §15), "case endings — घटे, वने,
-सिंहस्य, माम्, मह्यम्, read whole", is redeemed for the a-stem singular: माम् in l01; घटे and
+And the first row of Volume 2's deferral tracker (v2.c06.l05 §15), "Case endings (घटे, वने,
+सिंहस्य, माम्, मह्यम् — read whole)", is redeemed for the a-stem singular: माम् in l01; घटे and
 वने in l02; मह्यम् in l03; सिंहस्य in l04; the column today. Other stems remain v3.c02's.
 
 ### Paradigm ledger audit (end of Chapter 1)
@@ -829,7 +830,7 @@ are Chapter 4's, and task D reads only the pause form.
 **बुद्धिः** nom., the doer of the "is" sentence, an i-stem (v3.c02.l03) · **लघुः** nom.,
 predicate, a u-stem adjective (v3.c02.l03) · **सुखी, पिपासितः, क्रुद्धः, बद्धः, मुक्तः**
 predicate adjectives, nom. (सुखी an -इन् stem, v3.c02.l03) · **एकः, एकम्, अल्पम्**
-adjectives, whose agreement is v3.c02.l01's · **सः, अहम्, माम्, तव, कः** pronouns, a bonus
+adjectives, whose agreement is v3.c02.l01–l02's · **सः, अहम्, माम्, तव, कः** pronouns, a bonus
 point each for the case alone, not in the 25 · **उपरि, पुनः पुनः, एव, अपि, न, एकदा** words
 that never change, with no case to name.
 
@@ -939,7 +940,7 @@ sitting.
 5. Which two cells of फलम् are the same form? (a) nom. and acc. (b) instr. and dat.
    (c) abl. and gen. (d) loc. and voc.
 6. "The teacher asks the student his name" has: (a) one accusative (b) two accusatives
-   (c) a dative (d) a genitive
+   (c) a dative (d) an instrumental
 7. "Homage to the teacher" with an a-stem title: (a) आचार्यम् नमः (b) आचार्याय नमः
    (c) आचार्यस्य नमः (d) आचार्येण नमः
 8. In उद्यमेन हि सिध्यन्ति…, उद्यमेन is: (a) dative (b) instrumental (c) locative
@@ -1016,8 +1017,8 @@ Scoring: 1 per token with case and job both right, ½ for one of the two. For a 
 
 E — the rubric of §18 and §22. Model answer (one of many; six sentences, all seven cases
 and the vocative):
-1. प्रभाते व्याधः ग्रामात् वनम् आगच्छति। (prabhāte vyādhaḥ grāmāt vanam āgacchati.) — "At
-   dawn the hunter comes from the village to the forest."
+1. प्रभाते व्याधः ग्रामात् तीरम् गच्छति। (prabhāte vyādhaḥ grāmāt tīram gacchati.) — "At
+   dawn the hunter goes from the village to the river bank."
 2. सः हस्तेन जालम् नयति। (saḥ hastena jālam nayati.) — "He carries the net in his hand."
 3. वृक्षस्य समीपे एकः कूपः अस्ति। (vṛkṣasya samīpe ekaḥ kūpaḥ asti.) — "Near the tree there
    is a well."
@@ -1025,7 +1026,7 @@ and the vocative):
 5. अन्नम् कपोताय रोचते। (annam kapotāya rocate.) — "The dove likes the food."
 6. मूषकः वदति — हे मित्र! तत्र जालम् अस्ति। (mūṣakaḥ vadati — he mitra! tatra jālam
    asti.) — "The mouse says: 'Friend! There is a net there.'"
-Coverage: प्रथमा व्याधः, कूपः, कपोतः, अन्नम्, मूषकः, जालम् · द्वितीया वनम्, जालम् · तृतीया
+Coverage: प्रथमा व्याधः, कूपः, कपोतः, अन्नम्, मूषकः, जालम् · द्वितीया तीरम्, जालम् · तृतीया
 हस्तेन · चतुर्थी कपोताय · पञ्चमी ग्रामात् · षष्ठी वृक्षस्य · सप्तमी प्रभाते, समीपे, वृक्षे ·
 सम्बोधनम् हे मित्र. A learner's व्याधः कपोताय अन्नम् क्षिपति "throws food at the dove" is
 accepted without penalty (§22).
@@ -1059,9 +1060,9 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 (item 4 is the real-world task).
 
 1. **(10 min, closed-book)** The §19 quiz, then its key. 7/10 or more completes the exam.
-2. **(10 min)** Re-listen to the task A audio with the §16 script open, and underline every
+2. **(15 min)** Re-listen to the task A audio with the §16 script open, and underline every
    ending you missed in the sitting. Then mark each line's cases in the margin.
-3. **(15 min, recorded — production)** Task E once more, on a different picture: the court
+3. **(20 min, recorded — production)** Task E once more, on a different picture: the court
    scene of lesson 4 or any photo from home. Six sentences, every case at least once.
    Compare it with your exam take and with §13's model *after* you record.
 4. **(5 min, real world)** Teach someone at home the column on one name — theirs, if it is
@@ -1075,8 +1076,9 @@ runs as Station 0 of v3.c02.l01.
 
 अध्यापकटिप्पणी
 
-**Format.** Station 0 and Stations 1–4 (§3, about 8 minutes) run *before* the sitting and
-outside it. The sitting is 45 minutes: A to the whole room (8) → B (7) → C, timed (8) → D,
+**Format.** Station 0 and Stations 1–4 (§3, about 8 minutes) and the §9 warm-up (2 minutes)
+run *before* the sitting and outside it, so book about 55 minutes of room time; the
+lesson's 45 minutes are the sitting alone. The sitting is 45 minutes: A to the whole room (8) → B (7) → C, timed (8) → D,
 alone (12) → E, recorded (10). The §19 quiz is taken in the self-study session, after the
 sitting. If the room cannot record at once, run E in pairs — one learner records while the
 partner holds the rubric — and schedule a second slot for the rest; say why. Never show
@@ -1110,8 +1112,9 @@ motion: Pāṇini allows it beside the accusative (2.3.12 गत्यर्थ�
 द्वितीयाचतुर्थ्यौ चेष्टायामनध्वनि); the course teaches only the accusative. (2) **विना**
 with the accusative or the ablative (जलम् विना, जलात् विना): correct Sanskrit (Apte s.v.
 विना; 2.3.32 makes the instrumental an option); the course drills the instrumental. (3)
-**व्याधः कपोताय अन्नम् क्षिपति** "throws food at the dove": classical (Whitney §286f) but
-untaught, so it is not offered as a model; accept it in task E. (4) **रामाद्** for रामात्:
+**व्याधः कपोताय अन्नम् क्षिपति** "throws food at the dove": classical (क्षिप् "with loc. or
+sometimes dat.", citing Ms. 3.88 [REF:apte1890 s.v. क्षिप्]; Whitney §286f) but untaught, so
+it is not offered as a model; accept it in task E. (4) **रामाद्** for रामात्:
 the Laghukaumudī also gives the -द् at pause (8.4.56 वाऽवसाने); the course prints -आत्, as
 Whitney's table does.
 
@@ -1120,7 +1123,7 @@ pratyāhāra: it runs from the first ending सु of 4.1.2 to the final marker 
 all twenty-one nominal endings; *tiṅ* names the eighteen verb endings the same way (3.4.78).
 The pratyāhāra mechanism is v4.c01's; do not teach it now, and do not say "from its last
 syllable". The chapter's other sūtras are listed
-in the four lessons' Teacher Notes (the kāraka definitions 1.4.24–1.4.54, the case
+in the four lessons' Teacher Notes (the kāraka definitions 1.4.24–1.4.55, the case
 assignments of 2.3, 2.3.47 and 2.3.50, the ṇ rule 8.4.1–2 and 8.4.37, 6.1.69). The
 Laghukaumudī's walk through राम follows its ending list [REF:laghukaumudi on 4.1.2]; its
 order and the 2.0 table agree, except that it takes the vocative up beside the first case
@@ -1130,9 +1133,9 @@ and the course prints it last, as Whitney does.
 read it, say: "those are the grammar's code names for the endings, with marker letters
 added; Volume 4 reads them." Its IAST is printed in §15 only so that nobody guesses.
 
-**The Hindi angles.** The Hindi bridge is the strongest hook of the chapter; let the class
-build the §15 bridge table from the Station 0 pictures before you show it. The Hindi points
-follow Kachru [REF:kachru2006], cited bare until Pass C has located each; the eight कारक of
+**The Hindi angles.** Let the class build the Hindi bridge of §15 from the Station 0
+pictures, as a list of से, को, के साथ, में/पर and का/के/की, before you show it. The Hindi points
+follow Kachru [REF:kachru2006], cited bare (no locator), by the editor's decision; the eight कारक of
 Hindi school grammar are TRADITION, attributed [REF:guru1952], and are assessed only as
 "According to Hindi school grammar …" — this exam does not assess them.
 

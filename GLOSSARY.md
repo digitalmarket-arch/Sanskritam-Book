@@ -65,8 +65,8 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun in gender, number and case (system: Volume 3) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |
 | आत्मनेपद | ātmanepada | the tradition's name for the "middle voice" — Sanskrit's second family of verb endings (रोचते; system: Volumes 3–4) | आत्मनेपद — क्रिया के अन्त-चिह्नों का दूसरा परिवार | v2.c05.l03 |
 | सन्धि | sandhi | joining — the regular sound-changes where words meet (system: Volume 3) | सन्धि (शब्दों का आपस में जुड़ना) | v1.c01.l01 |
-| कर्ता | kartā | subject — the "doer" slot of a sentence | कर्ता (वाक्य का करने वाला) | v1.c06.l03 |
-| कर्म | karma | object (of a verb); as a word also "action, deed" | कर्म | v1.c06.l03 |
+| कर्ता | kartā | the doer — in Pāṇini's grammar the kāraka of the one who acts (v3.c01.l01); Volume 1's rough label "subject" | कर्ता (क्रिया करने वाला) | v1.c06.l03 |
+| कर्म | karma | the done-to, and the goal of motion — in Pāṇini's grammar the kāraka of what the doer acts on or goes to (v3.c01.l01); Volume 1's rough label "object"; as a word also "action, deed" | कर्म | v1.c06.l03 |
 | विभक्ति | vibhakti | case ending; the case system (Volume 3) | विभक्ति (कारक-रूप) | v2.c02.l04 |
 | लिङ्ग | liṅga | grammatical gender: masculine, feminine, neuter | लिंग (पुल्लिंग, स्त्रीलिंग, नपुंसक) | v2.c03.l01 |
 | समास | samāsa | compound word: सोमवार = सोम + वार | समास | v2.c03.l04 |
@@ -77,6 +77,15 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | लट् | laṭ | the tradition's label for the present tense | लट् (वर्तमान काल) | v2.c04.l02 |
 | उपसर्ग | upasarga | verbal prefix: आ in आगच्छति | उपसर्ग (क्रिया के आगे जुड़ने वाला अंश) | v2.c05.l01 |
 | धातु | dhātu | verbal root: √युज् "join, yoke" | धातु (शब्द की जड़) | v2.c06.l04 |
+| प्रथमा · द्वितीया · तृतीया · चतुर्थी · पञ्चमी · षष्ठी · सप्तमी | prathamā · dvitīyā · tṛtīyā · caturthī · pañcamī · ṣaṣṭhī · saptamī | the tradition's numbered case names, "first" … "seventh": nominative, accusative, instrumental, dative, ablative, genitive, locative | प्रथमा … सप्तमी (विभक्तियों के क्रम-नाम) | v3.c01.l01 |
+| सम्बोधनम् | sambodhanam | "calling": the vocative (हे राम) | सम्बोधन | v3.c01.l01 |
+| कारकम् | kārakam | in Pāṇini's grammar, a role a noun plays in an action; six of them | कारक (क्रिया में भूमिका) | v3.c01.l01 |
+| अपादानम् · अधिकरणम् | apādānam · adhikaraṇam | the fixed point moved away from · the place where (kāraka names) | अपादान · अधिकरण | v3.c01.l02 |
+| करणम् · सम्प्रदानम् | karaṇam · sampradānam | the means · the receiver (kāraka names) | करण (साधन) · सम्प्रदान (पाने वाला) | v3.c01.l03 |
+| सम्बन्धः | sambandhaḥ | "relation": the name grammar books use for the genitive's job; according to Pāṇini not a kāraka | सम्बन्ध | v3.c01.l04 |
+| सुप् · तिङ् | sup · tiṅ | the tradition's names for the whole set of noun endings · of verb endings | सुप् · तिङ् | v3.c01.l05 |
+| सुबन्तम् · तिङन्तम् | subantam · tiṅantam | "ending in a sup": a noun form · "ending in a tiṅ": a verb form | सुबन्त · तिङन्त | v3.c01.l05 |
+| पदम् | padam | a word in the grammar's sense: what ends in a sup or a tiṅ ending (1.4.14) | पद | v3.c01.l05 |
 
 ## Course meta-vocabulary
 

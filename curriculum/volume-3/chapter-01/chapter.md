@@ -99,7 +99,7 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 Lesson 5 is the chapter exam, one 45-minute sitting: A listening (a ten-sentence scene,
 ten case questions answered in one word, 8 min); B dictation (eight inflected words and
 two sentences, 7 min); C production grid (twelve noun-and-asker prompts, 8 min); D case
-detective (every noun in both Volume 2 stories, its case and its job, 12 min); E scene
+detective (the 25 a-stem nouns of both Volume 2 stories, each with its case and its job, 12 min); E scene
 description (six recorded sentences about a picture, every case at least once, scored on
 communication first and endings second, 10 min). Pass: every task at partial or better and
 the §19 quiz at 7/10. Station 0 chain: l01 runs v2.c06.l05's +1-week booking; each lesson

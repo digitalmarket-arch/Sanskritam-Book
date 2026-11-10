@@ -323,7 +323,8 @@ it is the one new ending of the day: **-आत्**. कुतः? — ग्र
 village." The last row is a promise: v2.c02.l04 answered every "where" with अत्र or तत्र and said
 that "in the house" needed case machinery. Here it is: गृहे.
 
-(मृगाः in the verse is a plural, glossed whole; the plural is Chapter 2's.)
+(मृगाः in the verse is a plural noun and प्रविशन्ति a plural verb, both glossed whole; the
+plural noun is Chapter 2's, the plural verb Chapter 3's.)
 
 ### Step 4 — the pattern, named
 
@@ -384,7 +385,7 @@ said complete, with no joins.
 ## 9. Pronunciation
 
 उच्चारणम् — no new sounds; the work is two endings heard and said clearly. Audio: 🔊
-`planned:assets/audio/volume-3/v3c01l02-triplets.mp3` (drills 1–4 and the dictation track).
+`planned:assets/audio/volume-3/v3c01l02-triplets.mp3` (drills 1–5 and the dictation track).
 
 **Drill 1 — the dictation triplets.** Three of the four cases you now own, on one noun,
 as one breath-group each: रामः · रामम् · रामे, then व्याधः · व्याधम् · व्याधे. Say each triplet
@@ -653,7 +654,7 @@ answer is the goal, -म्. The verb decides, not the question word.
 
 ### Paradigm ledger
 
-T1 — प्रथमा, द्वितीया, पञ्चमी, सप्तमी ✓; तृतीया, चतुर्थी, षष्ठी, सम्बोधनम् ○; कः, सः: nom., acc., abl., loc. ✓.
+T1 — प्रथमा, द्वितीया, पञ्चमी, सप्तमी ✓; तृतीया, चतुर्थी, षष्ठी, सम्बोधनम् ○; कः, सः: nom., acc., abl., loc. ✓; अहम्, त्वम्: acc. (माम्, त्वाम्) ✓, abl. and loc. (मत् त्वत्, मयि त्वयि) ○ (c05.l01).
 
 ## 16. Conversation
 
