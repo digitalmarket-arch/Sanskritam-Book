@@ -4,6 +4,18 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- STYLE_GUIDE §3.1, pause form and joined text: all course-written Sanskrit stays in pause
+  form through v3.c04.l03; from v3.c04.l04 it is printed joined, with the pause form, IAST
+  and gloss below each line. The section fixes where joined words are written together and
+  where a space stands, where sandhi does not apply (across a daṇḍa, a speech dash, a
+  closing quotation mark before इति), how a compound's inner seam is shown, and how
+  authentic text is divided. It is the Volume 3 plan's §1.4, approved with the plan and
+  required before Chapter 4 is drafted.
+
 ## [0.14.0] — 2026-11-10
 
 Volume 3, Chapter 2 — सुबन्तविस्तारः (Nouns & Cases II) — is reviewed and shipped: five

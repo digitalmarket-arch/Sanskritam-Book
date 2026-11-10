@@ -123,6 +123,33 @@ Sibilants + h (ऊष्माणः): श **/ɕ/** · ष /ʂ/ · स /s/ · �
 - Never retype long Devanagari passages from memory — copy from the verified vocabulary tables
   or GLOSSARY, then adjust. (Defense against silent mātrā typos.)
 
+### 3.1 Pause form and joined text
+
+Sanskrit can be printed word by word, each word in the shape it has before a pause (the
+pause form, Hindi विराम-रूप), or joined, with sandhi applied where words meet. The course
+uses both, in a fixed order.
+
+- **Through v3.c04.l03 all course-written Sanskrit is in pause form.** Joined shapes appear
+  only as whole words the learner already owns (नमस्ते), inside quoted verses and sayings,
+  and as labelled displays. v3.c04.l01–l03 show seams one kind at a time.
+- **From v3.c04.l04 on, course-written text is printed joined**, with full external sandhi.
+  Words are written together wherever the seam fuses into one akṣara or a conjunct, or the
+  first word ends in a consonant (जलमस्ति, तन्मे, जगच्च, गुरुर्वदति). Words are separated by
+  a space where the first word, after sandhi, ends in a vowel, anusvāra or visarga (स
+  पिपासितोऽस्ति, सत्यं वद, परमो धर्मः, मूषक आगच्छति).
+- **No sandhi across** a daṇḍa, across the dash of a speech frame (उवाच — "…"), or across
+  the closing quotation mark before इति ("…करिष्यामि" इति); beyond इति sandhi resumes
+  ("…लघुरसि" इत्यवदत्).
+- **Below every joined line** from v3.c04.l04 on: the pause form (पदपाठः), then IAST and
+  the gloss.
+- **A compound is one word in the pause form.** Where a line shows a compound's inner seam
+  (v3.c04.l01–l03), its members are printed hyphenated, never as free words: सूर्य-उदये →
+  सूर्योदये.
+- **Authentic text** keeps the word division of the e-text that REFERENCES names. Evident
+  typos of the e-text are corrected, and each correction is listed in Teacher Notes, with
+  every departure from full sandhi noted beside it (महान् जम्बूपादपः for महाञ्जम्बू°).
+  Editions vary in how they divide words; a lesson says so where it matters.
+
 ---
 
 ## 4. The four-register policy (fact / history / tradition / symbolism)
