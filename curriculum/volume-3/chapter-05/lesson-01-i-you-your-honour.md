@@ -1483,7 +1483,7 @@ narrator reads the cue, not the English spelling.
   वदतु v2.c05.l02, आगच्छतु भवान् and भवन्तः v3.c03.l04, भगवन् and श्रीमन् v2.c01.l04, धीमान्
   v3.c04.l03, सखे v3.c03.l03 Teacher Notes, नमस्ते v1.c01.l01); the S0-an and S0-am lines against
   v3.c04.l05 §20 and v3.c04.l04 §20 (identical).
-- **Glossary:** सर्वनाम — added to GLOSSARY.md when the chapter ships, as the fact base's §7
+- **Glossary:** सर्वनाम — in GLOSSARY.md (row added with this chapter), as the fact base's §7
   item 6 words it —, आदेश "substitute" and लिङ्ग are grammar terms, not ledger words. "Enclitic" has no Sanskrit term in the course: the lessons say "short
   form", Hindi लघु रूप.
 - **Register audit:** FACT ×9 callouts (§5 the short-form rule · §5 the fragments of several

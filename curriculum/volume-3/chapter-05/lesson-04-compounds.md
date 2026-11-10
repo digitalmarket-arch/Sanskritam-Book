@@ -1460,7 +1460,7 @@ narrator reads the cue, not the English spelling.
   (Station 0 S0-av; task C, the ten compounds), v3.c06.l01 (Station 0 S0-aw), v3.c06.l02 (the
   Hitopadeśa read: *pāśa-baddhān*, *alpa-śaktiḥ*), v4.c04 (accent; prādi, gati, upapada;
   -राज, -सख), v4.c05 (the s-stem of मनसः).
-- **Glossary:** candidate additions, with the Hindi forms of the fact base's §7 item 6 —
+- **Glossary:** added to GLOSSARY.md, with the Hindi forms of the fact base's §7 item 6 —
   **विग्रह (vigraha) "the phrase with case endings that a compound compresses" — विग्रह
   [समास-विग्रह]**; **द्वन्द्व (dvandva) "the 'and'-compound: सिंहमूषकौ [2.2.29]" — द्वन्द्व**;
   **तत्पुरुष (tatpuruṣa) "the dependent compound: विद्यालयः = विद्यायाः आलयः" — तत्पुरुष**;

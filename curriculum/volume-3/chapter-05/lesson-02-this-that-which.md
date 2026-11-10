@@ -1470,7 +1470,7 @@ narrator reads the cue, not the English spelling.
   feeds v3.c05.l03 (Station 0 S0-ar; the relative sentence यः … सः; the correlative grid),
   v3.c05.l04 (Station 0 S0-as; चित्रग्रीवः resolved), v3.c05.l05 (the exam's task A), v3.c06.l04
   (Hit 1.71, *ayaṃ nijaḥ paro veti*), Volume 4 (एके; the s-stem declension).
-- **Glossary:** candidate addition, with the fact base's Hindi form — **सर्वनाम (sarvanāma)
+- **Glossary:** added to GLOSSARY.md, with the fact base's Hindi form — **सर्वनाम (sarvanāma)
   "pronoun — and Pāṇini's class of words beginning with सर्व, 1.1.27: v3.c05.l01–l02" —
   सर्वनाम**. सकारः and तकारः are the -कार names of v1.c02.l01, not new terms. Glossed in Hindi
   at first occurrence (§7) per STYLE_GUIDE §1.2.
