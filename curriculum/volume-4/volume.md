@@ -86,6 +86,20 @@ scripts it cites are kept in `research/evidence/vol4-plan/`.
 
 The exit figures are the plan's (§3) and stay planned figures until each chapter ships.
 
+**Chapter 1, as delivered.** Four lessons: the fourteen sūtras and the pratyāhāra (1.1.71; the
+marker, 1.3.3 and 1.3.9); savarṇa and tapara (1.1.69, 1.1.9, 1.1.70); the case code (1.1.49,
+1.1.66, 1.1.67, with 1.3.10, 1.1.50 and 7.1.9); the Chapter 1 exam, one 45-minute sitting with
+Station 0 outside it, in which the owned vowel joins are re-derived according to Pāṇini. T9 is
+memorised. The toolbox after Chapter 1 holds 12 tools; the ledger stands at 521 (13 ledger-new:
+508 → 513 → 517 → 521 → 521). The 1.x errors are corrected in the open: IR-017 (इको यणचि is
+6.1.77, not 1.1.45), IR-018 (चय् unaspirated; झश् is not जश्; the memory aid with all fourteen),
+and the "~42 pratyāhāras", a count printed without its method, quoted beside the Kāśikā's own
+count (41 by its list, with ञम् and the र of 1.1.51 noted apart). The legend is kept as
+TRADITION, labelled, never assessed (IR-036). The first step of the भवति thread is taken:
+भो + अति → भवति, by 6.1.78 with 1.3.10. Station 0 enters Volume 4 as Volume 3 booked it:
+v4.c01.l01 runs the Volume 3 exam's +1-day item and v3.c06.l04's +1-week item; v4.c01.l02 runs
+the exam's +1-week item.
+
 ## Entry and exit
 
 **Entry:** Volume 3 complete — the Volume 3 exam passed (v3.c06.l05); 508 readable words;

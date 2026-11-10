@@ -12,7 +12,7 @@ lesson: 1
 lesson_type: grammar
 cefr: B1
 duration_minutes: 45
-self_study_minutes: 43
+self_study_minutes: 45
 prerequisites: [v3.c06.l05]
 review_of: [v3.c06.l05, v3.c06.l04, v3.c04.l01, v1.c04.l04, v1.c03.l01]
 objectives:
@@ -163,8 +163,7 @@ they make, and what the 1.x book got wrong.
 > **[HISTORY · इतिहासः]** The fourteen sūtras are handed down with Pāṇini's Aṣṭādhyāyī, at its
 > head, but they are not among its numbered rules: the Aṣṭādhyāyī's own rules start at 1.1.1.
 > The Kāśikā, a commentary on the whole Aṣṭādhyāyī (c. 7th c. CE), explains them first, 'for the
-> sake of the pratyāhāras'. Their authorship and how they were transmitted are matters of
-> scholarly discussion [REF:maheshvarasutras]; [REF:kashika]; [REF:cardona1997].
+> sake of the pratyāhāras' [REF:maheshvarasutras]; [REF:kashika].
 
 So every number you read in this volume — 1.1.71, 6.1.77 — is a rule of the eight books, and the
 fourteen lines are not numbered among them. They are the list the numbered rules point into.
@@ -338,7 +337,7 @@ than अ → अ, with a gap; अच् इति → अजिति — a fina
 
 **सुनाते समय।** हयवरट् को "हयवर्ट्" मत बोलिए: हर व्यञ्जन के साथ उसका अ पूरा बोलिए — ह य व रट्।
 यह अ केवल उच्चारण के लिए है; वह सूची का वर्ण नहीं है। केवल अन्त का इत् बिना स्वर के बोला जाता है।
-और हिन्दी बोलने वाले अक्सर बीच का अ गिरा देते हैं — संस्कृत में ऐसा कभी नहीं।
+हिन्दी बोलने की आदत से बीच का अ गिर सकता है; सूत्रों के पाठ में हर अ बोला जाता है।
 
 ## 8. English Explanation
 
@@ -641,10 +640,14 @@ something else — the very joins being named. The Kāśikā writes them the sam
 is printed as the Aṣṭādhyāyī text has it, joined (इको यणचि), and is never re-joined or split.
 
 **Quoted forms join the इति after them.** A quoted form — a name, a sūtra, a word — is joined
-to the इति that follows it: हलिति, अजिति, इको यणचीति. The Laghusiddhāntakaumudī writes अणिति
-the same way [REF:laghukaumudi on 1.1.71]. Its first sound is never fused with the word before
-it, so that the form can still be seen: अत्र अत इति, not अत्रात इति. Every other seam of a line
-is joined as Volume 3 taught. These conventions hold in every lesson of the chapter.
+to the इति that follows it: हलिति, अजिति, इको यणचीति. Its first sound is never fused with the
+word before it, so that the form can still be seen: अत्र अत इति, not अत्रात इति. One limit, for
+your own sentences: a name that ends in ण् after a short vowel — अण्, इण्, यण्, अइउण् — is not
+set before इति or any other vowel, because by rule the ण् would double there, and this chapter
+does not teach that seam; say the name alone, before a daṇḍa, or inside a compound
+(इण्प्रत्याहारे). The Laghusiddhāntakaumudī prints अणिति, without the doubling
+[REF:laghukaumudi on 1.1.71]; the course does not copy that form into its own sentences
+(Teacher Notes). Every other seam of a line is joined as Volume 3 taught. These conventions hold in every lesson of the chapter.
 
 **Status marks.** ✓ productive — "you produce it: exercises, quiz and exam may ask for it";
 ◐ recognition — "you read it when you meet it; nothing asks you to produce it, and nothing scores
@@ -810,7 +813,8 @@ and *tiṅ* as pratyāhāras (c02.l01, c03.l01). **Deferred:** the two-ण् qu
 | 1.1.50 as a sūtra | ○ (read in v4.c01.l03) |
 | लोपः as a word | ○ (c02.l02) |
 | the markers on affixes (सुँ, शप्); *sup* and *tiṅ* | ○ (c02.l01; c03.l01–l02) |
-| the count of pratyāhāras; the legend | ○ (§4; never assessed) |
+| the Kāśikā's count of pratyāhāras, with its method — asked only "According to the Kāśikā" (v4.c01.l04 §19 Q3) | ✓ |
+| the legend | ○ (§4; never assessed) |
 
 ✓ the fourteen sūtras and the day's pratyāhāras; ○ 1.1.50 (read in l03); ○ लोपः as a word
 (c02.l02); ○ the markers on affixes (सुँ c02.l01; शप् c03.l02)
@@ -898,8 +902,7 @@ the commentators who read him. The first two stations are told here, each once.
 > **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī is placed around the 4th century BCE on the usual
 > scholarly estimate; estimates vary [REF:cardona1997]. In his own rules Pāṇini names other
 > teachers of grammar — among them Āpiśali, Śākaṭāyana and Śākalya (the rules that name them:
-> Teacher Notes) — whom scholars take to be grammarians before him or of his time
-> [REF:cardona1997].
+> Teacher Notes).
 
 So the grammar you are reading names, inside its own rules, other teachers of the same craft.
 
@@ -918,14 +921,14 @@ The legend of the drum belongs to this line too, but it is told once, in §4, an
 
 अभ्यासाः — seven exercises. Exercises 1, 6 and 7 are production tasks (writing the list, writing
 and saying sentences, reciting); 2–4 expand and sort; 5 runs the derivation. All keys sit in
-§19's collapsed key — nothing is answered on this page. Exercises 1, 2, 3 (1)–(5) and 5 are done
-in class; 3 (6)–(10), 4, 6 and 7 are homework (§21, §22).
+§19's collapsed key — nothing is answered on this page. Exercises 1, 3 (1)–(5) and 5 are done
+in class; 2, 3 (6)–(10), 4, 6 and 7 are homework (§21, §22).
 
 **अभ्यासः 1 · the fourteen on the grid (objective 1; production, written; in class, 6 min).**
 On the blank grid sheet (`planned:assets/worksheets/volume-4/v4c01l01-grid-and-traps.pdf`), write
 the fourteen sūtras in order, one per line; then circle every marker. 14 items, one per sūtra.
 
-**अभ्यासः 2 · supply the marker (objective 1; in class, 2 min).** (1) ऋऌ_ (2) हयवर_ (3)
+**अभ्यासः 2 · supply the marker (objective 1; homework, 2 min).** (1) ऋऌ_ (2) हयवर_ (3)
 ञमङणन_ (4) खफछठथचटत_ (5) शषस_ (6) झभ_
 
 **अभ्यासः 3 · expand from the sūtras (objective 2; (1)–(5) in class, 3 min; (6)–(10) homework,
@@ -956,9 +959,9 @@ columns; the gloss is optional:
 
 **अभ्यासः 6 · six sentences (objective 4; production, written then said; homework, 8 min).**
 Write in Sanskrit, joined, with the pause form beneath; then say each aloud, joined: (1) "हल् is
-the abbreviation for the consonants." (2) "इक् means four sounds." (3) "A marker disappears."
-(4) "The last sound of अइउण् is ṇ." (5) "अच् is the abbreviation for the vowels." (6) "How many
-syllables are there in इको यणचि? Five."
+the abbreviation for the consonants." (2) "इक् means four sounds." (3) "ṇ is a marker."
+(4) "अइउण्. Its last sound is ṇ." [two sentences, as §16 says it] (5) "अच् is the abbreviation
+for the vowels." (6) "How many syllables are there in इको यणचि? Five."
 
 **अभ्यासः 7 · the fourteen aloud (objective 1; production, spoken; homework, 3 min, recorded).**
 Recite the fourteen at a steady pace, helping अ sounded, markers bare. Record it; then listen
@@ -1055,16 +1058,17 @@ v4.c01.l02's rule.) One point for the sounds, one for the reason. Score /6.
 
 6: (1) हलिति व्यञ्जनानां प्रत्याहारः। (hal iti vyañjanānāṃ pratyāhāraḥ.) [pause: हल् इति
 व्यञ्जनानाम् प्रत्याहारः।] (2) इगिति चत्वारो वर्णाः। (ig iti catvāro varṇāḥ.) [pause: इक् इति
-चत्वारः वर्णाः।] — or, with the four sounds quoted, §13 sentence 5. (3) इतो लोपः। (ito lopaḥ.)
-[pause: इतः लोपः।] (4) अइउणित्यस्यान्त्यो वर्णो णकारः। (aiuṇ ity asyāntyo varṇo ṇakāraḥ.)
-[pause: अइउण् इति अस्य अन्त्यः वर्णः णकारः।] — or अइउणिति सूत्रस्यान्त्यो वर्णो णकारः। [pause:
-अइउण् इति सूत्रस्य अन्त्यः वर्णः णकारः।] (5) अजिति स्वराणां प्रत्याहारः। (aj iti svarāṇāṃ
+चत्वारः वर्णाः।] — or, with the four sounds quoted, §13 sentence 5. (3) णकार इत्। (ṇakāra it.)
+[pause: णकारः इत्।] (4) अइउण्। तस्यान्त्यो वर्णो णकारः। (aiuṇ. tasyāntyo varṇo ṇakāraḥ.)
+[pause: अइउण्। तस्य अन्त्यः वर्णः णकारः।] — §16, turn 2. A name that ends in ण् after a short
+vowel is not set before इति or any vowel in your own sentences: the ण् would double there, a
+seam this chapter does not teach (§15). (5) अजिति स्वराणां प्रत्याहारः। (aj iti svarāṇāṃ
 pratyāhāraḥ.) [pause: अच् इति स्वराणाम् प्रत्याहारः।] (6) इको यणचीत्यत्र कत्यक्षराणि?
 पञ्चाक्षराणि। (iko yaṇ acīty atra katy akṣarāṇi? pañcākṣarāṇi.) [pause: इको यणचि इति अत्र कति
 अक्षराणि? पञ्च अक्षराणि।] Accept any correct Sanskrit with correct joins; (4) अइउणः अन्त्यो वर्णो
-णकारः is **not** accepted: अइउण् here names a sūtra, and a sūtra is cited with इति, not
-declined (a pratyāhāra name is declined as a label: इकः, §16). One point for the joined line, one for
-the pause form. Score /12; then say each aloud, joined, with no pause at any seam.
+णकारः is **not** accepted: अइउण् here names a sūtra, and a sūtra is cited, not declined (a
+pratyāhāra name is declined as a label: इकः, §16); अइउणिति is not written either: by rule
+the ण् would double before इति — §15. One point for the joined line, one for the pause form. Score /12; then say each aloud, joined, with no pause at any seam.
 
 7: the recording against the track. One tick per line said with every helping अ and a bare
 marker; 12/14 passes. A line said as *hayavarṭ* or *jabagaḍdaś* is §12 mistake 6: say it again
@@ -1093,9 +1097,9 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 43 minutes total.
+गृहकार्यम् — about 45 minutes total.
 
-0. **(3 min)** §18 exercise 3, items (6)–(10).
+0. **(2 min + 3 min)** §18 exercise 2, the markers (2); then exercise 3, items (6)–(10) (3).
 1. **(5 min)** §18 exercise 4, the traps.
 2. **(8 min)** §18 exercise 6: six sentences, written joined with the pause form beneath, then
    said aloud.
@@ -1116,14 +1120,15 @@ the right, and ask the hook's question: which syllable says "i", which "y", whic
 vowel"? Let the class guess; nobody can be right yet. Then write the fourteen lines between them.
 
 **Timing plan (45 min):** 0–6 Station 0, two items, scores logged (§3) → 6–8 the three review
-prompts, aloud (§3) → 8–10 the hook → 10–18 the fourteen on the grid, the two facts, recitation
-(§8 Steps 1–3; §9), with §4's HISTORY callout and the legend told once, in one minute, before the
-grid → 18–24 exercise 1 (6) → 24–31 pratyāhāras: exercise 2 (2), exercise 3 items (1)–(5) (3),
-with their checks (2) → 31–40 the derivation of इत्यवदत् with the teacher (4), then exercise 5
-(5) → 40–45 the 1.x corrections (§4) (3) and the payoff, with §17's line on the
-Laghusiddhāntakaumudī (2). Exercise 3 items (6)–(10), exercises 4, 6 and 7, §16 and the §19 quiz
-are homework (§21); exercises 1, 2, 3 (1)–(5) and 5 are checked at home against §19's key. §16 is
-not read in class.
+prompts, aloud (§3) → 8–10 the hook → 10–17 the fourteen on the grid, the two facts, recitation
+(§8 Steps 1–3, the list; §9 Drill 1), with §4's HISTORY callout and the legend told once, in one
+minute, before the grid → 17–22 the marker and the name: 1.3.3, 1.3.9 and 1.1.71 read, अच्, इक्
+and यण् opened on the grid, 6.1.77 read through them (§8 Step 3; §15) (5) → 22–28 exercise 1 (6)
+→ 28–31 exercise 3 items (1)–(5) (3) → 31–40 the derivation of इत्यवदत् with the teacher (4), then
+exercise 5 (5) → 40–45 the 1.x corrections (§4) (3) and the payoff, with §17's line on the
+Laghusiddhāntakaumudī (2). Exercise 2, exercise 3 items (6)–(10), exercises 4, 6 and 7, §16 and
+the §19 quiz are homework (§21); exercises 1, 3 (1)–(5) and 5 are checked at home against §19's
+key. §16 is not read in class.
 
 **Board work.** Left: the empty Volume 1 grid (five places down, five manners across), filled
 line by line as the class recites — the consonant lines run down the columns. Middle: T9 in two
@@ -1140,7 +1145,7 @@ added: 4.
 
 - 1.3.2 उपदेशेऽजनुनासिक इत् — the source of the carried words [उपदेशे] and [इत्] in 1.3.3
   [REF:ashtadhyayi 1.3.2]. It is c02.l01's B; do not give its number today.
-- The rules that name the earlier teachers (§17): Āpiśali — 6.1.92 वा सुप्यापिशलेः; Śākaṭāyana —
+- The rules that name the other teachers (§17): Āpiśali — 6.1.92 वा सुप्यापिशलेः; Śākaṭāyana —
   3.4.111 लङः शाकटायनस्यैव, 8.3.18 व्योर्लघुप्रयत्नतरः शाकटायनस्य, 8.4.50 त्रिप्रभृतिषु
   शाकटायनस्य; Śākalya — 1.1.16 सम्बुद्धौ शाकल्यस्येतावनार्षे, 6.1.127 इकोऽसवर्णे शाकल्यस्य
   ह्रस्वश्च, 8.3.19 लोपः शाकल्यस्य, 8.4.51 सर्वत्र शाकल्यस्य [REF:ashtadhyayi 6.1.92]
@@ -1151,6 +1156,10 @@ added: 4.
   ङ्णोः कुक्टुक् शरि; `varlghku.htm` line 375: *cayo dvitīyāḥ śari pauṣkarasāder iti vācyam*).
   चय् is in no sūtra; it is taught for the 1.x error.
 - 8.4.68 अ अ — already printed in v1.c01.l03 as TRADITION; see the saṃvṛta note below.
+- 8.3.32 ङमो ह्रस्वादचि ङमुण्नित्यम् — a word-final ङ्, ण् or न् after a short vowel is doubled
+  before a vowel; Volume 3 taught the न् row only (तस्मिन्नेव, v3.c04.l03). The sūtras are printed
+  as Pāṇini has them (इको यणचि) and do not double the ण् there; the course's own sentences avoid
+  the seam: no ण्-final name before इति or a vowel (§15; the key to exercise 6 (4)).
 
 **The commentary lines behind the lesson** — text of the GRETIL e-text (`jvkasipu.htm`,
 `varlghku.htm`), with the e-text's evident typos corrected and every correction listed:
@@ -1244,6 +1253,13 @@ open; so that they count as one family, a is taken as open in the grammar, and a
 
 **Why ह twice.** The Kāśikā on हल्, lines 278–288, explains that each ह is needed by different
 rules. Give that gist if asked, and no more.
+
+**Names in ण् before a vowel.** By 8.3.32 a word-final ङ्, ण् or न् after a short vowel doubles
+before a vowel; Volume 3 taught that row for न् only (v3.c04.l03). Two printed forms do not
+show the doubling: the sūtra इको यणचि as it is handed down, and the Laghusiddhāntakaumudī's
+यथाणिति [REF:laghukaumudi on 1.1.71]. The course does not rule on them; its own sentences keep
+such a name away from a following vowel — alone before a daṇḍa (§16, turn 2; exercise 6 (4)),
+or in a compound (§15; lesson 4 §13).
 
 **The हलन्त cell.** GLOSSARY हलन्त "consonant-final; a common name for the virāma" (v1.c05.l01).
 The हल् of हलन्त is today's pratyāhāra; the table's cell says only "the name हलन्त [v1.c05.l01]".

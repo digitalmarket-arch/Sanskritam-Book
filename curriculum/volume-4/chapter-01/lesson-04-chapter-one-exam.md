@@ -132,12 +132,12 @@ a task falls below its pass mark; the extra day of a re-run is spacing, and spac
 [REF:cepeda2006].
 
 **How today reaches every lesson it reviews.** Lessons 1–3 are reached by the five tasks and by
-Station 0 (item 1 from lesson 3, item 2 from lesson 2; task A and task B are lesson 1's). v3.c04.l01,
+Station 0 (item 1 from lesson 3, item 2 from lesson 2; task A is lesson 1's, task B lessons 1 and 2's). v3.c04.l01,
 where you met the five joins of task D as names — सवर्णदीर्घः, यण्, वृद्धिः, गुणः — is reached by
 task D and by the thread verse of §17. v3.c06.l05, the Volume 3 exam, whose overlay read the four
 thread verses, is reached by §17, which reads one of them again, and by the closing line of §20.
 None of today's Station 0 items is an item of tasks A–E: task C reads 6.1.77, 6.1.78, 6.1.101,
-7.1.9, 7.3.101 and 8.4.40; task D derives with 6.1.87 and 6.1.88 and does not case-code them;
+7.1.9, 7.3.101 and 8.4.40; task D derives joins and asks for no case code;
 task B expands names and does not ask what a letter covers.
 
 ## 4. Historical Context
@@ -148,8 +148,7 @@ task B expands names and does not ask what a letter covers.
 > **[HISTORY · इतिहासः]** The fourteen sūtras are handed down with Pāṇini's Aṣṭādhyāyī, at its
 > head, but they are not among its numbered rules: the Aṣṭādhyāyī's own rules start at 1.1.1.
 > The Kāśikā, a commentary on the whole Aṣṭādhyāyī (c. 7th c. CE), explains them first, 'for the
-> sake of the pratyāhāras'. Their authorship and how they were transmitted are matters of
-> scholarly discussion [REF:maheshvarasutras]; [REF:kashika]; [REF:cardona1997].
+> sake of the pratyāhāras' [REF:maheshvarasutras]; [REF:kashika].
 
 It is printed here word for word as v4.c01.l01 §4 printed it, because §19 asks one question on
 it and a HISTORY item is asked only on a callout the lesson itself prints. Nothing is added to
@@ -157,8 +156,9 @@ it.
 
 Two other lines of lesson 1 stand on the chapter page (§15) as plain text: the Kāśikā's count of
 the pratyāhāras, 41 by its own list, with its method; and the three errors of the 1.x book that
-lesson 1 corrected in the open — चय् is voiceless *unaspirated*, झश् is not जश्, and इको यणचि is
-6.1.77, not 1.1.45 — with the memory aid rebuilt to hold all fourteen lines. §19 asks one
+lesson 1 corrected in the open — the sound-sets: चय् is voiceless *unaspirated*, and झश् is not
+जश्; the memory aid, rebuilt to hold all fourteen lines; and the number: इको यणचि is 6.1.77, not
+1.1.45. §19 asks one
 question on the count (in the frame "According to the Kāśikā") and one on चय्.
 
 The legend of the drum is not told again. Lesson 1 told it once, labelled "Legend", and said
@@ -190,22 +190,16 @@ every derivation item is headed "Derive, according to Pāṇini, …" and is mar
 frame. The two accounts agree on every join of task D: the language does it (Whitney), the
 rules describe it (Pāṇini), and the course prints both.
 
-> **[FACT · तथ्यम्]** Retrieval practice beats re-reading for long-term retention.
-> [REF:roediger2006]
+Each task retrieves the chapter by a different route — the retrieval of §3, run five times: A
+from memory to the list, B from a name to its sounds, C from a rule's cases to what it does, D
+from two words to the joined form step by step, E from the chapter's words to sentences of your
+own.
 
-Each task retrieves the chapter by a different route: A from memory to the list, B from a name
-to its sounds, C from a rule's cases to what it does, D from two words to the joined form step
-by step, E from the chapter's words to sentences of your own.
-
-> **[FACT · तथ्यम्]** Formulaic chunks are taught whole and analysed later. [REF:nation2013]
-
-That is the chapter's own story. इको यणचि and नास्ति were whole items in Volume 3; this
+The course principle behind the chapter, with its one source: formulaic chunks are taught whole
+and analysed later [REF:nation2013]. That is the chapter's own story. इको यणचि and नास्ति were whole items in Volume 3; this
 chapter is the "later" for both, and task D is the proof.
 
-> **[FACT · तथ्यम्]** Spaced practice, with gaps between sessions, is retained longer than the
-> same practice massed together. [REF:cepeda2006]
-
-That is why the exam opens with Station 0, and why §20 books two items for Chapter 2.
+Spaced practice helps retention [REF:cepeda2006]: that is why the exam opens with Station 0, and why §20 books two items for Chapter 2.
 
 ## 6. Sanskrit Explanation
 
@@ -257,24 +251,24 @@ after स्थाने. Line 4: म् → ं before a consonant, twice; the 
 मात्रा के लिए — अत् केवल ह्रस्व अ [1.1.70]। तीसरे पाठ ने सूत्र की भाषा सिखाई — विभक्तियाँ: षष्ठी
 का अर्थ "के स्थान पर", सप्तमी का "से पहले", पञ्चमी का "के बाद", और प्रथमा परिणाम, यानी आदेश।
 
-आज के पाँच कार्य: A — चौदह सूत्र स्मृति से लिखना, हर इत् पर गोला (छह मिनट); B — दस प्रत्याहार
-वर्ण-दर-वर्ण खोलना (सात मिनट); C — छह सूत्रों को उनकी विभक्तियों से पढ़ना: किसके स्थान पर, क्या, और
-कहाँ (दस मिनट); D — पाणिनि के अनुसार पाँच परिचित स्वर-सन्धियों की व्युत्पत्ति, तालिका में, हर चरण
-अपने सूत्र सहित (बारह मिनट); E — इस अध्याय के शब्दों से वर्ण-व्यवस्था पर छह संस्कृत वाक्य, जुड़े रूप
-में, नीचे विराम-रूप के साथ (आठ मिनट)। सबसे पहले दो मिनट निर्देश। वाक्यों को ज़ोर से बोलना और
+आज के पाँच कार्य: A — चौदह सूत्र स्मृति से लिखना, हर इत् पर गोला — छह मिनट; B — दस प्रत्याहार
+वर्ण-दर-वर्ण खोलना — सात मिनट; C — छह सूत्रों को उनकी विभक्तियों से पढ़ना: किसके स्थान पर, क्या, और
+कहाँ — दस मिनट; D — पाणिनि के अनुसार पाँच परिचित स्वर-सन्धियों की व्युत्पत्ति, तालिका में, हर चरण
+अपने सूत्र सहित — बारह मिनट; E — इस अध्याय के शब्दों से वर्ण-व्यवस्था पर छह संस्कृत वाक्य, जुड़े रूप
+में, नीचे विराम-रूप के साथ — आठ मिनट। सबसे पहले दो मिनट निर्देश। वाक्यों को ज़ोर से बोलना और
 रिकॉर्ड करना बैठक के बाद, घर पर होता है।
 
-तीन जाल, जिन पर अंक कटते हैं — अभी याद कर लीजिए। पहला: दो ण्। अण् लगभग हर सूत्र में पहले ण् तक
+तीन जाल, जिन पर अंक कटते हैं — अभी याद कर लीजिए। पहला: दो ण्। अण् 1.1.69 को छोड़कर हर सूत्र में पहले ण् तक
 जाता है — अ इ उ; केवल 1.1.69 में वह दूसरे ण् तक जाता है; और इण् हमेशा दूसरे ण् तक, यानी ल तक। दूसरा:
 एक रूप, दो विभक्तियाँ। अतः षष्ठी भी हो सकता है और पञ्चमी भी; रूप से नहीं, अर्थ से तय होता है।
 पूछिए: परिणाम किसके स्थान पर आ सकता है? 7.1.9 में ऐस् एक प्रत्यय है, इसलिए वह भिस् के स्थान पर आता
 है और अतः पञ्चमी है — "ह्रस्व अ के बाद"; 7.3.101 में दीर्घ एक स्वर है, इसलिए वह ह्रस्व अ के स्थान पर
 आता है और अतः षष्ठी है। तीसरा: व्युत्पत्ति में पहला चरण हमेशा जाँच है — यह वर्ण किस प्रत्याहार में
-है, ये दोनों वर्ण सवर्ण हैं या नहीं — और उसी जाँच से तय होता है कि कौन-सा सूत्र लगेगा। सूर्य + उदयः में
+है, ये दोनों वर्ण सवर्ण हैं या नहीं — और उसी जाँच से तय होता है कि कौन-सा सूत्र लगेगा। पर + उपकारः में
 अ और उ सवर्ण नहीं हैं, इसलिए 6.1.101 नहीं लगता; 6.1.87 लगता है।
 
 एक बात और। व्युत्पत्ति पाणिनि का विश्लेषण है — परम्परा। इसलिए हर व्युत्पत्ति-कार्य "पाणिनि के
-अनुसार" पूछा जाता है। भाषा में जोड़ कैसा बनता है, यह तथ्य है, और ह्विट्नी ने इसे बिना किसी सूत्र के
+अनुसार" पूछा जाता है। भाषा में जोड़ कैसा बनता है, यह तथ्य है, और व्हिटनी ने इसे बिना किसी सूत्र के
 लिखा है [§5]; पाणिनि के सूत्र उसी जोड़ तक चरण-दर-चरण पहुँचते हैं। दोनों आज मेल खाते हैं।
 
 हिन्दी यहाँ भी काम आती है। विद्यालय, सूर्योदय, सदैव जैसे शब्द आप रोज़ बोलते हैं; हिन्दी व्याकरण इनकी
@@ -325,7 +319,7 @@ of task D uses tools from all three.
 
 1. **The check.** Which set is each sound in? Is the left vowel an अक्, an इक्? Is the next an
    अच्, an एच्? Are the two vowels savarṇa? The check decides which rule can apply — and, as
-   important, which cannot (अ and उ are not savarṇa, so 6.1.101 does not apply to सूर्य + उदयः).
+   important, which cannot (अ and उ are not savarṇa, so 6.1.101 does not apply to पर + उपकारः, §13).
 2. **The operation.** The rule that replaces: 6.1.101, 6.1.87, 6.1.88 or 6.1.77, each read by
    its cases.
 3. **The choice.** When the rule offers more than one result — a यण्, a guṇa vowel, a vṛddhi
@@ -339,8 +333,9 @@ the authority for one step, [owned] a Volume 3 rule read again.
 
 ### Step 5 — you assemble the page (unscored)
 
-Copy this frame onto the booklet's last page and fill it from memory before you look at §15. It
-is not scored; it is the page you check tasks A–D against afterwards.
+Copy this frame onto a sheet of your own and fill it from memory at home before the sitting
+(§21 item 1), before you look at §15. It is not scored; it is the page you check tasks A–D
+against afterwards.
 
 | block | from memory |
 |---|---|
@@ -444,9 +439,9 @@ given a family, इण् read as इ उ only, lengthening before every ending,
 savarṇa), l03 §12 (the locative read as "in", every -अः taken for one case, 6.1.78's results
 paired by sound, यण् आदेशः as two free words).
 
-One answer is never a mistake: where two derivations are both correct — the check of task D (4)
-made with 1.1.9 or with the इक् test, 1.1.50 cited or not in task D (1) — every key accepts
-both.
+One answer is never a mistake: where two derivations are both correct — the check of a guṇa
+join made with 1.1.9 or with the इक् test, 1.1.50 cited or not for the long vowel of a savarṇa
+join — every key accepts both.
 
 ## 13. Examples
 
@@ -501,6 +496,19 @@ The four points of a task D item sit in this table: (i) step 1, the check with i
 step 2, the operation's sūtra; (iii) step 3, which substitute and why; (iv) the last line. The
 three guṇa vowels in step 2 are the three Volume 3 named for 6.1.87 (v3.c04.l01 §15 Step 2).
 
+**Derive, according to Pāṇini, मम + ओष्ठौ → ममौष्ठौ** — owned since v3.c04.l01 (§15 Step 3); a
+vṛddhi join: the same four moves, with an एच् check.
+
+| Step | String | Sūtra | What happens |
+|---|---|---|---|
+| 0 | मम + ओष्ठौ | — | two words in contact |
+| 1 | मम + ओष्ठौ | 1.1.71 आदिरन्त्येन सहेता [Q] | ओ is an एच् sound: ए … ऐऔच् |
+| 2 | मम् + (ऐ/औ) + ष्ठौ | 6.1.88 वृद्धिरेचि [आत्, carried from 6.1.87] [owned] | after अ, before an एच्: one vṛddhi vowel for both |
+| 3 | मम् + औ + ष्ठौ | 1.1.50 स्थानेऽन्तरतमः [D] | औ, the vṛddhi vowel most like अ + ओ |
+| 4 | **ममौष्ठौ** | — | joined |
+
+The two vṛddhi vowels in step 2 are the two Volume 3 named for 6.1.88 (v3.c04.l01 §15 Step 3).
+
 ### Task E's kind — a sentence of your own
 
 Two sentences built from the chapter's words, each joined, its pause form beneath:
@@ -516,8 +524,9 @@ Two sentences built from the chapter's words, each joined, its pause form beneat
 The seams: यञ् is consonant-final and is written together with इति; मकारः + अस्ति → मकारोऽस्ति,
 -अः before अ; अच् + इति → अजिति, the final stop voiced before a vowel; हल् + इति → हलिति, written
 together. The comma stops the seam after स्वराः. A name ending in ण् — यण्, इण्, अण् — is better
-kept away from इति in your own sentences: after a short vowel a final ण् doubles before a vowel,
-a rule this chapter has not taught (l03 §13, model sentence 4).
+kept away from इति in your own sentences: by a rule this chapter has not taught, a final ण् after
+a short vowel doubles before a vowel (l03 §13, model sentence 4), though a quoted name is not
+always written so: the Laghusiddhāntakaumudī prints अणिति — l01 §15. The course avoids the seam.
 
 ## 14. Vocabulary
 
@@ -553,7 +562,7 @@ thread verse in §17, glossed as v1.c06.l04 glossed them.
 ## 15. Grammar
 
 व्याकरणम् — the chapter assembled on one page: T9, the pratyāhāras opened, the savarṇa/tapara
-table, the case-code table, the toolbox card, and the six Volume 3 vowel sūtras with their parts
+table, the case-code table, the toolbox card, and the seven Volume 3 vowel sūtras with their parts
 labelled; then the paradigm ledger.
 
 ### (1) T9 — the fourteen sūtras, every marker
@@ -587,10 +596,11 @@ Kāśikā on लण्, printed in l01 §15).
 
 **Where the fourteen stand, and the three corrections (plain text, as lesson 1 gave them).** The
 fourteen sūtras are handed down with the Aṣṭādhyāyī, at its head, and are not among its numbered
-rules (§4). The 1.x book's three errors in this territory, corrected in l01 §4: चय् is च ट त क प,
-voiceless and unaspirated, not "voiceless aspirated"; झश् — ten voiced stops — is not जश् — the five
-unaspirated ones; इको यणचि is 6.1.77, and 1.1.45 is a different rule. The memory aid above is
-the rebuilt one.
+rules (§4). The 1.x book's three errors in this territory, corrected in l01 §4: (1) the
+sound-sets — चय् is च ट त क प, voiceless and unaspirated, not "voiceless aspirated"; झश् — ten
+voiced stops — is not जश् — the five unaspirated ones; (2) the memory aid, which had no line for
+sūtra 12 and left out the ह of sūtra 5 — the one above is the rebuilt one; (3) इको यणचि is
+6.1.77, and 1.1.45 is a different rule.
 
 ### (2) The pratyāhāras of the chapter, opened
 
@@ -661,7 +671,7 @@ replaced item is no word of the sūtra but the bracket [पूर्वपरय
 स्थानेऽन्तरतमः [D] — where a rule offers several results, the one most like the replaced sound
 comes.
 
-### (5) The six Volume 3 vowel sūtras, their parts labelled
+### (5) The seven Volume 3 vowel sūtras, their parts labelled
 
 Each word's case, as the padaccheda names it; carried words in brackets. These are the rules of
 v3.c04.l01, read now in the code.
@@ -711,7 +721,8 @@ v3.c04.l01, read now in the code.
 | लोपः as a word | ○ — c02.l02 |
 | anuvṛtti, the brackets | ○ — c02.l03 |
 | 8.2.66 + 8.3.15 [the final स् → ः] | ○ — c02.l01 |
-| the count of the pratyāhāras; the legend | ○ — never assessed as content; the count asked only "According to the Kāśikā" |
+| the Kāśikā's count of the pratyāhāras, 41, with its method — asked only "According to the Kāśikā" (§19 Q3) | ✓ |
+| the legend | ○ — never assessed |
 
 ✓ productive — you produce it: exercises, quiz and exam may ask for it · ◐ recognition — you
 read it when you meet it; nothing asks you to produce it, and nothing scores it · ○ display —
@@ -785,9 +796,9 @@ you have known since v1.c06.l04. Read it after the sitting, at home (§21), and 
 things below; the key is in §19.
 
 > सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत्॥
-> (sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ | sarve bhadrāṇi paśyantu mā kaścid duḥkhabhāg bhavet ||)
+> (sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ. sarve bhadrāṇi paśyantu mā kaścid duḥkhabhāg bhavet.)
 > सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाक् भवेत्॥
-> (sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ | sarve bhadrāṇi paśyantu mā kaścit duḥkhabhāk bhavet ||)
+> (sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ. sarve bhadrāṇi paśyantu mā kaścit duḥkhabhāk bhavet.)
 > "May all be happy; may all be free of illness; may all see good things; may no one partake of
 > sorrow." — सब सुखी हों, सब निरोग हों; सब शुभ देखें, कोई भी दुःख का भागी न हो। — traditional
 > maṅgala verse; its original source is unrecorded (v1.c06.l04)
@@ -828,7 +839,7 @@ in order, and circle every marker.
 **कार्यम् B · ten pratyāhāras (7 min; 10 marks; pass 7).** Expand each pratyāhāra from the
 sūtras, sound by sound.
 
-(1) अच् · (2) हल् · (3) इक् · (4) यण् · (5) एङ् · (6) अण्, as most rules read it · (7) अण्, as
+(1) अच् · (2) हल् · (3) इक् · (4) यण् · (5) एङ् · (6) अण्, as every rule but 1.1.69 reads it · (7) अण्, as
 1.1.69 reads it · (8) इण् · (9) चय् · (10) झश्
 
 **कार्यम् C · six rules by their case code (10 min; 18 marks; pass 12).** For each sūtra say what
@@ -853,7 +864,9 @@ join in table form — Step · String · Sūtra; the gloss in "What happens" is 
 
 Four marks each: (i) the pratyāhāra or savarṇa check that makes the rule apply, with its sūtra;
 (ii) the operation's sūtra; (iii) which substitute and why — 1.1.50, or 1.3.10, or "one long
-vowel of the same place"; (iv) the joined form.
+vowel of the same place"; (iv) the joined form. A rule of tier D — 1.1.9, 1.1.50, 1.3.10 — may be
+named by its gist in words ("same place, same effort", "the most similar", "in order") in place
+of its number: a D sūtra is never recalled by number.
 
 **कार्यम् E · production (8 min; 12 marks; pass 8).** Write six Sanskrit sentences about the
 sound system with this chapter's words (सूत्रम्, प्रत्याहारः, आदिः, अन्त्यः, अक्षरम्, दीर्घः, ह्रस्वः,
@@ -888,7 +901,7 @@ sitting.
 9. According to Pāṇini, in 7.3.101, अतः is genitive because: (a) the result दीर्घः is a vowel,
    so it replaces the short a (b) it ends in -अः (c) 7.1.9's अतः is genitive (d) every अतः is
    genitive
-10. The Volume 4 ledger after Chapter 1 is: (a) 508 (b) 513 (c) 521 (d) 627
+10. The Volume 4 ledger after Chapter 1 is: (a) 508 (b) 513 (c) 521 (d) 517
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -896,7 +909,7 @@ sitting.
 
 1. (c) — य्, the marker of sūtra 12; क and प are its sounds (§15 (1)). (d) is the marker of
    शषसर्. FACT: the text of the sūtras.
-2. (b) — एङ् = ए … एओङ् (§15 (2)). (a) runs on to ऐ औ; (c) and (d) stop at ऌ. FACT.
+2. (b) — एङ् = ए … एओङ् — §15 (2). (a) runs on to ऐ औ; (c) and (d) stop at ऌ. FACT.
 3. (b) — 41 by its own list, counted marker by marker and summed in its verse (§15 (2); l01
    §4). (a) is the 1.x figure, printed without its method; (c) is the number of sūtras.
    TRADITION, asked in the frame "According to the Kāśikā".
@@ -914,7 +927,7 @@ sitting.
    case off the form, l03 §12 mistakes 2–3: the -अः form is genitive and ablative alike; (c) and (d)
    are false — 7.1.9's अतः is ablative. TRADITION, framed "According to Pāṇini".
 10. (c) — 508 + 13 = 521 (§14). (a) is the entry; (b) the figure after lesson 1; (d) the
-    volume's planned exit. FACT about the course.
+    figure after lesson 2. FACT about the course.
 
 Score /10; 7 passes.
 
@@ -932,7 +945,7 @@ B — the sounds, item by item (§15 (2)):
 3. इक् — इ उ ऋ ऌ
 4. यण् — य व र ल
 5. एङ् — ए ओ
-6. अण्, as most rules read it — अ इ उ
+6. अण्, as every rule but 1.1.69 reads it — अ इ उ
 7. अण्, as 1.1.69 reads it — अ इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल
 8. इण् — इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल
 9. चय् — च ट त क प
@@ -1026,7 +1039,9 @@ derivation (a)).
 Four marks each, (i)–(iv) as §18 states them: **20 marks, pass 14.** The same steps in another
 admissible order score in full: in (1) and (5) the अक् test and the savarṇa test may stand in
 either order; in (2) the इक् and अच् tests likewise. A seam string written without its "+" or its
-brackets of candidates is not marked down; a wrong sūtra at a step loses that step's mark.
+brackets of candidates is not marked down; a wrong sūtra at a step loses that step's mark. A
+D-tier rule (1.1.9, 1.1.50, 1.3.10) given by its gist in words in place of its number earns the
+mark.
 
 E — any six correct sentences. Samples: सूत्रस्यान्त्यो वर्ण इत्। (sūtrasyāntyo varṇa it.) —
 pause: सूत्रस्य अन्त्यः वर्णः इत्। · हलिति व्यञ्जनानां प्रत्याहारः। (hal iti vyañjanānāṃ
@@ -1071,7 +1086,7 @@ rules printed in the booklet scores 0. **12 marks, pass 8.**
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 - +1 day: the fourteen written — the fourteen sūtras written from memory, every marker circled; v4.c02.l01's Station 0 runs exactly this.
-- +1 week: the pratyāhāra traps again — expand अण् twice (as most rules read it, and as 1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this.
+- +1 week: the pratyāhāra traps again — expand अण् twice (as every rule but 1.1.69 reads it, and as 1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this.
 
 The thread verses of v3.c06.l05's overlay return at every Volume 4 exam: the benediction again
 at the Chapter 2 exam, where the ण of भद्राणि and the ः of निरामयाः get their rules.
@@ -1083,7 +1098,7 @@ after it (items 4–9).
 
 **Before the sitting**
 
-1. **(8 min, unscored)** Fill the §8 Step 5 frame from memory on the booklet's last page — T9,
+1. **(8 min, unscored)** Fill the §8 Step 5 frame from memory on a sheet of your own — T9,
    the pratyāhāras opened, the savarṇa/tapara table, the case code, the twelve tools — then check
    it against §15.
 2. **(3 min)** Recite T9 aloud, every helping अ sounded, every marker bare (§9).
@@ -1122,12 +1137,13 @@ their back carries the savarṇa table.
 **The booklet.** It prints every task: the instruction lines of A and B, the six sūtras of task C
 with their padaccheda and brackets and **without** case names, the five joins of task D each
 with an empty four-column frame of six rows, and task E's thirteen words. No toolbox card, no T9,
-no tables. The last page is the blank frame of §8 Step 5, unscored.
+no tables. The §8 Step 5 frame is not in the booklet: the learner fills it at home before the
+sitting (§21 item 1).
 
 **The exam guard.** No Station 0 item is an item of tasks A–E: task C's six rules are 6.1.77,
 6.1.78, 6.1.101, 7.1.9, 7.3.101 and 8.4.40, none of them in item 1; task D derives with 6.1.87 and
 6.1.88 and does not case-code them; task B opens names and does not ask what a letter covers.
-§13 prints none of the tasks' items: its worked items are एच्, झल्, 1.3.9, परोपकारः and two
+§13 prints none of the tasks' items: its worked items are एच्, झल्, 1.3.9, परोपकारः, ममौष्ठौ and two
 sentences not among task E's samples.
 
 **Rubric and remediation:**
@@ -1147,10 +1163,10 @@ specification and the alternative item sets below. Frame it as scheduling, not f
 
 **Retake item sets.**
 
-- *Task B:* एच्, अक्, झल्, यञ्, जश्, हल्, अण् as most rules read it, अण् as 1.1.69 reads it, इण्,
+- *Task B:* एच्, अक्, झल्, यञ्, जश्, हल्, अण् as every rule but 1.1.69 reads it, अण् as 1.1.69 reads it, इण्,
   झश् — the same three traps: the two ण् [अण् twice against इण्], ह from sūtra 5 [हल्], झश् against
-  जश्; and झल्, with ह once, at its end. (The fact base's set names अट् and खर् in place of झल् and
-  हल्; neither was taught in lessons 1–3, so neither is used. Both are in table 0.B below.)
+  जश्; and झल्, with ह once, at its end. (अट् and खर् were not opened in lessons 1–3, so the set
+  does not use them. Both are in table 0.B below.)
 - *Task C:* the same six rules — the code is the skill.
 - *Task D:* इत्याह, अप्यस्ति, नेति, सदैव, हिमालयः — owned, v3.c04.l01. Keys: इत्याह and अप्यस्ति
   as l01 §19's key to exercise 5; हिमालयः as l02 §19's key to exercise 4; नेति as task D (4) with
@@ -1218,7 +1234,7 @@ LSK — *sahati* → *sahita* (VLk 4, line 124); *avyavahatisya* → *avyavahita
 **What students find hard.** Task B's (7) and (8): the learner who knows "the two ण्" still runs
 अण् of 1.1.69 to the first ण् under time pressure — say in the instructions that each item names
 its reading. Task C's (4) and (5) one after the other: the अतः pair. Task D's (4): the check that
-*fails* (अ and उ are not savarṇa) is the step most often left out. Task E: a name ending in ण्
+*fails* (अ and उ are not savarṇa) is the step to watch for. Task E: a name ending in ण्
 before इति.
 
 **The completion moment.** Booklets closed, the class reads 6.1.101 aloud once together — अकः
@@ -1253,7 +1269,7 @@ sūtras, twelve tools, 13 words in the chapter, 521 in all. Chapter 1 is closed.
 > · result · where), "10 min". Page 5: task D, five empty four-column frames (Step · String ·
 > Sūtra · What happens), six rows each, each headed "Derive, according to Pāṇini, …", "12 min".
 > Page 6: task E, the thirteen words in a box, six pairs of lines (joined · pause form), "8 min".
-> Page 7: the blank frame of §8 Step 5, unscored. No keys, no T9, no tables, no toolbox card.
+> No keys, no T9, no tables, no toolbox card, no §8 Step 5 frame.
 
 `v4c01l04-chapter-quiz.md` mirrors §19's ten questions; its key lives only in
 `v4c01l04-chapter-quiz-key.md`.
@@ -1301,16 +1317,16 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 - **Hook (0–6 s):** big type: "You've said विद्यालय all your life. Can you prove it?"
 - **Demo (6–26 s):** "विद्या + आलयः. Step 1: आ counts as an अक् sound. Step 2: आ and आ are
   savarṇa. Step 3: one long vowel for both — 6.1.101. Result: विद्यालयः."
-- **Payoff (26–38 s):** "Fourteen lines, twelve rules — and every vowel join you know, step by
-  step, the way Pāṇini sets it out."
+- **Payoff (26–38 s):** "Fourteen lines, twelve rules — and five kinds of vowel join you own,
+  derived step by step, the way Pāṇini sets them out."
 - **CTA (38–45 s):** "Derive one join you use every day." End card: प्रथमपरीक्षा → v4.c02.l01.
 
 ## 27. Metadata
 
 - **Asset manifest (all planned, none existing yet):** `assets/images/volume-4/`
   `v4c01l04-chapter-page.svg` (§15; §23 asset 1); `assets/worksheets/volume-4/`
-  `v4c01l04-exam-booklet.pdf` (§23 asset 2: the Station 0 slip, the five task pages and the §8
-  Step 5 frame); `assets/quizzes/volume-4/` `v4c01l04-chapter-quiz.md` and
+  `v4c01l04-exam-booklet.pdf` (§23 asset 2: the Station 0 slip, the cover and the five task
+  pages); `assets/quizzes/volume-4/` `v4c01l04-chapter-quiz.md` and
   `v4c01l04-chapter-quiz-key.md` (§19). §9 points to the planned tracks of lessons 1 and 3
   (`v4c01l01-fourteen-recited.mp3`, `v4c01l03-sutras-read.mp3`); this lesson plans no audio of its
   own. §16 records into the Chapter 1 dialogue pack.
@@ -1360,7 +1376,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 - **Glossary:** no new term; the chapter's terms are those of the fact base's open item 7
   (माहेश्वराणि सूत्राणि, इत्, प्रत्याहारः, उपदेशः, सवर्णम्, तपरः, उदित्, the case code, आदेशः,
   यथासंख्यम्, अन्तरतमः, and the updates), added when the chapter is reviewed.
-- **Register audit:** FACT ×6 (§5: Whitney §126, §127, §129; retrieval; chunks; spacing) ·
+- **Register audit:** FACT ×3 (§5: Whitney §126, §127, §129; the pedagogy anchors are plain text) ·
   HISTORY ×1 (§4, reprinted from l01) · TRADITION ×0 callouts (the sūtras' readings and every
   derivation are TRADITION in plain text, attributed to Pāṇini; the count attributed to the
   Kāśikā) · SYMBOL ×0. Quiz Q1, Q2, Q8 assess FACT; Q3 TRADITION framed "According to the

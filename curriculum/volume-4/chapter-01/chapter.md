@@ -40,8 +40,8 @@ Aṣṭādhyāyī data file gives it; every commentary line is "text of the GRET
 
 - Recite, write and use the fourteen sūtras (T9), with every marker; the rebuilt memory aid with
   all fourteen
-- Name any stretch of sounds by its pratyāhāra, and expand any pratyāhāra the chapter uses (अच्,
-  हल्, इक्, यण्, अक्, एच्, एङ्, यञ्, झल्, जश्, झश्, चय्, खर्, चर्, शर्, अट्, इण्, and अण् read two ways)
+- Name any stretch of sounds by its pratyāhāra, and expand the fifteen readings the chapter opens
+  (अच्, हल्, इक्, यण्, अक्, एच्, एङ्, यञ्, झल्, जश्, झश्, चय्, इण्, and अण् read two ways)
 - Say how long a letter in a rule reaches: savarṇa (1.1.69 with 1.1.9), tapara (1.1.70), the two
   ण्
 - Read the case code of a sūtra — genitive, locative, ablative, nominative — with the padaccheda
@@ -50,7 +50,7 @@ Aṣṭādhyāyī data file gives it; every commentary line is "text of the GRET
   kind (सवर्णदीर्घ, गुण, वृद्धि, यण्, अयादि), according to Pāṇini
 - The 1.x errors corrected in the open (IR-017, IR-018), and the "~42 pratyāhāras" set beside the Kāśikā's counted method; the legend kept
   as TRADITION, never assessed (IR-036); the HISTORY of the sūtras and of Pāṇini hedged and keyed
-- The Hindi parallels: the order of the Hindi वर्णमाला against the sūtras' order; दीर्घ संधि and
+- The Hindi parallels: the order of the Hindi वर्णमाला against the sūtras' order; दीर्घ सन्धि and
   सवर्ण; के स्थान पर / से पहले / के बाद against the bare cases of a rule
 
 ## Can-do statements

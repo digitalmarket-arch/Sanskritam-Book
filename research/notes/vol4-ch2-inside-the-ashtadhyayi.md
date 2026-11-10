@@ -170,7 +170,7 @@ vṛddhi (Whitney §235a, "अ a is its own guṇa"; FACT): one line.
 |---|---|---|---|
 | S0-cf | v4.c01.l03 | v4.c02.l01 | "+1 week: the case code again — circle what is replaced and arrow the context in 6.1.77 इको यणचि, 6.1.78 एचोऽयवायावः, 7.1.9 अतो भिस ऐस् and 7.3.101 अतो दीर्घो यञि, then derive, according to Pāṇini, देव + भिस् → देवैः in table form; v4.c02.l01's Station 0 runs exactly this." |
 | S0-cg | v4.c01.l04 | v4.c02.l01 | "+1 day: the fourteen written — the fourteen sūtras written from memory, every marker circled; v4.c02.l01's Station 0 runs exactly this." |
-| S0-ch | v4.c01.l04 | v4.c02.l02 | "+1 week: the pratyāhāra traps again — expand अण् twice (as most rules read it, and as 1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this." |
+| S0-ch | v4.c01.l04 | v4.c02.l02 | "+1 week: the pratyāhāra traps again — expand अण् twice (as every rule but 1.1.69 reads it, and as 1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this." |
 | S0-da | v4.c02.l01 | v4.c02.l02 | "+1 day: two words taken apart — derive, according to Pāṇini, in table form, राम + सुँ → रामः and फल + सुँ → फलम्, naming at each step the marker dropped or the sūtra that acts; v4.c02.l02's Station 0 runs exactly this." |
 | S0-db | v4.c02.l01 | v4.c02.l03 | "+1 week: one base, three names — sort the twelve endings सुँ, औ, जस्, अम्, भ्याम्, भिस्, भ्यस्, सुप्, शस्, टा, ङे and ङि into strong, pada and bha for the base राजन्, and name the rule each box sets off (strong: the lengthened अ, c05.l03; pada: 8.2.7; bha: 6.4.134); v4.c02.l03's Station 0 runs exactly this." |
 | S0-dc | v4.c02.l02 | v4.c02.l03 | "+1 day: eight operations labelled — say whether each is a substitute (आदेशः), an augment (आगमः) or a deletion (लोपः), and name its sūtra: (1) अ + उ → ओ in सूर्योदयः (2) अ + ए → ऐ in तत्रैव (3) the अ at the front of अगच्छत् (4) the इ of ति in अगच्छत् (5) सुँ → अम् in फलम् (6) the ट् of अट् in अगच्छत् (7) the उँ of सुँ in रामः (8) ओ → अव् in भवति; v4.c02.l03's Station 0 runs exactly this." |
@@ -188,7 +188,7 @@ vṛddhi (Whitney §235a, "अ a is its own guṇa"; FACT): one line.
   — 8.2.66 + 8.3.15 (preview then; today D in l01).
 - **S0-cg** (l01): T9 (c01 fact base table 0.A), every marker circled: ण् क् ङ् च् ट् ण् म् ञ् ष् श्
   व् य् र् ल्.
-- **S0-ch** (l02): अण् (most rules) = अ इ उ · अण् (1.1.69) = अ इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल · इण् = इ उ
+- **S0-ch** (l02): अण् (every rule but 1.1.69) = अ इ उ · अण् (1.1.69) = अ इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल · इण् = इ उ
   ऋ ऌ ए ओ ऐ औ ह य व र ल · हल् = every consonant, from the ह of हयवरट् to the ह of हल् (ह once) · चय्
   = च ट त क प · झश् = झ भ घ ढ ध ज ब ग ड द · जश् = ज ब ग ड द. All or nothing per item.
 - **S0-da** (l02): D-a and D-b (table 0.F).
@@ -985,8 +985,8 @@ it, with "guṇa *secondary quality*" and "vṛddhi *growth, increment*" (plan �
 - +1 day: two words taken apart — derive, according to Pāṇini, in table form, राम + सुँ → रामः and
   फल + सुँ → फलम्, naming at each step the marker dropped or the sūtra that acts; v4.c02.l02's Station
   0 runs exactly this.
-- +1 week: the pratyāhāra traps again — expand अण् twice (as most rules read it, and as 1.1.69 reads
-  it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this.
+- +1 week: the pratyāhāra traps again — expand अण् twice (as every rule but 1.1.69 reads it, and as
+  1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this.
 (The second line is v4.c01.l04 §20's +1-week booking, diffed: identical.) Keys: S0-da, S0-ch.
 Review prompts: (v3.c03.l03) "Give the imperfect 3sg of गच्छति, पठति and इच्छति" — अगच्छत्, अपठत्,
 ऐच्छत्; (v3.c04.l01) "Join सूर्य + उदयः and तत्र + एव, and name each join" — सूर्योदयः, गुणः;

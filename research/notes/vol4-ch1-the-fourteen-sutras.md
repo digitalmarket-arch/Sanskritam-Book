@@ -39,7 +39,9 @@ lessons only l01–l04 are on disk** (S0-bg matches `lesson-04-three-verses.md` 
 bookings that arrive in this chapter (S0-bg, S0-bh, S0-bi) are quoted verbatim from the Chapter 6
 fact base (`research/notes/vol3-ch6-connected-reading.md`, row 0.30 and its l04/l05 §20 blocks; its
 header calls it a first draft under verification): the drafters of l01–l02 re-diff them against
-v3.c06.l04 §20 and v3.c06.l05 §20 when those files exist. v3.c04.l01 (`lesson-01-when-vowels-meet.md`)
+v3.c06.l04 §20 and v3.c06.l05 §20 when those files exist. (Corrected at review: v3.c06.l05 is now on
+disk; S0-bh and S0-bi match its §20 verbatim, and S0-bg matches v3.c06.l04 §20, both as they stand
+after the Chapter 6 review.) v3.c04.l01 (`lesson-01-when-vowels-meet.md`)
 was read for every owned vowel join and its Volume 3 wording.
 
 **The plan's scripts, re-run 2026-11-10** (from the repository root, `SANSKRITAM_LOCAL` = this
@@ -67,8 +69,8 @@ print these labels or any row number of this note.
 | 0.2 | **Printing (binding; STYLE_GUIDE §3.1; Volume 3 Chapter 4 fact base rows 0.2–0.3 and its tables 0.A–0.C; vol3-plan §7.6, the v3.c04 rows).** Every course-written line — §6, §13, §16, exercise and quiz sentences, exam sentences — is printed **joined, with its pause form beneath**: line 1 the joined line with its IAST in parentheses directly after it; line 2 the pause form with its IAST; line 3 English and Hindi. IAST of a joined line: a space at every word boundary; words written together only where two vowels fused (*nāsti*, *gacchāmīty atra* → write *gacchāmīty atra*: the ई is one fused vowel, the य् stays with its word); the avagraha as an apostrophe after a space (*uttaro 'c*). **Stops:** no sandhi across a daṇḍa, "?", "!", a comma, the dash of a speech frame or the closing quotation mark before इति; the word before a stop stands in its pause form. **A sūtra is printed as the data file has it** (joined: इको यणचि, एचोऽयवायावः, अतो भिस ऐस्), never re-joined or split, and in a pause-form line a quoted sūtra stays as printed (it is a quotation). **A derivation shows its seams** (देव + ऐस्) and its last line is the joined word, in bold. **A parenthesis directly after a Devanagari word holds that word's IAST and nothing else**; in objectives, tables, callouts and keys a note goes in square brackets or after a dash. **Quoted sounds and quoted sound-lists are left unjoined** (अ आ च सवर्णौ; इगिति इ उ ऋ ऌ इति …): joined, अ आ would merge into one आ and इ उ ऋ ऌ into ड्वृल् — the very joins being named. The Kāśikā does the same: *a i u ityanena* (K1, line 140), *ṛ ḷ ity etau* (line 147). Said once in l01 §15, as a convention in plain text (not a FACT callout). | policy | STYLE_GUIDE §3.1; vol3-plan §7.6; verification log, v3.c04 decisions | Every seam of every course-written line below was derived from the Chapter 4 maps; the seams used are listed in row 0.20. |
 | 0.3 | **What is allowed in this chapter's taught text.** Everything Volume 3 made ✓ (plan §2.1): the a-, ā-, ī-stems; i/u-stems m. (f. nom./acc./instr.); ṛ-stems (listed cells); the dual nom./acc.; the personal pronouns (listed cells), तद् and its family, अयम् (listed cells); numerals 1–10 nom./acc.; thematic laṭ P and Ā, laṅ P, loṭ P (sg./pl. all persons + 3du), vidhiliṅ P 3rd person; अस् and कृ in their listed cells; every ✓ seam of the three Chapter 4 maps; compounds of the four ✓ kinds; the speech frame; the story-opening formula. **Plus, from l01:** the fourteen sūtras; pratyāhāra names as labels (they never count: rule 20); the word इत् "marker" as a label, with its cases as a label inflects (इतः "of a marker", इता "with a marker"); the sound names in -कार (अकारः, मकारः: GLOSSARY "-कार", v1.c02.l01) as labels; derivation tables (read; written by the learner from l03). **From l02:** the savarṇa and tapara readings; the yañ test on the present endings. **From l03:** the case code, the padaccheda with case names, the bracket for a carried word ([अचि, carried from 6.1.77]) as a labelled preview of anuvṛtti (c02.l03), the bracket [पूर्वपरयोः] "in place of both" as a labelled preview (c02.l02). **Not allowed anywhere in the chapter:** any oblique dual (द्वयोः, पदयोः: c05.l03; the -योः cell is ◐ at entry); the ordinals (c05.l04: पञ्चमे सूत्रे is avoided; "the fifth sūtra" is said in English, or "हयवरडिति सूत्रे"); the word लोपः as a taught word (c02.l02; in l01 it is a labelled preview inside इतो लोपः and the sūtra तस्य लोपः); guṇa and vṛddhi as definitions (1.1.1–2 are c02.l02's: the vowels ए ओ / ऐ औ are named by their Volume 3 names, गुणः, वृद्धिः, as sandhi names only); any untaught form even as a wrong option. | policy | plan §1.2, §2.1, §4.1; vol3-plan §7.6 | Walk check done for every course-written line in §§1–4 below (§6 re-runs it). |
 | 0.4 | **T9 — the fourteen sūtras (memorised table; l01).** Table 0.A. Each sūtra's sounds and marker checked against [REF:maheshvarasutras 1–14] and against the Kāśikā's comment on each (K1–K14, lines 139–270): every comment names the sounds listed and the marker that closes the line ("… *ity etān varṇān upadiśya pūrvāṃś cānte ṭakāram itaṃ karoti pratyāhārārtham*"). **The e-text's slips in sūtra 11's comment, corrected:** line 249 prints the sūtra as *kha pha dha ḍha tha ca ṭa ta v* and line 250 repeats *kha pha dha ḍha tha*; the course prints छ ठ (*kha pha cha ṭha tha*), as the plan's spelling list records (§4.6). **Also corrected (not in the plan's list):** line 252 *dhakareṇa* → *chakāreṇa* — the comment names the pratyāhāra छव् of 8.3.7 नश्छव्यप्रशान् (data file 83007), whose first sound is छ; the same slip as line 249. Teacher Notes list both. | FACT (the text of the sūtras as transmitted); TRADITION (the Kāśikā's comment) | [REF:maheshvarasutras 1–14]; [REF:kashika] (on the fourteen sūtras) | Data file 83007 नश्छव्यप्रशान् ✓. The Kāśikā's comment on the fourteen stands before its comment on 1.1.1 (line 298 *vṛddhir ād-aic*). |
-| 0.5 | **The fourteen sūtras are transmitted with the Aṣṭādhyāyī, not inside its eight books** (HISTORY / FACT about the texts). The sūtrapāṭha the course checks against numbers its sūtras by book, quarter and rule (1.1.1 … 8.4.68) and none of its 3,983 entries is one of the fourteen (count of the data file's entries; c06.l01 prints the count, this chapter does not); the Kāśikā comments on the fourteen first, as its introduction (lines 135–292: *atha kim-artho varṇānām upadeśaḥ? pratyāhāra-arthaḥ*, "Why are the sounds taught? For the sake of the pratyāhāras", line 137). **Learner wording (l01 §4 HISTORY callout, fixed):** "The fourteen sūtras are handed down with Pāṇini's Aṣṭādhyāyī, at its head, but they are not among its numbered rules: the Aṣṭādhyāyī's own rules start at 1.1.1. The Kāśikā, a commentary on the whole Aṣṭādhyāyī (c. 7th c. CE), explains them first, 'for the sake of the pratyāhāras'. Their authorship and how they were transmitted are matters of scholarly discussion [REF:maheshvarasutras]; [REF:kashika]; [REF:cardona1997]." | HISTORY | [REF:maheshvarasutras]; [REF:kashika]; [REF:cardona1997] | The last sentence is hedged and names no position; Pass C confirms in Cardona 1997 that the authorship question is discussed there, or drops the sentence and the key with it (plan §7.3 Q3: `cardona1997` is enough for the grammarians' line "with the hedge"). |
-| 0.6 | **Pāṇini's date and his predecessors (l01 §17; plan §7.3 Q3).** Learner wording: "Pāṇini's Aṣṭādhyāyī is placed around the 4th century BCE on the usual scholarly estimate; estimates vary [REF:cardona1997]. In his own rules Pāṇini names other teachers of grammar — among them Āpiśali, Śākaṭāyana and Śākalya (the rules that name them: Teacher Notes) — whom scholars take to be grammarians before him or of his time [REF:cardona1997]." **Verified in the data file (Teacher Notes):** Āpiśali — 6.1.92 वा सुप्यापिशलेः; Śākaṭāyana — 3.4.111 लङः शाकटायनस्यैव, 8.3.18 व्योर्लघुप्रयत्नतरः शाकटायनस्य, 8.4.50 त्रिप्रभृतिषु शाकटायनस्य; Śākalya — 1.1.16 सम्बुद्धौ शाकल्यस्येतावनार्षे, 6.1.127 इकोऽसवर्णे शाकल्यस्य ह्रस्वश्च, 8.3.19 लोपः शाकल्यस्य, 8.4.51 सर्वत्र शाकल्यस्य. (8.3.19 is the plan's named Teacher-Notes sūtra here; c06.l03 reads it as D.) No count of named teachers prints (it depends on what is counted). | HISTORY (date; "predecessors"); FACT (the names stand in the rules) | [REF:cardona1997]; [REF:ashtadhyayi 6.1.92]; [REF:ashtadhyayi 3.4.111]; [REF:ashtadhyayi 8.3.19] | The wording matches the shipped Volume 1 lines ("around the 4th century BCE — estimates vary", v1.c01.l01, l03; verification log row "Pāṇini c. 4th c. BCE, estimates vary | [REF:cardona1997] | ✅"). Pass C confirms "predecessors" in Cardona or prints "other teachers" with no claim of date. |
+| 0.5 | **The fourteen sūtras are transmitted with the Aṣṭādhyāyī, not inside its eight books** (HISTORY / FACT about the texts). The sūtrapāṭha the course checks against numbers its sūtras by book, quarter and rule (1.1.1 … 8.4.68) and none of its 3,983 entries is one of the fourteen (count of the data file's entries; c06.l01 prints the count, this chapter does not); the Kāśikā comments on the fourteen first, as its introduction (lines 135–292: *atha kim-artho varṇānām upadeśaḥ? pratyāhāra-arthaḥ*, "Why are the sounds taught? For the sake of the pratyāhāras", line 137). **Learner wording (l01 §4 HISTORY callout, fixed):** "The fourteen sūtras are handed down with Pāṇini's Aṣṭādhyāyī, at its head, but they are not among its numbered rules: the Aṣṭādhyāyī's own rules start at 1.1.1. The Kāśikā, a commentary on the whole Aṣṭādhyāyī (c. 7th c. CE), explains them first, 'for the sake of the pratyāhāras' [REF:maheshvarasutras]; [REF:kashika]." | HISTORY | [REF:maheshvarasutras]; [REF:kashika] | Pass C (2026-11-10): the authorship sentence and its [REF:cardona1997] are dropped (open item 2). No search result quotes Cardona 1997 on the authorship of the fourteen sūtras; the only Cardona statement found, from his 1969 study, says it omits the question. Lesson 4 §4 reprints the shortened callout. |
+| 0.6 | **Pāṇini's date and his predecessors (l01 §17; plan §7.3 Q3).** Learner wording: "Pāṇini's Aṣṭādhyāyī is placed around the 4th century BCE on the usual scholarly estimate; estimates vary [REF:cardona1997]. In his own rules Pāṇini names other teachers of grammar — among them Āpiśali, Śākaṭāyana and Śākalya (the rules that name them: Teacher Notes)." (Pass C, 2026-11-10: "whom scholars take to be grammarians before him or of his time" dropped because no search result quotes Cardona 1997 for it; the date sentence keeps [REF:cardona1997].) **Verified in the data file (Teacher Notes):** Āpiśali — 6.1.92 वा सुप्यापिशलेः; Śākaṭāyana — 3.4.111 लङः शाकटायनस्यैव, 8.3.18 व्योर्लघुप्रयत्नतरः शाकटायनस्य, 8.4.50 त्रिप्रभृतिषु शाकटायनस्य; Śākalya — 1.1.16 सम्बुद्धौ शाकल्यस्येतावनार्षे, 6.1.127 इकोऽसवर्णे शाकल्यस्य ह्रस्वश्च, 8.3.19 लोपः शाकल्यस्य, 8.4.51 सर्वत्र शाकल्यस्य. (8.3.19 is the plan's named Teacher-Notes sūtra here; c06.l03 reads it as D.) No count of named teachers prints (it depends on what is counted). | HISTORY (date; "predecessors"); FACT (the names stand in the rules) | [REF:cardona1997]; [REF:ashtadhyayi 6.1.92]; [REF:ashtadhyayi 3.4.111]; [REF:ashtadhyayi 8.3.19] | The wording matches the shipped Volume 1 lines ("around the 4th century BCE — estimates vary", v1.c01.l01, l03; verification log row "Pāṇini c. 4th c. BCE, estimates vary | [REF:cardona1997] | ✅"). Pass C confirms "predecessors" in Cardona or prints "other teachers" with no claim of date. |
 | 0.7 | **The legend (l01 §4; IR-036; plan §7.3 Q2).** TRADITION, labelled legend, **never assessed**, no verse quoted, no REFERENCES key for the Nandikeśvarakāśikā. **The 1.x wording, re-found (p. 69, text layer):** "Legend: When Shiva danced his cosmic dance, his डमरु (damaru drum) sounded 14 times, producing these sutras. Panini built his entire grammar on them." **Learner wording (fixed):** "**[TRADITION · परम्परा]** Legend. A legend tells that when Śiva danced, his drum sounded fourteen times and gave these sūtras. The 1.x book printed this under the label 'Legend', and so does this course: it is a story the tradition tells, not an account of where the list came from, and nothing in this course asks you to repeat it." Not printed: "at the end of his dance" (review c01:P#11), "cosmic", "Panini built his entire grammar on them", any verse, any ascription to Nandikeśvara. | TRADITION (legend) | the 1.x book p. 69 (as the source of the course's label) | Volume 1 (v1.c01.l02 §4) already tells the legend with "a verse ascribed to Nandikeśvara" and "at the close of his cosmic dance": left as it is (§8 (b); open item 4). |
 | 0.8 | **The pratyāhāra (l01; 1.1.71).** A pratyāhāra is a sound of the list followed by a marker; it names that sound, every sound after it up to the marker, and not the markers in between. **The Kāśikā on 1.1.71** (K15, line 1759): *ādir antyena itsañjñakena saha gṛhyamāṇas tanmadhyapatitānāṃ varṇānāṃ grāhako bhavati, svasya ca rūpasya* — "an initial [sound], taken together with a final marker, names the sounds that fall between them, and itself", with the examples *aṇ, ak, ac, hal, sup, tiṅ* (lines 1760–1765; e-text *madyapatitānāṃ* → *madhyapatitānāṃ*). **Learner English line of 1.1.71 (fixed; review c01:P#7):** "The first [sound], together with a final marker, names [the sounds between] and itself." **The markers inside a pratyāhāra are not among the sounds it names:** the Kāśikā's verse at line 176 (*pratyāhāre 'nubandhānāṃ katham ajgrahaṇeṣu na …*) — Teacher Notes only. *sup* and *tiṅ* are pratyāhāras too (the Kāśikā's own examples), met in c02.l01 and c03.l01: a one-line preview, no expansion. | TRADITION | [REF:ashtadhyayi 1.1.71]; [REF:kashika 1.1.71] | Data file 11071 आदिरन्त्येन सहेता; pc आदिः (1) · अन्त्येन (3) · सह (avyaya) · इता (3); an स्वम् रूपम् (1.1.68). |
 | 0.9 | **How many pratyāhāras: a count with its method (plan §1.1 principle 4; §4.0.4 "new (synthesis)").** **Method:** the Kāśikā, commenting on each of the fourteen sūtras, names every pratyāhāra that Pāṇini's rules form with that sūtra's marker and gives for each the rule that uses it ("*tasya grahaṇaṃ bhavati tribhiḥ — akaḥ savarṇe dīrghaḥ ity akāreṇa …*"); its closing verse (lines 289–290) gives the number for each marker: *ekasmān ṅañaṇavaṭā dvābhyāṃ ṣas tribhya eva kaṇamāḥ syuḥ / jñeyau cayau caturbhyo raḥ pañcabhyaḥ śalau ṣaḍbhyaḥ* (e-text *ṅañaṇAvaṭā* → *ṅañaṇavaṭā*; *dvābhāṃ ṣastribhya* → *dvābhyāṃ ṣas tribhya*). Counted here from the comment itself, sūtra by sūtra (table 0.B): **41** (1 + 3 + 1 + 4 + 1 + 3 + 3 + 1 + 2 + 6 + 1 + 4 + 5 + 6), which is also the verse's total (five markers with one each, ष् with two, three markers with three, two with four, र् with five, two with six). Every one of the 41 rules the comment cites was found in the data file with that pratyāhāra in it (table 0.B). The comment adds that ञम् "is also seen" (*ñamantāḍ ḍaḥ iti ñakāreṇāpi grahaṇam asya dṛśyate*, line 227) in a rule that is not among the data file's sūtras (grep: no hit). **Learner wording (l01 §4 TRADITION callout, fixed):** "How many pratyāhāras do Pāṇini's rules use? The Kāśikā answers sūtra by sūtra: for each marker it names the pratyāhāras made with it and a rule that uses each, and it sums them up in a verse. By its count there are 41. It notes one more, ञम्, used in a rule that is not among the Aṣṭādhyāyī's numbered sūtras, and, under लण्, that the र of 1.1.51 names both र and ल. So the answer depends on what is counted: 41 by its list, more if these are added. The 1.x book wrote: 'Panini built ~42 pratyāhāras from the 14 Maheshvara Sutras' (p. 95). This course gives no count without saying how it was made. [REF:kashika]" | TRADITION (the Kāśikā's count); FACT (what the 1.x book printed) | [REF:kashika] (on the fourteen sūtras); the 1.x book p. 95 | The 1.x line re-found with `pdftotext -f 95 -l 95 -layout` (line 42 of the page text): "Panini built ~42 pratyāhāras from the 14 Maheshvara Sutras." The same page's heading says "the 30+ pratyāhāras Panini actually uses" — not quoted (one quotation suffices). Not printed: "hundreds of letters", "genius", "used 1000s of times in 4000 sutras" (pp. 70–71). The plan's "a count prints only with the c01 fact base's counting method" is met by this method (§7, deviation 6). |
@@ -129,10 +131,12 @@ pay · śa ṣa sar · hal*.
 ### 0.B The pratyāhāras of Pāṇini's rules, as the Kāśikā lists them (the count of row 0.9; the l04 pratyāhāra index draws on it)
 
 Each row: the marker's sūtra, the pratyāhāras the Kāśikā names for it, the rule it cites for each
-(number and text checked in the data file; every one contains that pratyāhāra). **Bold** = used in
-this chapter (the plan's inventory: अच्, हल्, इक्, यण्, अक्, एच्, एङ्, यञ्, झल्, जश्, चय्, चर्, खर्,
-इण्, अण् (two), अट्, शर्, झश्). The full table is Teacher Notes (l04); the learner sees only the
-bold rows and the total.
+(number and text checked in the data file; every one contains that pratyāhāra). **Bold** = in
+the plan's inventory for this chapter (अच्, हल्, इक्, यण्, अक्, एच्, एङ्, यञ्, झल्, जश्, चय्, चर्, खर्,
+इण्, अण् (two), अट्, शर्, झश्). The full table is Teacher Notes (l04). Corrected at review: the
+learner sees the total and the fifteen readings lessons 1–2 open (अच्, हल्, इक्, यण्, अक्, एच्,
+एङ्, यञ्, झल्, जश्, झश्, चय्, इण् and अण् two ways); अट्, खर्, चर् and शर् stay in Teacher Notes
+(deviation 14).
 
 | Marker (sūtra) | Kāśikā lines | Pratyāhāra — cited rule | n |
 |---|---|---|---|
@@ -218,7 +222,7 @@ vārttika on *al*-words: Teacher Notes).
 | S0-ce | v4.c01.l03 | v4.c01.l04 | "+1 day: five owned sūtras case-coded — for 6.1.87 आद्गुणः [अचि], 6.1.109 एङः पदान्तादति [पूर्वः], 8.3.23 मोऽनुस्वारः [हलि], 8.3.34 विसर्जनीयस्य सः [खरि] and 6.1.88 वृद्धिरेचि [आत्], name the case of each word and say what it does in the rule: in place of, the result, before or after (the word in brackets is carried, and its case counts too); v4.c01.l04's Station 0 runs exactly this." |
 | S0-cf | v4.c01.l03 | v4.c02.l01 | "+1 week: the case code again — circle what is replaced and arrow the context in 6.1.77 इको यणचि, 6.1.78 एचोऽयवायावः, 7.1.9 अतो भिस ऐस् and 7.3.101 अतो दीर्घो यञि, then derive, according to Pāṇini, देव + भिस् → देवैः in table form; v4.c02.l01's Station 0 runs exactly this." |
 | S0-cg | v4.c01.l04 | v4.c02.l01 | "+1 day: the fourteen written — the fourteen sūtras written from memory, every marker circled; v4.c02.l01's Station 0 runs exactly this." |
-| S0-ch | v4.c01.l04 | v4.c02.l02 | "+1 week: the pratyāhāra traps again — expand अण् twice (as most rules read it, and as 1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this." |
+| S0-ch | v4.c01.l04 | v4.c02.l02 | "+1 week: the pratyāhāra traps again — expand अण् twice (as every rule but 1.1.69 reads it, and as 1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this." |
 
 **Keys (0.D-keys; the running lesson prints them in `<details>`; ✓ items only):**
 - **S0-bh** (l01): the text and the five glosses of task C of v3.c06.l05 (Chapter 6 fact base §5,
@@ -309,7 +313,7 @@ no further claim.
 
 **Front matter.** id `v4.c01.l01` · file `lesson-01-the-fourteen-sutras.md` · title sa अइउण् ·
 sa_iast *aiuṇ* · en "The Fourteen Sūtras" · hi "चौदह सूत्र" · lesson_type grammar · cefr B1 ·
-duration_minutes 45 · self_study_minutes **43** (§21) · prerequisites [v3.c06.l05] · review_of
+duration_minutes 45 · self_study_minutes **45** (§21) · prerequisites [v3.c06.l05] · review_of
 [v3.c06.l05, v3.c06.l04, v3.c04.l01, v1.c04.l04, v1.c03.l01] (the plan's list plus v3.c06.l04,
 whose +1-week booking S0-bg this lesson runs: §7, deviation 1) · vocabulary_count **5** · tags
 [grammar, panini, maheshvara-sutras, pratyahara, it-marker, derivation, recitation, 1x-errata,
@@ -596,7 +600,7 @@ labelled preview लोपः.
 **§18 Exercises (keys; every item placed: class or homework).**
 - **Ex 1 (obj 1; production, written; class 6 min)** — Write the fourteen sūtras into the blank
   grid sheet in order, then circle every marker. 14 items (one per sūtra). Key: table 0.A.
-- **Ex 2 (obj 1; class 2 min)** — Supply the marker: (1) ऋऌ_ (2) हयवर_ (3) ञमङणन_ (4)
+- **Ex 2 (obj 1; homework 2 min)** — Supply the marker: (1) ऋऌ_ (2) हयवर_ (3) ञमङणन_ (4)
   खफछठथचटत_ (5) शषस_ (6) झभ_ → क्, ट्, म्, व्, र्, ञ्.
 - **Ex 3 (obj 2; (1)–(5) class 3 min; (6)–(10) homework 3 min)** — Expand from the sūtras: (1) अच् (2) हल् (3) इक् (4) यण् (5) एच्
   (6) एङ् (7) अक् (8) झल् (9) जश् (10) चय्. Key: table 0.B expansions.
@@ -612,11 +616,11 @@ labelled preview लोपः.
   by l02's rule; for today say "ई is the long इ: the same place" — accepted.)
 - **Ex 6 (obj 4; production, written then said; homework 8 min)** — Write in Sanskrit, joined,
   with the pause form beneath, then say each aloud: (1) "हल् is the abbreviation for the
-  consonants." (2) "इक् means four sounds." (3) "A marker disappears." (4) "The last sound of
-  अइउण् is ṇ." (5) "अच् is the abbreviation for the vowels." (6) "How many syllables are there in
+  consonants." (2) "इक् means four sounds." (3) "ṇ is a marker." (corrected at review: लोपः is a labelled preview and is not asked for in production) (4) "अइउण्. Its last sound is ṇ."
+  [two sentences, as §16 turn 2 says it; corrected at review] (5) "अच् is the abbreviation for the vowels." (6) "How many syllables are there in
   इको यणचि? Five." Keys: (1) हलिति व्यञ्जनानां प्रत्याहारः। (2) इगिति चत्वारो वर्णाः। [pause: इक्
-  इति चत्वारः वर्णाः।] (3) इतो लोपः। (4) अइउणित्यस्यान्त्यो वर्णो णकारः। [pause: अइउण् इति अस्य
-  अन्त्यः वर्णः णकारः।] (5) अजिति स्वराणां प्रत्याहारः। (6) इको यणचीत्यत्र कत्यक्षराणि?
+  इति चत्वारः वर्णाः।] (3) णकार इत्। [pause: णकारः इत्।] (4) अइउण्। तस्यान्त्यो वर्णो णकारः। [pause: अइउण्। तस्य
+  अन्त्यः वर्णः णकारः।] [no ण्-final name before इति: 8.3.32 would double it, untaught] (5) अजिति स्वराणां प्रत्याहारः। (6) इको यणचीत्यत्र कत्यक्षराणि?
   पञ्चाक्षराणि। Accept any correct Sanskrit with correct joins (e.g. (4) अइउणः अन्त्यो वर्णो
   णकारः is **not** accepted: अइउण् is a name, not declined).
 - **Ex 7 (obj 1; spoken; homework 3 min, recorded)** — Recite the fourteen at a steady pace,
@@ -652,12 +656,14 @@ labelled preview लोपः.
   aspirated, and name the two sūtras in which ह stands; v4.c01.l03's Station 0 runs exactly this.
 
 **Class timing (45).** 0–6 Station 0 (§3: S0-bh, S0-bg) · 6–8 review prompts (§3) · 8–10 Hook ·
-10–18 the fourteen on the grid, the two facts, recitation (§8 steps 1–3; §9) · 18–24 Ex 1 · 24–31
-pratyāhāras: Ex 2 (2), Ex 3 (1)–(5) (3), with their checks · 31–40 the derivation with the teacher
-(4), then Ex 5 (5) · 40–45 the 1.x corrections (§4 item 4) and the payoff. Homework: Ex 3 (6)–(10),
-Ex 4, Ex 6, Ex 7, §16 and the quiz. (§16 is not read in class: editor's decision 9.)
+10–17 the fourteen on the grid, the two facts, recitation (§8 Steps 1–3, the list; §9) · 17–22 the
+marker and the name: 1.3.3, 1.3.9, 1.1.71, अच् इक् यण् opened, 6.1.77 read (§8 Step 3; §15) · 22–28
+Ex 1 · 28–31 Ex 3 (1)–(5) · 31–40 the derivation with the teacher (4), then Ex 5 (5) · 40–45 the
+1.x corrections (§4 item 4) and the payoff. Homework: Ex 2, Ex 3 (6)–(10), Ex 4, Ex 6, Ex 7, §16
+and the quiz. (§16 is not read in class: editor's decision 9; Ex 2 moved to homework at Pass B so
+that the marker and the pratyāhāra have class time, before Ex 1 asks for the markers circled.)
 
-**§21 Homework (43 = front matter).** (0) Ex 3 (6)–(10) (3) · (1) Ex 4 (5) · (2) Ex 6, written and said (8) · (3) Ex 7,
+**§21 Homework (45 = front matter).** (0) Ex 2 (2) and Ex 3 (6)–(10) (3) · (1) Ex 4 (5) · (2) Ex 6, written and said (8) · (3) Ex 7,
 recorded (3) · (4) the §19 quiz (8) and its key (3) · (5) §16 aloud in both roles, joined (5) ·
 (6) re-copy T9 from memory once more, check against 0.A (5) · (7) real-world task (3): show a
 Hindi speaker at home the fourteen lines and ask them to find अ इ उ and the four nasals they
@@ -1392,8 +1398,9 @@ circle-and-arrow (Ex 2), the अतः pair (Ex 4).
 sa_iast *prathamaparīkṣā* · en "Chapter 1 Exam" · hi "पहले अध्याय की परीक्षा" · lesson_type review
 · cefr B1 · duration_minutes **45** (`# the sitting alone; Station 0 (§3, about 8 min) runs before
 it and outside its 45`) · self_study_minutes **40** (15 before the sitting: the §15 assembly page
-from memory (8), T9 recited (3), §16 aloud (4); 25 after: the §19 quiz (8), the check against the
-keys (8), the remediation exercise of any task below its pass mark (6), the real-world task (3)) ·
+from memory (8), T9 recited (3), §16 aloud (4); 25 after: the §19 quiz (8), task E said aloud and
+recorded (2), the §17 thread verse (3), the check against the task keys (6), one remediation item
+for the lowest-scoring task (3), the real-world task (3)) ·
 prerequisites [v4.c01.l03] · review_of [v4.c01.l01, v4.c01.l02, v4.c01.l03, v3.c04.l01,
 v3.c06.l05] · vocabulary_count **0** · tags [review, assessment, chapter-exam, maheshvara-sutras,
 pratyahara, savarna, case-code, derivation, thread-verse, spaced-review] · media (planned): image
@@ -1443,8 +1450,8 @@ tools** (4 + 3 + 5): 1.1.71, 1.3.3, 1.3.9, 1.1.50, 1.1.69, 1.1.9, 1.1.70, 1.1.49
 2. छात्रा — आम्। आदिरइउण्, अन्त्यं हल्। (*ām. ādir aiuṇ, antyaṃ hal.*) — pause: आम्। आदिः अइउण्,
    अन्त्यम् हल्। — "Yes. The first is aiuṇ, the last hal." (अन्त्यम् agrees with an implied
    सूत्रम्.)
-3. छात्रः — इणिति प्रत्याहारे लकारोऽस्ति? (*iṇ iti pratyāhāre lakāro 'sti?*) — pause: इण् इति
-   प्रत्याहारे लकारः अस्ति? — "Is there an l in the pratyāhāra iṇ?"
+3. छात्रः — इण्प्रत्याहारे लकारोऽस्ति? (*iṇpratyāhāre lakāro 'sti?*) — pause: इण्प्रत्याहारे
+   लकारः अस्ति? [a compound of the label and l01's headword: इण् + इति would double the ण् by 8.3.32, untaught] — "Is there an l in the pratyāhāra iṇ?"
 4. छात्रा — आम्, अस्ति। (*ām, asti.*) — pause: the same — "Yes, there is."
 5. छात्रः — अचीति सप्तमी, किम्? (*acīti saptamī, kim?*) — pause: अचि इति सप्तमी, किम्? —
    "'aci' is a locative, isn't it?"
@@ -1487,7 +1494,7 @@ order, and circle every marker." One point per sūtra with all its sounds and it
 circled. Key: table 0.A. Remediation: l01 §15 and Ex 1; re-copy T9 three times on the grid.
 
 **Task B — ten pratyāhāras (7 min; 10 points; pass 7).** "Expand each pratyāhāra from the sūtras,
-sound by sound." (1) अच् (2) हल् (3) इक् (4) यण् (5) एङ् (6) अण्, as most rules read it (7) अण्, as
+sound by sound." (1) अच् (2) हल् (3) इक् (4) यण् (5) एङ् (6) अण्, as every rule but 1.1.69 reads it (7) अण्, as
 1.1.69 reads it (8) इण् (9) चय् (10) झश्. Traps: 6/7 against 8 (the two ण्), 2 (हल् from the ह of
 sūtra 5), 9 against 10. Key: table 0.B expansions; (2) all consonants listed, ह once; partial
 lists score 0 (a pratyāhāra is all or nothing); for (6) अ इ उ; (7) and (8) through ल. Remediation:
@@ -1513,7 +1520,8 @@ each join in table form (step · string · sūtra): (1) न + अस्ति �
 (3) तत्र + एव → तत्रैव (4) सूर्य + उदयः → सूर्योदयः (5) विद्या + आलयः → विद्यालयः." 4 points each:
 (i) the pratyāhāra or savarṇa check that makes the rule apply, with its sūtra; (ii) the operation's
 sūtra; (iii) which substitute and why (1.1.50 or 1.3.10 or "one long vowel of the same place"); (iv)
-the joined form. Keys:
+the joined form. A rule of tier D (1.1.9, 1.1.50, 1.3.10) may be named by its gist in words in
+place of its number (tier D: never recalled by number). Keys:
 - (1) 0 न + अस्ति · 1 अ is an अक् sound; the अ of अक् covers अ आ — 1.1.71, 1.1.69 · 2 अ and अ are
   savarṇa — 1.1.9 · 3 one long vowel for both: आ (the long vowel of the same place: 1.1.50,
   accepted, not required) — 6.1.101 · 4 **नास्ति**.
@@ -1541,7 +1549,7 @@ booklet's printed rules scores 0. Remediation: l01 Ex 6, l02 Ex 6, l03 Ex 6.
 
 **Total 74; pass: every task at its pass mark, and the §19 quiz (after the sitting) at 7/10** (the rubric weights C and D — 38 of 74 — over A,
 14: plan main risk). **Retake:** after one week, the same specification with the alternative item
-sets in Teacher Notes (task B: एच्, अक्, अट्, यञ्, जश्, खर्, अण् as most rules read it, अण् as 1.1.69 reads it, इण्, झश् — the same three traps: the two ण् (7/8 against 9), ह from sūtra 5 (अट्), झश् against जश्; task C: the same six rules — the
+sets in Teacher Notes (task B: एच्, अक्, झल्, यञ्, जश्, हल्, अण् as every rule but 1.1.69 reads it, अण् as 1.1.69 reads it, इण्, झश् — the same three traps: the two ण् (7/8 against 9), ह from sūtra 5 (हल्), झश् against जश्; corrected at review: अट् and खर् are not opened in learner text, so झल् and हल् replace them; task C: the same six rules — the
 code is the skill; task D: इत्याह, अप्यस्ति, नेति, सदैव, हिमालयः — owned, v3.c04.l01).
 
 **§19 Quiz (10; after the sitting; key in `<details>`; register per item; distractors from the §12
@@ -1564,14 +1572,14 @@ rows of l01–l03; no ◐ cell, no untaught form).**
    unaspirated (c) sibilants (d) nasals — b. FACT
 9. In 7.3.101, अतः is genitive because: (a) the result दीर्घः is a vowel, so it replaces the short a
    (b) it ends in -अः (c) 7.1.9's अतः is genitive (d) every अतः is genitive — a. TRADITION
-10. The Volume 4 ledger after Chapter 1 is: (a) 508 (b) 513 (c) 521 (d) 627 — c. FACT about the
+10. The Volume 4 ledger after Chapter 1 is: (a) 508 (b) 513 (c) 521 (d) 517 — c. FACT about the
     course.
 
 **§20 Revision and bookings (verbatim).**
 - +1 day: the fourteen written — the fourteen sūtras written from memory, every marker circled;
   v4.c02.l01's Station 0 runs exactly this.
-- +1 week: the pratyāhāra traps again — expand अण् twice (as most rules read it, and as 1.1.69 reads
-  it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this.
+- +1 week: the pratyāhāra traps again — expand अण् twice (as every rule but 1.1.69 reads it, and as
+  1.1.69 reads it), इण्, हल्, चय्, झश् and जश्, sound by sound; v4.c02.l02's Station 0 runs exactly this.
 
 **§21 Homework (40 = 15 before + 25 after).** As the front matter. Real-world task (after, 3 min):
 show someone the line नास्ति and tell them, in Hindi, the rule that made it — in Pāṇini's words and
@@ -1656,7 +1664,8 @@ Every claim a citation reviewer must re-check before the lessons ship.
 
 ## 7. Open items for review
 
-1. **Station 0 into Volume 4.** v3.c06.l05 is not on disk (l04 is, and S0-bg matches its §20); S0-bg, S0-bh, S0-bi are quoted
+1. **Station 0 into Volume 4.** v3.c06.l05 is not on disk (l04 is, and S0-bg matches its §20) —
+   corrected at review: it is now on disk, and S0-bh and S0-bi match its §20 verbatim; S0-bg, S0-bh, S0-bi are quoted
    from the Chapter 6 fact base (a first draft under verification). If Chapter 6 changes their
    wording, both this chapter's l01/l02 §3 and the c06 lessons' §20 follow the c06 lessons. The
    plan's §4.0.5 and l01/l02 blocks already state this chain (plan §7.6, first row).
@@ -1743,7 +1752,7 @@ Every claim a citation reviewer must re-check before the lessons ship.
    teacher has four minutes before Ex 5. Lesson 2: 1.1.70 and the two ण् each have two minutes
    before their exercise. Lesson 3: Ex 7 goes to homework, where it replaces the reading of the
    table. In all three, §16 is not read in class (it was already a homework item). Self-study
-   minutes are 43 · 40 · 45 · 40. Pass B re-times every slot again from the lessons as drafted.
+   minutes are 45 · 40 · 45 · 40 (Pass B moved l01's Ex 2 to homework). Pass B re-times every slot again from the lessons as drafted.
 
 ### Deviations from the plan (with reasons) — for the plan's §7.6
 
@@ -1760,7 +1769,7 @@ Every claim a citation reviewer must re-check before the lessons ship.
    instruction time); pass marks and points set (A 11/14, B 7/10, C 12/18, D 14/20, E 8/12; the
    plan gives none); the spiral placed after the sitting, unscored, in §17 (the five tasks fill the
    45 minutes; Q17: the thread verse is the only text the exam reads).
-5. **Self-study minutes** 43 · 40 · 45 · 40 (the plan gives none; 40 · 40 · 44 · 40 before the class plans were re-timed: editor's decision 9).
+5. **Self-study minutes** 45 · 40 · 45 · 40 (the plan gives none; 40 · 40 · 44 · 40 before the class plans were re-timed: editor's decision 9).
 6. **The pratyāhāra count's method** (row 0.9): the Kāśikā's own per-marker list and closing verse,
    each of the 41 cited rules found in the data file — not an independent scan of the sūtra text.
    Reason: an independent scan would have to recognise every inflected pratyāhāra in 3,983 sūtras
@@ -1793,6 +1802,10 @@ Every claim a citation reviewer must re-check before the lessons ship.
     -महे -ध्वे, all ✓ cells (Station 0 keys score ✓ items only).
 13. **The plan's l01 §17 "LSK opens with … (VLk 1, 3, 4)"** is printed as "three of today's tools"
     (as the review's c01:E#12 / P#14 fix already says); no change, recorded for completeness.
+14. **The pratyāhāras opened for the learner** (corrected at review): fifteen readings — अच्, हल्,
+    इक्, यण्, अक्, एच्, एङ्, यञ्, झल्, जश्, झश्, चय्, इण् and अण् two ways. The plan's inventory also
+    names अट्, खर्, चर्, शर्; no lesson opens them in learner text, so they stay in Teacher Notes
+    (the Kāśikā's list), and the exam's task B and its retake set use none of them.
 
 **Corrections for the plan's §7.6 table (what later chapters need) — entered in the plan on 2026-11-10 as below:**
 
@@ -1808,7 +1821,7 @@ Every claim a citation reviewer must re-check before the lessons ship.
 | v4.c01 fact base | the seam स इत् (सः before a vowel) | It is not 6.1.132, which drops the ending of सः and एषः only before a consonant; before a vowel other than अ, सः follows the ordinary rule for -अः before a vowel, as Volume 3 Chapter 4 taught it. |
 | v4.c01 fact base | the thread verse's दुःखभाग्भवेत् | 8.2.30 चोः कुः gives ग् for the ज् of -भाज्; the pause form -भाक् comes from 8.4.56 वाऽवसाने and is optional. Chapter 5's consonant stems follow this. |
 | v4.c01 fact base | the exam shapes of §4: "pass: every task at its pass mark" | As in every Volume 3 chapter frame, the pass is every task at its pass mark and the §19 quiz, taken after the sitting, at 7/10. Each later chapter exam says so. |
-| v4.c01 fact base | the lesson blocks give no class plan and no self-study minutes | Self-study minutes of Chapter 1: 43 · 40 · 45 · 40. A fact base times each class slot from the exercises it places there before it fixes the plan (the c01 verification found three class plans that could not hold their exercises); a conversation that does not fit is a homework item. |
+| v4.c01 fact base | the lesson blocks give no class plan and no self-study minutes | Self-study minutes of Chapter 1: 45 · 40 · 45 · 40. A fact base times each class slot from the exercises it places there before it fixes the plan (the c01 verification found three class plans that could not hold their exercises); a conversation that does not fit is a homework item. |
 
 ---
 

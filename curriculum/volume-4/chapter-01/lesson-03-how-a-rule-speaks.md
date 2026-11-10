@@ -276,7 +276,7 @@ its first sound is never merged into the word before it, just as a quoted name's
 
 आज के चार शब्द: **आदेश** — परिणाम, जो किसी के स्थान पर आता है; **पूर्व** — पहला, पहले वाला,
 पूर्व दिशा भी; **उत्तर** — बाद वाला, उत्तर दिशा भी, और "जवाब" भी; और **विधि** — कार्य, जो सूत्र
-करवाता है (और वह सूत्र भी जो उसे बताता है); तरीका; और भाग्य भी।
+करवाता है — और वह सूत्र भी जो उसे बताता है; तरीका; और भाग्य भी।
 
 ## 8. English Explanation
 
@@ -700,8 +700,8 @@ Teacher Notes. 8.4.40's instrumental is printed as the exception it is; its read
 ### The derivations
 
 Derivation (a), भो + अति → भवति, and derivation (b), देव + भिस् → देवैः, are in §13. Your runs:
-नयति and रामैः (§13; §18 exercise 5 items (1)–(2)), then परोपकारः, अग्नये, गुरवे, गणेशः (items
-(3)–(6)).
+नयति and रामैः [§13; §18 exercise 5 items (1)–(2)], then परोपकारः, अग्नये, गुरवे, गणेशः [items
+(3)–(6)].
 
 ### Toolbox card
 
@@ -723,6 +723,7 @@ exception (Teacher Notes; Chapter 6 for its reading).
 |---|---|
 | the case code on any quoted rule of this chapter | ✓ |
 | the instr. pl. -ऐः derived (owned cells) | ✓ |
+| 1.1.50, the most similar substitute, as the authority for a derivation step, by its gist | ✓ — read today; ○ since lesson 1 |
 | 8.2.66 + 8.3.15 | ○ — c02.l01 |
 | the heading [पूर्वपरयोः] | ○ — c02.l02 |
 | anuvṛtti | ○ — c02.l03 |
@@ -914,7 +915,7 @@ mid-quiz.
    mistake 3.)
 5. (c) — अकः is ablative; the replaced item is both sounds, by the heading [पूर्वपरयोः] (§8 Step
    4, §15). ((a) is §12 mistake 4.)
-6. (b) — four and four pair off in order: ओ is second → अव् (§13 derivation (a)). ((a) is §12
+6. (b) — four and four pair off in order: ओ is second → अव् — §13 derivation (a). ((a) is §12
    mistake 5.)
 7. (b) — 7.1.9 first: भिस् → ऐस्; then अ + ऐ → ऐ, by 6.1.88; then the visarga, a preview — §13
    derivation (b). ((d) is the lengthening of 7.3.101, which has no place here.)
@@ -1252,7 +1253,7 @@ narrator reads the cue, not the English spelling.
   result"; an arrow from अचि — "locative: before". Then इति + अवदत् → इत्यवदत्, the इ circled, the
   अ arrowed.
 - **Payoff (0:30–0:43):** "Learners of this course can now read the structure of a Pāṇinian
-  rule from its cases — and derive भवति from it."
+  rule from its cases — and derive the last step of भवति, भो + अति, from it."
 - **CTA (0:43–0:50):** "Next: the Chapter 1 exam." (End card: इको यणचि — How a Rule Speaks.)
 
 ## 27. Metadata

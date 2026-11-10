@@ -19,9 +19,9 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | अवग्रह | avagraha | the elision mark ऽ (marks a dropped अ); used: v3.c04.l01–l02, तेऽपि, कोऽपि | अवग्रह | v1.c05.l05 |
 | चन्द्रबिन्दु | candrabindu | the nasal-vowel sign ँ | चन्द्रबिन्दु | v1.c05.l05 |
 | दण्ड | daṇḍa | the sentence bar । (double ॥ closes a verse) | दण्ड (पूर्ण विराम-चिह्न) | v1.c05.l05 |
-| दीर्घ | dīrgha | long (vowel) | दीर्घ (लम्बा स्वर) | v1.c01.l04 |
-| ह्रस्व | hrasva | short (vowel) | ह्रस्व (छोटा स्वर) | v1.c01.l04 |
-| हलन्त | halanta | consonant-final; a common name for the virāma | हलन्त | v1.c05.l01 |
+| दीर्घ | dīrgha | long (vowel); in a rule, दीर्घः the long vowel as a result (6.1.101, 7.3.101); a ledger headword of v4.c01.l02 | दीर्घ (लम्बा स्वर) | v1.c01.l04 |
+| ह्रस्व | hrasva | short (vowel); ह्रस्वः a ledger headword of v4.c01.l02 | ह्रस्व (छोटा स्वर) | v1.c01.l04 |
+| हलन्त | halanta | consonant-final; a common name for the virāma; its हल् is the pratyāhāra of all consonants, v4.c01.l01 | हलन्त | v1.c05.l01 |
 | कण्ठ्य | kaṇṭhya | velar / guttural | कण्ठ्य (कण्ठ से उच्चरित) | v1.c01.l02 |
 | मात्रा | mātrā | vowel sign; also: duration unit | मात्रा | v1.c01.l04 |
 | ओष्ठ्य | oṣṭhya | labial | ओष्ठ्य (होठों से उच्चरित) | v1.c01.l02 |
@@ -110,7 +110,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | सवर्णदीर्घः | savarṇadīrghaḥ | like vowels → one long (6.1.101): न + अस्ति → नास्ति | दीर्घ (सवर्णदीर्घ) सन्धि | v3.c04.l01 |
 | गुणः | guṇaḥ | the guṇa grade (ए, ओ, अर्): अ/आ + इ, उ, ऋ (6.1.87); also the strengthened vowel inside गुरवे | गुण | v3.c04.l01 |
 | वृद्धिः | vṛddhiḥ | the vṛddhi grade (ऐ, औ, आर्): अ/आ + ए, ऐ, ओ, औ (6.1.88) | वृद्धि | v3.c04.l01 |
-| यण् | yaṇ | इ/उ/ऋ → य्/व्/र् before an unlike vowel (6.1.77): इति अवदत् → इत्यवदत् | यण् | v3.c04.l01 |
+| यण् | yaṇ | इ/उ/ऋ → य्/व्/र् before an unlike vowel (6.1.77): इति अवदत् → इत्यवदत्; as a pratyāhāra: य व र ल, v4.c01.l01 | यण् | v3.c04.l01 |
 | अयादि | ayādi | ए/ऐ/ओ/औ → अय्/आय्/अव्/आव् before a vowel (6.1.78); at a word end -ए → अ + gap, -ऐ → आ + gap | अयादि | v3.c04.l01 |
 | पूर्वरूपम् | pūrvarūpam | the अ merged into a word-final ए/ओ, marked ऽ (6.1.109): ते अपि → तेऽपि | पूर्वरूप | v3.c04.l01 |
 | प्रगृह्यम् | pragṛhyam | a vowel that never joins: the dual in -ई, -ऊ, -ए (1.1.11): द्वे बालिके अत्र | प्रगृह्य | v3.c04.l01 |
@@ -118,7 +118,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | व्यञ्जनसन्धिः | vyañjanasandhiḥ | consonant sandhi at word edges (schoolbooks print व्यंजन संधि; the course writes the GLOSSARY spelling) | व्यञ्जन-सन्धि | v3.c04.l03 |
 | संहिता | saṃhitā | joined text, the closest contact of sounds (1.4.109); a collection of Vedic hymns; as an ordinary word "union", a ledger headword of v3.c04.l04 | संहिता | v3.c04.l04 |
 | पदपाठः | padapāṭhaḥ | the word-by-word (pause-form) text of the Vedic tradition; the course's pause form is the same idea | पदपाठ | v3.c04.l04 |
-| पदच्छेदः | padacchedaḥ | splitting a joined text into its words: the six-step method | पदच्छेद | v3.c04.l04 |
+| पदच्छेदः | padacchedaḥ | splitting a joined text into its words: the six-step method; Volume 4: the word-by-word division printed under a sūtra, with each word's case, from v4.c01.l03 | पदच्छेद | v3.c04.l04 |
 | अवसानम् | avasānam | the pause, "stopping" (1.4.110); as an ordinary word "end", a ledger headword of v3.c04.l04 | अवसान (विराम) | v3.c04.l04 |
 | सर्वनाम | sarvanāma | pronoun — and, by 1.1.27, Pāṇini's class of words beginning with सर्व: अहम्, त्वम्, भवान् in v3.c05.l01; तद् and its family in v3.c05.l02 | सर्वनाम | v3.c05.l01 |
 | निपात | nipāta | particle, by 1.4.57: च, वा, एव, हि, तु …; with the स्वर्-list, called अव्यय by 1.1.37 | निपात | v3.c05.l03 |
@@ -131,6 +131,17 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | अव्ययीभाव | avyayībhāva | an indeclinable first, the whole indeclinable; recognised but not scored in Volume 3: यथाशक्ति | अव्ययीभाव | v3.c05.l04 |
 | उपपद | upapada | (label) a verb-noun as the second member, its kinds v4.c04: जलजम्, खगः, पादपः | उपपद | v3.c05.l04 |
 | प्रादि | prādi | (label) प्र and the rest as the first member, taught v4.c04: सुप्रभातम् | प्रादि | v3.c05.l04 |
+| माहेश्वराणि सूत्राणि | māheśvarāṇi sūtrāṇi | the fourteen sūtras (अइउण् … हल्), handed down at the head of the Aṣṭādhyāyī; the grammar's list of sounds | माहेश्वर सूत्र | v4.c01.l01 |
+| इत् | it | a marker: a sound in a teaching that is not part of the form and is dropped (1.3.3, 1.3.9) | इत् (चिह्न-वर्ण) | v4.c01.l01 |
+| प्रत्याहारः | pratyāhāraḥ | a sound + a marker naming every sound from it up to the marker (1.1.71): अच्, हल्; also a ledger headword of v4.c01.l01 | प्रत्याहार | v4.c01.l01 |
+| उपदेशः | upadeśaḥ | a teaching: a list as first taught (the fourteen sūtras, the roots, the affixes), whose final consonant is a marker | उपदेश | v4.c01.l01 |
+| अन्तरतमः | antaratamaḥ | the most similar substitute (1.1.50) | अन्तरतम | v4.c01.l01 |
+| सवर्णः · सवर्णम् | savarṇaḥ · savarṇam | of one family: the same place and the same effort (1.1.9); a short vowel in a rule covers its savarṇas (1.1.69); सवर्णः also a ledger headword of v4.c01.l02 | सवर्ण | v4.c01.l02 |
+| तपरः | taparaḥ | a vowel written with त् after it: it stands for its own length only (1.1.70) | तपर | v4.c01.l02 |
+| उदित् | udit | a letter marked with उ (कु चु टु तु पु): it stands for its whole row (1.1.69) | उदित् | v4.c01.l02 |
+| षष्ठी · सप्तमी · पञ्चमी · प्रथमा (in a sūtra) | ṣaṣṭhī · saptamī · pañcamī · prathamā | the case code: the genitive "in place of" (1.1.49); the locative "before" (1.1.66); the ablative "after" (1.1.67); the nominative "the result" | षष्ठी — के स्थान पर; सप्तमी — से पहले; पञ्चमी — के बाद; प्रथमा — परिणाम (आदेश) | v4.c01.l03 |
+| आदेशः | ādeśaḥ | substitute: what a rule puts in place of a sound or an affix; also a ledger headword of v4.c01.l03 | आदेश | v4.c01.l03 |
+| यथासंख्यम् | yathāsaṃkhyam | in order: equal sets pair off one by one (1.3.10) | यथासंख्य | v4.c01.l03 |
 
 ## Course meta-vocabulary
 
