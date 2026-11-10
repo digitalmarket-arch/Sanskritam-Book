@@ -76,7 +76,8 @@ objective 2 in §5/§8/§15, §18 (exercises 2, 4) and §19 (Q6, Q7, Q10); objec
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, lesson 3's +1-day and lesson 2's
-+1-week. Then three memory prompts. Everything from memory *before* any key opens: in the one
++1-week. Then six memory prompts, one for each older lesson this lesson reviews. Everything
+from memory *before* any key opens: in the one
 claim this course makes for it, retrieval practice beats re-reading for long-term retention
 [REF:roediger2006].
 
@@ -130,6 +131,10 @@ Each noun shows its own gender, number and case; the adjective copies all three.
    sentence?
 2. From v2.c02.l01: name four family words, aloud, in Sanskrit.
 3. From v1.c02.l06: what does the -औ at the end of अयोगवाहौ say?
+4. From v1.c02.l04: the calling form Volume 1 promised for "Mother!".
+5. From v2.c02.l04: Volume 2 printed सीता रामः च अत्र स्तः and told you to leave स्तः alone.
+   What does स्तः say?
+6. From v2.c06.l04: "tooth" and "foot" in Sanskrit.
 
 <details><summary>उत्तराणि · Answers</summary>
 
@@ -149,6 +154,12 @@ Each noun shows its own gender, number and case; the adjective copies all three.
    their table.
 3. Two of them: अयोगवाहौ is "the two ayogavāhas", anusvāra and visarga. Volume 1 printed the
    -औ as a promise; today's dual card (§15) is the answer.
+4. मातः (v1.c02.l04): Volume 1 printed it and said the form would arrive with the case
+   system. Today it does: the ṛ-stem vocative, हे मातः (§8 Step 3; §15 Step 1).
+5. "The two are" (v2.c02.l04 §12) — real Sanskrit, kept for later. Today स्तः is read as a
+   labelled preview (§8 Step 1); you read it, you do not build it.
+6. दन्तः "tooth", पादः "foot" (v2.c06.l04). Hold them: feet come in twos, teeth do not (§8
+   Step 3).
 </details>
 
 A slip in item 1 sends you to lesson 3's §15 table tonight; a slip in item 2, to lesson 2's
@@ -225,7 +236,7 @@ Last, a map between Hindi and Sanskrit, stated as a contrast, not a ranking:
 > **[FACT · तथ्यम्]** Hindi दो is followed by a plural noun (दो हाथ, दो लड़के); Sanskrit
 > uses its dual (द्वौ हस्तौ, द्वौ बालकौ). Hindi's tatsama kinship and agent words माता, पिता,
 > दाता, कर्ता, and the literary भ्राता, have the shape of the Sanskrit nominative singular;
-> the dictionary stems are मातृ, पितृ, दातृ, कर्तृ. [REF:kachru2006]
+> the dictionary stems are मातृ, पितृ, दातृ, कर्तृ. [REF:kachru2006] [REF:whitney1889 §373]
 
 ## 6. Sanskrit Explanation
 
@@ -740,8 +751,9 @@ with a plural.
 | माता · पिता · दाता · कर्ता | माता · पिता · दाता · कर्ता | Hindi tatsamas are the Sanskrit nominative singular; the stems are मातृ, पितृ, दातृ, कर्तृ |
 | पिता आगच्छति | पिताजी आते हैं | Hindi: the respectful plural for one person; the course's Sanskrit: the singular for one person, respect by भवान् (c05.l01) |
 
-The third row is this course's practice, not a law about every Sanskrit text: the course
-keeps the singular for one person [REF:kachru2006].
+The plural of respect for one person is standard Hindi [REF:kachru2006]. The Sanskrit side
+of the third row is this course's practice, not a law about every Sanskrit text: the course
+keeps the singular for one person.
 
 ### Step 6 — promises kept, and one preview
 

@@ -12,7 +12,7 @@ lesson: 5
 lesson_type: review
 cefr: A2
 duration_minutes: 45  # the sitting alone; Station 0 (§3, about 8 min) runs before it and outside its 45, so the room time is about 53 min
-self_study_minutes: 45  # after the sitting: the §19 quiz, the §9 listening and dictation sets, the check against the keys, task E re-recorded if below full
+self_study_minutes: 65  # 20 before the sitting (the §8 Step 5 frames, reading §15 and §16) and 45 after it (the §19 quiz, the §9 listening and dictation sets, the check against the keys, task E re-recorded if below full)
 prerequisites: [v3.c02.l04]
 review_of: [v3.c02.l01, v3.c02.l02, v3.c02.l03, v3.c02.l04, v3.c01.l05]
 objectives:
@@ -251,7 +251,7 @@ scores higher than a silence.
 
 Six lines. The first is lesson 4's own line (l04 §13). The next four are the map's heart,
 each said as "case, then job": one where the job matches, three where it does not (the
-sentences are §8 Step 1's). The last is the 8×3 table's first row, named with the three
+first three are §8 Step 1's sentences; मया कृतम् is §8 Step 4's R2 card). The last is the 8×3 table's first row, named with the three
 number terms — terms you use, not ledger words.
 
 ## 7. Hindi Explanation
@@ -373,7 +373,7 @@ task A against.
 | कर्ता doer | ___ | ___ | ___ |
 | कर्म done-to | ___ | ___ | ___ |
 | करणम् means | ___ | ___ | ___ |
-| सम्प्रदानम् recipient | ___ | ___ | ___ |
+| सम्प्रदानम् receiver | ___ | ___ | ___ |
 | अपादानम् fixed point of separation | ___ | ___ | ___ |
 | अधिकरणम् location | ___ | ___ | ___ |
 | (सम्बन्धः relation — not a kāraka) | ___ | ___ | ___ |
@@ -507,10 +507,10 @@ never marks the dative wrong.
 
 ## 13. Examples
 
-उदाहरणानि — the roles map's own examples, then the three lines where case and job part
-company; the eight task C sentences are on the exam sheet only.
+उदाहरणानि — sentences of the roles map's kinds, then three lines where case and job part
+company; none of the eight task C sentences is printed here word for word.
 
-**The map's examples, one per row** (the bold noun is the row's job):
+**One example for each row of the map** (the bold noun is the row's job):
 
 > **व्याधः मृगम् पश्यति।** (vyādhaḥ mṛgam paśyati.) "The hunter sees the deer." — शिकारी
 > हिरन को देखता है। *व्याधः — प्रथमा · कर्ता; मृगम् — द्वितीया · कर्म.*
@@ -519,11 +519,11 @@ company; the eight task C sentences are on the exam sheet only.
 > catches the doves with the net." — शिकारी जाल से कबूतरों को पकड़ता है। *जालेन — तृतीया
 > · करणम्, the tool.*
 
-> **बालिका मात्रे पुष्पम् ददाति।** (bālikā mātre puṣpam dadāti.) "The girl gives her
-> mother a flower." — लड़की माँ को फूल देती है। *मात्रे — चतुर्थी · सम्प्रदानम्.*
+> **माता बालकाय फलम् ददाति।** (mātā bālakāya phalam dadāti.) "The mother gives the boy a
+> fruit." — माँ लड़के को फल देती है। *बालकाय — चतुर्थी · सम्प्रदानम्.*
 
-> **पत्राणि वृक्षात् पतन्ति।** (patrāṇi vṛkṣāt patanti.) "The leaves fall from the tree."
-> — पत्ते पेड़ से गिरते हैं। *वृक्षात् — पञ्चमी · अपादानम्, the fixed point.*
+> **फलम् वृक्षात् पतति।** (phalam vṛkṣāt patati.) "The fruit falls from the tree." —
+> फल पेड़ से गिरता है। *वृक्षात् — पञ्चमी · अपादानम्, the fixed point.*
 
 > **कपोताः वृक्षे निवसन्ति।** (kapotāḥ vṛkṣe nivasanti.) "The doves live in the tree." —
 > कबूतर पेड़ पर रहते हैं। *वृक्षे — सप्तमी · अधिकरणम्.*
@@ -535,18 +535,18 @@ company; the eight task C sentences are on the exam sheet only.
 
 **The three lines where case and job part company:**
 
-> **गुरवे नमः।** (gurave namaḥ.) "Homage to the teacher." — गुरु को नमस्कार। *गुरवे —
-> चतुर्थी, but no receiver: the dative goes with the word नमः.*
+> **स्वस्ति तुभ्यम्।** (svasti tubhyam.) "Blessings to you." — तुम्हारा कल्याण हो। *तुभ्यम् —
+> चतुर्थी, but no receiver: the dative goes with the word स्वस्ति.*
 
-> **शिष्यः गुरुणा सह पठति।** (śiṣyaḥ guruṇā saha paṭhati.) "The student studies with the
-> teacher." — शिष्य गुरु के साथ पढ़ता है। *गुरुणा — तृतीया, but company, not करणम्.*
+> **बालकः मित्रेण सह गच्छति।** (bālakaḥ mitreṇa saha gacchati.) "The boy goes with his
+> friend." — लड़का दोस्त के साथ जाता है। *मित्रेण — तृतीया, but company, not करणम्.*
 
-> **मया कृतम्।** (mayā kṛtam.) "Done by me." — मेरे द्वारा किया गया। *मया — तृतीया, and
-> still the कर्ता: the R2 frame (§15 (6)).*
+> **तेन उक्तम्।** (tena uktam.) "Said by him." — उसके द्वारा कहा गया। *तेन — तृतीया, and
+> still the कर्ता: the R2 frame (§15 (6)); उक्तम् is display.*
 
 **Worked aloud** (lesson 3's model sentence सः अतिथये भोजनम् ददाति "he gives food to the
 guest"): सः — प्रथमा · कर्ता; अतिथये — चतुर्थी, and with ददाति something is handed over,
-so सम्प्रदानम्, case and job together; भोजनम् — द्वितीया · कर्म. Compare गुरवे नमः: the same
+so सम्प्रदानम्, case and job together; भोजनम् — द्वितीया · कर्म. Compare स्वस्ति तुभ्यम्: the same
 case, and no giving. Two steps for every noun — the ending, then the sentence.
 
 ## 14. Vocabulary
@@ -585,7 +585,7 @@ what the chapter made yours.
 ### (1) The roles map
 
 > **[FACT · तथ्यम्]** Each of the six jobs has a usual case: the doer the nominative, the
-> done-to the accusative, the means the instrumental, the recipient the dative, the fixed
+> done-to the accusative, the means the instrumental, the receiver the dative, the fixed
 > point of separation the ablative, the location the locative. The genitive and the
 > vocative name no part in the action. The cases and the jobs are not one-to-one: the
 > right-hand column lists the places where they part company in sentences you can read.
@@ -596,7 +596,7 @@ what the chapter made yours.
 | कर्ता doer | प्रथमा | व्याधः मृगम् पश्यति | R2: with a transitive verb's -त participle the doer is instrumental (मया कृतम्); the neuter doer looks like a done-to (पत्रम् पतति) |
 | कर्म done-to | द्वितीया | व्याधः **मृगम्** पश्यति | — (none here: the goal of motion is a कर्म too, ग्रामम् गच्छति, and so are both objects in गुरुः शिष्यम् नाम पृच्छति) |
 | करणम् means | तृतीया | व्याधः **जालेन** कपोतान् गृह्णाति | company with सह is instrumental but not a means (शिष्यः गुरुणा सह पठति; v3.c01.l03) |
-| सम्प्रदानम् recipient | चतुर्थी | बालिका **मात्रे** पुष्पम् ददाति | with नमः, स्वस्ति: a dative and no receiver (गुरवे नमः; v3.c01.l03); the dative of purpose (अन्नाय); with रोचते the one pleased **is** सम्प्रदानम् for Pāṇini, though nothing is given |
+| सम्प्रदानम् receiver | चतुर्थी | बालिका **मात्रे** पुष्पम् ददाति | with नमः, स्वस्ति: a dative and no receiver (गुरवे नमः; v3.c01.l03); the dative of purpose (अन्नाय); with रोचते the one pleased **is** सम्प्रदानम् for Pāṇini, though nothing is given |
 | अपादानम् fixed point of separation | पञ्चमी | पत्राणि **वृक्षात्** पतन्ति | "than": बुद्धिः बलात् श्रेष्ठा — no one leaves anything |
 | अधिकरणम् location | सप्तमी | कपोताः **वृक्षे** निवसन्ति | (no mismatch) time is "where" too and still अधिकरणम् (प्रभाते, रात्रौ) |
 | (सम्बन्धः relation — not a kāraka) | षष्ठी | **रामस्य** पुत्रः | with उपरि, समीपे (सिंहस्य उपरि) — the genitive names no part in the action |
@@ -658,7 +658,7 @@ beyond रामौ: l04 §15 Step 3).
 | ṛ-stems: पिता · माता · दाता | पितरौ pitarau · मातरौ mātarau · दातारौ dātārau | पितृभ्याम् pitṛbhyām | पित्रोः pitroḥ · दात्रोः dātroḥ |
 | सः · सा · तत् | तौ tau · ते te · ते te | ताभ्याम् tābhyām | तयोः tayoḥ |
 | कः · का · किम् | कौ kau · के ke · के ke | काभ्याम् kābhyām | कयोः kayoḥ |
-| 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | द्वाभ्याम् dvābhyām | द्वयोः dvayoḥ |
+| 2 | द्वौ dvau (m.) · द्वे dve (f., n.) | — (numeral obliques: v4.c05) | — (v4.c05) |
 | "both" | उभौ ubhau (m.) · उभे ubhe (f., n.) | उभाभ्याम् ubhābhyām | उभयोः ubhayoḥ |
 
 The caution printed with the card, again: the neuter and feminine dual -े (फले, बालिके,
@@ -949,7 +949,7 @@ sitting.
    (c) not a kāraka (d) कर्ता
 5. The two endings of the dual that almost every stem shares: (a) -भ्याम् and -ओः
    (b) -आनि and -एषु (c) -ऐः and -आनाम् (d) -औ and -े
-6. The instrumental plural of देवः: (a) देवभिः (b) देवैः (c) देवेभिः (d) देवेभ्यः
+6. The instrumental plural of देवः: (a) देवभिः (b) देवैः (c) देवेषु (d) देवेभ्यः
 7. Which two cells are one form in every noun? (a) dative and ablative plural
    (b) instrumental and dative singular (c) genitive singular and plural (d) locative and
    vocative
@@ -975,8 +975,8 @@ sitting.
    vocative are the non-kārakas. TRADITION, asked "According to Pāṇini".
 5. (a) — "almost or quite unbroken range" (§15 (4); l04 §15 Step 3); (d) are particular
    stems' nominative-accusative duals. FACT.
-6. (b) — the a-stem's -ऐः, the card's first exception (§15 (4); l01 §15 Step 1); (d) is the
-   dative-ablative plural. FACT.
+6. (b) — the a-stem's -ऐः, the card's first exception (§15 (4); l01 §15 Step 1); (c) is the
+   locative plural, (d) the dative-ablative plural. FACT.
 7. (a) — free fact 3 (§15 (5)): रामेभ्यः, बालिकाभ्यः, गुरुभ्यः. FACT.
 8. (b) — the neuter a-stem dual -े (§15 (3); l04 §15 Step 3); (a) is the masculine -औ, (c)
    the plural. FACT.
@@ -1015,7 +1015,8 @@ C — case · job, token by token (19), and the mark for "case ≠ job":
    अधिकरणम्.
 
 Tokens: 4 + 3 + 2 + 2 + 1 + 1 + 3 + 3 = 19, + one point for writing "case ≠ job" beside
-each of sentences 4–6 (the three marks scored together as 1 if all three are there) =
+each of sentences 4–6 (the three marks scored together as 1 if all three are there; an
+extra mark, for example beside sentence 7's two accusatives, does not cost the point) =
 **20**. Scoring: 1 per token with case and job both right, ½
 for one. Accept English names or the tradition's (nom. or प्रथमा; "doer" or कर्ता). For 4
 accept "company" or "with, not the means"; for 5 "no receiver", "goes with नमः" or "not
@@ -1088,17 +1089,27 @@ Spaced review (distributed practice beats cramming [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — the self-study session, ≈ 45 minutes, after the sitting: the quiz, the §9 sets,
-the check, the re-recording (item 5 is the real-world task).
+गृहकार्यम् — the self-study session, ≈ 65 minutes: 20 before the sitting (items 1–2) and 45
+after it (items 3–7: the quiz, the §9 sets, the check, the re-recording; item 7 is the
+real-world task).
 
-1. **(10 min, closed-book)** The §19 quiz, then its key. 7/10 or more completes the exam.
-2. **(10 min)** The §9 listening pairs and dictation, from the audio, then their key in §19.
-3. **(10 min)** Your sitting against the task keys in §19, task by task: for every lost
+**Before the sitting**
+
+1. **(10 min, unscored)** Copy the two frames of §8 Step 5 and fill them from memory; then
+   check them against §15 (1) and (2).
+2. **(10 min, unscored)** Read §15 (3)–(6) — the dual card, the recurring endings, the free
+   facts, the R2 card — and read §16 aloud in both roles, the model for task E.
+
+**After the sitting**
+
+3. **(10 min, closed-book)** The §19 quiz, then its key. 7/10 or more completes the exam.
+4. **(10 min)** The §9 listening pairs and dictation, from the audio, then their key in §19.
+5. **(10 min)** Your sitting against the task keys in §19, task by task: for every lost
    mark, write the lesson and section the key points to.
-4. **(10 min, recorded — production)** If task E scored below full: record it again, six or
+6. **(10 min, recorded — production)** If task E scored below full: record it again, six or
    more sentences, and compare with the model in §19's key *after* you record. If it scored
    full: record §16 in both roles, then once more with your own family's answers.
-5. **(5 min, real world)** Teach someone at home the three places where case and job part
+7. **(5 min, real world)** Teach someone at home the three places where case and job part
    company, with one Hindi line each: "गुरु को नमस्कार — nothing is given", "गुरु के साथ —
    a companion, not a tool", "मेरे द्वारा किया गया — I am the doer". Then ask them which
    को marks a receiver: the one in "माँ को फूल देती है" or the one in "गुरु को नमस्कार".
@@ -1117,8 +1128,10 @@ hand-out of sheets (3) → A, timed (8) → B (8) → C (8) → D (8) → E, rec
 §19 quiz is taken in the self-study session, after the sitting. If the room cannot record
 at once, run E in pairs — one learner records while the partner holds the rubric — and
 schedule a second slot for the rest; say why. The §8 Step 5 frames, the reading of §15 and
-§16 are the learner's preparation before the exam day, unscored; they are not timed in
-either figure of the front matter. Never show task C's sentences before the sitting.
+§16 are the learner's preparation before the sitting, unscored; they are the first 20
+minutes of the self-study figure (§21 items 1–2). Never hand out the task C sheet before the sitting; §13 prints none of its sentences word
+for word, though some are the chapter's own model sentences (l03 §13; §8 Step 1 here) — the
+task scores the job, not memory of the line.
 
 **Rubric and remediation:**
 
@@ -1187,17 +1200,21 @@ and quiz item 4 asks it in the "According to Pāṇini" form. Do not present it 
 **The उक्तं च count, for you.** 329 is the number of whole-word matches of *uktaṃ ca* in
 the GRETIL Pañcatantra file `vispancu.htm` (Jha's edition), re-counted 2026-11-10; a bare
 string match gives 330, because one *yuktaṃ caitat* contains the string; a few of the 329
-do not introduce a verse (e.g. *uktaṃ ca saharṣaṃ*); the GRETIL Hitopadeśa file has 8.
+do not introduce a verse (e.g. *uktaṃ ca saharṣaṃ*); the GRETIL Hitopadeśa file has 7 by the same whole-word count (8 as a bare string, because of one *uktaṃ caitat*).
 Re-run the count before print and quote the method with the number; claim nothing beyond
 the file.
 
 **The serial — departures, for the record.** Our retelling of episode 2 departs from the
-Hitopadeśa's frame [REF:hitopadesha mitralābha] in four places: (1) the warning comes from
+Hitopadeśa's frame [REF:hitopadesha mitralābha] in these places: (1) the warning comes from
 our free dove of episode 1, not from the king, who in the text warns and is overruled; (2)
-the king is caught last and alone named as caught "with two feet in the snare" — the text
-says only that all were bound in the net; (3) the hunter's wife and the river are ours (the
-Hitopadeśa's river is the Godāvarī; no name is printed); (4) the grains are तण्डुलाः (the
-text's *taṇḍula-kaṇān*, "rice grains"; the compound is not used). The text's order —
+the king is caught last and alone named as caught "with two feet in the snare", and a young
+dove calls to its parents — the text says only that all were bound in the net; (3) the
+hunter's wife is ours; the river, its bank and the silk-cotton tree are the text's (the
+Hitopadeśa's river is the Godāvarī; the river's name is not printed); (4) in the text birds
+from many lands roost in the tree at night, and the narrator says so (*rātrau pakṣiṇo
+nivasanti*); our doves live in the tree, and our free dove speaks the clause as a warning
+(l02, l03); (5) the grains are तण्डुलाः (the text's *taṇḍula-kaṇān*, "rice grains"; the
+compound is not used). The text's order —
 warning, landing, binding, the king's counsel — is kept. v3.c06.l02 shows them all.
 
 **The Hindi angles.** Let the class build the Hindi side of the map from §7 — को twice, से
@@ -1329,8 +1346,8 @@ cue.
   pointer to v3.c01.l03; the §4 TRADITION line is the only numbered sūtra content); (3) the
   benediction prints only its first and third quarters, since its second line carries
   joins; (4) §14 carries the chapter summary table, as v3.c01.l05 did, with no headword
-  rows; (5) the preparation (§8 Step 5 frames, §15, §16) is done before exam day and is not
-  timed in either front-matter figure.
+  rows; (5) the preparation (§8 Step 5 frames, §15, §16) is done before the sitting and is
+  counted in self_study_minutes: 20 of its 65 minutes (§21 items 1–2).
 - **Export notes:** task keys A–E, the quiz key and the §9 key stay in §19's `<details>`;
   the Station keys in §3's. उक्तम्, उक्तं च (`joined: true`, `label: quoted formula`),
   अस्मभ्यम्, अस्मत्, युष्मभ्यम्, युष्मत् export as `display_only`; सिध्यन्ति, प्रविशन्ति,

@@ -570,7 +570,7 @@ nominative's form) and the 12 feminine cells you produce (§15 Step 4: मति
 | तरुः | taruḥ | /t̪ɐɾuh/ | tree | पेड़, तरु | ledger-new — m. u-stem; instr. तरुणा, with ṇ (र before); the Hitopadeśa's word for the tree of the serial's frame (§4) — Apte s.v. तरु; MW s.v. taru |
 | शत्रुः | śatruḥ | /ɕɐt̪ɾuh/ | enemy | शत्रु, दुश्मन | ledger-new — m. u-stem; Whitney's own model for the u-stems (§341): शत्रुणा, शत्रवे, शत्रोः, शत्रौ — Apte s.v. शत्रुः; MW s.v. śatru |
 | अतिथिः | atithiḥ | /ɐt̪it̪ʰih/ | guest | अतिथि, मेहमान | ledger-new — m. i-stem; अतिथिना keeps न (no र or ष in the word); अतिथये "to the guest" — Apte s.v. अतिथिः; MW s.v. atithi |
-| साधुः | sādhuḥ | /sɑːd̪ʱuh/ | good; a good man, a holy man | सज्जन, साधु | ledger-new — m. u-stem; also an adjective (-धुः -ध्वी -धु); as an adjective used only in the masculine here (रात्रौ अग्निः साधुः), its feminine साध्वी a preview — Apte s.v. साधु; MW s.v. sādhu |
+| साधुः | sādhuḥ | /sɑːd̪ʱuh/ | good; a good man, a holy man | सज्जन, साधु | ledger-new — m. u-stem; also an adjective (m. -धुः, f. -धुः or -ध्वी, n. -धु); as an adjective used only in the masculine here (रात्रौ अग्निः साधुः), its feminine साध्वी a preview — Apte s.v. साधु; MW s.v. sādhu |
 | धेनुः | dhenuḥ | /d̪ʱeːn̪uh/ | cow (milch cow) | गाय, धेनु | ledger-new — f. u-stem; Whitney's feminine u-model (§341); the Δ card's u-column (§15 Step 4): धेन्वा, धेनूः — Apte s.v. धेनुः; MW s.v. dhenu |
 | पक्षी | pakṣī | /pɐkʂiː/ | bird | पक्षी, चिड़िया | ledger-new — m., a stem in -इन् (पक्षिन्), counted by its nominative (STYLE_GUIDE §8 rule 14); only its seven R1 cells are read (§15 Step 7); the Hitopadeśa's *pakṣiṇo nivasanti* (§4) — Apte s.v. पक्षिन्; MW s.v. pakṣin |
 | श्रेष्ठः | śreṣṭhaḥ | /ɕɾeːʂʈʰɐh/ | best; better (than + abl.) (-ष्ठा -ष्ठम्) | श्रेष्ठ, उत्तम | ledger-new — adj. a-stem, three genders as प्रियः; "than" in the ablative: बुद्धिः बलात् श्रेष्ठा — MW s.v. śreṣṭha "better than (abl. or gen.)"; Apte s.v. श्रेष्ठ "Best, most excellent" |
@@ -1023,7 +1023,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — about 35 minutes total.
+गृहकार्यम् — about 40 minutes total.
 
 1. **(20 min)** Finish the §18 exercises not done in class — at least exercises 1, 2 and
    5, and exercise 4 if it moved to homework — and check them against §19's key.
@@ -1031,6 +1031,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
    guest at your door. Run the role-play, record it, and play it back once, marking every
    strengthened cell you hear (गुरवे, अग्नेः, हे गुरो …). If they do not speak Sanskrit,
    teach them two lines first: हे गुरो! and अतिथिः अपि गुरुः।
+3. **(5 min)** The R1 card (§15 Step 7): cover the right-hand column, read each of the seven
+   cells of पक्षी aloud and name its case and number; then check. Read, do not build.
 
 ## 22. Teacher Notes
 

@@ -168,7 +168,7 @@ tree.
 > fables in prose and verse attributed to Nārāyaṇa and dated, on the usual scholarly
 > estimate, to roughly the 9th–12th centuries CE. The frame begins with a great
 > silk-cotton tree on the bank of a river (*viśālaḥ śālmalī-taruḥ*), where birds from many
-> lands roost at night; a hunter later scatters rice grains there and spreads his net.
+> lands roost at night; a hunter later scatters rice grains in the forest and spreads his net.
 > [REF:hitopadesha mitralābha] [REF:apte1890 s.v. शाल्मलिः]
 
 Look at the adjective the text gives its tree: *viśālaḥ* "great, wide". It is one of
