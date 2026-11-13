@@ -123,7 +123,7 @@ uses the first, and the third is today's vocabulary of cases.
 ## 4. Historical Context
 
 ऐतिहासिकः सन्दर्भः — where today's three definitions stand, and how the commentators read
-every rule through them.
+the rules through them.
 
 Today's three Q tools stand together in the first quarter of the first book of the
 Aṣṭādhyāyī: 1.1.49, 1.1.66 and 1.1.67. The rules they explain stand far later — 6.1.77 and
@@ -807,7 +807,7 @@ course sentence, written for this dialogue; no source is claimed for any.
 
 कथा — the grammarians' line, 3: the code in the commentators' hands.
 
-The case code is not a modern invention. The commentators' glosses turn each rule into a
+The case code is not a modern invention. The commentators' glosses turn a rule into a
 sentence with "in place of" and "when … follows" — you read one in §4, the Kāśikā's line on इको
 यणचि, where the locative अचि became अचि परतः and the nominative यण् became यणादेशः, "the yaṇ
 substitute". The code you learned today is the one their sentences already use.

@@ -59,7 +59,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | व्यञ्जन | vyañjana | consonant | व्यञ्जन | v1.c01.l02 |
 | वर्ग | varga | class — one of the five stop rows, named by its first letter: क-वर्ग … प-वर्ग | वर्ग | v1.c01.l02 |
 | स्थान | sthāna | place of articulation | उच्चारण-स्थान | v1.c01.l02 |
-| प्रयत्न | prayatna | manner of articulation ("effort") — the voicing, aspiration and nasal slots of a varga row | उच्चारण-प्रयत्न | v1.c01.l02 |
+| प्रयत्न | prayatna | manner of articulation ("effort") — the voicing, aspiration and nasal slots of a varga row; in 1.1.9 the effort that counts for savarṇa is, according to the Kāśikā, the inner effort of the mouth (full contact, slight contact, closed, open), not voicing or aspiration; प्रयत्नः a ledger headword of v4.c01.l02 | उच्चारण-प्रयत्न | v1.c01.l02 |
 | -कार | -kāra | suffix that names a sound or letter: अकार "the sound a", इकार "the sound i" | -कार (अकार, इकार) | v1.c02.l01 |
 | संज्ञा | saṃjñā | technical term, name — the label for each lesson's key term (संयुक्ताक्षरम्, संवादः); in Hindi grammar also "noun" | संज्ञा (पारिभाषिक नाम; हिन्दी व्याकरण में नाम-शब्द) | v1.c05.l02 |
 | विशेषण | viśeṣaṇa | adjective — a describing word; agrees with its noun (विशेष्यम्) in gender, number and case (taught in v3.c02) | विशेषण — संज्ञा का गुण या मात्रा बताने वाला शब्द | v2.c05.l02 |

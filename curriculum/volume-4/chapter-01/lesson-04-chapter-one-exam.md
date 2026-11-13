@@ -636,7 +636,7 @@ them.
 | Written in a rule | Covers | Why | Example rule |
 |---|---|---|---|
 | अ [in अक्, अण्] | अ आ [and the three-mora आ३] | 1.1.69 अणुदित् सवर्णस्य चाप्रत्ययः [Q] | 6.1.101 अकः सवर्णे दीर्घः |
-| इ, उ, ऋ | इ ई · उ ऊ · ऋ ॠ [+ ऌ with ऋ, by the tradition's vārttika: Teacher Notes] | 1.1.69 | 6.1.77 इको यणचि |
+| इ, उ, ऋ | इ ई · उ ऊ · ऋ ॠ [+ ऌ with ऋ, by the tradition's vārttika: l02 Teacher Notes] | 1.1.69 | 6.1.77 इको यणचि |
 | अत् [tapara] | short अ only | 1.1.70 तपरस्तत्कालस्य [D] | 7.3.101 अतो दीर्घो यञि; 7.1.9 अतो भिस ऐस् |
 | आत् [tapara, in वृद्धिरादैच्] | आ only | 1.1.70 | 1.1.1 वृद्धिरादैच् [c02.l02] |
 | चु, तु [udit] | the whole च-row, the whole त-row | 1.1.69 | 8.4.40 स्तोः श्चुना श्चुः |
@@ -1225,7 +1225,8 @@ sūtra 11 *kha pha dha ḍha tha* → *kha pha cha ṭha tha* (lines 249–250);
 prayoge* → *avarṇaṃ prayoge* (142); the verse's *ṅañaṇAvaṭā* → *ṅañaṇavaṭā* and *dvābhāṃ* →
 *dvābhyāṃ* (289); *prayarnaṃ* → *prayatnaṃ* (488); *spaṛṣṭata-* → *spṛṣṭatā-* (495); the split
 marks *sthāne-yogā-iva*, *pūrvasya-iva*, *uttarasya-iva* read as *eva* (1335, 1676, 1684);
-*antaratam ādeśo* → *antaratama ādeśo* (1356); *tapro* → *taparo* (1744); *madyapatitānāṃ* →
+*antaratam ādeśo* → *antaratama ādeśo* (1356); *grahanam* → *grahaṇaṃ* (1740); *tapro* → *taparo*
+(1744); *madyapatitānāṃ* →
 *madhyapatitānāṃ* (1759); *vartte* → *vartate* (3464); *ṅakaraḥ* → *ṅakāraḥ* (3469); on 1.3.10
 *samasaṅkhyānaṃ* → *samasaṅkhyānām*, *yathā-kramamauddeśibhir* → *yathākramam uddeśibhir* (3612).
 LSK — *sahati* → *sahita* (VLk 4, line 124); *avyavahatisya* → *avyavahitasya* (VLk 16, line 162);
@@ -1346,16 +1347,18 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   to exercise 4, §20; l03 §8 Step 4, §12 mistakes 2 and 4, §13 derivation (a) and model sentence
   4, §15 (the case code, the table), §18 exercises 2, 3, 4, 5, 6, §19 key, §20; v3.c04.l01 §15
   Steps 1–4 (the guṇa vowels ए, ओ, अर्; the vṛddhi vowels ऐ, औ); v3.c06.l05 §20.
-- **Editorial decisions (resolved at drafting):** (1) §16 turn 3 is printed इण्प्रत्याहारे
-  लकारोऽस्ति? in place of the fact base's इणिति प्रत्याहारे …: इण् + इति joins as इण्णिति (the
-  ण् doubles after a short vowel by 8.3.32, the rule l03 §13 names for यण्णादेशः), a seam the
-  chapter has not taught. (2) The retake set of task B replaces अट् and खर् with झल् and हल्,
+- **Editorial decisions (resolved at drafting):** (1) §16 turn 3 sets the name इण् inside a
+  compound — इण्प्रत्याहारे लकारोऽस्ति? — and not before इति: by 8.3.32, the rule l03 §13 names
+  for यण्णादेशः, the ण् of इण् after a short vowel would double before a vowel, a seam the
+  chapter has not taught; the fact base, corrected at review, prints the same
+  line. (2) The retake set of task B replaces अट् and खर् with झल् and हल्,
   taught pratyāhāras; अट् and खर् were never opened in learner text. (3) §15 (2) prints the
   fifteen readings lessons 1–2 taught, not अट्, खर्, चर्, शर्. (4) §4 reprints l01's HISTORY
   callout word for word, so that Q7 asks on a callout the lesson prints. (5) §21's 25 minutes
   after the sitting hold task E said aloud (2) and the §17 thread verse (3), which the fact base
-  places after the sitting but does not time; the check against the keys takes 6 minutes and the
-  remediation item 3, unconditional. (6) The number 8.2.30 of §17's "not asked" line stays in
+  placed after the sitting without a time at drafting and now times the same way; the check
+  against the keys takes 6 minutes and the remediation item 3,
+  unconditional. (6) The number 8.2.30 of §17's "not asked" line stays in
   Teacher Notes; 8.2.66 is printed, as l03 printed it as a preview pointer.
 - **Export notes:** task keys A–E, the quiz key and the §17 key stay in §19's `<details>`; the
   Station 0 keys in §3's. The title प्रथमपरीक्षा and the words of the thread verse export as

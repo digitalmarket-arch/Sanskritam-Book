@@ -83,6 +83,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   (the added and removed lines hold the same characters apart from the option letters) and by
   an independent reader; the method and the counts are in the verification log. The JSON
   exports are regenerated.
+- **Erratum, v3.c04.l04 §15.** भवति is "one of the course's first verbs", not "the course's
+  first verb" (that is चलति, v1.c03.l02); found by the post-fix verification of v4.c01, whose
+  lesson 3 points to the line.
 - **Erratum, v3.c03.l02 §8.** "the course teaches every verb in one family only" is limited in
   time — "until v4.c03.l01 …" — because Volume 4, Chapter 3 will teach पचति / पचते and यजति /
   यजते in both sets (found by the v4.c03 fact base).

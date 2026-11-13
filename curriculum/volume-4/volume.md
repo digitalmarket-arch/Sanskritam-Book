@@ -92,9 +92,10 @@ marker, 1.3.3 and 1.3.9); savarṇa and tapara (1.1.69, 1.1.9, 1.1.70); the case
 Station 0 outside it, in which the owned vowel joins are re-derived according to Pāṇini. T9 is
 memorised. The toolbox after Chapter 1 holds 12 tools; the ledger stands at 521 (13 ledger-new:
 508 → 513 → 517 → 521 → 521). The 1.x errors are corrected in the open: IR-017 (इको यणचि is
-6.1.77, not 1.1.45), IR-018 (चय् unaspirated; झश् is not जश्; the memory aid with all fourteen),
-and the "~42 pratyāhāras", a count printed without its method, quoted beside the Kāśikā's own
-count (41 by its list, with ञम् and the र of 1.1.51 noted apart). The legend is kept as
+6.1.77, not 1.1.45) and IR-018 (चय् unaspirated; झश् is not जश्; the memory aid with all
+fourteen). The 1.x book's "~42 pratyāhāras", a count printed without its method, is quoted
+beside the Kāśikā's own count (41 by its list, with ञम् and the र of 1.1.51 noted apart); it is
+not called an error. The legend is kept as
 TRADITION, labelled, never assessed (IR-036). The first step of the भवति thread is taken:
 भो + अति → भवति, by 6.1.78 with 1.3.10. Station 0 enters Volume 4 as Volume 3 booked it:
 v4.c01.l01 runs the Volume 3 exam's +1-day item and v3.c06.l04's +1-week item; v4.c01.l02 runs

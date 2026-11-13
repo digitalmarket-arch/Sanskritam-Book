@@ -1194,3 +1194,14 @@ Found by the v4.c03 fact base (its §9 (a)) and decided by the editor (its §8, 
 |---|---|---|---|
 | "the course teaches every verb in one family only, the one printed in its §14 row" | v4.c03.l01 teaches पचति / पचते and यजति / यजते in both sets (Volume 4 plan §4.3; the v4.c03 fact base) | ✅ limited in time: "until v4.c03.l01 the course teaches every verb in one family only" — true before and after Volume 4, Chapter 3 ships | v3.c03.l02 §8 |
 
+## Erratum — v3.c04.l04 §15, भवति "the course's first verb" (2026-11-13)
+
+Found by the post-fix verification of v4.c01 (lesson 3's Hook points to this line).
+
+| Claim as shipped | Source | Verdict | Where |
+|---|---|---|---|
+| "भवति, the course's first verb, is भो + अति" | v1.c03.l02 (objective 3: "the course's first verb चलति"); v1.c04.l01 (भवति and वदति "join चलति and कूजति") | ✅ corrected: "भवति, one of the course's first verbs, is भो + अति" | v3.c04.l04 §15 |
+
+The research notes of Volume 3 (the v3.c04 fact base and the Volume 3 plan) keep the drafting
+wording; the lesson is the binding copy.
+

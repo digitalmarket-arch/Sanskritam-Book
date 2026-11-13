@@ -989,7 +989,7 @@ Right: the two ण्, drawn as three arrows over the fourteen sūtras: अण�
   [REF:kashika 1.1.69]
 - **8.4.41 ष्टुना ष्टुः** — where टु stands (not in 8.4.40, the owned rule the learner reads for
   चु and तु).
-- **The ऌ–ऋ vārttika** — the LSK under 1.1.9: *ṛḷvarṇayor mithaḥ sāvarṇyaṃ vācyam*, "ऋ and ऌ are
+- **The ऌ–ऋ vārttika** — the LSK under 1.1.9: *ṛḷvarṇayormithaḥ sāvarṇyaṃ vācyam*, "ऋ and ऌ are
   to be declared savarṇa with each other". The learner's table prints "+ ऌ with ऋ, by the
   tradition's vārttika: Teacher Notes"; the S0 key for the savarṇa table accepts ऌ, never
   requires it.
@@ -1023,7 +1023,8 @@ with the corrections listed (none other is made):
 - **The Kāśikā on 1.1.70** (lines 1743–1757): *taḥ paro yasmāt so 'yaṃ taparaḥ, tād api paraḥ
   taparaḥ / taparo varṇas tatkālasya, ātmanā tulyakālasya guṇāntarayuktasya savarṇasya grāhako
   bhavati, svasya ca rūpasya / … kim udāharaṇam? ato bhisa ais — vṛkṣaiḥ, plakṣaiḥ / …
-  tatkālasya iti kim? khaṭvābhiḥ, mālābhiḥ* — correction line 1744 *tapro* → *taparo*. The second
+  tatkālasya iti kim? khaṭvābhiḥ, mālābhiḥ* — correction line 1744 *tapro* → *taparo*; in the same
+  line *guṇa-antara-yuktasya* is read *guṇāntarayuktasya* (the e-text's split of a join). The second
   reading, *tād api paraḥ* "a vowel after त्", is not taught.
 - **The Kāśikā on 7.3.101** (lines 74087–74093): *akārāntasya aṅgasya dīrgho bhavati yañādau
   sārvadhātuke parataḥ / pacāmi, pacāvaḥ, pacāmaḥ … ataḥ iti kim? cinuvaḥ … yañi iti kim?
@@ -1033,8 +1034,8 @@ with the corrections listed (none other is made):
 - **The LSK under 1.1.9** (lines 139–140): the place list, printed in learner text (§5); no
   correction to its words. The e-text's label "P_1,1.8" is a tag slip: the rule is 1.1.9.
 - **The LSK under 1.1.69** (lines 142–143): *pratīyate vidhīyata iti pratyayaḥ / avidhīyamāno
-  'ṇudic ca savarṇasya saṃjñā syāt / atraivāṇ pareṇa ṇakāreṇa / ku cu ṭu tu pu ete uditaḥ / …
-  anunāsikānanunāsikabhedena yavalā dvidhā; tenānanunāsikās te dvayor dvayoḥ saṃjñā* — the LSK
+  'ṇudicca savarṇasya saṃjñā syāt / atraivāṇ pareṇa ṇakāreṇa / ku cu ṭu tu pu ete uditaḥ / …
+  anunāsikānanunāsikabhedena yavalā dvidhā; tenānanunāsikāste dvayordvayossaṃjñā* — the LSK
   reads प्रत्यय as anything introduced; that is the reading behind the learner line on 6.1.77's
   यण्.
 - **The LSK under 6.1.101** (lines 239–240): *akaḥ savarṇe 'ci pare pūrvaparayordīrgha ekādeśaḥ
@@ -1220,8 +1221,9 @@ narrator reads the cue, not the English spelling.
   (`jvkasipu.htm` line 499, re-read); the Kāśikā lines of §22 against their line numbers; Whitney
   §20a, §34 and §733 item 9 (re-read in the local e-text: the quoted words are his); the
   headwords against Apte (the sense lines of दीर्घ, ह्रस्व) and MW; the Hindi school-grammar line
-  of §7 (दीर्घ सन्धि as the meeting of two सवर्ण vowels) in Guru 1952 — if Pass C cannot confirm
-  it there, it prints without the key as "हिन्दी व्याकरण की पुस्तकें … बताती हैं"; the Hindi of §7,
+  of §7 (दीर्घ सन्धि as the meeting of two सवर्ण vowels) — outcome at review: a web search found the
+  wording in school and exam-preparation pages, but Guru's own page was not opened, so the line
+  prints without the key, credited to "हिन्दी व्याकरण की पुस्तकें"; the Hindi of §7,
   the objectives and every gloss at Pass B; every joined line of §6, §13, §16, §19 against the
   Volume 3 Chapter 4 maps.
 - **Register audit:** FACT ×3 (§5 Whitney §34, Whitney §20a; §13 Whitney §733; §5's modern

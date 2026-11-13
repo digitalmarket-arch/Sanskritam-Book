@@ -692,8 +692,8 @@ seam between words, so none is split in पदच्छेदः, and none is dr
 - **guṇa inside गुरवे** — inside a word — named here, taught in Volume 4 (v4.c02): गुरु + ए —
   the उ takes its guṇa grade ओ, and ओ + ए gives अव् + ए by lesson 1's अयादि: गुरवे
   (v3.c02.l03; likewise अग्नये). Lesson 1 showed the same अयादि inside नयनम्, ने + अनम्.
-- **भवति = भो + अति** — inside a word — named here, taught in Volume 4 (v4.c02): भवति, the
-  course's first verb, is भो + अति by lesson 1's अयादि; the ओ is a guṇa substitute of the
+- **भवति = भो + अति** — inside a word — named here, taught in Volume 4 (v4.c02): भवति, one
+  of the course's first verbs, is भो + अति by lesson 1's अयादि; the ओ is a guṇa substitute of the
   root's ऊ, the ऊ of भू — not an insertion, as the 1.x book had it.
 
 > **[FACT · तथ्यम्]** The diphthong → semivowel rule of lesson 1 works inside words too;

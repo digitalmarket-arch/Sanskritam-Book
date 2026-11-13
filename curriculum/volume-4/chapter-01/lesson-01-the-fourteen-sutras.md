@@ -325,8 +325,8 @@ than अ → अ, with a gap; अच् इति → अजिति — a fina
 **अब इको यणचि पढ़िए।** इकः — इक् के स्थान पर; यण् — यण् आता है; अचि — अच् से पहले। यानी: "इ उ
 ऋ ऌ के स्थान पर, किसी स्वर से पहले, य व र ल में से कोई आता है।" इति + अवदत् में इ इक् है, अ अच्
 है — इसलिए इ के स्थान पर यण् आता है। पर कौन-सा यण्? वह जो इ से सबसे मिलता-जुलता हो: य्, क्योंकि
-इ और य् दोनों तालव्य हैं — पहले खण्ड में आपने इ को चवर्ग के साथ तालव्य सीखा था, और य को ई की
-जगह पर बोलना। इसी तरह सु +
+इ और य् दोनों तालव्य हैं — पहले खण्ड में आपने सीखा था कि इ, ई और चवर्ग सब तालव्य हैं, और य बोलते
+समय जीभ वहीं उठती है जहाँ ई बोलते समय। इसी तरह सु +
 आगतम् में उ के स्थान पर व् आता है, क्योंकि दोनों में होंठ काम करते हैं।
 
 **तीन जाल।** पहला: चय् = च ट त क प — ये अघोष **अल्पप्राण** हैं; 1.x पुस्तक ने अंग्रेज़ी में इन्हें महाप्राण
@@ -416,7 +416,7 @@ the lips (§18 exercise 5).
 ### Step 6 — production
 
 You now say and write Sanskrit about the sound system: "अच् is the abbreviation for the
-vowels", "the last sound of अइउण् is ṇ", "how many syllables are in इको यणचि? Five." §16 is a
+vowels", "अइउण्. Its last sound is ṇ.", "how many syllables are in इको यणचि? Five." §16 is a
 teacher and a student saying exactly that; §18 exercise 6 asks you to write six such sentences,
 joined, with the pause form beneath, and to say them aloud.
 
@@ -788,8 +788,8 @@ Toolbox after l01 (4): 1.1.71 (names a stretch) · 1.3.3 (final consonant of a t
 
 ### Previewed and deferred
 
-**Previewed (labelled):** 1.1.50 (v4.c01.l03); how many pratyāhāras (§4: the Kāśikā's count, with
-its method); लोपः as a word (c02.l02); the markers on affixes (सुँ c02.l01; शप् c03.l02); *sup*
+**Previewed (labelled):** 1.1.50 (v4.c01.l03); लोपः as a word
+(c02.l02); the markers on affixes (सुँ c02.l01; शप् c03.l02); *sup*
 and *tiṅ* as pratyāhāras (c02.l01, c03.l01). **Deferred:** the two-ण् question and savarṇa
 (v4.c01.l02); the case code (v4.c01.l03).
 
@@ -1259,7 +1259,7 @@ before a vowel; Volume 3 taught that row for न् only (v3.c04.l03). Two print
 show the doubling: the sūtra इको यणचि as it is handed down, and the Laghusiddhāntakaumudī's
 यथाणिति [REF:laghukaumudi on 1.1.71]. The course does not rule on them; its own sentences keep
 such a name away from a following vowel — alone before a daṇḍa (§16, turn 2; exercise 6 (4)),
-or in a compound (§15; lesson 4 §13).
+or in a compound (§15; lesson 4 §16, turn 3; lesson 4 §13 restates the limit).
 
 **The हलन्त cell.** GLOSSARY हलन्त "consonant-final; a common name for the virāma" (v1.c05.l01).
 The हल् of हलन्त is today's pratyāhāra; the table's cell says only "the name हलन्त [v1.c05.l01]".
@@ -1409,10 +1409,12 @@ reads the cue, not the English spelling.
   `jvkasipu.htm` / `varlghku.htm`, with the corrections listed; the count of 41 re-added from the
   Kāśikā and its verse (lines 289–290), ञम् at line 227; the 1.x quotations of §4 against pp. 70,
   71, 95, 96 (rendered page images where the text layer drops Devanagari); the HISTORY callouts
-  of §4 and §17 against Cardona 1997 (the authorship sentence of §4 and "whom scholars take to be
-  grammarians before him or of his time" in §17 — if Pass C cannot confirm either under the
-  evidence rule, §4's callout ends at "for the sake of the pratyāhāras" and keeps
-  [REF:maheshvarasutras]; [REF:kashika], and §17's clause drops to "other teachers of grammar");
+  of §4 and §17 (Pass C, 2026-11-10: Cardona 1997 could not be opened, and no search result
+  quotes it for §4's sentence on the authorship of the fourteen sūtras or for §17's clause
+  dating the teachers Pāṇini names, so both were cut — §4's callout now ends at "for the sake
+  of the pratyāhāras" and keeps [REF:maheshvarasutras]; [REF:kashika], and §17 says only
+  "other teachers of grammar"; §17's sentence on Pāṇini's own date keeps [REF:cardona1997]
+  with its hedge);
   Whitney §§21, 32–35, 37, 129 as quoted; the five headwords against Apte and MW as cited in §14;
   every joined line of §6, §13, §16 and the §19 keys against the Volume 3 Chapter 4 maps; the
   Hindi of §7, every objective and every gloss at Pass B.

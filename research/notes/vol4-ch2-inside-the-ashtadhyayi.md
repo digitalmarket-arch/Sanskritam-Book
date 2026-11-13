@@ -1678,8 +1678,8 @@ exam's items.
 (b) **The thread verse re-read** (plan §7.3 Q17: the only text the Chapter 1 and 2 exams read; source
 label unchanged from v1.c06.l04, "traditional maṅgala verse; its original source is unrecorded"):
 > सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत्॥
-> (*sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ | sarve bhadrāṇi paśyantu mā kaścid duḥkhabhāg
-> bhavet ||*)
+> (*sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ. sarve bhadrāṇi paśyantu mā kaścid duḥkhabhāg
+> bhavet.*)
 > सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाक् भवेत्॥
 The learner names what Chapter 2 has added: (1) **the ण of भद्राणि** — र before it, आ between: 8.4.1
 with 8.4.2 (no word-end: the न is followed by इ); (2) **the ः of निरामयाः before the daṇḍa** — the

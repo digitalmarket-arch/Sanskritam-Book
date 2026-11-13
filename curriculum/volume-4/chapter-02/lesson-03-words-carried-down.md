@@ -337,7 +337,8 @@ Bracket line: [carried (data file): रषाभ्याम्, 8.4.1 · carrie
 English: "Even when अट् sounds, the k-row, the p-row, the preverb आङ् or num stand between [the
 र्/ष् and the न्]." [REF:ashtadhyayi 8.4.2]; [REF:kashika 8.4.2]
 
-अट् is a pratyāhāra you own from Chapter 1: from the अ of अइउण् to the ट् of हयवरट् — every vowel,
+अट् is a new pratyāhāra; open it as Chapter 1 taught you: from the अ of अइउण् to the ट् of
+हयवरट् — every vowel,
 and ह य व र. कु and पु are the k-row and the p-row (उदित्, lesson 2 of Chapter 1). आङ् is the
 preverb आ; num is an augment of c05.l03.
 

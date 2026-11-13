@@ -27,7 +27,7 @@ given without its method, is quoted beside the Kāśikā's own count (41 named m
 called it, a legend, labelled and never assessed. The second lesson asks how long a letter in a rule
 reaches: a short vowel stands for its whole family of savarṇas (1.1.69, with 1.1.9), a vowel
 written with त् for its own length only (1.1.70) — which explains विद्यालयः and, at last, why
-गच्छामि has a long आ and गच्छथ does not. The third lesson teaches the case code in which every rule
+गच्छामि has a long आ and गच्छथ does not. The third lesson teaches the case code in which a rule
 speaks: the genitive "in place of", the locative "before", the ablative "after", the nominative the
 result (1.1.49, 1.1.66, 1.1.67), with 1.3.10 for pairing in order; with it the learner reads every
 vowel rule of Volume 3, derives the last step of भवति [भो + अति, the first step of the volume's
@@ -110,7 +110,8 @@ what is replaced, by what and where — 6.1.77, 6.1.78, 6.1.101, 7.1.9, 7.3.101,
 pass 12). **D** — "Derive, according to Pāṇini, …": five owned vowel joins in table form, each step
 with its sūtra — नास्ति, इत्यवदत्, तत्रैव, सूर्योदयः, विद्यालयः — 12 min; 20, pass 14. **E** — six
 Sanskrit sentences about the sound system with the chapter's words, joined, with the pause form
-beneath, then said aloud (8 min; 12, pass 8). Pass: every task at its pass mark, and the §19 quiz
+beneath (8 min; 12, pass 8), then said aloud and recorded
+after the sitting. Pass: every task at its pass mark, and the §19 quiz
 (after the sitting) at 7/10. The rubric weights the reading and the derivations (C and D, 38 of 74
 points) over recall (A, 14). After the sitting, unscored, the learner re-reads the Volume 3 thread
 verse सर्वे भवन्तु सुखिनः… — it has no vowel join between words — and names the owned sūtras of its
