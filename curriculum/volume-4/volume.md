@@ -10,7 +10,7 @@ cefr: "B1 → B2"
 chapters: 6
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 # Volume 4 — पाणिनीयम् · The Pāṇinian System
@@ -19,7 +19,7 @@ Volume 3 handed over 508 readable words, the cases in their tables, the present-
 in every person, the joins between words, the pronouns and the compound, and 28 sūtras, each
 quoted where it stated in one line what the learner had just observed. Volume 4 takes the
 forms the learner has used since Volumes 1–3 — रामः, रामेण, भवति, नमस्ते, अगच्छत्, शृणोति,
-उवाच, कृतम्, आगत्य, पठ्यते — and asks what made each one: which affix, which marker, which
+उवाच, कृतम्, आगत्य, उच्यते — and asks what made each one: which affix, which marker, which
 rule. Every teaching lesson is built round the derivation of a form the learner already owns,
 and a rule, a term or a marker enters the course at the moment that derivation needs it and
 not before. The volume is a growing toolbox. Its last task is the learner deriving भू → भवति
@@ -84,13 +84,17 @@ scripts it cites are kept in `research/evidence/vol4-plan/`.
 | 5 | प्रयोगाः विभक्तिविस्तारश्च — Voices & Case in Depth | 5 | the passive and the impersonal; the causative and the case of the one made to act; the consonant stems as one system, with the numerals; the kāraka map and the locative absolute | 617 |
 | 6 | सूत्रपाठः — Reading Real Sūtras | 4 | definitions, operations and meta-rules read with the Kāśikā and the Laghusiddhāntakaumudī; the Volume 4 exam, in two sittings, with भू → भवति derived by the learner | 627 |
 
-The exit figures are the plan's (§3) and stay planned figures until each chapter ships.
+The exit figures are the plan's (§3) and stay planned figures until each chapter ships; 521 is
+reached, at the review of Chapter 1.
 
-**Chapter 1, as delivered.** Four lessons: the fourteen sūtras and the pratyāhāra (1.1.71; the
-marker, 1.3.3 and 1.3.9); savarṇa and tapara (1.1.69, 1.1.9, 1.1.70); the case code (1.1.49,
-1.1.66, 1.1.67, with 1.3.10, 1.1.50 and 7.1.9); the Chapter 1 exam, one 45-minute sitting with
-Station 0 outside it, in which the owned vowel joins are re-derived according to Pāṇini. T9 is
-memorised. The toolbox after Chapter 1 holds 12 tools; the ledger stands at 521 (13 ledger-new:
+**Chapter 1, as delivered** (reviewed 2026-11-13). Four lessons: the fourteen sūtras and the
+pratyāhāra (1.1.71; the marker, 1.3.3 and 1.3.9); savarṇa and tapara (1.1.69, 1.1.9, 1.1.70);
+the case code (1.1.49, 1.1.66, 1.1.67, with 1.3.10, 1.1.50 and 7.1.9); the Chapter 1 exam, one
+45-minute sitting with Station 0 outside it, in which five owned vowel joins are re-derived
+according to Pāṇini. T9 is memorised. The toolbox after Chapter 1 holds 12 tools: 4 added in
+lesson 1 (1.1.71, 1.3.3, 1.3.9, and 1.1.50 as a preview that lesson 3 reads), 3 in lesson 2
+(1.1.69, 1.1.9, 1.1.70), 5 in lesson 3 (1.1.49, 1.1.66, 1.1.67, 1.3.10, 7.1.9) and none in the
+exam. The ledger stands at 521 (13 ledger-new:
 508 → 513 → 517 → 521 → 521). The 1.x errors are corrected in the open: IR-017 (इको यणचि is
 6.1.77, not 1.1.45) and IR-018 (चय् unaspirated; झश् is not जश्; the memory aid with all
 fourteen). The 1.x book's "~42 pratyāhāras", a count printed without its method, is quoted

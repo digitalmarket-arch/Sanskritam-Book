@@ -1106,7 +1106,7 @@ this lesson on, every quoted sūtra is printed with its padaccheda and each word
   the most similar substitute."
 - **D — 1.3.10 यथासंख्यमनुदेशः समानाम्** (*yathāsaṃkhyam anudeśaḥ samānām*). English: "Where the
   replaced items and the results are equal in number, they pair off in order."
-  [REF:ashtadhyayi 1.3.10]; [REF:kashika 1.3.10].
+  [REF:ashtadhyayi 1.3.10]; [REF:kashika 1.3.10]; [REF:laghukaumudi on 1.3.10].
 - **D — 7.1.9 अतो भिस ऐस्** (*ato bhisa ais*; first met here — in Volume 3 it was in Teacher Notes
   only): अतः (पञ्चमी: after) · भिसः (षष्ठी: in place of) · ऐस् (प्रथमा: the result). English:
   "After [a stem in] short अ, ऐस् replaces the ending भिस्." [REF:ashtadhyayi 7.1.9];

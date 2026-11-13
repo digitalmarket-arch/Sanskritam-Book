@@ -86,6 +86,6 @@ reviewed; Volume 2 (Words & Sentences) is content-complete — 30 lessons, all r
 (2026-11-01). Both volumes went through an independent error sweep on 2026-11-10
 (0.12.1). Volume 3 (Core Grammar) is content-complete — 30 lessons, all reviewed (0.18.0,
 2026-11-10). That makes 91 reviewed lessons in Volumes 1–3. Volume 4 (The Pāṇinian System)
-is planned in full; the fact base of its first chapter is verified and that chapter's lessons
-are being drafted. Chapter status: [ROADMAP.md](ROADMAP.md);
+is planned in full and under way: Chapter 1 of 6 is reviewed (4 lessons; 0.19.0, 2026-11-13),
+which brings the course to 95 reviewed lessons. Chapter status: [ROADMAP.md](ROADMAP.md);
 history: [CHANGELOG.md](CHANGELOG.md).

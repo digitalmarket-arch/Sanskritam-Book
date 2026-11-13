@@ -40,12 +40,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c01l03-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c01l03-quiz-key.md"
 tags: [grammar, panini, case-code, padaccheda, anuvrtti-preview, derivation, bhavati-thread, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-13"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 ## 1. Hook
@@ -347,7 +347,7 @@ Padaccheda: यथासंख्यम् [indeclinable] "in order" · अन�
 समानाम् [षष्ठी, plural] "of [sets] equal [in number]".
 
 English: "Where the replaced items and the results are equal in number, they pair off in
-order." [REF:ashtadhyayi 1.3.10]; [REF:kashika 1.3.10]
+order." [REF:ashtadhyayi 1.3.10]; [REF:kashika 1.3.10]; [REF:laghukaumudi on 1.3.10]
 
 **5. The most similar — D, 1.1.50 स्थानेऽन्तरतमः**, already a tool from lesson 1, where its
 English line is printed (lesson 1 §15). Today it is read as the rule that chooses: where one

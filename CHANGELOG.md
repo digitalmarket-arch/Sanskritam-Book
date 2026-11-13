@@ -4,12 +4,95 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.19.0] — 2026-11-13
+
+Volume 4 — पाणिनीयम् · The Pāṇinian System — opens. Its first chapter, माहेश्वराणि सूत्राणि ·
+The Fourteen Sūtras, is reviewed and shipped: four lessons, 13 ledger-new words, 508 → 521
+readable words, twelve tools in the learner's toolbox. Volume 3 left the learner with 6.1.77
+इको यणचि, quoted as the rule behind इत्यवदत् and not yet read. This chapter teaches the
+alphabet the grammar is written in and the code in which its rules speak: the fourteen
+sūtras, each closed by a marker, and the pratyāhāra, a sound and a marker that name a stretch
+of the list; how far a letter written in a rule reaches (savarṇa and tapara); the case code
+of a sūtra — the genitive "in place of", the locative "before", the ablative "after", the
+nominative the result; and the Chapter 1 exam, in which five vowel joins owned since Volume 3
+are derived step by step, according to Pāṇini. One table is memorised: T9, the fourteen
+sūtras. The course now has 95 reviewed lessons (91 in Volumes 1–3, 4 in Volume 4). The Volume
+4 frame stays a draft until the volume's last chapter ships.
 
 ### Added
 
+- **v4.c01, four lessons, reviewed** — every sūtra printed as the Aṣṭādhyāyī data file has it,
+  with its tier (Q, B or D; "owned" for a Volume 3 sūtra read again); every derivation a
+  four-column table under the heading "Derive, according to Pāṇini, …"; every course-written
+  line printed joined, with its pause form beneath; every commentary line under the source
+  line "text of the GRETIL e-text":
+  - अइउण् · The Fourteen Sūtras (grammar): the fourteen sūtras (table T9, memorised), written
+    into the Volume 1 grid and recited, each consonant with its helping अ, on which a line of
+    the Kāśikā is read; the marker that closes each line (1.3.3, 1.3.9) and the pratyāhāra, a
+    sound and a marker that name every sound up to the marker (1.1.71), with अच्, हल्, इक्,
+    यण्, एच्, एङ्, अक्, झल्, जश्, चय् and झश् opened from the list; 6.1.77 इको यणचि re-read as
+    "ik before ac: yaṇ", and इति + अवदत् → इत्यवदत् derived in five steps, with 1.1.50
+    previewed; the conventions of the volume said once — the tiers, quoted sounds left
+    unjoined, a quoted form joined to the इति after it; the 1.x book's errors in this
+    territory corrected in the open, each quoted with its page — p. 96: चय् is voiceless and
+    unaspirated, and झश् is not जश्; p. 70: the memory aid, rebuilt with all fourteen; p. 71:
+    इको यणचि is 6.1.77, not 1.1.45 — and its "~42 pratyāhāras" (p. 95) quoted beside the
+    Kāśikā's own count, 41 by its list; a HISTORY callout on where the fourteen sūtras stand —
+    handed down at the head of the Aṣṭādhyāyī, not among its numbered rules — and one on
+    Pāṇini's date, attributed and hedged; the legend of the drum told once, labelled, never
+    assessed; headwords सूत्रम्, प्रत्याहारः, आदिः, अन्त्यः and अक्षरम्, five in all (508 → 513);
+    tools added 4.
+  - सवर्णम् · One Letter for Its Whole Family (grammar): how far a letter written in a rule
+    reaches — a short vowel, or a letter marked with उ, stands for its whole family of
+    savarṇas (1.1.69, with 1.1.9: the same place and the same effort), unless the rule itself
+    introduces it; a vowel written with त् stands for its own length only (tapara, 1.1.70);
+    the Laghusiddhāntakaumudī's list of the places of the mouth, read under 1.1.9; the two ण्
+    — according to the Kāśikā, अण् runs to the first ण् in every rule but 1.1.69, and इण्
+    always to the second; यञ् opened; विद्या + आलयः → विद्यालयः derived, and गच्छामि set against
+    गच्छथ with 7.3.101 re-read; the seven productive present cells of पठति predicted from the
+    rule; headwords दीर्घः, ह्रस्वः, प्रयत्नः and सवर्णः, four in all (513 → 517); tools added 3;
+    cells drilled 7.
+  - इको यणचि · How a Rule Speaks (grammar): the case code of a sūtra — the genitive "in place
+    of" (1.1.49), the locative "before" (1.1.66), the ablative "after" (1.1.67), the nominative
+    the result — with 1.3.10 for pairing in order, 1.1.50 read, and 7.1.9; from this lesson on
+    every sūtra carries its padaccheda, with each word's case named; one form for two cases —
+    अतः is ablative in 7.1.9 and genitive in 7.3.101, decided by the question "what can the
+    result stand in place of?"; a table of six rules read by the code (6.1.77, 6.1.78, 6.1.101,
+    7.1.9, 7.3.101, and 8.4.40 with its instrumental as the exception); the Kāśikā's gloss of
+    6.1.77 read; भो + अति → भवति, the first step of the volume's भवति thread, and देव + भिस् →
+    देवैः derived, then नयति and रामैः by the learner, the first "derive it yourself" items;
+    headwords आदेशः, पूर्वः, उत्तरः and विधिः, four in all (517 → 521); tools added 5; cells
+    drilled 2.
+  - प्रथमपरीक्षा · Chapter 1 Exam (review): five tasks in one closed-book 45-minute sitting
+    (duration 45; 74 marks) — the fourteen sūtras written from memory with every marker
+    circled; ten pratyāhāras opened, three traps among them; six rules read by their case
+    code; five owned vowel joins derived in table form (नास्ति, इत्यवदत्, तत्रैव, सूर्योदयः,
+    विद्यालयः); six sentences about the sound system, written joined and said aloud after the
+    sitting — with Station 0, about 8 minutes, before the sitting and outside it. Pass: every
+    task at its pass mark and the §19 quiz at 7/10. The chapter on one page (§15): T9, the
+    fifteen pratyāhāra readings the lessons open, the savarṇa and tapara table, the case code
+    with its table, the seven Volume 3 vowel sūtras with their parts labelled, the toolbox
+    card of twelve and the paradigm ledger. After the sitting, unscored, the thread verse
+    सर्वे भवन्तु सुखिनः… is read again; the first Station 0 items of v4.c02.l01 and v4.c02.l02
+    are booked. The ledger stays at 521.
+
+  The Hindi parallels are exact contrasts: the order of the Hindi वर्णमाला, by place, beside
+  the sūtras' order, by manner; दीर्घ सन्धि, which Hindi grammar books describe as the meeting
+  of two सवर्ण vowels; के स्थान पर, से पहले and के बाद beside the bare genitive, locative and
+  ablative of a rule. Vocabulary counts 5 · 4 · 4 · 0; cells drilled 0 · 7 · 2 · 0; tools added
+  4 · 3 · 5 · 0. Self-study minutes: 45 · 40 · 45 · 40.
+- GLOSSARY: माहेश्वराणि सूत्राणि, इत्, प्रत्याहारः, उपदेशः, अन्तरतमः, सवर्णः, तपरः, उदित्, the case
+  code of a sūtra (षष्ठी · सप्तमी · पञ्चमी · प्रथमा), आदेशः and यथासंख्यम्, eleven rows in all; the
+  rows दीर्घ, ह्रस्व, हलन्त, प्रयत्न, यण् and पदच्छेदः updated.
+- `research/notes/vol4-plan.md` §7.6: the corrections the Chapter 1 review made to the plan
+  (three rows from Pass D, one for each round of Pass C); four rows entered at release for
+  points that later chapters must follow (the exam's minutes and the place of the spiral; a
+  third commentary line in learner text; five kinds of vowel join derived, not every owned
+  join; the Laghusiddhāntakaumudī's examples under 6.1.101); and the rules the review settled.
 - **v4.c01 lesson 4, first draft** — the Chapter 1 exam (one closed-book 45-minute sitting, five
-  tasks, the chapter on one page, the retake sets). Not reviewed.
+  tasks, the chapter on one page, the retake sets), drafted after the 0.18.0 release, which
+  recorded the first drafts of lessons 1–3. It was reviewed with the chapter and is described
+  above as shipped.
 - **Research: the v4.c02 fact base** (`research/notes/vol4-ch2-inside-the-ashtadhyayi.md`),
   verified before drafting by three checkers with every finding challenged, and the chapter frame
   `curriculum/volume-4/chapter-02/chapter.md` (draft). Volume 4, Chapter 2 — अष्टाध्यायीप्रवेशः ·
@@ -33,6 +116,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
   augment and deletion; guṇa and vṛddhi as names of vowel sets; अगच्छत् derived; 527 → 532);
   Words carried down (anuvṛtti and headings; the ṇ of रामेण and the ṣ of रामेषु; 532 → 537).
   Not reviewed.
+- **v4.c02 lesson 4, first draft** — the Chapter 2 exam (one closed-book 45-minute sitting, five
+  tasks, the chapter on one page with the toolbox card of 43 tools, the retake sets; the ledger
+  stays at 537). Not reviewed.
 - **Research: the v4.c03 fact base** (`research/notes/vol4-ch3-roots-and-the-full-verb.md`),
   verified before drafting by three checkers with every finding challenged, and the chapter frame
   `curriculum/volume-4/chapter-03/chapter.md` (draft). Volume 4, Chapter 3 — धातुः
@@ -54,6 +140,25 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 ### Changed
 
+- **The Volume 4 frame** (`curriculum/volume-4/volume.md`): still `draft`, until the volume's
+  last chapter ships. It states what Chapter 1 delivered: the four lessons with their tools
+  (4 · 3 · 5 · 0, twelve in the toolbox), T9 memorised, the ledger at 521 with the first
+  planned exit reached, the 1.x errors corrected in the open, the 1.x "~42 pratyāhāras"
+  quoted beside the Kāśikā's count and not called an error, the legend kept as TRADITION, the
+  first step of the भवति thread (भो + अति → भवति), and how Station 0 enters the volume.
+- STYLE_GUIDE §8: 521 reached. STYLE_GUIDE §3.1: the printing rules this chapter settled — a
+  sūtra printed as the Aṣṭādhyāyī data file has it, its IAST with a space at each word
+  boundary; a tier mark in square brackets; quoted sounds and sound-lists left unjoined, and a
+  quoted form joined to the इति after it; no sound-list name ending in ण् after a short vowel
+  before a vowel in course-written joined text; a derivation as a four-column table.
+- ROADMAP: Chapter 1 reviewed and Volume 4 under way; the status log; two new preservation-map
+  rows for the 1.x pages on the Māheśvara sūtras and the pratyāhāras (pp. 69–71, 95–96), which
+  v4.c01.l01 and v4.c01.l02 carry. README: the counts.
+- **REFERENCES:** the `cardona1997` entry now names the volume and the edition (vol. 1:
+  Background and Introduction, 2nd ed., revised and enlarged, Delhi 1997) and says what rests
+  on it: one statement, printed as Cardona's own — the evidence allows no date for Pāṇini
+  later than the early 4th century BCE — which rests on a quotation of the book in a later
+  publication (search-confirmed; page not opened; see Fixed).
 - **Volume 4 plan §7.6:** nine rows from the v4.c03 fact base (the weak perfect stems of गम् and
   दा; यच्छ from दाण् as well as from यम्; the headings the data file gives the class signs and the
   lakāra rules; स्वस्मै replaced; the न carried into 1.1.5; रात्रौ a recognised form; the spelling
@@ -68,6 +173,108 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 ### Fixed
 
+- **v4.c01 review (passes A–D, every finding verified by skeptics, each reviewer returning a
+  coverage record of what was opened; Pass C run three times, the second and third on the
+  chapter as reviewed):** 71
+  findings confirmed (2 blockers, 26 major, 43 minor) and 2 rejected. Pass A, lesson by lesson,
+  43 — lesson 1: 13, lesson 2: 8, lesson 3: 15, lesson 4: 7; Pass B 14; Pass C 2; Pass D 12.
+  193 fixes applied (91 for lessons 1–3 after their Pass A, 102 for the exam's Pass A with
+  Passes B, C and D, applied in one run), 9 found already made, 10 duplicates between passes;
+  in three places two passes had fixed the same lines in different words and the editor kept
+  one wording (lesson 1's exercise 6 (4) and its prompt; the paragraph on quoted forms in
+  lesson 1 §15 with its teacher note; the fact base's retake set of task B). The two blockers:
+  lesson 1 said that चय् names the first member of each of four series — it names the first
+  member of each of the five, च ट त क प, and "unaspirated" rests on Whitney §37, not §§34–35;
+  and lesson 1's key to exercise 6 (4) printed अइउणित्यस्यान्त्यो …, a seam the chapter does
+  not teach, because by 8.3.32 a final ण् after a short vowel doubles before a vowel. The item
+  now follows §16 — अइउण्। तस्यान्त्यो वर्णो णकारः। — and a name ending in ण् is kept away from
+  a following vowel in every course-written line of the chapter (alone before a daṇḍa, or in a
+  compound: इण्प्रत्याहारे); the Laghusiddhāntakaumudī's printed यथाणिति is reported, not copied.
+  Among the other findings: Pass C cut two statements that rested on a book that could not be
+  opened under the session's network policy (Cardona 1997) and that no search result quoting
+  the book confirmed — the sentence that the authorship and transmission of the fourteen
+  sūtras are matters of scholarly discussion (lesson 1 §4, reprinted in lesson 4 §4), and the
+  clause dating the teachers Pāṇini names "before him or of his time" (lesson 1 §17, now
+  "other teachers of grammar"); the Kāśikā's count of the pratyāhāras (41, by its own list)
+  was marked "never assessed" in lesson 1 and scored in the exam's quiz — it is now ✓, asked
+  only in the frame "According to the Kāśikā"; the text read before the sitting worked out one
+  of the exam's own task items, task D (4), and no longer does; task D's marks no longer
+  require D-tier sūtra numbers in a closed-book sitting; no exam derivation has a shape that
+  no lesson worked (a vṛddhi join is now worked in lesson 4 §13: मम + ओष्ठौ → ममौष्ठौ); the
+  retake set of task B uses only pratyāhāras the lessons opened (झल् and हल् replace अट् and
+  खर्), and the chapter frame promises only the fifteen pratyāhāra readings the lessons open;
+  "as most rules read it" became the exact claim, "as every rule but 1.1.69 reads it", in every
+  copy, the Station 0 line for v4.c02.l02 included; lesson 1's class plan could not hold what
+  was put in it, so exercise 2 went to homework (self-study 43 → 45 minutes); exercise 6 (3)
+  asked for a word that was only a labelled preview (लोपः) and now asks "ṇ is a marker"
+  (णकार इत्।); in lesson 3 the commentators read "the rules", not "every rule", through the
+  case code (8.4.40's instrumental is the lesson's own exception), the English line of 1.1.49
+  has the Kāśikā's limit (a genitive whose link is not otherwise fixed), भिसः स्थान ऐस् is
+  joined, and भवति is one of the learner's first verbs, not the first; two reel lines claimed
+  more than the lessons teach; the benediction's IAST has "." for the daṇḍas, as Volume 3
+  printed it; the Hindi term is सन्धि, as the GLOSSARY has it. Pass D added "Chapter 1, as
+  delivered" to the volume frame, the chapter's eleven terms to the GLOSSARY and three rows to
+  plan §7.6; a row for Pass C's two cuts was entered there at the post-fix verification.
+  After the review the editor re-ordered the options of
+  twelve quiz items in the four lessons, so that the correct answers are spread over the
+  letters (keys l01 1c 2c 3b 4d 5a 6c 7b 8a 9d 10b · l02 1b 2a 3d 4a 5c 6c 7b 8d 9b 10a · l03
+  1c 2d 3b 4a 5c 6b 7a 8d 9b 10c · l04 1c 2d 3b 4a 5c 6b 7d 8b 9a 10c); the re-ordering was
+  checked by `scripts/quizcheck.py` and by an independent reader, and the post-fix verifiers
+  re-solved the quizzes; the fact base records it (§7, deviation 15) and keeps its quiz
+  listings in the drafting order. It was the start of the course-wide re-ordering described in
+  the next bullet. A post-fix verification re-read nine files (the four lessons, chapter.md,
+  the fact base, the Volume 4 frame, GLOSSARY.md and the plan) against the commits before the
+  review fixes, in four runs, with every claimed leftover challenged. A first attempt on
+  2026-11-10 was cut off by a usage limit after it had passed the volume frame and found three
+  notes in parentheses directly after a Devanagari word (chapter.md and two new GLOSSARY
+  rows), which were fixed. The run was resumed on 2026-11-13 from the verifiers' saved first
+  stage, with one challenger per file: 72 leftovers claimed, none refuted; 52 distinct fixes
+  applied, 13 duplicates between verifiers, 7 already in place. All 52 were rated minor by the
+  verifier whose fix was applied; one of them, the line on अट् in the draft of v4.c02.l03, was
+  rated major by a second verifier (the draft told the learner that अट् is owned from Chapter
+  1, which opens no अट्). By file: lesson 1: 5, lesson 2: 4, lesson 3: 2, lesson 4: 4,
+  chapter.md: 2, the fact base: 25, the plan: 5, the volume frame: 1, GLOSSARY.md: 1, the
+  Chapter 2 fact base: 1, the draft of v4.c02.l03: 1, and one shipped lesson, v3.c04.l04 (the
+  erratum below). Most leftovers were restatements in the fact base and the plan of things
+  the review had corrected only in the lessons: 30 of the 52 fixes were made in those two
+  files. Pass C was then run a second time (2026-11-13), on the chapter as reviewed and
+  verified, with the whole checklist again (the
+  sūtras by script, the fourteen sūtras, every commentary line letter for letter, 8.3.32,
+  Whitney, the HISTORY callouts clause by clause, the legend, the dictionaries, the Hindi
+  statements, the 1.x pages, the learning-science keys, the registers): 10 findings confirmed
+  (2 major, 8 minor), none rejected; 37 fixes applied; a coverage record of 30 lines. The
+  majors: Pāṇini's date was printed "around the 4th century BCE on the usual scholarly
+  estimate" under the key `cardona1997`; no quotation of the book says so, and a later
+  publication (M. A. Dhaky's article in the Mehendale Festschrift) quotes it as saying that
+  the evidence precludes a date later than the early fourth century B.C. — the callout now
+  reads "Pāṇini's Aṣṭādhyāyī is placed around the 4th century BCE or earlier; estimates vary.
+  According to Cardona, the evidence allows no date later than the early 4th century BCE"
+  (search-confirmed; page not opened), and the REFERENCES entry says what rests on what; and
+  lesson 2 cited the Kāśikā for the limit in its English line of 1.1.69 ("unless it is
+  something the rule introduces"), where the Kāśikā's gloss excepts an affix and the wider
+  reading is the Laghusiddhāntakaumudī's (*avidhīyamānaḥ*), now cited beside it. The minors:
+  four Apte quotations and one Whitney quotation restored to the source's own letters;
+  प्रत्याहारः is "drawing together" in neither dictionary (its first sense is "drawing back");
+  two locators added (Whitney §32 and §37; the Kāśikā under 1.1.9); a Kāśikā example under
+  1.1.49 quoted whole; the key `kachru2006` moved to the Hindi facts it supports; three e-text
+  corrections added to the chapter's list; the Kāśikā on लण् speaks of the nasal अ of ल, not of
+  a nasal ल. The editor checked the second round's fixes by a search of the four lessons,
+  chapter.md, the volume frame, the fact base, the plan and GLOSSARY.md for every restatement
+  of each corrected point (no separate verifier run); plan §7.6 gained one row.
+
+  Pass C, third round (2026-11-13), on the chapter after the second round's fixes, with most
+  of its effort on what the second round's coverage showed was opened least: 4 confirmed
+  findings (1 major, 3 minor), none rejected; 6 fixes applied; a coverage record of 25 lines.
+  The major: lesson 2 §17 said that the long ॠ "is in no word you own", against v3.c02.l04,
+  which taught and drilled पितॄन् and मातॄः — §17 now gives ॠ in पितॄन् as its example. The
+  minors: the volume frame listed पठ्यते among the forms the learner has used since Volumes
+  1–3 (no lesson of those volumes prints it; it now names उच्यते, and the plan's §1.1 is
+  corrected with it); lesson 1 said the pratyāhāra names are "not in any dictionary" (Apte
+  enters अच्, Monier-Williams ac, yaṇ and hal); lesson 3's English line of 1.3.10 is cited to
+  the Laghusiddhāntakaumudī beside the Kāśikā, whose own gloss is general. The editor searched
+  the chapter's files for restatements of each point. A citations round is repeated until one
+  returns no blocker or major finding; the third still found a major, so a fourth follows this
+  release, and what it finds is recorded as errata to the chapter.
 - **Quiz answers spread over the option letters.** At 0.18.0 the correct answers of the
   quizzes clustered on one letter: of the 668 multiple-choice keys of the 91 reviewed lessons,
   398 stood at (b) (60%), 153 at (a), 107 at (c) and 10 at (d) (1.5%); 73 lessons broke the rule
@@ -92,8 +299,9 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 
 - **v4.c01 lessons 1–3, accuracy review** (one reviewer per lesson, every finding verified): 36
   confirmed findings (1 blocker, 11 major, 24 minor), none rejected; 91 fixes applied. The
-  blocker: चय् names the first member of each of the five series, not of four. The other passes
-  and the post-fix verification follow before the chapter ships.
+  blocker: चय् names the first member of each of the five series, not of four. This was the
+  first part of the review recorded above, entered when it was applied; its figures are
+  included there.
 
 ## [0.18.0] — 2026-11-10
 

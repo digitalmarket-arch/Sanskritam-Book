@@ -39,12 +39,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c01l04-chapter-quiz-key.md"
 tags: [review, assessment, chapter-exam, maheshvara-sutras, pratyahara, savarna, case-code,
        derivation, thread-verse, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-13"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 ## 1. Hook

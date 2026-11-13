@@ -149,6 +149,29 @@ uses both, in a fixed order.
 - **An anvaya (अन्वयः, the prose order of a verse) is written in pause form**, as a paradigm
   table and a vigraha are: it sets out the verse's words one by one, so no seam is joined in
   it (v3.c06.l04; settled at that chapter's review).
+- **A sūtra is printed as the Aṣṭādhyāyī data file has it**, joined, and is never re-joined
+  or split; in a pause-form line it stays as printed. Its IAST has a space at each word
+  boundary, as the IAST of every joined line has, and writes words together only where two
+  vowels have fused: इको यणचि (iko yaṇ aci), तपरस्तत्कालस्य (taparas tatkālasya),
+  आदिरन्त्येन सहेता (ādir antyena sahetā) (v4.c01; settled at that chapter's review).
+- **A tier mark after a sūtra stands in square brackets** — 1.1.71 आदिरन्त्येन सहेता [Q],
+  6.1.77 इको यणचि [owned] — never in a parenthesis, which directly after a Devanagari word
+  holds that word's IAST and nothing else (v4.c01).
+- **Quoted sounds and sound-lists are left unjoined** (इ उ ऋ ऌ; अ आ च सवर्णौ): joined, they
+  would merge into other sounds. **A quoted form** — a name, a sūtra, a word — **is joined to
+  the इति after it** (हलिति, अजिति, इको यणचीति), and its first sound is never fused with the
+  word before it, so that the form can still be seen (v4.c01.l01 §15): अत्र अत इति, not
+  अत्रात इति.
+- **A sound-list name that ends in ण् after a short vowel** — the pratyāhāras अण्, इण्, यण्;
+  the sūtras अइउण् and लण् — **does not stand before a vowel in course-written joined text**:
+  by 8.3.32 the ण् would double there, a seam the course has taught for न् only (तस्मिन्नेव,
+  v3.c04.l03). The name stands alone before a daṇḍa (अइउण्। तस्यान्त्यो वर्णो णकारः।) or in a
+  compound (इण्प्रत्याहारे). A sūtra or a commentary line is printed as its source has it; a
+  printed form that does not show the doubling (the Laghusiddhāntakaumudī's अणिति) is
+  reported, not copied (v4.c01; settled at that chapter's review).
+- **A derivation is a four-column table** — Step · String · Sūtra · What happens — under the
+  heading "Derive, according to Pāṇini, …". The String column shows the seams (भो + अति), and
+  the last line is the joined word, in bold (v4.c01, from the Volume 4 plan's §1.4.2).
 - **Authentic text** keeps the word division of the e-text that REFERENCES names. Evident
   typos of the e-text are corrected, and each correction is listed in Teacher Notes, with
   every departure from full sandhi noted beside it (महान् जम्बूपादपः for महाञ्जम्बू°).
@@ -398,4 +421,5 @@ the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned
 `research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (all six reached, at
 the reviews of v3.c01, v3.c02, v3.c03, v3.c04, v3.c05 and v3.c06; Volume 3 is complete at
 508); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
-591 · 617 · 627 (119 new headwords, 508 → 627; planned figures until their chapters ship).
+591 · 617 · 627 (119 new headwords, 508 → 627; 521 reached at v4.c01's review; the rest are
+planned figures until their chapters ship).

@@ -73,7 +73,7 @@ planned chapter exit reached).
 
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
-| 1 | माहेश्वराणि सूत्राणि — The Fourteen Sūtras | 4 | ⬜ |
+| 1 | माहेश्वराणि सूत्राणि — The Fourteen Sūtras | 4 | ✅ reviewed |
 | 2 | अष्टाध्यायीप्रवेशः — Inside the Aṣṭādhyāyī | 4 | ⬜ |
 | 3 | धातुः तिङ्विस्तारश्च — Roots & the Full Verb | 6 | ⬜ |
 | 4 | कृत्-तद्धित-समासाः — Derivation & Compounds | 5 | ⬜ |
@@ -95,6 +95,9 @@ the Pañcatantra 4 frame story; in Chapter 6 the Kāśikā on the sūtras read a
 Laghusiddhāntakaumudī's prakriyā of बभूव), and what is left to Volume 5. Its last task is
 the learner deriving भू → भवति, in task C of v4.c06.l04. Volume frame:
 `curriculum/volume-4/volume.md`.
+**Under way 2026-11-13:** Chapter 1 of 6 is reviewed — 4 of 28 lessons, 13 of 119 ledger-new
+words, 521 readable words (the first planned chapter exit reached), 12 tools in the learner's
+toolbox.
 
 ## Volume 5 — साहित्यम् · Literature & Mastery (B2 → C1)
 
@@ -353,6 +356,34 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   validator green, exports current. Next: Volume 4 पाणिनीयम् — The Pāṇinian System, starting
   with v4.c01 माहेश्वराणि सूत्राणि — The Fourteen Sūtras (fact base verified; lessons 1–3
   drafted, not yet reviewed; the chapter exam, lesson 4, not yet drafted).
+- **2026-11-13** — **v4.c01 माहेश्वराणि सूत्राणि complete and reviewed — Volume 4 opens
+  (0.19.0)**: three grammar lessons and the Chapter 1 exam. The fourteen sūtras (T9,
+  memorised) written into the Volume 1 grid and recited, with the marker (1.3.3, 1.3.9) and
+  the pratyāhāra (1.1.71), so that 6.1.77 इको यणचि reads "ik before ac: yaṇ" and इति + अवदत् →
+  इत्यवदत् is derived step by step; how far a letter in a rule reaches — savarṇa (1.1.69 with
+  1.1.9) and tapara (1.1.70), the two ण्, विद्यालयः derived, and गच्छामि set against गच्छथ; the
+  case code of a sūtra — the genitive "in place of" (1.1.49), the locative "before" (1.1.66),
+  the ablative "after" (1.1.67), the nominative the result — with भो + अति → भवति, the first
+  step of the volume's भवति thread, and, by 7.1.9, देव + भिस् → देवैः; the Chapter 1 exam, five
+  tasks in one closed-book 45-minute sitting, in which five owned vowel joins are derived
+  according to Pāṇini. The 1.x book's errors in this territory (चय्, झश् and जश्; the memory
+  aid; the number of इको यणचि) are quoted with their pages and corrected in the open; the
+  legend of the drum is told once, labelled, never assessed. Fact base verified before
+  drafting (25 confirmed findings, 2 of them blocking, both the same point: the आत् of 6.1.87
+  is not a tapara letter); review passes A–D, Pass A lesson by lesson (71 findings confirmed,
+  2 of them blocking: चय् said to name the first member of four series, where it names that of
+  all five, and a key that joined a name ending in ण् to इति, a seam the chapter does not
+  teach; 26 major; 193 fixes applied); post-fix verification of nine files in four runs (52
+  leftovers fixed); a second citation round on the chapter as reviewed and verified (10 more
+  findings confirmed, 2 of them major; 37 fixes); the result of the third citation round is
+  recorded in CHANGELOG 0.19.0 and in the verification log. Two statements that rested on a
+  book that could not be opened, and that no search result quoting it confirmed, were cut
+  before release. 13 ledger-new (521 cumulative, the first planned Volume 4 exit); 12 tools in
+  the learner's toolbox; 95 reviewed lessons (91 in Volumes 1–3, 4 in Volume 4), validator
+  green, exports current. Shipped with it: the quiz keys of 73 lessons of Volumes 1–3 spread
+  over the option letters (STYLE_GUIDE §5; `scripts/quizcheck.py`), and errata to v3.c03.l02
+  and v3.c04.l04. Next: v4.c02 अष्टाध्यायीप्रवेशः — Inside the Aṣṭādhyāyī (fact base verified;
+  lessons 1–3 and the chapter exam, lesson 4, drafted, not yet reviewed).
 
 ## Content preservation map (from the 1.x curriculum)
 
@@ -368,6 +399,8 @@ Verified-correct 1.x material and where it lands in 2.0:
 | Graded readers (pp.64–66) | v2.c06 (sandhi-resolved); v3.c06 (original): the 1.x crow (p.64) v3.c06.l01 — Text B1, the crow told in the past with the 1.x details restored (तृष्णार्तः, the stones in the plural, the moral बुद्धिर्बलाच्छ्रेष्ठा), the 1.x error (जलं इच्छति, neither pause form nor joined) listed with its correction in §22; the 1.x lion and mouse (p.65) v3.c06.l02 — Text B2, the dialogue in the past with the 1.x lines restored (the mouse runs over the lion; the mouse's promise, with साहाय्यम् for सहायम्), the 1.x error (सहायं करिष्यामि for "I will help") listed with its correction in §22 |
 | IE word pairs, 19 of 20 real relatives (pp.61–62) | v2.c06 (re-sorted: cognate, loan, Latin route, false) |
 | Subhāṣita set + three śānti (pp.47–51) | v2.c06 (first three), v5.c01 |
+| Māheśvara sūtras, with the label "Legend" (p.69), and their memory aid (p.70) | v4.c01.l01 — the fourteen sūtras carried as table T9 in §15, written into the Volume 1 grid and recited; the label "Legend" kept for the story of the drum in §4 (TRADITION, never assessed); the 1.x error (the memory aid has no line for sūtra 12 and leaves out the ह of sūtra 5) listed with its correction in §4, and the aid rebuilt with all fourteen in §15 |
+| Pratyāhāra system (pp.70–71) and the special pratyāhāras (pp.95–96) | v4.c01.l01 — the mechanism (a sound and a marker, 1.1.71) in §8 and §15, with अच्, हल्, इक् and यण् opened from the list, as the 1.x page did, and इको यणचि read through them; the 1.x errors (इको यणचि numbered 1.1.45, p.71; चय् glossed "voiceless aspirated" and झश् given the sounds of जश्, p.96) listed with their corrections in §4, where the "~42 pratyāhāras" of p.95 is quoted beside the Kāśikā's count of 41; v4.c01.l02 — the two readings of अण् and the reading of इण् in §4 and §15; one more 1.x line of p.96, on the two ण्, corrected in §22 of both lessons |
 | Visarga sandhi (pp.71–73) | v3.c04.l02 — the examples built from owned words carried in §13: रामः + अहम् → रामोऽहम्, रामः + गच्छति → रामो गच्छति, रामः + च → रामश्च, रामः + करोति → रामः करोति; the 1.x errors listed with their corrections in §22 |
 | 10 lakāras + forms (pp.74–75) | v4.c03 |
 | Kāraka lesson + Fillmore note (pp.87–89) | v3.c02 (functional), v4.c05 (theory) |

@@ -41,12 +41,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c01l01-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c01l01-quiz-key.md"
 tags: [grammar, panini, maheshvara-sutras, pratyahara, it-marker, derivation, recitation, 1x-errata, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-13"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 ## 1. Hook
@@ -358,9 +358,9 @@ That was a paraphrase. The sūtra itself has three words, and you could not read
 
 ### Step 2 — the question
 
-What are इक्, यण् and अच्? They are not in any dictionary as words of the language. Each is a
-**name** for a set of sounds, made from a list that stands before Pāṇini's numbered rules (§4).
-To read the rule you need the list and the way names are made from it.
+What are इक्, यण् and अच्? They are not ordinary words of the language. Each is a **name** for
+a set of sounds, made from a list that stands before Pāṇini's numbered rules (§4). To read the
+rule you need the list and the way names are made from it.
 
 ### Step 3 — the tools: the list, the marker, the name
 

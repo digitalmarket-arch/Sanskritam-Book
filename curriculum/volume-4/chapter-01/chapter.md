@@ -8,9 +8,9 @@ title:
 volume: 4
 chapter: 1
 cefr: B1
-status: draft
+status: reviewed
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 # Chapter 1 — माहेश्वराणि सूत्राणि · The Fourteen Sūtras

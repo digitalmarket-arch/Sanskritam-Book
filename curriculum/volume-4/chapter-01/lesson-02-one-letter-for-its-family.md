@@ -41,12 +41,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c01l02-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c01l02-quiz-key.md"
 tags: [grammar, panini, savarna, tapara, pratyahara, vowel-length, derivation, present-tense, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-13"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 ## 1. Hook
@@ -779,8 +779,8 @@ sound.
 Read the list in §5 once more, aloud, and do one thing with it: for each row of the table in
 §15 — अ, इ, उ, ऋ, चु, तु — find the place the list gives it. अ: the throat. इ and चु: the palate.
 ऋ: the roof. तु: the teeth. उ: the lips. Then say, for each, one sound of its family in a
-Sanskrit word you own: आ in विद्यालयः, ई in इतीव, ऊ in सूर्यः, छ in गच्छति, थ in गच्छथ (ऋ's long
-ॠ is in no word you own). A rule writes one letter; the map tells you where its family lives.
+Sanskrit word you own: आ in विद्यालयः, ई in इतीव, ऊ in सूर्यः, ॠ in पितॄन्, छ in गच्छति, थ in
+गच्छथ. A rule writes one letter; the map tells you where its family lives.
 
 ## 18. Exercises
 
