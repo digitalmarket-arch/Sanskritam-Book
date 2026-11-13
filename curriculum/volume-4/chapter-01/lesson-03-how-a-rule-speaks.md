@@ -243,9 +243,9 @@ its first sound is never merged into the word before it, just as a quoted name's
 उसका काम दिखाता है।
 
 हिन्दी में हम यह बात परसर्ग के साथ एक और शब्द जोड़कर कहते हैं: "इक् **के स्थान पर** यण्", "स्वर **से
-पहले**" (हिन्दी माध्यम में संस्कृत पढ़ाते समय "स्वर **परे होने पर**" भी कहा जाता है), "ह्रस्व अ **के बाद**"। संस्कृत
+पहले**" (हिन्दी माध्यम में संस्कृत पढ़ाते समय "स्वर **परे होने पर**" भी कहा जाता है), "ह्रस्व अ **के बाद**" [REF:kachru2006]। संस्कृत
 यही बात केवल विभक्ति के प्रत्यय से कहती है — इकः, अचि, अतः; उसे न "स्थान" शब्द चाहिए, न
-"पहले", न "बाद" [REF:kachru2006]। और पाणिनि के सूत्रों में हर विभक्ति का काम तय है:
+"पहले", न "बाद"। और पाणिनि के सूत्रों में हर विभक्ति का काम तय है:
 
 - **षष्ठी — के स्थान पर।** षष्ठी में रखा शब्द वह है जिसकी जगह कुछ और आता है — सूत्र 1.1.49।
 - **सप्तमी — से पहले।** सप्तमी में रखा शब्द वह है जो आगे आता है; कार्य उसके ठीक पहले वाले
@@ -624,7 +624,7 @@ track).
 |---|---|---|---|---|---|
 | आदेशः | ādeśaḥ | /ɑːd̪eːɕɐh/ | substitute (in grammar); command | आदेश | ledger-new — m. a-stem, like रामः; what a rule puts in place of a sound or an ending: the nominative of a rule names it — Apte s.v. आदेशः 1 "An order, command", 5 "(Gram.) A substitute"; MW s.v. ādeśa |
 | पूर्वः | pūrvaḥ | /puːɾʋɐh/ | preceding, earlier; eastern | पूर्व, पहला | ledger-new — pron. adj. -र्वा -र्वम्; the पूर्वस्य of 1.1.66 — MW s.v. pūrva "… declined like a pron. when implying relative position"; "eastern" |
-| उत्तरः | uttaraḥ | /ut̪t̪ɐɾɐh/ | following, later; northern; n. उत्तरम् "answer" | उत्तर, बाद वाला | ledger-new — pron. adj. -रा -रम्; the उत्तरस्य of 1.1.67 — MW s.v. uttara "later, following …", "northern", n. "answer, reply"; Apte s.v. उत्तर "--रं An answer, reply" |
+| उत्तरः | uttaraḥ | /ut̪t̪ɐɾɐh/ | following, later; northern; n. उत्तरम् "answer" | उत्तर, बाद वाला | ledger-new — pron. adj. -रा -रम्; the उत्तरस्य of 1.1.67 — MW s.v. uttara "later, following …", "northern", n. "answer, reply"; Apte s.v. उत्तर "--रं 1 An answer, reply" |
 | विधिः | vidhiḥ | /ʋid̪ʱih/ | operation (rule); method; fate | विधि | ledger-new — m. i-stem, like अग्निः; "operation (rule)" is the course's fixed English for the grammar term — MW s.v. vidhi "a rule, formula, injunction …", "a grammatical rule", "fate, destiny" |
 
 Three notes. पूर्वः and उत्तरः are pronominal adjectives: in some cells they decline like सर्वः
@@ -1112,7 +1112,7 @@ with the corrections listed (none other is made):
 - **The Kāśikā on 1.1.49** (lines 1333–1339): *iha śāstre yā ṣaṣṭhī aniyata-yogā śrūyate, sā
   sthāne-yogā-iva bhavati, na-anya-yogā* — read *sthāne-yogā-iva* as *sthāneyogaiva* (the
   e-text's split mark sits after the joined *-ai-*: *eva*). "A genitive in this grammar whose link
-  is not otherwise fixed means 'in place of'." Its example *asteḥ sthāne bhūḥ* (line 1339)
+  is not otherwise fixed means 'in place of'." Its example *asteḥ sthāne prasaṅge bhūr bhavati* (line 1339)
   previews 2.4.52 (c06.l03). Line 1351: *bahavo hi ṣaṣṭhy-arthāḥ* "for the senses of the genitive
   are many" — owner, nearness, part and the rest; the source of §5's last paragraph.
 - **The Kāśikā on 1.1.66** (lines 1676–1681): *tasmin iti saptamy-artha-nirdeśe pūrvasya-iva

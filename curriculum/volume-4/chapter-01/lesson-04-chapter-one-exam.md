@@ -1224,7 +1224,9 @@ sūtra 11 *kha pha dha ḍha tha* → *kha pha cha ṭha tha* (lines 249–250);
 (252); *ekenauran rapraḥ* → *ekena uraṇ raparaḥ* (141); *updiśya* → *upadiśya* (147); *avarṇa
 prayoge* → *avarṇaṃ prayoge* (142); the verse's *ṅañaṇAvaṭā* → *ṅañaṇavaṭā* and *dvābhāṃ* →
 *dvābhyāṃ* (289); *prayarnaṃ* → *prayatnaṃ* (488); *spaṛṣṭata-* → *spṛṣṭatā-* (495); the split
-marks *sthāne-yogā-iva*, *pūrvasya-iva*, *uttarasya-iva* read as *eva* (1335, 1676, 1684);
+marks *sthāne-yogā-iva*, *pūrvasya-iva*, *uttarasya-iva* read as *eva* (1335, 1676, 1684),
+*etad-eva-ikaṃ* read *etad evaikaṃ* (216), *dīrgha a-akāro* read *dīrgha ākāro* (1361) and
+*guṇa-antara-yuktasya* read *guṇāntarayuktasya* (1744);
 *antaratam ādeśo* → *antaratama ādeśo* (1356); *grahanam* → *grahaṇaṃ* (1740); *tapro* → *taparo*
 (1744); *madyapatitānāṃ* →
 *madhyapatitānāṃ* (1759); *vartte* → *vartate* (3464); *ṅakaraḥ* → *ṅakāraḥ* (3469); on 1.3.10

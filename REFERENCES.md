@@ -115,7 +115,12 @@ Vol. I (1974) holds nos. 1–1873, so higher numbers are in later volumes. E-tex
 Poona 1890; revised ed. 1957–59. Cited s.v. (sub voce).
 
 <a id="cardona1997"></a>**cardona1997** — G. Cardona, *Pāṇini: His Work and its Traditions*,
-2nd ed., Motilal Banarsidass 1997. The standard modern account of the Pāṇinian system.
+vol. 1: Background and Introduction, 2nd ed., revised and enlarged, Delhi: Motilal Banarsidass,
+1997. The standard modern account of the Pāṇinian system. Cited bare. One statement is printed
+as Cardona's own, attributed in the text ("According to Cardona …"): the evidence allows no
+date for Pāṇini later than the early 4th century BCE. It rests on a quotation of the book in a
+later publication. That statement and the bibliographic data are search-confirmed; page not
+opened.
 
 <a id="coulson2010"></a>**coulson2010** — M. Coulson, *Complete Sanskrit* (Teach Yourself),
 rev. Gombrich & Benson, 2010. Model for modern self-study pedagogy.

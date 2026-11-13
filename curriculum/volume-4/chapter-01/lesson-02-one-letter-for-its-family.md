@@ -159,12 +159,12 @@ made, and how the tongue or lips make it.
 
 > **[FACT · तथ्यम्]** "In each series there are two surd members, two sonant, and one nasal":
 > every stop row is made at one place, and its members differ in voicing, breath and nasality.
-> [REF:whitney1889 §34]
+> [REF:whitney1889 §32] [REF:whitney1889 §34] [REF:whitney1889 §37]
 
 Modern phonetics describes a speech sound by its place (where the air is narrowed or stopped:
 throat, palate, roof, teeth, lips) and its manner (how: a full stop, a near-closure, an open
 channel). Pāṇini's 1.1.9 names the first with -आस्य-, "of the mouth", which the Kāśikā explains
-as the place, "the palate and the rest"; the course says स्थानम्, "place", a word you own. The
+as the place, "the palate and the rest" [REF:kashika 1.1.9]; the course says स्थानम्, "place", a word you own. The
 second it names with -प्रयत्न-, "effort": प्रयत्नः is today's headword. The tradition's own map
 of the places is a short list in the Laghusiddhāntakaumudī, printed under the very rule you
 read today, 1.1.9.
@@ -348,6 +348,7 @@ Word by word: अणुदित् "an aṇ sound, or one marked with उ" · �
 
 English line: "An aṇ sound or a sound marked with उ stands for its savarṇas as well as itself —
 unless it is something the rule introduces." [REF:ashtadhyayi 1.1.69] [REF:kashika 1.1.69]
+[REF:laghukaumudi on 1.1.69]
 
 Note: here अण् is अ … ल [Step 7]. Read the rule in three parts:
 
@@ -596,8 +597,8 @@ the track).
 |---|---|---|---|---|---|
 | दीर्घः | dīrghaḥ | /d̪iːɾgʱɐh/ | long | दीर्घ, लम्बा | ledger-new — adj. -र्घा -र्घम्; of a vowel, "long", and alone "a long vowel"; the दीर्घः of 6.1.101 and 7.3.101 — MW s.v. dīrgha "long (in space and time)"; Apte s.v. दीर्घ |
 | ह्रस्वः | hrasvaḥ | /ɦɾɐsʋɐh/ | short | ह्रस्व, छोटा | ledger-new — adj. -स्वा -स्वम्; of a vowel, "short" — MW s.v. hrasva "short, small …"; Apte s.v. ह्रस्व |
-| प्रयत्नः | prayatnaḥ | /pɾɐjɐt̪n̪ɐh/ | effort; (in grammar) the effort of articulation | प्रयत्न | ledger-new — m. a-stem, like रामः; the प्रयत्न of 1.1.9 — Apte s.v. प्रयत्नः 5 "(In gram.) Effort in uttering, effort of the mouth in the production of articulate [sounds]"; MW s.v. prayatna "(in gram.) effort in uttering, mode of articulation" |
-| सवर्णः | savarṇaḥ | /sɐʋɐɾɳɐh/ | of the same class of sounds, homogeneous | सवर्ण | ledger-new — adj. -र्णा -र्णम्; the सवर्णम् of 1.1.9, the सवर्णस्य of 1.1.69, the lesson's title — MW s.v. savarṇa "belonging to the same class of sounds, homogeneous with"; Apte s.v. सवर्ण 5 "Belonging to the same class of [sounds]" |
+| प्रयत्नः | prayatnaḥ | /pɾɐjɐt̪n̪ɐh/ | effort; (in grammar) the effort of articulation | प्रयत्न | ledger-new — m. a-stem, like रामः; the प्रयत्न of 1.1.9 — Apte s.v. प्रयत्नः 5 "(In gram.) Effort in uttering, effort of the mouth in the production of articulate sounds"; MW s.v. prayatna "(in gram.) effort in uttering, mode of articulation" |
+| सवर्णः | savarṇaḥ | /sɐʋɐɾɳɐh/ | of the same class of sounds, homogeneous | सवर्ण | ledger-new — adj. -र्णा -र्णम्; the सवर्णम् of 1.1.9, the सवर्णस्य of 1.1.69, the lesson's title — MW s.v. savarṇa "belonging to the same class of sounds, homogeneous with"; Apte s.v. सवर्ण 5 "Belonging to the same class of letters" |
 
 Three notes. दीर्घः and ह्रस्वः are not new to your eyes: v1.c02.l01 printed इ इति ह्रस्वः स्वरः
 and ई इति दीर्घः स्वरः as display lines, and Volume 3 read दीर्घः inside two sūtras. A word met

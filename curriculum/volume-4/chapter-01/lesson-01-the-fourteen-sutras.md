@@ -213,7 +213,7 @@ address, and the two sound-sets and the memory aid around it.
 varṇamālā you learned in Volume 1.
 
 > **[FACT · तथ्यम्]** The stops of Sanskrit form five series by place. "In each series there are
-> two surd members, two sonant, and one nasal"; "the members are by the Hindu grammarians called
+> two surd members, two sonant, and one nasal"; "The members are by the Hindu grammarians called
 > respectively *first, second, third, fourth*, and *last* or *fifth*"; "The first and third
 > members of each series are the ordinary corresponding surd and sonant mutes"; "The second and
 > fourth of each series are aspirates". [REF:whitney1889 §32] [REF:whitney1889 §33]
@@ -598,8 +598,8 @@ headword twice, at the end of the track).
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | सूत्रम् | sūtram | /suːt̪ɾɐm/ | rule (in a grammar); thread | सूत्र | ledger-new — n. a-stem, like फलम्; the chapter's name — Apte s.v. सूत्रं: "A thread …", sense 7 "A short rule or precept, an aphorism"; MW s.v. sūtra n. "a thread …" |
-| प्रत्याहारः | pratyāhāraḥ | /pɾɐt̪jɑːɦɑːɾɐh/ | abbreviation (in grammar: a sound and a marker naming a stretch of sounds); lit. "drawing together" | प्रत्याहार | ledger-new — m. a-stem, like रामः; the day's tool — Apte s.v. प्रत्याहारः sense 5 "(In gram.) The comprehension of several letters or affixes into one …"; MW s.v. pratyāhāra "a group of letters &c. so combined (as ac or hal in the ŚivaSūtras)" |
-| आदिः | ādiḥ | /ɑːd̪ih/ | beginning; (at a compound's end) "and so on" | आदि, आरम्भ | ledger-new — m. i-stem, like अग्निः; the first word of 1.1.71 — Apte s.v. आदि: "--diH 1 Beginning, commencement"; MW s.v. ādi m. "beginning, commencement" |
+| प्रत्याहारः | pratyāhāraḥ | /pɾɐt̪jɑːɦɑːɾɐh/ | abbreviation (in grammar: a sound and a marker naming a stretch of sounds); first sense "drawing back" | प्रत्याहार | ledger-new — m. a-stem, like रामः; the day's tool — Apte s.v. प्रत्याहारः sense 5 "(In gram.) The comprehension of several letters or affixes into one …"; MW s.v. pratyāhāra "a group of letters &c. so combined (as ac or hal in the ŚivaSūtras)" |
+| आदिः | ādiḥ | /ɑːd̪ih/ | beginning; (at a compound's end) "and so on" | आदि, आरम्भ | ledger-new — m. i-stem, like अग्निः; the first word of 1.1.71 — Apte s.v. आदि: "--दिः 1 Beginning, commencement"; MW s.v. ādi m. "beginning, commencement" |
 | अन्त्यः | antyaḥ | /ɐn̪t̪jɐh/ | last, final | अन्तिम | ledger-new — adj. अन्त्यः -न्त्या -न्त्यम्; in 1.1.71 and 1.3.3 — Apte s.v. अंत्य "Last, final (as a letter, word &c.)"; MW s.v. antya "last in place, in time, or in order" |
 | अक्षरम् | akṣaram | /ɐkʂɐɾɐm/ | syllable; written letter | अक्षर | ledger-new — n. a-stem, like फलम्; the recitation (§9 Drill 5) and §16's "how many syllables in इको यणचि?" — Apte s.v. अक्षर, the neuter: "(a) A letter of the alphabet … (b) a syllable"; MW s.v. akṣara n. "a syllable" |
 
@@ -899,10 +899,10 @@ beginners his rules today.
 Volume 4 follows one line of people through its six chapters: Pāṇini, the teachers he names, and
 the commentators who read him. The first two stations are told here, each once.
 
-> **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī is placed around the 4th century BCE on the usual
-> scholarly estimate; estimates vary [REF:cardona1997]. In his own rules Pāṇini names other
-> teachers of grammar — among them Āpiśali, Śākaṭāyana and Śākalya (the rules that name them:
-> Teacher Notes).
+> **[HISTORY · इतिहासः]** Pāṇini's Aṣṭādhyāyī is placed around the 4th century BCE or earlier;
+> estimates vary. According to Cardona, the evidence allows no date later than the early 4th
+> century BCE [REF:cardona1997]. In his own rules Pāṇini names other teachers of grammar — among
+> them Āpiśali, Śākaṭāyana and Śākalya (the rules that name them: Teacher Notes).
 
 So the grammar you are reading names, inside its own rules, other teachers of the same craft.
 
@@ -1166,8 +1166,9 @@ added: 4.
 
 - Kāśikā on लण्, line 219: *hakāra-ādiṣv-akāra uccāraṇa-arthaḥ, na anubandhaḥ* — "In ह and the
   rest, the अ is for pronunciation; it is not a marker." The one commentary line in learner text
-  (§15). The same comment (line 220) adds that the ल of लण् is taught nasalised
-  (*lakāre tv anunāsikaḥ pratijñāyate*) so that the र of 1.1.51 can name र and ल — not for class.
+  (§15). The same comment (line 220) adds that in the ल of लण् the अ is taught nasalised, and so
+  is a marker (*lakāre tv anunāsikaḥ pratijñāyate*), so that the र of 1.1.51 can name र and ल —
+  not for class.
 - Kāśikā on लण्, lines 215–216: *iṇ-grahaṇāni sarvāṇi pareṇa ṇakāreṇa / aṇ-grahaṇāni tu
   pūrveṇa, aṇ-udit-savarṇasya ca-apratyayaḥ ity etad-eva-ikaṃ pareṇa* — "Every इण् is taken with
   the later ण्; every अण् with the earlier — only this one, 1.1.69, with the later." Read
@@ -1238,8 +1239,9 @@ Kāśikā's count, attributed in §4 as such; never give it as an independent fi
 cited here are not for class: learners expand a pratyāhāra from the sūtras, not from a rule
 number.
 
-**Why the course does not repeat a fourth 1.x line.** The 1.x book (p. 96) also says that "the
-paribhāṣā 'आदिरन्त्येन सहेता' tells you to read with the LAST occurrence of the marker". It is
+**Why the course does not repeat a fourth 1.x line.** The 1.x book (p. 96) also says: "The
+paribhāṣā 'आदिरन्त्येन सहेता' tells you to read with the LAST occurrence of the marker that
+produces a meaningful group." It is
 wrong on both counts: 1.1.71 says nothing about which ण्, and the Kāśikā's own rule is that every
 अण् but one takes the first ण्. v4.c01.l02 teaches the rule; today, if a learner asks which ण्
 अण् uses, say "next lesson".
@@ -1414,7 +1416,10 @@ reads the cue, not the English spelling.
   dating the teachers Pāṇini names, so both were cut — §4's callout now ends at "for the sake
   of the pratyāhāras" and keeps [REF:maheshvarasutras]; [REF:kashika], and §17 says only
   "other teachers of grammar"; §17's sentence on Pāṇini's own date keeps [REF:cardona1997]
-  with its hedge);
+  with its hedge; Pass C, round 2, 2026-11-13: no quotation of Cardona was found for "on the
+  usual scholarly estimate", so the sentence now gives his upper limit instead, attributed
+  ("According to Cardona …") — search-confirmed from a quotation of the book in a later
+  publication; page not opened);
   Whitney §§21, 32–35, 37, 129 as quoted; the five headwords against Apte and MW as cited in §14;
   every joined line of §6, §13, §16 and the §19 keys against the Volume 3 Chapter 4 maps; the
   Hindi of §7, every objective and every gloss at Pass B.
