@@ -150,7 +150,7 @@ operation, not the ladder.
 This exam reads the machinery, not a text: the chapter's only text is the thread verse, re-read
 after the sitting (§17).
 
-The chapter's one dated line — Kātyāyana and Patañjali, in lesson 1 (l01 §17) — is not printed
+The chapter's one HISTORY callout — Kātyāyana and Patañjali, in lesson 1 (l01 §17) — is not printed
 again, and nothing today asks about it. One question of §19 (Q10) asks what Patañjali names as
 the purposes of grammar; it is asked in the frame "According to Patañjali", on the line lesson 1
 printed.
@@ -290,7 +290,7 @@ before the comma. A compound is one word, its members hyphenated in the pause fo
 बहुत-से सूत्र तीन में से कोई एक काम करते हैं: आदेश — किसी के स्थान पर कुछ रखना; आगम — कुछ जोड़ना; लोप —
 कुछ हटाना। गुण और वृद्धि कुछ जोड़ते नहीं; वे आदेश हैं — इ के स्थान पर ए, उ के स्थान पर ओ।
 तीसरे पाठ ने सूत्र पढ़ने का नया ढंग दिया: सूत्र अक्सर अकेले में अधूरा होता है, उसके कुछ पद ऊपर
-के सूत्र से आते हैं — यही अनुवृत्ति है; और कुछ सूत्र शीर्षक की तरह अपने नीचे के बहुत-से सूत्रों पर
+के सूत्रों से आते हैं — यही अनुवृत्ति है; और कुछ सूत्र शीर्षक की तरह अपने नीचे के बहुत-से सूत्रों पर
 लागू रहते हैं — यही अधिकार है। इसी से रामेण का ण, यानी णत्व, और रामेषु तथा करोषि का ष, यानी
 षत्व, समझ में आया।
 
@@ -301,8 +301,9 @@ before the comma. A compound is one word, its members hyphenated in the pause fo
 चौदह मिनट; E — एक अनदेखा सूत्र, उसकी कोष्ठक-पंक्ति के साथ: तीन विकल्पों में से अनुवृत्त पद
 चुनना, और उसी सूत्र से एक रूप की व्युत्पत्ति — आठ मिनट। सबसे पहले दो मिनट निर्देश।
 
-कार्य C, D और E में पुस्तिका की सूत्र-सूची [toolbox card] खुली रहती है: अध्याय के तैंतालीस
-सूत्र, संख्या के क्रम में, हर एक अपने पाठ और एक अंग्रेज़ी पंक्ति के साथ। इसलिए सूत्रों की संख्याएँ
+कार्य C, D और E में सूत्रों की वह सूची [toolbox card] खुली रहती है जो पुस्तिका के साथ अलग पन्ने
+पर मिलती है: पहले दो अध्यायों के तैंतालीस सूत्र, संख्या के क्रम में, हर एक अपने पाठ और एक
+अंग्रेज़ी पंक्ति के साथ। इसलिए सूत्रों की संख्याएँ
 रटनी नहीं हैं; आपको यह पहचानना है कि कौन-सा चरण कौन-सा सूत्र करता है। कार्य A और B में सूची
 बन्द रहती है: वहाँ जो चाहिए, वह आपकी स्मृति में है — प्रत्यय-चिह्न पंक्ति और तीन खाने।
 
@@ -513,7 +514,7 @@ fix and the lesson that fixes it.
 
 | # | Mistake | Fix |
 |---|---|---|
-| 1 | Dropping the final स् of भिस् or the म् of आम् as markers | a final dental, स् or म् of an ending is kept — the ending-marker line (l01 §15; l01 §12 mistake 4) |
+| 1 | Dropping the final स् of भिस् or the म् of अम् as markers | a final dental, स् or म् of an ending is kept — the ending-marker line (l01 §15; l01 §12 mistake 4) |
 | 2 | Calling the base pada before सुँ, अम्, औ, जस् or औट् | they are the five strong endings; 1.4.17 leaves them out (l01 §12 mistake 2) |
 | 3 | Saying that "गुण inserts व", as the 1.x card did, or reading guṇa as "add an अ" | guṇa is a substitute; the व comes from a second substitute, 6.1.78 (l02 §12 mistakes 1–2) |
 | 4 | Giving 8.4.1 without 8.4.2 when a sound stands between the trigger and the न | name 8.4.2 and say which interveners stand there: अट् sounds, the k-row, the p-row (l03 §13 derivation (a)) |
@@ -521,9 +522,10 @@ fix and the lesson that fixes it.
 | 6 | In an unseen rule, taking the carried word from the rule just before it | the bracket line names the source, and a word may come from further up: 7.1.12's अतः is 7.1.9's, three rules above it (l03 §8 Step 4) |
 
 The chapter's other mistakes are fixed in the lesson that taught them: l01 §12 (aṅga, pada and
-bha taken for three stems; the य of यचि read as a sibilant; the स् of नमस्ते taken for the
-stem's; राज्ञा said with [gj]), l02 §12 (the ऽ of रामोऽहम् called a deletion; every augment
-placed at the front; the two nominatives of a definition read as a result; the guṇa of ऋ given
+bha taken for three stems; the य of यचि read as a sibilant; in Pāṇini's derivation, the स् of
+नमस्ते taken for the stem's; राज्ञा said with [gj]), l02 §12 (the ऽ of रामोऽहम् called a
+deletion; every augment placed at the front; the two nominatives of a definition read as a
+result; the guṇa of ऋ given
 as अ or रि), l03 §12 (the इ of इन taken for the trigger of the ण; one trigger list for ण and ष;
 समानपदे read as "before"; \*रामाण्; the carried "not" of 8.4.37 read as the sound न्; the ष of
 करोषि tied to the root).
@@ -659,7 +661,8 @@ Review words on duty today, no rows: in §6 and §16 — गुरुः [vocati
 [पदानि], त्रि [त्रयः, त्रीणि], कार्यम् [कार्याणि], कुतः, आम्, एव, तु, न, च, इति, प्रत्याहारः [in
 इण्-प्रत्याहारः] and आदेशः [आदेशौ]; in the tasks and their keys — सेवकः, गृहम्, बालकः, पुत्रः,
 गुरुः, नृपः, मित्रम्, नमः, वदति [अवदत्], शृणोति [शृणोषि] and राजा [राज्ञा, राजभिः], in owned or
-derived cells; in the retake sets of §22 — नरः, वनम्, देवः, अग्निः, पठति, लिखति, करोति. Labels,
+derived cells; in the retake sets of §22 — नरः, वनम्, जलम्, देवः, शशकः, दण्डः, अग्निः, खादति, लिखति
+and सर्व [सर्वस्मै]. Labels,
 never ledger words: every affix and augment name with its markers (सुँ, औट्, जस्, शस्, टा, ङे,
 ङसिँ, भिस्, भ्याम्, भ्यस्, ओस्, आम्, सुप्, अट्, तिप्, सिप्, रुँ); the names अङ्गम्, पदम् as a name,
 भम्, णत्वम्, षत्वम्; रेफः, षकारः and कवर्गः; the pratyāhāra names इण्, इक्, अट्, झल्; इत्. Display
@@ -728,7 +731,7 @@ yet.
 
 Where two sounds become one (the vowel joins), the genitive is the heading's पूर्वपरयोः [6.1.84].
 The word that shows the operation need not stand in the rule itself: it may be carried into it
-from a rule above (lesson 3), and the card prints it then in brackets.
+from a rule above (lesson 3).
 
 ### (4) guṇa and vṛddhi — the ladder
 
@@ -744,11 +747,10 @@ guṇa and vṛddhi are substitutes: इ → ए, never इ + अ. भू → �
 
 ### (5) The toolbox card — 43 tools, in number order
 
-Chapter 1's twelve and Chapter 2's thirty-one (13 + 8 + 10), each with its text, its one
-English line as its lesson printed it, and — where the lesson printed one — its bracket of
-carried words and headings. Lesson 3's ten carry the bracket line of the data file; so do
-3.4.100 and 7.1.24, which lesson 3 read again with the file's line. According to Pāṇini, as the
-lessons read him with the Kāśikā [REF:ashtadhyayi]; [REF:kashika].
+Chapter 1's twelve and Chapter 2's thirty-one (13 + 8 + 10), each with its text and its one
+English line as its lesson printed it; lesson 3's ten also carry the bracket line of the data
+file, as lesson 3 printed it. No other row carries a bracket line. According to Pāṇini, as
+the lessons read him with the Kāśikā [REF:ashtadhyayi]; [REF:kashika].
 
 | Sūtra | Text | English line · bracket | Tier · lesson |
 |---|---|---|---|
@@ -761,7 +763,7 @@ lessons read him with the Kāśikā [REF:ashtadhyayi]; [REF:kashika].
 | 1.1.50 | स्थानेऽन्तरतमः | "In place of a sound, the most similar substitute." | D · c01.l01 |
 | 1.1.60 | अदर्शनं लोपः | "Disappearance [of what would have appeared] is called lopa." | D · c02.l02 |
 | 1.1.66 | तस्मिन्निति निर्दिष्टे पूर्वस्य | "When [a context] is named in the locative, [the operation is] on what immediately precedes it." | Q · c01.l03 |
-| 1.1.67 | तस्मादित्युत्तरस्य | "When [a context] is named in the ablative, [the operation is] on what immediately follows it." — [निर्दिष्टे, carried from 1.1.66] | Q · c01.l03 |
+| 1.1.67 | तस्मादित्युत्तरस्य | "When [a context] is named in the ablative, [the operation is] on what immediately follows it." | Q · c01.l03 |
 | 1.1.69 | अणुदित् सवर्णस्य चाप्रत्ययः | "An aṇ sound or a sound marked with उ stands for its savarṇas as well as itself — unless it is something the rule introduces." | Q · c01.l02 |
 | 1.1.70 | तपरस्तत्कालस्य | "A vowel followed by त् stands only for [the savarṇas] of its own length." | D · c01.l02 |
 | 1.1.71 | आदिरन्त्येन सहेता | "The first [sound], together with a final marker, names [the sounds between] and itself." | Q · c01.l01 |
@@ -770,21 +772,21 @@ lessons read him with the Kāśikā [REF:ashtadhyayi]; [REF:kashika].
 | 1.3.9 | तस्य लोपः | "That [marker] is dropped." | B · c01.l01 |
 | 1.3.10 | यथासंख्यमनुदेशः समानाम् | "Where the replaced items and the results are equal in number, they pair off in order." | D · c01.l03 |
 | 1.4.13 | यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् | "That after which an affix is enjoined, [and what begins with it], is called aṅga before that affix." | B · c02.l01 |
-| 1.4.17 | स्वादिष्वसर्वनामस्थाने | "Before the endings from सुँ on, except the strong ones, [the base is called] pada." — [पदम्, carried from 1.4.14] | Q · c02.l01 |
-| 1.4.18 | यचि भम् | "Before [such an ending] beginning with य or a vowel, [the base is called] bha." — [स्वादिषु, असर्वनामस्थाने, carried from 1.4.17] | Q · c02.l01 |
-| 2.4.82 | अव्ययादाप्सुपः | "After an indeclinable (avyaya), the case ending [and the feminine आप्] is deleted (luk)." — [लुक्, carried from an earlier rule: Teacher Notes] | D · c02.l01 |
+| 1.4.17 | स्वादिष्वसर्वनामस्थाने | "Before the endings from सुँ on, except the strong ones, [the base is called] pada." | Q · c02.l01 |
+| 1.4.18 | यचि भम् | "Before [such an ending] beginning with य or a vowel, [the base is called] bha." | Q · c02.l01 |
+| 2.4.82 | अव्ययादाप्सुपः | "After an indeclinable (avyaya), the case ending [and the feminine आप्] is deleted (luk)." | D · c02.l01 |
 | 3.1.1 | प्रत्ययः | "[What is taught from here on is called] an affix." A heading over Books 3–5 | B · c02.l01 |
 | 3.1.2 | परश्च | "And it comes after [the root or nominal base]." | B · c02.l01 |
 | 3.4.99 | नित्यं ङितः | "The स् of a 1st-person ending of a ṅ-marked l-affix is always dropped." — [carried (data file): लोपः, 3.4.97; सः, 3.4.98; उत्तमस्य, 3.4.98 · headings (data file): प्रत्ययः, 3.1.1; परश्च, 3.1.2 · (further headings: Teacher Notes)] | D · c02.l03 |
-| 3.4.100 | इतश्च | "And [the] इ [of a P ending of a ṅ-marked l-affix is dropped]." — [carried (data file): लोपः, 3.4.97; नित्यम्, 3.4.99; ङितः, 3.4.99 · headings (data file): प्रत्ययः, 3.1.1; परश्च, 3.1.2 · (further headings: Teacher Notes)] | D · c02.l02 |
+| 3.4.100 | इतश्च | "And [the] इ [of a P ending of a ṅ-marked l-affix is dropped]." | D · c02.l02 |
 | 6.1.84 | एकः पूर्वपरयोः | "[From here on:] one [substitute] in place of the earlier and the later." A heading over the vowel joins you own, 6.1.87 and 6.1.88 among them | D · c02.l02 |
-| 6.1.107 | अमि पूर्वः | "Before अम्, [an अक् vowel and the अ of अम्] become one vowel: the first." — [अचि, अकः, carried from 6.1.77 and 6.1.101] | D · c02.l01 |
+| 6.1.107 | अमि पूर्वः | "Before अम्, [an अक् vowel and the अ of अम्] become one vowel: the first." | D · c02.l01 |
 | 6.4.1 | अङ्गस्य | "[From here to the end of Book 7, every rule is about] the aṅga." A heading — [carried (data file): दीर्घः, 6.3.111; सम्प्रसारणस्य, 6.3.139 (the file carries them; this heading does not use them) · headings (data file): अङ्गस्य, 6.4.1 (the heading begins here)] | B · c02.l03 |
 | 6.4.71 | लुङ्लङ्लृङ्क्ष्वडुदात्तः | "Before luṅ, laṅ and lṛṅ, [the aṅga gets the augment] अट्, [which is] accented (accent: Volume 5)." | D · c02.l02 |
 | 6.4.134 | अल्लोपोऽनः | "Of a bha base ending in अन्, the अ [of the अन्] is dropped." | D · c02.l01 |
 | 7.1.9 | अतो भिस ऐस् | "After [a stem in] short अ, ऐस् replaces the ending भिस्." | D · c01.l03 |
 | 7.1.12 | टाङसिङसामिनात्स्याः | "After an aṅga in short अ, टा, ङसिँ and ङस् are replaced by इन, आत् and स्य, in order." — [carried (data file): अतः, 7.1.9 · headings (data file): अङ्गस्य, 6.4.1] | D · c02.l03 |
-| 7.1.24 | अतोऽम् | "After a neuter stem in short अ, सुँ and अम् are replaced by अम्." — [carried (data file): स्वमोः, 7.1.23; नपुंसकात्, 7.1.23 · headings (data file): अङ्गस्य, 6.4.1] | D · c02.l01 |
+| 7.1.24 | अतोऽम् | "After a neuter stem in short अ, सुँ and अम् are replaced by अम्." | D · c02.l01 |
 | 7.3.103 | बहुवचने झल्येत् | "Before a plural sup beginning with a jhal sound, the short अ of the aṅga becomes ए." — [carried (data file): अतः, 7.3.101; सुपि, 7.3.102 (preview, c06.l03); दीर्घः, 7.3.101 (the file carries it; this rule does not use it) · headings (data file): अङ्गस्य, 6.4.1] | D · c02.l03 |
 | 8.2.7 | नलोपः प्रातिपदिकान्तस्य | "The न् at the end of a nominal base that is a pada is dropped." | D · c02.l01 |
 | 8.2.66 | ससजुषो रुः | "The स् at the end of a pada [and that of सजुष्] becomes रुँ." | D · c02.l01 |
@@ -911,8 +913,9 @@ for this dialogue; no source is claimed for any.
 कथा — the spiral, after the sitting and unscored: the Chapter 1 item derived once more, and the
 thread verse re-read. The verse is the one text a Chapter 1 or 2 exam reads.
 
-Every Volume 4 exam derives again the item of the chapter before it, and reads a thread verse
-of Volume 3, naming what the volume has added to it. Do both at home after the sitting (§21 item
+From this exam on, every Volume 4 exam derives again the item of the chapter before it; and
+every one, the Chapter 1 exam too, reads a thread verse of Volume 3, naming what the volume has
+added to it. Do both at home after the sitting (§21 item
 6); the key is in §19.
 
 **(a) The Chapter 1 item.** Derive, according to Pāṇini, न + अस्ति → नास्ति, in table form — as
@@ -964,24 +967,25 @@ marks weight the derivations and the reading of a rule, D and E (28 of 68), over
 (16). Nothing in tasks A–E repeats an item of today's Station 0, and §13 prints none of these
 items.
 
-**कार्यम् A · the anatomy of eight forms (7 min; 16 marks; pass 12).** Write each form's base,
-its affix as the sup list has it, and its marker(s), if any.
+**कार्यम् A · the anatomy of eight forms (7 min; 16 marks; pass 12).** According to Pāṇini,
+write each form's base, its affix as the sup list has it, and its marker(s), if any.
 
 (1) सेवकः · (2) गृहम् · (3) बालकैः · (4) बालकेन · (5) राज्ञा · (6) पुत्रान् · (7) गुरवे · (8)
 नृपाणाम्
 
 Two marks each: one for the base, one for the affix with its markers right.
 
-**कार्यम् B · one base, three names (6 min; 12 marks; pass 8).** Before each ending, is the base
-राजन् strong, pada or bha? Give the reason.
+**कार्यम् B · one base, three names (6 min; 12 marks; pass 8).** According to Pāṇini, before each
+ending, is the base राजन् strong, pada or bha? Give the reason.
 
 (1) औट् · (2) भ्याम् · (3) ङसिँ · (4) जस् · (5) सुप् · (6) ओस्
 
 Two marks each: one for the name, one for the reason. The forms themselves are not asked.
 
-**कार्यम् C · six operations (8 min; 12 marks; pass 8).** For each operation say whether it is a
-substitute, an augment or a deletion, and what in its rule shows it (the replaced item in the
-genitive; the augment's marker; the word लोपः or luk). The toolbox card is open.
+**कार्यम् C · six operations (8 min; 12 marks; pass 8).** According to Pāṇini, say for each
+operation whether it is a substitute, an augment or a deletion, and what in its rule shows it
+(the replaced item in the genitive; the augment's marker; the word लोपः or luk). The toolbox card
+is open.
 
 1. अ + इ → ए in नेति — न + इति
 2. the अ at the front of अवदत्
@@ -1015,8 +1019,8 @@ you know. The toolbox card is open.
 > It stands after 7.1.12 टाङसिङसामिनात्स्याः, whose bracket line is: [carried (data file): अतः,
 > 7.1.9 · headings (data file): अङ्गस्य, 6.4.1].
 
-(1) Which word is carried into 7.1.13? (a) अतः, from 7.1.9 (b) भिसः, from 7.1.9 (c) इन, from
-7.1.12. [2 marks]
+(1) According to Pāṇini, which word is carried into 7.1.13? (a) अतः, from 7.1.9 (b) भिसः,
+from 7.1.9 (c) इन, from 7.1.12. [2 marks]
 
 (2) Derive, according to Pāṇini, रामाय from राम + ङे. The last step belongs to a later lesson
 and is printed for you; write the steps before it. [6 marks]
@@ -1025,7 +1029,7 @@ and is printed for you; write the steps before it. [6 marks]
 |---|---|---|---|
 | 0 | ___ | ___ | ___ |
 | … | ___ | ___ | ___ |
-| 3 | **रामाय** | 7.3.102 सुपि च [preview: c06.l03] | the stem's अ is lengthened before the ending |
+| last | **रामाय** | 7.3.102 सुपि च [preview: c06.l03] | the stem's अ is lengthened before the ending |
 
 **Pass:** every task at its pass mark, and the §19 quiz at 7/10 (taken after the sitting). Total
 68. A task below its mark: its remediation exercise (§22), then a retake of that task after one
@@ -1037,7 +1041,7 @@ week, with the alternative item set of the Teacher Notes.
 sitting; none is an exam item.
 
 1. According to Pāṇini (1.4.13), a base before any affix is called: (a) pada (b) bha (c) aṅga
-   (d) prātipadika
+   (d) pratyaya
 2. According to Pāṇini, which ending is strong (sarvanāmasthāna) for a masculine? (a) औ; (b) टा;
    (c) भिस्; (d) आम्
 3. In Whitney's account, the stem राजन् has: (a) one form (b) two forms (c) a triple form (d)
@@ -1062,7 +1066,7 @@ sitting; none is an exam item.
 
 1. (c) — 1.4.13: the base, before the affix enjoined after it, is called aṅga (l01 §8 Step 3;
    §15 (1)). (a) and (b) are names it bears only before some case endings — 1.4.17, 1.4.18;
-   (d) names a nominal base as such, whether or not an affix follows — the card 1.2.45.
+   (d) is the name of the affix itself, not of the base (3.1.1).
    TRADITION, asked in the frame "According to Pāṇini".
 2. (a) — औ is one of the five strong endings — सुँ औ जस् अम् औट्: l01 §15, the three boxes, and
    §15 (2) here. (b), once its ट् is gone, and (d) begin with a vowel and are not strong:
@@ -1197,7 +1201,7 @@ Marks: step 1, pada — by 1.4.17 or in words (1); step 2, the string and 8.2.7 
 
 | Step | String | Sūtra | What happens |
 |---|---|---|---|
-| 0 | शृणो + सि | the stem given [Chapter 3]; सिप् → सि [c03.l01] | stem + the 2sg ending |
+| 0 | शृणो + सि | the stem given [c03.l03]; सिप् → सि [c03.l01] | stem + the 2sg ending |
 | 1 | शृणो + षि | 8.3.59 आदेशप्रत्यययोः [D], under 8.3.55 and 8.3.57 | स् of an affix after ओ — an इण् sound —, not word-final → ष् |
 | 2 | **शृणोषि** | — | — |
 
@@ -1208,8 +1212,9 @@ Marks: step 1, 8.3.59 (1) and the reason — ओ is an इण् sound and the �
 steps 4–5 as one line. A marker line added in (1) — the ट् of टा named before 7.1.12 acts — is
 not marked down. A step out of order loses its point: a step is out of order when its string
 could not yet stand — the ष of बालकेषु before its ए, the visarga of राजभिः before रुँ — or when
-it goes against the order of the lesson's model: in (1), the ए of 6.1.87 before 8.4.1 (l03 §13
-derivation (a)). In (3), 8.2.66 written before 8.2.7 changes no string and scores in full. A
+it goes against the order of the lesson's model: in (1), 8.4.1 written before the ए of 6.1.87,
+which the model makes first (l03 §13 derivation (a)). In (3), 8.2.66 written before 8.2.7
+changes no string and scores in full. A
 rule given by its text or by its gist in words, in place of its number, earns the mark; a wrong
 sūtra at a step loses that step's mark. A string written without its "+" is not marked down,
 except where the key asks for a stage.
@@ -1230,19 +1235,19 @@ the ending ङे is replaced by य."
 | 0 | राम + ङे | — | the dat. sg. ending |
 | 1 | राम + ए | the ending-marker line [1.3.8, preview: c03.l02] · 1.3.9 [B] | the ङ् of ङे is a marker, dropped |
 | 2 | राम + य | 7.1.13 ङेर्यः [read today; no tier] [अतः, 7.1.9] | after an a-stem aṅga, ङे → य |
-| 3 | **रामाय** | 7.3.102 सुपि च [preview: c06.l03] | the stem's अ is lengthened before the ending — printed for you |
+| last | **रामाय** | 7.3.102 सुपि च [preview: c06.l03] | the stem's अ is lengthened before the ending — printed for you |
 
 Marks: step 1, the string and the reason (2); step 2, the string and the sūtra (2); and two
 for the end: the stage राम + य left with its seam, not written as a word (1), and the printed
-step 3 copied beneath it (1). **8 marks with (1), pass 5.**
+last step copied beneath it (1). **8 marks with (1), pass 5.**
 
 A second table is as correct and scores the same six. It has no marker line: 0 राम + ङे · 1 राम +
-य — 7.1.13 · the printed step 3. In it the substitute य replaces the whole ending ङे, marker and
+य — 7.1.13 · the printed last step. In it the substitute य replaces the whole ending ङे, marker and
 all — as इन replaces टा in lesson 3's रामेण [l03 §13, derivation (a)] and अम् replaces सुँ in
 lesson 1's फलम् [l01 §13]. Its step 1 then carries the four marks of steps 1–2: the string (2)
 and the sūtra (2). In either table the stage is राम + य, written with its seam: \*रामय,
-written as a word, loses the mark for the stage. The number 3 on the printed line is the first
-table's: a table that reaches it after step 1 is not marked down.
+written as a word, loses the mark for the stage. The printed line is numbered "last", not by
+either table's count, so that both tables reach it.
 
 **§17, the spiral (unscored)**
 
@@ -1349,8 +1354,10 @@ slips before it opens: their back carries the ladder.
 operations of C; for D, four empty four-column frames, each headed "Derive, according to
 Pāṇini, …", with the two notes under (3) and (4); for E, the boxed text of 7.1.13 with its blank
 field, the bracket line of 7.1.12, the three options, and a frame whose last row is printed.
-The toolbox card of §15 (5) is a loose sheet: hand it out at minute 15, when task C begins, so
-that it is closed for tasks A and B. No anatomy card, no boxes, no operations table, no ladder.
+The toolbox card of §15 (5) is a loose sheet — number, text and English line, and on lesson 3's
+ten rows the bracket line lesson 3 printed; no other row carries one: hand it out at minute 15,
+when task C begins, so that it is closed for tasks A and B. No anatomy card, no boxes, no
+operations table, no ladder.
 The §8 Step 5 frame is not in the booklet: the learner fills it at home before the sitting (§21
 item 1).
 
@@ -1360,7 +1367,8 @@ kind of operation, not the ladder. The marker line under item 2 asks the markers
 fourteen sūtras; task A asks the markers of case endings. §13 prints none of the tasks' items:
 its worked items are नृपः, देवेभ्यः, राजन् before ङे, the augment of अगच्छत्, रामेण, रामेषु and
 the bracket line of 7.1.12. 7.1.13 is printed nowhere in §1–§17: the rule is unseen until task
-E prints it.
+E prints it. Task D (4)'s शृणोषि is item 6 of lesson 3's exercise 2, where it is sorted for ष or
+स and not derived: another task on the same form is not a worked answer.
 
 **Rubric and remediation:**
 
@@ -1380,49 +1388,56 @@ week with the alternative set below. Frame it as scheduling, not failure.
 
 **Retake item sets** (none is an item of today's Station 0).
 
-- *A′ (16 marks; pass 12).* (1) नरः · (2) वनम् · (3) देवैः · (4) सेवकेन · (5) राजभिः · (6)
-  बालकान् · (7) अग्नये · (8) देवानाम्. Key: (1) नर · सुँ · उँ; (2) वन · सुँ [→ अम्] · उँ — or,
-  read as the accusative, वन · अम् · none: both score; (3) देव · भिस् · none; (4) सेवक · टा ·
-  ट्; (5) राजन् · भिस् · none; (6) बालक · शस् · श्; (7) अग्नि · ङे · ङ्; (8) देव · आम् · none.
+- *A′ (16 marks; pass 12).* (1) नरः · (2) जलम् · (3) देवैः · (4) सेवकेन · (5) राजभिः · (6)
+  शशकान् · (7) अग्नये · (8) दण्डानाम्. Key: (1) नर · सुँ · उँ; (2) जल · सुँ [→ अम्] · उँ — or,
+  read as the accusative, जल · अम् · none: both score; (3) देव · भिस् · none; (4) सेवक · टा ·
+  ट्; (5) राजन् · भिस् · none; (6) शशक · शस् · श्; (7) अग्नि · ङे · ङ्; (8) दण्ड · आम् · none.
   Scoring as task A.
-- *B′ (12 marks; pass 8).* Before each ending, is the base राजन् strong, pada or bha, and why?
+- *B′ (12 marks; pass 8).* According to Pāṇini, before each ending, is the base राजन् strong,
+  pada or bha, and why?
   (1) सुँ · (2) भ्यस् · (3) टा · (4) अम् · (5) भिस् · (6) आम्. Key: (1) strong — one of the
   five; (2) pada — consonant-initial, not strong; (3) bha — once its ट् is gone, आ: a vowel; not
   strong; (4) strong — one of the five; (5) pada — consonant-initial, not strong; (6) bha —
   vowel-initial, not strong. Scoring as task B.
-- *C′ (12 marks; pass 8).* (1) अ + ए → ऐ in तत्रैव · (2) the अ at the front of अपठत् · (3) the इ
-  of ति, gone in अलिखत् · (4) ङसिँ → आत् in रामात् · (5) the न् of राजन्, gone in राजभिः · (6)
-  the ending after नमस्, gone. Key: (1) substitute — one vowel for both: 6.1.88 under the
-  heading 6.1.84; (2) augment — its ट् puts it at the beginning (6.4.71; 1.1.46); (3) deletion
-  — 3.4.100, with लोपः carried; (4) substitute — ङसिँ is named in the genitive, in 7.1.12; (5)
-  deletion — the word लोपः in 8.2.7; (6) deletion — luk, carried into 2.4.82. Scoring as task
-  C.
+- *C′ (12 marks; pass 8).* (1) अ + ए → ऐ in तत्रैव · (2) the अ at the front of अखादत् · (3) the
+  इ of ति, gone in अलिखत् · (4) ङसिँ → आत् in रामात् · (5) the अ of the अन् of राजन्, gone in
+  राज्ञा · (6) the प् of सुप्, gone in वनेषु. Key: (1) substitute — one vowel for both: 6.1.88
+  under the heading 6.1.84; (2) augment — its ट् puts it at the beginning (6.4.71; 1.1.46); (3)
+  deletion — 3.4.100, with लोपः carried; (4) substitute — ङसिँ is named in the genitive, in
+  7.1.12; (5) deletion — the word लोपः in 6.4.134, अल्लोपः; (6) deletion — the word लोपः in
+  1.3.9 तस्य लोपः. Scoring as task C.
 - *D′ (20 marks; pass 14).* "Derive, according to Pāṇini, each form in table form, each step
   with its sūtra (the toolbox card is open)." (1) नर + टा → नरेण [6 marks] · (2) देव + सुप् →
-  देवेषु [5 marks] · (3) राजन् + टा → राज्ञा [6 marks] · (4) करो- + सि → करोषि [3 marks], the stem
-  करो- given. Keys, each set out in the four-column table as in §19; marks in square brackets:
+  देवेषु [5 marks] · (3) नृप + भिस् → नृपैः [6 marks] · (4) अग्नि + सुप् → अग्निषु [3 marks].
+  Keys, each set out in the four-column table as in §19; marks in square brackets:
   - (1) 0 नर + टा · 1 नर + इन — 7.1.12 [अतः, 7.1.9]: the string and the sūtra [2] · 2 नरेन —
     6.1.87 [1] · 3–4 नरेण — 8.4.1 named [1]; the ए between र and न said, or 8.4.2 named [1] · 5
     the last line, नरेण in bold [1].
   - (2) 0 देव + सु — 1.3.3 · 1.3.9: the प् named as a marker [1] · 1 देवे + सु — 7.3.103: the
     string and the sūtra [2] · 2–3 देवे + षु, then देवेषु in bold — 8.3.59, the स् of an affix
     after ए, an इण् sound [2].
-  - (3) the table of l01 §13, derivation (c): 0 राजन् + टा · 1 राजन् + आ — the ट् of टा is a
-    marker, dropped [1] · 2 राजन् is bha — 1.4.18, or in words: आ is a vowel and टा is not strong
-    [1] · 3 राज्न् + आ — 6.4.134: the string and the sūtra [2] · 4 राज्ञा — 8.4.40 [owned]: न् →
-    ञ् in contact with ज् [1]; the last line in bold [1].
-  - (4) the table of l03 §13, derivation (c): 0 करो + सि · 1 करो + षि — 8.3.59 [1]; ओ is an इण्
-    sound and the स् belongs to the ending [1] · 2 the last line, करोषि in bold [1].
+  - (3) 0 नृप + भिस् · 1 नृप + ऐस् — 7.1.9: the string and the sūtra [2] · 2 नृपैस् — 6.1.88
+    [owned] [1] · 3 नृपै + रुँ — 8.2.66 [1] · 4–5 नृपै + र्, then नृपैः — the marker उँ dropped
+    and 8.3.15 [1] · the last line, नृपैः in bold [1].
+  - (4) 0 अग्नि + सु — the प् of सुप् a marker · 1 अग्नि + षु — 8.3.59 [1]; इ is an इण् sound and
+    the स् belongs to the ending [1] · 2 the last line, अग्निषु in bold [1].
   - Accept, and judge the order of steps, as in task D.
-- *E′ (8 marks; pass 5).* The same booklet text of 7.1.13 as in task E, with the options in
-  another order — (a) इन, from 7.1.12 (b) अतः, from 7.1.9 (c) टा, from 7.1.12 [2 marks] — and:
-  "Derive, according to Pāṇini, देवाय from देव + ङे. The last step belongs to a later lesson and
-  is printed for you; write the steps before it." [6 marks] The printed last line: 3 · देवाय in
-  bold · 7.3.102 सुपि च [preview: c06.l03] · the stem's अ is lengthened before the ending. Key:
-  (b) [2]; then 0 देव + ङे · 1 देव + ए — the ङ् of ङे is a marker, dropped: the string and the
-  reason [2] · 2 देव + य — 7.1.13 [अतः, 7.1.9]: the string and the sūtra [2] · the stage देव + य
-  left with its seam [1] and the printed step copied beneath it [1]. The table without a
-  marker line scores the same six, as in task E.
+- *E′ (8 marks; pass 5).* A rule the sitting did not print, so that the retake reads an unseen
+  rule as task E did: the booklet prints **7.1.14 सर्वनाम्नः स्मै** (sarvanāmnaḥ smai) —
+  padaccheda: सर्वनाम्नः [पञ्चमी: after a pronoun — सर्व and the words listed with it] · स्मै
+  [प्रथमा: the result, स्मै] — headings (data file): अङ्गस्य, 6.4.1 — carried (data file): अतः,
+  7.1.9; ______ — and beside it the rule before it, 7.1.13 ङेर्यः, with its bracket line
+  [carried (data file): अतः, 7.1.9 · headings (data file): अङ्गस्य, 6.4.1]. (1) "According to
+  Pāṇini, which word fills the blank? (a) यः, from 7.1.13 (b) ङेः, from 7.1.13 (c) भिसः, from
+  7.1.9" [2 marks] · (2) "Derive, according to Pāṇini, सर्वस्मै from सर्व + ङे." [6 marks] Key:
+  (1) (b) — 7.1.14 names what it follows, in the ablative, and its result, in the nominative,
+  but not what it replaces: the genitive ङेः, "in place of ङे", comes down from 7.1.13 (data
+  file: अतः, 7.1.9; ङेः, 7.1.13); (a) is 7.1.13's own result, and (c) is 7.1.9's, which 7.1.12
+  and 7.1.13 do not carry [2]. (2) 0 सर्व + ङे — the string [1] · 1 सर्व + स्मै — 7.1.14 [अतः,
+  7.1.9; ङेः, 7.1.13]: after a pronoun in short अ, ङे → स्मै: the string [2] and the sūtra [2] ·
+  2 **सर्वस्मै**, joined [1]. A table with a marker line first — 1 सर्व + ए, the ङ् of ङे dropped
+  — scores the same six, as in task E. सर्वस्मै is a cell of सर्व, which v3.c05.l02 declines from
+  the तद् table (1.1.27 सर्वादीनि सर्वनामानि, read there as TRADITION).
 
 **Scoring notes.** *Task A:* the affix as the sup list has it; a substitute alone (ऐस्, इन)
 does not score. *Task B:* the name and the reason are scored apart; "strong?" is the first
@@ -1434,12 +1449,13 @@ the marker line and without it — score alike; the stage must show its seam.
 
 **What the exam does not test.** No ◐ item: प्रकृतेः, पक्षिणः and the R2 frame are asked
 nowhere and stand as no option. No ○ form: of राजन्'s cells only राजभिः and राज्ञा are asked for
-(task A (5), task D (3); the retake's A′ (5) and D′ (3)); task B asks the name of the base, never
+(task A (5), task D (3); the retake's A′ (5) and C′ (5)); task B asks the name of the base, never
 the form, and no other cell of राजन्, आत्मा or स्वामी stands in a task, a quiz item or a key. No
 K card as a sūtra: 1.2.45, 1.1.43 and 1.1.51 are not asked by number or text; the sort of the
 strong endings is asked, as lesson 1 made it ✓. No Teacher-Notes sūtra. No legend, no SYMBOL
-content, no HISTORY item. TRADITION is asked only in the attributed frame: every derivation
-"according to Pāṇini", Q10 "According to Patañjali". Q3 is FACT, on the Whitney line §5 prints.
+content, no HISTORY item. TRADITION is asked only in the attributed frame: tasks A–C,
+task E (1) and every derivation "according to Pāṇini", Q10 "According to Patañjali". Q3 is
+FACT, on the Whitney line §5 prints.
 
 **Teacher-Notes sūtras** (learner text says "Teacher Notes" and prints no number, or prints the
 number as a labelled preview):
@@ -1486,10 +1502,13 @@ Points and pass marks are this chapter's: the plan gave none.
 
 **The toolbox card.** Its 43 rows are the tools of Chapter 1 (12) and of lessons 1–3 (13 + 8 +
 10), in number order; each English line is copied from the lesson that taught the rule, and
-each bracket from the lesson that printed it (for lesson 3's ten, 3.4.100 and 7.1.24, the line
-of the data file). The card holds no rule of Volume 3, no K card, and neither 7.1.13 nor
-7.3.102. In the data file's own order the carried words of 7.3.103 are अतः, दीर्घः, सुपि; the
-card prints them as lesson 3 does, the unused दीर्घः last.
+lesson 3's ten carry the bracket line of the data file as lesson 3 printed it. No other row
+carries a bracket line, so that the card does not say which words are carried into 2.4.82,
+3.4.100 and 7.1.24: in task C (3), (5) and (6) those carried words are what shows the
+operation. The card is in the learner's hands from minute 15, when task C begins, to the end of
+the sitting (the booklet, above). It holds no rule of Volume 3, no K card, and neither 7.1.13
+nor 7.3.102. In the data file's own order the carried words of 7.3.103 are अतः, दीर्घः, सुपि;
+the card prints them as lesson 3 does, the unused दीर्घः last.
 
 **What students find hard.** Task A's (3) and (8): the kept स् and म्; and (2), where the
 learner names अम् and forgets that the list's ending for the nominative is सुँ — both answers
@@ -1500,8 +1519,8 @@ and forget the visarga steps. Task E's (1): the pull of the rule just before, op
 
 **The completion moment.** Booklets closed, the class reads 8.4.2 aloud once together —
 अट्कुप्वाङ्नुम्व्यवायेऽपि — and then says what it does not say: "after र or ष, ण for न, in one
-word". Three lessons ago that was a rule with no न in it. Say the counts aloud: 16 words in the
-chapter, 537 in all, 43 tools. Chapter 2 is closed.
+word". In lesson 3, read alone, it named no न to be changed: its only न is that of नुम्. Say the
+counts aloud: 16 words in the chapter, 537 in all, 43 tools. Chapter 2 is closed.
 
 ## 23. AI Image Prompt
 
@@ -1536,11 +1555,11 @@ chapter, 537 in all, 43 tools. Chapter 2 is closed.
 > (Step · String · Sūtra · What happens) of seven, five, seven and four rows, each headed
 > "Derive, according to Pāṇini, …", with the two printed notes under (3) and (4), "14 min — card
 > open". Page 6: task E, the boxed text of 7.1.13 with its blank field, the bracket line of
-> 7.1.12, the three options, and a four-column frame of four rows whose last row is printed: "3 ·
+> 7.1.12, the three options, and a four-column frame of four rows whose last row is printed: "last ·
 > रामाय · 7.3.102 सुपि च [preview: c06.l03] · the stem's अ is lengthened before the ending", "8 min
 > — card open". Loose sheet, handed out when task C begins: the toolbox card of §15 (5), 43 rows
-> in number order — number, text, English line, bracket. No keys, no anatomy card, no boxes, no
-> operations table, no ladder, no §8 Step 5 frame.
+> in number order — number, text, English line, and the bracket line of lesson 3's ten. No keys,
+> no anatomy card, no boxes, no operations table, no ladder, no §8 Step 5 frame.
 
 `v4c02l04-quiz.md` mirrors §19's ten questions; its key lives only in `v4c02l04-quiz-key.md`.
 
@@ -1575,7 +1594,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   rājabhiḥ [ɾɑːd͡ʑɐbʱih]. Before ā, a vowel, it is bha: rājñā [ɾɑːd͡ʑɲɑː]."
 - **02:30** — "A rule may replace, add or delete: ādeśa [ɑːd̪eːɕɐ], āgama [ɑːgɐmɐ], lopa
   [loːpɐ]. guṇa [guɳɐ] and vṛddhi [ʋr̩d̪d̪ʱi] only replace."
-- **03:20** — "A rule borrows its words from the rule above it: anuvṛtti [ɐn̪uʋr̩t̪t̪i]. After r,
+- **03:20** — "A rule borrows words from rules above it: anuvṛtti [ɐn̪uʋr̩t̪t̪i]. After r,
   n becomes ṇ, even across a vowel or a labial."
 - **04:20** — "Forty-three tools on one card. You do not recite their numbers. You say which
   one takes each step."
@@ -1613,9 +1632,9 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 - **Related lessons:** consolidates v4.c02.l01–l03; derives again the first join of
   v4.c01.l04's task D and reads again the thread verse of v1.c06.l04, read for its seams in
   v4.c01.l04 §17. Feeds v4.c03.l01 (S0-dg; S0-df from l03; 3.4.78 and the verb's endings),
-  v4.c03.l02 (S0-dh; 1.3.8; the stems शृणो- and करो-), v4.c03.l06 (the spiral derives रामेण
-  again; the next thread verse), v4.c05.l03 (the राजन् table whole), v4.c06.l03 (7.3.102,
-  1.1.56, 8.2.1).
+  v4.c03.l02 (S0-dh; 1.3.8), v4.c03.l03 (the stems शृणो- and करो-), v4.c03.l06 (the spiral
+  derives रामेण again; the next thread verse), v4.c05.l03 (the राजन् table whole), v4.c06.l03
+  (7.3.102, 1.1.56, 8.2.1).
 - **Verified pointers (opened at drafting):** l01 §5, §8 Steps 3–5, §9 Drill 1, §12 mistakes 2,
   4 and 5, §13 (derivations (a), (b), (d), the model फलम्, the राजन् table and its two readings),
   §15 (the anatomy card, the ending-marker line and *sup*, the three boxes, the paradigm
@@ -1629,7 +1648,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   two phrases quoted in §1 and §8).
 - **Editorial decisions (resolved at drafting):** (1) objective 2's Hindi prints the three names
   between dashes, not in a parenthesis after a Devanagari word; (2) task E (1)'s second option
-  is भिसः, the genitive as v4.c01.l03 printed it, where the fact base writes भिस; (3) task E
+  is भिसः, the genitive as v4.c01.l03 printed it, as the fact base now does; (3) task E
   (2)'s key accepts two tables — with a marker line, as the fact base keys it, and without one,
   as lesson 3's रामेण and lesson 1's फलम् replace a whole ending — and both score six; (4) §12
   mistake 6 takes its example from 7.1.12 (lesson 3), not from 7.1.13, so that no section before
@@ -1637,11 +1656,13 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   included, and the one review prompt for v4.c01.l04 is the last line of item 2's slip; (6) §21
   item 3's four minutes hold §16 and the nine lines of §6; §21 item 7 is one remediation
   exercise for the lowest-scoring task, unconditional, as in the Chapter 1 exam; (7) the
-  toolbox card prints each tool's English line as its lesson worded it, and the lesson's
-  bracket where there is one; (8) the quiz options were ordered for the spread of keys — c a c d
+  toolbox card prints each tool's English line as its lesson worded it, and lesson 3's ten
+  with the bracket line lesson 3 printed; no other row carries a bracket line, so that the card
+  does not say which words are carried into 2.4.82, 3.4.100 and 7.1.24, the signs of task C (3),
+  (5) and (6); (8) the quiz options were ordered for the spread of keys — c a c d
   b b d a d c; (9) §17 (a) is a task, and its table is a key in §19; (10) task D (4)'s stem is
-  marked "[Chapter 3]": lesson 3 gives c03.l03 for करो- in §13 and c03.l02 for both stems in
-  its §27; (11) task D's key defines "out of order" and accepts 8.2.66 before 8.2.7 in (3).
+  marked "[c03.l03]", as lesson 3 marks करो- in §8 Step 6 and §13 and both stems in §27;
+  (11) task D's key defines "out of order" and accepts 8.2.66 before 8.2.7 in (3).
 - **Export notes:** task keys A–E, the quiz key and the §17 key stay in §19's `<details>`; the
   Station 0 key in §3's. The retake sets of §22 export as `examiner_only`. The title
   द्वितीयपरीक्षा, अनुवर्तन्ते and the words of the thread verse export as `display_only`. The
@@ -1656,8 +1677,8 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   7.1.9) and `ad` (अङ्गस्य, 6.4.1) fields; every bracket of the card against lesson 3 §8 and
   the data file; every English line of the card against its lesson, letter for letter; the
   Kāśikā lines of §22 at their line numbers (7.1.13: 67242–67247, no correction; 7.1.12:
-  67216–67219 and 67226–67227 — the e-text reads *uttareṣām*, lesson 3's Teacher Notes print
-  *uttareṣāṃ*; 7.3.103: 74126–74135, one correction); the Whitney lines of §5 against the
+  67216–67219 and 67226–67227 — the e-text reads *uttareṣām*, and lesson 3's Teacher Notes
+  print it so; 7.3.103: 74126–74135, one correction); the Whitney lines of §5 against the
   local text (§421, §424, §235 — printed "255" there —, §189, §180), each a quotation the
   lessons already carry, §235's with an ellipsis for Whitney's gloss of guṇa, which is quoted
   once, in lesson 2; the thread verse against v1.c06.l04 and v4.c01.l04; every joined line of

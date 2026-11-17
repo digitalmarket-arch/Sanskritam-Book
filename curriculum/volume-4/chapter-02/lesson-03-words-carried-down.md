@@ -94,7 +94,7 @@ earlier ones [REF:cepeda2006].
 
 **Item 1 — from v4.c02.l02.** Lesson 2 booked today's first station in one line:
 
-- +1 day: eight operations labelled — say whether each is a substitute (आदेशः), an augment (आगमः) or a deletion (लोपः), and name its sūtra: (1) अ + उ → ओ in सूर्योदयः (2) अ + ए → ऐ in तत्रैव (3) the अ at the front of अगच्छत् (4) the इ of ति in अगच्छत् (5) सुँ → अम् in फलम् (6) the ट् of अट् in अगच्छत् (7) the उँ of सुँ in रामः (8) ओ → अव् in भवति; v4.c02.l03's Station 0 runs exactly this.
+- +1 day: eight operations labelled — say whether each is a substitute (आदेशः), an augment (आगमः) or a deletion (लोपः), and name its sūtra: (1) अ + उ → ओ in सूर्योदयः; (2) अ + ए → ऐ in तत्रैव; (3) the अ at the front of अगच्छत्; (4) the इ of ति in अगच्छत्; (5) सुँ → अम् in फलम्; (6) the ट् of अट् in अगच्छत्; (7) the उँ of सुँ in रामः; (8) ओ → अव् in भवति; v4.c02.l03's Station 0 runs exactly this.
 
 Four minutes, alone, on paper: eight lines — the number, the kind of operation, the sūtra. Then
 swap papers with a partner and mark against the key.
@@ -454,7 +454,9 @@ else comes from above. Say it complete: "In place of स् that is a substitute
 affix, after an इण् sound or the k-row, not at the end of a word, a retroflex comes." Which
 retroflex? The one nearest to स्: ष् [1.1.50, your tool since Chapter 1]. The sūtra numbers
 8.3.56 and 8.3.58 are printed only as the sources of carried words; their own texts are in
-Teacher Notes.
+Teacher Notes. शर्, in the words carried from 8.3.58, is a pratyāhāra Chapter 1 did not open:
+from the श of शषसर् to its marker र् — श ष स, the sibilants. Like num, it plays no part in
+today's forms.
 
 That is the second staircase: 8.3.55 at the top, 8.3.57 below it, 8.3.59 below both. A heading
 is a step that every rule below it stands on.
@@ -692,8 +694,8 @@ All of §18 exercise 3 is homework, in the same table form; the keys are in §19
 3. **Derive, according to Pāṇini, गुरु + सुप् → गुरुषु.**
 4. **Derive, according to Pāṇini, नदी + सुप् → नदीषु.**
 5. **Derive, according to Pāṇini, फल + सुप् → फलेषु.**
-6. **Derive, according to Pāṇini, गच्छ- + लङ् [1pl] → अगच्छाम** — the stem गच्छ- given; the
-   model is in §15.
+6. **Derive, according to Pāṇini, गच्छ- + लङ् [1pl] → अगच्छाम** — the stem गच्छ- given; read
+   the model in §15 first, then derive it with §15 covered.
 
 Write Step · String · Sūtra; the gloss in "What happens" is optional before Chapter 6.
 
@@ -755,7 +757,7 @@ track).
 | अधिकारः | adhikāraḥ | /ɐd̪ʱikɑːɾɐh/ | heading [in a grammar]; authority, right | अधिकार | ledger-new — m. a-stem, like रामः — MW s.v. adhi-kāra "authority", "(in Gr.) government, a governing-rule (the influence of which over any number of succeeding rules is called anu-vṛtti)"; Apte s.v. अधिकारः 1 "Superintendence …" |
 | समानः | samānaḥ | /sɐmɑːn̪ɐh/ | same, equal | समान | ledger-new — adj. -ना -नम्; the समान of 8.4.1 समानपदे — MW s.v. samāna "same, identical, uniform, one", "alike, similar, equal"; Apte s.v. समान "Same, equal, like" |
 | निमित्तम् | nimittam | /n̪imit̪t̪ɐm/ | cause, occasion; sign | निमित्त, कारण | ledger-new — n. a-stem, like फलम् — MW s.v. nimitta "cause, motive, ground, reason", "sign, omen"; Apte s.v. निमित्तं 1 "A cause, motive, ground, reason"; the Kāśikā's *nimittanimittinau* under 8.4.1; Hitopadeśa 1.158 *nimittaṃ kiñcid āsādya* |
-| कारणम् | kāraṇam | /kɑːɾɐɳɐm/ | cause, reason | कारण | ledger-new — n. a-stem — MW s.v. kāraṇa "cause, reason, the cause of anything"; Apte s.v. कारणं 1 "A cause, reason"; Hitopadeśa 1.27 *lobhaḥ pāpasya kāraṇam*; 21 tokens in the DCS Hitopadeśa; its own ण is a ṇatva — र, then अ, then न: 8.4.1–2 |
+| कारणम् | kāraṇam | /kɑːɾɐɳɐm/ | cause, reason | कारण | ledger-new — n. a-stem — MW s.v. kāraṇa "cause, reason, the cause of anything"; Apte s.v. कारणं 1 "A cause, reason"; Hitopadeśa 1.27 *lobhaḥ pāpasya kāraṇam*; 21 tokens of the lemma in the Hitopadeśa, counted by the course from the DCS's lemma tags [REF:dcs]; its own ण is a ṇatva — र, then अ, then न: 8.4.1–2 |
 
 Three notes. अनुवृत्तिः is a feminine i-stem: you use it in the nominative, accusative and
 instrumental, the cells Volume 3 made yours; its other cells are not used in this chapter.
@@ -963,13 +965,13 @@ tradition.
 In Varadarāja's Laghusiddhāntakaumudī (c. 17th century [REF:laghukaumudi]), a beginner's grammar
 of the tradition, these rules come where you have met them too: in the declension of राम. It
 reads 8.4.2 and 8.4.37 at रामान्, then 7.1.12 for रामेण — and its comment ends *ṇatvam*, "the
-ṇ-rule", and *rāmeṇa*; it reads 8.3.59 for रामेषु [REF:laghukaumudi on 7.1.12];
-[REF:laghukaumudi on 8.3.59].
+ṇ-rule", and *rāmeṇa*; it reads 8.3.59 for रामेषु [REF:laghukaumudi on 8.4.2];
+[REF:laghukaumudi on 8.4.37]; [REF:laghukaumudi on 7.1.12]; [REF:laghukaumudi on 8.3.59].
 
 So the book does what you did today: it declines राम, and when a cell needs a rule, it stops
 and reads the rule. Its comment on 8.4.2 even writes out the words the sūtra does not say — the
-ण, the न, "after र or ष", "in one word" — as the bracket line did for you. Chapter 6 opens the
-same book.
+ण, the न, "after र or ष", "in one word" — as the bracket line did for you
+[REF:laghukaumudi on 8.4.2]. Chapter 6 opens the same book.
 
 ## 18. Exercises
 
@@ -979,7 +981,8 @@ exercises 3, 4, 5 and 6 are homework (§21, §22). All keys sit in §19's collap
 1 follows the sort of §8 Step 5: do it with that page closed.
 
 **अभ्यासः 1 · ण or न? (objective 1; in class, 4 minutes, after the two-minute sort of §8 Step
-5).** Say why: the trigger, what stands between, the end of the word. On the worksheet
+5).** According to Pāṇini, say why: the trigger, what stands between, the end of the word.
+On the worksheet
 (`planned:assets/worksheets/volume-4/v4c02l03-n-or-n.pdf`).
 
 1. गुरुणा
@@ -989,7 +992,7 @@ exercises 3, 4, 5 and 6 are homework (§21, §22). All keys sit in §19's collap
 5. रामान्
 6. कृष्णेन
 
-**अभ्यासः 2 · ष or स? (objective 2; in class, 4 minutes).** Say why.
+**अभ्यासः 2 · ष or स? (objective 2; in class, 4 minutes).** According to Pāṇini, say why.
 
 1. नदीषु
 2. बालिकासु
@@ -1016,8 +1019,9 @@ aloud).** In Sanskrit, joined, with the pause form beneath:
 5. "In nadīṣu the s becomes retroflex."
 6. "The cause of the ṣ is the e." — said of रामेषु.
 
-**अभ्यासः 5 · the rule in full (objective 3; homework, 6 minutes).** Say each rule in full in
-English, with the words in its bracket line, and name the heading it stands under: (1) 7.1.12;
+**अभ्यासः 5 · the rule in full (objective 3; homework, 6 minutes).** According to Pāṇini, say
+each rule in full in English, with the words in its bracket line, and name the heading it
+stands under: (1) 7.1.12;
 (2) 8.4.2; (3) 8.4.37; (4) 7.3.103; (5) 8.3.59; (6) 7.1.24. The bracket lines are in §8 Steps
 3–4.
 
@@ -1035,8 +1039,8 @@ mid-quiz.
    (d) the म
 2. According to Pāṇini (8.4.1), समानपदे means: (a) before the same word; (b) in place of a
    word; (c) after a word; (d) within one and the same word
-3. According to Pāṇini, रथेन keeps न because: (a) it has no र; (b) थ stands between, and 8.4.2
-   does not allow it; (c) the न is word-final; (d) its ending is different
+3. According to Pāṇini, रथेन keeps न because: (a) it has no र; (b) थ stands between, and it is none
+   of the sounds that may stand between; (c) the न is word-final; (d) its ending is different
 4. According to Pāṇini, the final न् of रामान् stays because of: (a) 8.4.2
    अट्कुप्वाङ्नुम्व्यवायेऽपि; (b) 7.1.12 टाङसिङसामिनात्स्याः; (c) 8.4.37 पदान्तस्य; (d) 8.3.59
    आदेशप्रत्यययोः
@@ -1049,7 +1053,7 @@ mid-quiz.
 8. According to Pāṇini, बालिकासु keeps स because: (a) आ is not an इण् sound; (b) the स् is not part
    of an affix; (c) the word is feminine; (d) the स् is word-final
 9. According to Pāṇini, the ष of करोषि comes from: (a) the root कृ; (b) the ओ before the स् of the
-   ending, by 8.3.59; (c) the र of the stem; (d) a marker
+   ending; (c) the र of the stem; (d) a marker
 10. According to Whitney, which consonant standing between r and n stops the change to ṇ? (a) a
     dental; (b) a labial; (c) a guttural; (d) y
 
@@ -1072,7 +1076,7 @@ mid-quiz.
    बालिकासु keeps स after आ.)
 8. (a) — इण् leaves out अ and आ — §8 Steps 4 and 5. ((b): the स् of सु is the affix's; (d):
    the उ follows it.)
-9. (b) — the स् of the ending सि after ओ, an इण् sound (§13 derivation (c)). ((a) is §12
+9. (b) — the स् of the ending सि after ओ, an इण् sound: 8.3.59 (§13 derivation (c)). ((a) is §12
    mistake 6.)
 10. (a) — FACT, Whitney §189, quoted in §5 [REF:whitney1889 §189]: a palatal (except y), a
     lingual or a dental. ((b), (c) and (d) do not stop it.)
@@ -1190,13 +1194,13 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 गृहकार्यम् — 45 minutes in all.
 
-1. **(12 min)** §18 exercise 3: the six derive-it-yourself items in table form, with the bracket
-   lines.
+1. **(2 min)** §15: read derivation (d), अगच्छाम, the step of 3.4.99; then cover it.
 2. **(8 min)** §18 exercise 4: the six sentences written, joined, the pause form beneath; then
    said aloud.
 3. **(6 min)** §18 exercise 5: six rules said in full, with their headings.
 4. **(2 min)** §18 exercise 6: 8.4.1 and the five forms aloud, recorded.
-5. **(2 min)** §15: read derivation (d), अगच्छाम, the step of 3.4.99.
+5. **(12 min)** §18 exercise 3: the six derive-it-yourself items in table form, with the bracket
+   lines — item (6) with §15 covered.
 6. **(4 min)** §16 aloud, both roles, joined, no pause at any seam.
 7. **(1 min)** §17 read.
 8. **(6 min)** The §19 quiz, from memory.
@@ -1457,7 +1461,7 @@ reads the cue, not the English spelling.
   फलेषु, रामान्; §3 prompt 2), v3.c02.l02 (बालिकासु; §3 prompt 2), v3.c04.l04 (the four changes "named here, taught in Volume 4"; §3 prompt
   3), v2.c04.l02 and v2.c04.l03 (शृणोषि, करोषि; §3 prompt 4); builds on v3.c01.l04 (the ṇ of
   रामेण, "the rule behind it waits for Volume 4"), v3.c02.l02–l04 (नदीषु, गुरुषु, गुरुणा; पितॄणाम्, मातॄणाम् read whole),
-  v3.c03.l03 (अगच्छाम), v4.c01.l01 (झल्; how a pratyāhāra is opened, used for अट् in §8 Step 3), v4.c01.l02 (इण्; कु and पु as उदित्), v4.c01.l03 (the case code;
+  v3.c03.l03 (अगच्छाम), v4.c01.l01 (झल्; how a pratyāhāra is opened, used for अट् in §8 Step 3 and for शर् in §8 Step 4), v4.c01.l02 (इण्; कु and पु as उदित्), v4.c01.l03 (the case code;
   the promise "how words are carried: c02.l03"); feeds v4.c02.l04 (Station 0: the ṇ/no-ṇ sort;
   exam tasks D and E), v4.c03.l01 (Station 0: derive रामेषु; 3.4.78), v4.c03.l02 (the stem गच्छ-),
   v4.c03.l03 (the stems करो-, शृणो-), v4.c04.l01 (8.2.30), v4.c05.l03 (वाच्'s cells, वाक्षु), v4.c06.l02 (the Kāśikā line of 8.4.1), v4.c06.l03 (8.2.1;

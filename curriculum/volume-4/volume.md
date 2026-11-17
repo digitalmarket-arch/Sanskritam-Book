@@ -84,8 +84,8 @@ scripts it cites are kept in `research/evidence/vol4-plan/`.
 | 5 | प्रयोगाः विभक्तिविस्तारश्च — Voices & Case in Depth | 5 | the passive and the impersonal; the causative and the case of the one made to act; the consonant stems as one system, with the numerals; the kāraka map and the locative absolute | 617 |
 | 6 | सूत्रपाठः — Reading Real Sūtras | 4 | definitions, operations and meta-rules read with the Kāśikā and the Laghusiddhāntakaumudī; the Volume 4 exam, in two sittings, with भू → भवति derived by the learner | 627 |
 
-The exit figures are the plan's (§3) and stay planned figures until each chapter ships; 521 is
-reached, at the review of Chapter 1.
+The exit figures are the plan's (§3) and stay planned figures until each chapter ships; 521 and
+537 are reached, at the reviews of Chapters 1 and 2.
 
 **Chapter 1, as delivered** (reviewed 2026-11-13). Four lessons: the fourteen sūtras and the
 pratyāhāra (1.1.71; the marker, 1.3.3 and 1.3.9); savarṇa and tapara (1.1.69, 1.1.9, 1.1.70);
@@ -104,6 +104,26 @@ TRADITION, labelled, never assessed (IR-036). The first step of the भवति
 भो + अति → भवति, by 6.1.78 with 1.3.10. Station 0 enters Volume 4 as Volume 3 booked it:
 v4.c01.l01 runs the Volume 3 exam's +1-day item and v3.c06.l04's +1-week item; v4.c01.l02 runs
 the exam's +1-week item.
+
+**Chapter 2, as delivered.** Four lessons: base and affix (3.1.1, 3.1.2; the nasal-vowel marker,
+1.3.2; the ending-marker line; *sup* as a pratyāhāra) and the three names of the base, aṅga,
+pada and bha (1.4.13, 1.4.17, 1.4.18), with रामः, फलम्, नमः and नमस्ते, राजभिः and राज्ञा derived
+and the 1.x rājan card corrected; substitute, augment and deletion (1.1.46, 1.1.60, 6.1.84),
+with guṇa and vṛddhi defined as names of vowels (1.1.1–3), सूर्योदयः and अगच्छत् derived, and
+IR-021 and the rest of the p. 89 card corrected; words carried down and headings (6.4.1, 8.3.55,
+8.3.57) on ṇatva and ṣatva (8.4.1–2, 8.4.37, 8.3.59), with रामेण, रामेषु and करोषि derived, the
+bracket line switched on and IR-016 corrected; the Chapter 2 exam, one 45-minute sitting with
+Station 0 outside it, after which नास्ति is derived again and the benediction re-read for its ण
+and its final ः. The first reference cards (K), never assessed: 1.2.45, 1.1.43, 1.1.51. The
+toolbox after Chapter 2 holds 43 tools (13 · 8 · 10 · 0 added). The ledger stands at 537 (16
+ledger-new: 521 → 527 → 532 → 537 → 537). The नमस्ते thread is concluded: according to Pāṇini
+the स् of नमस्ते is a substitute for the visarga (8.3.34). The भवति thread gains 3.1.1–2, 1.3.2
+and 1.4.13 in lesson 1, guṇa as a substitute in lesson 2 — भू → भो, the rule that orders it,
+7.3.84, being c03.l02's — and the heading 6.4.1 in lesson 3. The grammarians' line: Kātyāyana
+and Patañjali, with the Mahābhāṣya's statement of grammar's purposes and its sentence on
+deletion, augment and the change of sounds, and Varadarāja's Laghusiddhāntakaumudī at the
+declension of राम. Station 0 leaves the chapter as booked: v4.c03.l01 runs the exam's +1-day
+item and lesson 3's +1-week item; v4.c03.l02 runs the exam's +1-week item.
 
 ## Entry and exit
 

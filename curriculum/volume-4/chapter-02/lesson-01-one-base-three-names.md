@@ -12,7 +12,7 @@ lesson: 1
 lesson_type: grammar
 cefr: B1
 duration_minutes: 45
-self_study_minutes: 45
+self_study_minutes: 48
 prerequisites: [v4.c01.l04]
 review_of: [v4.c01.l04, v4.c01.l03, v3.c01.l05, v3.c01.l04, v1.c05.l02]
 objectives:
@@ -78,11 +78,11 @@ in §8 Steps 5–6 and §13, tested in §18 (exercises 2 and 5) and §19 (Q7–Q
 ## 3. Previous Lesson Review
 
 पुनरावृत्तिः — Station 0 first: two clocks come due today, the Chapter 1 exam's +1-day and
-lesson 3's +1-week. Then three memory prompts, one for each older lesson today's forms reach back
+v4.c01.l03's +1-week. Then three memory prompts, one for each older lesson today's forms reach back
 to. Everything from memory *before* any key opens: in the one claim this course makes for it,
 retrieval practice beats re-reading for long-term retention [REF:roediger2006].
 
-### Station 0 — the exam's +1-day and lesson 3's +1-week arrive
+### Station 0 — the Chapter 1 exam's +1-day and v4.c01.l03's +1-week arrive
 
 Two bookings, run in the order they fall due, seven minutes in all, scores logged beside the
 earlier ones [REF:cepeda2006].
@@ -94,7 +94,7 @@ earlier ones [REF:cepeda2006].
 Three minutes, alone, on paper: the fourteen lines in order, and a circle round the last sound of
 each. Then swap papers with a partner and mark against the key.
 
-**Item 2 — from v4.c01.l03.** Lesson 3 booked its +1-week for today:
+**Item 2 — from v4.c01.l03.** Chapter 1's lesson 3 booked its +1-week for today:
 
 - +1 week: the case code again — circle what is replaced and arrow the context in 6.1.77 इको यणचि, 6.1.78 एचोऽयवायावः, 7.1.9 अतो भिस ऐस् and 7.3.101 अतो दीर्घो यञि, then derive, according to Pāṇini, देव + भिस् → देवैः in table form; v4.c02.l01's Station 0 runs exactly this.
 
@@ -111,7 +111,9 @@ gets its two rules.
   carried. 7.1.9: circle भिसः [genitive], arrow from अतः [ablative: after short अ]. 7.3.101: circle
   अतः [genitive: short अ], arrow to यञि [before]. Then: 0 देव + भिस् · 1 देव + ऐस् — 7.1.9 · 2
   देवैस् — 6.1.88 [आत्] · 3 **देवैः** — 8.2.66 + 8.3.15 (a preview in Chapter 1; today both are D
-  tools, §13). Score /4 for the rules, /3 for the derivation steps.
+  tools, §13). Score /4 for the rules, /3 for the derivation steps. Step 3 scores as you wrote it
+  in Chapter 1: 8.2.66 and 8.3.15 are not asked by number before §13 gives them, and 7.1.9, a
+  D-tier rule, may be named by its gist — a D sūtra is never recalled by number.
 </details>
 
 ### The prompts
@@ -956,7 +958,7 @@ Chapter 1 began the line with Pāṇini and the teachers he names. Today, those 
 
 > **[HISTORY · इतिहासः]** Kātyāyana wrote short notes on Pāṇini's rules, the vārttikas; Patañjali's
 > Great Commentary, the Mahābhāṣya (c. 2nd century BCE on the usual estimate), discusses Pāṇini's
-> rules and Kātyāyana's notes together [REF:mahabhashya]; [REF:cardona1997].
+> rules and Kātyāyana's notes together [REF:mahabhashya].
 
 On its first page the Mahābhāṣya asks: what is grammar for? Its answer, in one line:
 
@@ -989,19 +991,21 @@ saying sentences), 6 is spoken, 1 and 3 read and sort. Exercises 1 and 3 are don
 exercises 2, 4, 5 and 6 are homework (§21, §22). All keys sit in §19's collapsed key — nothing is
 answered on this page.
 
-**अभ्यासः 1 · take it apart (objective 1; in class, 4 minutes).** Take each form apart: base ·
+**अभ्यासः 1 · take it apart (objective 1; in class, 4 minutes).** According to Pāṇini, take each
+form apart: base ·
 affix, as the sup list has it · marker or markers, if any. (1) देवः; (2) फलम्; (3) रामैः; (4) नृपेण;
 (5) बालकान्; (6) देवानाम्.
 
 **अभ्यासः 2 · Derive, according to Pāṇini, … (objective 3; production, written; homework, 10
 minutes).** In table form — Step · String · Sūtra; the gloss is optional — derive, according to
-Pāṇini: (1) फल + सुँ → फलम्; (2) वन + सुँ → वनम्; (3) देव + सुँ → देवः; (4) नृप + सुँ → नृपः. Then
+Pāṇini: (1) फल + सुँ → फलम् — §13's model, written with §13 covered; (2) वन + सुँ → वनम्; (3) देव + सुँ → देवः; (4) नृप + सुँ → नृपः. Then
 write the missing step, with its sūtra: (5) राजभिः — given steps 0, 1, 3, 4, 5 of §13 derivation
 (b); (6) राज्ञा — given steps 0, 1, 2, 4 of §13 derivation (c).
 
 **अभ्यासः 3 · three boxes (objective 2; in class, 6 minutes, book closed).** On the worksheet
-(`planned:assets/worksheets/volume-4/v4c02l01-three-boxes.pdf`), with §13 and §15 covered: put each
-ending of राजन् into its box — strong, pada, bha — and write under each box the rule it sets off:
+(`planned:assets/worksheets/volume-4/v4c02l01-three-boxes.pdf`), with §13 and §15 covered:
+according to Pāṇini, put each ending of राजन् into its box — strong, pada, bha — and write
+under each box the rule it sets off:
 सुँ, औ, जस्, अम्, भ्याम्, भिस्, भ्यस्, सुप्, शस्, टा, ङे, ङि. The forms themselves are not asked:
 the table of §13 is display.
 
@@ -1013,7 +1017,7 @@ affix."
 
 **अभ्यासः 5 · the स् of नमस्ते, explained (objective 3; production, written; homework, 4 minutes).** Derive,
 according to Pāṇini, नमः + ते → नमस्ते — steps 5–7 of §13 derivation (d), in table form — and say
-in one English sentence what the स् of नमस्ते is.
+in one English sentence what, according to Pāṇini, the स् of नमस्ते is.
 
 **अभ्यासः 6 · रामः aloud (§9; spoken; homework, 2 minutes, recorded).** Read the table राम + सुँ →
 रामः aloud, line by line, naming each marker without pronouncing it in the result (§9 Drill 1).
@@ -1029,14 +1033,14 @@ mid-quiz.
 2. According to Pāṇini (1.3.2), in सुँ the marker is: (a) स्; (b) उँ; (c) both; (d) neither
 3. According to Pāṇini, in the ending भिस् the marker is: (a) भ्; (b) स्; (c) इ; (d) there is none
 4. According to Pāṇini, before भिस् the base राजन् is called: (a) strong (b) pada (c) bha (d)
-   prātipadika only
+   aṅga only
 5. According to Pāṇini, before टा the base राजन् is called: (a) strong (b) pada (c) bha (d) none
 6. According to Pāṇini, in 1.4.18 यचि भम्, यचि means: (a) before an ending that begins with य or a
    vowel (b) before an ending that begins with a sibilant and a vowel (c) after य; (d) in place of य
 7. The instrumental plural of राजन् is: (a) राजैः; (b) राजभिः; (c) राज्ञभिः; (d) राजानभिः
 8. The instrumental singular of राजन् is: (a) राजना; (b) राजेन; (c) राज्ञा; (d) राजा
 9. According to Pāṇini, the स् of नमस्ते is: (a) the स् of the stem नमस्, kept (b) the स् of the
-   ending सुँ, kept (c) part of ते; (d) a substitute for the visarga (8.3.34)
+   ending सुँ, kept (c) part of ते; (d) a substitute for the visarga
 10. According to Patañjali, one purpose of studying grammar is: (a) asandeha, freedom from doubt
     (b) speed in reading (c) learning to write Devanagari (d) dating the Veda
 
@@ -1050,6 +1054,8 @@ mid-quiz.
 3. (d) — the final स् of a case ending is kept: the ending-marker line (§8 Step 3, §15),
    TRADITION. ((b) is §12 mistake 4.)
 4. (b) — भिस् begins with a consonant and is not strong: 1.4.17 (§13 derivation (b)), TRADITION.
+   ((d): the base is aṅga before every affix, 1.4.13, but not aṅga only — before भिस् it is also
+   pada, the name that sets off 8.2.7: §8 Step 4.)
 5. (c) — once its ट् is gone, टा begins with the vowel आ, and it is not strong: 1.4.18 (§13
    derivation (c)), TRADITION. ((b) reads टा by its marker ट्, a consonant: the ending-marker line.)
 6. (a) — यच् = य + अच्: §8 Step 4, TRADITION. ((b) is the 1.x card's gloss, §12 mistake 3.)
@@ -1132,8 +1138,8 @@ the joined सेवको गच्छति in (5). Score /12: one for each jo
 | 6 | नमः + ते | 8.3.15 | from नमर् + ते: before त्, a khar sound, also a visarga |
 | 7 | **नमस्ते** | 8.3.34 विसर्जनीयस्य सः | the visarga → स् before a khar sound |
 
-The sentence: "The स् of नमस्ते is a substitute for the visarga (8.3.34), not the stem's स्." Score
-/4: one per step, one for the sentence.
+The sentence: "According to Pāṇini, the स् of नमस्ते is a substitute for the visarga (8.3.34),
+not the stem's स्." Score /4: one per step, one for the sentence.
 
 6: the readings of §9 Drill 1. Self-check against the audio track
 `planned:assets/audio/volume-4/v4c02l01-derivations-read.mp3`; not scored.
@@ -1161,7 +1167,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — 45 minutes in all.
+गृहकार्यम् — 48 minutes in all.
 
 1. **(10 min)** §18 exercise 2: फलम्, वनम्, देवः, नृपः derived in table form; the two missing
    steps.
@@ -1171,13 +1177,14 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 4. **(2 min)** §18 exercise 6: रामः read aloud as a derivation, recorded.
 5. **(2 min)** §15: the anatomy card and the three boxes, read once; then राजा [§13, display] read
    down its table.
-6. **(4 min)** §16 aloud, both roles, joined, no pause at any seam.
+6. **(7 min)** §16 aloud, both roles, joined, no pause at any seam; then the six model sentences
+   of §6 and §13, each joined and then in its pause form.
 7. **(3 min)** §17 read: the HISTORY callout and the Paspaśāhnika line, joined and in pause form.
 8. **(7 min)** The §19 quiz, from memory.
 9. **(2 min)** The key (§19): check the quiz and every exercise, including 1 and 3 from class.
    Every wrong answer sends you to the § named beside it.
-10. **(3 min, real world)** Explain to a Hindi speaker, in Hindi, why नमस्ते has स् and नमः has ः —
-    नमः + ते, and the visarga replaced by स्.
+10. **(3 min, real world)** Explain to a Hindi speaker, in Hindi, why, according to Pāṇini, नमस्ते
+    has स् and नमः has ः — नमः + ते, and the visarga replaced by स्.
 
 ## 22. Teacher Notes
 
@@ -1188,14 +1195,14 @@ the ending in रामः? And these three — one word or three?" Do not answe
 until derivation (a) and the three names.
 
 **Timing plan (45 min):** 0–7 Station 0, two items: the fourteen written (3), the case code again
-(4) · 7–9 the three §3 prompts, aloud (2) · 9–11 the Hook: रामः; राजा, राजभिः, राज्ञा — 2 · 11–17
-base, affix, marker: 3.1.1, 3.1.2, 1.3.2, 1.4.13 and the ending-marker line (2); derivation (a)
-with the teacher (4) · 17–21 exercise 1 (4) · 21–25 1.4.17, 1.4.18 with their padaccheda (3); the
-1.x card read (1) · 25–32 derivations (b) and (c) with the teacher (3 + 3); the राजन् table shown as
-display (1) · 32–38 exercise 3, the sort, book closed (6) · 38–42 derivation (d), नमः and नमस्ते —
-4 · 42–45 model sentences 1–6 read aloud, joined, then in pause form (3). Exercises 2, 4, 5 and
-6, §15's card with राजा read, §16, §17 and the §19 quiz are homework (§21); exercises 1 and 3 are
-checked at home against the key. §16 and §17 are not read in class.
+(4) · 7–9 the three §3 prompts, aloud (2) · 9–11 the Hook: रामः; राजा, राजभिः, राज्ञा — 2 · 11–19
+base, affix, marker: 3.1.1, 3.1.2, 1.3.2, 1.4.13 and the ending-marker line (4); derivation (a)
+with the teacher (4) · 19–23 exercise 1 (4) · 23–28 1.4.17, 1.4.18 with their padaccheda, and the
+card 1.1.43 (3); the 1.x card read (2) · 28–35 derivations (b) and (c) with the teacher (3 + 3);
+the राजन् table shown as display (1) · 35–41 exercise 3, the sort, book closed (6) · 41–45
+derivation (d), नमः and नमस्ते — 4. Model sentences 1–6, read aloud joined and then in pause form,
+exercises 2, 4, 5 and 6, §15's card with राजा read, §16, §17 and the §19 quiz are homework (§21);
+exercises 1 and 3 are checked at home against the key. §16 and §17 are not read in class.
 
 **Station 0, in class.** Item 1 is three minutes on paper, marked by a partner: the slips to watch
 for are ण् written twice in the wrong place (it closes lines 1 and 6) and हल् left out. Item 2 is
@@ -1385,7 +1392,7 @@ Lesson video, ~6 min, presenter + motion graphics.
    the bha bin: राजन् + आ → राज्न् + आ → राज्ञा, 6.4.134, then 8.4.40. The strong bin greyed,
    "Chapter 5".
 5. **The स् of नमस्ते, 4:20–5:20:** नमस् + सुँ; the ending vanishes (2.4.82); स् → रुँ → ः; then ः + ते → स्ते
-   by 8.3.34. Caption: "the स् of नमस्ते replaces the visarga".
+   by 8.3.34. Caption: "according to Pāṇini, the स् of नमस्ते replaces the visarga".
 6. **Recap (5:20–6:00):** the three boxes; the ledger counter ticks 521 → 527; the toolbox 12 →
    25. End card: "Next: replace, add, delete".
 
@@ -1402,20 +1409,20 @@ reads the cue, not the English spelling.
   the r becomes a breath. That breath is the visarga of rāmaḥ.
 - **02:50** One base, three names. Before bhis [bʱis], a consonant, rājan [ɾɑːd͡ʑɐn̪] is pada, and
   its n drops: rājabhiḥ. Before ā, a vowel, it is bha, and its a drops: rājñā.
-- **04:20** namaste [n̪ɐmɐst̪eː]: the ending vanishes after an indeclinable, the s becomes a
-  visarga, and before te the visarga becomes s again.
+- **04:20** namaste [n̪ɐmɐst̪eː], as Pāṇini derives it: the ending vanishes after an
+  indeclinable, the s becomes a visarga, and before te the visarga becomes s again.
 - **05:20** One base, three names. Six new words, five hundred and twenty-seven.
 
 ## 26. Reel Script
 
 40–50 seconds, vertical, captions burned in.
 
-- **Hook (0:00–0:07):** the card रामः, the ः circled. Text: "This dot pair is a whole ending. Here
-  is where it went."
+- **Hook (0:00–0:07):** the card रामः, the ः circled. Text: "This dot pair is what is left of a whole
+  ending. Here is where the rest went."
 - **Demo (0:07–0:30):** राम + सुँ → राम + स् → राम + र् → रामः, each arrow with its rule number.
   Then राजन् with three arrows: राजभिः, राज्ञा, राजा.
-- **Payoff (0:30–0:43):** "Learners of this course can now take a Sanskrit word apart into base,
-  affix and marker — and say, with Pāṇini, why one base takes three shapes."
+- **Payoff (0:30–0:43):** "Learners of this course can now take a noun form they know apart into
+  base, affix and marker — and say, with Pāṇini, why one base takes three shapes."
 - **CTA (0:43–0:50):** "Next: replace, add, delete." (End card: अङ्गं पदं भम् — One Base, Three
   Names.)
 
@@ -1433,7 +1440,8 @@ reads the cue, not the English spelling.
     §19 and its key
 - **Station 0 chain:** §3 runs v4.c01.l04's +1-day booking (the fourteen written) and v4.c01.l03's
   +1-week booking (the case code again), both copied from those lessons' §20 as they stand on disk
-  (diffed 2026-11-10: identical to each other and to the chapter fact base's Station 0 table). §20
+  (diffed 2026-11-10, and again at review on 2026-11-17 against the Chapter 1 lessons as
+  reviewed: identical to each other and to the chapter fact base's Station 0 table). §20
   books two words taken apart (+1 day, run by v4.c02.l02) and one base, three names (+1 week, run
   by v4.c02.l03), verbatim from the fact base.
 - **Related lessons:** reviews v4.c01.l04 (Station 0 item 1; the fourteen sūtras, the markers),
@@ -1479,7 +1487,8 @@ reads the cue, not the English spelling.
   of §22 at its line number, with its corrections; the Paspaśāhnika line (`pmbhassu.htm` 145, the
   single correction *proyojanam*, the joins of §17, the first member रक्षा); the HISTORY callout's
   date (the `mahabhashya` key's own, c. 2nd c. BCE), Kātyāyana's role on the e-text's header and
-  line 24006 — [REF:cardona1997] not opened; Whitney §170b, §327a–b, §421 and §421b, §424 (every cell of
+  line 24006 — Cardona 1997 not opened, and no search result quotes it on Kātyāyana or Patañjali:
+  not cited (Pass C, 2026-11-17); Whitney §170b, §327a–b, §421 and §421b, §424 (every cell of
   the राजन् table; re-read in the local e-text, lines 4277–4290 and 4303 ff.: the quoted words are
   his); the 1.x p. 98 quotations, from the page image; the headwords against Apte and MW and their
   Hitopadeśa loci (lines 370, 139, 1249, 1500); the Hindi of §7, the objectives and every gloss at

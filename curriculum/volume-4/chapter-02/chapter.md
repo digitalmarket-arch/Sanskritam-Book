@@ -22,8 +22,8 @@ the affix's marker named (1.3.2) and dropped (1.3.9), the base called aṅga bef
 in Volume 1, turns out to be what is left of the ending. Before case endings the base has two more
 names, pada and bha (1.4.17, 1.4.18), except before the five strong endings (1.1.43), and what a rule does to it depends on the name: राजन् becomes
 राजभिः as a pada and राज्ञा as a bha, and the 1.x book's rājan card is corrected in the open, its
-errors quoted with their page. नमः comes from नमस् by the same tools, and the स् of नमस्ते proves to be
-a substitute for the visarga. The second lesson shows three things a rule may do to a form: it
+errors quoted with their page. नमः comes from नमस् by the same tools, and the स् of नमस्ते is, in Pāṇini's
+derivation, a substitute for the visarga. The second lesson shows three things a rule may do to a form: it
 replaces (आदेशः), adds (आगमः) or deletes (लोपः); guṇa and vṛddhi, the Volume 3 names of two vowel joins,
 are Pāṇini's names for sets of substitutes (1.1.1–3). अगच्छत् is derived as all three operations at
 once, and the 1.x claim that in भवति "गुण inserts व" is corrected: two substitutes, nothing inserted.
@@ -33,14 +33,17 @@ rules (अनुवृत्तिः) and headings that stand over a stretch (�
 (8.3.59 under 8.3.55 and 8.3.57). From that lesson on, the bracket line under a quoted sūtra prints
 the words the Aṣṭādhyāyī data file records as carried and the headings it stands under. The fourth
 lesson is the Chapter 2 exam, one closed-book sitting of 45 minutes. The grammarians' line continues
-with Kātyāyana and Patañjali, and the Mahābhāṣya's own statement of why grammar is studied. Every
+with Kātyāyana and Patañjali, the Mahābhāṣya's own statement of why grammar is studied and its
+sentence on deletion, augment and the change of sounds, and Varadarāja's Laghusiddhāntakaumudī,
+which reads the same ṇ and ṣ rules at the declension of राम. Every
 quoted sūtra is printed as the data file gives it; every commentary line is "text of the GRETIL
 e-text".
 
 ## Goals
 
 - Take an owned word apart into base and affix, with its markers; read *sup* as a pratyāhāra
-- Name the base aṅga, pada or bha, and say which rule each name sets off (the rājan example)
+- Say whether the base राजन् is strong, pada or bha before a case ending — and aṅga before every
+  affix — and which rule each name sets off (the rājan example)
 - Tell substitution, augment and deletion apart; define guṇa and vṛddhi as substitutes
 - Read a sūtra whose words are carried down from the rules above, with its bracket line
 - Derive, according to Pāṇini, the ण of रामेण and the ष of रामेषु and करोषि
@@ -100,7 +103,8 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 
 Lesson 4 is the Chapter 2 exam: one closed-book sitting of 45 minutes, 2 of them for instructions;
 Station 0 (about 8 minutes) runs before it and outside it. The booklet prints the chapter's toolbox
-card (43 sūtras in number order, each with its text and one English line), open for tasks C–E. **A**
+card (43 sūtras in number order, each with its text and one English line, and lesson 3's ten
+with the bracket line lesson 3 printed), open for tasks C–E. **A**
 — base, affix and markers labelled in eight owned forms, the markers as lesson 1's ending-marker line
 gives them (7 min; 16 points, pass 12). **B** — the base राजन् named strong, pada or bha before six
 endings, with the reason (6 min; 12, pass 8). **C** — six operations, each said to be a substitute,

@@ -574,13 +574,16 @@ for 7.2.115 and does not name what 7.2.116 lengthens; printed with the "does not
 - **S0-df** (l01): the c02 fact base's D-k: 0 राम + सु — 1.3.3 · 1.3.9 (the प् of सुप् a marker) · 1
   रामे + सु — 7.3.103 बहुवचने झल्येत् (before a plural sup beginning with a jhal sound, the अ of the
   aṅga → ए) · 2 रामे + षु — 8.3.59 आदेशप्रत्यययोः, under 8.3.55 and 8.3.57 (स् of an affix after ए, an
-  इण् sound, not word-final → ष्) · 3 **रामेषु**; with the bracket lines as c02.l03 §3 printed them
-  (7.3.103: carried अतः from 7.3.101, सुपि …; 8.3.59: as table 0.H). Pass: all three steps with their
-  numbers.
+  इण् sound, not word-final → ष्) · 3 **रामेषु**; with the bracket lines as c02.l03 §8 Step 4
+  prints them (7.3.103: carried अतः from 7.3.101, सुपि …; 8.3.59: as table 0.H). Pass: all three steps;
+  7.3.103 and 8.3.59, D-tier rules, may be named by their gist in place of their numbers, as
+  c02.l02 §3 and c02.l03 §3 score them (a D-tier sūtra is never asked by number in a closed-book
+  task: plan §7.6) (corrected at the c02 review).
 - **S0-dg** (l01): the c02 fact base's D-j: 0 राम + टा · 1 राम + इन — 7.1.12 टाङसिङसामिनात्स्याः · 2
   रामेन — 6.1.87 आद्गुणः · 3 र … न — 8.4.1 रषाभ्यां नो णः समानपदे · 4 रामेण — 8.4.2
   अट्कुप्वाङ्नुम्व्यवायेऽपि (आ, ए are अट्, म् is in the p-row) · 5 **रामेण**; 7.1.12 carries अतः from
-  7.1.9; 8.4.2 carries रषाभ्याम् (data file) and नः णः समानपदे (course) from 8.4.1.
+  7.1.9; 8.4.2 carries रषाभ्याम् (data file) and नः णः समानपदे (course) from 8.4.1. 7.1.12 and 8.4.2,
+  D-tier rules, may be named by their gist in place of their numbers (corrected at the c02 review).
 - **S0-dh** (l02): the c02 fact base's table 0.C: substitute — आदेशः — the replaced item in the
   genitive (1.1.49) — e.g. सूर्य + उदयः → सूर्योदयः, ल् → तिप्; augment — आगमः — its own marker (ट् at the
   beginning, क् at the end, 1.1.46) — अट् in अगच्छत्; deletion — लोपः — the word लोपः (1.1.60) — the इ of

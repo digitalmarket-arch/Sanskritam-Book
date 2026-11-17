@@ -83,9 +83,9 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | अपादानम् · अधिकरणम् | apādānam · adhikaraṇam | the fixed point moved away from · the place where (kāraka names) | अपादान · अधिकरण | v3.c01.l02 |
 | करणम् · सम्प्रदानम् | karaṇam · sampradānam | the means · the receiver (kāraka names) | करण (साधन) · सम्प्रदान (पाने वाला) | v3.c01.l03 |
 | सम्बन्धः | sambandhaḥ | "relation": the name grammar books use for the genitive's job; according to Pāṇini not a kāraka | सम्बन्ध | v3.c01.l04 |
-| सुप् · तिङ् | sup · tiṅ | the tradition's names for the whole set of noun endings · of verb endings | सुप् · तिङ् | v3.c01.l05 |
+| सुप् · तिङ् | sup · tiṅ | the tradition's names for the whole set of noun endings · of verb endings; सुप् is a pratyāhāra of 4.1.2, from सुँ to the marker प्: the 21 case endings (v4.c02.l01) | सुप् · तिङ् | v3.c01.l05 |
 | सुबन्तम् · तिङन्तम् | subantam · tiṅantam | "ending in a sup": a noun form · "ending in a tiṅ": a verb form | सुबन्त · तिङन्त | v3.c01.l05 |
-| पदम् | padam | a word in the grammar's sense: what ends in a sup or a tiṅ ending (1.4.14) | पद | v3.c01.l05 |
+| पदम् | padam | a word in the grammar's sense: what ends in a sup or a tiṅ ending (1.4.14); in a rule also the name of a base before a consonant-initial, not strong ending (1.4.17; v4.c02.l01) | पद | v3.c01.l05 |
 | द्विवचनम् · बहुवचनम् | dvivacanam · bahuvacanam | the dual (exactly two) · the plural (three or more); with एकवचन, the three numbers of Sanskrit, in the noun and (from v3.c03.l01) in the verb | द्विवचन · बहुवचन | v3.c02.l01 |
 | पुंलिङ्गम् · स्त्रीलिङ्गम् · नपुंसकलिङ्गम् | puṃliṅgam · strīliṅgam · napuṃsakaliṅgam | masculine · feminine · neuter: the three genders (लिङ्ग); gender belongs to the word, not to the thing | पुल्लिंग · स्त्रीलिंग · नपुंसकलिंग | v3.c02.l02 |
 | विशेष्यम् | viśeṣyam | the noun an adjective (विशेषण) describes; the adjective takes its gender, number and case | विशेष्य | v3.c02.l01 |
@@ -97,7 +97,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | कर्मवाच्य | karmavācya | Hindi grammar's term for the passive, used in the R3 card's Hindi lines | कर्मवाच्य | v3.c03.l02 |
 | लङ् | laṅ | the imperfect, the story tense: the augment अ- + the present stem + the secondary endings (अगच्छत्) | लङ् (भूतकाल; परम्परा में 'आज से पहले का भूत') | v3.c03.l03 |
 | लकारः | lakāraḥ | the tradition's name for a tense or mood (ten in all; the present system's four are लट्, लङ्, लोट्, विधिलिङ्) | लकार | v3.c03.l03 |
-| आगमः | āgamaḥ | the augment: the अ- before the stem in the imperfect, after a prefix if there is one (प्राविशत्) | आगम (भूतकाल में धातु-रूप के आगे लगने वाला अ-) | v3.c03.l03 |
+| आगमः | āgamaḥ | the augment: the अ- before the stem in the imperfect, after a prefix if there is one (प्राविशत्); in Pāṇini a sound a rule adds, placed by its own marker (1.1.46; v4.c02.l02); also a ledger headword of v4.c02.l02 | आगम (भूतकाल में धातु-रूप के आगे लगने वाला अ-) | v3.c03.l03 |
 | लोट् | loṭ | the imperative, the request mood (गच्छ, गच्छतु) | लोट् (आज्ञा और अनुरोध का रूप, आज्ञार्थ) | v3.c03.l04 |
 | लिट् | liṭ | the perfect; उवाच and आह read as whole words (chunks); system v4.c03 | लिट् (परोक्ष भूत) | v3.c06.l02 |
 | स्म | sma | with the present: the storyteller's past (3.2.118 लट् स्मे); प्रतिवसति स्म "lived" | स्म | v3.c06.l03 |
@@ -108,8 +108,8 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | निषेधः | niṣedhaḥ | prohibition: मा + imperative (मा गच्छ) | निषेध (मना करना) | v3.c03.l04 |
 | स्वरसन्धिः | svarasandhiḥ | vowel sandhi: the joins where a word-final vowel meets a word-initial vowel | स्वर-सन्धि | v3.c04.l01 |
 | सवर्णदीर्घः | savarṇadīrghaḥ | like vowels → one long (6.1.101): न + अस्ति → नास्ति | दीर्घ (सवर्णदीर्घ) सन्धि | v3.c04.l01 |
-| गुणः | guṇaḥ | the guṇa grade (ए, ओ, अर्): अ/आ + इ, उ, ऋ (6.1.87); also the strengthened vowel inside गुरवे | गुण | v3.c04.l01 |
-| वृद्धिः | vṛddhiḥ | the vṛddhi grade (ऐ, औ, आर्): अ/आ + ए, ऐ, ओ, औ (6.1.88) | वृद्धि | v3.c04.l01 |
+| गुणः | guṇaḥ | the guṇa grade (ए, ओ, अर्): अ/आ + इ, उ, ऋ (6.1.87); also the strengthened vowel inside गुरवे; in Pāṇini the name of the vowels अ ए ओ by 1.1.2, put in place of इ उ ऋ ऌ by 1.1.3 — not the name of a join (v4.c02.l02) | गुण | v3.c04.l01 |
+| वृद्धिः | vṛddhiḥ | the vṛddhi grade (ऐ, औ, आर्): अ/आ + ए, ऐ, ओ, औ (6.1.88); in Pāṇini the name of the vowels आ ऐ औ by 1.1.1, put in place of इ उ ऋ ऌ by 1.1.3 — not the name of a join (v4.c02.l02); also a ledger headword of v4.c02.l02 | वृद्धि | v3.c04.l01 |
 | यण् | yaṇ | इ/उ/ऋ → य्/व्/र् before an unlike vowel (6.1.77): इति अवदत् → इत्यवदत्; as a pratyāhāra: य व र ल, v4.c01.l01 | यण् | v3.c04.l01 |
 | अयादि | ayādi | ए/ऐ/ओ/औ → अय्/आय्/अव्/आव् before a vowel (6.1.78); at a word end -ए → अ + gap, -ऐ → आ + gap | अयादि | v3.c04.l01 |
 | पूर्वरूपम् | pūrvarūpam | the अ merged into a word-final ए/ओ, marked ऽ (6.1.109): ते अपि → तेऽपि | पूर्वरूप | v3.c04.l01 |
@@ -140,8 +140,18 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | तपरः | taparaḥ | a vowel written with त् after it: it stands for its own length only (1.1.70) | तपर | v4.c01.l02 |
 | उदित् | udit | a letter marked with उ [कु चु टु तु पु]: it stands for its whole row (1.1.69) | उदित् | v4.c01.l02 |
 | षष्ठी · सप्तमी · पञ्चमी · प्रथमा | ṣaṣṭhī · saptamī · pañcamī · prathamā | the case code of a sūtra: the genitive "in place of" (1.1.49); the locative "before" (1.1.66); the ablative "after" (1.1.67); the nominative "the result" | षष्ठी — के स्थान पर; सप्तमी — से पहले; पञ्चमी — के बाद; प्रथमा — परिणाम (आदेश) | v4.c01.l03 |
-| आदेशः | ādeśaḥ | substitute: what a rule puts in place of a sound or an affix; also a ledger headword of v4.c01.l03 | आदेश | v4.c01.l03 |
+| आदेशः | ādeśaḥ | substitute: what a rule puts in place of a sound or an affix; one of the three operations, beside आगमः and लोपः, from v4.c02.l02; also a ledger headword of v4.c01.l03 | आदेश | v4.c01.l03 |
 | यथासंख्यम् | yathāsaṃkhyam | in order: equal sets pair off one by one (1.3.10) | यथासंख्य | v4.c01.l03 |
+| प्रकृतिः | prakṛtiḥ | base: the root or nominal base an affix is added to (3.1.1–2); also a ledger headword of v4.c02.l01 | प्रकृति | v4.c02.l01 |
+| प्रत्ययः | pratyayaḥ | affix: what a rule adds after a base (3.1.1–2); also a ledger headword of v4.c02.l01 | प्रत्यय | v4.c02.l01 |
+| अङ्गम् | aṅgam | aṅga: the base before an affix (1.4.13) | अङ्ग | v4.c02.l01 |
+| भम् | bham | bha: the name of a base before a य- or vowel-initial, not strong ending (1.4.18) | भ | v4.c02.l01 |
+| सर्वनामस्थानम् | sarvanāmasthānam | the five strong endings सुँ औ जस् अम् औट्, except after a neuter (1.1.43): a name of the endings, not of the base | सर्वनामस्थान — सबल प्रत्यय | v4.c02.l01 |
+| प्रातिपदिकम् | prātipadikam | a nominal base: a meaningful form, not a root, not an affix (1.2.45) | प्रातिपदिक | v4.c02.l01 |
+| लोपः | lopaḥ | deletion: disappearance of what would have appeared (1.1.60); also a ledger headword of v4.c02.l02 | लोप | v4.c02.l02 |
+| अनुवृत्तिः | anuvṛttiḥ | carrying down: a word of an earlier sūtra continuing into a later one; also a ledger headword of v4.c02.l03 | अनुवृत्ति | v4.c02.l03 |
+| अधिकारः | adhikāraḥ | heading: a sūtra that stands over a stretch of rules (6.4.1 अङ्गस्य); also a ledger headword of v4.c02.l03 | अधिकार | v4.c02.l03 |
+| णत्वम् · षत्वम् | ṇatvam · ṣatvam | the rules that make ण for न, 8.4.1–2, and ष for स, 8.3.59 | णत्व · षत्व | v4.c02.l03 |
 
 ## Course meta-vocabulary
 
@@ -164,6 +174,9 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | ledger | The cumulative count of readable words, stated in each vocabulary lesson's §14 (entry → exit); counting rules in STYLE_GUIDE §8 |
 | upgrade row | A §14 row for a noun or adjective already in the ledger, back in sentence dress (-ः / -म्) or its neuter form; drilled, never counted again (STYLE_GUIDE §8) |
 | Station 0 | The §3 review block that runs the spaced re-runs (+1 day, +1 week …) falling due from earlier lessons and exams (Hindi: स्टेशन 0) |
+| ending-marker line | The one line of v4.c02.l01 that says which sounds of a case ending are markers and which are kept (Hindi: प्रत्यय-चिह्न पंक्ति) |
+| bracket line | From v4.c02.l03 on, the line under a printed sūtra that gives the words the Aṣṭādhyāyī data file records as carried into it and the headings it stands under, each with its source (Hindi: कोष्ठक-पंक्ति) |
+| toolbox card | The list of the sūtras taught as tools so far, kept in each lesson's §15 from v4.c01.l01 on, each with its number and gist; from the Chapter 2 exam on, an exam card of them in number order — number, text, one English line, and for the rules of v4.c02.l03 the bracket line that lesson printed — that lies open in the tasks that use D-tier rules (Hindi: सूत्र-सूची) |
 | loanword | A word one language took from another; drawn with an arrow (yoga ← योग). Hindi: उधार शब्द |
 | calque | A loan translation built part for part from native pieces: शुभरात्रिः ← "good night", दूरदर्शनम् ← *tele-vision* |
 | the four kinds (word journeys) | The v2.c06.l04 sort for an English–Sanskrit pair: (a) cognate, (b) loan from Sanskrit, (c) Latin or Greek route, (d) false |

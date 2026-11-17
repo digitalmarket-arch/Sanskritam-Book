@@ -161,7 +161,7 @@ the later rules use the definitions.
 > joins; in the Aṣṭādhyāyī they name the vowels a rule puts in. [REF:ashtadhyayi 1.1.1];
 > [REF:kashika 1.1.1]
 
-The second tradition is the one many Hindi-medium learners know from school.
+The second tradition is the one Hindi school grammar teaches.
 
 > **[TRADITION · परम्परा]** Hindi school grammar sorts the vowel joins under five names —
 > दीर्घ, गुण, वृद्धि, यण्, अयादि. In Pāṇini गुण and वृद्धि are not names of joins but of three
@@ -378,10 +378,11 @@ So a guṇa vowel is a substitute, and the vowels it replaces are इ उ ऋ �
 The one nearest to the vowel replaced (1.1.50, your tool since Chapter 1): ए for इ, ओ for उ. The
 full ladder is §15's guṇa/vṛddhi table.
 
-**Card — K, 1.1.51 उरण् रपरः** (ur aṇ raparaḥ). "Where an अण् vowel replaces ऋ, it comes with र्
-[अर्, आर्]." [REF:ashtadhyayi 1.1.51]; [REF:kashika 1.1.51] It is a reference card: it says why
-the guṇa of ऋ is अर्, not a bare अ. It becomes a derivation tool in c03.l02; nothing asks you to
-quote it.
+> **K — 1.1.51 उरण् रपरः** (ur aṇ raparaḥ). "Where an अण् vowel replaces ऋ, it comes with र्
+> [अर्, आर्]." [REF:ashtadhyayi 1.1.51]; [REF:kashika 1.1.51] — a card: looked up, never assessed.
+
+The card says why the guṇa of ऋ is अर्, not a bare अ. It becomes a derivation tool in c03.l02;
+nothing asks you to quote it.
 
 **The ladder.** guṇa is a substitute: इ → ए, never इ + अ. Then भू → भो → भव् is two
 substitutions, not one insertion:
@@ -577,6 +578,14 @@ operations in one word.
 Read the "What happens" column down: substitute, deletion, deletion, augment, deletion. The
 markers are always deleted; the three operations of the title are steps 1, 3 and 4.
 
+> **[FACT · तथ्यम्]** Whitney, describing the language: "The augment is a short अ a, prefixed
+> to a tense-stem", and "The augment is a sign of past time"; the imperfect is the
+> augment-preterit made "from the present-stem". [REF:whitney1889 §585]; [REF:whitney1889 §586]
+
+The language does it (FACT): the अ in front of the present stem गच्छ- marks the past. Pāṇini's
+6.4.71 and 1.1.46 describe the route (TRADITION): the augment अट्, put at the beginning by its
+marker.
+
 ### Derivation (c) — read, not derived
 
 **ऐच्छत्** — owned since v3.c03.l03. The two rules that differ from अगच्छत् are in Teacher Notes.
@@ -654,7 +663,7 @@ track).
 | आगमः | āgamaḥ | /ɑːgɐmɐh/ | augment (in grammar); arrival; [tradition] authoritative text | आगम | ledger-new — m. a-stem — MW s.v. āgama "arrival, coming", "a traditional doctrine …", "a grammatical augment … Pāṇ. Comm."; Apte s.v. आगमः 1 "Coming, arrival" |
 | वृद्धिः | vṛddhiḥ | /ʋr̩d̪d̪ʱih/ | growth, increase; [grammar] vṛddhi | वृद्धि, बढ़ोतरी | ledger-new — f. i-stem, like मतिः [✓ nom., acc., instr.] — MW s.v. 2. vṛddhi "growth, increase …", "the second modification or increase of vowels … Pāṇ."; Apte s.v. वृद्धिः 1 "Growth, increase"; Hitopadeśa *artha-vṛddhiḥ karaṇīyā* |
 | हानिः | hāniḥ | /ɦɑːn̪ih/ | loss, decrease | हानि, घाटा | ledger-new — f. i-stem [✓ nom., acc., instr.]; the antonym of वृद्धिः — MW s.v. hāni "decrease, diminution", "damage, loss"; Apte s.v. हानिः 2 "Loss, failure" |
-| कोपः | kopaḥ | /koːpɐh/ | anger | क्रोध, कोप | ledger-new — m. a-stem — MW s.v. kopa "passion, wrath, anger, rage … sa-kopam 'angrily', Pañcat.; Hit."; Apte s.v. कोपः 1 "Anger, wrath"; Hitopadeśa *siṃhaḥ sakopam āha*; 22 tokens in the DCS Hitopadeśa |
+| कोपः | kopaḥ | /koːpɐh/ | anger | क्रोध, कोप | ledger-new — m. a-stem — MW s.v. kopa "passion, wrath, anger, rage … sa-kopam 'angrily', Pañcat.; Hit."; Apte s.v. कोपः 1 "Anger, wrath"; Hitopadeśa *siṃhaḥ sakopam āha*; 22 tokens of the lemma in the Hitopadeśa, counted by the course from the DCS's lemma tags [REF:dcs] |
 | गुणः | guṇaḥ | /guɳɐh/ | quality; [grammar] guṇa | गुण | upgrade — owned as गुण "quality, strand" since v1.c03.l03; today in sentence dress and defined (1.1.2) — MW s.v. guṇa "a single thread or strand …" |
 
 Three notes. वृद्धिः and हानिः are feminine i-stems: you use them in the nominative, accusative and
@@ -865,11 +874,14 @@ saying sentences), 5 is spoken, 1 and 2 sort and supply. Exercises 1 and 2 are d
 exercises 3, 4 and 5 are homework (§21, §22). All keys sit in §19's collapsed key — nothing is
 answered on this page.
 
-**अभ्यासः 1 · the ladder (objective 2; in class, 4 minutes).** Write the guṇa and the vṛddhi
-substitute of each vowel: (1) इ; (2) ई; (3) उ; (4) ऊ; (5) ऋ; (6) ऌ.
+**अभ्यासः 1 · the ladder (objective 2; in class, 4 minutes).** According to Pāṇini, write the guṇa
+and the vṛddhi
+substitute of each vowel: (1) इ; (2) ई; (3) उ; (4) ऊ; (5) ऋ; (6) ऌ. Then name the rule that
+defines each grade and the rule that says which vowels they replace.
 
-**अभ्यासः 2 · substitute, augment or deletion? (objective 1; in class, 5 minutes).** For each
-operation say which of the three it is, and what shows it in the rule. On the worksheet
+**अभ्यासः 2 · substitute, augment or deletion? (objective 1; in class, 5 minutes).** According
+to Pāṇini, say for each operation which of the three it is, and what shows it in the rule.
+On the worksheet
 (`planned:assets/worksheets/volume-4/v4c02l02-operations-sort.pdf`), with §15's table covered.
 
 1. the उँ of सुँ disappears in रामः
@@ -961,8 +973,9 @@ Score /10; 7 passes.
 
 **Exercise keys.**
 
-1: (1)–(2) ए, ऐ; (3)–(4) ओ, औ; (5) अर्, आर्; (6) अल्, आल्. Score the pair: /6. Accept अर् without the
-1.1.51 note.
+1: (1)–(2) ए, ऐ; (3)–(4) ओ, औ; (5) अर्, आर्; (6) अल्, आल्. Score the pair: /6. Then 1.1.2 defines
+guṇa, 1.1.1 vṛddhi, and 1.1.3 says they replace इ उ ऋ ऌ: one point for each rule, /3 — /9 in
+all. Accept अर् without the 1.1.51 note.
 
 2: (1) deletion — the word लोपः in 1.3.9 (2) substitute — one vowel in place of both: 6.1.87
 under 6.1.84, whose genitive पूर्वपरयोः names what is replaced (3) augment — its marker ट् puts
@@ -1041,7 +1054,7 @@ scored.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
-- +1 day: eight operations labelled — say whether each is a substitute (आदेशः), an augment (आगमः) or a deletion (लोपः), and name its sūtra: (1) अ + उ → ओ in सूर्योदयः (2) अ + ए → ऐ in तत्रैव (3) the अ at the front of अगच्छत् (4) the इ of ति in अगच्छत् (5) सुँ → अम् in फलम् (6) the ट् of अट् in अगच्छत् (7) the उँ of सुँ in रामः (8) ओ → अव् in भवति; v4.c02.l03's Station 0 runs exactly this.
+- +1 day: eight operations labelled — say whether each is a substitute (आदेशः), an augment (आगमः) or a deletion (लोपः), and name its sūtra: (1) अ + उ → ओ in सूर्योदयः; (2) अ + ए → ऐ in तत्रैव; (3) the अ at the front of अगच्छत्; (4) the इ of ति in अगच्छत्; (5) सुँ → अम् in फलम्; (6) the ट् of अट् in अगच्छत्; (7) the उँ of सुँ in रामः; (8) ओ → अव् in भवति; v4.c02.l03's Station 0 runs exactly this.
 - +1 week: the guṇa/vṛddhi ladder — for इ, ई, उ, ऊ, ऋ and ऌ write the guṇa and the vṛddhi substitute, say the rule that defines each grade (1.1.2, 1.1.1) and the rule that says which vowels they replace (1.1.3), then write भू → भो → भव् as two substitutions, naming the second (6.1.78); v4.c02.l04's Station 0 runs exactly this.
 
 ## 21. Homework
@@ -1146,11 +1159,13 @@ with the corrections listed (none other is made):
   (tapara)"; a fast learner may compare the two comments.
 - **The Kāśikā on 1.1.3** (lines 340–346, 356–357): *paribhāṣā iyaṃ sthāni-niyama-arthā /
   aniyama-prasaṅge niyamo vidhīyate / vṛddhi-guṇau svasañjñayā śiṣyamāṇau ikaḥ eva sthāne
-  veditavyau / vakṣyati -- sārvadhātuka-ardhadhātukayoḥ (\*7,3.84) aṅgasya guṇa iti / sa ika eva
+  veditavyau / vakṣyati -- sārvadhātuka-ārdhadhātukayoḥ (\*7,3.84) aṅgasya guṇa iti / sa ika eva
   sthāne veditavyaḥ / nayati / bhavati / … guṇa-vṛddhī svasañjñayā vidhīyete, tatra ikaḥ iti
   etad-upasthitaṃ draṣṭavyam / kiṃ kṛtaṃ bhavati ? dvitīyayā ṣaṣṭhī prādurbhāvyate /* —
-  corrections: *sa iko eva* → *sa ika eva*; *viditavyaḥ* → *veditavyaḥ*; "…" = lines 347–355 (the
-  vṛddhi examples). Its own examples are *nayati* and *bhavati*. The last sentence is the point of
+  corrections: *sārvadhātuka-ardhadhātukayoḥ* → *sārvadhātuka-ārdhadhātukayoḥ*, as the data
+  file's padaccheda of 7.3.84 has it; *sa iko eva* → *sa ika eva*; *viditavyaḥ* → *veditavyaḥ*;
+  "…" = lines 347–355 (the vṛddhi examples). Its own examples are *nayati* and *bhavati*. The
+  last sentence is the point of
   §13's line under derivation (a): 1.1.3 supplies the genitive इकः to a rule that enjoins guṇa or
   vṛddhi by name without naming the sound replaced ("a genitive is made to appear"), so it is not
   needed where 6.1.84 already names what is replaced. Such a rule may have a genitive of its own:
@@ -1182,9 +1197,13 @@ with the corrections listed (none other is made):
   (-ज्ञः हि → -ज्ञो हि; सम्यक् वेदान् → सम्यग्वेदान्; वेदान् परि- written together). It is Patañjali's own
   sentence, not a vārttika (not bold in the e-text). No correction in this line.
 
-**Whitney on the augment.** No Whitney line is printed beside derivation (b): the section on the
-augment was not opened for this chapter. Volume 3 (v3.c03.l03 §5) cites Whitney §585–586 for the
-augment and for ऐच्छत्; Pass C may add a FACT line here from §585 if the opened section says so.
+**Whitney on the augment.** The FACT line beside derivation (b) quotes §585 and §586, opened in
+the local text at Pass C: the augment is "a short अ a, prefixed to a tense-stem", "a sign of past
+time", and the imperfect is made "from the present-stem" — Whitney's tense-stem is the present
+stem गच्छ-, which the derivation takes as given. §585 goes on: with a vowel-initial stem the
+augment combines "irregularly into the heavier or vṛddhi diphthong" — the ऐ of ऐच्छत्, which
+Pāṇini reaches by आट् and a vṛddhi substitute (derivation (c)). Volume 3 (v3.c03.l03 §5) cites the
+same two sections.
 
 **What students find hard.** "guṇa = add a" is the main risk: the ladder of exercise 1 is the
 cure, and the crossed-out "इ + अ" on the board. Never accept "ए is अ + इ" as an answer in this
@@ -1215,10 +1234,11 @@ delete)**
 **Asset 2 — `planned:assets/worksheets/volume-4/v4c02l02-operations-sort.pdf` (layout spec)**
 
 > A4 worksheet, portrait. Top: the ladder grid for exercise 1, six rows (इ ई उ ऊ ऋ ऌ) and two
-> empty columns, "guṇa" and "vṛddhi". Middle: exercise 2, six numbered lines, each with three tick
+> empty columns, "guṇa" and "vṛddhi", with one line beneath it for the three rule numbers.
+> Middle: exercise 2, six numbered lines, each with three tick
 > boxes "आदेशः · आगमः · लोपः" and a blank "what shows it". Bottom: two four-column derivation frames
 > (Step · String · Sūtra · What happens) with seven empty rows each, for exercise 3 items (1) and
-> (4); and the score log: Station 0 item 1 /11, item 2 /7, exercise 1 /6, exercise 2 /12, quiz
+> (4); and the score log: Station 0 item 1 /11, item 2 /7, exercise 1 /9, exercise 2 /12, quiz
 > /10.
 
 ## 24. AI Video Prompt
@@ -1287,10 +1307,10 @@ reads the cue, not the English spelling.
     §19 and its key
 - **Station 0 chain:** §3 runs v4.c02.l01's +1-day booking (two words taken apart: रामः and फलम्)
   and v4.c01.l04's +1-week booking (the pratyāhāra traps again). The second was diffed against
-  v4.c01.l04 §20 on disk (2026-11-10): identical. v4.c02.l01 is drafted in parallel and was not on
-  disk when this lesson was drafted: the first item is the chapter fact base's wording
-  (`research/notes/vol4-ch2-inside-the-ashtadhyayi.md`, Station 0 table), verbatim; Pass D diffs it
-  against v4.c02.l01 §20. §20 books eight operations labelled (+1 day, run by v4.c02.l03) and the
+  v4.c01.l04 §20 on disk (2026-11-10): identical. The first item, drafted from
+  the chapter fact base's wording (`research/notes/vol4-ch2-inside-the-ashtadhyayi.md`, Station 0
+  table), was diffed at review (2026-11-17) against v4.c02.l01 §20, and the second again against
+  v4.c01.l04 §20 as Chapter 1's review left it: both identical. §20 books eight operations labelled (+1 day, run by v4.c02.l03) and the
   guṇa/vṛddhi ladder (+1 week, run by v4.c02.l04, before the exam and outside it), verbatim from the
   fact base.
 - **Related lessons:** reviews v4.c02.l01 (Station 0 item 1; रामः, फलम्, राजभिः labelled by
@@ -1336,8 +1356,8 @@ reads the cue, not the English spelling.
   loci (`hitop_u.htm` lines 1346, 2048); the Hindi parallel of §4 against Guru (bare key); the Hindi
   of §7, the objectives and every gloss at Pass B; every joined line of §6, §13, §16, §17, §19
   against the Volume 3 Chapter 4 maps; the pointer "lesson 1's §17" (Patañjali's purposes line)
-  against v4.c02.l01 once it is on disk.
-- **Register audit:** FACT ×2 callouts (§5 Whitney §235; §19 key Whitney §336) · TRADITION ×3
+  against v4.c02.l01 §17 (checked at review: it holds).
+- **Register audit:** FACT ×3 callouts (§5 Whitney §235; §13 Whitney §585–586; §19 key Whitney §336) · TRADITION ×3
   callouts (§4 Pāṇini's names, §4 the Hindi school names [REF:guru1952], §17 Patañjali); the
   sūtras' English lines in §8 and the operations box of §8 Step 3 are TRADITION in plain text,
   attributed to Pāṇini · HISTORY ×0 · SYMBOL ×0. Quiz Q1–Q8 assess TRADITION framed "According to
