@@ -81,21 +81,21 @@ D-q**, table 0.F. Learner-facing pages never print these labels or any row numbe
 | 0.2 | **Printing** — unchanged from Chapter 1 (row 0.2 there; STYLE_GUIDE §3.1): every course-written line joined, with its pause form beneath, IAST, English (and Hindi where the section is not Hindi). Stops: daṇḍa, "?", "!", comma, the speech-frame dash, the closing quotation mark before इति. A sūtra is printed as the data file has it, and stays so in a pause-form line. A derivation shows its seams (राम + सुँ) and ends on the joined word in bold. A compound is one word in the pause form, members hyphenated (राम-शब्दे). **A parenthesis directly after a Devanagari word holds that word's IAST and nothing else**; a note in objectives, tables, callouts and keys goes in square brackets or after a dash. | policy | STYLE_GUIDE §3.1; plan §1.1 principle 11; task brief | — |
 | 0.3 | **What is allowed in this chapter's taught text.** Everything of Chapter 1's row 0.3 (all Volume 3 ✓; pratyāhāra names, इत् and the -कार sound names as labels; the case code; derivation tables written by the learner). **Plus, from l01:** the terms प्रकृतिः, प्रत्ययः (headwords), अङ्गम्, पदम् (owned v3.c04.l04 as "word"; now also the name), भम्, प्रातिपदिकम् (K), सर्वनामस्थानम् (K) as labels; affix names with their markers as labels (सुँ, भिस्, टा, अम्, सुप्; inflected as labels: सुः, सुरिति); **three राजन् cells derived** (राजभिः, राज्ञा, and राजा as a headword nominative) and usable in sentences; every other राजन् cell ○ display (Whitney §424 table, c05.l03). आत्मा and स्वामी: nominative only (rule 14); आत्मानम्, स्वामिना etc. are ○. **From l02:** आदेशः (owned c01.l03), आगमः, लोपः, गुणः, वृद्धिः as terms; the laṅ forms of owned verbs as derived forms. **From l03:** the bracket line (row 0.18); the terms अनुवृत्तिः, अधिकारः, णत्वम्, षत्वम् (the last two glossed labels, never counted: rule 20 counts a term only when headworded); रेफः "the letter r" display; the passive-looking अनुवर्तन्ते / अनुवर्तते display ○ (a middle present of अनु + वृत्; not a headword). **Not allowed anywhere in the chapter:** any other consonant-stem cell as ✓ (स्वामिना, आत्मनः, पक्षिणः are ○ or R1 ◐, labelled); the f. i-stem cells beyond nom./acc./instr. (प्रकृतेः in l01 model sentence 2 is ◐, labelled as the plan has it; वृद्धेः, हान्याः etc. never). | policy | plan §1.2, §2.1, §3 rule 14 | Volume 3 entry ledger: f. i/u-stems ✓ only in nom./acc./instr. |
 | 0.4 | **The word anatomy (l01; the chapter's first card).** A form = प्रकृतिः "base" + प्रत्ययः "affix", the affix placed after the base (3.1.1–2), its markers (इत्) dropped (1.3.2, 1.3.3, 1.3.9). The base a case ending is added to is a प्रातिपदिकम् "nominal base" (1.2.45, K: "a meaningful form that is not a root and not an affix"). Before **any** affix the base is called अङ्गम् (1.4.13). TRADITION, attributed ("According to Pāṇini, …"). FACT beside it: Whitney names the same parts "root", "stem" and "ending" without the tradition's names (§§420–424 use "stem" and "case-ending"). | TRADITION; FACT | [REF:ashtadhyayi 3.1.1]; [REF:kashika 3.1.1]; [REF:kashika 3.1.2]; [REF:kashika 1.4.13]; [REF:kashika 1.2.45]; [REF:whitney1889 §421] | K1–K5. Fixed English (plan §1.4.4): base · affix · marker · aṅga (the base before an affix). |
-| 0.5 | **The markers of the sup affixes (l01; plan block, review c02:E#0).** (i) The **nasal vowel** of an affix as first taught is a marker: 1.3.2 उपदेशेऽजनुनासिक इत् (B). So the उँ of सुँ, and of रुँ (8.2.66), is a marker, dropped by 1.3.9 (owned B from c01.l01). **The nasality is not visible in the plain text of 4.1.2**: the tradition declares it — the Kāśikā under 1.3.2: *pratijñānunāsikyāḥ pāṇinīyāḥ* "the Pāṇinīyas [know] the nasality by declaration" (K3, e-text *pratijña-anunāsikyāḥ*); the data file's padaccheda of 4.1.2 prints सुँ and ङसिँ. One learner line (l01 §15): "The उ of सुँ is nasal (उँ): the tradition says so; the printed rule does not show it." (ii) **The other endings' markers, in one line** (the plan's line, verbatim in substance; its sūtras): the initial ज् of जस् and ट् of टा are markers (1.3.7 चुटू, Teacher Notes); the initial श् of शस् and ङ् of ङे, ङसिँ, ङस्, ङि are markers (1.3.8 लशक्वतद्धिते, *preview*, c03.l02); the **final** स् of भिस्, भ्यस्, जस्, ङस्, ओस् and the म् of अम्, भ्याम्, आम् are **not** markers: in a case or verb ending a final dental, स् or म् is kept (1.3.4 न विभक्तौ तुस्माः, Teacher Notes; the Kāśikā's own examples, K4: *vṛkṣāt* (the त् of आत्), *brāhmaṇāḥ* (the स् of जस्), *pacataḥ*, *apacatam*). So अम् keeps its म्, भिस् stays भिस्, and सुप् loses only its प् (1.3.3, owned). | TRADITION | [REF:kashika 1.3.2]; [REF:kashika 1.3.4]; data file 13002, 13004, 13007, 13008, 41002 | 1.3.4, 1.3.7 are Teacher-Notes sūtras (no tool, no count); 1.3.8 prints by number only as a labelled preview (plan §4.0.3 Totals counts it nowhere; its first tier is c03.l02). |
+| 0.5 | **The markers of the sup affixes (l01; plan block, review c02:E#0).** (i) The **nasal vowel** of an affix as first taught is a marker: 1.3.2 उपदेशेऽजनुनासिक इत् (B). So the उँ of सुँ, and of रुँ (8.2.66), is a marker, dropped by 1.3.9 (owned B from c01.l01). **The nasality is not visible in the plain text of 4.1.2**: the tradition declares it — the Kāśikā under 1.3.2: *pratijñānunāsikyāḥ pāṇinīyāḥ* "the Pāṇinīyas [know] the nasality by declaration" (K3, e-text *pratijña-anunāsikyāḥ*); the data file's padaccheda of 4.1.2 prints सुँ and ङसिँ. One learner line (l01 §15): "The उ of सुँ is nasal (उँ): the tradition says so; the printed rule does not show it." (ii) **The other endings' markers, in one line** (the plan's line, verbatim in substance; its sūtras): the initial ज् of जस् and ट् of टा are markers (1.3.7 चुटू, Teacher Notes); the initial श् of शस् and ङ् of ङे, ङसिँ, ङस्, ङि are markers (1.3.8 लशक्वतद्धिते, *preview*, c03.l02); the **final** स् of भिस्, भ्यस्, जस्, ङस्, ओस् and the म् of अम्, भ्याम्, आम् are **not** markers: in a case or verb ending a final dental, स् or म् is kept (1.3.4 न विभक्तौ तुस्माः, Teacher Notes; the Kāśikā's own examples, K4: *vṛkṣāt* (the त् of आत्), *brāhmaṇāḥ* (the स् of जस्), *pacataḥ*, *apacatam*). So अम् keeps its म्, भिस् stays भिस्, and सुप् loses only its प् (1.3.3, owned). The lesson's §15 card adds two markers that 1.3.2 and 1.3.3 already cover, the इँ of ङसिँ and the ट् of औट्: the Kāśikā under 4.1.2 has *ukārādayo 'nubandhā yathāyogam uccāraṇa-viśeṣaṇa-arthāḥ* and *auṭaḥ ṭakāraḥ suṭ iti pratyāhāra-grahaṇa-arthaḥ* (lines 25867–25868), §13 prints ङसिँ → अस्, and the exam's task B keys both. | TRADITION | [REF:kashika 1.3.2]; [REF:kashika 1.3.4]; data file 13002, 13004, 13007, 13008, 41002 | 1.3.4, 1.3.7 are Teacher-Notes sūtras (no tool, no count); 1.3.8 prints by number only as a labelled preview (plan §4.0.3 Totals counts it nowhere; its first tier is c03.l02). |
 | 0.6 | ***sup* is a pratyāhāra (l01; the Volume 3 §6 row, plan §4.0.1).** From सुँ, the first ending of 4.1.2, to the final marker प् of सुप्, the last, it names all twenty-one case endings (1.1.71, owned Q from c01.l01). The Kāśikā lists *sup* among its own examples of 1.1.71 (c01 fact base row 0.8, K15). 4.1.2 is shown as the owned picture of v3.c01.l05 §15, as a display line with no tier (plan §4.0.3 Totals: "4.1.2 in c02.l01"). Volume 3's line "do not say 'from its last syllable'" (v3.c01.l05 §22) holds: the प् is a marker, not a syllable. 2.4.82's सुपः and l03's "plural sup" (7.3.103's बहुवचने with the carried सुपि) use it. | TRADITION | [REF:ashtadhyayi 1.1.71]; [REF:ashtadhyayi 4.1.2]; [REF:kashika 1.1.71] | 21 = 7 cases × 3 numbers: count of the endings in the data file's padaccheda of 4.1.2 (21 items, सुँ … सुप्). |
 | 0.7 | **aṅga, pada, bha (l01).** 1.4.13: the base, from where the affix is enjoined, is aṅga before that affix (K5: *yasmāt pratyayo vidhīyate dhātor vā prātipadikād vā tad-ādi śabda-rūpaṃ pratyaye parato 'ṅgasañjñaṃ bhavati*). 1.4.17 स्वादिष्वसर्वनामस्थाने (Q): before the endings from सुँ on that are not sarvanāmasthāna, [the base is] pada. 1.4.18 यचि भम् (Q): before such an ending that begins with य or a vowel, [the base is] bha, an exception to 1.4.17 (K7: *pūrveṇa padasañjñāyāṃ prāptāyāṃ tad-apavādo bhasañjñā vidhīyate*). **The e-text has no comment under 1.4.17** (lines 5661–5666 hold only the heading): its English line follows the Kāśikā's restatement under 1.4.18 (K7, line 5674: *svādiṣv asarvanāmasthāne iti vartate*) and the LSK under 1.4.17 (L5, line 619: *kappratyayāvadhiṣu svādiṣv asarvanāmasthāneṣu pūrvaṃ padaṃ syāt*). **The LSK's *kappratyayāvadhiṣu*** ("the affixes from su up to kap", 5.4.151): 1.4.17 also covers the taddhita affixes up to kap — Teacher Notes only (the learner meets case endings only; the Kāśikā's examples of 8.2.7 *rājatā, rājataraḥ* show it, c04.l03). **sarvanāmasthāna** (1.1.43 सुडनपुंसकस्य, K): the first five endings, सुँ औ जस् अम् औट् (सुट्, a pratyāhāra of 4.1.2 from सु to the ट् of औट्), except after a neuter; the Kāśikā's examples are राजन्'s own cells: *rājā, rājānau, rājānaḥ / rājānam, rājānau / suṭ iti kim? rājñaḥ paśya* (K6). These five are the "strong" endings; their effect (6.4.8, the lengthened अ) is display until c05.l03. **The vocative** (sambuddhi, 2.3.49) is outside this lesson: not sorted. | TRADITION | [REF:ashtadhyayi 1.4.13]; [REF:ashtadhyayi 1.4.17]; [REF:ashtadhyayi 1.4.18]; [REF:ashtadhyayi 1.1.43]; [REF:kashika 1.4.18]; [REF:kashika 1.1.43]; [REF:laghukaumudi on 1.4.17] | Data file: 1.4.17 an पदम् (1.4.14); 1.4.18 an स्वादिषु, असर्वनामस्थाने (1.4.17); both ad आकडारात् एका संज्ञा (1.4.1: Teacher Notes). |
 | 0.8 | **The राजन् paradigm (Whitney §424; FACT), cell by cell, with the name of the base before each ending (TRADITION).** Table 0.A. Three cells are derived in l01 (राजभिः, राज्ञा; राजा as display steps); the full table is ○ display (✓ in c05.l03). Whitney §421: "In the strong cases of the masculine, the vowel of the ending is prolonged to आ ā; in the weakest cases it is in general struck out altogether; in the middle cases, or before a case-ending beginning with a consonant, the final न् n is dropped. The न् n is also lost in the nom. sing. …" §421b: "In the loc. sing., also, the a may be either rejected or retained." Whitney's "strong / weakest / middle" = the tradition's strong / bha / pada (the same three sets of endings for a masculine; FACT beside TRADITION, both printed). Whitney prints the final -स् of endings (राजभिस्, राज्ञस्); the course prints the visarga (राजभिः, राज्ञः), as Volume 3 did. | FACT; TRADITION | [REF:whitney1889 §421]; [REF:whitney1889 §424]; [REF:ashtadhyayi 1.4.17]; [REF:ashtadhyayi 1.4.18] | Every cell of table 0.A re-read in the local Whitney (lines 4303–4490). |
 | 0.9 | **The three operations (l02).** A rule **replaces** (आदेशः, "substitute"; what it replaces is named in the genitive, 1.1.49, owned Q from c01.l03), **adds** (आगमः, "augment"; where it goes is shown by its own marker: ṭ-marked at the beginning, k-marked at the end of the item named in the genitive, 1.1.46 — K8: *ādiḥ ṭit bhavati, antaḥ kit bhavati ṣaṣṭhīnirdiṣṭasya*) or **deletes** (लोपः, "deletion", 1.1.60 अदर्शनं लोपः: "disappearance is called lopa" — K9: *prasaktasya adarśanaṃ lopasañjñaṃ bhavati*, "the non-appearance of what would have appeared"). One-for-two: 6.1.84 एकः पूर्वपरयोः (D), a heading (K10: *adhikāro 'yam … pūrvasya parasya dvayor api sthāne ekādeśo bhavati*). The m-marked augment (नुम्) goes after the last vowel (1.1.47, *preview*, c05.l03). Lopa has kinds named by affix (luk, ślu, lup: 1.1.61): Teacher Notes only. | TRADITION | [REF:ashtadhyayi 1.1.46]; [REF:ashtadhyayi 1.1.60]; [REF:ashtadhyayi 6.1.84]; [REF:kashika 1.1.46]; [REF:kashika 1.1.60]; [REF:kashika 6.1.84] | Fixed English: substitute · augment · deletion (plan §1.4.4). |
 | 0.10 | **guṇa and vṛddhi defined (l02).** 1.1.1 वृद्धिरादैच् (Q): आ, ऐ, औ are called vṛddhi. 1.1.2 अदेङ् गुणः (B): अ, ए, ओ are called guṇa. 1.1.3 इको गुणवृद्धी (B): where guṇa or vṛddhi is enjoined **by its name** (without naming what it replaces), it replaces an इक् vowel (K13, line 342: *vṛddhiguṇau svasañjñayā śiṣyamāṇau ikaḥ eva sthāne veditavyau*; the Kāśikā's own example is 7.3.84 and *nayati*). With 1.1.50 (owned D, c01) the nearest grade is chosen; with 1.1.51 उरण् रपरः (K) the substitute of ऋ/ॠ comes with र् (अर्, आर्). Table 0.B. **The tapara letters:** अत् in 1.1.2 (short अ only), आत् in 1.1.1 (long आ only), by 1.1.70 (owned from c01.l02). **Nuance (Teacher Notes):** the Kāśikā under 1.1.1 says the त् of 1.1.1 is there for ऐच् (*taparakaraṇam aijartham*, "tād api paraḥ taparaḥ", K11): read by 1.1.70's second reading, it keeps ऐ औ to their own length (against three- or four-mora vowels in *khaṭvaiḍakā*); under 1.1.2 it says the त् serves all three (*taparakaraṇaṃ tv iha sarvārtham*, K12). The learner line stays "आत्: long आ only (tapara)". **FACT beside TRADITION** (plan §1.1 principle 5): Whitney §235a: "A guṇa-vowel (guṇa *secondary quality*) differs from the corresponding simple vowel by a prefixed a-element which is combined with the other according to the usual rules; a vṛddhi-vowel (vṛddhi *growth, increment*), by the further prefixion of a to the guṇa-vowel." Both accounts give ओ from ऊ; neither inserts a व. | TRADITION; FACT | [REF:ashtadhyayi 1.1.1]; [REF:ashtadhyayi 1.1.2]; [REF:ashtadhyayi 1.1.3]; [REF:kashika 1.1.1]; [REF:kashika 1.1.2]; [REF:kashika 1.1.3]; [REF:whitney1889 §235] | Whitney quoted verbatim from the local e-text (line 2388 ff.), whose section number reads "255" (an OCR slip between §234 and §236). Data file 1.1.3: an वृद्धिः, गुणः; type P (paribhāṣā) — not printed (c06.l01 shows the file's kinds). |
 | 0.11 | **anuvṛtti (l03).** A sūtra is often incomplete on its own; words of earlier sūtras continue into it (अनुवृत्तिः "carrying down"). MW s.v. anu-vṛtti: "(in Pāṇini's Gr.) continued course or influence of a preceding rule on what follows". The Kāśikā marks it with *iti vartate* / *ity anuvartate* / *ity eva* (K7 under 1.4.18, K19 under 8.3.15, K28 under 6.1.87, K33 under 8.3.59: *mūrdhanyaḥ iti vartate, sa iti ca*). Until Chapter 6 the course prints the carried words; the learner applies the completed rule and does not find the words (plan §4.2 l03 Main risk). | TRADITION | [REF:monierwilliams1899 s.v. anuvṛtti]; [REF:kashika 8.3.59] | — |
-| 0.12 | **adhikāra (l03).** A heading stands over a stretch of rules. **6.4.1 अङ्गस्य** (B): from here to the end of Book 7, every rule is about [something belonging to] the aṅga (K22: *adhikāro 'yam āsaptamādhyāyaparisamāpteḥ / yad ita ūrdhvam anukramiṣyāmaḥ aṅgasya ity evaṃ tad veditavyam*). **8.3.55 अपदान्तस्य मूर्धन्यः** (D): from here to the end of the pāda (8.3), [in place of स् that is] not at the end of a word, a retroflex (K30: *apadāntasya iti, mūrdhanyaḥ iti caitad adhikṛtam veditavyam āpādaparisamāpteḥ*). **8.3.57 इण्कोः** (D): after an इण् sound or the k-row (K31: *iṇaḥ kavargāc ca*). Also headings the learner already uses: 3.1.1 प्रत्ययः, 3.1.2 परश्च (l01, B: both adhikāras by the Kāśikā, K1, K2) and 6.1.84 एकः पूर्वपरयोः (l02, D). **Data-file note:** 6.4.1's `an` field lists दीर्घः (6.3.111) and सम्प्रसारणस्य (6.3.139) and its `ad` field lists 6.4.1 itself; the bracket line under 6.4.1 (B, quoted in l03) prints both as rule (ii) of row 0.18 says, "(the file carries them; this heading does not use them)", and the heading as "(the heading begins here)" — §3, the bracket lines. | TRADITION | [REF:ashtadhyayi 6.4.1]; [REF:kashika 6.4.1]; [REF:kashika 8.3.55]; [REF:kashika 8.3.57] | — |
+| 0.12 | **adhikāra (l03).** A heading stands over a stretch of rules. **6.4.1 अङ्गस्य** (B): from here to the end of Book 7, every rule is about [something belonging to] the aṅga (K22: *adhikāro 'yam āsaptamādhyāyaparisamāpteḥ / yad ita ūrdhvam anukramiṣyāmaḥ aṅgasya ity evaṃ tad veditavyam*). **8.3.55 अपदान्तस्य मूर्धन्यः** (D): from here to the end of the pāda (8.3), [in place of a sound that is] not at the end of a word, a retroflex — in the ṣ rules the स् comes from 8.3.56, and the Kāśikā under 8.3.55 (line 81489) says the heading names a retroflex, not ष, for the sake of ढ: *ṣaḥ ity evaṃ siddhe mūrdhanyagrahaṇaṃ ḍhakārārtham* (K30: *apadāntasya iti, mūrdhanyaḥ iti caitad adhikṛtam veditavyam āpādaparisamāpteḥ*). **8.3.57 इण्कोः** (D): after an इण् sound or the k-row (K31: *iṇaḥ kavargāc ca*). Also headings the learner already uses: 3.1.1 प्रत्ययः, 3.1.2 परश्च (l01, B: both adhikāras by the Kāśikā, K1, K2) and 6.1.84 एकः पूर्वपरयोः (l02, D). **Data-file note:** 6.4.1's `an` field lists दीर्घः (6.3.111) and सम्प्रसारणस्य (6.3.139) and its `ad` field lists 6.4.1 itself; the bracket line under 6.4.1 (B, quoted in l03) prints both as rule (ii) of row 0.18 says, "(the file carries them; this heading does not use them)", and the heading as "(the heading begins here)" — §3, the bracket lines. | TRADITION | [REF:ashtadhyayi 6.4.1]; [REF:kashika 6.4.1]; [REF:kashika 8.3.55]; [REF:kashika 8.3.57] | — |
 | 0.13 | **ṇatva (l03; IR-016).** 8.4.1 रषाभ्यां नो णः समानपदे (Q): after र् or ष्, न् becomes ण् when both stand in one word (K34: *rephaṣakārābhyām uttarasya nakārasya ṇakārādeśo bhavati, samānapadasthau cen nimittanimittinau bhavataḥ*; e-text *uttarasy* → *uttarasya*). **समानपदे is a locative of place ("within the same word"), not the case code's "before"**: the Kāśikā's *samānapadasthau* "both standing in the same word"; a §12 mistake row. **The ṛ-vārttika** (K35, line 82815): *ṛvarṇāc ca+iti vaktavyam* — after ऋ/ॠ too (*tisṛṇām, catasṛṇām, mātṝṇām, pitṝṇām*): Teacher Notes, one learner line ("the Kāśikā adds ऋ"). 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि (D): even when अट् sounds (the vowels and ह य व र, c01.l01), the k-row, the p-row, the preverb आङ् or num stand between (K36: *aṭ ku pu āṅ num ity etair vyavāye 'pi …*; examples *karaṇam, kiriṇā, giriṇā, kuruṇā, guruṇā · arkeṇa, mūrkheṇa, gargeṇa · darpeṇa, repheṇa, garbheṇa*). 8.4.37 पदान्तस्य (D): [न्] at the end of a word does **not** [become ण्] (K37: *padāntasya nakārasya ṇakārādeśo na bhavati / vṛkṣān / plakṣān / arīn / girīn*). **The न carried into 8.4.37 from 8.4.34 is the negative particle "not"** (data file pc of 8.4.34: न$S$0$0$, an indeclinable; the Kāśikā's *na bhavati*), not the sound न्: the bracket line glosses it so (§7, correction 2). FACT beside it: Whitney §189: "The dental nasal न् n, when immediately followed by a vowel or by न् n or म् m or य् y or व् v, is turned into the lingual ण् ṇ if preceded in the same word by … ष् ṣ, र् r, or ऋ ṛ or ॠ ṝ … unless … there intervene … a palatal (except य् y), a lingual, or a dental." Whitney's "immediately followed by a vowel …" is why the final न् of रामान् stays (FACT); 8.4.37 is the tradition's statement of the same (TRADITION). | TRADITION; FACT | [REF:ashtadhyayi 8.4.1]; [REF:ashtadhyayi 8.4.2]; [REF:ashtadhyayi 8.4.37]; [REF:kashika 8.4.1]; [REF:kashika 8.4.2]; [REF:kashika 8.4.37]; [REF:whitney1889 §189]; [REF:whitney1889 §190] | 8.4.1 and 8.4.2 are R in c06.l02, 8.4.37 is not (plan §4.0.6, review c02:E#15). |
 | 0.14 | **ṣatva (l03; IR-016).** 8.3.59 आदेशप्रत्यययोः (D), under the headings 8.3.55 and 8.3.57 and with सः carried from 8.3.56: [in place of स्] that is a substitute or belongs to an affix, after an इण् sound or the k-row, not at the end of a word — a retroflex (K33: *ādeśo yaḥ sakāraḥ, pratyayasya ca yaḥ sakāraḥ iṇkor uttaraḥ tasya mūrdhanyo bhavati ādeśaḥ*; examples *siṣeva, suṣvāpa · agniṣu, vāyuṣu, kartṛṣu, hartṛṣu*). The retroflex nearest to स् is ष् (1.1.50, owned). **इण्** = इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल (c01.l01: from इ of अइउण् to the ण् of लण्), so every vowel but अ/आ triggers, and so do ह य व र ल; the k-row is **कु** (उदित्, c01.l02). FACT beside it: Whitney §180: "The dental sibilant स् s is changed to the lingual ष् ṣ, if immediately preceded by any vowel save अ a and आ ā, or by क् k or र् r—unless the स् s be final, or followed by र् r"; §180b: "The general Hindu grammar prescribes the same change after a l also; but the Prātiśākhyas give no such rule, and … Actual cases of the combination do not occur in the older language, nor have any been pointed out in the later." (Teacher Notes: the ल of इण्.) | TRADITION; FACT | [REF:ashtadhyayi 8.3.59]; [REF:ashtadhyayi 8.3.55]; [REF:ashtadhyayi 8.3.57]; [REF:kashika 8.3.59]; [REF:kashika 8.3.57]; [REF:whitney1889 §180] | The Kāśikā under 8.3.57 has *vākṣu* among its examples (K31, line 81530), the plan's वाक्षु. |
 | 0.15 | **The 1.x errors corrected in the open in this chapter (plan §4.0.4), each re-found on a rendered page image and quoted verbatim.** **(a) IR-016, p. 73** (l03): the info card "Ṣatva (षत्व) & Ṇatva (णत्व) — RETROFLEXION": "When certain sounds (इ ई उ ऊ ऋ ए ऐ ओ औ ह य व र ल क ग) appear BEFORE a dental स or न, the dental retroflexes" · "• रामेण (रामेन intended) — the इ (in pre-form) triggers ण" · "Rule (8.4.2): "अट्कुप्वाङ्नुम्व्यवायेऽपि" — even with intervening अट् (vowels), क्/प्/ङ् class, अङ्, नुम् — the cerebralization still happens." Corrected: one trigger list is given for two rules with different triggers (ṇ: र, ष, and ऋ/ॠ by the vārttika — no other vowel; ṣ: the इण् sounds and कु); in रामेण the र triggers, not an इ (the इ of the pre-form राम + इन is no trigger of ṇ at all — it triggers only ṣ — and by the time 8.4.1 acts it is inside the ए of रामेन, अ + इ by 6.1.87); अट् is the vowels **and ह य व र**; कु, पु are the k-row and p-row, not "क्/प्/ङ् class"; "अङ्" is आङ्, the preverb आ. (Teacher Notes, not learner text: the same card's "हरेस् + सुत = हरेष्षुत" and "ब्रह्मन् + अस्ति → ब्रह्माणि" are garbled — ब्रह्माणि is a nominative plural of the neuter ब्रह्मन्, not a sandhi with अस्ति; and p. 74's matching pair "Trigger sounds → इ/उ/ऋ/र/क-class".) The plan's paraphrase "in रामेण the इ triggers ण" (review c02:E#16, rejected) is replaced in learner text by the verbatim line. **(b) IR-021, p. 89** (l02): "Example: भू + ति → भवति (where गुण inserts व)". Corrected: guṇa is a substitute (ऊ → ओ) and inserts nothing; the व comes from a second substitute, ओ → अव् (6.1.78); nothing in भवति is an āgama. The card's next line, "Example: अ-ग-छ-त् (अट् augment अ added at start of past tense)", is right and kept. **(c) the same card's lopa example, p. 89 — the plan misquotes it** (§7, correction 1): the image reads "Example: रामस् + अहम् → रामोऽहम् / The original "स" went through visarga → ओ; / for the next word, अ underwent lopa (replaced by avagraha ऽ)." — **अहम्**, not the plan's "अपि". Corrected: in Pāṇini's terms nothing is dropped: -अः before अ gives ओ (owned, v3.c04.l02), and ओ + अ → ओ is one substitute for both (6.1.109 एङः पदान्तादति, owned, under 6.1.84); the ऽ is a printing sign (v3.c04.l01). Teacher Notes: रुँ → उ by 6.1.113, अ + उ → ओ by 6.1.87; before a voiced consonant 6.1.114 (रामो गच्छति). **(d) the same card's ṭ-marker example, p. 89:** "• -ट् marker → at start (e.g., नुम् augment as न-म्)". Corrected: नुम् is m-marked and goes after the last vowel (1.1.47, preview, c05.l03); अट् is the ṭ-marked augment. (Teacher Notes only: the card's "इ + अ → य् + अ = या" should end "= य".) **(e) the rājan card, p. 98** (l01): "→ "Before vowel-initial endings or those starting in sibilant + vowel, the stem is bha"" · "In "weak" cases (3rd-7th cases) before vowel endings, stems collapse:" · "Case 1 sg: राजा (pada — n drops)" · "Case 2 sg: राजानम् (aṅga — n stays)". Corrected: यचि = before an ending that begins with य or a vowel (the य of यचि is the semivowel), the strong endings excepted (carried from 1.4.17); the acc. pl. राज्ञः (शस्, a 2nd-case ending) is bha too, which the card's "3rd-7th cases" leaves out (राजभिः is already excluded by its "before vowel endings"), and 6.4.134 drops only the अ (राज्न् + आ → राज्ञा); before सुँ and अम् the base is strong (1.1.43), not pada and not "merely aṅga" (every base is aṅga before an affix, 1.4.13); the न् of राजा drops because, once सुँ is dropped, the whole word is a pada (1.4.14 with 1.1.62, Teacher Notes) and 8.2.7 applies. (Teacher Notes only: the same card's "Example: रामा (stem) + सु (nom.sg.) → रामस् (aṅga state)" has the stem wrong — राम, not रामा.) | the errors: documented 1.x errors; the corrections: TRADITION / FACT | `Sanskritam-Curriculum.pdf` pp. 73, 89, 98 (page images) | Quotation marks = verbatim from the image. The plan's §4.0.4 rows and the l02 block are corrected for (c) (§7). |
 | 0.16 | **The नमस्ते thread, concluded (l01; plan §1.5; review c02:P#0, E#3).** नमस् is an avyaya (1.1.37, owned); the sup after it is deleted (2.4.82 अव्ययादाप्सुपः, D: K38 *avyayād uttarasya āpaḥ supaś ca lug bhavati*; L9, VLk 373); the word is still a pada because a deleted affix still counts (1.1.62 प्रत्ययलोपे प्रत्ययलक्षणम्, Teacher Notes; 1.4.14, owned); then स् → रुँ (8.2.66) → visarga (8.3.15). Before ते the visarga also arises (8.3.15 works before a khar such as त्) and is then replaced by स् (8.3.34 विसर्जनीयस्य सः, owned): so the स् of नमस्ते is a **substitute for the visarga**, not the stem's स् left untouched. FACT: Volume 1 shipped नमः as "pause form of the noun … नमस् (namas)" (v1.c03.l04 §14): consistent. | TRADITION | [REF:ashtadhyayi 2.4.82]; [REF:kashika 2.4.82]; [REF:laghukaumudi on 2.4.82]; [REF:ashtadhyayi 8.3.34] | — |
-| 0.17 | **The grammarians' line, 2 (l01 §17; plan §1.5, §7.3 Q3).** **HISTORY, hedged:** Patañjali's Mahābhāṣya, "c. 2nd c. BCE" on the usual estimate [REF:mahabhashya] (the key's own date). **What the opened text shows (FACT about the text):** the Mahābhāṣya discusses short statements on Pāṇini's rules called vārttikas; the edition this course reads (Kielhorn, revised Abhyankar; GRETIL) prints them in bold (M1, the e-text header: "BOLD for Kātyāyana's Vārttikas"), and the Mahābhāṣya itself names their author "the venerable Kātya" (M3, line 24006, a bold line: *… provāca bhagavān kātyaḥ*). **Learner wording (fixed):** "Pāṇini's rules have been commented on for over two thousand years. Kātyāyana wrote short notes on them, the vārttikas; Patañjali's Great Commentary, the Mahābhāṣya (c. 2nd century BCE on the usual estimate), discusses Pāṇini's rules and Kātyāyana's notes together [REF:mahabhashya]; [REF:cardona1997]." — **"over two thousand years" is cut** unless Pass C keeps it as an inference from the key's date (c. 2nd c. BCE → 2026 CE: about 2,150 years): recommended **cut** (no scale phrase; STYLE_GUIDE §7), and the callout opens "Pāṇini's rules have long been commented on." No date is printed for Kātyāyana. **TRADITION (display ○, not a headword, not a tool):** the Paspaśāhnika's question and answer (M2, lines 144–145): किं पुनः शब्दानुशासनस्य प्रयोजनानि is Teacher Notes; the printed line is **रक्षोहागमलघ्वसन्देहाः प्रयोजनम्।** (*rakṣohāgamalaghvasandehāḥ prayojanam.*) — pause form: रक्षा-ऊह-आगम-लघु-असन्देहाः प्रयोजनम्। — "The purposes [of grammar] are preservation (of the Veda), adaptation (ūha, of mantras to the rite), scripture (āgama), economy (laghu) and freedom from doubt (asandeha)." Source line: "Mahābhāṣya, Paspaśāhnika (Kielhorn I, p. 1, l. 14 – p. 2, l. 2); text of the GRETIL e-text". **E-text correction (listed in Teacher Notes and in the plan's §4.6 list):** *proyojanam* → *prayojanam*. The line is not bold in the e-text: it is Patañjali's own statement, not a vārttika (as the plan says). The compound's first member is रक्षा (Pas 3 {3/17}: *rakṣārtham vedānām adhyeyam vyākaraṇam*), so the pause form is रक्षा-ऊह-…; रक्षा + ऊह → रक्षोह (guṇa, 6.1.87) and लघु + असन्देह → लघ्वसन्देह (yaṇ, 6.1.77): two of the three owned joins the learner can name (the third: ऊह + आगम → ऊहागम, 6.1.101). Assessed only as "According to Patañjali, …". | HISTORY; TRADITION | [REF:mahabhashya] (Paspaśāhnika); [REF:cardona1997] | Line verified at `pmbhassu.htm` 145 (Pas_3 {2/17}). |
+| 0.17 | **The grammarians' line, 4 (l01 §17; plan §1.5, §7.3 Q3 — the plan's "grammarians, 2"; Chapter 1 shipped instalments 1, 2 and 3, so this chapter's three are printed 4, 5 and 6).** **HISTORY, hedged:** Patañjali's Mahābhāṣya, "c. 2nd c. BCE" on the usual estimate [REF:mahabhashya] (the key's own date). **What the opened text shows (FACT about the text):** the Mahābhāṣya discusses short statements on Pāṇini's rules called vārttikas; the edition this course reads (Kielhorn, revised Abhyankar; GRETIL) prints them in bold (M1, the e-text header: "BOLD for Kātyāyana's Vārttikas"), and the Mahābhāṣya itself names their author "the venerable Kātya" (M3, line 24006, a bold line: *… provāca bhagavān kātyaḥ*). **Learner wording (fixed):** "Pāṇini's rules have been commented on for over two thousand years. Kātyāyana wrote short notes on them, the vārttikas; Patañjali's Great Commentary, the Mahābhāṣya (c. 2nd century BCE on the usual estimate), discusses Pāṇini's rules and Kātyāyana's notes together [REF:mahabhashya]; [REF:cardona1997]." — **"over two thousand years" is cut** unless Pass C keeps it as an inference from the key's date (c. 2nd c. BCE → 2026 CE: about 2,150 years): recommended **cut** (no scale phrase; STYLE_GUIDE §7), and the callout opens with Kātyāyana — "Kātyāyana wrote short notes on Pāṇini's rules, the vārttikas; …" — with no word of age ("long" is cut too). No date is printed for Kātyāyana. **TRADITION (display ○, not a headword, not a tool):** the Paspaśāhnika's question and answer (M2, lines 144–145): कानि पुनः शब्दानुशासनस्य प्रयोजनानि is Teacher Notes; the printed line is **रक्षोहागमलघ्वसन्देहाः प्रयोजनम्।** (*rakṣohāgamalaghvasandehāḥ prayojanam.*) — pause form: रक्षा-ऊह-आगम-लघु-असन्देहाः प्रयोजनम्। — "The purposes [of grammar] are preservation (of the Veda), adaptation (ūha, of mantras to the rite), scripture (āgama), economy (laghu) and freedom from doubt (asandeha)." Source line: "Mahābhāṣya, Paspaśāhnika (Kielhorn I, p. 1, l. 14 – p. 2, l. 2); text of the GRETIL e-text". **E-text correction (listed in Teacher Notes and in the plan's §4.6 list):** *proyojanam* → *prayojanam*. The line is not bold in the e-text: it is Patañjali's own statement, not a vārttika (as the plan says). The compound's first member is रक्षा (Pas 3 {3/17}: *rakṣārtham vedānām adhyeyam vyākaraṇam*), so the pause form is रक्षा-ऊह-…; रक्षा + ऊह → रक्षोह (guṇa, 6.1.87) and लघु + असन्देह → लघ्वसन्देह (yaṇ, 6.1.77): two of the three owned joins the learner can name (the third: ऊह + आगम → ऊहागम, 6.1.101). Assessed only as "According to Patañjali, …". | HISTORY; TRADITION | [REF:mahabhashya] (Paspaśāhnika); [REF:cardona1997] | Line verified at `pmbhassu.htm` 145 (Pas_3 {2/17}). |
 | 0.18 | **The bracket line (from l03; plan §1.4.3; reviews c02:E#4, P#6, post:form#1, post:restate-1#1).** Under every sūtra printed from c02.l03 on, one bracket line reproduces the data file's `an` field as **"carried (data file): word, source"** and its `ad` field as **"headings (data file): heading, number"**, with two exceptions, each said on the line: (i) a heading not taught by that lesson, or not taught at all in the volume, is replaced by **"(further headings: Teacher Notes)"** — in this chapter: पूर्वत्रासिद्धम् (8.2.1, until c06.l03), संहितायाम् (8.2.108 and 6.1.72), पदस्य (8.1.16), असिद्धवदत्राभात् (6.4.22), भस्य (6.4.129), आद्युदात्तश्च (3.1.3), धातोः (3.1.91), लस्य (3.4.77), आकडारात् एका संज्ञा (1.4.1); (ii) a carried word the rule does not use is printed with "(the file carries it; this rule does not use it)" (7.3.103's दीर्घः). **Headings printable in c02.l03** (taught by then): अङ्गस्य (6.4.1, B, l03), अपदान्तस्य मूर्धन्यः (8.3.55), इण्कोः (8.3.57), प्रत्ययः (3.1.1, B, l01), परश्च (3.1.2, B, l01), एकः पूर्वपरयोः (6.1.84, D, l02). **A course line beside the file's** where the reading needs more than the file records: "carried (course): …" (8.4.2: नः णः समानपदे). The exact lines for every sūtra of l03 are in §3. **Before l03** (l01, l02) the c01 bracket style stands: "[word, carried from N.N.N]". | policy | plan §1.4.3; data file | — |
-| 0.19 | **Teacher-Notes sūtras of this chapter** (number and text in Teacher Notes; learner text prints "Teacher Notes" and no number — except that from l03 on a bracket line prints a source number as the data file gives it, plan §1.4.3, e.g. 7.1.23, 3.4.97, 3.4.98, 8.3.56; no tool, no count): 1.3.4 न विभक्तौ तुस्माः, 1.3.7 चुटू (l01); 1.1.62 प्रत्ययलोपे प्रत्ययलक्षणम् (l01, l03); 6.4.136 विभाषा ङिश्योः (l01: राज्ञि/राजनि); 7.1.23 स्वमोर्नपुंसकात् (l01: the source of 7.1.24's carried words before the bracket regime); 7.3.111 घेर्ङिति (l02: the guṇa of गुरवे); 6.4.72 आडजादीनाम्, 6.1.90 आटश्च (l02: ऐच्छत्); 6.1.113 अतो रोरप्लुतादप्लुते, 6.1.114 हशि च (l02: रामोऽहम्, रामो गच्छति); 3.4.97 इतश्च लोपः परस्मैपदेषु (l02: the source of 3.4.100's लोपः and परस्मैपदेषु); 8.4.41 ष्टुना ष्टुः (l03: the ण of कृष्ण); 6.1.103 तस्माच्छसो नः पुंसि (l03: the न् of रामान्); 7.1.54 ह्रस्वनद्यापो नुट्, 6.4.3 नामि (l03: the न of -आनाम्). **Printed by number only as labelled previews** (no tier, no count; plan §1.4.2, §4.0.3 Totals): 1.3.8 (c03.l02), 3.4.78 (c03.l01), 1.1.47 (c05.l03), 6.4.8 and 6.1.68 (c05.l03), 8.2.1 (c06.l03), 7.3.102 (c06.l03), 8.2.30 (c04.l01), 7.3.84 (c03.l02), 4.1.2 (owned picture). Every number above was found in the data file. | policy | plan §1.4.3, §4.0.3 Totals | 7.3.84's number prints in l02 only in the ladder line "(7.3.84, c03.l02)". |
+| 0.19 | **Teacher-Notes sūtras of this chapter** (number and text in Teacher Notes; learner text prints "Teacher Notes" and no number — except that from l03 on a bracket line prints a source number as the data file gives it, plan §1.4.3, e.g. 7.1.23, 3.4.97, 3.4.98, 8.3.56; no tool, no count): 1.3.4 न विभक्तौ तुस्माः, 1.3.7 चुटू (l01); 1.1.62 प्रत्ययलोपे प्रत्ययलक्षणम् (l01, l04); 6.4.136 विभाषा ङिश्योः (l01: राज्ञि/राजनि); 7.1.23 स्वमोर्नपुंसकात् (l01: the source of 7.1.24's carried words before the bracket regime); 7.3.111 घेर्ङिति (l02: the guṇa of गुरवे); 6.4.72 आडजादीनाम्, 6.1.90 आटश्च (l02: ऐच्छत्); 6.1.113 अतो रोरप्लुतादप्लुते, 6.1.114 हशि च (l02: रामोऽहम्, रामो गच्छति); 3.4.97 इतश्च लोपः परस्मैपदेषु (l02: the source of 3.4.100's लोपः and परस्मैपदेषु); 8.4.41 ष्टुना ष्टुः (l03: the ण of कृष्ण); 6.1.103 तस्माच्छसो नः पुंसि (l03: the न् of रामान्); 7.1.54 ह्रस्वनद्यापो नुट्, 6.4.3 नामि (l03: the न of -आनाम्). **Printed by number only as labelled previews** (no tier, no count; plan §1.4.2, §4.0.3 Totals): 1.3.8 (c03.l02), 3.4.78 (c03.l01), 1.1.47 (c05.l03), 6.4.8 and 6.1.68 (c05.l03), 8.2.1 (c06.l03), 7.3.102 (c06.l03), 8.2.30 (c04.l01), 7.3.84 (c03.l02), 4.1.2 (owned picture). Every number above was found in the data file. | policy | plan §1.4.3, §4.0.3 Totals | 7.3.84's number prints in l02 only in the ladder line "(7.3.84, c03.l02)". |
 | 0.20 | **Seams used in this chapter's course-written lines** (all ✓ in the Volume 3 Chapter 4 maps): vowel — savarṇa-dīrgha (तीत्यत्र), guṇa (राजेति, रामेणेति, रथेनेति, अत्रेकारस्य), vṛddhi (चैकार्थौ, चादेशौ), yaṇ (इत्यत्र, इत्यधिकारः, पदान्यनुवर्तन्ते, अप्येवम्), अयादि at a word end (प्रत्यय उकारः, स्थान ओकारः); visarga — -अः + voiced → ओ (परो भवति, सेवको गच्छति, रेफो णत्वस्य, सकारो मूर्धन्यो भवति, गुणो वृद्धिः), -अः + अ → ओऽ (अतोऽपि, यतोऽस्य), -अः + other vowel → अ + gap (राम इति, अकार आगमः, गुण आगमः, नकार इति, ओकार इण्-, आकार इण्-), -इः/-उः + vowel or voiced → र् (सुरिति, वृद्धिर्हानिः, राजभिरित्यत्र, वृद्धिरपि), visarga + च/त → श्/स् (नृपश्च, आगमश्च, हानिश्च, सकारश्च, यतस्तस्य), visarga kept before क/प/स and at stops; सः before a consonant → स (स कुत्र: 6.1.132 owned); consonant — म् → ं before a consonant (किं कृतम्, किं भवति, णत्वं भवति, कारणं रेफः, निमित्तं किम्), न् doubled after a short vowel before a vowel (राजन्निति), त् + vowel → द् (अगच्छदिति), त् + प written together (पूर्वसूत्रात्पदानि, तत्पूर्व-). **No seam in this chapter's lines is ◐ or named-only** (the ट ठ row seam यतष्टकारः was avoided by word order). | policy | Volume 3 Chapter 4 fact base, tables 0.A–0.C | Each line below lists its seams where one is not obvious. |
 | 0.21 | **Commentary lines in learner text.** The plan prints one: the Paspaśāhnika line (l01 §17, row 0.17). This note adds one more (§7, deviation 4): l02 §17, the Paspaśāhnika's next sentence but one, which names the chapter's three operations — **लोपागमवर्णविकारज्ञो हि सम्यग्वेदान्परिपालयिष्यति।** (*lopāgamavarṇavikārajño hi samyag vedān paripālayiṣyati.*) — pause form: लोप-आगम-वर्ण-विकार-ज्ञः हि सम्यक् वेदान् परिपालयिष्यति। — "For one who knows deletion, augment and the change of sounds will guard the Vedas properly." (M2, `pmbhassu.htm` line 147, Pas_3 {4/17}; e-text in pausa: *lopāgamavarṇavikārajñaḥ hi samyak vedān paripālayiṣyati*; joined by the course: -ज्ञः हि → -ज्ञो हि, सम्यक् वेदान् → सम्यग्वेदान्, वेदान् परि- written together). TRADITION, display ○ (future causative परिपालयिष्यति glossed, not taught), assessed only as "According to Patañjali". Every other commentary line is Teacher Notes until Chapter 6 (plan §1.1 principle 9). Every English line that says what a sūtra does follows the Kāśikā under it (table 0.E) and cites [REF:kashika N.N.N]. Source line for every commentary quotation: "text of the GRETIL e-text". | policy; TRADITION | plan §1.4.3; [REF:mahabhashya] (Paspaśāhnika) | — |
 | 0.22 | **Registers in this chapter.** FACT with Whitney: the राजन् cells (§§421, 424), the ṇ and ṣ laws (§§180, 189–190), guṇa as "a prefixed a-element" (§235a), the dative of u-stems, गुरवे (§336d, opened: "The dat. masc. and fem. gunates the final of the stem before the ending e, making aye and ave"). TRADITION, attributed: every derivation and every sūtra's action ("According to Pāṇini, …", "According to the Kāśikā, …"). HISTORY with keys and hedges: Patañjali (row 0.17). No SYMBOL content. | policy | STYLE_GUIDE §4 | — |
@@ -121,7 +121,7 @@ cells.
 | D | sg | राज्ञे | राज्ञे | rājñe | ङे | bha | 6.4.134 |
 | Ab | sg | राज्ञस् | राज्ञः | rājñaḥ | ङसिँ | bha | 6.4.134 |
 | G | sg | राज्ञस् | राज्ञः | rājñaḥ | ङस् | bha | 6.4.134 |
-| L | sg | राज्ञि, राजनि | राज्ञि, राजनि | rājñi, rājani | ङि | bha | 6.4.134 optional before ङि (6.4.136, Teacher Notes) |
+| L | sg | राज्ञि, राजनि | राज्ञि, राजनि | rājñi, rājani | ङि | bha | 6.4.134; optional before ङि [Teacher Notes] |
 | V | sg | राजन् | राजन् | rājan | सुँ (sambuddhi) | — (not sorted) | — |
 | N A V | du | राजानौ | राजानौ | rājānau | औ, औट् | strong | 6.4.8 |
 | I D Ab | du | राजभ्याम् | राजभ्याम् | rājabhyām | भ्याम् | pada | 8.2.7 |
@@ -175,7 +175,7 @@ vṛddhi (Whitney §235a, "अ a is its own guṇa"; FACT): one line.
 | S0-db | v4.c02.l01 | v4.c02.l03 | "+1 week: one base, three names — sort the twelve endings सुँ, औ, जस्, अम्, भ्याम्, भिस्, भ्यस्, सुप्, शस्, टा, ङे and ङि into strong, pada and bha for the base राजन्, and name the rule each box sets off (strong: the lengthened अ, c05.l03; pada: 8.2.7; bha: 6.4.134); v4.c02.l03's Station 0 runs exactly this." |
 | S0-dc | v4.c02.l02 | v4.c02.l03 | "+1 day: eight operations labelled — say whether each is a substitute (आदेशः), an augment (आगमः) or a deletion (लोपः), and name its sūtra: (1) अ + उ → ओ in सूर्योदयः (2) अ + ए → ऐ in तत्रैव (3) the अ at the front of अगच्छत् (4) the इ of ति in अगच्छत् (5) सुँ → अम् in फलम् (6) the ट् of अट् in अगच्छत् (7) the उँ of सुँ in रामः (8) ओ → अव् in भवति; v4.c02.l03's Station 0 runs exactly this." |
 | S0-dd | v4.c02.l02 | v4.c02.l04 | "+1 week: the guṇa/vṛddhi ladder — for इ, ई, उ, ऊ, ऋ and ऌ write the guṇa and the vṛddhi substitute, say the rule that defines each grade (1.1.2, 1.1.1) and the rule that says which vowels they replace (1.1.3), then write भू → भो → भव् as two substitutions, naming the second (6.1.78); v4.c02.l04's Station 0 runs exactly this." |
-| S0-de | v4.c02.l03 | v4.c02.l04 | "+1 day: the ṇ/no-ṇ sort — for देवेन, रथेन, रामान्, कृष्णेन, गुरुणा, मित्रेण and पितॄणाम् say whether the न became ण and why, naming the trigger, what stands between it and the nasal, and the sūtra (8.4.1, 8.4.2 or 8.4.37); v4.c02.l04's Station 0 runs exactly this." |
+| S0-de | v4.c02.l03 | v4.c02.l04 | "+1 day: the ṇ/no-ṇ sort — for देवेन, रथेन, रामान्, कृष्णेन, गुरुणा, मित्रेण and पितॄणाम् say whether the न became ण and why, naming the trigger, what stands between it and the nasal, and the sūtra (8.4.1 रषाभ्यां नो णः समानपदे, 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि or 8.4.37 पदान्तस्य); v4.c02.l04's Station 0 runs exactly this." |
 | S0-df | v4.c02.l03 | v4.c03.l01 | "+1 week: derive रामेषु — derive, according to Pāṇini, राम + सुप् → रामेषु in table form, with the carried words and headings of 7.3.103 and 8.3.59 in brackets as the bracket line gives them; v4.c03.l01's Station 0 runs exactly this." |
 | S0-dg | v4.c02.l04 | v4.c03.l01 | "+1 day: derive रामेण — derive, according to Pāṇini, राम + टा → रामेण in table form, each step with its sūtra, and say which words 7.1.12 and 8.4.2 carry and from where; v4.c03.l01's Station 0 runs exactly this." |
 | S0-dh | v4.c02.l04 | v4.c03.l02 | "+1 week: the operations table — from memory, write the three operations with their Sanskrit names (आदेशः, आगमः, लोपः), what shows each in a rule (the genitive, 1.1.49; the augment's marker, 1.1.46; the word लोपः, 1.1.60) and one owned example of each; v4.c03.l02's Station 0 runs exactly this." |
@@ -249,7 +249,7 @@ used for the sūtra's English line (row 0.21).**
 | K25 | 6.4.71 | 64692–64698 | *luṅ laṅ lṛṅ ity eteṣu parato 'ṅgasya aḍāgamo bhavati, udāttaś ca sa bhavati / luṅ - akārṣīt / ahārṣīt / laṅ - akarot / aharat / lṛṅ - akariṣyat / ahariṣyat //* | — |
 | K26 | 7.1.12 | 67216–67219, 67226–67227 | *akārāntād aṅgād uttareṣām ṭāṅasiṅasām ina āt sya ity ete ādeśāḥ bhavanti yathāsaṅkhyam / ṭā ity etasya inādeśo bhavati / vṛkṣeṇa / plakṣeṇa / … ataḥ iti kim ? sakhyā / patyā /* | "…" = 67220–67225 (ṅasi, ṅas) |
 | K27 | 7.1.13 | 67242–67247 | *ṅeḥ iti caturthyekavacanasya grahaṇam / akārāntād aṅgād uttarasya ṅe ity etasya yaḥ ity ayam ādeśo bhavati / vṛkṣāya / plakṣāya / ataḥ iti kim ? sakhye / patye /* | — (exam task E key; Teacher Notes of l04) |
-| K28 | 6.1.87 | 53095–53097 | *aci ity anuvartate / avarnāt paro yo 'c ca pūrvo yo 'varṇaḥ tayoḥ pūrvaparayoḥ avarṇācoḥ sthāne eko guṇa ādeśo bhavati / tavedam /* | *avarnāt* → *avarṇāt*; *yo 'c ca* → *yo 'c, aci ca* (sense; Pass C) |
+| K28 | 6.1.87 | 53095–53097 | *aci ity anuvartate / avarnāt paro yo 'c ca pūrvo yo 'varṇaḥ tayoḥ pūrvaparayoḥ avarṇācoḥ sthāne eko guṇa ādeśo bhavati / tavedam /* | *avarnāt* → *avarṇāt* |
 | K29 | 6.1.88 | 53119–53122 | *āt iti vartate / avarṇāt paro ya ec, eci ca pūrvo yaḥ avarṇaḥ, tayoḥ pūrvaparayoḥ avarṇaicoḥ sthāne vṛddhir ekādeśo bhavati / ādguṇasya apavādaḥ / brahamaiḍakā /* | *brahamaiḍakā* → *brahmaiḍakā* |
 | K30 | 8.3.55 | 81480–81485 | *padādhikāro nivṛttaḥ / apadāntasya iti, mūrdhanyaḥ iti caitad adhikṛtam veditavyam āpādaparisamāpteḥ / vakṣyati - ādeśapratyayayoḥ (\*8,3.59) / siṣeva / ṣuṣVāpa / agniṣu /* | *ṣuṣVāpa* → *suṣvāpa* |
 | K31 | 8.3.57 | 81519–81530 | *iṇkoḥ ity etad adhikṛtaṃ veditavyam / ita uttaraṃ yad vakṣyāmaḥ, iṇaḥ kavargāc ca ity evaṃ tad veditavyam / vakṣyati - ādeśapratyayayoḥ (\*8,3.59) / siṣeva / suṣvāpa / agniṣu / vāyuṣu / kartṛṣu / hartṛṣu / gīrṣu / dhūrṣu / vākṣu /* | — |
@@ -298,7 +298,8 @@ bracket lines of row 0.18 (written out in §3).
 Line under the table (plan; review c02:P#8): "Before सुँ, a strong ending, the base राम is not called
 pada (1.4.17 leaves the strong endings out); the whole word रामस् is a pada because it ends in a sup
 (1.4.14)." FACT beside it: Whitney §327a "The nom. masc. has the normal ending s" [REF:whitney1889
-§327]; the visarga is its pause form (v1.c02.l06).
+§327]; the visarga is its pause form (the breath of v1.c02.l06; named the pause shape of a final s
+in v3.c04.l02 §5).
 
 **D-b — Derive, according to Pāṇini, फल + सुँ → फलम्** (l01; derive it yourself; key)
 
@@ -310,7 +311,8 @@ pada (1.4.17 leaves the strong endings out); the whole word रामस् is a
 | 3 | **फलम्** | — | the म् of अम् stays: a final म् of an ending is no marker (Teacher Notes) |
 
 Teacher Notes: 7.1.23 स्वमोर्नपुंसकात् is the source of स्वमोः and नपुंसकात्; the Kāśikā asks why the
-substitute is not just म् (K16: *dīrghatvaṃ prāpnoti*, "lengthening would then apply" — 6.1.102);
+substitute is not just म् (K16: *dīrghatvaṃ prāpnoti*, "lengthening would then apply" — by
+7.3.102 सुपि च, before a bare म्, a यञ् sound; not 6.1.102, which needs a following vowel);
 L3. Whitney §327b: "The acc. (masc. and neut.) adds m (not am); and this form has the office also of
 nom. neuter" (FACT; the two accounts differ in form and agree in result).
 
@@ -386,7 +388,7 @@ Teacher Notes: 1.1.62 प्रत्ययलोपे प्रत्ययल
 | 4 | **सूर्योदयः** | — | joined |
 
 Line under it: "1.1.3 is not needed here: it gives 'in place of an इक्' to a rule that names guṇa or
-vṛddhi and has no genitive (the Kāśikā: a genitive is made to appear, K13); under 6.1.84 the replaced
+vṛddhi without naming the sound replaced (the Kāśikā: a genitive is made to appear, K13); under 6.1.84 the replaced
 items are already named — both vowels."
 
 **D-h — Derive, according to Pāṇini, तत्र + एव → तत्रैव** (l02; derive it yourself; key)
@@ -452,7 +454,7 @@ bare if a FACT line is wanted; recommended none).
 | Step | String | Sūtra | What happens |
 |---|---|---|---|
 | 0 | गच्छ + मस् | (c03.l02) stem; 3.4.78 (preview, c03.l01) | ल् → मस् (1pl P) |
-| 1 | गच्छ + म | 3.4.99 नित्यं ङितः (D) | after a ṅ-marked l-affix the स् of a 1st-person ending is always dropped |
+| 1 | गच्छ + म | 3.4.99 नित्यं ङितः (D) | the स् of a 1st-person ending of a ṅ-marked l-affix is always dropped |
 | 2 | गच्छा + म | 7.3.101 अतो दीर्घो यञि (owned) | the stem's अ is lengthened before म (yañ) |
 | 3 | अ + गच्छाम | 6.4.71 · 1.1.46 (D; l02) | the augment अट् at the beginning (its ट् dropped) |
 | 4 | **अगच्छाम** | — | — |
@@ -499,9 +501,9 @@ with its rule); audio `v4c02l01-derivations-read.mp3`, `v4c02l01-conversation.mp
 **Objectives.**
 1. en "Take six owned forms apart into base, affix and marker (प्रकृतिः · प्रत्ययः · इत्), naming the
    markers as today's ending-marker line gives them." · hi "छह परिचित रूपों को प्रकृति, प्रत्यय और इत्
-   में अलग करें, और इत् आज की अन्त्य-चिह्न पंक्ति के अनुसार बताएँ।"
+   में अलग करें, और इत् आज की प्रत्यय-चिह्न पंक्ति के अनुसार बताएँ।"
 2. en "Name the base राजन् strong, pada or bha before twelve endings, and say which rule each name
-   sets off." · hi "बारह प्रत्ययों से पहले राजन् को सर्वनामस्थान (सबल), पद या भ बताएँ, और कहें कि हर
+   sets off." · hi "बारह प्रत्ययों से पहले राजन् को सबल, पद या भ बताएँ, और कहें कि हर
    नाम कौन-सा नियम चलाता है।"
 3. en "Derive, according to Pāṇini, in table form, रामः, राजभिः, राज्ञा and नमः (with नमस्ते), and
    by yourself फलम्, वनम्, देवः and नृपः." · hi "पाणिनि के अनुसार, तालिका में, रामः, राजभिः,
@@ -580,7 +582,7 @@ endings, the main-risk fix).
 - **Labelled previews (number printed with its lesson; no tier):** 1.3.8 (c03.l02), 6.4.8 and 6.1.68
   (c05.l03), 8.2.1 (c06.l03), 4.1.2 (the owned picture).
 - **Teacher Notes (number only there):** 1.3.4, 1.3.7, 1.1.62, 6.4.136, 7.1.23, 2.4.58, 1.4.1 (the
-  heading आकडारादेका संज्ञा), 5.4.151 (the LSK's *kap*).
+  heading आ कडारादेका संज्ञा), 5.4.151 (the LSK's *kap*).
 
 **The derivations.** D-a, D-c, D-d, D-e with the teacher, in that order; D-f read as display; D-b is
 the derive-it-yourself model (table 0.F). The sort (Ex 3) between D-d and D-e.
@@ -591,8 +593,10 @@ glossed 1.4.18 'Before vowel-initial endings or those starting in sibilant + vow
 the य of यचि is the semivowel य, not a sibilant. It said that 'In "weak" cases (3rd-7th cases) before
 vowel endings, stems collapse': the second-case plural राज्ञः (शस्; a display form) is bha too, though it is no 3rd–7th case; and the
 bha rule drops only the अ (राज्न् + आ). It printed 'Case 1 sg: राजा (pada — n drops)' and 'Case 2
-sg: राजानम् (aṅga — n stays)': before सुँ and अम् the base is strong (sarvanāmasthāna), neither pada
-nor 'just aṅga' — every base is aṅga before an affix. The न् of राजा drops for another reason: once
+sg: राजानम् (aṅga — n stays)': सुँ and अम् are two of the five strong endings — sarvanāmasthāna
+names those endings, not the base. Before them the base is not called pada; and aṅga is no third
+state beside pada and bha: every base is aṅga before an affix, in राज्ञा as much as in राजानम्.
+The न् of राजा drops for another reason: once
 the ending is gone, the whole word is a pada (1.4.14; the reason a deleted ending still counts:
 Teacher Notes), and 8.2.7 drops the न्."
 
@@ -633,7 +637,8 @@ man's friend." — आत्मा मनुष्य का मित्र ह
 **§14 line:** "Ledger 521 → 527 (6 ledger-new). Cells drilled: 3 (रामः, राजभिः, राज्ञा, derived; the
 other राजन् cells ○). Tools added: 13 (1.4.17, 1.4.18 Q; 3.1.1, 3.1.2, 1.3.2, 1.4.13 B; 8.2.66,
 8.3.15, 7.1.24, 6.1.107, 8.2.7, 6.4.134, 2.4.82 D)." (Plan note kept: "the heaviest count of Chapter
-2: six of them are the one-line steps of रामः and नमः.")
+2: six of them are the one-line steps of रामः and नमः" — six table lines, seven tools: 3.1.1 and 3.1.2
+share a line, and the lesson prints "seven of the thirteen".)
 
 **§3 Station 0 (verbatim; diffed against v4.c01.l03 §20 and v4.c01.l04 §20: identical) and review
 prompts.**
@@ -657,8 +662,9 @@ callout; the corrected card is plain text (above).
 triple form. In the strong cases of the masculine, the vowel of the ending is prolonged to आ ā; in the
 weakest cases it is in general struck out altogether; in the middle cases, or before a case-ending
 beginning with a consonant, the final न् n is dropped. The न् n is also lost in the nom. sing. …"
-[REF:whitney1889 §421]. Whitney's three sets of cases and Pāṇini's three names (strong / bha / pada)
-pick out the same endings for a masculine; the two accounts name them differently (FACT beside
+[REF:whitney1889 §421]. Whitney's three sets of cases and Pāṇini's three sets of endings (the strong
+ones, and those before which the base is called bha or pada) are the same for a masculine; the
+two accounts name them differently (FACT beside
 TRADITION, plan principle 5). Typology line (no claim beyond it): a language may build its forms by
 adding affixes to a base; Sanskrit's case endings are affixes added after the base, and the base
 itself changes shape before some of them (Whitney's "triple form").
@@ -722,8 +728,8 @@ v3.c04.l02); 1.3.8 (c03.l02). Deferred: the n-stem and consonant-stem system (c0
 3. छात्रा — सुरिति प्रत्यय उकारः कुत्र? (*sur iti pratyaya ukāraḥ kutra?*) — pause: सुः इति प्रत्यये
    उकारः कुत्र? — "Where is the u in the affix su?"
 4. गुरुः — स इत्। (*sa it.*) — pause: सः इत्। — "It is a marker."
-5. छात्रा — राजेति शब्दे प्रकृतिः किम्? (*rājeti śabde prakṛtiḥ kim?*) — pause: राजा इति शब्दे
-   प्रकृतिः किम्? — "In the word rājā, what is the base?"
+5. छात्रा — राजेति शब्दे का प्रकृतिः? (*rājeti śabde kā prakṛtiḥ?*) — pause: राजा इति शब्दे
+   का प्रकृतिः? — "In the word rājā, what is the base?"
 6. गुरुः — राजन्निति प्रकृतिः। राजभिरित्यत्र सा पदम्। (*rājann iti prakṛtiḥ. rājabhir ity atra sā
    padam.*) — pause: राजन् इति प्रकृतिः। राजभिः इति अत्र सा पदम्। — "The base is rājan. In rājabhiḥ it
    is pada."
@@ -733,14 +739,14 @@ v3.c04.l02); 1.3.8 (c03.l02). Deferred: the n-stem and consonant-stem system (c0
 9. छात्रा — नृपो राजा चैकार्थौ? (*nṛpo rājā caikārthau?*) — pause: नृपः राजा च एक-अर्थौ? — "Do
    nṛpaḥ and rājā have one meaning?"
 10. गुरुः — आम्, एकार्थौ। (*ām, ekārthau.*) — pause: आम्, एक-अर्थौ। — "Yes, one meaning."
-Words owned: गुरुः (vocative गुरो ✓), कः, कुत्र, किम्, तत्र, सा, अस्ति, न, आम्, शब्दः, नृपः, पदम्;
+Words owned: गुरुः (vocative गुरो ✓), कः, का, कुत्र, किम्, तत्र, सा, अस्ति, न, आम्, शब्दः, नृपः, पदम्;
 labels सुः, इत्, भम्, उकारः, अकारः. Seams: राम इत्यत्र (-अः + इ → अ + gap; इ + अ → य), प्रत्यय उकारः
 (-ए + vowel → अ + gap), सुरिति, राजेति (आ + इ → ए), राजन्निति (न् doubled after a short vowel),
 राजभिरित्यत्र, राज्ञेत्यत्र, अकारो नास्ति (-अः + न → ओ; न + अ → ना), नृपो राजा, चैकार्थौ (अ + ए → ऐ).
 None of the exam's items.
 
-**§17 Story — the grammarians' line, 2 (plan §1.5).** The HISTORY callout of row 0.17 (learner
-wording fixed there, opening "Pāṇini's rules have long been commented on."), then the TRADITION
+**§17 Story — the grammarians' line, 4 (plan §1.5).** The HISTORY callout of row 0.17 (learner
+wording fixed there, opening "Kātyāyana wrote short notes on Pāṇini's rules, the vārttikas; …"), then the TRADITION
 display of the Paspaśāhnika line (row 0.17: Devanagari, IAST, pause form, translation, source line;
 the e-text's *proyojanam* corrected and listed in Teacher Notes). One closing line: "Three of the four
 seams are joins you own: रक्षा + ऊह → रक्षोह (guṇa), ऊह + आगम → ऊहागम (a long vowel), लघु + असन्देह → लघ्वसन्देह (yaṇ)." Not a
@@ -765,11 +771,11 @@ headword, not a tool; प्रयोजनम् becomes owned in c03.l05. Asse
   (The forms themselves are not asked: table 0.A is ○.)
 - **Ex 4 (obj 4; production; homework 8 min, written then said)** — "In Sanskrit, joined, with the
   pause form beneath": (1) "In the word devaḥ, deva is the base and su the affix." (2) "The king goes
-  with the servant." (3) "One's self is a man's friend." (4) "What was done by the king?" (5) "The
+  with the servant." (3) "One's self is a man's friend." (4) "The master goes with the king." (5) "The
   servant goes with the kings." (6) "In nṛpaḥ, su is the affix." Key: (1) देवशब्दे देव इति
   प्रकृतिः, सुरिति प्रत्ययः। — pause: देव-शब्दे देवः इति प्रकृतिः, सुः इति प्रत्ययः। (2) राजा भृत्येन
-  सह गच्छति। — pause: the same. (3) आत्मा नरस्य मित्रम्। — pause: the same. (4) राज्ञा किं कृतम्? —
-  pause: राज्ञा किम् कृतम्? (5) राजभिः सह भृत्यो गच्छति। — pause: राजभिः सह भृत्यः गच्छति। (6) नृप
+  सह गच्छति। — pause: the same. (3) आत्मा नरस्य मित्रम्। — pause: the same. (4) स्वामी राज्ञा सह गच्छति। —
+  pause: the same. (5) राजभिः सह भृत्यो गच्छति। — pause: राजभिः सह भृत्यः गच्छति। (6) नृप
   इत्यत्र सुः प्रत्ययः। — pause: नृपः इति अत्र सुः प्रत्ययः। Accept any correct word order with
   correct seams; accept सेवकः for "servant" in (2) and (5).
 - **Ex 5 (obj 3; homework 4 min, written)** — "Derive, according to Pāṇini, नमः + ते → नमस्ते (steps
@@ -907,9 +913,8 @@ and D-i (अगच्छत्) with the teacher; D-h (तत्रैव), D-n 
 - **D — 6.1.84 एकः पूर्वपरयोः** — "[From here on:] one [substitute] in place of the earlier and the
   later." A heading. [REF:kashika 6.1.84] (K10). (Previewed in c01.l03; number first printed here.)
 - **D — 3.4.100 इतश्च** — "And [the] इ [of a P ending of a ṅ-marked l-affix is dropped]." Bracket
-  (c01 style, before the regime of l03): [ङितः, carried from 3.4.99 — the second carried word the
-  course shows, after c01's अचि; and, from an earlier rule (Teacher Notes), लोपः "deletion" in the P
-  endings]. [REF:kashika 3.4.100] (K21: *ṅitaḥ ity eva … parasmaipadeṣu ity eva*; its own first
+  (c01 style, before the regime of l03): [ङितः, carried from 3.4.99; and, from an earlier rule
+  (Teacher Notes), लोपः "deletion" in the P endings]. [REF:kashika 3.4.100] (K21: *ṅitaḥ ity eva … parasmaipadeṣu ity eva*; its own first
   example *apacat*).
 - **D — 6.4.71 लुङ्लङ्लृङ्क्ष्वडुदात्तः** — "Before luṅ, laṅ and lṛṅ, [the aṅga gets the augment]
   अट्, [which is] accented (accent: Volume 5)." [REF:kashika 6.4.71] (K25; its laṅ examples *akarot,
@@ -1017,8 +1022,8 @@ row 0.23 (a) explained in Hindi (school book: गुण सन्धि; Pāṇi
 **§8 English Explanation.** The recipe: (1) अगच्छत्, भवति, सूर्योदयः; (2) what happened in each?
 (3) the three operations and the two grades; (4) D-g, D-i; (5) the learner's तत्रैव, गुरवे, अपठत्,
 अलिखत्, the ladder; (6) sentences. Includes table 0.C, table 0.B with the 1.1.51 card, the IR-021 box,
-the ऐच्छत् reading (Volume 3 left "the one difference" for this chapter: the augment is आट् before a
-vowel, and आ + इ → ऐ is vṛddhi; rules: Teacher Notes).
+the ऐच्छत् reading (Volume 3 taught ऐच्छत् whole, v3.c03.l03; today its one difference from अगच्छत्
+has rules: the augment is आट् before a vowel, and आ + इ → ऐ is vṛddhi; rules: Teacher Notes).
 
 **§9–§11.** Row 0.27: the ladder said aloud (इ — ए — ऐ; उ — ओ — औ; ऋ — अर् — आर्), ए and ओ long and
 pure, ऐ /ɐi̯/ and औ /ɐu̯/ with the अ /ɐ/ onset; अगच्छत् /ɐgɐt͡ɕt͡ɕʰɐt̪/: the augment heard as the first
@@ -1074,7 +1079,7 @@ Seams: अगच्छदित्यत्र (त् + vowel → द्), आ�
 owned), यतस्तस्य (8.3.34), टकार इत्, तीत्यत्रेकारस्य (इ + इ → ई; इ + अ → य; अ + इ → ए), किं भवति, गुण
 आगमः, स्थान ओकारः, वृद्धिरप्येवम्, वृद्धिरप्यादेशः. None of the exam's items.
 
-**§17 Story — the grammarians' line, 2 continued (§7, deviation 4).** One TRADITION display, the
+**§17 Story — the grammarians' line, 5 (§7, deviation 4).** One TRADITION display, the
 Paspaśāhnika's sentence that names this lesson's operations (row 0.21): लोपागमवर्णविकारज्ञो हि
 सम्यग्वेदान्परिपालयिष्यति। (*lopāgamavarṇavikārajño hi samyag vedān paripālayiṣyati.*) — pause:
 लोप-आगम-वर्ण-विकार-ज्ञः हि सम्यक् वेदान् परिपालयिष्यति। — "For one who knows deletion, augment and
@@ -1103,7 +1108,7 @@ I, p. 1, l. 14 – p. 2, l. 2); text of the GRETIL e-text". Gloss line: पर�
 - **Ex 4 (obj 4; production; homework 8 min, written then said)** — "In Sanskrit, joined, with the
   pause form beneath": (1) "guṇa is a substitute." (2) "In apaṭhat the a is an augment." (3) "The
   growth of wealth and the loss of anger." (4) "In ti the i is dropped." (5) "vṛddhi too is a
-  substitute, not an augment." (6) "Loss comes through anger." Key: (1) गुण आदेशः। — pause: गुणः
+  substitute, not an augment." (6) "Loss comes through anger." — anger in the instrumental. Key: (1) गुण आदेशः। — pause: गुणः
   आदेशः। (2) अपठदित्यत्राकार आगमः। — pause: अपठत् इति अत्र अकारः आगमः। (3) धनस्य वृद्धिः कोपस्य
   हानिश्च। — pause: धनस्य वृद्धिः कोपस्य हानिः च। (4) तीत्यत्रेकारस्य लोपः। — pause: ति इति अत्र
   इकारस्य लोपः। (5) वृद्धिरप्यादेशो नागमः। — pause: वृद्धिः अपि आदेशः न आगमः। (6) कोपेन हानिर्भवति।
@@ -1123,7 +1128,7 @@ I, p. 1, l. 14 – p. 2, l. 2); text of the GRETIL e-text". Gloss line: पर�
    beginning (c) goes at the end (d) goes after the last vowel — b. TRADITION
 6. In अगच्छत्, the अ at the front is, according to Pāṇini: (a) a substitute (b) an augment (c) a
    marker (d) part of the root — b. TRADITION
-7. In अगच्छत्, the इ of ति: (a) is replaced by अ (b) is dropped (3.4.100) (c) is an augment (d)
+7. According to Pāṇini, in अगच्छत् the इ of ति: (a) is replaced by अ (b) is dropped (c) is an augment (d)
    becomes त् — b. TRADITION
 8. According to Pāṇini, in भवति: (a) guṇa inserts व (b) ऊ → ओ is one substitute and ओ → अव् a second
    (c) व is an augment (d) the root is unchanged — b. TRADITION (a is the 1.x card)
@@ -1160,7 +1165,7 @@ corrections (*ṣaṣṭhī*, *anuccāraṇam*, *śabdair yo*, *prasaṅganivṛ
 "in the P endings" in 3.4.100: the Kāśikā's *parasmaipadeṣu ity eva*, which the data file's `an` does
 not list — §7, correction 4); 6.4.72 आडजादीनाम् and 6.1.90 आटश्च (ऐच्छत्); 7.3.111 घेर्ङिति and 1.1.52
 (गुरवे); 6.1.113–114 (रामोऽहम्, रामो गच्छति); 1.1.61 (luk, ślu, lup); the Kāśikā's note on the त् of
-1.1.1 (K11) against 1.1.2 (K12); the K13 point that 1.1.3 supplies a missing genitive; the p. 89
+1.1.1 (K11) against 1.1.2 (K12); the K13 point that 1.1.3 supplies a second genitive, इकः; the p. 89
 slip "इ + अ → य् + अ = या" (should be य); the plan's misquotation "रामस् + अपि" (the page reads
 अहम्); the 1.x "ELEGANT POINT" line not printed (row 0.26).
 
@@ -1175,7 +1180,7 @@ fixed by the substitution ladder (Ex 1; Ex 3 (6)).
 **Front matter.** id `v4.c02.l03` · file `lesson-03-words-carried-down.md` · title sa अनुवृत्तिः ·
 sa_iast *anuvṛttiḥ* · en "Words Carried Down" · hi "अनुवृत्ति: ऊपर से आए पद" · lesson_type grammar ·
 cefr B1 · duration 45 · self_study_minutes **45** · prerequisites [v4.c02.l02] · review_of
-[v4.c02.l02, v4.c02.l01, v3.c01.l03, v3.c02.l01, v3.c04.l04, v2.c04.l02, v2.c04.l03] ·
+[v4.c02.l02, v4.c02.l01, v3.c01.l03, v3.c02.l01, v3.c02.l02, v3.c04.l04, v2.c04.l02, v2.c04.l03] ·
 vocabulary_count **5** · tags [grammar, panini, anuvrtti, adhikara, natva, satva, ir-016, bracket-line,
 derivation, karoshi, laghukaumudi, spaced-review] · media (planned): image
 `v4c02l03-words-carried-down.svg` (8.4.1 at the top of a staircase; 8.4.2 and 8.4.37 on the steps
@@ -1230,7 +1235,8 @@ re-run as rule checks (देवेन, रथेन, रामान्, कृ
   (the file carries it; this rule does not use it) · headings (data file): अङ्गस्य, 6.4.1
 - **8.3.55** — carried (data file): — · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55 (the
   heading begins here) · (further headings: Teacher Notes)
-- **8.3.57** — carried (data file): सः, 8.3.56 · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55;
+- **8.3.57** — carried (data file): सः, 8.3.56 (the file carries it; this heading does not use it) ·
+  headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55;
   इण्कोः, 8.3.57 (the heading begins here) · (further headings: Teacher Notes)
 - **8.3.59** — carried (data file): सः, 8.3.56 ("in place of स्"); नुम्विसर्जनीयशर्व्यवाये · अपि,
   8.3.58 ("even when num, a visarga or a śar sound stands between") · headings (data file):
@@ -1270,13 +1276,13 @@ addition of this note (§7, deviation 6): without it the learner cannot say what
   आत् and स्य, in order." [REF:kashika 7.1.12] (K26).
 - **D — 7.3.103 बहुवचने झल्येत्** — "Before a plural sup beginning with a jhal sound, the short अ of
   the aṅga becomes ए." [REF:kashika 7.3.103] (K32).
-- **D — 8.3.55 अपदान्तस्य मूर्धन्यः** — "[From here to the end of this quarter: in place of स्] not at
-  the end of a word, a retroflex." A heading. [REF:kashika 8.3.55] (K30).
+- **D — 8.3.55 अपदान्तस्य मूर्धन्यः** — "[From here to the end of this quarter: in place of a sound]
+  not at the end of a word, a retroflex." A heading. [REF:kashika 8.3.55] (K30).
 - **D — 8.3.57 इण्कोः** — "[From here on:] after an इण् sound or the k-row." A heading.
   [REF:kashika 8.3.57] (K31).
 - **D — 8.3.59 आदेशप्रत्यययोः** — "[स्] which is a substitute, or belongs to an affix, [becomes a
   retroflex, ष्]." [REF:kashika 8.3.59] (K33).
-- **D — 3.4.99 नित्यं ङितः** — "After a ṅ-marked l-affix, the स् of a 1st-person ending is always
+- **D — 3.4.99 नित्यं ङितः** — "The स् of a 1st-person ending of a ṅ-marked l-affix is always
   dropped." [REF:kashika 3.4.99] (K20); the source of the ङितः that l02 carried into 3.4.100.
 - **Re-read:** 6.1.87 (owned), 7.3.101 (owned), 1.1.50 (D), 3.4.100 and 7.1.24 with their file lines,
   6.4.71 and 1.1.46 (D-m).
@@ -1356,7 +1362,7 @@ derived; all owned cells). Tools added: 10 (8.4.1 Q; 6.4.1 B; 8.3.59, 8.4.2, 7.1
   sets off (strong: the lengthened अ, c05.l03; pada: 8.2.7; bha: 6.4.134); v4.c02.l03's Station 0
   runs exactly this.
 Keys: S0-dc, S0-db. Review prompts: (v3.c01.l03) "Instrumental singular of देवः, रामः, रथः" — देवेन,
-रामेण, रथेन; (v3.c02.l01) "Locative plural of रामः and बालिका" — रामेषु, बालिकासु; (v3.c04.l04) "Which
+रामेण, रथेन; (v3.c02.l01, v3.c02.l02) "Locative plural of रामः and बालिका" — रामेषु, बालिकासु; (v3.c04.l04) "Which
 changes inside a word did Volume 3 name and leave for Volume 4?" — the ṇ of रामेण, the ṣ of रामेषु and
 करोषि, the guṇa inside गुरवे, भवति = भो + अति; (v2.c04.l02, v2.c04.l03) "Say 'you hear' and 'you do'"
 — शृणोषि, करोषि.
@@ -1402,7 +1408,7 @@ nasal, STYLE_GUIDE §2.1), then word by word.
 
 | # | Mistake | Fix |
 |---|---|---|
-| 1 | "In रामेण the इ triggers ण" (the 1.x card) | र triggers (8.4.1); the इ of राम + इन is no trigger for ṇ (among the vowels only ऋ is), and by then it is inside the ए (6.1.87) |
+| 1 | Saying that the इ triggers the ण of रामेण, as the 1.x card did | र triggers (8.4.1); the इ of राम + इन is no trigger for ṇ (among the vowels only ऋ is), and by then it is inside the ए (6.1.87) |
 | 2 | One trigger list for ṇ and ṣ | ṇ: र, ष (and ऋ, the Kāśikā's addition); ṣ: the इण् sounds and the k-row |
 | 3 | Reading समानपदे as "before the same word" | a locative of place: "within one word" (the Kāśikā: both stand in the same word) |
 | 4 | Writing *रामाण् | a word-final न् stays: 8.4.37 |
@@ -1439,8 +1445,8 @@ staircases; D-j, D-k, D-l; D-m with 3.4.99 ("the source of the ङितः you 
 6. गुरुः — तत्पूर्वसूत्रादनुवर्तते। एषानुवृत्तिः। (*tat pūrvasūtrād anuvartate. eṣānuvṛttiḥ.*) —
    pause: तत् पूर्व-सूत्रात् अनुवर्तते। एषा अनुवृत्तिः। — "It continues from the previous sūtra. This
    is anuvṛtti."
-7. छात्रा — रामानित्यत्र णकारः किं नास्ति? (*rāmān ity atra ṇakāraḥ kiṃ nāsti?*) — pause: रामान् इति
-   अत्र णकारः किम् न अस्ति? — "In rāmān, why is there no ṇ?"
+7. छात्रा — रामानित्यत्र णकारः किमर्थं नास्ति? (*rāmān ity atra ṇakāraḥ kimarthaṃ nāsti?*) — pause:
+   रामान् इति अत्र णकारः किमर्थम् न अस्ति? — "In rāmān, why is there no ṇ?"
 8. गुरुः — नकारः पदान्तेऽस्ति, पदान्तस्येति सूत्रम्। (*nakāraḥ padānte 'sti, padāntasyeti sūtram.*)
    — pause: नकारः पद-अन्ते अस्ति, पदान्तस्य इति सूत्रम्। — "The n is at the end of the word: the sūtra
    is 'padāntasya'."
@@ -1453,14 +1459,14 @@ staircases; D-j, D-k, D-l; D-m with 3.4.99 ("the source of the ङितः you 
     "But not in bālikāsu?"
 12. गुरुः — न। आकार इण्प्रत्याहारे नास्ति। (*na. ākāra iṇpratyāhāre nāsti.*) — pause: न। आकारः
     इण्-प्रत्याहारे न अस्ति। — "No: ā is not in iṇ."
-Words owned: गुरुः, किम्, अपि, तत्र, अस्ति, न, तेन (तद् ✓), भवति, एव, पूर्वः (c01), सूत्रम्, पदम्,
+Words owned: गुरुः, किम्, किमर्थम्, अपि, तत्र, अस्ति, न, तेन (तद् ✓), भवति, एव, पूर्वः (c01), सूत्रम्, पदम्,
 तु, प्रत्याहारः (c01), प्रत्ययः, today's निमित्तम्, कारणम्, अनुवृत्तिः; एषा (एषः ✓, its f.); labels
 रेफः, णत्वम्, पवर्गः, -कार names; display अनुवर्तते. Seams: रामेणेत्यत्र, निमित्तं किम्, मकारोऽपि,
 तत्रास्ति, भवत्येव, व्यवायेऽपीति, नकार इति, पदं नास्ति, तत्पूर्वसूत्रादनुवर्तते, एषानुवृत्तिः,
-रामानित्यत्र (no doubling after a long vowel), किं नास्ति, पदान्तेऽस्ति, पदान्तस्येति, करोषीत्यत्र,
+रामानित्यत्र (no doubling after a long vowel), किमर्थं नास्ति, पदान्तेऽस्ति, पदान्तस्येति, करोषीत्यत्र,
 कारणं किम्, ओकार इण्-, सकारश्च, बालिकास्वित्यत्र, आकार इण्-. None of the exam's items.
 
-**§17 Story — the grammarians' line, 2 concluded (plain text, TRADITION and HISTORY; no new
+**§17 Story — the grammarians' line, 6 (plain text, TRADITION and HISTORY; no new
 callout beyond one keyed line).** "In Varadarāja's Laghusiddhāntakaumudī (c. 17th century
 [REF:laghukaumudi]), a beginner's grammar of the tradition, these rules come where you have met them
 too: in the declension of राम. It reads 8.4.2 and 8.4.37 at रामान्, then 7.1.12 for रामेण — and its
@@ -1469,13 +1475,13 @@ comment ends 'ṇatvam', 'the ṇ-rule', 'rāmeṇa'; it reads 8.3.59 for रा
 Chapter 6 opens the same book.
 
 **§18 Exercises.**
-- **Ex 1 (obj 1; class 6 min)** — "ण or न? Say why: the trigger, what stands between, the end of the
+- **Ex 1 (obj 1; class 4 min, after the two-minute sort)** — "ण or न? Say why: the trigger, what stands between, the end of the
   word." (1) गुरुणा (2) देवेन (3) रथेन (4) पुत्राणाम् (5) रामान् (6) कृष्णेन. Key: (1) ण — र, then उ
   (अट्): 8.4.1 with 8.4.2 (2) न — no र, ष or ऋ (3) न — थ, a dental, stands between: not allowed by
   8.4.2 (4) ण — र, then आ (अट्): 8.4.1 with 8.4.2 (5) न — word-final: 8.4.37 (6) न — ण stands between
   the ष and the न: not allowed by 8.4.2. One point each for the answer and the reason.
 - **Ex 2 (obj 2; class 4 min)** — "ष or स? Say why." (1) नदीषु (2) बालिकासु (3) गुरुषु (4) फलेषु
-  (5) छात्रासु (6) शृणोषि. Key: (1) ष — ई (इण्) before the स् of the affix (2) स — आ is not in इण्
+  (5) मालासु (6) शृणोषि. Key: (1) ष — ई (इण्) before the स् of the affix (2) स — आ is not in इण्
   (3) ष — उ (इण्) (4) ष — ए (इण्; the ए from 7.3.103) (5) स — आ (6) ष — ओ (इण्) before the स् of the
   ending.
 - **Ex 3 (obj 4; derive it yourself; homework 12 min)** — "Derive, according to Pāṇini, in table
@@ -1516,8 +1522,8 @@ Chapter 6 opens the same book.
    (d) in place of a word — b. TRADITION
 3. According to Pāṇini, रथेन keeps न because: (a) it has no र (b) थ stands between, and 8.4.2 does
    not allow it (c) the न is word-final (d) its ending is different — b. TRADITION
-4. According to Pāṇini, the final न् of रामान् stays because of: (a) 8.4.2 (b) 7.1.12 (c) 8.4.37 (d)
-   8.3.59 — c. TRADITION
+4. According to Pāṇini, the final न् of रामान् stays because of: (a) 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि;
+   (b) 7.1.12 टाङसिङसामिनात्स्याः; (c) 8.4.37 पदान्तस्य; (d) 8.3.59 आदेशप्रत्यययोः — c. TRADITION
 5. According to Pāṇini, 6.4.1 अङ्गस्य is: (a) an operation (b) a heading over the rules to the end
    of Book 7 (c) the definition of aṅga (d) a marker — b. TRADITION
 6. Anuvṛtti is: (a) a word carried down from an earlier sūtra (b) a heading (c) a substitute (d) a
@@ -1534,7 +1540,8 @@ Chapter 6 opens the same book.
 **§20 bookings (verbatim).**
 - +1 day: the ṇ/no-ṇ sort — for देवेन, रथेन, रामान्, कृष्णेन, गुरुणा, मित्रेण and पितॄणाम् say
   whether the न became ण and why, naming the trigger, what stands between it and the nasal, and the
-  sūtra (8.4.1, 8.4.2 or 8.4.37); v4.c02.l04's Station 0 runs exactly this.
+  sūtra (8.4.1 रषाभ्यां नो णः समानपदे, 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि or 8.4.37 पदान्तस्य); v4.c02.l04's
+  Station 0 runs exactly this.
 - +1 week: derive रामेषु — derive, according to Pāṇini, राम + सुप् → रामेषु in table form, with the
   carried words and headings of 7.3.103 and 8.3.59 in brackets as the bracket line gives them;
   v4.c03.l01's Station 0 runs exactly this.
@@ -1550,7 +1557,7 @@ box (2) · 42–45 model sentences 1–6 read (3). Homework: Ex 3, Ex 4, Ex 5, E
 **§21 Homework (45).** Ex 3 (12) · Ex 4 written and said (8) · Ex 5 (6) · Ex 6 recorded (2) · §15
 with D-m read (2) · §16 aloud (4) · §17 read (1) · the quiz (6) and key (2) · real-world task (2):
 find three Hindi words with ण after र in the same word, with only vowels, ह य व र, the k-row or the p-row between (कारण, हरण, मरण …), and say in Hindi which Sanskrit rule
-made their ण (8.4.1–2; the key rejects रामायण and प्रमाण, whose ण other rules make: Teacher Notes). = 45.
+made their ण (8.4.1–2; the key rejects रामायण and प्रमाण, and any word whose र is in a preverb — प्रणाम, परिणाम, प्राण —, whose ण other rules make: Teacher Notes). = 45.
 
 **Teacher Notes.** K20–K22, K26, K30–K37, L4, L7 (table 0.E) with their corrections (*uttarasya*,
 *rephaṣakārābhyām*, *haraṇam / kiriṇā*, *suṣvāpa*, *vṛkṣebhyaḥ*, *leṭaḥ*); the ṛ-vārttika (K35) and
@@ -1588,7 +1595,7 @@ spaced-review] · media (planned): image `v4c02l04-chapter-page.svg`; worksheet
 1. en "Label base, affix and markers in eight owned forms." · hi "आठ परिचित रूपों में प्रकृति,
    प्रत्यय और इत् पहचानें।"
 2. en "Name the base राजन् strong, pada or bha before six endings, with the reason." · hi "छह
-   प्रत्ययों से पहले राजन् का नाम (सर्वनामस्थान, पद, भ) कारण सहित बताएँ।"
+   प्रत्ययों से पहले राजन् का नाम — सबल, पद, भ — कारण सहित बताएँ।"
 3. en "Say for six operations which kind each is and what in its rule shows it." · hi "छह कार्यों में
    बताएँ कि हर एक किस प्रकार का है और सूत्र में उसे क्या दिखाता है।"
 4. en "Derive, according to Pāṇini, four owned forms in table form, each step with its sūtra, and
@@ -1599,7 +1606,8 @@ spaced-review] · media (planned): image `v4c02l04-chapter-page.svg`; worksheet
 **§3 Station 0 (verbatim; before the sitting, outside its 45 minutes).**
 - +1 day: the ṇ/no-ṇ sort — for देवेन, रथेन, रामान्, कृष्णेन, गुरुणा, मित्रेण and पितॄणाम् say
   whether the न became ण and why, naming the trigger, what stands between it and the nasal, and the
-  sūtra (8.4.1, 8.4.2 or 8.4.37); v4.c02.l04's Station 0 runs exactly this.
+  sūtra (8.4.1 रषाभ्यां नो णः समानपदे, 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि or 8.4.37 पदान्तस्य); v4.c02.l04's
+  Station 0 runs exactly this.
 - +1 week: the guṇa/vṛddhi ladder — for इ, ई, उ, ऊ, ऋ and ऌ write the guṇa and the vṛddhi
   substitute, say the rule that defines each grade (1.1.2, 1.1.1) and the rule that says which vowels
   they replace (1.1.3), then write भू → भो → भव् as two substitutions, naming the second (6.1.78);
@@ -1928,8 +1936,8 @@ Every claim a citation reviewer must re-check, with where it was checked here.
      (1.2.45)" · प्रातिपदिक · v4.c02.l01
    - **सुप्** (update) · + "a pratyāhāra of 4.1.2: from सुँ to the marker प्, the 21 case endings"
      · सुप् · v4.c02.l01
-   - **आगमः** · *āgamaḥ* · "augment: a sound a rule adds; its marker places it (1.1.46)" · आगम ·
-     v4.c02.l02
+   - **आगमः** (update: the GLOSSARY has the row since v3.c03.l03) · + "in Pāṇini: a sound a rule
+     adds; its marker places it (1.1.46)" · आगम · v4.c02.l02
    - **लोपः** · *lopaḥ* · "deletion: disappearance of what would have appeared (1.1.60)" · लोप ·
      v4.c02.l02
    - **आदेशः** (update) · + "one of the three operations, beside आगमः and लोपः" · आदेश · v4.c02.l02

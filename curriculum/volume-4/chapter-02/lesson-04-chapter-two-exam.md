@@ -19,7 +19,7 @@ objectives:
   - en: "Label base, affix and markers in eight owned forms."
     hi: "आठ परिचित रूपों में प्रकृति, प्रत्यय और इत् पहचानें।"
   - en: "Name the base राजन् strong, pada or bha before six endings, with the reason."
-    hi: "छह प्रत्ययों से पहले राजन् का नाम — सर्वनामस्थान, पद, भ — कारण सहित बताएँ।"
+    hi: "छह प्रत्ययों से पहले राजन् का नाम — सबल, पद, भ — कारण सहित बताएँ।"
   - en: "Say for six operations which kind each is and what in its rule shows it."
     hi: "छह कार्यों में बताएँ कि हर एक किस प्रकार का है और सूत्र में उसे क्या दिखाता है।"
   - en: "Derive, according to Pāṇini, four owned forms in table form, each step with its sūtra, and read an unseen rule with a carried word."
@@ -67,7 +67,7 @@ whole. 537 words, 43 tools. Pass, and Chapter 2 is complete.
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
 | 1 | Label base, affix and markers in eight owned forms. | आठ परिचित रूपों में प्रकृति, प्रत्यय और इत् पहचानें। |
-| 2 | Name the base राजन् strong, pada or bha before six endings, with the reason. | छह प्रत्ययों से पहले राजन् का नाम — सर्वनामस्थान, पद, भ — कारण सहित बताएँ। |
+| 2 | Name the base राजन् strong, pada or bha before six endings, with the reason. | छह प्रत्ययों से पहले राजन् का नाम — सबल, पद, भ — कारण सहित बताएँ। |
 | 3 | Say for six operations which kind each is and what in its rule shows it. | छह कार्यों में बताएँ कि हर एक किस प्रकार का है और सूत्र में उसे क्या दिखाता है। |
 | 4 | Derive, according to Pāṇini, four owned forms in table form, each step with its sūtra, and read an unseen rule with a carried word. | पाणिनि के अनुसार चार परिचित रूपों की व्युत्पत्ति तालिका में करें, हर चरण सूत्र सहित, और अनुवृत्ति वाला एक अनदेखा सूत्र पढ़ें। |
 
@@ -93,10 +93,11 @@ due, scores logged beside the earlier ones [REF:cepeda2006].
 
 **Item 1 — from v4.c02.l03.** Lesson 3 booked today's first station in one line:
 
-- +1 day: the ṇ/no-ṇ sort — for देवेन, रथेन, रामान्, कृष्णेन, गुरुणा, मित्रेण and पितॄणाम् say whether the न became ण and why, naming the trigger, what stands between it and the nasal, and the sūtra (8.4.1, 8.4.2 or 8.4.37); v4.c02.l04's Station 0 runs exactly this.
+- +1 day: the ṇ/no-ṇ sort — for देवेन, रथेन, रामान्, कृष्णेन, गुरुणा, मित्रेण and पितॄणाम् say whether the न became ण and why, naming the trigger, what stands between it and the nasal, and the sūtra (8.4.1 रषाभ्यां नो णः समानपदे, 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि or 8.4.37 पदान्तस्य); v4.c02.l04's Station 0 runs exactly this.
 
-Four minutes in all, on the slip at the front of the booklet, which prints the seven forms and
-nothing else. About three minutes to write, alone, one line for each form: ण or न; the trigger;
+Four minutes in all, on the slip at the front of the booklet, which prints the seven forms and,
+beneath them, the three sūtras of the booking with their texts, and nothing else. About three
+minutes to write, alone, one line for each form: ण or न; the trigger;
 what stands between it and the nasal; the sūtra. पितॄणाम् is printed for you, as lesson 3 printed
 it: you judge its ण, you do not build the form. Then one minute: swap slips with a neighbour and
 mark against the key below.
@@ -286,7 +287,7 @@ before the comma. A compound is one word, its members hyphenated in the pause fo
 प्रत्यय भी कहते हैं; बाक़ी प्रत्ययों में जो व्यञ्जन से शुरू होते हैं, उनसे पहले प्रकृति पद है, और
 जो स्वर या य से शुरू होते हैं, उनसे पहले भ। नाम से ही तय होता है कि कौन-सा नियम लगेगा: पद
 में राजन् का न् हटता है — राजभिः; भ में उसके अन् का अ हटता है — राज्ञा। दूसरे पाठ ने बताया कि
-सूत्र तीन में से कोई एक काम करता है: आदेश — किसी के स्थान पर कुछ रखना; आगम — कुछ जोड़ना; लोप —
+बहुत-से सूत्र तीन में से कोई एक काम करते हैं: आदेश — किसी के स्थान पर कुछ रखना; आगम — कुछ जोड़ना; लोप —
 कुछ हटाना। गुण और वृद्धि कुछ जोड़ते नहीं; वे आदेश हैं — इ के स्थान पर ए, उ के स्थान पर ओ।
 तीसरे पाठ ने सूत्र पढ़ने का नया ढंग दिया: सूत्र अक्सर अकेले में अधूरा होता है, उसके कुछ पद ऊपर
 के सूत्र से आते हैं — यही अनुवृत्ति है; और कुछ सूत्र शीर्षक की तरह अपने नीचे के बहुत-से सूत्रों पर
@@ -294,7 +295,7 @@ before the comma. A compound is one word, its members hyphenated in the pause fo
 षत्व, समझ में आया।
 
 आज के पाँच कार्य: A — आठ परिचित रूपों में प्रकृति, प्रत्यय और इत् पहचानना — सात मिनट; B — छह
-प्रत्ययों से पहले राजन् का नाम बताना — सर्वनामस्थान, पद या भ — कारण के साथ — छह मिनट; C — छह
+प्रत्ययों से पहले राजन् का नाम बताना — सबल, पद या भ — कारण के साथ — छह मिनट; C — छह
 कार्यों के बारे में बताना कि हर एक आदेश है, आगम है या लोप, और सूत्र में उसे क्या दिखाता है — आठ
 मिनट; D — पाणिनि के अनुसार चार परिचित रूपों की व्युत्पत्ति, तालिका में, हर चरण अपने सूत्र सहित —
 चौदह मिनट; E — एक अनदेखा सूत्र, उसकी कोष्ठक-पंक्ति के साथ: तीन विकल्पों में से अनुवृत्त पद
@@ -303,7 +304,7 @@ before the comma. A compound is one word, its members hyphenated in the pause fo
 कार्य C, D और E में पुस्तिका की सूत्र-सूची [toolbox card] खुली रहती है: अध्याय के तैंतालीस
 सूत्र, संख्या के क्रम में, हर एक अपने पाठ और एक अंग्रेज़ी पंक्ति के साथ। इसलिए सूत्रों की संख्याएँ
 रटनी नहीं हैं; आपको यह पहचानना है कि कौन-सा चरण कौन-सा सूत्र करता है। कार्य A और B में सूची
-बन्द रहती है: वहाँ जो चाहिए, वह आपकी स्मृति में है — अन्त्य-चिह्न पंक्ति और तीन खाने।
+बन्द रहती है: वहाँ जो चाहिए, वह आपकी स्मृति में है — प्रत्यय-चिह्न पंक्ति और तीन खाने।
 
 तीन जाल, जिन पर अंक कटते हैं — अभी याद कर लीजिए। पहला: प्रत्यय का हर अन्तिम व्यञ्जन इत् नहीं
 होता। भिस् का स् और आम् का म् बने रहते हैं; सुप् का केवल प् जाता है। दूसरा: सुँ, औ, जस्, अम्
@@ -693,10 +694,10 @@ whole word that ends in a case ending or a verb ending is a pada too (1.4.14, ow
 the pada whose final स् becomes रुँ.
 
 **The ending-marker line.** Markers: the initial ज् of जस्, ट् of टा [Teacher Notes]; the
-initial श् of शस्, ङ् of ङे, ङसिँ, ङस्, ङि [1.3.8, preview: c03.l02]; the उँ of सुँ [1.3.2]; the
-प् of सुप् [1.3.3]. Not markers: the final स् of भिस्, भ्यस्, जस्, ङस्, ओस्; the म् of अम्,
-भ्याम्, आम् [Teacher Notes]. The उ of सुँ is nasal (उँ): the tradition says so; the printed rule
-does not show it.
+initial श् of शस्, ङ् of ङे, ङसिँ, ङस्, ङि [1.3.8, preview: c03.l02]; the उँ of सुँ and the इँ of
+ङसिँ [1.3.2]; the प् of सुप् and the ट् of औट् [1.3.3]. Not markers: the final स् of भिस्, भ्यस्,
+जस्, ङस्, ओस्; the म् of अम्, भ्याम्, आम् [Teacher Notes]. The उ of सुँ is nasal (उँ): the
+tradition says so; the printed rule does not show it.
 
 **The pratyāhāra *sup*** = from सुँ to the marker प् of सुप्: the twenty-one case endings of
 4.1.2 (1.1.71) — seven cases × three numbers, counted in the padaccheda of 4.1.2.
@@ -774,7 +775,7 @@ lessons read him with the Kāśikā [REF:ashtadhyayi]; [REF:kashika].
 | 2.4.82 | अव्ययादाप्सुपः | "After an indeclinable (avyaya), the case ending [and the feminine आप्] is deleted (luk)." — [लुक्, carried from an earlier rule: Teacher Notes] | D · c02.l01 |
 | 3.1.1 | प्रत्ययः | "[What is taught from here on is called] an affix." A heading over Books 3–5 | B · c02.l01 |
 | 3.1.2 | परश्च | "And it comes after [the root or nominal base]." | B · c02.l01 |
-| 3.4.99 | नित्यं ङितः | "After a ṅ-marked l-affix, the स् of a 1st-person ending is always dropped." — [carried (data file): लोपः, 3.4.97; सः, 3.4.98; उत्तमस्य, 3.4.98 · headings (data file): प्रत्ययः, 3.1.1; परश्च, 3.1.2 · (further headings: Teacher Notes)] | D · c02.l03 |
+| 3.4.99 | नित्यं ङितः | "The स् of a 1st-person ending of a ṅ-marked l-affix is always dropped." — [carried (data file): लोपः, 3.4.97; सः, 3.4.98; उत्तमस्य, 3.4.98 · headings (data file): प्रत्ययः, 3.1.1; परश्च, 3.1.2 · (further headings: Teacher Notes)] | D · c02.l03 |
 | 3.4.100 | इतश्च | "And [the] इ [of a P ending of a ṅ-marked l-affix is dropped]." — [carried (data file): लोपः, 3.4.97; नित्यम्, 3.4.99; ङितः, 3.4.99 · headings (data file): प्रत्ययः, 3.1.1; परश्च, 3.1.2 · (further headings: Teacher Notes)] | D · c02.l02 |
 | 6.1.84 | एकः पूर्वपरयोः | "[From here on:] one [substitute] in place of the earlier and the later." A heading over the vowel joins you own, 6.1.87 and 6.1.88 among them | D · c02.l02 |
 | 6.1.107 | अमि पूर्वः | "Before अम्, [an अक् vowel and the अ of अम्] become one vowel: the first." — [अचि, अकः, carried from 6.1.77 and 6.1.101] | D · c02.l01 |
@@ -788,8 +789,8 @@ lessons read him with the Kāśikā [REF:ashtadhyayi]; [REF:kashika].
 | 8.2.7 | नलोपः प्रातिपदिकान्तस्य | "The न् at the end of a nominal base that is a pada is dropped." | D · c02.l01 |
 | 8.2.66 | ससजुषो रुः | "The स् at the end of a pada [and that of सजुष्] becomes रुँ." | D · c02.l01 |
 | 8.3.15 | खरवसानयोर्विसर्जनीयः | "[A pada-final र्] becomes visarga before a khar sound or at a pause." | D · c02.l01 |
-| 8.3.55 | अपदान्तस्य मूर्धन्यः | "[From here to the end of this quarter: in place of स्] not at the end of a word, a retroflex." A heading — [carried (data file): — · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55 (the heading begins here) · (further headings: Teacher Notes)] | D · c02.l03 |
-| 8.3.57 | इण्कोः | "[From here on:] after an इण् sound or the k-row." A heading — [carried (data file): सः, 8.3.56 · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55; इण्कोः, 8.3.57 (the heading begins here) · (further headings: Teacher Notes)] | D · c02.l03 |
+| 8.3.55 | अपदान्तस्य मूर्धन्यः | "[From here to the end of this quarter: in place of a sound] not at the end of a word, a retroflex." A heading — [carried (data file): — · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55 (the heading begins here) · (further headings: Teacher Notes)] | D · c02.l03 |
+| 8.3.57 | इण्कोः | "[From here on:] after an इण् sound or the k-row." A heading — [carried (data file): सः, 8.3.56 (the file carries it; this heading does not use it) · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55; इण्कोः, 8.3.57 (the heading begins here) · (further headings: Teacher Notes)] | D · c02.l03 |
 | 8.3.59 | आदेशप्रत्यययोः | "[स्] which is a substitute, or belongs to an affix, [becomes a retroflex, ष्]." — [carried (data file): सः, 8.3.56 ("in place of स्"); नुम्विसर्जनीयशर्व्यवाये · अपि, 8.3.58 ("even when num, a visarga or a śar sound stands between") · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55; इण्कोः, 8.3.57 · (further headings: Teacher Notes)] | D · c02.l03 |
 | 8.4.1 | रषाभ्यां नो णः समानपदे | "After र् or ष्, ण् replaces न् when both are in one word." — [carried (data file): — · (further headings: Teacher Notes)] | Q · c02.l03 |
 | 8.4.2 | अट्कुप्वाङ्नुम्व्यवायेऽपि | "Even when अट् sounds, the k-row, the p-row, the preverb आङ् or num stand between [the र्/ष् and the न्]." — [carried (data file): रषाभ्याम्, 8.4.1 · carried (course): नः णः समानपदे, 8.4.1 · (further headings: Teacher Notes)] | D · c02.l03 |
@@ -833,7 +834,7 @@ every vowel but अ and आ, and ह य व र ल — and the k-row.
 | 1.2.45, 1.1.43, 1.1.51 as sūtras | card [K] — looked up, never assessed |
 | ऐच्छत् read as three operations; 1.1.47, the place of नुम् | ○ — Teacher Notes; c05.l03 |
 | finding carried words without the bracket line | ○ — Chapter 6 |
-| 1.3.8; 7.3.102; 8.2.1; वाक्षु and 8.2.30 | ○ — c03.l02; c06.l03; c06.l03; c04.l01 |
+| 1.3.8; 7.3.102; 8.2.1; वाक्षु; 8.2.30 | ○ — c03.l02; c06.l03; c06.l03; c05.l03; c04.l01 |
 | the two Sanskrit lines of the Paspaśāhnika; अनुवर्तन्ते, अनुवर्तते | ○ — display |
 
 Every other line stands as at v4.c01.l04. Ledger stays **537**; cells drilled: 0 new; tools
@@ -1523,7 +1524,9 @@ chapter, 537 in all, 43 tools. Chapter 2 is closed.
 **Asset 2 — `planned:assets/worksheets/volume-4/v4c02l04-exam-booklet.pdf` (layout spec)**
 
 > Print booklet, A4, seven pages and a loose sheet, one colour. Page 0 (a tear-off slip): Station
-> 0 — front: the seven forms of item 1, one answer line each; back: a six-row grid (vowel · guṇa ·
+> 0 — front: the seven forms of item 1, one answer line each, and beneath them the three sūtras
+> 8.4.1 रषाभ्यां नो णः समानपदे, 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि and 8.4.37 पदान्तस्य; back: a
+> six-row grid (vowel · guṇa ·
 > vṛddhi), one line for the three rule numbers, two lines for भू → भो → भव्, and one line headed
 > "Write the fourteen sūtras' markers in order". Page 1: cover "द्वितीयपरीक्षा · The Chapter 2
 > Exam", the task table of §18, the pass rule. Page 2: task A, eight forms with three answer
@@ -1570,7 +1573,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   that is left becomes a breath at the pause."
 - **01:30** — "One base, three names. Before bhis [bʱis], a consonant, rājan [ɾɑːd͡ʑɐn̪] is pada:
   rājabhiḥ [ɾɑːd͡ʑɐbʱih]. Before ā, a vowel, it is bha: rājñā [ɾɑːd͡ʑɲɑː]."
-- **02:30** — "A rule replaces, adds or deletes: ādeśa [ɑːd̪eːɕɐ], āgama [ɑːgɐmɐ], lopa
+- **02:30** — "A rule may replace, add or delete: ādeśa [ɑːd̪eːɕɐ], āgama [ɑːgɐmɐ], lopa
   [loːpɐ]. guṇa [guɳɐ] and vṛddhi [ʋr̩d̪d̪ʱi] only replace."
 - **03:20** — "A rule borrows its words from the rule above it: anuvṛtti [ɐn̪uʋr̩t̪t̪i]. After r,
   n becomes ṇ, even across a vowel or a labial."

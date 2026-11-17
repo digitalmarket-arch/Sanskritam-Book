@@ -23,7 +23,7 @@ in Volume 1, turns out to be what is left of the ending. Before case endings the
 names, pada and bha (1.4.17, 1.4.18), except before the five strong endings (1.1.43), and what a rule does to it depends on the name: राजन् becomes
 राजभिः as a pada and राज्ञा as a bha, and the 1.x book's rājan card is corrected in the open, its
 errors quoted with their page. नमः comes from नमस् by the same tools, and the स् of नमस्ते proves to be
-a substitute for the visarga. The second lesson shows that a rule does one of three things: it
+a substitute for the visarga. The second lesson shows three things a rule may do to a form: it
 replaces (आदेशः), adds (आगमः) or deletes (लोपः); guṇa and vṛddhi, the Volume 3 names of two vowel joins,
 are Pāṇini's names for sets of substitutes (1.1.1–3). अगच्छत् is derived as all three operations at
 once, and the 1.x claim that in भवति "गुण inserts व" is corrected: two substitutes, nothing inserted.

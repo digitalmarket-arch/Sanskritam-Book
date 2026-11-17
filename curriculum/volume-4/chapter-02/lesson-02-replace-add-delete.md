@@ -121,13 +121,15 @@ a table. Keep this page: इण् comes back in lesson 3.
 | Step | String | Sūtra | What happens |
 |---|---|---|---|
 | 0 | फल + सुँ | 3.1.1 · 3.1.2 [B] | फल, a neuter stem in short अ; the ending सुँ |
-| 1 | फल + अम् | 7.1.24 अतोऽम् [D] [स्वमोः, नपुंसकात्: carried from an earlier rule, Teacher Notes] | after a neuter stem in short अ, सुँ and अम् → अम् |
+| 1 | फल + अम् | 7.1.24 अतोऽम् [D] [स्वमोः, नपुंसकात्: carried from an earlier rule, lesson 1's Teacher Notes] | after a neuter stem in short अ, सुँ and अम् → अम् |
 | 2 | फलम् | 6.1.107 अमि पूर्वः [D] [अचि, अकः, carried from 6.1.77 and 6.1.101] | अ + the अ of अम् → one vowel, the first |
-| 3 | **फलम्** | — | the म् of अम् stays: a final म् of an ending is no marker [Teacher Notes] |
+| 3 | **फलम्** | — | the म् of अम् stays: a final म् of an ending is no marker [lesson 1's Teacher Notes] |
 
   Score /11: one per line, the string and the sūtra (or the marker named) both right. Accept
   steps 1–2 of रामः merged into one line ("उँ a marker, dropped: 1.3.2, 1.3.9"), and steps 4–5
-  likewise.
+  likewise; a merged line scores for both. A rule of tier D — 8.2.66, 8.3.15, 7.1.24, 6.1.107 —
+  may be named by its gist in words in place of its number: a D sūtra is never recalled by
+  number (§8 Step 3).
 - **Item 2.** अण्, as every rule but 1.1.69 reads it: अ इ उ · अण् as 1.1.69 reads it: अ इ उ ऋ ऌ ए ओ ऐ औ ह
   य व र ल · इण्: इ उ ऋ ऌ ए ओ ऐ औ ह य व र ल · हल्: every consonant, from the ह of हयवरट् to the
   ह of हल् [ह once] · चय्: च ट त क प · झश्: झ भ घ ढ ध ज ब ग ड द · जश्: ज ब ग ड द. Score /7, all
@@ -221,13 +223,16 @@ then the gloss.
 These are model sentences 1–3 and a fourth line; model sentences 4–6 are in §13. The headwords
 stand as free words: आगमः and लोपः, today's; आदेशौ, the dual of आदेशः [v4.c01.l03]; गुणः and
 वृद्धिः, today's terms. Chapter 1 read लोपः from 1.3.9 तस्य लोपः as a labelled preview; today it is
-yours. अकारः, इकारः, उकारः, ओकारः are -कार sound names, labels as in Chapter 1.
+yours. Volume 3 (v3.c03.l03) showed आगमः as the tradition's word for the अ- of the imperfect, a
+term on display; today it too is yours. अकारः, इकारः, उकारः, ओकारः are -कार sound names, labels as
+in Chapter 1.
 
 The joins are Volume 3's: गुणः वृद्धिः → गुणो वृद्धिः and ओकारः गुणः → ओकारो गुणः — -अः before a
 voiced consonant → ओ; वृद्धिः च → वृद्धिश्च — visarga before च → श्; च आदेशौ → चादेशौ — two a-vowels,
 one long; अगच्छत् इति → अगच्छदिति — a final त् voiced before a vowel; इति अत्र → इत्यत्र — इ before
 a vowel → य्; अत्र अकारः → अत्राकारः — two a-vowels, one long; अकारः आगमः → अकार आगमः — -अः before a
-vowel other than अ → -अ and a gap; स्थाने ओकारः → स्थान ओकारः — -ए before a vowel → -अ and a gap.
+vowel other than अ → -अ and a gap; स्थाने ओकारः → स्थान ओकारः — -ए before a vowel other than
+अ → -अ and a gap.
 A comma and a daṇḍa stop every seam: आदेशौ, stands in its pause form. The quoted form अगच्छत् is
 joined to the इति after it, as Chapter 1 taught.
 
@@ -239,7 +244,7 @@ joined to the इति after it, as Chapter 1 taught.
 है। पीछे -ति का इ ग़ायब है। और -ति स्वयं भी किसी और चीज़ के स्थान पर आया है। एक ही शब्द में
 तीन अलग-अलग काम हुए — कुछ जोड़ा गया, कुछ हटाया गया, और कुछ किसी के स्थान पर रखा गया।
 
-पाणिनि के अनुसार हर सूत्र इन्हीं तीन में से कोई एक काम करता है:
+पाणिनि के बहुत-से सूत्र इन्हीं तीन में से कोई एक काम करते हैं:
 
 - **आदेश** — किसी अंश के स्थान पर दूसरा अंश रखना। जिसके स्थान पर रखा जाता है, वह सूत्र में
   षष्ठी विभक्ति में होता है — सूत्र 1.1.49, जो पहले अध्याय से आपका है। जैसे सूर्य + उदयः में अ और उ —
@@ -250,7 +255,7 @@ joined to the इति after it, as Chapter 1 taught.
 - **लोप** — किसी अंश का हट जाना, दिखाई न देना — सूत्र 1.1.60। जिस सूत्र में "लोपः" शब्द हो, वह
   लोप करता है। -ति का इ इसी तरह हटता है, और हर इत् भी — 1.3.9 तस्य लोपः।
 
-अब **गुण** और **वृद्धि**। तीसरे खण्ड में और हिन्दी की स्कूली व्याकरण में ये दो सन्धियों के नाम
+अब **गुण** और **वृद्धि**। तीसरे खण्ड में और हिन्दी के स्कूली व्याकरण में ये दो सन्धियों के नाम
 थे — "गुण सन्धि", "वृद्धि सन्धि"। पाणिनि के यहाँ ये सन्धियों के नाम नहीं, स्वरों के नाम हैं:
 
 - सूत्र 1.1.1 के अनुसार आ, ऐ, औ — इन तीन स्वरों का नाम **वृद्धि** है।
@@ -275,7 +280,8 @@ joined to the इति after it, as Chapter 1 taught.
 
 The recipe of this volume, once more: forms you own, the question they raise, the tools that
 answer it, the derivations with the teacher, the tools run by you, then production. Today's one
-grammar point: a rule does one of three things — it replaces, it adds, or it deletes.
+grammar point: many of the rules you read do one of three things to a form — they replace,
+they add, or they delete.
 
 ### Step 1 — the forms you own
 
@@ -300,15 +306,18 @@ vowel, if not the name of a join?
 
 ### Step 3 — the three operations
 
-> **According to Pāṇini, a rule does one of three things.** It **replaces** — the new item is a
-> substitute, आदेशः, and what it replaces stands in the genitive (1.1.49, Chapter 1). It **adds**
-> — the new sound is an augment, आगमः, and the augment's own marker says where it goes (1.1.46).
-> It **deletes** — the item disappears, लोपः, and the rule says so with the word लोपः [1.1.60].
+> **In Pāṇini's grammar, many of the rules you read do one of three things to a form.** A rule
+> may **replace** — the new item is a substitute, आदेशः, and what it replaces stands in the
+> genitive (1.1.49, Chapter 1). It may **add** — the new sound is an augment, आगमः, and the
+> augment's own marker says where it goes (1.1.46). It may **delete** — the item disappears,
+> लोपः, and the rule says so with the word लोपः [1.1.60]. Not every rule does one of the three:
+> a definition gives a name (1.1.1, below), and a heading stands over other rules (6.1.84).
 
 The table of the three is §15's operations table: learn it whole. The tools, each printed once
 here with its tier. **Q** is read with its padaccheda and recognised by its gist; **B** is a step
 of the भवति derivation; **D** is the authority for one derivation step, never recalled by number;
-**K** is a reference card, looked up and never assessed — this lesson has the chapter's first.
+**K** is a reference card, looked up and never assessed — lesson 1 printed the first two, and
+this lesson has one more.
 
 **1. Where an augment goes — D, 1.1.46 आद्यन्तौ टकितौ** (ādyantau ṭakitau).
 
@@ -369,7 +378,7 @@ So a guṇa vowel is a substitute, and the vowels it replaces are इ उ ऋ �
 The one nearest to the vowel replaced (1.1.50, your tool since Chapter 1): ए for इ, ओ for उ. The
 full ladder is §15's guṇa/vṛddhi table.
 
-**Card — K, 1.1.51 उरण् रपरः** (uraṇ raparaḥ). "Where an अण् vowel replaces ऋ, it comes with र्
+**Card — K, 1.1.51 उरण् रपरः** (ur aṇ raparaḥ). "Where an अण् vowel replaces ऋ, it comes with र्
 [अर्, आर्]." [REF:ashtadhyayi 1.1.51]; [REF:kashika 1.1.51] It is a reference card: it says why
 the guṇa of ऋ is अर्, not a bare अ. It becomes a derivation tool in c03.l02; nothing asks you to
 quote it.
@@ -518,8 +527,9 @@ Mirror check: say ए ऐ ए ऐ. On ए nothing moves; on ऐ you see the jaw 
 
 1. **"guṇa = add an अ."** *Fix:* guṇa is a substitute: इ → ए, never इ + अ. Run the substitution
    ladder (§18 exercise 1).
-2. **"In भवति guṇa inserts व"** — the 1.x card. *Fix:* two substitutes: ऊ → ओ — guṇa; ओ → अव्
-   (6.1.78). Nothing is inserted.
+2. **Saying that in भवति guṇa inserts व** — as the 1.x card did. *Fix:* two substitutes: ऊ → ओ —
+   guṇa; ओ → अव्
+   [6.1.78]. Nothing is inserted.
 3. **Calling the ऽ of रामोऽहम् a deletion.** *Fix:* ओ + अ → ओ is one substitute for both (6.1.109);
    ऽ is a printing sign.
 4. **Placing every augment at the front.** *Fix:* the augment's marker decides: ट् → beginning, क्
@@ -545,9 +555,9 @@ model sentences 4–6, and owned forms labelled by operation.
 | 3 | सूर्योदयः | 1.1.50 स्थानेऽन्तरतमः [D, owned: Chapter 1] | of अ ए ओ, ओ is the nearest to उ |
 | 4 | **सूर्योदयः** | — | joined |
 
-1.1.3 is not needed here: it gives "in place of an इक्" to a rule that names guṇa or vṛddhi and
-has no genitive (the Kāśikā says a genitive is made to appear); under 6.1.84 the replaced items
-are already named — both vowels.
+1.1.3 is not needed here: it gives "in place of an इक्" to a rule that names guṇa or vṛddhi
+without naming the sound replaced (the Kāśikā says a genitive is made to appear); under 6.1.84
+the replaced items are already named — both vowels.
 
 ### Derivation (b)
 
@@ -613,7 +623,7 @@ Model sentences 1–3 are in §6. These three use the new headwords in their eve
 hyphen. पक्षिणः is the plural of the owned पक्षी, read whole [◐ — the cells of पक्षी: c05.l03]; कूजन्ति
 is the plural of कूजति [Volume 1]. The joins: वृद्धिः हानिः → वृद्धिर्हानिः — -इः before a voiced
 consonant → र्; हानिः च → हानिश्च — visarga before च → श्. Before क, प and स the visarga stays:
-वृद्धिः कोपस्य, हानिः सुखस्य.
+पक्षिणः कूजन्ति, हानिः सुखस्य.
 
 ### Owned forms, labelled by operation
 
@@ -694,9 +704,11 @@ Where two sounds become one (the vowel joins), the genitive is the heading's प
 
 - **The ऋ row** has no owned example yet: the अर् of स्मरति, a verb you own, is guṇa, and its rule
   is c03.l02's.
-- **The अ row** is not in the table, because nothing changes: according to Whitney, "अ a is its
-  own guṇa", and आ remains for both (§5). 1.1.3 says the same from the other side — guṇa and
-  vṛddhi replace the इक् vowels, and अ, आ are not among them.
+- **The अ row** is not in the table: according to Whitney, "अ a is its own guṇa", and आ remains
+  for both (§5); the one change in that row is the vṛddhi of अ, which is आ
+  [REF:whitney1889 §236]. 1.1.3 does not reach that row — named alone, guṇa and vṛddhi replace
+  the इक् vowels, and अ, आ are not among them. A rule that puts vṛddhi in place of an अ names
+  what it replaces: under 6.1.84, the अ and the vowel after it (तत्रैव); in c03.l04, an अ alone.
 
 **The ladder, said as substitutions.** इ → ए, never इ + अ. भू → भो — guṇa in place of ऊ; भो + अति →
 भव् + अति — ओ → अव् before a vowel (6.1.78) → **भवति**. Two substitutes; nothing added.
@@ -807,18 +819,19 @@ names. The seams are Volume 3's: अगच्छदित्यत्र — त
 → य्; आगमश्च — visarga before च → श्; अकार आगमः, गुण आगमः, टकार इत् — -अः before a vowel other than
 अ → -अ and a gap; स कुत्र — सः before a consonant → स [6.1.132, owned]; यतस्तस्य — visarga before त
 → स् [8.3.34]; तीत्यत्रेकारस्य — the quoted ति joined to its इति, इ + इ → ई; then इ + अ → य्; then अ +
-इ → ए; किं भवति — म् before a consonant → ं; स्थान ओकारः — -ए before a vowel → -अ and a gap;
+इ → ए; किं भवति — म् before a consonant → ं; स्थान ओकारः — -ए before a vowel other
+than अ → -अ and a gap;
 वृद्धिरप्येवम्, वृद्धिरप्यादेशः — -इः before a vowel → र्, then इ before a vowel → य्. A daṇḍa, a "?" or
 a comma stops every seam: गुरो, त्रीणि, आदौ, आम् stand in their pause form. Every turn is a course
 sentence, written for this dialogue; no source is claimed for any.
 
 ## 17. Story
 
-कथा — the grammarians' line, 2 continued: Patañjali names the three operations.
+कथा — the grammarians' line, 5: Patañjali names the three operations.
 
 Lesson 1 read, from the opening of Patañjali's Great Commentary, his short list of the purposes
 of grammar. Two sentences later the same passage says what one of those purposes, the
-preservation of the Veda, needs. Its first three words are today's lesson.
+preservation of the Veda, needs. Its first word names today's three operations.
 
 > **[TRADITION · परम्परा]** According to Patañjali, knowing deletion, augment and the change of
 > sounds is what lets one guard the Vedas. [REF:mahabhashya Paspaśāhnika]
@@ -885,8 +898,9 @@ aloud).** In Sanskrit, joined, with the pause form beneath:
 6. "Loss comes through anger." — anger in the instrumental.
 
 **अभ्यासः 5 · the ladder and the table aloud (objective 2; spoken; homework, 2 minutes,
-recorded).** Say the ladder aloud (§9 drill 1, all four rows), then read the table of अगच्छत्
-(§13), naming the markers ङ्, प् and ट् without pronouncing them in the result. Record yourself
+recorded).** Say the ladder aloud (§9 drill 1: the three rows on the audio track, then the ऌ row,
+which is not on it), then read the table of अगच्छत्
+[§13], naming the markers ङ्, प् and ट् without pronouncing them in the result. Record yourself
 once and listen back for one thing: are ए and ओ held still, and do ऐ and औ glide?
 
 ## 19. Quiz
@@ -977,15 +991,15 @@ or आ", so the आ of सदा counts · 2 — 1.1.50: ऐ nearest to ए · 3
 | 2 | गुरव् + ए | 6.1.78 एचोऽयवायावः [अचि] [owned] | ओ before a vowel → अव् |
 | 3 | **गुरवे** | — | joined |
 
-> **[FACT · तथ्यम्]** Whitney, on the u-stems: "The dat. masc. and fem. gunates the final of the
-> stem before the ending e, making aye and ave". [REF:whitney1889 §336]
+> **[FACT · तथ्यम्]** Whitney, on the stems in इ and उ: "The dat. masc. and fem. gunates the final
+> of the stem before the ending e, making aye and ave". [REF:whitney1889 §336]
 
 (4), (5) As §13 derivation (b), with पठ- and लिख-: 0 पठ + ल् · 1 पठ + तिप् — 3.4.78 [preview] · 2 पठ
 + ति — 1.3.3 · 1.3.9 · 3 पठ + त् — 3.4.100 [ङितः; लोपः] · 4 अट् + पठ + त् — 6.4.71 · 1.1.46 · 5 अ +
 पठ + त् — 1.3.3 · 1.3.9 · 6 **अपठत्**; the same for लिख-: **अलिखत्**.
 
-(6) (1) भू → भो — a substitute: guṇa in place of ऊ (1.1.3 with 1.1.2; ओ is nearest to ऊ, 1.1.50;
-the rule that orders this guṇa: 7.3.84, c03.l02) (2) भो + अति → भव् + अति — a second substitute:
+(6) (1) भू → भो — a substitute: guṇa in place of ऊ [1.1.3 with 1.1.2; ओ is nearest to ऊ, 1.1.50;
+the rule that orders this guṇa: 7.3.84, c03.l02] (2) भो + अति → भव् + अति — a second substitute:
 6.1.78, ओ → अव् before a vowel; joined, **भवति**. Nothing is added.
 
 Accept the marker steps merged (steps 1–2 and 4–5 of (4), (5)). Score /3 per item: one per
@@ -1005,17 +1019,18 @@ na.) — pause: वृद्धिः अपि आदेशः, आगमः �
 Accept any correct order with correct seams, and (4) with लोपो भवति. Score /12: one for each
 joined line, one for each pause form.
 
-5: the readings of §9 drills 1 and 2; self-check against the audio track
-`planned:assets/audio/volume-4/v4c02l02-ladder.mp3`; not scored.
+5: the readings of §9 drills 1 and 2; self-check the first three rows against the audio track
+`planned:assets/audio/volume-4/v4c02l02-ladder.mp3` and the ऌ row against §9's IPA line; not
+scored.
 </details>
 
 ## 20. Revision
 
 पुनरावृत्तिः — one screen to remember.
 
-> **Replace, add, delete.** According to Pāṇini, a rule **replaces** — a substitute, आदेशः,
-> named in the nominative, what it replaces in the genitive (1.1.49); **adds** — an augment,
-> आगमः, placed by its marker: ट् at the beginning, क् at the end (1.1.46); or **deletes** —
+> **Replace, add, delete.** According to Pāṇini, a rule may **replace** — a substitute, आदेशः,
+> named in the nominative, what it replaces in the genitive (1.1.49); **add** — an augment,
+> आगमः, placed by its marker: ट् at the beginning, क् at the end (1.1.46); or **delete** —
 > लोपः, "disappearance" (1.1.60). Two vowels become one under the heading एकः पूर्वपरयोः [6.1.84].
 > **guṇa and vṛddhi** are names of vowels: vṛddhi = आ ऐ औ [1.1.1], guṇa = अ ए ओ [1.1.2]; named
 > alone, they replace इ उ ऋ ऌ [1.1.3], the nearest one coming (1.1.50): इ → ए, ऐ · उ → ओ, औ ·
@@ -1083,8 +1098,8 @@ its operation.
   3.4.100. The Kāśikā under 3.4.100 says *parasmaipadeṣu ity eva*; the data file's `an` for 3.4.100
   lists लोपः, नित्यम्, ङितः but not परस्मैपदेषु. The learner bracket prints ङितः [3.4.99] and says the
   rest comes "from an earlier rule".
-- **6.4.72 आडजादीनाम्** — before a vowel-initial aṅga the augment is आट् (ऐच्छत्, derivation (c)
-  step 1).
+- **6.4.72 आडजादीनाम्** — before a vowel-initial aṅga the augment is आट् [ऐच्छत्, derivation (c)
+  step 1].
 - **6.1.90 आटश्च** — after आट्, a vowel and the आ → one vṛddhi (derivation (c) step 2).
 - **7.3.111 घेर्ङिति** — the guṇa of a ghi stem [i- and u-stems] before a ṅ-marked sup: गुरु + ङे →
   गुरो + ए. The learner writes "guṇa, a substitute (its rule: Teacher Notes)".
@@ -1123,7 +1138,7 @@ with the corrections listed (none other is made):
   ād-aicāṃ varṇānāṃ sāmānyena tad-bhāvitānām, atad-bhāvitānāṃ ca / taparakaraṇam aij-artham
   tād-api paraḥ taparaḥ iti, khaṭvaiḍakādiṣu trimātra-caturmātra-prasaṅganivṛttaye /* —
   correction: *prasaṅga. nivṛttaye* → *prasaṅganivṛttaye*. The Kāśikā says the त् of 1.1.1 is there
-  for ऐच्: read by 1.1.70's second reading ("a त् after it too makes it tapara"), it keeps ऐ औ to
+  for ऐच्: read by 1.1.70's second reading ("a vowel after a त् is tapara too"), it keeps ऐ औ to
   their own length, against three- or four-mora vowels in *khaṭvaiḍakā*.
 - **The Kāśikā on 1.1.2** (lines 322–323): *guṇa-śabdaḥ sañjñātvena vidhīyate, pratyekam,
   ad-eṅāṃ varṇānāṃ sāmānyena tad-bhāvitānām, atad-bhāvitānāṃ ca / taparakaraṇaṃ tv iha
@@ -1136,11 +1151,16 @@ with the corrections listed (none other is made):
   etad-upasthitaṃ draṣṭavyam / kiṃ kṛtaṃ bhavati ? dvitīyayā ṣaṣṭhī prādurbhāvyate /* —
   corrections: *sa iko eva* → *sa ika eva*; *viditavyaḥ* → *veditavyaḥ*; "…" = lines 347–355 (the
   vṛddhi examples). Its own examples are *nayati* and *bhavati*. The last sentence is the point of
-  §13's line under derivation (a): 1.1.3 supplies a genitive to a rule that has none ("a genitive
-  is made to appear"), so it is not needed where 6.1.84 already names what is replaced.
+  §13's line under derivation (a): 1.1.3 supplies the genitive इकः to a rule that enjoins guṇa or
+  vṛddhi by name without naming the sound replaced ("a genitive is made to appear"), so it is not
+  needed where 6.1.84 already names what is replaced. Such a rule may have a genitive of its own:
+  the Kāśikā's own example, *aṅgasya guṇa iti*, has अङ्गस्य, and 7.3.111 has घेः. The Mahābhāṣya
+  sentence the Kāśikā repeats here reads *dvitīyā ṣaṣṭhī prāduḥ bhāvyate*, "a second genitive is
+  made to appear" (`pmbhassu.htm` line 2136); the Kāśikā e-text's *dvitīyayā* is left as it
+  stands.
 - **The Kāśikā on 6.1.87** (lines 53095–53097): *aci ity anuvartate / avarṇāt paro yo 'c ca pūrvo
   yo 'varṇaḥ tayoḥ pūrvaparayoḥ avarṇācoḥ sthāne eko guṇa ādeśo bhavati / tavedam /* —
-  corrections: *avarnāt* → *avarṇāt*; *yo 'c ca* is probably *yo 'c, aci ca* (the sense; Pass C).
+  correction: *avarnāt* → *avarṇāt*; *yo 'c ca pūrvo yo 'varṇaḥ* stands as the e-text has it.
   "In place of both, the a-vowel and the vowel after it, one guṇa substitute."
 - **The Kāśikā on 6.1.88** (lines 53119–53122): *āt iti vartate / avarṇāt paro ya ec, eci ca
   pūrvo yaḥ avarṇaḥ, tayoḥ pūrvaparayoḥ avarṇaicoḥ sthāne vṛddhir ekādeśo bhavati / ādguṇasya
@@ -1189,8 +1209,8 @@ delete)**
 > "आगमः · augment": a block sliding in at the front of a row, a small tag "ट्" on it pointing left
 > to show "at the beginning". Panel 3, labelled "लोपः · deletion": a row with one block fading out
 > to an empty outline. Beneath the panels, one strip: "गच्छ + ल् → गच्छ + तिप् → गच्छ + ति → गच्छ +
-> त् → अ + गच्छ + त् → अगच्छत्", each arrow coloured by its panel. Footer: "a rule replaces, adds
-> or deletes".
+> त् → अ + गच्छ + त् → अगच्छत्", each arrow coloured by its panel. Footer: "a rule may replace,
+> add or delete".
 
 **Asset 2 — `planned:assets/worksheets/volume-4/v4c02l02-operations-sort.pdf` (layout spec)**
 
@@ -1228,8 +1248,8 @@ reads the cue, not the English spelling.
 
 - **00:00** gacchati [gɐt͡ɕt͡ɕʰɐt̪i] means "goes". agacchat [ɐgɐt͡ɕt͡ɕʰɐt̪] means "went". Something
   was added at the front, something taken from the back. What, and by which rule?
-- **00:40** According to Pāṇini, a rule does one of three things. It replaces: an ādeśa
-  [ɑːd̪eːɕɐ]. It adds: an āgama [ɑːgɐmɐ]. It deletes: a lopa [loːpɐ].
+- **00:40** In Pāṇini's grammar many rules do one of three things to a form. A rule may
+  replace: an ādeśa [ɑːd̪eːɕɐ]. It may add: an āgama [ɑːgɐmɐ]. It may delete: a lopa [loːpɐ].
 - **02:00** guṇa [guɳɐ] and vṛddhi [ʋr̩d̪d̪ʱi] are names of vowels. In place of i, the guṇa e, the
   vṛddhi ai. In place of u, o and au. In place of ṛ, ar and ār. guṇa never adds an a: it replaces.
 - **03:15** sūrya and udaya: one o replaces both vowels. sūryodaya [suːɾjoːd̪ɐjɐ].
@@ -1248,7 +1268,7 @@ reads the cue, not the English spelling.
   says this. Is it true?"
 - **Demo (0:07–0:30):** भू → भो, captioned "guṇa: a substitute"; भो + अति → भव् + अति, captioned "ओ →
   अव्: a second substitute"; then भवति. A "व inserted?" label is crossed out.
-- **Payoff (0:30–0:43):** "In Pāṇini's grammar a rule replaces, adds or deletes. guṇa only
+- **Payoff (0:30–0:43):** "In Pāṇini's grammar a rule may replace, add or delete. guṇa only
   replaces."
 - **CTA (0:43–0:50):** "Next: words carried down." (End card: आदेशः आगमः लोपः — Replace, Add,
   Delete.)
@@ -1283,8 +1303,9 @@ reads the cue, not the English spelling.
   of 3.4.100), v4.c02.l04 (Station 0: the ladder; exam task C), v4.c03.l01 (3.4.78, the endings),
   v4.c03.l02 (7.3.84 and the भवति thread; 1.1.51 as a tool; स्मरति), v4.c03.l03 (the anubandha
   card), v4.c05.l03 (1.1.47, नुम्; the cells of पक्षी).
-- **Glossary:** candidate rows and updates from the chapter fact base — **आगमः** · āgamaḥ ·
-  "augment: a sound a rule adds; its marker places it (1.1.46)" · आगम · v4.c02.l02 — **लोपः** ·
+- **Glossary:** candidate rows and updates from the chapter fact base — **आगमः** [update: the
+  GLOSSARY has the row since v3.c03.l03] · + "in Pāṇini: a sound a rule adds; its marker places it
+  (1.1.46)" · आगम · v4.c02.l02 — **लोपः** ·
   lopaḥ · "deletion: disappearance of what would have appeared (1.1.60)" · लोप · v4.c02.l02 —
   **आदेशः** [update] · + "one of the three operations, beside आगमः and लोपः" · आदेश · v4.c02.l02 —
   **गुणः / वृद्धिः** [update] · + "in Pāṇini: the names of the vowels अ ए ओ [1.1.2] and आ ऐ औ [1.1.1],
@@ -1295,9 +1316,9 @@ reads the cue, not the English spelling.
   B; 1.1.46, 1.1.60, 6.1.84, 3.4.100, 6.4.71 D); toolbox 33. K card 1.1.51, not a tool. Labels,
   never rows: the -कार names, the pratyāhāra names, इत्, सुँ, तिप्, अट्, आट्, ङे, लङ्, every
   sūtra-internal form, every form of the Mahābhāṣya line. पक्षिणः ◐ labelled. Joined spellings
-  export as `sandhi_of` their pause-form words. Error forms: रि as the guṇa of ऋ (§12 mistake 6,
-  §19 Q3) and "guṇa inserts व" [the 1.x card, §8 Step 7, §19 Q8]. The §19 key and the §3 Station 0
-  key stay in `<details>` in all renders.
+  export as `sandhi_of` their pause-form words. Error forms: रि as the guṇa of ऋ [§12 mistake 6,
+  §19 Q3] and "गुण inserts व" [the 1.x card's words, §8 Step 7; an option of §19 Q8]. The §19 key
+  and the §3 Station 0 key stay in `<details>` in all renders.
 - **Verification flags for Pass C:** every sūtra number, text and padaccheda case against
   `corp/ashd/sutraani/data.txt` — tools 1.1.1, 1.1.2, 1.1.3, 1.1.46, 1.1.60, 6.1.84, 3.4.100, 6.4.71;
   card 1.1.51; owned and pointers 6.1.87, 6.1.88, 1.1.49, 1.1.50, 6.1.78, 1.3.3, 1.3.9, 1.3.2,
@@ -1306,8 +1327,8 @@ reads the cue, not the English spelling.
   1.1.52, 6.1.113, 6.1.114, 1.1.61 (looked up by script, 2026-11-10; 1.1.3's second word is printed
   गुणवृद्धी as the fact base gives it, the data file's pc writing गुण-वृद्धी); the brackets [अचि], [आत्],
   [ङितः] against the `an` field (3.4.100's `an` lists लोपः, नित्यम्, ङितः, not परस्मैपदेषु — Teacher
-  Notes); the Kāśikā lines of §22 at their line numbers, with their corrections (K28's *yo 'c ca*
-  reading is flagged as sense only); the Mahābhāṣya line of §17 against `pmbhassu.htm` line 147,
+  Notes); the Kāśikā lines of §22 at their line numbers, with their corrections; the
+  Mahābhāṣya line of §17 against `pmbhassu.htm` line 147,
   letter for letter, and its joins; Whitney §235a and §336d (re-read in the local e-text — §235
   printed there as "255"); the 1.x p. 89 quotations — "Example: भू + ति → भवति (where गुण inserts
   व)", "रामस् + अहम् → रामोऽहम्", "for the next word, अ underwent lopa (replaced by avagraha ऽ)",
