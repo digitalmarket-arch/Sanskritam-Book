@@ -4,10 +4,252 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.20.0] — 2026-11-17
+
+Volume 4 (पाणिनीयम् · The Pāṇinian System), Chapter 2, अष्टाध्यायीप्रवेशः · Inside the Aṣṭādhyāyī,
+is reviewed and shipped: four lessons, 16 ledger-new words, 521 → 537 readable words, 31 tools
+added, 43 in the learner's toolbox. Chapter 1 taught the alphabet the grammar is written in and
+the case code in which its rules speak; Volumes 2 and 3 had left the ण of रामेण and the ष of
+रामेषु and करोषि as observed spellings whose reasons waited for Volume 4. This chapter opens the
+machine those rules drive, on forms the learner has used since Volume 1: a word is a base and an
+affix placed after it, the affix's markers dropped, and the base is aṅga before every affix and,
+before the case endings, pada or bha, neither before the five strong endings — so that,
+according to Pāṇini, राजन् becomes राजभिः as a pada and राज्ञा as a bha, and the ः of रामः is what
+is left of an ending; a rule may replace, add or delete — substitute, augment and deletion — so
+that अगच्छत् shows all three operations at once, and guṇa and vṛddhi are Pāṇini's names for two
+sets of vowels; words are carried down from rule to rule and headings stand over a stretch
+of rules, read from lesson 3 on in the bracket line under every sūtra, on the ṇ of रामेण and the
+ṣ of रामेषु; and the Chapter 2 exam, in which four owned forms are derived step by step,
+according to Pāṇini, and an unseen rule is read with its bracket line. No table is memorised in
+this chapter. The course now has 99 reviewed lessons (91 in Volumes 1–3, 8 in Volume 4). The
+Volume 4 frame stays a draft until the volume's last chapter ships.
+
+### Added
+
+- **v4.c02, four lessons, reviewed** — every sūtra printed as the Aṣṭādhyāyī data file has it,
+  with its tier (Q, B or D; "owned" for a sūtra of Volume 3 or Chapter 1 read again; and, first
+  in this chapter, K: a reference card — 1.2.45, 1.1.43, 1.1.51 — looked up and never
+  assessed); every derivation a four-column table under the heading "Derive, according to
+  Pāṇini, …", a step that belongs to a later lesson printed as one marked line; from lesson 3 on,
+  every sūtra with its bracket line; every course-written line printed joined, with its pause
+  form beneath; every commentary line under the source line "text of the GRETIL e-text":
+  - अङ्गं पदं भम् · One Base, Three Names (grammar): a word is a base, प्रकृतिः, and an affix,
+    प्रत्ययः, placed after it (3.1.1, 3.1.2, both headings according to the Kāśikā), the affix's
+    markers named — a nasal vowel of a teaching (1.3.2), a final consonant (1.3.3) — and dropped
+    (1.3.9); the ending-marker line, which says which sounds of a case ending are markers and
+    which are kept; *sup* read as a pratyāhāra of 4.1.2, the twenty-one case endings; the names
+    of the base — aṅga before every affix (1.4.13) and, before the case endings, pada (1.4.17)
+    or bha (1.4.18), neither before the five strong endings, which 1.1.43, a K card beside 1.2.45
+    on the nominal base, calls sarvanāmasthāna — sorted for राजन् before twelve endings, each name
+    with the rule it sets off (8.2.7 for राजभिः, 6.4.134 for राज्ञा; the lengthened अ of the strong
+    cells a preview of c05.l03, the rest of the table display); खर् opened from the fourteen
+    sūtras for 8.3.15; रामः, राजभिः, राज्ञा, and नमः with नमस्ते derived with the teacher, and फलम्
+    — worked as the model — वनम्, देवः and नृपः by the learner; the नमस्ते thread concluded:
+    according to Pāṇini the स् of नमस्ते is a substitute for the visarga (2.4.82, 8.2.66, 8.3.15,
+    then 8.3.34), while Whitney's account, quoted in Teacher Notes (§170b), keeps the stem's स्;
+    the 1.x rājan card (p. 98) quoted from the page image and its four errors corrected in the
+    open — sarvanāmasthāna names endings, not the base, and aṅga is no third state beside pada
+    and bha; the grammarians' line, instalment 4: Kātyāyana's vārttikas and Patañjali's
+    Mahābhāṣya in a HISTORY callout keyed to the Mahābhāṣya alone, and its line on the purposes
+    of grammar, display, asked only "According to Patañjali"; headwords राजा, प्रत्ययः, प्रकृतिः,
+    आत्मा, स्वामी and भृत्यः, six in all (521 → 527); tools added 13; cells drilled 3.
+  - आदेशः आगमः लोपः · Replace, Add, Delete (grammar): the three things a rule may do to a form —
+    substitute, आदेशः, with what it replaces in the genitive (1.1.49); augment, आगमः, placed by
+    its own marker (1.1.46: ṭ-marked at the beginning, k-marked at the end); deletion, लोपः,
+    named by the word लोपः in the rule (1.1.60) — and not every rule does one of them: a
+    definition gives a name, and a heading stands over other rules (6.1.84, one substitute in
+    place of the earlier and the later); guṇa and vṛddhi as Pāṇini's names for two sets of
+    vowels (1.1.2: अ ए ओ; 1.1.1: आ ऐ औ), which replace an इक् vowel when a rule names them without
+    saying what they replace (1.1.3), the nearest chosen by 1.1.50, with 1.1.51 on a K card; the
+    ladder for the vowels of इक्, and भू → भो → भव् as two substitutions; सूर्योदयः and अगच्छत्
+    derived — अगच्छत् as all three operations at once (3.4.100, 6.4.71), with a FACT line from
+    Whitney on the augment (§§585–586) — ऐच्छत् read, and तत्रैव, सदैव, गुरवे, अपठत्, अलिखत् and the
+    ladder by the learner; the 1.x card of p. 89 corrected in the open — IR-021: guṇa inserts
+    nothing in भवति, whose व comes from a second substitute; the card's example of deletion,
+    रामस् + अहम् → रामोऽहम्, is one substitute for two; and नुम् is no ṭ-marked augment; the
+    grammarians' line, instalment 5: Patañjali's sentence on deletion, augment and the change of
+    sounds, display, asked only "According to Patañjali"; headwords लोपः, आगमः, वृद्धिः, हानिः and
+    कोपः, five in all, with गुणः as an upgrade row (527 → 532); tools added 8; cells drilled 3.
+  - अनुवृत्तिः · Words Carried Down (grammar): a sūtra is often incomplete on its own — words of
+    earlier sūtras are carried down into it, anuvṛtti, and some sūtras are headings that stand
+    over a stretch of rules, adhikāra (6.4.1 अङ्गस्य to the end of Book 7; 8.3.55 and 8.3.57
+    over the ṣ rules) — read, from this lesson on, in the bracket line under every sūtra; the ṇ
+    of रामेण by 8.4.1 with 8.4.2, which names only what may stand between and takes the rest from
+    8.4.1, and the न् of रामान् kept by 8.4.37, with the न "not" carried from 8.4.34; the ṣ of
+    रामेषु and करोषि by 8.3.59 under 8.3.55 and 8.3.57 — two rules with different triggers: for
+    ṇ, र, ष and, by the Kāśikā's addition, ऋ; for ṣ, an इण् sound or the k-row; अट् and शर् opened
+    from the fourteen sūtras; रामेण, रामेषु and करोषि derived with the teacher, अगच्छाम read with
+    3.4.99, and देवेन, मित्रेण, गुरुषु, नदीषु, फलेषु and अगच्छाम by the learner; the 1.x card of
+    p. 73 corrected in the open (IR-016): one trigger list given for two rules, and the इ of the
+    pre-form named as the trigger in रामेण, where the र triggers; the grammarians' line,
+    instalment 6: Varadarāja's Laghusiddhāntakaumudī (c. 17th century), which reads the same
+    rules at the declension of राम; headwords अनुवृत्तिः, अधिकारः, समानः, निमित्तम् and कारणम्, five
+    in all (532 → 537); tools added 10; cells drilled 4.
+  - द्वितीयपरीक्षा · Chapter 2 Exam (review): five tasks in one closed-book 45-minute sitting
+    (duration 45, 2 minutes of them for instructions; 68 marks) — base, affix and markers in
+    eight owned forms; the base राजन् named strong, pada or bha before six endings, with the
+    reason; six operations sorted into substitute, augment and deletion, with what in the rule
+    shows each; four derivations in table form, पुत्रेण, बालकेषु, राजभिः and the ष of शृणोषि from
+    the given stem; and an unseen rule pair, 7.1.13 ङेर्यः after 7.1.12, its carried word chosen
+    from three and रामाय derived up to a last line printed for the learner (7.3.102, c06.l03) —
+    with the toolbox card of 43 open for the last three tasks, and Station 0, about 8 minutes,
+    before the sitting and outside it. Pass: every task at its pass mark and the §19 quiz at
+    7/10. The chapter on one page (§15): the anatomy of a word with the ending-marker line, the
+    three boxes for राजन्, the operations table, the guṇa/vṛddhi ladder, the toolbox card — 43
+    rules in number order, each with its text and one English line, lesson 3's ten with the
+    bracket line lesson 3 printed — and the paradigm ledger. After the sitting, unscored, नास्ति,
+    the first join of the Chapter 1 exam's task D, is derived again with its heading 6.1.84, and
+    the thread verse सर्वे भवन्तु सुखिनः… is re-read for the ण of भद्राणि and the ः of निरामयाः at
+    the pause; the first Station 0 items of v4.c03.l01 and v4.c03.l02 are booked. The ledger
+    stays at 537.
+
+  The Hindi parallels are exact contrasts: गुण and वृद्धि, the names of two vowel joins in Hindi
+  school grammar, are in Pāṇini the names of two sets of vowels (lesson 2); the ण of कारण, हरण
+  and मरण and the ष of भविष्य come into Hindi with tatsama words, already made by Sanskrit's rules
+  (lesson 3). Lesson 1 prints none: the candidate, Hindi राजा in the oblique, could not be
+  confirmed from a source. Vocabulary counts 6 · 6 · 5 · 0; cells drilled 3 · 3 · 4 · 0; tools
+  added 13 · 8 · 10 · 0. Self-study minutes: 48 · 40 · 45 · 40. JSON exports of the four
+  lessons are added (99 lessons in `json/index.json`).
+- GLOSSARY: प्रकृतिः, प्रत्ययः, अङ्गम्, भम्, सर्वनामस्थानम्, प्रातिपदिकम्, लोपः, अनुवृत्तिः, अधिकारः and
+  णत्वम् · षत्वम्, ten rows in all, the row for सर्वनामस्थानम् naming the five endings and not the
+  base; three course terms, the ending-marker line, the bracket line and the toolbox card; the
+  rows सुप् · तिङ्, पदम्, आगमः, आदेशः, गुणः and वृद्धिः updated; at release, a row for लुक् (luk), the
+  word that shows a deletion in 2.4.82 and in the exam's task C.
+- `research/notes/vol4-plan.md` §7.6: the corrections the Chapter 2 review made to the plan
+  (three rows from Pass D: the grammarians' line, instalments 4–6; खर्, अट् and शर् opened, चर्
+  still not; the names of the base, aṅga, pada and bha, with "strong" the label of a box of
+  endings); five rows entered at release for points that later chapters must follow (not every
+  rule does one of the three operations; the स् of नमस्ते a substitute "in Pāṇini's derivation",
+  as Pass C's second round amended the plan's text; the 1.x line of IR-016 quoted from the page;
+  the exam's toolbox card as reviewed; 7.1.14, an unseen rule read in the retake and counted
+  nowhere); and the rules the review settled, five in all.
+- **v4.c03, first drafts of all six lessons** (`curriculum/volume-4/chapter-03/`), from the
+  verified fact base: लट् · From ल् to -ति: the Verb's Ending (the eighteen endings, parasmaipada
+  and ātmanepada); शप् · The Class Sign: Ten Families of Present Stems; पित् ङित् · Strong and
+  Weak: What the p Marker Does; लिट् · The Perfect; लृट् · The Future (lessons 1–5, commit
+  23e5ae5); and तृतीयपरीक्षा · Chapter 3 Exam: the √भू Table (lesson 6, commit 6094637), one
+  closed-book 45-minute sitting, five tasks, Station 0 before it, its retake sets fresh against
+  each task's remediation exercise, as settled at the Chapter 2 review. Each validates with 0
+  errors and its quiz keys pass `scripts/quizcheck.py`. Not reviewed, and not counted among the
+  course's reviewed lessons.
+
+### Changed
+
+- **The Volume 4 frame** (`curriculum/volume-4/volume.md`): still `draft`, until the volume's
+  last chapter ships. "Chapter 2, as delivered", added at the review, now carries its review
+  date and states what the chapter delivered as the lessons now print it: the four lessons with
+  their tools by lesson (13 · 8 · 10 · 0, 43 in the toolbox), the names of the base, the ledger
+  at 537, the 1.x errors corrected in the open (IR-016, IR-021, the rest of the p. 89 card, the
+  rājan card of p. 98), the first bracket lines, and the derivations the learner can now do. The
+  exit figures 521 and 537 are reached.
+- **The Chapter 2 frame** (`curriculum/volume-4/chapter-02/chapter.md`): `reviewed`. Its Lessons
+  table now says that after the sitting नास्ति is derived again, as lesson 4 §17 has it, and the
+  thread verse re-read; its goals, ledger line and assessment paragraph agree with the lessons as
+  reviewed.
+- STYLE_GUIDE §8: 537 reached. STYLE_GUIDE §3.1: the printing rules this chapter settled — the
+  bracket line under a quoted sūtra from v4.c02.l03 on, with its labels for a carried word the
+  rule does not use, a heading's own row and a heading not yet taught; no derivation printed or
+  keyed as ending on a form that is not a word, a later lesson's step printed as one marked line,
+  labelled "last" in a task.
+- ROADMAP: Chapter 2 reviewed; Volume 4's counts; the status log; the preservation-map row for
+  the 1.x rājan example (pp. 97–99), which v4.c02.l01 carries. README: the counts.
+- **The Chapter 3 fact base's Station 0 rows S0-df and S0-dg**
+  (`research/notes/vol4-ch3-roots-and-the-full-verb.md`), the bookings that leave this chapter
+  for v4.c03.l01: corrected at this review so that a D-tier rule may be named by its gist in
+  place of its number — 7.3.103 and 8.3.59 in S0-df; 7.1.12, 8.4.2 and 7.1.9 in S0-dg.
 
 ### Fixed
 
+- **v4.c02 review (passes A–D, every finding verified by skeptics — a minor finding by one
+  verifier, a major one by three, on the evidence, the domain and the fix, by majority — each
+  reviewer returning a coverage record of what was opened; Pass C run twice, the second time on
+  the chapter as reviewed):** 126 findings confirmed (no blocker, 37 major, 89 minor) and 1
+  rejected. Pass A, lesson by lesson, 84 — lesson 1: 25, lesson 2: 19, lesson 3: 26, lesson 4:
+  14; Pass B 18; Pass C 6; Pass D 18. 364 fixes applied (188 for lessons 1–3 after their Pass A,
+  commit db1e9da; 176 for the exam's Pass A with Passes B, C and D, applied in one run, commit
+  ad12f0e), 2 found already made. In the second set ten problems were each found by two or
+  three passes, and the editor kept one fix for each — the exam's toolbox card, the retake sets,
+  the "last" label, the K-card distractor, the stem pointers, a row of the exam's mistake table,
+  the Hindi name of the toolbox card, a stale note on the Kāśikā's *uttareṣām*, the chapter
+  frame's sentence on नमस्ते and the opening of शर् — so the 92 fixes the other findings proposed
+  for the same problems were not applied; the merge is recorded finding by finding. Pass A on
+  lessons 1–3 was cut off by a usage limit on 2026-11-13 and resumed on 2026-11-17, when its
+  majors got their second and third votes. The majors, in groups. Sūtras and commentary: the
+  Kāśikā's *dīrghatvaṃ prāpnoti* under 7.1.24 was explained by 6.1.102, which needs a following
+  vowel — it is 7.3.102 सुपि च; the English line of 3.4.99 नित्यं ङितः read the genitive ङितः as
+  an ablative — it is "of a ṅ-marked l-affix"; the heading 8.3.55 अपदान्तस्य मूर्धन्यः was given
+  "[in place of स्]", which it does not contain — the स् comes from 8.3.56; lesson 3 said that
+  8.4.2 has no न — it has the न of नुम्, and what it lacks is a word for the न that changes; झल्
+  was restated without ह; and 1.1.3 was said to serve only a rule with no genitive, against the
+  Kāśikā's own example, 7.3.84. Terms: sarvanāmasthāna names the five endings, not the base,
+  and aṅga is no third state beside pada and bha — in lesson 1, the Hindi of its objective 2,
+  its reply to the 1.x card and the fact base; "a khar sound" stood five times and was never
+  opened — lesson 1 now opens खर्, and lesson 3 opens अट् and शर्; the vṛddhi of अ is आ, where
+  the note under the guṇa/vṛddhi table said that nothing changes. Framing: "every sūtra does one
+  of three things", the 1.x card's overclaim, became "many of the rules you read"; the स् of
+  नमस्ते is a substitute for the visarga according to Pāṇini, while Whitney's account (§170b,
+  quoted) keeps the stem's स् — every statement of it is now attributed; TRADITION that seven
+  exercises and three exam tasks scored without its frame is now asked "according to Pāṇini".
+  Sanskrit: किम् agreeing with प्रकृतिः became का प्रकृतिः; किम् for "why" became the owned
+  किमर्थम्; छात्रासु, not an owned word, was replaced by मालासु. Assessment: D-tier sūtras were
+  asked by number in closed-book tasks — now named by gist, in the Station 0 keys, lesson 3's
+  quiz and the Chapter 3 fact base's S0-df and S0-dg (plan §7.6); the exam's toolbox card
+  printed the carried words that task C (3), (5) and (6) score — now only lesson 3's ten rows
+  carry the bracket line lesson 3 prints; the retake sets reused items of the remediation
+  exercises and worked derivations — replaced: A′ जलम्, शशकान्, दण्डानाम्; C′ अखादत्, राज्ञा,
+  वनेषु; D′ नृपैः, अग्निषु; E′ now reads an unseen rule, 7.1.14, and derives सर्वस्मै; the printed
+  last line of task E was numbered 3, a step only one accepted route reaches — now labelled
+  "last"; a K card's term, prātipadika, stood as a wrong option in two quizzes. Pointers:
+  बालिकासु is v3.c02.l02's, not l01's; इण् is v4.c01.l02's, and अट् is opened by lesson 3
+  itself; the stems करो- and शृणो- are v4.c03.l03's; the cells of वाच् are a c05.l03 card's.
+  Load: lesson 1's class plan could not hold what was put in it, so its model sentences went to
+  homework (self-study 45 → 48 minutes). Citations: [REF:cardona1997] was removed from lesson
+  1's HISTORY callout — the book could not be opened and no search result quotes it on the
+  vārttikas or the Mahābhāṣya. Among the minor findings: the ending-marker line names the इँ of
+  ङसिँ and the ट् of औट् among the markers; the grammarians' line is numbered from 4, after
+  Chapter 1's three instalments, and the Mahābhāṣya is no longer said to open with its question
+  on the purposes of grammar; "long", "many languages" and "much of modern India" are cut, each
+  a claim of age or scale without a count; 1.1.70's second reading is glossed the right way
+  round; a Kāśikā line is printed as the e-text has it, a correction "by sense" withdrawn, and
+  *uttareṣām* is kept as the e-text writes it; words that are not on the 1.x page no longer
+  stand in quotation marks as its words; in three quiz items the keyed option was the only one
+  with a sūtra number, and the number now stands in the key; Pass C's first round added a FACT
+  line from Whitney §§585–586 on the augment, cited the Laghusiddhāntakaumudī under 8.4.2 and
+  8.4.37 for what it says there, gave the DCS counts of कोपः and कारणम् their key and method,
+  made lesson 4 §4 call lesson 1 §17 the chapter's one HISTORY callout, not its one dated line
+  (the chapter prints three dates), and corrected and listed *ārdhadhātukayoḥ* in the Kāśikā on
+  1.1.3; Pass D added the chapter's terms to the GLOSSARY, three rows to plan §7.6
+  and "Chapter 2, as delivered" to the volume frame, and printed the three K cards one way. The
+  one rejected finding asked to move a sentence-final किम् of a yes/no question to the front;
+  the verifier found it a matter of word order, the sentence being Sanskrit as it stands.
+  A post-fix verification re-read ten files — the four lessons, chapter.md, the fact base, the
+  Volume 4 frame, GLOSSARY.md, the plan, and the Chapter 3 fact base's Station 0 rows S0-df and
+  S0-dg, which this review changed — in four runs against the commits before the review fixes
+  (8466b2b for lessons 1–3; 127a6a6 for the fact base and chapter.md; e9982e6 for lesson 4, the
+  volume frame, GLOSSARY.md and the plan), with one verifier and one challenger per file: 43
+  follow-ups confirmed, all minor, and 1 claimed defect refuted; 41 fixes applied, and 2 that
+  two runs found as the same change applied once (commit d65f457). The fact base took 19 of the
+  41; lesson 1, chapter.md and GLOSSARY.md 4 each; lessons 2 and 3, the volume frame and the
+  plan 2 each; lesson 4 and the Chapter 3 fact base 1 each. They bring restatements into line
+  with the fixed lessons: the ट् of औट् named as a marker wherever the marker line is stated;
+  the strong endings setting off their own rule; शर् among lesson 3's labels; the volume frame's
+  three operations each beside its own sūtra, and its benediction line naming the ण of भद्राणि and
+  the ः of निरामयाः; the fact base's pointers and homework lines; 1.1.3's condition in the
+  GLOSSARY rows गुणः and वृद्धिः; the plan's retake rule given its one exception, a closed set too
+  small for it (task B). The editor's own corrections outside the passes: the merge of the
+  second set (one fix kept for each of the ten problems, four fixes rewritten to agree with the
+  fix kept), and the GLOSSARY row "toolbox card" aligned with it.
+
+  Pass C, second round (2026-11-17), on the chapter as reviewed, with the whole checklist again
+  and the text no round had seen (the retake sets with 7.1.14, the toolbox card, शर्, the new
+  GLOSSARY rows, the attributions of नमस्ते): 3 confirmed findings, all minor, none rejected; 12
+  fixes applied (commit d65f457); a coverage record of 29 lines. The Kāśikā on 7.1.14 (lines
+  67259–67265) is now quoted and cited for the retake's E′; [REF:guru1952] stands after the Hindi
+  sentence it supports, not after a sentence about Pāṇini; two more sentences on the स् of
+  नमस्ते, in lesson 1 §8 Step 5 and under derivation (d) of its §13, are framed as Pāṇini's
+  derivation, with their copies in the fact base and the plan. With no blocker or major
+  finding, the citations rounds of the chapter end here (plan §7.6: a round is repeated until
+  one returns no blocker or major finding).
 - **Errata to v4.c01, from the fourth citations round** (2026-11-17, on the chapter as released
   in 0.19.0; the whole Pass C checklist again, with most of its effort on the three kinds of
   error the earlier rounds kept finding): 8 confirmed findings, all minor, none rejected; 15

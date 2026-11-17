@@ -39,12 +39,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c02l04-quiz-key.md"
 tags: [review, assessment, chapter-exam, prakrti-pratyaya, anga-pada-bha, adesha-agama-lopa,
        guna-vrddhi, anuvrtti, natva, satva, derivation, thread-verse, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-17"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-17
 ---
 
 ## 1. Hook

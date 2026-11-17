@@ -10,7 +10,7 @@ cefr: "B1 → B2"
 chapters: 6
 status: draft
 created: 2026-11-10
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 
 # Volume 4 — पाणिनीयम् · The Pāṇinian System
@@ -105,21 +105,37 @@ TRADITION, labelled, never assessed (IR-036). The first step of the भवति
 v4.c01.l01 runs the Volume 3 exam's +1-day item and v3.c06.l04's +1-week item; v4.c01.l02 runs
 the exam's +1-week item.
 
-**Chapter 2, as delivered.** Four lessons: base and affix (3.1.1, 3.1.2; the nasal-vowel marker,
-1.3.2; the ending-marker line; *sup* as a pratyāhāra) and the three names of the base, aṅga,
-pada and bha (1.4.13, 1.4.17, 1.4.18), with रामः, फलम्, नमः and नमस्ते, राजभिः and राज्ञा derived
+**Chapter 2, as delivered** (reviewed 2026-11-17). Four lessons: base and affix (3.1.1, 3.1.2;
+the nasal-vowel marker, 1.3.2; the ending-marker line; *sup* as a pratyāhāra) and the three names
+of the base, aṅga, pada and bha (1.4.13, 1.4.17, 1.4.18) — aṅga before every affix, pada or bha
+before a case ending, neither before the five strong endings, which 1.1.43 names sarvanāmasthāna,
+a name of the endings, not of the base — with रामः, फलम्, नमः and नमस्ते, राजभिः and राज्ञा derived
 and the 1.x rājan card corrected; substitute, augment and deletion (6.1.84, the heading of one
-substitute for two; 1.1.46; 1.1.60),
-with guṇa and vṛddhi defined as names of vowels (1.1.1–3), सूर्योदयः and अगच्छत् derived, and
-IR-021 and the rest of the p. 89 card corrected; words carried down and headings (6.4.1, 8.3.55,
-8.3.57) on ṇatva and ṣatva (8.4.1–2, 8.4.37, 8.3.59), with रामेण, रामेषु and करोषि derived, the
-bracket line switched on and IR-016 corrected; the Chapter 2 exam, one 45-minute sitting with
-Station 0 outside it, after which नास्ति is derived again and the benediction re-read for the ण
-of भद्राणि and the ः of निरामयाः
-at the pause. The first reference cards (K), never assessed: 1.2.45, 1.1.43, 1.1.51. The
-toolbox after Chapter 2 holds 43 tools (13 · 8 · 10 · 0 added). The ledger stands at 537 (16
-ledger-new: 521 → 527 → 532 → 537 → 537). The नमस्ते thread is concluded: according to Pāṇini
-the स् of नमस्ते is a substitute for the visarga (8.3.34). The भवति thread gains 3.1.1–2, 1.3.2
+substitute for two; 1.1.46; 1.1.60), with guṇa and vṛddhi defined as names of vowels (1.1.1–3),
+सूर्योदयः and अगच्छत् derived, and IR-021 and the rest of the p. 89 card corrected; words carried
+down and headings (6.4.1, 8.3.55, 8.3.57) on ṇatva and ṣatva (8.4.1–2, 8.4.37, 8.3.59), with
+रामेण, रामेषु and करोषि derived and IR-016 corrected; the Chapter 2 exam, one 45-minute sitting
+with Station 0 outside it and the toolbox card open for three of its five tasks, after which
+नास्ति is derived again and the benediction re-read for the ण of भद्राणि and the ः of निरामयाः
+at the pause. No table is memorised in this chapter. The first reference cards (K), never
+assessed: 1.2.45, 1.1.43, 1.1.51. The toolbox after Chapter 2 holds 43 tools: 13 added in
+lesson 1 (1.4.17, 1.4.18; 3.1.1, 3.1.2, 1.3.2, 1.4.13; 8.2.66, 8.3.15, 7.1.24, 6.1.107, 8.2.7,
+6.4.134, 2.4.82), 8 in lesson 2 (1.1.1; 1.1.2, 1.1.3; 1.1.46, 1.1.60, 6.1.84, 3.4.100, 6.4.71),
+10 in lesson 3 (8.4.1; 6.4.1; 8.4.2, 8.4.37, 7.1.12, 7.3.103, 8.3.55, 8.3.57, 8.3.59, 3.4.99)
+and none in the exam, whose card prints all 43 in number order. The ledger stands at 537 (16
+ledger-new: 521 → 527 → 532 → 537 → 537). The bracket line begins in lesson 3: under every sūtra
+quoted from then on stand the words the Aṣṭādhyāyī data file records as carried into it and the
+headings it stands under, each with its source, a heading not yet taught printed as "(further
+headings: Teacher Notes)"; until Chapter 6 the learner reads the carried words there and says the
+completed rule. The derivations the learner can now do, in table form, according to Pāṇini:
+रामः, फलम्, वनम्, देवः, नृपः, नमः, नमस्ते, राजभिः, राज्ञा; सूर्योदयः, तत्रैव, सदैव, गुरवे, अगच्छत्,
+अपठत्, अलिखत्; रामेण, देवेन, मित्रेण, रामेषु, फलेषु, गुरुषु, नदीषु, करोषि, अगच्छाम — and the same
+cells of other owned words. The 1.x errors are corrected in the open, each quoted from the page
+image: IR-016 (p. 73: one trigger list given for two rules; in रामेण the र triggers, not an इ),
+IR-021 (p. 89: guṇa inserts no व; the व of भवति comes from 6.1.78) with the rest of the p. 89
+card, and the rājan card of p. 98 (four errors).
+The नमस्ते thread is concluded: according to Pāṇini the स् of नमस्ते is a substitute for the
+visarga (8.3.34); Whitney's account keeps the stem's स्. The भवति thread gains 3.1.1–2, 1.3.2
 and 1.4.13 in lesson 1, guṇa as a substitute in lesson 2 — भू → भो, the rule that orders it,
 7.3.84, being c03.l02's — and the heading 6.4.1 in lesson 3. The grammarians' line: Kātyāyana
 and Patañjali, with the Mahābhāṣya's statement of grammar's purposes and its sentence on

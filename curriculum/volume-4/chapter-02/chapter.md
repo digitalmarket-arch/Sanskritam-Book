@@ -8,9 +8,9 @@ title:
 volume: 4
 chapter: 2
 cefr: B1
-status: draft
+status: reviewed
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-17
 ---
 
 # Chapter 2 — अष्टाध्यायीप्रवेशः · Inside the Aṣṭādhyāyī
@@ -77,7 +77,7 @@ By the end of this chapter the learner can:
 | 1 | v4.c02.l01 | अङ्गं पदं भम् · One Base, Three Names | grammar | base and affix (3.1.1, 3.1.2, 1.3.2, 1.4.13, B); pada and bha (1.4.17, 1.4.18, Q); the ending-marker line; *sup* as a pratyāhāra; राम + सुँ → रामः, फलम्, राजभिः, राज्ञा, नमः → नमस्ते derived (8.2.66, 8.3.15, 7.1.24, 6.1.107, 8.2.7, 6.4.134, 2.4.82, D); 1.2.45 and 1.1.43 on a card; the 1.x rājan card corrected; राजा · प्रत्ययः · प्रकृतिः · आत्मा · स्वामी · भृत्यः |
 | 2 | v4.c02.l02 | आदेशः आगमः लोपः · Replace, Add, Delete | grammar | the three operations (1.1.46, 1.1.60, 6.1.84, D); guṇa and vṛddhi defined (1.1.1, Q; 1.1.2, 1.1.3, B; 1.1.51 on a card); सूर्योदयः and अगच्छत् derived (3.4.100, 6.4.71, D); the substitution ladder; IR-021 and the p. 89 card corrected; लोपः · आगमः · वृद्धिः · हानिः · कोपः; upgrade गुणः |
 | 3 | v4.c02.l03 | अनुवृत्तिः · Words Carried Down | grammar | anuvṛtti and adhikāra (8.4.1, Q; 6.4.1, B; 8.3.55, 8.3.57, D); the bracket line switched on; रामेण, रामेषु, करोषि derived (7.1.12, 8.4.2, 8.4.37, 7.3.103, 8.3.59, 3.4.99, D); IR-016 corrected; अनुवृत्तिः · अधिकारः · समानः · निमित्तम् · कारणम् |
-| 4 | v4.c02.l04 | द्वितीयपरीक्षा · Chapter 2 Exam | review | the chapter on one page (the anatomy of a word, the strong/pada/bha box, the operations table, the guṇa/vṛddhi ladder, the toolbox of 43); five tasks in one 45-minute sitting; नास्ति and the thread verse सर्वे भवन्तु सुखिनः… re-read after it |
+| 4 | v4.c02.l04 | द्वितीयपरीक्षा · Chapter 2 Exam | review | the chapter on one page (the anatomy of a word, the strong/pada/bha box, the operations table, the guṇa/vṛddhi ladder, the toolbox of 43); five tasks in one 45-minute sitting; after it, नास्ति derived again and the thread verse सर्वे भवन्तु सुखिनः… re-read |
 
 Ledger: 521 → 527 → 532 → 537 → 537 (16 ledger-new; the affix names, the names अङ्गम्, भम्,
 प्रातिपदिकम्, सर्वनामस्थानम्, णत्वम्, षत्वम्, every sūtra-internal or commentary form and every

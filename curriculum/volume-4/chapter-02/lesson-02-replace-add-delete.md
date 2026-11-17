@@ -40,12 +40,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c02l02-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c02l02-quiz-key.md"
 tags: [grammar, panini, adesha, agama, lopa, guna, vrddhi, augment, imperfect, ir-021, derivation, bhavati-thread, mahabhashya, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-17"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-17
 ---
 
 ## 1. Hook

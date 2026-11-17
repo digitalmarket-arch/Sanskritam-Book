@@ -172,6 +172,23 @@ uses both, in a fixed order.
 - **A derivation is a four-column table** — Step · String · Sūtra · What happens — under the
   heading "Derive, according to Pāṇini, …". The String column shows the seams (भो + अति), and
   the last line is the joined word, in bold (v4.c01, from the Volume 4 plan's §1.4.2).
+- **From v4.c02.l03 to v4.c05.l05, a quoted sūtra carries a bracket line** beneath it, printed from the
+  Aṣṭādhyāyī data file's anuvṛtti and adhikāra fields: "carried (data file): word, source" for
+  each word carried into it, and "headings (data file): heading, number" for each heading it
+  stands under; where the reading needs more than the file records, a course line follows,
+  "carried (course): …" (8.4.2: नः णः समानपदे, 8.4.1). A word the file carries and the rule does
+  not use is labelled "(the file carries it; this rule does not use it)", as 7.3.103's दीर्घः is;
+  a heading's own row is labelled "(the heading begins here)"; a heading the course has not yet
+  taught is not named but printed as "(further headings: Teacher Notes)". Before v4.c02.l03 a
+  carried word stands in square brackets beside the sūtra: [पदम्, carried from 1.4.14]
+  (v4.c02.l03, from the Volume 4 plan's §1.4.3). In Chapter 6 the line is withdrawn, and the
+  learner supplies the carried words.
+- **No derivation is printed or keyed as ending on a form that is not a word.** Where a
+  derivation's last step belongs to a later lesson, that step is printed for the learner as one
+  line, marked with its lesson, and the learner writes the steps before it. In an exam task the
+  printed line is labelled "last", not numbered, because a key that accepts two routes reaches it
+  at different steps: राम + ङे → रामाय, its last line 7.3.102 [preview: c06.l03] (v4.c02.l04, task
+  E; settled at that chapter's review).
 - **Authentic text** keeps the word division of the e-text that REFERENCES names. Evident
   typos of the e-text are corrected, and each correction is listed in Teacher Notes, with
   every departure from full sandhi noted beside it (महान् जम्बूपादपः for महाञ्जम्बू°).
@@ -421,5 +438,5 @@ the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned
 `research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (all six reached, at
 the reviews of v3.c01, v3.c02, v3.c03, v3.c04, v3.c05 and v3.c06; Volume 3 is complete at
 508); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
-591 · 617 · 627 (119 new headwords, 508 → 627; 521 reached at v4.c01's review; the rest are
-planned figures until their chapters ship).
+591 · 617 · 627 (119 new headwords, 508 → 627; 521 and 537 reached, at the reviews of v4.c01
+and v4.c02; the rest are planned figures until their chapters ship).

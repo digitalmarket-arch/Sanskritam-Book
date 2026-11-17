@@ -2144,6 +2144,100 @@
       ],
       "path": "curriculum/volume-4/chapter-01/lesson-04-chapter-one-exam.md",
       "json": "json/volume-4/v4.c01.l04.json"
+    },
+    {
+      "id": "v4.c02.l01",
+      "title": {
+        "sa": "अङ्गं पदं भम्",
+        "sa_iast": "aṅgaṃ padaṃ bham",
+        "hi": "एक प्रकृति, तीन नाम",
+        "en": "One Base, Three Names"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c01.l04"
+      ],
+      "review_of": [
+        "v4.c01.l04",
+        "v4.c01.l03",
+        "v3.c01.l05",
+        "v3.c01.l04",
+        "v1.c05.l02"
+      ],
+      "path": "curriculum/volume-4/chapter-02/lesson-01-one-base-three-names.md",
+      "json": "json/volume-4/v4.c02.l01.json"
+    },
+    {
+      "id": "v4.c02.l02",
+      "title": {
+        "sa": "आदेशः आगमः लोपः",
+        "sa_iast": "ādeśaḥ āgamaḥ lopaḥ",
+        "hi": "आदेश, आगम, लोप",
+        "en": "Replace, Add, Delete"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c02.l01"
+      ],
+      "review_of": [
+        "v4.c02.l01",
+        "v4.c01.l04",
+        "v4.c01.l03",
+        "v3.c03.l03",
+        "v3.c04.l01"
+      ],
+      "path": "curriculum/volume-4/chapter-02/lesson-02-replace-add-delete.md",
+      "json": "json/volume-4/v4.c02.l02.json"
+    },
+    {
+      "id": "v4.c02.l03",
+      "title": {
+        "sa": "अनुवृत्तिः",
+        "sa_iast": "anuvṛttiḥ",
+        "hi": "अनुवृत्ति: ऊपर से आए पद",
+        "en": "Words Carried Down"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c02.l02"
+      ],
+      "review_of": [
+        "v4.c02.l02",
+        "v4.c02.l01",
+        "v3.c01.l03",
+        "v3.c02.l01",
+        "v3.c02.l02",
+        "v3.c04.l04",
+        "v2.c04.l02",
+        "v2.c04.l03"
+      ],
+      "path": "curriculum/volume-4/chapter-02/lesson-03-words-carried-down.md",
+      "json": "json/volume-4/v4.c02.l03.json"
+    },
+    {
+      "id": "v4.c02.l04",
+      "title": {
+        "sa": "द्वितीयपरीक्षा",
+        "sa_iast": "dvitīyaparīkṣā",
+        "hi": "दूसरे अध्याय की परीक्षा",
+        "en": "Chapter 2 Exam"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c02.l03"
+      ],
+      "review_of": [
+        "v4.c02.l01",
+        "v4.c02.l02",
+        "v4.c02.l03",
+        "v4.c01.l04"
+      ],
+      "path": "curriculum/volume-4/chapter-02/lesson-04-chapter-two-exam.md",
+      "json": "json/volume-4/v4.c02.l04.json"
     }
   ]
 }

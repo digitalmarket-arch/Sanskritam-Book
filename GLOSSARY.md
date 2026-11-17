@@ -149,6 +149,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | सर्वनामस्थानम् | sarvanāmasthānam | the five strong endings सुँ औ जस् अम् औट्, except after a neuter (1.1.43): a name of the endings, not of the base | सर्वनामस्थान — सबल प्रत्यय | v4.c02.l01 |
 | प्रातिपदिकम् | prātipadikam | a nominal base: a meaningful form, not a root, not an affix (1.2.45) | प्रातिपदिक | v4.c02.l01 |
 | लोपः | lopaḥ | deletion: disappearance of what would have appeared (1.1.60); also a ledger headword of v4.c02.l02 | लोप | v4.c02.l02 |
+| लुक् | luk | deletion of an affix, named by the word लुक् in a rule: in 2.4.82 it is carried from an earlier rule, and in the operations table of v4.c02.l02 it stands beside लोपः as the sign of a deletion | लुक् | v4.c02.l01 |
 | अनुवृत्तिः | anuvṛttiḥ | carrying down: a word of an earlier sūtra continuing into a later one; also a ledger headword of v4.c02.l03 | अनुवृत्ति | v4.c02.l03 |
 | अधिकारः | adhikāraḥ | heading: a sūtra that stands over a stretch of rules (6.4.1 अङ्गस्य); also a ledger headword of v4.c02.l03 | अधिकार | v4.c02.l03 |
 | णत्वम् · षत्वम् | ṇatvam · ṣatvam | the rules that make ण for न, 8.4.1–2, and ष for स, 8.3.59 | णत्व · षत्व | v4.c02.l03 |

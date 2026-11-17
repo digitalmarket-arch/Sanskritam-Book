@@ -74,7 +74,7 @@ planned chapter exit reached).
 | Ch | Title | Lessons | Status |
 |---|---|---|---|
 | 1 | माहेश्वराणि सूत्राणि — The Fourteen Sūtras | 4 | ✅ reviewed |
-| 2 | अष्टाध्यायीप्रवेशः — Inside the Aṣṭādhyāyī | 4 | ⬜ |
+| 2 | अष्टाध्यायीप्रवेशः — Inside the Aṣṭādhyāyī | 4 | ✅ reviewed |
 | 3 | धातुः तिङ्विस्तारश्च — Roots & the Full Verb | 6 | ⬜ |
 | 4 | कृत्-तद्धित-समासाः — Derivation & Compounds | 5 | ⬜ |
 | 5 | प्रयोगाः विभक्तिविस्तारश्च — Voices & Case in Depth | 5 | ⬜ |
@@ -95,9 +95,9 @@ the Pañcatantra 4 frame story; in Chapter 6 the Kāśikā on the sūtras read a
 Laghusiddhāntakaumudī's prakriyā of बभूव), and what is left to Volume 5. Its last task is
 the learner deriving भू → भवति, in task C of v4.c06.l04. Volume frame:
 `curriculum/volume-4/volume.md`.
-**Under way 2026-11-13:** Chapter 1 of 6 is reviewed — 4 of 28 lessons, 13 of 119 ledger-new
-words, 521 readable words (the first planned chapter exit reached), 12 tools in the learner's
-toolbox.
+**Under way 2026-11-17:** Chapters 1–2 of 6 are reviewed — 8 of 28 lessons, 29 of 119
+ledger-new words, 537 readable words (the first two planned chapter exits reached), 43 tools in
+the learner's toolbox.
 
 ## Volume 5 — साहित्यम् · Literature & Mastery (B2 → C1)
 
@@ -384,6 +384,38 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   over the option letters (STYLE_GUIDE §5; `scripts/quizcheck.py`), and errata to v3.c03.l02
   and v3.c04.l04. Next: v4.c02 अष्टाध्यायीप्रवेशः — Inside the Aṣṭādhyāyī (fact base verified;
   lessons 1–3 and the chapter exam, lesson 4, drafted, not yet reviewed).
+- **2026-11-17** — **v4.c02 अष्टाध्यायीप्रवेशः complete and reviewed (0.20.0)**: three grammar
+  lessons and the Chapter 2 exam. A word taken apart into a base and an affix placed after it
+  (3.1.1–2), the affix's markers named (1.3.2, 1.3.3) and dropped (1.3.9), with the ending-marker
+  line and *sup* read as a pratyāhāra; the names of the base — aṅga before every affix (1.4.13),
+  pada (1.4.17) or bha (1.4.18) before the case endings, neither before the five strong ones —
+  so that राजन् gives राजभिः and राज्ञा by two different rules, with रामः, नमः and नमस्ते derived
+  and, in Pāṇini's derivation, the स् of नमस्ते a substitute for the visarga; the three things a
+  rule may do to a form — substitute, augment and deletion (1.1.49, 1.1.46, 1.1.60; 6.1.84 a
+  heading) — with guṇa and vṛddhi defined as names of vowels (1.1.1–3), and सूर्योदयः and अगच्छत्
+  derived, the second as all three operations at once; words carried down and headings
+  (anuvṛtti; adhikāra: 6.4.1, 8.3.55, 8.3.57), read in the bracket line printed under every sūtra
+  from lesson 3 on, with the ṇ of रामेण by 8.4.1–2, 8.4.37 for रामान्, and the ṣ of रामेषु and
+  करोषि by 8.3.59 derived; the Chapter 2 exam, five tasks in one closed-book 45-minute sitting
+  with the toolbox card of 43 open for three of them, in which four owned forms are derived
+  according to Pāṇini and an unseen rule is read with its bracket line. The 1.x book's errors in
+  this territory (the rājan card, p. 98; the card of p. 89, IR-021 among its errors; the
+  ṣatva/ṇatva card of p. 73, IR-016) are quoted from the page images and corrected in the open.
+  Fact base verified before drafting (32 confirmed findings, 1 of them blocking: the Hindi
+  parallel credited the ण of रामायण and प्रमाण to 8.4.1–2, which other rules make); review passes
+  A–D, Pass A lesson by lesson (126 findings confirmed, none blocking, 37 major, among them
+  sarvanāmasthāna given as a name of the base, the स् of नमस्ते stated without its frame, and an
+  exam toolbox card that printed the carried words three task items score; 364 fixes applied);
+  post-fix verification of ten files in four runs (43 follow-ups confirmed, all minor; 41
+  fixes); a second citation round on the chapter as reviewed (3 more findings confirmed, all
+  minor; 12 fixes), after which the chapter's citation rounds end. A citation of a book that could
+  not be opened, and that no search result quoting it confirmed, was removed before release. 16
+  ledger-new (537 cumulative, the second planned Volume 4 exit); 43 tools in the learner's
+  toolbox; 99 reviewed lessons (91 in Volumes 1–3, 8 in Volume 4), validator green, exports
+  current. Shipped with it: errata to v4.c01 from its fourth citation round, which ended that
+  chapter's citation rounds, and the first drafts of the six lessons of v4.c03. Next: v4.c03
+  धातुः तिङ्विस्तारश्च — Roots & the Full Verb (fact base verified; lessons 1–5 and the chapter
+  exam, lesson 6, drafted, not yet reviewed).
 
 ## Content preservation map (from the 1.x curriculum)
 
@@ -407,7 +439,7 @@ Verified-correct 1.x material and where it lands in 2.0:
 | √भू 6-lakāra table (pp.127–128) | v4.c03 |
 | tad/idam/numeral paradigms (pp.111–113, 125–127) | v3.c02 (numeral nom./acc.); v3.c05.l02 (tad/idam) — तद् in three genders re-derived as the model table in §15, सः and सा from one stem and every other cell from त-, the key cells of इदम्, the 1.x errors listed with their corrections in §22; v4.c05 (numeral system) |
 | Upasarga list (p.115) | v3.c05.l03 — the tradition's twenty-two (1.4.58 as the Kāśikā gives it) on the reference card of §15, beside Whitney's nineteen; the 1.x errors (अति and उप printed twice, नि and अपि left out) listed with their corrections in §22 |
-| rājan aṅga/pada/bha example (pp.97–99) | v4.c02 |
+| rājan aṅga/pada/bha example (pp.97–99) | v4.c02.l01 — the example carried: राजन् sorted before twelve endings into strong, pada and bha in §18 exercise 3, by the rule of §8 Step 4 and the three boxes of §15, aṅga before every affix (1.4.13), with राजभिः by 8.2.7 and राज्ञा by 6.4.134 derived in §13, राजा read, and the whole paradigm shown as display from Whitney §424 (its cells ✓ in v4.c05.l03); the 1.x errors of the rājan card (p.98: 1.4.18 glossed with "sibilant + vowel", the "3rd-7th cases", राजा called pada and राजानम् aṅga) listed with their corrections in §8 Step 4, quoted from the page image |
 | Gerund/infinitive lesson (pp.106–108) | v4.c04 |
 | Meta-rules 8.2.1/1.1.56/1.4.2 (pp.115–117) | v4.c06 |
 | "Read a Real Sūtra" (pp.130–134) | v4.c06 (expanded to a chapter) |

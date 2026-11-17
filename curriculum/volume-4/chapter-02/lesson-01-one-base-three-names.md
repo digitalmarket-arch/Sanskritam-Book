@@ -40,12 +40,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c02l01-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c02l01-quiz-key.md"
 tags: [grammar, panini, prakrti-pratyaya, it-markers, anga-pada-bha, rajan, namaste-thread, sup-pratyahara, derivation, mahabhashya, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-17"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-17
 ---
 
 ## 1. Hook
