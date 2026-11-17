@@ -171,10 +171,11 @@ singular share one form outside the masculine and neuter a-stems.
 > **[FACT · तथ्यम्]** "The ablative has a special ending … only in a-stems, masc. and neut. …
 > Everywhere else, the ablative is identical with the genitive." [REF:whitney1889 §307]
 
-In the a-stems you own the two apart: रामस्य against रामात्, गृहस्य against गृहात्. But the
-names of sounds in Pāṇini's rules are not a-stems. अच्, इक्, अत्, भिस् are consonant stems, and
-स्तु in स्तोः is a u-stem: their genitive and ablative singular are one form — इकः, अचः, अतः,
-भिसः, स्तोः. So in a rule the form alone cannot tell you whether अतः is "of short a" or
+In the a-stems you own the two apart: रामस्य against रामात्, गृहस्य against गृहात्. But no
+genitive or ablative in the six rules of §15's table comes from an a-stem. अच्, इक्, अत्,
+भिस् are consonant stems, and स्तु in स्तोः is a u-stem: their genitive and ablative singular
+are one form — इकः, अचः, अतः, भिसः, स्तोः. So in a rule the form alone cannot tell you
+whether अतः is "of short a" or
 "after short a". §8 Step 4 gives the test the course uses.
 
 One more reason the grammar needs a definition at all. In ordinary Sanskrit a genitive has
@@ -243,11 +244,13 @@ its first sound is never merged into the word before it, just as a quoted name's
 उसका काम दिखाता है।
 
 हिन्दी में हम यह बात परसर्ग के साथ एक और शब्द जोड़कर कहते हैं: "इक् **के स्थान पर** यण्", "स्वर **से
-पहले**" (हिन्दी माध्यम में संस्कृत पढ़ाते समय "स्वर **परे होने पर**" भी कहा जाता है), "ह्रस्व अ **के बाद**" [REF:kachru2006]। संस्कृत
+पहले**", "ह्रस्व अ **के बाद**" [REF:kachru2006]। हिन्दी माध्यम में संस्कृत पढ़ाते समय
+"स्वर **परे होने पर**" भी कहा जाता है। संस्कृत
 यही बात केवल विभक्ति के प्रत्यय से कहती है — इकः, अचि, अतः; उसे न "स्थान" शब्द चाहिए, न
-"पहले", न "बाद"। और पाणिनि के सूत्रों में हर विभक्ति का काम तय है:
+"पहले", न "बाद"। और पाणिनि के सूत्रों में ये चार विभक्तियाँ यों काम करती हैं:
 
-- **षष्ठी — के स्थान पर।** षष्ठी में रखा शब्द वह है जिसकी जगह कुछ और आता है — सूत्र 1.1.49।
+- **षष्ठी — के स्थान पर।** षष्ठी में रखा शब्द, जब उसका सम्बन्ध किसी और तरह तय न हो, वह है
+  जिसकी जगह कुछ और आता है — सूत्र 1.1.49।
 - **सप्तमी — से पहले।** सप्तमी में रखा शब्द वह है जो आगे आता है; कार्य उसके ठीक पहले वाले
   वर्ण पर होता है — सूत्र 1.1.66।
 - **पञ्चमी — के बाद।** पञ्चमी में रखा शब्द वह है जो पहले आता है; कार्य उसके ठीक बाद वाले पर

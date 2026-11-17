@@ -186,8 +186,8 @@ expand any of them from the fourteen lines — which is the point of the list.
 
 ### The 1.x errors, corrected in the open
 
-The 1.x book's chapter on Pāṇini printed three errors in today's territory. Each is quoted with
-its page and corrected here; §12 and §18 exercise 4 drill the corrections.
+Three errors that the 1.x book's chapter on Pāṇini printed in today's territory are quoted
+here, each with its page, and corrected; §12 and §18 exercise 4 drill the corrections.
 
 1. **चय्, झश्, जश् — p. 96.** The 1.x book printed: "• चय् (cay) = voiceless aspirated" ·
    "• झश् (jhaś) = voiced unaspirated stops (ज ब ग ड द)" · "• जश् (jaś) = also voiced
@@ -241,7 +241,7 @@ made: put a hand on your throat and say ज, then च — the buzz is there in �
 Aspiration is a puff of breath after the release: hold a strip of paper before your lips and say
 फ, then प — it moves for फ. Sanskrit's voiced aspirates (घ झ ढ ध भ) are breathy-voiced, written
 with a raised ʱ (STYLE_GUIDE §2): voiced, with breath after. So चय्, च ट त क प, names the **first** member of each
-of the five series — voiceless and unaspirated. That one fact is the 1.x book's error on p. 96, put right.
+of the five series — voiceless and unaspirated. That one fact puts right the 1.x book's चय् line on p. 96.
 
 The course principle behind the lesson, with its one source: formulaic chunks are taught whole and
 analysed later [REF:nation2013]. You were given इको यणचि whole in Volume 3; today it is analysed.
@@ -503,8 +503,9 @@ written into the Volume 1 grid, the markers in a second colour.
 2. **The lips check (उ, व्).** Mirror: say उ, then व्. Both use the lips — rounded for उ, the
    lower lip against the upper teeth for /ʋ/. That is why सु + आगतम् gives स्वागतम्, not
    \*स्यागतम्.
-3. **The throat check (voicing).** Hand on the throat for sūtras 8–10: the buzz never stops.
-   For sūtras 11–12 it never starts.
+3. **The throat check (voicing).** Hand on the throat for the stops listed in sūtras 8–10:
+   each one buzzes. For the stops listed in sūtras 11–12 it does not; what buzzes there is
+   the helping अ and the marker.
 4. **The breath check (aspiration).** Paper strip for sūtra 11 (*kha pha cha ṭha tha*: it moves)
    against the end of the same line and sūtra 12 (*ca ṭa ta*, *ka pa*: it does not).
 

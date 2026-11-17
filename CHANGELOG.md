@@ -4,6 +4,29 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Fixed
+
+- **Errata to v4.c01, from the fourth citations round** (2026-11-17, on the chapter as released
+  in 0.19.0; the whole Pass C checklist again, with most of its effort on the three kinds of
+  error the earlier rounds kept finding): 8 confirmed findings, all minor, none rejected; 15
+  fixes; a coverage record of 31 lines. It found no blocker and no major finding, so the
+  citations rounds of the chapter end here. Lesson 1: three of the 1.x book's errors are
+  corrected in the open, not "three errors" as if there were no others (lesson 4 §15 and the
+  chapter frame likewise); the चय् line is named as such; the throat check speaks of the stops
+  each sūtra lists, since the helping अ and the markers of sūtras 9–12 are voiced or voiceless
+  as they are. Lesson 2: the learner owns three rules with a tapara letter, not two (6.1.109
+  एङः पदान्तादति has one, with the Kāśikā's own note under it); the Hindi no longer says that अ
+  and आ differ only in length (they differ in openness as well, /ɐ/ against /ɑː/); the sentence
+  after Whitney §20 a keeps his "apparently". Lesson 3: no genitive or ablative of the six rules
+  of its table comes from an a-stem — not "the names of sounds in Pāṇini's rules are not
+  a-stems", which its own key to exercise 4 contradicts (आत् in 6.1.87); the Hindi list of the
+  four cases no longer says "every case's job is fixed", and its genitive line carries the
+  Kāśikā's limit; [REF:kachru2006] supports the Hindi postpositions only, and the sentence on
+  how Sanskrit is taught in Hindi medium stands after it without a key. The fact base's list of
+  tapara letters gains 6.1.109. The JSON exports of the four lessons are regenerated.
+
 ## [0.19.0] — 2026-11-13
 
 Volume 4 — पाणिनीयम् · The Pāṇinian System — opens. Its first chapter, माहेश्वराणि सूत्राणि ·

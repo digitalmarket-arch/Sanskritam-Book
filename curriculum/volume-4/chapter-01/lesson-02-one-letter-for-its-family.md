@@ -198,8 +198,9 @@ this list, ए and ऐ use the throat and the palate together, and ओ and औ t
 > the rest a vowel". [REF:whitney1889 §20]
 
 So the place list is the tradition's scheme, and a modern grammarian reads it as a scheme:
-अ has no closure anywhere in the mouth, and the list files it with the throat so that every
-row has its vowel. Today's rules use the list for one purpose only — to say which sounds are
+अ has no closure anywhere in the mouth, and the list files it with the throat — apparently,
+Whitney says, only so that every row has its vowel. Today's rules use the list for one
+purpose only — to say which sounds are
 one family.
 
 Length, the other half of today's story, is duration. As Volume 1 taught (v1.c02.l01), a long
@@ -257,8 +258,10 @@ the word before it stands in its pause form (न, ह्रस्वः; तु�
 इसका उत्तर आज का शब्द है — **सवर्ण**। पाणिनि के सूत्र 1.1.9 के अनुसार दो वर्ण सवर्ण होते हैं जब
 उनका **स्थान** एक हो — यानी मुँह की वह जगह जहाँ से वे बोले जाते हैं — और **प्रयत्न** भी एक
 हो — यानी बोलते समय जीभ का काम: पूरा छूना, थोड़ा छूना, या खुला रास्ता छोड़ना। अ और आ दोनों
-कण्ठ से बोले जाते हैं: वे सवर्ण हैं। इ और ई तालु से: सवर्ण। इनमें अन्तर केवल **मात्रा** का है —
-**ह्रस्व** स्वर एक मात्रा का, **दीर्घ** दो मात्रा का। तीन मात्रा वाला स्वर भी होता है,
+कण्ठ से बोले जाते हैं: वे सवर्ण हैं। इ और ई तालु से: सवर्ण। इनमें अन्तर **मात्रा** का है —
+**ह्रस्व** स्वर एक मात्रा का, **दीर्घ** दो मात्रा का। इ और ई में और कोई अन्तर नहीं; अ और
+आ में खुलेपन का अन्तर भी है, /ɐ/ और /ɑː/, फिर भी व्याकरण उन्हें एक परिवार गिनता है। तीन
+मात्रा वाला स्वर भी होता है,
 **प्लुत** — आ३; आज केवल उसका नाम जानिए। पर इ और ए सवर्ण नहीं: ए कण्ठ और तालु दोनों से बोला
 जाता है। और इ और श, दोनों तालु के होते हुए भी, सवर्ण नहीं: स्वर और व्यञ्जन कभी सवर्ण नहीं होते।
 
@@ -367,8 +370,10 @@ English line: "A vowel followed by त् stands only for [the savarṇas] of it
 [REF:ashtadhyayi 1.1.70] [REF:kashika 1.1.70]
 
 A vowel written with त् after it is called **tapara**, "with त् after it". It reaches no
-further than its own length: अत् is short अ only, आत् is long आ only. You own two rules that
-use it. 7.3.101's अतः is अत्: short अ only. And 1.1.11 ईदूदेद्द्विवचनं प्रगृह्यम्, from
+further than its own length: अत् is short अ only, आत् is long आ only. You own three rules
+that use it. 7.3.101's अतः is अत्: short अ only. 6.1.109 एङः पदान्तादति, from v3.c04.l01,
+has one too: its अति holds अत्, so only a short अ merges — before आ, the Kāśikā notes, the
+rule does not apply [REF:kashika 6.1.109]. And 1.1.11 ईदूदेद्द्विवचनं प्रगृह्यम्, from
 v3.c04.l01, is three tapara letters, ईत् ऊत् एत्, "a dual ending in ई, ऊ or ए": its ईत् is ई only,
 its ऊत् ऊ only.
 
@@ -648,7 +653,8 @@ The wording of each is in §8 Step 3; here is where each stands.
 - **D — 1.1.70 तपरस्तत्कालस्य.** Tapara: own length only. The authority for step 1 of derivation
   (b).
 - **Re-read [owned]:** 6.1.101 अकः सवर्णे दीर्घः; 7.3.101 अतो दीर्घो यञि. **Pointers (numbers
-  printed, not tools):** 8.4.40, 1.1.11, 1.1.1, 1.1.2, 1.1.51, 8.3.57; and 7.1.9, lesson 3's.
+  printed, not tools):** 8.4.40, 1.1.11, 6.1.109, 1.1.1, 1.1.2, 1.1.51, 8.3.57; and 7.1.9,
+  lesson 3's.
 
 ### The two ण्
 

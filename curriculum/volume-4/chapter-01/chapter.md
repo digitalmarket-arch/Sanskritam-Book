@@ -20,8 +20,9 @@ syllables nobody had yet taught them to read. This chapter teaches the alphabet 
 written in. The first lesson gives the fourteen sūtras, अइउण् to हल्, written into the Volume 1 grid
 and recited, with the marker that closes each line (1.3.3, 1.3.9) and the pratyāhāra, a sound plus
 a marker naming every sound up to it (1.1.71); with them इको यणचि reads "ik before ac: yaṇ", and the
-learner derives इति + अवदत् → इत्यवदत् step by step. The 1.x book's errors in this territory are
-corrected in the open, each quoted with its page: चय् is voiceless *unaspirated*, झश् is not जश्,
+learner derives इति + अवदत् → इत्यवदत् step by step. Three of the 1.x book's errors in this
+territory are corrected in the open, each quoted with its page: चय् is voiceless
+*unaspirated* and झश् is not जश्,
 the memory aid gains sūtra 12, and इको यणचि is 6.1.77 and not 1.1.45; the "~42 pratyāhāras", a count
 given without its method, is quoted beside the Kāśikā's own count (41 named marker by marker, with ञम् and the र of 1.1.51 noted apart), printed with its method. The Śiva-drum story stays what the 1.x book
 called it, a legend, labelled and never assessed. The second lesson asks how long a letter in a rule

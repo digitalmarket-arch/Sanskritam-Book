@@ -1371,3 +1371,22 @@ Found by the post-fix verification of v4.c01 (lesson 3's Hook points to this lin
 The research notes of Volume 3 (the v3.c04 fact base and the Volume 3 plan) keep the drafting
 wording; the lesson is the binding copy.
 
+## Errata — v4.c01, Pass C fourth round (2026-11-17)
+
+The citations pass of v4.c01 is repeated until a round returns no blocker or major finding (the
+rule settled at the chapter's review; Volume 4 plan §7.6). The third round, whose fixes went
+into 0.19.0, still found a major finding; the fourth ran on the chapter as released: 8
+confirmed findings, all minor, none rejected; a coverage record of 31 lines. The citations
+rounds of the chapter end here.
+
+| Claim as shipped | Source | Verdict | Where |
+|---|---|---|---|
+| "You own two rules that use it" (a tapara letter) | 6.1.109 एङः पदान्तादति, quoted to the learner in v3.c04.l01, has one (data file: अति, locative of अत्); the Kāśikā under it, line 53614: *taparakaraṇam iti kim ? vāyavāyāhi* | ✅ corrected: three rules (7.3.101, 6.1.109, 1.1.11) | v4.c01.l02 §8 Step 3, §15; fact base row 0.17 |
+| "the names of sounds in Pāṇini's rules are not a-stems" | the data file: 6.1.87 आद्गुणः (आत्, ablative of अ), 8.2.24 रात्सस्य (रात्, सस्य) — and the lesson's own key to exercise 4 (6) | ✅ corrected: "no genitive or ablative in the six rules of §15's table comes from an a-stem" | v4.c01.l03 §5 |
+| Hindi: अ/आ and इ/ई differ "only in mātrā" | the lesson's own §5 and §9: अ and आ differ in openness as well, /ɐ/ against /ɑː/ (STYLE_GUIDE §2.1) | ✅ corrected | v4.c01.l02 §7 |
+| Hindi: in Pāṇini's sūtras "every case's job is fixed"; the genitive line without a limit | 1.1.49 with the Kāśikā's limit (a genitive whose link is not otherwise fixed), as the lesson's English line has it; 8.4.40's instrumental is the lesson's own exception | ✅ corrected | v4.c01.l03 §7 |
+| [REF:kachru2006] closing a sentence that also states how Sanskrit is taught in Hindi medium | the key is a grammar of Hindi: it supports the Hindi postpositions only | ✅ the teaching-practice sentence stands after the key, without one | v4.c01.l03 §7 |
+| "the list files it with the throat so that every row has its vowel" (stated as fact) | Whitney §20 a, quoted just above it: "apparently only to give that series as well as the rest a vowel" | ✅ the hedge and the attribution restored | v4.c01.l02 §5 |
+| "Hand on the throat for sūtras 8–10: the buzz never stops. For sūtras 11–12 it never starts." | sūtras 9 and 10 end in the voiceless markers ष् and श्; in 11–12 the helping अ and the markers व् and य् are voiced | ✅ corrected: the check speaks of the stops each sūtra lists | v4.c01.l01 §11 |
+| "The 1.x book's chapter on Pāṇini printed three errors in today's territory" (and lesson 4 §15, the chapter frame) | lesson 1's own Teacher Notes name a fourth 1.x line in the territory, kept out of learner text | ✅ corrected: "three of the 1.x book's errors" | v4.c01.l01 §4, §5; v4.c01.l04 §15; chapter.md |
+

@@ -596,7 +596,7 @@ Kāśikā on लण्, printed in l01 §15).
 
 **Where the fourteen stand, and the three corrections (plain text, as lesson 1 gave them).** The
 fourteen sūtras are handed down with the Aṣṭādhyāyī, at its head, and are not among its numbered
-rules (§4). The 1.x book's three errors in this territory, corrected in l01 §4: (1) the
+rules (§4). Three of the 1.x book's errors in this territory, corrected in l01 §4: (1) the
 sound-sets — चय् is च ट त क प, voiceless and unaspirated, not "voiceless aspirated"; झश् — ten
 voiced stops — is not जश् — the five unaspirated ones; (2) the memory aid, which had no line for
 sūtra 12 and left out the ह of sūtra 5 — the one above is the rebuilt one; (3) इको यणचि is
