@@ -166,8 +166,9 @@ endings. Whitney, describing the language rather than Pāṇini's rules, says th
 Whitney's "strong", "weakest" and "middle" cases and Pāṇini's three sets of endings — the strong
 ones, and those before which the base is called bha or pada — are the same for a masculine: the
 two accounts name them differently. Whitney speaks of
-a stem with three forms; Pāṇini keeps one base and gives it a different name before each set of
-endings, and lets each name set off its own rule. The language does it (FACT); Pāṇini's names and
+a stem with three forms; Pāṇini keeps one base, calls it pada before one set of endings and bha
+before another — before the strong set it is neither — and lets the two names, and the strong
+endings, set off three rules. The language does it (FACT); Pāṇini's names and
 rules describe it (TRADITION). This lesson prints both, side by side.
 
 One more point of description. Whitney prints the final -स् of the endings (राजभिस्, राज्ञस्); this
@@ -238,7 +239,8 @@ stands in its pause form. रामशब्दे is a compound, one word, hyph
 तो रामः का ः उसी प्रत्यय का बचा हुआ अंश है।
 
 हर प्रत्यय के इत् एक जैसे नहीं होते। आज की **प्रत्यय-चिह्न पंक्ति** याद रखिए: जस् का ज् और टा
-का ट् इत् हैं; शस् का श् और ङे, ङसिँ, ङस्, ङि का ङ् भी इत् हैं; पर भिस्, भ्यस्, जस्, ङस्, ओस्
+का ट् इत् हैं; शस् का श् और ङे, ङसिँ, ङस्, ङि का ङ् भी इत् हैं; ङसिँ का अनुनासिक इँ और औट् का
+अन्तिम ट् भी इत् हैं; पर भिस्, भ्यस्, जस्, ङस्, ओस्
 का अन्तिम स् और अम्, भ्याम्, आम् का म् इत् **नहीं** हैं — विभक्ति के प्रत्यय में अन्त का दन्त्य,
 स् या म् बना रहता है। इसलिए अम् में म् बचा रहता है, भिस् भिस् ही रहता है, और सुप् का केवल प्
 जाता है। सुप् अपने-आप में एक प्रत्याहार है: 4.1.2 के पहले प्रत्यय सुँ से अन्तिम इत् प् तक —
@@ -353,8 +355,10 @@ not over-applied:
 - but the **final** स् of भिस्, भ्यस्, जस्, ङस्, ओस् and the म् of अम्, भ्याम्, आम् are **not**
   markers: in a case or verb ending, a final dental, स् or म् is kept [Teacher Notes].
 
-So अम् keeps its म्, भिस् stays भिस्, and सुप् loses only its प्. And one more line, on सुँ itself:
-**The उ of सुँ is nasal (उँ): the tradition says so; the printed rule does not show it.**
+So अम् keeps its म्, भिस् stays भिस्, and सुप् loses only its प्; औट् loses its ट्, a marker
+by 1.3.3. And one more line, on सुँ itself:
+**The उ of सुँ is nasal (उँ): the tradition says so; the printed rule does not show it.** So is the
+इ of ङसिँ: its इँ [1.3.2] and its ङ् are both markers, and अस् is left.
 
 **सुप् is a pratyāhāra too.** You own the rule that makes a name from a first sound and a marker
 (1.1.71, Chapter 1). From सुँ, the first ending of 4.1.2, to the final marker प् of सुप्, the last,
@@ -444,8 +448,8 @@ with ज्, and ज् + ञ् is written ज्ञ.
 **(d) Derive, according to Pāṇini, नमस् + सुँ → नमः, and नमः + ते → नमस्ते.** नमस् is an
 indeclinable (1.1.37, owned); after it the case ending is deleted (2.4.82). The word is still a
 pada — a deleted ending still counts (the reason: Teacher Notes) — so its स् → रुँ → visarga. Before
-ते the visarga arises too, and is replaced by स् — 8.3.34, owned. So the स् of नमस्ते is a
-substitute for the visarga, not the stem's स् left untouched.
+ते the visarga arises too, and is replaced by स् — 8.3.34, owned. So, in Pāṇini's derivation, the
+स् of नमस्ते is a substitute for the visarga, not the stem's स् left untouched.
 
 The new D tools, each printed once here with its English line; their tiers stand beside them in
 §13:
@@ -574,8 +578,8 @@ both ज and ञ.
 3. **Reading the य of यचि as a sibilant, or as "before य" only.** *Fix:* यच् = य + अच्: before an
    ending that begins with य or a vowel.
 4. **Dropping the final स् of भिस् or the म् of अम् as markers.** *Fix:* a final dental, स् or म्
-   of an ending is kept [Teacher Notes]; only the प् of सुप् goes, and the initial ट् ज् श् ङ् of
-   टा, जस्, शस्, ङे ….
+   of an ending is kept [Teacher Notes]; of the final consonants only the प् of सुप् and the ट् of
+   औट् go, and the initial ट् ज् श् ङ् of टा, जस्, शस्, ङे ….
 5. **Writing \*राजैः by 7.1.9 after राज + भिस्.** *Fix:* after 8.2.7, 7.1.9 does not apply — why is
    8.2.1 [preview: c06.l03]; the form is राजभिः [Whitney §424].
 6. **Saying that in Pāṇini's derivation the स् of नमस्ते is the stem's स् kept.** *Fix:* नमः + ते:
@@ -686,9 +690,9 @@ After step 2 the base राज ends in अ, yet 7.1.9 अतो भिस ऐ�
 | 6 | नमः + ते | 8.3.15 [D] | from step 4, नमर् + ते: before त्, a khar sound, the र् is also a visarga |
 | 7 | **नमस्ते** | 8.3.34 विसर्जनीयस्य सः [owned] | the visarga → स् before a khar sound |
 
-So the स् of नमस्ते is a substitute for the visarga, not the stem's स् left untouched. Volume 1
-printed नमः as the pause form of नमस् in v1.c03.l04, and Volume 3 gave 8.3.34 for the seam
-(v3.c04.l02): both stand, and today the two are one derivation.
+So, in Pāṇini's derivation, the स् of नमस्ते is a substitute for the visarga, not the stem's स्
+left untouched. Volume 1 printed नमः as the pause form of नमस् in v1.c03.l04, and Volume 3 gave
+8.3.34 for the seam (v3.c04.l02): both stand, and today the two are one derivation.
 
 ### राजा — read, not derived by you (display ○)
 
@@ -1157,8 +1161,9 @@ not the stem's स्." Score /4: one per step, one for the sentence.
 > न् dropped: **राजभिः**; bha → 6.4.134, the अ dropped: **राज्ञा**; strong → the lengthened अ
 > (c05.l03). **The ending-marker line:** ज् of जस्, ट् of टा, श् of शस्, ङ् of ङे … are markers; the
 > final स् and म् of an ending are not; सुप् loses only its प्. **The ः of रामः** is what is left of
-> सुँ: स् → रुँ by 8.2.66, then the visarga by 8.3.15. **The स् of नमस्ते** is a substitute for the visarga
-> (2.4.82, 8.3.34). **The ledger:** six new — 527; cells drilled: 3; tools added: 13; toolbox: 25.
+> सुँ: स् → रुँ by 8.2.66, then the visarga by 8.3.15. **The स् of नमस्ते**, in Pāṇini's
+> derivation, is a substitute for the visarga (2.4.82, 8.3.34). **The ledger:** six new — 527;
+> cells drilled: 3; tools added: 13; toolbox: 25.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 

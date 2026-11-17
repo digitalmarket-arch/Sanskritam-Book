@@ -164,8 +164,8 @@ the later rules use the definitions.
 The second tradition is the one Hindi school grammar teaches.
 
 > **[TRADITION · परम्परा]** Hindi school grammar sorts the vowel joins under five names —
-> दीर्घ, गुण, वृद्धि, यण्, अयादि. In Pāṇini गुण and वृद्धि are not names of joins but of three
-> vowels each; the join is named by the rule that puts them in (6.1.87, 6.1.88). [REF:guru1952]
+> दीर्घ, गुण, वृद्धि, यण्, अयादि [REF:guru1952]. In Pāṇini गुण and वृद्धि are not names of joins
+> but of three vowels each; the join is named by the rule that puts them in (6.1.87, 6.1.88).
 
 Neither use is wrong: a school book needs a name for each kind of join, and Pāṇini needs a name
 for each set of vowels. This lesson keeps the two apart. When you say "the guṇa join" you mean
@@ -244,7 +244,7 @@ joined to the इति after it, as Chapter 1 taught.
 है। पीछे -ति का इ ग़ायब है। और -ति स्वयं भी किसी और चीज़ के स्थान पर आया है। एक ही शब्द में
 तीन अलग-अलग काम हुए — कुछ जोड़ा गया, कुछ हटाया गया, और कुछ किसी के स्थान पर रखा गया।
 
-पाणिनि के बहुत-से सूत्र इन्हीं तीन में से कोई एक काम करते हैं:
+आप पाणिनि के जो सूत्र पढ़ते हैं, उनमें से बहुत-से इन्हीं तीन में से कोई एक काम करते हैं:
 
 - **आदेश** — किसी अंश के स्थान पर दूसरा अंश रखना। जिसके स्थान पर रखा जाता है, वह सूत्र में
   षष्ठी विभक्ति में होता है — सूत्र 1.1.49, जो पहले अध्याय से आपका है। जैसे सूर्य + उदयः में अ और उ —
@@ -1268,7 +1268,7 @@ reads the cue, not the English spelling.
 
 - **00:00** gacchati [gɐt͡ɕt͡ɕʰɐt̪i] means "goes". agacchat [ɐgɐt͡ɕt͡ɕʰɐt̪] means "went". Something
   was added at the front, something taken from the back. What, and by which rule?
-- **00:40** In Pāṇini's grammar many rules do one of three things to a form. A rule may
+- **00:40** In Pāṇini's grammar many of the rules you read do one of three things to a form. A rule may
   replace: an ādeśa [ɑːd̪eːɕɐ]. It may add: an āgama [ɑːgɐmɐ]. It may delete: a lopa [loːpɐ].
 - **02:00** guṇa [guɳɐ] and vṛddhi [ʋr̩d̪d̪ʱi] are names of vowels. In place of i, the guṇa e, the
   vṛddhi ai. In place of u, o and au. In place of ṛ, ar and ār. guṇa never adds an a: it replaces.

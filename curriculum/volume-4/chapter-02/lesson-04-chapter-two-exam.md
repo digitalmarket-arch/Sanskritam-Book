@@ -1434,7 +1434,8 @@ week with the alternative set below. Frame it as scheduling, not failure.
   but not what it replaces: the genitive ङेः, "in place of ङे", comes down from 7.1.13 (data
   file: अतः, 7.1.9; ङेः, 7.1.13); (a) is 7.1.13's own result, and (c) is 7.1.9's, which 7.1.12
   and 7.1.13 do not carry [2]. (2) 0 सर्व + ङे — the string [1] · 1 सर्व + स्मै — 7.1.14 [अतः,
-  7.1.9; ङेः, 7.1.13]: after a pronoun in short अ, ङे → स्मै: the string [2] and the sūtra [2] ·
+  7.1.9; ङेः, 7.1.13]: after a pronoun in short अ, ङे → स्मै [REF:kashika 7.1.14]: the string [2]
+  and the sūtra [2] ·
   2 **सर्वस्मै**, joined [1]. A table with a marker line first — 1 सर्व + ए, the ङ् of ङे dropped
   — scores the same six, as in task E. सर्वस्मै is a cell of सर्व, which v3.c05.l02 declines from
   the तद् table (1.1.27 सर्वादीनि सर्वनामानि, read there as TRADITION).
@@ -1486,6 +1487,12 @@ with the one correction listed (none other is made):
   short a, the substitute ya comes in place of ṅe: vṛkṣāya, plakṣāya. Why 'ataḥ'? sakhye,
   patye." It is the source of the key's completed rule; the derivation is the same kind as
   lesson 3's रामेण, step 1. [REF:kashika 7.1.13]
+- **The Kāśikā on 7.1.14** (lines 67259–67265): *akārāntāt sarvanāmnaḥ uttarasya ṅeḥ smai ity
+  ayam ādeśo bhavati / sarvasmai / viśvasmai / yasmai / tasmai / kasmai / ataḥ ity eva, bhavate /*
+  — "After a pronoun that ends in short a, the substitute smai comes in place of ṅe: sarvasmai,
+  viśvasmai, yasmai, tasmai, kasmai. 'ataḥ' holds here too: bhavate [bhavat does not end in short
+  a]." It is the source of the completed rule in the key to the retake's E′ (2), whose item is its
+  first example. [REF:kashika 7.1.14]
 - **The Kāśikā on 7.1.12** (lines 67216–67219, 67226–67227): *akārāntād aṅgād uttareṣām
   ṭāṅasiṅasām ina āt sya ity ete ādeśāḥ bhavanti yathāsaṅkhyam / ṭā ity etasya inādeśo bhavati /
   vṛkṣeṇa / plakṣeṇa / … ataḥ iti kim ? sakhyā / patyā /* — "…" stands for lines 67220–67225,
@@ -1622,7 +1629,9 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   (`v4c02l01-derivations-read.mp3`, `v4c02l02-ladder.mp3`, `v4c02l03-curl.mp3`); this lesson
   plans no audio of its own. §16 records into the Chapter 2 dialogue pack.
 - **Station 0 chain:** §3 runs S0-de (booked by v4.c02.l03 §20, +1 day) and S0-dd (booked by
-  v4.c02.l02 §20, +1 week), copied from those §20s as they stand on disk (2026-11-13), which
+  v4.c02.l02 §20, +1 week), copied from those §20s as they stand on disk (2026-11-13; item 1
+  rewritten at review on 2026-11-17 in lesson 3 §20, in §3 and in table 0.D together, when the
+  booking gained the texts of its three sūtras), which
   are identical to the fact base's table 0.D; keys from its 0.D-keys, printed with square
   brackets for notes; the marker line under item 2 is the fact base's one review prompt for
   v4.c01.l04. §20 books S0-dg (+1 day, run by v4.c03.l01) and S0-dh (+1 week, run by
@@ -1676,9 +1685,10 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   texts match); 7.1.13's padaccheda (ङेः 6th singular, यः 1st singular) and its `an` (अतः,
   7.1.9) and `ad` (अङ्गस्य, 6.4.1) fields; every bracket of the card against lesson 3 §8 and
   the data file; every English line of the card against its lesson, letter for letter; the
-  Kāśikā lines of §22 at their line numbers (7.1.13: 67242–67247, no correction; 7.1.12:
-  67216–67219 and 67226–67227 — the e-text reads *uttareṣām*, and lesson 3's Teacher Notes
-  print it so; 7.3.103: 74126–74135, one correction); the Whitney lines of §5 against the
+  Kāśikā lines of §22 at their line numbers (7.1.13: 67242–67247, no correction; 7.1.14:
+  67259–67265, no correction; 7.1.12: 67216–67219 and 67226–67227 — the e-text reads
+  *uttareṣām*, and lesson 3's Teacher Notes print it so; 7.3.103: 74126–74135, one
+  correction); the Whitney lines of §5 against the
   local text (§421, §424, §235 — printed "255" there —, §189, §180), each a quotation the
   lessons already carry, §235's with an ellipsis for Whitney's gloss of guṇa, which is quoted
   once, in lesson 2; the thread verse against v1.c06.l04 and v4.c01.l04; every joined line of

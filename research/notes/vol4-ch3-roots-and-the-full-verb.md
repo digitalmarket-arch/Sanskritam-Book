@@ -583,7 +583,8 @@ for 7.2.115 and does not name what 7.2.116 lengthens; printed with the "does not
   रामेन — 6.1.87 आद्गुणः · 3 र … न — 8.4.1 रषाभ्यां नो णः समानपदे · 4 रामेण — 8.4.2
   अट्कुप्वाङ्नुम्व्यवायेऽपि (आ, ए are अट्, म् is in the p-row) · 5 **रामेण**; 7.1.12 carries अतः from
   7.1.9; 8.4.2 carries रषाभ्याम् (data file) and नः णः समानपदे (course) from 8.4.1. 7.1.12 and 8.4.2,
-  D-tier rules, may be named by their gist in place of their numbers (corrected at the c02 review).
+  D-tier rules, may be named by their gist in place of their numbers, and so may 7.1.9, the D-tier
+  source of अतः — the rule of देवैः, अतो भिस ऐस् — as c02.l01 §3 scores it (corrected at the c02 review).
 - **S0-dh** (l02): the c02 fact base's table 0.C: substitute — आदेशः — the replaced item in the
   genitive (1.1.49) — e.g. सूर्य + उदयः → सूर्योदयः, ल् → तिप्; augment — आगमः — its own marker (ट् at the
   beginning, क् at the end, 1.1.46) — अट् in अगच्छत्; deletion — लोपः — the word लोपः (1.1.60) — the इ of

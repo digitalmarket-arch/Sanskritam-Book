@@ -108,13 +108,15 @@ the exam's +1-week item.
 **Chapter 2, as delivered.** Four lessons: base and affix (3.1.1, 3.1.2; the nasal-vowel marker,
 1.3.2; the ending-marker line; *sup* as a pratyāhāra) and the three names of the base, aṅga,
 pada and bha (1.4.13, 1.4.17, 1.4.18), with रामः, फलम्, नमः and नमस्ते, राजभिः and राज्ञा derived
-and the 1.x rājan card corrected; substitute, augment and deletion (1.1.46, 1.1.60, 6.1.84),
+and the 1.x rājan card corrected; substitute, augment and deletion (6.1.84, the heading of one
+substitute for two; 1.1.46; 1.1.60),
 with guṇa and vṛddhi defined as names of vowels (1.1.1–3), सूर्योदयः and अगच्छत् derived, and
 IR-021 and the rest of the p. 89 card corrected; words carried down and headings (6.4.1, 8.3.55,
 8.3.57) on ṇatva and ṣatva (8.4.1–2, 8.4.37, 8.3.59), with रामेण, रामेषु and करोषि derived, the
 bracket line switched on and IR-016 corrected; the Chapter 2 exam, one 45-minute sitting with
-Station 0 outside it, after which नास्ति is derived again and the benediction re-read for its ण
-and its final ः. The first reference cards (K), never assessed: 1.2.45, 1.1.43, 1.1.51. The
+Station 0 outside it, after which नास्ति is derived again and the benediction re-read for the ण
+of भद्राणि and the ः of निरामयाः
+at the pause. The first reference cards (K), never assessed: 1.2.45, 1.1.43, 1.1.51. The
 toolbox after Chapter 2 holds 43 tools (13 · 8 · 10 · 0 added). The ledger stands at 537 (16
 ledger-new: 521 → 527 → 532 → 537 → 537). The नमस्ते thread is concluded: according to Pāṇini
 the स् of नमस्ते is a substitute for the visarga (8.3.34). The भवति thread gains 3.1.1–2, 1.3.2

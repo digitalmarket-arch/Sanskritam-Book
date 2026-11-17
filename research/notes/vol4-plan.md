@@ -548,8 +548,8 @@ the other direction: the visarga of नमः is itself the made form. नमस
 owned), so the ending सुँ after it is deleted by 2.4.82 अव्ययादाप्सुपः (D; the LSK reads it as
 VLk 373); the word is still a pada, because a deleted affix still counts (1.1.62, Teacher
 Notes); then स् → रुँ (8.2.66) → visarga (8.3.15). Before ते the visarga also arises (8.3.15 also works before a khar
-such as त्) and is then replaced by स् (8.3.34), so नमस्ते shows an स् again, as a
-substitute for the visarga, and नमः shows the visarga. The s-stem declension (मनस्, as a Δ card of listed cells) comes in c05.l03.
+such as त्) and is then replaced by स् (8.3.34), so in Pāṇini's derivation नमस्ते shows an स्
+again, as a substitute for the visarga, and नमः shows the visarga. The s-stem declension (मनस्, as a Δ card of listed cells) comes in c05.l03.
 
 ---
 
@@ -1726,8 +1726,8 @@ gives it, भोभगोअघोअपूर्वस्य योऽशि).
 | 4 | **नमः** | 8.3.15 खरवसानयोर्विसर्जनीयः (D) | at a pause → visarga |
 
   Before ते, step 4 applies too (8.3.15 also works before a khar such as त्): नमः + ते. The
-  visarga is then replaced by स् (8.3.34 विसर्जनीयस्य सः, owned): नमस्ते. So the स् of
-  नमस्ते is a substitute for the visarga, not the stem's स् left untouched.
+  visarga is then replaced by स् (8.3.34 विसर्जनीयस्य सः, owned): नमस्ते. So, in Pāṇini's
+  derivation, the स् of नमस्ते is a substitute for the visarga, not the stem's स् left untouched.
 - **Sūtras (tiers).** **Q:** 1.4.17 स्वादिष्वसर्वनामस्थाने; 1.4.18 यचि भम्. **B:** 3.1.1
   प्रत्ययः; 3.1.2 परश्च; 1.3.2 उपदेशेऽजनुनासिक इत्; 1.4.13 यस्मात् प्रत्ययविधिस्तदादि
   प्रत्ययेऽङ्गम्. **D:** 8.2.66 ससजुषो रुः; 8.3.15 खरवसानयोर्विसर्जनीयः; 7.1.24 अतोऽम्; 6.1.107
@@ -5197,7 +5197,7 @@ recorded in this table, and a later fact base follows the table, not the lines i
 | v4.c02 fact base | the Hindi parallels on ṇatva and ṣatva | Only words whose ण or ष the chapter's own rules make are used as examples (कारण, हरण, मरण: 8.4.1–2; भविष्य: 8.3.59). रामायण (8.4.3) and प्रमाण (8.4.29) are made by other rules and are not examples; विषय is not 8.3.59. Later chapters check a tatsama example against the rule before using it. |
 | v4.c02 review (Pass D, 2026-11-17) | §1.5, the grammarians' line (c02: "Kātyāyana and Patañjali; the Mahābhāṣya's statement of why grammar is studied"; c06: "the Kāśikā and the Kaumudīs … Varadarāja's Laghusiddhāntakaumudī"); the c02.l01 block's "grammarians, 2" and the c06.l01–l02 blocks' "grammarians, 3" and "4" | Chapter 1 printed instalments 1–3 and Chapter 2 printed 4–6: c02.l01, Kātyāyana and Patañjali with the Paspaśāhnika's purposes line; c02.l02, the Paspaśāhnika's sentence on deletion, augment and the change of sounds ({4/17}, display, asked only "According to Patañjali"); c02.l03, Varadarāja's Laghusiddhāntakaumudī (c. 17th century) reading 8.4.2, 8.4.37, 7.1.12 and 8.3.59 at the declension of राम, with "Chapter 6 opens the same book". Chapter 6 numbers its instalments from 7, and c06.l02, which this plan gives the Siddhāntakaumudī and the Laghusiddhāntakaumudī, meets Varadarāja as already named and his book as already dated (c01.l01 §17: "17th c."; c02.l03 §17: "c. 17th century"). |
 | v4.c02 review (Pass D) | §7.6 row "v4.c01 review (Pass D)": अट्, खर्, चर् and शर् not yet opened | c02.l01 §8 Step 5 opens खर् — from the ख of खफछठथचटतव् to the र् of शषसर्, the voiceless consonants — for 8.3.15; c02.l03 §8 Step 3 opens अट् — the vowels and ह य व र — for 8.4.2, and §8 Step 4 opens शर् — श ष स — for the word 8.3.59 carries from 8.3.58. Later lessons use the three as opened; चर् is still unopened. |
-| v4.c02 review (Pass D) | the c02.l01 block (the 1.x rājan card corrected): "before सुँ and अम् the base is strong (1.1.43, K), not pada and not merely aṅga" | 1.1.43 names the five endings sarvanāmasthāna; it gives the base no name. c02.l01 prints that sarvanāmasthāna "names those endings, not the base. Before them the base is not called pada; and aṅga is no third state beside pada and bha". The base's three names are aṅga, pada and bha; "strong" labels a box of endings in the sort. c05.l03, where 1.1.43 becomes a tool, keeps this wording. |
+| v4.c02 review (Pass D) | §4.2, the grammar inventory: "The names of the base: aṅga (1.4.13), pada (1.4.17 with 1.4.14), bha (1.4.18), sarvanāmasthāna (1.1.43, K)"; the c02.l01 block: its table "राजन्: three cells, three names", whose nom. sg. row gives "strong (sarvanāmasthāna, 1.1.43, K)" as the name of राजन् before सुँ, and the 1.x rājan card corrected: "before सुँ and अम् the base is strong (1.1.43, K), not pada and not merely aṅga"; §4.0.4, the row "new (review)" on the same card: "before सुँ and अम् the base is strong (1.1.43)"; the c05.l03 block: the strong, pada and bha stems called "Chapter 2's three names" | 1.1.43 names the five endings sarvanāmasthāna; it gives the base no name. c02.l01 prints that sarvanāmasthāna "names those endings, not the base. Before them the base is not called pada; and aṅga is no third state beside pada and bha". The base's three names are aṅga, pada and bha; "strong" labels a box of endings in the sort. c05.l03, where 1.1.43 becomes a tool, keeps this wording. |
 | v4.c03 fact base | §4.3 l04 production table: जग्मतुः, जग्मुः and ददतुः, ददुः with no rule for the weak stem | 6.4.98 गमहनजनखनघसां लोपः क्ङित्यनङि (Kāśikā: *jagmatuḥ, jagmuḥ*) and 6.4.64 आतो लोप इटि च (*papatuḥ, papuḥ*), Teacher Notes. c04.l01's गत, c04.l02's गत्वा use other rules (6.4.37); c05.l03 meets 6.4.98 again in घ्न- if it prints हन्'s participle. |
 | v4.c03 fact base | §4.3 l02 substitute-stem card: यच्छ only from यम् (7.3.77) | 7.3.78 also gives यच्छ for दाण् "give" (Kāśikā under 7.3.78). Any later derivation of प्रयच्छति "gives" may name either; the course names यम् and keeps दाण् in Teacher Notes. |
 | v4.c03 fact base | §1.4.3 bracket regime: headings | The data file puts 3.1.22–3.1.90 (शप् and the class signs, स्य/तास्, च्लि) under the first धातोः (3.1.22), the kṛt and lakāra rules under 3.1.91. 3.1.22 is not taught: replaced by "(further headings: Teacher Notes)" with a course line "धातोः 'after a root'". भूते (3.2.84) and भविष्यति (3.3.3) print by name where a lakāra rule's sense needs them. c04 (kṛt rules under 3.1.91, 3.2.84) and c05.l02 (3.1.26 णिच् under 3.1.22) print them the same way. |
@@ -5230,7 +5230,9 @@ files for restatements of each corrected point) — a statement about what an ea
 taught is opened in that lesson, and a sūtra's English line is cited to the commentary whose
 reading it gives.
 Settled at the Chapter 2 review: a retake item is never an item of the remediation exercise its
-task sends the learner to, and never a derivation a lesson prints worked; a K card's term may
+task sends the learner to, unless the closed set both draw on is too small for that (task B:
+five of B′'s six endings of राजन् are among the twelve that l01 exercise 3, its remediation,
+sorts), and never a derivation a lesson prints worked; a K card's term may
 stand in a quiz item only as a gloss the item can be answered without, never as a wrong option;
 the printed last line of a derivation task whose last step belongs to a later lesson is labelled
 "last", not numbered, because a key that accepts two routes reaches it at different steps; and

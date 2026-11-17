@@ -775,7 +775,7 @@ forms रामेण, रामेषु, करोषि, देवेन, म
 
 Labels, never vocabulary rows (rules 20–21): रेफः "the sound र" and the -कार names सकारः,
 णकारः, नकारः, मकारः, षकारः, ओकारः, आकारः, एकारः; णत्वम् and षत्वम्, glossed terms; पवर्गः;
-the pratyāhāra names इण्, अट्, झल्; the affix names टा, सुप्, सिप्, तिप्, मस्, लङ्; every form
+the pratyāhāra names इण्, अट्, झल्, शर्; the affix names टा, सुप्, सिप्, तिप्, मस्, लङ्; every form
 inside a sūtra (रषाभ्याम्, समानपदे, इण्कोः, पदान्तस्य …). Display: अनुवर्तन्ते, अनुवर्तते, and
 वाक्षु.
 
@@ -1392,7 +1392,8 @@ Lesson video, ~6 min, presenter + motion graphics.
 2. **The ṇ rule (0:40–1:40):** 8.4.1 types itself out; its four words separate and get their
    case labels. A र lights up in रामेण, then the न turns into ण.
 3. **Words carried down (1:40–2:50):** 8.4.2 appears on the step below. A question mark: "Where
-   is the न?" A ribbon of words — रषाभ्याम् · नः णः समानपदे — slides down from 8.4.1 onto 8.4.2.
+   is the word for the न that changes?" The न of नुम् lights up and is crossed out: it may stand
+   between. A ribbon of words — रषाभ्याम् · नः णः समानपदे — slides down from 8.4.1 onto 8.4.2.
    Caption: "anuvṛtti: carrying down".
 4. **The sort (2:50–3:40):** देवेन — no र, a grey cross; रथेन — a थ blocks the ribbon; रामान् — the
    word ends, 8.4.37 stamps "not"; कृष्णेन — a ण blocks.

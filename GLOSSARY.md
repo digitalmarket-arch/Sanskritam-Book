@@ -97,7 +97,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | कर्मवाच्य | karmavācya | Hindi grammar's term for the passive, used in the R3 card's Hindi lines | कर्मवाच्य | v3.c03.l02 |
 | लङ् | laṅ | the imperfect, the story tense: the augment अ- + the present stem + the secondary endings (अगच्छत्) | लङ् (भूतकाल; परम्परा में 'आज से पहले का भूत') | v3.c03.l03 |
 | लकारः | lakāraḥ | the tradition's name for a tense or mood (ten in all; the present system's four are लट्, लङ्, लोट्, विधिलिङ्) | लकार | v3.c03.l03 |
-| आगमः | āgamaḥ | the augment: the अ- before the stem in the imperfect, after a prefix if there is one (प्राविशत्); in Pāṇini a sound a rule adds, placed by its own marker (1.1.46; v4.c02.l02); also a ledger headword of v4.c02.l02 | आगम (भूतकाल में धातु-रूप के आगे लगने वाला अ-) | v3.c03.l03 |
+| आगमः | āgamaḥ | the augment: the अ- before the stem in the imperfect, after a prefix if there is one (प्राविशत्); in Pāṇini a sound a rule adds, placed by its own marker (1.1.46; v4.c02.l02); also a ledger headword of v4.c02.l02 | आगम — भूतकाल में धातु-रूप के आगे लगने वाला अ-; पाणिनि के व्याकरण में सूत्र द्वारा जोड़ा गया वर्ण | v3.c03.l03 |
 | लोट् | loṭ | the imperative, the request mood (गच्छ, गच्छतु) | लोट् (आज्ञा और अनुरोध का रूप, आज्ञार्थ) | v3.c03.l04 |
 | लिट् | liṭ | the perfect; उवाच and आह read as whole words (chunks); system v4.c03 | लिट् (परोक्ष भूत) | v3.c06.l02 |
 | स्म | sma | with the present: the storyteller's past (3.2.118 लट् स्मे); प्रतिवसति स्म "lived" | स्म | v3.c06.l03 |
@@ -108,8 +108,8 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | निषेधः | niṣedhaḥ | prohibition: मा + imperative (मा गच्छ) | निषेध (मना करना) | v3.c03.l04 |
 | स्वरसन्धिः | svarasandhiḥ | vowel sandhi: the joins where a word-final vowel meets a word-initial vowel | स्वर-सन्धि | v3.c04.l01 |
 | सवर्णदीर्घः | savarṇadīrghaḥ | like vowels → one long (6.1.101): न + अस्ति → नास्ति | दीर्घ (सवर्णदीर्घ) सन्धि | v3.c04.l01 |
-| गुणः | guṇaḥ | the guṇa grade (ए, ओ, अर्): अ/आ + इ, उ, ऋ (6.1.87); also the strengthened vowel inside गुरवे; in Pāṇini the name of the vowels अ ए ओ by 1.1.2, put in place of इ उ ऋ ऌ by 1.1.3 — not the name of a join (v4.c02.l02) | गुण | v3.c04.l01 |
-| वृद्धिः | vṛddhiḥ | the vṛddhi grade (ऐ, औ, आर्): अ/आ + ए, ऐ, ओ, औ (6.1.88); in Pāṇini the name of the vowels आ ऐ औ by 1.1.1, put in place of इ उ ऋ ऌ by 1.1.3 — not the name of a join (v4.c02.l02); also a ledger headword of v4.c02.l02 | वृद्धि | v3.c04.l01 |
+| गुणः | guṇaḥ | the guṇa grade (ए, ओ, अर्): अ/आ + इ, उ, ऋ (6.1.87); also the strengthened vowel inside गुरवे; in Pāṇini the name of the vowels अ ए ओ by 1.1.2, put in place of इ उ ऋ ऌ by 1.1.3 when a rule names guṇa without saying what it replaces — not the name of a join (v4.c02.l02) | गुण | v3.c04.l01 |
+| वृद्धिः | vṛddhiḥ | the vṛddhi grade (ऐ, औ, आर्): अ/आ + ए, ऐ, ओ, औ (6.1.88); in Pāṇini the name of the vowels आ ऐ औ by 1.1.1, put in place of इ उ ऋ ऌ by 1.1.3 when a rule names vṛddhi without saying what it replaces — not the name of a join (v4.c02.l02); also a ledger headword of v4.c02.l02 | वृद्धि | v3.c04.l01 |
 | यण् | yaṇ | इ/उ/ऋ → य्/व्/र् before an unlike vowel (6.1.77): इति अवदत् → इत्यवदत्; as a pratyāhāra: य व र ल, v4.c01.l01 | यण् | v3.c04.l01 |
 | अयादि | ayādi | ए/ऐ/ओ/औ → अय्/आय्/अव्/आव् before a vowel (6.1.78); at a word end -ए → अ + gap, -ऐ → आ + gap | अयादि | v3.c04.l01 |
 | पूर्वरूपम् | pūrvarūpam | the अ merged into a word-final ए/ओ, marked ऽ (6.1.109): ते अपि → तेऽपि | पूर्वरूप | v3.c04.l01 |
@@ -176,7 +176,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | Station 0 | The §3 review block that runs the spaced re-runs (+1 day, +1 week …) falling due from earlier lessons and exams (Hindi: स्टेशन 0) |
 | ending-marker line | The one line of v4.c02.l01 that says which sounds of a case ending are markers and which are kept (Hindi: प्रत्यय-चिह्न पंक्ति) |
 | bracket line | From v4.c02.l03 on, the line under a printed sūtra that gives the words the Aṣṭādhyāyī data file records as carried into it and the headings it stands under, each with its source (Hindi: कोष्ठक-पंक्ति) |
-| toolbox card | The list of the sūtras taught as tools so far, kept in each lesson's §15 from v4.c01.l01 on, each with its number and gist; from the Chapter 2 exam on, an exam card of them in number order — number, text, one English line, and for the rules of v4.c02.l03 the bracket line that lesson printed — that lies open in the tasks that use D-tier rules (Hindi: सूत्र-सूची) |
+| toolbox card | The list of the sūtras taught as tools so far, kept in each lesson's §15 from v4.c01.l01 on, each with its number and gist; from the Chapter 2 exam on, an exam card of them in number order — number, text, one English line, and for the rules of v4.c02.l03 the bracket line that lesson printed — that lies open in the tasks that use D-tier rules (Hindi: सूत्रों की सूची) |
 | loanword | A word one language took from another; drawn with an arrow (yoga ← योग). Hindi: उधार शब्द |
 | calque | A loan translation built part for part from native pieces: शुभरात्रिः ← "good night", दूरदर्शनम् ← *tele-vision* |
 | the four kinds (word journeys) | The v2.c06.l04 sort for an English–Sanskrit pair: (a) cognate, (b) loan from Sanskrit, (c) Latin or Greek route, (d) false |

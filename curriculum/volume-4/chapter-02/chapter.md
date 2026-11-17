@@ -29,8 +29,8 @@ are Pāṇini's names for sets of substitutes (1.1.1–3). अगच्छत्
 once, and the 1.x claim that in भवति "गुण inserts व" is corrected: two substitutes, nothing inserted.
 The third lesson reads rules that do not say everything they mean: words carried down from earlier
 rules (अनुवृत्तिः) and headings that stand over a stretch (अधिकारः), on the material Volume 3 left
-"for Volume 4" — the ण of रामेण (8.4.1–2, with 8.4.37 for रामान्) and the ष of रामेषु and करोषि
-(8.3.59 under 8.3.55 and 8.3.57). From that lesson on, the bracket line under a quoted sūtra prints
+"for Volume 4" — the ण of रामेण [8.4.1–2, with 8.4.37 for रामान्] and the ष of रामेषु and करोषि
+[8.3.59 under 8.3.55 and 8.3.57]. From that lesson on, the bracket line under a quoted sūtra prints
 the words the Aṣṭādhyāyī data file records as carried and the headings it stands under. The fourth
 lesson is the Chapter 2 exam, one closed-book sitting of 45 minutes. The grammarians' line continues
 with Kātyāyana and Patañjali, the Mahābhāṣya's own statement of why grammar is studied and its
@@ -75,7 +75,7 @@ By the end of this chapter the learner can:
 | # | id | Title | Type | New material |
 |---|---|---|---|---|
 | 1 | v4.c02.l01 | अङ्गं पदं भम् · One Base, Three Names | grammar | base and affix (3.1.1, 3.1.2, 1.3.2, 1.4.13, B); pada and bha (1.4.17, 1.4.18, Q); the ending-marker line; *sup* as a pratyāhāra; राम + सुँ → रामः, फलम्, राजभिः, राज्ञा, नमः → नमस्ते derived (8.2.66, 8.3.15, 7.1.24, 6.1.107, 8.2.7, 6.4.134, 2.4.82, D); 1.2.45 and 1.1.43 on a card; the 1.x rājan card corrected; राजा · प्रत्ययः · प्रकृतिः · आत्मा · स्वामी · भृत्यः |
-| 2 | v4.c02.l02 | आदेशः आगमः लोपः · Replace, Add, Delete | grammar | the three operations (1.1.46, 1.1.60, 6.1.84, D); guṇa and vṛddhi defined (1.1.1, Q; 1.1.2, 1.1.3, B; 1.1.51 on a card); सूर्योदयः and अगच्छत् derived (3.4.100, 6.4.71, D); the substitution ladder; IR-021 and the p. 89 card corrected; लोपः · आगमः · वृद्धिः · हानिः · कोपः (upgrade: गुणः) |
+| 2 | v4.c02.l02 | आदेशः आगमः लोपः · Replace, Add, Delete | grammar | the three operations (1.1.46, 1.1.60, 6.1.84, D); guṇa and vṛddhi defined (1.1.1, Q; 1.1.2, 1.1.3, B; 1.1.51 on a card); सूर्योदयः and अगच्छत् derived (3.4.100, 6.4.71, D); the substitution ladder; IR-021 and the p. 89 card corrected; लोपः · आगमः · वृद्धिः · हानिः · कोपः; upgrade गुणः |
 | 3 | v4.c02.l03 | अनुवृत्तिः · Words Carried Down | grammar | anuvṛtti and adhikāra (8.4.1, Q; 6.4.1, B; 8.3.55, 8.3.57, D); the bracket line switched on; रामेण, रामेषु, करोषि derived (7.1.12, 8.4.2, 8.4.37, 7.3.103, 8.3.59, 3.4.99, D); IR-016 corrected; अनुवृत्तिः · अधिकारः · समानः · निमित्तम् · कारणम् |
 | 4 | v4.c02.l04 | द्वितीयपरीक्षा · Chapter 2 Exam | review | the chapter on one page (the anatomy of a word, the strong/pada/bha box, the operations table, the guṇa/vṛddhi ladder, the toolbox of 43); five tasks in one 45-minute sitting; नास्ति and the thread verse सर्वे भवन्तु सुखिनः… re-read after it |
 
@@ -95,7 +95,7 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
   ladder (audio); the conversation audio; the operations-sort worksheet.
 - **l03:** "words carried down": two staircases, 8.4.1 → 8.4.2, 8.4.37 and 8.3.55 → 8.3.57 → 8.3.59,
   the carried words flowing down; the curl of the tongue, रामेण / देवेन / रथेन and रामेषु / बालिकासु
-  (audio); the conversation audio; the ण-or-न worksheet.
+  read aloud (audio); the conversation audio; the ण-or-न worksheet.
 - **l04:** the chapter page (the anatomy card, the box, the two tables, the toolbox of 43); the exam
   booklet with the toolbox card; the chapter quiz and key.
 
@@ -110,7 +110,7 @@ gives them (7 min; 16 points, pass 12). **B** — the base राजन् named
 endings, with the reason (6 min; 12, pass 8). **C** — six operations, each said to be a substitute,
 an augment or a deletion, with what in its rule shows it (8 min; 12, pass 8). **D** — "Derive,
 according to Pāṇini, …": पुत्रेण, बालकेषु and राजभिः in full, and the ष of शृणोषि from the given stem
-शृणो- (14 min; 20, pass 14). **E** — an unseen rule pair: 7.1.13 ङेर्यः after 7.1.12; the carried
+शृणो- — 14 min; 20, pass 14. **E** — an unseen rule pair: 7.1.13 ङेर्यः after 7.1.12; the carried
 word chosen from three offered, and रामाय derived from राम + ङे according to Pāṇini as far as the chapter's rules reach (the last step, 7.3.102, is printed for the learner: c06.l03) — 8 min; 8, pass 5.
 Pass: every task at its pass mark, and the §19 quiz (after the sitting) at 7/10. The rubric weights
 the derivations and the reading of a rule (D and E, 28 of 68 points) over labelling (A, 16). After
