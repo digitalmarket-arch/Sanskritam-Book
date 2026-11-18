@@ -193,6 +193,12 @@ uses both, in a fixed order.
   typos of the e-text are corrected, and each correction is listed in Teacher Notes, with
   every departure from full sandhi noted beside it (महान् जम्बूपादपः for महाञ्जम्बू°).
   Editions vary in how they divide words; a lesson says so where it matters.
+- **An authentic passage keeps the e-text's words**: no seam the e-text leaves open is joined —
+  तत् श्रुत्वा stands apart in v4.c03.l04 and v4.c03.l06, as the Hitopadeśa e-text prints it. Its
+  IAST line is the e-text's own, with the e-text's hyphens and punctuation; its Devanagari drops the
+  hyphens and prints the course's daṇḍa for the e-text's "|"; and every printing change, a dash
+  printed as the spaced dash of a speech frame among them, is listed in Teacher Notes (v4.c03;
+  settled at that chapter's review).
 
 ---
 
@@ -438,5 +444,5 @@ the 2026-10 deep audit, which removed eight double counts); Volume 3, as planned
 `research/notes/vol3-plan.md` §3 — 387 · 411 · 439 · 460 · 488 · 508 (all six reached, at
 the reviews of v3.c01, v3.c02, v3.c03, v3.c04, v3.c05 and v3.c06; Volume 3 is complete at
 508); Volume 4, as planned in `research/notes/vol4-plan.md` §3 — 521 · 537 · 565 ·
-591 · 617 · 627 (119 new headwords, 508 → 627; 521 and 537 reached, at the reviews of v4.c01
-and v4.c02; the rest are planned figures until their chapters ship).
+591 · 617 · 627 (119 new headwords, 508 → 627; 521, 537 and 565 reached, at the reviews of
+v4.c01, v4.c02 and v4.c03; the rest are planned figures until their chapters ship).

@@ -2238,6 +2238,147 @@
       ],
       "path": "curriculum/volume-4/chapter-02/lesson-04-chapter-two-exam.md",
       "json": "json/volume-4/v4.c02.l04.json"
+    },
+    {
+      "id": "v4.c03.l01",
+      "title": {
+        "sa": "लट्",
+        "sa_iast": "laṭ",
+        "hi": "ल् से -ति तक: क्रिया का प्रत्यय",
+        "en": "From ल् to -ति: the Verb's Ending"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c02.l04"
+      ],
+      "review_of": [
+        "v4.c02.l04",
+        "v4.c02.l03",
+        "v3.c03.l01",
+        "v3.c03.l02",
+        "v2.c04.l01"
+      ],
+      "path": "curriculum/volume-4/chapter-03/lesson-01-from-l-to-ti.md",
+      "json": "json/volume-4/v4.c03.l01.json"
+    },
+    {
+      "id": "v4.c03.l02",
+      "title": {
+        "sa": "शप्",
+        "sa_iast": "śap",
+        "hi": "विकरण: वर्तमान-अङ्गों के दस गण",
+        "en": "The Class Sign: Ten Families of Present Stems"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c03.l01"
+      ],
+      "review_of": [
+        "v4.c03.l01",
+        "v4.c02.l04",
+        "v4.c02.l02",
+        "v4.c01.l03",
+        "v3.c01.l02",
+        "v2.c04.l01"
+      ],
+      "path": "curriculum/volume-4/chapter-03/lesson-02-the-class-sign.md",
+      "json": "json/volume-4/v4.c03.l02.json"
+    },
+    {
+      "id": "v4.c03.l03",
+      "title": {
+        "sa": "पित् ङित्",
+        "sa_iast": "pit ṅit",
+        "hi": "सबल और निर्बल: प् इत् क्या करता है",
+        "en": "Strong and Weak: What the p Marker Does"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c03.l02"
+      ],
+      "review_of": [
+        "v4.c03.l02",
+        "v4.c03.l01",
+        "v3.c03.l01",
+        "v3.c03.l03",
+        "v3.c03.l04",
+        "v2.c04.l01"
+      ],
+      "path": "curriculum/volume-4/chapter-03/lesson-03-strong-and-weak.md",
+      "json": "json/volume-4/v4.c03.l03.json"
+    },
+    {
+      "id": "v4.c03.l04",
+      "title": {
+        "sa": "लिट्",
+        "sa_iast": "liṭ",
+        "hi": "लिट्: परोक्ष भूत",
+        "en": "The Perfect"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c03.l03"
+      ],
+      "review_of": [
+        "v4.c03.l03",
+        "v4.c03.l02",
+        "v3.c03.l03",
+        "v3.c06.l02",
+        "v3.c06.l03"
+      ],
+      "path": "curriculum/volume-4/chapter-03/lesson-04-the-perfect.md",
+      "json": "json/volume-4/v4.c03.l04.json"
+    },
+    {
+      "id": "v4.c03.l05",
+      "title": {
+        "sa": "लृट्",
+        "sa_iast": "lṛṭ",
+        "hi": "लृट्: भविष्यत् और बाकी चार लकार",
+        "en": "The Future"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c03.l04"
+      ],
+      "review_of": [
+        "v4.c03.l04",
+        "v4.c03.l03",
+        "v4.c02.l03",
+        "v3.c06.l02",
+        "v3.c03.l01"
+      ],
+      "path": "curriculum/volume-4/chapter-03/lesson-05-the-future.md",
+      "json": "json/volume-4/v4.c03.l05.json"
+    },
+    {
+      "id": "v4.c03.l06",
+      "title": {
+        "sa": "तृतीयपरीक्षा",
+        "sa_iast": "tṛtīyaparīkṣā",
+        "hi": "तीसरे अध्याय की परीक्षा: भू की लकार-तालिका",
+        "en": "Chapter 3 Exam: the √भू Table"
+      },
+      "status": "reviewed",
+      "cefr": "B1",
+      "prerequisites": [
+        "v4.c03.l05"
+      ],
+      "review_of": [
+        "v4.c03.l01",
+        "v4.c03.l02",
+        "v4.c03.l03",
+        "v4.c03.l04",
+        "v4.c03.l05",
+        "v3.c03.l05"
+      ],
+      "path": "curriculum/volume-4/chapter-03/lesson-06-chapter-three-exam.md",
+      "json": "json/volume-4/v4.c03.l06.json"
     }
   ]
 }

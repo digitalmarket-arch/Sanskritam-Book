@@ -8,9 +8,9 @@ title:
 volume: 4
 chapter: 3
 cefr: B1
-status: draft
+status: reviewed
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-18
 ---
 
 # Chapter 3 — धातुः तिङ्विस्तारश्च · Roots & the Full Verb
@@ -86,7 +86,7 @@ By the end of this chapter the learner can:
 | 3 | v4.c03.l03 | पित् ङित् · Strong and Weak: What the p Marker Does | grammar | 1.2.4 and 1.1.5 (Q); 3.1.74, 7.1.3, 6.4.110, 6.4.111, 6.1.16 (D); 6.4.113 (K); शृणोति / शृण्वन्ति derived; the athematic laṭ, laṅ, loṭ; the anubandha card; R4 closed; IR-022 corrected; ब्रवीति · हन्ति · एति · युनक्ति |
 | 4 | v4.c03.l04 | लिट् · The Perfect | grammar | 3.2.115 (Q); 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62, 7.1.34 (D); the perfect's further tools on a card (K); T10; जगाम and ददौ derived; उवाच and आह read; IR-019 corrected; a Hitopadeśa passage read; पतिः · द्वयम् · श्लोकः · द्वारम् · खड्गः · प्राप्नोति |
 | 5 | v4.c03.l05 | लृट् · The Future | grammar | 3.3.13, 3.1.33, 3.4.114, 7.2.35, 7.2.70, 7.2.58 (D); T12; करिष्यति derived; the card of the other four lakāras (◐; K); मा भैषीः; the tradition's ten l-affixes; a Pañcatantra passage read; मा भैषीः · नूनम् · हृदयम् · भार्या · प्रयोजनम् · यदि · वर्तनम् |
-| 6 | v4.c03.l06 | तृतीयपरीक्षा · Chapter 3 Exam: the √भू Table | review | the √भू table of ten rows (the 1.x six-lakāra table restored and completed); the anubandha card; the toolbox of 89; five tasks in one 45-minute sitting; रामेण and the thread verse उद्यमेन हि सिध्यन्ति… re-read after it |
+| 6 | v4.c03.l06 | तृतीयपरीक्षा · Chapter 3 Exam: the √भू Table | review | the chapter on one page (the √भू table of ten rows, the 1.x six-lakāra table restored and completed; the chain, pada and class cards; the rule pair; T10 and T12; the toolbox card of 89); five tasks in one 45-minute sitting; after it, रामेण derived again and the thread verse उद्यमेन हि सिध्यन्ति… re-read |
 
 Ledger: 537 → 542 → 548 → 552 → 558 → 565 → 565 (28 ledger-new; roots, lakāra and affix names, class
 names, the names परस्मैपदम्, आत्मनेपदम्, विकरणः, every perfect, future or aorist cell of an owned verb

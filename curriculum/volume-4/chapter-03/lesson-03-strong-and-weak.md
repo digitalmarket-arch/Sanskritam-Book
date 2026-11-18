@@ -40,12 +40,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c03l03-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c03l03-quiz-key.md"
 tags: [grammar, panini, anubandha, pit, nit, strong-weak, athematic, r4-closed, ir-022, derivation, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-18"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-18
 ---
 
 ## 1. Hook

@@ -75,7 +75,7 @@ planned chapter exit reached).
 |---|---|---|---|
 | 1 | माहेश्वराणि सूत्राणि — The Fourteen Sūtras | 4 | ✅ reviewed |
 | 2 | अष्टाध्यायीप्रवेशः — Inside the Aṣṭādhyāyī | 4 | ✅ reviewed |
-| 3 | धातुः तिङ्विस्तारश्च — Roots & the Full Verb | 6 | ⬜ |
+| 3 | धातुः तिङ्विस्तारश्च — Roots & the Full Verb | 6 | ✅ reviewed |
 | 4 | कृत्-तद्धित-समासाः — Derivation & Compounds | 5 | ⬜ |
 | 5 | प्रयोगाः विभक्तिविस्तारश्च — Voices & Case in Depth | 5 | ⬜ |
 | 6 | सूत्रपाठः — Reading Real Sūtras | 4 | ⬜ |
@@ -95,8 +95,8 @@ the Pañcatantra 4 frame story; in Chapter 6 the Kāśikā on the sūtras read a
 Laghusiddhāntakaumudī's prakriyā of बभूव), and what is left to Volume 5. Its last task is
 the learner deriving भू → भवति, in task C of v4.c06.l04. Volume frame:
 `curriculum/volume-4/volume.md`.
-**Under way 2026-11-17:** Chapters 1–2 of 6 are reviewed — 8 of 28 lessons, 29 of 119
-ledger-new words, 537 readable words (the first two planned chapter exits reached), 43 tools in
+**Under way 2026-11-18:** Chapters 1–3 of 6 are reviewed — 14 of 28 lessons, 57 of 119
+ledger-new words, 565 readable words (the first three planned chapter exits reached), 89 tools in
 the learner's toolbox.
 
 ## Volume 5 — साहित्यम् · Literature & Mastery (B2 → C1)
@@ -416,6 +416,41 @@ The book PDF is built per volume only when every chapter is ✅ (see `build/READ
   chapter's citation rounds, and the first drafts of the six lessons of v4.c03. Next: v4.c03
   धातुः तिङ्विस्तारश्च — Roots & the Full Verb (fact base verified; lessons 1–5 and the chapter
   exam, lesson 6, drafted, not yet reviewed).
+- **2026-11-18** — **v4.c03 धातुः तिङ्विस्तारश्च complete and reviewed (0.21.0)**: five grammar
+  lessons and the Chapter 3 exam. A finite verb taken apart, according to Pāṇini, into a root as
+  the Dhātupāṭha lists it (1.3.1) and the l-affix लट् by 3.2.123, whose ल् is replaced by one of the
+  eighteen tiṅ endings (3.4.77–78) — parasmaipada or ātmanepada by the root's marker (1.3.12,
+  1.3.72, 1.3.78), person and number by 1.4.101–102, 1.4.108 and 1.4.22 — with पठति derived; the
+  class sign शप् by 3.4.113 and 3.1.68 and guṇa before it (7.3.84), the ten present classes on one
+  card and the substitute stems of 7.3.77–78, गच्छ, इच्छ, यच्छ, पिब, तिष्ठ, पश्य, सीद, with नयति derived;
+  strong and weak stems by the marker p (1.2.4 with 1.1.5), with शृणोति and शृण्वन्ति derived, the
+  athematic present built cell by cell and R4 closed for the cells the lesson prints; the perfect
+  (3.2.115; the root doubled, 6.1.8; its own endings, 3.4.82, T10), with जगाम and ददौ derived, उवाच
+  and आह as cells, and two parts of the Hitopadeśa read as the e-text prints them; the future
+  (3.3.13; स्य by 3.1.33 and the augment इट्; T12), with करिष्यति derived, the other four lakāras on
+  one card for recognition, the chunk मा भैषीः and a Pañcatantra passage read; the Chapter 3 exam,
+  five tasks in one closed-book 45-minute sitting on the √भू table of ten rows, with 3.2.111 read
+  cold and an unseen Hitopadeśa dialogue. The 1.x book's errors in this territory (IR-020: कृ
+  among the roots that take "ONLY parasmaipada" and the ātmanepada's "Action benefits oneself", pp. 75–76; IR-022: the
+  marker cards of pp. 93–95; IR-019: लिट् "remote, witnessed", p. 75; the labels of लङ्, "recent
+  past", p. 74, "recent", p. 75, and "past habitual", p. 128) are quoted from the page images and corrected in
+  the open. Fact base verified before drafting (30 confirmed findings, 2 of them blocking: 6.4.111
+  said to drop the vowel of the class-9 sign श्ना, and पृच्छति given as the example of a ṅit sign
+  blocking guṇa); review passes A–D run side by side, Pass A lesson by lesson (221 findings
+  confirmed, 2 of them blocking — the serial's स तीरं तरति, where तरति takes as its object what is
+  crossed, and the exam's statement of 1.2.4 without its condition, sārvadhātuka — and 82 major,
+  among them K rules assessed, ✓ claimed for cells the lessons do not print, a seam joined in an
+  authentic passage where the e-text leaves it open, and keys that rejected the second futures
+  Whitney records; applied in two steps, 481 fixes and then 62 for the findings whose fixes
+  collided); post-fix verification of eleven files in six runs (69 follow-ups confirmed, 6 of them
+  major; 62 fixes); a second citation round on the chapter as reviewed, with no finding, after
+  which the chapter's citation rounds end. 28 ledger-new (565 cumulative, the third planned Volume
+  4 exit); 89 tools in the learner's toolbox; 105 reviewed lessons (91 in Volumes 1–3, 14 in Volume
+  4), validator green, exports current. Shipped with it: the Volume 5 plan as a draft
+  (`research/notes/vol5-plan.md`; not binding until it is reviewed). Next: v4.c04
+  कृत्-तद्धित-समासाः — Derivation & Compounds (planned in the Volume 4 plan's §4.4: five lessons —
+  the participles as kṛt adjectives; the absolutive, the infinitive and the agent noun; the
+  taddhitas; the compound as a derivation; the Chapter 4 exam — 565 → 591; no fact base yet).
 
 ## Content preservation map (from the 1.x curriculum)
 
@@ -434,9 +469,9 @@ Verified-correct 1.x material and where it lands in 2.0:
 | Māheśvara sūtras, with the label "Legend" (p.69), and their memory aid (p.70) | v4.c01.l01 — the fourteen sūtras carried as table T9 in §15, written into the Volume 1 grid and recited; the label "Legend" kept for the story of the drum in §4 (TRADITION, never assessed); the 1.x error (the memory aid has no line for sūtra 12 and leaves out the ह of sūtra 5) listed with its correction in §4, and the aid rebuilt with all fourteen in §15 |
 | Pratyāhāra system (pp.70–71) and the special pratyāhāras (pp.95–96) | v4.c01.l01 — the mechanism (a sound and a marker, 1.1.71) in §8 and §15, with अच्, हल्, इक् and यण् opened from the list, as the 1.x page did, and इको यणचि read through them; the 1.x errors (इको यणचि numbered 1.1.45, p.71; चय् glossed "voiceless aspirated" and झश् given the sounds of जश्, p.96) listed with their corrections in §4, where the "~42 pratyāhāras" of p.95 is quoted beside the Kāśikā's count of 41; v4.c01.l02 — the two readings of अण् and the reading of इण् in §4 and §15; one more 1.x line of p.96, on the two ण्, corrected in §22 of both lessons |
 | Visarga sandhi (pp.71–73) | v3.c04.l02 — the examples built from owned words carried in §13: रामः + अहम् → रामोऽहम्, रामः + गच्छति → रामो गच्छति, रामः + च → रामश्च, रामः + करोति → रामः करोति; the 1.x errors listed with their corrections in §22 |
-| 10 lakāras + forms (pp.74–75) | v4.c03 |
+| 10 lakāras + forms (pp.74–75) | v4.c03 — the card carried lakāra by lakāra: लट् with its eighteen endings and the set each root takes in v4.c03.l01; लिट् with T10 and the production table in v4.c03.l04; लृट् with T12 in v4.c03.l05, where luṭ, lṛṅ, luṅ and āśīrliṅ stand on one card, recognised and named (◐), and the Laghusiddhāntakaumudī's ten l-affixes, leṭ of the Veda only, are read in §4 (TRADITION); the √भू table of ten rows in v4.c03.l06 §15; the 1.x errors of the card, quoted from the page images, listed with their corrections: कृ among the roots that take "ONLY parasmaipada" (p.75) and again among those that "take BOTH" (p.76), with the ātmanepada as "Action benefits oneself" (p.75; IR-020), in v4.c03.l01 §8 Step 4, by 1.3.72; लिट् "perfect (remote, witnessed)" (p.75; IR-019) in v4.c03.l04 §8 Step 3 and §12, by 3.2.115 परोक्षे; लङ् "recent past" (p.74) and "recent" (p.75) in v4.c03.l06, task A2, by 3.2.111 अनद्यतने लङ् read cold |
 | Kāraka lesson + Fillmore note (pp.87–89) | v3.c02 (functional), v4.c05 (theory) |
-| √भू 6-lakāra table (pp.127–128) | v4.c03 |
+| √भू 6-lakāra table (pp.127–128) | v4.c03.l06 — the table carried and completed: its six rows (laṭ, laṅ, lṛṭ, loṭ, vidhiliṅ, liṭ), whose fifty-four cells agree with Whitney, stand in the √भू table of ten rows of §15 (1), every cell checked against Whitney; the eighteen 3rd-person cells of the six rows are produced in task A1, and the four rows luṭ, lṛṅ, luṅ and āśīrliṅ are printed by their 3rd singular and named; लेट् is shown once; the 1.x error of the table, लङ् "IMPERFECT (past habitual)" (p.128), quoted from the page image and corrected in task A2 by 3.2.111 read cold; its closing line named in Teacher Notes as a claim of scale the course does not repeat (§22) |
 | tad/idam/numeral paradigms (pp.111–113, 125–127) | v3.c02 (numeral nom./acc.); v3.c05.l02 (tad/idam) — तद् in three genders re-derived as the model table in §15, सः and सा from one stem and every other cell from त-, the key cells of इदम्, the 1.x errors listed with their corrections in §22; v4.c05 (numeral system) |
 | Upasarga list (p.115) | v3.c05.l03 — the tradition's twenty-two (1.4.58 as the Kāśikā gives it) on the reference card of §15, beside Whitney's nineteen; the 1.x errors (अति and उप printed twice, नि and अपि left out) listed with their corrections in §22 |
 | rājan aṅga/pada/bha example (pp.97–99) | v4.c02.l01 — the example carried: राजन् sorted before twelve endings into strong, pada and bha in §18 exercise 3, by the rule of §8 Step 4 and the three boxes of §15, aṅga before every affix (1.4.13), with राजभिः by 8.2.7 and राज्ञा by 6.4.134 derived in §13, राजा read, and the whole paradigm shown as display from Whitney §424 (its cells ✓ in v4.c05.l03); the 1.x errors of the rājan card (p.98: 1.4.18 glossed with "sibilant + vowel", the "3rd-7th cases", राजा called pada and राजानम् aṅga) listed with their corrections in §8 Step 4, quoted from the page image |

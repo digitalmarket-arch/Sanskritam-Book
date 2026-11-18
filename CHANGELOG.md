@@ -4,17 +4,283 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
-## [Unreleased]
+## [0.21.0] — 2026-11-18
+
+Volume 4 (पाणिनीयम् · The Pāṇinian System), Chapter 3, धातुः तिङ्विस्तारश्च · Roots & the Full Verb,
+is reviewed and shipped: six lessons, 28 ledger-new words, 537 → 565 readable words, 46 tools
+added, 89 in the learner's toolbox. Chapter 2 opened the machine on nouns: a base and an affix
+placed after it, markers that are dropped, rules that replace, add and delete. Volume 3 had left
+the verb's stems and classes, the athematic words learned whole (R4), and उवाच, आह, ददौ and करिष्यामि
+to this chapter. This chapter runs the same machine on the verb, from forms the learner has said
+since Volume 1. According to Pāṇini, a finite verb is a root, as the Dhātupāṭha lists it, and an
+l-affix placed after it — लट् for the present — whose ल् is replaced by one of eighteen endings,
+parasmaipada or ātmanepada by the root's marker, the person and number by the sentence; between
+root and ending stands a class sign, शप् or one of its replacements, with guṇa before it, and the
+tradition counts ten present classes by their signs; the marker p decides strong and weak, so that
+शृणोति stands beside शृण्वन्ति and करोति beside कुर्वन्ति; the perfect doubles the root and takes its
+own endings, as in जगाम and ददौ; and the future adds स्य, with इट् where the root takes it, as in
+करिष्यति. The perfect is read in two passages of the Hitopadeśa and the future in a passage of the
+Pañcatantra; the other four lakāras stand on one card, recognised and named; and the Chapter 3 exam
+asks for the √भू table of ten rows. Two tables are memorised: T10, the perfect endings, and T12,
+the future. The 1.x book's errors in this territory are corrected in the open: IR-019, IR-020,
+IR-022 and the labels of laṅ. The course now has 105 reviewed lessons (91 in Volumes 1–3, 14 in
+Volume 4). The Volume 4 frame stays a draft until the volume's last chapter ships.
 
 ### Added
 
+- **v4.c03, six lessons, reviewed** — every sūtra printed as the Aṣṭādhyāyī data file has it,
+  with its tier (Q, B, D or K, a K card looked up and never assessed; "owned" for a sūtra of
+  Volume 3 or of Chapters 1–2 read again) and its bracket line; every derivation a four-column
+  table under the heading "Derive, according to Pāṇini, …", a step that belongs to a later lesson
+  printed as one marked line; every course-written line printed joined, with its pause form
+  beneath; every commentary line under the source line "text of the GRETIL e-text"; every
+  authentic passage printed with the words of its e-text, each printing change listed in Teacher
+  Notes:
+  - लट् · From ल् to -ति: the Verb's Ending (grammar): a finite verb taken apart, according to
+    Pāṇini, into a root — a dhātu, an entry of the Dhātupāṭha with its markers (1.3.1), seven
+    entries read as the Laghusiddhāntakaumudī prints them — and an l-affix after it (3.1.91, a
+    heading): लट् for present time (3.2.123), its ल् replaced by one of the eighteen tiṅ endings
+    (3.4.77, 3.4.78), mapped onto the present endings the learner owns, each with the marker it
+    drops; the set of endings by the root's marker — the ātmanepada after a root whose marker
+    1.3.12 names, both sets after one whose marker 1.3.72 names, the ātmanepada when the fruit of
+    the action goes to the doer (करोति, नयति, पचति, यजति), the parasmaipada after the rest (1.3.78),
+    the two names by 1.4.99–100 — on a pada card of twenty owned verbs; person and number (1.4.101–102,
+    1.4.108, 1.4.22); the -ए of the ātmanepada in laṭ (3.4.79); Whitney's account beside the
+    tradition's, the two sets "a word for another" and "a word for one's self", their antithesis "in
+    no small measure blurred, or even altogether effaced" (§529); पठति derived with the teacher, and
+    पचति, पचते, यजति, पठतः, रोचते and भवति, to its ending, by the learner; the 1.x card of pp. 75–76
+    quoted from the page images and corrected in the open — IR-020: कृ listed among the roots that take "ONLY parasmaipada"
+    and as taking both sets, where its ञ् gives it both, by 1.3.72; and the ātmanepada's "Action
+    benefits oneself", true only where 1.3.72 applies, as in कुरुते, पचते and यजते, and not of रोचते
+    or लभते; headwords धातुः, अभिप्रायः, पचति, यजति and भयम्, five in all (537 → 542); tools added
+    15; cells drilled 18.
+  - शप् · The Class Sign: Ten Families of Present Stems (grammar): between root and ending,
+    according to Pāṇini, a class sign — the tiṅ endings and the ś-marked affixes are sārvadhātuka
+    (3.4.113), and before a sārvadhātuka affix that denotes the doer शप् follows the root (3.1.68),
+    its श् a marker (1.3.8); guṇa of the aṅga's final इक् vowel before it (7.3.84, with 1.1.52,
+    and 1.1.51 for the र् of अर्), and of a light penultimate vowel (7.3.86), the penultimate being the
+    sound just before the aṅga's last sound; the owned verbs sorted first, thematic against
+    athematic, then the ten present classes on one card, each named by the first root of its list
+    (K), with Whitney's account of the tenth class beside the tradition's (§607); the substitute
+    stems before a ś-marked affix — गच्छ, इच्छ, यच्छ by 7.3.77; पिब, तिष्ठ, पश्य, सीद by 7.3.78; जा for
+    ज्ञा and जन् by 7.3.79, a card line, never scored — the stems whose reason Volume 3 left to this
+    chapter; the इ of स्वपिति, the augment इट्, by 7.2.76, with वल् opened from the fourteen sūtras;
+    नयति derived with the teacher, and स्मरति, जयति, हरति, तरति, चरति and वदति by the learner, and
+    भवति named as a verb that takes नयति's steps, deriving it whole being the volume's last task;
+    headwords जयति, तरति, हरति, सीदति, उत्तिष्ठति and चरति, six in all, taught in the parasmaipada,
+    with गणः as an upgrade row (542 → 548); tools added 10; cells drilled 15.
+  - पित् ङित् · Strong and Weak: What the p Marker Does (grammar): according to Pāṇini, a
+    sārvadhātuka affix without the marker p counts as ṅ-marked (1.2.4), and before a k- or ṅ-marked
+    affix guṇa and vṛddhi do not apply (1.1.5) — so the singular parasmaipada endings तिप्, सिप् and
+    मिप्, which carry p, leave the stem strong, every other ending weak, and the root takes guṇa
+    before शप्, which carries p, and none before श, श्नु or श्ना; one rule per verb finishes the
+    weak stem (6.4.110 कुरु-; 6.4.111 स्-, युञ्ज्-; 6.1.16 पृच्छ्-, गृह्-; 6.4.113 गृह्णी- on a card),
+    with 3.1.74 for the शृ of शृणोति and 7.1.3 for the -अन्ति of the plural; शृणोति and शृण्वन्ति
+    derived with the teacher, and करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति and पृच्छति by the learner;
+    the parasmaipada present of twelve athematic verbs, seven cells each, and the laṅ and loṭ of
+    शृणोति and करोति, with the same split, the 1st-person endings of loṭ themselves made p-marked
+    (3.4.92, Teacher Notes); R4, Volume 3's athematic words learned whole, closed for the cells the
+    lesson prints, the rest keeping their Volume 3 status; the markers met so far on one card (K);
+    the 1.x marker cards of pp. 93–95 quoted from the page images and corrected in the open —
+    IR-022: ङ् and क् given different effects, where 1.1.5 blocks guṇa and vṛddhi before both;
+    headwords ब्रवीति, हन्ति, एति and युनक्ति, four in all (548 → 552); tools added 7; cells drilled
+    84.
+  - लिट् · The Perfect (grammar): according to Pāṇini, after a root, for an action past, not of
+    today and out of sight, liṭ (3.2.115 परोक्षे लिट्) — the 1.x card's "perfect (remote, witnessed)"
+    (p. 75; IR-019) corrected in the open by the sūtra's परोक्षे — beside Whitney's account of the
+    later language, in which the perfect is "simply a preterit or past tense, equivalent with the
+    imperfect" (§821b); before liṭ the root doubled (6.1.8) and the doubled syllable cut down (7.4.60:
+    its first consonant remains; 7.4.59: its vowel short; 7.4.62: a k-row sound becomes the c-row
+    sound), its own endings (3.4.82; T10, memorised), the vṛddhi of a penultimate अ before the
+    ṇ-marked णल्, by 7.2.116, and the औ for णल् after a root in आ, by 7.1.34; जगाम derived with the
+    teacher, and ददौ — in the Kāśikā's order: 7.1.34, then the single substitute of 6.1.88, then the
+    doubling, 7.4.59 after — पपाठ, पपाच, पपौ, चचार and ययौ by the learner; the production table, the
+    3rd singular, dual and plural of eight verbs (24 cells, ✓), and the one perfect each vocabulary
+    row prints; उवाच and आह read as cells, with three statements on आह, and the perfect's further
+    tools on a card (K), with चर् opened for 8.4.54; the corpus count of the perfect with its method:
+    of the 271 finite verb tokens of the Hitopadeśa that the Digital Corpus of Sanskrit tags 'past',
+    258 are perfects (7 of them periphrastic), and the forms counted more than ten times are āha
+    (112), uvāca (63) and ūcuḥ (13); a HISTORY callout placing the Kāśikā c. 7th century CE and the
+    Hitopadeśa c. 9th–12th century CE on the scholarly estimate; the reading, two parts of the
+    Hitopadeśa — the opening prose of the Introduction and, from Book 3, the prose after 3.101, the
+    story of Vīravara — printed with the e-text's words, तत् श्रुत्वा apart, and its IAST line with
+    the e-text's hyphens and punctuation, 8 glossed of 43 words; headwords पतिः, द्वयम्, श्लोकः,
+    द्वारम्, खड्गः and प्राप्नोति, six in all (552 → 558); tools added 8; cells drilled 24.
+  - लृट् · The Future (grammar): according to Pāṇini, for time to come, lṛṭ (3.3.13), with the sign
+    स्य before it (3.1.33); every affix after a root other than a tiṅ or a ś-marked one is
+    ārdhadhātuka (3.4.114), so the root takes guṇa before स्य by 7.3.84, which names both kinds,
+    and, where the root takes it, the augment इट् — by 7.2.35, after ऋ and हन् by 7.2.70, after गम्
+    in the parasmaipada by 7.2.58 — after which the स् of स्य becomes ष् by Chapter 2's 8.3.59;
+    करिष्यति derived with the teacher, and गमिष्यति, पठिष्यति, भविष्यति, नेष्यति, दास्यति and हरिष्यति
+    by the learner; T12, memorised, and the future stem of each owned verb on the vocabulary card,
+    both forms accepted wherever Whitney records both — नेष्यति and नयिष्यति, लप्स्यते and लभिष्यते
+    among them (§935); the card of the other four lakāras, luṭ, lṛṅ, luṅ and āśīrliṅ, whose forms
+    are recognised and named, never produced (◐), their rules K, with the chunk मा भैषीः "do not be
+    afraid!" the one aorist the learner says (✓); the tradition's ten l-affixes, the
+    Laghusiddhāntakaumudī's line, read as TRADITION, leṭ of the Veda only; the reading, the
+    Pañcatantra's Book 4 frame story, the crocodile's wife demanding the monkey's heart, 7 glossed of
+    37 words; the Hindi parallel: भविष्य "the future" has the letters of the Sanskrit future stem;
+    headwords मा भैषीः, नूनम्, हृदयम्, भार्या, प्रयोजनम्, यदि and वर्तनम्, seven in all (558 → 565);
+    tools added 6; cells drilled 14.
+  - तृतीयपरीक्षा · Chapter 3 Exam: the √भू Table (review): five tasks in one closed-book 45-minute
+    sitting (duration 45, 2 minutes of them for instructions; 106 marks) — A (11 minutes, 26
+    marks), the eighteen 3rd-person cells of the six productive rows of the √भू table (laṭ, laṅ,
+    loṭ, vidhiliṅ, liṭ, lṛṭ) filled and the four rows printed by their 3rd singular (luṭ, lṛṅ, luṅ,
+    āśīrliṅ) named, then 3.2.111 अनद्यतने लङ् read cold by its case code and bracket line and the 1.x
+    labels of laṅ, "recent past" and "past habitual", corrected from it; B (7, 36), the class, class
+    sign and present stem of twelve owned verbs, three of them traps; C (7, 16), eight strong and
+    weak cells, each with its reason according to Pāṇini, the toolbox card of 89 open; D (10, 12), an
+    unseen Hitopadeśa dialogue — Book 3, the prose after 3.101, Vīravara before King Śūdraka — with
+    four glosses and six questions, among them the lakāra of उवाच and of देहि and the seam of राजाह;
+    E (8, 16), an episode of the serial told with four perfects and then four futures, written, and
+    two sentences read aloud — with Station 0, about ten minutes, before the sitting and outside it,
+    so that the room time is about 55 minutes. Pass: every task at its pass mark and the
+    §19 quiz at 7/10. The chapter on one page (§15): the √भू table of ten rows, every cell checked
+    against Whitney, with the Laghusiddhāntakaumudī's ten l-affixes beside it; the chain, pada and
+    class cards and the substitute stems; the rule pair; T10 with the production table, T12 with the
+    four rows read; the toolbox card — 89 tools in number order, each with its text and the English
+    line its lesson printed, and no bracket line; and the paradigm ledger. The retake sets avoid
+    every item of their tasks' remediation exercises, and D′ reads an unseen passage of its own,
+    Hitopadeśa Book 2, the prose after 2.123. After the sitting, unscored, रामेण, the Chapter 2
+    item, is derived again, and the thread verse उद्यमेन हि सिध्यन्ति… is re-read for the signs of
+    सिध्यन्ति and प्रविशन्ति; the first Station 0 items of v4.c04.l01 and v4.c04.l02 are booked. The
+    ledger stays at 565.
+
+  The one Hindi parallel, in lesson 5: Hindi भविष्य "the future" is the Sanskrit word, its letters
+  those of the future stem; its ष is, in Pāṇini's derivation, the one Chapter 2's 8.3.59 makes. Lessons 1–4 and the exam
+  print none, as the fact base's decision 4 settled before drafting. Vocabulary counts 5 · 7 · 4 ·
+  6 · 7 · 0, lesson 2's seven being six ledger-new and the upgrade गणः; cells drilled 18 · 15 · 84 ·
+  24 · 14 · 0; tools added 15 · 10 · 7 · 8 · 6 · 0. Self-study minutes: 48 · 45 · 47 · 45 · 45 · 40.
+  JSON exports of the six lessons are added (105 lessons in `json/index.json`).
+- GLOSSARY: विकरण, गण, सार्वधातुक · आर्धधातुक, पित् · ङित् · कित्, अभ्यास, लृट्, लुट् · लृङ् · लुङ् ·
+  आशीर्लिङ्, लेट् and इट्, nine rows in all, added at the review; the rows धातु, लकारः, सुप् · तिङ्,
+  परस्मैपदम्, आत्मनेपद — with the correction of the 1.x "benefits oneself" —, उभयपदी, no longer a
+  Teacher-Notes term, प्रथम / मध्यम / उत्तम पुरुष, in the tradition's order, and लिट् updated with
+  the chapter's senses, and the course term "toolbox card", whose Chapter 3 exam card prints no
+  bracket line; at release, a row for उपधा (upadhā), the penultimate of 7.3.86 and 7.2.116.
+- `research/notes/vol4-plan.md` §7.6: the corrections the Chapter 3 review made to the plan, seven
+  rows — from Pass D, N1 printed with तत् श्रुत्वा apart; no item asking what आह stands for, 3.4.84
+  being a card rule; task A1 scoring only the name of each ◐ row; 7.3.79 never scored; the cells ✓
+  at the chapter's exit; from Pass B, the class-3 present left as Volume 3 left it, and R4 closed
+  only for the cells lesson 3 prints; from Pass A on lesson 2, Whitney §734 quoted whole and भवति
+  named beside जयति, with the c03.l02 block amended; seven rows entered at release for points that
+  later chapters must follow — the 1st-person loṭ ending made pit by 3.4.92; the exam's toolbox card
+  as reviewed; an unseen-reading retake read from a passage of its own; 3.2.110, an unseen rule read
+  in the retake and counted nowhere; a Station 0 timed from what it asks; the corpus counts printed
+  exact; वल् and चर् opened; and the rules the review settled, six in all.
 - **The Volume 5 plan, as a draft** — `research/notes/vol5-plan.md` (साहित्यम् · Literature & Mastery,
-  B2 → C1; 25 lessons in five chapters; ledger 627 → 751): three candidate designs (texts first, skill
-  first, tradition first) judged by three readers, a synthesis on the texts-first design with grafts from
-  the other two, a critique of 80 gaps with a repair, and a check whose 50 exact follow-up fixes are
-  applied. Not yet binding: the editor's decisions on its open questions, a line-by-line review and a
-  post-check come first, as for the Volume 4 plan. Its working scripts are kept in
-  `research/evidence/vol5-plan/`.
+  B2 → C1; 25 lessons in five chapters; ledger 627 → 751; commit d2daad4): three candidate designs
+  (texts first, skill first, tradition first) judged by three readers, a synthesis on the
+  texts-first design with grafts from the other two, a critique of 80 gaps with a repair, and a
+  check whose 50 exact follow-up fixes are applied. Not yet binding: the editor's decisions on its
+  open questions, a line-by-line review and a post-check come first, as for the Volume 4 plan. Its
+  working scripts are kept in `research/evidence/vol5-plan/`.
+
+### Changed
+
+- **The Volume 4 frame** (`curriculum/volume-4/volume.md`): still `draft`, until the volume's
+  last chapter ships. "Chapter 3, as delivered", added at the review with its review date, now
+  states what the chapter delivered as the lessons now print it: the six lessons with their tools
+  by lesson (15 · 10 · 7 · 8 · 6 · 0, 89 in the toolbox), the reference cards, the ledger at 565,
+  the two readings opened from the fourteen sūtras, the derivations the learner can now do and the
+  cells that are ✓, the 1.x errors corrected in the open (IR-019, IR-020, IR-022 and the labels of
+  laṅ), the authentic passages and the √भू table. The exit figure 565 is reached.
+- **The Chapter 3 frame** (`curriculum/volume-4/chapter-03/chapter.md`): `reviewed`. Its Lessons
+  table now says what lesson 6 prints — the chapter on one page, not the anubandha card, which is
+  lesson 3's — and that after the sitting रामेण is derived again, as lesson 6 §17 has it, and the
+  thread verse re-read; its goals, ledger line and assessment paragraph, brought into line at the
+  review, agree with the lessons as reviewed.
+- STYLE_GUIDE §8: 565 reached. STYLE_GUIDE §3.1: the printing rule this chapter settled — an
+  authentic passage keeps the e-text's words, its IAST line keeps the e-text's hyphens and
+  punctuation, and every printing change is listed in Teacher Notes.
+- ROADMAP: Chapter 3 reviewed; Volume 4's counts; the status log; the preservation-map rows for the
+  1.x card of the ten lakāras (pp. 74–75) and the √भू table (pp. 127–128), which v4.c03 carries.
+  README: the counts.
+
+### Fixed
+
+- **v4.c03 review (passes A–D, run side by side on the first drafts on 2026-11-18, every finding
+  verified by skeptics — a minor finding by one verifier, a blocker or a major one by three, on
+  the evidence, the domain and the fix, by majority — each reviewer returning a coverage record of
+  what was opened; Pass C run twice, the second time on the chapter as reviewed):** 221 findings
+  confirmed (2 blockers, 82 major, 137 minor) and 2 rejected. Pass A, lesson by lesson, 138 —
+  lesson 1: 32, lesson 2: 27, lesson 3: 22, lesson 4: 19, lesson 5: 18, lesson 6: 20; Pass B 35;
+  Pass C 24; Pass D 24. Because the passes ran side by side, many found the same problem, and the
+  editor applied them in two steps: first the 159 findings whose fixes applied cleanly, 481 fixes,
+  with 6 more found already made (commit ef44fbe, whose message counts 160 findings and 61 held);
+  then the 62 findings whose fixes collided with an earlier fix, each adjudicated against the text
+  as it then stood — 38 already resolved by the fix applied for the same problem, 24 given 62 new
+  exact fixes, none rejected (commit 810b674). The two blockers: lesson 2's serial printed स तीरं
+  तरति "He crosses to the bank", but तरति takes as its object what is crossed — the line is now
+  नदीं तरति "he crosses the river", in the lesson and the fact base, as the editor had ruled; and
+  the exam's §8 Step 4 and §20 stated 1.2.4 without its condition — only a sārvadhātuka affix
+  without p counts as ṅ-marked — so that its "pattern" predicted no guṇa before स्य, as in भविष्यति
+  and करिष्यति, and no vṛddhi before णल्, as in जगाम; it now carries the condition, with the
+  ārdhadhātuka cases, स्य and the sign उ of कृ, and liṭ's endings (1.2.5 and 1.2.6, card rules) set
+  apart. The majors, in groups. The editor's rulings the drafts had not yet followed, each found by
+  several passes: no non-form as a quiz option — lesson 1's Q10 offered लभन्ति and लभन्तु, and its
+  options are now owned cells of लभते; D-tier sūtras named by their gist, never asked by number, in
+  the closed-book Station 0 keys; no K rule assessed — lesson 2's exercise 2 no longer scores 7.3.79
+  for जानाति, lesson 4's Q7 on 1.2.6 and Q9 on 3.4.84 are replaced by items on 7.4.59 and 7.4.60,
+  and the chapter page and the fact base describe the exam's task D (6) as the exam sets it, the
+  seam of राजाह, not what आह stands for; the Hitopadeśa passage of lesson 4 prints तत् श्रुत्वा
+  apart, as the e-text has it, with the full list of printing changes; the DCS count of the perfect printed as exact counts, without "most" and "commonest";
+  every key accepts both futures where Whitney §935 records both; the exam's retake D′ an unseen
+  passage, Hitopadeśa Book 2, the prose after 2.123, no longer N8 read again. What is ✓: the
+  ledgers now say exactly which cells a learner produces — the laṭ, laṅ and loṭ cells the lessons'
+  tables print and those owned since Volume 3, not every athematic cell; the 3rd persons of the
+  perfect of the eight production verbs and the one cell each vocabulary row prints; the class,
+  sign and stem of the verbs on the class card, from memory — and ◐ forms (देहि, अगृह्णात्, शृणु in a
+  review prompt, the 2nd- and 1st-person duals) are no longer asked or offered. Grammar: the
+  penultimate, upadhā, is the sound just before the aṅga's last sound (1.1.65), not "the vowel
+  before its last consonant"; by 3.4.92 the 1st-person loṭ ending itself is pit; the क् marker
+  blocks guṇa and vṛddhi alike (1.1.5), the correction the chapter makes of the 1.x card; ददौ
+  follows the Kāśikā's order (7.1.34, then 6.1.88, then the doubling; 7.4.59 after); 7.2.117
+  belongs to v4.c04.l03; Whitney's section ranges for the classes are corrected. Framing: Pāṇini's
+  analysis is attributed where lesson 1 stated it as a fact about the language, and lesson 4's
+  reading is presented as the two passages it is. Timing: the Station 0 items are timed from what
+  they ask — an eight-step derivation written from memory is given five minutes, not three — with the
+  class plans changed together (self-study 45 · 45 · 45 · 45 · 45 · 40 → 48 · 45 · 47 · 45 · 45 ·
+  40). Coherence: the chapter page and the volume frame describe the exam and the goals as the
+  lessons now set them — the frame no longer promises "any owned finite verb", and the substitute
+  stems are no longer "the stems Volume 3 called irregular". Among the minor findings: Whitney
+  §821b is quoted to the end of its sentence, and the FACT line of §529 is added to lesson 1, as
+  the editor had allowed; the Kāśikā's example under 1.4.107 is printed *aham pacāmi*, as the
+  e-text has it; the words on what the श् of शप् is for are cited to the Kāśikā under 3.1.68, not
+  1.3.8; the 3rd-person loṭ of शृणोति is cited to the Laghusiddhāntakaumudī under 6.4.107; the date
+  of the Laghusiddhāntakaumudī is hedged "c. 17th century" wherever it prints; the Pañcatantra is
+  cited by tantra and story, and the printing changes of its passage are listed; the FACT callout
+  on Hindi भविष्य no longer carries a derivation; the chapter page no longer names the readings by
+  the plan's labels N1 and N2. The two rejected findings, both of Pass C: one asked to hedge the
+  course's reading of the two futures of lesson 5's passage, which the verifier found to be the
+  course's own reading in plain text, with Whitney §948 cited for the use that section names; the
+  other counted the joined Devanagari of N8 and the ॥ of the thread verse as unlisted printing
+  changes, where both are the course's convention of transliteration.
+  A post-fix verification re-read eleven files — the six lessons, chapter.md, the fact base, the
+  Volume 4 frame, GLOSSARY.md and the plan — in six runs against the commits before the review
+  fixes (23e5ae5 for lessons 1–5; 6094637 for lesson 6; 4ae76c6 for the fact base, chapter.md, the
+  volume frame, GLOSSARY.md and the plan), with one verifier and one challenger per file: 69
+  follow-ups confirmed (6 major, 63 minor) and 5 claimed defects refuted; 62 fixes applied, and 7
+  that two runs found as the same change applied once (commit 0a1db70). The fact base took 26 of
+  the 62; lesson 6 11; the plan 6; lesson 5 5; chapter.md and GLOSSARY.md 3 each; lessons 1, 3 and 4
+  and the volume frame 2 each. The majors: lesson 5's Q6 offered देहि, a ◐ form, as a wrong option,
+  now ददातु; the exam's Hindi, in two places, still asked for the use of the four named rows; the
+  exam's end-of-chapter ledger row on class, sign and stem was out of step with lesson 2's corrected
+  row, found by two runs and fixed once; and the chapter frame's can-do list still promised more
+  strong and weak cells than lesson 3's tables print. The rest bring restatements in the fact base,
+  the frame and the plan into line with the fixed lessons; a note that two passes had added to
+  lesson 1 §22 is now printed once. The editor's own corrections outside the passes: the rulings on
+  the drafters' questions, given before the review, which several drafts did not yet follow and the
+  review enforced; the application in two steps and the adjudication of the 62 colliding findings;
+  and, after the drafts, 31 notes that stood in parentheses directly after Devanagari words moved
+  into square brackets, one in lesson 1 and 30 in lesson 6.
+
+  Pass C, second round (2026-11-18), on the chapter as reviewed, with the whole checklist of the
+  fact base's §7 again and the text no round had seen (the new D′ passage, the new FACT lines and
+  quotations, the DCS counts, the new quiz items, the GLOSSARY rows and the volume frame): no
+  finding; a coverage record of 24 lines. With no blocker or major finding, the citations rounds of
+  the chapter end here (plan §7.6: a round is repeated until one returns no blocker or major
+  finding).
 
 ## [0.20.0] — 2026-11-17
 

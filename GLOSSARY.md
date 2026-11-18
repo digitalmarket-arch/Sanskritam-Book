@@ -162,6 +162,7 @@ Rows are not strictly sorted (later additions were appended); search by IAST or 
 | लुट् · लृङ् · लुङ् · आशीर्लिङ् | luṭ · lṛṅ · luṅ · āśīrliṅ | the periphrastic future (according to Pāṇini, a future not of today) · the conditional ("would have") · the aorist (a past) · the benedictive (a blessing): the four other rows of the √भू table, on the card of v4.c03.l05 — recognised and named, never produced (◐); the chunk मा भैषीः, an aorist, is ✓ | लुट् · लृङ् · लुङ् · आशीर्लिङ् | v4.c03.l05 |
 | लेट् | leṭ | the Vedic subjunctive, one of the tradition's ten l-affixes, of the Veda only according to the Laghusiddhāntakaumudī (○; Volume 5) | लेट् | v4.c03.l05 |
 | इट् | iṭ | the augment इ, placed before an affix by its marker ट्, 1.1.46: the इ of स्वपिति, by 7.2.76 (v4.c03.l02), and of the future — पठिष्यति by 7.2.35, करिष्यति by 7.2.70, गमिष्यति by 7.2.58 (v4.c03.l05); not the 1st-singular ātmanepada ending इट् of 3.4.78, a homograph | इट् — आगम | v4.c03.l02 |
+| उपधा | upadhā | the penultimate: the sound just before the last sound of an aṅga — in रुच्, the उ before च्. A light penultimate vowel takes guṇa by 7.3.86 (v4.c03.l02): the ओ of रोचते. A penultimate अ takes vṛddhi before a ñ- or ṇ-marked affix by 7.2.116, अत उपधायाः, in v4.c03.l04: the आ of जगाम, before णल् | उपधा — अङ्ग के अन्तिम वर्ण से ठीक पहले का वर्ण | v4.c03.l04 |
 
 ## Course meta-vocabulary
 

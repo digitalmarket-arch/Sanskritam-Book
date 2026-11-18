@@ -41,12 +41,12 @@ media:
     - "planned:assets/quizzes/volume-4/v4c03l05-quiz.md"
     - "planned:assets/quizzes/volume-4/v4c03l05-quiz-key.md"
 tags: [grammar, panini, lrt, future, sya, it-augment, ardhadhatuka, lakara-card, aorist, ma-bhaisih, panchatantra, reading, serial, spaced-review]
-status: draft
+status: reviewed
 version: 0.1.0
 authors: [Sanskritam Editorial]
-reviewers: []
+reviewers: ["Editorial review passes A–D, 2026-11-18"]
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-18
 ---
 
 ## 1. Hook
@@ -696,19 +696,19 @@ gloss. Glossed words are marked ° and explained under the sentence. The ellipsi
 few lines left out: the end of her demand, the crocodile's answer with a verse, and the start of
 her reply. Audio: 🔊 `planned:assets/audio/volume-4/v4c03l05-n2-read.mp3`.
 
-**(a)** अथ तयाभिहितम् — यः सर्वदैवामृतप्रायाणीदृशानि फलानि भक्षयति, तस्य हृदयममृतमयं भविष्यति। (atha tayābhihitam — yaḥ sarvadaivāmṛta-prāyāṇīdṛśāni phalāni bhakṣayati, tasya hṛdayam amṛta-mayaṃ bhaviṣyati.)
+**(a)** अथ तयाभिहितम् — यः सर्वदैवामृतप्रायाणीदृशानि फलानि भक्षयति, तस्य हृदयममृतमयं भविष्यति। (atha tayābhihitam-yaḥ sarvadaivāmṛta-prāyāṇīdṛśāni phalāni bhakṣayati, tasya hṛdayam amṛta-mayaṃ bhaviṣyati |)
 pause form (ours): अथ तया अभिहितम् — यः सर्वदा एव अमृत-प्रायाणि ईदृशानि फलानि भक्षयति, तस्य हृदयम् अमृत-मयम् भविष्यति। (atha tayā abhihitam — yaḥ sarvadā eva amṛta-prāyāṇi īdṛśāni phalāni bhakṣayati, tasya hṛdayam amṛta-mayam bhaviṣyati.)
 "Then she said: 'He who always eats such nectar-like fruits must have a heart made of nectar.'" — तब
 उसने कहा — "जो सदा ऐसे अमृत-जैसे फल खाता है, उसका हृदय अमृतमय ही होगा।"
 ° अभिहितम् "(it was) said" · ° अमृतप्रायाणि "nectar-like" · ° ईदृशानि "such" · ° अमृतमयम् "made of
 nectar".
 
-**(b)** तद्यदि भार्यया ते प्रयोजनम्, ततस्तस्य हृदयं मह्यं प्रयच्छ। (tad yadi bhāryayā te prayojanam, tatas tasya hṛdayaṃ mahyaṃ prayaccha.)
+**(b)** तद्यदि भार्यया ते प्रयोजनम्, ततस्तस्य हृदयं मह्यं प्रयच्छ। (tad yadi bhāryayā te prayojanaṃ, tatas tasya hṛdayaṃ mahyaṃ prayaccha |)
 pause form (ours): तत् यदि भार्यया ते प्रयोजनम्, ततः तस्य हृदयम् मह्यम् प्रयच्छ। (tat yadi bhāryayā te prayojanam, tataḥ tasya hṛdayam mahyam prayaccha.)
 "'So if you have any use for a wife, give me his heart.'" — "तो अगर तुम्हें पत्नी से कोई प्रयोजन है,
 तो उसका हृदय मुझे दो।"
 
-**(c)** … तन्नूनं सा वानरी भविष्यति, यतस्तस्या अनुरागतः सकलमपि दिनं तत्र गमयसि। (… tan nūnaṃ sā vānarī bhaviṣyati, yatas tasyā anurāgataḥ sakalam api dinaṃ tatra gamayasi.)
+**(c)** … तन्नूनं सा वानरी भविष्यति, यतस्तस्या अनुरागतः सकलमपि दिनं तत्र गमयसि। (… tan nūnaṃ sā vānarī bhaviṣyati, yatas tasyā anurāgataḥ sakalam api dinaṃ tatra gamayasi |)
 pause form (ours): … तत् नूनम् सा वानरी भविष्यति, यतः तस्याः अनुरागतः सकलम् अपि दिनम् तत्र गमयसि। (… tat nūnam sā vānarī bhaviṣyati, yataḥ tasyāḥ anurāgataḥ sakalam api dinam tatra gamayasi.)
 "'… Then surely she must be a she-monkey, since out of love for her you spend the whole day there.'"
 — "… तो ज़रूर वह कोई बन्दरिया होगी, क्योंकि उसके प्रेम में तुम सारा दिन वहीं बिताते हो।"
@@ -1379,9 +1379,9 @@ the corrections listed (none other is made). Their sense gives the English lines
 
 **The passage — the printing changes.** Pañcatantra 4, frame story (`vispancu.htm`, lines 5228 and
 5235). The Devanagari drops the hyphens of the e-text's compounds (the IAST keeps them); the e-text's
-dash after *tayābhihitam* is printed as the spaced dash of the speech frame; *prayojanaṃ,* is printed
-प्रयोजनम्, and *prayojanam,* in the IAST — no sandhi before a comma; the e-text's "|" is printed as
-a daṇḍa, and as a full stop in the IAST. The first block continues
+dash after *tayābhihitam* is printed as the spaced dash of the speech frame, and kept as the e-text's
+hyphen in the IAST; *prayojanaṃ,* is printed प्रयोजनम्, — no sandhi before a comma — and kept in the IAST;
+the e-text's "|" is printed as a daṇḍa, and kept in the IAST. The first block continues
 *yena tad bhakṣayitvā jarā-maraṇa-rahitā tvayā saha bhogān bhunajmi |*, cut at the daṇḍa; the second
 begins *atha makary āha-tvayā kadācid api mama vacanaṃ nānyathā kṛtam |*, cut before *tan*: the
 ellipsis of (c) marks that cut and the crocodile's answer and verse before it. 37 words, 7 glossed,

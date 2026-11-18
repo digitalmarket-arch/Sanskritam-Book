@@ -10,7 +10,7 @@ cefr: "B1 → B2"
 chapters: 6
 status: draft
 created: 2026-11-10
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 # Volume 4 — पाणिनीयम् · The Pāṇinian System
@@ -145,32 +145,62 @@ item and lesson 3's +1-week item; v4.c03.l02 runs the exam's +1-week item.
 
 **Chapter 3, as delivered** (reviewed 2026-11-18). Six lessons: the root and the l-affix (1.3.1,
 3.1.91, 3.2.123, 3.4.77–78, B), the pada from the root's marker (1.3.12, 1.3.72, Q; 1.3.78, 1.4.99,
-B) and person and number (1.4.101–102, 1.4.108, 1.4.22, B), with पठति and रोचते derived and IR-020
-and the 1.x card's "Action benefits oneself" corrected; the class sign (3.4.113, 3.1.68, 1.3.8,
-7.3.84, B), the ten classes on one card (K), the substitute stems (7.3.77–78, D) and the इट् of
-स्वपिति by 7.2.76 (D), with नयति derived; strong and weak by the p-marker (1.2.4, 1.1.5, Q), with
-शृणोति / शृण्वन्ति derived, the markers met so far on one card, R4 closed and IR-022 corrected; the
-perfect (3.2.115, Q; 6.1.8, 3.4.82, 7.2.116, 7.4.59–60, 7.4.62, 7.1.34, D), with जगाम and ददौ
-derived, उवाच and आह read as cells, IR-019 corrected and a Hitopadeśa passage read; the future
-(3.3.13, 3.1.33, 3.4.114, and the इट् of 7.2.35, 7.2.70, 7.2.58, D), with करिष्यति derived, the
-other four lakāras on one card for recognition, the chunk मा भैषीः and a Pañcatantra passage read;
-the Chapter 3 exam on the √भू table of ten rows, one 45-minute sitting with Station 0 outside it and
-the toolbox card open for task C only, in which the 1.x labels of laṅ, "recent past" and "past
-habitual", are corrected from 3.2.111 read cold, and after which रामेण is derived again and the
-thread verse उद्यमेन हि सिध्यन्ति… re-read for the signs of सिध्यन्ति and प्रविशन्ति. T10 and T12, the
-perfect endings and the future, are memorised. The toolbox after Chapter 3 holds 89 tools: 15 added
-in lesson 1 (1.3.12, 1.3.72; 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78, 1.3.78, 1.4.99, 1.4.101,
-1.4.102, 1.4.108, 1.4.22; 1.4.100, 3.4.79), 10 in lesson 2 (3.4.113, 3.1.68, 1.3.8, 7.3.84; 1.1.51,
-1.1.52, 7.3.86, 7.2.76, 7.3.77, 7.3.78), 7 in lesson 3 (1.2.4, 1.1.5; 3.1.74, 7.1.3, 6.4.110,
-6.4.111, 6.1.16), 8 in lesson 4 (3.2.115; 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62, 7.1.34),
-6 in lesson 5 (3.3.13, 3.1.33, 3.4.114, 7.2.35, 7.2.70, 7.2.58) and none in the exam. The ledger
-stands at 565 (28 ledger-new: 537 → 542 → 548 → 552 → 558 → 565 → 565). The भवति thread gains
-lesson 1's chain from the root to तिप्, by 1.3.1, 3.1.91, 3.2.123, 3.4.77–78, 1.3.78, 1.4.99,
-1.4.101–102, 1.4.108 and 1.4.22; lesson 2's शप् and the guṇa before it (3.4.113, 3.1.68, 1.3.8,
-7.3.84, with 1.1.52); and lesson 3's reason the guṇa is not blocked: शप् carries प्, by 1.2.4
-and 1.1.5. The serial runs from the wife's demand to the crocodile's resolve (episodes 1–5). Station 0
-leaves the chapter as booked: v4.c04.l01 runs the exam's +1-day item and lesson 5's +1-week item;
-v4.c04.l02 runs the exam's +1-week item.
+B; 1.4.100, D) and person and number (1.4.101–102, 1.4.108, 1.4.22, B), with the -ए of laṭ (3.4.79,
+D), पठति and रोचते derived and IR-020 and the 1.x card's "Action benefits oneself" corrected; the
+class sign (3.4.113, 3.1.68, 1.3.8, 7.3.84, B), the ten classes on one card (K), the substitute
+stems (7.3.77–78, D; 7.3.79 on the card) and the इट् of स्वपिति by 7.2.76 (D), with नयति derived;
+strong and weak by the p-marker (1.2.4, 1.1.5, Q) — a sārvadhātuka affix without p counts as
+ṅ-marked — with शृणोति / शृण्वन्ति derived, the parasmaipada present of twelve athematic verbs, the
+laṅ and loṭ of शृणोति and करोति, the markers met so far on one card (K), R4 closed for the cells the
+lesson prints and IR-022 corrected; the perfect (3.2.115, Q; 6.1.8, 3.4.82, 7.2.116, 7.4.59–60,
+7.4.62, 7.1.34, D), with जगाम and ददौ derived, उवाच and आह read as cells, IR-019 corrected and two
+parts of the Hitopadeśa read; the future (3.3.13, 3.1.33, 3.4.114, and the इट् of 7.2.35, 7.2.70,
+7.2.58, D), with करिष्यति derived, the other four lakāras on one card for recognition, the chunk मा
+भैषीः and a Pañcatantra passage read; the Chapter 3 exam on the √भू table of ten rows, one 45-minute
+sitting with Station 0 (about ten minutes) outside it and the toolbox card open for task C only, in
+which the 1.x labels of laṅ, "recent past" and "past habitual", are corrected from 3.2.111 read
+cold, and after which रामेण is derived again and the thread verse उद्यमेन हि सिध्यन्ति… re-read for
+the signs of सिध्यन्ति and प्रविशन्ति. T10 and T12, the perfect endings and the future, are
+memorised. The reference cards (K) of the chapter, looked up and never assessed: the ten classes;
+7.3.79 on the substitute-stem card; 6.4.113 and the anubandha card; the perfect's further tools,
+1.2.6 and 3.4.84 among them; the rules of the other four lakāras. The toolbox after Chapter 3 holds
+89 tools: 15 added in lesson 1 (1.3.12, 1.3.72; 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78, 1.3.78,
+1.4.99, 1.4.101, 1.4.102, 1.4.108, 1.4.22; 1.4.100, 3.4.79), 10 in lesson 2 (3.4.113, 3.1.68, 1.3.8,
+7.3.84; 1.1.51, 1.1.52, 7.3.86, 7.2.76, 7.3.77, 7.3.78), 7 in lesson 3 (1.2.4, 1.1.5; 3.1.74, 7.1.3,
+6.4.110, 6.4.111, 6.1.16), 8 in lesson 4 (3.2.115; 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62,
+7.1.34), 6 in lesson 5 (3.3.13, 3.1.33, 3.4.114, 7.2.35, 7.2.70, 7.2.58) and none in the exam, whose
+card prints all 89 in number order with no bracket line. The ledger stands at 565 (28 ledger-new:
+537 → 542 → 548 → 552 → 558 → 565 → 565). Two more readings are opened from the fourteen sūtras: वल्
+in lesson 2, for 7.2.76, and चर् in lesson 4, for 8.4.54 on the card. The derivations the learner
+can now do, in table form, according to Pāṇini: पठति, पचति, पचते, यजति, पठतः, रोचते and भवति to its
+ending; नयति, स्मरति, जयति, हरति, तरति, चरति, वदति; शृणोति, शृण्वन्ति, करोति, कुरुतः, कुर्वन्ति, अस्ति,
+सन्ति, पृच्छति; जगाम, ददौ, पपाठ, पपाच, पपौ, चचार, ययौ; करिष्यति, गमिष्यति, पठिष्यति, भविष्यति, नेष्यति,
+दास्यति, हरिष्यति. What the learner produces is what the ledgers mark ✓: the class, class sign and
+present stem of the verbs on the class card, from memory; the laṭ, laṅ and loṭ cells the lessons'
+tables print and those owned since Volume 3; the 3rd persons of the perfect of the eight
+production verbs and the one perfect each vocabulary row prints; the future of every verb whose
+stem T12 or the card prints, both forms where Whitney records both. The 1.x errors are corrected
+in the open, each quoted from the page image: IR-020 (pp. 75–76: कृ listed among the roots that take "ONLY parasmaipada"
+and as taking both sets; its ञ् gives it both, 1.3.72), with the card's "Action benefits oneself",
+true only where 1.3.72 applies; IR-022 (pp. 93, 95: ङ् and क् given different effects; 1.1.5 blocks
+guṇa and vṛddhi before both); IR-019 (p. 75: लिट् "remote, witnessed"; the sūtra says परोक्षे, out
+of sight); and the labels of laṅ, "recent past" (p. 74) and "past habitual" (p. 128), corrected by
+3.2.111. The authentic passages keep their e-texts' words, each printing change listed in Teacher
+Notes: in lesson 4, two parts of the Hitopadeśa — the opening prose of the Introduction and, from
+Book 3, the prose after 3.101 (Vīravara) — 8 glossed of 43 words; in lesson 5, the Pañcatantra's
+Book 4 frame story, the wife's demand for the monkey's heart, 7 of 37; in the exam, an unseen
+Hitopadeśa dialogue, Book 3, the prose after 3.101 (Vīravara before King Śūdraka), 4 of 24, and in
+its retake a passage of its own, Book 2, the prose after 2.123. The √भू table has ten rows: the six
+the learner produces (laṭ, laṅ, loṭ, vidhiliṅ, liṭ, lṛṭ), the four read and named (luṭ, lṛṅ, luṅ,
+āśīrliṅ) and लेट् shown once, every cell checked against Whitney; it restores the 1.x master table
+(pp. 127–128), whose six rows of nine cells agree with Whitney, and completes it, beside the
+tradition's own ten l-affixes as the Laghusiddhāntakaumudī lists them. The भवति thread gains lesson
+1's chain from the root to तिप्, by 1.3.1, 3.1.91, 3.2.123, 3.4.77–78, 1.3.78, 1.4.99, 1.4.101–102,
+1.4.108 and 1.4.22; lesson 2's शप् and the guṇa before it (3.4.113, 3.1.68, 1.3.8, 7.3.84, with
+1.1.52), with भवति named beside जयति as a verb that takes नयति's steps; and lesson 3's reason the guṇa
+is not blocked: शप् carries प्, by 1.2.4 and 1.1.5. The serial runs from the wife's demand to the
+crocodile's resolve (episodes 1–5). Station 0 leaves the chapter as booked: v4.c04.l01 runs the
+exam's +1-day item and lesson 5's +1-week item; v4.c04.l02 runs the exam's +1-week item.
 
 ## Entry and exit
 
