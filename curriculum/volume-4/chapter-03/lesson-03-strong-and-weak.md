@@ -162,8 +162,8 @@ The commentators knew which forms the two rules are for, and they say so.
 
 > **[TRADITION · परम्परा]** The Kāśikā (c. 7th century CE) gives, under 1.2.4, the very forms of
 > this lesson: कुरुतः, कुर्वन्ति beside करोति — 'why "not p-marked"? karoti …' (*apit iti kim?
-> karoti …*) — that is, करोति keeps its guṇa because तिप् has a p. The commentary's examples are the
-> course's derivations. [REF:kashika 1.2.4]
+> karoti …*) — that is, करोति keeps its guṇa because तिप् has a p. These three of the commentary's
+> examples are the course's derivations; it also gives *cinutaḥ*, *cinvanti*. [REF:kashika 1.2.4]
 
 Read the commentary's examples against today's work: कुरुतः and कुर्वन्ति are items 2 and 3 of
 §18 exercise 3, करोति its item 1. The Kāśikā asks why the rule says "not p-marked", and answers
@@ -703,7 +703,7 @@ Words owned: सः [ते, the plural], छात्रः [छात्रा
 [यन्ति], युनक्ति. The seventh line is there because no other sentence of the day uses युनक्ति. Its
 sense is the dictionaries': Apte s.v. yuj gives "1 To join, unite, attach, connect … 2 To yoke,
 harness, put to", and Monier-Williams "to yoke or join or fasten or harness (horses or a chariot)"
-[REF:apte1890 s.v. yuj]; [REF:monierwilliams1899 s.v. yuj].
+[REF:apte1890 s.v. yuj]; [REF:monierwilliams1899 s.v. 1. yuj].
 
 The joins: सम्यक् कुर्वन्ति → सम्यक्कुर्वन्ति — a consonant-final word written together with the
 next; छात्राः सम्यक् keeps its visarga before स; गुरुः ब्रवीति → गुरुर्ब्रवीति — -उः before a voiced
@@ -820,10 +820,12 @@ lists under 6.4.107 and 6.4.106 [REF:laghukaumudi on 6.4.107]; [REF:laghukaumudi
 | करोति, loṭ | **करोतु** · कुरुताम् · कुर्वन्तु | कुरु · कुरुत | **करवाणि** · **करवाम** |
 
 The pattern for every athematic verb you own: **laṅ** strong in the 3rd, 2nd and 1st singular only;
-**loṭ** strong in the 3rd singular and in all the 1st persons. The 2nd singulars शृणु and कुरु stay
-as Volume 3 listed them, and गृहाण is a listed form of गृह्णाति: their rules are in Teacher Notes.
-देहि stays an R4 word of ददाति, read whole: its rules are not taught. अकुर्म, like कुर्मः, drops the
-उ before म्.
+**loṭ** strong in the 3rd singular and in all the 1st persons. The cells you produce are the ones
+this table prints and the ones that are yours since Volume 3 (the ledger below lists them); every
+other laṅ or loṭ cell of an athematic verb you read when you meet it (◐). The 2nd singulars शृणु and
+कुरु stay as Volume 3 listed them, and गृहाण is a listed form of गृह्णाति: their rules are in Teacher
+Notes. देहि stays an R4 word of ददाति, read whole: its rules are not taught. अकुर्म, like कुर्मः,
+drops the उ before म्.
 
 ### R4 closes
 
@@ -1469,8 +1471,8 @@ reads the cue, not the English spelling.
 - **Hook (0:00–0:07):** the cards शृणोति and शृण्वन्ति. Text: "Same verb. Why ओ here and व् there?"
 - **Demo (0:07–0:30):** तिप् with a glowing प्; झि with an empty badge. "p: guṇa — no p: none." नु → नो;
   नु → न्व्. The ण curls in last.
-- **Payoff (0:30–0:43):** "Learners of this course can now build the strong and weak forms of the
-  athematic verbs they own, and say according to Pāṇini why each cell has the stem it has."
+- **Payoff (0:30–0:43):** "Learners of this course can now build the present of twelve athematic verbs
+  they own, strong cells and weak, and say according to Pāṇini why each cell has the stem it has."
 - **CTA (0:43–0:50):** "Next: the perfect." (End card: पित् ङित् — Strong and Weak.)
 
 ## 27. Metadata

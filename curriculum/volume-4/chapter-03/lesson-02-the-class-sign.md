@@ -26,7 +26,7 @@ objectives:
     hi: "जयति, तरति, हरति, सीदति, उत्तिष्ठति और चरति से छह वाक्य सन्धि सहित बोलें और लिखें, नीचे विराम-रूप के साथ।"
 new_letters: []
 new_matras: []
-vocabulary_count: 7
+vocabulary_count: 7  # 6 ledger-new + the upgrade गणः; cells drilled 15 (§14)
 media:
   images:
     - "planned:assets/images/volume-4/v4c03l02-ten-families.svg"
@@ -740,9 +740,9 @@ with शप्; the substitute does not change the class, only the stem.
 
 ### The Kāśikā's own examples
 
-The Kāśikā's first examples under 7.3.84 are तरति and नयति — today's headword and today's
-derivation [REF:kashika 7.3.84]. तरति is तॄ with guṇa, अर्, before शप्: the same steps as स्मरति
-(§18 exercise 3, item 4).
+The Kāśikā's first examples under 7.3.84 are तरति, नयति and भवति — today's headword, today's
+derivation and the volume's last task [REF:kashika 7.3.84]. तरति is तॄ with guṇa, अर्, before शप्:
+the same steps as स्मरति — §18 exercise 3, item 4.
 
 ### Derive it yourself
 
@@ -815,8 +815,9 @@ track).
 | चरति | carati | /t͡ɕɐɾɐt̪i/ | moves, wanders; grazes | चलता-फिरता है; चरता है | ledger-new — verb, class 1, P.; future चरिष्यति [preview: c03.l05] — Apte s.v. car "1 P. (carati, cacāra …) 1 To walk, move, go about, roam, wander"; MW s.v. car "cl. 1. cárati", "graze"; 18 tokens of the lemma in the DCS Hitopadeśa (counted as above) [REF:dcs]; its participle चरन् is read in c04.l01 |
 | गणः | gaṇaḥ | /gɐɳɐh/ | group; a class of roots [भ्वादिगणः] | गण, समूह | **upgrade** — m. a-stem, like रामः; गण "group" owned since v1.c03.l03; vocabulary_count only — Apte s.v. गणः 13 "(In gram.) A series of roots or words belonging to the same rule and called after the first word of that series"; MW s.v. gaṇa "(in Gr.) a series of roots or words following the same rule and called after the first word of the series" |
 
-Five notes. **The six verbs** are all class 1, all parasmaipada, all with शप्: you make their whole
-present system — laṭ, laṅ and loṭ — as you make गच्छति's. Their future stems are printed for later:
+Five notes. **The six verbs** are all class 1, all parasmaipada, all with शप्: you make their
+laṭ, laṅ and loṭ cells — the singular and plural in every person and the 3rd dual — as you make
+गच्छति's. Their future stems are printed for later:
 the future is lesson 5's. **जयति and हरति** are new lemmas beside the owned nouns जय and हर: a verb
 counts once, as its 3rd singular. **हरति:** Apte marks हृ "U." — both sets; the course teaches it in
 parasmaipada only, as Volume 3 taught चिन्तयति [v3.c03.l01] and भक्षयति [v3.c03.l04] by
@@ -963,7 +964,7 @@ doubling tools come in c03.l04); class 7 in full (c03.l03, one verb).
 
 | Item | Status |
 |---|---|
-| the class, the class sign and the present stem of an owned verb, from memory [the rule numbers stay on the card] | ✓ |
+| the class, the class sign and the present stem of each owned verb on the class card, from memory [the rule numbers stay on the card] | ✓ |
 | the thematic / athematic sort | ✓ |
 | the substitute stem and its rule, with the card open | ✓ |
 | deriving, according to Pāṇini, a class-1 present: guṇa before शप् — नयति, जयति, स्मरति, हरति, तरति — or none — चरति, वदति | ✓ |
@@ -1386,8 +1387,8 @@ the corrections listed (none other is made). Their sense gives the English lines
   bhuktaḥ, bhuktavat /* — read *pratyayasy* as *pratyayasya* and *lakaraḥ* as *lakāraḥ*.
 - **The Kāśikā on 7.3.84** (lines 73718–73724): *sārvadhātuke ārdhadhātuke ca pratyaye parataḥ
   igantasya aṅgasya guṇo bhavati / tarati / nayati / bhavati / ārdhadhātuke - kartā / cetā / stotā
-  /* — no correction. Its third example is भवति, the volume's last task: §13 prints the first two,
-  and §8 Step 4 names भवति, with जयति, as a verb that takes नयति's steps.
+  /* — no correction. Its third example is भवति, the volume's last task: §13 prints all three, and
+  §8 Step 4 names भवति, with जयति, as a verb that takes नयति's steps.
 - **The Kāśikā on 1.1.51** (lines 1381–1383, inline): *uraṇ raparaḥ (\*1,1.51) / uḥ sthāne aṇ
   prasajyamāna eva raparo veditavyaḥ / kartā /* — no correction.
 - **The Kāśikā on 1.1.52** (lines 1392–1393, inline; the e-text has no separate heading for it):

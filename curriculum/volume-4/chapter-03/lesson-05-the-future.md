@@ -243,10 +243,11 @@ card is ever asked of you as production.
 One word you already use in Hindi is the stem of today's lesson.
 
 > **[FACT · तथ्यम्]** Hindi भविष्य 'the future' is the Sanskrit word भविष्य, whose letters are those
-> of the future stem भविष्य- [Monier-Williams: 'future, imminent, impending']; Hindi took it
-> whole, with its ष — in Pāṇini's derivation, the ष that 8.3.59 makes after the augment इ.
-> [REF:kachru2006];
+> of the future stem भविष्य- [Monier-Williams: 'future, imminent, impending'; as a neuter, 'the
+> future']; Hindi took it whole. [REF:kachru2006];
 > [REF:monierwilliams1899 s.v. bhaviṣya]
+
+The ष of भविष्य, in Pāṇini's derivation, is the one 8.3.59 makes after the augment इ [§8].
 
 ## 6. Sanskrit Explanation
 
@@ -658,7 +659,8 @@ Every end form is a cell of a verb you own: गच्छति [Volume 2], प�
 
 Under 7.2.70 the Kāśikā's first examples are करिष्यति, हरिष्यति and हनिष्यति; under 7.2.58 its first is
 गमिष्यति; under 3.3.13 and 3.1.33 it gives करिष्यति again [REF:kashika 7.2.70]; [REF:kashika
-7.2.58]; [REF:kashika 3.3.13]; [REF:kashika 3.1.33]. The commentary's examples are your derivations.
+7.2.58]; [REF:kashika 3.3.13]; [REF:kashika 3.1.33]. करिष्यति, हरिष्यति and गमिष्यति are your
+derivations; हनिष्यति is §8's form of 7.2.70.
 
 ### T12 in all its cells
 

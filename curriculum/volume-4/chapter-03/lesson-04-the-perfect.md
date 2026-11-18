@@ -202,12 +202,12 @@ the union vowel इ, stands in none of the 3rd-person cells of §15's production
 How much the perfect is used is a question for a count, and the count prints with its method.
 
 > **[FACT · तथ्यम्]** In the Digital Corpus of Sanskrit's tagging of the Hitopadeśa, 271 finite
-> verb tokens carry the tag 'past': 259 perfects (7 of them periphrastic), 9 aorists and 3
-> benedictives; the forms counted more than ten times are āha (112), uvāca (63) and ūcuḥ (13, and
-> once ūcur); in the Viṣṇupurāṇa the perfect is 17.4% of all verb tokens, the imperfect 4.5%.
-> (Counted by the course from the DCS's morphological tags, 2026-11; the aorists and benedictives,
-> which carry the same tag, told apart by the corpus's mood and formation tags, one aorist by hand;
-> the tag 'past' marks a form, not its time.) [REF:dcs]
+> verb tokens carry the tag 'past': 258 perfects (7 of them periphrastic), 9 aorists, 3 benedictives
+> and one adverb, tatra, tagged as a verb; the forms counted more than ten times are āha (112), uvāca
+> (63) and ūcuḥ (13, and once ūcur); in the Viṣṇupurāṇa the perfect is 17.4% of all verb tokens, the
+> imperfect 4.5%. (Counted by the course from the DCS's morphological tags, 2026-11; the aorists and
+> benedictives, which carry the same tag, told apart by the corpus's mood and formation tags, one
+> aorist and the adverb by hand; the tag 'past' marks a form, not its time.) [REF:dcs]
 
 Every form the count names is a 3rd person: the narrator's. That is the part of the perfect this
 volume makes yours. The first form it names, āha, needs three statements, and the course prints
@@ -665,7 +665,8 @@ The strong column keeps वाच्, with vṛddhi; the weak has only the उ: 
 
 The Kāśikā's first examples under 6.1.8 are पपाच and पपाठ; under 7.4.62 it gives चकार and जगाम
 among others; under 7.1.34 its first is पपौ [REF:kashika 6.1.8]; [REF:kashika 7.4.62];
-[REF:kashika 7.1.34]. The commentary's examples are your derivations.
+[REF:kashika 7.1.34]. पपाच, पपाठ, जगाम and पपौ are your derivations; चकार is made with the card
+rules [K] of §15.
 
 ### The reading: the Hitopadeśa
 
@@ -1090,8 +1091,8 @@ went out?
 
 **अभ्यासः 5 · the episode in six sentences (objective 4; production; homework, 8 minutes, written,
 then said aloud, the key check included).** Tell the episode of §17 in your own six sentences, with at
-least four different 3rd-person perfects, joined, with the pause form beneath each. Use the perfects
-of the production table or of your vocabulary card (§15).
+least four different 3rd-person perfects, joined, with the pause form beneath each. Use the cells
+of the production table, or the 3rd singular of a verb on your vocabulary card's ✓ row (§15).
 
 **अभ्यासः 6 · the जगाम table aloud (objective 2; spoken; homework, 2 minutes, recorded).** Read
 derivation (a) of §13 aloud, naming each marker without pronouncing it in the result, as §9 Drill 1
@@ -1397,11 +1398,16 @@ Exercise 5 · Sequence recital: "1. लिट् = perfect (remote, witnessed)",
 events the speaker did NOT witness?", with लिट् marked as the correct answer. Learner text quotes p. 75
 only (§8 Step 3, §12 mistake 5).
 
-**The corpus count.** The figures of §5 are the plan's, made from the DCS's CoNLL-U files (commit
-8aeed5a of 2026-08-24) by the scripts in `research/evidence/vol4-plan/` — `tools/dcsfreq.py`,
-`tools/dcs2.py`, `tools/dcs3.py`, `tools/dcs4.py` and `work/dcspast.py` (the folder's README says how
-to run them). The Viṣṇupurāṇa's 17.4% counts the periphrastic perfect in and the aorists out. Print
-the figures only in the one wording of §5.
+**The corpus count.** The figures of §5 are made from the DCS's CoNLL-U files (commit 8aeed5a of
+2026-08-24) by the scripts in `research/evidence/vol4-plan/` — `tools/dcsfreq.py`, `tools/dcs2.py`,
+`tools/dcs3.py`, `tools/dcs4.py` and `work/dcspast.py` (the folder's README says how to run them).
+The Viṣṇupurāṇa's 17.4% is the plan's: it counts the periphrastic perfect in and the aorists out.
+The Hitopadeśa's 271 were split at the Chapter 3 review by reading each token and its tags: 264
+carry Mood=Ind — 251 simple perfects, 7 periphrastic (Formation=peri: cintayāmāsa ×5,
+avalokayāmāsa, tāḍayāmāsa), 5 aorists (agamat ×3, prādāt, and the passive aśrāvi, which has no
+Formation tag) and one token of tatra, "there", tagged as a 2nd plural of tṛ (Hitopadeśa-0003); 4
+carry Mood=Jus, the prohibitive aorists bhaiṣīḥ ×3 and kṛthāḥ; 3 carry Mood=Prec, the benedictives
+bhūyāt ×2 and bhūyān (bhūyāt before mahān). Print the figures only in the one wording of §5.
 
 **What students find hard.** The order of the doubled syllable's rules: every line of a table
 changes one thing, and the doubling comes before the trimming. ददौ: let the learner write \*दादौ
@@ -1544,8 +1550,8 @@ reads the cue, not the English spelling.
   §553, §781, §793, §794, §800, §801, §821 (re-read: the quoted words are his), and the cells जगाम,
   पपात, शुश्राव, which §800's paradigms do not print; the card's 3sg perfects against Apte's root
   entries; the headwords against Apte and MW (re-read); the DCS figures against
-  `research/evidence/vol4-plan/` (not re-counted); the Hindi at Pass B; every joined line against the
-  Volume 3 Chapter 4 maps.
+  `research/evidence/vol4-plan/` (re-counted at the Chapter 3 review: §22); the Hindi at Pass B;
+  every joined line against the Volume 3 Chapter 4 maps.
 - **Register audit:** FACT ×5 callouts (§4 Whitney §821; §5 Whitney §781; §5 the DCS count; §15
   Whitney §553; §15 Whitney §793) plus §5's three-row table (TRADITION · FACT · FACT-tag) · TRADITION
   ×1 callout (§4, 3.2.115 with the Kāśikā); the sūtras' English lines in §8 and the box in §15 are

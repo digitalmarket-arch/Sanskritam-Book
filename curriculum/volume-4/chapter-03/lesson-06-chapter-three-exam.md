@@ -196,7 +196,7 @@ writes -s (बभूवतुः for his *babhūvátus*).
 
 > **[FACT · तथ्यम्]** The futures:
 > - "The tense-sign of this future is the syllable स्य *syá*, added to the root either directly or by an auxiliary vowel इ *i* (in the latter case becoming इष्य *iṣyá*)." [REF:whitney1889 §932]
-> - Of the roots that end in a vowel, those in ā add the tense-sign with no इ; नी and लभ् have both forms, with इ and without. [REF:whitney1889 §935]
+> - "Of roots ending in vowels, the great majority (excepting those in *ṛ*) take no *i*. Thus, all in *ā* …" — the roots in *ā* he names with an इ-form are *vā*, *vyā*, *hvā* (§935c) and *hā*, *khyā* (§936c); and "*śī* lie and *nī* have both forms" (§935a). Of roots ending in mutes: "*rabh*, *labh* having both forms" (§935b). [REF:whitney1889 §935]
 > - "From the future-stem is made an augment-preterit, by prefixing the augment and adding the secondary endings, in precisely the same manner as an imperfect from a present-stem in अ *a*. This preterit is called the conditional." [REF:whitney1889 §940]
 > - The 3rd persons of the periphrastic future of √भू: *bhavitā́*, *bhavitā́rāu*, *bhavitā́ras*. [REF:whitney1889 §944]
 > - "It expresses in general what is going to take place at some time to come — but often, as in other languages, adding on the one hand an implication of will or intention, or on the other hand that of promise or threatening." [REF:whitney1889 §948]
@@ -424,7 +424,7 @@ Copy this frame onto a sheet of your own and fill it from memory at home before 
 | block | from memory |
 |---|---|
 | the √भू table: the six rows you produce, three 3rd-person cells each, with the lakāra names | ___ |
-| the four rows you read: each one's name and its 3rd singular | ___ |
+| the four rows you read: each one's name — never their cells, which you read and do not write | ___ |
 | the class card: ten classes, each by its first root, with its sign; the substitute stems and their roots | ___ |
 | the rule pair: which endings and which signs carry प्, and what follows for the stem before them | ___ |
 | T10, the nine P endings of the perfect; T12, the ten future stems | ___ |
@@ -901,10 +901,10 @@ and never assessed; and the rules of Teacher Notes.
 | P, Ā or both for an owned verb, and its rule; the class, sign and present stem of an owned verb; the substitute stem and its rule, with that card open | ✓ |
 | pit or not, and so a strong or a weak stem before it — "according to Pāṇini" (1.2.4 + 1.1.5) | ✓ |
 | the laṭ P of the twelve athematic verbs of l03 §15 — the singular and plural in all persons and the 3rd dual; the laṅ and loṭ P cells l03 §15 prints for शृणोति and करोति; the athematic cells ✓ since Volume 3 | ✓ |
-| the perfect: the production table's cells and the one cell each vocabulary row prints; the future of every verb whose stem T12 or the card prints | ✓ |
+| the perfect: the production table's 24 cells and the 3rd singular of each verb on the vocabulary card's ✓ row (l04 §15); the future of every verb whose stem T12 or the card prints | ✓ |
 | derived, according to Pāṇini: पठति; नयति, जयति, स्मरति, हरति, तरति, चरति, वदति · शृणोति, शृण्वन्ति, करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति, पृच्छति · जगाम, ददौ, पपाठ, पपाच, पपौ, चचार, ययौ · करिष्यति, गमिष्यति, पठिष्यति, भविष्यति, नेष्यति, दास्यति, हरिष्यति | ✓ |
 | मा भैषीः | ✓ — a chunk |
-| the cells of the four rows you read; ब्रूते, कुरुते and the other athematic cells beyond the listed; the 2nd- and 1st-person duals; the 1st and 2nd persons and the middle of the perfect; सत्स्यति, उत्थास्यति | ◐ — never produced |
+| the cells of the four rows you read; ब्रूते, कुरुते and the other athematic cells beyond the listed — every other laṅ or loṭ cell of an athematic verb (एधि, अहन्, जहि, ऐत्, इहि, ब्रूहि …) among them; the 2nd- and 1st-person duals; the 1st and 2nd persons and the middle of the perfect; सत्स्यति, उत्थास्यति | ◐ — never produced |
 | the K rules of the chapter's cards | card [K] — looked up, never assessed |
 | बभूव's derivation · लेट् · the participle in -त and the absolutive | ○ — c06.l02 · Volume 5 · Chapter 4 |
 
@@ -1021,21 +1021,21 @@ these items.
 **कार्यम् A · the √भू table, and a rule read cold (11 min; 26 marks; pass 19).**
 
 *A1 (7 min).* Fill the 3rd singular, dual and plural of भू in the six rows that are blank: laṭ, laṅ,
-loṭ, vidhiliṅ, liṭ, lṛṭ. For each of the four rows printed filled, write its lakāra name in the first
-column.
+loṭ, vidhiliṅ, liṭ, lṛṭ. For each of the four rows printed with its 3rd singular, write its lakāra
+name in the first column.
 
 | Lakāra | 3sg | 3du | 3pl |
 |---|---|---|---|
 | लृट् | ___ | ___ | ___ |
-| ___ | अभूत् | अभूताम् | अभूवन् |
+| ___ | अभूत् | — | — |
 | लट् | ___ | ___ | ___ |
-| ___ | भविता | भवितारौ | भवितारः |
+| ___ | भविता | — | — |
 | लिट् | ___ | ___ | ___ |
 | लङ् | ___ | ___ | ___ |
-| ___ | भूयात् | भूयास्ताम् | भूयासुः |
+| ___ | भूयात् | — | — |
 | लोट् | ___ | ___ | ___ |
 | विधिलिङ् | ___ | ___ | ___ |
-| ___ | अभविष्यत् | अभविष्यताम् | अभविष्यन् |
+| ___ | अभविष्यत् | — | — |
 
 One mark for each of the eighteen cells; one for each filled row whose name is right. A cell written
 for a filled row earns nothing.
@@ -1110,7 +1110,8 @@ Checked, not scored.
 
 Two marks for each of the eight sentences of E1: one for the verb — right, and in the asked lakāra;
 one for the sentence — correct, joined, with a pause form that matches. Use the perfects of the
-production table or of your vocabulary card, and the futures of T12 or of the card.
+production table, or the 3rd singular of a verb on your vocabulary card's ✓ row, and the futures
+of T12 or of the card.
 
 **Pass:** every task at its pass mark, and the §19 quiz at 7/10 (taken after the sitting). Total 106.
 A task below its mark: its remediation exercise (§22), then a retake of that task after one week, with
@@ -1188,10 +1189,10 @@ A1 — the six rows you produce:
 | लिट् | बभूव | बभूवतुः | बभूवुः |
 | लृट् | भविष्यति | भविष्यतः | भविष्यन्ति |
 
-The four filled rows, in the booklet's order: अभूत् … → **लुङ्**, the aorist: a past · भविता … →
-**लुट्**, the periphrastic future: according to Pāṇini, a future not of today · भूयात् … →
-**आशीर्लिङ्**, the benedictive: a blessing, "may …" · अभविष्यत् … → **लृङ्**, the conditional: "would
-have", the action did not come about.
+The four filled rows, in the booklet's order, each by the 3rd singular it prints: अभूत् → **लुङ्**,
+the aorist: a past · भविता → **लुट्**, the periphrastic future: according to Pāṇini, a future not of
+today · भूयात् → **आशीर्लिङ्**, the benedictive: a blessing, "may …" · अभविष्यत् → **लृङ्**, the
+conditional: "would have", the action did not come about.
 
 Scoring: one mark for each cell (18); one for each filled row whose name is right (4): the
 lakāra's name, or its English name — the aorist, the periphrastic future, the benedictive, the
@@ -1296,13 +1297,14 @@ joined, then its pause form.
 
 Scoring: two marks for each sentence — the verb right and in the asked lakāra (1); the sentence
 correct, joined, with a pause form that matches (1). **16 marks, pass 11.** In the perfect half, the
-four verbs are four different 3rd-person perfects of the production table or the vocabulary card
-(जगाम, बभूव, उवाच, ददौ, निनाय, तस्थौ, पपात …; आह, the production table's last row, scores as one); a
-1st-person perfect, a perfect repeated, or a present
+four verbs are four different perfects: 3rd-person cells of the production table, or the 3rd
+singular of a verb on the vocabulary card's ✓ row (जगाम, बभूव, उवाच, ददौ, निनाय, तस्थौ, पपात …; आह,
+the production table's last row, scores as one); a 1st-person perfect, a perfect repeated, or a present
 in place of a perfect scores 0 for its verb. In the future half any four futures of T12 or of the card
-score, of any person. A form from a row you only read — अभूत्, भविता — scores 0 for its verb, in
-either half. A sentence whose pause form does not match its joined line scores 0 for the sentence, its
-verb still scoring.
+score, of any person, and also the other form where Whitney records both, नयिष्यति beside नेष्यति
+and लभिष्यते beside लप्स्यते [REF:whitney1889 §935]. A form from a row you only read — अभूत्, भविता —
+scores 0 for its verb, in either half. A sentence whose pause form does not match its joined line
+scores 0 for the sentence, its verb still scoring.
 
 **§17, the spiral (unscored)**
 
@@ -1569,10 +1571,13 @@ takes 2 minutes for them inside the 45, as the Chapter 1 and 2 exams did, and gi
 0 is timed from what it asks — sixteen futures, then seven lines of derivation from memory, each item
 marked at once: ten minutes, not eight.
 
-**Two ledger lines the exam leans on.** Lesson 2 made the class, the sign and the stem ✓ "with the
-card", and lesson 5 made the naming of the four rows ✓ "with the card"; the exam asks both with the
-book closed, as lesson 3's Station 0 already asked the class, sign and stem of ten verbs. The ledger of
-§15 (8) records them as the exam asks them.
+**Two ledger lines the exam leans on.** Lesson 2's ledger makes the class, the sign and the present
+stem of an owned verb ✓ from memory — lesson 3's Station 0 asked them of ten verbs, the class card
+closed — and the substitute stem and its rule ✓ with the card open: task B, closed-book, asks the
+class, sign and stem and scores no rule. Lesson 5's ledger makes the naming of the four rows ✓ with
+the card in that lesson, and at this exam from each row's √भू 3rd singular, without it: task A1
+prints that 3rd singular and scores only the name, so the learner names from a printed cue and
+never produces a form. The ledger of §15 (8) records both as the exam asks them.
 
 **What students find hard.** A1: \*बभाव, and the cells of a filled row written instead of its name.
 A2: अनद्यतने taken for the affix, because it comes first. B: गच्छति called irregular; पृच्छति put in
@@ -1701,7 +1706,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   script from v4.c02.l04 §15 (5), bracket lines dropped; the 46 English lines against each lesson's §8;
   the Kāśikā lines of §22 (3.2.111: 18875–18883; 3.2.110: 18858–18861, *būte* → *bhūte*); N8 against
   `hitop_u.htm` lines 2932–2940, N1 (b) against 2946 and 2956, the thread verse against 233–234; the
-  Whitney lines of §5 against the local text (§935 a paraphrase: "all in ā"; "nī have both forms";
+  Whitney lines of §5 against the local text (§935a–c and §936c: "all in ā"; "nī have both forms";
   "rabh, labh having both forms"); the 1.x labels against `Sanskritam-Curriculum.pdf` pp. 74, 75 and
   128 (p. 128 re-read at 150 dpi); every joined line against Volume 3's sandhi maps; all Hindi at Pass
   B; every key re-solved.

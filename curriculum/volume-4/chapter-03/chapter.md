@@ -29,8 +29,8 @@ sign (विकरणः) between root and ending (3.4.113, 3.1.68): शप् o
 classes on one card, guṇa before the sign (7.3.84; which signs and endings block it is lesson 3's), and the stems whose reason Volume 3 left
 to this chapter ("why the stem is तिष्ठ- is v4.c03's", v3.c01.l02) — गच्छ, तिष्ठ, पश्य, पिब — made by two sūtras (7.3.77, 7.3.78); नयति is derived step by step. The third
 lesson explains शृणोति beside शृण्वन्ति: a sārvadhātuka ending or sign without the marker p counts as ṅ-marked (1.2.4), and
-before such an ending guṇa does not apply (1.1.5); the athematic verbs learned whole in Volume 3 become
-tables the learner can build, the markers met so far are collected on one card, and the 1.x card that
+before such an ending guṇa does not apply (1.1.5); the athematic words learned whole in Volume 3 that
+its tables print become cells the learner can build, the markers met so far are collected on one card, and the 1.x card that
 gave ङ् and क् different effects is corrected. The fourth lesson is the perfect: the root doubled
 (6.1.8) and its own endings (3.4.82); जगाम and ददौ are derived, उवाच and आह become cells, the 1.x label
 "remote, witnessed" is corrected by the sūtra's परोक्षे, and Whitney's statement of how the later
@@ -48,9 +48,10 @@ commentary line is "text of the GRETIL e-text".
 - Take an owned finite verb back to its root, and, for the roots whose Dhātupāṭha entries the
   lessons print, say from the root's marker which set of endings it takes
 - Classify the owned verbs of the class card into their present classes by their class signs, and
-  form the present systems of the thematic ones
-- Explain strong and weak stems by the p-marker, build the athematic present of the owned verbs,
-  and build the imperfect and imperative of शृणोति and करोति
+  form the present systems of the thematic ones in the cells Volume 3 made yours
+- Explain strong and weak stems by the p-marker, build the parasmaipada present of the owned
+  athematic verbs (the singular and plural in every person and the 3rd dual; ददाति in its cells of
+  Volume 3), and build the imperfect and imperative cells that lesson 3 prints for शृणोति and करोति
 - Use the perfect (3rd persons) and the future; recognise and name the other four lakāras
 - Assemble the √भू table of the classical tense-moods, ten rows, and tell it apart from the tradition's
   own count of ten l-affixes
@@ -65,8 +66,9 @@ By the end of this chapter the learner can:
 
 - [ ] Map the eighteen endings of 3.4.78 onto the present endings, naming the marker each one drops, if any
 - [ ] Say, according to Pāṇini, whether an owned verb takes parasmaipada, ātmanepada or both, and why
-- [ ] Name the class, class sign and present stem of each owned verb on the class card, and give
-      the rule of the substitute stems (गच्छ, तिष्ठ, पश्य, पिब, सीद, जा) from the substitute-stem card
+- [ ] Name, from memory, the class, class sign and present stem of each owned verb on the class
+      card, and give the rule of the substitute stems (गच्छ, इच्छ, यच्छ, पिब, तिष्ठ, पश्य, सीद) from the
+      substitute-stem card
 - [ ] Fill the strong and weak cells of the owned athematic verbs and say why, according to Pāṇini
 - [ ] Derive, according to Pāṇini, in table form, पठति, रोचते, नयति, स्मरति, शृणोति, शृण्वन्ति, करोति,
       कुरुतः, जगाम, ददौ, करिष्यति and गमिष्यति
@@ -119,14 +121,14 @@ Station 0 (about 10 minutes) runs before it and outside it, so the room time is 
 minutes. A separate sheet prints the chapter's toolbox card
 (89 sūtras in number order, each with its text and one English line); it is handed out at the start of task C and collected after it. **A** — the √भू
 table: the eighteen 3rd-person cells of the six productive rows (laṭ, laṅ, loṭ, vidhiliṅ, liṭ, lṛṭ)
-filled, and the four rows printed filled (luṭ, lṛṅ, luṅ, āśīrliṅ) named, with no credit
+filled, and the four rows printed by their 3rd singular (luṭ, lṛṅ, luṅ, āśīrliṅ) named, with no credit
 for producing them; then 3.2.111 अनद्यतने लङ् read cold in the case code with its bracket line, and the
 1.x labels "recent past" and "past habitual" corrected (11 min; 26 points, pass 19). **B** — class
 detective: the class, class sign and present stem of twelve owned verbs, three of them traps (गच्छति,
 पृच्छति, जानाति) (7 min; 36, pass 27). **C** — strong and weak: eight cells of शृणोति, करोति, अस्ति and
 ब्रवीति, each with its reason "according to Pāṇini" (7 min; 16, pass 11). **D** — an unseen Hitopadeśa
 dialogue (Vīravara and King Śūdraka, Book 3), printed joined with four glosses, and six questions,
-among them the lakāra of उवाच and देहि, and of आह "according to Pāṇini" (10 min; 12, pass 8). **E** —
+among them the lakāra of उवाच and देहि, and राजाह taken apart at its seam (10 min; 12, pass 8). **E** —
 production: an episode of the serial told with four 3rd-person perfects, then what each character will
 do with four futures; written, then two sentences read aloud (8 min; 16, pass 11). Pass: every task at
 its pass mark, and the §19 quiz (after the sitting) at 7/10. After the sitting, unscored, the learner

@@ -316,7 +316,7 @@ grammar point: according to Pāṇini, every finite verb begins as a root (ध�
 affix ल्, whose name says the time or mood (3.2.123); the ल् is replaced by one of eighteen
 endings (3.4.77–78); which set, parasmaipada or ātmanepada, is decided by the root's own marker
 in the Dhātupāṭha (1.3.12, 1.3.72, 1.3.78), and which person and number by the sentence
-(1.4.101–108).
+(1.4.101–102, 1.4.108, 1.4.22).
 
 ### Step 1 — the forms you own
 
