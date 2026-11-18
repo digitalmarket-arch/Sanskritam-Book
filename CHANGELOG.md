@@ -4,6 +4,18 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **The Volume 5 plan, as a draft** — `research/notes/vol5-plan.md` (साहित्यम् · Literature & Mastery,
+  B2 → C1; 25 lessons in five chapters; ledger 627 → 751): three candidate designs (texts first, skill
+  first, tradition first) judged by three readers, a synthesis on the texts-first design with grafts from
+  the other two, a critique of 80 gaps with a repair, and a check whose 50 exact follow-up fixes are
+  applied. Not yet binding: the editor's decisions on its open questions, a line-by-line review and a
+  post-check come first, as for the Volume 4 plan. Its working scripts are kept in
+  `research/evidence/vol5-plan/`.
+
 ## [0.20.0] — 2026-11-17
 
 Volume 4 (पाणिनीयम् · The Pāṇinian System), Chapter 2, अष्टाध्यायीप्रवेशः · Inside the Aṣṭādhyāyī,

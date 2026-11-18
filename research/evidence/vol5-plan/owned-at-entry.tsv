@@ -1,0 +1,1066 @@
+v1.c01.l01	नमस्ते	namaste	greeting ("bow to you")
+v1.c01.l01	संस्कृतम्	saṃskṛtam	Sanskrit ("refined, perfected")
+v1.c01.l01	भाषा	bhāṣā	language
+v1.c01.l01	पाठः	pāṭhaḥ	lesson
+v1.c01.l01	गुरुः	guruḥ	teacher
+v1.c01.l01	शिष्यः	śiṣyaḥ	student
+v1.c01.l01	अभ्यासः	abhyāsaḥ	practice, exercise
+v1.c01.l01	धन्यवादः	dhanyavādaḥ	thank you
+v1.c01.l02	स्वर	svara	vowel
+v1.c01.l02	व्यञ्जन	vyañjana	consonant
+v1.c01.l02	वर्ण	varṇa	speech sound; letter
+v1.c01.l02	वर्णमाला	varṇamālā	the Sanskrit sound inventory ("garland of sounds")
+v1.c01.l02	कण्ठ्य	kaṇṭhya	velar / guttural
+v1.c01.l02	तालव्य	tālavya	palatal
+v1.c01.l02	मूर्धन्य	mūrdhanya	retroflex
+v1.c01.l02	दन्त्य	dantya	dental
+v1.c01.l02	ओष्ठ्य	oṣṭhya	labial
+v1.c01.l02	अयोगवाह	ayogavāha	dependent sound (anusvāra, visarga)
+v1.c01.l03	अमृत	amṛta	nectar, immortality
+v1.c01.l03	अग्नि	agni	fire
+v1.c01.l03	अर्थ	artha	meaning, purpose
+v1.c01.l03	अहम्	aham	I
+v1.c01.l03	अ	a	the vowel a
+v1.c01.l03	क	ka	the consonant ka
+v1.c01.l03	म	ma	the consonant ma
+v1.c01.l04	मम	mama	my, mine
+v1.c01.l04	माता	mātā	mother
+v1.c01.l04	लता	latā	vine, creeper
+v1.c01.l04	माला	mālā	garland
+v1.c01.l04	कला	kalā	art, craft; part
+v1.c01.l04	कमल	kamala	lotus
+v1.c01.l04	तल	tala	surface, bottom
+v1.c01.l04	काल	kāla	time
+v1.c01.l04	ताल	tāla	rhythm; palmyra
+v1.c01.l04	अमल	amala	spotless, pure
+v1.c01.l04	कमला	kamalā	a name of Lakṣmī; splendid woman
+v1.c01.l04	मत	mata	thought, opinion
+v1.c01.l05	मम	mama	my, mine
+v1.c01.l05	माता	mātā	mother
+v1.c01.l05	लता	latā	vine
+v1.c01.l05	माला	mālā	garland
+v1.c01.l05	कला	kalā	art
+v1.c01.l05	कमल	kamala	lotus
+v1.c01.l05	तल	tala	surface
+v1.c01.l05	काल	kāla	time
+v1.c01.l05	ताल	tāla	rhythm; palmyra
+v1.c01.l05	अमल	amala	spotless
+v1.c01.l05	कमला	kamalā	Lakṣmī; splendid woman
+v1.c01.l05	मत	mata	thought, opinion
+v1.c01.l05	नमस्ते	namaste	greeting
+v1.c01.l05	संस्कृतम्	saṃskṛtam	Sanskrit
+v1.c01.l05	पाठः	pāṭhaḥ	lesson
+v1.c01.l05	गुरुः	guruḥ	teacher
+v1.c01.l05	शिष्यः	śiṣyaḥ	student
+v1.c01.l05	अभ्यासः	abhyāsaḥ	practice
+v1.c01.l05	स्वर	svara	vowel
+v1.c01.l05	व्यञ्जन	vyañjana	consonant
+v1.c02.l01	इति	iti	thus; end of quote
+v1.c02.l01	तिल	tila	sesame
+v1.c02.l01	मति	mati	thought, mind
+v1.c02.l01	कति	kati	how many?
+v1.c02.l01	कील	kīla	pin, wedge
+v1.c02.l01	लीला	līlā	play, sport
+v1.c02.l01	ममता	mamatā	mine-ness, attachment
+v1.c02.l01	मित	mita	measured, moderate
+v1.c02.l02	कुल	kula	family, clan
+v1.c02.l02	तुला	tulā	balance, scales
+v1.c02.l02	मूल	mūla	root, base
+v1.c02.l02	कूल	kūla	bank, shore
+v1.c02.l02	मूक	mūka	mute, silent
+v1.c02.l02	मुकुल	mukula	bud
+v1.c02.l02	उलूक	ulūka	owl
+v1.c02.l02	उत	uta	and, or (particle)
+v1.c02.l03	ऋत	ṛta	cosmic order, truth
+v1.c02.l03	ऋतु	ṛtu	season
+v1.c02.l03	कृत	kṛta	done, made
+v1.c02.l03	मृत	mṛta	dead
+v1.c02.l03	मातृ	mātṛ	mother (stem)
+v1.c02.l03	अमृत	amṛta	deathless; nectar
+v1.c02.l04	एक	eka	one
+v1.c02.l04	एकता	ekatā	oneness, unity
+v1.c02.l04	केतु	ketu	banner, comet
+v1.c02.l04	केलि	keli	play, amusement
+v1.c02.l04	एला	elā	cardamom
+v1.c02.l04	तैल	taila	oil
+v1.c02.l05	लोक	loka	world, people
+v1.c02.l05	कोमल	komala	soft, tender
+v1.c02.l05	कोकिल	kokila	cuckoo
+v1.c02.l05	लोल	lola	swaying, eager
+v1.c02.l05	कौतुक	kautuka	curiosity, festivity
+v1.c02.l05	लौकिक	laukika	worldly
+v1.c02.l05	ॐ	oṃ	the syllable om
+v1.c02.l06	कः	kaḥ	who? which?
+v1.c02.l06	ततः	tataḥ	then, thereafter
+v1.c02.l06	अतः	ataḥ	hence, therefore
+v1.c02.l06	इतः	itaḥ	from here
+v1.c02.l06	कुतः	kutaḥ	from where?
+v1.c02.l06	मतिः	matiḥ	thought, mind (citation form)
+v1.c02.l06	अंक	aṃka	mark, number; lap
+v1.c02.l07	मम	mama	my, mine
+v1.c02.l07	माता	mātā	mother
+v1.c02.l07	लता	latā	vine
+v1.c02.l07	माला	mālā	garland
+v1.c02.l07	कला	kalā	art
+v1.c02.l07	कमल	kamala	lotus
+v1.c02.l07	तल	tala	surface
+v1.c02.l07	काल	kāla	time
+v1.c02.l07	ताल	tāla	rhythm; palmyra
+v1.c02.l07	अमल	amala	spotless
+v1.c02.l07	कमला	kamalā	Lakṣmī; splendid woman
+v1.c02.l07	मत	mata	thought, opinion
+v1.c02.l07	इति	iti	thus (the quoting word)
+v1.c02.l07	तिल	tila	sesame
+v1.c02.l07	मति	mati	thought, mind
+v1.c02.l07	कति	kati	how many
+v1.c02.l07	कील	kīla	pin, wedge
+v1.c02.l07	लीला	līlā	play
+v1.c02.l07	ममता	mamatā	mine-ness, affection
+v1.c02.l07	मित	mita	measured
+v1.c02.l07	कुल	kula	family
+v1.c02.l07	तुला	tulā	balance, scales
+v1.c02.l07	मूल	mūla	root
+v1.c02.l07	कूल	kūla	bank, shore
+v1.c02.l07	मूक	mūka	mute
+v1.c02.l07	मुकुल	mukula	bud
+v1.c02.l07	उलूक	ulūka	owl
+v1.c02.l07	उत	uta	and, or (particle)
+v1.c02.l07	ऋत	ṛta	cosmic order, truth
+v1.c02.l07	ऋतु	ṛtu	season
+v1.c02.l07	कृत	kṛta	done
+v1.c02.l07	मृत	mṛta	dead
+v1.c02.l07	मातृ	mātṛ	mother (stem)
+v1.c02.l07	अमृत	amṛta	deathless; nectar
+v1.c02.l07	एक	eka	one
+v1.c02.l07	एकता	ekatā	unity
+v1.c02.l07	केतु	ketu	banner, comet
+v1.c02.l07	केलि	keli	play, amusement
+v1.c02.l07	एला	elā	cardamom
+v1.c02.l07	तैल	taila	oil
+v1.c02.l07	लोक	loka	world, people
+v1.c02.l07	कोमल	komala	soft
+v1.c02.l07	कोकिल	kokila	cuckoo
+v1.c02.l07	लोल	lola	swaying, eager
+v1.c02.l07	कौतुक	kautuka	curiosity, festivity
+v1.c02.l07	लौकिक	laukika	worldly
+v1.c02.l07	ॐ	oṃ	the syllable om
+v1.c02.l07	कः	kaḥ	who?
+v1.c02.l07	ततः	tataḥ	then, thereafter
+v1.c02.l07	अतः	ataḥ	hence
+v1.c02.l07	इतः	itaḥ	from here
+v1.c02.l07	कुतः	kutaḥ	from where?
+v1.c02.l07	मतिः	matiḥ	thought (citation form)
+v1.c02.l07	अंक	aṃka	mark, number; lap
+v1.c03.l01	खग	khaga	bird
+v1.c03.l01	गत	gata	gone, past
+v1.c03.l01	गति	gati	motion, way
+v1.c03.l01	गीत	gīta	song
+v1.c03.l01	मुख	mukha	mouth, face
+v1.c03.l01	लेख	lekha	writing, document
+v1.c03.l01	लघु	laghu	light, small
+v1.c03.l01	मेघ	megha	cloud
+v1.c03.l01	घृत	ghṛta	ghee, clarified butter
+v1.c03.l01	खल	khala	wicked person
+v1.c03.l02	चल	cala	moving, unsteady
+v1.c03.l02	चलति	calati	moves
+v1.c03.l02	अचल	acala	unmoving; mountain
+v1.c03.l02	छल	chala	deceit, guise
+v1.c03.l02	जल	jala	water
+v1.c03.l02	जलज	jalaja	water-born; lotus
+v1.c03.l02	जित	jita	conquered, won
+v1.c03.l02	कूजति	kūjati	coos, warbles
+v1.c03.l02	ञ	ña	the palatal nasal (letter)
+v1.c03.l03	घट	ghaṭa	pot
+v1.c03.l03	तट	taṭa	shore, bank
+v1.c03.l03	कटु	kaṭu	pungent, bitter
+v1.c03.l03	जटा	jaṭā	matted hair
+v1.c03.l03	कूट	kūṭa	peak; trick
+v1.c03.l03	गुण	guṇa	quality, strand
+v1.c03.l03	गण	gaṇa	group, troop
+v1.c03.l03	कण	kaṇa	particle, grain
+v1.c03.l03	तृण	tṛṇa	grass, blade
+v1.c03.l03	गुड	guḍa	jaggery, raw sugar
+v1.c03.l03	गूढ	gūḍha	hidden, secret
+v1.c03.l03	मूढ	mūḍha	deluded, fool
+v1.c03.l04	कथा	kathā	story, tale
+v1.c03.l04	दिन	dina	day
+v1.c03.l04	दान	dāna	giving, charity
+v1.c03.l04	दधि	dadhi	yogurt, curds
+v1.c03.l04	धन	dhana	wealth
+v1.c03.l04	मधु	madhu	honey; sweet
+v1.c03.l04	नदी	nadī	river
+v1.c03.l04	नमः	namaḥ	homage, salutation
+v1.c03.l04	मनः	manaḥ	mind
+v1.c03.l04	जन	jana	person, people
+v1.c03.l04	नीति	nīti	conduct, policy
+v1.c03.l04	नील	nīla	blue
+v1.c03.l04	गगन	gagana	sky
+v1.c03.l04	नल	nala	Nala (a king's name); reed
+v1.c03.l05	फल	phala	fruit; result
+v1.c03.l05	बल	bala	strength
+v1.c03.l05	पथ	patha	path
+v1.c03.l05	पाप	pāpa	evil, sin
+v1.c03.l05	पिता	pitā	father
+v1.c03.l05	कपि	kapi	monkey
+v1.c03.l05	बाल	bāla	child, young one
+v1.c03.l05	बालक	bālaka	boy, child
+v1.c03.l05	लाभ	lābha	gain, profit
+v1.c03.l05	भाग	bhāga	share, portion
+v1.c03.l05	भूमि	bhūmi	earth, ground
+v1.c03.l05	पूजा	pūjā	worship, honoring
+v1.c03.l05	भोजन	bhojana	food, meal
+v1.c03.l05	गोपाल	gopāla	cowherd
+v1.c03.l05	फेन	phena	foam
+v1.c03.l06	मम · माता · लता · माला · कला · कमल	mama · mātā · latā · mālā · kalā · kamala	my · mother · vine · garland · art · lotus
+v1.c03.l06	तल · काल · ताल · अमल · कमला · मत	tala · kāla · tāla · amala · kamalā · mata	surface · time · rhythm · spotless · Lakṣmī · opinion
+v1.c03.l06	इति · तिल · मति · कति · कील · लीला · ममता · मित	iti · tila · mati · kati · kīla · līlā · mamatā · mita	thus · sesame · thought · how many · pin · play · affection · measured
+v1.c03.l06	कुल · तुला · मूल · कूल · मूक · मुकुल · उलूक · उत	kula · tulā · mūla · kūla · mūka · mukula · ulūka · uta	family · scales · root · bank · mute · bud · owl · and/or
+v1.c03.l06	ऋत · ऋतु · कृत · मृत · मातृ · अमृत	ṛta · ṛtu · kṛta · mṛta · mātṛ · amṛta	order · season · done · dead · mother-stem · deathless
+v1.c03.l06	एक · एकता · केतु · केलि · एला · तैल	eka · ekatā · ketu · keli · elā · taila	one · unity · banner · play · cardamom · oil
+v1.c03.l06	लोक · कोमल · कोकिल · लोल · कौतुक · लौकिक · ॐ	loka · komala · kokila · lola · kautuka · laukika · oṃ	world · soft · cuckoo · swaying · curiosity · worldly · om
+v1.c03.l06	कः · ततः · अतः · इतः · कुतः · मतिः · अंक	kaḥ · tataḥ · ataḥ · itaḥ · kutaḥ · matiḥ · aṃka	who · then · hence · from here · whence · thought · number
+v1.c03.l06	खग	khaga	bird, sky-goer
+v1.c03.l06	गत	gata	gone
+v1.c03.l06	गति	gati	motion, way
+v1.c03.l06	गीत	gīta	song
+v1.c03.l06	मुख	mukha	mouth, face
+v1.c03.l06	लेख	lekha	writing
+v1.c03.l06	लघु	laghu	light, small
+v1.c03.l06	मेघ	megha	cloud
+v1.c03.l06	घृत	ghṛta	ghee
+v1.c03.l06	खल	khala	wicked (person)
+v1.c03.l06	चल	cala	moving, unsteady
+v1.c03.l06	चलति	calati	moves
+v1.c03.l06	अचल	acala	unmoving; mountain
+v1.c03.l06	छल	chala	deceit, guise
+v1.c03.l06	जल	jala	water
+v1.c03.l06	जलज	jalaja	water-born, lotus
+v1.c03.l06	जित	jita	conquered
+v1.c03.l06	कूजति	kūjati	coos, warbles
+v1.c03.l06	ञ	ña	the palatal nasal (letter)
+v1.c03.l06	घट	ghaṭa	pot
+v1.c03.l06	तट	taṭa	shore, bank
+v1.c03.l06	कटु	kaṭu	pungent, bitter
+v1.c03.l06	जटा	jaṭā	matted hair
+v1.c03.l06	कूट	kūṭa	peak; trick
+v1.c03.l06	गुण	guṇa	quality, strand
+v1.c03.l06	गण	gaṇa	group, troop
+v1.c03.l06	कण	kaṇa	particle, grain
+v1.c03.l06	तृण	tṛṇa	grass, blade
+v1.c03.l06	गुड	guḍa	jaggery, raw sugar
+v1.c03.l06	गूढ	gūḍha	hidden, secret
+v1.c03.l06	मूढ	mūḍha	deluded, fool
+v1.c03.l06	कथा	kathā	story
+v1.c03.l06	दिन	dina	day
+v1.c03.l06	दान	dāna	giving, charity
+v1.c03.l06	दधि	dadhi	yogurt
+v1.c03.l06	धन	dhana	wealth
+v1.c03.l06	मधु	madhu	honey
+v1.c03.l06	नदी	nadī	river
+v1.c03.l06	नमः	namaḥ	homage, salutation
+v1.c03.l06	मनः	manaḥ	mind (nominative of the stem manas)
+v1.c03.l06	जन	jana	person, people
+v1.c03.l06	नीति	nīti	conduct, policy
+v1.c03.l06	नील	nīla	blue
+v1.c03.l06	गगन	gagana	sky
+v1.c03.l06	नल	nala	Nala (the king's name); reed
+v1.c03.l06	फल	phala	fruit; result
+v1.c03.l06	बल	bala	strength
+v1.c03.l06	पथ	patha	path
+v1.c03.l06	पाप	pāpa	evil, sin
+v1.c03.l06	पिता	pitā	father
+v1.c03.l06	कपि	kapi	monkey
+v1.c03.l06	बाल	bāla	child
+v1.c03.l06	बालक	bālaka	boy, child
+v1.c03.l06	लाभ	lābha	gain
+v1.c03.l06	भाग	bhāga	share, portion
+v1.c03.l06	भूमि	bhūmi	earth, ground
+v1.c03.l06	पूजा	pūjā	worship, honoring
+v1.c03.l06	भोजन	bhojana	food, meal
+v1.c03.l06	गोपाल	gopāla	cowherd
+v1.c03.l06	फेन	phena	foam
+v1.c04.l01	राम	rāma	Rāma; pleasing
+v1.c04.l01	गुरु	guru	teacher
+v1.c04.l01	देव	deva	god, deity
+v1.c04.l01	जय	jaya	victory
+v1.c04.l01	नर	nara	man
+v1.c04.l01	वन	vana	forest
+v1.c04.l01	वीर	vīra	hero
+v1.c04.l01	रवि	ravi	sun
+v1.c04.l01	वायु	vāyu	wind
+v1.c04.l01	नव	nava	new; nine
+v1.c04.l01	कवि	kavi	poet
+v1.c04.l01	युग	yuga	age, era
+v1.c04.l01	भवति	bhavati	is, becomes
+v1.c04.l01	वदति	vadati	speaks
+v1.c04.l02	शिव	śiva	auspicious, kind; Śiva
+v1.c04.l02	शुभ	śubha	auspicious, good
+v1.c04.l02	शत	śata	hundred
+v1.c04.l02	दश	daśa	ten
+v1.c04.l02	रस	rasa	juice, essence, flavor
+v1.c04.l02	सुख	sukha	happiness, ease
+v1.c04.l02	सीता	sītā	Sītā; furrow
+v1.c04.l02	दास	dāsa	servant
+v1.c04.l02	मास	māsa	month
+v1.c04.l02	सेवा	sevā	service
+v1.c04.l02	ऋषि	ṛṣi	seer
+v1.c04.l02	भाषा	bhāṣā	language, speech
+v1.c04.l02	पुरुष	puruṣa	person, man
+v1.c04.l02	दोष	doṣa	fault, defect
+v1.c04.l02	विष	viṣa	poison
+v1.c04.l03	हरि	hari	Hari; tawny
+v1.c04.l03	हर	hara	Hara; taking away
+v1.c04.l03	हल	hala	plough
+v1.c04.l03	हित	hita	beneficial, good
+v1.c04.l03	हिम	hima	snow, cold
+v1.c04.l03	हिमालय	himālaya	the Himālaya
+v1.c04.l03	मही	mahī	the earth
+v1.c04.l03	बाहु	bāhu	arm
+v1.c04.l03	मोह	moha	delusion
+v1.c04.l03	देह	deha	body
+v1.c04.l03	गृह	gṛha	house
+v1.c04.l03	इह	iha	here
+v1.c04.l03	हसति	hasati	laughs
+v1.c04.l03	वहति	vahati	carries, flows
+v1.c04.l04	मम · माता · अमृत · एक · लोक · ततः …	mama · mātā · amṛta · eka · loka · tataḥ …	my · mother · deathless · one · world · then …
+v1.c04.l04	खग · जल · चलति · कथा · नमः · भोजन …	khaga · jala · calati · kathā · namaḥ · bhojana …	bird · water · moves · story · homage · food …
+v1.c04.l04	राम	rāma	Rāma; pleasing
+v1.c04.l04	गुरु	guru	teacher
+v1.c04.l04	देव	deva	god, deity
+v1.c04.l04	जय	jaya	victory
+v1.c04.l04	नर	nara	man
+v1.c04.l04	वन	vana	forest
+v1.c04.l04	वीर	vīra	hero
+v1.c04.l04	रवि	ravi	sun
+v1.c04.l04	वायु	vāyu	wind
+v1.c04.l04	नव	nava	new; nine
+v1.c04.l04	कवि	kavi	poet
+v1.c04.l04	युग	yuga	age, era
+v1.c04.l04	भवति	bhavati	is, becomes
+v1.c04.l04	वदति	vadati	speaks
+v1.c04.l04	शिव	śiva	auspicious; Śiva
+v1.c04.l04	शुभ	śubha	auspicious, good
+v1.c04.l04	शत	śata	hundred
+v1.c04.l04	दश	daśa	ten
+v1.c04.l04	रस	rasa	juice, essence, flavor
+v1.c04.l04	सुख	sukha	happiness, ease
+v1.c04.l04	सीता	sītā	Sītā; furrow
+v1.c04.l04	दास	dāsa	servant
+v1.c04.l04	मास	māsa	month
+v1.c04.l04	सेवा	sevā	service
+v1.c04.l04	ऋषि	ṛṣi	seer
+v1.c04.l04	भाषा	bhāṣā	language, speech
+v1.c04.l04	पुरुष	puruṣa	person, man
+v1.c04.l04	दोष	doṣa	fault
+v1.c04.l04	विष	viṣa	poison
+v1.c04.l04	हरि	hari	Hari; tawny
+v1.c04.l04	हर	hara	Hara; taking away
+v1.c04.l04	हल	hala	plough
+v1.c04.l04	हित	hita	beneficial, good
+v1.c04.l04	हिम	hima	snow, cold
+v1.c04.l04	हिमालय	himālaya	Himālaya — the snow-abode
+v1.c04.l04	मही	mahī	the earth
+v1.c04.l04	बाहु	bāhu	arm
+v1.c04.l04	मोह	moha	delusion
+v1.c04.l04	देह	deha	body
+v1.c04.l04	गृह	gṛha	house
+v1.c04.l04	इह	iha	here
+v1.c04.l04	हसति	hasati	laughs
+v1.c04.l04	वहति	vahati	carries, flows
+v1.c05.l01	अहम्	aham	I
+v1.c05.l01	किम्	kim	what?
+v1.c05.l01	तत्	tat	that
+v1.c05.l01	सत्	sat	being, real
+v1.c05.l01	जगत्	jagat	world
+v1.c05.l01	वाक्	vāk	speech
+v1.c05.l01	भवान्	bhavān	you (respectful, to a man)
+v1.c05.l01	आम्	ām	yes
+v1.c05.l01	वदामि	vadāmi	I speak
+v1.c05.l01	नमामि	namāmi	I bow
+v1.c05.l01	वसामि	vasāmi	I dwell
+v1.c05.l02	नमस्ते	namaste	greetings (homage to you)
+v1.c05.l02	अस्ति	asti	is
+v1.c05.l02	स्वागतम्	svāgatam	welcome
+v1.c05.l02	सत्य	satya	truth
+v1.c05.l02	नित्य	nitya	eternal, daily
+v1.c05.l02	शान्ति	śānti	peace
+v1.c05.l02	शक्ति	śakti	power
+v1.c05.l02	भक्त	bhakta	devoted
+v1.c05.l02	मुक्त	mukta	released
+v1.c05.l02	हस्त	hasta	hand
+v1.c05.l02	अन्त	anta	end
+v1.c05.l02	गन्ध	gandha	scent
+v1.c05.l02	स्थान	sthāna	place
+v1.c05.l02	अस्मि	asmi	I am
+v1.c05.l03	ज्ञान	jñāna	knowledge
+v1.c05.l03	क्षमा	kṣamā	patience, forgiveness
+v1.c05.l03	क्षेत्र	kṣetra	field
+v1.c05.l03	मित्र	mitra	friend
+v1.c05.l03	पुत्र	putra	son
+v1.c05.l03	नेत्र	netra	eye
+v1.c05.l03	पात्र	pātra	vessel
+v1.c05.l03	अत्र	atra	here
+v1.c05.l03	तत्र	tatra	there
+v1.c05.l03	यत्र	yatra	where (relative)
+v1.c05.l03	श्री	śrī	radiance; honorific
+v1.c05.l03	श्रम	śrama	effort, toil
+v1.c05.l03	बुद्ध	buddha	awakened
+v1.c05.l03	शुद्ध	śuddha	pure
+v1.c05.l03	विद्या	vidyā	knowledge, learning
+v1.c05.l03	द्वि	dvi	two
+v1.c05.l04	धर्म	dharma	dharma; duty, order
+v1.c05.l04	कर्म	karma	action
+v1.c05.l04	अर्थ	artha	meaning, purpose
+v1.c05.l04	वर्ण	varṇa	sound, letter; color
+v1.c05.l04	सर्व	sarva	all
+v1.c05.l04	सूर्य	sūrya	sun
+v1.c05.l04	आचार्य	ācārya	teacher, preceptor
+v1.c05.l04	पर्वत	parvata	mountain
+v1.c05.l04	प्रिय	priya	dear
+v1.c05.l04	प्रजा	prajā	people, offspring
+v1.c05.l04	क्रम	krama	order, sequence
+v1.c05.l04	चक्र	cakra	wheel
+v1.c05.l04	ग्राम	grāma	village
+v1.c05.l04	चन्द्र	candra	moon
+v1.c05.l04	भद्र	bhadra	good, gentle
+v1.c05.l04	मन्त्र	mantra	mantra; instrument of thought
+v1.c05.l04	रूप	rūpa	form
+v1.c05.l05	मम · माता · एक · लोक …	mama · mātā · eka · loka …	my · mother · one · world …
+v1.c05.l05	खग · जल · चलति · कथा …	khaga · jala · calati · kathā …	bird · water · moves · story …
+v1.c05.l05	राम · गुरु · भाषा · हिमालय …	rāma · guru · bhāṣā · himālaya …	Rāma · teacher · language · Himālaya …
+v1.c05.l05	अहम्	aham	I
+v1.c05.l05	किम्	kim	what?
+v1.c05.l05	तत्	tat	that
+v1.c05.l05	सत्	sat	being, real
+v1.c05.l05	जगत्	jagat	world
+v1.c05.l05	वाक्	vāk	speech
+v1.c05.l05	भवान्	bhavān	you (respectful)
+v1.c05.l05	आम्	ām	yes
+v1.c05.l05	वदामि	vadāmi	I speak
+v1.c05.l05	नमामि	namāmi	I bow
+v1.c05.l05	वसामि	vasāmi	I dwell
+v1.c05.l05	नमस्ते	namaste	greetings
+v1.c05.l05	अस्ति	asti	is
+v1.c05.l05	स्वागतम्	svāgatam	welcome
+v1.c05.l05	सत्य	satya	truth
+v1.c05.l05	नित्य	nitya	eternal, daily
+v1.c05.l05	शान्ति	śānti	peace
+v1.c05.l05	शक्ति	śakti	power
+v1.c05.l05	भक्त	bhakta	devoted
+v1.c05.l05	मुक्त	mukta	released
+v1.c05.l05	हस्त	hasta	hand
+v1.c05.l05	अन्त	anta	end
+v1.c05.l05	गन्ध	gandha	scent
+v1.c05.l05	स्थान	sthāna	place
+v1.c05.l05	अस्मि	asmi	I am
+v1.c05.l05	ज्ञान	jñāna	knowledge
+v1.c05.l05	क्षमा	kṣamā	patience, forgiveness
+v1.c05.l05	क्षेत्र	kṣetra	field
+v1.c05.l05	मित्र	mitra	friend
+v1.c05.l05	पुत्र	putra	son
+v1.c05.l05	नेत्र	netra	eye
+v1.c05.l05	पात्र	pātra	vessel
+v1.c05.l05	अत्र	atra	here
+v1.c05.l05	तत्र	tatra	there
+v1.c05.l05	यत्र	yatra	where (relative)
+v1.c05.l05	श्री	śrī	radiance; honorific
+v1.c05.l05	श्रम	śrama	effort, toil
+v1.c05.l05	बुद्ध	buddha	awakened
+v1.c05.l05	शुद्ध	śuddha	pure
+v1.c05.l05	विद्या	vidyā	knowledge, learning
+v1.c05.l05	द्वि	dvi	two
+v1.c05.l05	पश्य	paśya	look!
+v1.c05.l05	धर्म	dharma	dharma; duty, order
+v1.c05.l05	कर्म	karma	action
+v1.c05.l05	अर्थ	artha	meaning, purpose
+v1.c05.l05	वर्ण	varṇa	sound, letter; color
+v1.c05.l05	सर्व	sarva	all
+v1.c05.l05	सूर्य	sūrya	sun
+v1.c05.l05	आचार्य	ācārya	teacher, preceptor
+v1.c05.l05	पर्वत	parvata	mountain
+v1.c05.l05	प्रिय	priya	dear
+v1.c05.l05	प्रजा	prajā	people, offspring
+v1.c05.l05	क्रम	krama	order, sequence
+v1.c05.l05	चक्र	cakra	wheel
+v1.c05.l05	ग्राम	grāma	village
+v1.c05.l05	चन्द्र	candra	moon
+v1.c05.l05	भद्र	bhadra	good, gentle
+v1.c05.l05	मन्त्र	mantra	mantra
+v1.c05.l05	रूप	rūpa	form
+v1.c06.l01	गङ्गा	gaṅgā	the Gaṅgā (river)
+v1.c06.l01	अङ्गम्	aṅgam	limb, part
+v1.c06.l01	पञ्च	pañca	five
+v1.c06.l01	सङ्घः	saṅghaḥ	assembly, community
+v1.c06.l01	संस्कृतम्	saṃskṛtam	Sanskrit — "the refined"
+v1.c06.l01	नमस्कारः	namaskāraḥ	salutation
+v1.c06.l01	वर्णमाला	varṇamālā	alphabet — garland of sounds
+v1.c06.l01	महाभारतम्	mahābhāratam	the Mahābhārata
+v1.c06.l01	रामायणम्	rāmāyaṇam	the Rāmāyaṇa
+v1.c06.l01	उपनिषद्	upaniṣad	Upaniṣad
+v1.c06.l01	विद्यालयः	vidyālayaḥ	school
+v1.c06.l02	नाम	nāma	name
+v1.c06.l02	त्वम्	tvam	you (intimate)
+v1.c06.l02	तव	tava	your
+v1.c06.l02	एतत्	etat	this
+v1.c06.l02	अपि	api	also, too
+v1.c06.l02	छात्रः	chātraḥ	student
+v1.c06.l02	बालिका	bālikā	girl
+v1.c06.l03	पठति	paṭhati	reads, recites
+v1.c06.l03	पुस्तकम्	pustakam	book
+v1.c06.l03	तस्य	tasya	his
+v1.c06.l03	सः	saḥ	he
+v1.c06.l04	मम · माता · एक · लोक …	mama · mātā · eka · loka …	my · mother · one · world …
+v1.c06.l04	खग · जल · चलति · कथा …	khaga · jala · calati · kathā …	bird · water · moves · story …
+v1.c06.l04	राम · गुरु · भाषा · हिमालय …	rāma · guru · bhāṣā · himālaya …	Rāma · teacher · language · Himālaya …
+v1.c06.l04	अहम् · नमस्ते · ज्ञान · धर्म …	aham · namaste · jñāna · dharma …	I · greetings · knowledge · dharma …
+v1.c06.l04	गङ्गा	gaṅgā	the Gaṅgā (river)
+v1.c06.l04	अङ्गम्	aṅgam	limb, part
+v1.c06.l04	पञ्च	pañca	five
+v1.c06.l04	सङ्घः	saṅghaḥ	assembly, community
+v1.c06.l04	संस्कृतम्	saṃskṛtam	Sanskrit — "the refined"
+v1.c06.l04	नमस्कारः	namaskāraḥ	salutation
+v1.c06.l04	वर्णमाला	varṇamālā	alphabet
+v1.c06.l04	महाभारतम्	mahābhāratam	the Mahābhārata
+v1.c06.l04	रामायणम्	rāmāyaṇam	the Rāmāyaṇa
+v1.c06.l04	उपनिषद्	upaniṣad	Upaniṣad
+v1.c06.l04	विद्यालयः	vidyālayaḥ	school
+v1.c06.l04	नाम	nāma	name
+v1.c06.l04	त्वम्	tvam	you (intimate)
+v1.c06.l04	तव	tava	your
+v1.c06.l04	एतत्	etat	this
+v1.c06.l04	अपि	api	also, too
+v1.c06.l04	छात्रः	chātraḥ	student
+v1.c06.l04	बालिका	bālikā	girl
+v1.c06.l04	पठति	paṭhati	reads, recites
+v1.c06.l04	पुस्तकम्	pustakam	book
+v1.c06.l04	तस्य	tasya	his
+v1.c06.l04	सः	saḥ	he
+v2.c01.l01	भोः	bhoḥ	O!, hey (address particle)
+v2.c01.l01	अञ्जलिः	añjaliḥ	the joined-palms gesture; cupped hands
+v2.c01.l01	भद्रम्	bhadram	good; blessings
+v2.c01.l01	स्वस्ति	svasti	well-being; farewell, blessings
+v2.c01.l01	नमः	namaḥ	homage, a bow
+v2.c01.l02	कथम्	katham	how?
+v2.c01.l02	कुशलम्	kuśalam	well-being; (all is) well
+v2.c01.l02	कुशली	kuśalī	well, in good health (male speaker/addressee)
+v2.c01.l02	सर्वम्	sarvam	all, everything
+v2.c01.l03	प्रभातम्	prabhātam	dawn, morning
+v2.c01.l03	दिनम्	dinam	day
+v2.c01.l03	मध्याह्नः	madhyāhnaḥ	midday
+v2.c01.l03	सायम्	sāyam	evening; in the evening
+v2.c01.l03	रात्रिः	rātriḥ	night
+v2.c01.l03	सुप्रभातम्	suprabhātam	good morning!
+v2.c01.l03	शुभरात्रिः	śubharātriḥ	good night
+v2.c01.l03	शुभम्	śubham	may it be well
+v2.c01.l04	धन्यवादः	dhanyavādaḥ	thank you
+v2.c01.l04	धन्यः	dhanyaḥ	blessed, fortunate
+v2.c01.l04	कृपा	kṛpā	compassion
+v2.c01.l04	कृपया	kṛpayā	please
+v2.c01.l04	क्षमस्व	kṣamasva	forgive (me)
+v2.c01.l04	न	na	not, no
+v2.c01.l04	श्रीमान्	śrīmān	sir (honorific)
+v2.c01.l04	पुनः	punaḥ	again
+v2.c01.l04	मिलामः	milāmaḥ	we meet
+v2.c01.l05	मम · माता · धर्म · मित्र …	mama · mātā · dharma · mitra …	my · mother · dharma · friend …
+v2.c01.l05	भोः · अञ्जलिः · भद्रम् · स्वस्ति …	bhoḥ · añjaliḥ · bhadram · svasti …	O! · joined palms · blessing · farewell …
+v2.c01.l05	कथम् · कुशलम् · कुशली · सर्वम् …	katham · kuśalam · kuśalī · sarvam …	how? · well-being · well · everything …
+v2.c01.l05	प्रभातम् · मध्याह्नः · सायम् · रात्रिः …	prabhātam · madhyāhnaḥ · sāyam · rātriḥ …	dawn · midday · evening · night …
+v2.c01.l05	धन्यवादः · कृपया · क्षमस्व · न …	dhanyavādaḥ · kṛpayā · kṣamasva · na …	thank you · please · forgive · not …
+v2.c01.l05	नमस्ते	namaste	greetings
+v2.c01.l05	नमस्कारः	namaskāraḥ	salutation
+v2.c01.l05	स्वागतम्	svāgatam	welcome
+v2.c01.l05	भोः	bhoḥ	O!, hey
+v2.c01.l05	अञ्जलिः	añjaliḥ	the joined palms
+v2.c01.l05	भद्रम्	bhadram	it is well; blessing
+v2.c01.l05	स्वस्ति	svasti	farewell; well-being
+v2.c01.l05	नमः	namaḥ	homage, a bow
+v2.c01.l05	कथम्	katham	how?
+v2.c01.l05	कुशलम्	kuśalam	well-being; well
+v2.c01.l05	कुशली	kuśalī	well (of a man)
+v2.c01.l05	सर्वम्	sarvam	everything
+v2.c01.l05	प्रभातम्	prabhātam	dawn, morning
+v2.c01.l05	दिनम्	dinam	day
+v2.c01.l05	मध्याह्नः	madhyāhnaḥ	midday
+v2.c01.l05	सायम्	sāyam	evening
+v2.c01.l05	रात्रिः	rātriḥ	night
+v2.c01.l05	सुप्रभातम्	suprabhātam	good morning
+v2.c01.l05	शुभरात्रिः	śubharātriḥ	good night
+v2.c01.l05	शुभम्	śubham	may it be well
+v2.c01.l05	धन्यवादः	dhanyavādaḥ	thank you
+v2.c01.l05	धन्यः	dhanyaḥ	blessed, fortunate
+v2.c01.l05	कृपा	kṛpā	compassion
+v2.c01.l05	कृपया	kṛpayā	please
+v2.c01.l05	क्षमस्व	kṣamasva	forgive (me)
+v2.c01.l05	श्रीमान्	śrīmān	sir
+v2.c01.l05	न	na	not
+v2.c01.l05	पुनः	punaḥ	again
+v2.c01.l05	मिलामः	milāmaḥ	we meet
+v2.c02.l01	परिवारः	parivāraḥ	family
+v2.c02.l01	पिता	pitā	father
+v2.c02.l01	भ्राता	bhrātā	brother
+v2.c02.l01	भगिनी	bhaginī	sister
+v2.c02.l01	पुत्री	putrī	daughter
+v2.c02.l01	दुहिता	duhitā	daughter
+v2.c02.l01	स्वसा	svasā	sister
+v2.c02.l01	गृहम्	gṛham	home, house
+v2.c02.l02	एषः	eṣaḥ	this (man, boy)
+v2.c02.l02	एषा	eṣā	this (woman, girl)
+v2.c02.l02	कुटुम्बम्	kuṭumbam	household
+v2.c02.l03	पृथिवी	pṛthivī	earth
+v2.c02.l03	आकाशः	ākāśaḥ	sky, space
+v2.c02.l03	नदी	nadī	river
+v2.c02.l03	वृक्षः	vṛkṣaḥ	tree
+v2.c02.l03	पुष्पम्	puṣpam	flower
+v2.c02.l03	समुद्रः	samudraḥ	ocean, sea
+v2.c02.l03	तारा	tārā	star
+v2.c02.l03	मेघः	meghaḥ	cloud
+v2.c02.l03	नगरम्	nagaram	city
+v2.c02.l03	अग्निः	agniḥ	fire
+v2.c02.l04	कुत्र	kutra	where?
+v2.c02.l04	च	ca	and
+v2.c02.l05	परिवारः · पिता · भ्राता · भगिनी …	parivāraḥ · pitā · bhrātā · bhaginī …	family · father · brother · sister …
+v2.c02.l05	एषः · एषा · कुटुम्बम्	eṣaḥ · eṣā · kuṭumbam	this (m) · this (f) · household
+v2.c02.l05	पृथिवी · आकाशः · नदी · वृक्षः …	pṛthivī · ākāśaḥ · nadī · vṛkṣaḥ …	earth · sky · river · tree …
+v2.c02.l05	कुत्र · च	kutra · ca	where? · and
+v2.c03.l01	त्रि	tri	three
+v2.c03.l01	चतुर्	catur	four
+v2.c03.l02	षट्	ṣaṭ	six
+v2.c03.l02	सप्त	sapta	seven
+v2.c03.l02	अष्ट	aṣṭa	eight
+v2.c03.l02	नव	nava	nine
+v2.c03.l03	कालः	kālaḥ	time
+v2.c03.l03	अद्य	adya	today
+v2.c03.l03	श्वः	śvaḥ	tomorrow
+v2.c03.l03	ह्यः	hyaḥ	yesterday
+v2.c03.l03	वर्षम्	varṣam	year
+v2.c03.l03	सप्ताहः	saptāhaḥ	week
+v2.c03.l03	होरा	horā	hour
+v2.c03.l03	मासः	māsaḥ	month
+v2.c03.l04	वासरः	vāsaraḥ	day (of the week)
+v2.c03.l04	रविवासरः	ravivāsaraḥ	Sunday
+v2.c03.l04	सोमवासरः	somavāsaraḥ	Monday
+v2.c03.l04	मङ्गलवासरः	maṅgalavāsaraḥ	Tuesday
+v2.c03.l04	बुधवासरः	budhavāsaraḥ	Wednesday
+v2.c03.l04	गुरुवासरः	guruvāsaraḥ	Thursday
+v2.c03.l04	शुक्रवासरः	śukravāsaraḥ	Friday
+v2.c03.l04	शनिवासरः	śanivāsaraḥ	Saturday
+v2.c03.l05	चतुर् · त्रि	catur · tri	four · three
+v2.c03.l05	षट् · सप्त · अष्ट · नव · कति	ṣaṭ · sapta · aṣṭa · nava · kati	six · seven · eight · nine · how many?
+v2.c03.l05	कालः · अद्य · श्वः · ह्यः · वर्षम् · सप्ताहः · होरा	kālaḥ · adya · śvaḥ · hyaḥ · varṣam · saptāhaḥ · horā	time · today · tomorrow · yesterday · year · week · hour
+v2.c03.l05	वासरः · रविवासरः … शनिवासरः	vāsaraḥ · ravivāsaraḥ … śanivāsaraḥ	day of the week + the seven names
+v2.c04.l01	गच्छति	gacchati	goes
+v2.c04.l01	खादति	khādati	eats
+v2.c04.l01	पिबति	pibati	drinks
+v2.c04.l01	पश्यति	paśyati	sees
+v2.c04.l01	शृणोति	śṛṇoti	hears
+v2.c04.l01	लिखति	likhati	writes
+v2.c04.l01	जानाति	jānāti	knows
+v2.c04.l02	असि	asi	you are
+v2.c04.l02	शृणोमि	śṛṇomi	I hear
+v2.c04.l02	शृणोषि	śṛṇoṣi	you hear
+v2.c04.l02	जानामि	jānāmi	I know
+v2.c04.l02	जानासि	jānāsi	you know
+v2.c04.l03	करोति	karoti	does, makes
+v2.c04.l03	अन्नम्	annam	food
+v2.c04.l03	क्षीरम्	kṣīram	milk
+v2.c04.l04	प्रभातम्	prabhātam	dawn, morning
+v2.c04.l04	अस्ति	asti	is
+v2.c04.l04	अर्जुनः	arjunaḥ	Arjuna
+v2.c04.l04	विद्यालयम्	vidyālayam	to school
+v2.c04.l04	गच्छति	gacchati	goes
+v2.c04.l04	सः	saḥ	he
+v2.c04.l04	पुस्तकम्	pustakam	a book
+v2.c04.l04	पठति	paṭhati	reads
+v2.c04.l04	संस्कृतम्	saṃskṛtam	Sanskrit
+v2.c04.l04	वदति	vadati	says, speaks
+v2.c04.l04	अहम्	aham	I
+v2.c04.l04	लिखामि	likhāmi	I write
+v2.c04.l04	हसति	hasati	laughs
+v2.c04.l04	जानामि	jānāmi	I know
+v2.c04.l04	अन्नम्	annam	food
+v2.c04.l04	खादति	khādati	eats
+v2.c04.l04	त्वम्	tvam	you
+v2.c04.l04	किम्	kim	what?
+v2.c04.l04	करोषि	karoṣi	you do
+v2.c04.l04	सायम्	sāyam	evening
+v2.c04.l04	गृहम्	gṛham	home
+v2.c04.l04	क्षीरम्	kṣīram	milk
+v2.c04.l04	पिबति	pibati	drinks
+v2.c04.l04	रात्रिः	rātriḥ	night
+v2.c04.l05	गच्छति · खादति · पिबति · पश्यति · शृणोति · लिखति · जानाति	gacchati · khādati · pibati · paśyati · śṛṇoti · likhati · jānāti	goes · eats · drinks · sees · hears · writes · knows
+v2.c04.l05	असि	asi	you are
+v2.c04.l05	करोति · अन्नम् · क्षीरम्	karoti · annam · kṣīram	does/makes · food · milk
+v2.c04.l05	—	—	—
+v2.c05.l01	कदा	kadā	when?
+v2.c05.l01	इदानीम्	idānīm	now
+v2.c05.l01	किमर्थम्	kimartham	why? — lit. "for what purpose"
+v2.c05.l01	यतः	yataḥ	because, since
+v2.c05.l01	आगच्छति	āgacchati	comes
+v2.c05.l02	अवगच्छति	avagacchati	understands
+v2.c05.l02	मन्दम्	mandam	slowly
+v2.c05.l02	वदतु	vadatu	please say (polite request)
+v2.c05.l02	अस्तु	astu	so be it; all right
+v2.c05.l03	इच्छति	icchati	wants, wishes
+v2.c05.l03	मह्यम्	mahyam	to me, for me
+v2.c05.l03	तुभ्यम्	tubhyam	to you, for you
+v2.c05.l03	रोचते	rocate	pleases
+v2.c05.l04	आपणः	āpaṇaḥ	shop, market
+v2.c05.l04	कियत्	kiyat	how much?
+v2.c05.l04	मूल्यम्	mūlyam	price, value
+v2.c05.l04	ददातु	dadātu	please give — imperative chunk used with भवान्
+v2.c05.l04	बहु	bahu	much, a lot
+v2.c05.l04	अल्पम्	alpam	a little
+v2.c05.l04	पर्याप्तम्	paryāptam	enough
+v2.c05.l05	कदा · इदानीम् · किमर्थम् · यतः · आगच्छति	kadā · idānīm · kimartham · yataḥ · āgacchati	when? · now · why? (for what purpose) · because · comes
+v2.c05.l05	अवगच्छति · मन्दम् · वदतु · अस्तु	avagacchati · mandam · vadatu · astu	understands · slowly · please say · so be it, all right
+v2.c05.l05	इच्छति · मह्यम् · तुभ्यम् · रोचते	icchati · mahyam · tubhyam · rocate	wants · to me · to you · pleases
+v2.c05.l05	आपणः · कियत् · मूल्यम् · ददातु · बहु · अल्पम् · पर्याप्तम्	āpaṇaḥ · kiyat · mūlyam · dadātu · bahu · alpam · paryāptam	shop, market · how much? · price · please give · much, a lot · a little · enough
+v2.c06.l01	काकः	kākaḥ	crow
+v2.c06.l01	पिपासितः	pipāsitaḥ	thirsty
+v2.c06.l01	पाषाणः	pāṣāṇaḥ	stone, pebble
+v2.c06.l01	क्षिपति	kṣipati	throws
+v2.c06.l01	उपरि	upari	up, above
+v2.c06.l01	सुखी	sukhī	happy
+v2.c06.l01	बुद्धिः	buddhiḥ	intelligence
+v2.c06.l01	घटः	ghaṭaḥ	pot, jar
+v2.c06.l01	बलम्	balam	strength
+v2.c06.l02	सिंहः	siṃhaḥ	lion
+v2.c06.l02	मूषकः	mūṣakaḥ	mouse
+v2.c06.l02	स्वपिति	svapiti	sleeps
+v2.c06.l02	गृह्णाति	gṛhṇāti	catches, takes
+v2.c06.l02	मुञ्चति	muñcati	lets go, releases
+v2.c06.l02	मुञ्च	muñca	let go!
+v2.c06.l02	जालम्	jālam	net
+v2.c06.l02	कृन्तति	kṛntati	cuts, cuts through
+v2.c06.l02	बद्धः	baddhaḥ	bound, caught
+v2.c06.l02	क्रुद्धः	kruddhaḥ	angry
+v2.c06.l02	एकदा	ekadā	one day, once
+v2.c06.l02	मुक्तः	muktaḥ	freed, set free
+v2.c06.l02	लघुः	laghuḥ	small, light
+v2.c06.l03	अहिंसा	ahiṃsā	non-harming, non-violence
+v2.c06.l03	परमः	paramaḥ	highest, supreme
+v2.c06.l03	उद्यमः	udyamaḥ	effort
+v2.c06.l03	कार्यम्	kāryam	task, thing to be done
+v2.c06.l03	परोपकारः	paropakāraḥ	helping others
+v2.c06.l03	पुण्यम्	puṇyam	merit
+v2.c06.l03	धर्मः	dharmaḥ	dharma: duty, right conduct
+v2.c06.l03	पापम्	pāpam	sin, evil
+v2.c06.l04	दन्तः	dantaḥ	tooth
+v2.c06.l04	पादः	pādaḥ	foot
+v2.c06.l04	मध्यम्	madhyam	middle
+v2.c06.l04	विधवा	vidhavā	widow
+v2.c06.l04	सर्पः	sarpaḥ	snake
+v2.c06.l04	योगः	yogaḥ	yoking, union; yoga
+v2.c06.l04	विमानम्	vimānam	the gods' aerial car (classical); aeroplane (modern)
+v2.c06.l04	दूरदर्शनम्	dūradarśanam	television
+v2.c06.l05	भोः · अञ्जलिः · कुशलम् · धन्यवादः …	bhoḥ · añjaliḥ · kuśalam · dhanyavādaḥ …	O! · joined palms · well-being · thank you …
+v2.c06.l05	परिवारः · भगिनी · वृक्षः · च …	parivāraḥ · bhaginī · vṛkṣaḥ · ca …	family · sister · tree · and …
+v2.c06.l05	त्रि · अष्ट · होरा · वासरः …	tri · aṣṭa · horā · vāsaraḥ …	three · eight · hour · day of the week …
+v2.c06.l05	गच्छति · पश्यति · असि · करोति …	gacchati · paśyati · asi · karoti …	goes · sees · you are · does …
+v2.c06.l05	कदा · अवगच्छति · रोचते · मूल्यम् …	kadā · avagacchati · rocate · mūlyam …	when? · understands · pleases · price …
+v2.c06.l05	काकः · पिपासितः · पाषाणः · क्षिपति · उपरि · सुखी · बुद्धिः	kākaḥ · pipāsitaḥ · pāṣāṇaḥ · kṣipati · upari · sukhī · buddhiḥ	crow · thirsty · stone · throws · above, up · happy · intelligence
+v2.c06.l05	सिंहः · मूषकः · स्वपिति · गृह्णाति · मुञ्चति · मुञ्च · जालम् · कृन्तति · बद्धः · क्रुद्धः · एकदा	siṃhaḥ · mūṣakaḥ · svapiti · gṛhṇāti · muñcati · muñca · jālam · kṛntati · baddhaḥ · kruddhaḥ · ekadā	lion · mouse · sleeps · seizes · releases · let go! · net · cuts · bound · angry · once, one day
+v2.c06.l05	अहिंसा · परमः · उद्यमः · कार्यम् · परोपकारः · पुण्यम्	ahiṃsā · paramaḥ · udyamaḥ · kāryam · paropakāraḥ · puṇyam	non-harming · highest · effort · task · helping others · merit
+v2.c06.l05	दन्तः · पादः · मध्यम् · विधवा · सर्पः · योगः · विमानम् · दूरदर्शनम्	dantaḥ · pādaḥ · madhyam · vidhavā · sarpaḥ · yogaḥ · vimānam · dūradarśanam	tooth · foot · middle · widow · snake · yoga, union · aeroplane · television
+v3.c01.l01	मृगः	mṛgaḥ	deer; wild animal
+v3.c01.l01	व्याधः	vyādhaḥ	hunter
+v3.c01.l01	कपोतः	kapotaḥ	dove, pigeon
+v3.c01.l01	मार्गः	mārgaḥ	path, road, way
+v3.c01.l01	नयति	nayati	leads, carries — takes two accusatives
+v3.c01.l01	पृच्छति	pṛcchati	asks — takes two accusatives
+v3.c01.l01	त्यजति	tyajati	leaves, abandons
+v3.c01.l01	ग्रामः	grāmaḥ	village
+v3.c01.l02	तीरम्	tīram	bank, shore
+v3.c01.l02	देशः	deśaḥ	country, place, region
+v3.c01.l02	कूपः	kūpaḥ	well
+v3.c01.l02	विवरम्	vivaram	hole, burrow, hollow
+v3.c01.l02	पतति	patati	falls; flies down, alights
+v3.c01.l02	तिष्ठति	tiṣṭhati	stands, stays
+v3.c01.l02	निवसति	nivasati	dwells, lives (+ loc.)
+v3.c01.l03	ददाति	dadāti	gives
+v3.c01.l03	कथयति	kathayati	tells, relates (person told in the dative)
+v3.c01.l03	सह	saha	with, together with (+ instr.)
+v3.c01.l03	विना	vinā	without (+ instr.; also acc., abl.)
+v3.c01.l03	दण्डः	daṇḍaḥ	stick, staff
+v3.c01.l03	रथः	rathaḥ	chariot
+v3.c01.l03	शशकः	śaśakaḥ	hare
+v3.c01.l03	हस्तः	hastaḥ	hand
+v3.c01.l03	पुत्रः	putraḥ	son
+v3.c01.l03	मित्रम्	mitram	friend
+v3.c01.l04	हे	he	O! (calling particle)
+v3.c01.l04	नृपः	nṛpaḥ	king
+v3.c01.l04	सेवकः	sevakaḥ	servant
+v3.c01.l04	वचनम्	vacanam	word, speech, saying
+v3.c01.l04	शब्दः	śabdaḥ	word; sound
+v3.c01.l04	समीपम्	samīpam	nearness; समीपे "near" (+ gen.)
+v3.c01.l04	अर्थः	arthaḥ	meaning; purpose
+v3.c01.l05	मृगः · व्याधः · कपोतः · मार्गः · नयति · पृच्छति · त्यजति	mṛgaḥ · vyādhaḥ · kapotaḥ · mārgaḥ · nayati · pṛcchati · tyajati	deer · hunter · dove · path · leads · asks · leaves
+v3.c01.l05	तीरम् · देशः · कूपः · विवरम् · पतति · तिष्ठति · निवसति	tīram · deśaḥ · kūpaḥ · vivaram · patati · tiṣṭhati · nivasati	bank · country, place · well · hole · falls · stands, stays · dwells
+v3.c01.l05	ददाति · कथयति · सह · विना · दण्डः · रथः · शशकः	dadāti · kathayati · saha · vinā · daṇḍaḥ · rathaḥ · śaśakaḥ	gives · tells · with · without · stick · chariot · hare
+v3.c01.l05	हे · नृपः · सेवकः · वचनम् · शब्दः · समीपम्	he · nṛpaḥ · sevakaḥ · vacanam · śabdaḥ · samīpam	O! · king · servant · word, speech · word, sound · nearness
+v3.c02.l01	पत्रम्	patram	leaf; letter
+v3.c02.l01	कर्णः	karṇaḥ	ear
+v3.c02.l01	दिवसः	divasaḥ	day
+v3.c02.l01	तण्डुलः	taṇḍulaḥ	grain of rice (husked)
+v3.c02.l01	पाशः	pāśaḥ	noose, snare, fetter
+v3.c02.l01	लोकः	lokaḥ	world; people
+v3.c02.l01	कणः	kaṇaḥ	grain, particle
+v3.c02.l01	नेत्रम्	netram	eye
+v3.c02.l01	कोमलः	komalaḥ	soft, tender (-ला -लम्)
+v3.c02.l02	देवी	devī	goddess; queen
+v3.c02.l02	पत्नी	patnī	wife
+v3.c02.l02	सभा	sabhā	assembly, hall
+v3.c02.l02	आम्रम्	āmram	mango (the fruit)
+v3.c02.l02	मधुरः	madhuraḥ	sweet (-रा -रम्)
+v3.c02.l02	विशालः	viśālaḥ	wide, large, great (-ला -लम्)
+v3.c02.l02	कृष्णः	kṛṣṇaḥ	black, dark (-ष्णा -ष्णम्)
+v3.c02.l03	तरुः	taruḥ	tree
+v3.c02.l03	शत्रुः	śatruḥ	enemy
+v3.c02.l03	अतिथिः	atithiḥ	guest
+v3.c02.l03	साधुः	sādhuḥ	good; a good man, a holy man
+v3.c02.l03	धेनुः	dhenuḥ	cow (milch cow)
+v3.c02.l03	पक्षी	pakṣī	bird
+v3.c02.l03	श्रेष्ठः	śreṣṭhaḥ	best; better (than + abl.) (-ष्ठा -ष्ठम्)
+v3.c02.l04	दाता	dātā	giver, donor
+v3.c02.l04	कर्ता	kartā	doer, maker
+v3.c02.l04	उभौ	ubhau	both (f./n. उभे)
+v3.c02.l04	नयनम्	nayanam	eye
+v3.c02.l04	ओष्ठः	oṣṭhaḥ	lip
+v3.c02.l05	पत्रम् · कर्णः · दिवसः · तण्डुलः · पाशः	patram · karṇaḥ · divasaḥ · taṇḍulaḥ · pāśaḥ	leaf · ear · day · grain of rice · snare
+v3.c02.l05	देवी · पत्नी · सभा · आम्रम् · मधुरः · विशालः · कृष्णः	devī · patnī · sabhā · āmram · madhuraḥ · viśālaḥ · kṛṣṇaḥ	goddess, queen · wife · assembly · mango · sweet · wide, large · dark
+v3.c02.l05	तरुः · शत्रुः · अतिथिः · साधुः · धेनुः · पक्षी · श्रेष्ठः	taruḥ · śatruḥ · atithiḥ · sādhuḥ · dhenuḥ · pakṣī · śreṣṭhaḥ	tree · enemy · guest · good man · cow · bird · best, better
+v3.c02.l05	दाता · कर्ता · उभौ · नयनम् · ओष्ठः	dātā · kartā · ubhau · nayanam · oṣṭhaḥ	giver · doer, maker · both · eye · lip
+v3.c03.l01	धावति	dhāvati	runs
+v3.c03.l01	क्रीडति	krīḍati	plays
+v3.c03.l01	रक्षति	rakṣati	protects, guards
+v3.c03.l01	स्मरति	smarati	remembers
+v3.c03.l01	चिन्तयति	cintayati	thinks, reflects
+v3.c03.l01	भ्रमति	bhramati	wanders, roams
+v3.c03.l01	नृत्यति	nṛtyati	dances
+v3.c03.l02	लभते	labhate	gets, obtains
+v3.c03.l02	भाषते	bhāṣate	speaks, says
+v3.c03.l02	वर्धते	vardhate	grows, increases
+v3.c03.l02	शोभते	śobhate	shines, looks fine
+v3.c03.l02	मन्यते	manyate	thinks, considers
+v3.c03.l02	जायते	jāyate	is born, arises
+v3.c03.l02	रोचते	rocate	pleases (the liked thing is the subject)
+v3.c03.l03	प्रविशति	praviśati	enters
+v3.c03.l03	उपविशति	upaviśati	sits down
+v3.c03.l03	निर्गच्छति	nirgacchati	goes out
+v3.c03.l03	अब्रवीत्	abravīt	(he/she) said
+v3.c03.l03	उवाच	uvāca	(he/she) said
+v3.c03.l03	आह	āha	(he/she) says; in stories also "said"
+v3.c03.l03	पुरा	purā	long ago, formerly
+v3.c03.l03	अथ	atha	then; now (opening a scene)
+v3.c03.l03	ऋषिः	ṛṣiḥ	seer, sage
+v3.c03.l04	मा	mā	do not (with the imperative)
+v3.c03.l04	शीघ्रम्	śīghram	quickly
+v3.c03.l04	सदा	sadā	always
+v3.c03.l04	जीवति	jīvati	lives
+v3.c03.l04	दुःखम्	duḥkham	sorrow, pain
+v3.c03.l04	भक्षयति	bhakṣayati	eats
+v3.c03.l04	प्रयच्छति	prayacchati	gives, offers
+v3.c03.l04	वदतु	vadatu	let him say; (with भवान्) please say
+v3.c03.l04	ददातु	dadātu	(with भवान्) please give
+v3.c03.l04	अस्तु	astu	so be it, all right
+v3.c03.l04	मुञ्च	muñca	let go!
+v3.c03.l04	पश्य	paśya	look!
+v3.c03.l04	क्षमस्व	kṣamasva	forgive (me)
+v3.c03.l05	धावति · क्रीडति · रक्षति · स्मरति · चिन्तयति · भ्रमति · नृत्यति	dhāvati · krīḍati · rakṣati · smarati · cintayati · bhramati · nṛtyati	runs · plays · protects · remembers · thinks · wanders · dances
+v3.c03.l05	लभते · भाषते · वर्धते · शोभते · मन्यते · जायते	labhate · bhāṣate · vardhate · śobhate · manyate · jāyate	gets · speaks · grows · shines · thinks · is born
+v3.c03.l05	प्रविशति · उपविशति · निर्गच्छति · अब्रवीत् · उवाच · आह · पुरा · अथ	praviśati · upaviśati · nirgacchati · abravīt · uvāca · āha · purā · atha	enters · sits down · goes out · said · said · says, said · long ago · then
+v3.c03.l05	मा · शीघ्रम् · सदा · जीवति · दुःखम् · भक्षयति · प्रयच्छति	mā · śīghram · sadā · jīvati · duḥkham · bhakṣayati · prayacchati	do not · quickly · always · lives · sorrow · eats · gives
+v3.c04.l01	आलयः	ālayaḥ	dwelling, abode, house
+v3.c04.l01	उदयः	udayaḥ	rising (of the sun, of a star)
+v3.c04.l01	ईशः	īśaḥ	lord, master
+v3.c04.l01	इव	iva	like, as if
+v3.c04.l01	एव	eva	only, just, indeed (stressing the word before it)
+v3.c04.l01	वा	vā	or
+v3.c04.l01	सूर्यः	sūryaḥ	sun
+v3.c04.l02	प्रातः	prātaḥ	in the morning, early
+v3.c04.l02	बहिः	bahiḥ	outside, out
+v3.c04.l02	अन्तः	antaḥ	inside, within
+v3.c04.l02	उच्चैः	uccaiḥ	loudly; high, aloft
+v3.c04.l02	शनैः	śanaiḥ	slowly, gently; gradually
+v3.c04.l02	तु	tu	but, however; (stressing) as for
+v3.c04.l03	दिक्	dik	direction, quarter (of the sky)
+v3.c04.l03	सम्यक्	samyak	properly, rightly, well
+v3.c04.l03	नाथः	nāthaḥ	protector, lord
+v3.c04.l03	धीमान्	dhīmān	wise, intelligent
+v3.c04.l04	पदम्	padam	word (an inflected word); step, foot
+v3.c04.l04	वाक्यम्	vākyam	sentence; speech, words
+v3.c04.l04	सन्धिः	sandhiḥ	joining, union; (in grammar) sandhi
+v3.c04.l04	अवसानम्	avasānam	stopping, end; (in grammar) the pause
+v3.c04.l04	संहिता	saṃhitā	union, joining; joined text; a collection (of hymns)
+v3.c04.l05	आलयः · उदयः · ईशः · इव · एव · वा · सूर्यः	ālayaḥ · udayaḥ · īśaḥ · iva · eva · vā · sūryaḥ	dwelling · rising · lord · like · only, just · or · sun
+v3.c04.l05	प्रातः · बहिः · अन्तः · उच्चैः · शनैः · तु	prātaḥ · bahiḥ · antaḥ · uccaiḥ · śanaiḥ · tu	in the morning · outside · inside · loudly · slowly · but
+v3.c04.l05	दिक् · सम्यक् · नाथः · धीमान्	dik · samyak · nāthaḥ · dhīmān	direction · properly · protector · wise
+v3.c04.l05	पदम् · वाक्यम् · सन्धिः · अवसानम् · संहिता	padam · vākyam · sandhiḥ · avasānam · saṃhitā	word; step · sentence · joining · stopping, end · union; joined text
+v3.c05 (fact base)	स्वयम्		
+v3.c05 (fact base)	सखा		
+v3.c05 (fact base)	स्नेहः		
+v3.c05 (fact base)	विश्वासः		
+v3.c05 (fact base)	अयम्		
+v3.c05 (fact base)	यः		
+v3.c05 (fact base)	अन्यः		
+v3.c05 (fact base)	परः		
+v3.c05 (fact base)	कश्चित्		
+v3.c05 (fact base)	कदाचित्		
+v3.c05 (fact base)	स्वः		
+v3.c05 (fact base)	निजः		
+v3.c05 (fact base)	यदा		
+v3.c05 (fact base)	तदा		
+v3.c05 (fact base)	यथा		
+v3.c05 (fact base)	तथा		
+v3.c05 (fact base)	एवम्		
+v3.c05 (fact base)	क्व		
+v3.c05 (fact base)	हि		
+v3.c05 (fact base)	अधः		
+v3.c05 (fact base)	कण्ठः		
+v3.c05 (fact base)	नीलकण्ठः		
+v3.c05 (fact base)	ग्रीवा		
+v3.c05 (fact base)	चित्रः		
+v3.c05 (fact base)	पादपः		
+v3.c05 (fact base)	तुल्यः		
+v3.c05 (fact base)	उदारः		
+v3.c05 (fact base)	चरितम्		
+v3.c06 (plan)	उपायः		
+v3.c06 (plan)	इतस्ततः		
+v3.c06 (plan)	तृष्णा		
+v3.c06 (plan)	आर्तः		
+v3.c06 (plan)	सुहृत्		
+v3.c06 (plan)	बन्धनम्		
+v3.c06 (plan)	नाना		
+v3.c06 (plan)	शाल्मली		
+v3.c06 (plan)	साहाय्यम्		
+v3.c06 (plan)	प्रत्युपकारः		
+v3.c06 (plan)	वानरः		
+v3.c06 (plan)	मकरः		
+v3.c06 (plan)	जम्बूः		
+v3.c06 (plan)	सलिलम्		
+v3.c06 (plan)	महान्		
+v3.c06 (plan)	विनयः		
+v3.c06 (plan)	याति		
+v3.c06 (plan)	आप्नोति		
+v3.c06 (plan)	वसुधा		
+v3.c06 (plan)	मदः		
+v4.c01.l01 (plan)	सूत्रम्		
+v4.c01.l01 (plan)	प्रत्याहारः		
+v4.c01.l01 (plan)	आदिः		
+v4.c01.l01 (plan)	अन्त्यः		
+v4.c01.l01 (plan)	अक्षरम्		
+v4.c01.l02 (plan)	दीर्घः		
+v4.c01.l02 (plan)	ह्रस्वः		
+v4.c01.l02 (plan)	प्रयत्नः		
+v4.c01.l02 (plan)	सवर्णः		
+v4.c01.l03 (plan)	आदेशः		
+v4.c01.l03 (plan)	पूर्वः		
+v4.c01.l03 (plan)	उत्तरः		
+v4.c01.l03 (plan)	विधिः		
+v4.c02.l01 (plan)	राजा		
+v4.c02.l01 (plan)	प्रत्ययः		
+v4.c02.l01 (plan)	प्रकृतिः		
+v4.c02.l01 (plan)	आत्मा		
+v4.c02.l01 (plan)	स्वामी		
+v4.c02.l01 (plan)	भृत्यः		
+v4.c02.l02 (plan)	लोपः		
+v4.c02.l02 (plan)	आगमः		
+v4.c02.l02 (plan)	वृद्धिः		
+v4.c02.l02 (plan)	हानिः		
+v4.c02.l02 (plan)	कोपः		
+v4.c02.l03 (plan)	अनुवृत्तिः		
+v4.c02.l03 (plan)	अधिकारः		
+v4.c02.l03 (plan)	समानः		
+v4.c02.l03 (plan)	निमित्तम्		
+v4.c02.l03 (plan)	कारणम्		
+v4.c03.l01 (plan)	धातुः		
+v4.c03.l01 (plan)	अभिप्रायः		
+v4.c03.l01 (plan)	पचति		
+v4.c03.l01 (plan)	यजति		
+v4.c03.l01 (plan)	भयम्		
+v4.c03.l02 (plan)	जयति		
+v4.c03.l02 (plan)	तरति		
+v4.c03.l02 (plan)	हरति		
+v4.c03.l02 (plan)	सीदति		
+v4.c03.l02 (plan)	उत्तिष्ठति		
+v4.c03.l02 (plan)	चरति		
+v4.c03.l03 (plan)	ब्रवीति		
+v4.c03.l03 (plan)	हन्ति		
+v4.c03.l03 (plan)	एति		
+v4.c03.l03 (plan)	युनक्ति		
+v4.c03.l04 (plan)	पतिः		
+v4.c03.l04 (plan)	द्वयम्		
+v4.c03.l04 (plan)	श्लोकः		
+v4.c03.l04 (plan)	द्वारम्		
+v4.c03.l04 (plan)	खड्गः		
+v4.c03.l04 (plan)	प्राप्नोति		
+v4.c03.l05 (plan)	मा		
+v4.c03.l05 (plan)	भैषीः		
+v4.c03.l05 (plan)	नूनम्		
+v4.c03.l05 (plan)	हृदयम्		
+v4.c03.l05 (plan)	भार्या		
+v4.c03.l05 (plan)	प्रयोजनम्		
+v4.c03.l05 (plan)	यदि		
+v4.c03.l05 (plan)	वर्तनम्		
+v4.c04.l01 (plan)	व्याघ्रः		
+v4.c04.l01 (plan)	वृद्धः		
+v4.c04.l01 (plan)	पान्थः		
+v4.c04.l01 (plan)	सरः		
+v4.c04.l01 (plan)	सुवर्णम्		
+v4.c04.l01 (plan)	कङ्कणम्		
+v4.c04.l01 (plan)	भाग्यम्		
+v4.c04.l01 (plan)	मूर्खः		
+v4.c04.l02 (plan)	स्नाति		
+v4.c04.l02 (plan)	शक्नोति		
+v4.c04.l02 (plan)	आकर्णयति		
+v4.c04.l02 (plan)	लोभः		
+v4.c04.l02 (plan)	पङ्कः		
+v4.c04.l02 (plan)	आलोचयति		
+v4.c04.l02 (plan)	पश्चात्		
+v4.c04.l03 (plan)	पक्षः		
+v4.c04.l03 (plan)	वेदः		
+v4.c04.l03 (plan)	शास्त्रम्		
+v4.c04.l03 (plan)	व्याकरणम्		
+v4.c04.l03 (plan)	पण्डितः		
+v4.c04.l03 (plan)	दैवम्		
+v4.c04.l04 (plan)	जन्म		
+v4.c04.l04 (plan)	मन्त्री		
+v4.c04.l04 (plan)	वार्ता		
+v4.c04.l04 (plan)	स्वभावः		
+v4.c04.l04 (plan)	युद्धम्		
+v4.c05.l01 (plan)	शरीरम्		
+v4.c05.l01 (plan)	जलधिः		
+v4.c05.l01 (plan)	आलोकयति		
+v4.c05.l01 (plan)	त्वरते		
+v4.c05.l01 (plan)	विद्यते		
+v4.c05.l01 (plan)	शक्यम्		
+v4.c05.l01 (plan)	अनुतिष्ठति		
+v4.c05.l02 (plan)	दर्शयति		
+v4.c05.l02 (plan)	बोधयति		
+v4.c05.l02 (plan)	स्थापयति		
+v4.c05.l02 (plan)	व्यापादयति		
+v4.c05.l02 (plan)	तुष्यति		
+v4.c05.l02 (plan)	मृत्युः		
+v4.c05.l03 (plan)	भगवान्		
+v4.c05.l03 (plan)	यशः		
+v4.c05.l03 (plan)	तेजः		
+v4.c05.l03 (plan)	विद्वान्		
+v4.c05.l03 (plan)	वणिक्		
+v4.c05.l03 (plan)	विंशतिः		
+v4.c05.l03 (plan)	सहस्रम्		
+v4.c05.l04 (plan)	अस्तम्		
+v4.c05.l04 (plan)	वयः		
+v4.c05.l04 (plan)	रोदिति		
+v4.c05.l04 (plan)	आश्चर्यम्		
+v4.c05.l04 (plan)	स्त्री		
+v4.c05.l04 (plan)	स्थाली		
+v4.c06.l01 (plan)	गौः		
+v4.c06.l01 (plan)	उपाध्यायः		
+v4.c06.l01 (plan)	परशुः		
+v4.c06.l01 (plan)	कटः		
+v4.c06.l02 (plan)	वृत्तिः		
+v4.c06.l02 (plan)	उदाहरणम्		
+v4.c06.l02 (plan)	प्रकरणम्		
+v4.c06.l03 (plan)	परिभाषा		
+v4.c06.l03 (plan)	विरोधः		
+v4.c06.l03 (plan)	असिद्धः		
