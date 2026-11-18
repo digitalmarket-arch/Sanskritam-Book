@@ -209,9 +209,9 @@ How much the perfect is used is a question for a count, and the count prints wit
 > benedictives, which carry the same tag, told apart by the corpus's mood and formation tags, one
 > aorist and the adverb by hand; the tag 'past' marks a form, not its time.) [REF:dcs]
 
-Every form the count names is a 3rd person: the narrator's. That is the part of the perfect this
-volume makes yours. The first form it names, āha, needs three statements, and the course prints
-all three.
+The forms counted more than ten times are all 3rd persons: the narrator's. That is the part of the
+perfect this volume makes yours. The first of them, āha, needs three statements, and the course
+prints all three.
 
 | Who | Register | What is said of आह |
 |---|---|---|
@@ -1300,7 +1300,7 @@ to write and one to mark: the slips
 to watch for are guṇa written before शप् is placed, and 6.1.78 forgotten at the end. Log both scores.
 
 **Board work.** Left: the जगाम table, built line by line, each line stamped with its sūtra; the
-markers ण् and ल् written small and struck through; गम् doubled, the second म् crossed out, the ग
+markers ण् and ल् written small and struck through; गम् doubled, the first म् crossed out, the ग
 arrowed to ज. Middle: T10, three rows. Right: the production table, the strong 3sg column in one
 colour, the weak 3pl column in another; under it the three statements on आह in three columns —
 Pāṇini · Whitney · the corpus.

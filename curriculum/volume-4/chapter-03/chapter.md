@@ -30,7 +30,7 @@ classes on one card, guṇa before the sign (7.3.84; which signs and endings blo
 to this chapter ("why the stem is तिष्ठ- is v4.c03's", v3.c01.l02) — गच्छ, तिष्ठ, पश्य, पिब — made by two sūtras (7.3.77, 7.3.78); नयति is derived step by step. The third
 lesson explains शृणोति beside शृण्वन्ति: a sārvadhātuka ending or sign without the marker p counts as ṅ-marked (1.2.4), and
 before such an ending guṇa does not apply (1.1.5); the athematic words learned whole in Volume 3 that
-its tables print become cells the learner can build, the markers met so far are collected on one card, and the 1.x card that
+the lesson's tables print become cells the learner can build, the markers met so far are collected on one card, and the 1.x card that
 gave ङ् and क् different effects is corrected. The fourth lesson is the perfect: the root doubled
 (6.1.8) and its own endings (3.4.82); जगाम and ददौ are derived, उवाच and आह become cells, the 1.x label
 "remote, witnessed" is corrected by the sūtra's परोक्षे, and Whitney's statement of how the later
@@ -48,7 +48,7 @@ commentary line is "text of the GRETIL e-text".
 - Take an owned finite verb back to its root, and, for the roots whose Dhātupāṭha entries the
   lessons print, say from the root's marker which set of endings it takes
 - Classify the owned verbs of the class card into their present classes by their class signs, and
-  form the present systems of the thematic ones in the cells Volume 3 made yours
+  form the present systems of the thematic ones in the cells owned since Volume 3
 - Explain strong and weak stems by the p-marker, build the parasmaipada present of the owned
   athematic verbs (the singular and plural in every person and the 3rd dual; ददाति in its cells of
   Volume 3), and build the imperfect and imperative cells that lesson 3 prints for शृणोति and करोति
@@ -69,7 +69,8 @@ By the end of this chapter the learner can:
 - [ ] Name, from memory, the class, class sign and present stem of each owned verb on the class
       card, and give the rule of the substitute stems (गच्छ, इच्छ, यच्छ, पिब, तिष्ठ, पश्य, सीद) from the
       substitute-stem card
-- [ ] Fill the strong and weak cells of the owned athematic verbs and say why, according to Pāṇini
+- [ ] Fill the strong and weak cells that lesson 3's tables print for the owned athematic verbs,
+      and say why, according to Pāṇini
 - [ ] Derive, according to Pāṇini, in table form, पठति, रोचते, नयति, स्मरति, शृणोति, शृण्वन्ति, करोति,
       कुरुतः, जगाम, ददौ, करिष्यति and गमिष्यति
 - [ ] Narrate in the 3rd person with the perfect, and say what will happen with the future

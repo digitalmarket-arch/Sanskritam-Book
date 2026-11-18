@@ -824,8 +824,8 @@ The pattern for every athematic verb you own: **laṅ** strong in the 3rd, 2nd a
 this table prints and the ones that are yours since Volume 3 (the ledger below lists them); every
 other laṅ or loṭ cell of an athematic verb you read when you meet it (◐). The 2nd singulars शृणु and
 कुरु stay as Volume 3 listed them, and गृहाण is a listed form of गृह्णाति: their rules are in Teacher
-Notes. देहि stays an R4 word of ददाति, read whole: its rules are not taught. अकुर्म, like कुर्मः,
-drops the उ before म्.
+Notes. देहि, the 2nd singular loṭ of ददाति, stays an R4 word, read whole: its rules are not taught.
+अकुर्म, like कुर्मः, drops the उ before म्.
 
 ### R4 closes
 
@@ -1530,7 +1530,7 @@ reads the cue, not the English spelling.
   printed; 6.4.37 with the file's space); the seven bracket lines against the fact base's table and
   the `an`/`ad` fields (regenerated: they match); the Kāśikā lines of §22 at their line numbers, with
   their corrections (re-read: the words match), and the vārttika under 8.4.1 at lines 82815–82819;
-  the Laghusiddhāntakaumudī lines 1675, 1683–1684, 1689–1690, 1865, 1924, 1968, 2206, 2221, 2257,
+  the Laghusiddhāntakaumudī lines 1675, 1683–1684, 1687, 1689–1690, 1865, 1924, 1968, 2206, 2221, 2257,
   2310 (re-read); Whitney §§603, 604, 612, 632, 636, 637, 684, 698, 711, 714, 717, 729, 752, 756 (re-read:
   the quoted words are his; §684 gives the indicative of yuj, §686 its subjunctive; the laṅ and loṭ of
   करोति from §714's paradigm); the headwords against Apte (s.v. brū, han, i, yuj) and Monier-Williams

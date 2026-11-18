@@ -144,11 +144,11 @@ declension of राम. Station 0 leaves the chapter as booked: v4.c03.l01 runs
 item and lesson 3's +1-week item; v4.c03.l02 runs the exam's +1-week item.
 
 **Chapter 3, as delivered** (reviewed 2026-11-18). Six lessons: the root and the l-affix (1.3.1,
-3.1.91, 3.2.123, 3.4.77–78), the pada from the root's marker (1.3.12, 1.3.72, Q; 1.3.78, 1.4.99,
-B) and person and number (1.4.101–102, 1.4.108, 1.4.22), with पठति and रोचते derived and IR-020
+3.1.91, 3.2.123, 3.4.77–78, B), the pada from the root's marker (1.3.12, 1.3.72, Q; 1.3.78, 1.4.99,
+B) and person and number (1.4.101–102, 1.4.108, 1.4.22, B), with पठति and रोचते derived and IR-020
 and the 1.x card's "Action benefits oneself" corrected; the class sign (3.4.113, 3.1.68, 1.3.8,
-7.3.84, B), the ten classes on one card (K), the substitute stems (7.3.77–78) and the इट् of
-स्वपिति by 7.2.76, with नयति derived; strong and weak by the p-marker (1.2.4, 1.1.5, Q), with
+7.3.84, B), the ten classes on one card (K), the substitute stems (7.3.77–78, D) and the इट् of
+स्वपिति by 7.2.76 (D), with नयति derived; strong and weak by the p-marker (1.2.4, 1.1.5, Q), with
 शृणोति / शृण्वन्ति derived, the markers met so far on one card, R4 closed and IR-022 corrected; the
 perfect (3.2.115, Q; 6.1.8, 3.4.82, 7.2.116, 7.4.59–60, 7.4.62, 7.1.34, D), with जगाम and ददौ
 derived, उवाच and आह read as cells, IR-019 corrected and a Hitopadeśa passage read; the future
@@ -167,7 +167,7 @@ in lesson 1 (1.3.12, 1.3.72; 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78, 1.3.78, 1.4
 stands at 565 (28 ledger-new: 537 → 542 → 548 → 552 → 558 → 565 → 565). The भवति thread gains
 lesson 1's chain from the root to तिप्, by 1.3.1, 3.1.91, 3.2.123, 3.4.77–78, 1.3.78, 1.4.99,
 1.4.101–102, 1.4.108 and 1.4.22; lesson 2's शप् and the guṇa before it (3.4.113, 3.1.68, 1.3.8,
-7.3.84, with 1.1.52); and lesson 3's reason the guṇa is not blocked: शप् and तिप् carry प्, by 1.2.4
+7.3.84, with 1.1.52); and lesson 3's reason the guṇa is not blocked: शप् carries प्, by 1.2.4
 and 1.1.5. The serial runs from the wife's demand to the crocodile's resolve (episodes 1–5). Station 0
 leaves the chapter as booked: v4.c04.l01 runs the exam's +1-day item and lesson 5's +1-week item;
 v4.c04.l02 runs the exam's +1-week item.

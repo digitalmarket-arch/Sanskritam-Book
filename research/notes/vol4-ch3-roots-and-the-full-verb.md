@@ -60,7 +60,9 @@ table of ten rows; N8 (Hitopadeśa) unseen.
   `scratchpad/v4c03/wh.py`): §553, §579, §§602–604, §607, §§611–612, §§631–632, §§636–637, §§683,
   686, §§694, 697–698, 711, §714, §717, §729, §734, §752, §756, §759, §§780–797, 800–801, 821, 826,
   829–830, 924, 931–932, 935, 940, 942, 944, 948–949, and the Appendix synopsis of √भू and √कृ
-  (`23_Appendix.md`, lines 105–175). Opened and quoted only for what they say (rows below).
+  (`23_Appendix.md`, lines 105–175). Opened and quoted only for what they say (rows below). The
+  Chapter 3 review opened §684 (युनक्ति) and §§735, 738, 739, 742, 933 (the √भू rows) for the
+  citations it corrected (row 0.25, table 0.B, the l03 strong/weak table).
 - **Apte 1890 and Monier-Williams 1899** (`dict/ap90`, `dict/mw`, SLP1 `<k1>` lookup) for all 28
   headwords (table rows of §1–§5).
 - **The Hitopadeśa** (`hitop_u.htm`): N1 at lines 131 and 2946, 2956; N8 at lines 2932–2940; the
@@ -127,7 +129,7 @@ this note.
 | 0.17 | **Strong and weak (l03).** **1.2.4 सार्वधातुकमपित्** (Q): a sārvadhātuka affix that is not p-marked counts as ṅ-marked (K25, line 1917: *sārvadhātukaṃ yad apit tan ṅidvad bhavati / kurutaḥ / kurvanti / cinutaḥ / cinvanti / sārvadhātukam iti kim? kartā … apit iti kim? karoti*; e-text *sārvadhatukam*). **1.1.5 क्ङिति च** (Q): and before a k- or ṅ-marked [affix, guṇa and vṛddhi in place of an इक्] do not [apply] (K26, lines 402–409: *nimitta-saptamy eṣā / kṅin-nimitte ye guṇa-vṛddhī prāpnutaḥ, te na bhavataḥ / citaḥ … ṅiti khalv api — cinutaḥ, cinvanti / mṛṣṭaḥ, mṛjanti*). The data file carries इकः, गुणवृद्धी from 1.1.3 and **न from 1.1.4 — the negative particle "not"** (pc of 1.1.4: न$S$0$0$, an indeclinable), as the c02 fact base found for 8.4.37's न. Effect: the P singular endings तिप्, सिप्, मिप् (p-marked) leave the strong stem; every other sārvadhātuka ending (and the signs श, श्ना, श्नु …, which have no p) gives the weak stem. FACT beside it: Whitney §604: "These classes have in common, as their most fundamental characteristic, a shift of accent: the tone being now upon the ending, and now upon the root or the class-sign …", and §612 (class 2): "The root takes the accent, and has `guṇa`, if capable of it, in the three persons sing. act." — Whitney's account ties strong and weak to accent; Pāṇini's to the p-marker. Both print. | TRADITION; FACT | [REF:ashtadhyayi 1.2.4]; [REF:ashtadhyayi 1.1.5]; [REF:kashika 1.2.4]; [REF:kashika 1.1.5]; [REF:whitney1889 §604]; [REF:whitney1889 §612] | IR-022 (row 0.18). |
 | 0.18 | **IR-022 (l03), quoted (X5–X7).** p. 93: "• क् (k) — "no guṇa, no vṛddhi"" and "• ङ् (ṅ) — "no guṇa" (just guṇa block)"; p. 95 (Match the pairs): "• ङ् (ṅ) → Blocks guṇa" · "• क् (k) → Blocks guṇa + vṛddhi"; p. 94: "• न् (n) — udātta accent on ending vowel". Corrected: 1.1.5 blocks guṇa **and** vṛddhi before **both** markers (the Kāśikā: *te na bhavataḥ*). The accent claim is corrected in Teacher Notes only: 6.1.197 ञ्नित्यादिर्नित्यम् gives the **initial** syllable the udātta before a ñ- or n-marked affix (accent is Volume 5's). (Teacher Notes only: the card's "• प् (p) — "pit" → marks anudātta" is the tradition's own account of the p — 3.1.4 अनुदात्तौ सुप्पितौ, and the Kāśikā's "pakāraḥ svara-arthaḥ" under 3.4.78 and 3.1.68 — and is not an error; the course reads the absence of p through 1.2.4.) | errors: documented; corrections: TRADITION | `Sanskritam-Curriculum.pdf` pp. 93–95 (text layer; the ङ् क् ञ् lines confirm on the image at Pass C) | IR-022's row in the IMPROVEMENT_REPORT summary already points to v4.c03.l03 (§7.3 Q8). |
 | 0.19 | **The perfect (l04).** **3.2.115 परोक्षे लिट्** (Q): [after a root, in the sense of the past not of today,] liṭ when [the action is] out of sight (K27, lines 18943–18950: *bhūtānadyatane iti vartate / tasya viśeṣaṇaṃ parokṣa-grahaṇam / bhūtānadyatana-parokṣe 'rthe vartamānād dhātoḥ liṭ pratyayo bhavati … cakāra / jahāra*; e-text *ghūtānadyatana*, *vartamanād*, *dhātḥ*, *pratyakṣābhimanaḥ*). **6.1.8 लिटि धातोरनभ्यासस्य** (D): before liṭ, [the first single-vowel portion] of a root that is not already reduplicated [is doubled] (K28, line 51310: *liṭi parato 'nabhyāsasya dhātor avayavasya prathamasya+ekāco dvitīyasya vā yathāyogaṃ dve bhavataḥ / papāca / papāṭha*). The first copy is the अभ्यासः (6.1.4 पूर्वोऽभ्यासः, Teacher Notes; **अभ्यासः "practice" is owned since Volume 1** — the term is a new sense, no count). **3.4.82** (D): the nine P endings of liṭ (K29, lines 25204–25210: *ṇakāro vṛddhy-arthaḥ / papāca, pecatuḥ, pecuḥ*). **7.2.116 अत उपधायाः** (D): vṛddhi of a penultimate अ before a ñ- or ṇ-marked affix (K30, line 71917; *pāṭhayati, pāṭhakaḥ*). **7.4.60 हलादिः शेषः** (D): of the abhyāsa, the first consonant remains, the others go (K31, line 75570: *abhyāsasya halādiḥ śiṣyate, anādir lupyate / jaglau / mamlau / papāca / papāṭha*). **7.4.59 ह्रस्वः** (D): the abhyāsa's vowel is shortened (K32, line 75544). **7.4.62 कुहोश्चुः** (D): a k-row sound or ह in the abhyāsa → the c-row (K33, lines 75608–75615: *cakāra / … jagāma / jaghāna / … jahāra*). **7.1.34 आत औ णलः** (D): after an आ-final aṅga, णल् → औ (K34, lines 67650–67656: *papau / tasthau / jaglau / mamlau / atra autvam, ekādeśaḥ, sthānivadbhāvaḥ, dvirvacanam ity anena krameṇa kāryāṇi kriyante*). | TRADITION | [REF:ashtadhyayi 3.2.115]; [REF:ashtadhyayi 6.1.8]; [REF:ashtadhyayi 3.4.82]; [REF:ashtadhyayi 7.2.116]; [REF:ashtadhyayi 7.4.60]; [REF:ashtadhyayi 7.4.59]; [REF:ashtadhyayi 7.4.62]; [REF:ashtadhyayi 7.1.34]; [REF:kashika 3.2.115]; [REF:kashika 6.1.8]; [REF:kashika 3.4.82]; [REF:kashika 7.2.116]; [REF:kashika 7.4.60]; [REF:kashika 7.4.59]; [REF:kashika 7.4.62]; [REF:kashika 7.1.34] | The order of ददौ is the Kāśikā's (review c03:P#1). |
-| 0.20 | **What the perfect is used for (l04): TRADITION and FACT side by side.** TRADITION: the past "not witnessed" (3.2.115 परोक्षे; the Kāśikā's domain *bhūtānadyatanaparokṣe*). FACT: Whitney §821a: "According to the Hindu grammarians, the perfect is used in the narration of facts not witnessed by the narrator; but there is no evidence of its being either exclusively or distinctively so employed at any period." §821b: "In the later language, it is simply a preterit or past tense, equivalent with the imperfect, and freely interchangeable or coördinated with it. It is on the whole less common than the imperfect, although the preferences of different authors are diverse, and it sometimes exceeds the imperfect in frequency …". The DCS figure prints with its method (row 0.27). **On आह** (three statements, all print; none assessed, 3.4.84 being K): Pāṇini (3.4.84, K) makes आह, आहतुः, आहुः, आत्थ, आहथुः optional substitutes of the first five P laṭ endings of ब्रू, with ब्रू → आह (K35, lines 25241–25247: *bruvaḥ parasya laṭaḥ parasmaipadānāṃ pañcānām ādibhūtānāṃ pañcaiva ṇalādaya ādeśā bhavanti, tatsanniyogena ca bruva āhaśabda ādeśo bhavati / āha, āhatuḥ, āhuḥ / āttha, āhathuḥ / na ca bhavati / bravīti …*; e-text *pañcānāma adibhūtānāṃ*); Whitney §801a files it under "The root `ah` *speak*" which "occurs only in the perfect indicative, and only in the 3d persons of all numbers and in the 2d sing. and du."; Whitney §821c: "The perfects `veda` and `āha` are everywhere used with present value." The DCS tags the Hitopadeśa's 112 tokens Tense=Past (a tag of the form, plan §1.3.1). In N8 आह alternates with the present ब्रूते (stated, the passage not quoted, before the exam). | TRADITION; FACT | [REF:ashtadhyayi 3.4.84]; [REF:kashika 3.4.84]; [REF:whitney1889 §801]; [REF:whitney1889 §821] | review c03:E#1, P#5: no "the Hitopadeśa uses आह as a past". |
+| 0.20 | **What the perfect is used for (l04): TRADITION and FACT side by side.** TRADITION: the past "not witnessed" (3.2.115 परोक्षे; the Kāśikā's domain *bhūtānadyatanaparokṣe*). FACT: Whitney §821a: "According to the Hindu grammarians, the perfect is used in the narration of facts not witnessed by the narrator; but there is no evidence of its being either exclusively or distinctively so employed at any period." §821b: "In the later language, it is simply a preterit or past tense, equivalent with the imperfect, and freely interchangeable or coördinated with it. It is on the whole less common than the imperfect, although the preferences of different authors are diverse, and it sometimes exceeds the imperfect in frequency …". The DCS figure prints with its method (row 0.27). **On आह** (three statements, all print; none assessed, 3.4.84 being K): Pāṇini (3.4.84, K) makes आह, आहतुः, आहुः, आत्थ, आहथुः optional substitutes of the first five P laṭ endings of ब्रू, with ब्रू → आह (K35, lines 25241–25247: *bruvaḥ parasya laṭaḥ parasmaipadānāṃ pañcānām ādibhūtānāṃ pañcaiva ṇalādaya ādeśā bhavanti, tatsanniyogena ca bruva āhaśabda ādeśo bhavati / āha, āhatuḥ, āhuḥ / āttha, āhathuḥ / na ca bhavati / bravīti …*; e-text *pañcānāma adibhūtānāṃ*); Whitney §801a files it under "The root `ah` *speak*" which "occurs only in the perfect indicative, and only in the 3d persons of all numbers and in the 2d sing. and du., in active …"; Whitney §821c: "The perfects `veda` and `āha` are everywhere used with present value." The DCS tags the Hitopadeśa's 112 tokens Tense=Past (a tag of the form, plan §1.3.1). In N8 आह alternates with the present ब्रूते (stated, the passage not quoted, before the exam). | TRADITION; FACT | [REF:ashtadhyayi 3.4.84]; [REF:kashika 3.4.84]; [REF:whitney1889 §801]; [REF:whitney1889 §821] | review c03:E#1, P#5: no "the Hitopadeśa uses आह as a past". |
 | 0.21 | **IR-019 (l04), quoted (X1, X2).** p. 74 (Lesson 11.5, info card): "2. लिट् (liṭ) — Perfect (remote past) / जगाम = he went (long ago)"; p. 75 (Exercise 5 · Sequence recital): "1. लिट् = perfect (remote, witnessed)", followed by "Question: Which is for events the speaker did NOT witness?" with लिट् marked "✓ CORRECT" — the card and its own quiz disagree. Corrected: 3.2.115 says परोक्षे "out of sight"; the Kāśikā's domain is *bhūtānadyatanaparokṣe*; FACT on use beside it (row 0.20). | errors: documented; corrections: TRADITION, FACT | `Sanskritam-Curriculum.pdf` pp. 74–75 (p. 75 image) | — |
 | 0.22 | **The future (l05).** **3.3.13 लृट् शेषे च** (D): [in the future,] lṛṭ, both in the remaining case and [when an action for the sake of another is the upapada] (K36, lines 20580–20586: *bhaviṣyati ity eva / … śeṣe śuddhe bhaviṣyati kāle, cakārāt kriyāyāṃ ca upapade kriyārthāyāṃ dhātoḥ lṛṭ pratyayo bhavati / kariṣyāmi iti vrajati … kariṣyati*). **3.1.33 स्यतासी लृलुटोः** (D): before lṛṭ and luṭ, स्य and तासि respectively (K37, lines 14510–14514: *kariṣyati / akariṣyat / śvaḥ kartā*). **3.4.114 आर्धधातुकं शेषः** (D): every other affix after a root is ārdhadhātuka (K38, line 25757: *tiṅaḥ śitaś ca varjayitvā anyaḥ pratyayaḥ śeṣo dhātu-saṃśabdanena vihitaḥ ārdhadhātuka-sañjño bhavati*). **7.2.35 आर्धधातुकस्येड् वलादेः** (D): an ārdhadhātuka affix beginning with a वल् sound takes इट् (K39, line 70153). **7.2.70 ऋद्धनोः स्ये** (D): after an ṛ-final root and हन्, स्य takes इट् (K40, lines 70932–70935: *kariṣyati / hariṣyati / hanisyati*). **7.2.58 गमेरिट् परस्मैपदेषु** (D): after गम्, an s-initial ārdhadhātuka affix takes इट् in the P (K41, lines 70655–70661: *gamiṣyati / agamiṣyat / … parasmaipadeṣu iti kim? saṃgaṃsīṣṭa*). Then 7.3.84 (owned B) and 8.3.59 (owned D from c02.l03): the ṣ of भविष्यति is the ṣ of रामेषु. FACT beside it: Whitney §932: "The tense-sign of this future is the syllable स्य `syá`, added to the root either directly or by an auxiliary vowel इ `i` (in the latter case becoming इष्य `iṣyá`). The root has the `guṇa`-strengthening. Thus, from √दा `dā` *give* is formed the future tense-stem दास्य `dāsyá` … from √भू `bhū` *be*, the stem भविष्य `bhaviṣyá`"; §948: the future "expresses in general what is going to take place at some time to come — but often … adding … an implication of will or intention, or … of promise or threatening"; §935 lists which roots take इ. **Whether a root takes इट् is lexical** (7.2.10, Teacher Notes): each verb's future stem is printed in its vocabulary row. | TRADITION; FACT | [REF:ashtadhyayi 3.3.13]; [REF:ashtadhyayi 3.1.33]; [REF:ashtadhyayi 3.4.114]; [REF:ashtadhyayi 7.2.35]; [REF:ashtadhyayi 7.2.70]; [REF:ashtadhyayi 7.2.58]; [REF:kashika 3.3.13]; [REF:kashika 3.1.33]; [REF:kashika 3.4.114]; [REF:kashika 7.2.35]; [REF:kashika 7.2.70]; [REF:kashika 7.2.58]; [REF:whitney1889 §932]; [REF:whitney1889 §935]; [REF:whitney1889 §948] | The future of supposition in N2 (तन्नूनं सा वानरी भविष्यति "she must be"): Whitney §948, last sentence: "As in other languages, the tense is also sometimes used for the expression of a conjecture or presumption" (his example: `ko 'yaṁ devo gandharvo vā bhaviṣyati` (MBh.)). The plan's citation stands. |
 | 0.23 | **The card of the other four lakāras (l05; ◐).** Table 0.D. Each row's rules are K; its FACT lines: periphrastic future — Whitney §942b: "It consists in a derivative *nomen agentis*, having the value of a future active participle, and used … in the office of a verbal tense with future meaning"; §949: "The periphrastic future is defined by the grammarians as expressing something to be done at a definite time to come. And this, though but faintly traceable in later use, is a distinct characteristic of the formation in the language where it first makes its appearance. It is especially often used along with `śvás` *tomorrow*." (the Kāśikā's *śvaḥ kartā*, K37); conditional — §940: "From the future-stem is made an augment-preterit, by prefixing the augment and adding the secondary endings … This preterit is called the conditional", §940a "*would have*"; aorist — §826: "The aorist-system is a formation of infrequent occurrence in much of the classical Sanskrit (its forms are found, for example, only twenty-one times in the Nala, eight in the Hitopadeśa, seven in Manu …)"; prohibitive — §579: "The imperative negative, or prohibitive, is from the earliest period of the language regularly and usually expressed by the particle mā́ with an augmentless past form, prevailingly aorist"; root aorist of भू — §829: "भू `bhū` … retains its vowel unchanged throughout, inserting व् `v` after it before the endings अम् `am` and अन् `an` of 1st sing. and 3d pl."; benedictive — §924 (भूयात्, भूयास्ताम्, भूयासुस्). The benedictive's lack of guṇa (भूयात्): 3.4.104 किदाशिषि (Teacher Notes; K42, line 25576: *āśiṣi yo liṅ, tasya yāsuḍāgamo bhavati, sa ca+udāttaḥ kidvad bhavati*). | TRADITION; FACT | the K sūtras of table 0.D; [REF:whitney1889 §942]; [REF:whitney1889 §949]; [REF:whitney1889 §940]; [REF:whitney1889 §826]; [REF:whitney1889 §579]; [REF:whitney1889 §829]; [REF:whitney1889 §924] | Whitney §944's e-text prints "मविता" for भविता (an OCR slip; the transliteration `bhavitā́` is right): cite the transliteration. |
@@ -138,7 +140,7 @@ this note.
 | 0.28 | **Teacher-Notes sūtras of this chapter** (number and text in Teacher Notes; learner text prints "Teacher Notes" and no number; a bracket line may print a source number as the data file gives it, plan §1.4.3; no tool, no count): **l01** 1.3.4 न विभक्तौ तुस्माः; 7.1.3 झोऽन्तः (D in l03); 7.2.80 अतो येयः (भवेत् mapped); 1.3.17 नेर्विशः; 1.4.105 युष्मद्युपपदे समानाधिकरणे स्थानिन्यपि मध्यमः, 1.4.107 अस्मद्युत्तमः; 1.1.64 अचोऽन्त्यादि टि; 3.4.80 थासस्से; 7.2.81 आतो ङितः; 6.1.97 अतो गुणे. **l02** 6.1.65 णो नः; 6.1.73 छे च (6.1.71 ह्रस्वस्य पिति कृति तुक्); 1.3.19 विपराभ्यां जेः; 2.4.72's कर्तृ; the दाण् source of यच्छ (7.3.78, already D). **l03** 6.4.87 हुश्नुवोः सार्वधातुके; 6.4.77 अचि श्नुधातुभ्रुवां य्वोरियङुवङौ; 7.3.93 ब्रुव ईट्; 6.4.81 इणो यण्; 6.4.37 (हतः), 6.4.98 गमहनजनखनघसां लोपः क्ङित्यनङि and 7.3.54 हो हन्तेर्ञ्णिन्नेषु (घ्नन्ति); 6.4.112 श्नाऽभ्यस्तयोरातः (गृह्णन्ति); 1.1.47 मिदचोऽन्त्यात्परः (श्नम्), 8.2.30 चोः कुः and 8.4.55 खरि च (युनक्ति); 6.1.108 सम्प्रसारणाच्च (पृच्छति); 3.4.87 सेर्ह्यपिच्च, 6.4.105 अतो हेः, 6.4.106 उतश्च प्रत्ययादसंयोगपूर्वात्, 3.4.89 मेर्निः, 3.4.90 आमेतः, 3.4.91 सवाभ्यां वामौ, 3.4.92 आडुत्तमस्य पिच्च, 3.4.93 एत ऐ; 3.1.83 हलः श्नः शानज्झौ (गृहाण); 6.1.197 ञ्नित्यादिर्नित्यम्; 3.1.4 (the p for accent); 1.2.1 (the source of ङित् in 1.2.4); 1.1.4 (the source of न in 1.1.5). **l04** 1.3.7 चुटू (the ण् of णल्); 1.1.59 द्विर्वचनेऽचि; 6.1.108 (उवाच, ऊचुः); 6.4.120 अत एकहल्मध्येऽनादेशादेर्लिटि (पेततुः); **6.4.98** (जग्मतुः, जग्मुः — found here; the plan names no rule for the weak गम्, §8 deviation 7); 6.4.64 आतो लोप इटि च (ददतुः, ददुः); 7.4.73 भवतेरः and 6.4.88 भुवो वुग्लुङ्लिटोः (बभूव); 8.4.54 (the ब of बभूव; K on the card); 7.1.91 णलुत्तमो वा; 1.1.56 (preview c06.l03); 6.1.4 पूर्वोऽभ्यासः; 6.1.1 (the heading of doubling); 3.4.115 लिट् च. **l05** 7.2.10 एकाच उपदेशेऽनुदात्तात्; 3.4.104 किदाशिषि; 6.1.58 सृजिदृशोर्झल्यमकिति, 8.2.36, 8.2.41 षढोः कः सि (द्रक्ष्यति); 8.2.30 (वक्ष्यति); 8.4.55 (लप्स्यते). Every number above was found in the data file (`sl.py`). | policy | plan §1.4.3, §4.0.3 Totals, §4.0.6 | 6.4.64 and 7.4.61 were not looked up in a tier line; 6.4.64 checked: §7 item 1. |
 | 0.29 | **Seams used in this chapter's course-written lines** (all ✓ in the Volume 3 Chapter 4 maps; listed per line in §1–§6): vowel — guṇa (पठेति, स्थेति, स्वेति), savarṇa-dīrgha (स्वार्थम्, तिष्ठतीत्यत्र's ई + इ), yaṇ (इत्यत्र, इत्यात्मनेपदम्, वानर्यस्ति, नद्यस्ति), -ए + vowel → अ + gap (कुरुत इति, रोचत इति, भवत इति); visarga — -अः + voiced → ओ (ऋषयो देवान्, नलो नाम, मकरो वदति), -अः + vowel other than अ → अ + gap (मृगा उत्तिष्ठन्ति, शिष्या ब्रुवन्ति), -इः/-उः + vowel or voiced → र् (गुरुर्ब्रवीति, बहिर्जगाम), visarga before क/प/स kept, before च/त → श्/स् (मकरश्च, ततस्तस्य); सः before a consonant → स; consonant — म् → ं before a consonant, त् → द् before a voiced sound (नगराद्बहिः, सिंहाद्भयम्), न् + य written together (देवान्यजन्ति), न् doubled after a short vowel before a vowel (none in this chapter's lines). **No seam is ◐.** | policy | Volume 3 Chapter 4 fact base, tables 0.A–0.C | — |
 | 0.30 | **Commentary lines in learner text.** None before Chapter 6 except: the LSK lakāra line (row 0.24; l05, TRADITION, display ○); the Dhātupāṭha entries (row 0.6; labels). Every English line that says what a sūtra does follows the Kāśikā under it (table 0.E) and cites [REF:kashika N.N.N]. Source line for every commentary quotation: "text of the GRETIL e-text". | policy | plan §1.1 principle 9, §1.4.3 | — |
-| 0.31 | **Registers.** FACT with Whitney: rows 0.15–0.17, 0.20, 0.22–0.25; FACT with the DCS (method line, row 0.27). TRADITION attributed: every derivation, every sūtra's action, the ten-class count, the "not witnessed" of liṭ, आह as a laṭ substitute. HISTORY with keys and hedges: the Kāśikā "c. 7th century CE" [REF:kashika]; the Laghusiddhāntakaumudī "17th century" [REF:laghukaumudi]; the Hitopadeśa "c. 9th–12th c. CE on the scholarly estimate" [REF:hitopadesha] (as v3.c02.l05 prints it). No SYMBOL content. | policy | STYLE_GUIDE §4 | — |
+| 0.31 | **Registers.** FACT with Whitney: rows 0.15–0.17, 0.20, 0.22–0.25; FACT with the DCS (method line, row 0.27). TRADITION attributed: every derivation, every sūtra's action, the ten-class count, the "not witnessed" of liṭ, आह as a laṭ substitute. HISTORY with keys and hedges: the Kāśikā "c. 7th century CE" [REF:kashika]; the Laghusiddhāntakaumudī "c. 17th century CE on the scholarly estimate" [REF:laghukaumudi]; the Hitopadeśa "c. 9th–12th c. CE on the scholarly estimate" [REF:hitopadesha] (as v3.c02.l05 prints it). No SYMBOL content. | policy | STYLE_GUIDE §4 | — |
 | 0.32 | **Hindi parallels (exact contrasts; [REF:kachru2006] bare for Hindi facts; [REF:guru1952] for school grammar, TRADITION).** **(a) l05 — भविष्य.** Hindi takes many Sanskrit words whole, in their Sanskrit shapes (verified for Volume 3, Chapter 4 fact base row 0.21 (a), [REF:kachru2006]); Hindi भविष्य "the future" has the letters of the Sanskrit future stem भविष्य-, and its ष was made in Sanskrit by 8.3.59 after the augment इट् (the c02 fact base row 0.23 (b), already verified, names भविष्य as its tatsama example). MW s.v. bhaviṣya: "to be about to become or come to pass, future, imminent, impending"; n. "the future". **(b) l01–l04, l06 — none printed.** Candidates not confirmable under the evidence rule in this session: "Hindi verbs have one ending set where Sanskrit has two (P/Ā)"; the Hindi school terms भूतकाल / वर्तमानकाल / भविष्यत्काल beside लट् … (§8, open item 4). | FACT; TRADITION | [REF:kachru2006]; [REF:monierwilliams1899 s.v. bhaviṣya] | — |
 | 0.33 | **Ledger (STYLE_GUIDE §8 rules 1–23; plan §3).** 537 → 542 (l01: धातुः, अभिप्रायः, पचति, यजति, भयम्) → 548 (l02: जयति, तरति, हरति, सीदति, उत्तिष्ठति, चरति; upgrade गणः) → 552 (l03: ब्रवीति, हन्ति, एति, युनक्ति) → 558 (l04: पतिः, द्वयम्, श्लोकः, द्वारम्, खड्गः, प्राप्नोति) → 565 (l05: मा भैषीः, नूनम्, हृदयम्, भार्या, प्रयोजनम्, यदि, वर्तनम्) → 565 (l06: 0). **28 ledger-new**, each grep-checked against the entry ledger and `work/owned.py` ("-" for all; relatives owned: जय V1, हर V1, गण V1, अब्रवीत् v3.c03.l03, आप्नोति v3.c06, योगः v2.c06.l04). `vocabulary_count`: l01 5, l02 7 (6 + the upgrade गणः), l03 4, l04 6, l05 7, l06 0. **Not counted** (rules 16, 17, 20, 21): every root (√भू, पठ, रुच …), every lakāra, affix or class name (लट्, तिप्, शप्, भ्वादिः), the terms परस्मैपदम्, आत्मनेपदम्, विकरणः, अभ्यासः (owned as "practice" since Volume 1), every perfect, future or aorist cell of an owned verb (rule 17), the Ā cells पचते, यजते (rule 8: one lemma), वानरी (the feminine of वानरः, L), every sūtra-internal or commentary form. **Tools added** (§14; plan §3): l01 15, l02 10, l03 7, l04 8, l05 6, l06 0 — toolbox 43 → 58 → 68 → 75 → 83 → **89**. | policy | STYLE_GUIDE §8; plan §3; scripts (header) | — |
 | 0.34 | **Pedagogy anchors** (verification log, "Decisions recorded"): retrieval before re-reading [REF:roediger2006] (one statement only); spaced review [REF:cepeda2006] (Station 0); chunks first, analysed later [REF:nation2013] — this chapter is the "later" for उवाच, आह, अब्रवीत्, ददौ, करिष्यामि, शृण्वन्ति, देहि, and for every "learned whole" R4 cell. | policy | verification log | — |
@@ -264,7 +266,7 @@ sūtra's English line.**
 | K22 | 7.3.78 | 73614–73620 | *pa ghrā dhmā sthā mnā dāṇ dṛśi arti sarti śada sada ity eteṣāṃ piba jighra dhama tiṣtha mana yaccha paśya ṛccha dhau śīya sīda ity ete ādeśā bhavanti śiti parataḥ / pā - pibati / ghrā - jighrati / dhmā - dhamati / sthā - tiṣthati / manā - manati / dāṇ - yacchati /* | *pa* → *pā*; *tiṣtha*, *tiṣthati* → *tiṣṭha*, *tiṣṭhati*; *manā* → *mnā* |
 | K23 | 7.3.79 | 73643–73646 | *jña jana ity etayoḥ jādeśo bhavati śiti parataḥ / jānāti / jāyate / janer daivādikasya grahaṇam //* | *jña* → *jñā* |
 | K24 | 7.2.76 | 71039–71045 | *rudādibhyaḥ uttarasya valādeḥ sārvadhātukasya iḍāgamo bhavati / rud - roditi / svap - rvapiti / śvas - śvasiti / an - prāṇiti / jakṣ - jakṣiti / pañcabhyaḥ ity eva, jāgarti /* | *rvapiti* → *svapiti* |
-| K25 | 1.2.4 | 1917–1925 | *sārvadhātukaṃ yad apit tan ṅidvad bhavati / kurutaḥ / kurvanti / cinutaḥ / cinvanti / sārvadhatukam iti kim ? kartā / kartum / kartavyam / apit iti kim ? karoti /* | *sārvadhatukam* → *sārvadhātukam* |
+| K25 | 1.2.4 | 1917–1927 | *sārvadhātukaṃ yad apit tan ṅidvad bhavati / kurutaḥ / kurvanti / cinutaḥ / cinvanti / sārvadhatukam iti kim ? kartā / kartum / kartavyam / apit iti kim ? karoti / karoṣi / karomi /* | *sārvadhatukam* → *sārvadhātukam* |
 | K26 | 1.1.5 | 402–410 | *nimitta-saptamy eṣā / kṅin-nimitte ye guṇa-vṛddhī prāpnutaḥ, te na bhavataḥ / citaḥ, citavān / stutaḥ, stutavān / bhinnaḥ, bhinnavān / mṛṣṭaḥ, mṛṣṭavān / ṅiti khalv api - cinutaḥ, cinvanti / mṛṣṭaḥ, mṛjanti / gakāro 'pi atra cartva-bhūto nirdiśyate /* | — |
 | K27 | 3.2.115 | 18943–18950 | *bhūtānadyatane iti vartate / tasya viśeṣaṇaṃ parokṣa-grahaṇam / ghūtānadyatana-parokṣe 'rthe vartamanād dhātḥ liṭ pratyayo bhavati / nanu dhātv-arthaḥ sarvaḥ parokṣa eva ? satyam etat / asti tu loke dhātv-arthena api kārakeṣu pratyakṣābhimanaḥ / sa yatra na asti tat parokṣam ity ucyate / cakāra / jahāra /* | *ghūtānadyatana* → *bhūtānadyatana*; *vartamanād* → *vartamānād*; *dhātḥ* → *dhātoḥ*; *pratyakṣābhimanaḥ* → *pratyakṣābhimānaḥ* |
 | K28 | 6.1.8 | 51310–51312 | *liṭi parato 'nabhyāsasya dhātor avayavasya prathamasya+ekāco dvitīyasya vā yathāyogaṃ dve bhavataḥ / papāca / papāṭha /* | — |
@@ -433,7 +435,8 @@ E-i steps 0–3 with पठ् (प + पठ् + अ), no step 4 (प is not a 
 6.1.8, 3.4.82, 7.4.60). (4) **पा → पपौ** "drank": as E-j with पा (*papau*, the Kāśikā under 7.1.34).
 (5) **चर् → चचार**: as (2) with चर् (च + चर् + अ, 7.4.60; 7.2.116) → **चचार** (MW s.v. car: "perf.
 *cacā́ra*"). (6) **या → ययौ** "went": as E-j with या (याति, owned). For (1), (4) and
-(6) the order is the Kāśikā's under 7.1.34 — 7.1.34, then 6.1.88, then the doubling, then 7.4.59; a
+(6) the order is the Kāśikā's under 7.1.34 — 7.1.34, then 6.1.88, then the doubling — and 7.4.59
+comes after the doubling; a
 table that doubles earlier and still reaches ददौ, पपौ or ययौ scores its correct step lines less one
 point for the order.
 
@@ -458,7 +461,8 @@ derivation table the learner writes.
 | 6 | **करिष्यति** | — | joined |
 
 **E-n — the l05 derive-it-yourself set (keys; Ex 3).** (1) **गम् → गमिष्यति** (the 1.x future of गच्छ,
-restored): E-m steps 0–2 with गम् · गम् + इ + स्य + ति (7.2.58 गमेरिट् परस्मैपदेषु, D) · no guṇa (गम्
+restored): E-m steps 0–2 with गम् · गम् + इ + स्य + ति (7.2.58 गमेरिट् परस्मैपदेषु, D · 1.1.46, D ·
+1.3.3 · 1.3.9, B: इट् at the beginning of स्य, its ट् a marker, dropped) · no guṇa (गम्
 has no इक्) · 8.3.59 → **गमिष्यति**. (2) **पठ् → पठिष्यति**: steps 0–2 · पठ् + इ + स्य + ति (7.2.35,
 D: the general rule; पठ् is seṭ — the vocabulary card) · 8.3.59 → **पठिष्यति**. (3) **भू → भविष्यति**:
 steps 0–2 · भू + इ + स्य + ति (7.2.35) · भो + इ + स्य + ति (7.3.84, guṇa) · भव् + इ + स्य + ति (6.1.78,
@@ -497,8 +501,8 @@ named exceptions** (§8, deviation 5): (a) where धातोः 3.1.22 is repla
 name under 3.2.115 (l04) and 3.2.111 (l06 task A), "(not a tool; printed by name, as the heading the
 reading needs)" — the plan's own wording for task A, extended to l04; (c) **भविष्यति 3.3.3** prints
 by name under 3.3.13 (l05) in the same way. Carried words the rule does not use print with "(the
-file carries it; this rule does not use it)" — in this chapter 6.4.110's च, 7.2.116's अचः and 6.1.8's
-अजादेः, द्वितीयस्य:
+file carries it; this rule does not use it)" — in this chapter 6.4.110's च and 7.2.116's अचः, whose
+row adds the reason. 6.1.8's अजादेः, द्वितीयस्य print with a label of their own:
 "(the file carries them; they matter only for a root that begins with a vowel)". **The न carried into
 1.1.5 from 1.1.4 is the negative particle** and is glossed "not".
 
@@ -592,8 +596,9 @@ for 7.2.115 and does not name what 7.2.116 lengthens; printed with the "does not
   beginning, क् at the end, 1.1.46) — अट् in अगच्छत्; deletion — लोपः — the word लोपः (1.1.60) — the इ of
   ति in अगच्छत्, every marker (1.3.9). Accept any correct owned example.
 - **S0-ea** (l02): P (1.3.78): भवति, पठति, गच्छति · Ā (1.3.12): रोचते, लभते, मन्यते, जायते · both
-  (1.3.72): करोति (ञ्), पचति, यजति (the LSK's ubhayapadins; accent not shown). One point per verb (set + rule). The pada card
-  (l01 §15) prints all ten with their sets; the item tests the rule names.
+  (1.3.72): करोति (ञ्), पचति, यजति (the LSK's ubhayapadins; accent not shown). One point per verb (set + rule). Run with
+  the pada card (l01 §15) closed, the item tests the set and the rule from memory; the card prints
+  all ten with their sets.
 - **S0-eb** (l03): E-a steps 0–7.
 - **S0-ec** (l03): गच्छति — 1 भ्वादिः · शप् · गच्छ (7.3.77) · नृत्यति — 4 दिवादिः · श्यन् · नृत्य ·
   पृच्छति — 6 तुदादिः · श · पृच्छ · आप्नोति — 5 स्वादिः · श्नु · आप्नु-/आप्नो- · करोति — 8 तनादिः · उ ·
@@ -601,7 +606,7 @@ for 7.2.115 and does not name what 7.2.116 lengthens; printed with the "does not
   कथय · याति — 2 अदादिः · none (शप् deleted) · या · ददाति — 3 जुहोत्यादिः · none (श्लु; the root
   doubled) · ददा-/दद्- · मन्यते — 4 दिवादिः · श्यन् · मन्य. Accept the stem in either grade for 5, 8, 9
   (the grades are l03's).
-- **S0-ed** (l04): E-d.; in step 5, 1.1.52 and 1.1.50, D-tier rules, may be named by their gist in
+- **S0-ed** (l04): E-d; in step 5, 1.1.52 and 1.1.50, D-tier rules, may be named by their gist in
   place of their numbers (a D-tier sūtra is never asked by number in a closed-book task: plan §7.6).
 - **S0-ee** (l04): शृणोति (तिप् pit: strong) · शृण्वन्ति (झि apit → ṅit: weak) · करोति (strong) ·
   कुर्वन्ति (weak) · अस्ति (strong) · सन्ति (weak) · एति (strong) · यन्ति (weak). One point per cell
@@ -819,16 +824,21 @@ persons" — गच्छति, गच्छसि, गच्छामि; (v3.
 **§4 Historical Context.** **[TRADITION · परम्परा]** "The roots are listed in the Dhātupāṭha, the
 tradition's list of roots, each with a meaning and with markers that the rules read; the Kāśikā calls
 the word dhātu a name 'of earlier teachers' (Teacher Notes). This course quotes the entries as the
-Laghusiddhāntakaumudī (17th century) prints them; that text does not show the accents the markers
+Laghusiddhāntakaumudī (c. 17th century) prints them; that text does not show the accents the markers
 carry. [REF:dhatupatha]; [REF:laghukaumudi]; [REF:kashika 1.3.1]"
 
-**§5 Scientific Explanation (FACT).** Whitney names the same parts "root", "present-stem" and
-"ending" (§602: "In a small minority of verbs, the present-stem is identical with the root …"; §553a:
-the primary endings, P and Ā side by side). Whitney's table and the eighteen of 3.4.78 list the same
-endings (§553a prints mi … máhe; the course prints the visarga where Whitney prints -s). Typology line:
-some languages mark on the verb both the person and a choice between two sets of endings; Sanskrit's
-two sets are called parasmaipada and ātmanepada by the tradition (no claim beyond the course's own
-forms). [REF:whitney1889 §553]; [REF:whitney1889 §602]
+**§5 Scientific Explanation (FACT).** Whitney describes the finite verb by its personal ending,
+appended to a tense-stem "rather than to the pure root" (§541), and in his chapter on the present
+names the present-stem (§602: "In a small minority of verbs, the present-stem is identical with the
+root …"); §553a: the primary endings, P and Ā side by side. Whitney's table and the eighteen of
+3.4.78 list the same endings (§553a's top row, the 1st person, runs mi … máhe; the course prints the
+visarga where Whitney prints -s). §529, the third FACT callout: the two names, rendered "a word for
+another" and "a word for one's self", and "in the recorded condition of the language, however, the
+antithesis of transitive and reflexive meaning is in no small measure blurred, or even altogether
+effaced". Typology line: some languages mark on the verb both the person and a choice between two
+sets of endings; Sanskrit's two sets are called parasmaipada and ātmanepada by the tradition (no
+claim beyond the course's own forms). [REF:whitney1889 §529]; [REF:whitney1889 §541];
+[REF:whitney1889 §553]; [REF:whitney1889 §602]
 
 **§6 Sanskrit Explanation.** Model sentences 1, 4, 5, and: रुचेति धातुः, रोचत इति रूपम्। (*ruceti dhātuḥ,
 rocata iti rūpam.*) — pause: रुच इति धातुः, रोचते इति रूपम्। — "ruca is the root, rocate the form." —
@@ -1166,7 +1176,7 @@ code" — एचः genitive (in place of an एच्), अय् अव् आ
 
 **§4 Historical Context.** **[TRADITION · परम्परा]** "The tradition names the ten classes by the first
 root of each list in the Dhātupāṭha — भ्वादिः 'the class beginning with भू', अदादिः, जुहोत्यादिः … — and
-the Laghusiddhāntakaumudī (17th century) presents the verbs class by class in that order: भ्वादयः,
+the Laghusiddhāntakaumudī (c. 17th century) presents the verbs class by class in that order: भ्वादयः,
 अदादयः, जुहोत्यादयः, दिवादयः, स्वादयः, तुदादयः, रुधादयः, तनादयः, क्र्यादयः, चुरादयः. [REF:laghukaumudi];
 [REF:dhatupatha]" (LSK headings: lines 1291, 1842 (athādādayaḥ), 2005, 2086, 2140, 2164, 2216, 2243, 2281, 2317;
 the adādi section closes "ityadādayaḥ // 2 //" at line 2003.)
@@ -1215,7 +1225,8 @@ corrected at review: nothing is trimmed to keep a riddle — the editor's ruling
 sort; E-d; E-f. **Toolbox (cumulative 68 = 58 + 10)**, each tool with its forms (नयति: 3.4.113, 3.1.68,
 1.3.8, 7.3.84, 1.1.52; स्मरति: 1.1.51; रोचते: 7.3.86; स्वपिति: 7.2.76; गच्छति, इच्छति: 7.3.77; तिष्ठति,
 पश्यति, पिबति, सीदति: 7.3.78). Paradigm ledger: ✓ the present systems (laṭ P, laṅ P, loṭ P as for
-thematic verbs) of the l02 headwords; the athematic stems' cells wait for c03.l03.
+thematic verbs) of the l02 headwords; the athematic stems' cells beyond those owned since Volume 3
+[the listed cells of अस्ति and करोति, the whole-word rows] wait for c03.l03.
 
 **Previewed / Deferred (plan).** Previewed: the p of शप् and why class 6 has no guṇa (c03.l03).
 Deferred: class-3 reduplication rules (Teacher Notes; the tools come in c03.l04); class 7 in full
@@ -1543,11 +1554,12 @@ athematic verbs of the table, 7 each). Tools added: 7 (1.2.4, 1.1.5 Q; 3.1.74, 7
 - +1 week: पठति to step 7 — derive, according to Pāṇini, in table form, पठ → पठ् + ति [steps 0–7 of the
   पठति table], each step with its sūtra; v4.c03.l03's Station 0 runs exactly this.
 Keys: S0-ec, S0-eb. Review prompts: (v3.c03.l01) "Say 'they are' and 'they do'" — सन्ति; कुर्वन्ति;
-(v3.c03.l03) "Say 'he heard' and 'he took' (R4 imperfects)" — अशृणोत्; अगृह्णात्; (v3.c03.l04) "Say
-'listen!' to one person" — शृणु; (v2.c04.l01) "Say 'he hears' and 'he knows'" — शृणोति; जानाति.
+(v3.c03.l03) "Read अशृणोत् and अगृह्णात् — two R4 imperfects — and say what each means" — "(he) heard";
+"(he) took, seized"; (v3.c03.l04) "Read शृणु — an R4 imperative — and say what it means" —
+"hear!" or "listen!", said to one person; (v2.c04.l01) "Say 'he hears' and 'he knows'" — शृणोति; जानाति.
 
 **§4 Historical Context.** **[TRADITION · परम्परा]** "The Kāśikā gives, under 1.2.4, the very forms of
-this lesson: कुरुतः, कुर्वन्ति beside करोति — 'why "not p-marked"? karoti' — that is, करोति keeps its
+this lesson: कुरुतः, कुर्वन्ति beside करोति — 'why "not p-marked"? karoti …' — that is, करोति keeps its
 guṇa because तिप् has a p. These three of the commentary's examples are the course's derivations; it
 also gives *cinutaḥ*, *cinvanti*. [REF:kashika 1.2.4]"
 
@@ -1788,7 +1800,7 @@ Cells checked: Whitney §800 (the paradigm examples; Pass C prints the line for 
 ददौ, उवाच, पपात, शुश्राव), §793b (बभूव), §801a (आह, āhatus, āhús), §794c (the weak grades), and the
 Kāśikā's examples (K28–K35, K52; 6.4.98 *jagmatuḥ, jagmuḥ*; 6.4.64 *papatuḥ, papuḥ*). The 3rd-person
 perfect of every owned verb is printed in its vocabulary row from today (plan): पठति पपाठ · पचति पपाच ·
-चरति चचार · वदति उवाद (◐ pattern: 6.1.15–17) · पिबति पपौ · याति ययौ · नयति निनाय · पश्यति ददर्श ·
+चरति चचार · वदति उवाद (◐ pattern: 6.1.15, 6.1.17) · पिबति पपौ · याति ययौ · नयति निनाय · पश्यति ददर्श ·
 तिष्ठति तस्थौ · लभते लेभे (Ā ◐) · जयति जिगाय · हरति जहार · हन्ति जघान · प्राप्नोति प्राप (Pass C: each
 against Apte's root entry, which prints the perfect: e.g. Apte s.v. pac "papāca-pece", s.v. hṛ
 "jahāra", s.v. han "jaghāna", s.v. ji "jigāya").
@@ -1948,7 +1960,7 @@ read aloud joined.
 | 1 | Reaching for the perfect in the 1st person ("I went": जगाम) | the 1st-person perfect is ◐ here; "I went" is अगच्छम् (owned) |
 | 2 | *बभाव for बभूव | भू's liṭ is k-marked even before णल् (1.2.6, K): no vṛddhi |
 | 3 | *गगाम | the doubled ग becomes ज (7.4.62) |
-| 4 | Doubling before 7.1.34 in ददौ and then getting *दादौ | the Kāśikā's order: औ first, then one vowel for आ + औ, then doubling, then the short vowel (7.4.59) |
+| 4 | Doubling before 7.1.34 in ददौ and then getting *दादौ | after the doubling, the short vowel (7.4.59); before it, the Kāśikā's order: औ first, then one vowel for आ + औ, then doubling |
 | 5 | "लिट् = remote past, witnessed" (the 1.x card) | परोक्षे: "out of sight" (3.2.115); in use, a past tense (Whitney §821) |
 | 6 | Saying "the Hitopadeśa uses आह as a past" | three statements: Pāṇini (a laṭ substitute, 3.4.84), Whitney (a perfect of √अह्, with present value), the DCS (a tag of the form) |
 
@@ -2202,7 +2214,8 @@ Printed joined (changes for Teacher Notes: hyphens dropped; the speech-frame das
 anusvāra before the comma; the course prints **प्रयोजनम्,** at the comma (the c02-era rule; listed among
 the Teacher-Notes changes). Pause form, translation and inventory: plan §5.2 (re-checked: **37 tokens, 7
 glossed, about 1 in 5.3**; सर्वदा T, built in v3.c05.l03; वानरी L). Source line: "Pañcatantra 4, frame
-story (prose after 4.5 and after 4.6); text of the GRETIL e-text [REF:panchatantra]".
+story, the wife's demand for the monkey's heart; text of the GRETIL e-text [REF:panchatantra]"
+(corrected at review: a lesson cites the Pañcatantra by tantra and story, not by verse number).
 
 **Model sentences** (the plan's six; checked; seams per row 0.29).
 1. श्वोऽहं ग्रामं गमिष्यामि। (*śvo 'haṃ grāmaṃ gamiṣyāmi.*) — pause: श्वः अहम् ग्रामम् गमिष्यामि। —
@@ -2253,7 +2266,7 @@ ten l-affixes in the same order under 3.4.77. [REF:kashika 3.4.77]; [REF:laghuka
 character …"; §932 (the stem, quoted in row 0.22); §948 (use; the conjecture sentence for N2); §826 and
 §579 for the card; §949 for luṭ. [REF:whitney1889 §931]; [REF:whitney1889 §932]; [REF:whitney1889 §948];
 [REF:whitney1889 §826]; [REF:whitney1889 §579]; [REF:whitney1889 §949]. The DCS lines (row 0.27) only if
-the `dcs` key exists. **Hindi parallel (row 0.32 (a)), one FACT callout:** "**[FACT · तथ्य]** Hindi
+the `dcs` key exists. **Hindi parallel (row 0.32 (a)), one FACT callout:** "**[FACT · तथ्यम्]** Hindi
 भविष्य 'the future' is the Sanskrit word भविष्य, whose letters are those of the future stem भविष्य-
 [Monier-Williams: 'future, imminent, impending'; as a neuter, 'the future']; Hindi took it whole.
 [REF:kachru2006]; [REF:monierwilliams1899 s.v. bhaviṣya]" Beneath it, in plain text (TRADITION,
@@ -2282,7 +2295,7 @@ as in रामेषु; मा भैषीः /mɑː bʱɐi̯ʂiːh/ (ऐ /ɐ
 
 | # | Mistake | Fix |
 |---|---|---|
-| 1 | Guessing iṭ by rule (*दासिष्यति, *नयिष्यति) | the future stem is a vocabulary fact (the card); the rule only explains it |
+| 1 | Guessing iṭ by rule (*दासिष्यति, *स्थासिष्यति) | the future stem is a vocabulary fact (the card); the rule only explains it (corrected at review: नयिष्यति is no error form — Whitney §935a records both futures of नी, with इ and without, and every key accepts both) |
 | 2 | *करस्यति / *करिस्यति | इट् by 7.2.70; then स् after इ → ष् (8.3.59) |
 | 3 | Taking the -इ- of पठिष्यति for the 1sg Ā ending इट् | it is the augment इट् (7.2.35) — the same augment as in स्वपिति (7.2.76, l02); लप्स्ये ends in the ending इट् (→ ए), with no augment |
 | 4 | Producing a ◐ form (अभूत्, भविता) in your own sentences | the four on the card are recognised and named only; मा भैषीः is the one chunk |
@@ -2381,7 +2394,7 @@ Words owned: भार्या, हृदयम्, यदि (today), न, अ
 4. The ष of करिष्यति comes from स by the rule that also makes: (a) रामेषु (b) रामेण (c) नयति (d) जगाम —
    a. TRADITION
 5. The 3pl future of भू is: (a) भविष्यन्ति (b) भवन्ति (c) बभूवुः (d) अभवन् — a. FACT [REF:whitney1889 §932]
-6. The 3sg future of दा is: (a) दास्यति (b) ददाति (c) ददौ (d) देहि — a. FACT
+6. The 3sg future of दा is: (a) दास्यति (b) ददाति (c) ददौ (d) ददातु — a. FACT
 7. मा भैषीः means: (a) do not be afraid (b) you will be afraid (c) I am not afraid (d) fear is — a.
    (the chunk)
 8. अभूत् is: (a) an aorist (लुङ्), recognised only (b) a future (c) a perfect (d) an imperative — a.
@@ -2400,7 +2413,7 @@ Words owned: भार्या, हृदयम्, यदि (today), न, अ
   with its sūtra; v4.c04.l01's Station 0 runs exactly this.
 
 **Class timing (45).** 0–7 Station 0 (S0-eg 3, S0-ef 4) · 7–9 review prompts (three) · 9–10 hook
-(करिष्यामि, गमिष्यति) · 10–17 E-m with the teacher, its six D rules read from the table (7) · 17–19 T12 on
+(करिष्यामि, गमिष्यति) · 10–17 E-m with the teacher, its D rules read from the table (7) · 17–19 T12 on
 the board (2) · 19–25 Ex 1 (6) · 25–28 the iṭ line and the homograph line (3) · 28–32 the card of the
 other four, मा भैषीः, the ten-count line (4) · 32–36 Ex 2 (4) · 36–42 N2 read joined and glossed, Ex 5
 (6) · 42–45 model sentences aloud (3). Homework: Ex 3, Ex 4, Ex 6, §15, §16, §17, the quiz.
@@ -2443,7 +2456,7 @@ unseen-reading, derivation-spiral, thread-verse, spaced-review] · media (planne
 3. en "Fill eight strong and weak cells and say why, according to Pāṇini." · hi "आठ सबल-निर्बल रूप भरें
    और पाणिनि के अनुसार कारण बताएँ।" (task C, 8 items)
 4. en "Read an unseen Hitopadeśa dialogue with its glosses and answer six questions." · hi "हितोपदेश का
-   एक अनदेखा संवाद पढ़ें और छह प्रश्नों के उत्तर दें।" (task D, 6 items)
+   एक अनदेखा संवाद, हाशिये में दिए अर्थों के साथ, पढ़ें और छह प्रश्नों के उत्तर दें।" (task D, 6 items)
 5. en "Tell an episode of the serial with four perfects, then say what each character will do with four
    futures." · hi "धारावाहिक का एक प्रसंग चार लिट् रूपों से कहें, फिर चार लृट् रूपों से बताएँ कि हर पात्र
    क्या करेगा।" (task E, 8 sentences)
@@ -2476,7 +2489,7 @@ pass rule; §9–§11: the readings of §6 joined then pause form; the spoken ha
 | 2 | "laṅ = recent past / past habitual" | 3.2.111: the past not of today |
 | 3 | Calling गच्छति, पृच्छति or जानाति "irregular" | 7.3.77; class 6 (श, ṅit: 6.1.16); class 9 with 7.3.79 |
 | 4 | A weak cell with guṇa (*करोतः) | तस् has no p: ṅit (1.2.4) → no guṇa (1.1.5) |
-| 5 | Taking आह for a perfect "according to Pāṇini" | according to Pāṇini it stands for ब्रू's laṭ (3.4.84) |
+| 5 | Mixing the two accounts of आह: a present "in Whitney's account", or a perfect "according to Pāṇini" | Whitney: a perfect, of a root *ah* (§801, FACT); Pāṇini: a substitute in ब्रू's laṭ (3.4.84, a card rule [K], TRADITION) — l04 §5. Neither account is asked in the sitting: task D (6) asks the seam of राजाह |
 | 6 | The perfect in the 1st person in task E | narrate in the 3rd person; "I went" is अगच्छम् |
 
 **§13 Examples (the same types of item as the exam; none of the exam's own; checked against tasks A–E
@@ -2603,7 +2616,11 @@ pause form beneath." (E2, 2 min) Read two of your sentences aloud to the teacher
 required): मकरो वानरस्य समीपं जगाम। वानरो वृक्षे बभूव। मकरस्तमुवाच — "मम भार्या तव मित्रम्।" वानरस्तस्मै
 फलानि ददौ। · मकरो वानरं गृहं नेष्यति। भार्या तस्य हृदयं भक्षयिष्यति। वानरः किं करिष्यति? मकरः पुनस्तीरं
 गमिष्यति। (pause forms as §17 of l04–l05). Scoring: per sentence 2 points — the verb form right and in the
-asked lakāra (1); the sentence correct and joined with a matching pause form (1); E2 is checked, not
+asked lakāra (1); the sentence correct and joined with a matching pause form (1); in the perfect half
+only ✓ cells score — 3rd-person cells of the production table, or the 3rd singular of a verb on the
+vocabulary card's ✓ row (आह, the production table's last row, scores as one) — and in the future half
+any future of T12 or of the card, with the other form where Whitney records both (नयिष्यति beside
+नेष्यति, लभिष्यते beside लप्स्यते) [REF:whitney1889 §935], as l06 §19 scores them; E2 is checked, not
 scored separately (the spoken half of the plan's "written, then spoken"). Remediation: l04 Ex 5, l05 Ex 4.
 
 **Pass:** every task at its pass mark (A 19/26, B 27/36, C 11/16, D 8/12, E 11/16), and the §19 quiz,
@@ -2706,8 +2723,9 @@ Every claim a citation reviewer must re-check, with where it was checked here.
 6. **The LSK lines**: line 1293 (the ten l-affixes, no space inserted), the Dhātupāṭha entries of row 0.6
    with their line numbers, the groupings (1703, 1810, 1840), line 1299 (*aṭāv itau*), VLk 505 (1689–1690).
 7. **The passages**: N1 (`hitop_u.htm` 131; 2946, 2956), N2 (`vispancu.htm` 5228, 5235), N8 (2932–2940),
-   the thread verse (233–234): text, the course's joins, the printing changes, the token counts (43/8,
-   37/7, 24/4) and every T/L/G code against the ledger (row: रात्रौ recoded L).
+   the thread verse (233–234), D′ (2044 and the first sentence of 2046): text, the course's joins,
+   the printing changes, the token counts (43/8, 37/7, 24/4,
+   22/4) and every T/L/G code against the ledger (row: रात्रौ recoded L).
 8. **The 1.x quotations** (table 0.G): pp. 74, 75, 76, 93, 94, 95, 127, 128 — the English from the text
    layer, the Devanagari from page images (p. 76's "कृ, यज्, हन्, ज्ञा" and p. 74's "The 10 Lakāras (लकाराः)"
    are still to be read on the image); the 54 cells of the 1.x √भू table at a higher resolution than 80

@@ -317,7 +317,7 @@ joined to the इति after it, and its first sound stays as it is.
 
 **बाक़ी चार लकार।** लृट् के अलावा चार लकार और हैं, जो आज एक कार्ड पर छपे हैं — केवल पहचानने के
 लिए: **लुट्** — दूसरा भविष्यत्, पाणिनि के अनुसार आज के बाद का: भविता "होगा"; **लृङ्** — "होता",
-वह काम जो हुआ ही नहीं: अभविष्यत्; **लुङ्** — एक भूतकाल: अभूत्; और **आशीर्लिङ्** — आशीर्वाद:
+वह काम जो हो नहीं पाता या हो नहीं पाया: अभविष्यत्; **लुङ्** — एक भूतकाल: अभूत्; और **आशीर्लिङ्** — आशीर्वाद:
 भूयात् "हो"। कार्ड पर ये रूप देखकर आप उनका लकार बताएँगे; इन्हें बनाएँगे नहीं, और अपने वाक्यों
 में नहीं लिखेंगे।
 
@@ -1107,7 +1107,7 @@ is; the rest from memory; the key is at the end; no peeking mid-quiz.
 4. According to Pāṇini, the ष of करिष्यति comes from स by the rule that also makes: (a) रामेण; (b)
    नयति; (c) जगाम; (d) रामेषु
 5. The future of भू, 3rd plural, is: (a) भवन्ति; (b) भविष्यन्ति; (c) बभूवुः; (d) अभवन्
-6. The future of दा, 3rd singular, is: (a) ददाति; (b) ददौ; (c) देहि; (d) दास्यति
+6. The future of दा, 3rd singular, is: (a) ददाति; (b) ददौ; (c) ददातु; (d) दास्यति
 7. मा भैषीः means: (a) do not be afraid; (b) you will be afraid; (c) I am not afraid; (d) there is
    fear
 8. With the card open — according to Pāṇini, अभूत् is a form of: (a) लृट्, the future; (b) लिट्, the
@@ -1203,10 +1203,13 @@ correct step line, the string and the sūtra; the gloss is not scored. Accept th
 step 0 in one line with all its numbers, and a step "no इट् [the card]" for (4) and (5).
 
 4: a model answer — §17's six lines, each with the pause form printed there; they speak for the
-crocodile and his wife, and a line for the monkey may be वानरो मकरं द्रक्ष्यति। (vānaro
-makaraṃ drakṣyati.) — pause form वानरः मकरम् द्रक्ष्यति। — "The monkey will see the
-crocodile." Scoring: one point per
-sentence with a correct future (or the chunk) and correct seams (/6). Accept any future of T12 or the
+crocodile and his wife, and a line for the monkey may be:
+
+वानरो मकरं द्रक्ष्यति। (vānaro makaraṃ drakṣyati.) — pause: वानरः मकरम् द्रक्ष्यति। (vānaraḥ makaram drakṣyati.)
+"The monkey will see the crocodile." — बन्दर मगरमच्छ को देखेगा।
+
+Scoring: one point per sentence with a
+correct future (or the chunk) and correct seams (/6). Accept any future of T12 or the
 vocabulary card, in any person you own, and also the other form for a root whose future Whitney
 records both with इ and without (Teacher Notes): नयिष्यति beside नेष्यति, लभिष्यते beside
 लप्स्यते [REF:whitney1889 §935]; any correct order of words; any episode that keeps to the
@@ -1268,7 +1271,7 @@ is the ष of करिष्यामि the ष of रामेषु?" Do not
 
 **Timing plan (45 min):** 0–7 Station 0, two items (item 1 3, item 2 4) · 7–9 the three §3 prompts,
 aloud (2) · 9–10 the Hook (1): करिष्यामि and गमिष्यति · 10–17 derivation (a), करिष्यति, with the
-teacher, its six D rules read from the table (7) — each rule's English line read beside its step, the
+teacher, its D rules read from the table (7) — each rule's English line read beside its step, the
 bracket lines pointed to and 3.3.13's read aloud as the example · 17–19 T12 on the board (2) · 19–25
 exercise 1 (6) · 25–28 the iṭ line and the homograph line (3) · 28–32 the card of the other four, मा
 भैषीः, the ten-count line (4) · 32–36 exercise 2 (4) · 36–42 the Pañcatantra passage read joined and
@@ -1360,7 +1363,9 @@ the corrections listed (none other is made). Their sense gives the English lines
 - **The Kāśikā on 3.3.139** (lines 22964–22967): *bhaviṣyati ity anuvartate / hetu-hetumator liṅ
   (\*3,3.156) ity evam ādikaṃ liṅo nimittam / tatra liṅ-nimitte bhaviṣyati kāle lṛṅ pratyayo bhavati
   kriyātipattau satyām / kutaścid vaiguṇyād anabhinirvṛttiḥ kriyāyāḥ kriyātipattiḥ /* — no correction.
-  *kriyātipattiḥ* "the action's failing to come about, from some defect": the card's "would have".
+  *kriyātipattiḥ* "the action's failing to come about, from some defect": the card's "the action fails
+  to come about" — under this rule in time to come (*bhaviṣyati kāle*), the card's "would"; the past,
+  its "would have", the Kāśikā reads under 3.3.140 (*bhūte ca kāle*, line 22987).
 - **The Kāśikā on 3.1.44** (lines 14708–14711): *cleḥ sijādeśo bhavati / ikāra uccāraṇa-arthaḥ, cakāraḥ
   svara-arthaḥ / akārṣīt / ahārṣīt /* — no correction; the card's अकार्षीत्.
 - **The Kāśikā on 3.3.173** (lines 23600–23605): *āśaṃsanam āśīḥ, apraptasya+iṣṭasya arthasya prāptum

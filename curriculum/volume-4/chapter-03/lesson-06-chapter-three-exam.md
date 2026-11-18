@@ -169,8 +169,8 @@ once and include the Vedic leṭ (lesson 5).
 why the exam asks for the same knowledge by five routes.
 
 No new fact about Sanskrit enters today. What the language does is FACT, and Whitney states it
-without any rule-numbers. These are the lines the chapter set beside its rules, one sentence each, in
-four groups, each as he wrote it, final -s and all; the course's own cells print the visarga where he
+without any rule-numbers. These are the lines the chapter set beside its rules, in four groups, his
+words and forms as he wrote them, final -s and all; the course's own cells print the visarga where he
 writes -s (बभूवतुः for his *babhūvátus*).
 
 > **[FACT · तथ्यम्]** The present system, in Whitney's words:
@@ -321,7 +321,7 @@ its members hyphenated in the pause form: सूर्य-उदये.
 बाक़ी चार लकारों को पहचानना और उनका नाम लेना सिखाया, उनके रूप बनाना नहीं।
 
 आज के पाँच कार्य: A — भू की लकार-तालिका: छह पंक्तियों के अठारह प्रथम-पुरुष रूप स्मृति से भरना,
-बाक़ी चार भरी हुई पंक्तियों का नाम और प्रयोग बताना, और फिर लकार का एक अनदेखा सूत्र पढ़ना — ग्यारह
+बाक़ी चार भरी हुई पंक्तियों का केवल नाम बताना, और फिर लकार का एक अनदेखा सूत्र पढ़ना — ग्यारह
 मिनट; B — बारह परिचित क्रियाओं का गण, विकरण और वर्तमान-अङ्ग — सात मिनट; C — आठ सबल-निर्बल
 रूप लिखना और पाणिनि के अनुसार कारण बताना — सात मिनट; D — हितोपदेश का एक अनदेखा संवाद, जिसके
 चार शब्दों के अर्थ हाशिये में छपे हैं, और उस पर छह प्रश्न — दस मिनट; E — धारावाहिक का एक प्रसंग
@@ -334,7 +334,7 @@ its members hyphenated in the pause form: सूर्य-उदये.
 स्मृति में हैं।
 
 तीन जाल, जिन पर अंक कटते हैं — अभी याद कर लीजिए। पहला: तालिका की चार भरी हुई पंक्तियों के रूप
-बनाने के कोई अंक नहीं मिलते; उनका नाम और प्रयोग बताइए, बस। दूसरा: जिस क्रिया का अङ्ग धातु से
+बनाने के कोई अंक नहीं मिलते; उनका नाम बताइए, बस। दूसरा: जिस क्रिया का अङ्ग धातु से
 अलग दिखे, उसे 'अनियमित' मत कहिए; गण सूची के पहले धातु से बताइए, विकरण उसी गण का, और अङ्ग वही,
 जो रूप में दिखता है। तीसरा: सबल-निर्बल का कारण पूछा जाए तो केवल 'गुण नहीं है' लिखना काफ़ी नहीं;
 प्रत्यय में प् है या नहीं, और उसका परिणाम — 1.2.4 और 1.1.5 — दोनों बताइए।
@@ -429,8 +429,8 @@ Copy this frame onto a sheet of your own and fill it from memory at home before 
 | the rule pair: which endings and which signs carry प्, and what follows for the stem before them | ___ |
 | T10, the nine P endings of the perfect; T12, the ten future stems | ___ |
 
-The toolbox card is not on the frame. It is not memorised: you read Chapter 3's forty-six rows once
-(§21 item 2), and in the sitting it is printed for you, for task C.
+The toolbox card is not on the frame. It is not memorised: you read once its rows for lesson 3's rule
+pair and its strong and weak stems (§21 item 2), and in the sitting it is printed for you, for task C.
 
 ### Step 6 — production
 
@@ -779,7 +779,7 @@ vocabulary card (l05 §15); a prefixed verb takes its simple verb's stem: आग
 | Lakāra | Sign | √भू — 3sg · 3pl | Use |
 |---|---|---|---|
 | लुट् — periphrastic future | -तास्-; in the 3rd persons -ता, -तारौ, -तारः | भविता · भवितारः | according to Pāṇini, a future not of today |
-| लृङ् — conditional | अ- + the future stem + the endings of laṅ | अभविष्यत् · अभविष्यन् | "would have": the action did not come about |
+| लृङ् — conditional | अ- + the future stem + the endings of laṅ | अभविष्यत् · अभविष्यन् | "would", "would have": the action fails to come about |
 | लुङ् — aorist | अ- + the root, or -स्-, -इष्-, -अ- … | अभूत् · अभूवन् | a past |
 | आशीर्लिङ् — benedictive | -यास्- | भूयात् · भूयासुः | a blessing, "may it be" |
 
@@ -898,7 +898,7 @@ and never assessed; and the rules of Teacher Notes.
 | the √भू table: the 3rd persons of laṭ, laṅ, loṭ, vidhiliṅ, liṭ and lṛṭ, each row with its lakāra's name | ✓ |
 | the four rows you read — लुट्, लृङ्, लुङ्, आशीर्लिङ् — named from their printed cells | ✓ — naming only |
 | laṅ's use according to Pāṇini, as task A2 reads it from its rule; the domain of liṭ according to the Kāśikā | ✓ |
-| P, Ā or both for an owned verb, and its rule; the class, sign and present stem of an owned verb; the substitute stem and its rule, with that card open | ✓ |
+| P, Ā or both for an owned verb, and its rule; the class, sign and present stem of each owned verb on the class card, from memory; the substitute stem and its rule, with the substitute-stem card open | ✓ |
 | pit or not, and so a strong or a weak stem before it — "according to Pāṇini" (1.2.4 + 1.1.5) | ✓ |
 | the laṭ P of the twelve athematic verbs of l03 §15 — the singular and plural in all persons and the 3rd dual; the laṅ and loṭ P cells l03 §15 prints for शृणोति and करोति; the athematic cells ✓ since Volume 3 | ✓ |
 | the perfect: the production table's 24 cells and the 3rd singular of each verb on the vocabulary card's ✓ row (l04 §15); the future of every verb whose stem T12 or the card prints | ✓ |
@@ -1153,7 +1153,7 @@ task's item.
    Pāṇini".
 3. (d) — चकार: the production table (l04 §15) and Whitney's *cakā́ra* (§5). (a) is the present, (b)
    the future, (c) the imperfect — all 3rd singular of करोति. FACT [REF:whitney1889 §800].
-4. (b) — यास्यति: your vocabulary card prints याति यास्य- (l05 §15), and Whitney lists the roots in ā
+4. (b) — यास्यति: your vocabulary card prints याति यास्य- [l05 §15], and Whitney lists the roots in ā
    among those that add the sign of the future with no इ [§5]. (a) is the present, (c) the perfect,
    (d) the present's 3rd plural. FACT [REF:whitney1889 §935].
 5. (c) — 3.2.111 अनद्यतने लङ्, under the heading भूते [task A2]. (a) and (b) are the 1.x labels A2
@@ -1192,7 +1192,7 @@ A1 — the six rows you produce:
 The four filled rows, in the booklet's order, each by the 3rd singular it prints: अभूत् → **लुङ्**,
 the aorist: a past · भविता → **लुट्**, the periphrastic future: according to Pāṇini, a future not of
 today · भूयात् → **आशीर्लिङ्**, the benedictive: a blessing, "may …" · अभविष्यत् → **लृङ्**, the
-conditional: "would have", the action did not come about.
+conditional: "would", "would have", the action fails to come about.
 
 Scoring: one mark for each cell (18); one for each filled row whose name is right (4): the
 lakāra's name, or its English name — the aorist, the periphrastic future, the benedictive, the
@@ -1452,9 +1452,9 @@ task sends the learner to, or an item a lesson works as its own example.
   the past, the affix luṅ", its examples *akārṣīt*, *ahārṣīt*; (4) the aorist, अभूत् …: a row you read
   and name. One mark each.
 - *B′ (36 marks; pass 27).* According to Pāṇini, for each verb write the class (by its first root),
-  the class sign and the present stem. (1) प्रयच्छति · (2) कृन्तति · (3) मन्यते · (4) अस्ति · (5)
+  the class sign and the present stem. (1) हरति · (2) कृन्तति · (3) मन्यते · (4) अस्ति · (5)
   भक्षयति · (6) मुञ्चति · (7) हन्ति · (8) प्रविशति · (9) प्राप्नोति · (10) एति · (11) चिन्तयति ·
-  (12) उपविशति. Key: (1) 1 भ्वादिः · शप् · प्रयच्छ — यच्छ for यम्, 7.3.77, after the preverb · (2) 6
+  (12) उपविशति. Key: (1) 1 भ्वादिः · शप् · हर · (2) 6
   तुदादिः · श · कृन्त · (3) 4 दिवादिः · श्यन् · मन्य · (4) 2 अदादिः · none · अस्- / स्- · (5) 10
   चुरादिः · णिच् [with शप्] · भक्षय · (6) 6 · श · मुञ्च · (7) 2 · none · हन्- / ह-, घ्न्- · (8) 6 · श ·
   प्रविश · (9) 5 स्वादिः · श्नु · प्राप्नो- / प्राप्नु- · (10) 2 · none · ए- / इ- · (11) 10 · णिच्
@@ -1655,7 +1655,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 30–45 s vertical, captions burned in.
 
 - **Hook (0–6 s):** big type: "One verb. Ten rows. How many can you make?"
-- **Demo (6–26 s):** "भवति — it is. अभवत् — it was. भवतु — let it be. भवेत् — may it be. बभूव — it
+- **Demo (6–26 s):** "भवति — it is. अभवत् — it was. भवतु — let it be. भवेत् — it should be. बभूव — it
   was: the perfect, a past out of sight, says Pāṇini. भविष्यति — it will be. Six rows you make; four
   more you only name."
 - **Payoff (26–38 s):** "A root, a sign, an ending — and one letter, p, that decides strong or weak."
@@ -1697,7 +1697,7 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
   it, and asks none of l04 exercise 4's questions.
 - **Export notes:** the quiz key, the task keys and the §17 key stay in §19's `<details>`; the Station
   0 key in §3's. The retake sets of §22 export as `examiner_only`. The title, the cells of the four rows
-  you read, ब्रूते, task D's glossed words and names, and the words of the thread verse export as
+  you read, ब्रूते, task D's glossed words, names and तृतीयः, and the words of the thread verse export as
   `display_only`; the starred forms as `error_form`. The task frames and the §8 Step 5 frame are
   intentional non-text. Flags: `assessment: true`, `chapter_final: true`, `joined: true`.
 - **Verification flags for Pass C:** every sūtra number and text against `corp/ashd/sutraani/data.txt`

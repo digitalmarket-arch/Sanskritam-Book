@@ -1325,12 +1325,6 @@ given as 8.4.1 alone, without
 is four minutes: the slip to watch for is 8.3.59's bracket line given without its two headings;
 accept the bracket lines in any order of their parts. Log both scores.
 
-**Exercise 2 and the +1-day item.** Exercise 2 is done with the pada card open: it practises
-reading a verb's set and its rule off the card, and the root's marker off its Dhātupāṭha entry
-where §4 prints one (णीञ्). The +1-day item that lesson 2 runs asks the same of ten verbs with the
-card closed, from memory; 1.3.12 and 1.3.72 are Q and 1.3.78 is B, so their numbers may be asked
-closed-book.
-
 **Board work.** Left: the root box पठ, an arrow to ल्, the ल् fanning into two rows of nine — the
 from-ल्-to-ति image. Middle: the pada table's five roots with their markers circled, the three
 rules beneath. Right: the chain, "ल् → which set → which person → which number", up all lesson.
@@ -1623,12 +1617,12 @@ reads the cue, not the English spelling.
   3.1.3, 1.4.1 (looked up by script); every bracket line of §8 against the `an` and `ad` fields; the
   commentary lines of §22 at their line numbers, with their corrections (the Kāśikā on 3.4.77 read
   through line 25125); the Dhātupāṭha entries of §4 and the LSK's groupings (lines 1703, 1810,
-  1840); Whitney §602, §553a and §529; the 1.x pp. 75–76 lines against the page images; MW s.v. 1. dhātu,
-  abhi-prāya, 2. pac, 1. yaj, bhaya and Apte s.v. धातुः, अभिप्राय, भयम्, pac, yaj; the
-  Pañcatantra's *nijābhiprāyam* (`vispancu.htm` line 5285); the DCS count of भय; the Hindi of §7,
-  the objectives and every gloss at Pass B; every joined line of §6, §13, §16, §17 and §19 against
-  the Volume 3 Chapter 4 maps.
-- **Register audit:** FACT ×3 callouts (§5 Whitney §602; §5 Whitney §553; §5 Whitney §529) ·
+  1840); Whitney §529, §541, §551, §553a–b and §602; the 1.x pp. 75–76 lines against the page
+  images; MW s.v. 1. dhātu, abhi-prāya, 2. pac, 1. yaj, bhaya, 1. jñā and Apte s.v. धातुः,
+  अभिप्राय, भयम्, pac, yaj, ज्ञा; the Pañcatantra's *nijābhiprāyam* (`vispancu.htm` line 5285);
+  the DCS count of भय; the Hindi of §7, the objectives and every gloss at Pass B; every joined
+  line of §6, §13, §16, §17 and §19 against the Volume 3 Chapter 4 maps.
+- **Register audit:** FACT ×3 callouts (§5 Whitney §541 and §602; §5 Whitney §553; §5 Whitney §529) ·
   TRADITION ×1 callout
   (§4 the Dhātupāṭha and the Kāśikā); the sūtras' English lines in §8, the box of §15, the pada
   table and the 1.x box of §8 Step 4 are TRADITION in plain text, attributed to Pāṇini, the Kāśikā
