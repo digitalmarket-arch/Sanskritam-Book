@@ -4,6 +4,28 @@ All notable changes to the Sanskritam 2.0 curriculum. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions are project-wide milestones
 (individual lessons also carry their own semver in front matter).
 
+## [Unreleased]
+
+### Added
+
+- **Research: the v4.c04 fact base** (`research/notes/vol4-ch4-derivation-and-compounds.md`),
+  verified before drafting by three checkers with every finding challenged, and the chapter frame
+  `curriculum/volume-4/chapter-04/chapter.md` (draft). Volume 4, Chapter 4 — कृत्-तद्धित-समासाः ·
+  Derivation & Compounds: the participles as kṛt adjectives (-त and -तवत्, -अत् and -मान); the
+  absolutive, the infinitive and the agent noun in -तृ, with what the k-marker does to the root;
+  the taddhitas (-ता and -त्व, -मत्/-वत्, -इन्, -इक, -ईय); the compound as a derivation (राजपुरुषः,
+  जलजम्, कपोतराजः, महाराजः), with one card on compound accent; the Chapter 4 exam. 26 ledger-new
+  words planned, 565 → 591; 42 tools, 131 in the toolbox after the chapter. The verification
+  confirmed 96 findings (2 blockers, 27 major, 67 minor) and rejected 2; 207 fixes were applied,
+  22 were found already made and 46 colliding fixes were kept in one wording. The blockers:
+  3.3.10's English line had the purpose backwards (तुमुन् goes after the root that names the
+  purpose), and a joined line kept a visarga before a voiced consonant. Other corrections:
+  vṛddhi also before a k-marked taddhita (7.2.118); दैवम्'s affix is अञ्, not अण्; राष्ट्रीय and
+  भारतीय are not the chapter's derivations; the STYLE_GUIDE §8 rule numbers; the Pañcatantra frame's
+  line numbers; a Whitney quotation that was about the infinitive. Ten editor's decisions are
+  recorded in its §7; by the first, a ✓ form printed in a lesson's table is scored as a form
+  whatever rule makes it, and a K rule is never asked. The Volume 4 plan's §7.6 gains 13 rows.
+
 ## [0.21.0] — 2026-11-18
 
 Volume 4 (पाणिनीयम् · The Pāṇinian System), Chapter 3, धातुः तिङ्विस्तारश्च · Roots & the Full Verb,
