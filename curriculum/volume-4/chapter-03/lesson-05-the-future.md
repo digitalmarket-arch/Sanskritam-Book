@@ -16,14 +16,14 @@ self_study_minutes: 45
 prerequisites: [v4.c03.l04]
 review_of: [v4.c03.l04, v4.c03.l03, v4.c02.l03, v3.c06.l02, v3.c03.l01]
 objectives:
-  - en: "Form the future, parasmaipada and ātmanepada, of ten owned verbs from the future stems on the vocabulary card."
-    hi: "शब्द-कार्ड के भविष्यत्-अङ्गों से दस परिचित क्रियाओं के लृट् रूप [परस्मैपद और आत्मनेपद] बनाएँ।"
+  - en: "Form the future, parasmaipada and ātmanepada, of nine owned verbs from the future stems on the vocabulary card."
+    hi: "शब्द-कार्ड के भविष्यत्-अङ्गों से नौ परिचित क्रियाओं के लृट् रूप [परस्मैपद और आत्मनेपद] बनाएँ।"
   - en: "Derive, according to Pāṇini, करिष्यति with the teacher, and गमिष्यति, पठिष्यति, भविष्यति, नेष्यति, दास्यति and हरिष्यति by yourself."
     hi: "पाणिनि के अनुसार शिक्षक के साथ करिष्यति की, और स्वयं छह रूपों की व्युत्पत्ति करें।"
   - en: "Name the lakāra of eight forms from the card of the other four."
     hi: "बाकी चार लकारों के कार्ड से आठ रूपों के लकार पहचानें।"
   - en: "Say what each character will do, in six sentences with futures and मा भैषीः, joined, with the pause form beneath."
-    hi: "भविष्यत् रूपों और मा भैषीः से छह वाक्यों में बताएँ कि हर पात्र क्या करेगा।"
+    hi: "भविष्यत् रूपों और मा भैषीः से छह वाक्यों में, सन्धि सहित और नीचे विराम-रूप के साथ, बताएँ कि हर पात्र क्या करेगा।"
 new_letters: []
 new_matras: []
 vocabulary_count: 7
@@ -65,10 +65,10 @@ the -इष्य- between them — and why is its ष the ष of रामे�
 
 | # | Can-do (en) | आप कर सकेंगे (hi) |
 |---|---|---|
-| 1 | Form the future, parasmaipada and ātmanepada, of ten owned verbs from the future stems on the vocabulary card. | शब्द-कार्ड के भविष्यत्-अङ्गों से दस परिचित क्रियाओं के लृट् रूप [परस्मैपद और आत्मनेपद] बनाएँ। |
+| 1 | Form the future, parasmaipada and ātmanepada, of nine owned verbs from the future stems on the vocabulary card. | शब्द-कार्ड के भविष्यत्-अङ्गों से नौ परिचित क्रियाओं के लृट् रूप [परस्मैपद और आत्मनेपद] बनाएँ। |
 | 2 | Derive, according to Pāṇini, करिष्यति with the teacher, and गमिष्यति, पठिष्यति, भविष्यति, नेष्यति, दास्यति and हरिष्यति by yourself. | पाणिनि के अनुसार शिक्षक के साथ करिष्यति की, और स्वयं छह रूपों की व्युत्पत्ति करें। |
 | 3 | Name the lakāra of eight forms from the card of the other four. | बाकी चार लकारों के कार्ड से आठ रूपों के लकार पहचानें। |
-| 4 | Say what each character will do, in six sentences with futures and मा भैषीः, joined, with the pause form beneath. | भविष्यत् रूपों और मा भैषीः से छह वाक्यों में बताएँ कि हर पात्र क्या करेगा। |
+| 4 | Say what each character will do, in six sentences with futures and मा भैषीः, joined, with the pause form beneath. | भविष्यत् रूपों और मा भैषीः से छह वाक्यों में, सन्धि सहित और नीचे विराम-रूप के साथ, बताएँ कि हर पात्र क्या करेगा। |
 
 Objective 1 is built in §8 Step 5 and §15 (T12 and the future stems on your vocabulary card), and
 tested in §18 (exercises 1 and 5) and §19 (Q5, Q6); objective 2 in §8 Steps 3, 4 and 6 and §13,
@@ -175,8 +175,8 @@ not these ten. It splits liṅ into two rows — the optative (vidhiliṅ), whic
 blessing (āśīrliṅ) — and it leaves leṭ out. leṭ is Volume 5's. Today you meet lṛṭ, the future, and
 four more of the ten on one card: luṭ, lṛṅ, luṅ and the liṅ of blessing.
 
-> **[HISTORY · इतिहासः]** The Laghusiddhāntakaumudī, the source of today's line, is placed in the
-> 17th century [REF:laghukaumudi].
+> **[HISTORY · इतिहासः]** The Laghusiddhāntakaumudī, the source of today's line, is placed c. 17th
+> century CE on the scholarly estimate [REF:laghukaumudi].
 
 ## 5. Scientific Explanation
 
@@ -211,8 +211,8 @@ The second sentence is today's reading. The crocodile's wife does not foretell; 
 सा वानरी भविष्यति, "then surely she must be a she-monkey" (§13).
 
 How much the future and the aorist are used is a question for a count, and the count prints with its
-method. Lesson 4 counted the perfects of the Digital Corpus of Sanskrit's tagging of the Hitopadeśa
-(its §5).
+method. Lesson 4 counted the tokens that the Digital Corpus of Sanskrit's tagging of the
+Hitopadeśa marks 'past' (its §5).
 
 > **[FACT · तथ्यम्]** The same tagging counts 73 futures in the Hitopadeśa and 532 in the
 > Viṣṇupurāṇa; it counts 9 aorist tokens in the Hitopadeśa (5 indicative, 4 prohibitive: bhaiṣīḥ
@@ -236,14 +236,16 @@ The three bhaiṣīḥ are today's chunk, मा भैषीः. Whitney's own 
 > especially often used along with *śvás* *tomorrow*." [REF:whitney1889 §949]
 
 The grammarians' rule is on today's card: according to Pāṇini, luṭ is the future "not of today"
-(3.3.15); Whitney says how much of that sense later texts keep. Both are printed; only "According to
-Pāṇini …" is asked, and no form of the card is ever asked of you as production.
+(3.3.15); Whitney says how much of that sense later texts keep. Both are printed; the quiz asks
+Whitney's as FACT (§19, Q10); Pāṇini's rule is K, looked up and never asked; and no form of the
+card is ever asked of you as production.
 
 One word you already use in Hindi is the stem of today's lesson.
 
 > **[FACT · तथ्यम्]** Hindi भविष्य 'the future' is the Sanskrit word भविष्य, whose letters are those
-> of the future stem भविष्य- [Monier-Williams: 'future, imminent, impending']; Hindi took it whole,
-> with the ष that 8.3.59 made in Sanskrit after the augment इ. [REF:kachru2006];
+> of the future stem भविष्य- [Monier-Williams: 'future, imminent, impending']; Hindi took it
+> whole, with its ष — in Pāṇini's derivation, the ष that 8.3.59 makes after the augment इ.
+> [REF:kachru2006];
 > [REF:monierwilliams1899 s.v. bhaviṣya]
 
 ## 6. Sanskrit Explanation
@@ -348,7 +350,7 @@ augment इट् [7.2.35]; and the स of स्य becomes ष after इ [8.3.
 | रामेषु | v3.c02.l01; derived in c02.l03 | रामे + सु | स of an affix → ष after ए: 8.3.59 |
 | पठन्ति, पठथ, पठामः | v3.c03.l01, T6 | the stem पठ- and the endings -अन्ति, -थ, -मः | the endings the future takes over |
 
-Your prompts gave you all four. The ending of करिष्यामि is the present's -मि; what stands between root
+Your prompts and the Hook gave you all four. The ending of करिष्यामि is the present's -मि; what stands between root
 and ending is new.
 
 ### Step 2 — the question
@@ -537,8 +539,8 @@ Say the markers' names as names — टकार — and never put their sounds 
 
 The fourth pair is c02.l03's: the same rule, the same two sounds.
 
-**Drill 3 — the chunk.** मा भैषीः /mɑː bʱɐi̯ʂiːh/. Three syllables after मा: the diphthong /ɐi̯/,
-the long /iː/, the breath of the visarga. Say it to a partner as a reassurance, with an open hand: one
+**Drill 3 — the chunk.** मा भैषीः /mɑː bʱɐi̯ʂiːh/. Two syllables after मा, भै and षीः: the diphthong
+/ɐi̯/, the long /iː/, then the breath of the visarga. Say it to a partner as a reassurance, with an open hand: one
 word in your mouth, never a pattern to vary — that is what a chunk is.
 
 **Drill 4 — the passage, joined.** Listen to the passage of §13 read once at speed, joined, with no
@@ -627,7 +629,7 @@ sentences 3–6.
 | 0 | कृ + लृट् → कृ + ल् → कृ + तिप् → कृ + ति | 3.3.13 लृट् शेषे च [D] · c03.l01's steps 3–7 | lṛṭ for the future; its ल् → ति |
 | 1 | कृ + स्य + ति | 3.1.33 स्यतासी लृलुटोः [D] | the sign स्य before lṛṭ |
 | 2 | (स्य is ārdhadhātuka) | 3.4.114 आर्धधातुकं शेषः [D] | स्य is neither a tiṅ nor ś-marked |
-| 3 | कृ + इ + स्य + ति | 7.2.70 ऋद्धनोः स्ये [D] [beside the general 7.2.35, D] | after an ṛ-final root, स्य takes इट् — ट् a marker |
+| 3 | कृ + इ + स्य + ति | 7.2.70 ऋद्धनोः स्ये [D] [beside the general 7.2.35, D] · 1.1.46 [D] · 1.3.3 · 1.3.9 [B] | after an ṛ-final root, स्य takes इट्, at its beginning; ट् a marker, dropped |
 | 4 | कर् + इ + स्य + ति | 7.3.84 [B] · 1.1.51 [D] | guṇa of ऋ before an ārdhadhātuka affix: अर् |
 | 5 | कर् + इ + ष्य + ति | 8.3.59 आदेशप्रत्यययोः [owned D, c02.l03] | the स् of an affix after इ, an इण् sound → ष् |
 | 6 | **करिष्यति** | — | joined |
@@ -654,9 +656,9 @@ Every end form is a cell of a verb you own: गच्छति [Volume 2], प�
 
 ### The Kāśikā's own examples
 
-Under 7.2.70 the Kāśikā's examples are करिष्यति, हरिष्यति and हनिष्यति; under 7.2.58 its first is
+Under 7.2.70 the Kāśikā's first examples are करिष्यति, हरिष्यति and हनिष्यति; under 7.2.58 its first is
 गमिष्यति; under 3.3.13 and 3.1.33 it gives करिष्यति again [REF:kashika 7.2.70]; [REF:kashika
-7.2.58]; [REF:kashika 3.3.13]. The commentary's examples are your derivations.
+7.2.58]; [REF:kashika 3.3.13]; [REF:kashika 3.1.33]. The commentary's examples are your derivations.
 
 ### T12 in all its cells
 
@@ -682,8 +684,8 @@ future of करोति, करिष्यते, follows लप्स्य-
 
 ### The reading: the Pañcatantra
 
-*the text — Pañcatantra 4, frame story (prose after 4.5 and after 4.6); text of the GRETIL e-text
-[REF:panchatantra]*
+*the text — Pañcatantra 4, frame story, the wife's demand for the monkey's heart; text of the
+GRETIL e-text [REF:panchatantra]*
 
 Before you read: the crocodile has told his wife that the rose-apples come from his friend, the
 monkey (lesson 1's episode). Now she speaks. Each sentence is printed as the e-text has it, joined
@@ -759,8 +761,8 @@ Words owned: सः, आगच्छति [आगमिष्यति, its fut
 [v3.c06.l02], तस्य, मम, राजा [c02.l01], ते [the short form of त्वम्, "to you"]; today's नूनम्, मा भैषीः,
 हृदयम् [हृदयेन], प्रयोजनम्, वर्तनम्, and the futures करिष्यामि and दास्यति. The joins: नूनं स, अहं तव,
 साहाय्यं करिष्यामि, वर्तनं दास्यति — म् → ं; स आगमिष्यति — सः before a vowel → स and a gap. The comma
-stops the seam after मा भैषीः, which stands as it is. Sentence 3 has no seam that changes, so its two
-lines are the same. The mouse's promise in v3.c06.l02 ended with the same words, तव साहाय्यं करिष्यामि;
+stops the seam after मा भैषीः, which stands as it is. Model sentence 5 has no seam that changes,
+so its two lines are the same. The mouse's promise in v3.c06.l02 ended with the same words, तव साहाय्यं करिष्यामि;
 model sentence 5 is the wife's demand in four words.
 
 ## 14. Vocabulary
@@ -862,14 +864,14 @@ Read with §18 exercise 2. Its rules are K: looked up, never assessed. According
 | Lakāra | Rule [K] | Sign | √भू — 3sg · 3pl | √कृ — 3sg | Use |
 |---|---|---|---|---|---|
 | लुट् — periphrastic future | 3.3.15 अनद्यतने लुट्; 2.4.85 लुटः प्रथमस्य डारौरसः | -तास्- — in the 3rd persons, the agent noun's nominatives, by डा, रौ, रस् | भविता · भवितारः | कर्ता | according to Pāṇini, a future not of today (3.3.15) — the Kāśikā's example *śvaḥ kartā* "he will do it tomorrow"; FACT: that sense is "but faintly traceable in later use" (Whitney §949) |
-| लृङ् — conditional | 3.3.139 लिङ्निमित्ते लृङ् क्रियातिपत्तौ | अ- + future stem + the endings of laṅ | अभविष्यत् · अभविष्यन् | अकरिष्यत् | "would have": the action did not come about — the Kāśikā's *kriyātipatti*; FACT: Whitney §940a, *would have* |
+| लृङ् — conditional | 3.3.139 लिङ्निमित्ते लृङ् क्रियातिपत्तौ | अ- + future stem + the endings of laṅ | अभविष्यत् · अभविष्यन् | अकरिष्यत् | "would", "would have": the action fails to come about — the Kāśikā's *kriyātipatti*, which it reads under this rule for time to come and under the next rule for the past; FACT: the conditional stands to the future "as the English *would have* to *will have*" (Whitney §940a) |
 | लुङ् — aorist | 3.1.43 च्लि लुङि; 3.1.44 च्लेः सिच् | अ- + root, or -स्-, -इष्-, -अ- … | अभूत् · अभूवन् — the root aorist; अगमत् — the a-aorist; अकार्षीत् — the s-aorist | अकार्षीत् | a past; FACT: "only … eight in the Hitopadeśa" (Whitney §826); मा + an aorist without its augment is a prohibitive (Whitney §579) |
 | आशीर्लिङ् — benedictive | 3.3.173 आशिषि लिङ्लोटौ; 3.4.116 लिङाशिषि | -यास्- | भूयात् · भूयासुः | क्रियात् | a blessing, "may it be" — the Kāśikā's example *ciraṃ jīvyād bhavān* "may your honour live long", beside the loṭ *ciraṃ jīvatu bhavān* |
 
-The K rules' English lines: 3.3.15 "luṭ for the future not of today" · 2.4.85 "in luṭ, the prathama P
-endings → डा, रौ, रस्" · 3.3.139 "lṛṅ, where the action did not come about" · 3.1.43 "before luṅ, च्लि"
-· 3.1.44 "च्लि → सिच्" · 3.3.173 "liṅ and loṭ for a blessing" · 3.4.116 "the liṅ of a blessing is
-ārdhadhātuka".
+The K rules' English lines: 3.3.15 "luṭ for the future not of today" · 2.4.85 "in luṭ, the prathama
+endings, P and Ā, → डा, रौ, रस्" · 3.3.139 "lṛṅ, where a cause for liṅ is present and the action
+fails to come about" · 3.1.43 "before luṅ, च्लि" · 3.1.44 "च्लि → सिच्" · 3.3.173 "liṅ and loṭ for
+a blessing" · 3.4.116 "the liṅ of a blessing is ārdhadhātuka".
 
 Four notes. The अ- of the conditional and the aorist is the augment of अगच्छत् [c02.l02]. The ड् of डा
 is the marker of the anubandha card's last row [○ preview: c04.l04]. The √कृ cells कर्ता, अकरिष्यत्
@@ -926,7 +928,7 @@ inside a new form — the ष of भविष्यति is the ष of रा�
 | the future, P and Ā — the singular and plural in all persons and the 3rd dual — of every owned verb whose stem T12 or the vocabulary card prints | ✓ |
 | deriving, according to Pāṇini, करिष्यति, गमिष्यति, पठिष्यति, भविष्यति, नेष्यति, दास्यति, हरिष्यति | ✓ |
 | मा भैषीः | ✓ — a chunk |
-| naming the lakāra of a form printed on the card of the other four, with the card | ✓ — naming only |
+| naming the lakāra of a form printed on the card of the other four — with the card in this lesson (exercise 2, Q8), and from the row's √भू 3rd singular, without the card, at the Chapter 3 exam (task A1) | ✓ — naming only |
 | the forms of luṭ, lṛṅ, luṅ and āśīrliṅ; मा + aorist beyond मा भैषीः | ◐ — never produced |
 | the futures the card does not print (सत्स्यति, उत्थास्यति) | ◐ |
 | the K rules of the card | card [K] — looked up, never assessed |
@@ -1056,7 +1058,8 @@ Exercises 1, 2 and 5 are done in class and marked there against the key; exercis
 homework (§21, §22). All keys sit in §19's collapsed key — nothing is answered on this page.
 
 **अभ्यासः 1 · from the future-stem card, write the form (objective 1; in class, 6 minutes).** With the
-stems of T12 on the board and the endings from memory, write: (1) भू, 3rd plural; (2) कृ, 1st singular;
+stems of T12 on the board and the endings from memory, write, in the parasmaipada unless Ā is
+named: (1) भू, 3rd plural; (2) कृ, 1st singular;
 (3) गम्, 2nd singular; (4) पठ्, 1st plural; (5) दा, 3rd dual; (6) नी, 3rd singular; (7) दृश्, 3rd
 plural; (8) लभ्, 3rd singular Ā; (9) लभ्, 1st singular Ā; (10) स्था, 2nd plural. Four minutes to
 write; two to swap with a partner and mark against the key.
@@ -1157,8 +1160,10 @@ Score /10; 7 passes.
 
 **Exercise keys.**
 
-1: (1) भविष्यन्ति; (2) करिष्यामि; (3) गमिष्यसि; (4) पठिष्यामः; (5) दास्यतः; (6) नेष्यति; (7) द्रक्ष्यन्ति;
-(8) लप्स्यते; (9) लप्स्ये; (10) स्थास्यथ. Score /10: one point each.
+1: (1) भविष्यन्ति; (2) करिष्यामि; (3) गमिष्यसि; (4) पठिष्यामः; (5) दास्यतः; (6) नेष्यति [also नयिष्यति:
+Whitney records both forms for नी]; (7) द्रक्ष्यन्ति; (8) लप्स्यते [also लभिष्यते]; (9) लप्स्ये
+[also लभिष्ये: Whitney records both for लभ्] [REF:whitney1889 §935]; (10) स्थास्यथ.
+Score /10: one point each.
 
 2: (1) लुट्; (2) लृङ्; (3) लुङ्; (4) आशीर्लिङ्; (5) लुङ्; (6) लुट्; (7) लुङ्; (8) लृङ्. Score /8. Recognition
 only: the forms are read on the card; no item asks you to produce one.
@@ -1170,7 +1175,7 @@ only: the forms are read on the card; no item asks you to produce one.
 | 0 | गम् + लृट् → गम् + ल् → गम् + तिप् → गम् + ति | 3.3.13 [D] · c03.l01's steps 3–7 | lṛṭ; its ल् → ति |
 | 1 | गम् + स्य + ति | 3.1.33 [D] | the sign स्य |
 | 2 | (स्य is ārdhadhātuka) | 3.4.114 [D] | neither a tiṅ nor ś-marked |
-| 3 | गम् + इ + स्य + ति | 7.2.58 गमेरिट् परस्मैपदेषु [D] | after गम्, in the P, an s-initial ārdhadhātuka affix takes इट् |
+| 3 | गम् + इ + स्य + ति | 7.2.58 गमेरिट् परस्मैपदेषु [D] · 1.1.46 [D] · 1.3.3 · 1.3.9 [B] | after गम्, in the P, an s-initial ārdhadhātuka affix takes इट्, at its beginning; ट् a marker, dropped |
 | 4 | गम् + इ + ष्य + ति | 8.3.59 [D] | the स् of an affix after इ → ष् |
 | 5 | **गमिष्यति** | — | joined |
 
@@ -1195,9 +1200,14 @@ derivation (a) with हृ — हृ + इ + स्य + ति [7.2.70] · ह
 correct step line, the string and the sūtra; the gloss is not scored. Accept the marker steps merged,
 step 0 in one line with all its numbers, and a step "no इट् [the card]" for (4) and (5).
 
-4: a model answer — §17's six lines, each with the pause form printed there. Scoring: one point per
+4: a model answer — §17's six lines, each with the pause form printed there; they speak for the
+crocodile and his wife, and a line for the monkey may be वानरो मकरं द्रक्ष्यति। (vānaro
+makaraṃ drakṣyati.) — pause form वानरः मकरम् द्रक्ष्यति। — "The monkey will see the
+crocodile." Scoring: one point per
 sentence with a correct future (or the chunk) and correct seams (/6). Accept any future of T12 or the
-vocabulary card, in any person you own; any correct order of words; any episode that keeps to the
+vocabulary card, in any person you own, and also the other form for a root whose future Whitney
+records both with इ and without (Teacher Notes): नयिष्यति beside नेष्यति, लभिष्यते beside
+लप्स्यते [REF:whitney1889 §935]; any correct order of words; any episode that keeps to the
 story so far. The four lakāras of the card are not asked, and are not accepted in place of a future.
 
 5: (1) The crocodile's wife — तया "by her" — to the crocodile. (2) Made of nectar — अमृतमयम्. (3)
@@ -1264,8 +1274,8 @@ glossed, exercise 5 (6) · 42–45 model sentences read aloud (3). Exercises 3, 
 learned, the stem card read), §16, §17, the passage re-read and the §19 quiz are homework (§21).
 Exercises 1, 2 and 5 are marked in class, inside their slots: exercise 1 four minutes to write and two
 to mark; exercise 2 two and two; exercise 5 two minutes' reading, one of glosses, two of answers and
-one to check. §16 is not read in class, and the bracket lines of §8 Step 3 are read at home with the
-section.
+one to check. §16 is not read in class; the bracket lines of §8 Step 3 are pointed to in the derivation
+slot (10–17), 3.3.13's read aloud there, and are not set as homework.
 
 **Station 0, in class.** Item 1 is three minutes for twelve cells: watch for \*जगमुः, the अ of गम्
 kept where the weak stem drops it, and for \*बभाव. Item 2 is four minutes for six markers: the slip
@@ -1281,11 +1291,12 @@ heading "name it — never make it"; मा भैषीः boxed beneath it.
 **Teacher-Notes sūtras** (learner text says "Teacher Notes" and prints no number, except that a
 bracket line prints the source of a carried word as the data file gives it):
 
-- **7.2.10 एकाच उपदेशेऽनुदात्तात्** — after a one-syllable root whose vowel is anudātta in the
-  Dhātupāṭha, no इट् [न, इट् carried from 7.2.8]: the aniṭ roots of T12 and the card (दा, नी, दृश्,
+- **7.2.10 एकाच उपदेशेऽनुदात्तात्** — after a one-syllable root whose vowel carries, in the
+  Dhātupāṭha, the accent this sūtra names, no इट् [न, इट् carried from 7.2.8]: the aniṭ roots of T12 and the card (दा, नी, दृश्,
   वच्, लभ्, स्था, श्रु …), and कृ, हृ, गम्, हन्, whose इट् before स्य 7.2.70 and 7.2.58 restore. Which roots
-  are anudātta is read in the Dhātupāṭha; the course does not show accents (Volume 5).
-- **3.4.104 किदाशिषि** — the benedictive's यास् counts as k-marked, so भूयात् has no guṇa (the Kāśikā,
+  carry that accent is read in the Dhātupāṭha; the course does not show accents (Volume 5).
+- **3.4.104 किदाशिषि** — the benedictive's liṅ affix, with its augment यास्, counts as
+  k-marked — the affix, not the augment, the Kāśikā says — so भूयात् has no guṇa (the Kāśikā,
   below).
 - **6.1.58 सृजिदृशोर्झल्यमकिति · 8.2.36 व्रश्चभ्रस्जसृजमृजयजराजभ्राजच्छशां षः · 8.2.41 षढोः कः सि** —
   द्रक्ष्यति: before a jhal-initial affix that is not k-marked, दृश् takes the augment अम् after its
@@ -1303,9 +1314,12 @@ bracket line prints the source of a carried word as the data file gives it):
 इ: "but śī lie and nī have both forms" (§935a), "from i, kṣi destroy, and ji occur forms of both
 classes" (§935a), "man and han have both forms", "tap, vap, svap, dṛp, and kḷp have both forms", "rabh,
 labh having both forms" (§935b) [REF:whitney1889 §935]. The card prints one stem for each —
-the tradition's — and the key follows the card. A learner who writes नयिष्यति or लभिष्यते has not
-followed the card; do not call the form wrong Sanskrit. That is also why §12's example error forms are
-\*दासिष्यति and \*स्थासिष्यति: Whitney gives no इ-form for any root in आ.
+the tradition's, the stem Pāṇini's rules give — and every key accepts both forms where Whitney
+records both: a learner who writes नयिष्यति or लभिष्यते scores. Point the learner to the card's
+stem; never call the other form wrong Sanskrit. That is also why §12's example error forms are
+\*दासिष्यति and \*स्थासिष्यति: Whitney puts the roots in आ among those that take no इ, in §935a;
+the ones he names with an इ-form — vā, vyā, hvā in §935c, hā and khyā in §936c — do not include
+दा or स्था.
 
 **The headings the bracket lines do not print by name.** Under 3.3.13, 3.1.33 and 3.4.114 the data
 file also lists आद्युदात्तश्च, 3.1.3 (accent: Volume 5); under 3.1.33, धातोः, 3.1.22 — the first धातोः
@@ -1359,7 +1373,8 @@ the corrections listed (none other is made). Their sense gives the English lines
 **The passage — the printing changes.** Pañcatantra 4, frame story (`vispancu.htm`, lines 5228 and
 5235). The Devanagari drops the hyphens of the e-text's compounds (the IAST keeps them); the e-text's
 dash after *tayābhihitam* is printed as the spaced dash of the speech frame; *prayojanaṃ,* is printed
-प्रयोजनम्, — no sandhi before a comma; the e-text's "|" is printed as a daṇḍa. The first block continues
+प्रयोजनम्, and *prayojanam,* in the IAST — no sandhi before a comma; the e-text's "|" is printed as
+a daṇḍa, and as a full stop in the IAST. The first block continues
 *yena tad bhakṣayitvā jarā-maraṇa-rahitā tvayā saha bhogān bhunajmi |*, cut at the daṇḍa; the second
 begins *atha makary āha-tvayā kadācid api mama vacanaṃ nānyathā kṛtam |*, cut before *tan*: the
 ellipsis of (c) marks that cut and the crocodile's answer and verse before it. 37 words, 7 glossed,

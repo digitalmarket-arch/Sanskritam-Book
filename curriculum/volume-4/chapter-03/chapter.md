@@ -26,8 +26,8 @@ endings" turns out to be Pāṇini's ātmanepada, करोति and कुर�
 book's claim that the ātmanepada means "Action benefits oneself" is corrected in the open: that is true
 only where the fruit of the action goes to the doer (पचते, यजते, कुरुते). The second lesson puts a class
 sign (विकरणः) between root and ending (3.4.113, 3.1.68): शप् or one of its replacements, ten present
-classes on one card, guṇa before the sign (7.3.84; which signs and endings block it is lesson 3's), and the stems Volume 3 called irregular —
-गच्छ, तिष्ठ, पश्य, पिब — made by two sūtras (7.3.77, 7.3.78); नयति is derived step by step. The third
+classes on one card, guṇa before the sign (7.3.84; which signs and endings block it is lesson 3's), and the stems whose reason Volume 3 left
+to this chapter ("why the stem is तिष्ठ- is v4.c03's", v3.c01.l02) — गच्छ, तिष्ठ, पश्य, पिब — made by two sūtras (7.3.77, 7.3.78); नयति is derived step by step. The third
 lesson explains शृणोति beside शृण्वन्ति: a sārvadhātuka ending or sign without the marker p counts as ṅ-marked (1.2.4), and
 before such an ending guṇa does not apply (1.1.5); the athematic verbs learned whole in Volume 3 become
 tables the learner can build, the markers met so far are collected on one card, and the 1.x card that
@@ -45,11 +45,12 @@ commentary line is "text of the GRETIL e-text".
 
 ## Goals
 
-- Take any owned finite verb back to its root as the Dhātupāṭha lists it, and say from the root's
-  marker which set of endings it takes
-- Classify every owned verb into its present class by its class sign, and form its present system
-- Explain strong and weak stems by the p-marker, and build the athematic present, imperfect and
-  imperative of the owned verbs
+- Take an owned finite verb back to its root, and, for the roots whose Dhātupāṭha entries the
+  lessons print, say from the root's marker which set of endings it takes
+- Classify the owned verbs of the class card into their present classes by their class signs, and
+  form the present systems of the thematic ones
+- Explain strong and weak stems by the p-marker, build the athematic present of the owned verbs,
+  and build the imperfect and imperative of शृणोति and करोति
 - Use the perfect (3rd persons) and the future; recognise and name the other four lakāras
 - Assemble the √भू table of the classical tense-moods, ten rows, and tell it apart from the tradition's
   own count of ten l-affixes
@@ -64,8 +65,8 @@ By the end of this chapter the learner can:
 
 - [ ] Map the eighteen endings of 3.4.78 onto the present endings, naming the marker each one drops, if any
 - [ ] Say, according to Pāṇini, whether an owned verb takes parasmaipada, ātmanepada or both, and why
-- [ ] Name the class, class sign and present stem of any owned verb, and give the rule of the
-      substitute stems (गच्छ, तिष्ठ, पश्य, पिब, सीद, जा) from the substitute-stem card
+- [ ] Name the class, class sign and present stem of each owned verb on the class card, and give
+      the rule of the substitute stems (गच्छ, तिष्ठ, पश्य, पिब, सीद, जा) from the substitute-stem card
 - [ ] Fill the strong and weak cells of the owned athematic verbs and say why, according to Pāṇini
 - [ ] Derive, according to Pāṇini, in table form, पठति, रोचते, नयति, स्मरति, शृणोति, शृण्वन्ति, करोति,
       कुरुतः, जगाम, ददौ, करिष्यति and गमिष्यति
@@ -80,14 +81,14 @@ By the end of this chapter the learner can:
 | 1 | v4.c03.l01 | लट् · From ल् to -ति: the Verb's Ending | grammar | the root and the l-affix (1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78, B); the pada from the root's marker (1.3.12, 1.3.72, Q; 1.3.78, 1.4.99, B; 1.4.100, D); person and number (1.4.101, 1.4.102, 1.4.108, 1.4.22, B); 3.4.79 (D), the Ā -ए; पठति and रोचते derived; IR-020 and "Action benefits oneself" corrected; धातुः · अभिप्रायः · पचति · यजति · भयम् |
 | 2 | v4.c03.l02 | शप् · The Class Sign: Ten Families of Present Stems | grammar | the class sign (3.4.113, 3.1.68, 1.3.8, 7.3.84, B; 1.1.51, 1.1.52, 7.3.86, D); the ten classes on a card (K); the substitute stems (7.3.77, 7.3.78, D; 7.3.79, K); 7.2.76 (D), the इट् of स्वपिति; नयति derived; जयति · तरति · हरति · सीदति · उत्तिष्ठति · चरति; upgrade: गणः |
 | 3 | v4.c03.l03 | पित् ङित् · Strong and Weak: What the p Marker Does | grammar | 1.2.4 and 1.1.5 (Q); 3.1.74, 7.1.3, 6.4.110, 6.4.111, 6.1.16 (D); 6.4.113 (K); शृणोति / शृण्वन्ति derived; the athematic laṭ, laṅ, loṭ; the anubandha card; R4 closed; IR-022 corrected; ब्रवीति · हन्ति · एति · युनक्ति |
-| 4 | v4.c03.l04 | लिट् · The Perfect | grammar | 3.2.115 (Q); 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62, 7.1.34 (D); the perfect's further tools on a card (K); T10; जगाम and ददौ derived; उवाच and आह read; IR-019 corrected; Hitopadeśa (N1) read; पतिः · द्वयम् · श्लोकः · द्वारम् · खड्गः · प्राप्नोति |
-| 5 | v4.c03.l05 | लृट् · The Future | grammar | 3.3.13, 3.1.33, 3.4.114, 7.2.35, 7.2.70, 7.2.58 (D); T12; करिष्यति derived; the card of the other four lakāras (◐; K); मा भैषीः; the tradition's ten l-affixes; Pañcatantra (N2) read; मा भैषीः · नूनम् · हृदयम् · भार्या · प्रयोजनम् · यदि · वर्तनम् |
+| 4 | v4.c03.l04 | लिट् · The Perfect | grammar | 3.2.115 (Q); 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62, 7.1.34 (D); the perfect's further tools on a card (K); T10; जगाम and ददौ derived; उवाच and आह read; IR-019 corrected; a Hitopadeśa passage read; पतिः · द्वयम् · श्लोकः · द्वारम् · खड्गः · प्राप्नोति |
+| 5 | v4.c03.l05 | लृट् · The Future | grammar | 3.3.13, 3.1.33, 3.4.114, 7.2.35, 7.2.70, 7.2.58 (D); T12; करिष्यति derived; the card of the other four lakāras (◐; K); मा भैषीः; the tradition's ten l-affixes; a Pañcatantra passage read; मा भैषीः · नूनम् · हृदयम् · भार्या · प्रयोजनम् · यदि · वर्तनम् |
 | 6 | v4.c03.l06 | तृतीयपरीक्षा · Chapter 3 Exam: the √भू Table | review | the √भू table of ten rows (the 1.x six-lakāra table restored and completed); the anubandha card; the toolbox of 89; five tasks in one 45-minute sitting; रामेण and the thread verse उद्यमेन हि सिध्यन्ति… re-read after it |
 
 Ledger: 537 → 542 → 548 → 552 → 558 → 565 → 565 (28 ledger-new; roots, lakāra and affix names, class
 names, the names परस्मैपदम्, आत्मनेपदम्, विकरणः, every perfect, future or aorist cell of an owned verb
 and every sūtra-internal or commentary form never count). Tools added: 15 · 10 · 7 · 8 · 6 · 0 — 89 in
-the toolbox after the chapter. Cells drilled: 18 · 30 · 84 · 24 · 14 · 0.
+the toolbox after the chapter. Cells drilled: 18 · 15 · 84 · 24 · 14 · 0.
 
 ## Assets manifest
 
@@ -114,10 +115,11 @@ All `planned:`; each lesson's §23–§24 carry the prompts.
 ## Assessment
 
 Lesson 6 is the Chapter 3 exam: one closed-book sitting of 45 minutes, 2 of them for instructions;
-Station 0 (about 8 minutes) runs before it and outside it. A separate sheet prints the chapter's toolbox card
+Station 0 (about 10 minutes) runs before it and outside it, so the room time is about 55
+minutes. A separate sheet prints the chapter's toolbox card
 (89 sūtras in number order, each with its text and one English line); it is handed out at the start of task C and collected after it. **A** — the √भू
 table: the eighteen 3rd-person cells of the six productive rows (laṭ, laṅ, loṭ, vidhiliṅ, liṭ, lṛṭ)
-filled, and the four rows printed filled (luṭ, lṛṅ, luṅ, āśīrliṅ) named with their use, with no credit
+filled, and the four rows printed filled (luṭ, lṛṅ, luṅ, āśīrliṅ) named, with no credit
 for producing them; then 3.2.111 अनद्यतने लङ् read cold in the case code with its bracket line, and the
 1.x labels "recent past" and "past habitual" corrected (11 min; 26 points, pass 19). **B** — class
 detective: the class, class sign and present stem of twelve owned verbs, three of them traps (गच्छति,

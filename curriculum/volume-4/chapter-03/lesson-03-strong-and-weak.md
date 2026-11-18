@@ -12,7 +12,7 @@ lesson: 3
 lesson_type: grammar
 cefr: B1
 duration_minutes: 45
-self_study_minutes: 45
+self_study_minutes: 47
 prerequisites: [v4.c03.l02]
 review_of: [v4.c03.l02, v4.c03.l01, v3.c03.l01, v3.c03.l03, v3.c03.l04, v2.c04.l01]
 objectives:
@@ -22,8 +22,8 @@ objectives:
     hi: "परिचित अदन्त-भिन्न क्रियाओं के बारह लट्, लङ् और लोट् रूप भरें।"
   - en: "Derive, according to Pāṇini, शृणोति and शृण्वन्ति with the teacher, and करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति and पृच्छति by yourself."
     hi: "पाणिनि के अनुसार शिक्षक के साथ शृणोति और शृण्वन्ति की, और स्वयं छह रूपों की व्युत्पत्ति करें।"
-  - en: "Say and write six sentences with ब्रवीति, हन्ति, एति and युनक्ति in strong and weak cells, joined, with the pause form beneath."
-    hi: "ब्रवीति, हन्ति, एति और युनक्ति के सबल और निर्बल रूपों से छह वाक्य बोलें और लिखें।"
+  - en: "Say and write six sentences with ब्रवीति, हन्ति, एति, युनक्ति and शृणोति in strong and weak cells, joined, with the pause form beneath."
+    hi: "ब्रवीति, हन्ति, एति, युनक्ति और शृणोति के सबल और निर्बल रूपों से छह वाक्य सन्धि सहित बोलें और लिखें, नीचे विराम-रूप के साथ।"
 new_letters: []
 new_matras: []
 vocabulary_count: 4
@@ -50,10 +50,10 @@ updated: 2026-11-10
 
 ## 1. Hook
 
-You have said शृणोति "hears" since v2.c04.l01. Volume 3 gave you three more of its cells, to be
-read whole: शृण्वन्ति "they hear" (v3.c03.l01), अशृणोत् "he heard" (v3.c03.l03) and शृणु "listen!"
-(v3.c03.l04). In v3.c03.l01 you also learned अस्ति · सन्ति and करोति · कुर्वन्ति whole, because, the
-lesson said, "their reason is v4.c03's".
+You have said शृणोति "hears" since v2.c04.l01. Volume 3 gave you four more of its cells, to be
+read whole: शृण्वन्ति "they hear" (v3.c03.l01), अशृणोत् "he heard" and अशृण्वन् "they heard"
+(v3.c03.l03), and शृणु "listen!" (v3.c03.l04). In v3.c03.l01 you also learned अस्ति · सन्ति and
+करोति · कुर्वन्ति whole, because, the lesson said, "their reason is v4.c03's".
 
 Put the pairs side by side. Why शृणो- in one cell and शृण्व्- in the next? Why अस्- in अस्ति, and
 only स्- in सन्ति? And a question lesson 2 left open: नयति has guṇa — नी became नय- — so why does
@@ -68,7 +68,7 @@ only स्- in सन्ति? And a question lesson 2 left open: नयति
 | 1 | Say, according to Pāṇini, for twelve affixes whether each is pit, and so whether the stem before it is strong or weak. | पाणिनि के अनुसार बारह प्रत्ययों के लिए बताएँ कि कौन पित् है, और इसलिए उससे पहले अङ्ग सबल है या निर्बल। |
 | 2 | Fill twelve present, imperfect and imperative cells of the owned athematic verbs. | परिचित अदन्त-भिन्न क्रियाओं के बारह लट्, लङ् और लोट् रूप भरें। |
 | 3 | Derive, according to Pāṇini, शृणोति and शृण्वन्ति with the teacher, and करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति and पृच्छति by yourself. | पाणिनि के अनुसार शिक्षक के साथ शृणोति और शृण्वन्ति की, और स्वयं छह रूपों की व्युत्पत्ति करें। |
-| 4 | Say and write six sentences with ब्रवीति, हन्ति, एति and युनक्ति in strong and weak cells, joined, with the pause form beneath. | ब्रवीति, हन्ति, एति और युनक्ति के सबल और निर्बल रूपों से छह वाक्य बोलें और लिखें। |
+| 4 | Say and write six sentences with ब्रवीति, हन्ति, एति, युनक्ति and शृणोति in strong and weak cells, joined, with the pause form beneath. | ब्रवीति, हन्ति, एति, युनक्ति और शृणोति के सबल और निर्बल रूपों से छह वाक्य सन्धि सहित बोलें और लिखें, नीचे विराम-रूप के साथ। |
 
 Objective 1 is built in §7, §8 Steps 3 and 5 and §15, and tested in §18 (exercises 1 and 5) and
 §19 (Q1–Q3, Q7, Q10); objective 2 in §8 Steps 5–6 and §15, tested in §18 (exercise 2) and §19 (Q4,
@@ -84,24 +84,24 @@ retrieval practice beats re-reading for long-term retention [REF:roediger2006].
 
 ### Station 0 — lesson 2's +1-day and lesson 1's +1-week arrive
 
-Two bookings, run in the order they fall due, seven minutes in all, scores logged beside the
+Two bookings, run in the order they fall due, ten minutes in all, scores logged beside the
 earlier ones [REF:cepeda2006].
 
 **Item 1 — from v4.c03.l02.** Lesson 2 booked today's first station in one line:
 
 - +1 day: ten verbs classified — for गच्छति, नृत्यति, पृच्छति, आप्नोति, करोति, गृह्णाति, कथयति, याति, ददाति and मन्यते name the class (by its first root), the class sign and the present stem; v4.c03.l03's Station 0 runs exactly this.
 
-Four minutes, alone, on paper, with lesson 2's class card closed: ten lines — the verb, the class
-(its number and first root), the sign, the stem. About three minutes to write; then swap papers
+Five minutes, alone, on paper, with lesson 2's class card closed: ten lines — the verb, the class
+(its number and first root), the sign, the stem. About four minutes to write; then swap papers
 with a partner and mark against the key. Keep the page: four of the ten stems come in two shapes,
 and today says why.
 
 **Item 2 — from v4.c03.l01.** Lesson 1 booked its +1-week for today:
 
-- +1 week: पठति to step 7 — derive, according to Pāṇini, in table form, पठ → पठ् + ति (steps 0–7 of the पठति table), each step with its sūtra; v4.c03.l03's Station 0 runs exactly this.
+- +1 week: पठति to step 7 — derive, according to Pāṇini, in table form, पठ → पठ् + ति [steps 0–7 of the पठति table], each step with its sūtra; v4.c03.l03's Station 0 runs exactly this.
 
-Three minutes, alone, on paper: Step · String · Sūtra, from memory. The marker steps may be
-merged, and steps 4–6 may be one line with all their numbers, as lesson 1's key allowed. About two
+Five minutes, alone, on paper: Step · String · Sūtra, from memory. The marker steps may be
+merged, and steps 4–6 may be one line with all their numbers, as lesson 1's key allowed. About four
 minutes to write, one to mark. Today's derivation starts where step 7 ends: a root and its ending.
 
 <details><summary>उत्तराणि · Station 0 key</summary>
@@ -129,19 +129,19 @@ minutes to write, one to mark. Today's derivation starts where step 7 ends: a ro
 **How today reaches each lesson it reviews.** Lesson 2 is reached by item 1, and again in §8 Step
 5, where the signs of its card get their two shapes; lesson 1 by item 2, and in §13, whose
 derivation (a) begins from its chain; v3.c03.l01 by prompt 1 — its अस् and कृ, learned whole, are
-today's derivations; v3.c03.l03 by prompt 2 — its R4 imperfects are cells of today's laṅ;
+today's derivations; v3.c03.l03 by prompt 2 — its R4 अशृणोत् is a cell of today's laṅ;
 v3.c03.l04 by prompt 3 — its R4 imperative शृणु is a cell of today's loṭ; v2.c04.l01 by prompt 4,
 whose शृणोति and जानाति get their weak cells today.
 
 ### The prompts
 
 1. From v3.c03.l01: say "they are" and "they do".
-2. From v3.c03.l03: say "he heard" and "he took" — two R4 imperfects.
-3. From v3.c03.l04: say "listen!" to one person.
+2. From v3.c03.l03: read अशृणोत् and अगृह्णात् — two R4 imperfects — and say what each means.
+3. From v3.c03.l04: read शृणु — an R4 imperative — and say what it means.
 4. From v2.c04.l01: say "he hears" and "he knows".
 
 The keys are in §19's answer key, under "Previous-lesson prompts". Hold your answers: §8 Step 1
-puts all six forms side by side.
+puts six of these seven forms side by side.
 
 ## 4. Historical Context
 
@@ -161,14 +161,14 @@ Book 6; and the class signs, 3.1.73 to 3.1.81, in Book 3, a few rules after less
 The commentators knew which forms the two rules are for, and they say so.
 
 > **[TRADITION · परम्परा]** The Kāśikā (c. 7th century CE) gives, under 1.2.4, the very forms of
-> this lesson: कुरुतः, कुर्वन्ति beside करोति — 'why "not p-marked"? karoti' (*apit iti kim?
-> karoti*) — that is, करोति keeps its guṇa because तिप् has a p. The commentary's examples are the
+> this lesson: कुरुतः, कुर्वन्ति beside करोति — 'why "not p-marked"? karoti …' (*apit iti kim?
+> karoti …*) — that is, करोति keeps its guṇa because तिप् has a p. The commentary's examples are the
 > course's derivations. [REF:kashika 1.2.4]
 
 Read the commentary's examples against today's work: कुरुतः and कुर्वन्ति are items 2 and 3 of
 §18 exercise 3, करोति its item 1. The Kāśikā asks why the rule says "not p-marked", and answers
-with one word, करोति: its ending तिप् is p-marked, so 1.2.4 does not touch it, and the guṇa stands.
-The lines are in Teacher Notes; Chapter 6 reads them with you (c06.l02).
+with करोति, करोषि, करोमि: their endings तिप्, सिप्, मिप् are p-marked, so 1.2.4 does not touch them,
+and the guṇa stands. The lines are in Teacher Notes; Chapter 6 reads them with you (c06.l02).
 
 ## 5. Scientific Explanation
 
@@ -338,12 +338,12 @@ Bracket line: [carried (data file): इकः, 1.1.3; गुण-वृद्ध�
 English: "And before a k- or ṅ-marked affix, guṇa and vṛddhi [in place of an इक्] do not [apply]."
 [REF:ashtadhyayi 1.1.5]; [REF:kashika 1.1.5]
 
-Most of its sentence is carried. From 1.1.3 इको गुणवृद्धी [B, c02.l02] come इकः and गुण-वृद्धी: "in
-place of an इक् vowel, guṇa and vṛddhi". From the rule between them comes न — the negative particle
-"not", not the sound न्. What 1.1.5 itself adds is the place, क्ङिति, "before an affix marked with
-क् or ङ्", and च, "and", joining it to the rule before. The Kāśikā reads the locative as the
-occasion: *kṅin-nimitte ye guṇa-vṛddhī prāpnutaḥ, te na bhavataḥ* — "the guṇa and vṛddhi that
-would arise there do not happen" [REF:kashika 1.1.5].
+Three of its five words are carried. From 1.1.3 इको गुणवृद्धी [B, c02.l02] come इकः and
+गुण-वृद्धी: "in place of an इक् vowel, guṇa and vṛddhi". From the rule between them comes न — the
+negative particle "not", not the sound न्. What 1.1.5 itself adds is the place, क्ङिति, "before an
+affix marked with क् or ङ्", and च, "and", joining it to the rule before. The Kāśikā reads the
+locative as the occasion: *kṅin-nimitte ye guṇa-vṛddhī prāpnutaḥ, te na bhavataḥ* — "the guṇa and
+vṛddhi that would arise there do not happen" [REF:kashika 1.1.5].
 
 **Together.** Put 1.2.4 under 1.1.5: an ending without p counts as ṅ-marked, and before a ṅ-marked
 ending guṇa does not happen. An ending with p is not touched by 1.2.4, so the guṇa of lesson 2's
@@ -407,12 +407,12 @@ and शृण्वन्ति. Work down it with the teacher, one line at a ti
 ### Step 5 — one rule pair, and one rule per verb
 
 The strong/weak table of §13 sets nine verbs side by side, each before तिप्, तस् and झि. The rule
-pair does the main work in every row; most rows add one rule of their own, and here are the D tools
-for them.
+pair does the main work in every row; each of the nine rows adds a rule of its own — a D tool, a
+card rule or a rule in Teacher Notes — and here are the D tools among them.
 
 **5. कुरु- — D, 6.4.110 अत उत् सार्वधातुके** (ata ut sārvadhātuke).
 
-Bracket line: [carried (data file): क्ङिति, 6.4.98; उतः, 6.4.106; च, 6.4.106; प्रत्ययात्, 6.4.106; करोतेः, 6.4.108] [headings (data file): अङ्गस्य, 6.4.1] (further headings: Teacher Notes)
+Bracket line: [carried (data file): क्ङिति, 6.4.98; उतः, 6.4.106; च, 6.4.106 (the file carries it; this rule does not use it); प्रत्ययात्, 6.4.106; करोतेः, 6.4.108] [headings (data file): अङ्गस्य, 6.4.1] (further headings: Teacher Notes)
 
 English: "The अ of कृ [with its sign उ] becomes उ before a kṅit sārvadhātuka affix."
 [REF:ashtadhyayi 6.4.110]; [REF:kashika 6.4.110]
@@ -422,8 +422,8 @@ sārvadhātuka and 1.2.4 cannot make it ṅit: the root before it takes guṇa, 
 before every ending [3.4.114, preview: c03.l05, names such an affix ārdhadhātuka]. Then the ending
 decides: before तिप् the उ takes guṇa — करोति; before तस् and झि it takes none, and 6.4.110 turns the
 अ of कर् into उ — कुरुतः, कुर्वन्ति. The weak stem is कुरु-; करु- is only a string on the way, never a
-stem you write. The Kāśikā's examples are *kurutaḥ, kurvanti*, and its counter-example, "only before
-a kṅit", is *karoti*.
+stem you write. The Kāśikā's examples are *kurutaḥ, kurvanti*, and its counter-examples, "only
+before a kṅit", are *karoti, karoṣi, karomi*.
 
 **6. The अ of श्न and of अस् — D, 6.4.111 श्नसोरल्लोपः** (śnasor allopaḥ).
 
@@ -476,10 +476,10 @@ shapes — in c02.l02 the ल् of अगच्छत् became तिप्, a
 शृणोतु; शृणवानि, शृणवाम, against शृणुताम्, शृण्वन्तु, शृणु, शृणुत.
 
 The rules behind this are in Teacher Notes: the singular endings of laṅ stand in place of तिप्, सिप्,
-मिप् and count as p-marked; the 1st-person endings of loṭ take an augment that is p-marked; and the
-2nd singular ending of loṭ is made apit and is then dropped after the उ of नु — शृणु, the R4 word of
-v3.c03.l04. करोति does the same: अकरोत्, अकुर्वन्; करोतु, कुर्वन्तु, कुरु, करवाणि — whose ण is your ṇ
-rule of c02.l03: र, then अ, व and आ between, then न.
+मिप् and count as p-marked; the 1st-person endings of loṭ take an augment and are themselves made
+p-marked; and the 2nd singular ending of loṭ is made apit and is then dropped after the उ of नु —
+शृणु, the R4 word of v3.c03.l04. करोति does the same: अकरोत्, अकुर्वन्; करोतु, कुर्वन्तु, कुरु,
+करवाणि — whose ण is your ṇ rule of c02.l03: र, then अ, व and आ between, then न.
 
 ### Step 7 — your runs
 
@@ -583,8 +583,8 @@ neutral and the lower lip rises to the teeth for व.
 1. **Applying strong and weak to thematic verbs: a weak \*भुवतः for भवतः.** *Fix:* the thematic
    classes (1, 4, 6, 10) have no split: the sign अ takes the endings, and अ has no इक् to change.
    Sort first (§18 exercise 5).
-2. **"ङ् blocks guṇa; क् blocks guṇa and vṛddhi"** — the 1.x card. *Fix:* 1.1.5 blocks both, before
-   both (§8 Step 3).
+2. **ङ् blocks only guṇa, क् blocks guṇa and vṛddhi** — the 1.x card's claim, its words quoted in §8
+   Step 3. *Fix:* 1.1.5 blocks both, before both (§8 Step 3).
 3. **\*शृणोन्ति, \*करोन्ति.** *Fix:* झि has no p: ṅit (1.2.4) → no guṇa (1.1.5): शृण्वन्ति, कुर्वन्ति.
 4. **\*अस्न्ति or \*असन्ति.** *Fix:* 6.4.111 drops the अ of अस् before a kṅit ending: सन्ति, स्तः.
 5. **\*प्रच्छति, with the root unchanged.** *Fix:* श has no p: ṅit (1.2.4); 6.1.16 gives samprasāraṇa
@@ -800,8 +800,8 @@ taught them — seven per verb, twelve verbs. Strong cells first in each group.
 Five notes. **अस्ति** loses its अ in every weak cell — स्तः, सन्ति, स्थ, स्मः — and keeps it in असि,
 whose ending is सिप्. **याति and स्वपिति** have the split too, but nothing for it to change: या and
 स्वप् have no इक्. The इ of स्वपिति is lesson 2's augment (7.2.76), before an ending that begins with
-a consonant; before अन्ति there is none: स्वपन्ति. **आप्नुवन्ति** keeps its उ as उव्, because a conjunct
-stands before the नु [Teacher Notes]; शृण्वन्ति has no conjunct there. **हंसि**, with the anusvāra
+a consonant; before अन्ति there is none: स्वपन्ति. **आप्नुवन्ति** keeps its उ as उव्, because a conjunct,
+प्न्, stands before that उ [Teacher Notes]; शृण्वन्ति has no conjunct there. **हंसि**, with the anusvāra
 before स, is §10's note. **जानाति** is जा, by 7.3.79 [K, lesson 2's card], with श्ना, as गृह्णाति.
 
 ### laṅ and loṭ, the same split
@@ -810,7 +810,7 @@ Shown on शृणोति and करोति; the strong cells are in bold. V
 you own (3.4.85, 3.4.86; v3.c03.l04), and listed among their cells अकरोत् and अकुर्वन् [v3.c03.l03],
 करोतु, कुर्वन्तु and कुरु [v3.c03.l04]. They are cells of this table now. The cells of करोति are
 checked against Whitney [REF:whitney1889 §714], those of शृणोति against the Laghusiddhāntakaumudī's
-list under 6.4.106 [REF:laghukaumudi on 6.4.106].
+lists under 6.4.107 and 6.4.106 [REF:laghukaumudi on 6.4.107]; [REF:laghukaumudi on 6.4.106].
 
 | | 3sg · 3du · 3pl | 2sg · 2pl | 1sg · 1pl |
 |---|---|---|---|
@@ -820,16 +820,20 @@ list under 6.4.106 [REF:laghukaumudi on 6.4.106].
 | करोति, loṭ | **करोतु** · कुरुताम् · कुर्वन्तु | कुरु · कुरुत | **करवाणि** · **करवाम** |
 
 The pattern for every athematic verb you own: **laṅ** strong in the 3rd, 2nd and 1st singular only;
-**loṭ** strong in the 3rd singular and in all the 1st persons. The 2nd singulars शृणु, कुरु and देहि
-stay as Volume 3 listed them, and गृहाण is a listed form of गृह्णाति: their rules are in Teacher
-Notes. अकुर्म, like कुर्मः, drops the उ before म्.
+**loṭ** strong in the 3rd singular and in all the 1st persons. The 2nd singulars शृणु and कुरु stay
+as Volume 3 listed them, and गृहाण is a listed form of गृह्णाति: their rules are in Teacher Notes.
+देहि stays an R4 word of ददाति, read whole: its rules are not taught. अकुर्म, like कुर्मः, drops the
+उ before म्.
 
 ### R4 closes
 
 Volume 3 gave you athematic cells to read whole, on its R4 cards. Of them, these are now cells of
 tables you can build: शृण्वन्ति, जानन्ति, गृह्णन्ति and स्वपन्ति [v3.c03.l01], in the present table
-above; अशृणोत् and अगृह्णात् [v3.c03.l03], in laṅ; and शृणु [v3.c03.l04], in loṭ. ददति, अददात् and
-देहि stay listed cells of ददाति, whose doubling is lesson 4's. The R4 words were taught whole first
+above; अशृणोत् and अशृण्वन् [v3.c03.l03], in laṅ; and शृणु [v3.c03.l04], in loṭ. The R4 words that
+no table here prints keep their Volume 3 status, read whole: अगृह्णात्, अजानात्, अस्वपत्, अब्रुवन्,
+जानीहि, गृहाण, and ददाति's ददति, अददात् and देहि. Lesson 4 gives the doubling of the perfect and the
+rule that shortens the first vowel of दद-, not these cells: ददाति stays as Volume 3 left it, its
+ददाति, ददासि, ददामि and ददातु yours and the rest ◐. The R4 words built here were taught whole first
 and are analysed now, as formulaic chunks are taught whole and analysed later [REF:nation2013]. And
 अस्, कृ, "learned whole" in v3.c03.l01, are explained: स्तः and कुरुतः are weak cells.
 
@@ -846,17 +850,18 @@ kṛt table.
 | ज्, ट् · श्, ङ् [initial] | जस्, टा · शस्, ङे, ङसिँ, ङस्, ङि | marker | Teacher Notes · 1.3.8 | c02.l01 |
 | स्, म् [final, in an ending] | भिस्, जस्, अम्, आम्; तस्, थास्, ध्वम् | **not** a marker | Teacher Notes | c02.l01, c03.l01 |
 | ट् | अट् [augment] | at the beginning | 1.1.46 | c02.l02 |
-| ङ् | लङ् | ṅit l-affix: इ of the P ending dropped | 3.4.99–100 | c02.l02 |
+| ङ् | लङ् | ṅit l-affix: इ of the P ending dropped; स् of the 1st-person ending dropped | 3.4.100; 3.4.99 | c02.l02; c02.l03 |
 | ट् | लट् | Ā ṭi → ए | 3.4.79 | c03.l01 |
-| ञ् · the marker vowel's accent | roots | pada | 1.3.12, 1.3.72 | c03.l01 |
+| ङ्, ञ् · the marker vowel's accent | roots | pada | 1.3.12, 1.3.72 | c03.l01 |
 | श् | शप्, श, श्नु … | sārvadhātuka | 3.4.113 | c03.l02 |
 | प् [present / absent] | endings, class signs | strong / weak | 1.2.4, 1.1.5 | c03.l03 |
 | ण्, ञ् | णल्, णिच्, ञ-taddhitas | vṛddhi | 7.2.115–117 | c03.l04, c05.l02, c04.l03 [○ preview] |
-| क् | क्त, क्त्वा, यक् | no guṇa | 1.1.5 | c04.l01, c05.l01 [○ preview] |
+| क् | क्त, क्त्वा, यक् | no guṇa or vṛddhi | 1.1.5 | c04.l01, c05.l01 [○ preview] |
 | ड् | ड [upapada], डा [luṭ] | ṭi deleted | 6.4.143 | c04.l04, c03.l05 card [○ preview] |
 
-"The marker vowel's accent" stands where an accented अ decides the pada: the course names the accent
-and does not show it (lesson 1). 7.2.117 and 6.4.143 are printed by number as previews only.
+"The marker vowel's accent" stands where an accented अ decides the pada: the course mentions that
+accent but names and shows none (lesson 1). 7.2.117 and 6.4.143 are printed by number as previews
+only.
 
 ### The tools, by tier
 
@@ -871,9 +876,10 @@ and does not show it (lesson 1). 7.2.117 and 6.4.143 are printed by number as pr
 - **Re-read [owned]:** 7.3.84 [B], 3.1.68 [B], 3.4.113 [B], 1.3.8 [B], 1.1.3 [B]; 8.4.1 [Q, c02.l03];
   6.1.77 [owned]; 8.2.66 · 8.3.15 [owned D, c02.l01] — not re-counted. **Card [K, lesson 2]:** 3.1.79,
   3.1.77, 3.1.78, 2.4.72, 7.3.79.
-- **Pointers [numbers printed, not tools]:** 3.4.114 [preview: c03.l05]; 7.2.115, 7.2.117 [preview:
-  c03.l04]; 6.4.143 [preview: c03.l05 card, c04.l04]; 3.4.85, 3.4.86 [owned, v3.c03.l04]; and the
-  numbers inside the bracket lines, which say where a carried word or a heading comes from.
+- **Pointers [numbers printed, not tools]:** 3.4.114 [preview: c03.l05]; 7.2.115 [preview: c03.l04];
+  7.2.117 [preview: c04.l03]; 6.4.143 [preview: c03.l05 card, c04.l04]; 3.4.85, 3.4.86 [owned,
+  v3.c03.l04]; and the numbers inside the bracket lines, which say where a carried word or a heading
+  comes from.
 
 ### Toolbox card
 
@@ -887,26 +893,31 @@ and does not show it (lesson 1). 7.2.117 and 6.4.143 are printed by number as pr
 Chapters 1–2's forty-three are on the card of v4.c02.l04 §15; lessons 1 and 2's on their own cards.
 
 **Previewed:** the ṇ-marker's vṛddhi (c03.l04); the k-marker on kta (c04.l01); the ḍ-marker's
-ṭi-deletion (c03.l05 card, c04.l04). **Deferred:** the class-3 cells beyond ददाति's listed ones (◐;
-the doubling tools come in c03.l04); the athematic ātmanepada cells beyond the listed (◐). **Payoff:**
-R4 closes; अस् and कृ are explained; the Kāśikā's कुरुतः, कुर्वन्ति under 1.2.4 are read in c06.l02.
+ṭi-deletion (c03.l05 card, c04.l04). **Deferred:** ददाति's cells beyond ददाति, ददासि, ददामि and
+ददातु [◐; lesson 4 gives the perfect's doubling and the rule that shortens the first vowel of दद-,
+not these cells]; every other laṅ or loṭ cell of an athematic verb (◐); the athematic ātmanepada
+cells beyond the listed (◐). **Payoff:** R4 closes for the cells the tables print; अस् and कृ are
+explained; the Kāśikā's कुरुतः, कुर्वन्ति under 1.2.4 are read in c06.l02.
 
 ### Paradigm ledger (v4.c03.l03)
 
 | Item | Status |
 |---|---|
 | pit or not, and so a strong or a weak stem before it, for an ending or a class sign — "according to Pāṇini" (1.2.4 + 1.1.5) | ✓ |
-| the laṭ, laṅ and loṭ parasmaipada of the owned athematic verbs — the singular and plural in all persons and the 3rd dual, Volume 3's formula | ✓ |
-| ददाति in its listed cells | ✓ |
+| the laṭ parasmaipada of the twelve verbs of §15's full present — the singular and plural in all persons and the 3rd dual, Volume 3's formula | ✓ |
+| the laṅ and loṭ parasmaipada cells of शृणोति and करोति that §15 prints, and the laṅ and loṭ cells of athematic verbs that are ✓ since Volume 3 (आसम्, आसीत्, आसन्; अस्तु, सन्तु; अयात्; the chunk अब्रवीत्) | ✓ |
+| ददाति in its cells of Volume 3: ददाति, ददासि, ददामि and the chunk ददातु | ✓ |
 | शृणोति, शृण्वन्ति derived; करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति, पृच्छति derived | ✓ |
 | the thematic / athematic sort: which verbs have a split | ✓ |
-| the class-3 cells beyond ददाति's listed ones | ◐ — the doubling: lesson 4 |
+| every other laṅ or loṭ cell of an athematic verb (अगृह्णात्, अजानात्, अस्वपत्, अब्रुवन्, एधि, अहन्, अघ्नन्, जहि, ऐत्, आयन्, इहि, ब्रूहि, अयुनक्, युङ्ग्धि and the like) | ◐ — never asked, scored or offered as a wrong option |
+| ददाति's other cells — its R4 words ददति, अददात्, देहि and the rest of the class-3 present | ◐ — lesson 4 gives the perfect's doubling and the rule that shortens the first vowel of दद-, not these cells |
 | the athematic ātmanepada cells beyond the listed (ब्रूते, कुरुते) | ◐ — read when met in a passage |
 | the 2nd- and 1st-person duals | ◐ — as in Volume 3 |
 | the anubandha card; 6.4.113 and lesson 2's sign rules | card [K] — looked up, never assessed |
 | the kṛt evidence table; the card's last three rows | ○ — c03.l04, c04.l01, c03.l05 and c04.l04 |
 
-Every other line stands as at v4.c03.l02. R4 closes.
+Every other line stands as at v4.c03.l02. R4 closes for the cells the tables print; the other R4
+words keep their Volume 3 status (◐).
 
 ✓ productive — you produce it: exercises, quiz and exam may ask for it · ◐ recognition — you
 read it when you meet it; nothing asks you to produce it, and nothing scores it · ○ display —
@@ -976,7 +987,7 @@ suspicion. Our retelling, after Pañcatantra 4 (Labdhapraṇāśa), frame story 
 present tense only.
 
 In episode 2 (lesson 2 §17) the crocodile refused his wife — "the monkey is my friend" — and crossed
-back to the bank, thinking of the monkey. Here is what happens next. Each line is printed joined, its
+the river, thinking of the monkey. Here is what happens next. Each line is printed joined, its
 pause form beneath, then the gloss. Audio: 🔊 in
 `planned:assets/audio/volume-4/v4c03l03-conversation.mp3`, after the dialogue.
 
@@ -1045,7 +1056,7 @@ is owned: करोति since v2.c04.l03, अस्ति since v1.c05.l02, �
 **अभ्यासः 4 · six sentences (objective 4; production; homework, 8 minutes, written, then said aloud,
 the key check included).** In Sanskrit, joined, with the pause form beneath: (1) "The teacher says
 this." (2) "The students say this." (3) "The hunters kill the deer." (4) "They go to the forest." (5)
-"We listen to the teacher." (6) "The man yokes the chariot."
+"We listen to the teacher." (6) "The hunter yokes the chariot."
 
 **अभ्यासः 5 · the sort (objective 1; in class, 3 minutes).** Thematic or athematic? Does it have a
 strong/weak split? भवति, शृणोति, नृत्यति, अस्ति, पृच्छति, करोति, कथयति, एति. Two minutes to write; one
@@ -1064,7 +1075,7 @@ mid-quiz.
 1. According to Pāṇini (1.2.4), an apit sārvadhātuka affix counts as: (a) p-marked; (b) ārdhadhātuka;
    (c) ṅ-marked; (d) a taddhita
 2. According to Pāṇini (1.1.5), before a ṅ-marked affix: (a) only vṛddhi is blocked; (b) only guṇa is
-   blocked; (c) guṇa is required; (d) neither guṇa nor vṛddhi
+   blocked; (c) guṇa is required; (d) both guṇa and vṛddhi are blocked
 3. According to Pāṇini, which ending gives a strong stem? (a) तिप्; (b) तस्; (c) झि; (d) थस्
 4. The 3rd plural present of अस् is: (a) स्तः; (b) सन्ति; (c) अस्ति; (d) स्थ
 5. The 3rd dual present of कृ is: (a) करोति; (b) कुर्वन्ति; (c) करोषि; (d) कुरुतः
@@ -1115,8 +1126,9 @@ Score /10; 7 passes.
 **Previous-lesson prompts (§3).**
 
 1. सन्ति; कुर्वन्ति — v3.c03.l01, learned whole; today derived (§18 exercise 3, items 5 and 3).
-2. अशृणोत्; अगृह्णात् — v3.c03.l03, R4 words read whole; today cells of laṅ (§15).
-3. शृणु — v3.c03.l04, an R4 word; today a cell of loṭ (§15).
+2. "(he) heard"; "(he) took, seized" — v3.c03.l03, R4 words read whole; today अशृणोत् is a cell of
+   §15's laṅ table, and अगृह्णात् keeps its Volume 3 status.
+3. "hear!" or "listen!", said to one person — v3.c03.l04, an R4 word; today a cell of §15's loṭ table.
 4. शृणोति; जानाति — v2.c04.l01; today their weak cells too: शृणुतः, जानीतः — §15.
 
 **Exercise keys.**
@@ -1140,7 +1152,7 @@ before it: नयति. Not pit, so ṅit by 1.2.4 and weak — items 2, 3, 5, 
 
 | Step | String | Sūtra | What happens |
 |---|---|---|---|
-| 0 | कर् + उ + तस् | as (1) to the class sign | two doers: तस् |
+| 0 | कर् + उ + तस् | as (1), steps 0–2: the class sign and the guṇa of ऋ | two doers: तस् |
 | 1 | कर् + उ + तस् | 1.2.4 [Q] · 1.1.5 [Q] | तस् is apit: ṅit, so no guṇa of उ |
 | 2 | कुर् + उ + तस् | 6.4.110 अत उत् सार्वधातुके [D] | the अ of कर् → उ before a kṅit sārvadhātuka |
 | 3 | **कुरुतः** | 8.2.66 · 8.3.15 [owned D, c02.l01] | स् → ः at the pause |
@@ -1165,10 +1177,12 @@ bruvanti.)
 ghnanti.)
 (4) ते वनं यन्ति। (te vanaṃ yanti.) — pause: ते वनम् यन्ति। (te vanam yanti.)
 (5) वयं गुरुं शृणुमः। (vayaṃ guruṃ śṛṇumaḥ.) — pause: वयम् गुरुम् शृणुमः। (vayam gurum śṛṇumaḥ.)
-(6) नरो रथं युनक्ति। (naro rathaṃ yunakti.) — pause: नरः रथम् युनक्ति। (naraḥ ratham yunakti.)
+(6) व्याधो रथं युनक्ति। (vyādho rathaṃ yunakti.) — pause: व्याधः रथम् युनक्ति। (vyādhaḥ ratham
+yunakti.)
 The joins: गुरुः एतत् → गुरुरेतत् — -उः before a vowel → -उर्; एतत् ब्रवीति → एतद्ब्रवीति — त् → द् before a
 voiced sound; छात्राः एतत् → छात्रा एतत् — -आः before a vowel → -आ and a gap; व्याधाः मृगान् → व्याधा
-मृगान् — -आः before a voiced consonant → -आ. Accept शिष्याः for छात्राः in (2) — शिष्या एतद्ब्रुवन्ति;
+मृगान् — -आः before a voiced consonant → -आ; व्याधः रथम् → व्याधो रथम् — -अः before a voiced
+consonant → ओ. Accept शिष्याः for छात्राः in (2) — शिष्या एतद्ब्रुवन्ति;
 one deer in (3) — व्याधा मृगं घ्नन्ति; शृण्मः in (5) [Teacher Notes]; and any correct order with correct
 seams. Score /12: one for each joined line, one for each pause form.
 
@@ -1201,7 +1215,7 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 ## 21. Homework
 
-गृहकार्यम् — 45 minutes in all.
+गृहकार्यम् — 47 minutes in all.
 
 1. **(12 min)** §18 exercise 3: करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति and पृच्छति derived in table form,
    the toolbox card open; then check each table against the key in §19.
@@ -1210,7 +1224,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 3. **(2 min)** §18 exercise 6: the शृणोति table read aloud, recorded.
 4. **(4 min)** §15 read: the full present, the laṅ and loṭ split and the anubandha card, once across
    and once down; then §13's kṛt table.
-5. **(4 min)** §16 aloud, both roles, joined, no pause at any seam.
+5. **(6 min)** §16 aloud, both roles, joined, no pause at any seam; then model sentences 1–6 (§6,
+   §13), each joined and then in its pause form, recorded.
 6. **(3 min)** §17 read aloud, the serial's episode 3.
 7. **(3 min, real world)** On a card for your wall, write the full present of two athematic verbs of
    §15 — one of class 2 and one of another class — from the rule, with §15 closed; then check it.
@@ -1225,22 +1240,25 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 अस्ति and सन्ति. Ask: "Same verb, same root — why two stems?" Then write तिप् beside शृणोति and झि
 beside शृण्वन्ति, and circle the प्. Do not answer until 1.2.4 and 1.1.5 are on the board.
 
-**Timing plan (45 min):** 0–7 Station 0, two items (item 1 4, item 2 3) · 7–10 the four §3 prompts,
-aloud (3) · 10–12 the Hook (2): शृणोति · शृण्वन्ति and अस्ति · सन्ति · 12–16 1.2.4 and 1.1.5 read with
-their padaccheda and bracket lines (3); the 1.x card box (1) · 16–22 derivation (a), शृणोति and
-शृण्वन्ति, with the teacher, 3.1.74 and 7.1.3 read in it (6) · 22–27 exercise 1, 3 to write and 2 to
-mark (5) · 27–30 exercise 5, the sort, 2 to write and 1 to check aloud (3) · 30–34 the strong/weak
-table of §13 read row by row, with 6.4.110, 6.4.111, 6.1.16 and 3.1.74 (4) · 34–37 the laṅ and loṭ
-split shown on शृणोति and करोति, §15 (3) · 37–43 exercise 2, 4 to write and 2 to mark (6) · 43–45
-model sentences 1–6 read aloud, joined (2). Exercises 3, 4 and 6, the kṛt table and the anubandha
-card (read at home with §15), §16, §17 and the §19 quiz are homework (§21). Exercises 1, 5 and 2 are
+**Timing plan (45 min):** 0–10 Station 0, two items (item 1 5, item 2 5) · 10–12 the four §3
+prompts, aloud, one or two words each (2) · 12–14 the Hook (2): शृणोति · शृण्वन्ति and अस्ति · सन्ति ·
+14–18 1.2.4 and 1.1.5 read with their padaccheda and bracket lines (3); the 1.x card box (1) · 18–24
+derivation (a), शृणोति and शृण्वन्ति, with the teacher, 3.1.74 and 7.1.3 read in it (6) · 24–29
+exercise 1, 3 to write and 2 to mark (5) · 29–32 exercise 5, the sort, 2 to write and 1 to check
+aloud (3) · 32–36 the strong/weak table of §13 read row by row, with 6.4.110, 6.4.111, 6.1.16 and
+3.1.74 (4) · 36–39 the laṅ and loṭ split shown on शृणोति and करोति, §15 (3) · 39–45 exercise 2, 4 to
+write and 2 to mark (6). Exercises 3, 4 and 6, model sentences 1–6 read aloud and recorded, the kṛt
+table and the anubandha card (read at home with §15), §16, §17 and the §19 quiz are homework
+(§21). Exercises 1, 5 and 2 are
 marked in class, inside their slots. Exercise 2 comes after the laṅ and loṭ split because its items
 9–12 ask for laṅ and loṭ cells. §16 is not read in class.
 
-**Station 0, in class.** Item 1 is four minutes for ten verbs: watch for आप्नोति and करोति given
+**Station 0, in class.** Item 1 is five minutes for ten verbs, four to write and one to mark:
+watch for आप्नोति and करोति given
 class 1, for याति and ददाति given a sign (both have none: शप् deleted, or श्लु with the root doubled),
 for कथयति given शप् alone, and for गच्छ given without 7.3.77. Accept either shape of the class-5, -8
-and -9 stems, and use the learners' two shapes as the bridge to the Hook. Item 2 is three minutes:
+and -9 stems, and use the learners' two shapes as the bridge to the Hook. Item 2 is five
+minutes, four to write and one to mark:
 the slips to watch for are step 5 given as 1.4.99 alone (1.3.78 decides the set; 1.4.99 names it)
 and steps 4–6 out of the chain's order. Log both scores.
 
@@ -1320,11 +1338,12 @@ reads the absence of p through 1.2.4.
 **Commentary lines behind the lesson** — text of the GRETIL e-text; IAST as the e-text has it, with
 the corrections listed (none other is made). Their sense gives the English lines of §8.
 
-- **The Kāśikā on 1.2.4** (lines 1917–1925): *sārvadhātukaṃ yad apit tan ṅidvad bhavati / kurutaḥ /
+- **The Kāśikā on 1.2.4** (lines 1917–1927): *sārvadhātukaṃ yad apit tan ṅidvad bhavati / kurutaḥ /
   kurvanti / cinutaḥ / cinvanti / sārvadhatukam iti kim ? kartā / kartum / kartavyam / apit iti kim ?
-  karoti /* — read *sārvadhatukam* as *sārvadhātukam*. "A sārvadhātuka affix that is not p-marked is
-  like a ṅit … Why 'sārvadhātuka'? kartā, kartum, kartavyam. Why 'not p-marked'? karoti." The source of
-  §4's callout. चि "gather", in *cinutaḥ*, is no verb of the learner's.
+  karoti / karoṣi / karomi /* — read *sārvadhatukam* as *sārvadhātukam*. "A sārvadhātuka affix that
+  is not p-marked is like a ṅit … Why 'sārvadhātuka'? kartā, kartum, kartavyam. Why 'not p-marked'?
+  karoti, karoṣi, karomi." The source of §4's callout. चि "gather", in *cinutaḥ*, is no verb of the
+  learner's.
 - **On 1.1.5** (lines 402–410): *nimitta-saptamy eṣā / kṅin-nimitte ye guṇa-vṛddhī prāpnutaḥ, te na
   bhavataḥ / citaḥ, citavān / stutaḥ, stutavān / bhinnaḥ, bhinnavān / mṛṣṭaḥ, mṛṣṭavān / ṅiti khalv
   api - cinutaḥ, cinvanti / mṛṣṭaḥ, mṛjanti / gakāro 'pi atra cartva-bhūto nirdiśyate /* — no
@@ -1347,21 +1366,24 @@ the corrections listed (none other is made). Their sense gives the English lines
   the bracket line prints the file's word whole.
 - **On 6.1.16** (lines 51541–51544): *graha upādāne … praccha jñīpsāyām, bhrasja pāke ity eteṣāṃ
   dhātūnāṃ ṅīti pratyaye parataḥ cakārāt kati ca saṃprasāraṇaṃ bhavati / graha - gṛhītaḥ … ṅiti -
-  gṛhṇāti* — read *ṅīti* as *ṅiti*.
-- **On 6.4.113** (line 65521): *śnāntānām aṅgānām abhyastānāṃ ca ghuvarjitānām ātaḥ īkārādeśo bhavati
-  halādau sārvadhātuke kṅiti parataḥ / lunītaḥ / punītaḥ /* — no correction. "Of aṅgas ending in śnā,
-  and of doubled ones other than ghu, the ā is replaced by ī before a consonant-initial kṅit
-  sārvadhātuka." The card's English line follows it.
+  gṛhṇāti …* — read *ṅīti* as *ṅiti*.
+- **On 6.4.113** (lines 65521–65523): *śnāntānām aṅgānām abhyastānāṃ ca ghuvarjitānām ātaḥ
+  īkārādeśo bhavati halādau sārvadhātuke kṅiti parataḥ / lunītaḥ / punītaḥ /* — no correction. "Of
+  aṅgas ending in śnā, and of doubled ones other than ghu, the ā is replaced by ī before a
+  consonant-initial kṅit sārvadhātuka." The card's English line follows it.
 - **The Laghusiddhāntakaumudī on 6.4.87** (VLk 503, lines 1683–1684): *huśnuvoranekāco
   'saṃyogapūrvasyovarṇasya yaṇ syādaci sārvadhātuke / śṛṇvanti / śṛṇoṣi / śṛṇuthaḥ / śṛṇutha /
   śṛṇomi //* — no correction. Its conditions are the ones above.
 - **The Laghusiddhāntakaumudī on 6.4.106** (VLk 505, lines 1689–1690): *asaṃyogapūrvātpratyayoto
   herluk / śṛṇu, śṛṇutāt / śṛṇutam / śṛṇuta / guṇāvādeśau / śṛṇavāni / śṛṇavāva / śṛṇavāma / aśṛṇot /
   aśṛṇutām / aśṛṇvan / aśṛṇoḥ / aśṛṇutam / aśṛṇuta / aśṛṇavam / aśṛṇva, aśṛṇuva / aśṛṇma, aśṛṇuma /
-  …* — no correction. The source of §15's laṅ and loṭ of शृणोति.
+  …* — no correction. With VLk 504 under 6.4.107 (line 1687: *… śṛṇotu, śṛṇutāt / śṛṇutām /
+  śṛṇvantu //*), the source of §15's laṅ and loṭ of शृणोति.
 
-**R4, the rest.** The R4 words of Volume 3 that §15 does not name — अस्वपत्, जानीहि and गृहाण — keep
-their Volume 3 status; गृहाण's rule is above. If a learner asks about class 4: श्यन् has no p either,
+**R4, the rest.** The R4 words of Volume 3 that no table of §15 prints — अगृह्णात्, अजानात्,
+अस्वपत् [also अस्वपीत्], अब्रुवन्, जानीहि, गृहाण, and ददाति's ददति, अददात् [3pl अददुः] and देहि —
+keep their Volume 3 status (◐): read whole, never asked, scored or offered as a wrong option;
+गृहाण's rule is above. If a learner asks about class 4: श्यन् has no p either,
 so नृत्यति keeps its ऋ — never \*नर्त्यति — and the Chapter 3 exam's spiral reads सिध्यन्ति the same way.
 Confirm it; do not teach it as a new point.
 
@@ -1416,8 +1438,8 @@ Lesson video, ~6 min, presenter + motion graphics.
    6.1.16: पृच्छति.
 5. **Class 6 and the -अ stems (4:00–4:40):** लिखति: the sign श, no badge — the इ stays. Then भवति,
    भवतः, भवन्ति: the endings meet only the अ; a crossed-out \*भुवतः fades.
-6. **The 1.x card (4:40–5:20):** a box "ङ् blocks guṇa; क् blocks guṇa + vṛddhi"; it cracks, and one
-   line replaces it: "1.1.5 — both markers block both".
+6. **The 1.x card (4:40–5:20):** a box with the card's two lines, "ङ् (ṅ) → Blocks guṇa" and "क् (k)
+   → Blocks guṇa + vṛddhi"; it cracks, and one line replaces it: "1.1.5 — both markers block both".
 7. **Recap (5:20–6:00):** the ledger counter ticks 548 → 552; the toolbox counter 68 → 75. End card:
    "Next: the perfect".
 

@@ -23,7 +23,7 @@ objectives:
   - en: "Fill eight strong and weak cells and say why, according to Pāṇini."
     hi: "आठ सबल-निर्बल रूप भरें और पाणिनि के अनुसार कारण बताएँ।"
   - en: "Read an unseen Hitopadeśa dialogue with its glosses and answer six questions."
-    hi: "हितोपदेश का एक अनदेखा संवाद पढ़ें और छह प्रश्नों के उत्तर दें।"
+    hi: "हितोपदेश का एक अनदेखा संवाद, हाशिये में दिए अर्थों के साथ, पढ़ें और छह प्रश्नों के उत्तर दें।"
   - en: "Tell an episode of the serial with four perfects, then say what each character will do with four futures."
     hi: "धारावाहिक का एक प्रसंग चार लिट् रूपों से कहें, फिर चार लृट् रूपों से बताएँ कि हर पात्र क्या करेगा।"
 new_letters: []
@@ -71,7 +71,7 @@ future. The title, **तृतीयपरीक्षा** (tṛtīyaparīkṣ�
 | 1 | Fill the eighteen 3rd-person cells of the six productive rows of the √भू table, name the other four rows, and read one unseen rule about a lakāra. | भू-तालिका की छह उत्पादक पंक्तियों के अठारह प्रथम-पुरुष रूप भरें, बाकी चार पंक्तियों के नाम बताएँ, और लकार का एक अनदेखा सूत्र पढ़ें। |
 | 2 | Name the class, class sign and present stem of twelve owned verbs. | बारह परिचित क्रियाओं का गण, विकरण और वर्तमान-अङ्ग बताएँ। |
 | 3 | Fill eight strong and weak cells and say why, according to Pāṇini. | आठ सबल-निर्बल रूप भरें और पाणिनि के अनुसार कारण बताएँ। |
-| 4 | Read an unseen Hitopadeśa dialogue with its glosses and answer six questions. | हितोपदेश का एक अनदेखा संवाद पढ़ें और छह प्रश्नों के उत्तर दें। |
+| 4 | Read an unseen Hitopadeśa dialogue with its glosses and answer six questions. | हितोपदेश का एक अनदेखा संवाद, हाशिये में दिए अर्थों के साथ, पढ़ें और छह प्रश्नों के उत्तर दें। |
 | 5 | Tell an episode of the serial with four perfects, then say what each character will do with four futures. | धारावाहिक का एक प्रसंग चार लिट् रूपों से कहें, फिर चार लृट् रूपों से बताएँ कि हर पात्र क्या करेगा। |
 
 Objective 1 is assessed in §18 task A and in §19 (Q5, Q6); objective 2 in task B and in §19 (Q1,
@@ -97,10 +97,11 @@ scores logged beside the earlier ones [REF:cepeda2006].
 
 - +1 day: eight futures — say and write the 3rd singular and the 3rd plural future of करोति, गच्छति, पठति, ददाति, नयति, पश्यति, लभते and तिष्ठति, from the future stems on your vocabulary card; v4.c03.l06's Station 0 runs exactly this.
 
-Four minutes in all, on the slip at the front of the booklet, which prints the eight verbs and
-nothing else. About three minutes to say each pair under your breath and write it, alone: the 3rd
-singular, then the 3rd plural; लभते takes the ātmanepada endings. The card is not on the desk, as no
-card is at a Station 0: the eight are rows of T12, the future you memorised (l05 §15), and their stems
+Four minutes in all, on the Station 0 slip, torn from the front of the booklet and handed out
+alone; it prints the eight verbs and nothing else. About three minutes to say each pair under your
+breath and write it, alone: the 3rd singular, then the 3rd plural; लभते takes the ātmanepada
+endings. No card is on the desk for this
+item: the eight are rows of T12, the future you memorised (l05 §15), and their stems
 are the ones your vocabulary card prints. Then one minute: swap slips with a neighbour and mark
 against the key below.
 
@@ -112,8 +113,8 @@ Five minutes in all, on the back of the same slip, which prints an empty four-co
 rows. About four minutes to write, alone: the table, Step · String · Sūtra — the gloss in "What
 happens" is optional — from memory; a D rule may be given by its gist in place of its number. Beneath
 the table, one line more, the prompt that reaches Volume 3's verb exam: **Name the four present-system
-lakāras.** Then one minute: swap, mark against the key, and log the two scores — the last minute of
-the ten.
+lakāras.** Then one minute: swap and mark against the key; and one minute more to log the two scores
+beside the earlier ones — the last minute of the ten.
 
 <details><summary>उत्तराणि · Station 0 key</summary>
 
@@ -131,7 +132,7 @@ exercise 1.
 | 0 | गम् + ल् [लिट्] → गम् + तिप् → गम् + णल् | 3.2.115 परोक्षे लिट् [Q] · 3.4.78 [B] · 3.4.82 [D] | liṭ; its ल् → तिप्; in liṭ, तिप् → णल् |
 | 1 | गम् + अ | a rule in Teacher Notes · 1.3.3 · 1.3.9 [B] | ण् and ल् of णल् are markers |
 | 2 | गम्गम् + अ | 6.1.8 लिटि धातोरनभ्यासस्य [D] | before liṭ the root is doubled; the first copy is the abhyāsa |
-| 3 | ग + गम् + अ | 7.4.60 हलादिः शेषः [D] | in the abhyāsa only the first consonant remains |
+| 3 | ग + गम् + अ | 7.4.60 हलादिः शेषः [D] | in the abhyāsa the first consonant remains, the others go |
 | 4 | ज + गम् + अ | 7.4.62 कुहोश्चुः [D] | ग → ज in the abhyāsa |
 | 5 | ज + गाम् + अ | 7.2.116 अत उपधायाः [D] | णल् is ṇ-marked: the penultimate अ → आ, vṛddhi |
 | 6 | **जगाम** | — | joined |
@@ -169,7 +170,8 @@ why the exam asks for the same knowledge by five routes.
 
 No new fact about Sanskrit enters today. What the language does is FACT, and Whitney states it
 without any rule-numbers. These are the lines the chapter set beside its rules, one sentence each, in
-four groups; where he writes a final -s, the course prints the visarga.
+four groups, each as he wrote it, final -s and all; the course's own cells print the visarga where he
+writes -s (बभूवतुः for his *babhūvátus*).
 
 > **[FACT · तथ्यम्]** The present system, in Whitney's words:
 > - "These classes have in common, as their most fundamental characteristic, a shift of accent: the tone being now upon the ending, and now upon the root or the class-sign." [REF:whitney1889 §604]
@@ -185,7 +187,7 @@ four groups; where he writes a final -s, the course prints the visarga.
 > - The endings, active: "1 *a* *vá* *má* · 2 *tha* *áthus* *á* · 3 *a* *átus* *ús*" — the nine of T10. [REF:whitney1889 §553]
 > - "But the *ū* of √*bhū* remains unchanged, and adds *v* before a vowel-ending: thus, *babhū́va* etc." [REF:whitney1889 §793]
 > - The 3rd persons of √*kṛ*: *cakā́ra*, *cakrátus*, *cakrús*. [REF:whitney1889 §800]
-> - "The root *ah* speak occurs only in the perfect indicative, and only in the 3d persons of all numbers and in the 2d sing. and du." [REF:whitney1889 §801]
+> - "The root *ah* speak occurs only in the perfect indicative, and only in the 3d persons of all numbers and in the 2d sing. and du., in active …" [REF:whitney1889 §801]
 > - "In the later language, it is simply a preterit or past tense, equivalent with the imperfect, and freely interchangeable or coördinated with it." [REF:whitney1889 §821]
 
 > **[FACT · तथ्यम्]** The aorist: "The aorist-system is a formation of infrequent occurrence in much of
@@ -310,10 +312,10 @@ its members hyphenated in the pause form: सूर्य-उदये.
 
 पहले पूरा अध्याय एक बार देख लीजिए। पहले पाठ ने हर क्रिया-रूप के नीचे एक ल् दिखाया: धातु के बाद
 कोई लकार आता है, और उसका ल् किसी तिङ् प्रत्यय में बदल जाता है। कौन-सा प्रत्यय, यह तीन प्रश्न तय
-करते हैं — कौन-सा पद (परस्मैपद या आत्मनेपद), कौन-सा पुरुष, कौन-सा वचन। दूसरे पाठ ने धातु और
+करते हैं — कौन-सा पद, परस्मैपद या आत्मनेपद; कौन-सा पुरुष; कौन-सा वचन। दूसरे पाठ ने धातु और
 प्रत्यय के बीच का विकरण दिखाया: दस गण, हर गण का नाम उसकी सूची के पहले धातु पर, और हर गण का अपना
 विकरण; साथ में वे धातु, जिनका अङ्ग ही बदल जाता है — पा से पिब, स्था से तिष्ठ। तीसरे पाठ ने बताया
-कि प्रत्यय में प् है या नहीं, इसी से तय होता है कि उससे पहले अङ्ग सबल होगा या निर्बल: तिप् में
+कि सार्वधातुक प्रत्यय में प् है या नहीं, इसी से तय होता है कि उससे पहले अङ्ग सबल होगा या निर्बल: तिप् में
 प् है, इसलिए एति में गुण है; झि में नहीं, इसलिए यन्ति में गुण नहीं। चौथे पाठ ने लिट् दिया — द्वित्व
 वाला भूतकाल: जगाम, ददौ, बभूव। पाँचवें ने लृट् दिया — स्य वाला भविष्यत्: भविष्यति, गमिष्यति; और
 बाक़ी चार लकारों को पहचानना और उनका नाम लेना सिखाया, उनके रूप बनाना नहीं।
@@ -401,9 +403,13 @@ forty-three beneath them — eighty-nine in all (§15 (7), the toolbox card).
 3. **What stands between.** In the present system, the class sign (3.1.68 and the class card), or a
    stem the root is replaced by; in liṭ, the root doubled (6.1.8) and णल् for तिप् [3.4.82]; in lṛṭ,
    स्य [3.1.33], with इट् where the root takes it (7.2.35).
-4. **Strong or weak.** Is the affix after the stem p-marked? If it is not, it counts as ṅ-marked
-   (1.2.4), and no guṇa or vṛddhi comes before it (1.1.5) — then the weak stem's own rule: 6.4.110
-   for कृ, 6.4.111 for अस् and the न of श्नम्.
+4. **Strong or weak.** Is the sārvadhātuka ending or sign after the stem p-marked? If it is not, it
+   counts as ṅ-marked (1.2.4), and no guṇa or vṛddhi comes before it (1.1.5) — then the weak stem's
+   own rule: 6.4.110 for कृ, 6.4.111 for अस् and the न of श्नम्. But 1.2.4 speaks of sārvadhātuka
+   affixes only. कृ's sign उ and the स्य of lṛṭ are ārdhadhātuka (3.4.114), and a root's final इक्
+   vowel takes guṇa before them (7.3.84): कर्-, भविष्यति, करिष्यति. In liṭ the singular endings count
+   as pit — णल् stands in place of तिप् — and the others as k-marked, by a card rule, 1.2.5 [K]:
+   जगाम, but जग्मुः; and after भू a second card rule, 1.2.6 [K], makes even णल् k-marked: बभूव.
 5. **The word.** Joined.
 
 Tiers stand in square brackets: [Q] quoted, recognised by its gist; [B] a step of the भवति derivation;
@@ -418,7 +424,7 @@ Copy this frame onto a sheet of your own and fill it from memory at home before 
 | block | from memory |
 |---|---|
 | the √भू table: the six rows you produce, three 3rd-person cells each, with the lakāra names | ___ |
-| the four rows you read: each one's name, its use in a few words, and its 3rd singular | ___ |
+| the four rows you read: each one's name and its 3rd singular | ___ |
 | the class card: ten classes, each by its first root, with its sign; the substitute stems and their roots | ___ |
 | the rule pair: which endings and which signs carry प्, and what follows for the stem before them | ___ |
 | T10, the nine P endings of the perfect; T12, the ten future stems | ___ |
@@ -500,9 +506,9 @@ and the lesson that fixes it.
 
 | # | Mistake | Fix |
 |---|---|---|
-| 1 | Producing the cells of a row you only read (भविता, अभूत्) as if asked | the four filled rows ask the lakāra's name and its use; their cells are printed for you (l05 §15, the card of the other four) |
+| 1 | Producing the cells of a row you only read (भविता, अभूत्) as if asked | the four filled rows ask only the lakāra's name; their cells are printed for you (l05 §15, the card of the other four) |
 | 2 | Taking a book's label for a lakāra on trust: "perfect (remote, witnessed)", "imperfect (recent)" | read the rule itself, by the case code, with its bracket line: 3.2.115 says परोक्षे, "out of sight" — so not "witnessed" (l04 §8 Step 3) |
-| 3 | Calling पिबति, लिखति or जायते "irregular" | पिबति: class 1, its stem पिब by 7.3.78; लिखति: class 6, and श has no प्, so no guṇa; जायते: class 4, its stem जा by 7.3.79 [K] (l02 §15, the two cards) |
+| 3 | Calling पिबति, लिखति or जायते "irregular" | पिबति: class 1, its stem पिब by 7.3.78; लिखति: class 6, and श has no प्, so no guṇa; जायते: class 4, its stem जाय, with जा for जन् by 7.3.79 [K] (l02 §15, the two cards) |
 | 4 | A weak cell with guṇa: \*आप्नोतः | तस् has no प्: ṅit (1.2.4), so no guṇa (1.1.5): आप्नुतः [l03 §15, the rule pair] |
 | 5 | Mixing the two accounts of आह: a present "in Whitney's account", or a perfect "according to Pāṇini" | Whitney: a perfect, of a root *ah* (§801, FACT); Pāṇini: a substitute in ब्रू's laṭ (3.4.84, a card rule [K], TRADITION) — l04 §5. Neither account is asked today |
 | 6 | The perfect in the 1st person in task E | the perfect is the narrator's tense: narrate in the 3rd person; "I went" is अगच्छम् [l04 §12 mistake 1; l04 §16] |
@@ -527,11 +533,11 @@ printed here, and none of the retake sets' items.
 
 **A row you read, named.** Three cells of √कृ from lesson 5's card, named as task A1 asks:
 
-- **कर्ता** → लुट्, the periphrastic future: according to Pāṇini, a future not of today.
-- **अकार्षीत्** → लुङ्, the aorist: a past — an अ- before the root, and the स् of the s-aorist.
+- **कर्ता** → लुट्, the periphrastic future.
+- **अकार्षीत्** → लुङ्, the aorist — an अ- before the root, and the स् of the s-aorist.
 - **करिष्यति** → लृट्, the future: a row you produce, not one you read (T12).
 
-One mark for a filled row: its name and its use, both right. A cell you write for it earns nothing.
+One mark for a filled row: its name. A cell you write for it earns nothing.
 
 **A rule read by the case code, with its bracket line.** A rule you know, read as task A2 asks you to
 read one you do not know; the bracket line is lesson 4's (l04 §8 Step 3):
@@ -553,7 +559,7 @@ Task A2 asks the same four questions of a rule you have not read; one mark each,
 
 ### Task B's kind — a verb, sorted into its class
 
-- **नयति** → 1 भ्वादिः · शप् · नय — guṇa before शप्, which carries प् (l02 §13, derivation (a)).
+- **नयति** → 1 भ्वादिः · शप् · नय — guṇa before शप्, which carries प् [l02 §13, derivation (a)].
 - **शृणोति** → 5 स्वादिः, by its sign · श्नु · शृणो- / शृणु- — श्रु gets श्नु by 3.1.74 (l02 §12
   mistake 6).
 
@@ -574,12 +580,12 @@ gist for a weak cell. A verb's own weak rule earns nothing extra.
 Lesson 4's reading, part (b), again (l04 §13) — a model, not an unseen text; *tat śrutvā* stands apart,
 as the e-text has it.
 
-तत् श्रुत्वा राजा ब्रूते — कः कोऽत्र द्वारि तिष्ठति? (tat śrutvā rājā brūte — kaḥ ko 'tra dvāri tiṣṭhati?)
+तत् श्रुत्वा राजा ब्रूते — कः कोऽत्र द्वारि तिष्ठति? (tat śrutvā rājā brūte-kaḥ ko 'tra dvāri tiṣṭhati ?)
 pause form (ours): तत् श्रुत्वा राजा ब्रूते — कः कः अत्र द्वारि तिष्ठति? (tat śrutvā rājā brūte — kaḥ kaḥ atra dvāri tiṣṭhati?)
 "Hearing it, the king says: 'Who, who is there at the door?'" — यह सुनकर राजा कहता है — "कौन, कौन
 यहाँ द्वार पर खड़ा है?" ° द्वारि "at the door".
 
-… ततो राजापि खड्गमादाय तदनुसरणक्रमेण नगराद्बहिर्निर्जगाम। (… tato rājāpi khaḍgam ādāya tad-anusaraṇa-krameṇa nagarād bahir nirjagāma.)
+… ततो राजापि खड्गमादाय तदनुसरणक्रमेण नगराद्बहिर्निर्जगाम। (… tato rājāpi khaḍgam ādāya tad-anusaraṇa-krameṇa nagarād bahir nirjagāma |)
 pause form (ours): … ततः राजा अपि खड्गम् आदाय तत्-अनुसरण-क्रमेण नगरात् बहिः निर्जगाम। (… tataḥ rājā api khaḍgam ādāya tat-anusaraṇa-krameṇa nagarāt bahiḥ nirjagāma.)
 "… Then the king too took his sword and, following the sound, went out of the city." — … तब राजा
 भी तलवार लेकर, उस आवाज़ के पीछे-पीछे, नगर से बाहर निकल गया। ° तदनुसरणक्रमेण "following it".
@@ -616,7 +622,7 @@ The chapter in one table: 537 entering (Chapter 2's exit) + 28 ledger-new = **56
 exit; chain 537 → 542 → 548 → 552 → 558 → 565 → 565 (the exam adds none). The upgrade row of lesson 2,
 गणः, was drilled but not counted again (STYLE_GUIDE §8 rule 3); vocabulary_count across the chapter is
 5 · 7 · 4 · 6 · 7 · 0, lesson 2's seven being six ledger-new and the upgrade; tools added 15 · 10 · 7
-· 8 · 6 · 0, eighty-nine in the toolbox with Chapters 1–2's forty-three; cells drilled 18 · 30 · 84 ·
+· 8 · 6 · 0, eighty-nine in the toolbox with Chapters 1–2's forty-three; cells drilled 18 · 15 · 84 ·
 24 · 14 · 0, as each lesson's §14 prints its figure with what it counts. Joined spellings never count
 (rule 11). Affix and sign names with their markers, the lakāra names, the class names, the -कार
 names, every form met inside a sūtra or a commentary line, every derived cell and every cell of a row
@@ -626,18 +632,19 @@ tool and enters no count. Full rows, with their dictionary lines, are in each le
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
 | धातुः · अभिप्रायः · पचति · यजति · भयम् | dhātuḥ · abhiprāyaḥ · pacati · yajati · bhayam | /d̪ʱɑːt̪uh/ · /ɐbʱipɾɑːjɐh/ · /pɐt͡ɕɐt̪i/ · /jɐd͡ʑɐt̪i/ · /bʱɐjɐm/ | root (of a verb); element; metal · intention, purpose · cooks (Ā पचते …) · worships, sacrifices (Ā यजते …) · fear, danger | धातु · अभिप्राय, आशय · पकाता है · पूजा/यज्ञ करता है · भय, डर | v4.c03.l01, 5 ledger-new (537 → 542); cells drilled 18; tools added 15; full rows: l01 §14 |
-| जयति · तरति · हरति · सीदति · उत्तिष्ठति · चरति · गणः | jayati · tarati · harati · sīdati · uttiṣṭhati · carati · gaṇaḥ | /d͡ʑɐjɐt̪i/ · /t̪ɐɾɐt̪i/ · /ɦɐɾɐt̪i/ · /siːd̪ɐt̪i/ · /ut̪t̪iʂʈʰɐt̪i/ · /t͡ɕɐɾɐt̪i/ · /gɐɳɐh/ | conquers, prevails · crosses · takes away, carries · sits; sinks, despairs · rises, gets up · moves, wanders; grazes · group; a class of roots | जीतता है · पार करता है · ले जाता है, हरता है · बैठता है; डूबता है, निराश होता है · उठता है · चलता-फिरता है; चरता है · गण, समूह | v4.c03.l02, 6 ledger-new (542 → 548) and the upgrade गणः; cells drilled 30; tools added 10; full rows: l02 §14 |
+| जयति · तरति · हरति · सीदति · उत्तिष्ठति · चरति · गणः | jayati · tarati · harati · sīdati · uttiṣṭhati · carati · gaṇaḥ | /d͡ʑɐjɐt̪i/ · /t̪ɐɾɐt̪i/ · /ɦɐɾɐt̪i/ · /siːd̪ɐt̪i/ · /ut̪t̪iʂʈʰɐt̪i/ · /t͡ɕɐɾɐt̪i/ · /gɐɳɐh/ | conquers, prevails · crosses · takes away, carries · sits; sinks, despairs · rises, gets up · moves, wanders; grazes · group; a class of roots | जीतता है · पार करता है · ले जाता है, हरता है · बैठता है; डूबता है, निराश होता है · उठता है · चलता-फिरता है; चरता है · गण, समूह | v4.c03.l02, 6 ledger-new (542 → 548) and the upgrade गणः; cells drilled 15; tools added 10; full rows: l02 §14 |
 | ब्रवीति · हन्ति · एति · युनक्ति | bravīti · hanti · eti · yunakti | /bɾɐʋiːt̪i/ · /ɦɐn̪t̪i/ · /eːt̪i/ · /jun̪ɐkt̪i/ | says · kills, strikes · goes · yokes, joins | कहता है, बोलता है · मारता है · जाता है · जोतता है, जोड़ता है | v4.c03.l03, 4 ledger-new (548 → 552); cells drilled 84; tools added 7; full rows: l03 §14 |
 | पतिः · द्वयम् · श्लोकः · द्वारम् · खड्गः · प्राप्नोति | patiḥ · dvayam · ślokaḥ · dvāram · khaḍgaḥ · prāpnoti | /pɐt̪ih/ · /d̪ʋɐjɐm/ · /ɕloːkɐh/ · /d̪ʋɑːɾɐm/ · /kʰɐɖgɐh/ · /pɾɑːpn̪oːt̪i/ | lord; husband · pair, couple · verse · door, gate · sword · reaches, obtains | स्वामी; पति · जोड़ा, युग्म · श्लोक · द्वार, दरवाज़ा · तलवार, खड्ग · पाता है, पहुँचता है | v4.c03.l04, 6 ledger-new (552 → 558); cells drilled 24; tools added 8; full rows: l04 §14 |
 | मा भैषीः · नूनम् · हृदयम् · भार्या · प्रयोजनम् · यदि · वर्तनम् | mā bhaiṣīḥ · nūnam · hṛdayam · bhāryā · prayojanam · yadi · vartanam | /mɑː bʱɐi̯ʂiːh/ · /n̪uːn̪ɐm/ · /ɦr̩d̪ɐjɐm/ · /bʱɑːɾjɑː/ · /pɾɐjoːd͡ʑɐn̪ɐm/ · /jɐd̪i/ · /ʋɐɾt̪ɐn̪ɐm/ | do not be afraid! · surely, certainly · heart · wife · purpose, need, use · if · livelihood; wages | डरो मत! · ज़रूर, निश्चय ही · हृदय, दिल · पत्नी · प्रयोजन, ज़रूरत · यदि, अगर · रोज़ी, वेतन | v4.c03.l05, 7 ledger-new (558 → 565); cells drilled 14; tools added 6; full rows: l05 §14 |
 
 Review words on duty today, no rows: the owned words of §6 and §16 (गुरुः, सः, श्वः, सर्व, ऋषिः, देवः,
 वीरः, नदी, मृगः, वनम्, व्याधः, ग्रामः, शिष्यः and the like, in owned cells); in the tasks and keys, the
-twelve verbs of task B, the cells of task C, task D's उवाच, देहि, आह, द्वौ, बाहु [बाहू], तृतीयः, खड्गः,
+twelve verbs of task B, the cells of task C, task D's उवाच, देहि, आह, द्वौ, बाहु [बाहू], खड्गः,
 एतत् beside the headword वर्तनम्, and task E's मकरः, वानरः, समीपम्, वृक्षः, मित्रम्, फलम्, गृहम्, तीरम्
 beside भार्या and हृदयम्. Labels, never ledger words: the lakāra, affix, sign and class names; पकारः; झौ.
 Display only: the title, read whole — परीक्षा is no headword of the course; the cells of the four rows
-you read; task D's names and glossed words; the words of the thread verse, glossed as v3.c02.l05
+you read; task D's names and glossed words, and its तृतीयः, read from the case name तृतीया [the ordinal
+is c05.l04's]; the words of the thread verse, glossed as v3.c02.l05
 glossed them.
 
 ## 15. Grammar
@@ -655,12 +662,12 @@ Whitney (§5).
 
 | Lakāra | Name and use | 3sg | 3du | 3pl | Status | Whitney |
 |---|---|---|---|---|---|---|
-| लट् | the present; according to Pāṇini, for present time (3.2.123) | भवति | भवतः | भवन्ति | ✓ | §734 |
-| लङ् | the imperfect; its use, according to Pāṇini, is task A2's: the sitting reads it from its rule | अभवत् | अभवताम् | अभवन् | ✓ | §734 |
-| लोट् | the imperative: a command, a request | भवतु | भवताम् | भवन्तु | ✓ | §734 |
-| विधिलिङ् | the optative: "should", "may" | भवेत् | भवेताम् | भवेयुः | ✓ | §734 |
+| लट् | the present; according to Pāṇini, for present time (3.2.123) | भवति | भवतः | भवन्ति | ✓ | §735 |
+| लङ् | the imperfect; its use, according to Pāṇini, is task A2's: the sitting reads it from its rule | अभवत् | अभवताम् | अभवन् | ✓ | §742 |
+| लोट् | the imperative: a command, a request | भवतु | भवताम् | भवन्तु | ✓ | §739 |
+| विधिलिङ् | the optative: "should", "may" | भवेत् | भवेताम् | भवेयुः | ✓ | §738 |
 | लिट् | the perfect; according to Pāṇini, the past not of today, out of sight (3.2.115) | बभूव | बभूवतुः | बभूवुः | ✓ | §793, §800 |
-| लृट् | the future, in स्य | भविष्यति | भविष्यतः | भविष्यन्ति | ✓ | §932 |
+| लृट् | the future, in स्य | भविष्यति | भविष्यतः | भविष्यन्ति | ✓ | §§932–933 |
 | लुट् | the periphrastic future; according to Pāṇini, a future not of today | भविता | भवितारौ | भवितारः | ◐ | §944 |
 | लृङ् | the conditional: "would have" | अभविष्यत् | अभविष्यताम् | अभविष्यन् | ◐ | §940 |
 | लुङ् | the aorist: a past | अभूत् | अभूताम् | अभूवन् | ◐ | §829 |
@@ -881,7 +888,7 @@ Kāśikā [REF:ashtadhyayi]; [REF:kashika].
 The tier is the lesson's: Q quoted, recognised by its gist; B a step of the भवति derivation; D the
 authority for one step, never recalled by number — so the card is in your hands for task C, from
 minute 20 to minute 27. Not on the card: the rules owned since Volume 3 (6.1.87, 6.1.88, 6.1.101,
-6.1.77, 6.1.78, 8.2.66, 8.3.15 among them), named from memory; the chapter's card rules [K], looked up
+6.1.77, 6.1.78 among them), named from memory; the chapter's card rules [K], looked up
 and never assessed; and the rules of Teacher Notes.
 
 ### (8) Paradigm ledger (end of Chapter 3)
@@ -889,11 +896,11 @@ and never assessed; and the rules of Teacher Notes.
 | Item | Status |
 |---|---|
 | the √भू table: the 3rd persons of laṭ, laṅ, loṭ, vidhiliṅ, liṭ and lṛṭ, each row with its lakāra's name | ✓ |
-| the four rows you read — लुट्, लृङ्, लुङ्, आशीर्लिङ् — named, with their use, from their printed cells | ✓ — naming only |
+| the four rows you read — लुट्, लृङ्, लुङ्, आशीर्लिङ् — named from their printed cells | ✓ — naming only |
 | laṅ's use according to Pāṇini, as task A2 reads it from its rule; the domain of liṭ according to the Kāśikā | ✓ |
 | P, Ā or both for an owned verb, and its rule; the class, sign and present stem of an owned verb; the substitute stem and its rule, with that card open | ✓ |
 | pit or not, and so a strong or a weak stem before it — "according to Pāṇini" (1.2.4 + 1.1.5) | ✓ |
-| the laṭ, laṅ and loṭ P of the owned athematic verbs: the singular and plural in all persons and the 3rd dual | ✓ |
+| the laṭ P of the twelve athematic verbs of l03 §15 — the singular and plural in all persons and the 3rd dual; the laṅ and loṭ P cells l03 §15 prints for शृणोति and करोति; the athematic cells ✓ since Volume 3 | ✓ |
 | the perfect: the production table's cells and the one cell each vocabulary row prints; the future of every verb whose stem T12 or the card prints | ✓ |
 | derived, according to Pāṇini: पठति; नयति, जयति, स्मरति, हरति, तरति, चरति, वदति · शृणोति, शृण्वन्ति, करोति, कुरुतः, कुर्वन्ति, अस्ति, सन्ति, पृच्छति · जगाम, ददौ, पपाठ, पपाच, पपौ, चचार, ययौ · करिष्यति, गमिष्यति, पठिष्यति, भविष्यति, नेष्यति, दास्यति, हरिष्यति | ✓ |
 | मा भैषीः | ✓ — a chunk |
@@ -1014,24 +1021,24 @@ these items.
 **कार्यम् A · the √भू table, and a rule read cold (11 min; 26 marks; pass 19).**
 
 *A1 (7 min).* Fill the 3rd singular, dual and plural of भू in the six rows that are blank: laṭ, laṅ,
-loṭ, vidhiliṅ, liṭ, lṛṭ. For each of the four rows printed filled, write its lakāra name and its use in
-a few words.
+loṭ, vidhiliṅ, liṭ, lṛṭ. For each of the four rows printed filled, write its lakāra name in the first
+column.
 
-| Lakāra | 3sg | 3du | 3pl | Name and use |
-|---|---|---|---|---|
-| लृट् | ___ | ___ | ___ | — |
-| ___ | अभूत् | अभूताम् | अभूवन् | ___ |
-| लट् | ___ | ___ | ___ | — |
-| ___ | भविता | भवितारौ | भवितारः | ___ |
-| लिट् | ___ | ___ | ___ | — |
-| लङ् | ___ | ___ | ___ | — |
-| ___ | भूयात् | भूयास्ताम् | भूयासुः | ___ |
-| लोट् | ___ | ___ | ___ | — |
-| विधिलिङ् | ___ | ___ | ___ | — |
-| ___ | अभविष्यत् | अभविष्यताम् | अभविष्यन् | ___ |
+| Lakāra | 3sg | 3du | 3pl |
+|---|---|---|---|
+| लृट् | ___ | ___ | ___ |
+| ___ | अभूत् | अभूताम् | अभूवन् |
+| लट् | ___ | ___ | ___ |
+| ___ | भविता | भवितारौ | भवितारः |
+| लिट् | ___ | ___ | ___ |
+| लङ् | ___ | ___ | ___ |
+| ___ | भूयात् | भूयास्ताम् | भूयासुः |
+| लोट् | ___ | ___ | ___ |
+| विधिलिङ् | ___ | ___ | ___ |
+| ___ | अभविष्यत् | अभविष्यताम् | अभविष्यन् |
 
-One mark for each of the eighteen cells; one for each filled row whose name and use are both right. A
-cell written for a filled row earns nothing.
+One mark for each of the eighteen cells; one for each filled row whose name is right. A cell written
+for a filled row earns nothing.
 
 *A2 (4 min).* Read this rule by the case code, with its bracket line, and answer.
 
@@ -1060,7 +1067,7 @@ say, according to Pāṇini, why its stem is strong or weak. Each item names the
 square brackets, and the cell.
 
 (1) श्रु [शृणोति], 3rd dual laṭ · (2) कृ [करोति], 3rd dual laṭ · (3) कृ [करोति], 2nd singular laṭ ·
-(4) अस् [अस्ति], 3rd dual laṭ · (5) अस् [अस्ति], 1st plural laṭ · (6) ब्रू [ब्रवीति], 3rd singular
+(4) अस् [अस्ति], 3rd dual laṭ · (5) अस् [अस्ति], 1st plural laṭ · (6) ब्रू [ब्रवीति], 1st singular
 laṭ · (7) ब्रू [ब्रवीति], 3rd dual laṭ · (8) श्रु [शृणोति], 1st plural laṭ
 
 Two marks each: one for the form, one for the reason. 1.2.4 and 1.1.5 may be given by number or by
@@ -1126,7 +1133,7 @@ task's item.
 6. Which of these is a form you read and name in this volume, but never produce? (a) भविष्यति;
    (b) बभूव; (c) अभवत्; (d) अभविष्यत्
 7. According to Pāṇini, before तस् the stem of शृणोति is weak because: (a) तस् has no प्, so it
-   counts as ṅ-marked (b) तस् is a taddhita (c) तस् has a प् (d) तस् is ārdhadhātuka
+   counts as ṅ-marked; (b) तस् is a taddhita; (c) तस् has a प्; (d) तस् is ārdhadhātuka
 8. According to the Kāśikā, the domain of liṭ is: (a) the present (b) the past, not of today, out
    of sight (c) a command (d) a wish
 9. Whitney says that the aorist is found in the Hitopadeśa: (a) never (b) in every story (c) more
@@ -1157,8 +1164,9 @@ task's item.
 7. (a) — तस् carries no प्: ṅit by 1.2.4, no guṇa by 1.1.5: शृणुतः [l03 §15]. (b) तस् is a tiṅ
    ending, not a taddhita; (c) it is तिप् that carries प्: शृणोति; (d) a tiṅ ending is sārvadhātuka
    (3.4.113). TRADITION, framed "According to Pāṇini".
-8. (b) — the Kāśikā: "the past, not of today, and out of sight" (l04 §5). (a) is laṭ's domain
-   (3.2.123); (c) a use of loṭ; (d) of the optative. TRADITION, framed "According to the Kāśikā".
+8. (b) — the Kāśikā: "the past, not of today, and out of sight" (l04 §4 and §8 Step 3). (a) is
+   laṭ's domain (3.2.123); (c) a use of loṭ; (d) of the optative. TRADITION, framed "According to the
+   Kāśikā".
 9. (d) — "only … eight in the Hitopadeśa" (§5; l05 §15). (a) and (b) are not his statement; (c) is a
    comparison he does not make: what he gives is a count. FACT [REF:whitney1889 §826].
 10. (b) — lesson 5's chunk: the aorist of √भी "fear", 2nd singular, without its augment after मा, said
@@ -1185,9 +1193,10 @@ The four filled rows, in the booklet's order: अभूत् … → **लु�
 **आशीर्लिङ्**, the benedictive: a blessing, "may …" · अभविष्यत् … → **लृङ्**, the conditional: "would
 have", the action did not come about.
 
-Scoring: one mark for each cell (18); one for each filled row whose name and use are both right (4).
-"A past" for लुङ् and "a future not of today", or "the periphrastic future", for लुट् are enough; a
-name without a use, or a use without a name, scores 0 for that row. A cell written for a filled row
+Scoring: one mark for each cell (18); one for each filled row whose name is right (4): the
+lakāra's name, or its English name — the aorist, the periphrastic future, the benedictive, the
+conditional. The use printed beside each name above is not asked and earns nothing. A cell
+written for a filled row
 earns nothing, right or wrong. -अतुः and -उः written -अतुस्, -उस्, as Whitney prints them, are not
 marked down.
 
@@ -1233,7 +1242,7 @@ C — the form and the reason, item by item:
 3. करोषि — strong: सिप् carries प्; not ṅit, so guṇa comes (7.3.84): करो-; the ष is 8.3.59, not asked
 4. स्तः — weak: तस् has no प्: ṅit; and the अ of अस् is dropped (6.4.111)
 5. स्मः — weak: मस् has no प्: the same
-6. ब्रवीति — strong: तिप् carries प्: guṇa, ब्रू → ब्रो → ब्रव्; for the ई, "a rule in Teacher Notes",
+6. ब्रवीमि — strong: मिप् carries प्: guṇa, ब्रू → ब्रो → ब्रव्; for the ई, "a rule in Teacher Notes",
    or nothing, scores
 7. ब्रूतः — weak: तस् has no प्: ṅit, no guṇa
 8. शृणुमः, or शृण्मः — weak: मस् has no प्: ṅit, no guṇa
@@ -1330,13 +1339,14 @@ and 8.4.2 as it held them at 43; 6.1.87 is owned from Volume 3.
 > eighteen endings (3.4.77–78), chosen by pada (1.3.12, 1.3.72, 1.3.78), person and number (1.4.101–102,
 > 1.4.108, 1.4.22). **The sign:** ten classes, each named by its first root; शप् for the first
 > (3.1.68), the others' signs on the card; a stem that replaces the root before a ś-marked affix,
-> गच्छ, तिष्ठ [7.3.77–78]. **Strong and weak:** an ending without प् counts as ṅ-marked (1.2.4), and no
-> guṇa comes before it (1.1.5): शृणोति, but शृणुतः; then the verb's own rule — कुरु- (6.4.110), स्-
-> (6.4.111). **The perfect:** the root doubled (6.1.8), णल् for तिप् [3.4.82]: जगाम, बभूव, उवाच — for
-> the past not of today, out of sight (3.2.115). **The future:** स्य [3.1.33], with इट् where the root
-> takes it: भविष्यति, but दास्यति. **The table:** six rows you produce — laṭ, laṅ, loṭ, vidhiliṅ, liṭ,
-> lṛṭ — and four you name: luṭ, lṛṅ, luṅ, āśīrliṅ. **laṅ**, by its own rule, is for the past not of
-> today (3.2.111). **The ledger:** 565; cells drilled: 0 new; tools added: 0; toolbox: 89.
+> गच्छ, तिष्ठ [7.3.77–78]. **Strong and weak:** a sārvadhātuka ending without प् counts as ṅ-marked
+> (1.2.4), and no guṇa comes before it (1.1.5): शृणोति, but शृणुतः; then the verb's own rule — कुरु-
+> [6.4.110], स्- [6.4.111]. **The perfect:** the root doubled (6.1.8), णल् for तिप् [3.4.82]: जगाम,
+> बभूव, उवाच — for the past not of today, out of sight (3.2.115). **The future:** स्य [3.1.33], with
+> इट् where the root takes it: भविष्यति, but दास्यति. **The table:** six rows you produce — laṭ, laṅ,
+> loṭ, vidhiliṅ, liṭ, lṛṭ — and four you name: luṭ, lṛṅ, luṅ, āśīrliṅ. **laṅ**, by its own rule, is
+> for the past not of today (3.2.111). **The ledger:** 565; cells drilled: 0 new; tools added: 0;
+> toolbox: 89.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
@@ -1354,10 +1364,11 @@ it (items 4–8).
 **Before the sitting**
 
 1. **(8 min, unscored)** Fill the §8 Step 5 frame from memory on a sheet of your own — the six rows of
-   the √भू table with their names, the four rows you read with their names and uses, the class card
+   the √भू table with their names, the four rows you read with their names, the class card
    with the substitute stems, the rule pair, T10 and T12 — then check it against §15 (1)–(6).
-2. **(3 min)** Read the forty-six Chapter 3 rows of the toolbox card once, §15 (7): each rule's text
-   and its English line. Do not learn the numbers: the card is in your hands for task C.
+2. **(3 min)** Read once the toolbox card's rows for lesson 3's rule pair and its strong and weak
+   stems, §15 (7) — 1.2.4, 1.1.5, 3.1.74, 7.1.3, 6.4.110, 6.4.111: each rule's text and its English
+   line. Do not learn the numbers: the card is in your hands for task C.
 3. **(4 min)** Read §16 aloud, in both roles, joined, with no pause at a seam; then the twelve lines
    of §6, each joined and then in its pause form (§9).
 
@@ -1387,7 +1398,8 @@ logging one) runs *before* the sitting and outside it: book about 55 minutes of 
 plan (the sitting, 45 min):** 0–2 instructions and hand-out → 2–9 A1 → 9–13 A2 → 13–20 B → 20–27 C (the
 toolbox card out at 20, collected at 27) → 27–37 D → 37–43 E1 → 43–45 E2. The quiz, the check, the
 spiral, the remediation exercise and the real-world task are §21's 25 minutes "after". Never hand out
-the booklet before the sitting; collect the Station 0 slips before it opens. In E2 all pairs read at
+the booklet before the sitting: tear the Station 0 slip from its front and hand out the slip alone, and
+collect the slips before the sitting opens. In E2 all pairs read at
 once, quietly, while the teacher goes from pair to pair; a pair not reached reads to the teacher as
 the booklets are collected.
 
@@ -1448,29 +1460,43 @@ task sends the learner to, or an item a lesson works as its own example.
   nasal of कृन्त- and मुञ्च- is not asked. Scoring as B.
 - *C′ (16 marks; pass 11).* (1) श्रु [शृणोति], 2nd plural laṭ · (2) कृ [करोति], 2nd plural laṭ · (3)
   कृ [करोति], 1st singular laṭ · (4) अस् [अस्ति], 2nd plural laṭ · (5) अस् [अस्ति], 2nd singular laṭ ·
-  (6) ब्रू [ब्रवीति], 3rd plural laṭ · (7) इ [एति], 1st singular laṭ · (8) इ [एति], 3rd dual laṭ. Key:
+  (6) ब्रू [ब्रवीति], 1st plural laṭ · (7) इ [एति], 1st singular laṭ · (8) इ [एति], 2nd plural laṭ. Key:
   (1) शृणुथ — weak: थ has no प्: ṅit, no guṇa · (2) कुरुथ — weak, the same; 6.4.110 · (3) करोमि —
   strong: मिप् carries प्: guṇa · (4) स्थ — weak; the अ of अस् dropped (6.4.111) · (5) असि — strong:
   सिप् carries प्, so it is not ṅit, and 6.4.111, which needs a kṅit affix, leaves the अ; the one स् of
-  असि is a rule in Teacher Notes · (6) ब्रुवन्ति — weak: झि has no प्: ṅit, no guṇa; ऊ → उव् before
-  the vowel, a rule in Teacher Notes · (7) एमि — strong: मिप् carries प्: guṇa, इ → ए · (8) इतः — weak:
-  तस् has no प्: ṅit, no guṇa. Scoring as C.
-- *D′ (12 marks; pass 8).* The same passage, N8. It is no longer unseen — the learner read it at the
-  sitting — and the retake does not pretend otherwise: it asks six other questions. (1) Who speaks
-  first? — Śūdraka, the king (शूद्रकः) · (2) What is Vīravara's wage to be paid in? — gold (सुवर्ण-) ·
-  (3) Who asks about the equipment, and in which words? — the king: का ते सामग्री? · (4) Which word of
-  the passage is a dual, and what does it name? — बाहू, with द्वौ: his two arms · (5) उवाच: give its
-  root and its 3rd plural — वच्; ऊचुः · (6) Find the words that say "not possible", and say what नैतत्
-  is made of — नैतच्छक्यम्; न + एतत्, अ + ए → ऐ. Two marks each: in (1)–(4), one for the answer and one
-  for the Sanskrit; in (5), one for each; in (6), one for the words found, one for the seam.
+  असि is a rule in Teacher Notes · (6) ब्रूमः — weak: मस् has no प्: ṅit, no guṇa · (7) एमि —
+  strong: मिप् carries प्: guṇa, इ → ए · (8) इथ — weak: थ has no प्: ṅit, no guṇa. Scoring as C.
+- *D′ (12 marks; pass 8).* An unseen passage of task D's kind, printed and glossed as N8 is — *the
+  text — Hitopadeśa, Book 2, story 8, the prose after verse 2.123; text of the GRETIL e-text
+  [REF:hitopadesha]*. Before you read: a lion has agreed with the animals that one of them will come
+  to him each day as his meal; today it is an old hare's turn, and the hare reasons that if he is to
+  die anyway, there is no point in pleasing the lion:
+  तन्मन्दं मन्दं गच्छामि। ततः सिंहोऽपि क्षुधापीडितः कोपात्तमुवाच — कुतस्त्वं विलम्ब्य समागतोऽसि।
+  शशकोऽब्रवीत् — देव! नाहमपराधी। — the e-text: *tan mandaṃ mandaṃ gacchāmi | tataḥ siṃho 'pi
+  kṣudhā-pīḍitaḥ kopāt tam uvāca-kutas tvaṃ vilambya samāgato 'si | / śaśako 'bravīt-deva ! nāham
+  aparādhī |* In the margin: ° क्षुधापीडितः "tormented by hunger" · ° विलम्ब्य "after a delay" ·
+  ° समागतः "come" [with असि, "you have come"] · ° अपराधी "at fault". (1) How does the hare decide to
+  go, and in which words? — very slowly: मन्दं मन्दं गच्छामि · (2) What is the lion suffering from,
+  and in what mood does he speak? — hunger: क्षुधापीडितः; anger: कोपात् · (3) What does the lion ask?
+  — why he has come so late; "from where", the sense in which कुतः was taught, also scores:
+  कुतस्त्वं विलम्ब्य समागतोऽसि · (4) What does the hare answer? — that he is not at fault: नाहमपराधी ·
+  (5) Name the lakāra of गच्छामि and of अब्रवीत् — लट्, the present; लङ्, the imperfect · (6) नाहम्:
+  which two words are written together here, and what happens at the seam? — न + अहम्; अ + अ → one
+  long आ. Two marks each: in (1), (3) and (4), one for the answer and one for the Sanskrit; in (2) and
+  (5), one for each half; in (6), one for the two words, one for the seam. Pause form, for the key:
+  तत् मन्दम् मन्दम् गच्छामि। ततः सिंहः अपि क्षुधा-पीडितः कोपात् तम् उवाच — कुतः त्वम् विलम्ब्य समागतः
+  असि। शशकः अब्रवीत् — देव! न अहम् अपराधी। "'So I shall go very slowly.' Then the lion too, tormented
+  by hunger, said to him in anger: 'Why have you come so late?' The hare said: 'Lord, I am not at
+  fault.'" — "'तो मैं धीरे-धीरे जाऊँगा।' तब भूख से पीड़ित सिंह ने भी क्रोध से उससे कहा — 'तुम इतनी
+  देर से क्यों आए हो?' खरगोश ने कहा — 'महाराज! मैं अपराधी नहीं हूँ।'"
 - *E′ (16 marks; pass 11).* "Tell, in four sentences with four different 3rd-person perfects, how the
   serial began — the crocodile, the fruits and his wife (episodes 1–3, which lessons 1–3 told in the
   present); then, in four more sentences with four futures, what the crocodile will do tomorrow.
   Joined, with the pause form beneath." Key, a model, joined: मकरः फलानि गृहं निनाय। स भार्यायै फलानि
   ददौ। भार्या किमपि नोवाच। मकरो वानरस्य समीपे तस्थौ। · श्वो मकरो नदीं तरिष्यति। स वानरस्य समीपं
-  गमिष्यति। स वानरं गृहं नेष्यति। भार्या तं द्रक्ष्यति। Pause forms: मकरः फलानि गृहम् निनाय। सः भार्यायै
+  गमिष्यति। स वानरं गृहं नेष्यति। स भार्यायै तस्य हृदयं दास्यति। Pause forms: मकरः फलानि गृहम् निनाय। सः भार्यायै
   फलानि ददौ। भार्या किम् अपि न उवाच। मकरः वानरस्य समीपे तस्थौ। · श्वः मकरः नदीम् तरिष्यति। सः वानरस्य
-  समीपम् गमिष्यति। सः वानरम् गृहम् नेष्यति। भार्या तम् द्रक्ष्यति। Scoring as E.
+  समीपम् गमिष्यति। सः वानरम् गृहम् नेष्यति। सः भार्यायै तस्य हृदयम् दास्यति। Scoring as E.
 
 **Scoring notes** are with each task's key in §19: a cell is right or wrong as a whole; class, sign and
 stem, form and reason, verb and sentence score apart; nothing is given for a ◐ cell.
@@ -1486,11 +1512,10 @@ FACT.
 **Teacher-Notes sūtras** (learner text says "a rule in Teacher Notes" and prints no number):
 
 - **1.3.7 चुटू** — the initial ण् of णल् is a marker (Station 0 item 2, step 1), as lesson 4 notes.
-- **7.3.93 ब्रुव ईट्** — the ई of ब्रवीति before a consonant-initial strong ending (task C (6)).
+- **7.3.93 ब्रुव ईट्** — the ई of ब्रवीमि before a consonant-initial strong ending (task C (6)).
 - **6.4.81 इणो यण्** — य् for the इ of इ before a vowel: यन्ति [§13].
-- **6.4.77 अचि श्नुधातुभ्रुवां य्वोरियङुवङौ** — उव् for the ऊ of ब्रू before a vowel: ब्रुवन्ति (C′ (6)).
-- **7.4.50 तासस्त्योर्लोपः** — the स् of अस् lost before the स् of सि: असि (C′ (5)).
-- **7.1.59 शे मुचादीनाम्** — the nasal of मुञ्च- and कृन्त- before श (B′ (2), (6)).
+- **7.4.50 तासस्त्योर्लोपः** — the स् of अस् lost before the स् of सि: असि [C′ (5)].
+- **7.1.59 शे मुचादीनाम्** — the nasal of मुञ्च- and कृन्त- before श [B′ (2), (6)].
 - **6.1.97 अतो गुणे** — the stem's अ and the अ of -अन्ति as one: सिध्यन्ति, प्रविशन्ति [§17].
 - **3.1.3 आद्युदात्तश्च** — the further heading over 3.2.110 and 3.2.111 in the data file, on the
   affix's accent (Volume 5); the course prints it here, as its source has it, and teaches it nowhere.
@@ -1525,7 +1550,16 @@ Nothing else is changed. The gloss ratio, reported both ways (STYLE_GUIDE §8 ru
 words, names excluded — 1 in 6 — with वर्तनम् counted as lesson 5's headword; 5 of 24, about 1 in
 4.8, without it (counted from the pause form; तृतीयः counted as known, बाहू as the dual of the owned
 बाहु). Lesson 5 headworded वर्तनम् for the Vīravara story that c05.l02 reads, and its Teacher Notes say
-so.
+so. D′'s passage (`hitop_u.htm`, line 2044 and the first sentence of line 2046) is printed the same
+way, the e-text's space before "!" not printed; its context line gives the sense of verse 2.123,
+which the passage leaves out. Its gloss ratio is 4 glossed of 22 words, 1 in 5.5, counted from the
+pause form (मन्दम् v2.c05.l02, शशकः v3.c01.l03, कोपः v4.c02.l02, कुतः v1.c02.l06, अब्रवीत् v3.c03.l03,
+देव the vocative of v3.c01.l04). कुतः was taught as "from where?"; here it asks "why?", Apte's third
+sense ("Why, wherefore") [REF:apte1890 s.v. कुतः], and the key of D′ (3) accepts either reading, so
+no gloss is added. Its one seam outside Volume 3's ✓ rows, तन्मन्दं — त् before a nasal, the ◐ row of
+v3.c04.l03 — is read, as तन्मे was in v3.c06.l02, and not asked. It is the story that the verse
+यस्य बुद्धिर्बलं तस्य… of v3.c06.l04 sums up; in the Hitopadeśa its own reading of that verse, 2.122,
+introduces it.
 
 **The thread verse.** The e-text (line 234) writes *nahi suptasya*; the course prints न हि apart, as
 Volume 3 did (v3.c02.l05). Nothing else is changed.
@@ -1567,7 +1601,7 @@ the chapter, 565 in all, 89 tools. Chapter 3 is closed.
 > with two answer lines each; back, an empty four-column frame of seven rows headed "Derive, according
 > to Pāṇini, गम् + लिट् → जगाम" and one line headed "Name the four present-system lakāras". Page 1:
 > cover "तृतीयपरीक्षा · The Chapter 3 Exam", the task table of §18, the pass rule. Page 2: A1, the
-> ten-row table in §18's order with a "name and use" box for each filled row, "7 min"; A2, the boxed
+> ten-row table in §18's order, the lakāra box of each filled row left blank, "7 min"; A2, the boxed
 > 3.2.111 with its bracket line and four answer lines, "4 min". Page 3: B, twelve verbs, three boxes
 > each, "7 min". Page 4: C, eight items, two boxes each, "7 min — card open". Page 5: D, the context
 > line, the passage joined in a box with its IAST beneath, the glosses and names in the right margin,
@@ -1616,8 +1650,9 @@ Timed narration; Sanskrit terms carry IPA cues in [brackets], and the narrator f
 30–45 s vertical, captions burned in.
 
 - **Hook (0–6 s):** big type: "One verb. Ten rows. How many can you make?"
-- **Demo (6–26 s):** "भवति — it is. अभवत् — it was. भवतु — let it be. भवेत् — may it be. बभूव — it was,
-  long ago. भविष्यति — it will be. Six rows you make; four more you only name."
+- **Demo (6–26 s):** "भवति — it is. अभवत् — it was. भवतु — let it be. भवेत् — may it be. बभूव — it
+  was: the perfect, a past out of sight, says Pāṇini. भविष्यति — it will be. Six rows you make; four
+  more you only name."
 - **Payoff (26–38 s):** "A root, a sign, an ending — and one letter, p, that decides strong or weak."
 - **CTA (38–45 s):** "Fill the six rows from memory." End card: तृतीयपरीक्षा → v4.c04.l01.
 

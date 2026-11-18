@@ -84,8 +84,8 @@ scripts it cites are kept in `research/evidence/vol4-plan/`.
 | 5 | प्रयोगाः विभक्तिविस्तारश्च — Voices & Case in Depth | 5 | the passive and the impersonal; the causative and the case of the one made to act; the consonant stems as one system, with the numerals; the kāraka map and the locative absolute | 617 |
 | 6 | सूत्रपाठः — Reading Real Sūtras | 4 | definitions, operations and meta-rules read with the Kāśikā and the Laghusiddhāntakaumudī; the Volume 4 exam, in two sittings, with भू → भवति derived by the learner | 627 |
 
-The exit figures are the plan's (§3) and stay planned figures until each chapter ships; 521 and
-537 are reached, at the reviews of Chapters 1 and 2.
+The exit figures are the plan's (§3) and stay planned figures until each chapter ships; 521, 537
+and 565 are reached, at the reviews of Chapters 1, 2 and 3.
 
 **Chapter 1, as delivered** (reviewed 2026-11-13). Four lessons: the fourteen sūtras and the
 pratyāhāra (1.1.71; the marker, 1.3.3 and 1.3.9); savarṇa and tapara (1.1.69, 1.1.9, 1.1.70);
@@ -142,6 +142,35 @@ and Patañjali, with the Mahābhāṣya's statement of grammar's purposes and it
 deletion, augment and the change of sounds, and Varadarāja's Laghusiddhāntakaumudī at the
 declension of राम. Station 0 leaves the chapter as booked: v4.c03.l01 runs the exam's +1-day
 item and lesson 3's +1-week item; v4.c03.l02 runs the exam's +1-week item.
+
+**Chapter 3, as delivered** (reviewed 2026-11-18). Six lessons: the root and the l-affix (1.3.1,
+3.1.91, 3.2.123, 3.4.77–78), the pada from the root's marker (1.3.12, 1.3.72, Q; 1.3.78, 1.4.99,
+B) and person and number (1.4.101–102, 1.4.108, 1.4.22), with पठति and रोचते derived and IR-020
+and the 1.x card's "Action benefits oneself" corrected; the class sign (3.4.113, 3.1.68, 1.3.8,
+7.3.84, B), the ten classes on one card (K), the substitute stems (7.3.77–78) and the इट् of
+स्वपिति by 7.2.76, with नयति derived; strong and weak by the p-marker (1.2.4, 1.1.5, Q), with
+शृणोति / शृण्वन्ति derived, the markers met so far on one card, R4 closed and IR-022 corrected; the
+perfect (3.2.115, Q; 6.1.8, 3.4.82, 7.2.116, 7.4.59–60, 7.4.62, 7.1.34, D), with जगाम and ददौ
+derived, उवाच and आह read as cells, IR-019 corrected and a Hitopadeśa passage read; the future
+(3.3.13, 3.1.33, 3.4.114, and the इट् of 7.2.35, 7.2.70, 7.2.58, D), with करिष्यति derived, the
+other four lakāras on one card for recognition, the chunk मा भैषीः and a Pañcatantra passage read;
+the Chapter 3 exam on the √भू table of ten rows, one 45-minute sitting with Station 0 outside it and
+the toolbox card open for task C only, in which the 1.x labels of laṅ, "recent past" and "past
+habitual", are corrected from 3.2.111 read cold, and after which रामेण is derived again and the
+thread verse उद्यमेन हि सिध्यन्ति… re-read for the signs of सिध्यन्ति and प्रविशन्ति. T10 and T12, the
+perfect endings and the future, are memorised. The toolbox after Chapter 3 holds 89 tools: 15 added
+in lesson 1 (1.3.12, 1.3.72; 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78, 1.3.78, 1.4.99, 1.4.101,
+1.4.102, 1.4.108, 1.4.22; 1.4.100, 3.4.79), 10 in lesson 2 (3.4.113, 3.1.68, 1.3.8, 7.3.84; 1.1.51,
+1.1.52, 7.3.86, 7.2.76, 7.3.77, 7.3.78), 7 in lesson 3 (1.2.4, 1.1.5; 3.1.74, 7.1.3, 6.4.110,
+6.4.111, 6.1.16), 8 in lesson 4 (3.2.115; 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62, 7.1.34),
+6 in lesson 5 (3.3.13, 3.1.33, 3.4.114, 7.2.35, 7.2.70, 7.2.58) and none in the exam. The ledger
+stands at 565 (28 ledger-new: 537 → 542 → 548 → 552 → 558 → 565 → 565). The भवति thread gains
+lesson 1's chain from the root to तिप्, by 1.3.1, 3.1.91, 3.2.123, 3.4.77–78, 1.3.78, 1.4.99,
+1.4.101–102, 1.4.108 and 1.4.22; lesson 2's शप् and the guṇa before it (3.4.113, 3.1.68, 1.3.8,
+7.3.84, with 1.1.52); and lesson 3's reason the guṇa is not blocked: शप् and तिप् carry प्, by 1.2.4
+and 1.1.5. The serial runs from the wife's demand to the crocodile's resolve (episodes 1–5). Station 0
+leaves the chapter as booked: v4.c04.l01 runs the exam's +1-day item and lesson 5's +1-week item;
+v4.c04.l02 runs the exam's +1-week item.
 
 ## Entry and exit
 

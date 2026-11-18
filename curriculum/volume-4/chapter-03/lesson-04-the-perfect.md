@@ -23,7 +23,7 @@ objectives:
   - en: "Read the Hitopadeśa passage of the lesson and answer six questions, naming the root of each perfect."
     hi: "पाठ का हितोपदेश-अंश पढ़ें और छह प्रश्नों के उत्तर दें, हर लिट् रूप का धातु बताते हुए।"
   - en: "Tell an episode in six sentences with 3rd-person perfects, joined, with the pause form beneath."
-    hi: "लिट् प्रथम पुरुष के रूपों से छह वाक्यों में एक प्रसंग कहें और लिखें।"
+    hi: "लिट् प्रथम पुरुष के रूपों से छह वाक्यों में एक प्रसंग सन्धि सहित कहें और लिखें, नीचे विराम-रूप के साथ।"
 new_letters: []
 new_matras: []
 vocabulary_count: 6
@@ -69,13 +69,13 @@ handful of rules trim the copy.
 | 1 | Write the 3rd-person perfect (singular, dual, plural) of eight owned verbs from the production table. | उत्पादन-तालिका से आठ परिचित क्रियाओं के लिट् प्रथम पुरुष [एक, द्वि, बहुवचन] लिखें। |
 | 2 | Derive, according to Pāṇini, जगाम with the teacher, and ददौ, पपाठ, पपाच, पपौ, चचार and ययौ by yourself. | पाणिनि के अनुसार शिक्षक के साथ जगाम की, और स्वयं छह लिट् रूपों की व्युत्पत्ति करें। |
 | 3 | Read the Hitopadeśa passage of the lesson and answer six questions, naming the root of each perfect. | पाठ का हितोपदेश-अंश पढ़ें और छह प्रश्नों के उत्तर दें, हर लिट् रूप का धातु बताते हुए। |
-| 4 | Tell an episode in six sentences with 3rd-person perfects, joined, with the pause form beneath. | लिट् प्रथम पुरुष के रूपों से छह वाक्यों में एक प्रसंग कहें और लिखें। |
+| 4 | Tell an episode in six sentences with 3rd-person perfects, joined, with the pause form beneath. | लिट् प्रथम पुरुष के रूपों से छह वाक्यों में एक प्रसंग सन्धि सहित कहें और लिखें, नीचे विराम-रूप के साथ। |
 
 Objective 1 is built in §8 Step 5 and §15, and tested in §18 (exercises 1 and 2) and §19 (Q5,
 Q6, Q10); objective 2 in §8 Steps 3, 4 and 6 and §13, tested in §18 (exercises 3 and 6) and §19
-(Q2, Q3, Q4, Q7); objective 3 in §13 (the reading), tested in §18 (exercise 4); objective 4 in §6,
-§13, §16 and §17, tested in §18 (exercise 5). Q1, Q8 and Q9 ask what the perfect is for and what आह
-is, in the two registers of §4, §5 and §8 Step 7.
+(Q2, Q3, Q4, Q7, Q9); objective 3 in §13 (the reading), tested in §18 (exercise 4); objective 4 in
+§6, §13, §16 and §17, tested in §18 (exercise 5). Q1 and Q8 ask what the perfect is for, in the two
+registers of §4 and §8 Step 7.
 
 ## 3. Previous Lesson Review
 
@@ -86,7 +86,7 @@ retrieval practice beats re-reading for long-term retention [REF:roediger2006].
 
 ### Station 0 — lesson 3's +1-day and lesson 2's +1-week arrive
 
-Two bookings, run in the order they fall due, seven minutes in all, scores logged beside the
+Two bookings, run in the order they fall due, eight minutes in all, scores logged beside the
 earlier ones [REF:cepeda2006].
 
 **Item 1 — from v4.c03.l03.** Lesson 3 booked today's first station in one line:
@@ -100,8 +100,8 @@ About two minutes to write; then swap papers with a partner and mark against the
 
 - +1 week: नयति unaided — derive, according to Pāṇini, in table form, नी → नयति, every step with its sūtra, from memory; v4.c03.l04's Station 0 runs exactly this.
 
-Four minutes, alone, on paper, the toolbox card closed: Step · String · Sūtra, from the
-Dhātupāṭha entry to the joined word. About three minutes to write; then swap, mark and log both
+Five minutes, alone, on paper, the toolbox card closed: Step · String · Sūtra, from the
+Dhātupāṭha entry to the joined word. About four minutes to write; then swap, mark and log both
 scores. Keep the page: today's जगाम table is laid out the same way.
 
 <details><summary>उत्तराणि · Station 0 key</summary>
@@ -123,13 +123,15 @@ scores. Keep the page: today's जगाम table is laid out the same way.
 | 7 | **नयति** | — | joined |
 
   Score /7: one point per step line 0–6, the string and the sūtra both right; the gloss is not
-  scored. Accept the marker steps merged and steps 1–2 in one line with both their numbers. A
-  slip sends you to lesson 2 §8 Steps 3–4.
+  scored. Accept the marker steps merged and steps 1–2 in one line with both their numbers. The
+  card is closed, so in step 5 the D tools 1.1.52 and 1.1.50 may be named by their gist ("the
+  last sound", "the nearest") in place of their numbers. A slip sends you to lesson 2 §8 Steps
+  3–4.
 </details>
 
 **How today reaches each lesson it reviews.** Lesson 3 is reached by item 1, and again in §8 Step
 5, where its strong and weak stems return in the perfect; lesson 2 by item 2, whose table the
-जगाम table of §13 follows line for line; v3.c03.l03 by prompt 1, whose chunks उवाच and आह become
+जगाम table of §13 follows in its layout; v3.c03.l03 by prompt 1, whose chunks उवाच and आह become
 cells today; v3.c06.l02 by prompt 2, the speech frame with उवाच; v3.c06.l03 by prompt 3, whose
 glossed ददौ you derive today.
 
@@ -156,7 +158,8 @@ root opens Book 6 (6.1.8), and the rules that trim the doubled syllable stand to
 brings them together.
 
 What is the perfect for? The tradition gives one answer, and the language, as it is written,
-gives another. Both are printed; only the first is asked, and only in its attributed form.
+gives another. Both are printed, and both are asked: the first only in its attributed form
+(§19 Q1), the second as Whitney's statement (§19 Q8).
 
 > **[TRADITION · परम्परा]** According to Pāṇini, liṭ is the past "out of sight" (3.2.115); the
 > Kāśikā: "the past, not of today, and out of sight". [REF:kashika 3.2.115]
@@ -164,7 +167,8 @@ gives another. Both are printed; only the first is asked, and only in its attrib
 > **[FACT · तथ्यम्]** Whitney: "there is no evidence of its being either exclusively or
 > distinctively so employed at any period"; in the later language "it is simply a preterit or
 > past tense, equivalent with the imperfect … on the whole less common than the imperfect,
-> although the preferences of different authors are diverse". [REF:whitney1889 §821]
+> although the preferences of different authors are diverse, and it sometimes exceeds the
+> imperfect in frequency". [REF:whitney1889 §821]
 
 The Kāśikā's words are given in English; its own line is in the teacher's notes. Whitney's sentence
 begins with the tradition's account — "According to the Hindu grammarians, the perfect is used in
@@ -198,10 +202,12 @@ the union vowel इ, stands in none of the 3rd-person cells of §15's production
 How much the perfect is used is a question for a count, and the count prints with its method.
 
 > **[FACT · तथ्यम्]** In the Digital Corpus of Sanskrit's tagging of the Hitopadeśa, 271 finite
-> verb tokens carry the tag 'past'; most are perfects, and the commonest are āha (112), uvāca (63)
-> and ūcuḥ (13, and once ūcur); in the Viṣṇupurāṇa the perfect is 17.4% of all verb tokens, the
-> imperfect 4.5%. (Counted by the course from the DCS's morphological tags, 2026-11; the tag
-> 'past' marks a form, not its time.) [REF:dcs]
+> verb tokens carry the tag 'past': 259 perfects (7 of them periphrastic), 9 aorists and 3
+> benedictives; the forms counted more than ten times are āha (112), uvāca (63) and ūcuḥ (13, and
+> once ūcur); in the Viṣṇupurāṇa the perfect is 17.4% of all verb tokens, the imperfect 4.5%.
+> (Counted by the course from the DCS's morphological tags, 2026-11; the aorists and benedictives,
+> which carry the same tag, told apart by the corpus's mood and formation tags, one aorist by hand;
+> the tag 'past' marks a form, not its time.) [REF:dcs]
 
 Every form the count names is a 3rd person: the narrator's. That is the part of the perfect this
 volume makes yours. The first form it names, āha, needs three statements, and the course prints
@@ -210,7 +216,7 @@ all three.
 | Who | Register | What is said of आह |
 |---|---|---|
 | Pāṇini, 3.4.84 [K, on §15's card] | TRADITION | According to Pāṇini, after ब्रू the first five P endings of laṭ are optionally replaced by the first five of liṭ, and ब्रू by आह: आह, आहतुः, आहुः, आत्थ, आहथुः. In his account they are present forms. [REF:ashtadhyayi 3.4.84]; [REF:kashika 3.4.84] |
-| Whitney | FACT | "The root *ah* *speak* occurs only in the perfect indicative, and only in the 3d persons of all numbers and in the 2d sing. and du." — and: "The perfects *veda* and *āha* are everywhere used with present value." [REF:whitney1889 §801]; [REF:whitney1889 §821] |
+| Whitney | FACT | "The root *ah* *speak* occurs only in the perfect indicative, and only in the 3d persons of all numbers and in the 2d sing. and du., in active …" — and: "The perfects *veda* and *āha* are everywhere used with present value." [REF:whitney1889 §801]; [REF:whitney1889 §821] |
 | the corpus | FACT (a tag) | The DCS tags the Hitopadeśa's 112 tokens Tense=Past: a tag of the form, not of its time. [REF:dcs] |
 
 Where Pāṇini and Whitney disagree, both are printed. Pāṇini says how his grammar makes the form,
@@ -262,15 +268,16 @@ the इति after it, as every quoted form is.
 **द्वित्व और अभ्यास।** लिट् की पहली पहचान यह है कि धातु दो बार आता है। इसे **द्वित्व** कहते हैं, और
 पाणिनि का सूत्र 6.1.8 यही कहता है: लिट् से पहले धातु दोहराया जाता है। पहली प्रति का नाम है
 **अभ्यास**। यह शब्द आपका पहले खण्ड से है, बार-बार करने के अर्थ में; व्याकरण में अभ्यास धातु की
-दोहराई हुई पहली प्रति है। गम् से पहले गम्गम् बनता है। फिर अभ्यास छाँटा जाता है। उसमें केवल
-पहला व्यञ्जन बचता है, बाक़ी हट जाते हैं — सूत्र 7.4.60 — तो ग + गम्। अभ्यास में कवर्ग का वर्ण या
+दोहराई हुई पहली प्रति है। पहले गम् से गम्गम् बनता है। फिर अभ्यास छाँटा जाता है। उसके
+व्यञ्जनों में से केवल पहला बचता है, बाक़ी व्यञ्जन हट जाते हैं, स्वर बना रहता है — सूत्र
+7.4.60 — तो ग + गम्। अभ्यास में कवर्ग का वर्ण या
 ह, चवर्ग का वर्ण बन जाता है — सूत्र 7.4.62 — तो ग की जगह ज: ज + गम्। और अभ्यास का स्वर ह्रस्व
 होता है — सूत्र 7.4.59।
 
 **लिट् के अपने प्रत्यय।** लट् के ति, तः, अन्ति की जगह लिट् में परस्मैपद के नौ अपने प्रत्यय आते
 हैं — सूत्र 3.4.82। प्रथम पुरुष में ये हैं णल्, अतुस्, उस्, जो सुनाई देते हैं -अ, -अतुः, -उः। णल् के
 ण् और ल् इत् हैं; बचता है केवल अ। पर ण् बेकार नहीं: णल् **णित्** प्रत्यय है, और णित् प्रत्यय से
-पहले **उपधा** का अ — यानी अन्तिम व्यञ्जन से ठीक पहले का अ — आ हो जाता है। यह वृद्धि है, सूत्र
+पहले **उपधा** का अ — यानी अङ्ग के अन्तिम वर्ण से ठीक पहले का अ — आ हो जाता है। यह वृद्धि है, सूत्र
 7.2.116। इसलिए ज + गम् + अ से **जगाम**।
 
 **सबल और निर्बल, फिर से।** पिछले पाठ में आपने देखा कि पित् प्रत्यय से पहले अङ्ग सबल होता है और
@@ -282,12 +289,15 @@ the इति after it, as every quoted form is.
 
 **ददौ और बभूव।** दा का लिट् एक और सूत्र दिखाता है: आ पर समाप्त होने वाले अङ्ग के बाद णल् के स्थान
 पर औ आता है — सूत्र 7.1.34। काशिका कार्यों का क्रम भी बताती है: पहले औ, फिर आ और औ का एक औ,
-फिर द्वित्व, और अन्त में अभ्यास का स्वर ह्रस्व। दा + औ, दौ, दा + दौ, द + दौ: **ददौ**। भू का लिट्
+फिर द्वित्व; उसके बाद, हर द्वित्व की तरह, अभ्यास का स्वर ह्रस्व होता है। दा + औ, दौ, दा + दौ,
+द + दौ: **ददौ**। भू का लिट्
 बभूव है, और उसमें वृद्धि नहीं: भू के बाद लिट् के सभी प्रत्यय कित् गिने जाते हैं, एकवचन के भी।
 
-**केवल प्रथम पुरुष।** इस खण्ड में लिट् के प्रथम पुरुष के तीनों वचन आपके अपने हैं — एकवचन, द्विवचन,
-बहुवचन। ये कथा कहने वाले के रूप हैं: राजा जगाम, ऋषिः उवाच। मध्यम और उत्तम पुरुष के रूप आप पढ़कर
-पहचानेंगे, बनाएँगे नहीं। "मैं गया" के लिए अगच्छम् कहिए — लङ् का रूप, जो आपका है।
+**केवल प्रथम पुरुष।** इस खण्ड में उत्पादन-तालिका की आठ क्रियाओं के लिट् प्रथम पुरुष के तीनों वचन
+आपके अपने हैं — एकवचन, द्विवचन, बहुवचन — और शब्द-कार्ड पर ✓ के साथ छपी बारह क्रियाओं का लिट्
+प्रथम पुरुष एकवचन; उन बारह के द्विवचन और बहुवचन नहीं। ये कथा कहने वाले के रूप हैं: राजा जगाम,
+ऋषिः उवाच। मध्यम और उत्तम पुरुष के रूप आप पढ़कर पहचानेंगे, बनाएँगे नहीं। "मैं गया" के लिए
+अगच्छम् कहिए — लङ् का रूप, जो आपका है।
 
 **परोक्ष।** पाणिनि के अनुसार लिट् उस बीते काल के लिए है जो **परोक्ष** है — आँखों से ओझल, जो बोलने
 वाले के सामने नहीं हुआ — सूत्र 3.2.115। काशिका इसका क्षेत्र बताती है: बीता हुआ, आज का नहीं, और
@@ -300,7 +310,8 @@ the इति after it, as every quoted form is.
 **आह।** आह के बारे में तीन कथन साथ-साथ छपे हैं। पाणिनि के अनुसार आह ब्रू के लट् का एक वैकल्पिक
 आदेश है — यानी उनके हिसाब से वर्तमान का रूप — सूत्र 3.4.84। ह्विटनी के अनुसार आह √अह् का लिट्
 है, जो हर जगह वर्तमान के अर्थ में आता है। और डिजिटल कॉर्पस हितोपदेश के आह को भूत का चिह्न देता
-है — यह रूप का चिह्न है, समय का नहीं। पूछा केवल पाणिनि वाला कथन जाता है।
+है — यह रूप का चिह्न है, समय का नहीं। इनमें से कोई कथन पूछा नहीं
+जाता: पाणिनि का सूत्र 3.4.84 कार्ड पर है, केवल देखने के लिए।
 
 **आज के शब्द।** **पतिः** — स्वामी, पति; **द्वयम्** — जोड़ा, प्रायः समास के अन्त में, जैसे श्लोकद्वयम्,
 दो श्लोकों का जोड़ा; **श्लोकः** — श्लोक, पद्य; **द्वारम्** — द्वार, दरवाज़ा; **खड्गः** — तलवार;
@@ -410,9 +421,9 @@ nearest, by 1.1.50: ग, voiced and unaspirated, becomes ज.
 - English: "Before a ñ- or ṇ-marked affix, a penultimate अ is replaced by vṛddhi (आ)."
   [REF:ashtadhyayi 7.2.116]; [REF:kashika 7.2.116]
 
-अतः and उपधायाः are genitives: in place of a short अ that is penultimate, just before the aṅga's
-last consonant (lesson 2). The carried वृद्धिः is the result, the carried ञ्णिति "before a ñ- or
-ṇ-marked [affix]" the condition. णल् is ṇ-marked: ज + गम् + अ → ज + गाम् + अ.
+अतः and उपधायाः are genitives: in place of a short अ that is penultimate, the sound just before
+the aṅga's last sound (lesson 2). The carried वृद्धिः is the result, the carried ञ्णिति
+"before a ñ- or ṇ-marked [affix]" the condition. णल् is ṇ-marked: ज + गम् + अ → ज + गाम् + अ.
 
 **7. The short vowel — D, 7.4.59 ह्रस्वः** (hrasvaḥ).
 
@@ -440,9 +451,10 @@ One word, the result: ह्रस्वः "a short [vowel]"; the carried अ�
 The table is in §13, derivation (a). Work down it with the teacher, saying each line's tool. Step 0
 runs lesson 1's frame in one line: liṭ for the past out of sight (3.2.115), its ल् → तिप् [3.4.78],
 तिप् → णल् [3.4.82]. Step 1 drops the markers of णल्. Then the root doubled (6.1.8), the first copy
-trimmed to its first consonant (7.4.60), its ग turned to ज [7.4.62]. Last, the ṇ of णल् asks for
-vṛddhi: the penultimate अ of गम् becomes आ [7.2.116]. **जगाम** — laid out as lesson 2's नयति table,
-which your Station 0 item 2 has just rebuilt: the frame, the affix, then the root before it.
+trimmed of every consonant but its first (7.4.60), its ग turned to ज [7.4.62]. Last, the ṇ of
+णल् asks for vṛddhi: the penultimate अ of गम् becomes आ [7.2.116]. **जगाम** — laid out as lesson
+2's नयति table, which your Station 0 item 2 has just rebuilt: the frame, the affix, then the root
+before it.
 
 ### Step 5 — the endings, and the strong singular
 
@@ -469,8 +481,9 @@ with 1.2.5 [K]).
 
 Now run the tools yourself (§18 exercise 3, at home). दा → ददौ has the order the Kāśikā gives
 under 7.1.34: first औ for णल् [7.1.34]; then one vowel for आ + औ [6.1.88, owned]; then the doubling
-(6.1.8), दौ doubled as if it were दा [a rule in Teacher Notes]; last the short vowel of the doubled
-syllable (7.4.59). §12 mistake 4 shows what goes wrong otherwise. पठ् → पपाठ, पच् → पपाच and चर् →
+(6.1.8), दौ doubled as if it were दा [a rule in Teacher Notes]. Last, as after every doubling, the
+short vowel of the doubled syllable (7.4.59), a step the Kāśikā's list does not name. §12 mistake 4
+shows what goes wrong otherwise. पठ् → पपाठ, पच् → पपाच and चर् →
 चचार follow जगाम, except that a doubled प or च is not a k-row sound, so 7.4.62 does nothing; पा →
 पपौ "drank" and या → ययौ "went" follow ददौ.
 
@@ -479,8 +492,8 @@ syllable (7.4.59). §12 mistake 4 shows what goes wrong otherwise. पठ् →
 According to Pāṇini, liṭ is the past out of sight (3.2.115); the FACT beside it is §4's: in the
 later language a past tense, equivalent with the imperfect. आह gets the three statements of §5:
 Pāṇini's (a substitute in the laṭ of ब्रू, a present in his account), Whitney's (a perfect of √अह्,
-with present value), and the corpus tag (a "past" tag of the form). Only "According to Pāṇini …" is
-asked.
+with present value), and the corpus tag (a "past" tag of the form). None of the three is asked:
+3.4.84 is a card rule, looked up and never assessed.
 
 **The main-risk line:** the perfect is the narrator's tense here: 3rd person. Your "I went" is the
 imperfect अगच्छम्, which you own.
@@ -582,8 +595,9 @@ the ज and back for the ग.
    is ◐ here — you read it, you do not produce it; "I went" is अगच्छम्, which you own.
 2. **\*बभाव for बभूव.** *Fix:* भू's liṭ is k-marked even before णल् [1.2.6, K]: no vṛddhi.
 3. **\*गगाम.** *Fix:* the doubled ग becomes ज [7.4.62].
-4. **\*दादौ for ददौ — the doubled syllable's vowel left long.** *Fix:* the Kāśikā's order: औ
-   first, then one vowel for आ + औ, then doubling, then the short vowel (7.4.59).
+4. **\*दादौ for ददौ — the doubled syllable's vowel left long.** *Fix:* after the doubling, the
+   short vowel (7.4.59); before it, the Kāśikā's order: औ first, then one vowel for आ + औ, then
+   doubling.
 5. **'लिट् = perfect (remote, witnessed)' — the 1.x recital card, p. 75.** *Fix:* परोक्षे: "out of
    sight" (3.2.115); in use, a past tense (Whitney §821).
 6. **Saying "the Hitopadeśa uses आह as a past".** *Fix:* three statements: Pāṇini (a laṭ
@@ -606,13 +620,15 @@ The bracket lines of its sūtras are in §8 Step 3.
 | 0 | गम् + ल् [लिट्] → गम् + तिप् → गम् + णल् | 3.2.115 परोक्षे लिट् [Q] · 3.4.78 [B] · 3.4.82 [D] | liṭ; its ल् → तिप्; in liṭ, तिप् → णल् |
 | 1 | गम् + अ | a rule in Teacher Notes · 1.3.3 · 1.3.9 [B] | ण् and ल् of णल् are markers |
 | 2 | गम्गम् + अ | 6.1.8 लिटि धातोरनभ्यासस्य [D] | before liṭ the root is doubled; the first copy is the abhyāsa |
-| 3 | ग + गम् + अ | 7.4.60 हलादिः शेषः [D] | in the abhyāsa only the first consonant remains |
+| 3 | ग + गम् + अ | 7.4.60 हलादिः शेषः [D] | in the abhyāsa the first consonant remains, the others go |
 | 4 | ज + गम् + अ | 7.4.62 कुहोश्चुः [D] | ग → ज in the abhyāsa |
 | 5 | ज + गाम् + अ | 7.2.116 अत उपधायाः [D] | णल् is ṇ-marked: the penultimate अ → आ, vṛddhi |
 | 6 | **जगाम** | — | joined |
 
 Step 0 runs lesson 1's chain in one line, with today's 3.4.82 at its end; step 1's rule in Teacher
-Notes makes the initial ण् of an affix a marker, and the final ल् is 1.3.3's.
+Notes makes the initial ण् of an affix a marker, and the final ल् is 1.3.3's. No class sign stands
+between root and ending, as शप् does in lesson 2's नयति table: the endings of liṭ are not
+sārvadhātuka (a rule in Teacher Notes), so 3.4.113 and 3.1.68 do not act.
 
 ### Derive it yourself
 
@@ -656,27 +672,29 @@ among others; under 7.1.34 its first is पपौ [REF:kashika 6.1.8]; [REF:kash
 *the text — Hitopadeśa, Introduction (opening prose) and Book 3 (story of Vīravara, prose after
 3.101); text of the GRETIL e-text [REF:hitopadesha]*
 
-Before you read: a city on a river bank, its king, and two things he heard. Each sentence is printed
-as the e-text has it, joined (its IAST keeps the e-text's hyphens); beneath it the pause form, which
-is the course's; then the gloss. Glossed words are marked ° and explained under the sentence. Part
-(b) comes from Book 3; the ellipsis in it marks a few lines left out. Audio: 🔊
+Before you read: in (a), a city on a river bank, its king, and what he heard one day; in (b),
+another king, Śūdraka, and what he heard one night. Each sentence is printed
+as the e-text has it, joined (its IAST keeps the e-text's hyphens and punctuation); beneath it
+the pause form, which is the course's; then the gloss. Glossed words are marked ° and explained
+under the sentence. Part (b) comes from Book 3; the ellipsis in it marks a few lines left out.
+Audio: 🔊
 `planned:assets/audio/volume-4/v4c03l04-n1-read.mp3`.
 
 **(a) The opening of the book.**
 
-अस्ति भागीरथीतीरे पाटलिपुत्रनामधेयं नगरम्। (asti bhāgīrathī-tīre pāṭaliputra-nāmadheyaṃ nagaram.)
+अस्ति भागीरथीतीरे पाटलिपुत्रनामधेयं नगरम्। (asti bhāgīrathī-tīre pāṭaliputra-nāmadheyaṃ nagaram |)
 pause form (ours): अस्ति भागीरथी-तीरे पाटलिपुत्र-नामधेयम् नगरम्। (asti bhāgīrathī-tīre pāṭaliputra-nāmadheyam nagaram.)
 "On the bank of the Bhāgīrathī there is a city named Pāṭaliputra." — भागीरथी के तट पर पाटलिपुत्र
 नाम का एक नगर है।
 ° पाटलिपुत्रनामधेयम् "named Pāṭaliputra".
 
-तत्र सर्वस्वामिगुणोपेतः सुदर्शनो नाम नरपतिरासीत्। (tatra sarva-svāmi-guṇopetaḥ sudarśano nāma narapatir āsīt.)
+तत्र सर्वस्वामिगुणोपेतः सुदर्शनो नाम नरपतिरासीत्। (tatra sarva-svāmi-guṇopetaḥ sudarśano nāma narapatir āsīt |)
 pause form (ours): तत्र सर्व-स्वामि-गुण-उपेतः सुदर्शनः नाम नरपतिः आसीत्। (tatra sarva-svāmi-guṇa-upetaḥ sudarśanaḥ nāma narapatiḥ āsīt.)
 "There lived a king named Sudarśana, endowed with all the virtues of a ruler." — वहाँ सुदर्शन नाम
 का एक राजा था, जिसमें स्वामी के सब गुण थे।
 ° सर्वस्वामिगुणोपेतः "endowed with all a ruler's virtues".
 
-स भूपतिरेकदा केनापि पाठ्यमानं श्लोकद्वयं शुश्राव। (sa bhūpatir ekadā kenāpi pāṭhyamānaṃ śloka-dvayaṃ śuśrāva.)
+स भूपतिरेकदा केनापि पाठ्यमानं श्लोकद्वयं शुश्राव। (sa bhūpatir ekadā kenāpi pāṭhyamānaṃ śloka-dvayaṃ śuśrāva-)
 pause form (ours): सः भूपतिः एकदा केन अपि पाठ्यमानम् श्लोक-द्वयम् शुश्राव। (saḥ bhūpatiḥ ekadā kena api pāṭhyamānam śloka-dvayam śuśrāva.)
 "One day that lord of the earth heard a pair of verses being recited by someone." — एक दिन उस
 राजा ने किसी को दो श्लोक पढ़ते सुना।
@@ -684,29 +702,29 @@ pause form (ours): सः भूपतिः एकदा केन अपि �
 
 **(b) Book 3, the story of Vīravara.**
 
-अथैकदा कृष्णचतुर्दश्यां रात्रौ स राजा सकरुणक्रन्दनध्वनिं शुश्राव। (athaikadā kṛṣṇa-caturdaśyāṃ rātrau sa rājā sa-karuṇa-krandana-dhvaniṃ śuśrāva.)
+अथैकदा कृष्णचतुर्दश्यां रात्रौ स राजा सकरुणक्रन्दनध्वनिं शुश्राव। (athaikadā kṛṣṇa-caturdaśyāṃ rātrau sa rājā sa-karuṇa-krandana-dhvaniṃ śuśrāva |)
 pause form (ours): अथ एकदा कृष्ण-चतुर्दश्याम् रात्रौ सः राजा स-करुण-क्रन्दन-ध्वनिम् शुश्राव। (atha ekadā kṛṣṇa-caturdaśyām rātrau saḥ rājā sa-karuṇa-krandana-dhvanim śuśrāva.)
 "Then one night, on the fourteenth of the dark fortnight, the king heard a sound of piteous
 weeping." — फिर एक रात, कृष्ण पक्ष की चतुर्दशी को, उस राजा ने करुण रुदन की आवाज़ सुनी।
 ° कृष्णचतुर्दश्याम् "on the 14th night of the dark half" · ° सकरुणक्रन्दनध्वनिम् "a sound of
 piteous weeping".
 
-तच्छ्रुत्वा राजा ब्रूते — कः कोऽत्र द्वारि तिष्ठति? (tac chrutvā rājā brūte — kaḥ ko 'tra dvāri tiṣṭhati?)
+तत् श्रुत्वा राजा ब्रूते — कः कोऽत्र द्वारि तिष्ठति? (tat śrutvā rājā brūte-kaḥ ko 'tra dvāri tiṣṭhati ?)
 pause form (ours): तत् श्रुत्वा राजा ब्रूते — कः कः अत्र द्वारि तिष्ठति? (tat śrutvā rājā brūte — kaḥ kaḥ atra dvāri tiṣṭhati?)
 "Hearing it, the king says: 'Who, who is there at the door?'" — यह सुनकर राजा कहता है —
 "कौन, कौन यहाँ द्वार पर खड़ा है?"
 ° द्वारि "at the door" — the locative of another word for "door", द्वार् f., not a cell of today's
 द्वारम्, whose locative is द्वारे.
 
-… ततो राजापि खड्गमादाय तदनुसरणक्रमेण नगराद्बहिर्निर्जगाम। (… tato rājāpi khaḍgam ādāya tad-anusaraṇa-krameṇa nagarād bahir nirjagāma.)
+… ततो राजापि खड्गमादाय तदनुसरणक्रमेण नगराद्बहिर्निर्जगाम। (… tato rājāpi khaḍgam ādāya tad-anusaraṇa-krameṇa nagarād bahir nirjagāma |)
 pause form (ours): … ततः राजा अपि खड्गम् आदाय तत्-अनुसरण-क्रमेण नगरात् बहिः निर्जगाम। (… tataḥ rājā api khaḍgam ādāya tat-anusaraṇa-krameṇa nagarāt bahiḥ nirjagāma.)
 "… Then the king too took his sword and, following the sound, went out of the city." — … तब
 राजा भी तलवार लेकर, उस आवाज़ के पीछे-पीछे, नगर से बाहर निकल गया।
 ° तदनुसरणक्रमेण "following it".
 
-Three perfects carry the story: शुश्राव, twice, of शृणोति, "heard"; and निर्जगाम, of the निर्गच्छति you
-own since v3.c03.l03, "went out", its prefix before the doubled stem. Between them the king speaks
-in the present, ब्रूते, the middle cell of lesson 3's ब्रवीति.
+Three perfects carry the two parts: शुश्राव, once in each, of शृणोति, "heard"; and निर्जगाम, of
+the निर्गच्छति you own since v3.c03.l03, "went out", its prefix before the doubled stem. Between
+them the king of (b) speaks in the present, ब्रूते, the middle cell of lesson 3's ब्रवीति.
 
 **The inventory — every word of the passage.** Status: **taught** — a word or form you own or own
 from today; **card** — read under a card or table you hold, never built (◐); **glossed** — explained
@@ -732,8 +750,8 @@ form).
 **The seams** are Volume 3's: सुदर्शनो नाम, ततो राजापि [-अः → ओ]; नरपतिरासीत्, भूपतिरेकदा,
 बहिर्निर्जगाम [-इः → र्]; स भूपतिः, स राजा; केनापि, राजापि; अथैकदा; पाठ्यमानं, श्लोकद्वयं,
 कृष्णचतुर्दश्यां, सकरुणक्रन्दनध्वनिं [म् → ं]; कः कोऽत्र [ः before क stays; -अः + अ → -ओऽ]; खड्गमादाय;
-नगराद्बहिः. One is a recognition row of v3.c04.l03's consonant map: तच्छ्रुत्वा, त् + श → च्छ — read and
-split, never required of you. The dash of the speech frame stops the seam after ब्रूते.
+नगराद्बहिः. तत् श्रुत्वा stands apart, as the e-text prints it. The dash of the speech frame stops
+the seam after ब्रूते.
 
 ### Model sentences 3–6
 
@@ -766,7 +784,8 @@ with the instrumental; today's पतिः, खड्गः [खड्गेन
 
 शब्दावली — Ledger 552 → 558 (6 ledger-new).
 
-Cells drilled: 24 (the 3rd-person perfect of the eight production verbs; T10's nine endings).
+Cells drilled: 24 (the 3rd singular, dual and plural perfect of the eight production verbs;
+T10's nine endings are drilled as a table and not counted as cells).
 
 Tools added: 8 (3.2.115 Q; 6.1.8, 3.4.82, 7.2.116, 7.4.60, 7.4.59, 7.4.62, 7.1.34 D).
 
@@ -862,7 +881,7 @@ will print the future stem: the rules explain the forms, and you read the form f
 
 | ✓ | पठति पपाठ · पचति पपाच · चरति चचार · पिबति पपौ · याति ययौ · नयति निनाय · पश्यति ददर्श · तिष्ठति तस्थौ · जयति जिगाय · हरति जहार · हन्ति जघान · प्राप्नोति प्राप |
 |---|---|
-| ◐ | वदति उवाद, यजति इयाज — the pattern of उवाच [6.1.15–17, K] · लभते लेभे, यजते ईजे — the middle perfect |
+| ◐ | वदति उवाद, यजति इयाज — the pattern of उवाच [6.1.15, 6.1.17, K] · लभते लेभे, यजते ईजे — the middle perfect |
 
 Several need rules beyond today's (the त- of तस्थौ, the ग of जिगाय, the घ of जघान); the forms are on
 the card so that you can use them in a story. §17 uses निनाय.
@@ -897,8 +916,8 @@ sūtras as Chapter 1 taught you: from the च of खफछठथचटतव् 
 - **K — the card above:** looked up, never assessed. **Re-read [owned]:** 3.4.78, 1.3.3, 1.3.9 [B];
   1.1.50 [D]; 6.1.88, 6.1.78, 6.1.77, 6.1.101; 1.2.4 and 1.1.5 [Q, lesson 3] — not re-counted.
 - **Pointers [numbers printed, not tools]:** 1.1.56 [preview: c06.l03]; and, in bracket lines only,
-  the sources 3.1.93, 3.2.111, 3.2.84, 3.4.81, 6.1.2, 6.1.1, 7.2.114, 7.2.115, 7.4.58, 6.4.1, 3.1.1,
-  3.1.2, 3.1.91, 3.4.77.
+  the sources 3.1.93, 3.2.111, 3.2.84, 3.4.81, 6.1.2, 6.1.1, 7.2.114, 7.4.58. The bracket lines
+  also name 7.2.115, a rule of the card, and 6.4.1, 3.1.1, 3.1.2, 3.1.91 and 3.4.77, tools you own.
 
 ### Toolbox card
 
@@ -913,7 +932,7 @@ sūtras as Chapter 1 taught you: from the च of खफछठथचटतव् 
 Chapters 1–2's forty-three are on the card of v4.c02.l04 §15; lessons 1–3's thirty-two on the cards
 of their own §15.
 
-**Previewed:** the perfect participle (विद्वान्, c05.l03, ◐); बभूव's derivation (c06.l02); 1.1.56
+**Previewed:** the perfect participle विद्वान् [○, c05.l03]; बभूव's derivation (c06.l02); 1.1.56
 (c06.l03). **Deferred:** the 1st and 2nd persons and the middle perfect (◐ through Volume 5); the
 periphrastic perfect in full (a Volume 5 reading). **Redeemed:** उवाच, आह and the glossed ददौ of
 Volume 3 are cells; the ण् of णल् is the first taught marker of the vṛddhi row of lesson 3's
@@ -924,7 +943,7 @@ will do; and the short first vowel of class 3's दद- [ददाति, lesson
 
 | Item | Status |
 |---|---|
-| the perfect, 3rd persons P, of the production verbs and of every owned verb whose vocabulary row prints it | ✓ |
+| the perfect, 3rd singular, dual and plural P, of the eight production verbs (24 cells), and the 3rd singular printed for each of the twelve verbs on the vocabulary card's ✓ row — not the 3rd dual or plural of a card verb (जघ्नुः, तस्थुः, जिग्युः and the like) | ✓ |
 | T10, the nine P endings, as a table | ✓ |
 | deriving, according to Pāṇini, जगाम, ददौ, पपाठ, पपाच, पपौ, चचार, ययौ | ✓ |
 | उवाद and इयाज, printed on the card | ◐ |
@@ -932,9 +951,10 @@ will do; and the short first vowel of class 3's दद- [ददाति, lesson
 | the K rules of the card | card [K] — looked up, never assessed |
 | बभूव's derivation; 1.1.56; the perfect participle विद्वान् | ○ — c06.l02, c06.l03, c05.l03 |
 
-The lesson's ledger, in one line: ✓ the perfect, 3rd persons P, of the production verbs and of every
-owned verb whose vocabulary row prints it; ◐ 1st/2nd persons, Ā, periphrastic. Every other line
-stands as at v4.c03.l03.
+The lesson's ledger, in one line: ✓ the perfect, 3rd singular, dual and plural P, of the eight
+production verbs, and the 3rd singular of each verb on the vocabulary card's ✓ row — not the 3rd
+dual or plural of a card verb (जघ्नुः, तस्थुः, जिग्युः and the like); ◐ 1st/2nd persons, Ā,
+periphrastic. Every other line stands as at v4.c03.l03.
 
 ✓ productive — you produce it: exercises, quiz and exam may ask for it · ◐ recognition — you
 read it when you meet it; nothing asks you to produce it, and nothing scores it · ○ display —
@@ -1051,8 +1071,9 @@ production table of §15 closed — you have just read it — write the 3sg, 3du
 to write; two to swap with a partner and mark against the key.
 
 **अभ्यासः 2 · T10 (objective 1; in class, 3 minutes).** Write the nine P perfect endings in their
-table, from memory: the affix and the sound you hear, 3rd, 2nd and 1st person. Two minutes to write;
-one to check aloud with the teacher.
+table, from memory: the affix and the sound you hear, 3rd, 2nd and 1st person. One minute to
+read T10 in §15 aloud with the teacher; then, the table covered, one to write and one to check
+aloud.
 
 **अभ्यासः 3 · Derive, according to Pāṇini, … (objective 2; production, written; homework, 12
 minutes, the key check included).** In table form — Step · String · Sūtra; the gloss is optional —
@@ -1063,8 +1084,9 @@ table at step 0 with the root and liṭ; step 0 may run lesson 1's chain in one 
 **अभ्यासः 4 · the Hitopadeśa passage (objective 3; in class, 7 minutes, the passage read there).**
 After the passage of §13 has been read aloud, joined, and its glosses checked, answer in English,
 quoting the Sanskrit word where you can: (1) Where is the city, and what is its name? (2) Who was its
-king? (3) What did the king hear one day? (4) What did he hear one night? (5) Name the root and the
-lakāra of शुश्राव and of निर्जगाम. (6) What did the king take before he went out?
+king? (3) What did he hear one day? (4) In part (b), what did the king hear one night? (5) Name the
+root and the lakāra of शुश्राव and of निर्जगाम. (6) What did the king of part (b) take before he
+went out?
 
 **अभ्यासः 5 · the episode in six sentences (objective 4; production; homework, 8 minutes, written,
 then said aloud, the key check included).** Tell the episode of §17 in your own six sentences, with at
@@ -1091,13 +1113,15 @@ as every "which rule did this?" item is; the key is at the end; no peeking mid-q
    धातोरनभ्यासस्य; (b) 7.2.116 अत उपधायाः; (c) 7.4.60 हलादिः शेषः; (d) 7.4.62 कुहोश्चुः
 5. The 3pl perfect of गम् is: (a) जगाम; (b) जग्मतुः; (c) जग्मुः; (d) गच्छन्ति
 6. The 3sg perfect of दा is: (a) ददौ; (b) ददतुः; (c) ददुः; (d) ददाति
-7. According to Pāṇini, why is there no vṛddhi in बभूव? (a) ऊ has no vṛddhi; (b) 1.2.6 makes liṭ
-   after भू k-marked; (c) णल् has no ण्; (d) the root is not doubled
+7. According to Pāṇini (7.4.59), why does ददौ begin with द, not दा? (a) the root दा has a short
+   vowel; (b) the vowel of the doubled syllable is shortened; (c) the doubled syllable's आ merges
+   with the औ of the ending; (d) the doubling copies only the consonant
 8. Whitney says of the later language's perfect: (a) it is used only for what was not witnessed;
    (b) it is never used in prose; (c) it is a future; (d) it is a past tense, equivalent with the
    imperfect
-9. According to Pāṇini (3.4.84), आह is: (a) a substitute in the laṭ of ब्रू; (b) a perfect of √अह्;
-   (c) an aorist; (d) an imperative
+9. According to Pāṇini (7.4.60), in the doubled syllable of गम्गम्: (a) the first consonant
+   stays and the other goes; (b) both consonants stay; (c) the first consonant goes and the other
+   stays; (d) the vowel goes
 10. The 3sg perfect of वच् is: (a) अब्रवीत्; (b) ऊचुः; (c) उवाच; (d) वदति
 
 <details><summary>उत्तराणि · Answer Key</summary>
@@ -1119,15 +1143,17 @@ as every "which rule did this?" item is; the key is at the end; no peeking mid-q
    3sg and (b) the 3du; (d) is the present.
 6. (a) — FACT: Whitney's paradigm of दा, 3rd person "ददौ *dadāú* ददतुस् *dadátus* ददुस् *dadús*"
    [REF:whitney1889 §800]. (b) and (c) are the 3du and 3pl; (d) is the present.
-7. (b) — 1.2.6 [K, on the card]: after भू, liṭ counts as k-marked even before णल्, so 1.1.5 blocks
-   vṛddhi (§8 Step 5; §12 mistake 2; TRADITION). (a): ऊ has one, औ, as the उ of श्रु has in शुश्राव
-   (§15); (c): णल् has its ण्, which gives vṛddhi in जगाम; (d): बभूव is doubled.
+7. (b) — 7.4.59 ह्रस्वः [D]: the vowel of the doubled syllable is shortened, दा + दौ → द + दौ (§8
+   Step 6; §12 mistake 4; TRADITION). (a): दा has a long आ — it is the copy's vowel that is
+   shortened; (c): it is the root's आ that merges with the ending's औ, दा + औ → दौ [6.1.88], before
+   the doubling — the doubled syllable's आ is not merged but shortened; (d): the doubled syllable
+   keeps its vowel, which 7.4.59 shortens.
 8. (d) — FACT, Whitney §821b (§4). (a) is the grammarians' account as Whitney reports it, of which
    he says "there is no evidence of its being either exclusively or distinctively so employed"
    (§821a); (b) and (c) are not his.
-9. (a) — 3.4.84 [K]: an optional substitute in the laṭ of ब्रू, so a present in Pāṇini's account
-   (§5, the three statements; TRADITION). (b) is Whitney's account — true as Whitney's, not as
-   Pāṇini's; (c) and (d) are neither account.
+9. (a) — 7.4.60 हलादिः शेषः [D]: in the doubled syllable the first consonant remains and the
+   others go, गम्गम् → ग + गम् (§8 Step 3, tool 4; §13, derivation (a), step 3; TRADITION).
+   (b) and (c) are not what the rule says; (d): the vowel stays — ग keeps its अ.
 10. (c) — FACT: Whitney's paradigm of वच्, 3rd person "उवाच *uvā́ca* ऊचतुस् *ūcátus* ऊचुस् *ūcús*"
     [REF:whitney1889 §800]. (b) is its 3pl; (a) is the imperfect of ब्रवीति; (d) is the present of
     वदति.
@@ -1185,10 +1211,10 @@ Score /9: one point per cell, the affix or the sound right.
 under 7.1.34. (5) चर् → चचार: as (2) — च + चर् + अ [7.4.60; च is already a c-row sound], च + चार् + अ
 [7.2.116], **चचार**. (6) या → ययौ: as (1) — या + औ, यौ, या + यौ, य + यौ, **ययौ**. Score: one point
 per correct step line, the string and the sūtra; the gloss is not scored. Accept the marker steps
-merged ("1.3.3 + 1.3.9") and step 0 in one line with all its numbers. For (1), (4) and (6), accept
-steps 2 and 3 in either order, as long as the doubling comes after 7.1.34 — the Kāśikā's order; a
-learner who doubles first and then reaches ददौ by 7.1.34 loses the order point and keeps the form
-point.
+merged ("1.3.3 + 1.3.9") and step 0 in one line with all its numbers. For (1), (4) and (6), the
+order is the Kāśikā's under 7.1.34 — 7.1.34, then 6.1.88, then the doubling — and 7.4.59 comes
+after the doubling (§8 Step 6): a table that doubles earlier and still reaches ददौ, पपौ or ययौ
+scores its correct step lines less one point for the order.
 
 4: (1) On the bank of the Bhāgīrathī — भागीरथीतीरे; Pāṭaliputra. (2) Sudarśana — सुदर्शनः. (3) A pair
 of verses, being recited by someone — श्लोकद्वयम्. (4) A sound of piteous weeping —
@@ -1201,8 +1227,9 @@ the prefix). (6) His sword — खड्गम्. Score /6: one point each; (5)
 "The crocodile went home." — मगरमच्छ घर गया।
 
 Scoring: one point per sentence with a correct perfect and correct seams (/6). Accept any owned
-perfect of the production table or the vocabulary card (§15), in the 3rd person; any correct order
-of words; any episode that keeps to the story so far. The 1st and 2nd persons are not asked.
+perfect: a cell of the production table, or a 3rd singular of the vocabulary card's ✓ row (§15);
+any correct order of words; any episode that keeps to the story so far. The 1st and 2nd persons
+are not asked.
 
 6: the readings of §9 Drill 1. Self-check against the audio track
 `planned:assets/audio/volume-4/v4c03l04-derivation-read.mp3`; not scored.
@@ -1220,8 +1247,8 @@ of words; any episode that keeps to the story so far. The 1st and 2nd persons ar
 > strong:** the ṇ of णल् gives vṛddhi (7.2.116): **जगाम**; after आ, णल् → औ [7.1.34]: **ददौ**. **The
 > rest is weak:** जग्मुः, चक्रुः, ददुः, ऊचुः. **बभूव**, no vṛddhi (1.2.6, card). **आह:** a laṭ substitute
 > for Pāṇini; a perfect with present value for Whitney; a "past" tag in the corpus. **Yours:** the 3rd
-> persons; "I went" is अगच्छम्. **The ledger:** six new — 558; cells drilled: 24; tools added: 8;
-> toolbox: 83.
+> persons of the production table, and the 3rd singulars of the card's ✓ row; "I went" is अगच्छम्.
+> **The ledger:** six new — 558; cells drilled: 24; tools added: 8; toolbox: 83.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
@@ -1241,8 +1268,8 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 5. **(4 min)** §16 aloud, both roles, joined, no pause at any seam.
 6. **(3 min)** §17 read aloud: the serial's episode 4.
 7. **(3 min, real world)** The Hitopadeśa passage of §13 re-read aloud, joined, then in its pause
-   form — to a listener if you can; then tell them, in Hindi or English, what the king heard twice
-   and what he did.
+   form — to a listener if you can; then tell them, in Hindi or English, what each of the two kings
+   heard, and what the second did.
 8. **(7 min)** The §19 quiz, from memory; Q4 with the toolbox card open.
 9. **(2 min)** The key (§19): check the quiz. Every wrong answer sends you to the § named beside it.
 
@@ -1254,19 +1281,21 @@ Spaced review (distributed practice helps retention [REF:cepeda2006]):
 and जगाम. Ask: "What has been put before each root? And why is the end of ददौ not the end of
 ददाति?" Do not answer until 6.1.8 and 7.1.34 are on the board.
 
-**Timing plan (45 min):** 0–7 Station 0, two items (item 1 3, item 2 4) · 7–9 the three §3 prompts,
-aloud (2) · 9–11 the Hook, three forms (2) · 11–14 3.2.115 with its padaccheda and bracket line;
-the IR-019 box; the TRADITION/FACT pair of §4 (3) · 14–20 derivation (a), जगाम, with the teacher, the
-D rules read from the table (6) · 20–23 T10 and exercise 2 (3) · 23–27 the production table and the K
-card, उवाच and ऊचुः in two columns (4) · 27–33 exercise 1 (6) · 33–35 the three statements on आह, §5
-(2) · 35–42 the Hitopadeśa passage read joined, glossed, exercise 4 (7) · 42–45 model sentences
-read aloud (3). Exercises 3, 5 and 6, §15 (T10 learned, the card read), §16, §17, the passage re-read
+**Timing plan (45 min):** 0–8 Station 0, two items (item 1 3, item 2 5) · 8–10 the three §3 prompts,
+aloud (2) · 10–12 the Hook, three forms (2) · 12–15 3.2.115 with its padaccheda and bracket line;
+the IR-019 box; the TRADITION/FACT pair of §4 (3) · 15–21 derivation (a), जगाम, with the teacher, the
+D rules read from the table (6) · 21–24 T10 and exercise 2 (3) · 24–28 the production table and the K
+card, उवाच and ऊचुः in two columns (4) · 28–34 exercise 1 (6) · 34–36 the three statements on आह, §5
+(2) · 36–43 the Hitopadeśa passage read joined, glossed, exercise 4 (7) · 43–45 model sentences
+read aloud (2). Exercises 3, 5 and 6, §15 (T10 learned, the card read), §16, §17, the passage re-read
 and the §19 quiz are homework (§21). Exercises 2, 1 and 4 are marked in class, inside their slots:
-exercise 2 two minutes to write and one to check; exercise 1 four and two; exercise 4 is two minutes'
-reading, one of glosses, three of answers and one to check. §16 is not read in class.
+exercise 2 one minute to read T10, one to write and one to check; exercise 1 four and two;
+exercise 4 is two minutes' reading, one of glosses, three of answers and one to check. §16 is not
+read in class.
 
 **Station 0, in class.** Item 1 is three minutes for eight cells: watch for \*शृणोन्ति, and for
-कुर्वन्ति marked "strong" because it is long. Item 2 is four minutes for नयति from memory: the slips
+कुर्वन्ति marked "strong" because it is long. Item 2 is five minutes for नयति from memory, four
+to write and one to mark: the slips
 to watch for are guṇa written before शप् is placed, and 6.1.78 forgotten at the end. Log both scores.
 
 **Board work.** Left: the जगाम table, built line by line, each line stamped with its sūtra; the
@@ -1293,8 +1322,10 @@ bracket line prints the source of a carried word as the data file gives it):
 - **7.1.91 णलुत्तमो वा** — the 1st singular णल् is optionally ṇ-marked: जगम beside जगाम. The student's
   अहं जगाम in §16 is correct Sanskrit; the course keeps the 1st person ◐. Mark it "not yet yours",
   never wrong.
-- **3.4.115 लिट् च** — liṭ is ārdhadhātuka too, so 1.2.4 (sārvadhātuka only) does not touch its
-  endings; 1.2.5, on the card, does.
+- **3.4.115 लिट् च** — the endings that replace liṭ are called ārdhadhātuka, an exception to the
+  name sārvadhātuka of 3.4.113 (so the Kāśikā): 3.1.68 gives no class sign before them, and 1.2.4
+  (sārvadhātuka only) does not touch them; 1.2.5, on the card, does. It is the rule behind the line
+  on the class sign under §13's derivation (a).
 - **6.4.77 अचि श्नुधातुभ्रुवां य्वोरियङुवङौ** — उ → उव् before a vowel: शुश्रुवतुः, शुश्रुवुः.
 
 **The headings the bracket lines do not print by name.** Under 3.2.115 and 3.4.82 the data file also
@@ -1327,7 +1358,7 @@ the corrections listed (none other is made). Their sense gives the English lines
   ca bruva āhaśabda ādeśo bhavati / āha, āhatuḥ, āhuḥ / āttha, āhathuḥ / na ca bhavati / bravīti,
   brūtaḥ, bruvanti / bravīṣi, brūthaḥ /* — read *pañcānāma adibhūtānāṃ* as *pañcānām ādibhūtānāṃ*. Its
   *laṭo vā* gives the card line's "optionally" and §5's Pāṇini row.
-- **The Kāśikā on 1.2.5** (lines 1938–1944): *apit iti vartate / asaṃyogāntād dhātoḥ paro liṭ pratyayaḥ
+- **The Kāśikā on 1.2.5** (lines 1938–1941): *apit iti vartate / asaṃyogāntād dhātoḥ paro liṭ pratyayaḥ
   apit kid bhavati / bidhidatuḥ / bibhiduḥ* — read *bidhidatuḥ* as *bibhidatuḥ*.
 - **The Kāśikā on 1.2.6** (lines 1962–1968): *indhi bhavati ity etābhyāṃ paro liṭ pratyayaḥ kiḍ
   bhavati … bhavateḥ khalv api -- babhūva / babhūvitha / indheḥ saṃyogarthaṃ grahaṇam / bhavateḥ
@@ -1341,7 +1372,7 @@ the corrections listed (none other is made). Their sense gives the English lines
   / āṭa, āṭatuḥ, āṭuḥ /*); 7.4.59 (75544–75548: *hrasvo bhavati abhyāsasya / duḍhaukiṣate /
   tutraukiṣate / ḍuḍhauke / tutrauke /*); 7.4.62 (75608–75615: *abhyāsasya kavargahakārayoḥ cavargādeśo
   bhavati / cakāra / cakhāna / jagāma / jaghāna / hakārasya - jahāra / jihīrṣati / jahau //*); 6.1.17
-  (51602–51607: *ubhayeṣāṃ vacyādīnāṃ grahyādīnāṃ ca liṭi parato 'bhyāsasya samprasāraṇaṃ bhavati /
+  (51602–51605: *ubhayeṣāṃ vacyādīnāṃ grahyādīnāṃ ca liṭi parato 'bhyāsasya samprasāraṇaṃ bhavati /
   vaci - uvāca / uvacitha / svapi - suṣvāpa*); and the examples only of 6.4.98 (65225–65226: *jagmatuḥ
   / jagmuḥ*), 6.4.64 (64540–64541: *kiti - papatuḥ / papuḥ*), 6.4.120 (65661: *pecatuḥ*) and 3.1.40
   (14639–14640: *pācayām babhūva / pācayām āsa*).
@@ -1350,11 +1381,13 @@ the corrections listed (none other is made). Their sense gives the English lines
   the speaker's range of seeing. 3.2.111 is read cold in the Chapter 3 exam: do not read it now.
 
 **The passage — the printing changes.** Hitopadeśa, Introduction (`hitop_u.htm`, line 131) and Book
-3 (lines 2946, 2956). The Devanagari drops the hyphens of the e-text's compounds (the IAST keeps
-them); *tat śrutvā*, apart in the e-text, is joined तच्छ्रुत्वा; the e-text's dash after *śuśrāva*,
-which introduces the verses that follow it, is printed as a daṇḍa; the dash after *brūte* is printed
-as the speech frame; the e-text's space before "?" is not printed. Nothing else is changed. The
-ellipsis in (b) stands for lines 2948–2954. 43 words, names excluded, 8 glossed, counted from the
+3 (lines 2946, 2956). The IAST line is the e-text's, its hyphens and punctuation kept. The
+Devanagari drops the hyphens of the e-text's compounds and prints the course's daṇḍa for the
+e-text's "|"; the e-text's dash after *śuśrāva*, which introduces the verses that follow it, is
+printed as a daṇḍa; the dash after *brūte* is printed as the speech frame, spaced; the e-text's
+space before "?" is not printed; *tat śrutvā* stands apart, as in the e-text. Nothing else is
+changed. The ellipsis in (b) stands for lines 2948–2954. 43 words, names excluded, 8 glossed,
+counted from the
 pause form. रात्रौ is coded as a card form: the locative singular of an f. i-stem is ◐ at Volume 3's
 exit; it is not glossed, and the ratio is unchanged.
 
@@ -1416,11 +1449,11 @@ Lesson video, ~6 min, presenter + motion graphics.
    snipped, 7.4.60; ग turns to ज, 7.4.62; णल् arrives, its ण् pointing, and the अ stretches to आ,
    7.2.116: जगाम.
 5. **The gift (3:20–4:10):** दा + णल्: the णल् becomes औ, stamped 7.1.34; आ and औ melt into one औ;
-   then the doubling; then the first आ shrinks: ददौ. A small banner: "the Kāśikā's order".
+   then the doubling, under a small banner: "the Kāśikā's order"; then the first आ shrinks: ददौ.
 6. **Strong and weak (4:10–5:00):** two columns — जगाम, चकार, शुश्राव in one colour; जग्मुः, चक्रुः,
    शुश्रुवुः in the other. बभूव alone in the middle, with a card: "1.2.6 — no vṛddhi".
 7. **Three statements (5:00–5:30):** three columns under आह light up in turn: Pāṇini, Whitney, the
-   corpus. Caption: "three statements; only 'according to Pāṇini' is asked".
+   corpus. Caption: "three statements, side by side; none is asked".
 8. **Recap (5:30–6:00):** the ledger counter ticks 552 → 558; the toolbox counter 75 → 83. End card:
    "Next: the future".
 
@@ -1434,9 +1467,9 @@ reads the cue, not the English spelling.
 - **00:40** Pāṇini's rule: parokṣe liṭ [pɐɾoːkʂeː liʈ]. For the past, out of sight, the l-affix
   liṭ. Whitney adds what the texts show: in the later language, simply a past tense.
 - **01:30** An old card called it "witnessed". The rule says the opposite: out of sight.
-- **02:00** Before liṭ the root is doubled: gam [gɐm] becomes gamgam. The first copy keeps only
-  its first consonant, and the g turns to j. The ending ṇal [ɳɐl] is heard as a, and its ṇ lengthens
-  the vowel: jagāma [d͡ʑɐgɑːmɐ].
+- **02:00** Before liṭ the root is doubled: gam [gɐm] becomes gamgam. The first copy keeps its
+  first consonant and loses the other, and the g turns to j. The ending ṇal [ɳɐl] is heard as a,
+  and its ṇ lengthens the vowel: jagāma [d͡ʑɐgɑːmɐ].
 - **03:20** dā [d̪ɑː]: the ending becomes au, the two vowels become one, then the doubling, then the
   first vowel is shortened: dadau [d̪ɐd̪ɐu̯].
 - **04:10** The singular is strong, the rest weak: jagāma, jagmuḥ [d͡ʑɐgmuh]. And babhūva
@@ -1482,13 +1515,14 @@ reads the cue, not the English spelling.
   prompt 3); builds on v4.c03.l01 (3.4.78; पचति; यजति, whose perfect इयाज, ईजे is printed today, ◐), v4.c01.l01–l03 (1.1.50; the case code; jhal, jaś),
   v4.c02.l03 (6.4.1; the bracket line), v3.c04.l01–l03 (the seams), v3.c06.l04 (आप्नोति), v3.c06.l05
   (प्राप्नोषि); feeds v4.c03.l05 (Station 0: six perfects), v4.c03.l06 (Station 0: derive जगाम; the √भू
-  table's liṭ row; आह "according to Pāṇini"), v4.c05.l02 (णिच्), v4.c05.l03 (पतिः; विद्वान्), v4.c06.l02
+  table's liṭ row), v4.c05.l02 (णिच्), v4.c05.l03 (पतिः; विद्वान्), v4.c06.l02
   (बभूव), v4.c06.l03 (1.1.56).
 - **Glossary:** candidate rows from the chapter fact base — **अभ्यास** · abhyāsa · "the doubled
   syllable: the first copy of a doubled root (6.1.8; the name by 6.1.4)" · अभ्यास · v4.c03.l04, beside
   the owned "practice"; **लिट्** · liṭ · "the perfect: the l-affix of the past out of sight
-  (3.2.115); 3rd persons P ✓ from v4.c03.l04, the rest ◐" · लिट् · v4.c03.l04. Hindi forms as used in
-  §7: लिट्, अभ्यास, द्वित्व, परोक्ष, णित्, उपधा, स्थानी, सबल, निर्बल.
+  (3.2.115); ✓ from v4.c03.l04 in the production table's 3rd persons P and in the 3rd singulars of
+  the vocabulary card's ✓ row, the rest ◐" · लिट् · v4.c03.l04. Hindi forms as used in §7: लिट्,
+  अभ्यास, द्वित्व, परोक्ष, णित्, उपधा, स्थानी, सबल, निर्बल.
 - **Export notes:** 6 ledger-new — पतिः, द्वयम्, श्लोकः, द्वारम्, खड्गः, प्राप्नोति — **552 → 558**;
   vocabulary_count 6; cells drilled 24; tools added 8 (3.2.115 Q; 6.1.8, 3.4.82, 7.2.116, 7.4.60,
   7.4.59, 7.4.62, 7.1.34 D); toolbox 83. Labels, never rows: लिट्, the endings, the -कार names, the

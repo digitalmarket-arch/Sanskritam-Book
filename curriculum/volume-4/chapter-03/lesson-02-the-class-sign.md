@@ -23,7 +23,7 @@ objectives:
   - en: "Derive, according to Pāṇini, नयति with the teacher, and स्मरति, जयति, हरति, तरति, चरति and वदति by yourself."
     hi: "पाणिनि के अनुसार शिक्षक के साथ नयति की, और स्वयं स्मरति, जयति, हरति, तरति, चरति और वदति की व्युत्पत्ति करें।"
   - en: "Say and write six sentences with जयति, तरति, हरति, सीदति, उत्तिष्ठति and चरति, joined, with the pause form beneath."
-    hi: "जयति, तरति, हरति, सीदति, उत्तिष्ठति और चरति से छह वाक्य बोलें और लिखें।"
+    hi: "जयति, तरति, हरति, सीदति, उत्तिष्ठति और चरति से छह वाक्य सन्धि सहित बोलें और लिखें, नीचे विराम-रूप के साथ।"
 new_letters: []
 new_matras: []
 vocabulary_count: 7
@@ -54,7 +54,8 @@ In v3.c01.l02 you met तिष्ठति "stands", and its vocabulary row mad
 तिष्ठ- is v4.c03's". Today the promise falls due. Line up seven more verbs you own beside their
 roots: गच्छति from गम्, पश्यति from दृश्, नयति from नी, and नृत्यति, शृणोति, करोति, गृह्णाति.
 Seven verbs, seven ways of making a stem from a root: गच्छ-, पश्य-, नय-, नृत्य-, शृणो-, करो-,
-गृह्णा-. Volume 2 said of two of them only that each "builds its stem differently" (v2.c04.l01).
+गृह्णा-. Volume 2 said of three of them only that each "builds its stem
+differently" (शृणोति in v2.c04.l01, करोति in v2.c04.l03, गृह्णाति in v2.c06.l02).
 
 Lesson 1 took पठति apart as far as पठ् + ति, and marked the last line of its table for today.
 But नयति is not नी + ति. What stands between the root and the ending — and why does नी become
@@ -69,7 +70,7 @@ But नयति is not नी + ति. What stands between the root and the en
 | 1 | Name the class, the class sign and the present stem of twelve owned verbs. | बारह परिचित क्रियाओं का गण, विकरण और वर्तमान-अङ्ग बताएँ। |
 | 2 | Give the substitute stem and its rule for seven owned verbs from the card. | कार्ड से सात परिचित क्रियाओं का आदेश-अङ्ग और उसका नियम बताएँ। |
 | 3 | Derive, according to Pāṇini, नयति with the teacher, and स्मरति, जयति, हरति, तरति, चरति and वदति by yourself. | पाणिनि के अनुसार शिक्षक के साथ नयति की, और स्वयं स्मरति, जयति, हरति, तरति, चरति और वदति की व्युत्पत्ति करें। |
-| 4 | Say and write six sentences with जयति, तरति, हरति, सीदति, उत्तिष्ठति and चरति, joined, with the pause form beneath. | जयति, तरति, हरति, सीदति, उत्तिष्ठति और चरति से छह वाक्य बोलें और लिखें। |
+| 4 | Say and write six sentences with जयति, तरति, हरति, सीदति, उत्तिष्ठति and चरति, joined, with the pause form beneath. | जयति, तरति, हरति, सीदति, उत्तिष्ठति और चरति से छह वाक्य सन्धि सहित बोलें और लिखें, नीचे विराम-रूप के साथ। |
 
 Objective 1 is built in §8 Step 5 and §15, and tested in §18 (exercises 5 and 1) and §19 (Q8,
 Q9, Q10); objective 2 in §8 Step 6 and §15, tested in §18 (exercise 2) and §19 (Q6); objective
@@ -109,9 +110,9 @@ Keep the page open: guṇa, a substitute, is today's step 5.
 - **Item 1.** parasmaipada, by 1.3.78 शेषात् कर्तरि परस्मैपदम्: भवति, पठति, गच्छति · ātmanepada,
   by 1.3.12 अनुदात्तङित आत्मनेपदम्: रोचते, लभते, मन्यते, जायते · both, by 1.3.72 स्वरितञितः
   कर्त्रभिप्राये क्रियाफले: करोति [its ञ्], पचति, यजति [the Laghusiddhāntakaumudī's ubhayapadins;
-  accent not shown]. Score /10: one point per verb, the set and the rule both right. The pada card
-  (lesson 1 §15) prints all ten with their sets; the item tests the rule names. A slip sends you to
-  lesson 1 §15 and its §18 exercise 2.
+  accent not shown]. Score /10: one point per verb, the set and the rule both right. Run with the
+  pada card (lesson 1 §15) closed, the item tests the set and the rule from memory; the card prints
+  all ten with their sets. A slip sends you to lesson 1 §15 and its §18 exercise 2.
 - **Item 2.** substitute — आदेशः — the replaced item in the genitive (1.1.49) — e.g. सूर्य + उदयः →
   सूर्योदयः, ल् → तिप्; augment — आगमः — its own marker (ट् at the beginning, क् at the end,
   1.1.46) — अट् in अगच्छत्; deletion — लोपः — the word लोपः, 1.1.60 — the इ of ति in अगच्छत्,
@@ -156,7 +157,7 @@ of roots, in ten lists, and a rule names a list by its first root.
 
 > **[TRADITION · परम्परा]** The tradition names the ten classes by the first root of each list in
 > the Dhātupāṭha — भ्वादिः 'the class beginning with भू', अदादिः, जुहोत्यादिः … — and the
-> Laghusiddhāntakaumudī (17th century) presents the verbs class by class in that order: भ्वादयः,
+> Laghusiddhāntakaumudī (c. 17th century) presents the verbs class by class in that order: भ्वादयः,
 > अदादयः, जुहोत्यादयः, दिवादयः, स्वादयः, तुदादयः, रुधादयः, तनादयः, क्र्यादयः, चुरादयः.
 > [REF:laghukaumudi]; [REF:dhatupatha]
 
@@ -268,6 +269,7 @@ the इति after it, and none has its first sound fused with the word before 
 नहीं। इन दस को दस अलग तथ्यों की तरह रटिए मत। पहले वह देखिए जो कान से सुनाई देता है: क्या
 वर्तमान-अङ्ग अ पर समाप्त होता है? भव-ति, नृत्य-ति, पृच्छ-ति, कथय-ति — हाँ; ये गण 1, 4, 6 और 10
 हैं। अस्-ति, ददा-ति, शृणो-ति, करो-ति, गृह्णा-ति — नहीं; ये बाक़ी छह गण हैं: 2, 3, 5, 7, 8 और 9।
+शृणोति इनमें केवल अपने विकरण के कारण आता है, क्योंकि उसकी धातु श्रु पहले गण में गिनी जाती है।
 सूत्रों के क्रमांक कार्ड पर रहते हैं — उन्हें देखना है, याद नहीं करना।
 
 **आदेश-अङ्ग।** कुछ धातुएँ शित् प्रत्यय से पहले, यानी ऐसे प्रत्यय से पहले जिसमें श् इत् हो — जैसे
@@ -369,7 +371,8 @@ by it. Today it is a tool. A taddhita is an affix that makes a word from a word 
 not one, since it follows a root. So its first sound, श्, is a marker; its last, प्, is a marker by
 the rule you own, 1.3.3 हलन्त्यम्; and 1.3.9 तस्य लोपः drops both. What is left is अ. Two markers,
 two jobs: the श् makes शप् a ś-marked affix, so 3.4.113 calls it sārvadhātuka too — the Kāśikā
-says that is what its श् is for; what its प् does is lesson 3's [preview: c03.l03].
+says, under 3.1.68, that is what its श् is for [REF:kashika 3.1.68]; what its प् does is lesson 3's
+[preview: c03.l03].
 
 **4. Guṇa before it — B, 7.3.84 सार्वधातुकार्धधातुकयोः** (sārvadhātukārdhadhātukayoḥ).
 
@@ -409,7 +412,7 @@ You met it on a card in c02.l02, in the ladder's ऋ row: the guṇa of ऋ is �
 rule's. Its अण् is read as every rule but 1.1.69 reads it: अ इ उ, to the first ण् [v4.c01.l02].
 Today it becomes a tool: स्मृ → स्मर्, हृ → हर्, तॄ → तर्.
 
-**7. A light vowel before the last consonant — D, 7.3.86 पुगन्तलघूपधस्य च**
+**7. A light penultimate vowel — D, 7.3.86 पुगन्तलघूपधस्य च**
 (pugantalaghūpadhasya ca).
 
 Bracket line: [carried (data file): गुणः, 7.3.82; सार्वधातुक-आर्धधातुकयोः, 7.3.84] [headings (data file): अङ्गस्य, 6.4.1]
@@ -417,10 +420,10 @@ Bracket line: [carried (data file): गुणः, 7.3.82; सार्वधा�
 English: "And [guṇa] of a light penultimate vowel [before such an affix]." [REF:ashtadhyayi
 7.3.86]; [REF:kashika 7.3.86]
 
-Penultimate: the vowel just before the aṅga's last consonant. Light: short, with only one consonant
-after it. The उ of रुच् is both, so रोचते has ओ: lesson 1 left that step for today (§13, derivation
-(b)). The other member of the compound, पुगन्त-, concerns certain causative stems (Teacher Notes);
-today only the light vowel works.
+Penultimate: the sound just before the aṅga's last sound — in रुच्, the उ before च्. Light: a short
+vowel with only one consonant after it. The उ of रुच् is both, so रोचते has ओ: lesson 1 left that
+step for today (§13, derivation (b)). The other member of the compound, पुगन्त-, concerns certain
+causative stems (Teacher Notes); today only the light vowel works.
 
 **Re-read [owned]:** 1.1.3 इको गुणवृद्धी and 1.1.2 अदेङ् गुणः [B, c02.l02 §8]; 1.1.50 स्थानेऽन्तरतमः
 [D, its English line in v4.c01.l01 §15]: of the guṇa vowels अ ए ओ, the one nearest the replaced
@@ -438,7 +441,10 @@ before अ, itself sārvadhātuka because it is ś-marked, and 7.3.84 gives gu�
 last sound (1.1.52), an इक् vowel (1.1.3), the nearest grade (1.1.50): ई → ए — your prompt 1. Step 6
 is your prompt 2: ए before a vowel → अय्, by 6.1.78. Then **नयति**.
 
-One other owned verb has exactly the steps of नयति. It is the volume's last task.
+जयति, today's headword, takes the steps of नयति from step 1 on, with इ in place of ई: §18
+exercise 3, item 2. भवति takes them with ऊ: guṇa ओ, then अव् by the same 6.1.78. भवति is Whitney's
+भव of §5, and lesson 1's exercise 3 took it to step 7, leaving शप् and guṇa for today; deriving it
+whole, every step with its sūtra, is the volume's last task (v4.c06.l04).
 
 Why can guṇa happen here? Because शप् allows it. Not every class sign does: लिखति has no guṇa,
 though the इ of लिख् is light and stands just before the root's last consonant, as the उ of रुच्
@@ -459,8 +465,9 @@ something you can hear: **does the present stem end in अ?**
 - भव-ति, नृत्य-ति, पृच्छ-ति, कथय-ति — yes: an अ stands before the ending. These are **thematic**
   stems — the word Volume 3 put in the rows of नयति and तिष्ठति — and they belong to classes 1, 4,
   6 and 10.
-- अस्-ति, ददा-ति, शृणो-ति, करो-ति, गृह्णा-ति, स्वपि-ति — no. These are **athematic**, and they
-  belong to the other six classes: 2, 3, 5, 7, 8 and 9.
+- अस्-ति, ददा-ति, शृणो-ति, करो-ति, गृह्णा-ति, स्वप्-इ-ति — no. These are **athematic**, and they
+  belong to the other six classes: 2, 3, 5, 7, 8 and 9 — शृणोति by its sign only, since its
+  root श्रु is listed in class 1 (§12, mistake 6).
 
 Do §18 exercise 5 now, in class. The point of the sort is that you never learn ten signs as ten
 unconnected facts: the four thematic classes all end their stems in अ — शप्, श्यन्, heard as य,
@@ -485,7 +492,8 @@ The tenth class is where Pāṇini's account and Whitney's part company.
 > extent a causative value … it will be best treated in full along with the derivative
 > conjugations". [REF:whitney1889 §607]
 
-Both are printed; only "According to Pāṇini…" is asked. Whitney's point is about what the language
+Both are printed, and each is asked only as its source's: the classes "According to Pāṇini…"
+(§19, Q9), Whitney's point as his (§19, Q10). Whitney's point is about what the language
 does: the -अय stem of the tenth class is not confined to the present. The ten classes are the
 tradition's arrangement of the roots, and this course asks about them only in the form "According
 to Pāṇini…".
@@ -508,7 +516,9 @@ English: "Before a ś-marked affix, छ [replaces the final] of इष्, ग�
 its rule is in Teacher Notes.
 
 **9. Whole substitutes — D, 7.3.78 पाघ्राध्मास्थाम्नादाण्दृश्यर्त्तिसर्त्तिशदसदां
-पिबजिघ्रधमतिष्ठमनयच्छपश्यर्च्छधौशीयसीदाः**.
+पिबजिघ्रधमतिष्ठमनयच्छपश्यर्च्छधौशीयसीदाः**
+(pāghrādhmāsthāmnādāṇdṛśyarttisarttiśadasadāṃ
+pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ).
 
 Bracket line: [carried (data file): शिति, 7.3.75] [headings (data file): अङ्गस्य, 6.4.1]
 
@@ -648,8 +658,9 @@ touches the teeth for न and त, and the blade rises toward the palate for य
 
 1. **Memorising the ten class signs as ten facts.** *Fix:* sort by what you see: a thematic -अ-
    stem (1, 4, 6, 10) or not (2, 3, 5, 7, 8, 9); the numbers stay on the card.
-2. **Guṇa on चर्, वद्: \*चार-, \*वाद-.** *Fix:* guṇa replaces an इक् vowel only (1.1.3): चर्, वद्
-   have none (§18 exercise 3, items 5–6). Their अ stays.
+2. **Lengthening the अ of चर्, वद्: \*चार-, \*वाद-.** *Fix:* guṇa replaces an इक् vowel only (1.1.3),
+   and चर्, वद् have none (§18 exercise 3, items 5–6); आ for अ would be vṛddhi (1.1.1), not guṇa.
+   Their अ stays.
 3. **Guṇa in class 6 (\*लेखति, \*क्षेपति).** *Fix:* class 6's sign श has no प्: why that blocks
    guṇa is lesson 3's (1.2.4 with 1.1.5, preview). लिखति and क्षिपति keep their इ.
 4. **Taking गच्छ- etc. as "irregular".** *Fix:* two sūtras make them: 7.3.77 (गच्छ, इच्छ, यच्छ) and
@@ -783,7 +794,8 @@ that changes, so its two lines are the same.
 
 शब्दावली — Ledger 542 → 548 (6 ledger-new; upgrade गणः).
 
-Cells drilled: 30 (the present stems of the ten classes' owned verbs).
+Cells drilled: 15 (the 3rd-person present cells that §9's drills and §18's exercises have you say
+or write; listed in §15's paradigm ledger).
 
 Tools added: 10 (3.4.113, 3.1.68, 1.3.8, 7.3.84 B; 1.1.51, 1.1.52, 7.3.86, 7.2.76, 7.3.77, 7.3.78 D).
 
@@ -807,17 +819,19 @@ Five notes. **The six verbs** are all class 1, all parasmaipada, all with शप
 present system — laṭ, laṅ and loṭ — as you make गच्छति's. Their future stems are printed for later:
 the future is lesson 5's. **जयति and हरति** are new lemmas beside the owned nouns जय and हर: a verb
 counts once, as its 3rd singular. **हरति:** Apte marks हृ "U." — both sets; the course teaches it in
-parasmaipada only, as v3.c03.l02 taught चिन्तयति and भक्षयति, and a learner's हरते is never marked
-wrong. **उत्तिष्ठति** is a prefixed verb, उद् + तिष्ठति, and counts as its own lemma (rule 9);
+parasmaipada only, as Volume 3 taught चिन्तयति [v3.c03.l01] and भक्षयति [v3.c03.l04] by
+v3.c03.l02's line, and a learner's हरते is never marked wrong. **उत्तिष्ठति** is a prefixed verb,
+उद् + तिष्ठति, and counts as its own lemma (rule 9);
 सीदति and उत्तिष्ठति take their stems from 7.3.78, as तिष्ठति does. **गणः** is an upgrade row: गण
 "group" has been yours since v1.c03.l03; it returns in sentence dress with its grammar sense, "a
 class of roots" (भ्वादिगणे, §6), and adds nothing to the ledger (rule 3).
 
 Review words in sentence dress, no rows: वीरः, नदी [नदीम्], सत्यम्, दुःखम् [दुःखेन], मनः, सूर्योदयः
 [सूर्योदये], मृगः [मृगाः, मृगम्], वनम् [वने], च, गुरुः [vocative गुरो], कः, कुत्र, कथम्, एव, अपि,
-आम्, सः [सा; तौ, the dual], आदेशः, गुणः [गुणेन], इति, अत्र, तिष्ठति, नयति, गच्छति, बालकः, ऋषिः
-[ऋषयः], व्याधः, मकरः [मकरस्य], वदति [वद], मा, एवम्, वानरः [वानरम्], मम, सुहृत्, मह्यम्, सदा,
-मधुरः [मधुराणि], फलम् [फलानि], प्रयच्छति, पत्नी, न, शृणोति, क्रुद्धः [क्रुद्धा], तीरम्, चिन्तयति;
+आम्, सः [सा; तौ, the dual], आदेशः, गुणः [गुणेन], इति, अत्र, तिष्ठति, नयति, गच्छति, बालकः, नृपः,
+नगरम्, गृहम् [गृहे], ऋषिः [ऋषयः], व्याधः, मकरः [मकरस्य], वदति [वद], मा, एवम्, वानरः [वानरम्], मम,
+सुहृत्, मह्यम्, सदा,
+मधुरः [मधुराणि], फलम् [फलानि], प्रयच्छति, पत्नी, न, शृणोति, क्रुद्धः [क्रुद्धा], चिन्तयति;
 धातुः, lesson 1's headword.
 
 Labels, never vocabulary rows (rules 16, 20–21): विकरणः; the class names भ्वादिः … चुरादिः [भ्वादि-,
@@ -838,8 +852,9 @@ derivations, the tools by tier, the toolbox card and the paradigm ledger.
 > (3.4.113). Before them, after the root, comes शप्, by 3.1.68; in the other classes a sign of their
 > own stands in its place — in the tenth, before it — or none at all (the card). शप्'s श् and प् are markers (1.3.8, 1.3.3,
 > 1.3.9): what remains is अ. Before शप् the aṅga's last sound, if it is an इक् vowel, takes guṇa
-> (7.3.84, with 1.1.52, 1.1.3 and 1.1.50, and 1.1.51 for the र् of अर्); a light penultimate vowel
-> takes it too (7.3.86). A root with neither — चर्, वद् — keeps its vowel.
+> (7.3.84, with 1.1.52, 1.1.3 and 1.1.50, and 1.1.51 for the र् of अर्); a light penultimate इक्
+> vowel takes it too (7.3.86). A root with neither — चर्, वद्, whose only vowel is अ — keeps
+> its vowel.
 
 The English lines, padaccheda and bracket lines of the tools are in §8 Steps 3 and 6.
 
@@ -848,22 +863,22 @@ The English lines, padaccheda and bracket lines of the tools are in §8 Steps 3 
 | What you hear | Classes | Verbs you own | Whitney |
 |---|---|---|---|
 | a present stem in -अ: **thematic** | 1, 4, 6, 10 | भवति, नयति, नृत्यति, पृच्छति, लिखति, कथयति | his second conjugation (§§605–606), and the tenth beside it (§607) |
-| a stem that does not end in अ: **athematic** | 2, 3, 5, 7, 8, 9 | अस्ति, याति, स्वपिति, ददाति, शृणोति, आप्नोति, करोति, गृह्णाति, जानाति | his first conjugation (§603) |
+| a stem that does not end in अ: **athematic** | 2, 3, 5, 7, 8, 9 | अस्ति, याति, स्वपिति, ददाति, शृणोति [by its sign only], आप्नोति, करोति, गृह्णाति, जानाति | his first conjugation (§603) |
 
 ### The ten classes — the card [K]
 
-| Class (first root) | Sign → what remains | Rule (K) | Owned verbs (all in the entry ledger or this chapter's headwords) | Stem | Whitney |
+| Class (first root) | Sign → what remains | Rule | Owned verbs (all in the entry ledger or this chapter's headwords) | Stem | Whitney |
 |---|---|---|---|---|---|
 | 1 भ्वादिः | शप् → अ | 3.1.68 [B] | भवति, नयति, वदति, जयति, तरति, हरति, चरति, पठति, स्मरति, सीदति [stem by 7.3.78], गच्छति, तिष्ठति, पिबति, पश्यति [stems by 7.3.77–78] | guṇa + अ | §734 |
-| 2 अदादिः | (none: शप् deleted, luk) | 2.4.72 अदिप्रभृतिभ्यः शपः | अस्ति, याति, स्वपिति; ब्रवीति, हन्ति, एति [preview: c03.l03] | root itself | §§611–612 |
-| 3 जुहोत्यादिः | (none: शप् → श्लु, the root doubled) | 2.4.75 जुहोत्यादिभ्यः श्लुः | ददाति | doubled root | §642 ff. |
-| 4 दिवादिः | श्यन् → य | 3.1.69 दिवादिभ्यः श्यन् | नृत्यति, मन्यते, जायते [stem by 7.3.79] | root + य | §759 |
-| 5 स्वादिः | श्नु → नु / नो | 3.1.73 स्वादिभ्यः श्नुः [3.1.74 for श्रु] | आप्नोति, प्राप्नोति [preview: c03.l04]; शृणोति by its sign only [श्रु श्रवणे is a bhvādi root in the Laghusiddhāntakaumudī; 3.1.74 gives it श्नु in place of शप्] | root + नु/नो | §§694–711 (§711 śru) |
-| 6 तुदादिः | श → अ | 3.1.77 तुदादिभ्यः शः | पृच्छति, क्षिपति, मुञ्चति, कृन्तति, लिखति, इच्छति [stem by 7.3.77], प्रविशति, उपविशति | root (no guṇa) + अ | §§751–758 |
-| 7 रुधादिः | श्नम् → न inside the root | 3.1.78 रुधादिभ्यः श्नम् | युनक्ति [preview: c03.l03] | root with -न-/-न्- | §§683–693 |
-| 8 तनादिः | उ | 3.1.79 तनादिकृञ्भ्य उः | करोति | root + उ/ओ | §714 |
-| 9 क्र्यादिः | श्ना → ना / नी | 3.1.81 क्र्यादिभ्यः श्ना | गृह्णाति, जानाति [stem by 7.3.79] | root + ना/नी | §§717–730 |
-| 10 चुरादिः | णिच् → अय [+ शप्] | 3.1.25 सत्यापपाश…चुरादिभ्यो णिच् | कथयति, चिन्तयति, भक्षयति | root + अय | §607 |
+| 2 अदादिः | (none: शप् deleted, luk) | 2.4.72 अदिप्रभृतिभ्यः शपः [K] | अस्ति, याति, स्वपिति; ब्रवीति, हन्ति, एति [preview: c03.l03] | root itself | §§611–612 |
+| 3 जुहोत्यादिः | (none: शप् → श्लु, the root doubled) | 2.4.75 जुहोत्यादिभ्यः श्लुः [K] | ददाति | doubled root | §642 ff. |
+| 4 दिवादिः | श्यन् → य | 3.1.69 दिवादिभ्यः श्यन् [K] | नृत्यति, मन्यते, जायते [stem by 7.3.79] | root + य | §759 |
+| 5 स्वादिः | श्नु → नु / नो | 3.1.73 स्वादिभ्यः श्नुः [K; 3.1.74 for श्रु, preview: c03.l03] | आप्नोति, प्राप्नोति [preview: c03.l04]; शृणोति by its sign only [श्रु श्रवणे is a bhvādi root in the Laghusiddhāntakaumudī; 3.1.74 gives it श्नु in place of शप्] | root + नु/नो | §§697–711 (§711 śru) |
+| 6 तुदादिः | श → अ | 3.1.77 तुदादिभ्यः शः [K] | पृच्छति, क्षिपति, मुञ्चति, कृन्तति, लिखति, इच्छति [stem by 7.3.77], प्रविशति, उपविशति | root (no guṇa) + अ | §§751–758 |
+| 7 रुधादिः | श्नम् → न inside the root | 3.1.78 रुधादिभ्यः श्नम् [K] | युनक्ति [preview: c03.l03] | root with -न-/-न्- | §§683–696 |
+| 8 तनादिः | उ | 3.1.79 तनादिकृञ्भ्य उः [K] | करोति | root + उ/ओ | §714 |
+| 9 क्र्यादिः | श्ना → ना / नी | 3.1.81 क्र्यादिभ्यः श्ना [K] | गृह्णाति, जानाति [stem by 7.3.79] | root + ना/नी | §§717–730 |
+| 10 चुरादिः | णिच् → अय [+ शप्] | 3.1.25 सत्यापपाश…चुरादिभ्यो णिच् [K] | कथयति, चिन्तयति, भक्षयति | root + अय | §607 |
 
 The thematic classes are 1, 4, 6 and 10; the athematic, 2, 3, 5, 7, 8 and 9. The words marked
 "preview" become yours in lessons 3 and 4.
@@ -948,13 +963,14 @@ doubling tools come in c03.l04); class 7 in full (c03.l03, one verb).
 
 | Item | Status |
 |---|---|
-| the class, the class sign and the present stem of an owned verb, with the card | ✓ |
+| the class, the class sign and the present stem of an owned verb, from memory [the rule numbers stay on the card] | ✓ |
 | the thematic / athematic sort | ✓ |
 | the substitute stem and its rule, with the card open | ✓ |
 | deriving, according to Pāṇini, a class-1 present: guṇa before शप् — नयति, जयति, स्मरति, हरति, तरति — or none — चरति, वदति | ✓ |
-| the present systems (laṭ P/Ā, laṅ P, loṭ P as for thematic verbs) of the l02 headwords | ✓ |
+| the present systems (laṭ P, laṅ P, loṭ P as for thematic verbs) of the l02 headwords | ✓ |
 | रोचते's last steps; स्वपिति's -इ- named as the augment इट् | ✓ |
-| the athematic stems' cells | ○ — c03.l03 |
+| the 15 cells drilled: नयति [§9 drill 1; exercise 6]; तिष्ठति, उत्तिष्ठति, सीदति, पिबति, पश्यति, गच्छति [§9 drill 2]; स्मरति, जयति, हरति, तरति, चरति, वदति [exercise 3]; चरन्ति, उत्तिष्ठन्ति [exercise 4] | ✓ |
+| the athematic stems' cells beyond those owned since Volume 3 [the listed cells of अस्ति and करोति, the whole-word rows] | ○ — c03.l03 |
 | why class 6 has no guṇa (1.2.4, 1.1.5) | ○ — c03.l03 |
 | the future stems printed in §14 | ○ — c03.l05 |
 | the K sūtras of the two cards | card [K] — looked up, never assessed |
@@ -1056,10 +1072,10 @@ its pause form beneath, then the gloss. Audio: 🔊 in
 > मकरस्य मनः सीदति। (makarasya manaḥ sīdati.)
 > "The crocodile's heart sinks." — मगरमच्छ का मन बैठ जाता है।
 
-> स तीरं तरति, वानरं च चिन्तयति। (sa tīraṃ tarati, vānaraṃ ca cintayati.)
-> सः तीरम् तरति, वानरम् च चिन्तयति। (saḥ tīram tarati, vānaram ca cintayati.)
-> "He crosses to the bank, and thinks of the monkey." — वह पार करके किनारे पहुँचता है, और बन्दर के
-> बारे में सोचता है।
+> स नदीं तरति, वानरं च चिन्तयति। (sa nadīṃ tarati, vānaraṃ ca cintayati.)
+> सः नदीम् तरति, वानरम् च चिन्तयति। (saḥ nadīm tarati, vānaram ca cintayati.)
+> "He crosses the river, and thinks of the monkey." — वह नदी पार करता है, और बन्दर के बारे में
+> सोचता है।
 
 Gloss: मा मैवं वद "no, no, do not speak so" — मा + मा + एवम्, with the imperative वद; मा with the
 imperative has been yours since v3.c03.l04. These are the crocodile's own words in the original,
@@ -1068,9 +1084,9 @@ ours.
 
 Words owned: मकरः [मकरस्य], वदति [वद], मा, एवम्, वानरः [वानरम्], मम, सुहृत्, सः [सा], मह्यम्, सदा,
 मधुरः [मधुराणि, the neuter plural], फलम् [फलानि], प्रयच्छति, पत्नी, न, शृणोति, क्रुद्धः [क्रुद्धा, the
-feminine], तिष्ठति, मनः, तीरम्, च, चिन्तयति; today's सीदति and तरति. The seams: मकरो वदति, वानरो मम —
+feminine], तिष्ठति, मनः, नदी [नदीम्], च, चिन्तयति; today's सीदति and तरति. The seams: मकरो वदति, वानरो मम —
 -अः before a voiced consonant → ओ; मा + एवम् → मैवम् — आ + ए → ऐ, and मैवं वद — म् before a consonant
-→ ं; स मह्यं, स तीरं — सः before a consonant → स; मह्यं सदा, तीरं तरति, वानरं च — म् → ं. The dash of
+→ ं; स मह्यं, स नदीं — सः before a consonant → स; मह्यं सदा, नदीं तरति, वानरं च — म् → ं. The dash of
 the speech frame stops the seam, so वदति stands in its pause form before it; मधुराणि has its ण by
 8.4.1–2 (र, then आ, then न: c02.l03). A daṇḍa and a comma stop every other seam.
 
@@ -1093,7 +1109,7 @@ two to swap with a partner and mark against the key.
 
 **अभ्यासः 2 · the substitute stems (objective 2; in class, 4 minutes, with the substitute-stem card
 of §15 open).** Give the stem and its rule: (1) गच्छति; (2) इच्छति; (3) पिबति; (4) तिष्ठति; (5) पश्यति;
-(6) सीदति; (7) जानाति. Three minutes to write; one to mark.
+(6) सीदति; (7) उत्तिष्ठति. Three minutes to write; one to mark.
 
 **अभ्यासः 3 · Derive, according to Pāṇini, … (objective 3; production, written; homework, 12
 minutes, the key check included).** In table form — Step · String · Sūtra; the gloss is optional —
@@ -1103,13 +1119,14 @@ may run lesson 1's steps in one line, as §13 does. Every end form is owned or t
 since v3.c03.l01, वदति since v1.c04.l01, and today's जयति, हरति, तरति, चरति.
 
 **अभ्यासः 4 · six sentences (objective 4; production; homework, 8 minutes, written, then said aloud,
-the key check included).** In Sanskrit, joined, with the pause form beneath: (1) "The boy crosses the
-river." (2) "Truth prevails." (3) "The deer graze in the forest." (4) "The mind sinks with sorrow."
-(5) "At sunrise the seers get up." (6) "The hunter takes away the deer."
+the key check included).** In Sanskrit, with today's verbs, joined, with the pause form beneath:
+(1) "The boy crosses the river." (2) "The king conquers the city." (3) "The deer graze in the
+forest." (4) "The teacher sits in the house." (5) "At sunrise the seers get up." (6) "The hunter
+takes away the deer."
 
 **अभ्यासः 5 · the sort (objective 1; in class, 4 minutes, before the card).** Sort into thematic (a
-present stem in -अ) and athematic: भवति, अस्ति, नृत्यति, ददाति, पृच्छति, शृणोति, करोति, कथयति,
-गृह्णाति, स्वपिति. Three minutes to write; one to check aloud with the teacher.
+present stem in -अ) and athematic: नयति, याति, लिखति, जानाति, गच्छति, आप्नोति, मन्यते, चिन्तयति,
+पिबति, जायते. Three minutes to write; one to check aloud with the teacher.
 
 **अभ्यासः 6 · the नयति table aloud (objective 3; spoken; homework, 2 minutes, recorded).** Read the
 नयति table (§13, derivation (a)) aloud, naming each marker without pronouncing it in the result, as
@@ -1158,13 +1175,14 @@ mid-quiz.
 5. (c) — ए before a vowel → अय् — §13 derivation (a), step 6; c01.l03. (a) brings in शप्, step 3; (b)
    names ति sārvadhātuka, step 2; (d) made the ए, step 5.
 6. (a) — 7.3.78 puts तिष्ठ in place of स्था before a ś-marked affix (§8 Step 6; the card in §15). (b)
-   is §12 mistake 4; (c): the root is स्था; (d): it only looks doubled — तिष्ठति is class 1, with
-   शप्.
+   is §12 mistake 4; (c): the root is स्था; (d): in Pāṇini's account nothing is doubled here —
+   तिष्ठति is class 1, with शप्; Whitney, describing the language, counts तिष्ठ among the reduplicated
+   roots gone over to the a-class (§§670–671), an account not asked here.
 7. (d) — चर् has no इक् vowel for guṇa to replace (1.1.3): §18 exercise 3, item 5; §12 mistake 2. (a)
    ई → ए, (b) इ → ए and (c) ऋ → अर् are all guṇa by 7.3.84.
-8. (b) — श्यन्, the sign of class 4: नृत्य-, मन्य- (§15 card). (a) adds अ — the य of जयति and नयति
+8. (b) — श्यन्, the sign of class 4: नृत्य-, मन्य- [§15 card]. (a) adds अ — the य of जयति and नयति
    comes from ए → अय्, not from the sign; (c) gives करो-; (d) gives गृह्णा-.
-9. (d) — 3.1.25 [K]: णिच् with शप् after it, together the -अय of कथय- (§15 card; §8 Step 5). (a) is class
+9. (d) — 3.1.25 [K]: णिच् with शप् after it, together the -अय of कथय- [§15 card; §8 Step 5]. (a) is class
    2, and class 3 with its doubling; (b) is class 6; (c) is class 7.
 10. (a) — FACT, Whitney §607 (§8 Step 5). (b): its stem in -अय ends in अ, and Whitney inflects it
     "like that of the other a-stems" (§5); (c): Whitney gives it "a class-sign áya"; (d) is not his
@@ -1190,7 +1208,9 @@ the root doubled] · ददा-/दद्-; (4) 4 दिवादिः · श�
 and (8) — the grades are lesson 3's.
 
 2: (1) गच्छ — 7.3.77 (2) इच्छ — 7.3.77 (3) पिब — 7.3.78 (4) तिष्ठ — 7.3.78 (5) पश्य — 7.3.78 (6) सीद —
-7.3.78 (7) जा, with class 9's ना — 7.3.79. Score /7: one point each, the stem and the rule both right.
+7.3.78 (7) तिष्ठ [उत्तिष्ठ, written with its prefix उद्, also scores] — 7.3.78. Score /7: one point
+each, the stem and the rule both right. जानाति's जा is on the card too, but its rule, 7.3.79, is a
+card line [K]: looked up, never scored.
 
 3: (1) and (5) in table form:
 
@@ -1225,18 +1245,23 @@ and, for (5) and (6), "no guṇa (no इक्)" without the numbers; in (5) and
 only with its reason.
 
 4: (1) बालको नदीं तरति। (bālako nadīṃ tarati.) — pause: बालकः नदीम् तरति। (bālakaḥ nadīm tarati.)
-(2) सत्यं जयति। (satyaṃ jayati.) — pause: सत्यम् जयति। (satyam jayati.)
+(2) नृपो नगरं जयति। (nṛpo nagaraṃ jayati.) — pause: नृपः नगरम् जयति। (nṛpaḥ nagaram jayati.) —
+-अः before a voiced consonant → ओ, and म् before a consonant → ं.
 (3) मृगा वने चरन्ति। (mṛgā vane caranti.) — pause: मृगाः वने चरन्ति। (mṛgāḥ vane caranti.)
-(4) दुःखेन मनः सीदति। (duḥkhena manaḥ sīdati.) — pause: the same.
+(4) गुरुर्गृहे सीदति। (gurur gṛhe sīdati.) — pause: गुरुः गृहे सीदति। (guruḥ gṛhe sīdati.) — -उः before
+a voiced consonant → -उर्.
 (5) सूर्योदय ऋषय उत्तिष्ठन्ति। (sūryodaya ṛṣaya uttiṣṭhanti.) — pause: सूर्य-उदये ऋषयः उत्तिष्ठन्ति।
 (sūrya-udaye ṛṣayaḥ uttiṣṭhanti.) — -ए before a vowel other than अ → -अ and a gap, and -अः before उ →
 -अ and a gap.
 (6) व्याधो मृगं हरति। (vyādho mṛgaṃ harati.) — pause: व्याधः मृगम् हरति। (vyādhaḥ mṛgam harati.)
 Accept any correct order with correct seams; accept a plural "deer" in (6): व्याधो मृगान्हरति।
-(vyādho mṛgān harati.) Score /12: one for each joined line, one for each pause form.
+(vyādho mṛgān harati.) Accept an owned word of the same sense, with its seams: राजा for नृपः in (2) —
+राजा नगरं जयति। (rājā nagaraṃ jayati.); आचार्यः for गुरुः in (4) — आचार्यो गृहे सीदति। (ācāryo gṛhe
+sīdati.); and आलये for गृहे in (4) — गुरुरालये सीदति। (gurur ālaye sīdati.) Score /12: one for each
+joined line, one for each pause form.
 
-5: thematic — भवति, नृत्यति, पृच्छति, कथयति; athematic — अस्ति, ददाति, शृणोति, करोति, गृह्णाति,
-स्वपिति. Score /10.
+5: thematic — नयति, लिखति, गच्छति, मन्यते, चिन्तयति, पिबति, जायते; athematic — याति, जानाति,
+आप्नोति. Score /10.
 
 6: the readings of §9 Drill 1. Self-check against the audio track
 `planned:assets/audio/volume-4/v4c03l02-derivation-read.mp3`; not scored.
@@ -1251,11 +1276,11 @@ Accept any correct order with correct seams; accept a plural "deer" in (6): व�
 > (3.1.68); its श् and प् are markers (1.3.8, 1.3.3, 1.3.9), and what remains is अ. **Guṇa before
 > it** (7.3.84): in place of the aṅga's last sound (1.1.52), an इक्, 1.1.3, the nearest grade
 > (1.1.50) — ई → ए, then ए → अय्, 6.1.78: नी → **नयति**; ऋ → अर्, its र् by 1.1.51: **स्मरति**; no
-> इक्, no guṇa: **चरति**, **वदति**; a light penultimate vowel takes guṇa too (7.3.86): **रोचते**.
+> इक्, no guṇa: **चरति**, **वदति**; a light penultimate इक् takes guṇa too (7.3.86): **रोचते**.
 > **Ten classes**, each named by its first root: the -अ stems (1, 4, 6, 10) and the others (2, 3, 5,
 > 7, 8, 9); the signs on the card. **Substitute stems:** गच्छ, इच्छ, यच्छ — 7.3.77; पिब, तिष्ठ, पश्य,
 > सीद — 7.3.78; जा — 7.3.79, card. **स्वपिति's इ** is the augment इट्, 7.2.76. **The ledger:** six
-> new — 548; upgrade गणः; cells drilled: 30; tools added: 10; toolbox: 68.
+> new — 548; upgrade गणः; cells drilled: 15; tools added: 10; toolbox: 68.
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
@@ -1302,8 +1327,9 @@ homework (§21); 1.1.51 is met at home, in §8 Step 3 and exercise 3. Exercises 
 in class, inside their slots. §16 is not read in class.
 
 **Station 0, in class.** Item 1 is three minutes for ten verbs: watch for रोचते and लभते put under
-1.3.72 because they "benefit the doer" — the 1.x reading lesson 1 corrected — and for करोति given P
-only. Item 2 is four minutes: the slips to watch for are guṇa filed as an augment (it is a
+1.3.72 because the action "benefits oneself" — the 1.x card's line, which lesson 1 corrected —
+and for करोति given P only. Item 2 is four minutes: the slips to watch for are guṇa filed as an
+augment (it is a
 substitute) and the ट् of अट् named as what shows a substitute. Log both scores.
 
 **Board work.** Left: the नयति table, built line by line, each line stamped with its sūtra; the
@@ -1360,8 +1386,8 @@ the corrections listed (none other is made). Their sense gives the English lines
   bhuktaḥ, bhuktavat /* — read *pratyayasy* as *pratyayasya* and *lakaraḥ* as *lakāraḥ*.
 - **The Kāśikā on 7.3.84** (lines 73718–73724): *sārvadhātuke ārdhadhātuke ca pratyaye parataḥ
   igantasya aṅgasya guṇo bhavati / tarati / nayati / bhavati / ārdhadhātuke - kartā / cetā / stotā
-  /* — no correction. Its third example is भवति, the volume's last task: learner text prints only
-  the first two (§13). If a learner names भवति as "the other verb with नयति's steps", confirm it.
+  /* — no correction. Its third example is भवति, the volume's last task: §13 prints the first two,
+  and §8 Step 4 names भवति, with जयति, as a verb that takes नयति's steps.
 - **The Kāśikā on 1.1.51** (lines 1381–1383, inline): *uraṇ raparaḥ (\*1,1.51) / uḥ sthāne aṇ
   prasajyamāna eva raparo veditavyaḥ / kartā /* — no correction.
 - **The Kāśikā on 1.1.52** (lines 1392–1393, inline; the e-text has no separate heading for it):
@@ -1375,9 +1401,9 @@ the corrections listed (none other is made). Their sense gives the English lines
 - **The Kāśikā on 7.2.76** (lines 71039–71045): *rudādibhyaḥ uttarasya valādeḥ sārvadhātukasya
   iḍāgamo bhavati / rud - roditi / svap - rvapiti / śvas - śvasiti / an - prāṇiti / jakṣ - jakṣiti /
   pañcabhyaḥ ity eva, jāgarti /* — read *rvapiti* as *svapiti*.
-- **The Kāśikā on 7.3.77** (lines 73593–73599): *iṣu gami yama ity eteṣāṃ śiti parataḥ chakārādeśo
+- **The Kāśikā on 7.3.77** (lines 73593–73598): *iṣu gami yama ity eteṣāṃ śiti parataḥ chakārādeśo
   bhavati / icchati / gacchati / yacchati / iṣer udito grahaṇam / iha mā bhūt, iṣyati, iṣṇāti iti /*
-  — no correction. Its चकारादेशः is the sound छ, which is why the English line says "[replaces the
+  — no correction. Its छकारादेशः is the sound छ, which is why the English line says "[replaces the
   final]".
 - **The Kāśikā on 7.3.78** (lines 73614–73620): *pa ghrā dhmā sthā mnā dāṇ dṛśi arti sarti śada sada
   ity eteṣāṃ piba jighra dhama tiṣtha mana yaccha paśya ṛccha dhau śīya sīda ity ete ādeśā bhavanti
@@ -1393,15 +1419,15 @@ the corrections listed (none other is made). Their sense gives the English lines
   run (line 1675), णीञ् प्रापणे in the third (line 1820).
 - **The Laghusiddhāntakaumudī on 7.3.78** (VLk 489, line 1641): the sūtra, which the e-text spells
   *-dṛśyartisarti-* with one t; the course prints the data file's text (र्त्ति).
-- **§4's class headings** in the Laghusiddhāntakaumudī: lines 1291 (*atha tiṅante bhvādayaḥ*), 2005,
-  2086, 2140, 2164, 2216, 2243, 2281, 2317 (*atha juhotyādayaḥ* … *atha curādayaḥ*); the adādi
-  section has no "atha" heading in the e-text and closes at line 2003, *ityadādayaḥ // 2 //*.
+- **§4's class headings** in the Laghusiddhāntakaumudī: lines 1291 (*atha tiṅante bhvādayaḥ*), 1842
+  (*athādādayaḥ*), 2005, 2086, 2140, 2164, 2216, 2243, 2281, 2317 (*atha juhotyādayaḥ* … *atha
+  curādayaḥ*); the adādi section closes at line 2003, *ityadādayaḥ // 2 //*.
 
 **Why पिबति has no guṇa** (a question 7.3.86 invites: the इ of पिब looks light and penultimate). The
 Laghusiddhāntakaumudī's answer, under 7.3.78 (line 1642): *pibādeśo 'dantastena na guṇaḥ / pibati
-//* — "the substitute piba ends in a; so there is no guṇa": the vowel before पिब's last consonant is
-not the vowel before the root's last sound, which is अ. Give it only if asked; it is not learner
-text.
+//* — "the substitute piba ends in a; so there is no guṇa": the aṅga is पिब, whose last sound is
+अ, so its penultimate is ब्, not इ, and 7.3.86 finds no penultimate vowel to act on. Give it only if
+asked; it is not learner text.
 
 **What students find hard.** First, the two locatives of 3.1.68: insist that कर्तरि is a meaning
 and सार्वधातुके a position. Second, the trap items चरति and वदति: a learner who has just learned
@@ -1423,8 +1449,9 @@ it?), and why पिबति has no guṇa (the note above). Learners who strug
 > "6 तुदादिः · श", "7 रुधादिः · श्नम्", "8 तनादिः · उ", "9 क्र्यादिः · श्ना", "10 चुरादिः · णिच्".
 > Doors 1, 4, 6 and 10 in one colour, labelled underneath "stem in -अ"; the other six in the second
 > colour, labelled "no -अ". Behind each open door, the learner's verbs as small cards: नयति, तरति,
-> चरति at door 1; याति, स्वपिति at 2; ददाति at 3; नृत्यति, जायते at 4; आप्नोति, शृणोति at 5;
-> लिखति, पृच्छति at 6; करोति at 8; गृह्णाति, जानाति at 9; कथयति at 10. Door 7 closed, with a small
+> चरति at door 1; याति, स्वपिति at 2; ददाति at 3; नृत्यति, जायते at 4; आप्नोति at 5, with
+> शृणोति beside it on a card tagged "sign only"; लिखति, पृच्छति at 6; करोति at 8; गृह्णाति, जानाति
+> at 9; कथयति at 10. Door 7 closed, with a small
 > grey tag "lesson 3". Footer: "ten families of present stems".
 
 **Asset 2 — `planned:assets/worksheets/volume-4/v4c03l02-class-sort.pdf` (layout spec)**
@@ -1466,7 +1493,7 @@ reads the cue, not the English spelling.
   the y come from?
 - **00:40** ti is one of the eighteen endings, so it is sārvadhātuka [sɑːɾʋɐd̪ʱɑːt̪ukɐ]. Before it
   comes śap [ɕɐp]. Its ś and its p are markers. What you hear is a [ɐ].
-- **01:40** Before śap, the root's last vowel takes guṇa: ī becomes e [eː]. And e before a vowel
+- **01:40** Before śap, a root-final i, u or ṛ takes guṇa: ī becomes e [eː]. And e before a vowel
   becomes ay. nayati [n̪ɐjɐt̪i]. smṛ [smr̩] becomes smara [smɐɾɐ]. car [t͡ɕɐɾ] has nothing to change.
 - **02:40** Ten classes, ten doors. Four have stems in a; six do not. Sort them by what you hear,
   and leave the rule numbers on the card.
@@ -1485,7 +1512,7 @@ reads the cue, not the English spelling.
 - **Demo (0:07–0:30):** शप् drops in; श् and प् fade; अ remains. The ई turns to ए, then to अय्:
   नयति. Then चर् + अ + ति: nothing changes — "no इक्, no guṇa".
 - **Payoff (0:30–0:43):** "Learners of this course can now derive नयति according to Pāṇini, step by
-  step, and place the verbs they own in the tradition's ten classes."
+  step, and place the owned verbs of the lesson's card in the tradition's ten classes."
 - **CTA (0:43–0:50):** "Next: strong and weak — what the p marker does." (End card: शप् — The Class
   Sign.)
 
@@ -1526,7 +1553,7 @@ reads the cue, not the English spelling.
   सार्वधातुक · v4.c03.l02 (आर्धधातुक with c03.l05). Hindi forms as used in §7: विकरण, गण, सार्वधातुक,
   गुण, आदेश-अङ्ग, इट्.
 - **Export notes:** 6 ledger-new — जयति, तरति, हरति, सीदति, उत्तिष्ठति, चरति — **542 → 548**; upgrade
-  गणः; vocabulary_count 7; cells drilled 30; tools added 10 (3.4.113, 3.1.68, 1.3.8, 7.3.84 B;
+  गणः; vocabulary_count 7; cells drilled 15; tools added 10 (3.4.113, 3.1.68, 1.3.8, 7.3.84 B;
   1.1.51, 1.1.52, 7.3.86, 7.2.76, 7.3.77, 7.3.78 D); toolbox 68. Labels, never rows: विकरणः, the
   class names, the -कार names, इत्, the sign and affix names, the roots, every sūtra-internal form.
   Joined spellings export as `sandhi_of` their pause-form words. Error forms: \*चार-, \*वाद-, \*लेखति,

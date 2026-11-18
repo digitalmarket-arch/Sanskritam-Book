@@ -12,7 +12,7 @@ lesson: 1
 lesson_type: grammar
 cefr: B1
 duration_minutes: 45
-self_study_minutes: 45
+self_study_minutes: 48
 prerequisites: [v4.c02.l04]
 review_of: [v4.c02.l04, v4.c02.l03, v3.c03.l01, v3.c03.l02, v2.c04.l01]
 objectives:
@@ -85,16 +85,16 @@ makes for it, retrieval practice beats re-reading for long-term retention [REF:r
 
 ### Station 0 — the Chapter 2 exam's +1-day and lesson 3's +1-week arrive
 
-Two bookings, run in the order they fall due, seven minutes in all, scores logged beside the
+Two bookings, run in the order they fall due, nine minutes in all, scores logged beside the
 earlier ones [REF:cepeda2006].
 
 **Item 1 — from v4.c02.l04.** The Chapter 2 exam booked today's first station in one line:
 
 - +1 day: derive रामेण — derive, according to Pāṇini, राम + टा → रामेण in table form, each step with its sūtra, and say which words 7.1.12 and 8.4.2 carry and from where; v4.c03.l01's Station 0 runs exactly this.
 
-Three minutes, alone, on paper: the table — Step · String · Sūtra — and under it one line for
-each of the two rules: the word it carries, and the sūtra it comes from. Then swap papers with
-a partner and mark against the key.
+Five minutes, alone, on paper: the table — Step · String · Sūtra — and under it one line for
+each of the two rules: the word it carries, and the sūtra it comes from. About four minutes to
+write; then swap papers with a partner and mark against the key.
 
 **Item 2 — from v4.c02.l03.** Chapter 2's lesson 3 booked its +1-week for today:
 
@@ -107,12 +107,13 @@ from Chapter 2.
 <details><summary>उत्तराणि · Station 0 key</summary>
 
 - **Item 1.** 0 राम + टा · 1 राम + इन — 7.1.12 टाङसिङसामिनात्स्याः · 2 रामेन — 6.1.87 आद्गुणः ·
-  3 र … न — 8.4.1 रषाभ्यां नो णः समानपदे · 4 रामेण — 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि [आ, ए are
+  3 रामेन [र … न] — 8.4.1 रषाभ्यां नो णः समानपदे · 4 रामेण — 8.4.2 अट्कुप्वाङ्नुम्व्यवायेऽपि [आ, ए are
   अट्, म् is in the p-row] · 5 **रामेण**; 7.1.12 carries अतः from 7.1.9; 8.4.2 carries रषाभ्याम्
   [data file] and नः णः समानपदे [course line] from 8.4.1. Score /6: one for each of steps 1–4,
   the string and the rule; one for each carried word with its source. 7.1.12 and 8.4.2 are D
   tools: their point goes to what the rule does — टा → इन; the change made across आ, म् and ए —
-  and no number is required; 6.1.87 [owned] and 8.4.1 [Q] by number or by gist.
+  and no number is required; so too 7.1.9, the D-tier source of अतः, may be named by its gist —
+  the rule of देवैः, अतो भिस ऐस्; 6.1.87 [owned] and 8.4.1 [Q] by number or by gist.
 - **Item 2.** 0 राम + सु — 1.3.3 · 1.3.9 [the प् of सुप् a marker] · 1 रामे + सु — 7.3.103
   बहुवचने झल्येत् [before a plural sup beginning with a jhal sound, the अ of the aṅga → ए] · 2
   रामे + षु — 8.3.59 आदेशप्रत्यययोः, under 8.3.55 and 8.3.57 [स् of an affix after ए, an इण्
@@ -122,8 +123,9 @@ from Chapter 2.
   अङ्गस्य, 6.4.1]; 8.3.59 — [carried (data file): सः, 8.3.56 ("in place of स्");
   नुम्विसर्जनीयशर्व्यवाये · अपि, 8.3.58 ("even when num, a visarga or a śar sound stands
   between") · headings (data file): अपदान्तस्य मूर्धन्यः, 8.3.55; इण्कोः, 8.3.57 · (further
-  headings: Teacher Notes)]. Pass: all three steps with their numbers. The bracket lines are
-  checked, not scored.
+  headings: Teacher Notes)]. Pass: all three steps; 7.3.103 and 8.3.59, D-tier rules, may be named
+  by their gist in place of their numbers, as Chapter 2 scored them — a D-tier sūtra is never
+  asked by number in a closed-book task. The bracket lines are checked, not scored.
 </details>
 
 ### The prompts
@@ -150,7 +152,7 @@ Book 3, then of Book 1 again. The rules read a second text, too: the list of roo
 > **[TRADITION · परम्परा]** The roots are listed in the Dhātupāṭha, the tradition's list of
 > roots, each with a meaning and with markers that the rules read; the Kāśikā calls the word
 > dhātu a name "of earlier teachers" (its line is in Teacher Notes). This course quotes the
-> entries as the Laghusiddhāntakaumudī (17th century) prints them; that text does not show the
+> entries as the Laghusiddhāntakaumudī (c. 17th century) prints them; that text does not show the
 > accents the markers carry. [REF:dhatupatha]; [REF:laghukaumudi]; [REF:kashika 1.3.1]
 
 Each entry gives the root with its markers, then its meaning in the locative, "in the sense of
@@ -166,26 +168,28 @@ Each entry gives the root with its markers, then its meaning in the locative, "i
 | यज देवपूजासङ्गतिकरणदानेषु | yaja devapūjāsaṅgatikaraṇadāneṣu | "in worship of the gods, in bringing together, in giving" | यजति |
 | णीञ् प्रापणे | ṇīñ prāpaṇe | "in leading" | नयति — why its ण् is न् in the verb is lesson 2's |
 
-The markers are part of each entry: the ञ् of डुकृञ् and णीञ्; the डु and the ष् of डुपचष्; and a
-final अ in पठ, रुच, यज and in the पच of डुपचष्. That अ is nasal, and so a marker — the tradition
-says so, as it says of the उ of सुँ in c02.l01; the Laghusiddhāntakaumudī prints no nasal sign over
-it, and neither does this course.
+The markers are part of each entry: the डु and the ञ् of डुकृञ्; the ञ् of णीञ्; the डु and the ष्
+of डुपचष्; and a final अ in पठ, रुच, यज and in the पच of डुपचष्. That अ is nasal, and so a marker —
+the tradition says so, as it says of the उ of सुँ in c02.l01; the Laghusiddhāntakaumudī prints no
+nasal sign over it, and neither does this course.
 
 ## 5. Scientific Explanation
 
 वैज्ञानिकं विवरणम् — the same parts named from outside the tradition: root, present-stem,
 ending.
 
-> **[FACT · तथ्यम्]** Whitney describes the verb with three parts — root, present-stem and
-> ending — and in his chapter on the present he writes: "In a small minority of verbs, the
-> present-stem is identical with the root." [REF:whitney1889 §602]
+> **[FACT · तथ्यम्]** Whitney describes the finite verb by its personal ending, appended to a
+> tense-stem "rather than to the pure root" [REF:whitney1889 §541]; in his chapter on the present
+> he writes: "In a small minority of verbs, the present-stem is identical with the root."
+> [REF:whitney1889 §602]
 
 So for Whitney पठति is a root, पठ्, made into a present-stem, पठ-, with an ending, -ति. The
 tradition has the same root, its dhātu; the stem is lesson 2's; today's lesson is the ending.
 
 > **[FACT · तथ्यम्]** Whitney prints the endings of the present as one table of "Primary
 > Endings", the active and the middle side by side, each in three persons and three numbers:
-> eighteen cells, from the active 1st singular *mi* to the middle 1st plural *máhe* (the acute
+> eighteen cells, with the 1st person in the top row, from the active singular *mi* to the middle
+> plural *máhe* (the acute
 > is his accent mark; accent is Volume 5's). [REF:whitney1889 §553]
 
 Line his table up with 3.4.78 and the eighteen are the same. His active column holds the first
@@ -200,6 +204,14 @@ number of the doer and one of two sets of endings: पठति and लभते
 पठामि in their person, पठति and पठन्ति in their number. The tradition calls the two sets
 parasmaipada and ātmanepada; Whitney's table calls them active and middle. Why a verb has the
 set it has is what the tradition explains today, from the root.
+
+> **[FACT · तथ्यम्]** Whitney renders the two names as "a word for another" (parasmaipada) and "a
+> word for one's self" (ātmanepada), and adds that "in the recorded condition of the language,
+> however, the antithesis of transitive and reflexive meaning is in no small measure blurred, or
+> even altogether effaced". [REF:whitney1889 §529]
+
+So the sense of the two names, for another and for oneself, cannot tell you a verb's set; the
+tradition finds the set in the root's marker (§8 Step 4).
 
 ## 6. Sanskrit Explanation
 
@@ -268,7 +280,8 @@ as Chapter 1 taught.
 प्रथम पुरुष; और 1.4.22 के अनुसार कर्ता एक हो तो एकवचन, दो हों तो द्विवचन।
 
 **कौन-सा परिवार? धातु का इत् तय करता है।** इसका उत्तर क्रिया के अर्थ में नहीं, धातु में है।
-धातुपाठ हर धातु को उसके इत् के साथ लिखता है, और तीन सूत्र उस इत् को पढ़ते हैं:
+धातुपाठ धातु को उसके इत् के साथ लिखता है — भू जैसी कुछ धातुओं का कोई इत् नहीं होता — और
+तीन सूत्र तय करते हैं कि कौन-सा परिवार आएगा:
 
 - **1.3.12** — जिस धातु का इत् ङ् हो, या जिसके इत्-स्वर पर वह स्वराघात हो जिसका नाम सूत्र का
   पहला पद लेता है, उसके बाद केवल आत्मनेपद। रुच ऐसी धातु है, इसलिए रोचते।
@@ -299,10 +312,11 @@ benefits oneself", यानी क्रिया का लाभ स्वय
 
 The recipe of this volume, once more: forms you own, the question they raise, the tools that
 answer it, the derivation with the teacher, the tools run by you, then production. Today's one
-grammar point: every finite verb begins as a root (धातुः) plus an abstract affix ल्, whose name
-says the time or mood (3.2.123); the ल् is replaced by one of eighteen endings (3.4.77–78);
-which set, parasmaipada or ātmanepada, is decided by the root's own marker in the Dhātupāṭha
-(1.3.12, 1.3.72, 1.3.78), and which person and number by the sentence (1.4.101–108).
+grammar point: according to Pāṇini, every finite verb begins as a root (धातुः) plus an abstract
+affix ल्, whose name says the time or mood (3.2.123); the ल् is replaced by one of eighteen
+endings (3.4.77–78); which set, parasmaipada or ātmanepada, is decided by the root's own marker
+in the Dhātupāṭha (1.3.12, 1.3.72, 1.3.78), and which person and number by the sentence
+(1.4.101–108).
 
 ### Step 1 — the forms you own
 
@@ -321,12 +335,13 @@ marked "3.4.78 [preview: c03.l01]"; in its lesson 3 सिप् stood behind �
 
 ### Step 2 — the question
 
-**Where does a verb's set of endings come from?** Volume 3's answer was "from the dictionary":
-Apte marks P., A. or U. after the root. That is true, and it is what you will go on doing with a
+**Where does a verb's set of endings come from?** Volume 3's answer was the dictionary:
+"the dictionary says which family a verb takes: Apte marks P. (parasmaipada), A. (ātmanepada) or
+U. (both) after the root" (v3.c03.l02). That is true, and it is what you will go on doing with a
 new verb. But the dictionary records a result. Pāṇini states the cause, and the cause is in the
 root itself: a marker letter in its Dhātupāṭha entry. And one more question waits inside पठति:
-the ending -ति says "he, she, it", but it does not say "now" — the same ending stands in the
-optative भवेत्, as you will see. Where, then, is the present?
+the ending -ति says "he, she, it" — but, according to Pāṇini, not "now": the same ending, तिप्,
+stands behind the optative भवेत्, as you will see. Where, then, is the present?
 
 ### Step 3 — the tools: a root, an l-affix, eighteen endings
 
@@ -360,10 +375,10 @@ carried into the rule and the headings it stands under, as in Chapter 2.
 - English: "[After a root,] laṭ, for present time." [REF:ashtadhyayi 3.2.123];
   [REF:kashika 3.2.123]
 
-Here is the "present" of पठति: not in -ति, but in the choice of लट् for present time. लट् is an
-l-affix (लकारः): its name begins with ल, and each l-affix says a time or a mood — लट् the
-present, लङ् the past you own in अगच्छत्. Its अ and ट् are markers [1.3.2, 1.3.3, 1.3.9, owned]:
-what is left is ल्.
+Here, according to Pāṇini, is the "present" of पठति: not in -ति, but in the choice of लट् for
+present time. लट् is an l-affix (लकारः): its name begins with ल, and each l-affix says a time or
+a mood — लट् the present, लङ् the past you own in अगच्छत्. Its अ and ट् are markers [1.3.2,
+1.3.3, 1.3.9, owned]: what is left is ल्.
 
 **4. In place of ल् — B, 3.4.77 लस्य** (lasya).
 
@@ -400,9 +415,14 @@ marker: the प् of तिप्, सिप्, मिप्; the ट् of �
 झ् becomes अन्त् by a rule in Teacher Notes (lesson 3 prints it). §15 maps all eighteen, cell by
 cell; exercise 1 has you do it.
 
-One line more. भवेत्, the optative you own (v3.c03.l04), is तिप् too: the same ending, its इ
-dropped as in अगच्छत्, after the optative's own sign (Teacher Notes). The ending is the same in
-the present and in the optative, so the present cannot be in the ending. It is in लट्.
+One line more. According to Pāṇini, भवेत्, the optative you own (v3.c03.l04), is तिप् too: the
+same ending, its इ dropped as in अगच्छत्, after the optative's own sign (Teacher Notes). For him
+the ending is the same in the present and in the optative, so the present is not in the ending:
+it is in लट्. Described from outside, the ending does share that work: Whitney writes that it
+fixes person and number "and in part also" mode and tense, which "are mainly made by the
+formation of tense and mode-stems" — his primary -ti, used in the present indicative, in पठति;
+his secondary -t, used in the optative, in भवेत् [REF:whitney1889 §541]; [REF:whitney1889 §551];
+[REF:whitney1889 §553].
 
 ### Step 4 — which set? the root's marker
 
@@ -428,8 +448,8 @@ kartrabhiprāye kriyāphale).
 - Bracket line: [carried (data file): आत्मनेपदम्, 1.3.12] [headings (data file): —]
 - English: "After such a root, ātmanepada, when the fruit of the action goes to the doer."
   [REF:ashtadhyayi 1.3.72]; [REF:kashika 1.3.72] The अभिप्राये of the rule is today's headword
-  अभिप्रायः, "aim", in the locative: the fruit "aiming at" the doer. The Kāśikā's examples are
-  the forms of §13: यजते, पचते, कुरुते.
+  अभिप्रायः, "aim", in the locative: the fruit "aiming at" the doer. Three of the Kāśikā's four
+  examples are the forms of §13: यजते, पचते, कुरुते; the fourth is *sunute*.
 
 **8. Parasmaipada for the rest — B, 1.3.78 शेषात् कर्तरि परस्मैपदम्** (śeṣāt kartari
 parasmaipadam).
@@ -438,9 +458,11 @@ parasmaipadam).
   meant"] · परस्मैपदम् [प्रथमा].
 - Bracket line: [carried (data file): कर्तरि, 1.3.14] [headings (data file): —]
 - English: "After the remaining roots, parasmaipada, when the doer is meant." [REF:ashtadhyayi
-  1.3.78]; [REF:kashika 1.3.78] "The rest", in the Kāśikā's words, is every root other than those
-  for which the second set was stated. So the first set needs no marker: it is what a root takes
-  when nothing in its entry calls for the second.
+  1.3.78]; [REF:kashika 1.3.78] "The rest", in the Kāśikā's words, is whatever is other than the
+  roots after which, and the qualification with which, the second set was stated. So पच, which
+  takes the second set by 1.3.72 only when the fruit goes to the doer, is "the rest" when the
+  fruit goes to another: पचति. The first set needs no marker: it is what a root takes when
+  nothing in its entry, or in the case at hand, calls for the second.
 
 **9. The names of the sets — B, 1.4.99 लः परस्मैपदम्** (laḥ parasmaipadam).
 
@@ -450,7 +472,8 @@ parasmaipadam).
 - English: "The substitutes of ल् are called parasmaipada." [REF:ashtadhyayi 1.4.99];
   [REF:kashika 1.4.99]
 
-**10. D, 1.4.100 तङानावात्मनेपदम्** — "taṅ (the last nine endings) and āna are called
+**10. D, 1.4.100 तङानावात्मनेपदम्** (taṅānāv ātmanepadam) — "taṅ (the last nine endings) and āna
+are called
 ātmanepada." [REF:ashtadhyayi 1.4.100]; [REF:kashika 1.4.100] Bracket line: [carried (data file): लः, 1.4.99] (further headings: Teacher Notes). The first rule names all eighteen
 parasmaipada; this one takes the last nine out and names them ātmanepada. āna is an affix of
 participles [preview: c04.l01].
@@ -531,7 +554,8 @@ ekavacanadvivacanabahuvacanāny ekaśaḥ).
 line, not as four rules: **ल् → which set (1.3.12 / 1.3.72 / 1.3.78; 1.4.99–100) → which person
 (1.4.101, 1.4.108) → which number (1.4.102, 1.4.22).**
 
-**15. The -ए of the second set — D, 3.4.79 टित आत्मनेपदानां टेरे** — "Of the ātmanepada endings
+**15. The -ए of the second set — D, 3.4.79 टित आत्मनेपदानां टेरे** (ṭita ātmanepadānāṃ ṭer e)
+— "Of the ātmanepada endings
 replacing a ṭ-marked l-affix, the ṭi (the last vowel and what follows) becomes ए."
 [REF:ashtadhyayi 3.4.79]; [REF:kashika 3.4.79] Bracket line: [carried (data file): —] [headings (data file): प्रत्ययः, 3.1.1; परश्च, 3.1.2; धातोः, 3.1.91; लस्य, 3.4.77] (further headings: Teacher Notes). लट् is ṭ-marked; so त becomes ते, ध्वम्
 becomes ध्वे, महिङ् — its ङ् gone — becomes महे. The rule that defines the ṭi is in Teacher
@@ -554,8 +578,8 @@ ending, the last line printed for you. Each needs the chain and nothing more.
 ### Step 7 — production
 
 §18 exercise 4 has you write and say six sentences with today's words, joined, the pause form
-beneath; exercise 5 reads the model sentences aloud in class; §16 is a conversation built from
-the same sentences, read aloud at home in both roles.
+beneath; exercise 5 reads the model sentences aloud at home, recorded; §16 is a conversation
+built from the same sentences, read aloud at home in both roles.
 
 ## 9. Pronunciation
 
@@ -593,7 +617,8 @@ stop after it.
 2. यजति /jɐd͡ʑɐt̪i/ — यजते /jɐd͡ʑɐt̪eː/
 3. करोति /kɐɾoːt̪i/ — कुरुते /kuɾut̪eː/
 
-The whole difference is the last vowel: a short /i/ against a long /eː/. ए is a pure long vowel,
+In the first two pairs the whole difference is the last vowel: a short /i/ against a long /eː/;
+in the third the stem changes too (करो-, कुरु-: lesson 3). ए is a pure long vowel,
 held twice as long as the इ and steady to its end (§11).
 
 ## 10. IPA
@@ -694,7 +719,7 @@ first three lines; you finish it at home (§18 exercise 3, item 5).
 |---|---|---|---|
 | 0 | रुच "shine; please" | 1.3.1 [B] | the entry रुच दीप्तावभिप्रीतौ च: a dhātu |
 | 1 | रुच् | 1.3.2 · 1.3.9 [B] | the final अ is a marker — the Dhātupāṭha records its accent (not shown), which brings the root under 1.3.12; the LSK lists it among the ātmanepadins |
-| 2 | रुच् + लट् → रुच् + ल् | 3.2.123 [B] · 1.3.3 · 1.3.9 | laṭ; its markers dropped |
+| 2 | रुच् + लट् → रुच् + ल् | 3.2.123 [B] · 1.3.2 · 1.3.3 · 1.3.9 | laṭ; its markers dropped |
 
 From step 3 on: the last nine, by 1.3.12; prathama, singular; the -ए of 3.4.79; then two lines
 of lesson 2, the class sign and the ओ.
@@ -710,7 +735,7 @@ are in §4.
 4. **Derive, according to Pāṇini, पठ → पठतः.**
 5. **Derive, according to Pāṇini, रुच → रोचते** — finish the table above.
 6. **Derive, according to Pāṇini, भू → भवति, steps 0–7.** The last line is printed for you:
-   "(c03.l02) शप् and guṇa → **भवति**".
+   "(c03.l02) शप् and guṇa, then 6.1.78 [owned] → **भवति**".
 
 Write Step · String · Sūtra; the gloss in "What happens" is optional before Chapter 6.
 
@@ -766,7 +791,8 @@ it is before it.
 
 शब्दावली — Ledger 537 → 542 (5 ledger-new).
 
-Cells drilled: 18 (the eighteen endings mapped; the Ā cells of पचति and यजति).
+Cells drilled: 18 (the eighteen endings of 3.4.78 mapped onto owned cells, exercise 1; the four
+2nd- and 1st-person duals ◐, their marker only).
 
 Tools added: 15 (1.3.12, 1.3.72 Q; 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78, 1.3.78, 1.4.99, 1.4.101, 1.4.102, 1.4.108, 1.4.22 B; 1.4.100, 3.4.79 D).
 
@@ -779,14 +805,15 @@ the track).
 
 | देवनागरी | IAST | IPA | English | हिन्दी | Notes |
 |---|---|---|---|---|---|
-| धातुः | dhātuḥ | /d̪ʱɑːt̪uh/ | root (of a verb); element; metal | धातु | ledger-new — m. u-stem, like गुरुः; the chapter's name; the term, used in model sentence 1, §16 and exercise 4 (rule 20) — MW s.v. dhātu "verbal root or stem", "metal, mineral, ore"; Apte s.v. धातुः 6 "A verbal root", with भूवादयो धातवः, P. I. 3. 1, as its example |
+| धातुः | dhātuḥ | /d̪ʱɑːt̪uh/ | root (of a verb); element; metal | धातु | ledger-new — m. u-stem, like गुरुः; the chapter's name; the term, used in model sentence 1, §16 and exercise 4 (rule 20) — MW s.v. 1. dhātu "verbal root or stem", "metal, mineral, ore"; Apte s.v. धातुः 6 "A verbal root", with भूवादयो धातवः, P. I. 3. 1, as its example |
 | अभिप्रायः | abhiprāyaḥ | /ɐbʱipɾɑːjɐh/ | intention, purpose | अभिप्राय, आशय | ledger-new — m. a-stem, like रामः; the अभिप्राये of 1.3.72 — MW s.v. abhi-prāya "aim", citing Pāṇ. i, 3, 72, and "purpose, intention, wish"; Apte s.v. अभिप्राय "Aim, purpose, object, intention, wish, desire"; the Pañcatantra's *nijābhiprāyam* (book 4, the journey) |
 | पचति | pacati | /pɐt͡ɕɐt̪i/ | cooks (Ā पचते: cooks for oneself) | पकाता है | ledger-new — verb, both sets (Apte's U.); its class: lesson 2; पचते is a cell of the same lemma (rule 8) — Apte s.v. pac: U.; MW s.v. 2. pac "cl. 1. P. Ā."; the Kāśikā's model verb (under 3.2.123, 3.4.78 and 1.3.72) |
 | यजति | yajati | /jɐd͡ʑɐt̪i/ | worships, sacrifices (Ā यजते: for oneself) | पूजा/यज्ञ करता है | ledger-new — verb, both sets (Apte's U.); its class: lesson 2; यजते is a cell of the same lemma (rule 8) — Apte s.v. yaj: U.; MW s.v. 1. yaj "cl. 1. P. Ā."; the Kāśikā's example under 1.3.72; its liṭ forms are lesson 4's |
 | भयम् | bhayam | /bʱɐjɐm/ | fear, danger (+ abl. of the source) | भय, डर | ledger-new — n. a-stem, like फलम्; with the ablative of what is feared (सिंहाद्भयम्) — MW s.v. bhaya "fear, alarm, dread apprehension", "fear of (abl. gen. or comp.)"; Apte s.v. भयम्; the DCS Hitopadeśa: 43 tokens of the lemma (rule 22; the course's count of the corpus's lemma tags) [REF:dcs] |
 
 Three notes. पचति and यजति are the first verbs the course teaches in both sets: you produce पचति,
-पचते and यजति, यजते, every present cell of both, and the first set's past, imperative and
+पचते and यजति, यजते — every present cell of both sets but the 2nd- and 1st-person duals, ◐ as
+in Volume 3 — and the first set's past, imperative and
 optative cells as for any verb you own. अभिप्रायः sits inside 1.3.72's कर्त्रभिप्राये, and
 Monier-Williams gives that very sūtra for its sense "aim". भयम् is a neuter like फलम्, and what
 you fear stands in the ablative: सिंहाद्भयम्, व्याधाद्भयम्.
@@ -851,9 +878,9 @@ Cells after a thematic stem, पठ- or लभ- [the class sign: lesson 2]; the 
 Notes" stands for a rule this lesson keeps there: the one that keeps a final स् or म्, the one
 that makes झ् into अन्त्, and three that shape -से, -एते, -एथे and the join of अ with ए.
 
-**भवेत् is तिप् too.** The optative you own takes the same ending, its इ dropped after the
-optative's own sign (Teacher Notes): the eighteen serve every l-affix, and the l-affix says the
-time.
+**भवेत् is तिप् too.** According to Pāṇini, the optative you own takes the same ending, its इ
+dropped after the optative's own sign (Teacher Notes): the eighteen serve every l-affix, and the
+l-affix says the time.
 
 ### The pada card
 
@@ -883,7 +910,7 @@ Derivation (a), पठ → पठति, is in §13: its steps 4–6 are this ca
   The gist of each is on the toolbox card below; its text, padaccheda and English line in §8.
 - **Re-read [owned]:** 1.3.2, 1.3.3, 1.3.9, 1.3.10, 7.3.101 [not re-counted]. **Previews [numbers
   printed, not tools]:** 3.1.68, 7.3.86 [c03.l02]; 3.4.69 [c05.l01]; 3.1.93 [c04.l01]; and, in
-  bracket lines only, the sources 1.3.2, 1.3.14, 1.4.105.
+  bracket lines only, the sources 1.3.14, 1.4.105.
 
 ### Toolbox card
 
@@ -976,18 +1003,18 @@ since v2.c05.l01, asks "why". The seams are Volume 3's: रोचत इत्�
 इ + अ → य्; को धातुः — -अः before a voiced consonant → ओ; रुचेति — अ + इ → ए; तस्यात्मनेपदं — अ +
 आ → आ, and म् → ं before क; धातोरित्कारणम् — -ओः before a vowel → -ओर्, then the consonant-final
 इत् written together with the next word; करोतीत्यत्र; कुरुत इति; फलं स्वस्य; अतो माता; स्वार्थं
-च. A daṇḍa, a "?" or a comma stops every seam: गुरो and च stand in their pause form. Every turn is
+पचते. A daṇḍa, a "?" or a comma stops every seam: गुरो and च stand in their pause form. Every turn is
 a course sentence, written for this dialogue; no source is claimed for any.
 
 ## 17. Story
 
 कथा — the serial, the monkey and the crocodile, continued: Chapter 3, episode 1, the wife's
 demand. Our retelling, after Pañcatantra 4 (Labdhapraṇāśa), frame story [REF:panchatantra];
-present tense only.
+the narration in the present tense.
 
 Volume 3's exam read the Pañcatantra's own lines up to the crocodile's answer: the rose-apples
-taken home, the wife's question, "a monkey is my friend" (v3.c06.l05). The serial retells them in
-today's Sanskrit, and goes one step further.
+taken home, the wife's question, and his "I have a best friend, a monkey named Raktamukha"
+(v3.c06.l05). The serial retells them in today's Sanskrit, and goes one step further.
 
 > मकरः सदा जम्बूफलानि गृहं नयति, पत्न्यै च प्रयच्छति। (makaraḥ sadā jambūphalāni gṛhaṃ nayati, patnyai ca prayacchati.)
 > मकरः सदा जम्बू-फलानि गृहम् नयति, पत्न्यै च प्रयच्छति। (makaraḥ sadā jambū-phalāni gṛham nayati, patnyai ca prayacchati.)
@@ -1027,14 +1054,17 @@ today's card would. The key is in §19.
 ## 18. Exercises
 
 अभ्यासाः — six exercises; 3 and 4 are production tasks (deriving in table form; writing and saying
-sentences), 5 and 6 are spoken, 1 and 2 map and sort. Exercises 1, 2 and 5 are done in class;
-exercises 3, 4 and 6 are homework (§21, §22). All keys sit in §19's collapsed key — nothing is
+sentences), 5 and 6 are spoken, 1 and 2 map and sort. Exercises 1 and 2 are done in class;
+exercises 3, 4, 5 and 6 are homework (§21, §22). All keys sit in §19's collapsed key — nothing is
 answered on this page.
 
 **अभ्यासः 1 · the eighteen, mapped (objective 1; in class, 6 minutes).** On the worksheet
 (`planned:assets/worksheets/volume-4/v4c03l01-eighteen-endings.pdf`), with §15 closed: for each of
-the eighteen, write the ending it becomes after पठ- (the first nine) or लभ- (the last nine), and
-the marker it drops, if any.
+the eighteen, write the ending it becomes after पठ- for the first nine or after लभ- for the last
+nine, and
+the marker it drops, if any. The four 2nd- and 1st-person duals — (5) थस्, (8) वस्, (14) आथाम्,
+(17) वहि — are ◐, yours to read: for them only the marker is asked, and ◐ may stand for the
+ending.
 
 - after पठ-: (1) तिप्; (2) तस्; (3) झि; (4) सिप्; (5) थस्; (6) थ; (7) मिप्; (8) वस्; (9) मस्
 - after लभ-: (10) त; (11) आताम्; (12) झ; (13) थास्; (14) आथाम्; (15) ध्वम्; (16) इट्; (17) वहि;
@@ -1048,7 +1078,8 @@ the marker it drops, if any.
 minutes).** In table form — Step · String · Sūtra; the gloss is optional — derive, according to
 Pāṇini: (1) पच → पचति — "he cooks for a guest"; (2) पच → पचते — "he cooks for himself"; (3) यज
 → यजति — "the priest worships for another"; (4) पठ → पठतः; (5) रुच → रोचते — finish §13's table;
-(6) भू → भवति, steps 0–7 — the last line is printed for you: "(c03.l02) शप् and guṇa → **भवति**".
+(6) भू → भवति, steps 0–7 — the last line is printed for you:
+"(c03.l02) शप् and guṇa, then 6.1.78 [owned] → **भवति**".
 The entries are in §4, the tools in §8. Every end form is owned or today's: पचति, पचते, यजति today;
 पठतः by the pattern of v3.c03.l01; रोचते from v2.c05.l03; भवति from v1.c04.l01.
 
@@ -1062,8 +1093,9 @@ aloud).** In Sanskrit, joined, with the pause form beneath:
 5. "The seers worship the god."
 6. "In kurute the root is kṛñ."
 
-**अभ्यासः 5 · the model sentences aloud (objective 4; spoken; in class, 3 minutes).** Read model
-sentences 1–6 aloud, joined, then in the pause form: 1, 4 and 5 in §6; 2, 3 and 6 in §13.
+**अभ्यासः 5 · the model sentences aloud (objective 4; spoken; homework, 3 minutes,
+recorded).** Read model sentences 1–6 aloud, joined, then in the pause form: 1, 4 and 5 in §6;
+2, 3 and 6 in §13.
 
 **अभ्यासः 6 · the पठति table aloud (the sounds of §9–§11; spoken; homework, 2 minutes,
 recorded).** Read the पठति table of §13 aloud, naming each marker without pronouncing it in the
@@ -1081,9 +1113,9 @@ mid-quiz.
    (d) eighteen
 3. According to Pāṇini, in तिप् the marker is: (a) त्; (b) इ; (c) प्; (d) there is none
 4. According to Pāṇini, the स् of तस्: (a) is a marker and is dropped; (b) is kept: it is the ः
-   of पठतः; (c) is the class sign; (d) shows the ātmanepada
+   of पठतः; (c) is the sign of the dual; (d) shows the ātmanepada
 5. According to Pāṇini, रोचते is ātmanepada because: (a) the action benefits the doer; (b) it
-   takes a dative; (c) it is a class-1 verb; (d) the root's marker brings it under 1.3.12
+   takes a dative; (c) it is prathama, singular; (d) the root's marker brings it under 1.3.12
 6. According to Pāṇini (1.3.72), पचते rather than पचति is used when: (a) the fruit of the action
    goes to the doer; (b) the doer is plural; (c) the action is past; (d) the doer is "I"
 7. According to Pāṇini (1.4.108), the ending of पठति is prathama because: (a) it is the first
@@ -1092,7 +1124,7 @@ mid-quiz.
 8. According to Pāṇini (3.4.79), the ending त of laṭ becomes: (a) ति; (b) तु; (c) तः; (d) ते
 9. The 1.x book listed कृ among the roots that take "ONLY parasmaipada". According to Pāṇini,
    कृ takes: (a) parasmaipada only; (b) ātmanepada only; (c) both, by its marker ञ्; (d) neither
-10. The 3rd plural ātmanepada present of लभ् is: (a) लभन्ते; (b) लभन्ति; (c) लभन्तु; (d) लभते
+10. The 3rd plural ātmanepada present of लभ् is: (a) लभन्ते; (b) लभसे; (c) लभामहे; (d) लभते
 
 <details><summary>उत्तराणि · Answer Key</summary>
 
@@ -1105,7 +1137,8 @@ mid-quiz.
 3. (c) — the प् is a marker, dropped: तिप् → ति — §8 Step 3; TRADITION. ((d) holds for तस्, not
    तिप्; (b) is kept: it is the -इ of -ति.)
 4. (b) — a final स् of an ending is kept: तस् → -तः in पठतः — §8 Step 3, §15; TRADITION. ((a) is
-   §12 mistake 4; (c) the class sign is अ, lesson 2.)
+   §12 mistake 4; (c): the dual is तस्'s place in its three, by 1.4.102, not its स् — मस् and थास्
+   end in स् too.)
 5. (d) — the root's marker brings it under 1.3.12 (§8 Step 4), TRADITION. ((a) is the 1.x gloss,
    §12 mistake 1; (b) and (c) are true of रोचते but are not why it takes the second set.)
 6. (a) — the fruit goes to the doer: 1.3.72 (§8 Step 4, §13), TRADITION. ((d) is the person,
@@ -1117,9 +1150,8 @@ mid-quiz.
 9. (c) — both: डुकृञ्'s ञ् brings 1.3.72, कुरुते and करोति — §8 Step 4; TRADITION. ((a) is the 1.x
    card's p. 75 list, which its own p. 76 contradicts.)
 10. (a) — लभन्ते, FACT: the second family's 3rd plural (v3.c03.l02; Whitney's middle -ánte,
-    §553a, cited in §5 [REF:whitney1889 §553]). ((b) and (c) are error forms built from taught
-    material: the first set's endings -अन्ति and -अन्तु on a root of the second; (d) is the
-    singular.)
+    §553a, cited in §5 [REF:whitney1889 §553]). ((b) is the 2nd singular, (c) the 1st plural and
+    (d) the 3rd singular: cells of the same verb in another person or number.)
 
 Score /10; 7 passes.
 
@@ -1155,7 +1187,7 @@ does not apply: the fruit does not go to the doer; 1.3.78 · 1.4.99 · 6 पच�
 sign: **पचति**. The Kāśikā's *pacanti pācakāḥ*: the cooks cook for another.
 
 (2) पच → पचते, as §13's रुच table: 0 पच — 1.3.1 · 1 पच् — Teacher Notes · 1.3.3 · 1.3.2 · 1.3.9
-[the LSK lists पच among the ubhayapadins] · 2 पच् + लट् → पच् + ल् — 3.2.123 · 1.3.3 · 1.3.9 · 3 the
+[the LSK lists पच among the ubhayapadins] · 2 पच् + लट् → पच् + ल् — 3.2.123 · 1.3.2 · 1.3.3 · 1.3.9 · 3 the
 last nine — 1.3.72 [Q] · 1.4.100 [D]: the fruit goes to the doer · 4 पच् + त — 3.4.78 · 1.4.108 ·
 1.4.22 · 5 पच् + ते — 3.4.79 [D] · 6 [preview: c03.l02] पच् + अ + ते — the class sign · 7
 **पचते**. No line like रोचते's step 7: the vowel of पच् is अ, not इ, उ or ऋ, so lesson 2's guṇa has nothing
@@ -1182,7 +1214,7 @@ prathama, singular, Ā · 5 रुच् + ते — 3.4.79 टित आत्
 nothing dropped · 2 भू + लट् — 3.1.91 · 3.2.123 · 3 भू + ल् — 1.3.2 · 1.3.3 · 1.3.9 · 4 भू + ल् →
 one of the eighteen — 3.4.77 · 3.4.78 · 5 the first nine — 1.3.78 · 1.4.99 · 6 भू + तिप् — 1.4.101
 · 1.4.102 · 1.4.108 · 1.4.22 · 7 भू + ति — 1.3.3 · 1.3.9 · then the printed line: (c03.l02) शप् and
-guṇa → **भवति**.
+guṇa, then 6.1.78 [owned] → **भवति**.
 
 Accept the marker steps merged ("1.3.2 + 1.3.9"), and steps 4–6 given as one line with all their
 numbers. Score /5 per item, /30 in all: one point each for the root with its markers (steps 0–1),
@@ -1202,12 +1234,12 @@ jāyate.)
 (6) कुरुत इत्यत्र कृञिति धातुः। (kuruta ity atra kṛñ iti dhātuḥ.) — pause: कुरुते इति अत्र कृञ्
 इति धातुः। (kurute iti atra kṛñ iti dhātuḥ.)
 (1) and (5) take both sets: पचन्ते or यजन्ते when the seers act for themselves (1.3.72; the
-Kāśikā's *yajate*), पचन्ति or यजन्ति when they act for others (*yajanti yājakāḥ*). Accept either set
-with the matching reason. Accept any correct word order with correct seams. Score /12: one for
-each joined line, one for each pause form.
+Kāśikā's *yajate*), पचन्ति or यजन्ति when they act for others (*yajanti yājakāḥ*). Accept either set:
+the English does not say for whom they act. Accept any correct word order with correct seams.
+Score /12: one for each joined line, one for each pause form.
 
-5: as printed in §6 and §13; the teacher listens for the seams, and for पचति kept before the comma
-of sentence 2. Not scored.
+5: as printed in §6 and §13; listen back to your recording for the seams, and for पचति kept before
+the comma of sentence 2. Not scored.
 
 6: the readings of §9 drill 1, in order; self-check against the audio track
 `planned:assets/audio/volume-4/v4c03l01-derivation-read.mp3`; not scored.
@@ -1238,18 +1270,19 @@ so the first. चिन्तयति you keep in the first set, as you learned
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
 - +1 day: which set? — for भवति, पठति, गच्छति, रोचते, लभते, मन्यते, जायते, करोति, पचति and यजति, say from the pada card whether the root takes parasmaipada, ātmanepada or both, and name the rule (1.3.78, 1.3.12 or 1.3.72); v4.c03.l02's Station 0 runs exactly this.
-- +1 week: पठति to step 7 — derive, according to Pāṇini, in table form, पठ → पठ् + ति (steps 0–7 of the पठति table), each step with its sūtra; v4.c03.l03's Station 0 runs exactly this.
+- +1 week: पठति to step 7 — derive, according to Pāṇini, in table form, पठ → पठ् + ति [steps 0–7 of the पठति table], each step with its sūtra; v4.c03.l03's Station 0 runs exactly this.
 
 ## 21. Homework
 
-गृहकार्यम् — 45 minutes in all.
+गृहकार्यम् — 48 minutes in all.
 
 1. **(12 min)** §18 exercise 3: the six derivations in table form, रुच → रोचते finished from §13.
 2. **(8 min)** §18 exercise 4: the six sentences written, joined, the pause form beneath; then
    said aloud.
 3. **(2 min)** §18 exercise 6: the पठति table read aloud, recorded.
 4. **(3 min)** §15: read the two cards — the pada card and the eighteen, mapped — once, slowly.
-5. **(4 min)** §16 aloud, both roles, joined, no pause at any seam.
+5. **(7 min)** §16 aloud, both roles, joined, no pause at any seam; then §18 exercise 5, model
+   sentences 1–6 aloud, joined and then in the pause form, recorded.
 6. **(3 min)** §17 read aloud, and its eight verbs sorted.
 7. **(7 min)** The §19 quiz, from memory.
 8. **(2 min)** The key (§19): check the quiz, then glance down the keys of exercises 1–4. Every
@@ -1267,21 +1300,36 @@ Ask: "Two families of endings, and one verb in both. Where does the family come 
 letters of पठति say 'now'?" Collect guesses — "the meaning", "the dictionary" — and leave them up
 until the pada table answers them.
 
-**Timing plan (45 min):** 0–7 Station 0, two items (item 1 3, item 2 4) · 7–9 the three §3
-prompts, aloud (2) · 9–11 the Hook (2): पठति, रोचते, करोति · कुरुते · 11–17 the root and the
+**Timing plan (45 min):** 0–9 Station 0, two items (item 1 5, item 2 4) · 9–11 the three §3
+prompts, aloud (2) · 11–13 the Hook (2): पठति, रोचते, करोति · कुरुते · 13–19 the root and the
 l-affix: 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78 with their padaccheda (4); the eighteen on the
-board in threes (2) · 17–23 exercise 1 (6) · 23–28 1.3.12 and 1.3.72 [Q, padaccheda], 1.3.78 and
-1.4.99–100 (4); the 1.x box read (1) · 28–35 derivation (a), पठति, with the teacher, the
-person-and-number chain drilled (7) · 35–40 exercise 2 (5) · 40–42 रुच → रोचते begun on the board,
-steps 0–2 (2) · 42–45 exercise 5 (3). Exercises 3, 4 and 6, the §15 cards, §16, §17 with its sort,
-the §19 quiz and the real-world task are homework (§21); exercises 1 and 2 are checked at home
+board in threes (2) · 19–25 exercise 1 (6) · 25–30 1.3.12 and 1.3.72 [Q, padaccheda], 1.3.78
+and 1.4.99–100 (4); the 1.x box read (1) · 30–38 derivation (a), पठति, with the teacher,
+1.4.101, 1.4.102, 1.4.108 and 1.4.22 read in it and the person-and-number chain drilled (8) ·
+38–43 exercise 2 (5) · 43–45 रुच → रोचते begun on the board, steps 0–2 (2). Exercises 3, 4, 5
+and 6, the §15 cards, §16, §17 with its sort, the §19 quiz and the real-world task are homework
+(§21); exercises 1 and 2 are checked at home
 against the key. §16 is not read in class; 3.4.79 is named in class only as the step the रुच table
 reaches, and read in full at home (§8, exercise 3).
 
-**Station 0, in class.** Item 1 is three minutes: watch for step 4 given as 8.4.1 alone, without
+**Exercise 2 and the +1-day booking.** In class the pada card of §15 is open: exercise 2 has the
+learner find each verb on the card and say its set and the rule that gives it — practice in
+reading the card, which prints each verb under its set and rule, and a marker only beside करोति
+and नयति. At the +1-day station (v4.c03.l02 §3) the card is closed: there "say from the pada
+card" means recalling what the card says. 1.3.12 and 1.3.72 are Q and 1.3.78 is B, so their
+numbers may be asked closed-book; a D-tier number never is.
+
+**Station 0, in class.** Item 1 is five minutes, four to write and one to mark: watch for step 4
+given as 8.4.1 alone, without
 8.4.2, and for अतः said to come from the rule just above 7.1.12 (it is carried from 7.1.9). Item 2
 is four minutes: the slip to watch for is 8.3.59's bracket line given without its two headings;
 accept the bracket lines in any order of their parts. Log both scores.
+
+**Exercise 2 and the +1-day item.** Exercise 2 is done with the pada card open: it practises
+reading a verb's set and its rule off the card, and the root's marker off its Dhātupāṭha entry
+where §4 prints one (णीञ्). The +1-day item that lesson 2 runs asks the same of ten verbs with the
+card closed, from memory; 1.3.12 and 1.3.72 are Q and 1.3.78 is B, so their numbers may be asked
+closed-book.
 
 **Board work.** Left: the root box पठ, an arrow to ल्, the ल् fanning into two rows of nine — the
 from-ल्-to-ति image. Middle: the pada table's five roots with their markers circled, the three
@@ -1309,11 +1357,13 @@ prints a source number as the data file gives it):
   इतश्च** — owned D, c02.l02; the इ of अगच्छत् too. The data file's `an` of 3.4.100 lacks
   परस्मैपदेषु, which the Kāśikā carries (*parasmaipadeṣu ity eva*).
 - **1.4.105 युष्मद्युपपदे समानाधिकरणे स्थानिन्यपि मध्यमः** and **1.4.107 अस्मद्युत्तमः** — the
-  rules for "you" and "I"; the Kāśikā's examples *tvaṃ pacasi* and *ahaṃ pacāmi* (lines 7478,
+  rules for "you" and "I"; the Kāśikā's examples *tvaṃ pacasi* and *aham pacāmi* (lines 7478,
   7514). **1.4.21 बहुषु बहुवचनम्** — the plural, for many: it chooses झि and झ.
 - **1.3.17 नेर्विशः** — one more pada rule: विश् takes the second set after नि: न्यविशत. Only if
-  asked. **1.3.28 आङो यमहनः** and **1.3.76 अनुपसर्गाज्ज्ञः** — only if asked: the second set of
-  हन् after आ, and of ज्ञा, both limited; they explain the 1.x card's other two slips (below).
+  asked. **1.3.28 आङो यमहनः** — only if asked: the second set of हन् after आ, which explains the
+  1.x card's other slip (below). **1.3.76 अनुपसर्गाज्ज्ञः** — only if asked: according to the
+  Kāśikā, ज्ञा without a prefix takes the second set when the fruit goes to the doer — why the
+  card is right to list ज्ञा among the roots of both sets (below).
 
 **The headings replaced by "(further headings: Teacher Notes)":** 3.1.3 आद्युदात्तश्च, over 3.1.91,
 3.2.123, 3.4.77, 3.4.78 and 3.4.79; 1.4.1 आकडारात् एका संज्ञा, as the data file names the heading,
@@ -1332,14 +1382,19 @@ other endings (1.2.4). The Laghusiddhāntakaumudī prints neither a nasal sign n
 Dhātupāṭha entries: the nasal अ is the tradition's declaration, and the accent that decides between
 1.3.12 and 1.3.72 is not shown. Do not supply it in class: the course names no accent for any
 root, and the accent words in the two sūtras, in the heading 3.1.3 and in the Kāśikā's lines on
-them are read as names only.
+them are read as names only. The entries of §4 are copied from the e-text (lines 1299, 1797,
+1820, 1821, 2257, 2363) with one printing change: line 1821 spaces *devapūjā
+saṅgatikaraṇadāneṣu*, one compound, printed here as one word.
 
 **The 1.x card (IR-020; pp. 75–76).** The quotations of §8 Step 4 were read from the page images,
 rendered at 170 dpi: p. 75, "Action benefits oneself", "Action benefits someone else" and "Some
 roots take ONLY parasmaipada (परस्मैपदी):" over "गम्, भू, अस्, कृ, हन्"; p. 76, "Some take BOTH
 (उभयपदी):" over "कृ, यज्, हन्, ज्ञा". Not printed in learner text: the same card lists हन् both as
 parasmaipada only and as both — हन्ति is parasmaipada, its second set only after आ [1.3.28, not
-taught]; and ज्ञा among the roots of both sets, whose second set is limited [1.3.76, not taught].
+taught]. Its listing of ज्ञा among the roots of both sets is no slip: Apte marks ज्ञा 9 U.
+[REF:apte1890 s.v. ज्ञा]; Monier-Williams gives "cl. 9. P. Ā."
+[REF:monierwilliams1899 s.v. 1. jñā]; and 1.3.76 [not taught] gives ज्ञा without a prefix the
+second set when the fruit goes to the doer.
 
 **Commentary lines behind the lesson** — text of the GRETIL e-text; IAST as the e-text has it, with
 the corrections listed (none other is made):
@@ -1385,8 +1440,8 @@ the corrections listed (none other is made):
   parasmaipada-niyamaḥ / tat sarvataḥ prāpnoti, tad-artham idam ucyate / yebhyo dhātubhyo yena
   viśeṣaṇena ātmanepadam uktaṃ tato yad-anyat sa śeṣaḥ / śeṣāt kartari parasmaipadaṃ bhavati /
   śeṣād eva na anyasmāt / anudāttaṅita ātmanepadam uktam -- āste /* — corrections: *prasmaipada* →
-  *parasmaipada*; *aste* → *āste*. "'The rest' is every root other than those for which the
-  ātmanepada was stated."
+  *parasmaipada*; *aste* → *āste*. "'The rest' is whatever is other than the roots after which,
+  and the qualification with which, the ātmanepada was stated."
 - **On 1.4.99** (lines 7380–7385): *laḥ iti ṣaṣṭhī ādeśa-apekṣā / la-ādeśāḥ parasmaipada-sañjñā
   bhavanti / tip, tas, jhi / sip, thas, tha / mip, vas, mas / …* — corrections: *tap* → *tip*;
   *jha* → *jhi*; and, in the line's last sentence, *prasmaipadeṣu* → *parasmaipadeṣu*.
@@ -1485,8 +1540,9 @@ reads the cue, not the English spelling.
 
 - **00:00** paṭhati [pɐʈʰɐt̪i], rocate [ɾoːt͡ɕɐt̪eː], karoti [kɐɾoːt̪i] and kurute [kuɾut̪eː]. Two
   families of endings, and one verb in both. Where does the family come from?
-- **00:45** Every verb starts as a root, a dhātu [d̪ʱɑːt̪u], and an affix with an l in its name:
-  laṭ [lɐʈ], for the present. Its a and its ṭ are markers. What is left is l.
+- **00:45** In Pāṇini's grammar every verb starts as a root, a dhātu [d̪ʱɑːt̪u], and an affix
+  with an l in its name: laṭ [lɐʈ], for the present. Its a and its ṭ are markers. What is left
+  is l.
 - **01:45** In place of l comes one of eighteen endings: tip, tas, jhi, and on to mahiṅ. You know
   them all already: -ti, -taḥ, -anti … -te. Only the markers are new.
 - **02:45** Which nine? The root's marker decides. ruca [ɾut͡ɕɐ] is marked for the second set:
@@ -1556,8 +1612,8 @@ reads the cue, not the English spelling.
   58. Labels, never rows: the roots and Dhātupāṭha entries, the l-affix and affix names, तिङ्,
   तिङन्तम्, परस्मैपदम्, आत्मनेपदम्, the person and number names, इत्, ञकारः, every sūtra-internal
   and commentary form. Display: कुरुते; हृदयम्, glossed. Joined spellings export as `sandhi_of`
-  their pause-form words. Error forms: \*पठते — §12 mistake 5 — starred; लभन्ति and लभन्तु as §19
-  Q10's wrong options, named error forms in the key. The §19 key and the §3 Station 0 key stay in
+  their pause-form words. Error forms: \*पठते — §12 mistake 5 — starred; §19 Q10's wrong options
+  are owned cells of लभते in other persons and numbers. The §19 key and the §3 Station 0 key stay in
   `<details>` in all renders.
 - **Verification flags for Pass C:** every sūtra number, text and padaccheda case against
   `corp/ashd/sutraani/data.txt` — tools 1.3.12, 1.3.72, 1.3.1, 3.1.91, 3.2.123, 3.4.77, 3.4.78,
@@ -1567,12 +1623,13 @@ reads the cue, not the English spelling.
   3.1.3, 1.4.1 (looked up by script); every bracket line of §8 against the `an` and `ad` fields; the
   commentary lines of §22 at their line numbers, with their corrections (the Kāśikā on 3.4.77 read
   through line 25125); the Dhātupāṭha entries of §4 and the LSK's groupings (lines 1703, 1810,
-  1840); Whitney §602 and §553a; the 1.x pp. 75–76 lines against the page images; MW s.v. dhātu,
+  1840); Whitney §602, §553a and §529; the 1.x pp. 75–76 lines against the page images; MW s.v. 1. dhātu,
   abhi-prāya, 2. pac, 1. yaj, bhaya and Apte s.v. धातुः, अभिप्राय, भयम्, pac, yaj; the
   Pañcatantra's *nijābhiprāyam* (`vispancu.htm` line 5285); the DCS count of भय; the Hindi of §7,
   the objectives and every gloss at Pass B; every joined line of §6, §13, §16, §17 and §19 against
   the Volume 3 Chapter 4 maps.
-- **Register audit:** FACT ×2 callouts (§5 Whitney §602; §5 Whitney §553) · TRADITION ×1 callout
+- **Register audit:** FACT ×3 callouts (§5 Whitney §602; §5 Whitney §553; §5 Whitney §529) ·
+  TRADITION ×1 callout
   (§4 the Dhātupāṭha and the Kāśikā); the sūtras' English lines in §8, the box of §15, the pada
   table and the 1.x box of §8 Step 4 are TRADITION in plain text, attributed to Pāṇini, the Kāśikā
   and the Laghusiddhāntakaumudī · HISTORY ×0 callouts (the Laghusiddhāntakaumudī's date is one keyed
