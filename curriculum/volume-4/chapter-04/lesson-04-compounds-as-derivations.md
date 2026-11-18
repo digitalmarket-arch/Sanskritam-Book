@@ -1325,7 +1325,7 @@ vigraha with its meaning; (6) one point. A slip sends you to §8 Steps 5–6 and
 
 Spaced review (distributed practice helps retention [REF:cepeda2006]):
 
-- +1 day: six compounds — make the compound of each phrase and name its kind: (1) राज्ञः पुरुषः (2) जन्मनः दिनम् (3) कपोतानां राजा (4) महान् राजा (5) सिंहश्च मूषकश्च (6) नीलः कण्ठो यस्य सः; v4.c04.l05's Station 0 runs exactly this.
+- +1 day: six compounds — make the compound of each phrase and name its kind: (1) राज्ञः पुरुषः · (2) जन्मनः दिनम् · (3) कपोतानाम् राजा · (4) महान् राजा · (5) सिंहः च मूषकः च · (6) नीलः कण्ठः यस्य सः; v4.c04.l05's Station 0 runs exactly this.
 - +1 week: one compound, two readings — give the vigraha of इन्द्रशत्रुः read as a tatpuruṣa and read as a bahuvrīhi, and say in English what each means; v4.c05.l01's Station 0 runs exactly this.
 
 ## 21. Homework

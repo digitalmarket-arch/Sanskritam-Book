@@ -664,7 +664,7 @@ write, one to mark); the minutes come out of the class plan of the running lesso
 | S0-fd | v4.c04.l02 | v4.c04.l04 | "+1 week: derive आगत्य — derive, according to Pāṇini, in table form, आ + गम् + क्त्वा → आगत्य, each step with its sūtra; v4.c04.l04's Station 0 runs exactly this." | 5 |
 | S0-fe | v4.c04.l03 | v4.c04.l04 | "+1 day: six new words — make, in the nominative singular, the -ता word of एक, the -त्व word of गुरु and of बाल, the -वत् word of धन, the -मत् word of श्री, and the -इन् word of बल; v4.c04.l04's Station 0 runs exactly this." | 3 |
 | S0-ff | v4.c04.l03 | v4.c04.l05 | "+1 week: derive पाणिनीयम् — derive, according to Pāṇini, in table form, पाणिनि + छ → पाणिनीयम्, each step with its sūtra; v4.c04.l05's Station 0 runs exactly this." | 5 |
-| S0-fg | v4.c04.l04 | v4.c04.l05 | "+1 day: six compounds — make the compound of each phrase and name its kind: (1) राज्ञः पुरुषः (2) जन्मनः दिनम् (3) कपोतानां राजा (4) महान् राजा (5) सिंहश्च मूषकश्च (6) नीलः कण्ठो यस्य सः; v4.c04.l05's Station 0 runs exactly this." | 4 |
+| S0-fg | v4.c04.l04 | v4.c04.l05 | "+1 day: six compounds — make the compound of each phrase and name its kind: (1) राज्ञः पुरुषः · (2) जन्मनः दिनम् · (3) कपोतानाम् राजा · (4) महान् राजा · (5) सिंहः च मूषकः च · (6) नीलः कण्ठः यस्य सः; v4.c04.l05's Station 0 runs exactly this." | 4 |
 | S0-fh | v4.c04.l04 | v4.c05.l01 | "+1 week: one compound, two readings — give the vigraha of इन्द्रशत्रुः read as a tatpuruṣa and read as a bahuvrīhi, and say in English what each means; v4.c05.l01's Station 0 runs exactly this." | 2 |
 | S0-fi | v4.c04.l05 | v4.c05.l01 | "+1 day: two absolutives in one sentence — join each set of three into one sentence, making the first two verbs absolutives: (1) बालको विद्यालयं गच्छति। बालको मित्रं पश्यति। बालको हसति। (2) पान्थो ग्रामं प्रविशति। पान्थः कथां शृणोति। पान्थो गृहं गच्छति। (3) माता गृहमागच्छति। माता पुत्राय फलं ददाति। माता स्वपिति। v4.c05.l01's Station 0 runs exactly this." | 4 |
 | S0-fj | v4.c04.l05 | v4.c05.l02 | "+1 week: participles — write the -त form, the -तवत् form and the present participle, masculine nominative singular, of पतति, कथयति, खादति, लिखति, जानाति and गृह्णाति; v4.c05.l02's Station 0 runs exactly this." | 4 |
@@ -2365,8 +2365,8 @@ of a compound with two readings is accepted where no context decides (the rule s
 ### §20 Revision — the bookings
 
 - +1 day: six compounds — make the compound of each phrase and name its kind: (1) राज्ञः पुरुषः
-  (2) जन्मनः दिनम् (3) कपोतानां राजा (4) महान् राजा (5) सिंहश्च मूषकश्च (6) नीलः कण्ठो यस्य सः; v4.c04.l05's
-  Station 0 runs exactly this.
+  · (2) जन्मनः दिनम् · (3) कपोतानाम् राजा · (4) महान् राजा · (5) सिंहः च मूषकः च · (6) नीलः कण्ठः यस्य सः;
+  v4.c04.l05's Station 0 runs exactly this.
 - +1 week: one compound, two readings — give the vigraha of इन्द्रशत्रुः read as a tatpuruṣa and read as
   a bahuvrīhi, and say in English what each means; v4.c05.l01's Station 0 runs exactly this.
 
@@ -2453,7 +2453,7 @@ begins, and collected at minute 27, when it ends: task C is the one task with th
 
 > **Station 0 — स्मरणम्**
 > - +1 day: six compounds — make the compound of each phrase and name its kind: (1) राज्ञः पुरुषः
->   (2) जन्मनः दिनम् (3) कपोतानां राजा (4) महान् राजा (5) सिंहश्च मूषकश्च (6) नीलः कण्ठो यस्य सः;
+>   · (2) जन्मनः दिनम् · (3) कपोतानाम् राजा · (4) महान् राजा · (5) सिंहः च मूषकः च · (6) नीलः कण्ठः यस्य सः;
 >   v4.c04.l05's Station 0 runs exactly this. **(4 min)**
 > - +1 week: derive पाणिनीयम् — derive, according to Pāṇini, in table form, पाणिनि + छ → पाणिनीयम्, each
 >   step with its sūtra; v4.c04.l05's Station 0 runs exactly this. **(5 min: 4 to write, 1 to mark)**
